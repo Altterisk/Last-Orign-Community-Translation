@@ -32,7 +32,7 @@
     "korean": "정밀 사격 : 추가 피해1"
   },
   "1000100009": {
-    "english": "Leg Snare: Reduces AP recovery / Immobilizes target",
+    "english": "Leg Snare: Reduces SPD / Immobilizes target",
     "korean": "발목 잡기 : 행동력 회복 감소 / 이동 불가"
   },
   "1000100010": {
@@ -616,7 +616,7 @@
     "korean": "정밀 분석 : 인접 아군 공격력 / 치명타 증가 / 방어 관통 효과"
   },
   "1000100155": {
-    "english": "Computation Optimization: Adjacent robots gain Action Power / AP increase",
+    "english": "Computation Optimization: Adjacent robots gain SPD / AP increase",
     "korean": "연산 최적화 : 인접 로봇 행동력 / AP 증가"
   },
   "1000100156": {
@@ -660,7 +660,7 @@
     "korean": "플라즈마 방출 : 피해량 증가"
   },
   "1000100166": {
-    "english": "Enhanced Strength: Action Power increase / Incoming damage reduced",
+    "english": "Enhanced Strength: SPD increase / Incoming damage reduced",
     "korean": "강화 근력 : 행동력 증가 / 받는 피해 감소"
   },
   "1000100167": {
@@ -676,7 +676,7 @@
     "korean": "럭키 샷 : 피해량 증가 / AP 감소"
   },
   "1000100170": {
-    "english": "Relief: ATK Power / ACU/ CRIT / Action Power increase",
+    "english": "Relief: ATK Power / ACU/ CRIT / SPD increase",
     "korean": "안도감 : 공격력 / 적중 / 치명타 / 행동력 증가"
   },
   "1000100171": {
@@ -744,7 +744,7 @@
     "korean": "특수 코팅 장갑 : 방어력 / 속성 / 효과 저항 증가"
   },
   "1000100187": {
-    "english": "Cruising Mode: Protects Light/Heavy allies. Increases Heavy units' ATK Power / Action Power",
+    "english": "Cruising Mode: Protects Light/Heavy allies. Increases Heavy units' ATK Power / SPD",
     "korean": "순항 모드 : 경장/중장형 아군 보호. 중장형 공격력/행동력 증가"
   },
   "1000100188": {
@@ -836,15 +836,15 @@
     "korean": "돌격 명령 : AP 변경 / 해로운 효과 해제"
   },
   "1000100210": {
-    "english": "Attack Command: ATK Power / ACU/ Action Power increase",
+    "english": "Attack Command: ATK Power / ACU/ SPD increase",
     "korean": "공격 지휘 : 공격력 / 적중 / 행동력 증가"
   },
   "1000100211": {
-    "english": "Attack Command (Defense): Reduced damage taken / DEF/ Action Power increase",
+    "english": "Attack Command (Defense): Reduced damage taken / DEF/ SPD increase",
     "korean": "공격 지휘 (방어) : 받는 피해 감소 / 방어력 / 행동력 증가"
   },
   "1000100212": {
-    "english": "Cold Analysis: Action Power increase / When scouting, AP increase",
+    "english": "Cold Analysis: SPD increase / When scouting, AP increase",
     "korean": "냉철한 분석 : 행동력 증가 / 정찰 시, AP 증가"
   },
   "1000100213": {
@@ -864,7 +864,7 @@
     "korean": "틈새 노리기 : 방어 관통 효과"
   },
   "1000100217": {
-    "english": "Rising Morale: ATK Power / CRIT / Action Power increase",
+    "english": "Rising Morale: ATK Power / CRIT / SPD increase",
     "korean": "전의 고양 : 공격력 / 치명타 / 행동력 증가"
   },
   "1000100218": {
@@ -876,7 +876,7 @@
     "korean": "HVAP탄 : 방어 관통 / 치명타 시, 피해량 증가"
   },
   "1000100220": {
-    "english": "Bombardment Formation: Increases Action Power of Heavy attackers in the same row",
+    "english": "Bombardment Formation: Increases SPD of Heavy attackers in the same row",
     "korean": "포격 대열 : 인접 열 중장 공격기 행동력 증가"
   },
   "1000100221": {
@@ -928,7 +928,7 @@
     "korean": "광학 미채 발동 : 광학 미채 상태로 전환"
   },
   "1000100233": {
-    "english": "Optical Camouflage: ATK Power / CRIT increase, reduced damage taken / Action Power decrease",
+    "english": "Optical Camouflage: ATK Power / CRIT increase, reduced damage taken / SPD decrease",
     "korean": "광학 미채 : 공격력 / 치명타 증가, 받는 피해 / 행동력 감소"
   },
   "1000100234": {
@@ -940,7 +940,7 @@
     "korean": "요인 경호 : 지정 대상 보호 / 피해 무효 1회 / 공격력 / 적중 증가"
   },
   "1000100236": {
-    "english": "Masochism: Action Power increase / Reduced damage taken / Increased resistance to effects",
+    "english": "Masochism: SPD increase / Reduced damage taken / Increased resistance to effects",
     "korean": "피학성향 : 행동력 증가 / 받는 피해 감소 / 효과 저항 증가"
   },
   "1000100237": {
@@ -948,7 +948,7 @@
     "korean": "가학성향 : 적 처치 또는 아군 사망 시 공격력 / 치명타 증가"
   },
   "1000100238": {
-    "english": "Stalking: Protects designated target / ATK Power / Action Power increase",
+    "english": "Stalking: Protects designated target / ATK Power / SPD increase",
     "korean": "스토킹 : 지정 대상 보호 / 공격력 / 행동력 증가"
   },
   "1000100239": {
@@ -968,7 +968,7 @@
     "korean": "모범 교사 : 전투 종료 시, 아군 획득 경험치 증가"
   },
   "1000100243": {
-    "english": "Armor Deployment Mode: Protects Light/Heavy allies / Heavy unit ATK Power / Action Power increase",
+    "english": "Armor Deployment Mode: Protects Light/Heavy allies / Heavy unit ATK Power / SPD increase",
     "korean": "장갑 전개 모드 : 경장/중장형 아군 보호. 중장형 공격력/행동력 증가"
   },
   "1000100244": {
@@ -1152,7 +1152,7 @@
     "korean": "파쇄 돌격 : 방어 관통 / 표식 대상에게 피해 증가"
   },
   "1000100289": {
-    "english": "Heating Up: When attacked, ATK Power / Action Power / EVA increase",
+    "english": "Heating Up: When attacked, ATK Power / SPD / EVA increase",
     "korean": "예열 개시 : 적 공격 시, 공격력 / 행동력 / 회피 증가"
   },
   "1000100290": {
@@ -1168,19 +1168,19 @@
     "korean": "돌진 : 뒤에서 공격할수록 피해 증가"
   },
   "1000100293": {
-    "english": "It's a Speed Match!: Mobile attack / Protects support units / ATK Power / Critical Rate / Action Power increase",
+    "english": "It's a Speed Match!: Mobile attack / Protects support units / ATK Power / Critical Rate / SPD increase",
     "korean": "속도 승부야! : 기동형 공격 / 지원기 보호 / 공격력 / 치명타 / 행동력 증가"
   },
   "1000100294": {
-    "english": "Where Are You Looking?: On evade, Action Power increase / At 3 stacks, ATK / CRIT increase",
+    "english": "Where Are You Looking?: On evade, SPD increase / At 3 stacks, ATK / CRIT increase",
     "korean": "어딜 보는거야? : 회피 시, 행동력 증가 / 3중첩 시, 공격력 / 치명타 증가"
   },
   "1000100295": {
-    "english": "Unstoppable Rush: Removes Action Power / EVA reduction effects, increases EVA",
+    "english": "Unstoppable Rush: Removes SPD / EVA reduction effects, increases EVA",
     "korean": "멈출 수 없는 질주 : 행동력 / 회피 감소 효과 해제, 회피 증가"
   },
   "1000100296": {
-    "english": "It's a Speed Match!: Allies' ATK Power / CRIT / Action Power increase",
+    "english": "It's a Speed Match!: Allies' ATK Power / CRIT / SPD increase",
     "korean": "속도 승부야! : 아군 공격력 / 치명타 / 행동력 증가"
   },
   "1000100297": {
@@ -1260,7 +1260,7 @@
     "korean": "직격 : 표식 / 이동 불가 대상에게 추가 피해"
   },
   "1000100316": {
-    "english": "Reload Clip: On enemy kill, Action Power increase",
+    "english": "Reload Clip: On enemy kill, SPD increase",
     "korean": "클립 재장전 : 적 처치 시, 행동력 증가"
   },
   "1000100317": {
@@ -1340,7 +1340,7 @@
     "korean": "실험 대상 모집해요! : 강화 효과 제거 (100%)"
   },
   "1000100336": {
-    "english": "Corrosion: Deals damage each round, reduces DEF and AP recovery",
+    "english": "Corrosion: Deals damage each round, reduces DEF and SPD",
     "korean": "부식 : 매 라운드 지속 피해 / 방어력 / 행동력 회복 감소"
   },
   "1000100337": {
@@ -1364,7 +1364,7 @@
     "korean": "고성능 레이더 : 적 진영에 가까울수록 회피 증가"
   },
   "1000100342": {
-    "english": "Electric Shock: Removes AP / EVA  reduction / Action Power increase effects",
+    "english": "Electric Shock: Removes AP / EVA  reduction / SPD increase effects",
     "korean": "감전 : AP / 회피 감소 / 행동력 증가 효과 제거"
   },
   "1000100343": {
@@ -1376,7 +1376,7 @@
     "korean": "파쇄 강타 : 대 중장 피해량 / 대 경장 피해량 증가"
   },
   "1000100345": {
-    "english": "Assault Support: Attackers / Defenders / Mongoose unit attack support / ATK Power / ACU/ Action Power increase",
+    "english": "Assault Support: Attackers / Defenders / Mongoose unit attack support / ATK Power / ACU/ SPD increase",
     "korean": "돌격 지원 : 공격기 / 보호기 / 몽구스 대원 공격 지원 / 공격력 / 적중 / 행동력 증가"
   },
   "1000100346": {
@@ -1404,7 +1404,7 @@
     "korean": "보병 지원 : 중장형 아군 AP 증가"
   },
   "1000100352": {
-    "english": "Moving Fire: Action Power increase",
+    "english": "Moving Fire: SPD increase",
     "korean": "기동간 사격 : 행동력 증가"
   },
   "1000100353": {
@@ -3288,11 +3288,11 @@
     "korean": "용살자의 징표 : 효과 발동률 증가 Lv.10"
   },
   "1000100823": {
-    "english": "Defense Command: Reduced damage taken / DEF / Action Power increase",
+    "english": "Defense Command: Reduced damage taken / DEF / SPD increase",
     "korean": "방어 지휘 : 받는 피해 감소 / 방어력 / 행동력 증가"
   },
   "1000100824": {
-    "english": "Defense Command (Offense): ATK Power / ACU / Action Power increase",
+    "english": "Defense Command (Offense): ATK Power / ACU / SPD increase",
     "korean": "방어 지휘 (공격) : 공격력 / 적중 / 행동력 증가"
   },
   "1000100825": {
@@ -3548,7 +3548,7 @@
     "korean": "제네레이터 쇼트 : 피격 시, 일정 확률로 AP 감소 / 행동 불능"
   },
   "1000100888": {
-    "english": "Warrior's Spear: Taunt / ATK Power / Action Power reduction / On critical hit, damage increase",
+    "english": "Warrior's Spear: Taunt / ATK Power / SPD reduction / On critical hit, damage increase",
     "korean": "전사의 창 : 도발 / 공격력 / 행동력 감소 / 치명타 시, 피해량 증가"
   },
   "1000100889": {

@@ -176,7 +176,7 @@
     "korean": "리벤져 : 공격력{0}%"
   },
   "1000103045": {
-    "english": "Something behind my back... : {0}% Action Power",
+    "english": "Something behind my back... : {0}% SPD",
     "korean": "등 뒤에 뭔가... : 행동력{0}%"
   },
   "1000103046": {
@@ -248,11 +248,11 @@
     "korean": "운디네 최고-! : 공격력{0}%"
   },
   "1000103063": {
-    "english": "Pride and Fury: {0}% Action Power",
+    "english": "Pride and Fury: {0}% SPD",
     "korean": "오만과 분노 : 행동력{0}%"
   },
   "1000103064": {
-    "english": "LB Speaker : Action Power{0}%",
+    "english": "LB Speaker : SPD{0}%",
     "korean": "LB 스피커 : 행동력{0}%"
   },
   "1000103065": {
@@ -564,7 +564,7 @@
     "korean": "포착 : 행동 불가"
   },
   "1000103142": {
-    "english": "Shock Bomb : Action Power {0}%",
+    "english": "Shock Bomb : SPD {0}%",
     "korean": "충격탄 : 행동력 {0}%"
   },
   "1000103143": {
@@ -604,7 +604,7 @@
     "korean": "벙커 사출 : 회피 {0}%"
   },
   "1000103152": {
-    "english": "Combat Instinct : Action Power {0}%",
+    "english": "Combat Instinct : SPD {0}%",
     "korean": "전투 본능 : 행동력{0}%"
   },
   "1000103153": {
@@ -616,7 +616,7 @@
     "korean": "외피 장갑 : 피해 무효 {0}회"
   },
   "1000103155": {
-    "english": "Power Transmission : Action Power {0}%",
+    "english": "Power Transmission : SPD {0}%",
     "korean": "동력 전달 : 행동력{0}%"
   },
   "1000103156": {
@@ -628,7 +628,7 @@
     "korean": "출력 증폭 : 공격력{0}%"
   },
   "1000103158": {
-    "english": "Power Core Destruction : Action Power {0}%",
+    "english": "Power Core Destruction : SPD {0}%",
     "korean": "동력로 파괴 : 행동력 {0}%"
   },
   "1000103159": {
@@ -760,7 +760,7 @@
     "korean": "의상 제작 : AP{0}"
   },
   "1000103191": {
-    "english": "Tech Lead: {0}% Action Power (Front)",
+    "english": "Tech Lead: {0}% SPD (Front)",
     "korean": "기술 선도 : 행동력{0}% (전열)"
   },
   "1000103192": {
@@ -804,7 +804,7 @@
     "korean": "극비 신작 연구 : 적중{0}% (후열)"
   },
   "1000103202": {
-    "english": "Super Strength: {0}% Action Power",
+    "english": "Super Strength: {0}% SPD",
     "korean": "초강화 근력 : 행동력{0}%"
   },
   "1000103203": {
@@ -916,7 +916,7 @@
     "korean": "광분 : 방어막 / 피해 감소 무시"
   },
   "1000103230": {
-    "english": "Frenzy: {0}% Action Power",
+    "english": "Frenzy: {0}% SPD",
     "korean": "광분 : 행동력{0}%"
   },
   "1000103231": {
@@ -1080,11 +1080,11 @@
     "korean": "전황 판단 : 방어력 {0}%"
   },
   "1000103271": {
-    "english": "Last Stand : Action Power {0}%",
+    "english": "Last Stand : SPD {0}%",
     "korean": "배수진 : 행동력 {0}%"
   },
   "1000103272": {
-    "english": "Attack Interference : Action Power {0}%",
+    "english": "Attack Interference : SPD {0}%",
     "korean": "공격 훼방 : 행동력{0}%"
   },
   "1000103273": {
@@ -1092,7 +1092,7 @@
     "korean": "칙 약진하기 : 회피율{0}%"
   },
   "1000103274": {
-    "english": "Battle Situation Judgment : Action Power {0}%",
+    "english": "Battle Situation Judgment : SPD {0}%",
     "korean": "전황 판단 : 행동력{0}%"
   },
   "1000103275": {
@@ -1188,7 +1188,7 @@
     "korean": "위장 홀로그램 투영 : 회피{0}%"
   },
   "1000103298": {
-    "english": "Counter Fire : Action Power {0}%",
+    "english": "Counter Fire : SPD {0}%",
     "korean": "대응 사격 : 행동력{0}%"
   },
   "1000103299": {
@@ -1200,7 +1200,7 @@
     "korean": "정밀 선도 사격 : 방어 관통{0}%"
   },
   "1000103301": {
-    "english": "Sticky Bomb Rapid Fire : Action Power {0}%",
+    "english": "Sticky Bomb Rapid Fire : SPD {0}%",
     "korean": "점착탄 연사 : 행동력 {0}%"
   },
   "1000103302": {
@@ -1276,11 +1276,11 @@
     "korean": "듀얼 개시 : 표식 설정"
   },
   "1000103320": {
-    "english": "Dual Acceleration: {0}% Action Power",
+    "english": "Dual Acceleration: {0}% SPD",
     "korean": "듀얼 속행 : 행동력{0}%"
   },
   "1000103321": {
-    "english": "Dual Acceleration?: {0}% Action Power",
+    "english": "Dual Acceleration?: {0}% SPD",
     "korean": "듀얼 속행? : 행동력{0}%"
   },
   "1000103322": {
@@ -1320,7 +1320,7 @@
     "korean": "듀얼리스트! : 방어막 / 피해 감소 무시"
   },
   "1000103331": {
-    "english": "Dual Speed!: {0}% Action Power",
+    "english": "Dual Speed!: {0}% SPD",
     "korean": "듀얼 속행! : 행동력{0}%"
   },
   "1000103332": {
@@ -1344,7 +1344,7 @@
     "korean": "우향선회 : 적중{0}%"
   },
   "1000103337": {
-    "english": "Swollen : Action Power{0}%",
+    "english": "Swollen : SPD{0}%",
     "korean": "우쭐해짐 : 행동력{0}%"
   },
   "1000103338": {
@@ -1432,7 +1432,7 @@
     "korean": "급가속 : 회피{0}% (1회)"
   },
   "1000103359": {
-    "english": "Rapid Acceleration: {0}% Action Power",
+    "english": "Rapid Acceleration: {0}% SPD",
     "korean": "급가속 : 행동력{0}%"
   },
   "1000103360": {
@@ -1556,7 +1556,7 @@
     "korean": "신의 가호 (재림) : 방어막{0}"
   },
   "1000103390": {
-    "english": "Resurrection : Action Power {0}%",
+    "english": "Resurrection : SPD {0}%",
     "korean": "재림 : 행동력{0}%"
   },
   "1000103391": {
@@ -1604,7 +1604,7 @@
     "korean": "방수 장갑 : 받는 피해 감소 {0}%"
   },
   "1000103402": {
-    "english": "Leakage : Action Power {0}%",
+    "english": "Leakage : SPD {0}%",
     "korean": "누수 : 행동력 {0}%"
   },
   "1000103403": {
@@ -1628,7 +1628,7 @@
     "korean": "급속 냉각 : 회피{0}%"
   },
   "1000103408": {
-    "english": "Rapid Cooling : Action Power {0}%",
+    "english": "Rapid Cooling : SPD {0}%",
     "korean": "급속 냉각 : 행동력{0}%"
   },
   "1000103409": {
@@ -1652,7 +1652,7 @@
     "korean": "칙 블로킹 : {0}% 위력으로 반격"
   },
   "1000103414": {
-    "english": "Chic Grit Activation : Action Power {0}%",
+    "english": "Chic Grit Activation : SPD {0}%",
     "korean": "칙 근성 발동 : 행동력{0}%"
   },
   "1000103415": {
@@ -1728,7 +1728,7 @@
     "korean": "고전압 스턴건 : 행동 불가 (경장/중장)"
   },
   "1000103433": {
-    "english": "Intruder Detected : Action Power {0}%",
+    "english": "Intruder Detected : SPD {0}%",
     "korean": "칩입자 발견 : 행동력{0}%"
   },
   "1000103434": {
@@ -1736,7 +1736,7 @@
     "korean": "연산 병렬 처리 : 치명타{0}%"
   },
   "1000103435": {
-    "english": "Parallel Processing : Action Power {0}%",
+    "english": "Parallel Processing : SPD {0}%",
     "korean": "연산 병렬 처리 : 행동력{0}%"
   },
   "1000103436": {
@@ -1808,7 +1808,7 @@
     "korean": "핀 포인트 폭격 : 방어 관통{0}%"
   },
   "1000103453": {
-    "english": "Analysis Complete : Action Power {0}%",
+    "english": "Analysis Complete : SPD {0}%",
     "korean": "분석 완료 : 행동력{0}%"
   },
   "1000103454": {
@@ -1844,7 +1844,7 @@
     "korean": "사이클론 스트림 : 뒤로 {0}칸 밀기"
   },
   "1000103462": {
-    "english": "Frontier Leader: {0}% Action Power",
+    "english": "Frontier Leader: {0}% SPD",
     "korean": "프런티어 리더 : 행동력{0}%"
   },
   "1000103463": {
@@ -1900,7 +1900,7 @@
     "korean": "에너지 컨버트 : 공격력{0}%"
   },
   "1000103476": {
-    "english": "Maximum Charge : Action Power {0}%",
+    "english": "Maximum Charge : SPD {0}%",
     "korean": "최대 충전 : 행동력{0}%"
   },
   "1000103477": {
@@ -2016,7 +2016,7 @@
     "korean": "내부 파괴 : 공격력 {0}% 고정 피해"
   },
   "1000103505": {
-    "english": "Weather Optimization : Action Power {0}% (Mobile)",
+    "english": "Weather Optimization : SPD {0}% (Mobile)",
     "korean": "기상 최적화 : 행동력{0}% (기동)"
   },
   "1000103506": {
@@ -2120,7 +2120,7 @@
     "korean": "포획탄 : 이동 불가"
   },
   "1000103531": {
-    "english": "Situation Response : Action Power {0}%",
+    "english": "Situation Response : SPD {0}%",
     "korean": "상황 대응 : 행동력{0}%"
   },
   "1000103532": {
@@ -2136,7 +2136,7 @@
     "korean": "포획탄 : 강화 효과 해제"
   },
   "1000103535": {
-    "english": "Capture Initiation : Action Power {0}%",
+    "english": "Capture Initiation : SPD {0}%",
     "korean": "포획 개시 : 행동력{0}%"
   },
   "1000103536": {
@@ -2248,7 +2248,7 @@
     "korean": "못 지나가요! : 대상 도발 (하치코)"
   },
   "1000103563": {
-    "english": "Guard Mode! : Action Power {0}%",
+    "english": "Guard Mode! : SPD {0}%",
     "korean": "경비 모드! : 행동력{0}%"
   },
   "1000103564": {
@@ -2364,7 +2364,7 @@
     "korean": "토모와 친구들- : 적중{0}%"
   },
   "1000103592": {
-    "english": "Tomo and Friends- : Action Power {0}%",
+    "english": "Tomo and Friends- : SPD {0}%",
     "korean": "토모와 친구들- : 행동력{0}%"
   },
   "1000103593": {
@@ -2452,7 +2452,7 @@
     "korean": "강자의 품격 : 공격력{0}%"
   },
   "1000103614": {
-    "english": "Joy of Sadism: {0}% Action Power",
+    "english": "Joy of Sadism: {0}% SPD",
     "korean": "가학의 기쁨 : 행동력{0}%"
   },
   "1000103615": {
@@ -2544,7 +2544,7 @@
     "korean": "오만함 : 적중{0}%"
   },
   "1000103637": {
-    "english": "Arrogance: {0}% Action Power",
+    "english": "Arrogance: {0}% SPD",
     "korean": "오만함 : 행동력{0}%"
   },
   "1000103638": {
@@ -2728,7 +2728,7 @@
     "korean": "해충 처리 : AP{0}"
   },
   "1000103683": {
-    "english": "Don’t You Have Business With Me? : Action Power {0}%",
+    "english": "Don’t You Have Business With Me? : SPD {0}%",
     "korean": "나랑 처리할 일이 있지 않아? : 행동력{0}%"
   },
   "1000103684": {
@@ -2780,7 +2780,7 @@
     "korean": "전자기 공명 (펍 헤드) : 공격력{0}%"
   },
   "1000103696": {
-    "english": "Electromagnetic Resonance (Starfish): ATK Power {0}%",
+    "english": "Electromagnetic Resonance (Bulgasari): ATK Power {0}%",
     "korean": "전자기 공명 (불가사리) : 공격력{0}%"
   },
   "1000103697": {
@@ -2868,7 +2868,7 @@
     "korean": "파쇄 미사일 : 피해량{0}% (경장/중장)"
   },
   "1000103718": {
-    "english": "High-Speed Reload Device : Action Power {0}%",
+    "english": "High-Speed Reload Device : SPD {0}%",
     "korean": "고속 장전 장치 : 행동력{0}%"
   },
   "1000103719": {
@@ -2956,7 +2956,7 @@
     "korean": "달의 가호 : 회피{0}%"
   },
   "1000103740": {
-    "english": "Moon's Protection: {0}% Action Power",
+    "english": "Moon's Protection: {0}% SPD",
     "korean": "달의 가호 : 행동력{0}%"
   },
   "1000103741": {
@@ -3120,7 +3120,7 @@
     "korean": "광폭화: 10중첩 시 치명타 {0}%"
   },
   "1000103781": {
-    "english": "Berserk: Action Power {0} at 15 stacks",
+    "english": "Berserk: SPD {0} at 15 stacks",
     "korean": "광폭화: 15중첩 시 행동력 {0}"
   },
   "1000103782": {
@@ -3144,7 +3144,7 @@
     "korean": "앙갚음 : {0}% 위력으로 반격"
   },
   "1000103787": {
-    "english": "Revenge: Action Power {0}",
+    "english": "Revenge: SPD {0}",
     "korean": "앙갚음 : 행동력{0}"
   },
   "1000103788": {
@@ -3252,7 +3252,7 @@
     "korean": "그림자 난무 프로토콜 : 치명타{0}%"
   },
   "1000103814": {
-    "english": "Hehehe...: Action Power {0}%",
+    "english": "Hehehe...: SPD {0}%",
     "korean": "히히히… : 행동력{0}%"
   },
   "1000103815": {
@@ -3608,7 +3608,7 @@
     "korean": "최후의 성전 : 적중{0}%"
   },
   "1000103903": {
-    "english": "The Last Crusade: {0}% Action Power",
+    "english": "The Last Crusade: {0}% SPD",
     "korean": "최후의 성전 : 행동력{0}%"
   },
   "1000103904": {
@@ -3768,7 +3768,7 @@
     "korean": "우회 공격 : 적중{0}%"
   },
   "1000103943": {
-    "english": "Devouring: Action power {0}%",
+    "english": "Devouring: SPD {0}%",
     "korean": "포식 : 행동력 {0}%"
   },
   "1000103944": {
@@ -3784,11 +3784,11 @@
     "korean": "여왕의 존재감 : 공격력{0}% (경장/기동)"
   },
   "1000103947": {
-    "english": "Swamp of Desire: Action power {0}%",
+    "english": "Swamp of Desire: SPD {0}%",
     "korean": "욕망의 늪 : 행동력 {0}%"
   },
   "1000103948": {
-    "english": "Devouring: Action power {0}",
+    "english": "Devouring: SPD {0}",
     "korean": "포식 : 행동력 {0}"
   },
   "1000103949": {
@@ -3844,7 +3844,7 @@
     "korean": "작업용 앵커 : 받는 피해{0}%"
   },
   "1000103962": {
-    "english": "Division of Work: Action Power {0}%",
+    "english": "Division of Work: SPD {0}%",
     "korean": "작업 분담 : 행동력{0}%"
   },
   "1000103963": {
@@ -3944,7 +3944,7 @@
     "korean": "총공격이에요! : 지정 대상 보호 (공격기)"
   },
   "1000103987": {
-    "english": "Was That You?: Action power {0}%",
+    "english": "Was That You?: SPD {0}%",
     "korean": "네가 그랬지? : 행동력{0}%"
   },
   "1000103988": {
@@ -3980,7 +3980,7 @@
     "korean": "네리의 승리-! : 공격력{0}%"
   },
   "1000103996": {
-    "english": "What the heck?: {0}% action power",
+    "english": "What the heck?: {0}% SPD",
     "korean": "어쭈구리? : 행동력{0}%"
   },
   "1000103997": {
@@ -3988,7 +3988,7 @@
     "korean": "수상한 조준기 : 적중{0}%"
   },
   "1000103998": {
-    "english": "Suspicious Auxiliary Device: Action power {0}%",
+    "english": "Suspicious Auxiliary Device: SPD {0}%",
     "korean": "수상한 보조 장치 : 행동력{0}%"
   },
   "1000103999": {

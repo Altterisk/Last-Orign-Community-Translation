@@ -88,7 +88,7 @@
     "korean": "{0} 전기 피해를 주고, 2라운드 동안 대상을 표식으로 설정하고 전기 저항을 감소시킵니다."
   },
   "1002707408": {
-    "english": "Set a beneficial mark on yourself for 5 rounds and increase Cold Resistance / Fire Resistance / Action Power.",
+    "english": "Set a beneficial mark on yourself for 5 rounds and increase Cold Resistance / Fire Resistance / SPD.",
     "korean": "5라운드 동안 자신에게 이로운 표식을 설정하고 냉기 저항 / 화염 저항 / 행동력을 증가시킵니다."
   },
   "1002707409": {
@@ -112,11 +112,11 @@
     "korean": "{0} 전기 피해를 주고, 대상의 AP를 감소시킵니다. 대상이 회피 감소 상태일 시, 추가로 효과 저항을 감소시킵니다."
   },
   "1002707414": {
-    "english": "At the start of a round, the Attack, Critical Hit, and Action Power of yourself and allies within a designated range increase. This effect is additionally applied whenever the Prior Shooter attacks an enemy.",
+    "english": "At the start of a round, the Attack, Critical Hit, and SPD of yourself and allies within a designated range increase. This effect is additionally applied whenever the Prior Shooter attacks an enemy.",
     "korean": "라운드 개시 시, 자신과 지정 범위 아군의 공격력 / 치명타 / 행동력이 증가합니다. 해당 효과는 프라이어 슈터가 적을 공격할 때마다 추가 적용됩니다."
   },
   "1002707415": {
-    "english": "At the start of a round, if you are in a reduced evasion state, your Action Power / Effect Resistance increases significantly.",
+    "english": "At the start of a round, if you are in a reduced evasion state, your SPD / Effect Resistance increases significantly.",
     "korean": "라운드 개시 시, 자신이 회피 감소 상태일 경우 행동력 / 효과 저항이 크게 증가합니다."
   },
   "1002707416": {
@@ -180,7 +180,7 @@
     "korean": "지정 범위의 아군의, 해로운 효과를 해제하며 AP / 적중 / 효과 저항을 올려줍니다."
   },
   "1002707431": {
-    "english": "Cold resistance increases, and damage taken decreases. While flooded, control is lost, significantly increasing Evasion and Action Power, but significantly decreasing Accuracy.",
+    "english": "Cold resistance increases, and damage taken decreases. While flooded, control is lost, significantly increasing Evasion and SPD, but significantly decreasing Accuracy.",
     "korean": "냉기 저항이 증가하며, 받는 피해가 감소합니다. 침수 상태인 경우, 제어를 상실해 회피 / 행동력이 크게 증가하지만 적중이 크게 감소합니다."
   },
   "1002707432": {
@@ -200,11 +200,11 @@
     "korean": "지정 아군과 자신에게 방어막을 부여하며, 받는 피해와 화염 저항 감소 상태로 만듭니다."
   },
   "1002707436": {
-    "english": "If you start a round in a flooded state, your Attack Power and Action Power increase significantly, and you become marked or unable to move.",
+    "english": "If you start a round in a flooded state, your Attack Power and SPD increase significantly, and you become marked or unable to move.",
     "korean": "자신이 침수 상태로 라운드 개시 시, 공격력 / 행동력이 크게 증가하며 표식 / 이동 불가 상태가 됩니다."
   },
   "1002707437": {
-    "english": "When hit by a fire attribute attack, Attack Power / Defense Power / Action Power are greatly reduced, and you enter the Ignition state, taking continuous fire damage for 3 rounds.",
+    "english": "When hit by a fire attribute attack, Attack Power / Defense Power / SPD are greatly reduced, and you enter the Ignition state, taking continuous fire damage for 3 rounds.",
     "korean": "화염 속성 공격 피격 시, 공격력 / 방어력 / 행동력이 크게 감소하며 점화 상태가 되어 3라운드 동안 지속 화염 피해를 입습니다."
   },
   "1002707438": {
@@ -464,7 +464,7 @@
     "korean": "피격 시, <광란 준비> 상태가 적용되며 <광란 준비> 상태가 5중첩인 상태로 라운드 개시 시,  <광란> 상태가 되어 5라운드 동안 방어막 / 피해 감소 효과를 무시하고 재공격을 합니다. 해당 효과들은 강화 효과 해제로 해제할 수 없습니다."
   },
   "1002707502": {
-    "english": "Decreases ATK / DEF / ACU / action power.",
+    "english": "Decreases ATK / DEF / ACU / SPD.",
     "korean": "공격력 / 방어력 / 적중 / 행동력 감소"
   },
   "1002707503": {
@@ -472,7 +472,7 @@
     "korean": "강화효과 해제"
   },
   "1002707504": {
-    "english": "Increases ATK / ACU / action power / effect resistance.",
+    "english": "Increases ATK / ACU / SPD / effect resistance.",
     "korean": "공격력 / 적중 / 행동력 / 효과 저항 증가"
   },
   "1002707505": {
@@ -552,7 +552,7 @@
     "korean": "쇼트"
   },
   "1002707524": {
-    "english": "At the start of the round, increases ATK and action power of allies within range with electric attacks.&nIf the target is air type, additionally increases CRIT, ACU, and EVA.",
+    "english": "At the start of the round, increases ATK and SPD of allies within range with electric attacks.&nIf the target is air type, additionally increases CRIT, ACU, and EVA.",
     "korean": "라운드 개시 시, 범위 내 공격이 전기 속성인 아군에게 공격력, 행동력을 증가시킵니다. &n대상이 기동형일 경우 치명타, 적중, 회피를 추가로 증가시킵니다."
   },
   "1002707525": {
@@ -560,7 +560,7 @@
     "korean": "아군 수에 비례하여 모든 적의 전기 저항, 회피, 적중을 감소시킵니다."
   },
   "1002707526": {
-    "english": "Increases electric attribute allies' ATK and action power / increases CRIT, ACU, and EVA of mobile allies.",
+    "english": "Increases electric attribute allies' ATK and SPD / increases CRIT, ACU, and EVA of mobile allies.",
     "korean": "전기 속성 아군 공격력, 행동력 증가 / 기동형 아군 치명타, 적중, 회피 증가"
   },
   "1002707527": {
@@ -664,7 +664,7 @@
     "korean": "냉기 저항 증가 / 받는 피해 감소 / 전투 시작 시 AP 증가"
   },
   "1002707552": {
-    "english": "Designates protection for allies within range / increases cold resistance / increases ATK of attackers / increases action power of supporters",
+    "english": "Designates protection for allies within range / increases cold resistance / increases ATK of attackers / increases SPD of supporters",
     "korean": "범위 내 아군 지정 보호 / 냉기 저항 증가 / 공격기 공격력 증가 / 지원기 행동력 증가"
   },
   "1002707553": {
@@ -684,7 +684,7 @@
     "korean": "봄버 기회 포착"
   },
   "1002707557": {
-    "english": "At the start of a round, Action Power decreases, and upon dodging, Critical Hit increases for 2 rounds.",
+    "english": "At the start of a round, SPD decreases, and upon dodging, Critical Hit increases for 2 rounds.",
     "korean": "라운드 개시 시, 행동력이 감소하고 회피 시, 2라운드 동안 치명타가 증가합니다."
   },
   "1002707558": {
@@ -716,7 +716,7 @@
     "korean": "단일 대상에게 {0}피해를 입힙니다. 치명타 시 피해량이 증가합니다. 앵거 오브 호드 대원 수에 비례하여 방어력을 감소시킵니다."
   },
   "1002707565": {
-    "english": "At the start of the round, increases action power and ATK of allies proportional to the number of Anger of Horde members.",
+    "english": "At the start of the round, increases SPD and ATK of allies proportional to the number of Anger of Horde members.",
     "korean": "라운드 개시 시, 아군 앵거 오브 호드 대원 수에 비례하여 아군의 행동력과 공격력을 증가시킵니다."
   },
   "1002707566": {
@@ -728,7 +728,7 @@
     "korean": "단일 대상 {0}피해 / 치명타 시 추가 피해 / 방어력 감소(앵거 오브 호드 대원 수에 비례)"
   },
   "1002707568": {
-    "english": "Increases action power and ATK proportional to the number of Anger of Horde members.",
+    "english": "Increases SPD and ATK proportional to the number of Anger of Horde members.",
     "korean": "앵거 오브 호드 대원 수에 비례하여 행동력 증가 / 공격력 증가"
   },
   "1002707569": {
@@ -1796,7 +1796,7 @@
     "korean": "지정 보호 / 공격력 증가 / 적중 증가 / 행동력 증가"
   },
   "1002707835": {
-    "english": "Inflicts Action Power Reduction / Immobilize / Increased Damage Taken.",
+    "english": "Inflicts SPD Reduction / Immobilize / Increased Damage Taken.",
     "korean": "행동력 감소 / 이동 불가 / 받는 피해 증가"
   },
   "1002707836": {
@@ -1932,7 +1932,7 @@
     "korean": "대상에게 돌격해 {0} 피해를 주고, 대상의 행 보호 효과와 피해 감소 효과를 해제합니다. 대상이 중장형이면 피해량이 증가합니다."
   },
   "1002707869": {
-    "english": "Protects a designated ally and increases their action power for 3 rounds.",
+    "english": "Protects a designated ally and increases their SPD for 3 rounds.",
     "korean": "3라운드 동안 지정한 아군을 보호하고 행동력을 올려줍니다."
   },
   "1002707870": {
@@ -1956,11 +1956,11 @@
     "korean": "라운드 개시 시, 주위 아군에게 행동력 / 대 중장형 피해량 증가 효과를 주고 자신에게 AP / 회피 증가 효과를 적용합니다. 해당 효과들은 라운드 개시를 기준으로 아군이 적을수록 더 높은 효과를 발휘합니다."
   },
   "1002707875": {
-    "english": "At the start of a round, if the current round is 3 or less, increase your defense penetration / action power / critical hit.",
+    "english": "At the start of a round, if the current round is 3 or less, increase your defense penetration / SPD / critical hit.",
     "korean": "라운드 개시 시, 현재 라운드가 3 라운드 이하일 경우, 자신의 방어 관통 / 행동력 / 치명타를 증가킵니다."
   },
   "1002707876": {
-    "english": "Upon death, increases all allies' Action Power / Attack Power / Critical Hit for 2 rounds and decreases Accuracy.",
+    "english": "Upon death, increases all allies' SPD / Attack Power / Critical Hit for 2 rounds and decreases Accuracy.",
     "korean": "사망 시, 2라운드 동안 모든 아군의 행동력 / 공격력 / 치명타를 증가시키고 적중을 감소시킵니다."
   },
   "1002707877": {
@@ -2100,11 +2100,11 @@
     "korean": "목표 대상에게 {0} 보호 무시 피해를 입히고 뒷열에는 감소된 피해를 입힙니다. 대상의 적중 강화 효과를 제거하고 적중을 크게 감소시킵니다."
   },
   "1002707911": {
-    "english": "Greatly increases a single ally’s ATK/ DEF / EVA / DEFpenetration / action power.",
+    "english": "Greatly increases a single ally’s ATK/ DEF / EVA / DEFpenetration / SPD.",
     "korean": "단일 아군의 공격력 / 방어력 / 회피 / 방어관통 / 행동력을 크게 증가시킵니다."
   },
   "1002707912": {
-    "english": "At the start of battle / increases action power of allies within range / at the start of the round / grants allies within range immunity to evasion reduction and action power reduction (immunity is ignored by non-removable debuffs).",
+    "english": "At the start of battle / increases SPD of allies within range / at the start of the round / grants allies within range immunity to evasion reduction and SPD reduction (immunity is ignored by non-removable debuffs).",
     "korean": "전투 시작 시, 범위 내 아군의 행동력을 증가시킵니다. 라운드 개시 시, 범위 내 아군에게 회피 감소 및 행동력 감소 면역 효과를 부여합니다. (해제 불가의 디버프는 면역 효과를 무시합니다.)"
   },
   "1002707913": {
@@ -2116,11 +2116,11 @@
     "korean": "{0} 보호 무시 피해 / 적중 강화 해제 / 적중 감소"
   },
   "1002707915": {
-    "english": "ATK/ DEF/ EVA/ DEFpenetration / action power increase",
+    "english": "ATK/ DEF/ EVA/ DEFpenetration / SPD increase",
     "korean": "공격력 / 방어력 / 회피 / 방어관통 / 행동력 증가"
   },
   "1002707916": {
-    "english": "Action power increase / immunity to evasion reduction and action power reduction",
+    "english": "SPD increase / immunity to evasion reduction and SPD reduction",
     "korean": "행동력 증가 / 회피, 행동력 감소 면역"
   },
   "1002707917": {
@@ -2132,7 +2132,7 @@
     "korean": "스카디 전장 버프 Lv.11"
   },
   "1002707919": {
-    "english": "Starfish Battlefield Buff Lv.11",
+    "english": "Bulgasari Battlefield Buff Lv.11",
     "korean": "불가사리 전장 버프 Lv.11"
   },
   "1002707920": {
@@ -2552,7 +2552,7 @@
     "korean": "단일 대상에게 {0} 보호 무시 냉기 피해를 입히고 대상의 HP%가 낮을 수록 피해량이 증가합니다.&n대상의 HP%가 50%이하일 경우, 피해 감소 효과를 해제합니다. 대상이 침수 상태인 경우, 강화 효과를 해제하고 100%확률로 행동 불가 상태로 만듭니다."
   },
   "1002708024": {
-    "english": "Deal {0} protection-ignoring cold damage to targets within range and deal additional cold damage to targets with reduced frost resistance.&nIf the target is in a submerged state, remove buffs, cause inability to move, and decrease action power.",
+    "english": "Deal {0} protection-ignoring cold damage to targets within range and deal additional cold damage to targets with reduced frost resistance.&nIf the target is in a submerged state, remove buffs, cause inability to move, and decrease SPD.",
     "korean": "범위 내 대상에게 {0} 보호 무시 냉기 피해를 입히고 냉기 저항 감소 상태인 대상에게 추가 냉기 피해를 입힙니다.&n대상이 침수 상태인 경우, 강화 효과를 해제하고 이동 불가 상태로 만들며 행동력을 감소시킵니다."
   },
   "1002708025": {
@@ -2564,7 +2564,7 @@
     "korean": "라운드 개시 시, 범위 내 아군 공격력 / 치명타 / 적중 / 화염저항이 증가합니다."
   },
   "1002708027": {
-    "english": "At the start of battle, decrease enemy action power / EVA / cold resistance for 5 rounds.",
+    "english": "At the start of battle, decrease enemy SPD / EVA / cold resistance for 5 rounds.",
     "korean": "전투 시작 시, 5라운드 동안 적군의 행동력 / 회피 / 냉기저항이 감소합니다."
   },
   "1002708028": {
@@ -2572,7 +2572,7 @@
     "korean": "{0} 보호 무시 냉기 피해 / 대상 HP% 낮을수록 피해량 증가 / 특정 조건 하에 받는 피해 감소 해제 / 강화 해제 / 행동 불가"
   },
   "1002708029": {
-    "english": "Targets within range {0} protection-ignoring cold damage / additional cold damage under certain conditions / remove buffs / inability to move / decrease action power",
+    "english": "Targets within range {0} protection-ignoring cold damage / additional cold damage under certain conditions / remove buffs / inability to move / decrease SPD",
     "korean": "범위 내 대상 {0} 보호 무시 냉기 피해 / 특정 조건 하에 추가 냉기 피해 / 강화 해제 / 이동 불가 / 행동력 감소"
   },
   "1002708030": {
@@ -2584,7 +2584,7 @@
     "korean": "라운드 개시 시, 공격력 / 치명타 / 적중 / 화염 저항 증가"
   },
   "1002708032": {
-    "english": "At the start of battle, decrease enemy action power / EVA / cold resistance.",
+    "english": "At the start of battle, decrease enemy SPD / EVA / cold resistance.",
     "korean": "전투 시작 시, 적 행동력 / 회피 / 냉기 저항 감소"
   },
   "1002708033": {
@@ -2660,7 +2660,7 @@
     "korean": "행 범위 대상에게 {0} 냉기 피해를 입힙니다.&n<열기 흡수> 상태일 경우, <열기 흡수>를 소모하여 추가 피해를 입히고 적중한 적을 침수 상태로 만듭니다."
   },
   "1002708051": {
-    "english": "At the start of the round / reduces all enemies’ action power / cold-attribute resistance / ATK power / the cold-attribute resistance and ATK power reduction effects weaken as the round progresses.",
+    "english": "At the start of the round / reduces all enemies’ SPD / cold-attribute resistance / ATK power / the cold-attribute resistance and ATK power reduction effects weaken as the round progresses.",
     "korean": "라운드 개시 시, 적 전체의 행동력 / 냉기 속성 저항 / 공격력을 감소시킵니다.&n냉기 속성 저항 / 공격력 감소 효과는 라운드 진행에 따라 약화됩니다."
   },
   "1002708052": {
@@ -2680,7 +2680,7 @@
     "korean": "범위 내 {0} 냉기 피해 / <열기 흡수>상태 시 추가 피해 / 침수"
   },
   "1002708056": {
-    "english": "Action power / strong early-round cold resistance / ATK power reduction",
+    "english": "SPD / strong early-round cold resistance / ATK power reduction",
     "korean": "행동력 / 라운드 초반에 강력한 효과의 냉기 저항 / 공격력 감소"
   },
   "1002708057": {
@@ -2736,7 +2736,7 @@
     "korean": "{0} 화염 피해를 주고, 2라운드 동안 대상을 표식으로 설정하고 화염 저항을 감소시킵니다."
   },
   "1002708070": {
-    "english": "Set a beneficial mark on yourself for 5 rounds and increase Fire Resistance / Electric Resistance / Action Power.",
+    "english": "Set a beneficial mark on yourself for 5 rounds and increase Fire Resistance / Electric Resistance / SPD.",
     "korean": "5라운드 동안 자신에게 이로운 표식을 설정하고 화염 저항 / 전기 저항 / 행동력을 증가시킵니다."
   },
   "1002708071": {
@@ -2760,11 +2760,11 @@
     "korean": "{0} 화염 피해를 주고, 2라운드 동안 대상의 받는 피해를 증가시킵니다. 대상이 점화 상태일 시, 추가로 효과 저항을 감소시킵니다."
   },
   "1002708076": {
-    "english": "At the start of a round, the Attack, Critical Hit, and Action Power of yourself and allies within a designated range increase. This effect is additionally applied whenever the Dryer Shooter attacks an enemy.",
+    "english": "At the start of a round, the Attack, Critical Hit, and SPD of yourself and allies within a designated range increase. This effect is additionally applied whenever the Dryer Shooter attacks an enemy.",
     "korean": "라운드 개시 시, 자신과 지정 범위 아군의 공격력 / 치명타 / 행동력이 증가합니다. 해당 효과는 드라이어 슈터가 적을 공격할 때마다 추가 적용됩니다."
   },
   "1002708077": {
-    "english": "At the start of a round, if you are in the Ignition state, your Action Power / Effect Resistance increases significantly.",
+    "english": "At the start of a round, if you are in the Ignition state, your SPD / Effect Resistance increases significantly.",
     "korean": "라운드 개시 시, 자신이 점화 상태일 경우 행동력 / 효과 저항이 크게 증가합니다."
   },
   "1002708078": {

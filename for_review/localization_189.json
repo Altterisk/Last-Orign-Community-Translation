@@ -248,7 +248,7 @@
     "korean": "라운드 개시 시, 적 전체의 냉기 저항을 감소시킵니다.&n아군 스쿼드의 경장형 수에 따라 다음 효과가 추가로 적용됩니다.&n- 3기 이하 : 냉기 저항 감소 효과가 두 배로 증폭됩니다.&n- 2기 이하 : 냉기 저항 감소 효과가 대상의 효과 저항을 무시합니다.&n- 1기 이하 : 전투 개시 시, 2라운드 동안 적 공격기에게 강화 불가를 적용합니다."
   },
   "SkillDesc_Skill_PECS_LemonadeBeta_N_4": {
-    "english": "At the start of the round, decreases the electric resistance of all enemies.&nAdditional effects are applied based on the number of Air-type allies in the squad:&n&n3 or fewer: Electric resistance reduction effect is doubled.&n&n2 or fewer: Electric resistance reduction effect ignores the target's effect resistance.&n&n1 or fewer: At the start of battle, decreases the action power of enemy support units for 2 rounds.",
+    "english": "At the start of the round, decreases the electric resistance of all enemies.&nAdditional effects are applied based on the number of Air-type allies in the squad:&n&n3 or fewer: Electric resistance reduction effect is doubled.&n&n2 or fewer: Electric resistance reduction effect ignores the target's effect resistance.&n&n1 or fewer: At the start of battle, decreases the SPD of enemy support units for 2 rounds.",
     "korean": "라운드 개시 시, 적 전체의 전기 저항을 감소시킵니다.&n아군 스쿼드의 기동형 수에 따라 다음 효과가 추가로 적용됩니다.&n- 3기 이하 : 전기 저항 감소 효과가 두 배로 증폭됩니다.&n- 2기 이하 : 전기 저항 감소 효과가 대상의 효과 저항을 무시합니다.&n- 1기 이하 : 전투 개시 시, 2라운드 동안 적 지원기의 행동력을 감소시킵니다."
   },
   "SkillDesc_Skill_PECS_LemonadeBeta_N_5": {
@@ -264,7 +264,7 @@
     "korean": "목표 지점에 {0} 피해를 줍니다., 적중한 적의 AP를 감소시키고 스쿼드 내 자신외의 <오비탈 와쳐>소속 전투원 혹은 <레모네이드 감마>, <레모네이드 베타>, <레모네이드 알파>가 있다면 전투원 수에 비례하여 받는 피해 증가를 줍니다."
   },
   "SkillDesc_Skill_PECS_LemonadeEpsilon_N_3": {
-    "english": "At the start of the round, increases the accuracy of all allies for 2 rounds.  &nDepending on the type of ally, the following effects are applied, and if they are an Orbital Watcher (excluding yourself), some effects are increased.  &nAttacker: Increases attack power (Orbital Watcher effect doubled)  &nProtector: Gains damage reduction (Orbital Watcher effect doubled), 100% counterattack for 1 round (fixed value)  &nWhen using [Belphegor: Inception], nullifies damage once for 1 round (max 1 stack, fixed value)  &nSupporter: Increases action power (Orbital Watcher effect doubled)  &nAll are normal effects.",
+    "english": "At the start of the round, increases the accuracy of all allies for 2 rounds.  &nDepending on the type of ally, the following effects are applied, and if they are an Orbital Watcher (excluding yourself), some effects are increased.  &nAttacker: Increases attack power (Orbital Watcher effect doubled)  &nProtector: Gains damage reduction (Orbital Watcher effect doubled), 100% counterattack for 1 round (fixed value)  &nWhen using [Belphegor: Inception], nullifies damage once for 1 round (max 1 stack, fixed value)  &nSupporter: Increases SPD (Orbital Watcher effect doubled)  &nAll are normal effects.",
     "korean": "라운드 개시시 2라운드 동안 모든 아군의 적중을 증가시킵니다. &n아군의 타입에 따라 아래 효과를 부여하고 오비탈 와쳐(자신 제외)라면 일부 효과가 증가합니다. &n공격기 : 공격력 증가 (오비탈 와쳐 효과 2배)&n보호기 : 받는 피해 감소 획득 (오비탈 와쳐 효과 2배) , 1라운드 동안 100%위력 반격 (수치 고정)&n[벨페고르: 인셉션] 사용시 1라운드 동안 피해 무효화 1회 (최대 1중첩, 수치 고정)&n지원기 : 행동력 증가 (오비탈 와쳐 효과 2배)&n모두 일반 효과입니다."
   },
   "SkillDesc_Skill_PECS_LemonadeEpsilon_N_4": {
@@ -296,11 +296,11 @@
     "korean": "라운드 개시 시 자신에게 전투 속행 효과를 얻습니다.&n라운드 개시 시 자신에게 효과 저항 / 강화 해제 저항을 부여합니다.&n피격시, 1라운드 동안 반격효과를 얻습니다."
   },
   "SkillDesc_Skill_PECS_Lumberjane_N_1": {
-    "english": "Fires a sawblade, dealing {0} damage to the target location.&nOn hit, decreases the target's DEF/ action power for 3 rounds.&nIf the hit target is heavy-armored, the damage increases.&n",
+    "english": "Fires a sawblade, dealing {0} damage to the target location.&nOn hit, decreases the target's DEF/ SPD for 3 rounds.&nIf the hit target is heavy-armored, the damage increases.&n",
     "korean": "톱날을 발사하여 목표 지점에 {0} 피해를 줍니다.&n적중 시, 3라운드 동안 대상의 방어력 / 행동력을 감소시킵니다.&n적중 대상이 중장형인 경우 피해량이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Lumberjane_N_2": {
-    "english": "Attempts a 1:1 conversation with the specified target, dealing {0} damage.&nIf the hit target is under DEF / action power reduction, the damage increases for each.",
+    "english": "Attempts a 1:1 conversation with the specified target, dealing {0} damage.&nIf the hit target is under DEF / SPD reduction, the damage increases for each.",
     "korean": "지정 대상에게 1:1 대화를 시도하여 {0} 피해를 줍니다.&n적중 대상이 방어력 / 행동력 감소 상태인 경우 각각 피해량이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Lumberjane_N_3": {
@@ -324,7 +324,7 @@
     "korean": "아군을 세뇌하여 사용한 스킬을 한번 더 사용하게 만든다.&n대상의 역할군에 따라 추가 효과를 받습니다.&n공격기 : 치명타 증가&n보호기 : 받는 피해 감소&n지원기 : AP 증가"
   },
   "SkillDesc_Skill_PECS_Melt_N_3": {
-    "english": "Your AP increases at the start of battle. If your HP is 25% or lower, your Attack Power and Action Power increase at the start of the round.",
+    "english": "Your AP increases at the start of battle. If your HP is 25% or lower, your Attack Power and SPD increase at the start of the round.",
     "korean": "전투 개시 시 자신의 AP가 증가합니다.&n자신의 HP가 25% 이하면 라운드 시작 시 공격력과 행동력이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Melt_N_4": {
@@ -344,7 +344,7 @@
     "korean": "스킬 사용 시, 무기고를 전개하여 범위 내 아군 공격기의 AP를 증가시키고, 3라운드 동안 방어 관통을 증가시킵니다.&n스쿼드 내에 보호기가 없을 경우, 위치와 관계 없이 모든 중장형 아군에게 2라운드 동안 반격 효과를 부여합니다."
   },
   "SkillDesc_Skill_PECS_Merlin_N_3": {
-    "english": "At the start of the round, permanently increase the ATK power of allied attackers within range. (Up to 5 stacks)&nIf an allied attacker has 2 or more at the start of the round, reduce the damage taken by allied attackers within range.&nIf an allied attacker has 4 or more at the start of the round, increase the action power of allied attackers within range.&nThe effect value is doubled for Heavy attackers.",
+    "english": "At the start of the round, permanently increase the ATK power of allied attackers within range. (Up to 5 stacks)&nIf an allied attacker has 2 or more at the start of the round, reduce the damage taken by allied attackers within range.&nIf an allied attacker has 4 or more at the start of the round, increase the SPD of allied attackers within range.&nThe effect value is doubled for Heavy attackers.",
     "korean": "라운드 개시 시, 범위 내 아군 공격기의 공격력을 영구적으로 증가시킵니다. (최대 5중첩)&n라운드 개시 시 아군 공격기가 2 이상인 경우, 범위 내 아군 공격기의 받는 피해를 감소시킵니다.&n라운드 개시 시 아군 공격기가 4 이상인 경우, 범위 내 아군 공격기의 행동력을 증가시킵니다.&n중장형 공격기는 효과 수치가 두 배로 증폭됩니다."
   },
   "SkillDesc_Skill_PECS_Merlin_N_4": {
@@ -356,15 +356,15 @@
     "korean": "라운드 개시 시 자신 외의 <포세이돈> 소속 공격기가 1기 이상 존재할 경우, 자신은 보호 무시가 활성화되고 치명타가 증가합니다.&n<포세이돈> 소속 공격기가 보유한 <출력 제한 해제> 스킬의 발동 조건을 무시하고 즉시 발동할 수 있도록 합니다."
   },
   "SkillDesc_Skill_PECS_Mery_N_1": {
-    "english": "While cleaning, throw clutter to deal {0} damage to the designated area.&nOn hit, reduce the target's attack / evasion for 2 rounds.&nAfter using the skill, feel lighter and gain increased action power for 2 rounds.",
+    "english": "While cleaning, throw clutter to deal {0} damage to the designated area.&nOn hit, reduce the target's attack / evasion for 2 rounds.&nAfter using the skill, feel lighter and gain increased SPD for 2 rounds.",
     "korean": "청소를 겸해 잡동사니를 내던져 지정 범위에 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상의 공격력 / 회피를 감소시킵니다.&n스킬 사용 후, 한결 가뿐해져 2라운드 동안 자신의 행동력이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Mery_N_2": {
-    "english": "Bestow a masterpiece on the target ally, granting the following effects for 2 rounds depending on their role:&n&nAttacker: Increased ATK power / Defender: Reduced damage taken / Supporter: Increased action power",
+    "english": "Bestow a masterpiece on the target ally, granting the following effects for 2 rounds depending on their role:&n&nAttacker: Increased ATK power / Defender: Reduced damage taken / Supporter: Increased SPD",
     "korean": "대상 아군에게 걸작을 선사하여 역할군에 따라 2라운드 동안 다음 효과를 부여합니다.&n- 공격기 : 공격력 증가 / 보호기 : 받는 피해 감소 / 지원기 : 행동력 증가"
   },
   "SkillDesc_Skill_PECS_Mery_N_3": {
-    "english": "At the start of the round, increase the ATK power / action power of allies with attack roles within the range.&nIf the target is a mobility/light armor type with HP over 95%, additionally grant a shield / ignore damage reduction effect.",
+    "english": "At the start of the round, increase the ATK power / SPD of allies with attack roles within the range.&nIf the target is a mobility/light armor type with HP over 95%, additionally grant a shield / ignore damage reduction effect.",
     "korean": "라운드 개시 시, 범위 내 아군 공격기의 공격력 / 행동력을 증가시킵니다.&n대상이 HP 95% 이상인 기동/경장형인 경우, 추가로 방어막 / 피해 감소 무시 효과를 부여합니다."
   },
   "SkillDesc_Skill_PECS_Mery_N_4": {
@@ -384,7 +384,7 @@
     "korean": "마하의 속도로 목표에 돌격하여 {0} 보호 무시 피해를 주고, 그 충격파로 주변에는 25% 감소한 피해를 입힙니다.&n적중 시, 대상의 AP를 감소시킵니다. 대상이 전열에 위치한 경우 2라운드 동안 행동 불능 상태를 부여합니다."
   },
   "SkillDesc_Skill_PECS_MightyR_CH_3": {
-    "english": "At the start of the round, enter <Super Pump Up> state, increasing your ATK / action power.&nAt the start of the round, increases allied Bioroids' ATK / action power.&nOn a successful hit, further increases allied Bioroids' ATK / action power for 2 rounds. (Max 1 stack)",
+    "english": "At the start of the round, enter <Super Pump Up> state, increasing your ATK / SPD.&nAt the start of the round, increases allied Bioroids' ATK / SPD.&nOn a successful hit, further increases allied Bioroids' ATK / SPD for 2 rounds. (Max 1 stack)",
     "korean": "라운드 개시 시, <초 펌핑 업> 상태가 되어 자신의 공격력 / 행동력이 증가합니다.&n라운드 개시 시, 아군 바이오로이드의 공격력 / 행동력을 증가시킵니다.&n공격 적중 시, 2라운드 동안 아군 바이오로이드의 공격력 / 행동력을 추가로 증가시킵니다. (최대 1중첩)"
   },
   "SkillDesc_Skill_PECS_MightyR_CH_4": {
@@ -404,7 +404,7 @@
     "korean": "목표에 돌격하여 {0} 보호 무시 피해를 주고 대상 뒷 열에 25% 감소한 피해를 줍니다. &n<벌크 업> 상태인 경우 피해량이 증가하고 대상의 AP를 감소시킵니다."
   },
   "SkillDesc_Skill_PECS_MightyR_N_3": {
-    "english": "Upon attacking, permanently enter <Bulk Up> status, increasing your ATK power / action power. (Up to 3 stacks)&nAt the start of the round, if <Bulk Up> stacks are at maximum, enter <Super Pumping Up> status, enhancing each skill and applying the basic effects of <Bulk Up> to allied Bioroids.&nWhen starting combat with a 5-member squad, immediately enter <Super Pumping Up> status.",
+    "english": "Upon attacking, permanently enter <Bulk Up> status, increasing your ATK power / SPD. (Up to 3 stacks)&nAt the start of the round, if <Bulk Up> stacks are at maximum, enter <Super Pumping Up> status, enhancing each skill and applying the basic effects of <Bulk Up> to allied Bioroids.&nWhen starting combat with a 5-member squad, immediately enter <Super Pumping Up> status.",
     "korean": "공격 시, 영구적으로 <벌크 업> 상태가 되어 자신의 공격력 / 행동력이 증가합니다. (최대 3스택)&n라운드 개시 시, <벌크 업> 스택이 최대치인 경우, <초 펌핑 업> 상태가 되어 각 스킬이 강화되고 <벌크 업> 기본 효과를 아군 바이오로이드에게도 적용합니다.&n5인 스쿼드로 전투 개시 시, 즉시 <초 펌핑 업> 상태를 획득합니다."
   },
   "SkillDesc_Skill_PECS_MightyR_N_4": {
@@ -628,7 +628,7 @@
     "korean": "라운드 개시 시, 방어 관통이 증가하고 방어막 / 피해 감소 무시 효과를 획득합니다.&n각 액티브 스킬 레벨에 따라 소모 AP가 감소합니다."
   },
   "SkillDesc_Skill_PECS_Spartoia_CH_5": {
-    "english": "At the start of the round, increases own ATK/Crit.&nAt battle start, permanently gains DEF reduction (normal effect).&nInstead, gains AP at battle start and permanent immunity to harmful Action Power reduction / AP reduction effects.",
+    "english": "At the start of the round, increases own ATK/Crit.&nAt battle start, permanently gains DEF reduction (normal effect).&nInstead, gains AP at battle start and permanent immunity to harmful SPD reduction / AP reduction effects.",
     "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가합니다.&n전투 개시 시, 방어력 감소 일반 효과를 영구 획득합니다.&n대신 전투 개시 시 AP가 증가하고, 해로운 행동력 감소 / AP 감소 효과에 영구 면역이 됩니다."
   },
   "SkillDesc_Skill_PECS_Spartoia_N_1": {
@@ -3744,7 +3744,7 @@
     "korean": "◆1 회피 증가"
   },
   "SkillName_Skill_ExtPassiveSkill_N_1106": {
-    "english": "◆1 Action Power Increase",
+    "english": "◆1 SPD Increase",
     "korean": "◆1 행동력 증가"
   },
   "SkillName_Skill_ExtPassiveSkill_N_1107": {

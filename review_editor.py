@@ -44,6 +44,7 @@ class App(tk.Tk):
         self.minsize(800, 500)
 
         self.files: list[Path] = sorted(REVIEW_DIR.glob("*.json"))
+        self._search_job: str | None = None   # pending after() job id
 
         # Per-file data cache — all mutations happen here; _save writes it to disk
         self.file_cache: dict[Path, dict] = {}
@@ -102,7 +103,7 @@ class App(tk.Tk):
         sr.pack(fill=tk.X, pady=(0, 4))
         ttk.Label(sr, text="Search:").pack(side=tk.LEFT, padx=(0, 4))
         self.search_var = tk.StringVar()
-        self.search_var.trace_add("write", lambda *_: self._apply_filter())
+        self.search_var.trace_add("write", lambda *_: self._schedule_search())
         ttk.Entry(sr, textvariable=self.search_var).pack(side=tk.LEFT, fill=tk.X, expand=True)
         ttk.Button(sr, text="×", width=2,
                    command=lambda: self.search_var.set("")).pack(side=tk.LEFT, padx=(2, 0))
@@ -239,6 +240,16 @@ class App(tk.Tk):
 
     def _is_global_search(self) -> bool:
         return bool(self.search_var.get())
+
+    def _schedule_search(self):
+        if self._search_job is not None:
+            self.after_cancel(self._search_job)
+        delay = 400 if self.search_var.get() else 0
+        self._search_job = self.after(delay, self._run_search)
+
+    def _run_search(self):
+        self._search_job = None
+        self._apply_filter()
 
     def _apply_filter(self):
         q = self.search_var.get().lower()

@@ -600,7 +600,7 @@
     "korean": "전투원 브륀힐드와 사령관의 일지 1개, 서약 반지 1개가 들어있는 패키지입니다."
   },
   "RegPackDesc_Shop_Package_Reg_CharTicket_Char_BR_Bulgasari_N": {
-    "english": "This is a package containing the Combatant T-60 Starfish, one Commander's Journal, and one Oath Ring.",
+    "english": "This is a package containing the Combatant T-60 Bulgasari, one Commander's Journal, and one Oath Ring.",
     "korean": "전투원 T-60 불가사리와 사령관의 일지 1개, 서약 반지 1개가 들어있는 패키지입니다."
   },
   "RegPackDesc_Shop_Package_Reg_CharTicket_Char_BR_Calista_N": {
@@ -1524,7 +1524,7 @@
     "korean": "캐릭터 패키지 [브륀힐드]"
   },
   "RegPackName_Shop_Package_Reg_CharTicket_Char_BR_Bulgasari_N": {
-    "english": "Character Package [Starfish]",
+    "english": "Character Package [Bulgasari]",
     "korean": "캐릭터 패키지 [T-60 불가사리]"
   },
   "RegPackName_Shop_Package_Reg_CharTicket_Char_BR_Calista_N": {
@@ -2880,7 +2880,7 @@
     "korean": "지정 범위 {0} 보호 무시 피해. <플라즈마> 중첩 수에 따라 피해량 / 효과 증가."
   },
   "SkillDescSimple_Skill_3P_Labiata_N_3": {
-    "english": "Remove harmful effects on yourself / Increase action power / Decrease damage received / Increase defense penetration",
+    "english": "Remove harmful effects on yourself / Increase SPD / Decrease damage received / Increase defense penetration",
     "korean": "자신 해로운 효과 해제 / 행동력 증가 / 받는 피해 감소 / 방어 관통 증가."
   },
   "SkillDescSimple_Skill_3P_Labiata_N_4": {
@@ -2908,7 +2908,7 @@
     "korean": "범위 내 아군 및 자신 전투 개시 AP 증가. 조건부 <형상기억 스커트> 지속 효과 부여."
   },
   "SkillDescSimple_Skill_3P_Maria_N_5": {
-    "english": "Increases own effect resistance. When using <Shape Memory Skirt>, increases target's ATK power, ACU, and action power. Conditional activation of ally protection ignore.",
+    "english": "Increases own effect resistance. When using <Shape Memory Skirt>, increases target's ATK power, ACU, and SPD. Conditional activation of ally protection ignore.",
     "korean": "자신 효과 저항 증가. <형상기억 스커트> 사용 시, 대상 공격력 / 적중 / 행동력 증가. 조건부 아군 보호 무시 활성화"
   },
   "SkillDescSimple_Skill_3P_Melite_N_1": {
@@ -2952,7 +2952,7 @@
     "korean": "AP 증가. 조건부 AP 증가"
   },
   "SkillDescSimple_Skill_3P_Ran_N_1": {
-    "english": "Deals {0} damage to a single target.&nProvokes the target / reduces their ACU  / action power.&nOn critical hit, removes the target's damage reduction.",
+    "english": "Deals {0} damage to a single target.&nProvokes the target / reduces their ACU  / SPD.&nOn critical hit, removes the target's damage reduction.",
     "korean": "단일 대상 {0} 피해. 대상 도발 / 적중 / 행동력 감소. 치명타 시, 받는 피해 감소 해제."
   },
   "SkillDescSimple_Skill_3P_Ran_N_2": {
@@ -2960,7 +2960,7 @@
     "korean": "자신 공격력 / 적중 / 사거리 / 받는 피해 증가."
   },
   "SkillDescSimple_Skill_3P_Ran_N_3": {
-    "english": "Increases ACU / action power of allies within range / designates protection.&nDeactivates protection ignore for enemies in the rear line.",
+    "english": "Increases ACU / SPD of allies within range / designates protection.&nDeactivates protection ignore for enemies in the rear line.",
     "korean": "범위 내 아군 적중 / 행동력 증가 / 지정 보호. 후열 적 보호 무시 비활성화."
   },
   "SkillDescSimple_Skill_3P_Ran_N_4": {
@@ -3360,7 +3360,7 @@
     "korean": "자신 화염 저항 및 화염 저항 하한 획득. 자신과 아군 냉기 저항 증가. 적 전체 지속 화염 피해 적용."
   },
   "SkillDescSimple_Skill_BR_Bulgasari_CH_1": {
-    "english": "Single target {0} electric damage. Removes AP / Evasion reduction / Action Power buff.",
+    "english": "Single target {0} electric damage. Removes AP / Evasion reduction / SPD buff.",
     "korean": "단일 대상 {0} 전기 피해. AP / 회피 감소 / 행동력 강화 해제."
   },
   "SkillDescSimple_Skill_BR_Bulgasari_CH_2": {
@@ -3464,7 +3464,7 @@
     "korean": "공격력 / 적중 / 방어 관통 증가. 치명타 시, 모든 보호 효과 해제"
   },
   "SkillDescSimple_Skill_BR_Efreeti_N_5": {
-    "english": "Increases action power.&nOn enemy attack, removes area damage dispersion effects.&n",
+    "english": "Increases SPD.&nOn enemy attack, removes area damage dispersion effects.&n",
     "korean": "행동력 증가. 적 공격 시, 광역 피해 분산 해제"
   },
   "SkillDescSimple_Skill_BR_Ellie_N_1": {
@@ -3712,7 +3712,7 @@
     "korean": "자신 회피 증가 / 표식 / 회피 비례 스킬 위력 감쇄. <앵거 오브 호드> 소속 회피 증가."
   },
   "SkillDescSimple_Skill_BR_Khan_N_5": {
-    "english": "Increases your DEF penetration / damage to heavy armor types / Heavy armor types / ATK  power / action power.",
+    "english": "Increases your DEF penetration / damage to heavy armor types / Heavy armor types / ATK  power / SPD.",
     "korean": "자신 방어 관통 / 대 경장형 / 중장형 피해량 / 공격력 / 행동력 증가."
   },
   "SkillDescSimple_Skill_BR_Kheshig_N_1": {
@@ -3720,7 +3720,7 @@
     "korean": "지정 대상 {0} 피해. 표식 / 받는 피해 증가."
   },
   "SkillDescSimple_Skill_BR_Kheshig_N_2": {
-    "english": "Increases ATK power / action power / damage reduction for allies in the specified range. Grants conditional protection ignore.",
+    "english": "Increases ATK power / SPD / damage reduction for allies in the specified range. Grants conditional protection ignore.",
     "korean": "지정 범위 아군 공격력 / 행동력 증가 / 받는 피해 감소. 조건부 보호 무시 부여."
   },
   "SkillDescSimple_Skill_BR_Kheshig_N_3": {
@@ -3728,7 +3728,7 @@
     "korean": "조건부 아군 전투 속행 적용. 대상 전투 속행 시, 해로운 효과 해제 / 피해 최소화 / 효과 저항 증가."
   },
   "SkillDescSimple_Skill_BR_Kheshig_N_4": {
-    "english": "Increases your action power when an ally superior to you exists.&nWhen all conditions are met, AP increases upon using the skill.&nEffect is gained when accompanied by <Khan of Speed>.",
+    "english": "Increases your SPD when an ally superior to you exists.&nWhen all conditions are met, AP increases upon using the skill.&nEffect is gained when accompanied by <Khan of Speed>.",
     "korean": "자신보다 뛰어난 아군 존재 시 자신의 행동력 증가. 조건 모두 충족 시, 스킬 사용 시 AP 증가. [신속의 칸] 동행 시, 효과 획득."
   },
   "SkillDescSimple_Skill_BR_Kheshig_N_5": {
@@ -3864,7 +3864,7 @@
     "korean": "범위 내 아군 중장형 공격기 적중 / 치명타 / AP 증가."
   },
   "SkillDescSimple_Skill_BR_Nashorn_N_4": {
-    "english": "Increases own action power / can <Assemble Main Gun> when waiting.&n",
+    "english": "Increases own SPD / can <Assemble Main Gun> when waiting.&n",
     "korean": "자신 행동력 증가. 대기 시, <주포 조립> 가능."
   },
   "SkillDescSimple_Skill_BR_Nashorn_N_5": {

@@ -224,7 +224,7 @@
     "korean": "라운드 개시 시, <침수> 상태인 바이오로이드들에게 50% 확률로 받는 피해 증가 / 효과 저항 / AP / 회피 감소 상태가 적용됩니다."
   },
   "1002704410": {
-    "english": "At the start of the round, if an ally within range has the <Cold Environment Adaptation> effect, the target's Attack Power / Accuracy / Evasion / Action Power increases.",
+    "english": "At the start of the round, if an ally within range has the <Cold Environment Adaptation> effect, the target's Attack Power / Accuracy / Evasion / SPD increases.",
     "korean": "라운드 개시 시, 범위 내 아군에게 <한랭지 적응> 효과가 있으면 대상의 공격력 / 적중 / 회피 / 행동력이 증가합니다."
   },
   "1002704411": {
@@ -272,7 +272,7 @@
     "korean": "대상에게 {0} 보호 무시 피해를 줍니다. 치명타 시 피해량이 증가하며, 자신이 전열일 경우 대상의 방어막 / 피해 감소 효과를 무시합니다."
   },
   "1002704422": {
-    "english": "Deals {0} damage to the target and marks them for 2 rounds, increasing damage taken and decreasing evasion. Increases your Accuracy, Evasion, and Action Power for 3 rounds.",
+    "english": "Deals {0} damage to the target and marks them for 2 rounds, increasing damage taken and decreasing evasion. Increases your Accuracy, Evasion, and SPD for 3 rounds.",
     "korean": "대상에게 {0} 피해를 주고, 2라운드 동안 대상을 표식으로 지정해 받는 피해 증가 / 회피 감소 상태로 만듭니다. 자신은 3라운드 동안 적중 / 회피 / 행동력이 증가합니다."
   },
   "1002704423": {
@@ -296,7 +296,7 @@
     "korean": "냉기 속성 저항이 증가하며, <혹한> 효과를 받는 상태에선 방어력 / 효과 저항이 증가합니다."
   },
   "1002704428": {
-    "english": "After attacking, cool the gun barrel to increase action power for 3 rounds.",
+    "english": "After attacking, cool the gun barrel to increase SPD for 3 rounds.",
     "korean": "공격 후, 포신을 냉각해 3라운드 동안 행동력이 증가합니다."
   },
   "1002704429": {
@@ -392,11 +392,11 @@
     "korean": "대상에게 {0} 보호 무시 피해를 줍니다. 대상이 기동형인 경우 강화 효과를 해제하며 피해량이 증가하고, 2라운드 동안 행동 불가 상태로 만듭니다."
   },
   "1002704452": {
-    "english": "Increases the damage, accuracy, evasion, and action power of allies adjacent in the same column as yourself.",
+    "english": "Increases the damage, accuracy, evasion, and SPD of allies adjacent in the same column as yourself.",
     "korean": "자신과 같은 열에 인접한 아군의 대 기동형 피해량 / 적중 / 회피 / 행동력을 증가시킵니다."
   },
   "1002704453": {
-    "english": "At the start of a round, if you are under the effect of Knight Chick Shielder's <Restoration System Control>, effect resistance increases and the Combat Continuation effect is applied. When continuing combat while under <Restoration System Control>, you enter the <Chick Permanent Restoration> state, which is a permanently applied Combat Continuation. When starting a round in the <Chick Permanent Restoration> state, Attack Power / Accuracy / Critical Hit / Evasion / Action Power increase. These effects cannot be removed by buff removal effects.",
+    "english": "At the start of a round, if you are under the effect of Knight Chick Shielder's <Restoration System Control>, effect resistance increases and the Combat Continuation effect is applied. When continuing combat while under <Restoration System Control>, you enter the <Chick Permanent Restoration> state, which is a permanently applied Combat Continuation. When starting a round in the <Chick Permanent Restoration> state, Attack Power / Accuracy / Critical Hit / Evasion / SPD increase. These effects cannot be removed by buff removal effects.",
     "korean": "라운드 개시 시, 나이트 칙 실더???의 <복원 시스템 제어> 효과를 받는 상태면 효과 저항이 증가하며, 전투 속행 효과가 적용됩니다. <복원 시스템 제어> 상태에서 전투 속행 시, 영구 적용되는 전투 속행인  <칙 영구 복원> 상태가 됩니다. <칙 영구 복원> 상태로 라운드 개시 시, 공격력 / 적중 / 치명타 / 회피 / 행동력이 증가합니다. 해당 효과들은 강화 해제로 효과로는 해제되지 않습니다."
   },
   "1002704454": {
@@ -412,7 +412,7 @@
     "korean": "대상에게 {0} 보호 무시 피해를 줍니다. 대상이 중장형일 경우 강화 효과를 해제하며 피해량이 증가하고, 2라운드 동안 방어력 감소 / 행동 불가 상태로 만듭니다."
   },
   "1002704457": {
-    "english": "Increases the Attack Power, Critical Hit, and Action Power of allies adjacent in front of or behind you.",
+    "english": "Increases the Attack Power, Critical Hit, and SPD of allies adjacent in front of or behind you.",
     "korean": "자신 앞 / 뒤에 인접한 아군의 공격력 / 치명타 / 행동력을 증가시킵니다."
   },
   "1002704458": {
@@ -420,7 +420,7 @@
     "korean": "대상에게 {0} 보호 무시 피해를 줍니다. 대상이 <나이트 칙?> 또는 <나이트 칙 런쳐??>의 해로운 효과가 적용된 상태면 강화 효과를 해제하며 피해량이 크게 증가합니다."
   },
   "1002704459": {
-    "english": "For 5 rounds, it protects a designated target and applies the <Chick Upgrade Ready> effect. Targets in the <Chick Upgrade Ready> state receive the <Chick Upgrade> effect starting from the next round, increasing their Attack Power, Accuracy, Critical Hit, Evasion, and Action Power.",
+    "english": "For 5 rounds, it protects a designated target and applies the <Chick Upgrade Ready> effect. Targets in the <Chick Upgrade Ready> state receive the <Chick Upgrade> effect starting from the next round, increasing their Attack Power, Accuracy, Critical Hit, Evasion, and SPD.",
     "korean": "5라운드 동안 대상을 지정 보호하며 <칙 업그레이드 준비> 효과가 적용됩니다. <칙 업그레이드 준비> 상태인 대상은 다음 라운드부터 <칙 업그레이드> 효과를 받아 공격력 / 적중 / 치명타 / 회피 / 행동력이 증가합니다."
   },
   "1002704460": {
@@ -432,7 +432,7 @@
     "korean": "라운드 개시 시, 모든 아군들에게 <칙 복원 시스템> 효과가 적용됩니다. 라운드 개시 시, <칙 방패 올리기>중첩이 7 이면 <복원 시스템 오류> 상태가 되어 모든 아군의 <칙 복원 시스템>을 해제합니다. <칙 복원 시스템>은 자신이 <복원 시스템 오류> 상태가 아니면 라운드 개시 시, 다시 활성화됩니다."
   },
   "1002704462": {
-    "english": "At the start of the round, Attacker and Support units in the <Preparing for Chick Upgrade> state gain increased Attack Power, Accuracy, Evasion, Critical Hit, and Action Power. If the Attack Power Upgrade is level 4 or higher, the target's attacks ignore Defense, Shield, and Damage Reduction effects. If the target is a Protector, the enhancement effect is not applied, damage taken increases significantly, and the enhancement effect is removed.",
+    "english": "At the start of the round, Attacker and Support units in the <Preparing for Chick Upgrade> state gain increased Attack Power, Accuracy, Evasion, Critical Hit, and SPD. If the Attack Power Upgrade is level 4 or higher, the target's attacks ignore Defense, Shield, and Damage Reduction effects. If the target is a Protector, the enhancement effect is not applied, damage taken increases significantly, and the enhancement effect is removed.",
     "korean": "라운드 개시 시, <칙 업그레이드 준비> 상태인 공격기와 지원기의 공격력 / 적중 / 회피 / 치명타 / 행동력이 증가합니다. 공격력 업그레이드가 4단계 이상인 경우, 대상의 공격은 방어력 / 방어막 / 피해 감소 효과를 무시합니다. 대상이 보호기일 경우, 강화 효과가 적용되지 않고 받는 피해가 크게 증가하며 강화 효과가 해제됩니다."
   },
   "1002704463": {
@@ -3588,15 +3588,15 @@
     "korean": "지정한 아군의 현재 AP를 변경시키며, 대상에게 걸려있는 해로운 효과를 모두 해제합니다. 대상에게 걸려있는 지휘 효과가 다음 라운드까지 추가 적용됩니다. 스킬 숙련도가 높아질수록 소모 AP가 감소합니다."
   },
   "1002705281": {
-    "english": "At the start of the round, grants increased ATK / ACU / Action Power to allies positioned on both sides and behind",
+    "english": "At the start of the round, grants increased ATK / ACU / SPD to allies positioned on both sides and behind",
     "korean": "라운드 개시 시, 양 옆과 뒤에 배치된 아군에게 공격력 / 적중 / 행동력 증가 효과를 부여합니다."
   },
   "1002705282": {
-    "english": "When waiting, switches to Defense Command and from the next round grants Damage Reduction / DEF / Action Power increase effects to allies on both sides and in front. Attack Command state is canceled.",
+    "english": "When waiting, switches to Defense Command and from the next round grants Damage Reduction / DEF / SPD increase effects to allies on both sides and in front. Attack Command state is canceled.",
     "korean": "대기 시, 방어 지휘로 전환해 다음 라운드부터 양 옆과 앞에 있는 아군에게 피해 감소 / 방어력 / 행동력 증가 효과를 부여합니다. 공격 지휘 상태가 해제됩니다."
   },
   "1002705283": {
-    "english": "Grants Damage Reduction / DEF increase effects and increases Action Power to allies on both sides and in front. If the target is a Protector, effects are applied at 1.5x strength.",
+    "english": "Grants Damage Reduction / DEF increase effects and increases SPD to allies on both sides and in front. If the target is a Protector, effects are applied at 1.5x strength.",
     "korean": "자신 양 옆과 앞에 있는 아군에게 받는 피해 감소 / 방어력 증가 효과를 부여하며 행동력을 증가시킵니다. 대상이 보호기인 경우, 효과가 1.5배로 적용됩니다."
   },
   "1002705284": {
@@ -3604,7 +3604,7 @@
     "korean": "적 공격 시, 공격 지휘 상태로 전환합니다."
   },
   "1002705285": {
-    "english": "When hit, increases Action Power and reduces incoming damage. This effect can stack up to 3 times. At maximum Damage Reduction stacks, at the start of the round, increases Effect Resistance and has a low chance to trigger Battle Continuation.",
+    "english": "When hit, increases SPD and reduces incoming damage. This effect can stack up to 3 times. At maximum Damage Reduction stacks, at the start of the round, increases Effect Resistance and has a low chance to trigger Battle Continuation.",
     "korean": "피격되면 행동력이 증가하고 받는 피해가 감소합니다. 해당 효과는 최대 3번까지 중첩됩니다. 피해 감소 중첩 수 최대로 라운드 개시 시, 효과 저항이 증가하며 낮은 확률로 전투 속행 효과가 생깁니다."
   },
   "1002705286": {
@@ -3612,15 +3612,15 @@
     "korean": "저격으로 {0} 보호 무시 피해를 줍니다. 대상의 HP가 낮을수록 피해량이 증가합니다."
   },
   "1002705287": {
-    "english": "At the start of the round, protects Air-type allies within range except Protectors. Depending on the number of <Where are you looking?> stacks, taunts allies within range to increase Action Power / ATK / CRIT and removes Action Power / EVA reduction effects.",
+    "english": "At the start of the round, protects Air-type allies within range except Protectors. Depending on the number of <Where are you looking?> stacks, taunts allies within range to increase SPD / ATK / CRIT and removes SPD / EVA reduction effects.",
     "korean": "라운드 개시 시, 범위 내의 보호기 제외 기동형 아군을 보호합니다. <어딜 보는거야?> 중첩 수에 따라 범위 내 아군들을 도발해 행동력 / 공격력 / 치명타를 증가시키며, 행동력 / 회피 감소 효과를 해제합니다."
   },
   "1002705288": {
-    "english": "When evading enemy attacks, increases Action Power for 3 rounds. This effect stacks up to 5 times, and when stacks reach 3 or more, increases ATK and CRIT.",
+    "english": "When evading enemy attacks, increases SPD for 3 rounds. This effect stacks up to 5 times, and when stacks reach 3 or more, increases ATK and CRIT.",
     "korean": "적 공격 회피 시, 3라운드 동안 행동력이 증가합니다. 해당 효과는 5번까지 중첩되며 , 중첩 수 3 이상이면 공격력과 치명타가 증가합니다."
   },
   "1002705289": {
-    "english": "When attacked, removes EVA / Action Power reduction effects and increases EVA for 2 rounds. The EVA increase is applied at maximum in the round it activates and decreases the following round.",
+    "english": "When attacked, removes EVA / SPD reduction effects and increases EVA for 2 rounds. The EVA increase is applied at maximum in the round it activates and decreases the following round.",
     "korean": "적 공격 시, 회피 / 행동력 감소 효과를 해제하며 2라운드 동안 회피가 증가합니다. 회피 증가 효과는 해당 효과가 발동한 라운드에 최대로 적용되었다가, 다음 라운드에 감소합니다."
   },
   "1002705290": {
@@ -3764,19 +3764,19 @@
     "korean": "라운드 개시 시, 자신과 인접 아군에게 해당 라운드에 처음 받는 공격은 반격 / 회피 증가 효과를 부여합니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002705326": {
-    "english": "Increases electric resistance, and when hit by electric attacks, increases ATK / CRIT / EVA / Action Power for 2 rounds.",
+    "english": "Increases electric resistance, and when hit by electric attacks, increases ATK / CRIT / EVA / SPD for 2 rounds.",
     "korean": "전기 저항이 증가하며 전기 속성 공격을 맞을 경우, 2라운드 동안 공격력 / 치명타 / 회피 / 행동력이 증가합니다."
   },
   "1002705328": {
-    "english": "Increases DEF / EVA / Action Power of protectors in front of you. When attacking while being protected by a designated target, increases ATK / ACU.",
+    "english": "Increases DEF / EVA / SPD of protectors in front of you. When attacking while being protected by a designated target, increases ATK / ACU.",
     "korean": "자신 앞에 있는 보호기들의 방어력 / 회피 / 행동력을 올려줍니다. 자신이 지정 대상 보호를 받는 상태로 공격 시, 공격력 / 적중이 증가합니다."
   },
   "1002705329": {
-    "english": "At the start of the round, increases ATK / ACU / Action Power of allies receiving attack support. Range increases at skill level 10.",
+    "english": "At the start of the round, increases ATK / ACU / SPD of allies receiving attack support. Range increases at skill level 10.",
     "korean": "라운드 개시 시, 공격 지원을 받는 상태인 아군들의 공격력 / 적중 / 행동력을 상승시킵니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002705330": {
-    "english": "Damage increases as the target's HP% decreases. Gains Action Power when defeating enemies or when there are pests in the same squad you want to eliminate.",
+    "english": "Damage increases as the target's HP% decreases. Gains SPD when defeating enemies or when there are pests in the same squad you want to eliminate.",
     "korean": "공격 대상의 HP%가 낮을수록 피해량이 증가합니다. 적을 처치하거나 같은 스쿼드 내에 처리하고 싶은 해충이 있는 경우, 행동력이 증가합니다."
   },
   "1002705331": {
@@ -3784,7 +3784,7 @@
     "korean": "라운드 개시 시, 공격력이 최대 3회까지 증가하며 3중첩 이상이면 공격력이 대폭 증가합니다. 해당 상태에서 공격 시 방어막/피해 감소 효과를 무시하지만, 다음 라운드에 모든 공격력 증가 효과가 해제됩니다."
   },
   "1002705332": {
-    "english": "At the start of the round, if there are allies with current HP at 75% or below within range, increases the target's ATK / DEF / Action Power and supports their attacks. Range increases at skill level 10.",
+    "english": "At the start of the round, if there are allies with current HP at 75% or below within range, increases the target's ATK / DEF / SPD and supports their attacks. Range increases at skill level 10.",
     "korean": "라운드 개시 시 범위 내에 현재 HP가 75% 이하인 아군이 있는 경우, 대상의 공격력 / 방어력 / 행동력을 높여주고 대상의 공격을 지원합니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002705333": {
@@ -3820,7 +3820,7 @@
     "korean": "굶주린 늑대 (경장 외 AP)"
   },
   "1002705341": {
-    "english": "Battle Excitement (Action Power)",
+    "english": "Battle Excitement (SPD)",
     "korean": "전의 고양 (행동력)"
   },
   "1002705342": {
@@ -3868,7 +3868,7 @@
     "korean": "보병 지원 (AP 더미)"
   },
   "1002705353": {
-    "english": "Mobile Shooting (Action Power: Tiles)",
+    "english": "Mobile Shooting (SPD: Tiles)",
     "korean": "기동간 사격 (행동력 : 칸)"
   },
   "1002705354": {
@@ -3996,7 +3996,7 @@
     "korean": "오늘의 운세는~ (정찰)"
   },
   "1002705385": {
-    "english": "Motion Pattern Analysis (Action Power Increase)",
+    "english": "Motion Pattern Analysis (SPD Increase)",
     "korean": "동작 패턴 분석 (행동력 증가)"
   }
 }

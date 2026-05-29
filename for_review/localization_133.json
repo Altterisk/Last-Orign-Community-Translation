@@ -12,7 +12,7 @@
     "korean": "목표 지점에 {0}의 피해를 주고, 공격력 / 방어력을 감소시킵니다. 대상이 표식 상태 일 시 추가 피해를 입힙니다."
   },
   "1002706389": {
-    "english": "Increases the Attack and Action Power of all allies and decreases all elemental resistances. Additionally, increases your own Defense.",
+    "english": "Increases the Attack and SPD of all allies and decreases all elemental resistances. Additionally, increases your own Defense.",
     "korean": "모든 아군의 공격력 / 행동력을 증가시키고, 모든 속성 저항을 감소 시킵니다. 자신에게는 추가적으로 방어력을 증가시킵니다."
   },
   "1002706390": {
@@ -56,7 +56,7 @@
     "korean": "약점 분석 스킬 사용 시, <약점 분석>이 적용되고 <약점 분석>의 중첩 수에 따라 주위 아군의 행동력이 증가합니다. <약점 분석>이 최대 중첩인 상태에서 속성 공격에 피격 시, <연산 오류> 상태가 되어 <약점 분석> 상태가 해제되고 해당 상태에서 라운드 개시 시, 자신을 포함한 모든 아군의 강화 효과가 해제되고 2라운드 동안 행동 불능 상태가 됩니다."
   },
   "1002706400": {
-    "english": "At the start of the round / if you and each nearby ally have ATK/ DEF / ACU / CRIT/ action power / EVA reduction effects, grants increased values for the reduced stats.",
+    "english": "At the start of the round / if you and each nearby ally have ATK/ DEF / ACU / CRIT/ SPD / EVA reduction effects, grants increased values for the reduced stats.",
     "korean": "라운드 개시 시, 자신과 주위의 각 아군에게 공격력 / 방어력 / 적중 / 치명타 / 행동력 / 회피 감소 효과가 적용돼 있을 경우, 감소된 항목을 증가한 수치로 부여합니다."
   },
   "1002706401": {
@@ -120,15 +120,15 @@
     "korean": "지정 범위 적에게 {0}의 보호 / 방어막 / 피해 감소 무시 피해를 주고, 적 방어력 / 사거리를 감소시키며 치명타 발생 시 추가 피해를 입힙니다."
   },
   "1002706416": {
-    "english": "Deals {0} damage to the designated area / for 2 rounds, applies increased damage taken / action power reduction / immobilization to the target(s).",
+    "english": "Deals {0} damage to the designated area / for 2 rounds, applies increased damage taken / SPD reduction / immobilization to the target(s).",
     "korean": "지정 범위에 {0} 피해를 주고, 2라운드 동안 대상에게 받는 피해 증가 / 행동력 감소 / 이동 불가를 적용합니다."
   },
   "1002706417": {
-    "english": "Deals {0} damage to the designated area / applies AP reduction / low chance of skill disable / skill disable chance increases if the enemy is immobilized / against Light type, reduces ATK/ ACU/ against Air type, reduces action power / EVA/ against Heavy type, reduces ATK/ DEF.",
+    "english": "Deals {0} damage to the designated area / applies AP reduction / low chance of skill disable / skill disable chance increases if the enemy is immobilized / against Light type, reduces ATK/ ACU/ against Air type, reduces SPD / EVA/ against Heavy type, reduces ATK/ DEF.",
     "korean": "지정 범위에 {0} 피해를 주고, AP 감소 / 낮은 확률로 스킬 사용 불가를 적용합니다. 적 이동 불가 상태 시 스킬 사용 불가 확률이 증가하며 경장형일 시 공격력 / 적중, 기동형일 시 행동력 / 회피, 중장형일 시 공격력 / 방어력이 감소합니다."
   },
   "1002706418": {
-    "english": "At the start of the round / grants allies within range: if Light type, ATK/ ACU increase / if Air  type, action power / EVA increase / if Heavy type, ATK/ DEF increase / if AGS, additionally grants DEF penetration.",
+    "english": "At the start of the round / grants allies within range: if Light type, ATK/ ACU increase / if Air  type, SPD / EVA increase / if Heavy type, ATK/ DEF increase / if AGS, additionally grants DEF penetration.",
     "korean": "라운드 개시 시, 범위 내 아군이 경장형일 시 공격력 / 적중, 기동형일 시 행동력 / 회피, 중장형일 시 공격력 / 방어력 증가를 부여하고 AGS일 시 방어 관통을 추가 부여합니다."
   },
   "1002706419": {
@@ -416,7 +416,7 @@
     "korean": "목표 지점 {0} 보호 무시 피해. 이동 불가 / 표식 대상 피해량 증가 (1r 후 착탄)"
   },
   "1002706490": {
-    "english": "Increases DEF penetration. Each time an enemy is defeated, ATK power and action power increase.",
+    "english": "Increases DEF penetration. Each time an enemy is defeated, ATK power and SPD increase.",
     "korean": "방어 관통 증가. 적이 처치될 때마다 공격력 / 행동력 증가"
   },
   "1002706491": {
@@ -720,7 +720,7 @@
     "korean": "아군 AP / 공격력 / 적중 / 방어 관통 증가"
   },
   "1002706566": {
-    "english": "Increases ATK / AP of allies affected by Pinto / Miho / Steel Draco / Starfish skills",
+    "english": "Increases ATK / AP of allies affected by Pinto / Miho / Steel Draco / Bulgasari skills",
     "korean": "핀토 / 미호 / 스틸 드라코 / 불가사리의 스킬 효과를 받는 아군 공격력 / 행동력 증가"
   },
   "1002706567": {
@@ -964,15 +964,15 @@
     "korean": "열보호가 활성화 된 아군 받는피해 감소"
   },
   "1002706627": {
-    "english": "Designated area {0} damage / increased damage taken / action power reduction / immobilization",
+    "english": "Designated area {0} damage / increased damage taken / SPD reduction / immobilization",
     "korean": "지정 범위 {0} 피해. 받는 피해 증가 / 행동력 감소 / 이동 불가"
   },
   "1002706628": {
-    "english": "Designated area {0} damage / AP reduction / skill disable (higher chance if target is immobilized) / Light type ATK/ ACU reduction / Air  type action power / EVA reduction / Heavy type ATK/ DEF reduction",
+    "english": "Designated area {0} damage / AP reduction / skill disable (higher chance if target is immobilized) / Light type ATK/ ACU reduction / Air  type SPD / EVA reduction / Heavy type ATK/ DEF reduction",
     "korean": "지정 범위 {0} 피해. AP 감소, 스킬 사용 불가(적 이동 불가시 확률 증가), 경장형 공격력 / 적중, 기동형 행동력 / 회피, 중장형 공격력 / 방어력 감소"
   },
   "1002706629": {
-    "english": "Nearby allies: Light type ATK/ ACU increase / Air type action power / EVA increase / Heavy type ATK/ DEF increase / AGS additional DEF penetration increase",
+    "english": "Nearby allies: Light type ATK/ ACU increase / Air type SPD / EVA increase / Heavy type ATK/ DEF increase / AGS additional DEF penetration increase",
     "korean": "주변 아군 경장형 공격력 / 적중, 기동형 행동력 / 회피, 중장형 공격력 / 방어력 증가, AGS 방어 관통 추가 증가"
   },
   "1002706630": {
@@ -980,7 +980,7 @@
     "korean": "라운드 개시 시 자신 방어막 / 방어력 증가 적용, 매 라운드 효과 감소"
   },
   "1002706631": {
-    "english": "At the start of the round / if under ATK/ DEF / ACU  / CRIT/ action power / EVA reduction effects, grants increased values for the reduced stats",
+    "english": "At the start of the round / if under ATK/ DEF / ACU  / CRIT/ SPD / EVA reduction effects, grants increased values for the reduced stats",
     "korean": "라운드 개시 시 공격력 / 방어력 / 적중 / 치명타 / 행동력 / 회피 감소 효과가 적용돼 있을 경우, 감소된 항목을 증가한 수치로 부여"
   },
   "1002706632": {
@@ -1792,7 +1792,7 @@
     "korean": "수확의 낫"
   },
   "1002706834": {
-    "english": "White Wing [Rapid Cooling] (Action Power Reduction)",
+    "english": "White Wing [Rapid Cooling] (SPD Reduction)",
     "korean": "하얀 날개 [급속 냉각](행동력 감소)"
   },
   "1002706835": {
@@ -2668,7 +2668,7 @@
     "korean": "과흥분 버프, 자신 공격력 증가, 과흥분 시 방어 관통 증가"
   },
   "1002707053": {
-    "english": "Increases the user's action power. While affected by Overexcitement, gains additional AP.",
+    "english": "Increases the user's SPD. While affected by Overexcitement, gains additional AP.",
     "korean": "자신 행동력 증가, 과흥분 시 행동력 추가 증가"
   },
   "1002707054": {
@@ -3024,7 +3024,7 @@
     "korean": "전투 개시 시 스쿼드에 기동형 아군 수가 3 이상일 경우, 모든 기동형 아군 및 적의 사거리 / 적중을 증가시키고, 모든 경장 / 중장형 아군 및 적의 사거리 / 적중을 감소시킵니다. 해당 효과는 해제할 수 없습니다."
   },
   "1002707142": {
-    "english": "At the start of combat, if there are 3 or more Heavy-type allies in the squad, increase the AP/Action Power of all Heavy-type allies and enemies, and decrease the AP/Action Power of all Light/Mobile-type allies and enemies. This effect cannot be removed.",
+    "english": "At the start of combat, if there are 3 or more Heavy-type allies in the squad, increase the AP/SPD of all Heavy-type allies and enemies, and decrease the AP/SPD of all Light/Mobile-type allies and enemies. This effect cannot be removed.",
     "korean": "전투 개시 시 스쿼드에 중장형 아군 수가 3 이상일 경우, 모든 중장형 아군 및 적의 AP / 행동력을 증가시키고, 모든 경장 / 기동형 아군 및 적의 AP / 행동력을 감소시킵니다. 해당 효과는 해제할 수 없습니다."
   },
   "1002707143": {
@@ -3184,7 +3184,7 @@
     "korean": "최대 출력"
   },
   "1002707182": {
-    "english": "At the start of a round, if you are in Round 2 or lower, your Action Power increases. When using the <Sound Wave> skill in the Maximum Output state, it reduces the target's AP.",
+    "english": "At the start of a round, if you are in Round 2 or lower, your SPD increases. When using the <Sound Wave> skill in the Maximum Output state, it reduces the target's AP.",
     "korean": "라운드 개시 시, 2라운드 이하인 상태라면 행동력이 증가합니다. 최대 출력 상태에서 <사운드 웨이브> 스킬을 사용 시, 대상의 AP를 감소시킵니다."
   },
   "1002707183": {
@@ -3224,7 +3224,7 @@
     "korean": "전투 개시 시 스쿼드에 기동형 아군 수가 2 이상일 경우, 기동형 아군의 사거리 / 적중을 증가시키고, 경장 / 중장형 적의 사거리 / 적중을 감소시킵니다. 해당 효과는 해제할 수 없습니다."
   },
   "1002707192": {
-    "english": "At the start of battle, if there are 2 or more heavy-armored allies in the squad, increases the AP / action power of heavy-armored allies and decreases all attribute resistances / action power of light-armored / Air-type enemies. This effect cannot be removed.",
+    "english": "At the start of battle, if there are 2 or more heavy-armored allies in the squad, increases the AP / SPD of heavy-armored allies and decreases all attribute resistances / SPD of light-armored / Air-type enemies. This effect cannot be removed.",
     "korean": "전투 개시 시 스쿼드에 중장형 아군 수가 2 이상일 경우, 중장형 아군의 AP / 행동력을 증가시키고, 경장 / 기동형 적의 모든 속성 저항 / 행동력을 감소시킵니다. 해당 효과는 해제할 수 없습니다."
   },
   "1002707193": {
@@ -3244,7 +3244,7 @@
     "korean": "기동형 아군 사거리, 적중 증가 / 경장, 중장형 적 사거리, 적중 감소"
   },
   "1002707197": {
-    "english": "Increase Heavy-Armored Allies' AP and Action Power / Decrease All Attribute Resistances and Action Power of Light-Armored and Air-Type Enemies",
+    "english": "Increase Heavy-Armored Allies' AP and SPD / Decrease All Attribute Resistances and SPD of Light-Armored and Air-Type Enemies",
     "korean": "중장형 아군 AP, 행동력 증가 / 경장, 기동형 적 모든 속성 저항, 행동력 감소"
   },
   "1002707198": {
@@ -3328,7 +3328,7 @@
     "korean": "약점 보완 : 적의 수에 비례 적 공격력 감소(최대 9 중첩)"
   },
   "1002707218": {
-    "english": "Cooperative Repair: Increase allied robot ATK / DEF / Action Power, grants additional buffs when in Fortune Squad.",
+    "english": "Cooperative Repair: Increase allied robot ATK / DEF / SPD, grants additional buffs when in Fortune Squad.",
     "korean": "협동 수리 : 아군 로봇 공격력 / 방어력 / 행동력 증가, 포츈 스쿼드 시 추가 버프"
   },
   "1002707219": {
@@ -3384,19 +3384,19 @@
     "korean": "대상에게 {0} 피해를 줍니다. 정찰 활성화 상태에서 전투 시작 시 [정보 수집 중] 버프가 활성화 되고 이 상태로 대기시 [정보 획득 완료] 버프가 활성화 되며, [정보 획득 완료] 버프 활성화 시 피격된 적은 저항 불가한 행동 불능 상태(전투 1회 한정)가 됩니다."
   },
   "1002707232": {
-    "english": "Deploys a Golden Factory that creates a shield for the allied team and increases ATK / Action Power. After equipping [Defensive Barrier], at the start of battle, the [Parts Secured] buff is activated, and during standby, the [Equipment Modification Complete] buff is activated. While in this state, using a skill grants yourself a mark and invincibility.",
+    "english": "Deploys a Golden Factory that creates a shield for the allied team and increases ATK / SPD. After equipping [Defensive Barrier], at the start of battle, the [Parts Secured] buff is activated, and during standby, the [Equipment Modification Complete] buff is activated. While in this state, using a skill grants yourself a mark and invincibility.",
     "korean": "아군 진영 방어막 생성, 공격력/행동력 증가 기능이 있는 골든 팩토리를 설치합니다. [방어 역장] 장착 후 전투 시작 시 [부품 확보] 버프가 활성화 되고, 대기 시 [장비 개조 완료] 버프가 활성화 되며, 이 상태에서 스킬 사용 시 자신에게 표식과 무적 상태를 부여 합니다."
   },
   "1002707233": {
-    "english": "Deploys a Golden Factory that creates a shield for the allied team and increases ATK / Action Power. After equipping [Defensive Barrier], at the start of battle, the [Parts Secured] buff is activated, and during standby, the [Equipment Modification Complete] buff is activated. While in this state, using a skill grants yourself a mark and invincibility.",
+    "english": "Deploys a Golden Factory that creates a shield for the allied team and increases ATK / SPD. After equipping [Defensive Barrier], at the start of battle, the [Parts Secured] buff is activated, and during standby, the [Equipment Modification Complete] buff is activated. While in this state, using a skill grants yourself a mark and invincibility.",
     "korean": "아군 진영 방어막 생성, 공격력/행동력 증가 기능이 있는 골든 팩토리를 설치합니다. [방어 역장] 장착 후 전투 시작 시 [부품 확보] 버프가 활성화 되고, 대기 시 [장비 개조 완료] 버프가 활성화 되며, 이 상태에서 스킬 사용 시 자신에게 표식과 무적 상태를 부여 합니다."
   },
   "1002707234": {
-    "english": "Deploys a Golden Factory that creates a shield for the allied team and increases ATK / Action Power. After equipping [Defensive Barrier], at the start of battle, the [Parts Secured] buff is activated, and during standby, the [Equipment Modification Complete] buff is activated. While in this state, using a skill grants yourself a mark and invincibility.",
+    "english": "Deploys a Golden Factory that creates a shield for the allied team and increases ATK / SPD. After equipping [Defensive Barrier], at the start of battle, the [Parts Secured] buff is activated, and during standby, the [Equipment Modification Complete] buff is activated. While in this state, using a skill grants yourself a mark and invincibility.",
     "korean": "아군 진영 방어막 생성, 공격력/행동력 증가 기능이 있는 골든 팩토리를 설치합니다. [방어 역장] 장착 후 전투 시작 시 [부품 확보] 버프가 활성화 되고, 대기 시 [장비 개조 완료] 버프가 활성화 되며, 이 상태에서 스킬 사용 시 자신에게 표식과 무적 상태를 부여 합니다."
   },
   "1002707235": {
-    "english": "At the start of the round, increases own action power. While in the [Parts Secured] state, own AP increases at the start of battle.",
+    "english": "At the start of the round, increases own SPD. While in the [Parts Secured] state, own AP increases at the start of battle.",
     "korean": "라운드 시작 시 자신의 행동력을 증가 시킵니다. [부품 확보] 상태에서는 전투 시작시 자신의 AP 가 증가 합니다."
   },
   "1002707236": {
@@ -3432,7 +3432,7 @@
     "korean": "적의 수에 비례하여 적의 공격력을 중첩하여 감소 시킵니다."
   },
   "1002707244": {
-    "english": "Increases the ATK, DEF, and action power of robot characters in the same squad. If Fortune is in the squad, each buff is further increased.",
+    "english": "Increases the ATK, DEF, and SPD of robot characters in the same squad. If Fortune is in the squad, each buff is further increased.",
     "korean": "같은 스쿼드에 있는 로봇 캐릭터의 공격력, 방어력, 행동력이 증가합니다. 스쿼드에 포츈이 있을 시 각 버프가 추가로 증가 합니다."
   },
   "1002707245": {
@@ -3500,7 +3500,7 @@
     "korean": "목표 지점에 골든 팩토리 설치. 자신 표식 / 피해 무효화"
   },
   "1002707261": {
-    "english": "Increases own action power / AP",
+    "english": "Increases own SPD / AP",
     "korean": "자신 행동력 / AP 증가"
   },
   "1002707262": {
@@ -3536,7 +3536,7 @@
     "korean": "적군 인원 수 비례 공격력 감소"
   },
   "1002707270": {
-    "english": "Increases robot allies' ATK / DEF / action power, additional buff increase if Fortune is in the squad.",
+    "english": "Increases robot allies' ATK / DEF / SPD, additional buff increase if Fortune is in the squad.",
     "korean": "로봇 아군 공격력 / 방어력 / 행동력 증가, 스쿼드에 포츈 있을 시 각 버프 추가 증가"
   },
   "1002707271": {
@@ -3768,7 +3768,7 @@
     "korean": "적군 전체 모든 속성 저항 감소/특정 장비 착용 시 모든 속성 저항 감소는 취소되고 장비에 따른 속성 저항만 대폭 감소"
   },
   "1002707328": {
-    "english": "Increases own action power / increases ATK / ACU / EVA / AP / effect resistance of allies with Angel's Embrace buff.",
+    "english": "Increases own SPD / increases ATK / ACU / EVA / AP / effect resistance of allies with Angel's Embrace buff.",
     "korean": "자신 행동력 상승/천사의 포옹 버프 적용된 아군 공격력/적중/회피/AP/효과저항 증가"
   },
   "1002707329": {
@@ -3808,7 +3808,7 @@
     "korean": "라운드 개시 시, 범위 내 아군과 자신의 공격력과 행동력을 증가시킵니다. 대기 시 [바로 끝내주마!]상태를 부여하여 방어관통, 공격력, 행동력을 추가로 상승 시키며 중첩됩니다."
   },
   "1002707338": {
-    "english": "At the start of the round, [Hype the Crowd] effect is increased by 50% for self, Mighty R, Barbariana, Skadi, Tiequan, Elven Forest Maker, T-60 Starfish, and Niva within range.&nWhen using <Marvelous Dropkick>, triggers a Coordinated Attack with <Babel Slam>, <Demolition Initiated>, <Final Hack>, <Hundred Step Fist>, <Sapling Planting>, <Bunker Buster>, or <Bunny Annihilation Kick!>.&nIf multiple units can participate in the Coordinated Attack, priority is given in the order listed above.",
+    "english": "At the start of the round, [Hype the Crowd] effect is increased by 50% for self, Mighty R, Barbariana, Skadi, Tiequan, Elven Forest Maker, T-60 Bulgasari, and Niva within range.&nWhen using <Marvelous Dropkick>, triggers a Coordinated Attack with <Babel Slam>, <Demolition Initiated>, <Final Hack>, <Hundred Step Fist>, <Sapling Planting>, <Bunker Buster>, or <Bunny Annihilation Kick!>.&nIf multiple units can participate in the Coordinated Attack, priority is given in the order listed above.",
     "korean": "라운드 개시 시, 범위 내에 자신, 마이티R, 바바리아나, 스카디, 티에치엔, 엘븐포레스트 메이커, T-60 불가사리, 니바는 [환호 유도] 효과가 50% 증가합니다.&n<마벨러스 드롭킥>을 사용했을 때 <바벨 강타>, <철거 개시>, <최후의 해킹>, <백보신권>, <묘목 심기>, <벙커 버스터>, <바니 파멸킥!> 스킬로 협동 공격을 유도 합니다. &n협동 공격을 할 수 있는 전투원이 다수인 경우 상기 전투원 순서로 우선권을 가집니다."
   },
   "1002707339": {
@@ -3856,7 +3856,7 @@
     "korean": "아군 단일 대상에게 타입에 따라 변화하는 버프를 부여합니다.&n공격기 : 공격력&n보호기 : 회피/방어력 증가 및 이로운 표식 상태 부여&n지원기 : AP 증가"
   },
   "1002707350": {
-    "english": "At the start of the round, increases the ATK and action power of attackers within range. If they are air/light type and have HP above 95%, an additional shield and damage reduction ignore effect is applied.",
+    "english": "At the start of the round, increases the ATK and SPD of attackers within range. If they are air/light type and have HP above 95%, an additional shield and damage reduction ignore effect is applied.",
     "korean": "라운드 개시 시, 범위 내 공격기의 공격력과 행동력을 증가시키고 기동형/경장형이며 HP가 95%이상일 경우, 방어막/받는 피해 감소 무시 효과가 추가 적용됩니다."
   },
   "1002707351": {
@@ -3872,7 +3872,7 @@
     "korean": "공격기 대상 공격력 증가 / 보호기 대상 방어력/회피 증가, 표식 지정 / 지원기 대상 AP 증가"
   },
   "1002707354": {
-    "english": "Increases ATK / action power for attacker targets / adds shield and damage reduction ignore for air/light type with HP above 95%.",
+    "english": "Increases ATK / SPD for attacker targets / adds shield and damage reduction ignore for air/light type with HP above 95%.",
     "korean": "공격기 대상 공격력/행동력 증가 / HP 95%이상 기동/경장 방어막/피해 감소 무시 추가"
   },
   "1002707355": {
@@ -3932,7 +3932,7 @@
     "korean": "{0} 냉기 피해를 주고, 2라운드 동안 대상을 표식으로 설정하고 냉기 저항을 감소시킵니다."
   },
   "1002707369": {
-    "english": "Set a beneficial mark on yourself for 5 rounds and increase Cold Resistance / Electric Resistance / Action Power.",
+    "english": "Set a beneficial mark on yourself for 5 rounds and increase Cold Resistance / Electric Resistance / SPD.",
     "korean": "5라운드 동안 자신에게 이로운 표식을 설정하고 냉기 저항 / 전기 저항 / 행동력을 증가시킵니다."
   },
   "1002707370": {
@@ -3952,11 +3952,11 @@
     "korean": "{0} 냉기 피해를 주고, 2라운드 동안 대상의 적중을 감소시킵니다. 대상이 침수 상태일 시, 추가로 효과 저항을 감소시킵니다."
   },
   "1002707374": {
-    "english": "At the start of a round, the Attack, Critical Hit, and Action Power of yourself and allies within a designated range increase. This effect is additionally applied whenever the Freezer Shooter attacks an enemy.",
+    "english": "At the start of a round, the Attack, Critical Hit, and SPD of yourself and allies within a designated range increase. This effect is additionally applied whenever the Freezer Shooter attacks an enemy.",
     "korean": "라운드 개시 시, 자신과 지정 범위 아군의 공격력 / 치명타 / 행동력이 증가합니다. 해당 효과는 프리져 슈터가 적을 공격할 때마다 추가 적용됩니다."
   },
   "1002707375": {
-    "english": "At the start of the round, if you are in a flooded state, your action power and effect resistance increase significantly.",
+    "english": "At the start of the round, if you are in a flooded state, your SPD and effect resistance increase significantly.",
     "korean": "라운드 개시 시, 자신이 침수 상태일 경우 행동력 / 효과 저항이 크게 증가합니다."
   },
   "1002707376": {
@@ -3988,7 +3988,7 @@
     "korean": "라운드 개시 시, 자신의 공격력을 증가시키고 범위 내 아군 공격기/지원기의 냉기 속성 저항을 증가시키고 자신을 포함한 기동형의 받는 피해를 감소시킵니다."
   },
   "1002707383": {
-    "english": "At the start of the round, increases own action power and CRIT. When attacking, increases the ATK power and cold resistance of allies within range, with a maximum of 3 stacks.",
+    "english": "At the start of the round, increases own SPD and CRIT. When attacking, increases the ATK power and cold resistance of allies within range, with a maximum of 3 stacks.",
     "korean": "라운드 개시 시, 자신의 행동력과 치명타를 증가시키고 공격 적중 시, 범위 내 아군의 공격력과 냉기 저항을 증가시키며 최대 3중첩까지 가능합니다."
   },
   "1002707384": {
@@ -3996,7 +3996,7 @@
     "korean": "냉기 저항 증가(공격기/지원기) / 받는 피해 감소(기동형) / 공격력 증가(자신)"
   },
   "1002707385": {
-    "english": "ATK  Power / Cold Resistance Increase (3 stacks) / Action Power / CRIT Increase (Self)",
+    "english": "ATK  Power / Cold Resistance Increase (3 stacks) / SPD / CRIT Increase (Self)",
     "korean": "공격력/냉기 저항 증가(3중첩) / 행동력/치명타 증가(자신)"
   }
 }

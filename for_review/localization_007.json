@@ -8,11 +8,11 @@
     "korean": "에너지 재 충전 : 피해 최소화"
   },
   "1000106060": {
-    "english": "Motion Pattern Analysis : At Round Start, Accuracy / Action Power Increase",
+    "english": "Motion Pattern Analysis : At Round Start, Accuracy / SPD Increase",
     "korean": "동작 패턴 분석 : 라운드 개시 시, 적중 / 행동력 증가"
   },
   "1000106061": {
-    "english": "Motion Pattern Analysis Error : Accuracy / Action Power Effects Removed",
+    "english": "Motion Pattern Analysis Error : Accuracy / SPD Effects Removed",
     "korean": "동작 패턴 분석 오류 : 적중 / 행동력 효과 해제"
   },
   "1000106062": {
@@ -60,7 +60,7 @@
     "korean": "중갑 파괴 : 대 중장 피해량 증가 / 방어 관통"
   },
   "1000106073": {
-    "english": "Barrel Enhancement : Attack Power Increase / Action Power Decrease",
+    "english": "Barrel Enhancement : Attack Power Increase / SPD Decrease",
     "korean": "포신 강화 : 공격력 증가 / 행동력 감소"
   },
   "1000106074": {
@@ -80,7 +80,7 @@
     "korean": "복구 모드 오작동"
   },
   "1000106078": {
-    "english": "Computation Circuit Loss : Defense Power / Action Power Decrease",
+    "english": "Computation Circuit Loss : Defense Power / SPD Decrease",
     "korean": "연산 회로 손실 : 방어력 / 행동력 감소"
   },
   "1000106079": {
@@ -88,11 +88,11 @@
     "korean": "출력 한계 해제 : 방어막 / 피해 감소 무시"
   },
   "1000106080": {
-    "english": "Output Delay : Action Power Decrease",
+    "english": "Output Delay : SPD Decrease",
     "korean": "출력 지연 : 행동력 감소"
   },
   "1000106081": {
-    "english": "Offensive Formation : Accuracy / Action Power Increase",
+    "english": "Offensive Formation : Accuracy / SPD Increase",
     "korean": "공격 대형 : 적중 / 행동력 증가"
   },
   "1000106082": {
@@ -116,7 +116,7 @@
     "korean": "염동 역장 : 방어막 / 받는 피해 감소"
   },
   "1000106087": {
-    "english": "Sweet Fragrance : Critical / Action Power Increase",
+    "english": "Sweet Fragrance : Critical / SPD Increase",
     "korean": "달콤한 향기 : 치명타 / 행동력 증가"
   },
   "1000106088": {
@@ -204,7 +204,7 @@
     "korean": "전장 장악 : AP / 공격력 / 적중 / 방어 관통 증가"
   },
   "1000106109": {
-    "english": "Counter-Terrorism Command: Increases the ATK power and action power of allies affected by Mongoose Team members.",
+    "english": "Counter-Terrorism Command: Increases the ATK power and SPD of allies affected by Mongoose Team members.",
     "korean": "대 테러 지휘 : 몽구스 팀 대원의 효과를 받는 아군 공격력 / 행동력 증가"
   },
   "1000106110": {
@@ -280,7 +280,7 @@
     "korean": "칙 방패 강타 : 방어력 / 치명타 감소 / 대상 도발"
   },
   "1000106128": {
-    "english": "Chik Survival Formation : Action Power / Elemental Resistance Increase",
+    "english": "Chik Survival Formation : SPD / Elemental Resistance Increase",
     "korean": "칙 생존 대형 : 행동력 / 속성 저항 증가"
   },
   "1000106129": {
@@ -496,15 +496,15 @@
     "korean": "강화 파장 : 치명타 / 적중 / 방어 관통 증가"
   },
   "1000106182": {
-    "english": "Shock Bomb : Action Power Decrease",
+    "english": "Shock Bomb : SPD Decrease",
     "korean": "쇼크 밤 : 행동력 감소"
   },
   "1000106183": {
-    "english": "Indiscriminate Bombing : Damage to Target with Action Power Decrease Increase",
+    "english": "Indiscriminate Bombing : Damage to Target with SPD Decrease Increase",
     "korean": "무차별 폭격 : 행동력 감소 대상 피해량 증가"
   },
   "1000106184": {
-    "english": "Speed Up : Action Power Increase / Evasion Decrease",
+    "english": "Speed Up : SPD Increase / Evasion Decrease",
     "korean": "스피드 업 : 행동력 증가 / 회피 감소"
   },
   "1000106185": {
@@ -528,11 +528,11 @@
     "korean": "긍정적인 사고방식 : 회피 증가 / 전투 속행"
   },
   "1000106190": {
-    "english": "Live Circus : Increase Ally Action Power When Using Skills",
+    "english": "Live Circus : Increase Ally SPD When Using Skills",
     "korean": "라이브 서커스 : 스킬 사용 시 아군 행동력 증가"
   },
   "1000106191": {
-    "english": "Live Circus : Increase Ally Action Power When Evading Attacks",
+    "english": "Live Circus : Increase Ally SPD When Evading Attacks",
     "korean": "라이브 서커스 : 공격 회피 시 아군 행동력 증가"
   },
   "1000106192": {
@@ -608,7 +608,7 @@
     "korean": "최후의 포효 : 전투 속행"
   },
   "1000106210": {
-    "english": "Final Roar : Battle Continuation then Action Power Increase",
+    "english": "Final Roar : Battle Continuation then SPD Increase",
     "korean": "최후의 포효 : 전투 속행 후 행동력 증가"
   },
   "1000106211": {
@@ -656,7 +656,7 @@
     "korean": "돌진 : 반격 효과 해제"
   },
   "1000106222": {
-    "english": "Rumor Collector : Action Power Increase",
+    "english": "Rumor Collector : SPD Increase",
     "korean": "루머 콜렉터 : 행동력 증가"
   },
   "1000106223": {
@@ -724,47 +724,47 @@
     "korean": "선제 지상 폭격 : 대 경장 & 중장형 피해량 증가"
   },
   "1000106239": {
-    "english": "O.D Amplifier : Attack Power / Action Power Increase / Fixed Damage Lv.1",
+    "english": "O.D Amplifier : Attack Power / SPD Increase / Fixed Damage Lv.1",
     "korean": "O.D 증폭기 : 공격력 / 행동력 증가 / 고정 피해 Lv.1"
   },
   "1000106240": {
-    "english": "O.D Amplifier : Attack Power / Action Power Increase / Fixed Damage Lv.2",
+    "english": "O.D Amplifier : Attack Power / SPD Increase / Fixed Damage Lv.2",
     "korean": "O.D 증폭기 : 공격력 / 행동력 증가 / 고정 피해 Lv.2"
   },
   "1000106241": {
-    "english": "O.D Amplifier : Attack Power / Action Power Increase / Fixed Damage Lv.3",
+    "english": "O.D Amplifier : Attack Power / SPD Increase / Fixed Damage Lv.3",
     "korean": "O.D 증폭기 : 공격력 / 행동력 증가 / 고정 피해 Lv.3"
   },
   "1000106242": {
-    "english": "O.D Amplifier : Attack Power / Action Power Increase / Fixed Damage Lv.4",
+    "english": "O.D Amplifier : Attack Power / SPD Increase / Fixed Damage Lv.4",
     "korean": "O.D 증폭기 : 공격력 / 행동력 증가 / 고정 피해 Lv.4"
   },
   "1000106243": {
-    "english": "O.D Amplifier : Attack Power / Action Power Increase / Fixed Damage Lv.5",
+    "english": "O.D Amplifier : Attack Power / SPD Increase / Fixed Damage Lv.5",
     "korean": "O.D 증폭기 : 공격력 / 행동력 증가 / 고정 피해 Lv.5"
   },
   "1000106244": {
-    "english": "O.D Amplifier : Attack Power / Action Power Increase / Fixed Damage Lv.6",
+    "english": "O.D Amplifier : Attack Power / SPD Increase / Fixed Damage Lv.6",
     "korean": "O.D 증폭기 : 공격력 / 행동력 증가 / 고정 피해 Lv.6"
   },
   "1000106245": {
-    "english": "O.D Amplifier : Attack Power / Action Power Increase / Fixed Damage Lv.7",
+    "english": "O.D Amplifier : Attack Power / SPD Increase / Fixed Damage Lv.7",
     "korean": "O.D 증폭기 : 공격력 / 행동력 증가 / 고정 피해 Lv.7"
   },
   "1000106246": {
-    "english": "O.D Amplifier : Attack Power / Action Power Increase / Fixed Damage Lv.8",
+    "english": "O.D Amplifier : Attack Power / SPD Increase / Fixed Damage Lv.8",
     "korean": "O.D 증폭기 : 공격력 / 행동력 증가 / 고정 피해 Lv.8"
   },
   "1000106247": {
-    "english": "O.D Amplifier : Attack Power / Action Power Increase / Fixed Damage Lv.9",
+    "english": "O.D Amplifier : Attack Power / SPD Increase / Fixed Damage Lv.9",
     "korean": "O.D 증폭기 : 공격력 / 행동력 증가 / 고정 피해 Lv.9"
   },
   "1000106248": {
-    "english": "O.D Amplifier : Attack Power / Action Power Increase / Fixed Damage Lv.10",
+    "english": "O.D Amplifier : Attack Power / SPD Increase / Fixed Damage Lv.10",
     "korean": "O.D 증폭기 : 공격력 / 행동력 증가 / 고정 피해 Lv.10"
   },
   "1000106249": {
-    "english": "O.D Amplifier : Attack Power / Action Power Increase / Fixed Damage Lv.11",
+    "english": "O.D Amplifier : Attack Power / SPD Increase / Fixed Damage Lv.11",
     "korean": "O.D 증폭기 : 공격력 / 행동력 증가 / 고정 피해 Lv.11"
   },
   "1000106250": {
@@ -804,7 +804,7 @@
     "korean": "초계 임무 개시 : 치명타 / 적중 / 회피 증가"
   },
   "1000106259": {
-    "english": "Patrol Mission Start : During Recon, Action Power Increase",
+    "english": "Patrol Mission Start : During Recon, SPD Increase",
     "korean": "초계 임무 개시 : 정찰 시, 행동력 증가"
   },
   "1000106260": {
@@ -836,7 +836,7 @@
     "korean": "불굴 : 회피 / 효과 저항 증가 / 받는 피해 감소"
   },
   "1000106267": {
-    "english": "Master of Military Strategy : Attack Power / Accuracy / Critical / Action Power Increase",
+    "english": "Master of Military Strategy : Attack Power / Accuracy / Critical / SPD Increase",
     "korean": "군사 전략 통달 : 공격력 / 적중 / 치명타 / 행동력 증가"
   },
   "1000106268": {
@@ -1008,11 +1008,11 @@
     "korean": "연계 공격 : 피해량 증가 (앵거 오브 호드 부대원)"
   },
   "1000106310": {
-    "english": "Mobile Shot: Increased Action Power (Wolf)",
+    "english": "Mobile Shot: Increased SPD (Wolf)",
     "korean": "기동간 사격 : 행동력 증가 (울프)"
   },
   "1000106311": {
-    "english": "Mobile Shot: Increased Action Power (Feather)",
+    "english": "Mobile Shot: Increased SPD (Feather)",
     "korean": "기동간 사격 : 행동력 증가 (페더)"
   },
   "1000106312": {
@@ -1028,11 +1028,11 @@
     "korean": "편대 호위 : 인접 지원기 지정 보호"
   },
   "1000106315": {
-    "english": "Attack Command (Observation): Increases ATK power / ACU / action power",
+    "english": "Attack Command (Observation): Increases ATK power / ACU / SPD",
     "korean": "공격 지휘 (관측) : 공격력 / 적중 / 행동력 증가"
   },
   "1000106316": {
-    "english": "Defense Command (Observation): Reduces damage taken / Increases defense / action power",
+    "english": "Defense Command (Observation): Reduces damage taken / Increases defense / SPD",
     "korean": "방어 지휘 (관측) : 받는 피해 감소 / 방어력 / 행동력 증가"
   },
   "1000106317": {
@@ -1092,7 +1092,7 @@
     "korean": "의기 양양 : 대 기동형 피해량 증가"
   },
   "1000106331": {
-    "english": "Optical Camouflage Activation : Attack increase / Action Power reduction",
+    "english": "Optical Camouflage Activation : Attack increase / SPD reduction",
     "korean": "광학 미채 활성화 : 공격력 증가 / 행동력 감소"
   },
   "1000106332": {
@@ -1132,7 +1132,7 @@
     "korean": "함대 포격 개시 : 치명타 시, 방어막 해제"
   },
   "1000106341": {
-    "english": "Indiscriminate Bombing : Additional electric damage to Action Power reduction targets",
+    "english": "Indiscriminate Bombing : Additional electric damage to SPD reduction targets",
     "korean": "무차별 폭격 : 행동력 감소 대상 추가 전기 피해"
   },
   "1000106342": {
@@ -1152,11 +1152,11 @@
     "korean": "톱날 발사 : 방어력 감소 대상에게 추가 피해"
   },
   "1000106346": {
-    "english": "Attempt to talk: Defense/action power decreased",
+    "english": "Attempt to talk: Defense/SPD decreased",
     "korean": "대화 시도 : 방어력 / 행동력 감소"
   },
   "1000106347": {
-    "english": "Let's go hot! : Increases action power / DEF penetration / ATK when attacking",
+    "english": "Let's go hot! : Increases SPD / DEF penetration / ATK when attacking",
     "korean": "화끈하게 가보자고! : 공격 적중 시 행동력 / 방어 관통 / 공격력 증가"
   },
   "1000106348": {
@@ -1176,7 +1176,7 @@
     "korean": "위험해요! : 피격 시, 효과 저항 증가"
   },
   "1000106352": {
-    "english": "Executioner : When hit, Attack / Action Power increases",
+    "english": "Executioner : When hit, Attack / SPD increases",
     "korean": "처형자 : 피격 시, 공격력 / 행동력 증가"
   },
   "1000106353": {
@@ -1204,7 +1204,7 @@
     "korean": "뒤로 피하세요! : 자신 방어력 증가, 받는 피해 감소 3 중첩, 화염 속성 피격 시, 화염 저항 / 받는 피해 감소 효과"
   },
   "1000106359": {
-    "english": "Heat Protection: Designated area fire resistance / effect resistance / increased action power / designated protection",
+    "english": "Heat Protection: Designated area fire resistance / effect resistance / increased SPD / designated protection",
     "korean": "열기 보호: 지정 범위 화염 저항 / 효과 저항 / 행동력 증가 / 지정 보호"
   },
   "1000106360": {
@@ -1576,11 +1576,11 @@
     "korean": "호밍 레이저 : 표식 지정"
   },
   "1000106452": {
-    "english": "Operation Overload: {0}% Action Power",
+    "english": "Operation Overload: {0}% SPD",
     "korean": "연산 과부하 : 행동력 {0}%"
   },
   "1000106453": {
-    "english": "Operational Optimization: {0}% Action Power",
+    "english": "Operational Optimization: {0}% SPD",
     "korean": "연산 최적화 : 행동력{0}%"
   },
   "1000106454": {
@@ -1648,7 +1648,7 @@
     "korean": "보병 지원 : AP{0} (경장/중장)"
   },
   "1000106470": {
-    "english": "Linked Maneuver: {0}% Action Power",
+    "english": "Linked Maneuver: {0}% SPD",
     "korean": "연계 기동 : 행동력{0}%"
   },
   "1000106471": {
@@ -1772,7 +1772,7 @@
     "korean": "토모와 친구들~ : 적중{0}%"
   },
   "1000106501": {
-    "english": "Tomo and Friends~ : Action Power {0}%",
+    "english": "Tomo and Friends~ : SPD {0}%",
     "korean": "토모와 친구들~ : 행동력{0}%"
   },
   "1000106502": {
@@ -1848,7 +1848,7 @@
     "korean": "반응로 대폭발 : 공격력 {0}% 고정 피해"
   },
   "1000106520": {
-    "english": "Movement Pattern Analysis : Action Power {0}%",
+    "english": "Movement Pattern Analysis : SPD {0}%",
     "korean": "동작 패턴 분석 : 행동력{0}%"
   },
   "1000106521": {
@@ -1936,11 +1936,11 @@
     "korean": "연산 회로 손실 : 방어력 {0}%"
   },
   "1000106542": {
-    "english": "Gun Barrel Reinforcement: Action Power {0}%",
+    "english": "Gun Barrel Reinforcement: SPD {0}%",
     "korean": "포신 강화 : 행동력 {0}%"
   },
   "1000106543": {
-    "english": "Output Delay : Action Power {0}%",
+    "english": "Output Delay : SPD {0}%",
     "korean": "출력 지연 : 행동력 {0}%"
   },
   "1000106544": {
@@ -2120,7 +2120,7 @@
     "korean": "조심하세요! : AP{0}"
   },
   "1000106588": {
-    "english": "Chick Survival Formation : Action Power {0}%",
+    "english": "Chick Survival Formation : SPD {0}%",
     "korean": "칙 생존 대형 : 행동력{0}%"
   },
   "1000106589": {
@@ -2220,7 +2220,7 @@
     "korean": "강화 파장 : 방어 관통{0}%"
   },
   "1000106613": {
-    "english": "Shock Bomb : Action Power {0}%",
+    "english": "Shock Bomb : SPD {0}%",
     "korean": "쇼크 밤 : 행동력{0}%"
   },
   "1000106614": {
@@ -2228,7 +2228,7 @@
     "korean": "무차별 폭격 : 피해량{0}%"
   },
   "1000106615": {
-    "english": "Speed Up : Action Power {0}%",
+    "english": "Speed Up : SPD {0}%",
     "korean": "스피드 업 : 행동력{0}%"
   },
   "1000106616": {
@@ -2248,7 +2248,7 @@
     "korean": "긍정적인 사고방식 : {0}HP 전투 속행"
   },
   "1000106620": {
-    "english": "Live Circus : Action Power {0}%",
+    "english": "Live Circus : SPD {0}%",
     "korean": "라이브 서커스 : 행동력{0}%"
   },
   "1000106621": {
@@ -2332,7 +2332,7 @@
     "korean": "최후의 포효 : {0}HP 전투 속행"
   },
   "1000106641": {
-    "english": "Last Roar : Action Power {0}%",
+    "english": "Last Roar : SPD {0}%",
     "korean": "최후의 포효 : 행동력{0}%"
   },
   "1000106642": {
@@ -2368,7 +2368,7 @@
     "korean": "소닉붐 : 반격 효과 해제 / 이동 불가 / 표식"
   },
   "1000106650": {
-    "english": "Rumor Deployment Prep : Action Power {0}%",
+    "english": "Rumor Deployment Prep : SPD {0}%",
     "korean": "루머 배포 준비 : 행동력{0}%"
   },
   "1000106651": {
@@ -2912,7 +2912,7 @@
     "korean": "한눈팔면 안 돼요~ : 회피{0}% (3r)"
   },
   "1000106786": {
-    "english": "Suppressive Fire (Max Ammo) : Action Power {0}%",
+    "english": "Suppressive Fire (Max Ammo) : SPD {0}%",
     "korean": "탄막 사격 (잔탄 최대) : 행동력{0}%"
   },
   "1000106787": {
@@ -2928,7 +2928,7 @@
     "korean": "중갑 파괴 : 방어 관통{0}%"
   },
   "1000106790": {
-    "english": "Computation Circuit Loss : Action Power {0}%",
+    "english": "Computation Circuit Loss : SPD {0}%",
     "korean": "연산 회로 손실 : 행동력 {0}%"
   },
   "1000106791": {
@@ -2936,7 +2936,7 @@
     "korean": "출력 한계 해제 : 방어 관통{0}%"
   },
   "1000106792": {
-    "english": "Attack Formation : Action Power {0}%",
+    "english": "Attack Formation : SPD {0}%",
     "korean": "공격 대형 : 행동력{0}%"
   },
   "1000106793": {
@@ -2944,7 +2944,7 @@
     "korean": "무너진 공격 대형 : 방어력 {0}%"
   },
   "1000106794": {
-    "english": "Sweet Fragrance : Action Power {0}%",
+    "english": "Sweet Fragrance : SPD {0}%",
     "korean": "달콤한 향기 : 행동력{0}%"
   },
   "1000106795": {
@@ -3056,7 +3056,7 @@
     "korean": "현혹 : 공격력 {0}%"
   },
   "1000106822": {
-    "english": "Live Circus : Action Power {0}% (On skill use/evasion)",
+    "english": "Live Circus : SPD {0}% (On skill use/evasion)",
     "korean": "라이브 서커스 : 행동력{0}% (스킬 사용/회피 시)"
   },
   "1000106823": {
@@ -3212,7 +3212,7 @@
     "korean": "화끈하게 가보자고! : 방어 관통{0}%"
   },
   "1000106861": {
-    "english": "Executor : Action Power {0}%",
+    "english": "Executor : SPD {0}%",
     "korean": "처형자 : 행동력{0}%"
   },
   "1000106862": {
@@ -3336,7 +3336,7 @@
     "korean": "불굴의 의지 : 해로운 효과 해제 (HP 33% 이하)"
   },
   "1000106892": {
-    "english": "Assault Combat OS : Action Power {0}%",
+    "english": "Assault Combat OS : SPD {0}%",
     "korean": "돌격형 전투 OS : 행동력{0}%"
   },
   "1000106893": {
@@ -3352,7 +3352,7 @@
     "korean": "E.O.B D형 OS : {0}% 위력으로 반격"
   },
   "1000106896": {
-    "english": "Rumor Deployment Ready : Action Power {0}% (After 2nd wave)",
+    "english": "Rumor Deployment Ready : SPD {0}% (After 2nd wave)",
     "korean": "루머 배포 준비 : 행동력{0}% (2웨이브 이후)"
   },
   "1000106897": {
@@ -3372,7 +3372,7 @@
     "korean": "강행 정찰 : 정찰 활성화"
   },
   "1000106901": {
-    "english": "Flying Away~? : Action Power {0}%",
+    "english": "Flying Away~? : SPD {0}%",
     "korean": "날아간다~? : 행동력{0}%"
   },
   "1000106902": {
@@ -3388,7 +3388,7 @@
     "korean": "탄막 사격 (잔탄 최대) : 피해 감소 해제"
   },
   "1000106905": {
-    "english": "Ice Bolt: {0}% Action Power",
+    "english": "Ice Bolt: {0}% SPD",
     "korean": "빙결 볼트 : 행동력 {0}%"
   },
   "1000106906": {
@@ -3448,7 +3448,7 @@
     "korean": "압도적 존재감 : 받는 피해 감소 {0}%"
   },
   "1000106920": {
-    "english": "Final Roar : Action Power {0}% (When revived)",
+    "english": "Final Roar : SPD {0}% (When revived)",
     "korean": "최후의 포효 : 행동력{0}% (전투 속행 시)"
   },
   "1000106921": {
@@ -3752,7 +3752,7 @@
     "korean": "출력 강화 : 공격력{0}%"
   },
   "1000106996": {
-    "english": "Chick Weapon Supply : Action Power {0}%",
+    "english": "Chick Weapon Supply : SPD {0}%",
     "korean": "칙 무장 보급 : 행동력{0}%"
   },
   "1000106997": {
@@ -3760,7 +3760,7 @@
     "korean": "전황 뒤집기 : 방어 관통{0}%"
   },
   "1000106998": {
-    "english": "Final Supply : Action Power {0}%",
+    "english": "Final Supply : SPD {0}%",
     "korean": "마지막 보급 : 행동력{0}%"
   },
   "1000106999": {
@@ -3772,7 +3772,7 @@
     "korean": "공격 저지 : 공격력 {0}% (경장형)"
   },
   "1000107001": {
-    "english": "Output Boost : Action Power {0}%",
+    "english": "Output Boost : SPD {0}%",
     "korean": "출력 강화 : 행동력{0}%"
   },
   "1000107002": {
@@ -3780,19 +3780,19 @@
     "korean": "칙 무장 보급 : 받는 피해 감소{0}%"
   },
   "1000107003": {
-    "english": "Chick Weapon Supply : Action Power {0}%",
+    "english": "Chick Weapon Supply : SPD {0}%",
     "korean": "칙 무장 보급 : 행동력{0}%"
   },
   "1000107004": {
-    "english": "Chick Weapon Supply : Action Power {0}%",
+    "english": "Chick Weapon Supply : SPD {0}%",
     "korean": "칙 무장 보급 : 행동력{0}%"
   },
   "1000107005": {
-    "english": "Chick Weapon Supply : Action Power {0}%",
+    "english": "Chick Weapon Supply : SPD {0}%",
     "korean": "칙 무장 보급 : 행동력{0}%"
   },
   "1000107006": {
-    "english": "Chick Weapon Supply : Action Power {0}%",
+    "english": "Chick Weapon Supply : SPD {0}%",
     "korean": "칙 무장 보급 : 행동력{0}%"
   },
   "1000107007": {
@@ -3916,7 +3916,7 @@
     "korean": "출력 강화 : 공격력 / 적중 / 치명타 증가"
   },
   "1000107037": {
-    "english": "Chick Weapon Supply : Action Power / Anti-light damage increase",
+    "english": "Chick Weapon Supply : SPD / Anti-light damage increase",
     "korean": "칙 무장 보급 : 행동력 / 대 경장 피해량 증가"
   },
   "1000107038": {
@@ -3924,19 +3924,19 @@
     "korean": "전황 뒤집기 : 방어 관통 / 적중 / 치명타 증가"
   },
   "1000107039": {
-    "english": "Final Supply : Action Power / ATK / Critical increase / Accuracy reduction",
+    "english": "Final Supply : SPD / ATK / Critical increase / Accuracy reduction",
     "korean": "마지막 보급 : 행동력 / 공격력 / 치명타 증가 / 적중 감소"
   },
   "1000107040": {
-    "english": "Final Supply : Action Power / ATK / Critical increase / Accuracy reduction",
+    "english": "Final Supply : SPD / ATK / Critical increase / Accuracy reduction",
     "korean": "마지막 보급 : 행동력 / 공격력 / 치명타 증가 / 적중 감소"
   },
   "1000107041": {
-    "english": "Attack Block : ATK / Accuracy / Critical / Action Power reduction (Light type)",
+    "english": "Attack Block : ATK / Accuracy / Critical / SPD reduction (Light type)",
     "korean": "공격 저지 : 공격력 / 적중 / 치명타 / 행동력 감소 (경장형)"
   },
   "1000107042": {
-    "english": "Output Boost : Action Power increase",
+    "english": "Output Boost : SPD increase",
     "korean": "출력 강화 : 행동력 증가"
   },
   "1000107043": {
@@ -3944,19 +3944,19 @@
     "korean": "칙 무장 보급 : 받는 피해 감소"
   },
   "1000107044": {
-    "english": "Chick Weapon Supply : Action Power / Anti-light damage increase",
+    "english": "Chick Weapon Supply : SPD / Anti-light damage increase",
     "korean": "칙 무장 보급 : 행동력 / 대 경장 피해량 증가"
   },
   "1000107045": {
-    "english": "Chick Weapon Supply : Action Power / Anti-light damage increase",
+    "english": "Chick Weapon Supply : SPD / Anti-light damage increase",
     "korean": "칙 무장 보급 : 행동력 / 대 경장 피해량 증가"
   },
   "1000107046": {
-    "english": "Chick Weapon Supply : Action Power / Anti-light damage increase",
+    "english": "Chick Weapon Supply : SPD / Anti-light damage increase",
     "korean": "칙 무장 보급 : 행동력 / 대 경장 피해량 증가"
   },
   "1000107047": {
-    "english": "Chick Weapon Supply : Action Power / Anti-light damage increase",
+    "english": "Chick Weapon Supply : SPD / Anti-light damage increase",
     "korean": "칙 무장 보급 : 행동력 / 대 경장 피해량 증가"
   },
   "1000107048": {

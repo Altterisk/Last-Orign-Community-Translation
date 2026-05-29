@@ -56,7 +56,7 @@
     "korean": "다목적 벌지 : 방어 관통 저항 {0}% (추가)"
   },
   "BuffDesc1_Effect_3P_Galatea_N_5": {
-    "english": "Hero’s Spirit : Action Power {0}%",
+    "english": "Hero’s Spirit : SPD {0}%",
     "korean": "영웅의 기상 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_3P_Galatea_N_51": {
@@ -188,7 +188,7 @@
     "korean": "신성한 광휘 : 적중 {0}%"
   },
   "BuffDesc1_Effect_3P_Hirume_N_43": {
-    "english": "Divine Radiance : Action Power {0}%",
+    "english": "Divine Radiance : SPD {0}%",
     "korean": "신성한 광휘 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_3P_Hirume_N_44": {
@@ -236,7 +236,7 @@
     "korean": "질풍경초 : 해로운 효과 해제"
   },
   "BuffDesc1_Effect_3P_Labiata_N_31": {
-    "english": "Raging Gale Grass : Action Power {0}%",
+    "english": "Raging Gale Grass : SPD {0}%",
     "korean": "질풍경초 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_3P_Labiata_N_32": {
@@ -308,7 +308,7 @@
     "korean": "깜빡한 준비물 : 적중 {0}%"
   },
   "BuffDesc1_Effect_3P_Maria_N_27": {
-    "english": "Forgotten Supplies : Action Power {0}%",
+    "english": "Forgotten Supplies : SPD {0}%",
     "korean": "깜빡한 준비물 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_3P_Maria_N_3": {
@@ -384,11 +384,11 @@
     "korean": "길을 내어라! : 방어력 증가 해제 (HP 50% 이상)"
   },
   "BuffDesc1_Effect_3P_Melite_N_23": {
-    "english": "Competent Subordinate! : Action Power {0}% (Mermaid)",
+    "english": "Competent Subordinate! : SPD {0}% (Mermaid)",
     "korean": "유능한 부하야! : 행동력 {0}% (머메이드)"
   },
   "BuffDesc1_Effect_3P_Melite_N_24": {
-    "english": "So tired... : Action Power {0}%",
+    "english": "So tired... : SPD {0}%",
     "korean": "힘들어... : 행동력 {0}%"
   },
   "BuffDesc1_Effect_3P_Melite_N_25": {
@@ -620,7 +620,7 @@
     "korean": "그림자 감추기 : 보호 무시 비활성화"
   },
   "BuffDesc1_Effect_3P_Ran_N_33": {
-    "english": "Shadow Guard: Action Power {0}% (Spirit of Service)",
+    "english": "Shadow Guard: SPD {0}% (Spirit of Service)",
     "korean": "그림자 호위 : 행동력 {0}% (봉사정신)"
   },
   "BuffDesc1_Effect_3P_Ran_N_4": {
@@ -684,7 +684,7 @@
     "korean": "언니, 얼른 가자! : 스킬 위력{0}%"
   },
   "BuffDesc1_Effect_3P_Salacia_N_41": {
-    "english": "Sis, Let’s Go Quickly! : Action Power {0}%",
+    "english": "Sis, Let’s Go Quickly! : SPD {0}%",
     "korean": "언니, 얼른 가자! : 행동력{0}%"
   },
   "BuffDesc1_Effect_3P_Salacia_N_42": {
@@ -752,7 +752,7 @@
     "korean": "짝 : 방어막 {0} (보호기)"
   },
   "BuffDesc1_Effect_3P_Satgat_N_42": {
-    "english": "Pair : Action Power {0}% (Supporter)",
+    "english": "Pair : SPD {0}% (Supporter)",
     "korean": "짝 : 행동력 {0}% (지원기)"
   },
   "BuffDesc1_Effect_3P_Satgat_N_46": {
@@ -868,7 +868,7 @@
     "korean": "정밀 분석 : 공격력 {0}% (AGS)"
   },
   "BuffDesc1_Effect_AGS_Aeda_N_4": {
-    "english": "Computation Optimization : Action Power {0}%",
+    "english": "Computation Optimization : SPD {0}%",
     "korean": "연산 최적화 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_AGS_Aeda_N_41": {
@@ -896,7 +896,7 @@
     "korean": "고고도 스캐닝 : 정찰 활성화"
   },
   "BuffDesc1_Effect_AGS_Aeda_N_51": {
-    "english": "Position Lock : Action Power {0}%",
+    "english": "Position Lock : SPD {0}%",
     "korean": "위치 포착 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_AGS_Aeda_N_52": {
@@ -936,7 +936,7 @@
     "korean": "헌터-킬러 프로토콜 : 회피 {0}%"
   },
   "BuffDesc1_Effect_AGS_Deathstalker_N_5": {
-    "english": "Fire Support Enhancement : Action Power {0}%",
+    "english": "Fire Support Enhancement : SPD {0}%",
     "korean": "화력 지원 증강 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_AGS_Deathstalker_N_51": {
@@ -1388,7 +1388,7 @@
     "korean": "스트레이프 : 방어력 강화 해제"
   },
   "BuffDesc1_Effect_AGS_Watcher_N_2": {
-    "english": "Cooperative Recon : Remove Action Power Reduction",
+    "english": "Cooperative Recon : Remove SPD Reduction",
     "korean": "협동정찰 : 행동력 감소 해제"
   },
   "BuffDesc1_Effect_AGS_Watcher_N_21": {
@@ -1456,7 +1456,7 @@
     "korean": "창공의 눈 : 효과 저항 {0}% 감소"
   },
   "BuffDesc1_Effect_BR_AS12TurtleDragon_N_1": {
-    "english": "Legs! : Action Power {0}%",
+    "english": "Legs! : SPD {0}%",
     "korean": "다리! : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_AS12TurtleDragon_N_11": {
@@ -1600,7 +1600,7 @@
     "korean": "모모 언니! : 공격력 {0}"
   },
   "BuffDesc1_Effect_BR_Alvis_N_514": {
-    "english": "Sister Starfish!: ATK {0}",
+    "english": "Sister Bulgasari!: ATK {0}",
     "korean": "불가사리 언니! : 공격력 {0}"
   },
   "BuffDesc1_Effect_BR_Alvis_N_515": {
@@ -1704,7 +1704,7 @@
     "korean": "아껴 써야 해요! : 방어력 {0}%"
   },
   "BuffDesc1_Effect_BR_Andvari_N_23": {
-    "english": "Use It Sparingly! : Action Power {0}%",
+    "english": "Use It Sparingly! : SPD {0}%",
     "korean": "아껴 써야 해요! : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Andvari_N_24": {
@@ -1716,7 +1716,7 @@
     "korean": "아껴 써야 해요! (증폭) : 방어력 {0}%"
   },
   "BuffDesc1_Effect_BR_Andvari_N_26": {
-    "english": "You have to use it sparingly! (Amplification): Action Power {0}%",
+    "english": "You have to use it sparingly! (Amplification): SPD {0}%",
     "korean": "아껴 써야 해요! (증폭) : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Andvari_N_3": {
@@ -1768,7 +1768,7 @@
     "korean": "기관포 소사 : 대 중장형 피해량 {0}%"
   },
   "BuffDesc1_Effect_BR_Banshee_N_5": {
-    "english": "Fast and Deadly : Action Power {0}%",
+    "english": "Fast and Deadly : SPD {0}%",
     "korean": "폭장량 증가 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Banshee_N_51": {
@@ -2168,7 +2168,7 @@
     "korean": "가까이 오지마 : AP {0}"
   },
   "BuffDesc1_Effect_BR_Brunhild_N_34": {
-    "english": "Don’t Come Closer : Action Power {0}%",
+    "english": "Don’t Come Closer : SPD {0}%",
     "korean": "가까이 오지마 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Brunhild_N_4": {
@@ -2216,7 +2216,7 @@
     "korean": "감전 : AP {0}"
   },
   "BuffDesc1_Effect_BR_Bulgasari_CH_11": {
-    "english": "Shock Spike: Action Power Enhancement Unlock",
+    "english": "Shock Spike: SPD Enhancement Unlock",
     "korean": "쇼크 스파이크 : 행동력 강화 해제"
   },
   "BuffDesc1_Effect_BR_Bulgasari_CH_12": {
@@ -2332,7 +2332,7 @@
     "korean": "일점사 : 광역 피해 집중 {0}%"
   },
   "BuffDesc1_Effect_BR_Calista_N_3": {
-    "english": "Auto Reload : Action Power {0}%",
+    "english": "Auto Reload : SPD {0}%",
     "korean": "자동 장전 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Calista_N_31": {
@@ -2420,11 +2420,11 @@
     "korean": "고성능 레이더(스털링) : 회피 {0}%"
   },
   "BuffDesc1_Effect_BR_Echidna_N_1": {
-    "english": "Predation : Action Power {0}%",
+    "english": "Predation : SPD {0}%",
     "korean": "포식 : 행동력{0}%"
   },
   "BuffDesc1_Effect_BR_Echidna_N_11": {
-    "english": "Predation : Action Power {0}%",
+    "english": "Predation : SPD {0}%",
     "korean": "포식 : 행동력{0}%"
   },
   "BuffDesc1_Effect_BR_Echidna_N_12": {
@@ -2492,19 +2492,19 @@
     "korean": "여왕의 존재감 : 열 보호"
   },
   "BuffDesc1_Effect_BR_Echidna_N_5": {
-    "english": "Swamp of Desire : Action Power {0}%",
+    "english": "Swamp of Desire : SPD {0}%",
     "korean": "욕망의 늪 : 행동력{0}%"
   },
   "BuffDesc1_Effect_BR_Echidna_N_51": {
-    "english": "Swamp of Desire : Action Power {0}% (Heavy)",
+    "english": "Swamp of Desire : SPD {0}% (Heavy)",
     "korean": "욕망의 늪 : 행동력{0}% (중장)"
   },
   "BuffDesc1_Effect_BR_Echidna_N_52": {
-    "english": "Swamp of Desire : Action Power {0}%",
+    "english": "Swamp of Desire : SPD {0}%",
     "korean": "욕망의 늪 : 행동력{0}%"
   },
   "BuffDesc1_Effect_BR_Echidna_N_53": {
-    "english": "Swamp of Desire : Action Power {0}% (Heavy)",
+    "english": "Swamp of Desire : SPD {0}% (Heavy)",
     "korean": "욕망의 늪 : 행동력{0}% (중장)"
   },
   "BuffDesc1_Effect_BR_Echidna_N_54": {
@@ -2564,19 +2564,19 @@
     "korean": "날 혼자 내버려둬... : 내버려둬"
   },
   "BuffDesc1_Effect_BR_Efreeti_N_51": {
-    "english": "Leave Me Alone... : Remove Action Power Increase Effect",
+    "english": "Leave Me Alone... : Remove SPD Increase Effect",
     "korean": "날 혼자 내버려둬... : 행동력 증가 효과 해제"
   },
   "BuffDesc1_Effect_BR_Efreeti_N_52": {
-    "english": "Leave Me Alone... : Action Power {0}% (Non-Steel Line)",
+    "english": "Leave Me Alone... : SPD {0}% (Non-Steel Line)",
     "korean": "날 혼자 내버려둬... : 행동력{0}% (스틸라인 계통X)"
   },
   "BuffDesc1_Effect_BR_Efreeti_N_53": {
-    "english": "Leave Me Alone... : Action Power {0}%",
+    "english": "Leave Me Alone... : SPD {0}%",
     "korean": "날 혼자 내버려둬... : 행동력{0}%"
   },
   "BuffDesc1_Effect_BR_Efreeti_N_54": {
-    "english": "Leave Me Alone... : Action Power {0}%",
+    "english": "Leave Me Alone... : SPD {0}%",
     "korean": "날 혼자 내버려둬... : 행동력{0}%"
   },
   "BuffDesc1_Effect_BR_Efreeti_N_55": {
@@ -2584,7 +2584,7 @@
     "korean": "날 혼자 내버려둬... : 광역 피해 분산 효과 해제"
   },
   "BuffDesc1_Effect_BR_Efreeti_N_56": {
-    "english": "Leave Me Alone... : Action Power {0}%",
+    "english": "Leave Me Alone... : SPD {0}%",
     "korean": "날 혼자 내버려둬... : 행동력{0}%"
   },
   "BuffDesc1_Effect_BR_Efreeti_N_57": {
@@ -2640,11 +2640,11 @@
     "korean": "날 혼자 내버려둬... : 내버려둬…"
   },
   "BuffDesc1_Effect_BR_Efreeti_None_51": {
-    "english": "Leave Me Alone...: Removes Action Power Increase Effect",
+    "english": "Leave Me Alone...: Removes SPD Increase Effect",
     "korean": "날 혼자 내버려둬... : 행동력 증가 효과 해제"
   },
   "BuffDesc1_Effect_BR_Efreeti_None_52": {
-    "english": "Leave Me Alone...: Action Power {0}% (Not from Steel Line series)",
+    "english": "Leave Me Alone...: SPD {0}% (Not from Steel Line series)",
     "korean": "날 혼자 내버려둬... : 행동력{0}% (스틸라인 계통X)"
   },
   "BuffDesc1_Effect_BR_Efreeti_None_53": {
@@ -2652,7 +2652,7 @@
     "korean": "날 혼자 내버려둬... : 최대 행동 횟수{0}"
   },
   "BuffDesc1_Effect_BR_Efreeti_None_54": {
-    "english": "Leave Me Alone...: Action Power {0}%",
+    "english": "Leave Me Alone...: SPD {0}%",
     "korean": "날 혼자 내버려둬... : 행동력{0}%"
   },
   "BuffDesc1_Effect_BR_Efreeti_None_55": {
@@ -3032,7 +3032,7 @@
     "korean": "제병합동 : 적중 {0}% (지원기)"
   },
   "BuffDesc1_Effect_BR_Habetrot_N_44": {
-    "english": "Combined Arms : Action Power {0}% (Light Type)",
+    "english": "Combined Arms : SPD {0}% (Light Type)",
     "korean": "제병합동 : 행동력 {0}% (경장형)"
   },
   "BuffDesc1_Effect_BR_Habetrot_N_45": {
@@ -3068,7 +3068,7 @@
     "korean": "엘랑…? : 보호 무시 활성화"
   },
   "BuffDesc1_Effect_BR_Habetrot_N_53": {
-    "english": "Elan…? : Action Power {0}% (Marie)",
+    "english": "Elan…? : SPD {0}% (Marie)",
     "korean": "엘랑…? : 행동력 {0}% (마리)"
   },
   "BuffDesc1_Effect_BR_Habetrot_N_54": {
@@ -3148,35 +3148,35 @@
     "korean": "Lock on : 대 기동형 피해량{0}%"
   },
   "BuffDesc1_Effect_BR_Hela_N_1": {
-    "english": "Necromancy : Action Power {0}% (Target)",
+    "english": "Necromancy : SPD {0}% (Target)",
     "korean": "강령 : 행동력 {0}% (대상)"
   },
   "BuffDesc1_Effect_BR_Hela_N_11": {
-    "english": "Necromancy: Action Power {0}% (one claw)",
+    "english": "Necromancy: SPD {0}% (one claw)",
     "korean": "강령 : 행동력 {0}% (손톱 하나)"
   },
   "BuffDesc1_Effect_BR_Hela_N_12": {
-    "english": "Necromancy: Action Power {0}% (two claws)",
+    "english": "Necromancy: SPD {0}% (two claws)",
     "korean": "강령 : 행동력 {0}% (손톱 둘)"
   },
   "BuffDesc1_Effect_BR_Hela_N_13": {
-    "english": "Necromancy: Action Power {0}% (three claws)",
+    "english": "Necromancy: SPD {0}% (three claws)",
     "korean": "강령 : 행동력 {0}% (손톱 셋)"
   },
   "BuffDesc1_Effect_BR_Hela_N_14": {
-    "english": "Necromancy : Action Power {0}% (Self)",
+    "english": "Necromancy : SPD {0}% (Self)",
     "korean": "강령 : 행동력 {0}% (자신)"
   },
   "BuffDesc1_Effect_BR_Hela_N_15": {
-    "english": "Necromancy: Action Power {0}% (one claw)",
+    "english": "Necromancy: SPD {0}% (one claw)",
     "korean": "강령 : 행동력 {0}% (손톱 하나)"
   },
   "BuffDesc1_Effect_BR_Hela_N_16": {
-    "english": "Necromancy: Action Power {0}% (two claws)",
+    "english": "Necromancy: SPD {0}% (two claws)",
     "korean": "강령 : 행동력 {0}% (손톱 둘)"
   },
   "BuffDesc1_Effect_BR_Hela_N_17": {
-    "english": "Necromancy: Action Power {0}% (three claws)",
+    "english": "Necromancy: SPD {0}% (three claws)",
     "korean": "강령 : 행동력 {0}% (손톱 셋)"
   },
   "BuffDesc1_Effect_BR_Hela_N_18": {
@@ -3300,7 +3300,7 @@
     "korean": "진압 대형 편성 : 받는 피해 {0}% 감소 (몽구스)"
   },
   "BuffDesc1_Effect_BR_HongRyun_N_42": {
-    "english": "Suppression Formation: Damage received {0}% reduced (Starfish)",
+    "english": "Suppression Formation: Damage received {0}% reduced (Bulgasari)",
     "korean": "진압 대형 편성 : 받는 피해 {0}% 감소 (불가사리)"
   },
   "BuffDesc1_Effect_BR_HongRyun_N_43": {
@@ -3380,7 +3380,7 @@
     "korean": "간섭 대응 유닛 : 피해 무효화"
   },
   "BuffDesc1_Effect_BR_Hraesvelgr_N_41": {
-    "english": "Interference Response Unit : Action Power {0}%",
+    "english": "Interference Response Unit : SPD {0}%",
     "korean": "간섭 대응 유닛 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Hraesvelgr_N_44": {
@@ -3936,7 +3936,7 @@
     "korean": "냉철한 분석 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Leona_N_54": {
-    "english": "Cold Analysis (Amplified): Action Power {0}%",
+    "english": "Cold Analysis (Amplified): SPD {0}%",
     "korean": "냉철한 분석 (증폭) : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Leprechaun_N_1": {

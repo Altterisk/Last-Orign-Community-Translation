@@ -632,7 +632,7 @@
     "korean": "협동정찰 : 중장형 아군 공격력/적중 적의 수 많을 수록 증가, 경장형 아군 공격력/행동력 적의 수 적을 수록 증가"
   },
   "1000108216": {
-    "english": "Cooperative Reconnaissance: Heavy-armored allies' ATK/ACU increases with the number of enemies, while light-armored allies' ATK/action power increases with the number of enemies.",
+    "english": "Cooperative Reconnaissance: Heavy-armored allies' ATK/ACU increases with the number of enemies, while light-armored allies' ATK/SPD increases with the number of enemies.",
     "korean": "협동정찰 : 중장형 아군 공격력/적중 적의 수 많을 수록 증가, 경장형 아군 공격력/행동력 적의 수 적을 수록 증가"
   },
   "1000108217": {
@@ -716,7 +716,7 @@
     "korean": "공중 저격 : 보호 무시, 표식, 치명타시 피해량 증가, 적중 시 방어력/회피 감소"
   },
   "1000108237": {
-    "english": "Aimed Bombardment: Ignores Protection, Increases Damage Taken, Doomsday Main [Back to the Stone Age!] Cooperative Attack, Reduces Own Action Power on Hit",
+    "english": "Aimed Bombardment: Ignores Protection, Increases Damage Taken, Doomsday Main [Back to the Stone Age!] Cooperative Attack, Reduces Own SPD on Hit",
     "korean": "조준 폭격 : 보포 무시, 받는 피해 증가, 멸망의 메인 [석기 시대로!] 협동 공격, 공격 적중 시 자신 행동력 감소"
   },
   "1000108238": {
@@ -736,7 +736,7 @@
     "korean": "공중 저격 : 보호 무시, 표식, 치명타시 피해량 증가, 적중 시 방어력/회피 감소"
   },
   "1000108242": {
-    "english": "Aimed Bombardment: Ignores Protection, Increases Damage Taken, Doomsday Main [Back to the Stone Age!] Cooperative Attack, Reduces Own Action Power on Hit",
+    "english": "Aimed Bombardment: Ignores Protection, Increases Damage Taken, Doomsday Main [Back to the Stone Age!] Cooperative Attack, Reduces Own SPD on Hit",
     "korean": "조준 폭격 : 보포 무시, 받는 피해 증가, 멸망의 메인 [석기 시대로!] 협동 공격, 공격 적중 시 자신 행동력 감소"
   },
   "1000108243": {
@@ -1176,11 +1176,11 @@
     "korean": "수확의 낫 : 적 방어력 감소, 받는 피해 증가"
   },
   "1000108352": {
-    "english": "White Wings [Rapid Cooling]: Immobilizes Enemy, Reduces Action Power / Accuracy",
+    "english": "White Wings [Rapid Cooling]: Immobilizes Enemy, Reduces SPD / Accuracy",
     "korean": "하얀 날개 [급속 냉각] : 적 이동불가, 행동력 / 적중 감소"
   },
   "1000108353": {
-    "english": "White Wings [Rapid Cooling]: Immobilizes Enemy, Reduces Action Power / Accuracy",
+    "english": "White Wings [Rapid Cooling]: Immobilizes Enemy, Reduces SPD / Accuracy",
     "korean": "하얀 날개 [급속 냉각] : 적 이동불가, 행동력 / 적중 감소"
   },
   "1000108354": {
@@ -1192,7 +1192,7 @@
     "korean": "수확의 낫 : 받는 피해{0}%"
   },
   "1000108356": {
-    "english": "White Wings [Rapid Cooling]: Action Power {0}%",
+    "english": "White Wings [Rapid Cooling]: SPD {0}%",
     "korean": "하얀 날개 [급속 냉각] : 행동력 {0}%"
   },
   "1000108357": {
@@ -1452,83 +1452,83 @@
     "korean": "대 중장/경장 전투 OS : 중장형 / 경장형 공격 시, 피해 증가 Lv.20"
   },
   "1000108421": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.1",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.1",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.1"
   },
   "1000108422": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.2",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.2",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.2"
   },
   "1000108423": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.3",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.3",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.3"
   },
   "1000108424": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.4",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.4",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.4"
   },
   "1000108425": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.5",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.5",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.5"
   },
   "1000108426": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.6",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.6",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.6"
   },
   "1000108427": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.7",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.7",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.7"
   },
   "1000108428": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.8",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.8",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.8"
   },
   "1000108429": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.9",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.9",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.9"
   },
   "1000108430": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.10",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.10",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.10"
   },
   "1000108431": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.11",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.11",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.11"
   },
   "1000108432": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.12",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.12",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.12"
   },
   "1000108433": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.13",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.13",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.13"
   },
   "1000108434": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.14",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.14",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.14"
   },
   "1000108435": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.15",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.15",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.15"
   },
   "1000108436": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.16",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.16",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.16"
   },
   "1000108437": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.17",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.17",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.17"
   },
   "1000108438": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.18",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.18",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.18"
   },
   "1000108439": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.19",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.19",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.19"
   },
   "1000108440": {
-    "english": "Improved High-Speed Learning OS: EXP gain increase / Action Power decrease Lv.20",
+    "english": "Improved High-Speed Learning OS: EXP gain increase / SPD decrease Lv.20",
     "korean": "개량형 고속 학습 OS : 획득 경험치 증가 / 행동력 감소 Lv.20"
   },
   "1000108441": {
@@ -2092,83 +2092,83 @@
     "korean": "대 중장/경장형 OS : 경장형 피해량{0}%"
   },
   "1000108581": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108582": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108583": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108584": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108585": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108586": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108587": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108588": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108589": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108590": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108591": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108592": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108593": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108594": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108595": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108596": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108597": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108598": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108599": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108600": {
-    "english": "Improved High-Speed Learning OS: Action Power {0}%",
+    "english": "Improved High-Speed Learning OS: SPD {0}%",
     "korean": "개량형 고속 학습 OS : 행동력{0}%"
   },
   "1000108601": {
@@ -2308,7 +2308,7 @@
     "korean": "과 흥분 상태 : 과 흥분 버프 발생(피격시 해제), 2회 공격시 과 흥분 버프 재발생, 공격력 증가, 방어 관통"
   },
   "1000108635": {
-    "english": "Target Acquired: Increases own Action Power, further increases Action Power while [Overexcited]",
+    "english": "Target Acquired: Increases own SPD, further increases SPD while [Overexcited]",
     "korean": "사냥감 포착 : 자신 행동력 증가, [과흥분] 상태 일 시 행동력 추가 증가"
   },
   "1000108636": {
@@ -2344,7 +2344,7 @@
     "korean": "과 흥분 상태 : 과 흥분 버프 발생(피격시 해제), 2회 공격시 과 흥분 버프 재발생, 공격력 증가, 방어 관통"
   },
   "1000108644": {
-    "english": "Target Acquired: Increases own Action Power, further increases Action Power while [Overexcited]",
+    "english": "Target Acquired: Increases own SPD, further increases SPD while [Overexcited]",
     "korean": "사냥감 포착 : 자신 행동력 증가, [과흥분] 상태 일 시 행동력 추가 증가"
   },
   "1000108645": {
@@ -2496,7 +2496,7 @@
     "korean": "과 흥분 상태 : 과흥분"
   },
   "1000108682": {
-    "english": "Target Acquired: Action Power {0}%",
+    "english": "Target Acquired: SPD {0}%",
     "korean": "사냥감 포착 : 행동력{0}%"
   },
   "1000108683": {
@@ -2532,7 +2532,7 @@
     "korean": "과 흥분 상태 : 방어 관통{0}%(과흥분)"
   },
   "1000108691": {
-    "english": "Target Acquired: Action Power {0}% (Overexcited)",
+    "english": "Target Acquired: SPD {0}% (Overexcited)",
     "korean": "사냥감 포착 : 행동력{0}%(과흥분)"
   },
   "1000108692": {
@@ -2684,7 +2684,7 @@
     "korean": "과 흥분 상태 : 흥분 조절"
   },
   "1000108729": {
-    "english": "Target Acquired: Action Power {0}% (Overexcited)",
+    "english": "Target Acquired: SPD {0}% (Overexcited)",
     "korean": "사냥감 포착 : 행동력{0}%(과흥분)"
   },
   "1000108730": {
@@ -2796,7 +2796,7 @@
     "korean": "외부 정보망 : 받는 피해{0}%"
   },
   "1000108757": {
-    "english": "Passive Radar: Increases nearby robots’ Attack / Critical / Action Power",
+    "english": "Passive Radar: Increases nearby robots’ Attack / Critical / SPD",
     "korean": "패시브 레이더 : 인접 로봇 공격력 / 치명타 / 행동력 증가"
   },
   "1000108758": {
@@ -2848,7 +2848,7 @@
     "korean": "지령 유도 : 방어 관통{0}%"
   },
   "1000108770": {
-    "english": "Passive Radar: Action Power {0}%",
+    "english": "Passive Radar: SPD {0}%",
     "korean": "패시브 레이더 : 행동력{0}%"
   },
   "1000108771": {
@@ -2880,7 +2880,7 @@
     "korean": "데이터 링크 : 방어력 {0}%"
   },
   "1000108778": {
-    "english": "Data Link: Action Power {0}%",
+    "english": "Data Link: SPD {0}%",
     "korean": "데이터 링크 : 행동력 {0}%"
   },
   "1000108779": {
@@ -3088,7 +3088,7 @@
     "korean": "헌신적인 메이드 : {0}% HP로 전투 속행"
   },
   "1000108830": {
-    "english": "2-Person Coffin : Action Power {0}% (Supporter)(Devotion)",
+    "english": "2-Person Coffin : SPD {0}% (Supporter)(Devotion)",
     "korean": "2인용 관 : 행동력{0}% (지원기)(헌신)"
   },
   "1000108831": {
@@ -3204,7 +3204,7 @@
     "korean": "사거리 OS : 기동 사거리, 적중 증가 / 경장 중장 사거리, 적중 감소"
   },
   "1000108859": {
-    "english": "Heavy Armor OS : Heavy AP, Action Power Increase / Light & Heavy AP, Action Power Decrease",
+    "english": "Heavy Armor OS : Heavy AP, SPD Increase / Light & Heavy AP, SPD Decrease",
     "korean": "중장갑 OS : 중장 AP, 행동력 증가 / 경장 중장 AP, 행동력 감소"
   },
   "1000108860": {
@@ -3604,7 +3604,7 @@
     "korean": "강화 파장 : 치명타 / 적중 / 방어 관통 증가"
   },
   "1000108959": {
-    "english": "Maximum Output : AP / Action Power Increase",
+    "english": "Maximum Output : AP / SPD Increase",
     "korean": "최대 출력 : AP / 행동력 증가"
   },
   "1000108960": {
@@ -3648,7 +3648,7 @@
     "korean": "강화 파장 : 방어 관통{0}%"
   },
   "1000108970": {
-    "english": "Maximum Output : Action Power {0}%",
+    "english": "Maximum Output : SPD {0}%",
     "korean": "최대 출력 : 행동력{0}%"
   },
   "1000108971": {
@@ -3664,7 +3664,7 @@
     "korean": "고주파 사운드(출력 강화) : 회피 {0}%"
   },
   "1000108974": {
-    "english": "Maximum Output : Action Power {0}%",
+    "english": "Maximum Output : SPD {0}%",
     "korean": "최대 출력 : 행동력{0}%"
   },
   "1000108975": {
@@ -3700,7 +3700,7 @@
     "korean": "사거리 OS : 사거리 / 적중 증감"
   },
   "1000108983": {
-    "english": "Heavy Armor OS : AP Increase, Action Power Adjustment, All Element Resistance Reduction",
+    "english": "Heavy Armor OS : AP Increase, SPD Adjustment, All Element Resistance Reduction",
     "korean": "중장갑 OS : AP 증가, 행동력 증감, 모든 속성 저항 감소"
   },
   "1000108984": {
@@ -3828,11 +3828,11 @@
     "korean": "기능 해체 : 행동 불능(전투 1회 한정)"
   },
   "1000109015": {
-    "english": "Golden Factory Installation : Summon Structure, Ally Shield, Attacker/Defender Attack & Action Power Increase, Damage Ignore/Self-Mark",
+    "english": "Golden Factory Installation : Summon Structure, Ally Shield, Attacker/Defender Attack & SPD Increase, Damage Ignore/Self-Mark",
     "korean": "골든 팩토리 설치 : 소환물 설치, 아군 방어막, 공격기, 보호기 공격력/행동력 증가, 피해무시/자기표식"
   },
   "1000109016": {
-    "english": "Preliminary Design : Increase Own Action Power / AP",
+    "english": "Preliminary Design : Increase Own SPD / AP",
     "korean": "선행 설계 : 자신 행동력 / AP 증가"
   },
   "1000109017": {
@@ -3840,7 +3840,7 @@
     "korean": "약점 보완 : 적의 수에 비례 적 공격력 감소"
   },
   "1000109018": {
-    "english": "Cooperative Repair : Increase Ally Robot Attack / Defense / Action Power, Additional Buff if Fortune Squad, Reduce Ally Damage While Waiting",
+    "english": "Cooperative Repair : Increase Ally Robot Attack / Defense / SPD, Additional Buff if Fortune Squad, Reduce Ally Damage While Waiting",
     "korean": "협동 수리 : 아군 로봇 공격력 / 방어력 / 행동력 증가, 포츈 스쿼드 시 추가 버프. 대기시 받는 아군 피해 감소"
   },
   "1000109019": {
@@ -3868,7 +3868,7 @@
     "korean": "골든 팩토리 설치 : 소환물 설치. 자신 도발 / 무적 상태"
   },
   "1000109025": {
-    "english": "Preliminary Design : Self Action Power / AP Increase",
+    "english": "Preliminary Design : Self SPD / AP Increase",
     "korean": "선행 설계 : 자신 행동력 / AP 증가"
   },
   "1000109026": {
@@ -3904,7 +3904,7 @@
     "korean": "약점 보완 : 적의 수에 비례 적 공격력 감소(최대 9 중첩)"
   },
   "1000109034": {
-    "english": "Cooperative Repair : Ally Robot Attack / Defense / Action Power Increase, Additional Buff if Fortune Squad",
+    "english": "Cooperative Repair : Ally Robot Attack / Defense / SPD Increase, Additional Buff if Fortune Squad",
     "korean": "협동 수리 : 아군 로봇 공격력 / 방어력 / 행동력 증가, 포츈 스쿼드 시 추가 버프"
   },
   "1000109035": {
@@ -3916,7 +3916,7 @@
     "korean": "광범위 공격력 증가 / 포츈 효과 2배 적용"
   },
   "1000109037": {
-    "english": "Wide-Area Action Power Increase / Fortune Effect Applied Twice",
+    "english": "Wide-Area SPD Increase / Fortune Effect Applied Twice",
     "korean": "광범위 행동력 증가 / 표츈 효과 2배 적용"
   },
   "1000109038": {
@@ -3924,7 +3924,7 @@
     "korean": "광범위 공격력 증가 / 포츈 효과 2배 적용"
   },
   "1000109039": {
-    "english": "Wide-Area Action Power Increase / Fortune Effect Applied Twice",
+    "english": "Wide-Area SPD Increase / Fortune Effect Applied Twice",
     "korean": "광범위 행동력 증가 / 표츈 효과 2배 적용"
   },
   "1000109040": {
@@ -3936,7 +3936,7 @@
     "korean": "골든 팩토리 설치 : 소환물 설치"
   },
   "1000109042": {
-    "english": "Preliminary Design : Action Power {0}%",
+    "english": "Preliminary Design : SPD {0}%",
     "korean": "선행 설계 : 행동력{0}%"
   },
   "1000109043": {
