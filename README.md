@@ -70,5 +70,6 @@ To contribute:
 | Path | Description |
 |---|---|
 | `for_review/` | Working JSONs — **edit these to correct translations** |
+| `for_review/ko_kr_fill.json` | Entries filled from the KR-server Korean asset — lowest priority, only applied when a translation is otherwise missing |
 | `json/` | Original extracted JSONs — backup / source of truth, do not edit |
 | `corrections/corrections.json` | Mistranslation correction rules |

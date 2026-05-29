@@ -44,12 +44,16 @@ class App(tk.Tk):
         self.minsize(800, 500)
 
         self.files: list[Path] = sorted(REVIEW_DIR.glob("*.json"))
-        self.data:          dict       = {}
-        self.codes:         list[str]  = []
-        self.filtered:      list[str]  = []
-        self.cur_code:      str | None = None
-        self.cur_file:      Path | None = None
-        self._dirty = False
+
+        # Per-file data cache — all mutations happen here; _save writes it to disk
+        self.file_cache: dict[Path, dict] = {}
+
+        self.codes:    list[str]              = []   # codes in current file (unfiltered)
+        self.filtered: list[tuple[Path, str]] = []   # (path, code) — may span files
+
+        self.cur_code: str  | None = None
+        self.cur_file: Path | None = None
+        self._dirty   = False
         self._loading = False
 
         self._build()
@@ -79,6 +83,8 @@ class App(tk.Tk):
 
         ttk.Button(top, text="◀", width=2, command=lambda: self._step_file(-1)).pack(side=tk.LEFT, padx=(6, 1))
         ttk.Button(top, text="▶", width=2, command=lambda: self._step_file(1)).pack(side=tk.LEFT, padx=(1, 0))
+
+        ttk.Button(top, text="KO Fill", command=self._open_ko_fill).pack(side=tk.LEFT, padx=(10, 0))
 
         self.lbl_info = ttk.Label(top, text="", foreground="gray")
         self.lbl_info.pack(side=tk.LEFT, padx=10)
@@ -128,7 +134,7 @@ class App(tk.Tk):
         form.rowconfigure(3, weight=1)
         form.rowconfigure(5, weight=2)
 
-        # Code row — label + Copy button
+        # Code row
         code_hdr = ttk.Frame(form)
         code_hdr.grid(row=0, column=0, sticky=tk.EW)
         ttk.Label(code_hdr, text="Code:", font=("Segoe UI", 9, "bold")).pack(side=tk.LEFT)
@@ -138,7 +144,7 @@ class App(tk.Tk):
         self.lbl_code = ttk.Label(form, text="", font=("Consolas", 10))
         self.lbl_code.grid(row=1, column=0, sticky=tk.W, pady=(0, 8))
 
-        # Korean row — label + Copy button
+        # Korean row
         ko_hdr = ttk.Frame(form)
         ko_hdr.grid(row=2, column=0, sticky=tk.EW)
         ttk.Label(ko_hdr, text="Korean (reference):", font=("Segoe UI", 9, "bold")).pack(side=tk.LEFT)
@@ -151,7 +157,7 @@ class App(tk.Tk):
         )
         self.txt_korean.grid(row=3, column=0, sticky=tk.NSEW, pady=(2, 8))
 
-        # English row — label + Undo + Copy below + Copy above buttons
+        # English row
         en_hdr = ttk.Frame(form)
         en_hdr.grid(row=4, column=0, sticky=tk.EW)
         ttk.Label(en_hdr, text="English:", font=("Segoe UI", 9, "bold")).pack(side=tk.LEFT)
@@ -178,24 +184,46 @@ class App(tk.Tk):
 
     # ---------------------------------------------------------------- file
 
+    def _get_data(self, path: Path) -> dict:
+        """Return cached data for path, loading from disk if needed."""
+        if path not in self.file_cache:
+            self.file_cache[path] = _load(path)
+        return self.file_cache[path]
+
+    def _ensure_all_loaded(self) -> None:
+        for path in self.files:
+            if path not in self.file_cache:
+                try:
+                    self.file_cache[path] = _load(path)
+                except Exception:
+                    pass
+
     def _load_file(self, path: Path):
         if self._dirty and not self._confirm_discard():
             self.file_var.set(self.cur_file.name if self.cur_file else "")
             return
         self.cur_file = path
-        self.data = _load(path)
-        self.codes = list(self.data.keys())
+        data = self._get_data(path)
+        self.codes = list(data.keys())
         self.cur_code = None
         self._dirty = False
         self.search_var.set("")
         self._apply_filter()
-        missing = sum(1 for c in self.codes if _is_missing(self.data[c].get("english", "")))
+        missing = sum(1 for c in self.codes if _is_missing(data[c].get("english", "")))
         self.lbl_info.config(text=f"{len(self.codes)} entries  •  {missing} missing")
         self.var_status.set("Ready")
         self._clear_form()
 
     def _on_file_select(self, _event):
         self._load_file(REVIEW_DIR / self.file_var.get())
+
+    def _open_ko_fill(self):
+        path = REVIEW_DIR / "ko_kr_fill.json"
+        if not path.exists():
+            messagebox.showinfo("KO Fill", "ko_kr_fill.json not found in for_review/.", parent=self)
+            return
+        self.file_var.set(path.name)
+        self._load_file(path)
 
     def _step_file(self, direction: int):
         if not self.files:
@@ -209,66 +237,114 @@ class App(tk.Tk):
 
     # ---------------------------------------------------------------- list
 
+    def _is_global_search(self) -> bool:
+        return bool(self.search_var.get())
+
     def _apply_filter(self):
         q = self.search_var.get().lower()
-        self.filtered = [
-            c for c in self.codes
-            if not q
-               or q in c.lower()
-               or q in self.data[c].get("english", "").lower()
-               or q in self.data[c].get("korean",  "").lower()
-        ]
         self.entry_list.delete(0, tk.END)
-        for code in self.filtered:
-            eng = self.data[code].get("english", "")
-            self.entry_list.insert(tk.END, f"{code}  {eng[:50]}")
-            if _is_missing(eng):
-                self.entry_list.itemconfigure(tk.END, foreground=COLOR_MISSING)
 
-    def _refresh_row(self, code: str):
-        if code not in self.filtered:
+        if q:
+            self._ensure_all_loaded()
+            self.filtered = []
+            for path in self.files:
+                data = self.file_cache.get(path, {})
+                for code, entry in data.items():
+                    if (q in code.lower()
+                            or q in entry.get("english", "").lower()
+                            or q in entry.get("korean",  "").lower()):
+                        self.filtered.append((path, code))
+            for path, code in self.filtered:
+                entry = self.file_cache[path][code]
+                eng   = entry.get("english", "")
+                label = f"[{path.name}]  {code}  {eng[:38]}"
+                self.entry_list.insert(tk.END, label)
+                if _is_missing(eng):
+                    self.entry_list.itemconfigure(tk.END, foreground=COLOR_MISSING)
+        else:
+            if not self.cur_file:
+                return
+            data = self._get_data(self.cur_file)
+            self.filtered = [(self.cur_file, c) for c in self.codes]
+            for _, code in self.filtered:
+                eng = data[code].get("english", "")
+                self.entry_list.insert(tk.END, f"{code}  {eng[:50]}")
+                if _is_missing(eng):
+                    self.entry_list.itemconfigure(tk.END, foreground=COLOR_MISSING)
+
+    def _refresh_row(self, path: Path, code: str):
+        key = (path, code)
+        if key not in self.filtered:
             return
-        idx = self.filtered.index(code)
-        eng = self.data[code].get("english", "")
+        idx  = self.filtered.index(key)
+        data = self._get_data(path)
+        eng  = data[code].get("english", "")
         self.entry_list.delete(idx)
-        self.entry_list.insert(idx, f"{code}  {eng[:50]}")
+        if self._is_global_search():
+            label = f"[{path.name}]  {code}  {eng[:38]}"
+        else:
+            label = f"{code}  {eng[:50]}"
+        self.entry_list.insert(idx, label)
         if _is_missing(eng):
             self.entry_list.itemconfigure(idx, foreground=COLOR_MISSING)
         self.entry_list.selection_set(idx)
 
     def _select_index(self, idx: int):
         self._flush_current()
+        path, code = self.filtered[idx]
+        # Switch file if the result is from a different one
+        if path != self.cur_file:
+            if self._dirty and not self._confirm_discard():
+                return
+            self.cur_file = path
+            data = self._get_data(path)
+            self.codes = list(data.keys())
+            self._dirty = False
+            self.file_var.set(path.name)
+            missing = sum(1 for c in self.codes if _is_missing(data[c].get("english", "")))
+            self.lbl_info.config(text=f"{len(self.codes)} entries  •  {missing} missing")
         self.entry_list.selection_clear(0, tk.END)
         self.entry_list.selection_set(idx)
         self.entry_list.see(idx)
-        self._load_entry(self.filtered[idx])
+        self._load_entry(path, code)
 
     def _on_list_select(self, _event):
         sel = self.entry_list.curselection()
         if not sel:
             return
-        code = self.filtered[sel[0]]
-        if code == self.cur_code:
+        path, code = self.filtered[sel[0]]
+        if code == self.cur_code and path == self.cur_file:
             return
         self._flush_current()
-        self._load_entry(code)
+        if path != self.cur_file:
+            self.cur_file = path
+            data = self._get_data(path)
+            self.codes = list(data.keys())
+            self._dirty = False
+            self.file_var.set(path.name)
+            missing = sum(1 for c in self.codes if _is_missing(data[c].get("english", "")))
+            self.lbl_info.config(text=f"{len(self.codes)} entries  •  {missing} missing")
+        self._load_entry(path, code)
 
     def _jump_missing(self, direction: int):
         if not self.filtered:
             return
-        start = self.filtered.index(self.cur_code) if self.cur_code in self.filtered else 0
+        cur_key = (self.cur_file, self.cur_code)
+        start = self.filtered.index(cur_key) if cur_key in self.filtered else 0
         n = len(self.filtered)
         for step in range(1, n + 1):
             idx = (start + direction * step) % n
-            if _is_missing(self.data[self.filtered[idx]].get("english", "")):
+            path, code = self.filtered[idx]
+            eng = self._get_data(path)[code].get("english", "")
+            if _is_missing(eng):
                 self._select_index(idx)
                 return
 
     # ---------------------------------------------------------------- form
 
-    def _load_entry(self, code: str):
+    def _load_entry(self, path: Path, code: str):
         self._loading = True
-        entry = self.data[code]
+        entry = self._get_data(path)[code]
         self.cur_code = code
         self.lbl_code.config(text=code)
 
@@ -279,17 +355,18 @@ class App(tk.Tk):
 
         self.txt_english.delete("1.0", tk.END)
         self.txt_english.insert("1.0", entry.get("english", ""))
-        self.txt_english.edit_reset()   # clear undo history for this entry
+        self.txt_english.edit_reset()
         self._loading = False
 
     def _flush_current(self):
-        if self.cur_code is None:
+        if self.cur_code is None or self.cur_file is None:
             return
         new_en = self.txt_english.get("1.0", tk.END).rstrip("\n")
-        if new_en != self.data[self.cur_code].get("english", ""):
-            self.data[self.cur_code]["english"] = new_en
+        data   = self._get_data(self.cur_file)
+        if new_en != data[self.cur_code].get("english", ""):
+            data[self.cur_code]["english"] = new_en
             self._mark_dirty()
-            self._refresh_row(self.cur_code)
+            self._refresh_row(self.cur_file, self.cur_code)
 
     def _clear_form(self):
         self._loading = True
@@ -326,12 +403,16 @@ class App(tk.Tk):
         self._copy_english_from_neighbor(+1)
 
     def _copy_english_from_neighbor(self, direction: int):
-        if not self.cur_code or self.cur_code not in self.filtered:
+        if not self.cur_code or not self.cur_file:
             return
-        idx = self.filtered.index(self.cur_code)
+        key = (self.cur_file, self.cur_code)
+        if key not in self.filtered:
+            return
+        idx = self.filtered.index(key)
         neighbor_idx = idx + direction
         if 0 <= neighbor_idx < len(self.filtered):
-            english = self.data[self.filtered[neighbor_idx]].get("english", "")
+            n_path, n_code = self.filtered[neighbor_idx]
+            english = self._get_data(n_path)[n_code].get("english", "")
             self.txt_english.delete("1.0", tk.END)
             self.txt_english.insert("1.0", english)
             self._mark_dirty()
@@ -340,7 +421,7 @@ class App(tk.Tk):
         try:
             self.txt_english.edit_undo()
         except tk.TclError:
-            pass  # nothing to undo
+            pass
 
     # --------------------------------------------------------------- state
 
@@ -357,7 +438,7 @@ class App(tk.Tk):
         if not self.cur_file:
             return
         try:
-            _save(self.cur_file, self.data)
+            _save(self.cur_file, self._get_data(self.cur_file))
             self._dirty = False
             self.var_status.set(f"Saved — {self.cur_file.name}")
         except Exception as exc:
