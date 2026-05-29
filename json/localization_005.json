@@ -1,0 +1,4002 @@
+{
+  "1000104001": {
+    "english": "Analyzed!: Acquire next enemy info",
+    "korean": "분석했어요! : 다음 적 정보 획득"
+  },
+  "1000104002": {
+    "english": "F.W. Assault: {0}% damage to medium and long-range weapons",
+    "korean": "F.W 어썰트 : 대 중장형 피해량{0}%"
+  },
+  "1000104003": {
+    "english": "Frost Shatter: Damage {0}%",
+    "korean": "빙결 파쇄 : 피해량{0}%"
+  },
+  "1000104004": {
+    "english": "Coolant Spray: EVA {0}%",
+    "korean": "냉각제 분사 : 회피 {0}%"
+  },
+  "1000104005": {
+    "english": "Freeze: Damage received {0}% (bio)",
+    "korean": "빙결 : 받는 피해{0}% (바이오)"
+  },
+  "1000104006": {
+    "english": "Cold Adaptation: ATK {0}%",
+    "korean": "혹한 적응 : 공격력{0}%"
+  },
+  "1000104007": {
+    "english": "Enhanced Frost Coating: DEF {0}%",
+    "korean": "강화 빙결 코팅 : 방어력{0}%"
+  },
+  "1000104008": {
+    "english": "Shatter Shot: Ignore shield/damage reduction",
+    "korean": "파쇄탄 : 방어막 / 피해 감소 무시"
+  },
+  "1000104009": {
+    "english": "Cold Region Adaptation: Cold resistance {0}%",
+    "korean": "한랭지 적응 : 냉기 저항{0}%"
+  },
+  "1000104010": {
+    "english": "Large-caliber Concentrated Particle Cannon: Ignore DEF",
+    "korean": "대구경 집속 입자포 : 방어력 무시"
+  },
+  "1000104011": {
+    "english": "Concentrated Energy Field: Damage minimization",
+    "korean": "집속 에너지 필드 : 피해 최소화"
+  },
+  "1000104012": {
+    "english": "Motion Pattern Analysis: ACU {0}%",
+    "korean": "동작 패턴 분석 : 적중{0}%"
+  },
+  "1000104013": {
+    "english": "Reactor Short: {0}% fixed damage",
+    "korean": "반응로 쇼트 : 공격력 {0}% 고정 피해"
+  },
+  "1000104014": {
+    "english": "Energy Field Off: Damage minimization removed",
+    "korean": "에너지 필드 해제 : 피해 최소화 해제"
+  },
+  "1000104015": {
+    "english": "Concentrated Energy Field: Effect resistance {0}%",
+    "korean": "집속 에너지 필드 : 효과 저항{0}%"
+  },
+  "1000104016": {
+    "english": "Reactor Explosion: {0}% fixed damage",
+    "korean": "반응로 폭발 : 공격력 {0}% 고정 피해"
+  },
+  "1000104017": {
+    "english": "Disruptive Wave: EVA {0}%",
+    "korean": "교란 파장 : 회피 {0}%"
+  },
+  "1000104018": {
+    "english": "Aiming Interference: CRIT {0}%",
+    "korean": "조준 방해 : 치명타 {0}%"
+  },
+  "1000104019": {
+    "english": "Radar Alarm: AP {0}",
+    "korean": "레이더 알람 : AP{0}"
+  },
+  "1000104020": {
+    "english": "Communication Failure: Unable to act",
+    "korean": "통신 오류 : 행동 불가"
+  },
+  "1000104021": {
+    "english": "Anti-air Radar Network: ACU {0}%",
+    "korean": "대공 레이더망 : 적중{0}%"
+  },
+  "1000104022": {
+    "english": "Disruption Start: Action power {0}%",
+    "korean": "교란 개시 : 행동력{0}%"
+  },
+  "1000104023": {
+    "english": "Critical Sniper: Damage {0}%",
+    "korean": "회심의 저격 : 피해량{0}%"
+  },
+  "1000104024": {
+    "english": "Sniper Target Locked: Mark designated",
+    "korean": "저격 목표 포착 : 표식 지정"
+  },
+  "1000104025": {
+    "english": "Snowfield Ambush: EVA {0}%",
+    "korean": "설원 매복 : 회피{0}%"
+  },
+  "1000104026": {
+    "english": "Counterattack: Counterattack with {0}% power",
+    "korean": "역공 : {0}% 위력으로 반격"
+  },
+  "1000104027": {
+    "english": "Counterattack: CRIT {0}%",
+    "korean": "역공 : 치명타{0}%"
+  },
+  "1000104028": {
+    "english": "Snowfield Camouflage: DEF {0}%",
+    "korean": "설원 위장 : 방어력{0}%"
+  },
+  "1000104029": {
+    "english": "Barrel Rapid Cooling: Action power {0}%",
+    "korean": "포신 급속 냉각 : 행동력{0}%"
+  },
+  "1000104030": {
+    "english": "Critical Strike: Remove buffs",
+    "korean": "회심의 일격 : 강화 효과 해제"
+  },
+  "1000104031": {
+    "english": "Jamming Capture Shot: Cannot move",
+    "korean": "재밍 포획탄 : 이동 불가"
+  },
+  "1000104032": {
+    "english": "Interceptor Formation: AP{0}",
+    "korean": "요격 포메이션 : AP{0}"
+  },
+  "1000104033": {
+    "english": "Evasion Pattern Analysis: EVA {0}%",
+    "korean": "회피 패턴 분석 : 회피 {0}%"
+  },
+  "1000104034": {
+    "english": "Interception Formation: Attack support",
+    "korean": "요격 포메이션 : 공격 지원"
+  },
+  "1000104035": {
+    "english": "Interception Start: ACU {0}%",
+    "korean": "요격 개시 : 적중{0}%"
+  },
+  "1000104036": {
+    "english": "Temperature Drop: AP {0} (bio)",
+    "korean": "기온 저하 : AP {0} (바이오)"
+  },
+  "1000104037": {
+    "english": "Motion Pattern Analysis: AP{0}",
+    "korean": "동작 패턴 분석 : AP{0}"
+  },
+  "1000104038": {
+    "english": "I feel sick… : ACU{0}% (100% chance)",
+    "korean": "속이 안 좋아… : 적중 {0}% (100% 확률)"
+  },
+  "1000104039": {
+    "english": "I feel sick… : ACU{0}% (90% chance)",
+    "korean": "속이 안 좋아… : 적중 {0}% (90% 확률)"
+  },
+  "1000104040": {
+    "english": "I feel sick… : ACU{0}% (80% chance)",
+    "korean": "속이 안 좋아… : 적중 {0}% (80% 확률)"
+  },
+  "1000104041": {
+    "english": "I feel sick… : ACU{0}% (70% chance)",
+    "korean": "속이 안 좋아… : 적중 {0}% (70% 확률)"
+  },
+  "1000104042": {
+    "english": "I feel sick… : ACU{0}% (60% chance)",
+    "korean": "속이 안 좋아… : 적중 {0}% (60% 확률)"
+  },
+  "1000104043": {
+    "english": "I feel sick… : ACU{0}% (50% chance)",
+    "korean": "속이 안 좋아… : 적중 {0}% (50% 확률)"
+  },
+  "1000104044": {
+    "english": "I feel sick… : ACU{0}% (40% chance)",
+    "korean": "속이 안 좋아… : 적중 {0}% (40% 확률)"
+  },
+  "1000104045": {
+    "english": "I feel sick… : ACU{0}% (30% chance)",
+    "korean": "속이 안 좋아… : 적중 {0}% (30% 확률)"
+  },
+  "1000104046": {
+    "english": "I feel sick… : ACU{0}% (20% chance)",
+    "korean": "속이 안 좋아… : 적중 {0}% (20% 확률)"
+  },
+  "1000104047": {
+    "english": "I feel sick… : ACU{0}% (10% chance)",
+    "korean": "속이 안 좋아… : 적중 {0}% (10% 확률)"
+  },
+  "1000104048": {
+    "english": "I feel sick… : ACU{0}% (3% chance)",
+    "korean": "속이 안 좋아… : 적중 {0}% (3% 확률)"
+  },
+  "1000104049": {
+    "english": "Freeze: Removes buff effect",
+    "korean": "빙결 : 강화 효과 해제"
+  },
+  "1000104050": {
+    "english": "Into the Unknown World! : Action Power {0}%",
+    "korean": "미지의 세계로! : 행동력{0}%"
+  },
+  "1000104051": {
+    "english": "XV-5 Auto Turret: Marking",
+    "korean": "XV-5 오토 터렛 : 표식 지정"
+  },
+  "1000104052": {
+    "english": "Radar Jammer: CRIT {0}%",
+    "korean": "레이더 재머 : 치명타 {0}%"
+  },
+  "1000104053": {
+    "english": "Ground Assault Support: AP{0} (Light/Heavy)",
+    "korean": "지상 공격대 지원 : AP{0} (경장/중장)"
+  },
+  "1000104054": {
+    "english": "High Altitude Reconnaissance: ATK Power {0}% (Light/Heavy)",
+    "korean": "고고도 정찰 : 공격력{0}% (경장/중장)"
+  },
+  "1000104055": {
+    "english": "Eternal Beam!: AP {0}",
+    "korean": "이터널 빔! : AP {0}"
+  },
+  "1000104056": {
+    "english": "XV-5 Auto Turret: Damage taken {0}%",
+    "korean": "XV-5 오토 터렛 : 받는 피해{0}%"
+  },
+  "1000104057": {
+    "english": "Radar Jammer: Range {0}",
+    "korean": "레이더 재머 : 사거리 {0}"
+  },
+  "1000104058": {
+    "english": "Field Support: AP{0} (Sergeant/Lieutenant General)",
+    "korean": "현장 지원 : AP{0} (경장/중장)"
+  },
+  "1000104059": {
+    "english": "High Altitude Reconnaissance: EVA {0}%",
+    "korean": "고고도 정찰 : 회피{0}%"
+  },
+  "1000104060": {
+    "english": "High Altitude Reconnaissance: Obtaining Information on the Next Enemy",
+    "korean": "고고도 정찰 : 다음 적 정보 획득"
+  },
+  "1000104061": {
+    "english": "Quadruple Machine Cannon: ATK power {0}%",
+    "korean": "4연장 기관포 : 공격력 {0}%"
+  },
+  "1000104062": {
+    "english": "Don't back down!: ATK power {0}%",
+    "korean": "물러서지마라! : 공격력{0}%"
+  },
+  "1000104063": {
+    "english": "No retreat!: ATK power {0}%",
+    "korean": "후퇴는 없다! : 공격력{0}%"
+  },
+  "1000104064": {
+    "english": "Charge! : {0} Fixed Damage",
+    "korean": "어서 돌격해! : {0} 고정 피해"
+  },
+  "1000104065": {
+    "english": "I'll leave the rest to you... : AP{0}",
+    "korean": "뒤는 맡긴다… : AP{0}"
+  },
+  "1000104066": {
+    "english": "There is no retreat...: ATK power {0}%",
+    "korean": "후퇴는 없다... : 공격력{0}%"
+  },
+  "1000104067": {
+    "english": "Private Brownie!!!: Action Points {0}%",
+    "korean": "브라우니 일병!!! : 행동력{0}%"
+  },
+  "1000104068": {
+    "english": "Charge! : AP{0}",
+    "korean": "어서 돌격해! : AP{0}"
+  },
+  "1000104069": {
+    "english": "P.G. Output Enhancement: DEF Penetration {0}%",
+    "korean": "P.G 출력 강화 : 방어 관통{0}%"
+  },
+  "1000104070": {
+    "english": "More-! A little more!: Continue the battle with {0} HP",
+    "korean": "더-! 좀 더! : {0}HP로 전투 속행"
+  },
+  "1000104071": {
+    "english": "Round 2 begins! : CRIT {0}%",
+    "korean": "2회전 시작이야! : 치명타{0}%"
+  },
+  "1000104072": {
+    "english": "Round 2 begins! : {0}% Action Power",
+    "korean": "2회전 시작이야! : 행동력{0}%"
+  },
+  "1000104073": {
+    "english": "Round 2 begins! : Ignores shields/damage reduction",
+    "korean": "2회전 시작이야! : 방어막 / 피해 감소 무시"
+  },
+  "1000104074": {
+    "english": "Instant Slash: EVA {0}%",
+    "korean": "찰나 베기 : 회피 {0}%"
+  },
+  "1000104075": {
+    "english": "Clarity Index: ATK Power {0}%",
+    "korean": "명경지수 : 공격력{0}%"
+  },
+  "1000104076": {
+    "english": "Shadow Escort: Protect Designated Target (Light/Mobile)",
+    "korean": "그림자 호위 : 지정 대상 보호 (경장/기동)"
+  },
+  "1000104077": {
+    "english": "Keen Senses: CRIT {0}%",
+    "korean": "예리한 감각 : 치명타{0}%"
+  },
+  "1000104078": {
+    "english": "Clearness Index: Distance {0}",
+    "korean": "명경지수 : 사거리{0}"
+  },
+  "1000104079": {
+    "english": "Clarity Index: Damage taken {0}%",
+    "korean": "명경지수 : 받는 피해{0}%"
+  },
+  "1000104080": {
+    "english": "Clarity Index: ACU {0}%",
+    "korean": "명경지수 : 적중{0}%"
+  },
+  "1000104081": {
+    "english": "Keen Senses: Counterattack with {0}% power",
+    "korean": "예리한 감각 : {0}% 위력으로 반격"
+  },
+  "1000104082": {
+    "english": "Sense Focus: EVA {0}%",
+    "korean": "오감 집중 : 회피{0}%"
+  },
+  "1000104083": {
+    "english": "Shape Memory Skirt: Shield {0}",
+    "korean": "형상기억 스커트 : 방어막{0}"
+  },
+  "1000104084": {
+    "english": "Check your supplies: ATK power {0}%",
+    "korean": "준비물 확인 : 공격력{0}%"
+  },
+  "1000104085": {
+    "english": "Shape Memory Skirt: Reduces damage taken by {0}%",
+    "korean": "형상기억 스커트 : 받는 피해 감소 {0}%"
+  },
+  "1000104086": {
+    "english": "Check your supplies: Skills cannot be used.",
+    "korean": "준비물 확인 : 스킬 사용 불가"
+  },
+  "1000104087": {
+    "english": "Chik Suppressive Fire: Remove buffs",
+    "korean": "칙 견제 사격 : 강화 해제"
+  },
+  "1000104088": {
+    "english": "Chik Anti-air Fire: Remove buffs (mobile)",
+    "korean": "칙 대공 사격 : 강화 해제 (기동)"
+  },
+  "1000104089": {
+    "english": "Chik Formation: Large mobile damage {0}%",
+    "korean": "칙 포메이션 : 대 기동 피해량{0}%"
+  },
+  "1000104090": {
+    "english": "Chik Restoration System: Continue battle with {0} HP",
+    "korean": "칙 복원 시스템 : {0}HP로 전투 속행"
+  },
+  "1000104091": {
+    "english": "Chik Restoration System Error: Damage received {0}%",
+    "korean": "칙 복원 시스템 오류 : 받는 피해{0}%"
+  },
+  "1000104092": {
+    "english": "Chik Interception Missile: Remove buffs",
+    "korean": "칙 요격 미사일 : 강화 해제"
+  },
+  "1000104093": {
+    "english": "Full Open Chik Missile: Remove buffs (heavy)",
+    "korean": "풀 오픈 칙 미사일 : 강화 해제 (중장)"
+  },
+  "1000104094": {
+    "english": "Chik Formation (Launcher): ATK {0}%",
+    "korean": "칙 포메이션 (런쳐) : 공격력{0}%"
+  },
+  "1000104095": {
+    "english": "Chik Finishing Blow: Remove buffs",
+    "korean": "칙 마무리 강타 : 강화 해제"
+  },
+  "1000104096": {
+    "english": "Chik Shield Defense (Advanced): Fire resistance {0}%",
+    "korean": "칙 방패 방어술 (고급) : 화염 저항{0}%"
+  },
+  "1000104097": {
+    "english": "Chik Restoration System Control: Restore system activated",
+    "korean": "칙 복원 시스템 제어 : 복원 시스템 활성화"
+  },
+  "1000104098": {
+    "english": "Chik Upgrade: ATK {0}%",
+    "korean": "칙 업그레이드 : 공격력{0}%"
+  },
+  "1000104099": {
+    "english": "Stealth Maneuver: EVA {0}%",
+    "korean": "스텔스 기동 : 회피{0}%"
+  },
+  "1000104100": {
+    "english": "Integrated Avionics Information Processing: AP{0} (Mobile)",
+    "korean": "통합 항전 정보처리 : AP{0} (기동형)"
+  },
+  "1000104101": {
+    "english": "NVEL System: ATK Power {0}%",
+    "korean": "NVEL 시스템 : 공격력{0}%"
+  },
+  "1000104102": {
+    "english": "Full Burst: {0}% damage to large armor",
+    "korean": "풀 버스트 : 대 경장 피해량{0}%"
+  },
+  "1000104103": {
+    "english": "Full Burst: {0}% damage to medium and heavy weapons",
+    "korean": "풀 버스트 : 대 중장 피해량{0}%"
+  },
+  "1000104104": {
+    "english": "Full Burst: {0}% damage against movement",
+    "korean": "풀 버스트 : 대 기동 피해량{0}%"
+  },
+  "1000104105": {
+    "english": "Stealth Camouflage: Minimize Damage (1 time)",
+    "korean": "스텔스 위장 : 피해 최소화 (1회)"
+  },
+  "1000104106": {
+    "english": "Stealth Camouflage: Minimize Damage (2 times)",
+    "korean": "스텔스 위장 : 피해 최소화 (2회)"
+  },
+  "1000104107": {
+    "english": "Camouflage Attack: ATK Power {0}%",
+    "korean": "위장 공격 : 공격력{0}%"
+  },
+  "1000104108": {
+    "english": "Integrated Anti-Virus Information Processing: CRIT {0}%",
+    "korean": "통합 항전 정보처리 : 치명타{0}%"
+  },
+  "1000104109": {
+    "english": "Critical Strike: Damage reduction removed",
+    "korean": "회심의 일격 : 피해 감소 해제"
+  },
+  "1000104110": {
+    "english": "CQB Charge: Damage {0}% higher when your HP% is lower",
+    "korean": "CQB 돌입 : 자신 HP% 낮을수록 피해량{0}%"
+  },
+  "1000104111": {
+    "english": "Observation Data Received: CRIT {0}%",
+    "korean": "관측 데이터 수신 : 치명타{0}%"
+  },
+  "1000104112": {
+    "english": "Space Combat Armor: {0}% DEF",
+    "korean": "우주용 컴뱃 아머 : 방어력{0}%"
+  },
+  "1000104113": {
+    "english": "Observation Data Received: ACU {0}%",
+    "korean": "관측 데이터 수신 : 적중{0}%"
+  },
+  "1000104114": {
+    "english": "Reception Complete: ACU reduction removed",
+    "korean": "수신 완료 : 적중 감소 해제"
+  },
+  "1000104115": {
+    "english": "Reception Complete: ATK {0}%",
+    "korean": "수신 완료 : 공격력{0}%"
+  },
+  "1000104116": {
+    "english": "Space Combat Armor: {0}% Fire Resistance",
+    "korean": "우주용 컴뱃 아머 : 화염 저항{0}%"
+  },
+  "1000104117": {
+    "english": "Devouring Focus: Immune to taunt",
+    "korean": "포식 집중 : 도발 면역"
+  },
+  "1000104118": {
+    "english": "Frenzy: ATK {0}%",
+    "korean": "광폭화 : 공격력 {0}%"
+  },
+  "1000104119": {
+    "english": "Frenzy: Ignore shield/damage reduction",
+    "korean": "광폭화: 방어막 / 피해 감소 무시"
+  },
+  "1000104120": {
+    "english": "NARAAK: {0}% damage to large mobile units",
+    "korean": "NARAAK : 대 기동형 피해량{0}%"
+  },
+  "1000104121": {
+    "english": "Chik Shield Raise: DEF {0}%",
+    "korean": "칙 방패 올리기 : 방어력{0}%"
+  },
+  "1000104122": {
+    "english": "Chik Restoration System Error: Error occurred",
+    "korean": "칙 복원 시스템 오류 : 오류 발생"
+  },
+  "1000104123": {
+    "english": "Chik Upgrade Compatibility Error: Damage received {0}%",
+    "korean": "칙 업그레이드 호환 오류 : 받는 피해{0}%"
+  },
+  "1000104124": {
+    "english": "Chik Permanent Restoration System: Continue battle with {0} HP",
+    "korean": "칙 영구 복원 시스템 : {0}HP로 전투 속행"
+  },
+  "1000104125": {
+    "english": "Chik Iron Wall Defense: Damage minimization",
+    "korean": "칙 철벽 방어술 : 피해 최소화"
+  },
+  "1000104126": {
+    "english": "Chik Permanent Enhancement: ATK {0}%",
+    "korean": "칙 영구 강화 : 공격력{0}%"
+  },
+  "1000104127": {
+    "english": "Machine Gun Suppressive Fire: DEF {0}%",
+    "korean": "머신건 견제 사격 : 방어력 {0}%"
+  },
+  "1000104128": {
+    "english": "Machine Gun Rapid Fire: Damage received {0}%",
+    "korean": "머신건 연사 : 받는 피해{0}%"
+  },
+  "1000104129": {
+    "english": "Guts: Continue battle with {0} HP",
+    "korean": "근성 : {0}HP로 전투 속행"
+  },
+  "1000104130": {
+    "english": "Command Focus: Effect resistance {0}%",
+    "korean": "명령 집중 : 효과 저항{0}%"
+  },
+  "1000104131": {
+    "english": "Overload",
+    "korean": "과부하"
+  },
+  "1000104132": {
+    "english": "Sacrifice: Action protection",
+    "korean": "희생 : 행 보호"
+  },
+  "1000104133": {
+    "english": "Wrath of Chik Final Attack: Damage {0}%",
+    "korean": "분노의 칙 파이널 어택 : 피해량{0}%"
+  },
+  "1000104134": {
+    "english": "Vengeance: ATK {0}%",
+    "korean": "복수심 : 공격력 {0}%"
+  },
+  "1000104135": {
+    "english": "Attack order issued",
+    "korean": "공격 명령 하달"
+  },
+  "1000104136": {
+    "english": "Vanished Wrath: Vengeance removed",
+    "korean": "사라진 분노 : 복수심 해제"
+  },
+  "1000104137": {
+    "english": "Command focus: Effect resistance {0}%",
+    "korean": "지휘 집중 : 효과 저항{0}%"
+  },
+  "1000104138": {
+    "english": "Attack order: Ignore shield/damage reduction",
+    "korean": "공격 명령 : 방어막 / 피해 감소 무시"
+  },
+  "1000104139": {
+    "english": "Chik Full Upgrade: Ignore shield/damage reduction",
+    "korean": "칙 풀 업그레이드 : 방어막 / 피해 감소 무시"
+  },
+  "1000104140": {
+    "english": "Magnum Spray: Target taunt (Ani)",
+    "korean": "매그넘 난사 : 대상 도발 (애니)"
+  },
+  "1000104141": {
+    "english": "County Guard: Shield {0} (self)",
+    "korean": "카운티 가드 : 방어막{0} (자신)"
+  },
+  "1000104142": {
+    "english": "Bold Drift: Heat protection",
+    "korean": "과감한 드리프트 : 열 보호"
+  },
+  "1000104143": {
+    "english": "Criminal Arrest: Mark set",
+    "korean": "범죄자 체포 : 표식 설정"
+  },
+  "1000104144": {
+    "english": "County Guard: ATK {0}%",
+    "korean": "카운티 가드 : 공격력{0}%"
+  },
+  "1000104145": {
+    "english": "County Guard: Protect designated target (excluding protectors)",
+    "korean": "카운티 가드 : 지정 대상 보호 (보호기 제외)"
+  },
+  "1000104146": {
+    "english": "Subdue the Uninvited: Taunt the Target (Barbariana)",
+    "korean": "불청객 제압 : 대상 도발 (바바리아나)"
+  },
+  "1000104147": {
+    "english": "Demolition Start: Defense {0}%",
+    "korean": "철거 개시 : 방어력 {0}%"
+  },
+  "1000104148": {
+    "english": "Skilled Demolition Skill: ATK Power {0}%",
+    "korean": "숙련된 철거 기술 : 공격력{0}%"
+  },
+  "1000104149": {
+    "english": "Demolition Preparation: DEF Penetration {0}%",
+    "korean": "철거 준비 : 방어 관통{0}%"
+  },
+  "1000104150": {
+    "english": "Demolition of the Heart: Removes the defense increase effect.",
+    "korean": "회심의 철거 : 방어력 증가 효과 해제"
+  },
+  "1000104151": {
+    "english": "Demolition Preparation: Protecting Designated Objects (Excluding Defenders)",
+    "korean": "철거 준비 : 지정 대상 보호 (보호기 제외)"
+  },
+  "1000104152": {
+    "english": "Demolition Preparation: Reduces damage taken by {0}%",
+    "korean": "철거 준비 : 받는 피해 감소 {0}%"
+  },
+  "1000104153": {
+    "english": "Demolition of the Heart: Damage taken {0}%",
+    "korean": "회심의 철거 : 받는 피해{0}%"
+  },
+  "1000104154": {
+    "english": "Pre-emptive Strike: AP{0}",
+    "korean": "선제 폭격 : AP{0}"
+  },
+  "1000104155": {
+    "english": "Meow? Meow!: AP {0}",
+    "korean": "애옹? 애옹! : AP{0}"
+  },
+  "1000104156": {
+    "english": "Mint Meat Pie, Serve!: Continue battle with {0} HP",
+    "korean": "민트 미트파이 드세여! : {0}HP로 전투 속행"
+  },
+  "1000104157": {
+    "english": "Kind Lilis is coming!: Damage received reduction {0}%",
+    "korean": "착한 리리스가 가욧! : 받는 피해 감소 {0}%"
+  },
+  "1000104158": {
+    "english": "Super!: Removes ATK boost effect",
+    "korean": "슈퍼! : 공격력 강화 효과 해제"
+  },
+  "1000104159": {
+    "english": "Super Lucky Hit!: Ignore DEF",
+    "korean": "슈퍼 럭키 히트! : 방어력 무시"
+  },
+  "1000104160": {
+    "english": "Eternal Beam!: Remove accuracy buff",
+    "korean": "이터널 빔! : 적중 강화 해제"
+  },
+  "1000104161": {
+    "english": "Eternal!: ATK power {0}%",
+    "korean": "이터널! : 공격력 {0}%"
+  },
+  "1000104162": {
+    "english": "High Explosive Bomb Explosion: AP {0}",
+    "korean": "고폭탄 폭발 : AP {0}"
+  },
+  "1000104163": {
+    "english": "Shock Explosion: Damage received {0}%",
+    "korean": "충격 폭발 : 받는 피해{0}%"
+  },
+  "1000104164": {
+    "english": "Precision Bombardment Support: Removes damage reduction",
+    "korean": "정밀 포격 지원 : 받는 피해 감소 해제"
+  },
+  "1000104165": {
+    "english": "Attention everyone! : Marking (enhancement effect)",
+    "korean": "모두 주목해주세요-! : 표식 지정 (강화 효과)"
+  },
+  "1000104166": {
+    "english": "Attention everyone-!! : Marking (enhancement effect)",
+    "korean": "모두 주목해주세요-!! : 표식 지정 (강화 효과)"
+  },
+  "1000104167": {
+    "english": "Attention everyone-! : CRIT {0}%",
+    "korean": "모두 주목해주세요-! : 치명타{0}%"
+  },
+  "1000104168": {
+    "english": "Don't take your eyes off me! : AP{0}",
+    "korean": "한눈팔면 안 돼요-! : AP{0}"
+  },
+  "1000104169": {
+    "english": "I'm the best-! : AP{0}",
+    "korean": "제가 최고에요-! : AP{0}"
+  },
+  "1000104170": {
+    "english": "Sonic Boom: ACU{0}%",
+    "korean": "소닉붐 : 적중 {0}%"
+  },
+  "1000104171": {
+    "english": "Dual Preparation: CRIT {0}%",
+    "korean": "듀얼 준비 : 치명타{0}%"
+  },
+  "1000104172": {
+    "english": "Dual Initiation: ACU{0}%",
+    "korean": "듀얼 개시 : 적중 {0}%"
+  },
+  "1000104173": {
+    "english": "20mm anti-materiel sniper rifle: Marking",
+    "korean": "20mm 대물 저격총 : 표식 지정"
+  },
+  "1000104174": {
+    "english": "F. Armory Deployment: AP{0}",
+    "korean": "F.아머리 전개 : AP{0}"
+  },
+  "1000104175": {
+    "english": "Command of the Heavy Unit: ATK Power {0}% (Heavy Unit)",
+    "korean": "중장부대 지휘 : 공격력{0}% (중장)"
+  },
+  "1000104176": {
+    "english": "Unlimited Supply Start: CRIT {0}%",
+    "korean": "무제한 보급 개시 : 치명타{0}%"
+  },
+  "1000104177": {
+    "english": "CTCS: ATK power {0}% (Heavy attack aircraft)",
+    "korean": "CTCS : 공격력{0}% (중장 공격기)"
+  },
+  "1000104178": {
+    "english": "20mm Anti-Material Sniper Rifle: Damage taken {0}%",
+    "korean": "20mm 대물 저격총 : 받는 피해{0}%"
+  },
+  "1000104179": {
+    "english": "Precision Sniping: Damage {0}%",
+    "korean": "정밀 저격 : 피해량{0}%"
+  },
+  "1000104180": {
+    "english": "F. Armory Deployment: ATK Power {0}%",
+    "korean": "F.아머리 전개 : 공격력{0}%"
+  },
+  "1000104181": {
+    "english": "Armament Resupply: Removes ATK reduction",
+    "korean": "무장 재보급 : 공격력 감소 해제"
+  },
+  "1000104182": {
+    "english": "Reheat: AP{0} (F.Armor State)",
+    "korean": "재방열 : AP{0} (F.아머리 상태)"
+  },
+  "1000104183": {
+    "english": "Upgraded Combat System: ATK {0}%",
+    "korean": "개량형 전투 시스템 : 공격력{0}%"
+  },
+  "1000104184": {
+    "english": "Main Weapon Enhancement: ATK {0}%",
+    "korean": "주무장 강화 : 공격력{0}%"
+  },
+  "1000104185": {
+    "english": "Suppression Mode: Damage {0}%",
+    "korean": "제압 모드 : 피해량{0}%"
+  },
+  "1000104186": {
+    "english": "Suppression Mode: Counterattack with {0}% power",
+    "korean": "제압 모드 : {0}% 위력으로 반격"
+  },
+  "1000104187": {
+    "english": "New Safety Equipment: Damage received reduction {0}%",
+    "korean": "신형 안전 장비 : 받는 피해 감소 {0}%"
+  },
+  "1000104188": {
+    "english": "Armor Shatter: Damage taken {0}%",
+    "korean": "장갑 파쇄 : 받는 피해{0}%"
+  },
+  "1000104189": {
+    "english": "Barrage (Maximum bullet level): ATK power {0}%",
+    "korean": "탄막 사격 (잔탄 Lv.최대) : 공격력{0}%"
+  },
+  "1000104190": {
+    "english": "Barrage (Shot Lv.1): ATK power {0}%",
+    "korean": "탄막 사격 (잔탄 Lv.1) : 공격력{0}%"
+  },
+  "1000104191": {
+    "english": "Barrage (Lv.2): ATK power {0}%",
+    "korean": "탄막 사격 (잔탄 Lv.2) : 공격력{0}%"
+  },
+  "1000104192": {
+    "english": "Barrage (Lv.3): ATK power {0}%",
+    "korean": "탄막 사격 (잔탄 Lv.3) : 공격력{0}%"
+  },
+  "1000104193": {
+    "english": "Suppressive Fire: Remove damage reduction",
+    "korean": "탄막 사격 : 피해 감소 해제"
+  },
+  "1000104194": {
+    "english": "Target Containment: CRIT {0}%",
+    "korean": "목표 견제 : 치명타 {0}%"
+  },
+  "1000104195": {
+    "english": "Linked Bombardment: ATK Power {0}% (Self)",
+    "korean": "연계 폭격 : 공격력{0}% (자신)"
+  },
+  "1000104196": {
+    "english": "Hunting Prey: {0}% ACU",
+    "korean": "사냥감 몰이 : 적중{0}%"
+  },
+  "1000104197": {
+    "english": "Chivalry: Reduces damage taken by {0}%",
+    "korean": "기사도 : 받는 피해 감소 {0}%"
+  },
+  "1000104198": {
+    "english": "Electrocution: EVA {0}%",
+    "korean": "감전 : 회피 {0}%"
+  },
+  "1000104199": {
+    "english": "Chain of Arrest: No Movement",
+    "korean": "체포 사슬 : 이동 불가"
+  },
+  "1000104200": {
+    "english": "ATK {0}%",
+    "korean": "공격력 {0}%"
+  },
+  "1000104201": {
+    "english": "EVA {0}%",
+    "korean": "회피율 {0}%"
+  },
+  "1000104202": {
+    "english": "Self-destruct attack",
+    "korean": "자폭 공격"
+  },
+  "1000104203": {
+    "english": "Charge: ATK {0}%",
+    "korean": "챠지 : 공격력{0}%"
+  },
+  "1000104204": {
+    "english": "Assassination Target Marked: Damage received {0}%",
+    "korean": "암살 목표 지정 : 받는 피해{0}%"
+  },
+  "1000104205": {
+    "english": "Cold-blooded: AP {0} (on enemy kill)",
+    "korean": "냉혈한 : AP{0} (적 처치 시)"
+  },
+  "1000104206": {
+    "english": "I want to get out quickly…: Action power {0}%",
+    "korean": "어서 빠져나가고 싶다… : 행동력{0}%"
+  },
+  "1000104207": {
+    "english": "True Power?: ACU {0}%",
+    "korean": "진조의 힘? : 적중{0}%"
+  },
+  "1000104208": {
+    "english": "Anti-Air Command: Protect Designated Target (Light)",
+    "korean": "대공 지휘 : 지정 대상 보호 (경장)"
+  },
+  "1000104209": {
+    "english": "Meteor Crushing Drill: {0}% DEF",
+    "korean": "운석 파쇄 드릴 : 방어력 {0}%"
+  },
+  "1000104210": {
+    "english": "Cover: Reduces damage taken by {0}%",
+    "korean": "엄폐 : 받는 피해 감소 {0}%"
+  },
+  "1000104211": {
+    "english": "Orbital Plating: Cold Resistance {0}%",
+    "korean": "오비탈 플레이팅 : 냉기 저항{0}%"
+  },
+  "1000104212": {
+    "english": "Suppressive Fire: ACU {0}%",
+    "korean": "견제 사격 : 적중 {0}%"
+  },
+  "1000104213": {
+    "english": "Precision Scan: Reduces effect resistance by {0}%",
+    "korean": "정밀 스캔 : 효과 저항 감소 {0}%"
+  },
+  "1000104214": {
+    "english": "Explosion: Remove damage reduction effect",
+    "korean": "유폭 : 피해 감소 효과 해제"
+  },
+  "1000104215": {
+    "english": "Range {0}",
+    "korean": "사거리{0}"
+  },
+  "1000104216": {
+    "english": "Smash: Damage {0}%",
+    "korean": "강타 : 피해량{0}%"
+  },
+  "1000104217": {
+    "english": "Action power {0}%",
+    "korean": "행동력 {0}%"
+  },
+  "1000104218": {
+    "english": "Bulk Up: {0}% damage",
+    "korean": "벌크 업 : 피해량{0}%"
+  },
+  "1000104219": {
+    "english": "Sensitive Eyes: ACU {0}%",
+    "korean": "민감한 눈 : 적중{0}%"
+  },
+  "1000104220": {
+    "english": "Alert Mode: Action power {0}%",
+    "korean": "경계 모드 : 행동력 {0}%"
+  },
+  "1000104221": {
+    "english": "Alert Stance: Attack support",
+    "korean": "경계 태세 : 공격 지원"
+  },
+  "1000104222": {
+    "english": "Threat Detection: ATK {0}%",
+    "korean": "위협 감지 : 공격력 {0}%"
+  },
+  "1000104223": {
+    "english": "Frenzy: CRIT {0}%",
+    "korean": "광란 : 치명타{0}%"
+  },
+  "1000104224": {
+    "english": "Concentrated Particle Cannon: ATK {0}%",
+    "korean": "집속 입자포 : 공격력 {0}%"
+  },
+  "1000104225": {
+    "english": "AGS Tactical Command: DEF penetration {0}% (robot)",
+    "korean": "AGS 전술지휘 : 방어 관통{0}% (로봇)"
+  },
+  "1000104226": {
+    "english": "Radar Control: ACU {0}%",
+    "korean": "레이더 관제 : 적중{0}%"
+  },
+  "1000104227": {
+    "english": "Work Anchor: Pull forward {0} spaces",
+    "korean": "작업용 앵커 : 앞으로 {0}칸 당김"
+  },
+  "1000104228": {
+    "english": "Mechanical Engineering: DEF {0}% (robot)",
+    "korean": "기계 공학 : 방어력{0}% (로봇)"
+  },
+  "1000104229": {
+    "english": "Contact Combustion: Flame Resistance {0}%",
+    "korean": "접촉 연소 : 화염 저항 {0}%"
+  },
+  "1000104230": {
+    "english": "Fire Rain: {0}% Fire Resistance",
+    "korean": "파이어레인 : 화염 저항 {0}%"
+  },
+  "1000104231": {
+    "english": "Gardener’s Nature: CRIT {0}%",
+    "korean": "정원사의 본성 : 치명타{0}%"
+  },
+  "1000104232": {
+    "english": "Threatening Shot: CRIT {0}%",
+    "korean": "위협 사격 : 치명타 {0}%"
+  },
+  "1000104233": {
+    "english": "Squadron Escort: Hit {0}% (Movement)",
+    "korean": "편대 호위 : 적중{0}% (기동)"
+  },
+  "1000104234": {
+    "english": "Head! : No action",
+    "korean": "머리! : 행동 불가"
+  },
+  "1000104235": {
+    "english": "Initiate suppression: Protect the line",
+    "korean": "진압 개시 : 행 보호"
+  },
+  "1000104236": {
+    "english": "Pounce, Pounce!: Reduces damage taken by {0}% (maximum)",
+    "korean": "덤벼덤벼! : 받는 피해 감소 {0}% (최대)"
+  },
+  "1000104237": {
+    "english": "Round 2 begins! : ATK power {0}%",
+    "korean": "2회전 시작이야! : 공격력{0}%"
+  },
+  "1000104238": {
+    "english": "Escort Designated: Attack support",
+    "korean": "호위 지정 : 공격 지원"
+  },
+  "1000104239": {
+    "english": "Flexibility: EVA {0}%",
+    "korean": "유연성 : 회피{0}%"
+  },
+  "1000104240": {
+    "english": "Wound Slash: DEF penetration {0}%",
+    "korean": "상처 가르기 : 방어력 관통 {0}%"
+  },
+  "1000104241": {
+    "english": "Radar Sharing: ACU {0}%",
+    "korean": "레이더 공유 : 적중{0}%"
+  },
+  "1000104242": {
+    "english": "Protective Maneuver: Action power {0}%",
+    "korean": "보호 기동 : 행동력{0}%"
+  },
+  "1000104243": {
+    "english": "Defensive Maneuver: DEF {0}%",
+    "korean": "방어 기동 : 방어력{0}%"
+  },
+  "1000104244": {
+    "english": "CRIT {0}%",
+    "korean": "치명타{0}%"
+  },
+  "1000104245": {
+    "english": "Flare Support: CRIT {0}%",
+    "korean": "조명탄 지원 : 치명타{0}%"
+  },
+  "1000104246": {
+    "english": "Strong Linear Mortar: ACU {0}%",
+    "korean": "강선형 박격포 : 적중{0}%"
+  },
+  "1000104247": {
+    "english": "Precision Analysis: CRIT {0}%",
+    "korean": "정밀 분석 : 치명타{0}%"
+  },
+  "1000104248": {
+    "english": "Operational Optimization: AP{0} (Robot)",
+    "korean": "연산 최적화 : AP{0} (로봇)"
+  },
+  "1000104249": {
+    "english": "Precision Sniping: Ignores Shields/Damage Reduction (Front)",
+    "korean": "정밀 저격 : 방어막 / 피해 감소 무시 (전열)"
+  },
+  "1000104250": {
+    "english": "Pinpoint Sniping: {0}% ACU (Max)",
+    "korean": "핀 포인트 저격 : 적중{0}% (최대)"
+  },
+  "1000104251": {
+    "english": "White Reaper: Reduces damage taken by {0}%",
+    "korean": "하얀 사신 : 받는 피해 감소 {0}%"
+  },
+  "1000104252": {
+    "english": "SMG Rapid Fire: Damage received {0}%",
+    "korean": "SMG 연사 : 받는 피해{0}%"
+  },
+  "1000104253": {
+    "english": "Strength Enhancement: Reduces damage taken by {0}%",
+    "korean": "강화 근력 : 받는 피해 감소 {0}%"
+  },
+  "1000104254": {
+    "english": "P.G. Output Enhancement: Ignore Shield/Damage Reduction",
+    "korean": "P.G 출력 강화 : 방어막 / 피해 감소 무시"
+  },
+  "1000104255": {
+    "english": "Strong Big Sister: ATK Power {0}% (Bio)",
+    "korean": "든든한 큰언니 : 공격력{0}% (바이오)"
+  },
+  "1000104256": {
+    "english": "Heavy Machine Gun: {0}% damage to large-caliber machine guns",
+    "korean": "중 기관포 : 대 경장형 피해량{0}%"
+  },
+  "1000104257": {
+    "english": "Lucky Shot: AP {0}",
+    "korean": "럭키 샷 : AP {0}"
+  },
+  "1000104258": {
+    "english": "Relief: Hit {0}%",
+    "korean": "안도감 : 적중{0}%"
+  },
+  "1000104259": {
+    "english": "Leg press: {0}% action power",
+    "korean": "다리노리기 : 행동력 {0}%"
+  },
+  "1000104260": {
+    "english": "Cleanup: AP{0} (when killing an enemy)",
+    "korean": "뒷정리 : AP{0} (적 처치 시)"
+  },
+  "1000104261": {
+    "english": "Main gun fire: {0}% damage to light armor",
+    "korean": "주포 발사 : 대 경장 피해량{0}%"
+  },
+  "1000104262": {
+    "english": "Armor Deployment: Reduces damage taken by {0}%",
+    "korean": "장갑 전개 : 받는 피해 감소 {0}%"
+  },
+  "1000104263": {
+    "english": "Special Coated Gloves: Cold Resistance {0}%",
+    "korean": "특수 코팅 장갑 : 냉기 저항{0}%"
+  },
+  "1000104264": {
+    "english": "Main Gun Aimed Shot: {0}% damage to light armor",
+    "korean": "주포 조준 사격 : 대 경장 피해량{0}%"
+  },
+  "1000104265": {
+    "english": "Transformation: Cruise Mode",
+    "korean": "변형 : 순항 모드"
+  },
+  "1000104266": {
+    "english": "Armor Deployment: Cold Resistance {0}%",
+    "korean": "장갑 전개 : 냉기 저항{0}%"
+  },
+  "1000104267": {
+    "english": "Bombing Squadron Command: CRIT {0}% (mobile)",
+    "korean": "폭격 편대 지휘 : 치명타{0}% (기동)"
+  },
+  "1000104268": {
+    "english": "Fireworks Enthusiast: Action power {0}%",
+    "korean": "불꽃놀이광 : 행동력{0}%"
+  },
+  "1000104269": {
+    "english": "Stun Rod: Target taunt (Cerberus)",
+    "korean": "스턴 롯드 : 대상 도발 (켈베로스)"
+  },
+  "1000104270": {
+    "english": "Hell’s Warden: Counterattack with {0}% power (self)",
+    "korean": "지옥의 파수꾼 : {0}% 위력으로 반격 (자신)"
+  },
+  "1000104271": {
+    "english": "Escort Support: Attack support",
+    "korean": "호위 지원 : 공격 지원"
+  },
+  "1000104272": {
+    "english": "Anti-armor missile: {0}% DEF penetration",
+    "korean": "대 장갑 미사일 : 방어 관통 {0}%"
+  },
+  "1000104273": {
+    "english": "Radar Drone: Range {0}",
+    "korean": "레이더 드론 : 사거리{0}"
+  },
+  "1000104274": {
+    "english": "Extreme Discomfort: CRIT {0}%",
+    "korean": "극도의 불편함 : 치명타{0}%"
+  },
+  "1000104275": {
+    "english": "Buster Cannon: Damage reduction removed",
+    "korean": "버스터 캐논 : 피해 감소 해제"
+  },
+  "1000104276": {
+    "english": "Output Enhancement: DEF penetration {0}%",
+    "korean": "출력 강화 : 방어 관통 {0}%"
+  },
+  "1000104277": {
+    "english": "Charge Command: Remove harmful effects",
+    "korean": "돌격 명령 : 해로운 효과 제거"
+  },
+  "1000104278": {
+    "english": "Attack Command: ACU {0}%",
+    "korean": "공격 지휘 : 적중{0}%"
+  },
+  "1000104279": {
+    "english": "Attack Command (Defense): DEF {0}%",
+    "korean": "공격 지휘 (방어) : 방어력{0}%"
+  },
+  "1000104280": {
+    "english": "Hungry Wolf: ACU {0}%",
+    "korean": "굶주린 늑대 : 적중{0}%"
+  },
+  "1000104281": {
+    "english": "Artillery Column: AP{0} (when attacking)",
+    "korean": "포격 대열 : AP{0} (공격 시)"
+  },
+  "1000104282": {
+    "english": "Emergency Rescue: Action power {0}%",
+    "korean": "긴급 구조 : 행동력{0}%"
+  },
+  "1000104283": {
+    "english": "Overload: ATK {0}%",
+    "korean": "과부하 : 공격력{0}%"
+  },
+  "1000104284": {
+    "english": "Direct Hit: Effect resistance reduction {0}%",
+    "korean": "직격 : 효과 저항 감소 {0}%"
+  },
+  "1000104285": {
+    "english": "Optical Camouflage: EVA {0}%",
+    "korean": "광학 미채 : 회피{0}%"
+  },
+  "1000104286": {
+    "english": "Optical Camouflage: CRIT {0}%",
+    "korean": "광학 미채 : 치명타{0}%"
+  },
+  "1000104287": {
+    "english": "Dual Burst: CRIT {0}%",
+    "korean": "듀얼 버스트 : 치명타 {0}%"
+  },
+  "1000104288": {
+    "english": "Sadism: ATK power {0}% (Enemy kill)",
+    "korean": "가학성향 : 공격력{0}% (적 처치)"
+  },
+  "1000104289": {
+    "english": "Stalking: {0}% Action Power",
+    "korean": "스토킹 : 행동력{0}%"
+  },
+  "1000104290": {
+    "english": "Charge Concentration: CRIT {0}%",
+    "korean": "전하 집속 : 치명타{0}%"
+  },
+  "1000104291": {
+    "english": "Electric Field Stimulation: EVA {0}%",
+    "korean": "전기장 자극 : 회피{0}%"
+  },
+  "1000104292": {
+    "english": "Armor Deployment Mode: ATK Power {0}% (Heavy)",
+    "korean": "장갑 전개 모드 : 공격력{0}% (중장)"
+  },
+  "1000104293": {
+    "english": "Finishing Attack: Ignore shield/damage reduction",
+    "korean": "마무리 공격 : 방어막 / 피해 감소 무시"
+  },
+  "1000104294": {
+    "english": "Buster Cannon (Max Output): Remove damage reduction",
+    "korean": "버스터 캐논 (최대출력) : 피해 감소 해제"
+  },
+  "1000104295": {
+    "english": "Confusion: ACU {0}%",
+    "korean": "혼란 : 적중률 {0}%"
+  },
+  "1000104296": {
+    "english": "Destruction Operation: Damage received {0}%",
+    "korean": "파괴 공작 : 받는 피해{0}%"
+  },
+  "1000104297": {
+    "english": "Detection Explosion",
+    "korean": "감지 폭발"
+  },
+  "1000104298": {
+    "english": "Charge Emission: CRIT {0}%",
+    "korean": "전하 방출 : 치명타{0}%"
+  },
+  "1000104299": {
+    "english": "Electric Field Stimulation!: EVA {0}%",
+    "korean": "전기장 자극! : 회피{0}%"
+  },
+  "1000104300": {
+    "english": "Precision Aim: Range {0}",
+    "korean": "정조준 : 사거리{0}"
+  },
+  "1000104301": {
+    "english": "Disruptive Wave: ACU {0}%",
+    "korean": "교란 파동 : 적중 {0}%"
+  },
+  "1000104302": {
+    "english": "Communication Protocol: EVA {0}%",
+    "korean": "교신 프로토콜 : 회피{0}%"
+  },
+  "1000104303": {
+    "english": "Alert: Action power {0}%",
+    "korean": "경계 : 행동력{0}%"
+  },
+  "1000104304": {
+    "english": "Mine Removed",
+    "korean": "지뢰 제거 됨"
+  },
+  "1000104305": {
+    "english": "Vaccine Treatment: Remove harmful effects (10% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (10% 확률)"
+  },
+  "1000104306": {
+    "english": "Vaccination: Removes harmful effects (11% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (11% 확률)"
+  },
+  "1000104307": {
+    "english": "Vaccination: Removes harmful effects (12% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (12% 확률)"
+  },
+  "1000104308": {
+    "english": "Vaccination: Removes harmful effects (13% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (13% 확률)"
+  },
+  "1000104309": {
+    "english": "Vaccination: Removes harmful effects (14% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (14% 확률)"
+  },
+  "1000104310": {
+    "english": "Vaccination: Removes harmful effects (15% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (15% 확률)"
+  },
+  "1000104311": {
+    "english": "Vaccination: Removes harmful effects (16% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (16% 확률)"
+  },
+  "1000104312": {
+    "english": "Vaccination: Removes harmful effects (17% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (17% 확률)"
+  },
+  "1000104313": {
+    "english": "Vaccination: Removes harmful effects (18% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (18% 확률)"
+  },
+  "1000104314": {
+    "english": "Vaccination: Removes harmful effects (19% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (19% 확률)"
+  },
+  "1000104315": {
+    "english": "Vaccine Treatment: Removes harmful effects (20% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (20% 확률)"
+  },
+  "1000104316": {
+    "english": "Vaccination: Removes harmful effects (22% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (22% 확률)"
+  },
+  "1000104317": {
+    "english": "Vaccination: Removes harmful effects (24% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (24% 확률)"
+  },
+  "1000104318": {
+    "english": "Vaccination: Removes harmful effects (26% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (26% 확률)"
+  },
+  "1000104319": {
+    "english": "Vaccination: Removes harmful effects (28% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (28% 확률)"
+  },
+  "1000104320": {
+    "english": "Vaccine Treatment: Removes harmful effects (30% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (30% 확률)"
+  },
+  "1000104321": {
+    "english": "Vaccination: Removes harmful effects (34% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (34% 확률)"
+  },
+  "1000104322": {
+    "english": "Vaccination: Removes harmful effects (38% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (38% 확률)"
+  },
+  "1000104323": {
+    "english": "Vaccination: Removes harmful effects (42% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (42% 확률)"
+  },
+  "1000104324": {
+    "english": "Vaccination: Removes harmful effects (46% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (46% 확률)"
+  },
+  "1000104325": {
+    "english": "Vaccine Treatment: Removes harmful effects (50% chance)",
+    "korean": "백신 처리 : 해로운 효과 해제 (50% 확률)"
+  },
+  "1000104326": {
+    "english": "Sticky Bullet: Damage taken {0}%",
+    "korean": "점착탄 : 받는 피해{0}%"
+  },
+  "1000104327": {
+    "english": "Field distribution: removal of harmful effects",
+    "korean": "현장 보급 : 해로운 효과 제거"
+  },
+  "1000104328": {
+    "english": "Crouch: EVA {0}%",
+    "korean": "웅크리기 : 회피{0}%"
+  },
+  "1000104329": {
+    "english": "Giant Backpack: Reduces damage taken by {0}%",
+    "korean": "거대 배낭 : 받는 피해 감소 {0}%"
+  },
+  "1000104330": {
+    "english": "Preheat Start: Action power {0}%",
+    "korean": "예열 개시 : 행동력{0}%"
+  },
+  "1000104331": {
+    "english": "It's a battle of speed! : {0}% action power",
+    "korean": "속도 승부야! : 행동력{0}%"
+  },
+  "1000104332": {
+    "english": "Unstoppable Run: Action Point Reduction Removed",
+    "korean": "멈출 수 없는 질주 : 행동력 감소 해제"
+  },
+  "1000104333": {
+    "english": "Slow, slow! : CRIT {0}%",
+    "korean": "느려 느려-! : 치명타{0}%"
+  },
+  "1000104334": {
+    "english": "EMP Missile: Target Taunt (Black Hound)",
+    "korean": "EMP 미사일 : 대상 도발 (블랙 하운드)"
+  },
+  "1000104335": {
+    "english": "Emergency Escort: AP{0} (Attacks with HP below 50%)",
+    "korean": "긴급 호위 : AP{0} (HP 50% 이하 공격기)"
+  },
+  "1000104336": {
+    "english": "Revolver Machine Gun: ACU {0}%",
+    "korean": "리볼버 기관포 : 적중 {0}%"
+  },
+  "1000104337": {
+    "english": "Debris Attachment: EVA {0}%",
+    "korean": "잔해 부착 : 회피 {0}%"
+  },
+  "1000104338": {
+    "english": "Magnet Field: Fire resistance {0}%",
+    "korean": "마그넷 필드 : 화염 저항{0}%"
+  },
+  "1000104339": {
+    "english": "Reaction Barrier Stage 1: Reduces damage taken by {0}%",
+    "korean": "반응 방벽 1단계 : 받는 피해 감소 {0}%"
+  },
+  "1000104340": {
+    "english": "Cargo Delivery: Push back {0} tiles",
+    "korean": "화물 배송 : 뒤로 {0}칸 밀기"
+  },
+  "1000104341": {
+    "english": "The package has arrived! : ATK power {0}%",
+    "korean": "택배 왔어요! : 공격력{0}%"
+  },
+  "1000104342": {
+    "english": "Critical ACU : {0}%",
+    "korean": "오기 부리기 : 치명타{0}%"
+  },
+  "1000104343": {
+    "english": "Rocket Bash: Remove damage reduction (on CRIT)",
+    "korean": "로켓 배쉬 : 피해 감소 해제 (치명타 시)"
+  },
+  "1000104344": {
+    "english": "Shield Charge: Remove action protection",
+    "korean": "실드 차지 : 행 보호 해제"
+  },
+  "1000104345": {
+    "english": "Precision Capture: ACU {0}%",
+    "korean": "정밀 포착 : 적중{0}%"
+  },
+  "1000104346": {
+    "english": "Play with me!: Action power {0}%",
+    "korean": "놀아줘요! : 행동력{0}%"
+  },
+  "1000104347": {
+    "english": "Guard Mode!: Counterattack with {0}% power (self)",
+    "korean": "경비 모드! : {0}% 위력으로 반격 (자신)"
+  },
+  "1000104348": {
+    "english": "Indomitable Will: AP {0}",
+    "korean": "불굴의 의지 : AP{0}"
+  },
+  "1000104349": {
+    "english": "Durability Test!: Damage received {0}%",
+    "korean": "내구력 테스트! : 받는 피해{0}%"
+  },
+  "1000104350": {
+    "english": "Recruit Test Subject!: Cannot move",
+    "korean": "실험 대상 모집! : 이동 불가"
+  },
+  "1000104351": {
+    "english": "Output Deployment!: Action power {0}%",
+    "korean": "출력 전개! : 행동력{0}%"
+  },
+  "1000104352": {
+    "english": "Test Complete!: Damage received {0}%",
+    "korean": "테스트 완료! : 받는 피해{0}%"
+  },
+  "1000104353": {
+    "english": "Effect resistance {0}%",
+    "korean": "효과 저항{0}%"
+  },
+  "1000104354": {
+    "english": "Observation Report: CRIT  {0}%",
+    "korean": "관측 보고 : 치명타{0}%"
+  },
+  "1000104355": {
+    "english": "High-performance Radar: EVA {0}% (max)",
+    "korean": "고성능 레이더 : 회피{0}% (최대)"
+  },
+  "1000104356": {
+    "english": "Action power enhancement lifted",
+    "korean": "행동력 강화 해제"
+  },
+  "1000104357": {
+    "english": "Bunker Buster: Removes protection from designated targets",
+    "korean": "벙커 버스터 : 지정 대상 보호 해제"
+  },
+  "1000104358": {
+    "english": "Shatter Strike: {0}% damage to large armor",
+    "korean": "파쇄 강타 : 대 경장 피해량{0}%"
+  },
+  "1000104359": {
+    "english": "Assault Support: ATK Power {0}% (Defender/Attacker/Mongoose)",
+    "korean": "돌격 지원 : 공격력{0}% (보호기/공격기/몽구스대원)"
+  },
+  "1000104360": {
+    "english": "Mobile Shot: CRIT {0}%",
+    "korean": "기동간 사격 : 치명타{0}%"
+  },
+  "1000104361": {
+    "english": "Mobile Shooting: ATK {0}%",
+    "korean": "기동 사격 : 공격력{0}%"
+  },
+  "1000104362": {
+    "english": "Assault Formation: AP {0} (attacker)",
+    "korean": "강습 대열 : AP{0} (공격기)"
+  },
+  "1000104363": {
+    "english": "Barrier Switch: Heat protection",
+    "korean": "방벽 전환 : 열 보호"
+  },
+  "1000104364": {
+    "english": "Air Raid Preparation: CRIT {0}%",
+    "korean": "공습 준비 : 치명타{0}%"
+  },
+  "1000104365": {
+    "english": "Attack Formation: CRIT {0}%",
+    "korean": "공격 포메이션 : 치명타{0}%"
+  },
+  "1000104366": {
+    "english": "Enhanced Sticky Bomb: EVA {0}%",
+    "korean": "강화 점착탄 : 회피율 {0}%"
+  },
+  "1000104367": {
+    "english": "Counterattack Stance: CRIT {0}%",
+    "korean": "역습 태세 : 치명타{0}%"
+  },
+  "1000104368": {
+    "english": "Unit Reorganization: ACU {0}%",
+    "korean": "부대 재 정비 : 적중{0}%"
+  },
+  "1000104369": {
+    "english": "Heat protection",
+    "korean": "열 보호"
+  },
+  "1000104370": {
+    "english": "High-speed Mobility: ACU {0}%",
+    "korean": "고속 기동 : 적중 {0}%"
+  },
+  "1000104371": {
+    "english": "Heat protection effect removed",
+    "korean": "열 보호 효과 해제"
+  },
+  "1000104372": {
+    "english": "Escort Maneuver: Action power {0}%",
+    "korean": "호위 기동 : 행동력{0}%"
+  },
+  "1000104373": {
+    "english": "Alert Maneuver: DEF {0}%",
+    "korean": "경계 기동 : 방어력{0}%"
+  },
+  "1000104374": {
+    "english": "Target Escort: AP {0}",
+    "korean": "목표 호위 : AP{0}"
+  },
+  "1000104375": {
+    "english": "Support Start: Action power {0}%",
+    "korean": "지원 개시 : 행동력{0}%"
+  },
+  "1000104376": {
+    "english": "Effect resistance reduction {0}%",
+    "korean": "효과 저항 감소 {0}%"
+  },
+  "1000104377": {
+    "english": "Action protection removed",
+    "korean": "행 보호 해제"
+  },
+  "1000104378": {
+    "english": "Ignore shield/damage reduction effect",
+    "korean": "방어막 / 피해 경감 효과 무시"
+  },
+  "1000104379": {
+    "english": "Special Alloy: Effect resistance {0}%",
+    "korean": "특수 합금 : 효과 저항{0}%"
+  },
+  "1000104380": {
+    "english": "Hacking (Skadi): Action power {0}%",
+    "korean": "해킹 (스카디) : 행동력 {0}%"
+  },
+  "1000104381": {
+    "english": "Max Output: ACU {0}%",
+    "korean": "최대 출력 : 적중{0}%"
+  },
+  "1000104382": {
+    "english": "Status abnormality removed",
+    "korean": "상태 이상 해제"
+  },
+  "1000104383": {
+    "english": "Recharge Start: Damage reduction {0}%",
+    "korean": "재충전 개시 : 받는 피해 감소 {0}%"
+  },
+  "1000104384": {
+    "english": "Ready to go: {0}% damage taken",
+    "korean": "기동 준비 : 받는 피해{0}%"
+  },
+  "1000104385": {
+    "english": "Paralysis: EVA {0}%",
+    "korean": "마비 : 회피 {0}%"
+  },
+  "1000104386": {
+    "english": "Standard Combat OS: DEF {0}%",
+    "korean": "표준형 전투 OS : 방어력{0}%"
+  },
+  "1000104387": {
+    "english": "Assault Combat OS: Damage received {0}%",
+    "korean": "돌격형 전투 OS : 받는 피해{0}%"
+  },
+  "1000104388": {
+    "english": "Defense Combat OS: Damage reduction {0}%",
+    "korean": "방어형 전투 OS : 받는 피해 감소 {0}%"
+  },
+  "1000104389": {
+    "english": "Assault Combat OS: Range {0}",
+    "korean": "강습형 전투 OS : 사거리 {0}"
+  },
+  "1000104390": {
+    "english": "Precision Combat OS: Action power {0}%",
+    "korean": "정밀형 전투 OS : 행동력 {0}%"
+  },
+  "1000104391": {
+    "english": "Observation Equipment: Remove range reduction (5% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (5% 확률)"
+  },
+  "1000104392": {
+    "english": "Observation equipment: Removes range reduction (10% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (10% 확률)"
+  },
+  "1000104393": {
+    "english": "Observation Equipment: Removes range reduction (15% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (15% 확률)"
+  },
+  "1000104394": {
+    "english": "Observation Equipment: Removes range reduction (20% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (20% 확률)"
+  },
+  "1000104395": {
+    "english": "Observation Equipment: Removes range reduction (25% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (25% 확률)"
+  },
+  "1000104396": {
+    "english": "Observation Equipment: Removes range reduction (30% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (30% 확률)"
+  },
+  "1000104397": {
+    "english": "Observation Equipment: Removes range reduction (35% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (35% 확률)"
+  },
+  "1000104398": {
+    "english": "Observation Equipment: Removes range reduction (40% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (40% 확률)"
+  },
+  "1000104399": {
+    "english": "Observation Equipment: Removes range reduction (45% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (45% 확률)"
+  },
+  "1000104400": {
+    "english": "Observation equipment: Removes range reduction (50% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (50% 확률)"
+  },
+  "1000104401": {
+    "english": "Observation Equipment: Removes range reduction (55% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (55% 확률)"
+  },
+  "1000104402": {
+    "english": "Observation Equipment: Removes range reduction (60% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (60% 확률)"
+  },
+  "1000104403": {
+    "english": "Observation Equipment: Removes range reduction (65% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (65% 확률)"
+  },
+  "1000104404": {
+    "english": "Observation equipment: Removes range reduction (70% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (70% 확률)"
+  },
+  "1000104405": {
+    "english": "Observation equipment: Removes range reduction (75% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (75% 확률)"
+  },
+  "1000104406": {
+    "english": "Observation equipment: Removes range reduction (80% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (80% 확률)"
+  },
+  "1000104407": {
+    "english": "Observation equipment: Removes range reduction (85% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (85% 확률)"
+  },
+  "1000104408": {
+    "english": "Observation equipment: Removes range reduction (90% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (90% 확률)"
+  },
+  "1000104409": {
+    "english": "Observation equipment: Removes range reduction (95% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (95% 확률)"
+  },
+  "1000104410": {
+    "english": "Observation equipment: Removes range reduction (100% chance)",
+    "korean": "관측 장비 : 사거리 감소 해제 (100% 확률)"
+  },
+  "1000104411": {
+    "english": "Combat Stimulant: Continue battle with {0} HP",
+    "korean": "전투 자극제 : {0} HP로 전투 속행"
+  },
+  "1000104412": {
+    "english": "Defense Command: DEF {0}%",
+    "korean": "방어 지휘 : 방어력{0}%"
+  },
+  "1000104413": {
+    "english": "Defense Command (Attack): ACU {0}%",
+    "korean": "방어 지휘 (공격) : 적중{0}%"
+  },
+  "1000104414": {
+    "english": "Unstoppable Instinct: Immune to inability to act",
+    "korean": "멈출 수 없는 본능 : 행동 불능 무효"
+  },
+  "1000104415": {
+    "english": "It's a battle of speed! : CRIT  {0}%",
+    "korean": "속도 승부야! : 치명타{0}%"
+  },
+  "1000104416": {
+    "english": "Reconnaissance Flight: EVA {0}%",
+    "korean": "정찰 비행 : 회피{0}%"
+  },
+  "1000104417": {
+    "english": "Pinpoint Sniping: {0}% ACU",
+    "korean": "핀 포인트 저격 : 적중{0}%"
+  },
+  "1000104418": {
+    "english": "Radar Jamming: ACU {0}%",
+    "korean": "레이더 재밍 : 적중 {0}%"
+  },
+  "1000104419": {
+    "english": "Information Analysis: DEF {0}%",
+    "korean": "정보 분석 : 방어력{0}%"
+  },
+  "1000104420": {
+    "english": "Uncontrollable Nature: CRIT {0}%",
+    "korean": "주체할 수 없는 본성 : 치명타{0}%"
+  },
+  "1000104421": {
+    "english": "Execution: DEF {0}%",
+    "korean": "처형 : 방어력 {0}%"
+  },
+  "1000104422": {
+    "english": "Shadow Rampage Protocol: ATK power {0}% (when attacking)",
+    "korean": "그림자 난무 프로토콜 : 공격력{0}% (공격 시)"
+  },
+  "1000104423": {
+    "english": "Magic God's Protection: CRIT {0}%",
+    "korean": "마법신의 가호 : 치명타{0}%"
+  },
+  "1000104424": {
+    "english": "I'll remember! : ATK power {0}%",
+    "korean": "기억할게! : 공격력{0}%"
+  },
+  "1000104425": {
+    "english": "A decisive blow!: {0}% damage",
+    "korean": "회심의 일격! : 피해량{0}%"
+  },
+  "1000104426": {
+    "english": "Generator Destruction: Unable to act",
+    "korean": "제네레이터 파괴 : 행동 불가"
+  },
+  "1000104427": {
+    "english": "Hungry Wolf: Range {0}",
+    "korean": "굶주린 늑대 : 사거리{0}"
+  },
+  "1000104428": {
+    "english": "Armor Melting: DEF {0}%",
+    "korean": "장갑 융해 : 방어력 {0}%"
+  },
+  "1000104429": {
+    "english": "Armor Shattering: DEF {0}%",
+    "korean": "장갑 파쇄 : 방어력 {0}%"
+  },
+  "1000104430": {
+    "english": "Attack Prediction: EVA {0}%",
+    "korean": "공격 예측 : 회피{0}%"
+  },
+  "1000104431": {
+    "english": "Energy Shield: Remove harmful effects",
+    "korean": "에너지 실드 : 해로운 효과 제거"
+  },
+  "1000104432": {
+    "english": "Energy Coating: Damage reduction {0}%",
+    "korean": "에너지 코팅 : 받는 피해 감소 {0}%"
+  },
+  "1000104433": {
+    "english": "Warrior's Spear: ATK Power {0}%",
+    "korean": "전사의 창 : 공격력 {0}%"
+  },
+  "1000104434": {
+    "english": "Warrior's Strength: {0}% Action Power (HP 50% or less)",
+    "korean": "전사의 저력 : 행동력{0}% (HP 50% 이하)"
+  },
+  "1000104435": {
+    "english": "Valor 1st level: CRIT {0}% (except for heavy armor)",
+    "korean": "용맹 1단계 : 치명타{0}% (중장형 제외)"
+  },
+  "1000104436": {
+    "english": "Air Strike Support: AP{0} (Self)",
+    "korean": "공중 포격 지원 : AP{0} (자신)"
+  },
+  "1000104437": {
+    "english": "Skilled Aiming: DEF penetration {0}%",
+    "korean": "숙련된 조준 : 방어 관통{0}%"
+  },
+  "1000104438": {
+    "english": "Double Revolver Cannon: ACU {0}%",
+    "korean": "2연장 리볼버 캐논 : 적중 {0}%"
+  },
+  "1000104439": {
+    "english": "Reactive Barrier Level 2: Damage reduction {0}%",
+    "korean": "반응 방벽 2단계 : 받는 피해 감소 {0}%"
+  },
+  "1000104440": {
+    "english": "Reaction Barrier Stage 3: Reduces damage taken by {0}%",
+    "korean": "반응 방벽 3단계 : 받는 피해 감소 {0}%"
+  },
+  "1000104441": {
+    "english": "Anti-terror Outer Armor: Cold resistance {0}%",
+    "korean": "대 테러 외장 장갑 : 냉기 저항{0}%"
+  },
+  "1000104442": {
+    "english": "Suspicious Supplement: Range {0}",
+    "korean": "수상한 보조제 : 사거리{0}"
+  },
+  "1000104443": {
+    "english": "AMRAAM: DEF penetration {0}%",
+    "korean": "AMRAAM : 방어 관통{0}%"
+  },
+  "1000104444": {
+    "english": "Charge: Effect Resistance {0}%",
+    "korean": "충전 : 효과 저항{0}%"
+  },
+  "1000104445": {
+    "english": "Sadism: CRIT {0}%",
+    "korean": "가학성향 : 치명타{0}%"
+  },
+  "1000104446": {
+    "english": "Revenger: CRIT {0}%",
+    "korean": "리벤져 : 치명타{0}%"
+  },
+  "1000104447": {
+    "english": "Awakened Instinct: EVA {0}%",
+    "korean": "깨어난 본능 : 회피{0}%"
+  },
+  "1000104448": {
+    "english": "B. Buster: CRIT {0}%",
+    "korean": "B. 버스터 : 치명타 {0}%"
+  },
+  "1000104449": {
+    "english": "Cheer Up!: {0}% DEF",
+    "korean": "치어 업! : 방어력{0}%"
+  },
+  "1000104450": {
+    "english": "RB Speaker: CRIT {0}%",
+    "korean": "RB 스피커 : 치명타{0}%"
+  },
+  "1000104451": {
+    "english": "Lv.2 B. Buster: CRIT  {0}%",
+    "korean": "Lv.2 B. 버스터 : 치명타 {0}%"
+  },
+  "1000104452": {
+    "english": "Lv.3 B. Buster: CRIT {0}%",
+    "korean": "Lv.3 B. 버스터 : 치명타 {0}%"
+  },
+  "1000104453": {
+    "english": "Lv.2 Cheer Up!: DEF {0}%",
+    "korean": "Lv.2 치어 업! : 방어력{0}%"
+  },
+  "1000104454": {
+    "english": "Lv.3 Cheer Up!: DEF {0}%",
+    "korean": "Lv.3 치어 업! : 방어력{0}%"
+  },
+  "1000104455": {
+    "english": "Undine is the best-! : CRIT {0}%",
+    "korean": "운디네 최고-! : 치명타{0}%"
+  },
+  "1000104456": {
+    "english": "Anti-air Laser: Damage taken {0}% (Movement)",
+    "korean": "대공 레이저 : 받는 피해{0}% (기동)"
+  },
+  "1000104457": {
+    "english": "Elan Vital: Defense reduction removed",
+    "korean": "엘랑비탈 : 방어력 감소 해제"
+  },
+  "1000104458": {
+    "english": "Lance Charge: Fire resistance {0}%",
+    "korean": "랜스 차지 : 화염 저항 {0}%"
+  },
+  "1000104459": {
+    "english": "Defensive Formation: DEF {0}% (self)",
+    "korean": "방어 대형 : 방어력{0}% (자신)"
+  },
+  "1000104460": {
+    "english": "Vanguard: ATK {0}% (attacker/self)",
+    "korean": "뱅가드 : 공격력{0}% (공격기/자신)"
+  },
+  "1000104461": {
+    "english": "Vanguard: CRIT {0}%",
+    "korean": "뱅가드 : 치명타{0}%"
+  },
+  "1000104462": {
+    "english": "Multi Lock-On: Damage received {0}%",
+    "korean": "멀티 록 온 : 받는 피해{0}%"
+  },
+  "1000104463": {
+    "english": "Formation Maintenance: ACU {0}%",
+    "korean": "대열 정비 : 적중{0}%"
+  },
+  "1000104464": {
+    "english": "Overcome Crisis: Counterattack with {0}% power",
+    "korean": "위기 극복 : {0}% 위력으로 반격"
+  },
+  "1000104465": {
+    "english": "Armor Equipped: DEF {0}%",
+    "korean": "장갑 장착 : 방어력{0}%"
+  },
+  "1000104466": {
+    "english": "Attack Interference: CRIT {0}%",
+    "korean": "공격 방해 : 치명타 {0}%"
+  },
+  "1000104467": {
+    "english": "Overcurrent Discharge: ATK {0}%",
+    "korean": "과전류 방출 : 공격력 {0}%"
+  },
+  "1000104468": {
+    "english": "Electromagnetic Missile: CRIT {0}%",
+    "korean": "전자기장 미사일 : 치명타 {0}%"
+  },
+  "1000104469": {
+    "english": "Action Prediction: EVA {0}%",
+    "korean": "행동 예측 : 회피{0}%"
+  },
+  "1000104470": {
+    "english": "Sticky Bomb: Cannot move",
+    "korean": "점착탄 : 이동 불가"
+  },
+  "1000104471": {
+    "english": "Target Locked: CRIT {0}%",
+    "korean": "목표 포착 : 치명타{0}%"
+  },
+  "1000104472": {
+    "english": "Sight Destroyed: ACU {0}%",
+    "korean": "조준기 파괴 : 적중 {0}%"
+  },
+  "1000104473": {
+    "english": "Critical Error: Damage received {0}%",
+    "korean": "치명적 오류 : 받는 피해{0}%"
+  },
+  "1000104474": {
+    "english": "Focused Suppression: ACU {0}%",
+    "korean": "집중 견제 : 적중 {0}%"
+  },
+  "1000104475": {
+    "english": "Cooler Destroyed: Action power {0}%",
+    "korean": "냉각기 파괴 : 행동력 {0}%"
+  },
+  "1000104476": {
+    "english": "Situation Broadcast: AP {0}",
+    "korean": "상황 전파 : AP{0}"
+  },
+  "1000104477": {
+    "english": "Suppression Fire: Action power {0}%",
+    "korean": "제압 사격 : 행동력 {0}%"
+  },
+  "1000104478": {
+    "english": "Close Escort: Protect designated target",
+    "korean": "밀착 호위 : 지정 대상 보호"
+  },
+  "1000104479": {
+    "english": "Alert Reinforcement: Action power {0}%",
+    "korean": "경계 강화 : 행동력{0}%"
+  },
+  "1000104480": {
+    "english": "Directed Fire: Damage received {0}%",
+    "korean": "지향 사격 : 받는 피해{0}%"
+  },
+  "1000104481": {
+    "english": "Jamming Missile: ACU {0}%",
+    "korean": "재밍 미사일 : 적중 {0}%"
+  },
+  "1000104482": {
+    "english": "Emergency Alert: EVA {0}%",
+    "korean": "긴급 경보 : 회피{0}"
+  },
+  "1000104483": {
+    "english": "False Alarm: EVA {0}%",
+    "korean": "오보 발령 : 회피  {0}%"
+  },
+  "1000104484": {
+    "english": "Anti-Radar Chief: Damage reduction {0}%",
+    "korean": "대 레이더 쳬프 : 받는 피해 감소 {0}%"
+  },
+  "1000104485": {
+    "english": "Frontline Support: AP {0}",
+    "korean": "전열 지원 : AP{0}"
+  },
+  "1000104486": {
+    "english": "Pile Bunker Drive: Remove action protection",
+    "korean": "파일 벙커 드라이브 : 행 보호 해제"
+  },
+  "1000104487": {
+    "english": "Nozzle Enhancement: Ignore shield/damage reduction",
+    "korean": "노즐 강화 : 방어막 / 피해 감소 무시"
+  },
+  "1000104488": {
+    "english": "Ground Detection: Large/medium damage {0}%",
+    "korean": "지상 감지 : 대 중장 피해량{0}%"
+  },
+  "1000104489": {
+    "english": "Concentrated Bombardment Formation: CRIT {0}%",
+    "korean": "집중 포격 대열 : 치명타{0}%"
+  },
+  "1000104490": {
+    "english": "Shock Grenade: Remove buffs",
+    "korean": "충격탄 : 강화 효과 해제"
+  },
+  "1000104491": {
+    "english": "Resistance Treatment: Fire resistance {0}%",
+    "korean": "내성 처리 : 화염 저항{0}%"
+  },
+  "1000104492": {
+    "english": "Rage: ATK {0}%",
+    "korean": "격분 : 공격력{0}%"
+  },
+  "1000104493": {
+    "english": "Target Break: Damage Taken {0}%",
+    "korean": "목표 파쇄 : 받는 피해{0}%"
+  },
+  "1000104494": {
+    "english": "Bunker Ejection: Effect Resistance {0}% Decrease",
+    "korean": "벙커 사출 : 효과 저항 {0}% 감소"
+  },
+  "1000104495": {
+    "english": "Combat Instinct: ACU {0}%",
+    "korean": "전투 본능 : 적중{0}%"
+  },
+  "1000104496": {
+    "english": "Attack Alert: Effect Resistance {0}%",
+    "korean": "공격 경계 : 효과 저항{0}%"
+  },
+  "1000104497": {
+    "english": "Outer Armor: Remove Harmful Effects",
+    "korean": "외피 장갑 : 해로운 효과 해제"
+  },
+  "1000104498": {
+    "english": "Power Transmission: ACU {0}%",
+    "korean": "동력 전달 : 적중{0}%"
+  },
+  "1000104499": {
+    "english": "Output Amplification: ACU {0}%",
+    "korean": "출력 증폭 : 적중{0}%"
+  },
+  "1000104500": {
+    "english": "Reactor Destruction: ATK {0}%",
+    "korean": "동력로 파괴 : 공격력 {0}%"
+  },
+  "1000104501": {
+    "english": "Output Limit Release: ATK {0}%",
+    "korean": "출력 제한 해제 : 공격력{0}%"
+  },
+  "1000104502": {
+    "english": "Outer Reinforcement: Damage Taken Reduction {0}%",
+    "korean": "외피 강화 : 받는 피해 감소 {0}%"
+  },
+  "1000104503": {
+    "english": "Energy Backflow: Remove Buff Effects",
+    "korean": "에너지 역류 : 강화 효과 해제"
+  },
+  "1000104504": {
+    "english": "Execution Start: Unable to Act",
+    "korean": "처형 개시 : 행동 불가"
+  },
+  "1000104505": {
+    "english": "Massive Explosion: Remove Buff Effects",
+    "korean": "대폭발 : 강화 효과 해제"
+  },
+  "1000104506": {
+    "english": "Overflow: Remove Buff Effects",
+    "korean": "오버플로우 : 강화 해제"
+  },
+  "1000104507": {
+    "english": "Armor Removal: Damage Taken {0}%",
+    "korean": "장갑 해제 : 받는 피해{0}%"
+  },
+  "1000104508": {
+    "english": "Disarm: CRIT {0}%",
+    "korean": "무장 해제 : 치명타 {0}%"
+  },
+  "1000104509": {
+    "english": "Automatic Defense System: Effect Resistance {0}%",
+    "korean": "자동 방어 시스템 : 효과 저항 {0}%"
+  },
+  "1000104510": {
+    "english": "Outer Armor Removal: Damage Taken {0}%",
+    "korean": "외장 장갑 해제 : 받는 피해{0}%"
+  },
+  "1000104511": {
+    "english": "Overflow: Remove Buff Effects",
+    "korean": "오버플로우 : 강화 효과 해제"
+  },
+  "1000104512": {
+    "english": "Alert Mode: ACU {0}%",
+    "korean": "경계 모드 : 적중 {0}%"
+  },
+  "1000104513": {
+    "english": "Confirmed Kill: Ignore Shield and Damage Reduction",
+    "korean": "확인 사살 : 방어막 / 피해 감소 무시"
+  },
+  "1000104514": {
+    "english": "SK-14 P.C.C: Remove Range Reduction",
+    "korean": "SK-14 P.C.C : 사거리 감소 해제"
+  },
+  "1000104515": {
+    "english": "Iron Bug Stitch: EVA {0}%",
+    "korean": "철충 재봉 : 회피 {0}%"
+  },
+  "1000104516": {
+    "english": "Technical Lead: EVA / AP Increase",
+    "korean": "기술 선도 : 회피 / 행동력 증가"
+  },
+  "1000104517": {
+    "english": "Model Selection: CRIT {0}%",
+    "korean": "모델 선정 : 치명타{0}%"
+  },
+  "1000104518": {
+    "english": "Ornament Repair: Remove DEF Reduction",
+    "korean": "의장 수선 : 방어력 감소 해제"
+  },
+  "1000104519": {
+    "english": "Technical Lead: Fire Resistance {0}%",
+    "korean": "기술 선도 : 화염 저항 {0}%"
+  },
+  "1000104520": {
+    "english": "Pursuit of Popularity: CRIT {0}%",
+    "korean": "대중성 추구 : 치명타 {0}%"
+  },
+  "1000104521": {
+    "english": "Top Secret New Research: AP {0}%",
+    "korean": "극비 신작 연구 : 행동력 {0}%"
+  },
+  "1000104522": {
+    "english": "Light New Material: AP {0}%",
+    "korean": "가벼운 신소재 : 행동력{0}%"
+  },
+  "1000104523": {
+    "english": "Steady Seller: Damage Taken Reduction {0}%",
+    "korean": "스테디셀러 : 받는 피해 감소 {0}%"
+  },
+  "1000104524": {
+    "english": "Deadly Charm: CRIT {0}%",
+    "korean": "치명적 매력 : 치명타{0}%"
+  },
+  "1000104525": {
+    "english": "Top Secret New Research: EVA {0}% (Back Row)",
+    "korean": "극비 신작 연구 : 회피{0}% (후열)"
+  },
+  "1000104526": {
+    "english": "Super Strength: Reduces damage taken by {0}%",
+    "korean": "초강화 근력 : 받는 피해 감소 {0}%"
+  },
+  "1000104527": {
+    "english": "Arc Shot: Evasion {0}%",
+    "korean": "원호 사격 : 회피 {0}%"
+  },
+  "1000104528": {
+    "english": "Sadistic Chef: ACU {0}%",
+    "korean": "가학적인 요리사 : 적중{0}%"
+  },
+  "1000104529": {
+    "english": "Witch of the Kitchen: ATK {0}% (Light Armor)",
+    "korean": "주방의 마녀 : 공격력{0}% (경장)"
+  },
+  "1000104530": {
+    "english": "Lower Target HP%, Damage {0}%",
+    "korean": "적 HP% 낮을수록 피해량{0}%"
+  },
+  "1000104531": {
+    "english": "Practice Start: ATK {0}% (Light Armor)",
+    "korean": "실습 개시 : 공격력{0}% (경장)"
+  },
+  "1000104532": {
+    "english": "No, This Flavor…!: AP {0}%",
+    "korean": "아니 이 맛은…! : 행동력{0}%"
+  },
+  "1000104533": {
+    "english": "Attack Suppression: CRIT {0}%",
+    "korean": "공격 견제 : 치명타 {0}%"
+  },
+  "1000104534": {
+    "english": "Flashbang: ACU {0}%",
+    "korean": "섬광탄 : 적중 {0}%"
+  },
+  "1000104535": {
+    "english": "Target Designation: EVA {0}%",
+    "korean": "타겟 설정 : 회피 {0}%"
+  },
+  "1000104536": {
+    "english": "Targeting Instructions: CRIT {0}%",
+    "korean": "목표 지시 : 치명타{0}%"
+  },
+  "1000104537": {
+    "english": "Target Instruction: CRIT {0}% (Robot)",
+    "korean": "목표 지시 : 치명타{0}% (로봇)"
+  },
+  "1000104538": {
+    "english": "Rampart Deployment Time: AP {0}%",
+    "korean": "램파트 배치 시 : 행동력 {0}%"
+  },
+  "1000104539": {
+    "english": "Debris Attachment (Max): EVA {0}%",
+    "korean": "잔해 부착 (최대) : 회피 {0}%"
+  },
+  "1000104540": {
+    "english": "Cruise Mode: {0}% Action Power (Heavy)",
+    "korean": "순항 모드 : 행동력{0}% (중장)"
+  },
+  "1000104541": {
+    "english": "Armor Deployment Mode: Action Power {0}% (Heavy)",
+    "korean": "장갑 전개 모드 : 행동력{0}% (중장)"
+  },
+  "1000104542": {
+    "english": "Charge Command (Attack): ACU {0}%",
+    "korean": "돌격 명령 (공격) : 적중{0}%"
+  },
+  "1000104543": {
+    "english": "Charge Command (Defense): DEF {0}%",
+    "korean": "돌격 명령 (방어) : 방어력{0}%"
+  },
+  "1000104544": {
+    "english": "Target Attack: EVA {0}%",
+    "korean": "공격 목표 지정 : 회피 {0}%"
+  },
+  "1000104545": {
+    "english": "Watch Carefully and Learn: ACU {0}%",
+    "korean": "잘 보고 배우세요 : 적중{0}%"
+  },
+  "1000104546": {
+    "english": "Strategic Bombing Equipment: DEF Penetration {0}%",
+    "korean": "전략 폭격 장비 : 방어 관통{0}%"
+  },
+  "1000104547": {
+    "english": "Shrink: EVA {0}%",
+    "korean": "위축 : 회피 {0}%"
+  },
+  "1000104548": {
+    "english": "Fear: ACU {0}%",
+    "korean": "공포 : 적중 {0}%"
+  },
+  "1000104549": {
+    "english": "Depression: AP {0}%",
+    "korean": "의기소침 : 행동력 {0}%"
+  },
+  "1000104550": {
+    "english": "Morale Drop: CRIT {0}%",
+    "korean": "사기 저하 : 치명타 {0}%"
+  },
+  "1000104551": {
+    "english": "Planting a Sapling: {0}% Fire Resistance",
+    "korean": "묘목 심기 : 화염 저항 {0}%"
+  },
+  "1000104552": {
+    "english": "Ambush in the Bushes: CRIT {0}%",
+    "korean": "수풀 매복 : 치명타{0}%"
+  },
+  "1000104553": {
+    "english": "Planting Seedlings: Unable to Act",
+    "korean": "묘목 심기 : 행동 불가"
+  },
+  "1000104554": {
+    "english": "Signal Transmission: CRIT {0}%",
+    "korean": "전파 발신 : 치명타{0}%"
+  },
+  "1000104555": {
+    "english": "Mobile Base Station: ACU {0}%",
+    "korean": "이동형 기지국 : 적중{0}%"
+  },
+  "1000104556": {
+    "english": "Alarm Transmission: Damage Taken Reduction {0}% (One Time)",
+    "korean": "경보 발신 : 받는 피해 감소 {0}% (1회)"
+  },
+  "1000104557": {
+    "english": "Battle Judgment: Effect Resistance {0}%",
+    "korean": "전황 판단 : 효과 저항{0}%"
+  },
+  "1000104558": {
+    "english": "Last Stand: Damage Taken {0}%",
+    "korean": "배수진 : 받는 피해{0}%"
+  },
+  "1000104559": {
+    "english": "Battle Judgment: DEF {0}%",
+    "korean": "전황 판단 : 방어력{0}%"
+  },
+  "1000104560": {
+    "english": "Battle Judgment: ACU {0}%",
+    "korean": "전황 판단 : 적중{0}%"
+  },
+  "1000104561": {
+    "english": "Enhanced Antimatter Field: Damage Taken Reduction {0}%",
+    "korean": "강화 반물질 역장 : 받는 피해 감소 {0}%"
+  },
+  "1000104562": {
+    "english": "Battle Forecast: EVA {0}%",
+    "korean": "전황 예측 : 회피{0}%"
+  },
+  "1000104563": {
+    "english": "Mode Change: CRIT {0}%",
+    "korean": "모드 변경 : 치명타{0}%"
+  },
+  "1000104564": {
+    "english": "Sticky Bomb Rapid Fire: Remove Buff Effects",
+    "korean": "점착탄 연사 : 강화 효과 해제"
+  },
+  "1000104565": {
+    "english": "Kill Prey: {0}% ACU",
+    "korean": "사냥감 처치 : 적중{0}%"
+  },
+  "1000104566": {
+    "english": "Lend a Hand: Protect Designated Target",
+    "korean": "손 빌려주기 : 지정 대상 보호"
+  },
+  "1000104567": {
+    "english": "Don’t Charge!: ATK {0}%",
+    "korean": "돌격이지말입니다! : 공격력{0}%"
+  },
+  "1000104568": {
+    "english": "Star Instinct: CRIT {0}%",
+    "korean": "주연 본능 : 치명타{0}%"
+  },
+  "1000104569": {
+    "english": "Starring Instinct!: CRIT {0}%",
+    "korean": "주연 본능! : 치명타{0}%"
+  },
+  "1000104570": {
+    "english": "Friend of the Citizens: ACU {0}%",
+    "korean": "시민의 친구 : 적중{0}%"
+  },
+  "1000104571": {
+    "english": "Alarm Activation: Range {0}",
+    "korean": "경보 발령 : 사거리{0}"
+  },
+  "1000104572": {
+    "english": "Support Formation: DEF {0}%",
+    "korean": "지원 대열 : 방어력{0}%"
+  },
+  "1000104573": {
+    "english": "Support Formation: DEF {0}%",
+    "korean": "지원 대열 : 방어력 {0}%"
+  },
+  "1000104574": {
+    "english": "Finale: {0}% damage (dual target)",
+    "korean": "피날레 : 피해량{0}% (듀얼 대상)"
+  },
+  "1000104575": {
+    "english": "Climax: AP{0} (when killing an enemy)",
+    "korean": "클라이맥스 : AP{0} (적 처치 시)"
+  },
+  "1000104576": {
+    "english": "Duel Initiation: Target Taunt (Charlotte)",
+    "korean": "듀얼 개시 : 대상 도발 (샬럿)"
+  },
+  "1000104577": {
+    "english": "E.O.B Type D OS: Effect Resistance {0}%",
+    "korean": "E.O.B D형 OS : 효과 저항{0}%"
+  },
+  "1000104578": {
+    "english": "Precision Shooting: ACU Correction {0}%",
+    "korean": "정밀 사격 : 적중 보정{0}%"
+  },
+  "1000104579": {
+    "english": "Rumor Collector: CRIT {0}%",
+    "korean": "루머 콜렉터 : 치명타{0}%"
+  },
+  "1000104580": {
+    "english": "Warrior's Strength: Action Power {0}%",
+    "korean": "전사의 저력 : 행동력{0}%"
+  },
+  "1000104581": {
+    "english": "Right Turn: CRIT {0}%",
+    "korean": "우향선회 : 치명타{0}%"
+  },
+  "1000104582": {
+    "english": "Overwhelming Discomfort: CRIT {0}%",
+    "korean": "압도적 불편함 : 치명타{0}%"
+  },
+  "1000104583": {
+    "english": "Extreme Discomfort (Genie): CRIT {0}%",
+    "korean": "극도의 불편함 (지니야) : 치명타{0}%"
+  },
+  "1000104584": {
+    "english": "Emergency Escort: AP{0} (Attack Plane)",
+    "korean": "긴급 호위 : AP{0} (공격기)"
+  },
+  "1000104585": {
+    "english": "Delivery Has Arrived!!: CRIT {0}%",
+    "korean": "택배 왔어요!! : 치명타{0}%"
+  },
+  "1000104586": {
+    "english": "Delivery Has Arrived!!!: CRIT {0}%",
+    "korean": "택배 왔어요!!! : 치명타{0}%"
+  },
+  "1000104587": {
+    "english": "Seems Like Someone Else’s Delivery...: CRIT {0}%",
+    "korean": "남의 택배인 것 같다... : 치명타{0}%"
+  },
+  "1000104588": {
+    "english": "Don't leave it to me! : ACU {0}%",
+    "korean": "맡겨주시지말입니다! : 적중{0}%"
+  },
+  "1000104589": {
+    "english": "Don’t Trust That!: ACU {0}%",
+    "korean": "절믿으시지말입니다! : 적중{0}%"
+  },
+  "1000104590": {
+    "english": "Brownie Charge Damage Taken Increase Removed",
+    "korean": "브라우니 돌격 받는 피해 증가 제거"
+  },
+  "1000104591": {
+    "english": "Brownie Manager: ACU {0}%",
+    "korean": "브라우니 담당 : 적중{0}%"
+  },
+  "1000104592": {
+    "english": "Rapid acceleration: range {0}",
+    "korean": "급가속 : 사거리{0}"
+  },
+  "1000104593": {
+    "english": "Speech Acceleration: EVA {0}% (Bio)",
+    "korean": "대사 촉진 : 회피{0}% (바이오)"
+  },
+  "1000104594": {
+    "english": "Ready to Charge: ACU {0}%",
+    "korean": "돌입 준비 : 적중{0}%"
+  },
+  "1000104595": {
+    "english": "Forced entry: Row protection",
+    "korean": "강행 돌입 : 행 보호"
+  },
+  "1000104596": {
+    "english": "Indomitable Firefighter: AP {0}%",
+    "korean": "불굴의 소방관 : 행동력{0}%"
+  },
+  "1000104597": {
+    "english": "Coaxial Shooting: CRIT {0}%",
+    "korean": "협차 사격 : 치명타{0}%"
+  },
+  "1000104598": {
+    "english": "Intercept Mode: {0}% Action Power",
+    "korean": "요격 모드 : 행동력{0}%"
+  },
+  "1000104599": {
+    "english": "Observation Bombardment: CRIT {0}%",
+    "korean": "관측 포격 : 치명타{0}%"
+  },
+  "1000104600": {
+    "english": "Bombardment Mode: DEF Penetration {0}%",
+    "korean": "포격 모드 : 방어 관통{0}%"
+  },
+  "1000104601": {
+    "english": "Judgment: Damage Taken {0}%",
+    "korean": "심판 : 받는 피해{0}%"
+  },
+  "1000104602": {
+    "english": "Guardian Angel: ATK {0}%",
+    "korean": "수호 천사 : 공격력{0}%"
+  },
+  "1000104603": {
+    "english": "Divine Protection: Damage Taken Reduction {0}%",
+    "korean": "신의 가호 : 받는 피해 감소 {0}%"
+  },
+  "1000104604": {
+    "english": "Rebirth: Minimize Damage During Combat Continuation Rounds",
+    "korean": "재림 : 전투 속행 라운드 피해 최소화"
+  },
+  "1000104605": {
+    "english": "Judgment (Rebirth): ATK {0}%",
+    "korean": "심판 (재림) : 공격력 {0}%"
+  },
+  "1000104606": {
+    "english": "Divine Protection (Rebirth): Damage Taken Reduction {0}%",
+    "korean": "신의 가호 (재림) : 받는 피해 감소 {0}%"
+  },
+  "1000104607": {
+    "english": "Rebirth: Effect Resistance {0}%",
+    "korean": "재림 : 효과 저항{0}%"
+  },
+  "1000104608": {
+    "english": "Overcharge: EVA {0}%",
+    "korean": "과충전 : 회피{0}%"
+  },
+  "1000104609": {
+    "english": "High Voltage Current: Remove Damage Taken Reduction",
+    "korean": "고압 전류 : 받는 피해 감소 해제"
+  },
+  "1000104610": {
+    "english": "Re-mantling: Effect Resistance {0}%",
+    "korean": "재 정비 : 효과 저항{0}%"
+  },
+  "1000104611": {
+    "english": "Waterproof Armor: Cold Resistance {0}%",
+    "korean": "방수 장갑 : 냉기 저항{0}%"
+  },
+  "1000104612": {
+    "english": "Leak: AP {0}",
+    "korean": "누수 : AP {0}"
+  },
+  "1000104613": {
+    "english": "Hydrophobia: ACU {0}%",
+    "korean": "물 공포증 : 적중 {0}%"
+  },
+  "1000104614": {
+    "english": "Frozen Coating: DEF {0}%",
+    "korean": "빙결 코팅 : 방어력{0}%"
+  },
+  "1000104615": {
+    "english": "Overheat: DEF {0}%",
+    "korean": "과열 : 방어력 {0}%"
+  },
+  "1000104616": {
+    "english": "Shield Rapid Strike: Unable to Act",
+    "korean": "방패 연타 : 행동 불가"
+  },
+  "1000104617": {
+    "english": "Chick Blocking: Row Protection",
+    "korean": "칙 블로킹 : 행 보호"
+  },
+  "1000104618": {
+    "english": "Strict Defense Command: Damage Taken Reduction {0}%",
+    "korean": "칙 방어 지휘 : 받는 피해 감소 {0}%"
+  },
+  "1000104619": {
+    "english": "Last Grit: Ignore Shield / Damage Reduction",
+    "korean": "최후의 근성 : 방어막 / 피해 감소 무시"
+  },
+  "1000104620": {
+    "english": "Modified Machine Gun Suppression: CRIT {0}%",
+    "korean": "개조 기총 견제 : 치명타 {0}%"
+  },
+  "1000104621": {
+    "english": "Interception Stance: Damage Taken Reduction {0}%",
+    "korean": "요격 태세 : 받는 피해 감소 {0}%"
+  },
+  "1000104622": {
+    "english": "Frontline Defense Formation: AP {0}",
+    "korean": "전열 방어 대형 : AP{0}"
+  },
+  "1000104623": {
+    "english": "Emergency Support Request: AP {0}% (Attack Aircraft)",
+    "korean": "긴급 지원 요청 : 행동력{0}% (공격기)"
+  },
+  "1000104624": {
+    "english": "Vibration Shatter Shell: Remove Damage Reduction Effects",
+    "korean": "진동 분쇄탄 : 피해 감소 효과 해제"
+  },
+  "1000104625": {
+    "english": "Output Limit Release: {0}% Action Power",
+    "korean": "출력 한계 해제 : 행동력{0}%"
+  },
+  "1000104626": {
+    "english": "Overpower Explosion: Remove Buff Effects",
+    "korean": "과출력 유폭 : 강화 효과 해제"
+  },
+  "1000104627": {
+    "english": "High Voltage Stun Gun: EVA {0}%",
+    "korean": "고전압 스턴건 : 회피 {0}%"
+  },
+  "1000104628": {
+    "english": "Infiltrator Capture: Cannot Move",
+    "korean": "칩입자 포획 : 이동 불가"
+  },
+  "1000104629": {
+    "english": "Network Error: Range {0}",
+    "korean": "네트워크 오류 : 사거리 {0}"
+  },
+  "1000104630": {
+    "english": "Assault Preparation: ATK {0}%",
+    "korean": "강습 준비 : 공격력{0}%"
+  },
+  "1000104631": {
+    "english": "EVA Suppression Fire: Damage Taken {0}%",
+    "korean": "회피 견제 사격 : 받는 피해{0}%"
+  },
+  "1000104632": {
+    "english": "Anti-Air Radar System: ACU {0}%",
+    "korean": "대공 레이더 시스템 : 적중{0}%"
+  },
+  "1000104633": {
+    "english": "Goal Setting error: Skill unusable",
+    "korean": "목표 설정 오류 : 스킬 사용 불가"
+  },
+  "1000104634": {
+    "english": "Ground Analysis Radar: DEF {0}%",
+    "korean": "지상 분석 레이더 : 방어력 {0}%"
+  },
+  "1000104635": {
+    "english": "Defense Formation Support: AP {0} (Protector)",
+    "korean": "방어 대열 지원 : AP{0} (보호기)"
+  },
+  "1000104636": {
+    "english": "Pinpoint Bombardment: Ignore Shield / Damage Reduction",
+    "korean": "핀 포인트 폭격 : 방어막 / 피해 감소 무시"
+  },
+  "1000104637": {
+    "english": "Depth Charge: Large Heavy Damage {0}%",
+    "korean": "폭뢰 : 대 중장 피해량{0}%"
+  },
+  "1000104638": {
+    "english": "Ground Disturbance Wave: EVA {0}%",
+    "korean": "지면 교란 파장 : 회피 {0}%"
+  },
+  "1000104639": {
+    "english": "Improved Flashbang: CRIT {0}%",
+    "korean": "개량형 섬광탄 : 치명타 {0}%"
+  },
+  "1000104640": {
+    "english": "Precision Ground Radar: Large Light Damage {0}%",
+    "korean": "정밀 지상 레이더 : 대 경장형 피해량{0}%"
+  },
+  "1000104641": {
+    "english": "Information Transmission Error: CRIT {0}%",
+    "korean": "정보 발신 오류 : 치명타 {0}%"
+  },
+  "1000104642": {
+    "english": "Underwater Cutter: Unlocks Defense Boost",
+    "korean": "수중용 절단기 : 방어력 강화 해제"
+  },
+  "1000104643": {
+    "english": "Frontier Leader: {0}% Fire Resistance",
+    "korean": "프런티어 리더 : 화염 저항{0}%"
+  },
+  "1000104644": {
+    "english": "Abyss Walker: Reduces damage taken by {0}%",
+    "korean": "어비스 워커 : 받는 피해 감소 {0}%"
+  },
+  "1000104645": {
+    "english": "Home Ground: CRIT {0}%",
+    "korean": "홈 그라운드 : 치명타{0}%"
+  },
+  "1000104646": {
+    "english": "Abyss Walker: CRIT {0}%",
+    "korean": "어비스 워커 : 치명타{0}%"
+  },
+  "1000104647": {
+    "english": "Aqua Module: DEF {0}% (When Submerged)",
+    "korean": "아쿠아 모듈 : 방어력{0}% (침수 시)"
+  },
+  "1000104648": {
+    "english": "Battle Analysis OS: CRIT {0}% (During Recon)",
+    "korean": "전황 분석 OS : 치명타{0}% (정찰 시)"
+  },
+  "1000104649": {
+    "english": "Fatal Charm: CRIT {0}% (Bio)",
+    "korean": "치명적 매력 : 치명타{0}% (바이오)"
+  },
+  "1000104650": {
+    "english": "Output Limit Release: AP {0}% (Robot)",
+    "korean": "출력 제한 해제 : 행동력{0}% (로봇)"
+  },
+  "1000104651": {
+    "english": "Energy Conversion: AP {0}%",
+    "korean": "에너지 전환 : 행동력{0}%"
+  },
+  "1000104652": {
+    "english": "Here, here! : CRIT {0}%",
+    "korean": "여기야 여기! : 치명타{0}%"
+  },
+  "1000104653": {
+    "english": "Try harder! : CRIT {0}%",
+    "korean": "좀 더 힘내봐! : 치명타{0}%"
+  },
+  "1000104654": {
+    "english": "Leave it behind?: Action power reduction removed",
+    "korean": "두고 간다? : 행동력 감소 해제"
+  },
+  "1000104655": {
+    "english": "Breakthrough Initiation: CRIT {0}% (Attack Aircraft)",
+    "korean": "돌파 개시 : 치명타{0}% (공격기)"
+  },
+  "1000104656": {
+    "english": "Breakthrough Initiation: CRIT {0}%",
+    "korean": "돌파 개시 : 치명타{0}%"
+  },
+  "1000104657": {
+    "english": "Metal Fatigue: Damage Taken {0}%",
+    "korean": "금속 열피로 : 받는 피해{0}%"
+  },
+  "1000104658": {
+    "english": "Leisureliness: CRIT {0}%",
+    "korean": "느긋함 : 치명타{0}%"
+  },
+  "1000104659": {
+    "english": "Fortune: Minimize Damage (Chance Activation)",
+    "korean": "강운 : 피해 최소화 (확률 발동)"
+  },
+  "1000104660": {
+    "english": "Weather Optimization: Fire Resistance {0}% (Mobile)",
+    "korean": "기상 최적화 : 화염 저항{0}% (기동)"
+  },
+  "1000104661": {
+    "english": "Flame Spray: {0}% Fire Resistance",
+    "korean": "화염 분사 : 화염 저항 {0}%"
+  },
+  "1000104662": {
+    "english": "Incinerate Start: When attacking with fire attribute, 50% fixed damage",
+    "korean": "소각 개시 : 화속성 공격 시, 50% 고정 피해"
+  },
+  "1000104663": {
+    "english": "Adaptive Armor: {0}% Fire Resistance",
+    "korean": "적응형 방호복 : 화염 저항{0}%"
+  },
+  "1000104664": {
+    "english": "Agent Cover: Thermal Protection (Self)",
+    "korean": "요원 엄폐 : 열 보호 (자신)"
+  },
+  "1000104665": {
+    "english": "Formation Marksman: Damage Taken Reduction {0}%",
+    "korean": "진형 사수 : 받는 피해 감소 {0}%"
+  },
+  "1000104666": {
+    "english": "Output Overload: CRIT {0}%",
+    "korean": "출력 오버로드 : 치명타{0}%"
+  },
+  "1000104667": {
+    "english": "Focused Extended Missile: Damage Taken {0}%",
+    "korean": "집속 연장 미사일 : 받는 피해{0}%"
+  },
+  "1000104668": {
+    "english": "Output Limit Release: CRIT {0}%",
+    "korean": "출력 한도 해제 : 치명타{0}%"
+  },
+  "1000104669": {
+    "english": "Battle Analysis: Effect Resistance {0}%",
+    "korean": "전황 분석 : 효과 저항{0}%"
+  },
+  "1000104670": {
+    "english": "Battle Recovery: AP {0}%",
+    "korean": "전황 수습 : 행동력{0}%"
+  },
+  "1000104671": {
+    "english": "Command Center Loss: ACU {0}%",
+    "korean": "지휘 중추 상실 : 적중 {0}%"
+  },
+  "1000104672": {
+    "english": "Capture Shot: EVA {0}%",
+    "korean": "포획탄 : 회피 {0}%"
+  },
+  "1000104673": {
+    "english": "Situation Response: Attack Support",
+    "korean": "상황 대응 : 공격 지원"
+  },
+  "1000104674": {
+    "english": "Aim Sharing Error: ACU {0}%",
+    "korean": "조준 공유 오류 : 적중 {0}%"
+  },
+  "1000104675": {
+    "english": "Bombardment Correction: CRIT {0}%",
+    "korean": "포격 보정 : 치명타{0}%"
+  },
+  "1000104676": {
+    "english": "Charge Smash: AP {0}",
+    "korean": "차지 스매시 : AP {0}"
+  },
+  "1000104677": {
+    "english": "Base Patrol: AP {0}%",
+    "korean": "거점 순찰 : 행동력{0}%"
+  },
+  "1000104678": {
+    "english": "High Voltage Current: Remove Buff Effects",
+    "korean": "고압 전류 : 강화 효과 해제"
+  },
+  "1000104679": {
+    "english": "Charge Max Charge: ACU {0}%",
+    "korean": "전하 최대 충전 : 적중{0}%"
+  },
+  "1000104680": {
+    "english": "Charge Backflow: Remove Buff Effects",
+    "korean": "전하 역류 : 강화 효과 해제"
+  },
+  "1000104681": {
+    "english": "All Charge!: CRIT {0}%",
+    "korean": "전원 돌격! : 치명타{0}%"
+  },
+  "1000104682": {
+    "english": "Critical Strike: Damage {0}%",
+    "korean": "회심의 강타 : 피해량{0}%"
+  },
+  "1000104683": {
+    "english": "Skilled Mining: CRIT {0}%",
+    "korean": "숙련된 채굴 : 치명타{0}%"
+  },
+  "1000104684": {
+    "english": "Bow Your Head!: EVA {0}% (Defender)",
+    "korean": "머리 숙여! : 회피{0}% (보호기)"
+  },
+  "1000104685": {
+    "english": "Shoot overhead: ACU{0}%",
+    "korean": "머리 위로 쏘기 : 적중{0}%"
+  },
+  "1000104686": {
+    "english": "Ground Force Escort: DEF {0}% (Self)",
+    "korean": "지상군 호위 : 방어력{0}% (자신)"
+  },
+  "1000104687": {
+    "english": "Telescopic Sight: ACU {0}%",
+    "korean": "망원 조준장치 : 적중{0}%"
+  },
+  "1000104688": {
+    "english": "Ice Age: Action Points {0}%",
+    "korean": "아이스 에이지 : 행동력 {0}%"
+  },
+  "1000104689": {
+    "english": "Polar Countermeasures: AP{0} (when protected)",
+    "korean": "극지 대비책 : AP{0} (지정 보호 시)"
+  },
+  "1000104690": {
+    "english": "Mimic: CRIT {0}%",
+    "korean": "의태 : 치명타{0}%"
+  },
+  "1000104691": {
+    "english": "Piercing Steel: Damage Taken {0}%",
+    "korean": "찌르는 강철 : 받는 피해{0}%"
+  },
+  "1000104692": {
+    "english": "Dignity of the Strong: Damage Increases as Enemy HP% Lowers {0}%",
+    "korean": "강자의 품격 : 적 HP% 낮을수록 피해량{0}%"
+  },
+  "1000104693": {
+    "english": "Slaughter Instinct: Ignores shields/damage reduction",
+    "korean": "학살 본능 : 방어막 / 피해 감소 무시"
+  },
+  "1000104694": {
+    "english": "High Voltage Current: Electric Resistance {0}%",
+    "korean": "고압 전류 : 전기 저항 {0}%"
+  },
+  "1000104695": {
+    "english": "Charge Backflow: Damage Taken {0}%",
+    "korean": "전하 역류 : 받는 피해{0}%"
+  },
+  "1000104696": {
+    "english": "Shield Charge: Removes harmful effects",
+    "korean": "실드 충전 : 해로운 효과 해제"
+  },
+  "1000104697": {
+    "english": "Restoration Standby: Minimize Damage",
+    "korean": "복원 대기 : 피해 최소화"
+  },
+  "1000104698": {
+    "english": "Aim Disruption: ACU {0}%",
+    "korean": "조준 방해 : 적중 {0}%"
+  },
+  "1000104699": {
+    "english": "Right Turn: Attack Support",
+    "korean": "우향선회 : 공격 지원"
+  },
+  "1000104700": {
+    "english": "Undine is the Best!: EVA {0}%",
+    "korean": "운디네가 최고! : 회피 {0}%"
+  },
+  "1000104701": {
+    "english": "F.F Missile (Large Light): Large Light Damage {0}%",
+    "korean": "F.F 미사일 (대 경장) : 대 경장형 피해량{0}%"
+  },
+  "1000104702": {
+    "english": "Right Turn: ACU {0}% (Mobile/Heavy)",
+    "korean": "우향선회 : 적중{0}% (기동/중장)"
+  },
+  "1000104703": {
+    "english": "Right turn?: Support for the attack",
+    "korean": "우향선회? : 공격 지원"
+  },
+  "1000104704": {
+    "english": "F.F Missile (Large Heavy): Large Heavy Damage {0}%",
+    "korean": "F.F 미사일 (대 중장) : 대 중장형 피해량{0}%"
+  },
+  "1000104705": {
+    "english": "Right turn???: Attack support",
+    "korean": "우향선회??? : 공격 지원"
+  },
+  "1000104706": {
+    "english": "Right Turn?!: Attack Support",
+    "korean": "우향선회?! : 공격 지원"
+  },
+  "1000104707": {
+    "english": "F.F Missile: DEF Penetration {0}%",
+    "korean": "F.F 미사일 : 방어 관통 {0}%"
+  },
+  "1000104708": {
+    "english": "Bombardment Command: AP {0}%",
+    "korean": "포격 지휘 : 행동력{0}%"
+  },
+  "1000104709": {
+    "english": "Interception Mode: Damage Taken Reduction {0}%",
+    "korean": "요격 모드 : 받는 피해 감소 {0}%"
+  },
+  "1000104710": {
+    "english": "Out of Control: Damage Taken {0}%",
+    "korean": "통제 불가 : 받는 피해{0}%"
+  },
+  "1000104711": {
+    "english": "Scorched Earth Bombardment: Push Back {0} Spaces (Light/Heavy)",
+    "korean": "초토화 포격 : 뒤로 {0}칸 밀기 (경장/중장)"
+  },
+  "1000104712": {
+    "english": "Assault Fire (Cannon): CRIT {0}%",
+    "korean": "협차 사격 (캐논) : 치명타{0}%"
+  },
+  "1000104713": {
+    "english": "Indiscriminate Suppression: EVA {0}%",
+    "korean": "무차별 견제 : 회피 {0}%"
+  },
+  "1000104714": {
+    "english": "Make a Beehive: Large Mobile Damage {0}%",
+    "korean": "벌집 만들기 : 대 기동형 피해량{0}%"
+  },
+  "1000104715": {
+    "english": "Combat Overfocus: ATK {0}%",
+    "korean": "전투 과몰입 : 공격력{0}%"
+  },
+  "1000104716": {
+    "english": "Target Shooting: EVA {0}%",
+    "korean": "표적 사격 : 회피 {0}%"
+  },
+  "1000104717": {
+    "english": "Concentrated Fire: Remove Buffs",
+    "korean": "집중 사격 : 강화 해제"
+  },
+  "1000104718": {
+    "english": "Overwhelming cuteness?: ACU {0}% (maximum)",
+    "korean": "압도적 귀여움? : 적중{0}% (최대)"
+  },
+  "1000104719": {
+    "english": "Overwhelming cuteness?: {0}% ACU",
+    "korean": "압도적 귀여움? : 적중{0}%"
+  },
+  "1000104720": {
+    "english": "Cover Fire: Damage Taken {0}%",
+    "korean": "엄호 사격 : 받는 피해{0}%"
+  },
+  "1000104721": {
+    "english": "Mobile Fortification: DEF {0}% (Self)",
+    "korean": "이동형 진지 : 방어력{0}% (자신)"
+  },
+  "1000104722": {
+    "english": "Fixed Position: Reduces damage taken by {0}%",
+    "korean": "고정형 진지 : 받는 피해 감소 {0}%"
+  },
+  "1000104723": {
+    "english": "Trench Shot: ATK power {0}%",
+    "korean": "참호 사격 : 공격력 {0}%"
+  },
+  "1000104724": {
+    "english": "Target Containment: Action Power {0}%",
+    "korean": "목표물 견제 : 행동력 {0}%"
+  },
+  "1000104725": {
+    "english": "Expression of Friendship?: ACU {0}%",
+    "korean": "우정의 표현? : 적중{0}%"
+  },
+  "1000104726": {
+    "english": "Full Attack!: ACU {0}%",
+    "korean": "총공격이에요! : 적중{0}%"
+  },
+  "1000104727": {
+    "english": "Pest…!!: AP {0}%",
+    "korean": "해충…!! : 행동력{0}%"
+  },
+  "1000104728": {
+    "english": "Refreshing!: ACU {0}%",
+    "korean": "상쾌함! : 적중{0}%"
+  },
+  "1000104729": {
+    "english": "Skilled Martial Arts: ACU {0}%",
+    "korean": "숙련된 무술 : 적중{0}%"
+  },
+  "1000104730": {
+    "english": "Electromagnetic Resonance: CRIT {0}% (Electric Allies Deployed)",
+    "korean": "전자기 공명 : 치명타{0}%(전기아군 출전)"
+  },
+  "1000104731": {
+    "english": "Super Nerinerida!: ATK {0}%",
+    "korean": "슈퍼 네리네리다! : 공격력{0}%"
+  },
+  "1000104732": {
+    "english": "Don’t Slack Off!: AP {0}",
+    "korean": "놀면 혼난다! : AP{0}"
+  },
+  "1000104733": {
+    "english": "Combat Over! Focus!: ATK {0}%",
+    "korean": "전투 과!몰!입! : 공격력{0}%"
+  },
+  "1000104734": {
+    "english": "Deep Sea Fury: Ignore Shield / Damage Reduction",
+    "korean": "심해의 분노 : 방어막 / 피해 감소 무시"
+  },
+  "1000104735": {
+    "english": "Tidal Assault: Remove Buffs",
+    "korean": "타이달 어썰트 : 강화 해제"
+  },
+  "1000104736": {
+    "english": "Deep Sea Colossus: Cold Resistance {0}%",
+    "korean": "심해의 거신 : 냉기 저항{0}%"
+  },
+  "1000104737": {
+    "english": "Deep Sea Guardian: Damage Taken Reduction {0}%",
+    "korean": "심해의 수호 : 받는 피해 감소 {0}%"
+  },
+  "1000104738": {
+    "english": "ASN-6G: Large Heavy Damage {0}%",
+    "korean": "ASN-6G : 대 중장 피해량{0}%"
+  },
+  "1000104739": {
+    "english": "Corrosive Fluid Leak: DEF {0}%",
+    "korean": "부식액 누출 : 방어력 {0}%"
+  },
+  "1000104740": {
+    "english": "Rapid Corrosion: AP {0}%",
+    "korean": "급속 부식 : 행동력 {0}%"
+  },
+  "1000104741": {
+    "english": "MOP Warhead: Ignore Shield / Damage Reduction",
+    "korean": "MOP 탄두 : 방어막 / 피해 감소 무시"
+  },
+  "1000104742": {
+    "english": "Crimson Execution: {0}% additional fire damage",
+    "korean": "크림슨 익스큐션 : 추가 화염 피해{0}%"
+  },
+  "1000104743": {
+    "english": "Brainwashing Wave: ACU{0}%",
+    "korean": "세뇌의 파동 : 적중{0}%"
+  },
+  "1000104744": {
+    "english": "The Demon King Descends! : ACU {0}%",
+    "korean": "대마왕 강림! : 적중{0}%"
+  },
+  "1000104745": {
+    "english": "I hate being sick!: Reduces damage taken by {0}%",
+    "korean": "아픈 건 싫어! : 받는 피해 감소 {0}%"
+  },
+  "1000104746": {
+    "english": "Brainwashing Wave! : ACU{0}%",
+    "korean": "세뇌의 파동! : 적중{0}%"
+  },
+  "1000104747": {
+    "english": "Hell Inferno: Fire Resistance {0}%",
+    "korean": "헬 인페르노 : 화염 저항 {0}%"
+  },
+  "1000104748": {
+    "english": "Be quiet!: ATK power {0}%",
+    "korean": "조용히 하세요! : 공격력 {0}%"
+  },
+  "1000104749": {
+    "english": "Magical Power!: Defense boost removed (on critical hit)",
+    "korean": "매지컬 파워! : 방어력 강화 해제 (치명타 시)"
+  },
+  "1000104750": {
+    "english": "Moon's Protection: ATK Power {0}% (Effect Enhancement)",
+    "korean": "달의 가호 : 공격력{0}% (효과 강화)"
+  },
+  "1000104751": {
+    "english": "Magical Power! (Physical): {0}% damage",
+    "korean": "매지컬 파워! (물리) : 피해량{0}%"
+  },
+  "1000104752": {
+    "english": "Faucre… Faucre… : Hit {0}%",
+    "korean": "뽀끄루…뽀끄루… : 적중{0}%"
+  },
+  "1000104753": {
+    "english": "EFP Bullet: ATK Power {0}% (Front)",
+    "korean": "시제 EFP탄 : 공격력{0}% (전열)"
+  },
+  "1000104754": {
+    "english": "Prototype EFP bullet: {0}% armor penetration",
+    "korean": "시제 EFP탄 : 방어 관통{0}%"
+  },
+  "1000104755": {
+    "english": "Arrest Complete!: CRIT {0}%",
+    "korean": "검거 완료! : 치명타{0}%"
+  },
+  "1000104756": {
+    "english": "Overpower Burner: ATK Power {0}% (3 stacks)",
+    "korean": "과출력 버너 : 공격력{0}% (3중첩)"
+  },
+  "1000104757": {
+    "english": "Cooldown: Removes shield/damage reduction ignorance",
+    "korean": "쿨 다운 : 방어막/피해 감소 무시 해제"
+  },
+  "1000104758": {
+    "english": "Ambush Support: CRIT {0}%",
+    "korean": "매복 지원 : 치명타{0}%"
+  },
+  "1000104759": {
+    "english": "Ambush Support: Reduces damage taken by {0}% (Light/Heavy Armor)",
+    "korean": "매복 지원 : 받는 피해 감소 {0}% (경장/중장)"
+  },
+  "1000104760": {
+    "english": "Bombing Formation Support: ACU {0}%",
+    "korean": "폭격 편대 지원 : 적중{0}% (편대 지휘 대상)"
+  },
+  "1000104761": {
+    "english": "Early Warning: EVA {0}%",
+    "korean": "조기 경보 : 회피{0}%"
+  },
+  "1000104762": {
+    "english": "Targeted Sniper: Damage taken {0}%",
+    "korean": "목표 지정 저격 : 받는 피해{0}%"
+  },
+  "1000104763": {
+    "english": "Safety Hypersensitivity: DEF {0}%",
+    "korean": "안전 과민증 : 방어력{0}%"
+  },
+  "1000104764": {
+    "english": "Shared Emotion: {0}% ATK Power",
+    "korean": "감적 공유 : 공격력{0}%"
+  },
+  "1000104765": {
+    "english": "Eagle Assault: CRIT {0}%",
+    "korean": "이글 어썰트 : 치명타 {0}%"
+  },
+  "1000104766": {
+    "english": "Eagle Assault: Remove ACU Buffs",
+    "korean": "이글 어썰트 : 적중 강화 해제"
+  },
+  "1000104767": {
+    "english": "Environmental Adaptation System: Fire Resistance {0}%",
+    "korean": "환경 적응 시스템 : 화염 저항{0}%"
+  },
+  "1000104768": {
+    "english": "Break Down Barrier: Remove Damage Reduction Effects",
+    "korean": "방벽 무너뜨리기 : 피해 감소 효과 해제"
+  },
+  "1000104769": {
+    "english": "Escort Alert: Heat Protection",
+    "korean": "호위 경보 : 열 보호"
+  },
+  "1000104770": {
+    "english": "Aim Initiation: ACU {0}%",
+    "korean": "조준 개시 : 적중{0}%"
+  },
+  "1000104771": {
+    "english": "Reactor Initialization: Remove Buffs",
+    "korean": "리액터 초기화 : 강화 효과 해제"
+  },
+  "1000104772": {
+    "english": "Reactor Overcharge: Remove Reactor Charge Effects",
+    "korean": "리액터 과충전 : 리액터 충전 효과 해제"
+  },
+  "1000104773": {
+    "english": "Contamination: AP {0}%",
+    "korean": "오염 : 행동력 {0}%"
+  },
+  "1000104774": {
+    "english": "Critical Counterattack: ACU {0}%",
+    "korean": "회심의 반격 : 적중 {0}%"
+  },
+  "1000104775": {
+    "english": "Instinct to Destroy: DEF Penetration {0}%",
+    "korean": "파괴 본능 : 방어 관통 {0}%"
+  },
+  "1000104776": {
+    "english": "Alvis, go! : Action Points {0}%",
+    "korean": "알비스 출동! : 행동력 {0}%"
+  },
+  "1000104777": {
+    "english": "Can't pass? : Cold resistance {0}%",
+    "korean": "못 지나갈걸? : 냉기 저항{0}%"
+  },
+  "1000104778": {
+    "english": "Disc Spring: Defense boost removed (on critical hit)",
+    "korean": "디스크 봄 : 방어력 강화 해제 (치명타 시)"
+  },
+  "1000104779": {
+    "english": "Bombardment Observation: ATK Power {0}% (Heavy/Attack Plane)",
+    "korean": "포격 관측 : 공격력{0}% (중장/공격기)"
+  },
+  "1000104780": {
+    "english": "Target Scan: Damage Reduction Removed",
+    "korean": "표적 스캔 : 피해 감소 해제"
+  },
+  "1000104781": {
+    "english": "Precision Observation Equipment: Remove Range Reduction (50%)",
+    "korean": "정밀형 관측 장비 : 사거리 감소 해제 (50%)"
+  },
+  "1000104782": {
+    "english": "Precision Observation Equipment: Remove Range Reduction (55%)",
+    "korean": "정밀형 관측 장비 : 사거리 감소 해제 (55%)"
+  },
+  "1000104783": {
+    "english": "Precision Observation Equipment: Remove Range Reduction (60%)",
+    "korean": "정밀형 관측 장비 : 사거리 감소 해제 (60%)"
+  },
+  "1000104784": {
+    "english": "Precision Observation Equipment: Remove Range Reduction (65%)",
+    "korean": "정밀형 관측 장비 : 사거리 감소 해제 (65%)"
+  },
+  "1000104785": {
+    "english": "Precision Observation Equipment: Remove Range Reduction (70%)",
+    "korean": "정밀형 관측 장비 : 사거리 감소 해제 (70%)"
+  },
+  "1000104786": {
+    "english": "Precision Observation Equipment: Remove Range Reduction (75%)",
+    "korean": "정밀형 관측 장비 : 사거리 감소 해제 (75%)"
+  },
+  "1000104787": {
+    "english": "Precision Observation Equipment: Remove Range Reduction (80%)",
+    "korean": "정밀형 관측 장비 : 사거리 감소 해제 (80%)"
+  },
+  "1000104788": {
+    "english": "Precision Observation Equipment: Remove Range Reduction (85%)",
+    "korean": "정밀형 관측 장비 : 사거리 감소 해제 (85%)"
+  },
+  "1000104789": {
+    "english": "Precision Observation Equipment: Remove Range Reduction (90%)",
+    "korean": "정밀형 관측 장비 : 사거리 감소 해제 (90%)"
+  },
+  "1000104790": {
+    "english": "Precision Observation Equipment: Remove Range Reduction (95%)",
+    "korean": "정밀형 관측 장비 : 사거리 감소 해제 (95%)"
+  },
+  "1000104791": {
+    "english": "Precision Observation Equipment: Remove Range Reduction (100%)",
+    "korean": "정밀형 관측 장비 : 사거리 감소 해제 (100%)"
+  },
+  "1000104792": {
+    "english": "Don’t Hide!: DEF {0}%",
+    "korean": "숨지마! : 방어력 {0}%"
+  },
+  "1000104793": {
+    "english": "Area Patrol: Continue Battle with {0} HP",
+    "korean": "영역 순찰 : {0}HP로 전투 속행"
+  },
+  "1000104794": {
+    "english": "Wild Instinct: Reduces damage taken by {0}%",
+    "korean": "야성 본능 : 받는 피해 감소 {0}%"
+  },
+  "1000104795": {
+    "english": "Delicious!: AP {0}%",
+    "korean": "맛있어! : 행동력{0}%"
+  },
+  "1000104796": {
+    "english": "Primal Instinct: Damage Taken Reduction {0}%",
+    "korean": "원초적 본능 : 받는 피해 감소 {0}%"
+  },
+  "1000104797": {
+    "english": "Angry!: EVA {0}%",
+    "korean": "화났어! : 회피{0}%"
+  },
+  "1000104798": {
+    "english": "Punishment: Damage Taken {0}%",
+    "korean": "징벌 : 받는 피해{0}%"
+  },
+  "1000104799": {
+    "english": "OS Analysis: Large Type Damage {0}% (Attacker)",
+    "korean": "OS 분석 : 대 타입 피해량{0}% (공격기)"
+  },
+  "1000104800": {
+    "english": "Guard Command: EVA {0}% (Protector)",
+    "korean": "경호대 지휘 : 회피{0}% (보호기)"
+  },
+  "1000104801": {
+    "english": "Preemptive Strike: ACU {0}%",
+    "korean": "선제 공격 : 적중 {0}%"
+  },
+  "1000104802": {
+    "english": "Origin: Effect Resistance {0}%",
+    "korean": "기원 : 효과 저항{0}%"
+  },
+  "1000104803": {
+    "english": "Shield Bash Strike: ATK {0}%",
+    "korean": "칙 방패 강타 : 공격력 {0}%"
+  },
+  "1000104804": {
+    "english": "Shield Protection Start: Protect Designated Target",
+    "korean": "칙 보호 개시 : 지정 대상 보호"
+  },
+  "1000104805": {
+    "english": "Shield Defense Formation: Fire Resistance {0}%",
+    "korean": "칙 방어 대형 : 화염 저항{0}%"
+  },
+  "1000104806": {
+    "english": "Weakness Scan: EVA {0}%",
+    "korean": "약점 스캔 : 회피 {0}%"
+  },
+  "1000104807": {
+    "english": "Radar Error: Remove CRIT Increase",
+    "korean": "레이더 오류 : 치명타 증가 해제"
+  },
+  "1000104808": {
+    "english": "Radar Error: Remove CRIT Decrease",
+    "korean": "레이더 오류 : 치명타 감소 해제"
+  },
+  "1000104809": {
+    "english": "Alarm Radar: ACU {0}%",
+    "korean": "경보 레이더 : 적중{0}%"
+  },
+  "1000104810": {
+    "english": "Radar Jam: ACU {0}%",
+    "korean": "레이더 교란 : 적중 {0}%"
+  },
+  "1000104811": {
+    "english": "Fate Crystal Ball: AP {0}%",
+    "korean": "운명의 수정구 : 행동력{0}%"
+  },
+  "1000104812": {
+    "english": "Charge complete!: EVA {0}%",
+    "korean": "충전 완료! : 회피{0}%"
+  },
+  "1000104813": {
+    "english": "Glove Recycling: {0}% DEF",
+    "korean": "장갑 재활용 : 방어력{0}%"
+  },
+  "1000104814": {
+    "english": "Flammable Material: Fire Resistance {0}%",
+    "korean": "인화성 물질 : 화염 저항 {0}%"
+  },
+  "1000104815": {
+    "english": "Critical Error: Skill Disabled",
+    "korean": "치명적 오류 : 스킬 사용 불가"
+  },
+  "1000104816": {
+    "english": "Feeling lighter-! : EVA {0}%",
+    "korean": "가벼워진 느낌-! : 회피{0}%"
+  },
+  "1000104817": {
+    "english": "Feeling of Misfortune?: EVA {0}% (Self)",
+    "korean": "불운의 느낌? : 회피{0}% (자신)"
+  },
+  "1000104818": {
+    "english": "Avoid Bad Luck - : EVA {0}%",
+    "korean": "불운 피하기- : 회피{0}%"
+  },
+  "1000104819": {
+    "english": "Shadow Agent: AP{0} (Column/Row Protection Caster)",
+    "korean": "그림자 대리인 : AP{0}  (열/행보호 시전자)"
+  },
+  "1000104820": {
+    "english": "Last Crusade: ATK power {0}% (when killing an enemy)",
+    "korean": "최후의 성전 : 공격력{0}% (적 처치 시)"
+  },
+  "1000104821": {
+    "english": "Energy Absorption: Cold Resistance {0}%",
+    "korean": "에너지 흡수 중 : 냉기 저항력 {0}%"
+  },
+  "1000104822": {
+    "english": "Berserk: Accuracy {0}%",
+    "korean": "폭주 : 적중률 {0}%"
+  },
+  "1000104823": {
+    "english": "Last Strength: Cold Resistance {0}%",
+    "korean": "최후의 힘 : 냉기 저항 {0}%"
+  },
+  "1000104824": {
+    "english": "Self-Destruct",
+    "korean": "자폭"
+  },
+  "1000104825": {
+    "english": "Gap Strike: Damage taken {0}% (Defender)",
+    "korean": "틈새 찌르기 : 받는 피해{0}% (보호기)"
+  },
+  "1000104826": {
+    "english": "F.W. Assault: {0}% damage to medium and long-range weapons",
+    "korean": "F.W 어썰트 : 대 중장형 피해량{0}%"
+  },
+  "1000104827": {
+    "english": "Wedge Formation: {0}% Action Power (Movement)",
+    "korean": "쐐기대형 : 행동력{0}% (기동)"
+  },
+  "1000104828": {
+    "english": "Bypass Attack: ACU {0}% (when scouting)",
+    "korean": "우회 공격 : 적중{0}% (정찰 시)"
+  },
+  "1000104829": {
+    "english": "Bypass Attack: EVA {0}%",
+    "korean": "우회 공격 : 회피{0}%"
+  },
+  "1000104830": {
+    "english": "Aberrant Alloy Scales: DEF {0}%",
+    "korean": "부정형 합금 비늘 : 방어력{0}%"
+  },
+  "1000104831": {
+    "english": "Queen’s Presence: ACU {0}% (Light/Mobile)",
+    "korean": "여왕의 존재감 : 적중{0}% (경장/기동)"
+  },
+  "1000104832": {
+    "english": "Swamp of Desire: Cannot Move",
+    "korean": "욕망의 늪 : 이동 불가"
+  },
+  "1000104833": {
+    "english": "Devour: Damage Taken {0}%",
+    "korean": "포식 : 받는 피해{0}%"
+  },
+  "1000104834": {
+    "english": "Take the lead: ATK power {0}%",
+    "korean": "앞장서시죠 : 공격력{0}%"
+  },
+  "1000104835": {
+    "english": "Recycling Debris: {0}% Armor",
+    "korean": "잔해 재활용 : 방어력{0}%"
+  },
+  "1000104836": {
+    "english": "STL Formation: Target Protection (Conditional)",
+    "korean": "STL 포메이션 : 지정 대상 보호 (조건부)"
+  },
+  "1000104837": {
+    "english": "Illegal Weapon Modification: CRIT {0}%",
+    "korean": "화기 불법 개조 : 치명타{0}%"
+  },
+  "1000104838": {
+    "english": "Bombing Formation Protection (Excluding Protectors)",
+    "korean": "폭격 편대 지휘 대상 보호 (보호기 제외)"
+  },
+  "1000104839": {
+    "english": "AGS Tactical Command: DEF Penetration {0}%",
+    "korean": "AGS 전술지휘 : 방어 관통{0}%"
+  },
+  "1000104840": {
+    "english": "Booster Output Removal: Heat Protection",
+    "korean": "부스터 출력 해제 : 열 보호"
+  },
+  "1000104841": {
+    "english": "Enhanced E. Field: Heat Protection",
+    "korean": "강화 E.필드 : 행 보호"
+  },
+  "1000104842": {
+    "english": "Scorched Earth Bombardment: {0}% damage to heavy armor",
+    "korean": "초토화 포격 : 대 중장 피해량{0}%"
+  },
+  "1000104843": {
+    "english": "Support Fire: Attack Support (Lieutenant General)",
+    "korean": "지원 포격 : 공격 지원 (중장)"
+  },
+  "1000104844": {
+    "english": "Coolant Spray: AP {0}%",
+    "korean": "냉각제 분사 : 행동력 {0}%"
+  },
+  "1000104845": {
+    "english": "Freezing: Effect Resistance {0}% Decrease (Bio)",
+    "korean": "빙결 : 효과 저항 {0}% 감소 (바이오)"
+  },
+  "1000104846": {
+    "english": "Extreme Cold Adaptation: ACU {0}%",
+    "korean": "혹한 적응 : 적중{0}%"
+  },
+  "1000104847": {
+    "english": "Large-Caliber Concentrated Particle Cannon: Ignore Shield / Damage Reduction",
+    "korean": "대구경 집속 입자포 : 방어막 / 피해 감소 무시"
+  },
+  "1000104848": {
+    "english": "Energy Field Removal: Remove Effect Resistance",
+    "korean": "에너지 필드 해제 : 효과 저항 해제"
+  },
+  "1000104849": {
+    "english": "Disruption Wave: Damage Taken {0}%",
+    "korean": "교란 파장 : 받는 피해{0}%"
+  },
+  "1000104850": {
+    "english": "Communication Error: AP {0}%",
+    "korean": "통신 오류 : 행동력 {0}%"
+  },
+  "1000104851": {
+    "english": "Anti-Air Radar Network: Large Mobile Damage {0}%",
+    "korean": "대공 레이더망 : 대 기동형 피해량{0}%"
+  },
+  "1000104852": {
+    "english": "Sniper Target Acquisition: Damage Taken {0}%",
+    "korean": "저격 목표 포착 : 받는 피해{0}%"
+  },
+  "1000104853": {
+    "english": "Snowfield Ambush: Damage Taken Reduction {0}%",
+    "korean": "설원 매복 : 받는 피해 감소 {0}%"
+  },
+  "1000104854": {
+    "english": "Target Acquisition: EVA {0}%",
+    "korean": "목표 포착 : 회피{0}%"
+  },
+  "1000104855": {
+    "english": "Snowfield Camouflage: Effect Resistance {0}%",
+    "korean": "설원 위장 : 효과 저항{0}%"
+  },
+  "1000104856": {
+    "english": "Jamming Capture Shell: ATK {0}%",
+    "korean": "재밍 포획탄 : 공격력 {0}%"
+  },
+  "1000104857": {
+    "english": "Evasion Pattern Analysis: Damage Taken {0}%",
+    "korean": "회피 패턴 분석 : 받는 피해{0}%"
+  },
+  "1000104858": {
+    "english": "Interception Formation: CRIT {0}%",
+    "korean": "요격 포메이션 : 치명타{0}%"
+  },
+  "1000104859": {
+    "english": "Into the Unknown World! : {0}% Fire Resistance",
+    "korean": "미지의 세계로! : 화염 저항{0}%"
+  },
+  "1000104860": {
+    "english": "Radar Jammer: ACU {0}%",
+    "korean": "레이더 재머 : 적중 {0}%"
+  },
+  "1000104861": {
+    "english": "High Altitude Reconnaissance: CRIT {0}% (Light/Heavy)",
+    "korean": "고고도 정찰 : 치명타{0}% (경장/중장)"
+  },
+  "1000104862": {
+    "english": "Quadruple Machine Cannon: CRIT {0}%",
+    "korean": "4연장 기관포 : 치명타 {0}%"
+  },
+  "1000104863": {
+    "english": "Don't back down! : Effect Resistance {0}%",
+    "korean": "물러서지마라! : 효과 저항{0}%"
+  },
+  "1000104864": {
+    "english": "No retreat! : CRIT {0}%",
+    "korean": "후퇴는 없다! : 치명타{0}%"
+  },
+  "1000104865": {
+    "english": "There is no retreat... : CRIT {0}%",
+    "korean": "후퇴는 없다... : 치명타{0}%"
+  },
+  "1000104866": {
+    "english": "Instant Slash: {0}% Action Power",
+    "korean": "찰나 베기 : 행동력 {0}%"
+  },
+  "1000104867": {
+    "english": "Shadow Guard: ACU{0}% (Light/Mobile)",
+    "korean": "그림자 호위 : 적중{0}% (경장/기동)"
+  },
+  "1000104868": {
+    "english": "Keen Senses: EVA {0}%",
+    "korean": "예리한 감각 : 회피{0}%"
+  },
+  "1000104869": {
+    "english": "Check your supplies: CRIT {0}%",
+    "korean": "준비물 확인 : 치명타{0}%"
+  },
+  "1000104870": {
+    "english": "Shield Suppression Fire: EVA {0}%",
+    "korean": "칙 견제 사격 : 회피 {0}%"
+  },
+  "1000104871": {
+    "english": "Shield Anti-Air Fire: Damage {0}% (Mobile)",
+    "korean": "칙 대공 사격 : 피해량{0}% (기동)"
+  },
+  "1000104872": {
+    "english": "Shield Formation: ACU {0}%",
+    "korean": "칙 포메이션 : 적중{0}%"
+  },
+  "1000104873": {
+    "english": "Shield Restoration System: Effect Resistance {0}%",
+    "korean": "칙 복원 시스템 : 효과 저항{0}%"
+  },
+  "1000104874": {
+    "english": "Shield Interception Missile: DEF {0}%",
+    "korean": "칙 요격 미사일 : 방어력 {0}%"
+  },
+  "1000104875": {
+    "english": "Shield Ground Bombardment: DEF {0}% (Heavy)",
+    "korean": "칙 지상 폭격 : 방어력 {0}% (중장)"
+  },
+  "1000104876": {
+    "english": "Shield Formation (Launcher): CRIT {0}%",
+    "korean": "칙 포메이션 (런쳐) : 치명타{0}%"
+  },
+  "1000104877": {
+    "english": "Shield Finishing Blow: Damage {0}%",
+    "korean": "칙 마무리 강타 : 피해량{0}%"
+  },
+  "1000104878": {
+    "english": "Shield Defensive Technique (Advanced): Cold Resistance {0}%",
+    "korean": "칙 방패 방어술 (고급) : 냉기 저항{0}%"
+  },
+  "1000104879": {
+    "english": "Chick Upgrade: ACU {0}%",
+    "korean": "칙 업그레이드 : 적중{0}%"
+  },
+  "1000104880": {
+    "english": "NARAAK: EVA {0}%",
+    "korean": "NARAAK : 회피 {0}%"
+  },
+  "1000104881": {
+    "english": "Full Burst: {0}% damage to large types",
+    "korean": "풀 버스트 : 대 타입 피해량{0}%"
+  },
+  "1000104882": {
+    "english": "Stealth Camouflage: Minimize Damage",
+    "korean": "스텔스 위장 : 피해 최소화"
+  },
+  "1000104883": {
+    "english": "NVEL System: Action {0}%",
+    "korean": "NVEL 시스템 : 행동력{0}%"
+  },
+  "1000104884": {
+    "english": "Integrated Avionics Information Processing: Hit {0}%",
+    "korean": "통합 항전 정보처리 : 적중{0}%"
+  },
+  "1000104885": {
+    "english": "CQB Charge: Ignores shields/damage reduction",
+    "korean": "CQB 돌입 : 방어막 / 피해 감소 무시"
+  },
+  "1000104886": {
+    "english": "Space Combat Armor: Reduces damage taken by {0}%",
+    "korean": "우주용 컴뱃 아머 : 받는 피해 감소 {0}%"
+  },
+  "1000104887": {
+    "english": "Space Combat Armor: Cold Resistance {0}%",
+    "korean": "우주용 컴뱃 아머 : 냉기 저항{0}%"
+  },
+  "1000104888": {
+    "english": "Rampage: Accuracy {0}%",
+    "korean": "광폭화 : 적중률 {0}%"
+  },
+  "1000104889": {
+    "english": "Shield Restoration System Error: Remove Restoration System",
+    "korean": "칙 복원 시스템 오류 : 복원 시스템 해제"
+  },
+  "1000104890": {
+    "english": "Shield Upgrade Compatibility Error: Remove Buffs",
+    "korean": "칙 업그레이드 호환 오류 : 강화 해제"
+  },
+  "1000104891": {
+    "english": "Shield Iron Wall Defense: Counterattack with {0}% Power",
+    "korean": "칙 철벽 방어술 : {0}% 위력으로 반격"
+  },
+  "1000104892": {
+    "english": "Shield Permanent Enhancement: ACU {0}%",
+    "korean": "칙 영구 강화 : 적중{0}%"
+  },
+  "1000104893": {
+    "english": "Command Priority: Effect Resistance {0}%",
+    "korean": "명령 최우선 : 효과 저항{0}%"
+  },
+  "1000104894": {
+    "english": "Revenge: DEF {0}%",
+    "korean": "복수심 : 방어력 {0}%"
+  },
+  "1000104895": {
+    "english": "Vanished Anger: ATK {0}%",
+    "korean": "사라진 분노 : 공격력 {0}%"
+  },
+  "1000104896": {
+    "english": "Attack Command: DEF Penetration {0}%",
+    "korean": "공격 명령 : 방어 관통 {0}%"
+  },
+  "1000104897": {
+    "english": "Shield Restoration System Error: Remove Effect Resistance",
+    "korean": "칙 복원 시스템 오류 : 효과 저항 해제"
+  },
+  "1000104898": {
+    "english": "Shield Full Upgrade: Ignore DEF",
+    "korean": "칙 풀 업그레이드 : 방어력 무시"
+  },
+  "1000104899": {
+    "english": "Magnum Spray: ACU {0}%",
+    "korean": "매그넘 난사 : 적중 {0}%"
+  },
+  "1000104900": {
+    "english": "Bold Drift: EVA {0}%",
+    "korean": "과감한 드리프트 : 회피{0}%"
+  },
+  "1000104901": {
+    "english": "Criminal Arrest: Damage Taken {0}%",
+    "korean": "범죄자 체포 : 받는 피해{0}%"
+  },
+  "1000104902": {
+    "english": "County Guard: AP {0}%",
+    "korean": "카운티 가드 : 행동력{0}%"
+  },
+  "1000104903": {
+    "english": "Subdue the Uninvited Guest: ATK Power {0}%",
+    "korean": "불청객 제압 : 공격력 {0}%"
+  },
+  "1000104904": {
+    "english": "Skilled Demolition Skill: CRIT {0}%",
+    "korean": "숙련된 철거 기술 : 치명타{0}%"
+  },
+  "1000104905": {
+    "english": "Demolition of the Heart: Removes damage reduction effect",
+    "korean": "회심의 철거 : 피해 감소 효과 해제"
+  },
+  "1000104906": {
+    "english": "Demolition Preparation: Effect Resistance {0}%",
+    "korean": "철거 준비 : 효과 저항{0}%"
+  },
+  "1000104907": {
+    "english": "Cyclops!: Critical hit boost effect removed",
+    "korean": "사이클롭스! : 치명타 강화 효과 해제"
+  },
+  "1000104908": {
+    "english": "Super Lucky Hit!: Ignore Shield / Damage Reduction",
+    "korean": "슈퍼 럭키 히트! : 방어막 / 피해 감소 무시"
+  },
+  "1000104909": {
+    "english": "Beam!: CRIT {0}%",
+    "korean": "빔! : 치명타 {0}%"
+  },
+  "1000104910": {
+    "english": "Precision Bombardment Support: Remove Protection from Target",
+    "korean": "정밀 포격 지원 : 지정 보호 해제"
+  },
+  "1000104911": {
+    "english": "Attention everyone-! : EVA {0}%",
+    "korean": "모두 주목해주세요-! : 회피{0}%"
+  },
+  "1000104912": {
+    "english": "Attention everyone-!! : EVA {0}%",
+    "korean": "모두 주목해주세요-!! : 회피{0}%"
+  },
+  "1000104913": {
+    "english": "Attention everyone! : ATK power {0}%",
+    "korean": "모두 주목해주세요-! : 공격력{0}%"
+  },
+  "1000104914": {
+    "english": "Duel Start: Action Points {0}%",
+    "korean": "듀얼 개시 : 행동력 {0}%"
+  },
+  "1000104915": {
+    "english": "Command of the Heavy Unit: DEF {0}% (Heavy General)",
+    "korean": "중장부대 지휘 : 방어력{0}% (중장)"
+  },
+  "1000104916": {
+    "english": "Unlimited Supply Start: {0}% Action Power",
+    "korean": "무제한 보급 개시 : 행동력{0}%"
+  },
+  "1000104917": {
+    "english": "CTCS: ACU {0}% (Heavy Attacker)",
+    "korean": "CTCS : 적중{0}% (중장 공격기)"
+  },
+  "1000104918": {
+    "english": "Weapon Resupply: Removes critical hit reduction",
+    "korean": "무장 재보급 : 치명타 감소 해제"
+  },
+  "1000104919": {
+    "english": "Improved Combat System: Damage Taken Reduction {0}%",
+    "korean": "개량형 전투 시스템 : 받는 피해 감소 {0}%"
+  },
+  "1000104920": {
+    "english": "Armor Reinforcement: DEF {0}%",
+    "korean": "장갑 강화 : 방어력{0}%"
+  },
+  "1000104921": {
+    "english": "New Safety Equipment: Effect Resistance {0}%",
+    "korean": "신형 안전 장비 : 효과 저항{0}%"
+  },
+  "1000104922": {
+    "english": "Barrage (Maximum bullet level): {0}% action power",
+    "korean": "탄막 사격 (잔탄 Lv.최대) : 행동력{0}%"
+  },
+  "1000104923": {
+    "english": "Barrage (Shot Lv.1): {0}% Action Power",
+    "korean": "탄막 사격 (잔탄 Lv.1) : 행동력{0}%"
+  },
+  "1000104924": {
+    "english": "Barrage (Shot Lv.2): {0}% Action Power",
+    "korean": "탄막 사격 (잔탄 Lv.2) : 행동력{0}%"
+  },
+  "1000104925": {
+    "english": "Barrage (Shot Lv.3): {0}% Action Power",
+    "korean": "탄막 사격 (잔탄 Lv.3) : 행동력{0}%"
+  },
+  "1000104926": {
+    "english": "Bullet Hell Shooting: Remove EVA Increase",
+    "korean": "탄막 사격 : 회피 증가 해제"
+  },
+  "1000104927": {
+    "english": "Chain Strike: CRIT {0}% (Self)",
+    "korean": "연계 폭격 : 치명타{0}% (자신)"
+  },
+  "1000104928": {
+    "english": "Hunting Prey: CRIT {0}%",
+    "korean": "사냥감 몰이 : 치명타{0}%"
+  },
+  "1000104929": {
+    "english": "Chivalry: Action Points {0}%",
+    "korean": "기사도 : 행동력 {0}%"
+  },
+  "1000104930": {
+    "english": "Arrest Chain: Marking",
+    "korean": "체포 사슬 : 표식 지정"
+  },
+  "1000104931": {
+    "english": "Need to Get Out of Here...: ATK {0}%",
+    "korean": "여기서 벗어나야겠어… : 공격력{0}%"
+  },
+  "1000104932": {
+    "english": "Power of Jinjo?: Effect Activation {0}%",
+    "korean": "진조의 힘? : 효과 발동{0}%"
+  },
+  "1000104933": {
+    "english": "Elan Vital Stage 3: Defense reduction removed",
+    "korean": "엘랑비탈 3단계 : 방어력 감소 해제"
+  },
+  "1000104934": {
+    "english": "Anti-Air Command: {0}% ACU (Light)",
+    "korean": "대공 지휘 : 적중{0}% (경장)"
+  },
+  "1000104935": {
+    "english": "Same heat protection",
+    "korean": "같은 열 보호"
+  },
+  "1000104936": {
+    "english": "Orbital plating: Electrical resistivity {0}%",
+    "korean": "오비탈 플레이팅 : 전기 저항{0}%"
+  },
+  "1000104937": {
+    "english": "Suppression Fire: Damage Taken {0}%",
+    "korean": "견제 사격 : 받는 피해{0}%"
+  },
+  "1000104938": {
+    "english": "Precision Scan: EVA {0}%",
+    "korean": "정밀 스캔 : 회피 {0}%"
+  },
+  "1000104939": {
+    "english": "Sensitive Eyes: DEF Penetration {0}%",
+    "korean": "민감한 눈 : 방어 관통{0}%"
+  },
+  "1000104940": {
+    "english": "Sticky Bomb: AP {0}%",
+    "korean": "점착탄 : 행동력 {0}%"
+  },
+  "1000104941": {
+    "english": "Concentrated Particle Cannon: ACU {0}%",
+    "korean": "집속 입자포 : 적중 {0}%"
+  },
+  "1000104942": {
+    "english": "Field Command: EVA {0}% (Self)",
+    "korean": "현장지휘 : 회피{0}% (자신)"
+  },
+  "1000104943": {
+    "english": "Radar Control: EVA {0}%",
+    "korean": "레이더 관제 : 회피{0}%"
+  },
+  "1000104944": {
+    "english": "Working Anchor: Not Moveable",
+    "korean": "작업용 앵커 : 이동 불가"
+  },
+  "1000104945": {
+    "english": "Mechanical Engineering: AP {0}% (Robot)",
+    "korean": "기계 공학 : 행동력{0}% (로봇)"
+  },
+  "1000104946": {
+    "english": "Gardener's Nature: DEF Penetration {0}%",
+    "korean": "정원사의 본성 : 방어 관통 {0}%"
+  },
+  "1000104947": {
+    "english": "Threatening Shot: ACU {0}%",
+    "korean": "위협 사격 : 적중 {0}%"
+  },
+  "1000104948": {
+    "english": "Arm!: ATK power {0}%",
+    "korean": "팔! : 공격력 {0}%"
+  },
+  "1000104949": {
+    "english": "Suppression Initiation: AP{0} (when hit)",
+    "korean": "진압 개시 : AP{0} (피격 시)"
+  },
+  "1000104950": {
+    "english": "Neri's Victory-!: ATK power {0}% (when killed)",
+    "korean": "네리의 승리-! : 공격력{0}% (처치 시)"
+  },
+  "1000104951": {
+    "english": "Round 2 begins! : CRIT {0}%",
+    "korean": "2회전 시작이야! : 치명타{0}%"
+  },
+  "1000104952": {
+    "english": "Meow Meow Punch!: ACU {0}%",
+    "korean": "냥냥 펀치! : 적중 {0}%"
+  },
+  "1000104953": {
+    "english": "Flexibility: Counterattack with {0}% Power",
+    "korean": "유연성 : {0}% 위력으로 반격"
+  },
+  "1000104954": {
+    "english": "Radar Sharing: Range {0}",
+    "korean": "레이더 공유 : 사거리{0}"
+  },
+  "1000104955": {
+    "english": "Defensive Maneuver: EVA {0}%",
+    "korean": "방어 기동 : 회피 {0}%"
+  },
+  "1000104956": {
+    "english": "Rifled Mortar: DEF Penetration {0}%",
+    "korean": "강선형 박격포 : 방어 관통{0}%"
+  },
+  "1000104957": {
+    "english": "Precision Analysis: ATK Power {0}%",
+    "korean": "정밀 분석 : 공격력{0}%"
+  },
+  "1000104958": {
+    "english": "Pinpoint Sniping: CRIT {0}% (Max)",
+    "korean": "핀 포인트 저격 : 치명타{0}% (최대)"
+  },
+  "1000104959": {
+    "english": "White Reaper: EVA {0}% (when attacking)",
+    "korean": "하얀 사신 : 회피{0}% (공격 시)"
+  },
+  "1000104960": {
+    "english": "Strong Big Sister: {0}% ACU (Bio)",
+    "korean": "든든한 큰언니 : 적중{0}% (바이오)"
+  },
+  "1000104961": {
+    "english": "Relief: CRIT {0}%",
+    "korean": "안도감 : 치명타{0}%"
+  },
+  "1000104962": {
+    "english": "A.T.W: DEF Penetration {0}%",
+    "korean": "A.T.W : 방어 관통 {0}%"
+  },
+  "1000104963": {
+    "english": "Cleanup: ATK power {0}% (Self)",
+    "korean": "뒷정리 : 공격력{0}% (자신)"
+  },
+  "1000104964": {
+    "english": "Main gun fire: {0}% damage to heavy armor",
+    "korean": "주포 발사 : 대 중장 피해량{0}%"
+  },
+  "1000104965": {
+    "english": "Special Coating Gloves: Electrical Resistance {0}%",
+    "korean": "특수 코팅 장갑 : 전기 저항{0}%"
+  },
+  "1000104966": {
+    "english": "Main Gun Aimed Shot: {0}% damage to heavy armor",
+    "korean": "주포 조준 사격 : 대 중장 피해량{0}%"
+  },
+  "1000104967": {
+    "english": "Armor Deployment: Electric Resistance {0}%",
+    "korean": "장갑 전개 : 전기 저항{0}%"
+  },
+  "1000104968": {
+    "english": "Escort Support: CRIT {0}%",
+    "korean": "호위 지원 : 치명타{0}%"
+  },
+  "1000104969": {
+    "english": "Radar Drone: ACU {0}% (max)",
+    "korean": "레이더 드론 : 적중{0}% (최대)"
+  },
+  "1000104970": {
+    "english": "Extreme Discomfort: {0}% Action Power",
+    "korean": "극도의 불편함 : 행동력{0}%"
+  },
+  "1000104971": {
+    "english": "Output Enhancement: Ignore Shield / Damage Reduction",
+    "korean": "출력 강화 : 방어막 / 피해 감소 무시"
+  },
+  "1000104972": {
+    "english": "Charge Command: Enhanced command effect",
+    "korean": "돌격 명령 : 지휘 효과 강화"
+  },
+  "1000104973": {
+    "english": "Attack Command: Action Power {0}%",
+    "korean": "공격 지휘 : 행동력{0}%"
+  },
+  "1000104974": {
+    "english": "Attack Command (Defense): Action Point {0}%",
+    "korean": "공격 지휘 (방어) : 행동력{0}%"
+  },
+  "1000104975": {
+    "english": "Preemptive Strike: AP{0} (Recon/Attack)",
+    "korean": "선제 타격 : AP{0} (정찰 시/공격기)"
+  },
+  "1000104976": {
+    "english": "Hungry Wolf: CRIT  {0}%",
+    "korean": "굶주린 늑대 : 치명타{0}%"
+  },
+  "1000104977": {
+    "english": "Overload: ACU {0}%",
+    "korean": "과부하 : 적중 {0}%"
+  },
+  "1000104978": {
+    "english": "Ambush: EVA {0}%",
+    "korean": "기습 : 회피 {0}%"
+  },
+  "1000104979": {
+    "english": "Optical Camouflage: AP{0}",
+    "korean": "광학 미채 : AP{0}"
+  },
+  "1000104980": {
+    "english": "Optical Camouflage: AP {0}%",
+    "korean": "광학 미채 : 행동력 {0}%"
+  },
+  "1000104981": {
+    "english": "Sadism: CRIT {0}% (Enemy Kills)",
+    "korean": "가학성향 : 치명타{0}% (적 처치)"
+  },
+  "1000104982": {
+    "english": "Stalking: ATK power {0}%",
+    "korean": "스토킹 : 공격력{0}%"
+  },
+  "1000104983": {
+    "english": "Charge Concentration: AP {0}%",
+    "korean": "전하 집속 : 행동력{0}%"
+  },
+  "1000104984": {
+    "english": "Electric field stimulation: {0}% action power",
+    "korean": "전기장 자극 : 행동력{0}%"
+  },
+  "1000104985": {
+    "english": "Damage Taken Reduction {0}% (Self/Defense OS/HQ1 Commander)",
+    "korean": "받는 피해 감소 {0}% (자신/방어 OS/HQ1 커맨더)"
+  },
+  "1000104986": {
+    "english": "Remove harmful effects",
+    "korean": "해로운 효과 제거"
+  },
+  "1000104987": {
+    "english": "Charge Discharge: AP {0}%",
+    "korean": "전하 방출 : 행동력{0}%"
+  },
+  "1000104988": {
+    "english": "Electric Field Stimulation!: AP {0}%",
+    "korean": "전기장 자극! : 행동력{0}%"
+  },
+  "1000104989": {
+    "english": "Disruption Wave: CRIT {0}%",
+    "korean": "교란 파동 : 치명타 {0}%"
+  },
+  "1000104990": {
+    "english": "Communication Protocol: CRIT {0}%",
+    "korean": "교신 프로토콜 : 치명타{0}%"
+  },
+  "1000104991": {
+    "english": "Giant Backpack: ACU {0}%",
+    "korean": "거대 배낭 : 적중 {0}%"
+  },
+  "1000104992": {
+    "english": "Preheating Start: EVA {0}%",
+    "korean": "예열 개시 : 회피{0}%"
+  },
+  "1000104993": {
+    "english": "Unstoppable Run: EVA {0}% (1r)",
+    "korean": "멈출 수 없는 질주 : 회피{0}% (1r)"
+  },
+  "1000104994": {
+    "english": "Slow, slow! : {0}% action power",
+    "korean": "느려 느려-! : 행동력{0}%"
+  },
+  "1000104995": {
+    "english": "EMP Missile: Removed hit boost effect",
+    "korean": "EMP 미사일 : 적중 강화 효과 제거"
+  },
+  "1000104996": {
+    "english": "Rapid Maneuvering: EVA {0}% (additional increase)",
+    "korean": "급속 기동 : 회피{0}% (추가 증가)"
+  },
+  "1000104997": {
+    "english": "Debris Attachment: {0}% Action Power",
+    "korean": "잔해 부착 : 행동력 {0}%"
+  },
+  "1000104998": {
+    "english": "Magnet Field: Cold Resistance {0}%",
+    "korean": "마그넷 필드 : 냉기 저항{0}%"
+  },
+  "1000104999": {
+    "english": "Cargo Delivery: Chance to be unable to act",
+    "korean": "화물 배송 : 일정 확률 행동 불가"
+  },
+  "1000105000": {
+    "english": "The package has arrived! : CRIT {0}%",
+    "korean": "택배 왔어요! : 치명타{0}%"
+  }
+}

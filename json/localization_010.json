@@ -1,0 +1,4002 @@
+{
+  "1000109058": {
+    "english": "Weakness Compensation : Attack Power {0}% (Enemy 8)",
+    "korean": "약점 보완 : 공격력{0}%(적군 8)"
+  },
+  "1000109059": {
+    "english": "Weakness Compensation : Attack Power {0}% (Enemy 9)",
+    "korean": "약점 보완 : 공격력{0}%(적군 9)"
+  },
+  "1000109060": {
+    "english": "Cooperative Repair : Attack Power {0}% (Robot)",
+    "korean": "협동 수리 : 공격력{0}% (로봇)"
+  },
+  "1000109061": {
+    "english": "Wide-Area Shield Generation : Shield {0}",
+    "korean": "광범위 방어막 생성 : 방어막{0}"
+  },
+  "1000109062": {
+    "english": "Wide-Area Attack Power Increase : Attack Power {0}% (Attacker/Defender)",
+    "korean": "광범위 공격력 증가 : 공격력{0}%(공격/보호기)"
+  },
+  "1000109063": {
+    "english": "Wide AP Boost: AP {0}% (Attack/Defender)",
+    "korean": "광범위 행동력 증가 : 행동력{0}%(공격/보호기)"
+  },
+  "1000109064": {
+    "english": "Wide-Area Attack Power Increase : Attack Power {0}% (Fortune)",
+    "korean": "광범위 공격력 증가 : 공격력{0}%(포츈)"
+  },
+  "1000109065": {
+    "english": "Wide-Area Action Power Increase : Action Power {0}% (Fortune)",
+    "korean": "광범위 행동력 증가 : 행동력{0}%(포츈)"
+  },
+  "1000109066": {
+    "english": "Function Dismantle : Information Acquisition Complete",
+    "korean": "기능 해체 : 정보 획득 완료"
+  },
+  "1000109067": {
+    "english": "Golden Factory : Damage Nullification (Self)",
+    "korean": "골든 팩토리 : 피해 무효(자신)"
+  },
+  "1000109068": {
+    "english": "Preliminary Design : AP {0} (Defense Field)",
+    "korean": "선행 설계 : AP{0}(방어 역장)"
+  },
+  "1000109069": {
+    "english": "Cooperative Repair : Defense {0}% (Robot)",
+    "korean": "협동 수리 : 방어력{0}% (로봇)"
+  },
+  "1000109070": {
+    "english": "Function Dismantle : End Information Collection",
+    "korean": "기능 해체 : 정보 수집 중 종료"
+  },
+  "1000109071": {
+    "english": "Function Dismantle : Cancel Information Acquisition Complete",
+    "korean": "기능 해체 : 정보 획득 완료 해제"
+  },
+  "1000109072": {
+    "english": "Dismantle : End Parts Secured",
+    "korean": "해체 : 부품 확보 종료"
+  },
+  "1000109073": {
+    "english": "Golden Factory Installation : Damage Nullification (Self)",
+    "korean": "골든 팩토리 설치 : 피해 무효(자신)"
+  },
+  "1000109074": {
+    "english": "Cooperative Repair : Defense {0}% (Robot)",
+    "korean": "협동 수리 : 방어력{0}% (로봇)"
+  },
+  "1000109075": {
+    "english": "Golden Factory: Damage Immunity (Self)",
+    "korean": "골든 팩토리 : 피해 무효(자신)"
+  },
+  "1000109076": {
+    "english": "Cooperative Repair : Action Power {0}% (Robot)",
+    "korean": "협동 수리 : 행동력{0}% (로봇)"
+  },
+  "1000109077": {
+    "english": "Dismantle : End Equipment Modification Complete",
+    "korean": "해체 : 장비 개조 완료 종료"
+  },
+  "1000109078": {
+    "english": "Cooperative Repair : Action Power {0}% (Robot)",
+    "korean": "협동 수리 : 행동력{0}% (로봇)"
+  },
+  "1000109079": {
+    "english": "Particle Accelerator [Force] : Self Attack Power Increase, Self Damage Taken Increase Lv.1",
+    "korean": "입자 가속기 [력] : 자신 공격력 증가, 자신 받는 피해 증가 Lv.1"
+  },
+  "1000109080": {
+    "english": "Particle Accelerator [Force] : Self Attack Power Increase, Self Damage Taken Increase Lv.2",
+    "korean": "입자 가속기 [력] : 자신 공격력 증가, 자신 받는 피해 증가 Lv.2"
+  },
+  "1000109081": {
+    "english": "Particle Accelerator [Force] : Self Attack Power Increase, Self Damage Taken Increase Lv.3",
+    "korean": "입자 가속기 [력] : 자신 공격력 증가, 자신 받는 피해 증가 Lv.3"
+  },
+  "1000109082": {
+    "english": "Particle Accelerator [Force] : Self Attack Power Increase, Self Damage Taken Increase Lv.4",
+    "korean": "입자 가속기 [력] : 자신 공격력 증가, 자신 받는 피해 증가 Lv.4"
+  },
+  "1000109083": {
+    "english": "Particle Accelerator [Force] : Self Attack Power Increase, Self Damage Taken Increase Lv.5",
+    "korean": "입자 가속기 [력] : 자신 공격력 증가, 자신 받는 피해 증가 Lv.5"
+  },
+  "1000109084": {
+    "english": "Particle Accelerator [Force] : Self Attack Power Increase, Self Damage Taken Increase Lv.6",
+    "korean": "입자 가속기 [력] : 자신 공격력 증가, 자신 받는 피해 증가 Lv.6"
+  },
+  "1000109085": {
+    "english": "Particle Accelerator [Force] : Self Attack Power Increase, Self Damage Taken Increase Lv.7",
+    "korean": "입자 가속기 [력] : 자신 공격력 증가, 자신 받는 피해 증가 Lv.7"
+  },
+  "1000109086": {
+    "english": "Particle Accelerator [Force] : Self Attack Power Increase, Self Damage Taken Increase Lv.8",
+    "korean": "입자 가속기 [력] : 자신 공격력 증가, 자신 받는 피해 증가 Lv.8"
+  },
+  "1000109087": {
+    "english": "Particle Accelerator [Force] : Self Attack Power Increase, Self Damage Taken Increase Lv.9",
+    "korean": "입자 가속기 [력] : 자신 공격력 증가, 자신 받는 피해 증가 Lv.9"
+  },
+  "1000109088": {
+    "english": "Particle Accelerator [Force] : Self Attack Power Increase, Self Damage Taken Increase Lv.10",
+    "korean": "입자 가속기 [력] : 자신 공격력 증가, 자신 받는 피해 증가 Lv.10"
+  },
+  "1000109089": {
+    "english": "Particle Accelerator [Force] : Self Attack Power Increase, Self Damage Taken Increase Lv.11",
+    "korean": "입자 가속기 [력] : 자신 공격력 증가, 자신 받는 피해 증가 Lv.11"
+  },
+  "1000109090": {
+    "english": "Particle Accelerator [Force] : Attack Power {0}%",
+    "korean": "입자 가속기 [력] : 공격력{0}%"
+  },
+  "1000109091": {
+    "english": "Particle Accelerator [Force] : Attack Power {0}%",
+    "korean": "입자 가속기 [력] : 공격력{0}%"
+  },
+  "1000109092": {
+    "english": "Particle Accelerator [Force] : Attack Power {0}%",
+    "korean": "입자 가속기 [력] : 공격력{0}%"
+  },
+  "1000109093": {
+    "english": "Particle Accelerator [Force] : Attack Power {0}%",
+    "korean": "입자 가속기 [력] : 공격력{0}%"
+  },
+  "1000109094": {
+    "english": "Particle Accelerator [Force] : Attack Power {0}%",
+    "korean": "입자 가속기 [력] : 공격력{0}%"
+  },
+  "1000109095": {
+    "english": "Particle Accelerator [Force] : Attack Power {0}%",
+    "korean": "입자 가속기 [력] : 공격력{0}%"
+  },
+  "1000109096": {
+    "english": "Particle Accelerator [Force] : Attack Power {0}%",
+    "korean": "입자 가속기 [력] : 공격력{0}%"
+  },
+  "1000109097": {
+    "english": "Particle Accelerator [Force] : Attack Power {0}%",
+    "korean": "입자 가속기 [력] : 공격력{0}%"
+  },
+  "1000109098": {
+    "english": "Particle Accelerator [Force] : Attack Power {0}%",
+    "korean": "입자 가속기 [력] : 공격력{0}%"
+  },
+  "1000109099": {
+    "english": "Particle Accelerator [Force] : Attack Power {0}%",
+    "korean": "입자 가속기 [력] : 공격력{0}%"
+  },
+  "1000109100": {
+    "english": "Particle Accelerator [Force] : Attack Power {0}%",
+    "korean": "입자 가속기 [력] : 공격력{0}%"
+  },
+  "1000109101": {
+    "english": "Particle Accelerator [Force] : Damage Taken {0}%",
+    "korean": "입자 가속기 [력] : 받는 피해{0}%"
+  },
+  "1000109102": {
+    "english": "Particle Accelerator [Force] : Damage Taken {0}%",
+    "korean": "입자 가속기 [력] : 받는 피해{0}%"
+  },
+  "1000109103": {
+    "english": "Particle Accelerator [Force] : Damage Taken {0}%",
+    "korean": "입자 가속기 [력] : 받는 피해{0}%"
+  },
+  "1000109104": {
+    "english": "Particle Accelerator [Force] : Damage Taken {0}%",
+    "korean": "입자 가속기 [력] : 받는 피해{0}%"
+  },
+  "1000109105": {
+    "english": "Particle Accelerator [Force] : Damage Taken {0}%",
+    "korean": "입자 가속기 [력] : 받는 피해{0}%"
+  },
+  "1000109106": {
+    "english": "Particle Accelerator [Force] : Damage Taken {0}%",
+    "korean": "입자 가속기 [력] : 받는 피해{0}%"
+  },
+  "1000109107": {
+    "english": "Particle Accelerator [Force] : Damage Taken {0}%",
+    "korean": "입자 가속기 [력] : 받는 피해{0}%"
+  },
+  "1000109108": {
+    "english": "Particle Accelerator [Force] : Damage Taken {0}%",
+    "korean": "입자 가속기 [력] : 받는 피해{0}%"
+  },
+  "1000109109": {
+    "english": "Particle Accelerator [Force] : Damage Taken {0}%",
+    "korean": "입자 가속기 [력] : 받는 피해{0}%"
+  },
+  "1000109110": {
+    "english": "Particle Accelerator [Force] : Damage Taken {0}%",
+    "korean": "입자 가속기 [력] : 받는 피해{0}%"
+  },
+  "1000109111": {
+    "english": "Particle Accelerator [Force] : Damage Taken {0}%",
+    "korean": "입자 가속기 [력] : 받는 피해{0}%"
+  },
+  "1000109112": {
+    "english": "Cooperative Repair: Damage Reduction {0}%",
+    "korean": "협동 수리 : 받는 피해 감소 {0}%"
+  },
+  "1000109113": {
+    "english": "Golden Factory: Mark Designation (Self)",
+    "korean": "골든 팩토리 : 표식 지정(자신)"
+  },
+  "1000109114": {
+    "english": "Golden Factory : Mark Designation",
+    "korean": "골든 팩토리 : 표식 지정"
+  },
+  "1000109115": {
+    "english": "Electric Fence : Damage {0}% (Electric)",
+    "korean": "일렉트릭 펜스 : 피해량{0}%(전기)"
+  },
+  "1000109116": {
+    "english": "Stun Rod : Taunt / Electric Resistance Reduction / Cooperative Attack / Inflict Incapacitation",
+    "korean": "스턴 롯드 : 도발 / 전기 저항 감소 / 협동 공격 / 행동 불가 부여"
+  },
+  "1000109117": {
+    "english": "Escort Support : Protect Designated Target / Support Attack / Grant Critical Increase / Defense Increase",
+    "korean": "호위 지원 : 지정 대상 보호 / 공격 지원 / 치명타 증가 부여 / 방어력 증가"
+  },
+  "1000109118": {
+    "english": "It’s an All-Out Attack! : Damage Reduction / Attack, Accuracy, Action Power Increase",
+    "korean": "총공격이에요! : 피해 감소 / 공격력, 적중, 행동력 증가"
+  },
+  "1000109119": {
+    "english": "Enhanced Escort Support : Attack Power Increase / Fire & Electric Resistance Increase / Support Attack",
+    "korean": "호위 지원 강화 : 공격력 증가 / 화염, 전기 저항 증가 / 공격 지원"
+  },
+  "1000109120": {
+    "english": "Stun Rod : Taunt / Electric Resistance Reduction / Cooperative Attack / Inflict Incapacitation",
+    "korean": "스턴 롯드 : 도발 / 전기 저항 감소 / 협동 공격 / 행동 불가 부여"
+  },
+  "1000109121": {
+    "english": "Stun Rod : Taunt / Electric Resistance Reduction / Cooperative Attack / Inflict Incapacitation",
+    "korean": "스턴 롯드 : 도발 / 전기 저항 감소 / 협동 공격 / 행동 불가 부여"
+  },
+  "1000109122": {
+    "english": "Stun Rod : Taunt / Electric Resistance Reduction / Cooperative Attack / Inflict Incapacitation",
+    "korean": "스턴 롯드 : 도발 / 전기 저항 감소 / 협동 공격 / 행동 불가 부여"
+  },
+  "1000109123": {
+    "english": "Escort Support : Protect Designated Target / Support Attack / Grant Critical Increase / Defense Increase",
+    "korean": "호위 지원 : 지정 대상 보호 / 공격 지원 / 치명타 증가 부여 / 방어력 증가"
+  },
+  "1000109124": {
+    "english": "Escort Support: Protect designated target / Attack support / Grant critical increase / Increase defense",
+    "korean": "호위 지원 : 지정 대상 보호 / 공격 지원 / 치명타 증가 부여 / 방어력 증가"
+  },
+  "1000109125": {
+    "english": "Escort Support: Protect designated target / Attack support / Grant critical increase / Increase defense",
+    "korean": "호위 지원 : 지정 대상 보호 / 공격 지원 / 치명타 증가 부여 / 방어력 증가"
+  },
+  "1000109126": {
+    "english": "It’s a full assault!: Damage reduction / Increase attack power, accuracy, and action speed",
+    "korean": "총공격이에요! : 피해 감소 / 공격력, 적중, 행동력 증가"
+  },
+  "1000109127": {
+    "english": "It’s a full assault!: Damage reduction / Increase attack power, accuracy, and action speed",
+    "korean": "총공격이에요! : 피해 감소 / 공격력, 적중, 행동력 증가"
+  },
+  "1000109128": {
+    "english": "Escort Support Enhancement: Increase attack power / Increase fire and electric resistance / Attack support",
+    "korean": "호위 지원 강화 : 공격력 증가 / 화염, 전기 저항 증가 / 공격 지원"
+  },
+  "1000109129": {
+    "english": "Escort Support Enhancement: Increase attack power / Increase fire and electric resistance / Attack support",
+    "korean": "호위 지원 강화 : 공격력 증가 / 화염, 전기 저항 증가 / 공격 지원"
+  },
+  "1000109130": {
+    "english": "Escort Support Enhancement: Increase attack power / Increase fire and electric resistance / Attack support",
+    "korean": "호위 지원 강화 : 공격력 증가 / 화염, 전기 저항 증가 / 공격 지원"
+  },
+  "1000109131": {
+    "english": "Stun Rod: Provoke target",
+    "korean": "스턴 롯드 : 대상 도발"
+  },
+  "1000109132": {
+    "english": "Escort Support: Protect designated target",
+    "korean": "호위 지원 : 지정 대상 보호"
+  },
+  "1000109133": {
+    "english": "It’s a full assault!: Attack power {0}%",
+    "korean": "총공격이에요! : 공격력{0}%"
+  },
+  "1000109134": {
+    "english": "Escort Support Enhancement: Attack support",
+    "korean": "호위 지원 강화 : 공격 지원"
+  },
+  "1000109135": {
+    "english": "Stun Rod: Electric resistance {0}%",
+    "korean": "스턴 롯드 : 전기 저항 {0}%"
+  },
+  "1000109136": {
+    "english": "Stun Rod: Unable to act",
+    "korean": "스턴 롯드 : 행동 불가"
+  },
+  "1000109137": {
+    "english": "Stun Rod: Cooperative attack",
+    "korean": "스턴 롯드 : 협동 공격"
+  },
+  "1000109138": {
+    "english": "Escort Support: Attack support",
+    "korean": "호위 지원 : 공격 지원"
+  },
+  "1000109139": {
+    "english": "Escort Support: Critical {0}%",
+    "korean": "호위 지원 : 치명타{0}%"
+  },
+  "1000109140": {
+    "english": "Escort Support: Defense {0}%",
+    "korean": "호위 지원 : 방어력{0}%"
+  },
+  "1000109141": {
+    "english": "It’s a full assault!: Attack power {0}% (City Guard)",
+    "korean": "총공격이에요! : 공격력{0}% (시티가드)"
+  },
+  "1000109142": {
+    "english": "Prepare for full assault!: Damage taken reduced {0}%",
+    "korean": "총공격 준비! : 받는 피해 감소 {0}%"
+  },
+  "1000109143": {
+    "english": "Escort Support Enhancement: Attack power {0}%",
+    "korean": "호위 지원 강화 : 공격력{0}%"
+  },
+  "1000109144": {
+    "english": "Escort Support Enhancement: Fire resistance {0}%",
+    "korean": "호위 지원 강화 : 화염 저항{0}%"
+  },
+  "1000109145": {
+    "english": "Escort Support Enhancement: Electric Resistance {0}%",
+    "korean": "호위 지원 강화 : 전기 저항{0}%"
+  },
+  "1000109146": {
+    "english": "It’s a full assault!: Accuracy {0}%",
+    "korean": "총공격이에요! : 적중{0}%"
+  },
+  "1000109147": {
+    "english": "It’s a full assault!: Accuracy {0}% (City Guard)",
+    "korean": "총공격이에요! : 적중{0}% (시티가드)"
+  },
+  "1000109148": {
+    "english": "Stun Rod: Unable to act",
+    "korean": "스턴 롯드 : 행동 불가"
+  },
+  "1000109149": {
+    "english": "Escort Support: Critical {0}%",
+    "korean": "호위 지원 : 치명타{0}%"
+  },
+  "1000109150": {
+    "english": "It’s a full assault!: Action speed {0}%",
+    "korean": "총공격이에요! : 행동력{0}%"
+  },
+  "1000109151": {
+    "english": "Escort Support Enhancement: Fire resistance {0}%",
+    "korean": "호위 지원 강화 : 화염 저항{0}%"
+  },
+  "1000109152": {
+    "english": "It’s a full assault!: Action speed {0}% (City Guard)",
+    "korean": "총공격이에요! : 행동력{0}% (시티가드)"
+  },
+  "1000109153": {
+    "english": "Stun Rod: Cooperative Attack",
+    "korean": "스턴 롯드 : 협동 공격"
+  },
+  "1000109154": {
+    "english": "Escort Support: Defense {0}%",
+    "korean": "호위 지원 : 방어력{0}%"
+  },
+  "1000109155": {
+    "english": "Prepare for All-Out Attack! : Damage Taken Reduction {0}%",
+    "korean": "총공격 준비! : 받는 피해 감소 {0}%"
+  },
+  "1000109156": {
+    "english": "Enhanced Escort Support: Electric Resistance{0}%",
+    "korean": "호위 지원 강화 : 전기 저항{0}%"
+  },
+  "1000109157": {
+    "english": "Unyielding Firefighter: Flame Resistance{0}%",
+    "korean": "불굴의 소방관 : 화염 저항{0}%"
+  },
+  "1000109158": {
+    "english": "Unyielding Firefighter: Cold Resistance{0}%",
+    "korean": "불굴의 소방관 : 냉기 저항{0}%"
+  },
+  "1000109159": {
+    "english": "Liquid Nitrogen Spray: Cooperative Attack",
+    "korean": "액화 질소 분사 : 협동 공격"
+  },
+  "1000109160": {
+    "english": "Arrest Chains: Cooperative Attack",
+    "korean": "체포 사슬 : 협동 공격"
+  },
+  "1000109161": {
+    "english": "Warning Fire: Cooperative Attack",
+    "korean": "위협사격 : 협동 공격"
+  },
+  "1000109162": {
+    "english": "Revolver Rapid Fire: Cooperative attack",
+    "korean": "리볼버 속사 : 협동 공격"
+  },
+  "1000109163": {
+    "english": "Target Suppression: Cooperative attack",
+    "korean": "목표 견제 : 협동 공격"
+  },
+  "1000109164": {
+    "english": "Vacuum Cannon: Accuracy {0}%",
+    "korean": "진공포: 적중 {0}%"
+  },
+  "1000109165": {
+    "english": "Light of the Sky: Electric resistance {0}%",
+    "korean": "천공의 빛: 전기 저항 {0}%"
+  },
+  "1000109166": {
+    "english": "Posture Control Device: Evasion {0}%",
+    "korean": "자세 제어장치: 회피 {0}%"
+  },
+  "1000109167": {
+    "english": "Angel’s Breath: Electric resistance {0}%",
+    "korean": "천사의 숨결: 전기 저항 {0}%"
+  },
+  "1000109168": {
+    "english": "Angel’s Breath: Action speed {0}% (Self)",
+    "korean": "천사의 숨결: 행동력 {0}%(자신)"
+  },
+  "1000109169": {
+    "english": "Posture Control Device: Evasion {0}% (When hit)",
+    "korean": "자세 제어장치: 회피 {0}%(피격시)"
+  },
+  "1000109170": {
+    "english": "Posture Control Device: Damage taken reduced {0}% (Reduced per round)",
+    "korean": "자세 제어장치: 받는 피해 감소 {0}%(라운드 차감)"
+  },
+  "1000109171": {
+    "english": "Posture Control Device: Damage taken reduced {0}% (Reduced per round)",
+    "korean": "자세 제어장치: 받는 피해 감소 {0}%(라운드 차감)"
+  },
+  "1000109172": {
+    "english": "Posture Control Device: Damage taken reduced {0}% (Reduced per round)",
+    "korean": "자세 제어장치: 받는 피해 감소 {0}%(라운드 차감)"
+  },
+  "1000109173": {
+    "english": "Angel’s Breath: Fire resistance {0}%",
+    "korean": "천사의 숨결: 화염 저항 {0}%"
+  },
+  "1000109174": {
+    "english": "Angel’s Breath: Cold resistance {0}%",
+    "korean": "천사의 숨결: 냉기 저항 {0}%"
+  },
+  "1000109175": {
+    "english": "Angel’s Breath: Electric resistance {0}%",
+    "korean": "천사의 숨결: 전기 저항 {0}%"
+  },
+  "1000109176": {
+    "english": "Angel’s Smile: Attack power {0}% (Angel’s Embrace)",
+    "korean": "천사의 미소: 공격력 {0}%(천사의 포옹)"
+  },
+  "1000109177": {
+    "english": "Cold Resistance Coating: Cold resistance",
+    "korean": "내한 코팅 : 냉기 저항"
+  },
+  "1000109178": {
+    "english": "Electric Resistance Coating: Electric resistance",
+    "korean": "내전 코팅 : 전기 저항"
+  },
+  "1000109179": {
+    "english": "Heat Resistance Coating: Fire resistance",
+    "korean": "내열 코팅 : 화염 저항"
+  },
+  "1000109180": {
+    "english": "Light of the Sky: Fire resistance {0}%",
+    "korean": "천공의 빛: 화염 저항 {0}%"
+  },
+  "1000109181": {
+    "english": "Posture Control Device: Evasion {0}% (When hit)",
+    "korean": "자세 제어장치: 회피 {0}%(피격시)"
+  },
+  "1000109182": {
+    "english": "Angel’s Breath: Fire resistance {0}%",
+    "korean": "천사의 숨결: 화염 저항 {0}%"
+  },
+  "1000109183": {
+    "english": "Angel’s Smile: Attack power/Evasion {0}% (Angel’s Embrace)",
+    "korean": "천사의 미소: 공격력/회피 {0}%(천사의 포옹)"
+  },
+  "1000109184": {
+    "english": "Angel’s Smile: Evasion {0}% (Angel’s Embrace)",
+    "korean": "천사의 미소: 회피 {0}%(천사의 포옹)"
+  },
+  "1000109185": {
+    "english": "Light of the Sky: Cold resistance {0}%",
+    "korean": "천공의 빛: 냉기 저항 {0}%"
+  },
+  "1000109186": {
+    "english": "Posture Control Device: Damage taken reduced {0}% (Reduced per round)",
+    "korean": "자세 제어장치: 받는 피해 감소 {0}%(라운드 차감)"
+  },
+  "1000109187": {
+    "english": "Angel’s Breath: Cold resistance {0}%",
+    "korean": "천사의 숨결: 냉기 저항 {0}%"
+  },
+  "1000109188": {
+    "english": "Angel’s Smile: Accuracy {0}% (Angel’s Embrace)",
+    "korean": "천사의 미소: 적중 {0}%(천사의 포옹)"
+  },
+  "1000109189": {
+    "english": "Angel’s Smile: Accuracy {0}% (Angel’s Embrace)",
+    "korean": "천사의 미소: 적중 {0}%(천사의 포옹)"
+  },
+  "1000109190": {
+    "english": "Angel's Smile: AP {0}(Angel's Embrace)",
+    "korean": "천사의 미소: AP {0}(천사의 포옹)"
+  },
+  "1000109191": {
+    "english": "Angel's Smile: AP {0}(Angel's Embrace)",
+    "korean": "천사의 미소: AP {0}(천사의 포옹)"
+  },
+  "1000109192": {
+    "english": "Angel's Smile: Effect Resistance {0}% (Angel's Embrace)",
+    "korean": "천사의 미소: 효과 저항 {0}%(천사의 포옹)"
+  },
+  "1000109193": {
+    "english": "Angel's Smile: Effect Resistance {0}% (Angel's Embrace)",
+    "korean": "천사의 미소: 효과 저항 {0}%(천사의 포옹)"
+  },
+  "1000109194": {
+    "english": "Vacuum Cannon",
+    "korean": "진공포"
+  },
+  "1000109195": {
+    "english": "Light of the Sky",
+    "korean": "천공의 빛"
+  },
+  "1000109196": {
+    "english": "Posture Control Device",
+    "korean": "자세 제어장치"
+  },
+  "1000109197": {
+    "english": "Angel’s Breath",
+    "korean": "천사의 숨결"
+  },
+  "1000109198": {
+    "english": "Angel’s Smile",
+    "korean": "천사의 미소"
+  },
+  "1000109199": {
+    "english": "Posture Control Device: Add evasion",
+    "korean": "자세 제어장치: 회피 추가"
+  },
+  "1000109200": {
+    "english": "Posture Control Device: Damage taken reduced",
+    "korean": "자세 제어장치: 받는 피해 감소"
+  },
+  "1000109201": {
+    "english": "Posture Control Device: Damage taken reduced",
+    "korean": "자세 제어장치: 받는 피해 감소"
+  },
+  "1000109202": {
+    "english": "Posture Control Device: Damage taken reduced",
+    "korean": "자세 제어장치: 받는 피해 감소"
+  },
+  "1000109203": {
+    "english": "Angel’s Breath",
+    "korean": "천사의 숨결"
+  },
+  "1000109204": {
+    "english": "Angel’s Breath",
+    "korean": "천사의 숨결"
+  },
+  "1000109205": {
+    "english": "Angel’s Breath",
+    "korean": "천사의 숨결"
+  },
+  "1000109206": {
+    "english": "Angel’s Smile",
+    "korean": "천사의 미소"
+  },
+  "1000109207": {
+    "english": "Cold Resistance Coating: Cold resistance",
+    "korean": "내한 코팅 : 냉기 저항"
+  },
+  "1000109208": {
+    "english": "Electric Resistance Coating: Electric resistance",
+    "korean": "내전 코팅 : 전기 저항"
+  },
+  "1000109209": {
+    "english": "Heat Resistance Coating: Fire resistance",
+    "korean": "내열 코팅 : 화염 저항"
+  },
+  "1000109210": {
+    "english": "Light of the Heavens: Remove harmful effects",
+    "korean": "천공의 빛: 해로운 효과 해제"
+  },
+  "1000109211": {
+    "english": "Ultimate Lariat: Disable",
+    "korean": "얼티밋 레리어트 : 행동 불능"
+  },
+  "1000109212": {
+    "english": "Marvelous Dropkick: Defense {0}%",
+    "korean": "마벨러스 드롭킥: 방어력{0}%"
+  },
+  "1000109213": {
+    "english": "Tag Team: Attack power {0}% (Ally 1)",
+    "korean": "태그팀: 공격력{0}%(아군 1)"
+  },
+  "1000109214": {
+    "english": "Cheer Induction: Attack power {0}%",
+    "korean": "환호 유도: 공격력{0}%"
+  },
+  "1000109215": {
+    "english": "Tag Team Finisher Move: Attack power {0}%",
+    "korean": "태그팀 피니쉬 무브: 공격력{0}%"
+  },
+  "1000109216": {
+    "english": "Ultimate Lariat: Damage increase {0}% (On critical hit)",
+    "korean": "얼티밋 레리어트 : 피해 증가 {0}%(치명타 시)"
+  },
+  "1000109217": {
+    "english": "Tag Team: ATK {0}%",
+    "korean": "태그팀: 공격력{0}%"
+  },
+  "1000109218": {
+    "english": "Tag Team: Physical Damage {0}",
+    "korean": "태그팀: 물리 피해 {0}"
+  },
+  "1000109219": {
+    "english": "Cheer Induction: Attack power {0}% (I’ll finish this now!)",
+    "korean": "환호 유도: 공격력{0}%(바로 끝내주마!)"
+  },
+  "1000109220": {
+    "english": "Tag Team Finisher Move: Attack power {0}% (I’ll finish this now!)",
+    "korean": "태그팀 피니쉬 무브: 공격력{0}%(바로 끝내주마!)"
+  },
+  "1000109221": {
+    "english": "Marvelous Dropkick: Cooperative attack",
+    "korean": "마벨러스 드롭킥: 협동 공격"
+  },
+  "1000109222": {
+    "english": "Atelier Cleaning: ACU {0}%",
+    "korean": "아틀리에 청소: 적중{0}%"
+  },
+  "1000109223": {
+    "english": "Custom Masterpiece: ATK {0}% (Attacker)",
+    "korean": "맞춤형 걸작: 공격력{0}%(공격기)"
+  },
+  "1000109224": {
+    "english": "Atelier Girl: ATK {0}% (Attacker)",
+    "korean": "아틀리에의 소녀: 공격력{0}%(공격기)"
+  },
+  "1000109225": {
+    "english": "Eliciting Protective Instinct: DEF {0}% (Defender)",
+    "korean": "보호본능 유발: 방어력{0}%(보호기)"
+  },
+  "1000109226": {
+    "english": "Custom Masterpiece: DEF {0}% (Protector)",
+    "korean": "맞춤형 걸작: 방어력{0}%(보호기)"
+  },
+  "1000109227": {
+    "english": "Custom Masterpiece: AP {0} (Supporter)",
+    "korean": "맞춤형 걸작: AP{0}(지원기)"
+  },
+  "1000109228": {
+    "english": "Atelier Girl: Ignore Shield/Damage Reduction (Mobile/Light Attacker)",
+    "korean": "아틀리에의 소녀: 방어막/피해 감소 무시(기동/경장 공격기)"
+  },
+  "1000109229": {
+    "english": "Tag Team: Action speed {0}% (Ally 1)",
+    "korean": "태그팀: 행동력{0}%(아군 1)"
+  },
+  "1000109230": {
+    "english": "Cheer Induction: Action speed {0}%",
+    "korean": "환호 유도: 행동력{0}%"
+  },
+  "1000109231": {
+    "english": "Tag Team Finisher Move: Action speed {0}%",
+    "korean": "태그팀 피니쉬 무브: 행동력{0}%"
+  },
+  "1000109232": {
+    "english": "Cheer Induction: Action speed {0}% (I’ll finish this now!)",
+    "korean": "환호 유도: 행동력{0}%(바로 끝내주마!)"
+  },
+  "1000109233": {
+    "english": "Tag Team Finisher Move: Action speed {0}% (I’ll finish this now!)",
+    "korean": "태그팀 피니쉬 무브: 행동력{0}%(바로 끝내주마!)"
+  },
+  "1000109234": {
+    "english": "Atelier Cleaning: EVA {0}%",
+    "korean": "아틀리에 청소: 회피{0}%"
+  },
+  "1000109235": {
+    "english": "Custom Masterpiece: EVA {0}% (Protector)",
+    "korean": "맞춤형 걸작: 회피{0}%(보호기)"
+  },
+  "1000109236": {
+    "english": "Atelier Girl: AP {0}% (Attacker)",
+    "korean": "아틀리에의 소녀: 행동력{0}%(공격기)"
+  },
+  "1000109237": {
+    "english": "Eliciting Protective Instinct: EVA {0}% (Protector)",
+    "korean": "보호본능 유발: 회피{0}%(보호기)"
+  },
+  "1000109238": {
+    "english": "Tag Team: Physical Damage {0}",
+    "korean": "태그팀: 물리 피해 {0}"
+  },
+  "1000109239": {
+    "english": "Cheer Induction: Defense penetration {0}% (I’ll finish this now!)",
+    "korean": "환호 유도: 방어 관통{0}%(바로 끝내주마!)"
+  },
+  "1000109240": {
+    "english": "Tag Team Finisher Move: Defense penetration {0}% (I’ll finish this now!)",
+    "korean": "태그팀 피니쉬 무브: 방어 관통{0}%(바로 끝내주마!)"
+  },
+  "1000109241": {
+    "english": "Atelier Cleaning: ATK {0}%",
+    "korean": "아틀리에 청소: 공격력{0}%"
+  },
+  "1000109242": {
+    "english": "Custom Masterpiece: DEF {0}% (Protector)",
+    "korean": "맞춤형 걸작: 방어력{0}%(보호기)"
+  },
+  "1000109243": {
+    "english": "Custom Masterpiece: Mark Designation (Defender)",
+    "korean": "맞춤형 걸작: 표식 지정(보호기)"
+  },
+  "1000109244": {
+    "english": "Quick Freezer: Mark / Reduce cold resistance",
+    "korean": "퀵 프리저 : 표식 / 냉기 저항 감소"
+  },
+  "1000109245": {
+    "english": "Crystallization: Mark / Increase cold resistance, electric resistance, action speed",
+    "korean": "결정화 : 표식 / 냉기 저항, 전기 저항, 행동력 증가"
+  },
+  "1000109246": {
+    "english": "Cold Spread: Reattack",
+    "korean": "한기 확산 : 재공격"
+  },
+  "1000109247": {
+    "english": "Cold Spread: Increase cold/electric resistance",
+    "korean": "한기 확산 : 냉기 / 전기 저항 증가"
+  },
+  "1000109248": {
+    "english": "Coolant Spray: Soak",
+    "korean": "냉각수 방사 : 침수"
+  },
+  "1000109249": {
+    "english": "Quick Freezer: Reduce attack power, critical / Increase damage taken",
+    "korean": "퀵 프리저 : 공격력, 치명타 감소 / 받는 피해 증가"
+  },
+  "1000109250": {
+    "english": "Liquid Nitrogen Shell: Accuracy / Reduce effect resistance",
+    "korean": "액체질소탄 : 적중 / 효과 저항 감소"
+  },
+  "1000109251": {
+    "english": "Bio Radar: Increase attack power / critical / action speed",
+    "korean": "바이오 레이더 : 공격력 / 치명타 / 행동력 증가"
+  },
+  "1000109252": {
+    "english": "Cooling Device: Increase action speed / effect resistance",
+    "korean": "냉각 장치 : 행동력 / 효과 저항 증가"
+  },
+  "1000109253": {
+    "english": "Quick Freezer: Additional cold damage",
+    "korean": "퀵 프리저 : 추가 냉기 피해"
+  },
+  "1000109254": {
+    "english": "Frozen Strike: Remove damage reduction",
+    "korean": "프로즌 스트라이크 : 피해 감소 해제"
+  },
+  "1000109255": {
+    "english": "Connection State: Increase attack power / critical / accuracy",
+    "korean": "연결 상태 : 공격력 / 치명타 / 적중 증가"
+  },
+  "1000109256": {
+    "english": "Cooling Device: Increase attack power / effect resistance",
+    "korean": "냉각 장치 : 공격력 / 효과 저항 증가"
+  },
+  "1000109257": {
+    "english": "Quick Freezer: Mark",
+    "korean": "퀵 프리저 : 표식"
+  },
+  "1000109258": {
+    "english": "Crystallization: Mark",
+    "korean": "결정화 : 표식"
+  },
+  "1000109259": {
+    "english": "Cold Spread: Reattack",
+    "korean": "한기 확산 : 재공격"
+  },
+  "1000109260": {
+    "english": "Cold Spread: ATK {0}%",
+    "korean": "한기 확산 : 공격력{0}%"
+  },
+  "1000109261": {
+    "english": "Quick Freezer: Attack power {0}%",
+    "korean": "퀵 프리저 : 공격력{0}%"
+  },
+  "1000109262": {
+    "english": "Liquid Nitrogen Shell: Accuracy {0}%",
+    "korean": "액체질소탄 : 적중{0}%"
+  },
+  "1000109263": {
+    "english": "Bio Radar: Critical {0}%",
+    "korean": "바이오 레이더 : 치명타{0}%"
+  },
+  "1000109264": {
+    "english": "Cooling Device: Action speed {0}%",
+    "korean": "냉각 장치 : 행동력{0}%"
+  },
+  "1000109265": {
+    "english": "Quick Freezer: Additional cold damage",
+    "korean": "퀵 프리저 : 추가 냉기 피해"
+  },
+  "1000109266": {
+    "english": "Frozen Strike: Remove damage reduction",
+    "korean": "프로즌 스트라이크 : 피해 감소 해제"
+  },
+  "1000109267": {
+    "english": "Connection State: Critical {0}%",
+    "korean": "연결 상태 : 치명타{0}%"
+  },
+  "1000109268": {
+    "english": "Cooling Device: Attack power {0}%",
+    "korean": "냉각 장치 : 공격력{0}%"
+  },
+  "1000109269": {
+    "english": "Liquid Nitrogen Bomb: Effect Resistance {0}% Reduction",
+    "korean": "액체질소탄 : 효과 저항 {0}% 감소"
+  },
+  "1000109270": {
+    "english": "Bio Radar: CRIT {0}%",
+    "korean": "바이오 레이더 : 치명타{0}%"
+  },
+  "1000109271": {
+    "english": "Quick Freezer: Cold resistance {0}%",
+    "korean": "퀵 프리저 : 냉기 저항{0}%"
+  },
+  "1000109272": {
+    "english": "Crystallization: Cold resistance {0}%",
+    "korean": "결정화 : 냉기 저항{0}%"
+  },
+  "1000109273": {
+    "english": "Cold Spread: AP {0}%",
+    "korean": "한기 확산 : 행동력{0}%"
+  },
+  "1000109274": {
+    "english": "Quick Freezer: Critical {0}%",
+    "korean": "퀵 프리저 : 치명타{0}%"
+  },
+  "1000109275": {
+    "english": "Bio Radar: Attack power {0}%",
+    "korean": "바이오 레이더 : 공격력{0}%"
+  },
+  "1000109276": {
+    "english": "Cooling Device: Effect resistance {0}%",
+    "korean": "냉각 장치 : 효과 저항{0}%"
+  },
+  "1000109277": {
+    "english": "Connection State: Attack power {0}%",
+    "korean": "연결 상태 : 공격력{0}%"
+  },
+  "1000109278": {
+    "english": "Cooling Device: Effect resistance {0}%",
+    "korean": "냉각 장치 : 효과 저항{0}%"
+  },
+  "1000109279": {
+    "english": "Bio Radar: ATK {0}%",
+    "korean": "바이오 레이더 : 공격력{0}%"
+  },
+  "1000109280": {
+    "english": "Crystallization: Electric resistance {0}%",
+    "korean": "결정화 : 전기 저항{0}%"
+  },
+  "1000109281": {
+    "english": "Cold Spread: Cold resistance {0}%",
+    "korean": "한기 확산 : 냉기 저항{0}%"
+  },
+  "1000109282": {
+    "english": "Quick Freezer: Damage taken {0}%",
+    "korean": "퀵 프리저 : 받는 피해{0}%"
+  },
+  "1000109283": {
+    "english": "Bio Radar: Action speed {0}%",
+    "korean": "바이오 레이더 : 행동력{0}%"
+  },
+  "1000109284": {
+    "english": "Connection State: Accuracy {0}%",
+    "korean": "연결 상태 : 적중{0}%"
+  },
+  "1000109285": {
+    "english": "Bio Radar: AP {0}%",
+    "korean": "바이오 레이더 : 행동력{0}%"
+  },
+  "1000109286": {
+    "english": "Crystallization : Action Power{0}%",
+    "korean": "결정화 : 행동력{0}%"
+  },
+  "1000109287": {
+    "english": "Cold Spread: Electric resistance {0}%",
+    "korean": "한기 확산 : 전기 저항{0}%"
+  },
+  "1000109288": {
+    "english": "Cooling Water Emission: DEF Penetration {0}%",
+    "korean": "냉각수 방사 : 방어 관통{0}%"
+  },
+  "1000109289": {
+    "english": "Vanguard: Protect designated target (Attacker/Support)",
+    "korean": "뱅가드 : 지정 대상 보호 (공격기/지원기)"
+  },
+  "1000109290": {
+    "english": "Flame Shield: Cold resistance {0}% (Attacker/Support)",
+    "korean": "플레임 실드: 냉기 저항{0}%(공격기/지원기)"
+  },
+  "1000109291": {
+    "english": "Flame Shield: Damage taken reduction {0}% (Mobile type)",
+    "korean": "플레임 실드: 받는 피해 감소 {0}%(기동형)"
+  },
+  "1000109292": {
+    "english": "Flame Shield: Attack power {0}% (Self)",
+    "korean": "플레임 실드: 공격력{0}%(자신)"
+  },
+  "1000109293": {
+    "english": "Burning Spirit: Attack power {0}%",
+    "korean": "뜨거운 기세: 공격력{0}%"
+  },
+  "1000109294": {
+    "english": "Burning Spirit: Action speed {0}%",
+    "korean": "뜨거운 기세: 행동력{0}%"
+  },
+  "1000109295": {
+    "english": "Light Armor Destruction: Damage to Light Armor {0}% (Attacker/Defender)",
+    "korean": "경장갑 파괴 : 대 경장 피해량{0}%(공격기/보호기)"
+  },
+  "1000109296": {
+    "english": "Light Armor Destruction: {0}% damage to light armor (Attack/Protection)",
+    "korean": "경장갑 파괴 : 대 경장 피해량{0}%(공격기/보호기)"
+  },
+  "1000109297": {
+    "english": "This Should Be Fine Here?: ATK {0}% (Max)",
+    "korean": "여기라면 괜찮겠지? : 공격력{0}%(최대)"
+  },
+  "1000109298": {
+    "english": "This Should Be Fine Here?: ATK {0}%",
+    "korean": "여기라면 괜찮겠지? : 공격력{0}%"
+  },
+  "1000109299": {
+    "english": "This Should Be Fine Here?: ATK {0}%",
+    "korean": "여기라면 괜찮겠지? : 공격력{0}%"
+  },
+  "1000109300": {
+    "english": "Burning Spirit: Cold resistance {0}%",
+    "korean": "뜨거운 기세: 냉기 저항{0}%"
+  },
+  "1000109301": {
+    "english": "Burning Spirit: Critical {0}%",
+    "korean": "뜨거운 기세: 치명타{0}%"
+  },
+  "1000109302": {
+    "english": "This Should Be Fine Here?: DEF Penetration {0}% (Max)",
+    "korean": "여기라면 괜찮겠지? : 방어관통{0}%(최대)"
+  },
+  "1000109303": {
+    "english": "This Should Be Fine Here?: DEF Penetration {0}%",
+    "korean": "여기라면 괜찮겠지? : 방어관통{0}%"
+  },
+  "1000109304": {
+    "english": "This Should Be Fine Here?: DEF Penetration {0}%",
+    "korean": "여기라면 괜찮겠지? : 방어관통{0}%"
+  },
+  "1000109305": {
+    "english": "Burning Spirit: Action speed {0}% (Self)",
+    "korean": "뜨거운 기세: 행동력{0}%(자신)"
+  },
+  "1000109306": {
+    "english": "This Should Be Fine Here?: ACU {0}% (Max)",
+    "korean": "여기라면 괜찮겠지? : 적중{0}%(최대)"
+  },
+  "1000109307": {
+    "english": "This Should Be Fine Here?: ACU {0}%",
+    "korean": "여기라면 괜찮겠지? : 적중{0}%"
+  },
+  "1000109308": {
+    "english": "This Should Be Fine Here?: ACU {0}%",
+    "korean": "여기라면 괜찮겠지? : 적중{0}%"
+  },
+  "1000109309": {
+    "english": "Burning Momentum: Critical Hit{0}%(Self)",
+    "korean": "뜨거운 기세: 치명타{0}%(자신)"
+  },
+  "1000109310": {
+    "english": "Commander Unit: Defense penetration reduction / Increase AP",
+    "korean": "지휘관 개체 : 방어 관통 감소 / AP 증가"
+  },
+  "1000109311": {
+    "english": "Commander Unit: AP {0}",
+    "korean": "지휘관 개체 : AP{0}"
+  },
+  "1000109312": {
+    "english": "Commander Unit: DEF Penetration {0}%",
+    "korean": "지휘관 개체 : 방어 관통{0}%"
+  },
+  "1000109313": {
+    "english": "Vanguard: Cold resistance {0}% (Self)",
+    "korean": "뱅가드 : 냉기 저항{0}%(자신)"
+  },
+  "1000109314": {
+    "english": "Cooling Water Emission: DEF Penetration -{0}%",
+    "korean": "냉각수 방사 : 방어 관통-{0}%"
+  },
+  "1000109315": {
+    "english": "Vanguard: Protect Attacker/Support",
+    "korean": "뱅가드 : 공격기/지원기 보호"
+  },
+  "1000109316": {
+    "english": "Flame Shield: Increase Attacker/Support cold resistance / Reduce damage taken by Mobile type / Increase self attack power",
+    "korean": "플레임 실드: 공격기/지원기 냉기 저항 증가 / 기동형 받는 피해 감소 / 자신 공격력 증가"
+  },
+  "1000109317": {
+    "english": "Flame Shield: Increase Attacker/Support cold resistance / Reduce damage taken by Mobile type / Increase self attack power",
+    "korean": "플레임 실드: 공격기/지원기 냉기 저항 증가 / 기동형 받는 피해 감소 / 자신 공격력 증가"
+  },
+  "1000109318": {
+    "english": "Flame Shield: Increase Attacker/Support cold resistance / Reduce damage taken by Mobile type / Increase self attack power",
+    "korean": "플레임 실드: 공격기/지원기 냉기 저항 증가 / 기동형 받는 피해 감소 / 자신 공격력 증가"
+  },
+  "1000109319": {
+    "english": "Burning Spirit: On hit, increase attack power/cold resistance / Increase self action speed/critical rate",
+    "korean": "뜨거운 기세: 공격 적중 시 공격력/냉기 저항 증가 / 자신 행동력/치명확률 증가"
+  },
+  "1000109320": {
+    "english": "Burning Spirit: On hit, increase attack power/cold resistance / Increase self action speed/critical rate",
+    "korean": "뜨거운 기세: 공격 적중 시 공격력/냉기 저항 증가 / 자신 행동력/치명확률 증가"
+  },
+  "1000109321": {
+    "english": "Light Armor Destruction: Extra Damage to Light Armor",
+    "korean": "경장갑 파괴: 경장형 추가 피해"
+  },
+  "1000109322": {
+    "english": "Light Armor Destruction: Extra Damage to Light Armor",
+    "korean": "경장갑 파괴: 경장형 추가 피해"
+  },
+  "1000109323": {
+    "english": "This Should Be Fine Here?: ATK/DEF Penetration/ACU Increase the Further from Enemy Formation",
+    "korean": "여기라면 괜찮겠지? : 적 진영과 멀어질수록 자신 공격력/방어관통/적중 증가"
+  },
+  "1000109324": {
+    "english": "This Should Be Fine Here?: ATK/DEF Penetration/ACU Increase the Further from Enemy Formation",
+    "korean": "여기라면 괜찮겠지? : 적 진영과 멀어질수록 자신 공격력/방어관통/적중 증가"
+  },
+  "1000109325": {
+    "english": "This Should Be Fine Here?: ATK/DEF Penetration/ACU Increase the Further from Enemy Formation",
+    "korean": "여기라면 괜찮겠지? : 적 진영과 멀어질수록 자신 공격력/방어관통/적중 증가"
+  },
+  "1000109326": {
+    "english": "Ultimate Lariat: Single-target physical damage / 50% disable / Increase damage on critical",
+    "korean": "얼티밋 레리어트: 단일 대상 물리피해/행동 불능 50%/치명타 시 피해 증가"
+  },
+  "1000109327": {
+    "english": "Marvelous Dropkick: Decrease defense",
+    "korean": "마벨러스 드롭킥: 방어력 감소"
+  },
+  "1000109328": {
+    "english": "Tag Team: Increase self attack power/defense in proportion to ally count / Self damage",
+    "korean": "태그팀: 아군 수에 비례하여 자신 공격력/방어력 증가/자신 피해"
+  },
+  "1000109329": {
+    "english": "Cheer Induction: Increase attack power/action speed / When waiting, grant additional defense penetration/attack power/action speed",
+    "korean": "환호 유도:  공격력/행동력 증가 / 대기 시 방어관통/공격력/행동력 추가 부여"
+  },
+  "1000109330": {
+    "english": "Tag Team Finish Move: Increase [Cheer Induction] buff effect by 50% for specific ally",
+    "korean": "태그팀 피니쉬 무브: 특정 아군에게 [환호 유도] 버프 효과 50% 증가"
+  },
+  "1000109331": {
+    "english": "Ultimate Lariat: Single-target physical damage / 50% disable / Increase damage on critical",
+    "korean": "얼티밋 레리어트: 단일 대상 물리피해/행동 불능 50%/치명타 시 피해 증가"
+  },
+  "1000109332": {
+    "english": "Tag Team: Increase self attack power/defense in proportion to ally count / Self damage",
+    "korean": "태그팀: 아군 수에 비례하여 자신 공격력/방어력 증가/자신 피해"
+  },
+  "1000109333": {
+    "english": "Tag Team: Increase self attack power/defense in proportion to ally count / Self damage",
+    "korean": "태그팀: 아군 수에 비례하여 자신 공격력/방어력 증가/자신 피해"
+  },
+  "1000109334": {
+    "english": "Tag Team: Increase self attack power/defense in proportion to ally count / Self damage",
+    "korean": "태그팀: 아군 수에 비례하여 자신 공격력/방어력 증가/자신 피해"
+  },
+  "1000109335": {
+    "english": "Tag Team: Increase self attack power/defense in proportion to ally count / Self damage",
+    "korean": "태그팀: 아군 수에 비례하여 자신 공격력/방어력 증가/자신 피해"
+  },
+  "1000109336": {
+    "english": "Cheer Induction: Increase attack power/action speed / When waiting, grant additional defense penetration/attack power/action speed",
+    "korean": "환호 유도:  공격력/행동력 증가 / 대기 시 방어관통/공격력/행동력 추가 부여"
+  },
+  "1000109337": {
+    "english": "Tag Team Finish Move: Increase [Cheer Induction] buff effect by 50% for specific ally",
+    "korean": "태그팀 피니쉬 무브: 특정 아군에게 [환호 유도] 버프 효과 50% 증가"
+  },
+  "1000109338": {
+    "english": "Marvelous Dropkick: Decrease defense",
+    "korean": "마벨러스 드롭킥: 방어력 감소"
+  },
+  "1000109339": {
+    "english": "Marvelous Dropkick: Decrease defense",
+    "korean": "마벨러스 드롭킥: 방어력 감소"
+  },
+  "1000109340": {
+    "english": "Marvelous Dropkick: Decrease defense",
+    "korean": "마벨러스 드롭킥: 방어력 감소"
+  },
+  "1000109341": {
+    "english": "Marvelous Dropkick: Decrease defense",
+    "korean": "마벨러스 드롭킥: 방어력 감소"
+  },
+  "1000109342": {
+    "english": "Marvelous Dropkick: Decrease defense",
+    "korean": "마벨러스 드롭킥: 방어력 감소"
+  },
+  "1000109343": {
+    "english": "Marvelous Dropkick: Decrease defense",
+    "korean": "마벨러스 드롭킥: 방어력 감소"
+  },
+  "1000109344": {
+    "english": "Atelier Cleaning: Reduced Damage/ATK/ACU/EVA",
+    "korean": "아틀리에 청소: 낮은 피해 / 공격력/적중/회피 감소"
+  },
+  "1000109345": {
+    "english": "Custom Masterpiece: Increase ATK for single allied Attacker / Increase EVA/DEF/Mark for Protector / Increase AP for Supporter",
+    "korean": "맞춤형 걸작: 아군 단일 대상 공격기에게 공격력 / 보호기에게 회피/방어력/표식 / 지원기에게 AP 증가"
+  },
+  "1000109346": {
+    "english": "Atelier Girl: Increase ATK/AP for Attacker target / Apply Ignore Shield/Damage Reduction to Mobile/Light Attackers with HP ≥95%",
+    "korean": "아틀리에의 소녀: 공격기 대상 공격력/행동력 증가/ HP95%이상 기동/경장 공격기에게 방어막/받는 피해 감소 무시 적용"
+  },
+  "1000109347": {
+    "english": "Eliciting Protective Instinct: Increase EVA/DEF by 50% for Protectors in front of self",
+    "korean": "보호본능 유발: 자신 앞 보호기 대상 회피/방어력 50% 증가"
+  },
+  "1000109348": {
+    "english": "Custom Masterpiece: Increase ATK for single allied Attacker / Increase EVA/DEF/Mark for Protector / Increase AP for Supporter",
+    "korean": "맞춤형 걸작: 아군 단일 대상 공격기에게 공격력 / 보호기에게 회피/방어력/표식 / 지원기에게 AP 증가"
+  },
+  "1000109349": {
+    "english": "Custom Masterpiece: Increase ATK for single allied Attacker / Increase EVA/DEF/Mark for Protector / Increase AP for Supporter",
+    "korean": "맞춤형 걸작: 아군 단일 대상 공격기에게 공격력 / 보호기에게 회피/방어력/표식 / 지원기에게 AP 증가"
+  },
+  "1000109350": {
+    "english": "Atelier Girl: Increase ATK/AP for Attacker target / Apply Ignore Shield/Damage Reduction to Mobile/Light Attackers with HP ≥95%",
+    "korean": "아틀리에의 소녀: 공격기 대상 공격력/행동력 증가/ HP95%이상 기동/경장 공격기에게 방어막/받는 피해 감소 무시 적용"
+  },
+  "1000109351": {
+    "english": "Repulsor Shock: Mark / Reduce electric resistance",
+    "korean": "리펄서 쇼크 : 표식 / 전기 저항 감소"
+  },
+  "1000109352": {
+    "english": "Magnetic Field: Mark / Increase cold resistance, fire resistance, action speed",
+    "korean": "자기장 : 표식 / 냉기 저항, 화염 저항, 행동력 증가"
+  },
+  "1000109353": {
+    "english": "Electromagnetic Wave: Reattack",
+    "korean": "전자기파 : 재공격"
+  },
+  "1000109354": {
+    "english": "Electromagnetic Wave: Increase cold/fire resistance",
+    "korean": "전자기파 : 냉기 / 화염 저항 증가"
+  },
+  "1000109355": {
+    "english": "Electric Emission: Evasion / Reduce defense penetration",
+    "korean": "전기 방사 : 회피 / 방어 관통 감소"
+  },
+  "1000109356": {
+    "english": "Electric Emission: Evasion / Reduce defense penetration",
+    "korean": "전기 방사 : 회피 / 방어 관통 감소"
+  },
+  "1000109357": {
+    "english": "Electric Emission: Evasion / Reduce defense penetration",
+    "korean": "전기 방사 : 회피 / 방어 관통 감소"
+  },
+  "1000109358": {
+    "english": "Electric Emission: Evasion / Reduce defense penetration",
+    "korean": "전기 방사 : 회피 / 방어 관통 감소"
+  },
+  "1000109359": {
+    "english": "Electric Emission: Evasion / Reduce defense penetration",
+    "korean": "전기 방사 : 회피 / 방어 관통 감소"
+  },
+  "1000109360": {
+    "english": "Electric Emission: Evasion / Reduce defense penetration",
+    "korean": "전기 방사 : 회피 / 방어 관통 감소"
+  },
+  "1000109361": {
+    "english": "Electric Emission: Evasion / Reduce defense penetration",
+    "korean": "전기 방사 : 회피 / 방어 관통 감소"
+  },
+  "1000109362": {
+    "english": "Electric Emission: Evasion / Reduce defense penetration",
+    "korean": "전기 방사 : 회피 / 방어 관통 감소"
+  },
+  "1000109363": {
+    "english": "Commander Unit: Defense penetration reduction / Increase AP",
+    "korean": "지휘관 개체 : 방어 관통 감소 / AP 증가"
+  },
+  "1000109364": {
+    "english": "Commander Unit: Defense penetration reduction / Increase AP",
+    "korean": "지휘관 개체 : 방어 관통 감소 / AP 증가"
+  },
+  "1000109365": {
+    "english": "Repulsor Shock: Reduce attack power and electric resistance / Increase damage taken",
+    "korean": "리펄서 쇼크 : 공격력, 전기 저항 감소 / 받는 피해 증가"
+  },
+  "1000109366": {
+    "english": "Electric Shock Bomb: Reduce AP / Electric resistance / Effect resistance",
+    "korean": "전기충격탄 : AP / 전기 저항 / 효과 저항 감소"
+  },
+  "1000109367": {
+    "english": "Electric Shock Bomb: Reduce AP / Electric resistance / Effect resistance",
+    "korean": "전기충격탄 : AP / 전기 저항 / 효과 저항 감소"
+  },
+  "1000109368": {
+    "english": "Bio Radar: Increase attack power / critical / action speed",
+    "korean": "바이오 레이더 : 공격력 / 치명타 / 행동력 증가"
+  },
+  "1000109369": {
+    "english": "Bio Radar: Increase attack power / critical / action speed",
+    "korean": "바이오 레이더 : 공격력 / 치명타 / 행동력 증가"
+  },
+  "1000109370": {
+    "english": "Charging Device: Increase action speed / effect resistance",
+    "korean": "충전 장치 : 행동력 / 효과 저항 증가"
+  },
+  "1000109371": {
+    "english": "Repulsor Shock: Additional electric damage",
+    "korean": "리펄서 쇼크 : 추가 전기 피해"
+  },
+  "1000109372": {
+    "english": "Plasma Strike: Remove damage reduction",
+    "korean": "플라즈마 스트라이크 : 피해 감소 해제"
+  },
+  "1000109373": {
+    "english": "Connection State: Increase attack power / critical / accuracy",
+    "korean": "연결 상태 : 공격력 / 치명타 / 적중 증가"
+  },
+  "1000109374": {
+    "english": "Charging Device: Increase attack power / effect resistance",
+    "korean": "충전 장치 : 공격력 / 효과 저항 증가"
+  },
+  "1000109375": {
+    "english": "Repulsor Shock: Mark",
+    "korean": "리펄서 쇼크 : 표식"
+  },
+  "1000109376": {
+    "english": "Magnetic Field: Mark",
+    "korean": "자기장 : 표식"
+  },
+  "1000109377": {
+    "english": "Electromagnetic Wave: Reattack",
+    "korean": "전자기파 : 재공격"
+  },
+  "1000109378": {
+    "english": "Electromagnetic Wave: Cold resistance {0}%",
+    "korean": "전자기파 : 냉기 저항{0}%"
+  },
+  "1000109379": {
+    "english": "Electric Emission: Defense penetration {0}%",
+    "korean": "전기 방사 : 방어 관통{0}%"
+  },
+  "1000109380": {
+    "english": "Electric Emission: Defense penetration -{0}%",
+    "korean": "전기 방사 : 방어 관통-{0}%"
+  },
+  "1000109381": {
+    "english": "Electric Emission: Evasion {0}%",
+    "korean": "전기 방사 : 회피{0}%"
+  },
+  "1000109382": {
+    "english": "Electric Emission: Evasion {0}%",
+    "korean": "전기 방사 : 회피{0}%"
+  },
+  "1000109383": {
+    "english": "Commander Unit: AP {0}",
+    "korean": "지휘관 개체 : AP{0}"
+  },
+  "1000109384": {
+    "english": "Commander Unit: Defense penetration {0}%",
+    "korean": "지휘관 개체 : 방어 관통{0}%"
+  },
+  "1000109385": {
+    "english": "Repulsor Shock: Attack power {0}%",
+    "korean": "리펄서 쇼크 : 공격력{0}%"
+  },
+  "1000109386": {
+    "english": "Electric Shock Bomb: AP {0}",
+    "korean": "전기충격탄 : AP{0}"
+  },
+  "1000109387": {
+    "english": "Electric Shock Bomb: Effect resistance {0}% reduction",
+    "korean": "전기충격탄 : 효과 저항 {0}% 감소"
+  },
+  "1000109388": {
+    "english": "Bio Radar: Critical {0}%",
+    "korean": "바이오 레이더 : 치명타{0}%"
+  },
+  "1000109389": {
+    "english": "Bio Radar: Critical {0}%",
+    "korean": "바이오 레이더 : 치명타{0}%"
+  },
+  "1000109390": {
+    "english": "Charging Device: Action speed {0}%",
+    "korean": "충전 장치 : 행동력{0}%"
+  },
+  "1000109391": {
+    "english": "Repulsor Shock: Additional electric damage",
+    "korean": "리펄서 쇼크 : 추가 전기 피해"
+  },
+  "1000109392": {
+    "english": "Plasma Strike: Remove damage reduction",
+    "korean": "플라즈마 스트라이크 : 피해 감소 해제"
+  },
+  "1000109393": {
+    "english": "Connection State: Critical {0}%",
+    "korean": "연결 상태 : 치명타{0}%"
+  },
+  "1000109394": {
+    "english": "Charging Device: Attack power {0}%",
+    "korean": "충전 장치 : 공격력{0}%"
+  },
+  "1000109395": {
+    "english": "Repulsor Shock: Electric resistance {0}%",
+    "korean": "리펄서 쇼크 : 전기 저항{0}%"
+  },
+  "1000109396": {
+    "english": "Magnetic Field: Cold resistance {0}%",
+    "korean": "자기장 : 냉기 저항{0}%"
+  },
+  "1000109397": {
+    "english": "Electromagnetic Wave: Fire resistance {0}%",
+    "korean": "전자기파 : 화염 저항{0}%"
+  },
+  "1000109398": {
+    "english": "Repulsor Shock: Evasion {0}%",
+    "korean": "리펄서 쇼크 : 회피{0}%"
+  },
+  "1000109399": {
+    "english": "Electric Shock Grenade: Electric Resistance {0}%",
+    "korean": "전기충격탄 : 전기 저항{0}%"
+  },
+  "1000109400": {
+    "english": "Bio Radar: Attack power {0}%",
+    "korean": "바이오 레이더 : 공격력{0}%"
+  },
+  "1000109401": {
+    "english": "Bio Radar: Attack power {0}%",
+    "korean": "바이오 레이더 : 공격력{0}%"
+  },
+  "1000109402": {
+    "english": "Charging Device: Effect resistance {0}%",
+    "korean": "충전 장치 : 효과 저항{0}%"
+  },
+  "1000109403": {
+    "english": "Connection State: Attack power {0}%",
+    "korean": "연결 상태 : 공격력{0}%"
+  },
+  "1000109404": {
+    "english": "Charging Device: Effect resistance {0}%",
+    "korean": "충전 장치 : 효과 저항{0}%"
+  },
+  "1000109405": {
+    "english": "Magnetic Field: Fire resistance {0}%",
+    "korean": "자기장 : 화염 저항{0}%"
+  },
+  "1000109406": {
+    "english": "Repulsor Shock: Damage taken {0}%",
+    "korean": "리펄서 쇼크 : 받는 피해{0}%"
+  },
+  "1000109407": {
+    "english": "Bio Radar: Action speed {0}%",
+    "korean": "바이오 레이더 : 행동력{0}%"
+  },
+  "1000109408": {
+    "english": "Connection State: Accuracy {0}%",
+    "korean": "연결 상태 : 적중{0}%"
+  },
+  "1000109409": {
+    "english": "Magnetic Field : Action Power{0}%",
+    "korean": "자기장 : 행동력{0}%"
+  },
+  "1000109410": {
+    "english": "Coolant Spray: Soaked effect",
+    "korean": "냉각수 분사 : 침수 효과"
+  },
+  "1000109411": {
+    "english": "Rearrangement: Remove harmful effects / Increase AP / Accuracy / Effect resistance",
+    "korean": "재배열 : 해로운 효과 해제 / AP / 적중 / 효과 저항 증가"
+  },
+  "1000109412": {
+    "english": "Anti-Nitrogen Armor: Reduce damage taken / Increase cold and effect resistance",
+    "korean": "반질소 장갑 : 받는 피해 감소 / 냉기, 효과 저항 증가"
+  },
+  "1000109413": {
+    "english": "Anti-Nitrogen Armor: Increase evasion and action speed / Decrease accuracy",
+    "korean": "반질소 장갑 : 회피, 행동력 증가 / 적중 감소"
+  },
+  "1000109414": {
+    "english": "Rupture: Soaked / Change AP",
+    "korean": "파열 : 침수 / AP 변경"
+  },
+  "1000109415": {
+    "english": "Water-Cooled Barrel: Change AP",
+    "korean": "수냉식 포신 : AP 변경"
+  },
+  "1000109416": {
+    "english": "Water-Cooled Barrel: Change AP",
+    "korean": "수냉식 포신 : AP 변경"
+  },
+  "1000109417": {
+    "english": "Cooling Gas: Freeze soaked targets",
+    "korean": "냉각 가스 : 침수 대상 빙결"
+  },
+  "1000109418": {
+    "english": "Freeze Coating: Shield / Reduce damage taken and fire resistance",
+    "korean": "동결 코팅 : 방어막 / 받는 피해, 화염 저항 감소"
+  },
+  "1000109419": {
+    "english": "Rapid Freeze: If soaked, increase stats / Mark / Immobilize",
+    "korean": "급속 빙결 : 침수 상태인 경우, 능력치 증가 / 표식 / 이동 불가"
+  },
+  "1000109420": {
+    "english": "Overload: When hit by fire attack, decrease stats / Ignite",
+    "korean": "과부하 : 화염 속성 피격 시, 능력치 감소 / 점화"
+  },
+  "1000109421": {
+    "english": "Rapid Freeze: Increase action speed",
+    "korean": "급속 빙결 : 행동력 증가"
+  },
+  "1000109422": {
+    "english": "Cooling Gas: Immobilize",
+    "korean": "냉각 가스 : 이동 불가"
+  },
+  "1000109423": {
+    "english": "Freeze Coating: Shield / Reduce damage taken and fire resistance",
+    "korean": "동결 코팅 : 방어막 / 받는 피해, 화염 저항 감소"
+  },
+  "1000109424": {
+    "english": "Rapid Freeze: Mark / Immobilize",
+    "korean": "급속 빙결 : 표식 / 이동 불가"
+  },
+  "1000109425": {
+    "english": "Coolant Spray: Soaked",
+    "korean": "냉각수 분사 : 침수"
+  },
+  "1000109426": {
+    "english": "Rearrangement: Accuracy {0}%",
+    "korean": "재배열 : 적중{0}%"
+  },
+  "1000109427": {
+    "english": "Anti-Nitrogen Armor: Damage taken reduction {0}%",
+    "korean": "반질소 장갑 : 받는 피해 감소 {0}%"
+  },
+  "1000109428": {
+    "english": "Hydrophobia: Evasion {0}%",
+    "korean": "물 공포증 : 회피{0}%"
+  },
+  "1000109429": {
+    "english": "Rupture: Change to AP {0}",
+    "korean": "파열 : AP {0}으로 변경"
+  },
+  "1000109430": {
+    "english": "Water-Cooled Barrel: Change to AP {0}",
+    "korean": "수냉식 포신 : AP {0}으로 변경"
+  },
+  "1000109431": {
+    "english": "Water-Cooled Barrel: Change to AP {0}",
+    "korean": "수냉식 포신 : AP {0}으로 변경"
+  },
+  "1000109432": {
+    "english": "Freeze: Unable to act",
+    "korean": "빙결 : 행동 불가"
+  },
+  "1000109433": {
+    "english": "Freeze Coating: Shield {0}",
+    "korean": "동결 코팅 : 방어막{0}"
+  },
+  "1000109434": {
+    "english": "Rapid Freeze: Attack power {0}%",
+    "korean": "급속 빙결 : 공격력{0}%"
+  },
+  "1000109435": {
+    "english": "Overload: Attack power {0}%",
+    "korean": "과부하 : 공격력{0}%"
+  },
+  "1000109436": {
+    "english": "Rapid Freeze: Action speed {0}%",
+    "korean": "급속 빙결 : 행동력{0}%"
+  },
+  "1000109437": {
+    "english": "Cooling Gas: Immobilize",
+    "korean": "냉각 가스 : 이동 불가"
+  },
+  "1000109438": {
+    "english": "Freeze Coating: Shield {0}",
+    "korean": "동결 코팅 : 방어막{0}"
+  },
+  "1000109439": {
+    "english": "Rapid Freeze: Mark",
+    "korean": "급속 빙결 : 표식"
+  },
+  "1000109440": {
+    "english": "Rearrangement: Effect resistance {0}%",
+    "korean": "재배열 : 효과 저항{0}%"
+  },
+  "1000109441": {
+    "english": "Anti-Nitrogen Armor: Cold resistance {0}%",
+    "korean": "반질소 장갑 : 냉기 저항{0}%"
+  },
+  "1000109442": {
+    "english": "Hydrophobia: Accuracy {0}%",
+    "korean": "물 공포증 : 적중{0}%"
+  },
+  "1000109443": {
+    "english": "Water-Cooled Barrel: Remove harmful effects",
+    "korean": "수냉식 포신 : 해로운 효과 해제"
+  },
+  "1000109444": {
+    "english": "Water-Cooled Barrel: Remove harmful effects",
+    "korean": "수냉식 포신 : 해로운 효과 해제"
+  },
+  "1000109445": {
+    "english": "Freeze: Damage taken {0}%",
+    "korean": "빙결 : 받는 피해{0}%"
+  },
+  "1000109446": {
+    "english": "Freeze Coating: Fire resistance {0}%",
+    "korean": "동결 코팅 : 화염 저항{0}%"
+  },
+  "1000109447": {
+    "english": "Overload: Action speed {0}%",
+    "korean": "과부하 : 행동력{0}%"
+  },
+  "1000109448": {
+    "english": "Freeze Coating: Fire resistance {0}%",
+    "korean": "동결 코팅 : 화염 저항{0}%"
+  },
+  "1000109449": {
+    "english": "Rapid Freeze: Immobilize",
+    "korean": "급속 빙결 : 이동 불가"
+  },
+  "1000109450": {
+    "english": "Rearrangement: AP {0}",
+    "korean": "재배열 : AP{0}"
+  },
+  "1000109451": {
+    "english": "Hydrophobia: Action speed {0}%",
+    "korean": "물 공포증 : 행동력{0}%"
+  },
+  "1000109452": {
+    "english": "Freeze: Remove buffs",
+    "korean": "빙결 : 강화 해제"
+  },
+  "1000109453": {
+    "english": "Freeze Coating: Reduce damage taken {0}%",
+    "korean": "동결 코팅 : 받는 피해{0}% 감소"
+  },
+  "1000109454": {
+    "english": "Ignite: Continuous fire damage {0}",
+    "korean": "점화 : 지속 화염 피해 {0}"
+  },
+  "1000109455": {
+    "english": "Freeze Coating: Damage taken reduction {0}%",
+    "korean": "동결 코팅 : 받는 피해 감소 {0}%"
+  },
+  "1000109456": {
+    "english": "Rearrangement: Remove harmful effects",
+    "korean": "재배열 : 해로운 효과 해제"
+  },
+  "1000109457": {
+    "english": "Tag Team: Attack power {0}% (Ally 2)",
+    "korean": "태그팀 : 공격력{0}%(아군 2)"
+  },
+  "1000109458": {
+    "english": "Tag Team: Attack power {0}% (Ally 3)",
+    "korean": "태그팀 : 공격력{0}%(아군 3)"
+  },
+  "1000109459": {
+    "english": "Tag Team: Attack power {0}% (Ally 4)",
+    "korean": "태그팀 : 공격력{0}%(아군 4)"
+  },
+  "1000109460": {
+    "english": "Tag Team: Attack power {0}% (Ally 5)",
+    "korean": "태그팀 : 공격력{0}%(아군 5)"
+  },
+  "1000109461": {
+    "english": "Tag Team: Action speed {0}% (Ally 2)",
+    "korean": "태그팀 : 행동력{0}%(아군 2)"
+  },
+  "1000109462": {
+    "english": "Tag Team: Action speed {0}% (Ally 3)",
+    "korean": "태그팀 : 행동력{0}%(아군 3)"
+  },
+  "1000109463": {
+    "english": "Tag Team: Action speed {0}% (Ally 4)",
+    "korean": "태그팀 : 행동력{0}%(아군 4)"
+  },
+  "1000109464": {
+    "english": "Tag Team: Action speed {0}% (Ally 5)",
+    "korean": "태그팀 : 행동력{0}%(아군 5)"
+  },
+  "1000109465": {
+    "english": "Mass Confusion: Low physical damage within range / Reduce accuracy",
+    "korean": "대혼란 : 범위 내 낮은 물리 피해 / 적중 감소"
+  },
+  "1000109466": {
+    "english": "Summon Audience: Increase attack power/accuracy/evasion (Mobile type)",
+    "korean": "관중 소환 : 공격력/적중/회피 증가 (기동형)"
+  },
+  "1000109467": {
+    "english": "Invitation to Paradise 1: Increase attack power/critical (Mobile type)",
+    "korean": "낙원으로의 초대 1: 공격력/치명타 증가 (기동형)"
+  },
+  "1000109468": {
+    "english": "Invitation to Paradise 2: Increase AP (Mobile support unit)",
+    "korean": "낙원으로의 초대 2 : AP 증가 (기동형 지원기)"
+  },
+  "1000109469": {
+    "english": "Drone Orchestra: Increase damage vs heavy armor / Increase damage vs light armor (Mobile type)",
+    "korean": "드론 오케스트라 : 대 중장형 피해 증가 / 대 경장형 피해 증가 (기동형)"
+  },
+  "1000109470": {
+    "english": "Invitation to Paradise 2: Increase AP (Self)",
+    "korean": "낙원으로의 초대 2 : AP 증가 (자신)"
+  },
+  "1000109471": {
+    "english": "Flame Emission: High Flame Damage / Continuous Flame Damage",
+    "korean": "화염 방사 : 높은 화염 피해 / 지속 화염 피해"
+  },
+  "1000109472": {
+    "english": "Tactical Maneuver - Straight Flush: Flame Damage / Flame Resistance Reduction",
+    "korean": "전술 기동 - 스트레이트 플러시 : 화염 피해 / 화염 속성 저항 감소"
+  },
+  "1000109473": {
+    "english": "Gambler: Anger of Horde Attack Support / Self Cold Resistance Increase / Self ATK Increase",
+    "korean": "도박광 : 앵거 오브 호드 공격 지원 / 자신 냉기 저항 증가 / 자신 공격력 증가"
+  },
+  "1000109474": {
+    "english": "Chain Flame: Enemy Flame Resistance Reduction (On Enemy Death / Stacks)",
+    "korean": "연쇄 화염 : 적군 화염 저항 감소 (적 사망 시 / 중첩)"
+  },
+  "1000109475": {
+    "english": "Gambler: Anger of Horde Attack Support / Self Cold Resistance Increase / Self ATK Increase",
+    "korean": "도박광 : 앵거 오브 호드 공격 지원 / 자신 냉기 저항 증가 / 자신 공격력 증가"
+  },
+  "1000109476": {
+    "english": "Gambler: Anger of Horde Attack Support / Self Cold Resistance Increase / Self ATK Increase",
+    "korean": "도박광 : 앵거 오브 호드 공격 지원 / 자신 냉기 저항 증가 / 자신 공격력 증가"
+  },
+  "1000109477": {
+    "english": "Gambler: Anger of Horde Attack Support / Self Cold Resistance Increase / Self ATK Increase",
+    "korean": "도박광 : 앵거 오브 호드 공격 지원 / 자신 냉기 저항 증가 / 자신 공격력 증가"
+  },
+  "1000109478": {
+    "english": "Gambler: Anger of Horde Attack Support / Self Cold Resistance Increase / Self ATK Increase",
+    "korean": "도박광 : 앵거 오브 호드 공격 지원 / 자신 냉기 저항 증가 / 자신 공격력 증가"
+  },
+  "1000109479": {
+    "english": "Gambler: Anger of Horde Attack Support / Self Cold Resistance Increase / Self ATK Increase",
+    "korean": "도박광 : 앵거 오브 호드 공격 지원 / 자신 냉기 저항 증가 / 자신 공격력 증가"
+  },
+  "1000109480": {
+    "english": "Gambler: Anger of Horde Attack Support / Self Cold Resistance Increase / Self ATK Increase",
+    "korean": "도박광 : 앵거 오브 호드 공격 지원 / 자신 냉기 저항 증가 / 자신 공격력 증가"
+  },
+  "1000109481": {
+    "english": "Gambler: Anger of Horde Attack Support / Self Cold Resistance Increase / Self ATK Increase",
+    "korean": "도박광 : 앵거 오브 호드 공격 지원 / 자신 냉기 저항 증가 / 자신 공격력 증가"
+  },
+  "1000109482": {
+    "english": "Gambler: Anger of Horde Attack Support / Self Cold Resistance Increase / Self ATK Increase",
+    "korean": "도박광 : 앵거 오브 호드 공격 지원 / 자신 냉기 저항 증가 / 자신 공격력 증가"
+  },
+  "1000109483": {
+    "english": "Gambler: Anger of Horde Attack Support / Self Cold Resistance Increase / Self ATK Increase",
+    "korean": "도박광 : 앵거 오브 호드 공격 지원 / 자신 냉기 저항 증가 / 자신 공격력 증가"
+  },
+  "1000109484": {
+    "english": "Mass Confusion: Accuracy {0}%",
+    "korean": "대혼란 : 적중{0}%"
+  },
+  "1000109485": {
+    "english": "Summon Audience: Attack power {0}% (Mobile type)",
+    "korean": "관중 소환 : 공격력{0}% (기동형)"
+  },
+  "1000109486": {
+    "english": "Invitation to Paradise 1: Attack power {0}% (Mobile type)",
+    "korean": "낙원으로의 초대 1 : 공격력{0}% (기동형)"
+  },
+  "1000109487": {
+    "english": "Invitation to Paradise 2: AP {0} (Mobile support unit)",
+    "korean": "낙원으로의 초대 2 : AP{0} (기동형 지원기)"
+  },
+  "1000109488": {
+    "english": "Drone Orchestra: Damage vs heavy armor {0}% (Mobile type)",
+    "korean": "드론 오케스트라 : 대 중장 피해량{0}% (기동형)"
+  },
+  "1000109489": {
+    "english": "Invitation to Paradise 2: AP {0} (Self)",
+    "korean": "낙원으로의 초대 2 : AP{0} (자신)"
+  },
+  "1000109490": {
+    "english": "Flame Emission: Continuous Flame Damage {0}",
+    "korean": "화염 방사 : 지속 화염 피해 {0}"
+  },
+  "1000109491": {
+    "english": "Tactical Maneuver - Straight Flush: Flame Resistance {0}%",
+    "korean": "전술 기동 - 스트레이트 플러시 : 화염 저항{0}%"
+  },
+  "1000109492": {
+    "english": "Gambler: Cold Resistance {0}%",
+    "korean": "도박광 : 냉기 저항{0}%"
+  },
+  "1000109493": {
+    "english": "Chain Flame: Flame Resistance {0}% (On Enemy Death / Stacks)",
+    "korean": "연쇄 화염 : 화염 저항{0}%(적 사망 시 / 중첩)"
+  },
+  "1000109494": {
+    "english": "Gambler: ATK {0}% (Enemy 1)",
+    "korean": "도박광 : 공격력{0}% (적군 1)"
+  },
+  "1000109495": {
+    "english": "Gambler: ATK {0}% (Enemy 2)",
+    "korean": "도박광 : 공격력{0}% (적군 2)"
+  },
+  "1000109496": {
+    "english": "Gambler: ATK {0}% (Enemy 3)",
+    "korean": "도박광 : 공격력{0}% (적군 3)"
+  },
+  "1000109497": {
+    "english": "Gambler: ATK {0}% (Enemy 4)",
+    "korean": "도박광 : 공격력{0}% (적군 4)"
+  },
+  "1000109498": {
+    "english": "Gambler: ATK {0}% (Enemy 5)",
+    "korean": "도박광 : 공격력{0}% (적군 5)"
+  },
+  "1000109499": {
+    "english": "Gambler: ATK {0}% (Enemy 6)",
+    "korean": "도박광 : 공격력{0}% (적군 6)"
+  },
+  "1000109500": {
+    "english": "Gambler: ATK {0}% (Enemy 7)",
+    "korean": "도박광 : 공격력{0}% (적군 7)"
+  },
+  "1000109501": {
+    "english": "Gambler: ATK {0}% (Enemy 8)",
+    "korean": "도박광 : 공격력{0}% (적군 8)"
+  },
+  "1000109502": {
+    "english": "Gambler: ATK {0}% (Enemy 9)",
+    "korean": "도박광 : 공격력{0}% (적군 9)"
+  },
+  "1000109503": {
+    "english": "Summon Audience: Accuracy {0}% (Mobile type)",
+    "korean": "관중 소환 : 적중{0}% (기동형)"
+  },
+  "1000109504": {
+    "english": "Invitation to Paradise 1: Critical {0}% (Mobile type)",
+    "korean": "낙원으로의 초대 1 : 치명타{0}% (기동형)"
+  },
+  "1000109505": {
+    "english": "Invitation to Paradise 2: AP {0} (Self)",
+    "korean": "낙원으로의 초대 2 : AP{0} (자신)"
+  },
+  "1000109506": {
+    "english": "Drone Orchestra: Damage vs light armor {0}% (Mobile type)",
+    "korean": "드론 오케스트라 : 대 경장 피해량{0}% (기동형)"
+  },
+  "1000109507": {
+    "english": "Gambler: ATK {0}% (Enemy 1)",
+    "korean": "도박광 : 공격력{0}% (적군 1)"
+  },
+  "1000109508": {
+    "english": "Summon Audience: Evasion {0}% (Mobile type)",
+    "korean": "관중 소환 : 회피{0}% (기동형)"
+  },
+  "1000109509": {
+    "english": "Arson: Increase AP / Continue fighting",
+    "korean": "방화 : AP 증가 / 전투 속행"
+  },
+  "1000109510": {
+    "english": "Arson: AP {0}",
+    "korean": "방화 : AP{0}"
+  },
+  "1000109511": {
+    "english": "Arson: Continue Battle with {0}% HP",
+    "korean": "방화 : {0}% HP로 전투 속행"
+  },
+  "1000109512": {
+    "english": "Shockwave Missile: Knockback / Reduce action speed",
+    "korean": "충격파 미사일 : 뒤로 밀기 / 행동력 감소"
+  },
+  "1000109513": {
+    "english": "Weak Point Analysis: Increase damage taken / Reduce effect resistance and evasion",
+    "korean": "약점 분석 : 받는 피해 증가 / 효과 저항 / 회피 감소"
+  },
+  "1000109514": {
+    "english": "Disruption Hologram: Increase evasion",
+    "korean": "교란 홀로그램 : 회피 증가"
+  },
+  "1000109515": {
+    "english": "Knockback {0} tiles",
+    "korean": "뒤로 {0}칸 밀기"
+  },
+  "1000109516": {
+    "english": "Precision Scan: Damage taken {0}%",
+    "korean": "정밀 스캔 : 받는 피해{0}%"
+  },
+  "1000109517": {
+    "english": "Disruption Hologram: Evasion {0}%",
+    "korean": "교란 홀로그램 : 회피{0}%"
+  },
+  "1000109518": {
+    "english": "AP {0}",
+    "korean": "AP{0}"
+  },
+  "1000109519": {
+    "english": "Precision Scan: Effect resistance reduction {0}%",
+    "korean": "정밀 스캔 : 효과 저항 감소 {0}%"
+  },
+  "1000109520": {
+    "english": "Precision Scan: Evasion {0}%",
+    "korean": "정밀 스캔 : 회피{0}%"
+  },
+  "1000109521": {
+    "english": "Gambler: Attack Support",
+    "korean": "도박광 : 공격 지원"
+  },
+  "1000109522": {
+    "english": "Mobile Shooting: AP Increase (Salamander)",
+    "korean": "기동간 사격 : 행동력 증가 (샐러맨더)"
+  },
+  "1000109523": {
+    "english": "Gambler: Attack Support (Anger of Horde)",
+    "korean": "도박광 : 공격 지원 (앵거 오브 호드)"
+  },
+  "1000109524": {
+    "english": "Battery Discharge: Function disabled",
+    "korean": "배터리 방전 : 기능 정지"
+  },
+  "1000109525": {
+    "english": "Energy Extraction",
+    "korean": "에너지 추출"
+  },
+  "1000109526": {
+    "english": "Death Energy",
+    "korean": "죽음의 에너지"
+  },
+  "1000109527": {
+    "english": "Battery Discharge: Change AP",
+    "korean": "배터리 방전 : AP 변경"
+  },
+  "1000109528": {
+    "english": "Battery Discharge: Function disabled",
+    "korean": "배터리 방전 : 기능 정지"
+  },
+  "1000109529": {
+    "english": "Energy Extraction",
+    "korean": "에너지 추출"
+  },
+  "1000109530": {
+    "english": "Death Energy",
+    "korean": "죽음의 에너지"
+  },
+  "1000109531": {
+    "english": "Battery Discharge: Change to AP {0}",
+    "korean": "배터리 방전 : AP {0}으로 변경"
+  },
+  "1000109532": {
+    "english": "Sonic Emission: Normal Physical Damage / DEF Reduction / EVA Reduction",
+    "korean": "음파 방출: 보통 물리피해 / 방어력 감소 / 회피 감소"
+  },
+  "1000109533": {
+    "english": "Night of the Blood Queen: Low Physical Damage / Next Attack CRIT / ATK, DEF Penetration, Range Increase",
+    "korean": "피의 여왕의 밤: 낮은 물리피해 / 다음 공격 치명타 / 공격력, 방어관통, 사거리 증가"
+  },
+  "1000109534": {
+    "english": "Contempt: DEF Penetration Increase / More Damage the Lower Target's HP",
+    "korean": "멸시: 방어관통 증가 / 대상의 HP가 낮을수록 피해량 증가"
+  },
+  "1000109535": {
+    "english": "Backstep: CRIT, ACU, DEF Penetration Increase if Middle or Rear Row",
+    "korean": "뒷걸음질: 중열 또는 후열일 경우 치명타, 적중, 방어관통 증가"
+  },
+  "1000109536": {
+    "english": "Sonic Detection: Recon Share / CRIT, ACU, EVA Increase",
+    "korean": "음파 탐지: 정찰 공유 / 치명타, 적중, 회피 증가"
+  },
+  "1000109537": {
+    "english": "Sonic Emission: DEF {0}%",
+    "korean": "음파 방출 : 방어력{0}%"
+  },
+  "1000109538": {
+    "english": "Night of the Blood Queen: Next Attack CRIT",
+    "korean": "피의 여왕의 밤 : 다음 공격 치명타"
+  },
+  "1000109539": {
+    "english": "Contempt: DEF Penetration {0}%",
+    "korean": "멸시 : 방어 관통{0}%"
+  },
+  "1000109540": {
+    "english": "Backstep: DEF Penetration {0}% (Rear Row)",
+    "korean": "뒷걸음질 : 방어 관통{0}%(후열)"
+  },
+  "1000109541": {
+    "english": "Sonic Detection: Recon Activate",
+    "korean": "음파 탐지 : 정찰 활성화"
+  },
+  "1000109542": {
+    "english": "Night of the Blood Queen: ATK {0}%",
+    "korean": "피의 여왕의 밤 : 공격력{0}%"
+  },
+  "1000109543": {
+    "english": "Night of the Blood Queen: DEF Penetration {0}%",
+    "korean": "피의 여왕의 밤 : 방어 관통{0}%"
+  },
+  "1000109544": {
+    "english": "Night of the Blood Queen: Range {0}",
+    "korean": "피의 여왕의 밤 : 사거리{0}"
+  },
+  "1000109545": {
+    "english": "Contempt: More Damage {0}% the Lower the Enemy HP",
+    "korean": "멸시 : 적 HP가 낮을수록 피해량{0}%"
+  },
+  "1000109546": {
+    "english": "Backstep: DEF Penetration {0}% (Middle Row)",
+    "korean": "뒷걸음질 : 방어 관통{0}%(중열)"
+  },
+  "1000109547": {
+    "english": "Sonic Detection: CRIT {0}% (Fullness)",
+    "korean": "음파 탐지 : 치명타{0}%(충만함)"
+  },
+  "1000109548": {
+    "english": "Sonic Emission: EVA {0}%",
+    "korean": "음파 방출 : 회피{0}%"
+  },
+  "1000109549": {
+    "english": "Night of the Blood Queen: ATK {0}% (Self)",
+    "korean": "피의 여왕의 밤 : 공격력{0}%(자신)"
+  },
+  "1000109550": {
+    "english": "Contempt: More Damage {0}% the Lower the Enemy HP",
+    "korean": "멸시 : 적 HP가 낮을수록 피해량{0}%"
+  },
+  "1000109551": {
+    "english": "Backstep: CRIT {0}% (Rear Row)",
+    "korean": "뒷걸음질 : 치명타{0}%(후열)"
+  },
+  "1000109552": {
+    "english": "Sonic Detection: CRIT {0}% (Fullness)",
+    "korean": "음파 탐지 : 치명타{0}%(충만함)"
+  },
+  "1000109553": {
+    "english": "Backstep: CRIT {0}% (Middle Row)",
+    "korean": "뒷걸음질 : 치명타{0}%(중열)"
+  },
+  "1000109554": {
+    "english": "Sonic Detection: ACU {0}% (Fullness)",
+    "korean": "음파 탐지 : 적중{0}%(충만함)"
+  },
+  "1000109555": {
+    "english": "Night of the Blood Queen: DEF Penetration {0}% (Self)",
+    "korean": "피의 여왕의 밤 : 방어 관통{0}%(자신)"
+  },
+  "1000109556": {
+    "english": "Backstep: ACU {0}% (Rear Row)",
+    "korean": "뒷걸음질 : 적중{0}%(후열)"
+  },
+  "1000109557": {
+    "english": "Sonic Detection: ACU {0}% (Fullness)",
+    "korean": "음파 탐지 : 적중{0}%(충만함)"
+  },
+  "1000109558": {
+    "english": "Backstep: ACU {0}% (Middle Row)",
+    "korean": "뒷걸음질 : 적중{0}%(중열)"
+  },
+  "1000109559": {
+    "english": "Sonic Detection: EVA {0}% (Fullness)",
+    "korean": "음파 탐지 : 회피{0}%(충만함)"
+  },
+  "1000109560": {
+    "english": "Night of the Blood Queen: Range {0} (Self)",
+    "korean": "피의 여왕의 밤 : 사거리{0}(자신)"
+  },
+  "1000109561": {
+    "english": "Sonic Detection: EVA {0}% (Fullness)",
+    "korean": "음파 탐지 : 회피{0}%(충만함)"
+  },
+  "1000109562": {
+    "english": "Cooking Start: Defense {0}%",
+    "korean": "요리 개시 : 방어력 {0}%"
+  },
+  "1000109563": {
+    "english": "Quick Processing: Action speed {0}%",
+    "korean": "빠른 처리 : 행동력{0}%"
+  },
+  "1000109564": {
+    "english": "Sadistic Chef: ACU {0}%",
+    "korean": "가학적인 요리사 : 적중{0}%"
+  },
+  "1000109565": {
+    "english": "Sadistic Chef: CRIT {0}%",
+    "korean": "가학적인 요리사 : 치명타{0}%"
+  },
+  "1000109566": {
+    "english": "Sadistic Chef: AP {0}%",
+    "korean": "가학적인 요리사 : 행동력{0}%"
+  },
+  "1000109567": {
+    "english": "Sadistic Chef: Attack Power{0}%(1 Ally)",
+    "korean": "가학적인 요리사 : 공격력{0}%(아군 1)"
+  },
+  "1000109568": {
+    "english": "Sadistic Chef: ATK {0}% (Ally 2)",
+    "korean": "가학적인 요리사 : 공격력{0}%(아군 2)"
+  },
+  "1000109569": {
+    "english": "Sadistic Chef: ATK {0}% (Ally 3)",
+    "korean": "가학적인 요리사 : 공격력{0}%(아군 3)"
+  },
+  "1000109570": {
+    "english": "Sadistic Chef: ATK {0}% (Ally 4)",
+    "korean": "가학적인 요리사 : 공격력{0}%(아군 4)"
+  },
+  "1000109571": {
+    "english": "Sadistic Chef: ATK {0}% (Ally 5)",
+    "korean": "가학적인 요리사 : 공격력{0}%(아군 5)"
+  },
+  "1000109572": {
+    "english": "Sonic Emission: Damage {0}% (Piercing)",
+    "korean": "음파 방출 : 피해량{0}%(꿰뚫림)"
+  },
+  "1000109573": {
+    "english": "Piercing: Continuous Physical Damage {0}",
+    "korean": "꿰뚫림 : 지속 물리 피해 {0}"
+  },
+  "1000109574": {
+    "english": "Light-speed Claws: ATK / DEF / ACU / AP Reduction",
+    "korean": "광속의 손톱 : 공격력 / 방어력 / 적중 / 행동력 감소"
+  },
+  "1000109575": {
+    "english": "Blood Claws: Buff Removal / Continuous Physical Damage",
+    "korean": "피의 손톱 : 강화 효과 해제 / 지속 물리 피해"
+  },
+  "1000109576": {
+    "english": "Slaughter Prep: ATK / ACU / AP Increase",
+    "korean": "살육 준비 : 공격력 / 적중 / 행동력 증가"
+  },
+  "1000109577": {
+    "english": "Reinforced Shell: Minimize Damage",
+    "korean": "강화 외피 : 피해 최소화"
+  },
+  "1000109578": {
+    "english": "Frenzy: Shield / Ignore Damage Reduction",
+    "korean": "광란 : 방어막 / 피해 감소 무시"
+  },
+  "1000109579": {
+    "english": "Light-speed Claws: ATK {0}%",
+    "korean": "광속의 손톱 : 공격력 {0}%"
+  },
+  "1000109580": {
+    "english": "Light-speed Claws: ATK {0}%",
+    "korean": "광속의 손톱 : 공격력 {0}%"
+  },
+  "1000109581": {
+    "english": "Bleeding: Remove All Buffs",
+    "korean": "출혈 : 모든 강화 효과 해제"
+  },
+  "1000109582": {
+    "english": "Bleeding: Continuous Physical Damage {0}",
+    "korean": "출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109583": {
+    "english": "Bleeding: Continuous Physical Damage {0}",
+    "korean": "출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109584": {
+    "english": "Slaughter Prep: ATK {0}%",
+    "korean": "살육 준비 : 공격력{0}%"
+  },
+  "1000109585": {
+    "english": "Slaughter Prep: ATK {0}%",
+    "korean": "살육 준비 : 공격력{0}%"
+  },
+  "1000109586": {
+    "english": "Slaughter Prep: ATK {0}%",
+    "korean": "살육 준비 : 공격력{0}%"
+  },
+  "1000109587": {
+    "english": "Slaughter Prep: ATK {0}%",
+    "korean": "살육 준비 : 공격력{0}%"
+  },
+  "1000109588": {
+    "english": "Slaughter Prep: ATK {0}%",
+    "korean": "살육 준비 : 공격력{0}%"
+  },
+  "1000109589": {
+    "english": "Reinforced Shell: Minimize Damage (2 times)",
+    "korean": "강화 외피 : 피해 최소화 (2회)"
+  },
+  "1000109590": {
+    "english": "Reinforced Shell: Minimize Damage (4 times)",
+    "korean": "강화 외피 : 피해 최소화 (4회)"
+  },
+  "1000109591": {
+    "english": "Reinforced Shell: Minimize Damage (6 times)",
+    "korean": "강화 외피 : 피해 최소화 (6회)"
+  },
+  "1000109592": {
+    "english": "Reinforced Shell: Minimize Damage (8 times)",
+    "korean": "강화 외피 : 피해 최소화 (8회)"
+  },
+  "1000109593": {
+    "english": "Reinforced Shell: Minimize Damage (10 times)",
+    "korean": "강화 외피 : 피해 최소화 (10회)"
+  },
+  "1000109594": {
+    "english": "Frenzy",
+    "korean": "광란"
+  },
+  "1000109595": {
+    "english": "Frenzy: Shield / Ignore Damage Reduction",
+    "korean": "광란 : 방어막 / 피해 감소 무시"
+  },
+  "1000109596": {
+    "english": "Frenzy Start",
+    "korean": "광란 시작"
+  },
+  "1000109597": {
+    "english": "Light-speed Claws: DEF {0}%",
+    "korean": "광속의 손톱 : 방어력 {0}%"
+  },
+  "1000109598": {
+    "english": "Light-speed Claws: DEF {0}%",
+    "korean": "광속의 손톱 : 방어력 {0}%"
+  },
+  "1000109599": {
+    "english": "Slaughter Prep: ACU {0}%",
+    "korean": "살육 준비 : 적중{0}%"
+  },
+  "1000109600": {
+    "english": "Slaughter Prep: ACU {0}%",
+    "korean": "살육 준비 : 적중{0}%"
+  },
+  "1000109601": {
+    "english": "Slaughter Prep: ACU {0}%",
+    "korean": "살육 준비 : 적중{0}%"
+  },
+  "1000109602": {
+    "english": "Slaughter Prep: ACU {0}%",
+    "korean": "살육 준비 : 적중{0}%"
+  },
+  "1000109603": {
+    "english": "Slaughter Prep: ACU {0}%",
+    "korean": "살육 준비 : 적중{0}%"
+  },
+  "1000109604": {
+    "english": "Frenzy: Reattack",
+    "korean": "광란 : 재공격"
+  },
+  "1000109605": {
+    "english": "Light-speed Claws: ACU {0}%",
+    "korean": "광속의 손톱 : 적중 {0}%"
+  },
+  "1000109606": {
+    "english": "Light-speed Claws: ACU {0}%",
+    "korean": "광속의 손톱 : 적중 {0}%"
+  },
+  "1000109607": {
+    "english": "Slaughter Prep: AP {0}%",
+    "korean": "살육 준비 : 행동력{0}%"
+  },
+  "1000109608": {
+    "english": "Slaughter Prep: AP {0}%",
+    "korean": "살육 준비 : 행동력{0}%"
+  },
+  "1000109609": {
+    "english": "Slaughter Prep: AP {0}%",
+    "korean": "살육 준비 : 행동력{0}%"
+  },
+  "1000109610": {
+    "english": "Slaughter Prep: AP {0}%",
+    "korean": "살육 준비 : 행동력{0}%"
+  },
+  "1000109611": {
+    "english": "Slaughter Prep: AP {0}%",
+    "korean": "살육 준비 : 행동력{0}%"
+  },
+  "1000109612": {
+    "english": "Punishment: Electric Damage / Electric Resistance Reduction",
+    "korean": "징벌 : 전기 피해 / 전기 저항 감소"
+  },
+  "1000109613": {
+    "english": "Heretic, Atonement: Electric Damage / Electric Resistance Reduction",
+    "korean": "이단자여, 속죄하라 : 전기 피해 / 전기 저항 감소"
+  },
+  "1000109614": {
+    "english": "Wings of Judgment: Designated Defender / Electric Resistance Increase",
+    "korean": "심판의 날개 : 지정 보호 / 전기 저항 증가"
+  },
+  "1000109615": {
+    "english": "Deepening Faith: Damage Received Reduction / Self Mark",
+    "korean": "깊어지는 신앙 : 받는 피해 감소 / 자기 표식"
+  },
+  "1000109616": {
+    "english": "Final Crusade: Self AP Increase / Ally ATK, Electric Charge Increase, Damage Received Reduction / Enemy Damage Received Increase",
+    "korean": "최후의 성전 : 자신 AP 증가 / 아군 공격력, 전기 저장 증가, 받는 피해 감소 / 적군 받는 피해 증가"
+  },
+  "1000109617": {
+    "english": "Electromagnetic Resonance: ATK Increase (Saraqael)",
+    "korean": "전자기 공명 : 공격력 증가 (사라카엘)"
+  },
+  "1000109618": {
+    "english": "Neural Stimulation: ATK, AP Increase (Electric Attribute) / CRIT, ACU, EVA Increase (Electric Attribute Mobile Type)",
+    "korean": "신경 자극 : 공격력, 행동력 증가(전기속성) / 치명타, 적중, 회피 증가(전기 속성 기동형)"
+  },
+  "1000109619": {
+    "english": "Short: Enemy Electric Resistance, EVA, ACU Reduction Proportional to Number of Allies",
+    "korean": "쇼트 : 아군 수에 비례하여 적군 전기 저항, 회피, 적중 감소"
+  },
+  "1000109620": {
+    "english": "Punishment: Electric Resistance {0}% ([Torment]1)",
+    "korean": "징벌 : 전기 저항{0}%([고행]1)"
+  },
+  "1000109621": {
+    "english": "Heretic, Atonement: Electric Resistance {0}% ([Torment]1)",
+    "korean": "이단자여, 속죄하라 : 전기 저항{0}%([고행]1)"
+  },
+  "1000109622": {
+    "english": "Wings of Judgment: Designated Defender (Attacker/Support)",
+    "korean": "심판의 날개 : 지정 보호(공격기/지원기)"
+  },
+  "1000109623": {
+    "english": "Deepening Faith: Damage Received {0}% Reduction ([Torment]1)",
+    "korean": "깊어지는 신앙 : 받는 피해 {0}%감소([고행]1)"
+  },
+  "1000109624": {
+    "english": "Final Crusade: ATK {0}% (EVA Reduction / Damage Taken)",
+    "korean": "최후의 성전 : 공격력{0}%(회피 감소/피격)"
+  },
+  "1000109625": {
+    "english": "Punishment: Electric Resistance {0}% ([Torment]2)",
+    "korean": "징벌 : 전기 저항{0}%([고행]2)"
+  },
+  "1000109626": {
+    "english": "Punishment: Electric Resistance {0}% ([Torment]3)",
+    "korean": "징벌 : 전기 저항{0}%([고행]3)"
+  },
+  "1000109627": {
+    "english": "Punishment: Electric Resistance {0}% ([Torment]4)",
+    "korean": "징벌 : 전기 저항{0}%([고행]4)"
+  },
+  "1000109628": {
+    "english": "Punishment: Electric Resistance {0}% ([Torment]5)",
+    "korean": "징벌 : 전기 저항{0}%([고행]5)"
+  },
+  "1000109629": {
+    "english": "Heretic, Atonement: Electric Resistance {0}% ([Torment]2)",
+    "korean": "이단자여, 속죄하라 : 전기 저항{0}%([고행]2)"
+  },
+  "1000109630": {
+    "english": "Heretic, Atonement: Electric Resistance {0}% ([Torment]3)",
+    "korean": "이단자여, 속죄하라 : 전기 저항{0}%([고행]3)"
+  },
+  "1000109631": {
+    "english": "Heretic, Atonement: Electric Resistance {0}% ([Torment] 4)",
+    "korean": "이단자여, 속죄하라 : 전기 저항{0}%([고행]4)"
+  },
+  "1000109632": {
+    "english": "Heretic, Atonement: Electric Resistance {0}% ([Torment] 5)",
+    "korean": "이단자여, 속죄하라 : 전기 저항{0}%([고행]5)"
+  },
+  "1000109633": {
+    "english": "Wings of Judgement: Electric Resistance {0}%",
+    "korean": "심판의 날개 : 전기 저항{0}%"
+  },
+  "1000109634": {
+    "english": "Deepening Faith: Reduces damage taken by {0}% ([Travail]2)",
+    "korean": "깊어지는 신앙 : 받는 피해 {0}%감소([고행]2)"
+  },
+  "1000109635": {
+    "english": "Deepening Faith: Reduces damage taken by {0}% ([Travail] 3)",
+    "korean": "깊어지는 신앙 : 받는 피해 {0}%감소([고행]3)"
+  },
+  "1000109636": {
+    "english": "Deepening Faith: Reduces damage taken by {0}% ([Travail] 4)",
+    "korean": "깊어지는 신앙 : 받는 피해 {0}%감소([고행]4)"
+  },
+  "1000109637": {
+    "english": "Deepening Faith: Reduces damage taken by {0}% ([Travail] 5)",
+    "korean": "깊어지는 신앙 : 받는 피해 {0}%감소([고행]5)"
+  },
+  "1000109638": {
+    "english": "Deepening Faith: Signs",
+    "korean": "깊어지는 신앙 : 표식"
+  },
+  "1000109639": {
+    "english": "Deepening Faith: Asceticism",
+    "korean": "깊어지는 신앙 : 고행"
+  },
+  "1000109640": {
+    "english": "The Last Crusade: AP{0}",
+    "korean": "최후의 성전 : AP{0}"
+  },
+  "1000109641": {
+    "english": "Electromagnetic Resonance (Saraqael): ATK {0}%",
+    "korean": "전자기 공명 (사라카엘) : 공격력{0}%"
+  },
+  "1000109642": {
+    "english": "Neural Stimulation: ATK {0}% (Electric Attribute)",
+    "korean": "신경 자극 : 공격력{0}%(전기속성)"
+  },
+  "1000109643": {
+    "english": "Neural Stimulation: ACU {0}% (Electric Attribute/Mobile)",
+    "korean": "신경 자극 : 적중{0}%(전기속성/기동)"
+  },
+  "1000109644": {
+    "english": "Short: Electric Resistance {0}% (Ally 1)",
+    "korean": "쇼트 : 전기 저항{0}%(아군1)"
+  },
+  "1000109645": {
+    "english": "Short: Electric Resistance {0}% (Ally 2)",
+    "korean": "쇼트 : 전기 저항{0}%(아군2)"
+  },
+  "1000109646": {
+    "english": "Short: Electric Resistance {0}% (Ally 3)",
+    "korean": "쇼트 : 전기 저항{0}%(아군3)"
+  },
+  "1000109647": {
+    "english": "Short: Electric Resistance {0}% (Ally 4)",
+    "korean": "쇼트 : 전기 저항{0}%(아군4)"
+  },
+  "1000109648": {
+    "english": "Short: Electric Resistance {0}% (Ally 5)",
+    "korean": "쇼트 : 전기 저항{0}%(아군5)"
+  },
+  "1000109649": {
+    "english": "Wings of Judgment: Electric Resistance {0}%",
+    "korean": "심판의 날개 : 전기 저항{0}%"
+  },
+  "1000109650": {
+    "english": "Deepening Faith: Mark (When Hit by Electric Attribute)",
+    "korean": "깊어지는 신앙 : 표식(전기 속성 피격 시)"
+  },
+  "1000109651": {
+    "english": "Final Crusade: Electric Resistance {0}% (EVA Reduction / Damage Taken)",
+    "korean": "최후의 성전 : 전기 저항{0}%(회피 감소/피격)"
+  },
+  "1000109652": {
+    "english": "Neural Stimulation: AP {0}% (Electric Attribute)",
+    "korean": "신경 자극 : 행동력{0}%(전기속성)"
+  },
+  "1000109653": {
+    "english": "Neural Stimulation: EVA {0}% (Electric Attribute/Mobile)",
+    "korean": "신경 자극 : 회피{0}%(전기속성/기동)"
+  },
+  "1000109654": {
+    "english": "Short: EVA {0}% (Ally 1)",
+    "korean": "쇼트 : 회피{0}%(아군1)"
+  },
+  "1000109655": {
+    "english": "Short: EVA {0}% (Ally 2)",
+    "korean": "쇼트 : 회피{0}%(아군2)"
+  },
+  "1000109656": {
+    "english": "Short: EVA {0}% (Ally 3)",
+    "korean": "쇼트 : 회피{0}%(아군3)"
+  },
+  "1000109657": {
+    "english": "Short: EVA {0}% (Ally 4)",
+    "korean": "쇼트 : 회피{0}%(아군4)"
+  },
+  "1000109658": {
+    "english": "Short: EVA {0}% (Ally 5)",
+    "korean": "쇼트 : 회피{0}%(아군5)"
+  },
+  "1000109659": {
+    "english": "Final Crusade: Damage Received {0}% Reduction (EVA Reduction / Damage Taken)",
+    "korean": "최후의 성전 : 받는 피해 {0}%감소(회피 감소/피격)"
+  },
+  "1000109660": {
+    "english": "Neural Stimulation: CRIT {0}% (Electric Attribute/Mobile)",
+    "korean": "신경 자극 : 치명타{0}%(전기속성/기동)"
+  },
+  "1000109661": {
+    "english": "Neural Stimulation: CRIT {0}% (Electric Attribute/Mobile)",
+    "korean": "신경 자극 : 치명타{0}%(전기속성/기동)"
+  },
+  "1000109662": {
+    "english": "Short: ACU {0}% (Ally 1)",
+    "korean": "쇼트 : 적중{0}%(아군1)"
+  },
+  "1000109663": {
+    "english": "Short: ACU {0}% (Ally 2)",
+    "korean": "쇼트 : 적중{0}%(아군2)"
+  },
+  "1000109664": {
+    "english": "Short: ACU {0}% (Ally 3)",
+    "korean": "쇼트 : 적중{0}%(아군3)"
+  },
+  "1000109665": {
+    "english": "Short: ACU {0}% (Ally 4)",
+    "korean": "쇼트 : 적중{0}%(아군4)"
+  },
+  "1000109666": {
+    "english": "Short: ACU {0}% (Ally 5)",
+    "korean": "쇼트 : 적중{0}%(아군5)"
+  },
+  "1000109667": {
+    "english": "Final Crusade: AP {0} (Self/Mark/Damage Taken)",
+    "korean": "최후의 성전 : AP{0}(자신/표식/피격)"
+  },
+  "1000109668": {
+    "english": "Neural Stimulation: ACU {0}% (Electric Attribute/Mobile)",
+    "korean": "신경 자극 : 적중{0}%(전기속성/기동)"
+  },
+  "1000109669": {
+    "english": "Neural Stimulation: EVA {0}% (Electric Attribute/Mobile)",
+    "korean": "신경 자극 : 회피{0}%(전기속성/기동)"
+  },
+  "1000109670": {
+    "english": "Deepening Faith: Torment (When Hit)",
+    "korean": "깊어지는 신앙 : 고행(피격 시)"
+  },
+  "1000109671": {
+    "english": "Deepening Faith (Azazel): ATK 100%",
+    "korean": "깊어지는 신앙 (아자젤) : 공격력100%"
+  },
+  "1000109672": {
+    "english": "The Last Crusade: Damage taken {0}% (enemy)",
+    "korean": "최후의 성전 : 받는 피해{0}%(적군)"
+  },
+  "1000109673": {
+    "english": "Final Crusade: Damage taken {0}%",
+    "korean": "최후의 성전 : 받는 피해{0}%"
+  },
+  "1000109674": {
+    "english": "Defense Field: Improved shield / Reduce action speed",
+    "korean": "방어 역장 : 개량형 방어막 / 행동력 감소"
+  },
+  "1000109675": {
+    "english": "Improved Defense Field: Shield {0}",
+    "korean": "개량형 방어 역장 : 방어막{0}"
+  },
+  "1000109676": {
+    "english": "Improved Defense Field: Action speed {0}%",
+    "korean": "개량형 방어 역장 : 행동력 {0}%"
+  },
+  "1000109677": {
+    "english": "Deepening Faith: Electric resistance {0}%",
+    "korean": "깊어지는 신앙 : 전기 저항{0}%"
+  },
+  "1000109678": {
+    "english": "Breath of the Sun: Fire damage / Continuous fire damage / Reduce fire resistance / Immobilize",
+    "korean": "태양 숨결 : 화염 피해 / 화염 지속 피해 / 화염 저항 감소 / 이동 불가"
+  },
+  "1000109679": {
+    "english": "Exorcism Technique: Increase cold resistance / Shield / Increase evasion for self and light units",
+    "korean": "퇴마의 술법 : 냉기 저항 증가 / 방어막 / 자신 및 경장형 회피 증가"
+  },
+  "1000109680": {
+    "english": "Body that Repels Demons: Increase self cold resistance / Reduce damage taken / Increase AP",
+    "korean": "마를 물리는 신체 : 자신 냉기 저항 증가 / 받는 피해 감소 / AP 증가"
+  },
+  "1000109681": {
+    "english": "Holy Radiance: Increase cold resistance / Increase attack power for attackers / Increase action speed for supporters",
+    "korean": "신성한 광휘 : 냉기 저항 증가 / 공격기 공격력 증가 / 지원기 행동력 증가"
+  },
+  "1000109682": {
+    "english": "Left Eye of the Creator God: Scout / Nullify self damage / Reduce enemy effect resistance and fire resistance",
+    "korean": "창조신의 왼쪽 눈 : 정찰 / 자신 피해 무효화 / 적 효과 저항, 화염 저항 감소"
+  },
+  "1000109683": {
+    "english": "Breath of the Sun: Continuous fire damage {0}",
+    "korean": "태양 숨결 : 지속 화염 피해 {0}"
+  },
+  "1000109684": {
+    "english": "Exorcism Technique: Cold resistance {0}%",
+    "korean": "퇴마의 술법 : 냉기 저항{0}%"
+  },
+  "1000109685": {
+    "english": "Body that bites the devil: Cold resistance {0}%",
+    "korean": "마를 물리는 신체 : 냉기 저항{0}%"
+  },
+  "1000109686": {
+    "english": "Holy Radiance: Designated protection",
+    "korean": "신성한 광휘 : 지정 보호"
+  },
+  "1000109687": {
+    "english": "Left Eye of the Creator: Reduces Effect Resistance by {0}%",
+    "korean": "창조신의 왼쪽 눈 : 효과 저항 감소 {0}%"
+  },
+  "1000109688": {
+    "english": "Exorcism Technique: EVA {0}%",
+    "korean": "퇴마의 술법 : 회피{0}%"
+  },
+  "1000109689": {
+    "english": "Body Repelling Decay: AP {0}",
+    "korean": "마를 물리는 신체 : AP{0}"
+  },
+  "1000109690": {
+    "english": "Left Eye of the Creator God: Recon Active",
+    "korean": "창조신의 왼쪽 눈 : 정찰 활성화"
+  },
+  "1000109691": {
+    "english": "Left Eye of the Creator God: Damage Nullification {0} times",
+    "korean": "창조신의 왼쪽 눈 : 피해 무효화 {0}회"
+  },
+  "1000109692": {
+    "english": "Divine Radiance: ATK {0}% (Attacker)",
+    "korean": "신성한 광휘 : 공격력{0}%(공격기)"
+  },
+  "1000109693": {
+    "english": "Divine Radiance: AP {0}% (Supporter)",
+    "korean": "신성한 광휘 : 행동력{0}%(지원기)"
+  },
+  "1000109694": {
+    "english": "Breath of the Sun: Fire resistance {0}%",
+    "korean": "태양 숨결 : 화염 저항{0}%"
+  },
+  "1000109695": {
+    "english": "Exorcism Technique: Shield {0}",
+    "korean": "퇴마의 술법 : 방어막{0}"
+  },
+  "1000109696": {
+    "english": "Body Repelling Decay: Damage Received {0}% Reduction",
+    "korean": "마를 물리는 신체 : 받는 피해 {0}%감소"
+  },
+  "1000109697": {
+    "english": "Holy Radiance: Attack power {0}% (Attacker)",
+    "korean": "신성한 광휘 : 공격력{0}%(공격기)"
+  },
+  "1000109698": {
+    "english": "Left Eye of the Creator God: Fire resistance {0}%",
+    "korean": "창조신의 왼쪽 눈 : 화염 저항{0}%"
+  },
+  "1000109699": {
+    "english": "Breath of the Sun: Immobilize",
+    "korean": "태양 숨결 : 이동 불가"
+  },
+  "1000109700": {
+    "english": "Exorcism Technique: Activate talisman (Self)",
+    "korean": "퇴마의 술법 : 수호부 활성화(자신)"
+  },
+  "1000109701": {
+    "english": "Body that Repels Demons: AP {0} (At battle start)",
+    "korean": "마를 물리는 신체 : AP{0}(전투 시작)"
+  },
+  "1000109702": {
+    "english": "Holy Radiance: Action speed {0}% (Supporter)",
+    "korean": "신성한 광휘 : 행동력{0}%(지원기)"
+  },
+  "1000109703": {
+    "english": "Left Eye of the Creator God: Activate scouting (Self)",
+    "korean": "창조신의 왼쪽 눈 : 정찰 활성화(자신)"
+  },
+  "1000109704": {
+    "english": "Exorcism Technique: Evasion{0}%(Guardian Charm)",
+    "korean": "퇴마의 술법 : 회피{0}%(수호부)"
+  },
+  "1000109705": {
+    "english": "Left Eye of the Creator God: Damage nullification {0} times (on scout/self)",
+    "korean": "창조신의 왼쪽 눈 : 피해 무효화 {0}회(정찰시/자신)"
+  },
+  "1000109706": {
+    "english": "Shock Bomb: Reduce action speed",
+    "korean": "쇼크 밤 : 행동력 감소"
+  },
+  "1000109707": {
+    "english": "Indiscriminate Bombardment: Increase damage to action-speed-reduced targets",
+    "korean": "무차별 폭격 : 행동력 감소 대상 피해량 증가"
+  },
+  "1000109708": {
+    "english": "Speed Down: Reduce action speed / Increase critical",
+    "korean": "스피드 다운 : 행동력 감소 / 치명타 증가"
+  },
+  "1000109709": {
+    "english": "Perfect Charge: Gain electric attribute / Increase action speed",
+    "korean": "완벽 충전 : 전기 속성 획득 / 행동력 증가"
+  },
+  "1000109710": {
+    "english": "Bomber Opportunity Capture: Reduce evasion / Counterattack",
+    "korean": "봄버 기회 포착 : 회피 감소 / 반격"
+  },
+  "1000109711": {
+    "english": "Speed Down: Reduce action speed / Increase critical",
+    "korean": "스피드 다운 : 행동력 감소 / 치명타 증가"
+  },
+  "1000109712": {
+    "english": "Bomber Opportunity Capture: Reduce evasion / Counterattack",
+    "korean": "봄버 기회 포착 : 회피 감소 / 반격"
+  },
+  "1000109713": {
+    "english": "Shock Bomb: Action speed {0}%",
+    "korean": "쇼크 밤 : 행동력{0}%"
+  },
+  "1000109714": {
+    "english": "Indiscriminate Bombardment: Damage {0}%",
+    "korean": "무차별 폭격 : 피해량{0}%"
+  },
+  "1000109715": {
+    "english": "Speed Down: Critical {0}%",
+    "korean": "스피드 다운 : 치명타{0}%"
+  },
+  "1000109716": {
+    "english": "Perfect Charge: Action speed {0}%",
+    "korean": "완벽 충전 : 행동력{0}%"
+  },
+  "1000109717": {
+    "english": "Bomber Opportunity Capture: Evasion {0}%",
+    "korean": "봄버 기회 포착 : 회피{0}%"
+  },
+  "1000109718": {
+    "english": "Speed Down: Action speed {0}%",
+    "korean": "스피드 다운 : 행동력{0}%"
+  },
+  "1000109719": {
+    "english": "Bomber Opportunity Capture: Counterattack at {0}% power",
+    "korean": "봄버 기회 포착 : {0}% 위력으로 반격"
+  },
+  "1000109720": {
+    "english": "Divine Radiance: Cold Resistance {0}%",
+    "korean": "신성한 광휘 : 냉기 저항{0}%"
+  },
+  "1000109721": {
+    "english": "D-Don’t come any closer!",
+    "korean": "가, 가까이 오지 말거라!"
+  },
+  "1000109722": {
+    "english": "So hungry...",
+    "korean": "너무 배고파…"
+  },
+  "1000109723": {
+    "english": "Killer Grenade: Enemy Damage Taken Increase / ACU Reduction / Cooperative Attack",
+    "korean": "죽여주는 수류탄 : 적의 받는 피해 증가 / 적중 감소 / 협동 공격"
+  },
+  "1000109724": {
+    "english": "Shotgun Barrage: Additional Damage on CRIT / Enemy DEF Reduction",
+    "korean": "샷건 연사 : 치명타 시 추가 피해 / 적 방어력 감소"
+  },
+  "1000109725": {
+    "english": "Assault Start: Increase action speed / Increase attack power",
+    "korean": "돌격 개시 : 행동력 증가 / 공격력 증가"
+  },
+  "1000109726": {
+    "english": "Craving for Love: Increase damage vs heavy armor / Increase evasion / Increase self attack power",
+    "korean": "애정 갈구 : 대 중장 공격력 증가 / 회피 증가 / 자신 공격력 증가"
+  },
+  "1000109727": {
+    "english": "Ruthless Assassin: Self shield, ignore damage reduction / When killing enemy, increase AP for all allied light units except self",
+    "korean": "냉혹한 암살자 : 자신 방어막, 피해 감소 무시 / 적 처치 시 자신을 제외한 아군 경장 전체 AP 증가"
+  },
+  "1000109728": {
+    "english": "Share Weakness: Increase attack power and critical for allied light units proportional to their number",
+    "korean": "약점 공유 : 아군 경장형 전투원 수에 비례하여 아군 경장형의 공격력과 치명타 증가"
+  },
+  "1000109729": {
+    "english": "Killer Grenade: Damage Received {0}% (Horde Member 1)",
+    "korean": "죽여주는 수류탄 : 받는 피해{0}%(호드대원1)"
+  },
+  "1000109730": {
+    "english": "Shotgun Barrage: Damage {0}% (On CRIT)",
+    "korean": "샷건 연사 : 피해량{0}%(치명타시)"
+  },
+  "1000109731": {
+    "english": "Assault Commence: ATK {0}% (Horde Member 1)",
+    "korean": "돌격 개시 : 공격력{0}%(호드대원1)"
+  },
+  "1000109732": {
+    "english": "Killer Grenade: Damage Received {0}% (Quick Camel)",
+    "korean": "죽여주는 수류탄 : 받는 피해{0}%(퀵 카멜)"
+  },
+  "1000109733": {
+    "english": "Killer Grenade: Damage Received {0}% (Swift Khan)",
+    "korean": "죽여주는 수류탄 : 받는 피해{0}%(신속의 칸)"
+  },
+  "1000109734": {
+    "english": "Killer Grenade: Damage Received {0}% (Salamander)",
+    "korean": "죽여주는 수류탄 : 받는 피해{0}%(샐러맨더)"
+  },
+  "1000109735": {
+    "english": "Killer Grenade: Damage Received {0}% (Talons Feather)",
+    "korean": "죽여주는 수류탄 : 받는 피해{0}%(탈론페더)"
+  },
+  "1000109736": {
+    "english": "Killer Grenade: Damage Received {0}% (War Wolf)",
+    "korean": "죽여주는 수류탄 : 받는 피해{0}%(워울프)"
+  },
+  "1000109737": {
+    "english": "Shotgun Barrage: DEF {0}% (Quick Camel)",
+    "korean": "샷건 연사 : 방어력{0}%(퀵 카멜)"
+  },
+  "1000109738": {
+    "english": "Shotgun Barrage: DEF {0}% (Swift Khan)",
+    "korean": "샷건 연사 : 방어력{0}%(신속의 칸)"
+  },
+  "1000109739": {
+    "english": "Shotgun Barrage: DEF {0}% (Salamander)",
+    "korean": "샷건 연사 : 방어력{0}%(샐러맨더)"
+  },
+  "1000109740": {
+    "english": "Shotgun Barrage: DEF {0}% (Talons Feather)",
+    "korean": "샷건 연사 : 방어력{0}%(탈론페더)"
+  },
+  "1000109741": {
+    "english": "Shotgun Barrage: DEF {0}% (War Wolf)",
+    "korean": "샷건 연사 : 방어력{0}%(워울프)"
+  },
+  "1000109742": {
+    "english": "Assault Commence: ATK {0}% (Quick Camel)",
+    "korean": "돌격 개시 : 공격력{0}%(퀵 카멜)"
+  },
+  "1000109743": {
+    "english": "Assault Commence: ATK {0}% (Swift Khan)",
+    "korean": "돌격 개시 : 공격력{0}%(신속의 칸)"
+  },
+  "1000109744": {
+    "english": "Assault Commence: ATK {0}% (Salamander)",
+    "korean": "돌격 개시 : 공격력{0}%(샐러맨더)"
+  },
+  "1000109745": {
+    "english": "Assault Commence: ATK {0}% (Talons Feather)",
+    "korean": "돌격 개시 : 공격력{0}%(탈론페더)"
+  },
+  "1000109746": {
+    "english": "Assault Commence: ATK {0}% (War Wolf)",
+    "korean": "돌격 개시 : 공격력{0}%(워울프)"
+  },
+  "1000109747": {
+    "english": "Craving for Love: Evasion {0}%",
+    "korean": "애정 갈구 : 회피{0}%"
+  },
+  "1000109748": {
+    "english": "Affection Craving: ATK {0}%",
+    "korean": "애정 갈구 : 공격력{0}%"
+  },
+  "1000109749": {
+    "english": "Ruthless Assassin: AP {0} (Self)",
+    "korean": "냉혹한 암살자 : AP{0}(자신)"
+  },
+  "1000109750": {
+    "english": "Weakness Share: CRIT {0}% (Light Armor 1/Self)",
+    "korean": "약점 공유 : 치명타{0}%(경장1/자신)"
+  },
+  "1000109751": {
+    "english": "Weakness Share: CRIT {0}% (Light Armor 2/Self)",
+    "korean": "약점 공유 : 치명타{0}%(경장2/자신)"
+  },
+  "1000109752": {
+    "english": "Weakness Share: CRIT {0}% (Light Armor 3/Self)",
+    "korean": "약점 공유 : 치명타{0}%(경장3/자신)"
+  },
+  "1000109753": {
+    "english": "Weakness Share: CRIT {0}% (Light Armor 4/Self)",
+    "korean": "약점 공유 : 치명타{0}%(경장4/자신)"
+  },
+  "1000109754": {
+    "english": "Weakness Share: CRIT {0}% (Light Armor 5/Self)",
+    "korean": "약점 공유 : 치명타{0}%(경장5/자신)"
+  },
+  "1000109755": {
+    "english": "Weakness Share: CRIT {0}% (Light Armor 2)",
+    "korean": "약점 공유 : 치명타{0}%(경장2)"
+  },
+  "1000109756": {
+    "english": "Weakness Share: CRIT {0}% (Light Armor 3)",
+    "korean": "약점 공유 : 치명타{0}%(경장3)"
+  },
+  "1000109757": {
+    "english": "Weakness Share: CRIT {0}% (Light Armor 4)",
+    "korean": "약점 공유 : 치명타{0}%(경장4)"
+  },
+  "1000109758": {
+    "english": "Weakness Share: CRIT {0}% (Light Armor 5)",
+    "korean": "약점 공유 : 치명타{0}%(경장5)"
+  },
+  "1000109759": {
+    "english": "Killer Grenade: ACU {0}% (Horde Member 1)",
+    "korean": "죽여주는 수류탄 : 적중{0}%(호드대원1)"
+  },
+  "1000109760": {
+    "english": "Shotgun Barrage: DEF {0}% (Horde Member 1)",
+    "korean": "샷건 연사 : 방어력{0}%(호드대원1)"
+  },
+  "1000109761": {
+    "english": "Assault Commence: AP {0}% (Horde Member 1)",
+    "korean": "돌격 개시 : 행동력{0}%(호드대원1)"
+  },
+  "1000109762": {
+    "english": "Killer Grenade: ACU {0}% (Quick Camel)",
+    "korean": "죽여주는 수류탄 : 적중{0}%(퀵 카멜)"
+  },
+  "1000109763": {
+    "english": "Killer Grenade: ACU {0}% (Swift Khan)",
+    "korean": "죽여주는 수류탄 : 적중{0}%(신속의 칸)"
+  },
+  "1000109764": {
+    "english": "Killer Grenade: ACU {0}% (Salamander)",
+    "korean": "죽여주는 수류탄 : 적중{0}%(샐러맨더)"
+  },
+  "1000109765": {
+    "english": "Killer Grenade: ACU {0}% (Talons Feather)",
+    "korean": "죽여주는 수류탄 : 적중{0}%(탈론페더)"
+  },
+  "1000109766": {
+    "english": "Killer Grenade: ACU {0}% (War Wolf)",
+    "korean": "죽여주는 수류탄 : 적중{0}%(워울프)"
+  },
+  "1000109767": {
+    "english": "Assault Commence: AP {0}% (Quick Camel)",
+    "korean": "돌격 개시 : 행동력{0}%(퀵 카멜)"
+  },
+  "1000109768": {
+    "english": "Assault Commence: AP {0}% (Swift Khan)",
+    "korean": "돌격 개시 : 행동력{0}%(신속의 칸)"
+  },
+  "1000109769": {
+    "english": "Assault Commence: AP {0}% (Salamander)",
+    "korean": "돌격 개시 : 행동력{0}%(샐러맨더)"
+  },
+  "1000109770": {
+    "english": "Assault Commence: AP {0}% (Talons Feather)",
+    "korean": "돌격 개시 : 행동력{0}%(탈론페더)"
+  },
+  "1000109771": {
+    "english": "Assault Commence: AP {0}% (War Wolf)",
+    "korean": "돌격 개시 : 행동력{0}%(워울프)"
+  },
+  "1000109772": {
+    "english": "Craving for Love: Damage vs heavy armor {0}%",
+    "korean": "애정 갈구 : 대 중장 피해량{0}%"
+  },
+  "1000109773": {
+    "english": "Ruthless Assassin: Ignore Shield / Damage Reduction (Self)",
+    "korean": "냉혹한 암살자 : 방어막/피해 감소 무시(자신)"
+  },
+  "1000109774": {
+    "english": "Killer Grenade: Quick Camel 180mm Rocket Launcher Cooperative Attack",
+    "korean": "죽여주는 수류탄 : 퀵 카멜 180mm로켓포 협동 공격"
+  },
+  "1000109775": {
+    "english": "Craving for Love: Attack power {0}% (Self)",
+    "korean": "애정 갈구 : 공격력{0}%(자신)"
+  },
+  "1000109776": {
+    "english": "Affection Craving: ATK {0}% (Self)",
+    "korean": "애정 갈구 : 공격력{0}%(자신)"
+  },
+  "1000109777": {
+    "english": "Ruthless Assassin: AP {0} (Allied light units)",
+    "korean": "냉혹한 암살자 : AP{0}(아군경장전체)"
+  },
+  "1000109778": {
+    "english": "Share Weakness: Critical {0}% (Light 1)",
+    "korean": "약점 공유 : 치명타{0}%(경장1)"
+  },
+  "1000109779": {
+    "english": "Ruthless Assassin: Shield / Ignore damage reduction (Self)",
+    "korean": "냉혹한 암살자 : 방어막/피해 감소 무시(자신)"
+  },
+  "1000109780": {
+    "english": "Share Weakness: Critical {0}% (Self)",
+    "korean": "약점 공유 : 치명타{0}%(자신)"
+  },
+  "1000109781": {
+    "english": "Killer Grenade: Damage Received {0}% (Hyena)",
+    "korean": "죽여주는 수류탄 : 받는 피해{0}%(하이에나)"
+  },
+  "1000109782": {
+    "english": "Shotgun Barrage: DEF {0}% (Hyena)",
+    "korean": "샷건 연사 : 방어력{0}%(하이에나)"
+  },
+  "1000109783": {
+    "english": "Assault Commence: ATK {0}% (Hyena)",
+    "korean": "돌격 개시 : 공격력{0}%(하이에나)"
+  },
+  "1000109784": {
+    "english": "Killer Grenade: ACU {0}% (Hyena)",
+    "korean": "죽여주는 수류탄 : 적중{0}%(하이에나)"
+  },
+  "1000109785": {
+    "english": "Assault Commence: AP {0}% (Hyena)",
+    "korean": "돌격 개시 : 행동력{0}%(하이에나)"
+  },
+  "1000109786": {
+    "english": "Weakness Share: ATK {0}% (Light Armor 1/Self)",
+    "korean": "약점 공유 : 공격력{0}%(경장1/자신)"
+  },
+  "1000109787": {
+    "english": "Weakness Share: ATK {0}% (Light Armor 2/Self)",
+    "korean": "약점 공유 : 공격력{0}%(경장2/자신)"
+  },
+  "1000109788": {
+    "english": "Weakness Share: ATK {0}% (Light Armor 3/Self)",
+    "korean": "약점 공유 : 공격력{0}%(경장3/자신)"
+  },
+  "1000109789": {
+    "english": "Weakness Share: ATK {0}% (Light Armor 4/Self)",
+    "korean": "약점 공유 : 공격력{0}%(경장4/자신)"
+  },
+  "1000109790": {
+    "english": "Weakness Share: ATK {0}% (Light Armor 5/Self)",
+    "korean": "약점 공유 : 공격력{0}%(경장5/자신)"
+  },
+  "1000109791": {
+    "english": "Share Weakness: Attack power {0}% (Light 1)",
+    "korean": "약점 공유 : 공격력{0}%(경장1)"
+  },
+  "1000109792": {
+    "english": "Weakness Share: ATK {0}% (Light Armor 2)",
+    "korean": "약점 공유 : 공격력{0}%(경장2)"
+  },
+  "1000109793": {
+    "english": "Weakness Share: ATK {0}% (Light Armor 3)",
+    "korean": "약점 공유 : 공격력{0}%(경장3)"
+  },
+  "1000109794": {
+    "english": "Weakness Share: ATK {0}% (Light Armor 4)",
+    "korean": "약점 공유 : 공격력{0}%(경장4)"
+  },
+  "1000109795": {
+    "english": "Weakness Share: ATK {0}% (Light Armor 5)",
+    "korean": "약점 공유 : 공격력{0}%(경장5)"
+  },
+  "1000109796": {
+    "english": "Weakness Sharing: Attack Power{0}%(Self)",
+    "korean": "약점 공유 : 공격력{0}%(자신)"
+  },
+  "1000109797": {
+    "english": "Dust Storm: Mark / Increase evasion / Reduce damage taken",
+    "korean": "더스트 스톰 : 표식 / 회피 증가 / 받는 피해 감소"
+  },
+  "1000109798": {
+    "english": "Dust Storm: Mark",
+    "korean": "더스트 스톰 : 표식"
+  },
+  "1000109799": {
+    "english": "Dust Storm: EVA {0}%",
+    "korean": "더스트 스톰 : 회피{0}%"
+  },
+  "1000109800": {
+    "english": "Mobile Firing (AP: Self)",
+    "korean": "기동간 사격 (행동력 : 자신)"
+  },
+  "1000109801": {
+    "english": "Tactical Support: ATK Increase / Horde Member Ignore Shield / Damage Reduction (Sortie Order!)",
+    "korean": "기동전술 지원 : 공격력 증가 / 호드 대원 방어막/피해 감소 무시(출격 명령!)"
+  },
+  "1000109802": {
+    "english": "Long-range Bombardment: CRIT, Damage Increase",
+    "korean": "영거리 포격 : 치명타 시, 피해량 증가"
+  },
+  "1000109803": {
+    "english": "Desert Storm: CRIT Damage Increase",
+    "korean": "데저트 스톰 : 치명타 시 피해량 증가"
+  },
+  "1000109804": {
+    "english": "Focused Attack: Additional Damage to EVA-reduced Targets",
+    "korean": "집중 공격 : 회피 감소 대상에게 추가 피해"
+  },
+  "1000109805": {
+    "english": "Critical Strike: CRIT Additional Damage",
+    "korean": "회심의 일격 : 치명타 시 추가 피해"
+  },
+  "1000109806": {
+    "english": "XV-5 Auto Turret: Mark / Damage Received Increase",
+    "korean": "XV-5 오토 터렛 : 표식 지정 / 받는 피해 증가"
+  },
+  "1000109807": {
+    "english": "Flamethrower: High Fire Damage / Continuous Fire Damage",
+    "korean": "화염 방사: 높은 화염 피해 / 지속 화염 피해"
+  },
+  "1000109808": {
+    "english": "Linked Maneuver: AP {0}% (Self)",
+    "korean": "연계 기동 : 행동력{0}%(자신)"
+  },
+  "1000109809": {
+    "english": "Tactical Support: ATK {0}% (Light Armor)",
+    "korean": "기동전술 지원 : 공격력{0}%(경장)"
+  },
+  "1000109810": {
+    "english": "Tactical Support: ATK {0}%",
+    "korean": "기동전술 지원 : 공격력{0}%"
+  },
+  "1000109811": {
+    "english": "Tactical Support: ATK {0}%",
+    "korean": "기동전술 지원 : 공격력{0}%"
+  },
+  "1000109812": {
+    "english": "Tactical Support: Ignore Shield / Damage Reduction",
+    "korean": "기동전술 지원 : 방어막 / 피해 감소 무시"
+  },
+  "1000109813": {
+    "english": "Long-range Bombardment: [180mm Rocket Launcher] Cooperative Attack",
+    "korean": "영거리 포격 : [180mm로켓포] 협동 공격"
+  },
+  "1000109814": {
+    "english": "Desert Storm: [180mm Rocket Launcher] Cooperative Attack",
+    "korean": "데저트 스톰 : [180mm로켓포] 협동 공격"
+  },
+  "1000109815": {
+    "english": "Bayonet Firing: [180mm Rocket Launcher] Cooperative Attack",
+    "korean": "총검 사격 : [180mm로켓포] 협동 공격"
+  },
+  "1000109816": {
+    "english": "Bayonet Assault: [180mm Rocket Launcher] Cooperative Attack",
+    "korean": "총검 돌격 : [180mm로켓포] 협동 공격"
+  },
+  "1000109817": {
+    "english": "XV-5 Auto Turret: [180mm Rocket Launcher] Cooperative Attack",
+    "korean": "XV-5 오토 터렛 : [180mm로켓포] 협동 공격"
+  },
+  "1000109818": {
+    "english": "Flamethrower: [180mm Rocket Launcher] Cooperative Attack",
+    "korean": "화염 방사 : [180mm로켓포] 협동 공격"
+  },
+  "1000109819": {
+    "english": "Tactical Support: ATK {0}% (Horde Member)",
+    "korean": "기동전술 지원 : 공격력{0}%(호드대원)"
+  },
+  "1000109820": {
+    "english": "Tactical Support: Ignore Shield / Damage Reduction (Sortie Order!)",
+    "korean": "기동전술 지원 : 방어막/피해 감소 무시(출격 명령!)"
+  },
+  "1000109821": {
+    "english": "Linked Maneuver: AP {0}% (War Wolf)",
+    "korean": "연계 기동 : 행동력{0}%(워울프)"
+  },
+  "1000109822": {
+    "english": "Linked Maneuver: AP {0}% (Talons Feather)",
+    "korean": "연계 기동 : 행동력{0}%(탈론페더)"
+  },
+  "1000109823": {
+    "english": "Linked Maneuver: AP {0}% (Salamander)",
+    "korean": "연계 기동 : 행동력{0}%(샐러맨더)"
+  },
+  "1000109824": {
+    "english": "Linked Maneuver: AP {0}% (Hyena)",
+    "korean": "연계 기동 : 행동력{0}%(하이에나)"
+  },
+  "1000109825": {
+    "english": "Linked Maneuver: AP {0}% (Swift Khan)",
+    "korean": "연계 기동 : 행동력{0}%(신속의칸)"
+  },
+  "1000109826": {
+    "english": "Hungry Wolf: Sortie Order!",
+    "korean": "굶주린 늑대 : 출격 명령!"
+  },
+  "1000109827": {
+    "english": "Dust Storm: Damage taken reduction {0}%",
+    "korean": "더스트 스톰 : 받는 피해 {0}% 감소"
+  },
+  "1000109828": {
+    "english": "L.R.C Bullet: Anti-light/heavy attack Lv.4 / Defense penetration Lv.4",
+    "korean": "L.R.C 탄환 : 대 경장/중장 공격 Lv.4 / 방어관통 Lv.4"
+  },
+  "1000109829": {
+    "english": "L.R.C Bullet: Damage vs light armor {0}%",
+    "korean": "L.R.C 탄환 : 대 경장형 피해량 {0}%"
+  },
+  "1000109830": {
+    "english": "L.R.C Bullet: Damage vs heavy armor {0}%",
+    "korean": "L.R.C 탄환 : 대 중장형 피해량 {0}%"
+  },
+  "1000109831": {
+    "english": "L.R.C Bullet: Defense penetration {0}%",
+    "korean": "L.R.C 탄환 : 방어 관통 {0}%"
+  },
+  "1000109832": {
+    "english": "Claws of Light: Reduce attack power / Defense / Accuracy / Action speed",
+    "korean": "광속의 손톱 : 공격력 / 방어력 / 적중 / 행동력 감소"
+  },
+  "1000109833": {
+    "english": "Claws of Blood: Remove buffs / Continuous physical damage",
+    "korean": "피의 손톱 : 강화 효과 해제 / 지속 물리 피해"
+  },
+  "1000109834": {
+    "english": "Slaughter Preparation: Increase attack power / Accuracy / Action speed / Effect resistance",
+    "korean": "살육 준비 : 공격력 / 적중 / 행동력 / 효과 저항 증가"
+  },
+  "1000109835": {
+    "english": "Reinforced Shell: Minimize damage",
+    "korean": "강화 외피 : 피해 최소화"
+  },
+  "1000109836": {
+    "english": "Frenzy: Shield / Ignore damage reduction / Extra attack",
+    "korean": "광란 : 방어막 / 피해 감소 무시 / 재공격"
+  },
+  "1000109837": {
+    "english": "Claws of Light: Attack power {0}%",
+    "korean": "광속의 손톱 : 공격력 {0}%"
+  },
+  "1000109838": {
+    "english": "Blazing Claw: ATK {0}%",
+    "korean": "광속의 손톱 : 공격력 {0}%"
+  },
+  "1000109839": {
+    "english": "Bleed: Remove all buff effects",
+    "korean": "출혈 : 모든 강화 효과 해제"
+  },
+  "1000109840": {
+    "english": "Bleeding: Continuous Physical Damage {0}",
+    "korean": "출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109841": {
+    "english": "Severe Bleeding: Continuous Physical Damage {0}",
+    "korean": "대 출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109842": {
+    "english": "Slaughter Preparation: Attack power {0}%",
+    "korean": "살육 준비 : 공격력{0}%"
+  },
+  "1000109843": {
+    "english": "Killing Preparation: ATK {0}%",
+    "korean": "살육 준비 : 공격력{0}%"
+  },
+  "1000109844": {
+    "english": "Killing Preparation: ATK {0}%",
+    "korean": "살육 준비 : 공격력{0}%"
+  },
+  "1000109845": {
+    "english": "Killing Preparation: ATK {0}%",
+    "korean": "살육 준비 : 공격력{0}%"
+  },
+  "1000109846": {
+    "english": "Killing Preparation: ATK {0}%",
+    "korean": "살육 준비 : 공격력{0}%"
+  },
+  "1000109847": {
+    "english": "Reinforced Shell: Minimize damage (2 times)",
+    "korean": "강화 외피 : 피해 최소화 (2회)"
+  },
+  "1000109848": {
+    "english": "Reinforced Shell: Minimize Damage (4 times)",
+    "korean": "강화 외피 : 피해 최소화 (4회)"
+  },
+  "1000109849": {
+    "english": "Reinforced Shell: Minimize Damage (6 times)",
+    "korean": "강화 외피 : 피해 최소화 (6회)"
+  },
+  "1000109850": {
+    "english": "Reinforced Shell: Minimize Damage (8 times)",
+    "korean": "강화 외피 : 피해 최소화 (8회)"
+  },
+  "1000109851": {
+    "english": "Reinforced Shell: Minimize Damage (10 times)",
+    "korean": "강화 외피 : 피해 최소화 (10회)"
+  },
+  "1000109852": {
+    "english": "Frenzy",
+    "korean": "광란"
+  },
+  "1000109853": {
+    "english": "Frenzy: Ignores shields/damage reduction",
+    "korean": "광란 : 방어막 / 피해 감소 무시"
+  },
+  "1000109854": {
+    "english": "The frenzy begins",
+    "korean": "광란 시작"
+  },
+  "1000109855": {
+    "english": "Bleeding: Removes all buffs",
+    "korean": "출혈 : 모든 강화 효과 해제"
+  },
+  "1000109856": {
+    "english": "Bleeding: {0} continuous physical damage",
+    "korean": "출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109857": {
+    "english": "Great Bleeding: {0} continuous physical damage",
+    "korean": "대 출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109858": {
+    "english": "Bleeding: Removes all buffs",
+    "korean": "출혈 : 모든 강화 효과 해제"
+  },
+  "1000109859": {
+    "english": "Bleeding: {0} continuous physical damage",
+    "korean": "출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109860": {
+    "english": "Great Bleeding: {0} continuous physical damage",
+    "korean": "대 출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109861": {
+    "english": "Bleeding: Removes all buffs",
+    "korean": "출혈 : 모든 강화 효과 해제"
+  },
+  "1000109862": {
+    "english": "Bleeding: {0} continuous physical damage",
+    "korean": "출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109863": {
+    "english": "Great Bleeding: {0} continuous physical damage",
+    "korean": "대 출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109864": {
+    "english": "Bleeding: Removes all buffs",
+    "korean": "출혈 : 모든 강화 효과 해제"
+  },
+  "1000109865": {
+    "english": "Bleeding: {0} continuous physical damage",
+    "korean": "출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109866": {
+    "english": "Great Bleeding: {0} continuous physical damage",
+    "korean": "대 출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109867": {
+    "english": "Bleeding: Removes all buffs",
+    "korean": "출혈 : 모든 강화 효과 해제"
+  },
+  "1000109868": {
+    "english": "Bleeding: {0} continuous physical damage",
+    "korean": "출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109869": {
+    "english": "Great Bleeding: {0} continuous physical damage",
+    "korean": "대 출혈 : 지속 물리 피해 {0}"
+  },
+  "1000109870": {
+    "english": "Claws of Light: Defense {0}%",
+    "korean": "광속의 손톱 : 방어력 {0}%"
+  },
+  "1000109871": {
+    "english": "Claws of Light: {0}% Defense",
+    "korean": "광속의 손톱 : 방어력 {0}%"
+  },
+  "1000109872": {
+    "english": "Slaughter Preparation: Accuracy {0}%",
+    "korean": "살육 준비 : 적중{0}%"
+  },
+  "1000109873": {
+    "english": "Preparing for the Slaughter: ACU {0}%",
+    "korean": "살육 준비 : 적중{0}%"
+  },
+  "1000109874": {
+    "english": "Preparing for the Slaughter: ACU {0}%",
+    "korean": "살육 준비 : 적중{0}%"
+  },
+  "1000109875": {
+    "english": "Preparing for the Slaughter: ACU {0}%",
+    "korean": "살육 준비 : 적중{0}%"
+  },
+  "1000109876": {
+    "english": "Preparing for the Slaughter: ACU {0}%",
+    "korean": "살육 준비 : 적중{0}%"
+  },
+  "1000109877": {
+    "english": "Frenzy: Reattack",
+    "korean": "광란 : 재공격"
+  },
+  "1000109878": {
+    "english": "Claws of Light: Accuracy {0}%",
+    "korean": "광속의 손톱 : 적중 {0}%"
+  },
+  "1000109879": {
+    "english": "Claws of Light: ACU {0}%",
+    "korean": "광속의 손톱 : 적중 {0}%"
+  },
+  "1000109880": {
+    "english": "Slaughter Preparation: Action speed {0}%",
+    "korean": "살육 준비 : 행동력{0}%"
+  },
+  "1000109881": {
+    "english": "Ready to Kill: {0}% AP",
+    "korean": "살육 준비 : 행동력{0}%"
+  },
+  "1000109882": {
+    "english": "Ready to Kill: {0}% AP",
+    "korean": "살육 준비 : 행동력{0}%"
+  },
+  "1000109883": {
+    "english": "Ready to Kill: {0}% AP",
+    "korean": "살육 준비 : 행동력{0}%"
+  },
+  "1000109884": {
+    "english": "Ready to Kill: {0}% AP",
+    "korean": "살육 준비 : 행동력{0}%"
+  },
+  "1000109885": {
+    "english": "Light Speed ​​Claws: Action Points {0}%",
+    "korean": "광속의 손톱 : 행동력 {0}%"
+  },
+  "1000109886": {
+    "english": "Claws of Light: {0}% AP",
+    "korean": "광속의 손톱 : 행동력 {0}%"
+  },
+  "1000109887": {
+    "english": "Slaughter Preparation: Effect Resistance{0}%",
+    "korean": "살육 준비 : 효과 저항{0}%"
+  },
+  "1000109888": {
+    "english": "Prepare for Slaughter: Effect Resistance {0}%",
+    "korean": "살육 준비 : 효과 저항{0}%"
+  },
+  "1000109889": {
+    "english": "Prepare for Slaughter: Effect Resistance {0}%",
+    "korean": "살육 준비 : 효과 저항{0}%"
+  },
+  "1000109890": {
+    "english": "Prepare for Slaughter: Effect Resistance {0}%",
+    "korean": "살육 준비 : 효과 저항{0}%"
+  },
+  "1000109891": {
+    "english": "Prepare for Slaughter: Effect Resistance {0}%",
+    "korean": "살육 준비 : 효과 저항{0}%"
+  },
+  "1000109892": {
+    "english": "Increase attack power/accuracy",
+    "korean": "공격력/적중 증가"
+  },
+  "1000109893": {
+    "english": "Increase attack power/action speed",
+    "korean": "공격력/행동력 증가"
+  },
+  "1000109894": {
+    "english": "Increase attack power/critical",
+    "korean": "공격력/치명타 증가"
+  },
+  "1000109895": {
+    "english": "Increase defense/reduce damage taken",
+    "korean": "방어력 증가/받는피해 감소"
+  },
+  "1000109896": {
+    "english": "Increase evasion/action speed",
+    "korean": "회피/행동력 증가"
+  },
+  "1000109897": {
+    "english": "Increase defense/HP",
+    "korean": "방어력/HP 증가"
+  },
+  "1000109898": {
+    "english": "Increase action speed/accuracy",
+    "korean": "행동력/적중 증가"
+  },
+  "1000109899": {
+    "english": "Increase action speed/Increase AP at battle start",
+    "korean": "행동력 증가/전투시작시 AP 증가"
+  },
+  "1000109900": {
+    "english": "Attack power {0}%",
+    "korean": "공격력{0}%"
+  },
+  "1000109901": {
+    "english": "Defense {0}%",
+    "korean": "방어력{0}%"
+  },
+  "1000109902": {
+    "english": "Evasion {0}%",
+    "korean": "회피{0}%"
+  },
+  "1000109903": {
+    "english": "Action speed {0}%",
+    "korean": "행동력{0}%"
+  },
+  "1000109904": {
+    "english": "Accuracy {0}%",
+    "korean": "적중{0}%"
+  },
+  "1000109905": {
+    "english": "Critical {0}%",
+    "korean": "치명타{0}%"
+  },
+  "1000109906": {
+    "english": "Damage taken reduction {0}%",
+    "korean": "받는 피해 감소 {0}%"
+  },
+  "1000109907": {
+    "english": "AP {0}",
+    "korean": "AP{0}"
+  },
+  "1000109908": {
+    "english": "Cold Pain: Cold attribute / Immobilize / Continuous cold damage",
+    "korean": "차가운 고통 : 냉기 속성 / 이동 불가 / 냉기 지속 피해"
+  },
+  "1000109909": {
+    "english": "Frost Storm: Ignore protection / Cold attack / Additional cold damage to cold resistance reduction targets / Reduce action speed",
+    "korean": "서리 폭풍 : 보호 무시 냉기 공격 / 냉기 저항 감소 상태 추가 냉기 피해 / 행동력 감소"
+  },
+  "1000109910": {
+    "english": "Victim Mentality: Increase attack power / Increase damage vs heavy armor",
+    "korean": "피해의식 : 공격력 증가 / 대 중장 피해량 증가"
+  },
+  "1000109911": {
+    "english": "Millennium Frost: Immune to fire resistance reduction (Defender) / Increase fire resistance / Increase damage vs heavy armor",
+    "korean": "천년서리 : 화염 저항 감소 면역 (보호기) / 화염 저항 증가 / 대 중장 피해량 증가"
+  },
+  "1000109912": {
+    "english": "Endless Hatred: Increase range / Increase attack power / Increase evasion / Reduce damage taken / Counterattack (after using Frost Storm)",
+    "korean": "끝없는 증오 : 사거리 증가 / 공격력 증가 / 회피 증가 / 받는 피해 감소 / 반격 (서리 폭풍 사용 후)"
+  },
+  "1000109913": {
+    "english": "Cold Pain: {0} continuous cold damage",
+    "korean": "차가운 고통 : {0} 냉기 지속 피해"
+  },
+  "1000109914": {
+    "english": "Frost Storm: {0}% additional cold damage (when fire resistance is reduced)",
+    "korean": "서리 폭풍 : {0}%추가 냉기 피해 (냉기 저항 감소)"
+  },
+  "1000109915": {
+    "english": "Damage Awareness: {0}% of damage dealt to medium-sized units",
+    "korean": "피해의식 : 대 중장 피해량{0}%"
+  },
+  "1000109916": {
+    "english": "Millennium Frost: Fire resistance {0}%",
+    "korean": "천년서리 : 화염 저항{0}%"
+  },
+  "1000109917": {
+    "english": "Endless Hatred: Range {0} (after using Frost Storm)",
+    "korean": "끝없는 증오 : 사거리{0} (서리 폭풍 사용 후)"
+  },
+  "1000109918": {
+    "english": "Cold Pain: Cold resistance {0}%",
+    "korean": "차가운 고통 : 냉기 저항{0}%"
+  },
+  "1000109919": {
+    "english": "Millennium Frost: Fire Resistance Reduction Immunity (Defender)",
+    "korean": "천년서리 : 화염 저항 감소 면역 (보호기)"
+  },
+  "1000109920": {
+    "english": "Cold Pain: Immobilize",
+    "korean": "차가운 고통 : 이동 불가"
+  },
+  "1000109921": {
+    "english": "Damage Awareness: ATK {0}%",
+    "korean": "피해의식 : 공격력{0}%"
+  },
+  "1000109922": {
+    "english": "Millennium Frost: Immune to fire resistance reduction (Defender)",
+    "korean": "천년서리 : 화염 저항 감소 면역 (보호기)"
+  },
+  "1000109923": {
+    "english": "Endless Hatred: Attack power {0}% (after using Frost Storm)",
+    "korean": "끝없는 증오 : 공격력{0}% (서리 폭풍 사용 후)"
+  },
+  "1000109924": {
+    "english": "Cold Pain: Cold Resistance {0}%",
+    "korean": "차가운 고통 : 냉기 저항{0}%"
+  },
+  "1000109925": {
+    "english": "Millennium Frost: Damage vs heavy armor {0}%",
+    "korean": "천년서리 : 대 중장 피해량{0}%"
+  },
+  "1000109926": {
+    "english": "Endless Hatred: Evasion {0}% (after using Frost Storm)",
+    "korean": "끝없는 증오 : 회피{0}% (서리 폭풍 사용 후)"
+  },
+  "1000109927": {
+    "english": "Endless Hatred: Reduces damage taken by {0}% (after using Frost Storm)",
+    "korean": "끝없는 증오 : 받는 피해 {0}%감소 (서리 폭풍 사용 후)"
+  },
+  "1000109928": {
+    "english": "Endless Hatred: Counterattack with {0}% power (after using Frost Storm)",
+    "korean": "끝없는 증오 : {0}%위력으로 반격 (서리 폭풍 사용 후)"
+  },
+  "1000109929": {
+    "english": "Frost Storm: Action speed {0}%",
+    "korean": "서리 폭풍 : 행동력{0}%"
+  },
+  "1000109930": {
+    "english": "Tactical Fire: Immobilize / Increase damage taken / Reduce action speed / Reduce defense",
+    "korean": "택티컬 파이어 : 이동 불가 / 받는 피해 증가 / 행동력 감소 / 방어력 감소"
+  },
+  "1000109931": {
+    "english": "Brutal Charge: Reduce action speed / Increase critical damage on hit",
+    "korean": "브루탈 차지 : 행동력 감소 / 치명타 시 피해량 증가"
+  },
+  "1000109932": {
+    "english": "Tea Time: Increase defense / Increase effect resistance / Row protection / Reduce damage taken",
+    "korean": "티타임 : 방어력 증가 / 효과 저항 증가 / 행 보호 / 받는 피해 감소"
+  },
+  "1000109933": {
+    "english": "Battle Line: Designate protection / Increase attack power / Increase accuracy / Increase action speed",
+    "korean": "배틀 라인 : 지정보호 / 공격력 증가 / 적중 증가 / 행동력 증가"
+  },
+  "1000109934": {
+    "english": "Preemptive Strike: Reduce action speed / Immobilize / Increase damage taken",
+    "korean": "기선제압 : 행동력 감소 / 이동불가 / 받는 피해 증가"
+  },
+  "1000109935": {
+    "english": "Tactical Fire: Damage taken {0}%",
+    "korean": "택티컬 파이어 : 받는 피해{0}%"
+  },
+  "1000109936": {
+    "english": "Brutal Charge: Action speed {0}%",
+    "korean": "브루탈 차지 : 행동력{0}%"
+  },
+  "1000109937": {
+    "english": "Tea Time: Defense {0}%",
+    "korean": "티타임 : 방어력{0}%"
+  },
+  "1000109938": {
+    "english": "Battle Line: Designated protection",
+    "korean": "배틀 라인 : 지정 보호"
+  },
+  "1000109939": {
+    "english": "Preemptive Strike: Action speed {0}%",
+    "korean": "기선제압 : 행동력{0}%"
+  },
+  "1000109940": {
+    "english": "Brutal Charge: Damage {0}% (CRIT)",
+    "korean": "브루탈 차지 : 피해량{0}%(치명타)"
+  },
+  "1000109941": {
+    "english": "Tea Time: Damage Received {0}% Decrease",
+    "korean": "티타임 : 받는 피해 {0}%감소"
+  },
+  "1000109942": {
+    "english": "Battle Line: Designated Defender",
+    "korean": "배틀 라인 : 지정 보호"
+  },
+  "1000109943": {
+    "english": "Tactical Fire: Immobilize",
+    "korean": "택티컬 파이어 : 이동 불가"
+  },
+  "1000109944": {
+    "english": "Brutal Charge: Damage {0}% (on critical)",
+    "korean": "브루탈 차지 : 피해량{0}%(치명타 시)"
+  },
+  "1000109945": {
+    "english": "Tea Time: Effect resistance {0}%",
+    "korean": "티타임 : 효과 저항{0}%"
+  },
+  "1000109946": {
+    "english": "Battle Line: Attack power {0}%",
+    "korean": "배틀 라인 : 공격력{0}%"
+  },
+  "1000109947": {
+    "english": "Preemptive Strike: Immobilize",
+    "korean": "기선제압 : 이동 불가"
+  },
+  "1000109948": {
+    "english": "Battle Line: ATK {0}%",
+    "korean": "배틀 라인 : 공격력{0}%"
+  },
+  "1000109949": {
+    "english": "Tactical Fire: Action speed {0}%",
+    "korean": "택티컬 파이어 : 행동력{0}%"
+  },
+  "1000109950": {
+    "english": "Tea Time: Row protection",
+    "korean": "티타임 : 행 보호"
+  },
+  "1000109951": {
+    "english": "Battle Line: Accuracy {0}%",
+    "korean": "배틀 라인 : 적중{0}%"
+  },
+  "1000109952": {
+    "english": "Preemptive Strike: Damage taken {0}%",
+    "korean": "기선제압 : 받는 피해{0}%"
+  },
+  "1000109953": {
+    "english": "Battle Line: ACU {0}%",
+    "korean": "배틀 라인 : 적중{0}%"
+  },
+  "1000109954": {
+    "english": "Tactical Fire : Defense{0}%",
+    "korean": "택티컬 파이어 : 방어력{0}%"
+  },
+  "1000109955": {
+    "english": "Tea Time: Reduces damage taken by {0}% (round deduction)",
+    "korean": "티타임 : 받는 피해 {0}%감소(라운드 차감)"
+  },
+  "1000109956": {
+    "english": "Battle Line : Action Points{0}%",
+    "korean": "배틀 라인 : 행동력{0}%"
+  },
+  "1000109957": {
+    "english": "Battle Line: AP {0}%",
+    "korean": "배틀 라인 : 행동력{0}%"
+  },
+  "1000109958": {
+    "english": "Battle Line: 50% additional AGS applied",
+    "korean": "배틀 라인 : AGS 50% 추가 적용"
+  },
+  "1000109959": {
+    "english": "Assault Combat OS: Attack / Critical increase / Range reduction Lv.1",
+    "korean": "강습형 전투 OS : 공격력 / 치명 증가 / 사거리 감소 Lv.1"
+  },
+  "1000109960": {
+    "english": "Assault Combat OS: Attack / Critical increase / Range reduction Lv.1",
+    "korean": "강습형 전투 OS : 공격력 / 치명 증가 / 사거리 감소 Lv.1"
+  },
+  "1000109961": {
+    "english": "Assault Combat OS: Attack / Critical increase / Range reduction Lv.2",
+    "korean": "강습형 전투 OS : 공격력 / 치명 증가 / 사거리 감소 Lv.2"
+  },
+  "1000109962": {
+    "english": "Assault Combat OS: Attack / Critical increase / Range reduction Lv.3",
+    "korean": "강습형 전투 OS : 공격력 / 치명 증가 / 사거리 감소 Lv.3"
+  },
+  "1000109963": {
+    "english": "Assault Combat OS: Attack / Critical increase / Range reduction Lv.4",
+    "korean": "강습형 전투 OS : 공격력 / 치명 증가 / 사거리 감소 Lv.4"
+  },
+  "1000109964": {
+    "english": "Assault Combat OS: Attack / Critical increase / Range reduction Lv.5",
+    "korean": "강습형 전투 OS : 공격력 / 치명 증가 / 사거리 감소 Lv.5"
+  },
+  "1000109965": {
+    "english": "Assault Combat OS: Attack / Critical increase / Range reduction Lv.6",
+    "korean": "강습형 전투 OS : 공격력 / 치명 증가 / 사거리 감소 Lv.6"
+  },
+  "1000109966": {
+    "english": "Assault Combat OS: Attack / Critical increase / Range reduction Lv.7",
+    "korean": "강습형 전투 OS : 공격력 / 치명 증가 / 사거리 감소 Lv.7"
+  },
+  "1000109967": {
+    "english": "Assault Combat OS: Attack / Critical increase / Range reduction Lv.8",
+    "korean": "강습형 전투 OS : 공격력 / 치명 증가 / 사거리 감소 Lv.8"
+  },
+  "1000109968": {
+    "english": "Assault Combat OS: Attack / Critical increase / Range reduction Lv.9",
+    "korean": "강습형 전투 OS : 공격력 / 치명 증가 / 사거리 감소 Lv.9"
+  },
+  "1000109969": {
+    "english": "Assault Combat OS: Attack / Critical increase / Range reduction Lv.10",
+    "korean": "강습형 전투 OS : 공격력 / 치명 증가 / 사거리 감소 Lv.10"
+  },
+  "1000109970": {
+    "english": "Improved Assault Combat OS: Attack power {0}%",
+    "korean": "개량 강습형 전투 OS : 공격력{0}%"
+  },
+  "1000109971": {
+    "english": "Improved Assault Combat OS: Range {0}",
+    "korean": "개량 강습형 전투 OS : 사거리 {0}"
+  },
+  "1000109972": {
+    "english": "Improved Assault Combat OS: Critical {0}%",
+    "korean": "개량 강습형 전투 OS : 치명타{0}%"
+  },
+  "1000109973": {
+    "english": "Linked Swordsmanship: Ignore protection damage / Additional damage on critical / Cancel counterattack",
+    "korean": "연환검술 : 보호 무시 피해 / 치명타 시 추가 피해 / 반격 해제"
+  },
+  "1000109974": {
+    "english": "Meteor: Ignore protection damage / Cancel counterattack",
+    "korean": "유성 : 보호 무시 피해 / 반격 해제"
+  },
+  "1000109975": {
+    "english": "Single Slash: Increase critical / Increase accuracy / Attack / Increase defense penetration",
+    "korean": "일도양단 : 치명타 증가 / 적중 증가 / 공격력 / 방어관통 증가"
+  },
+  "1000109976": {
+    "english": "Trance: Increase action speed / Increase evasion / Extra attack",
+    "korean": "무아지경 : 행동력 증가 / 회피 증가 / 재공격"
+  },
+  "1000109977": {
+    "english": "Linked Swordsmanship: Ignore protection damage / Additional damage on critical / Cancel counterattack",
+    "korean": "연환검술 : 보호 무시 피해 / 치명타 시 추가 피해 / 반격 해제"
+  },
+  "1000109978": {
+    "english": "Meteor: Damage ignores Defender / Counterattack removed",
+    "korean": "유성 : 보호 무시 피해 / 반격 해제"
+  },
+  "1000109979": {
+    "english": "Twin Flame Buff Dummy: Additional fire damage Lv.1",
+    "korean": "투인석 버프 더미 : 화염 추가 피해 Lv.1"
+  },
+  "1000109980": {
+    "english": "Twin Flame Buff Dummy: Additional fire damage Lv.1",
+    "korean": "투인석 버프 더미 : 화염 추가 피해 Lv.1"
+  },
+  "1000109981": {
+    "english": "Twin Flame Buff Dummy: Additional fire damage Lv.2",
+    "korean": "투인석 버프 더미 : 화염 추가 피해 Lv.2"
+  },
+  "1000109982": {
+    "english": "Twin Flame Buff Dummy: Additional fire damage Lv.3",
+    "korean": "투인석 버프 더미 : 화염 추가 피해 Lv.3"
+  },
+  "1000109983": {
+    "english": "Twin Flame Buff Dummy: Additional fire damage Lv.4",
+    "korean": "투인석 버프 더미 : 화염 추가 피해 Lv.4"
+  },
+  "1000109984": {
+    "english": "Twin Flame Buff Dummy: Additional fire damage Lv.5",
+    "korean": "투인석 버프 더미 : 화염 추가 피해 Lv.5"
+  },
+  "1000109985": {
+    "english": "Twin Flame Buff Dummy: Additional fire damage Lv.6",
+    "korean": "투인석 버프 더미 : 화염 추가 피해 Lv.6"
+  },
+  "1000109986": {
+    "english": "Twin Flame Buff Dummy: Additional fire damage Lv.7",
+    "korean": "투인석 버프 더미 : 화염 추가 피해 Lv.7"
+  },
+  "1000109987": {
+    "english": "Twin Flame Buff Dummy: Additional fire damage Lv.8",
+    "korean": "투인석 버프 더미 : 화염 추가 피해 Lv.8"
+  },
+  "1000109988": {
+    "english": "Twin Flame Buff Dummy: Additional fire damage Lv.9",
+    "korean": "투인석 버프 더미 : 화염 추가 피해 Lv.9"
+  },
+  "1000109989": {
+    "english": "Twin Flame Buff Dummy: Additional fire damage Lv.10",
+    "korean": "투인석 버프 더미 : 화염 추가 피해 Lv.10"
+  },
+  "1000109990": {
+    "english": "Water Demon Stone Buff Dummy: Additional cold damage Lv.1",
+    "korean": "수마석 버프 더미 : 냉기 추가 피해 Lv.1"
+  },
+  "1000109991": {
+    "english": "Water Demon Stone Buff Dummy: Additional cold damage Lv.1",
+    "korean": "수마석 버프 더미 : 냉기 추가 피해 Lv.1"
+  },
+  "1000109992": {
+    "english": "Water Demon Stone Buff Dummy: Additional cold damage Lv.2",
+    "korean": "수마석 버프 더미 : 냉기 추가 피해 Lv.2"
+  },
+  "1000109993": {
+    "english": "Water Demon Stone Buff Dummy: Additional cold damage Lv.3",
+    "korean": "수마석 버프 더미 : 냉기 추가 피해 Lv.3"
+  },
+  "1000109994": {
+    "english": "Water Demon Stone Buff Dummy: Additional cold damage Lv.4",
+    "korean": "수마석 버프 더미 : 냉기 추가 피해 Lv.4"
+  },
+  "1000109995": {
+    "english": "Water Demon Stone Buff Dummy: Additional cold damage Lv.5",
+    "korean": "수마석 버프 더미 : 냉기 추가 피해 Lv.5"
+  },
+  "1000109996": {
+    "english": "Water Demon Stone Buff Dummy: Additional cold damage Lv.6",
+    "korean": "수마석 버프 더미 : 냉기 추가 피해 Lv.6"
+  },
+  "1000109997": {
+    "english": "Water Demon Stone Buff Dummy: Additional cold damage Lv.7",
+    "korean": "수마석 버프 더미 : 냉기 추가 피해 Lv.7"
+  },
+  "1000109998": {
+    "english": "Water Demon Stone Buff Dummy: Additional cold damage Lv.8",
+    "korean": "수마석 버프 더미 : 냉기 추가 피해 Lv.8"
+  },
+  "1000109999": {
+    "english": "Water Demon Stone Buff Dummy: Additional cold damage Lv.9",
+    "korean": "수마석 버프 더미 : 냉기 추가 피해 Lv.9"
+  },
+  "1000110000": {
+    "english": "Water Demon Stone Buff Dummy: Additional cold damage Lv.10",
+    "korean": "수마석 버프 더미 : 냉기 추가 피해 Lv.10"
+  },
+  "1000110001": {
+    "english": "Lightning Demon Stone Buff Dummy: Additional electric damage Lv.1",
+    "korean": "조위석 버프 더미 : 전기 추가 피해 Lv.1"
+  },
+  "1000110002": {
+    "english": "Lightning Demon Stone Buff Dummy: Additional electric damage Lv.1",
+    "korean": "조위석 버프 더미 : 전기 추가 피해 Lv.1"
+  },
+  "1000110003": {
+    "english": "Lightning Demon Stone Buff Dummy: Additional electric damage Lv.2",
+    "korean": "조위석 버프 더미 : 전기 추가 피해 Lv.2"
+  },
+  "1000110004": {
+    "english": "Lightning Demon Stone Buff Dummy: Additional electric damage Lv.3",
+    "korean": "조위석 버프 더미 : 전기 추가 피해 Lv.3"
+  },
+  "1000110005": {
+    "english": "Lightning Demon Stone Buff Dummy: Additional electric damage Lv.4",
+    "korean": "조위석 버프 더미 : 전기 추가 피해 Lv.4"
+  },
+  "1000110006": {
+    "english": "Lightning Demon Stone Buff Dummy: Additional electric damage Lv.5",
+    "korean": "조위석 버프 더미 : 전기 추가 피해 Lv.5"
+  },
+  "1000110007": {
+    "english": "Lightning Demon Stone Buff Dummy: Additional electric damage Lv.6",
+    "korean": "조위석 버프 더미 : 전기 추가 피해 Lv.6"
+  },
+  "1000110008": {
+    "english": "Lightning Demon Stone Buff Dummy: Additional electric damage Lv.7",
+    "korean": "조위석 버프 더미 : 전기 추가 피해 Lv.7"
+  },
+  "1000110009": {
+    "english": "Lightning Demon Stone Buff Dummy: Additional electric damage Lv.8",
+    "korean": "조위석 버프 더미 : 전기 추가 피해 Lv.8"
+  },
+  "1000110010": {
+    "english": "Lightning Demon Stone Buff Dummy: Additional electric damage Lv.9",
+    "korean": "조위석 버프 더미 : 전기 추가 피해 Lv.9"
+  },
+  "1000110011": {
+    "english": "Lightning Demon Stone Buff Dummy: Additional electric damage Lv.10",
+    "korean": "조위석 버프 더미 : 전기 추가 피해 Lv.10"
+  },
+  "1000110012": {
+    "english": "Linked Swordsmanship: {0}% additional damage (on critical)",
+    "korean": "연환검술 : {0}%추가 피해 (치명타)"
+  },
+  "1000110013": {
+    "english": "Meteor: Cancel counterattack effect",
+    "korean": "유성 : 반격 효과 해제"
+  },
+  "1000110014": {
+    "english": "Single Slash: Critical {0}%",
+    "korean": "일도양단 : 치명타{0}%"
+  },
+  "1000110015": {
+    "english": "Trance: Action speed {0}%",
+    "korean": "무아지경 : 행동력{0}%"
+  },
+  "1000110016": {
+    "english": "Twin Flame Stone: {0}% additional fire damage",
+    "korean": "투인석 : {0}% 화염 추가 피해"
+  },
+  "1000110017": {
+    "english": "Sumaseok: {0}% additional ICE damage",
+    "korean": "수마석 : {0}% 냉기 추가 피해"
+  },
+  "1000110018": {
+    "english": "Jowi Stone: {0}% additional ELE damage",
+    "korean": "조위석 : {0}% 전기 추가 피해"
+  },
+  "1000110019": {
+    "english": "Two-in-one Stone: {0}% additional FIRE damage",
+    "korean": "투인석 : {0}% 화염 추가 피해"
+  },
+  "1000110020": {
+    "english": "Sumaseok: {0}% additional ICE damage",
+    "korean": "수마석 : {0}% 냉기 추가 피해"
+  },
+  "1000110021": {
+    "english": "Jowi Stone: {0}% additional ELE damage",
+    "korean": "조위석 : {0}% 전기 추가 피해"
+  },
+  "1000110022": {
+    "english": "Linked Swordsmanship: Cancel counterattack effect",
+    "korean": "연환검술 : 반격 효과 해제"
+  },
+  "1000110023": {
+    "english": "Chain Sword Technique: Additional attribute damage (when wearing special equipment)",
+    "korean": "연환검술 : 속성 추가 피해 (전용장비착용)"
+  },
+  "1000110024": {
+    "english": "Single Slash: Accuracy {0}%",
+    "korean": "일도양단 : 적중{0}%"
+  },
+  "1000110025": {
+    "english": "Trance: Evasion {0}%",
+    "korean": "무아지경 : 회피{0}%"
+  },
+  "1000110026": {
+    "english": "Chain Sword Technique: Additional attribute damage (when wearing special equipment)",
+    "korean": "연환검술 : 속성 추가 피해 (전용장비착용)"
+  },
+  "1000110027": {
+    "english": "Single Slash: Attack power {0}%",
+    "korean": "일도양단 : 공격력{0}%"
+  },
+  "1000110028": {
+    "english": "Trance: Extra attack",
+    "korean": "무아지경 : 재공격"
+  },
+  "1000110029": {
+    "english": "One-Shot Kill: Armor Penetration{0}%",
+    "korean": "일도양단 : 방어관통{0}%"
+  },
+  "1000110030": {
+    "english": "Twin Flame Stone: {0}% additional fire damage",
+    "korean": "투인석 : {0}% 화염 추가 피해"
+  },
+  "1000110031": {
+    "english": "Water Demon Stone: {0}% additional cold damage",
+    "korean": "수마석 : {0}% 냉기 추가 피해"
+  },
+  "1000110032": {
+    "english": "Lightning Demon Stone: {0}% additional electric damage",
+    "korean": "조위석 : {0}% 전기 추가 피해"
+  },
+  "1000110033": {
+    "english": "Shield Charge: Row protection, cancel damage reduction / Additional damage to heavy armor",
+    "korean": "실드 돌진 : 행 보호, 피해 감소 해제 / 중장형 추가 피해"
+  },
+  "1000110034": {
+    "english": "Escort Maneuver: Protect designated target / Increase action speed",
+    "korean": "호위 기동 : 지정 대상 보호 / 행동력 증가"
+  },
+  "1000110035": {
+    "english": "Defense Maneuver: Reduce damage taken / Increase defense / Reduce evasion",
+    "korean": "수비 기동 : 받는 피해 감소 / 방어력 증가 / 회피 감소"
+  },
+  "1000110036": {
+    "english": "Defense Stance: Attribute resistance increase / Evasion decrease",
+    "korean": "방어 태세 : 속성 저항 증가 / 회피 감소"
+  },
+  "1000110037": {
+    "english": "Offense Stance: Accuracy / Defense penetration increase / Reattack / Defense decrease",
+    "korean": "공격 태세 : 적중 / 방어 관통 증가 / 재 공격 / 방어력 감소"
+  },
+  "1000110038": {
+    "english": "High-Speed Shock Round: AP decrease",
+    "korean": "고속 충격탄 : AP 감소"
+  },
+  "1000110039": {
+    "english": "Panic Siren: AP decrease / Movement disabled",
+    "korean": "패닉 사이렌 : AP 감소 / 이동불가"
+  },
+  "1000110040": {
+    "english": "Scout Armament Supply: Action power / Damage to heavy armor increase",
+    "korean": "스카우트 무장 보급 : 행동력 / 대 중장 피해량 증가"
+  },
+  "1000110041": {
+    "english": "Blitz Smash: Defense penetration / Action power / Critical increase",
+    "korean": "초전박살 : 방어 관통 / 행동력 / 치명타 증가"
+  },
+  "1000110042": {
+    "english": "Final Supply: Action power / Attack power / Critical increase / Accuracy decrease",
+    "korean": "최후 보급 : 행동력 / 공격력 / 치명타 증가 / 적중 감소"
+  },
+  "1000110043": {
+    "english": "Scout Armament Supply: AP / Evasion increase",
+    "korean": "스카우트 무장 보급 : AP / 회피 증가"
+  },
+  "1000110044": {
+    "english": "Scout Armament Supply: Action power / Damage to heavy armor increase",
+    "korean": "스카우트 무장 보급 : 행동력 / 대 중장 피해량 증가"
+  },
+  "1000110045": {
+    "english": "Row protection effect removed",
+    "korean": "행 보호 효과 해제"
+  },
+  "1000110046": {
+    "english": "Escort Maneuver: Protect designated target",
+    "korean": "호위 기동 : 지정 대상 보호"
+  },
+  "1000110047": {
+    "english": "Defense Maneuver: Damage taken decrease {0}%",
+    "korean": "수비 기동 : 받는 피해 감소 {0}%"
+  },
+  "1000110048": {
+    "english": "Shield Charge: {0}% damage to heavy armor",
+    "korean": "실드 돌진 : 대 중장 피해량{0}%"
+  },
+  "1000110049": {
+    "english": "Defense Stance: Fire resistance {0}%",
+    "korean": "방어 태세 : 화염 저항{0}%"
+  },
+  "1000110050": {
+    "english": "Attack Stance: EVA {0}%",
+    "korean": "공격 태세 : 회피{0}%"
+  },
+  "1000110051": {
+    "english": "Offense Stance: Attack power {0}%",
+    "korean": "공격 태세 : 공격력{0}%"
+  },
+  "1000110052": {
+    "english": "AP {0}",
+    "korean": "AP{0}"
+  },
+  "1000110053": {
+    "english": "Scout Armament Supply: Action power {0}%",
+    "korean": "스카우트 무장 보급 : 행동력{0}%"
+  },
+  "1000110054": {
+    "english": "Blitz Smash: Defense penetration {0}%",
+    "korean": "초전박살 : 방어 관통{0}%"
+  },
+  "1000110055": {
+    "english": "Final Supply: Action power {0}%",
+    "korean": "최후 보급 : 행동력{0}%"
+  },
+  "1000110056": {
+    "english": "Final Supply: ACU {0}%",
+    "korean": "최후 보급 : 적중 {0}%"
+  },
+  "1000110057": {
+    "english": "Scout Armament Supply: Evasion {0}%",
+    "korean": "스카우트 무장 보급 : 회피{0}%"
+  }
+}

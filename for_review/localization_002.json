@@ -1,0 +1,4002 @@
+{
+  "1000101001": {
+    "english": "Coordinated Attack Support: Supports supplied allies’ attacks",
+    "korean": "일제 공격 지원 : 보급 받은 아군의 공격 지원"
+  },
+  "1000101002": {
+    "english": "Crouching Tiger: Increases defense when HP is 50% or lower",
+    "korean": "칙 웅크리기 : HP 50% 이하 시, 방어 능력 증가"
+  },
+  "1000101003": {
+    "english": "Overcurrent Discharge: Decreases ATK / AP",
+    "korean": "과전류 방출 : 공격 / 행동력 감소"
+  },
+  "1000101004": {
+    "english": "Armament Supply: Increases own AP",
+    "korean": "무장 보급 : 자신 행동력 증가"
+  },
+  "1000101005": {
+    "english": "Electromagnetic Missile: Greatly reduces enemy Accuracy / Crit / Effect Accuracy",
+    "korean": "전자기장 미사일 : 적중 / 치명타 / 효과 적중 대폭 감소"
+  },
+  "1000101006": {
+    "english": "Antimatter Barrier: Damage Nullification",
+    "korean": "반물질 역장 : 피해 무효화"
+  },
+  "1000101007": {
+    "english": "Action Prediction: Increases Accuracy / EVA / AP",
+    "korean": "행동 예측 : 적중 / 회피 / AP 증가"
+  },
+  "1000101008": {
+    "english": "Concealment Field: Greatly increases EVA at the start of battle",
+    "korean": "은폐장 : 전투 개시 시, 회피 대폭 증가"
+  },
+  "1000101009": {
+    "english": "Sticky Bomb: Reduces EVA / Immobilizes / Removes EVA Buff",
+    "korean": "점착탄 : 회피 감소 / 이동 불가 / 회피 강화 해제"
+  },
+  "1000101010": {
+    "english": "Anti-Armor Precision Sniper: Increased damage when attacking heavy-armored targets",
+    "korean": "대장갑 정밀 저격 : 중장형 공격 시 피해 증가"
+  },
+  "1000101011": {
+    "english": "Camouflage Hologram: EVA increases the farther from enemy lines",
+    "korean": "위장 홀로그램 : 적 진영에서 멀수록 회피 증가"
+  },
+  "1000101012": {
+    "english": "Target Designation: Increases Accuracy / Crit",
+    "korean": "목표 설정 : 적중 / 치명타 증가"
+  },
+  "1000101013": {
+    "english": "Anti-Armor Precision Sniper: Armor Penetration",
+    "korean": "대장갑 정밀 저격 : 방어 관통"
+  },
+  "1000101014": {
+    "english": "Chick Machine Cannon: Random hindrance effects",
+    "korean": "칙 머신캐논 : 무작위 방해 효과"
+  },
+  "1000101015": {
+    "english": "Chick Final Attack: Greatly increased damage",
+    "korean": "칙 파이널 어택 : 피해량 대폭 증가"
+  },
+  "1000101016": {
+    "english": "Combat OS Update: Random buffs",
+    "korean": "전투 OS 갱신 : 무작위 강화 효과"
+  },
+  "1000101017": {
+    "english": "Chick Iron Wall Defense: Minimizes received damage after attack",
+    "korean": "칙 철벽 방어술 : 공격 후, 받는 피해 최소화"
+  },
+  "1000101018": {
+    "english": "Rampage: Increases ATK / Accuracy / Crit / AP & ignores shields and damage reduction",
+    "korean": "광분 : 공격력/적중/치명타/행동력 증가 & 방어막/피해 감소 무시"
+  },
+  "1000101019": {
+    "english": "Critical OS Error: Unable to act / Increased damage taken",
+    "korean": "치명적 OS 오류 : 행동 불가 / 받는 피해 증가"
+  },
+  "1000101020": {
+    "english": "Angry Chick: Increases ATK when ally dies",
+    "korean": "앵그리 칙 : 아군 사망 시 공격력 증가"
+  },
+  "1000101021": {
+    "english": "Enveloping Fire: Decreases ATK / Accuracy / EVA / Increases damage taken",
+    "korean": "원호 사격 : 공격력 / 적중 / 회피 감소 / 받는 피해 증가"
+  },
+  "1000101022": {
+    "english": "Cooling Aim: Fire Resistance / AP reduction (Robot)",
+    "korean": "냉각기 조준  : 화염 저항 / 행동력 감소 (로봇)"
+  },
+  "1000101023": {
+    "english": "Situation Broadcast: When ally dies, increases ATK / AP of adjacent allies",
+    "korean": "상황 전파 : 아군 사망 시, 인접 아군 공격력 / AP 증가"
+  },
+  "1000101024": {
+    "english": "Suppressive Fire: Reduces AP / AP / Marks target / Increases damage taken",
+    "korean": "제압 사격 : 행동력 / AP 감소 / 표식 / 받는 피해 증가"
+  },
+  "1000101025": {
+    "english": "Close Escort: Protects target / Increases AP / Reduces damage taken by self",
+    "korean": "밀착 호위 : 대상 보호 / AP 증가 / 자신 받는 피해 감소"
+  },
+  "1000101026": {
+    "english": "Heightened Alert: If HP ≤ 50%, increases AP / Counterattack",
+    "korean": "경계 강화 : HP 50% 이하면 행동력 증가 / 반격"
+  },
+  "1000101027": {
+    "english": "Close Escort: Reduces damage taken",
+    "korean": "밀착 호위 : 받는 피해 감소"
+  },
+  "1000101028": {
+    "english": "Directed Fire: Mark / Damage Amplification / Reduces AP / EVA / Removes damage reduction",
+    "korean": "지향 사격 : 표식 / 피해 증폭 / 행동력 / 회피 감소 / 피해 감소 해제"
+  },
+  "1000101029": {
+    "english": "Jamming Missile: Decreases ATK / Accuracy / Crit / Removes attack buffs",
+    "korean": "재밍 미사일 : 공격력 / 적중 / 치명 감소 / 공격 강화 해제"
+  },
+  "1000101030": {
+    "english": "Emergency Alarm: Increases AP / EVA",
+    "korean": "긴급 경보 : AP / 회피 증가"
+  },
+  "1000101031": {
+    "english": "Attack Analysis: Increases EVA when hit",
+    "korean": "공격 분석 : 피격 시, 회피 증가"
+  },
+  "1000101032": {
+    "english": "False Order: Decreases Accuracy / EVA",
+    "korean": "오보 발령 : 적중 / 회피 감소"
+  },
+  "1000101033": {
+    "english": "Cooling Shell: Reduces Cold Resistance",
+    "korean": "냉각탄 : 냉기 저항 감소"
+  },
+  "1000101034": {
+    "english": "Large Radar Chaff: Increases EVA / Damage Reduction / AP",
+    "korean": "대 레이더 채프 : 회피 증가 / 받는 피해 감소 / 행동력 증가"
+  },
+  "1000101035": {
+    "english": "Escort Formation: Protects designated target / Increases Accuracy",
+    "korean": "호위 대형 : 지정 대상 보호 / 적중 증가"
+  },
+  "1000101036": {
+    "english": "Target Elimination: Increases damage to marked target / Disables target action",
+    "korean": "표적 제거 : 표식 대상 피해 증가 / 행동 불가"
+  },
+  "1000101037": {
+    "english": "Shock Shell: Additional damage if Cold Resistance is reduced",
+    "korean": "쇼크탄 : 냉기 저항 감소 상태면 추가 피해"
+  },
+  "1000101038": {
+    "english": "Frontline Support Fire: Attack support / AP increase",
+    "korean": "전열 지원 사격 : 공격 지원 / AP 증가"
+  },
+  "1000101039": {
+    "english": "Response Fire: Counterattack activates when ally dies",
+    "korean": "대응 사격 : 아군 사망 시, 반격 활성화"
+  },
+  "1000101040": {
+    "english": "Stun Spike: Causes shock if Cold Resistance is reduced",
+    "korean": "스턴 스파이크 : 냉기 저항 감소 상태면 감전"
+  },
+  "1000101041": {
+    "english": "Pile Bunker Drive: Removes protection / Pushes back / Increases damage to marked target",
+    "korean": "파일 벙커 드라이브 : 보호 해제 / 뒤로 밀기 / 표식 대상 피해 증가"
+  },
+  "1000101042": {
+    "english": "Nozzle Enhancement: Increases damage to light units / Ignores damage reduction and shields",
+    "korean": "노즐 강화 : 대 경장 피해 증가 / 피해 감소와 방어막 무시"
+  },
+  "1000101043": {
+    "english": "Frontline Breakthrough: Attack support for adjacent allies",
+    "korean": "전열 돌파 : 인접 아군 공격 지원"
+  },
+  "1000101044": {
+    "english": "Incendiary Missile: Applies ignition effect",
+    "korean": "작열 미사일 : 점화 효과"
+  },
+  "1000101045": {
+    "english": "Smoke Bomb Bombardment: Increases damage to marked target",
+    "korean": "소이탄 폭격 : 표식 대상 피해량 증가"
+  },
+  "1000101046": {
+    "english": "Precision Radar: Increases Accuracy / EVA",
+    "korean": "정밀 레이더 : 적중 / 회피 증가"
+  },
+  "1000101047": {
+    "english": "Ground Detection System: Increases damage to light and Heavy units",
+    "korean": "지상 감지 시스템 : 경장 / 중장 피해량 증가"
+  },
+  "1000101048": {
+    "english": "Incendiary Missile: Armor Penetration",
+    "korean": "작열 미사일 : 방어 관통"
+  },
+  "1000101049": {
+    "english": "Precision Radar: EVA Increase",
+    "korean": "정밀 레이더 : 회피 증가"
+  },
+  "1000101050": {
+    "english": "APFSDS Shell: Increases damage to attackers",
+    "korean": "APFSDS탄 : 공격기에게 피해량 증가"
+  },
+  "1000101051": {
+    "english": "Diffusion High-Explosive Bomb: Removes damage reduction from marked targets",
+    "korean": "확산형 고폭탄 : 표식 대상 피해 감소 해제"
+  },
+  "1000101052": {
+    "english": "Linked Bombardment: Increases AP / Attack Power",
+    "korean": "연계 포격 : AP / 공격력 증가"
+  },
+  "1000101053": {
+    "english": "Pinpoint Bombardment: Ignores shield / damage reduction if frontline",
+    "korean": "핀 포인트 포격 : 전열인 경우, 방어막 / 피해 감소 무시"
+  },
+  "1000101054": {
+    "english": "Focused Bombardment Formation: Increases Attack / Crit",
+    "korean": "집중 포격 대열 : 공격력 / 치명타 증가"
+  },
+  "1000101055": {
+    "english": "APFSDS Shell: Armor Penetration",
+    "korean": "APFSDS탄 : 방어 관통"
+  },
+  "1000101056": {
+    "english": "Linked Bombardment: AP Increase",
+    "korean": "연계 포격 : AP 증가"
+  },
+  "1000101057": {
+    "english": "Spotting: Marked target has a chance to be unable to act",
+    "korean": "포착 : 표식 대상 일정 확률 행동 불가"
+  },
+  "1000101058": {
+    "english": "Shock Shell: Reduces AP / Chance to remove buffs",
+    "korean": "충격탄 : 행동력 감소 / 일정 확률 강화 해제"
+  },
+  "1000101059": {
+    "english": "Resistance Handling: Increases all resistance / effect resistance",
+    "korean": "내성 처리 : 모든 저항 / 효과 저항 증가"
+  },
+  "1000101060": {
+    "english": "Special Reactive Armor: Damage reduction effect",
+    "korean": "특수 반응 장갑 : 피해 감소 효과"
+  },
+  "1000101061": {
+    "english": "Attack Formation Protection: Heat protection / damage reduction effect",
+    "korean": "공격 대열 보호 : 열 보호 / 피해 감소 효과"
+  },
+  "1000101062": {
+    "english": "Corrosion: Applies corrosion effect to marked target",
+    "korean": "부식 : 표식 대상에게 부식 효과"
+  },
+  "1000101063": {
+    "english": "Shock Shell: Removes buffs from marked target",
+    "korean": "충격탄 : 표식 대상 강화 해제"
+  },
+  "1000101064": {
+    "english": "Fury: Increases AP / Attack / Crit / reduces Defense",
+    "korean": "격분 : AP / 공격력 / 치명타 증가 / 방어력 감소"
+  },
+  "1000101065": {
+    "english": "Regeneration Function: Continues combat",
+    "korean": "재생 기능 : 전투 속행"
+  },
+  "1000101066": {
+    "english": "Target Shatter: Mark / reduces Accuracy / Crit",
+    "korean": "목표 파쇄 : 표식 / 적중 / 치명타 감소"
+  },
+  "1000101067": {
+    "english": "Bunker Ejection: Reduces EVA / effect resistance",
+    "korean": "벙커 사출 : 회피 / 효과 저항 감소"
+  },
+  "1000101068": {
+    "english": "Combat Instinct: Grants random buffs",
+    "korean": "전투 본능 : 무작위 강화 효과 발생"
+  },
+  "1000101069": {
+    "english": "Attack Alert: Reduces damage taken / AP / increases effect resistance",
+    "korean": "공격 경계 : 받는 피해 / 행동력 감소 / 효과 저항 증가"
+  },
+  "1000101070": {
+    "english": "Outer Armor: Damage nullification",
+    "korean": "외피 장갑 : 피해 무효화"
+  },
+  "1000101071": {
+    "english": "Power Transmission: Increases AP / Crit / Accuracy",
+    "korean": "동력 전달 : 행동력 / 치명타 / 적중 증가"
+  },
+  "1000101072": {
+    "english": "Shock Absorption: Damage nullification",
+    "korean": "충격 흡수 : 피해 무효화"
+  },
+  "1000101073": {
+    "english": "Output Amplification: Grants random buffs",
+    "korean": "출력 증폭 : 무작위 강화 효과 부여"
+  },
+  "1000101074": {
+    "english": "Reactor Destruction: Reduces Attack / Defense / AP",
+    "korean": "동력로 파괴 : 공격 / 방어 / 행동력 감소"
+  },
+  "1000101075": {
+    "english": "Reactor Destruction: Reduces HP when an ally dies",
+    "korean": "동력로 파괴 : 아군 사망 시 HP 감소"
+  },
+  "1000101076": {
+    "english": "Output Limit Release: Increases Attack / reduces Accuracy",
+    "korean": "출력 제한 해제 : 공격력 증가 / 적중 감소"
+  },
+  "1000101077": {
+    "english": "Outer Armor Reinforcement: Reduces damage taken / continues combat",
+    "korean": "외피 강화 : 받는 피해 감소 / 전투 속행"
+  },
+  "1000101078": {
+    "english": "High-Power Shield: Activates shield",
+    "korean": "고출력 방어막 : 방어막 활성화"
+  },
+  "1000101079": {
+    "english": "Shield Output Increase: Damage reduction effect",
+    "korean": "방어막 출력 상승 : 피해 감소 효과"
+  },
+  "1000101080": {
+    "english": "Energy Feedback: Removes buffs / disables action",
+    "korean": "에너지 역류 : 강화 해제 / 행동 불가"
+  },
+  "1000101081": {
+    "english": "Energy Feedback: Reduces HP when an ally dies",
+    "korean": "에너지 역류 : 아군 사망 시 HP 감소"
+  },
+  "1000101082": {
+    "english": "Execution Initiation: Greatly increases damage if target is unable to act",
+    "korean": "처형 개시 : 행동 불가 상태면 피해량 대폭 증가"
+  },
+  "1000101083": {
+    "english": "Massacre: Ignores protection / adds fire damage / removes buffs",
+    "korean": "학살 : 보호 무시 / 추가 화염 피해 / 강화 효과 해제"
+  },
+  "1000101084": {
+    "english": "Executioner: Increases Attack when hit",
+    "korean": "처형자 : 피격 시, 공격력 증가"
+  },
+  "1000101085": {
+    "english": "Distortion Field: Minimizes damage / damage applies on overflow",
+    "korean": "왜곡장 : 피해 최소화 / 오버플로우 시 피해 적용"
+  },
+  "1000101086": {
+    "english": "High-Speed Recovery: Continues combat if protected",
+    "korean": "고속 복원 : 지정 보호가 적용된 상태면 전투 속행"
+  },
+  "1000101087": {
+    "english": "Executioner: Ignores shield / damage reduction if receiving support attacks",
+    "korean": "처형자 : 지원 공격을 받는 상태면 방어막 / 피해 감소 무시"
+  },
+  "1000101088": {
+    "english": "Overflow: Applies physical damage",
+    "korean": "오버플로우 : 물리 피해 적용"
+  },
+  "1000101089": {
+    "english": "Main Body Destruction: Destroys all parts",
+    "korean": "본체 파괴 : 모든 파츠 파괴"
+  },
+  "1000101090": {
+    "english": "Armor Removal: Reduces Defense / lowers damage reduction / increases damage taken",
+    "korean": "장갑 해제 : 방어력 감소 / 피해 감소 저하 / 받는 피해 증가"
+  },
+  "1000101091": {
+    "english": "Disarm: Attack power large decrease / Critical rate large decrease",
+    "korean": "무장 해제 : 공격력 / 치명타 대폭 감소"
+  },
+  "1000101092": {
+    "english": "Attack block: Ally protection / When hit, Overflow stacking applied",
+    "korean": "공격 차단 : 아군 보호 / 피격 시, 오버플로우 중첩 적용"
+  },
+  "1000101093": {
+    "english": "Auto defense system: All damage minimized / Effect resistance increase",
+    "korean": "자동 방어 시스템 : 모든 피해 최소화 / 효과 저항 증가"
+  },
+  "1000101094": {
+    "english": "Multi-layer armor structure: Defense increase / Damage reduction decrease / EVA increase / AP increase",
+    "korean": "다중 장갑 구조 : 방어력 / 피해 감소 저하 - 회피 / 행동력 증가"
+  },
+  "1000101095": {
+    "english": "Armor removal: Action disabled",
+    "korean": "장갑 해제 : 행동 불가"
+  },
+  "1000101096": {
+    "english": "Disarm: Action disabled",
+    "korean": "무장 해제 : 행동 불가"
+  },
+  "1000101097": {
+    "english": "Auto defense system: Overflow",
+    "korean": "자동 방어 시스템 : 오버플로우"
+  },
+  "1000101098": {
+    "english": "Auto defense system: Defense system disabled / Action disabled",
+    "korean": "자동 방어 시스템 : 방어 시스템 해제 / 행동 불가"
+  },
+  "1000101099": {
+    "english": "Split: Damage increase on defense reduced targets",
+    "korean": "쪼개기 : 방어 감소 대상 피해량 증가"
+  },
+  "1000101100": {
+    "english": "Pierce: Damage increase excluding protectors / Ignore protection",
+    "korean": "꿰뚫기 : 보호기 제외 피해량 증가 / 보호 무시"
+  },
+  "1000101101": {
+    "english": "Attack chain: Attack support from main body or other parts",
+    "korean": "공격 연계 : 본체 또는 다른 파츠의 공격 지원"
+  },
+  "1000101102": {
+    "english": "Confirmed kill: Attack power increase / Critical rate increase",
+    "korean": "확인 사살 : 공격력 / 치명타 증가"
+  },
+  "1000101103": {
+    "english": "Alert mode: EVA large increase / ACU large decrease",
+    "korean": "경계 모드 : 회피 대폭 증가 / 적중 대폭 감소"
+  },
+  "1000101104": {
+    "english": "Confirmed kill: Defense penetration / Ignore defense shield and damage reduction",
+    "korean": "확인 사살 : 방어 관통 / 방어막과 피해 감소 무시"
+  },
+  "1000101105": {
+    "english": "SK-14 Pinky Modified: Range increase",
+    "korean": "SK-14 핑키 개량형 개량형 : 사거리 증가"
+  },
+  "1000101106": {
+    "english": "Metal Parasite Stitching: Action disabled / EVA decrease",
+    "korean": "철충 재봉 : 이동 불가 / 회피 감소"
+  },
+  "1000101107": {
+    "english": "Costume making: AP increase",
+    "korean": "의상 제작 : AP 증가"
+  },
+  "1000101108": {
+    "english": "Aesthetic exploration: Additional effects based on formation row",
+    "korean": "심미 탐구 : 배치 열에 따른 추가 효과 발생"
+  },
+  "1000101109": {
+    "english": "Model scouting: Attack power increase / Critical rate increase / ACU increase / AP increase",
+    "korean": "모델 스카우팅 : 공격력 / 치명타 / 적중 / 행동력 증가"
+  },
+  "1000101110": {
+    "english": "Armor repair: Defense reduction effect removal / Defense shield granted",
+    "korean": "의장 수선 : 방어 능력 감소 효과 해제 / 방어막 부여"
+  },
+  "1000101111": {
+    "english": "Metal Parasite Stitching: Damage amplification / Attribute resistance decrease",
+    "korean": "철충 재봉 : 피해 증폭 / 속성 저항 감소"
+  },
+  "1000101112": {
+    "english": "Metal Parasite Stitching: Attack power decrease / Critical rate decrease",
+    "korean": "철충 재봉 : 공격력 / 치명타 감소"
+  },
+  "1000101113": {
+    "english": "Metal Parasite Stitching: ACU decrease",
+    "korean": "철충 재봉 : 적중 감소"
+  },
+  "1000101114": {
+    "english": "Costume making: EVA increase / AP increase",
+    "korean": "의상 제작 : 회피 / 행동력 증가"
+  },
+  "1000101115": {
+    "english": "Costume making: Defense increase / Damage received decrease",
+    "korean": "의상 제작 : 방어력 증가 / 받는 피해 감소"
+  },
+  "1000101116": {
+    "english": "Costume making: Attack power increase / Critical rate increase",
+    "korean": "의상 제작 : 공격력 / 치명타 증가"
+  },
+  "1000101117": {
+    "english": "Enhanced Strength: Action Power increase / Reduced damage taken (max)",
+    "korean": "강화 근력 : 행동력 증가 / 받는 피해 감소 (최대)"
+  },
+  "1000101118": {
+    "english": "Indomitable will: Defense increase",
+    "korean": "불굴의 의지 : 방어력 증가"
+  },
+  "1000101119": {
+    "english": "Cover Fire: Mark / Damage amplification / EVA reduction",
+    "korean": "원호 사격 : 표식 / 피해 증폭 / 회피 감소"
+  },
+  "1000101120": {
+    "english": "Cover Fire: Damage amplification",
+    "korean": "원호 사격 : 피해 증폭"
+  },
+  "1000101121": {
+    "english": "Concrete hardening: Defense increase",
+    "korean": "콘크리트 경화 : 방어력 증가"
+  },
+  "1000101122": {
+    "english": "Protection function: Damage received decrease",
+    "korean": "방호 기능 : 받는 피해 감소"
+  },
+  "1000101123": {
+    "english": "Trench function: Row protection",
+    "korean": "참호 기능 : 행 보호"
+  },
+  "1000101124": {
+    "english": "Material preparation: Defense decrease / Damage received increase",
+    "korean": "재료 손질 : 방어력 감소 / 받는 피해 증가"
+  },
+  "1000101125": {
+    "english": "Gate of Kitchen: Defense decrease / Damage increase on defense reduced targets",
+    "korean": "게이트 오브 키친 : 방어력 감소 / 방어력 감소 대상 피해량 증가"
+  },
+  "1000101126": {
+    "english": "Sadistic chef: On attack hit, Attack power increase / ACU increase / Critical rate increase / AP increase / Attack power increase based on number of allies",
+    "korean": "가학적인 요리사 : 공격 적중 시, 공격력 / 적중 / 치명타 / 행동력 증가 / 아군 수에 따라 공격력 증가"
+  },
+  "1000101127": {
+    "english": "Witch of the kitchen: Light unit attack support / Attack ability increase",
+    "korean": "주방의 마녀 : 경장형 공격 지원 / 공격 능력 증가"
+  },
+  "1000101128": {
+    "english": "Quick processing: Damage increase as own and target HP decrease / AP increase",
+    "korean": "빠른 처리 : 자신과 공격 대상의 HP가 낮을수록 피해량 증가 / 행동력 증가"
+  },
+  "1000101129": {
+    "english": "Material preparation: Damage received increase",
+    "korean": "재료 손질 : 받는 피해 증가"
+  },
+  "1000101130": {
+    "english": "Sadistic chef: Light unit attack support / Attack ability increase",
+    "korean": "가학적인 요리사 : 경장형 공격 지원 / 공격 능력 증가"
+  },
+  "1000101131": {
+    "english": "This flavor...!: Attack power increase / AP increase Level 0",
+    "korean": "아니 이 맛은…! : 공격력 / 행동력 증가 Lv.0"
+  },
+  "1000101132": {
+    "english": "This flavor...!: Attack power increase / AP increase Level 1",
+    "korean": "아니 이 맛은…! : 공격력 / 행동력 증가 Lv.1"
+  },
+  "1000101133": {
+    "english": "This flavor...!: Attack power increase / AP increase Level 2",
+    "korean": "아니 이 맛은…! : 공격력 / 행동력 증가 Lv.2"
+  },
+  "1000101134": {
+    "english": "This flavor...!: Attack power increase / AP increase Level 3",
+    "korean": "아니 이 맛은…! : 공격력 / 행동력 증가 Lv.3"
+  },
+  "1000101135": {
+    "english": "This flavor...!: Attack power increase / AP increase Level 4",
+    "korean": "아니 이 맛은…! : 공격력 / 행동력 증가 Lv.4"
+  },
+  "1000101136": {
+    "english": "This flavor...!: Attack power increase / AP increase Level 5",
+    "korean": "아니 이 맛은…! : 공격력 / 행동력 증가 Lv.5"
+  },
+  "1000101137": {
+    "english": "This flavor...!: Attack power increase / AP increase Level 6",
+    "korean": "아니 이 맛은…! : 공격력 / 행동력 증가 Lv.6"
+  },
+  "1000101138": {
+    "english": "This flavor...!: Attack power increase / AP increase Level 7",
+    "korean": "아니 이 맛은…! : 공격력 / 행동력 증가 Lv.7"
+  },
+  "1000101139": {
+    "english": "This flavor...!: Attack power increase / AP increase Level 8",
+    "korean": "아니 이 맛은…! : 공격력 / 행동력 증가 Lv.8"
+  },
+  "1000101140": {
+    "english": "This flavor...!: Attack power increase / AP increase Level 9",
+    "korean": "아니 이 맛은…! : 공격력 / 행동력 증가 Lv.9"
+  },
+  "1000101141": {
+    "english": "This flavor...!: Attack power increase / AP increase Level 10",
+    "korean": "아니 이 맛은…! : 공격력 / 행동력 증가 Lv.10"
+  },
+  "1000101142": {
+    "english": "Suppressive Fire: Attack power decrease / Critical rate decrease / Damage received increase",
+    "korean": "견제 사격 : 공격력 / 치명타 감소 / 받는 피해 증가"
+  },
+  "1000101143": {
+    "english": "Flashbang: AP decrease / Accuracy decrease / Accuracy buff removal",
+    "korean": "섬광탄 : AP / 적중 감소 / 적중 강화 해제"
+  },
+  "1000101144": {
+    "english": "Spartan Formation: Attack power increase / AP increase / Damage received decrease",
+    "korean": "스파르탄 포메이션 : 공격력 / 행동력 증가 / 받는 피해 감소"
+  },
+  "1000101145": {
+    "english": "Focused Fire: Additional damage to EVA reduced targets",
+    "korean": "집중 사격 : 회피 감소 대상에게 추가 피해"
+  },
+  "1000101146": {
+    "english": "Capture: Additional damage to marked targets",
+    "korean": "포착 : 표식 대상에게 추가 피해"
+  },
+  "1000101147": {
+    "english": "Target Designation: Mark / Damage received increase / EVA decrease",
+    "korean": "타겟 설정 : 표식 / 받는 피해 증가 / 회피 감소"
+  },
+  "1000101148": {
+    "english": "Target Directive: Attack power increase / Critical rate increase / AP increase",
+    "korean": "목표 지시 : 공격력 / 치명타 / 행동력 증가"
+  },
+  "1000101149": {
+    "english": "Spartan Formation: Spartan series buff / Attack support",
+    "korean": "스파르탄 포메이션 : 스파르탄 시리즈 강화 / 공격 지원"
+  },
+  "1000101150": {
+    "english": "Target Designation: Damage received increase",
+    "korean": "타겟 설정 : 받는 피해 증가"
+  },
+  "1000101151": {
+    "english": "Rampart deployment: Attack power decrease / AP decrease",
+    "korean": "램파트 배치 시 공격력 / 행동력 감소"
+  },
+  "1000101152": {
+    "english": "Machine Gun Fire: Additional damage to Defense-reduced targets / ATK Power / CRIT reduction",
+    "korean": "기관포 사격 : 방어 감소 대상 추가 피해 / 공격력 / 치명타 감소"
+  },
+  "1000101153": {
+    "english": "Cruise Mode: Heavy allies' ATK Power / Action Power increase",
+    "korean": "순항 모드 : 중장형 아군 공격력 / 행동력 증가"
+  },
+  "1000101154": {
+    "english": "Armor Deployment Mode: Heavy allies' ATK Power / Action Power increase",
+    "korean": "장갑 전개 모드 : 중장형 아군 공격력 / 행동력 증가"
+  },
+  "1000101155": {
+    "english": "Experiment Preparation: AP decrease",
+    "korean": "실험 준비 : AP 감소"
+  },
+  "1000101156": {
+    "english": "Unknown Invention: Critical rate increase",
+    "korean": "정체 불명의 발명품 : 치명타 증가"
+  },
+  "1000101157": {
+    "english": "Output Deployment!!: Attack power increase / AP increase / Critical rate increase",
+    "korean": "출력 전개!! : 공격력 / 행동력 / 치명타 증가"
+  },
+  "1000101158": {
+    "english": "Assault Command (Offense): ATK Power / ACU/ Action Power increase",
+    "korean": "돌격 명령 (공격) : 공격력 / 적중 / 행동력 증가"
+  },
+  "1000101159": {
+    "english": "Cold Analysis: Attackers' AP increase",
+    "korean": "냉철한 분석 : 공격기 AP 증가"
+  },
+  "1000101160": {
+    "english": "Assault Command (Defense): Reduced damage taken / DEF/ Action Power increase",
+    "korean": "돌격 명령 (방어) : 받는 피해 감소 / 방어력 / 행동력 증가"
+  },
+  "1000101161": {
+    "english": "Defense Command Switch: Transform",
+    "korean": "방어 지휘 전환 : 변신"
+  },
+  "1000101162": {
+    "english": "High-Speed Charge: When <What Are You Looking At?> stack is max, Damage increase",
+    "korean": "초고속 돌진 : <어딜 보는거야?> 스택 최대 시, 피해량 증가"
+  },
+  "1000101163": {
+    "english": "Model Teacher: Attack power increase / Critical rate increase",
+    "korean": "모범 교사 : 공격력 / 치명타 증가"
+  },
+  "1000101164": {
+    "english": "Charge Concentration: Skill buff",
+    "korean": "전하 집속 : 스킬 강화"
+  },
+  "1000101165": {
+    "english": "Electrocution: Damage increase",
+    "korean": "감전 : 피해량 증가"
+  },
+  "1000101166": {
+    "english": "Electrocution: Damage reduction buff removal",
+    "korean": "감전 : 피해 감소 효과 해제"
+  },
+  "1000101167": {
+    "english": "Critical Strike: Damage increase on critical hits",
+    "korean": "회심의 일격 : 치명타 시, 피해량 증가"
+  },
+  "1000101168": {
+    "english": "Field Command: EVA increase (self)",
+    "korean": "현장 지휘 : 회피 증가 (자신)"
+  },
+  "1000101169": {
+    "english": "Radar Control: Mobile attacker/support protection",
+    "korean": "레이더 관제 : 기동형 공격기 / 지원기 보호"
+  },
+  "1000101170": {
+    "english": "Rapid Charge: AP increase",
+    "korean": "급속 충전 : AP 증가"
+  },
+  "1000101171": {
+    "english": "Field Command: Shield effect (self)",
+    "korean": "현장 지휘 : 방어막 효과 (자신)"
+  },
+  "1000101172": {
+    "english": "Strategic Bombing Equipment: ATK power increase / DEF penetration Level 1",
+    "korean": "전략 폭격 장비 : 공격력 증가 / 방어 관통 Lv.1"
+  },
+  "1000101173": {
+    "english": "Strategic Bombing Equipment: ATK power increase / DEF penetration Level 2",
+    "korean": "전략 폭격 장비 : 공격력 증가 / 방어 관통 Lv.2"
+  },
+  "1000101174": {
+    "english": "Strategic Bombing Equipment: ATK power increase / DEF penetration Level 3",
+    "korean": "전략 폭격 장비 : 공격력 증가 / 방어 관통 Lv.3"
+  },
+  "1000101175": {
+    "english": "Strategic Bombing Equipment: ATK power increase / DEF penetration Level 4",
+    "korean": "전략 폭격 장비 : 공격력 증가 / 방어 관통 Lv.4"
+  },
+  "1000101176": {
+    "english": "Strategic Bombing Equipment: ATK power increase / DEF penetration Level 5",
+    "korean": "전략 폭격 장비 : 공격력 증가 / 방어 관통 Lv.5"
+  },
+  "1000101177": {
+    "english": "Strategic Bombing Equipment: ATK power increase / DEF penetration Level 6",
+    "korean": "전략 폭격 장비 : 공격력 증가 / 방어 관통 Lv.6"
+  },
+  "1000101178": {
+    "english": "Strategic Bombing Equipment: ATK power increase / DEF penetration Level 7",
+    "korean": "전략 폭격 장비 : 공격력 증가 / 방어 관통 Lv.7"
+  },
+  "1000101179": {
+    "english": "Strategic Bombing Equipment: ATK power increase / DEF penetration Level 8",
+    "korean": "전략 폭격 장비 : 공격력 증가 / 방어 관통 Lv.8"
+  },
+  "1000101180": {
+    "english": "Strategic Bombing Equipment: ATK power increase / DEF penetration Level 9",
+    "korean": "전략 폭격 장비 : 공격력 증가 / 방어 관통 Lv.9"
+  },
+  "1000101181": {
+    "english": "Strategic Bombing Equipment: ATK power increase / DEF penetration Level 10",
+    "korean": "전략 폭격 장비 : 공격력 증가 / 방어 관통 Lv.10"
+  },
+  "1000101182": {
+    "english": "Strategic Bombing Equipment: ATK power increase / DEF penetration Level 11",
+    "korean": "전략 폭격 장비 : 공격력 증가 / 방어 관통 Lv.11"
+  },
+  "1000101183": {
+    "english": "Withering: Defense decrease / EVA decrease",
+    "korean": "위축 : 방어력 / 회피 감소"
+  },
+  "1000101184": {
+    "english": "Fear: Attack power decrease / Accuracy decrease",
+    "korean": "공포 : 공격력 / 적중 감소"
+  },
+  "1000101185": {
+    "english": "Depression: Defense decrease / AP decrease",
+    "korean": "의기소침 : 방어력 / 행동력 감소"
+  },
+  "1000101186": {
+    "english": "Morale Drop: Attack power decrease / Critical rate decrease",
+    "korean": "사기 저하 : 공격력 / 치명타 감소"
+  },
+  "1000101187": {
+    "english": "Seedling Planting: Fire resistance decrease / Damage amplification on defense decreased targets / Action disabled",
+    "korean": "묘목 심기 : 화염 저항 감소 / 방어력 감소 대상 피해 증폭 / 행동 불가"
+  },
+  "1000101188": {
+    "english": "Bush Ambush: ATK power increase / CRIT  increase / Damage received decrease",
+    "korean": "수풀 매복 : 공격력 / 치명타 증가 / 받는 피해 감소"
+  },
+  "1000101189": {
+    "english": "Overload Discharge: AP decrease / EVA decrease / Accuracy decrease / Range decrease",
+    "korean": "과부하 방전 : AP / 회피 / 적중 / 사거리 감소"
+  },
+  "1000101190": {
+    "english": "Signal Transmission: AP increase / Accuracy increase / Critical rate increase / Accuracy buff removal",
+    "korean": "전파 발신 : AP / 적중 / 치명타 증가 / 적중 감소 해제"
+  },
+  "1000101191": {
+    "english": "Mobile Base Station: Damage increase vs. mobile targets / Accuracy increase",
+    "korean": "이동형 기지국 : 대 기동형 피해 증가 / 적중 증가"
+  },
+  "1000101192": {
+    "english": "Alert Transmission: EVA increase / Damage received decrease (1 time)",
+    "korean": "경보 발신 : 회피 증가 / 받는 피해 감소 (1회)"
+  },
+  "1000101193": {
+    "english": "Self Power Generation: AP decrease / EVA decrease / Accuracy decrease / Range decrease",
+    "korean": "자가 발전 : AP / 회피 / 적중 / 사거리 감소"
+  },
+  "1000101194": {
+    "english": "Signal Transmission: AP increase / ACU increase / DEF penetration / CRIT  increase / ACU buff removal",
+    "korean": "전파 발신 : AP / 적중 / 방어 관통 / 치명타 증가 / 적중 감소 해제"
+  },
+  "1000101195": {
+    "english": "Mobile Base Station: Damage increase vs. AIR targets / ACU increase / Range increase",
+    "korean": "이동형 기지국 : 대 기동형 피해 증가 / 적중 / 사거리 증가"
+  },
+  "1000101196": {
+    "english": "Attack Disruption: ATK power decrease / ACU decrease / CRIT  decrease",
+    "korean": "공격 훼방 : 공격력 / 적중 / 치명타 감소"
+  },
+  "1000101197": {
+    "english": "Full Arms Supply: ATK power increase / ACU increase / CRIT  increase",
+    "korean": "전무장 보급 : 공격력 / 적중 / 치명타 증가"
+  },
+  "1000101198": {
+    "english": "Chick Advance: Attack support for supplied allies",
+    "korean": "칙 약진하기 : 보급 받은 아군의 공격 지원"
+  },
+  "1000101199": {
+    "english": "Battle Situation Judgment : Additional effects occur depending on deployment row",
+    "korean": "전황 판단 : 배치 열에 따른 추가 효과 발생"
+  },
+  "1000101200": {
+    "english": "Last Stand : Received damage increase and ATK increase and ACU increase and AP decrease",
+    "korean": "배수진 : 받는 피해 / 공격력 / 적중 증가 & 행동력 감소"
+  },
+  "1000101201": {
+    "english": "Attack Disruption : Self AP increase",
+    "korean": "공격 훼방 : 자신 행동력 증가"
+  },
+  "1000101202": {
+    "english": "March Forward : EVA increase when hit",
+    "korean": "칙 약진하기 : 피격 시 회피율 증가"
+  },
+  "1000101203": {
+    "english": "Electromagnetic Missile Barrage : CRIT decrease and Effect activation rate decrease and Range decrease",
+    "korean": "전자기장 미사일 난사 : 치명타 / 효과 발동률 / 사거리 감소"
+  },
+  "1000101204": {
+    "english": "Enhanced Barrier Deployment : Damage nullification and Effect resistance increase",
+    "korean": "강화 역장 전개 : 피해 무효화 / 효과 저항 증가"
+  },
+  "1000101205": {
+    "english": "Enhanced Antimatter Barrier : Damage nullification and Received damage decrease",
+    "korean": "강화 반물질 역장 : 피해 무효화 / 받는 피해 감소"
+  },
+  "1000101206": {
+    "english": "Battle Prediction : ACU increase and EVA increase and AP increase",
+    "korean": "전황 예측 : 적중 / 회피 / AP 증가"
+  },
+  "1000101207": {
+    "english": "Enhanced Concealment : EVA increase",
+    "korean": "강화 은폐장 : 회피 증가"
+  },
+  "1000101208": {
+    "english": "Disruptive Electromagnetic Missile : Effect resistance decrease and Range decrease",
+    "korean": "교란용 전자기장 미사일 : 효과 저항 / 사거리 감소"
+  },
+  "1000101209": {
+    "english": "Mode Setting : ATK increase and CRIT increase and DEF decrease and AP decrease",
+    "korean": "모드 설정 : 공격력 / 치명타 증가 & 방어력 / 행동력 감소"
+  },
+  "1000101210": {
+    "english": "Mobile Antimatter Barrier : Damage nullification",
+    "korean": "이동형 반물질 역장 : 피해 무효화"
+  },
+  "1000101211": {
+    "english": "Battle Pattern Analysis : ACU increase and CRIT increase and Effect resistance increase",
+    "korean": "전투 패턴 분석 : 적중 / 치명타 / 효과 저항 증가"
+  },
+  "1000101212": {
+    "english": "Enhanced Concealment : Upon battle start, EVA greatly increase",
+    "korean": "강화 은폐장 : 전투 개시 시, 회피 대폭 증가"
+  },
+  "1000101213": {
+    "english": "Sticky Bomb Rapid Fire : EVA decrease and EVA enhancement removal and AP decrease",
+    "korean": "점착탄 연사 : 회피 감소 / 회피 강화 해제 / 행동력 감소"
+  },
+  "1000101214": {
+    "english": "Precision Leading Fire : Increased damage when attacking mobile units",
+    "korean": "정밀 선도 사격 : 기동형 공격 시 피해 증가"
+  },
+  "1000101215": {
+    "english": "Counter Fire : AP increase when hit and counterattack",
+    "korean": "대응 사격 : 피격 시 행동력 증가 / 반격"
+  },
+  "1000101216": {
+    "english": "Sticky Bomb Rapid Fire : ACU increase and Range increase",
+    "korean": "점착탄 연사 : 적중 / 사거리 증가"
+  },
+  "1000101217": {
+    "english": "Precision Leading Fire : DEF penetration",
+    "korean": "정밀 선도 사격 : 방어 관통"
+  },
+  "1000101218": {
+    "english": "Linked Bombardment: Supports attacks from allied Mobile units when the enemy attacks",
+    "korean": "연계 폭격 : 적 공격 시, 기동형 아군 공격 지원"
+  },
+  "1000101219": {
+    "english": "Lend a Hand : AP increase and Protect designated target and Attack support",
+    "korean": "손 빌려주기 : AP 증가 / 지정 대상 보호 / 공격 지원"
+  },
+  "1000101220": {
+    "english": "Don’t Charge! : Front row ally AP increase and ATK increase and CRIT increase and Received damage increase",
+    "korean": "돌격이지말입니다! : 전열 아군 AP / 공격력 / 치명타 / 받는 피해 증가"
+  },
+  "1000101221": {
+    "english": "Starring Instinct: Increases ATK / CRIT/ DEF Penetration",
+    "korean": "주연 본능 : 공격력 / 치명타 / 방어 관통 증가"
+  },
+  "1000101222": {
+    "english": "Friend of the People : Protect designated target and ACU increase and AP increase",
+    "korean": "시민의 친구 : 지정 대상 보호 / 적중 / 행동력 증가"
+  },
+  "1000101223": {
+    "english": "Shock Bomb Drop : AP decrease",
+    "korean": "충격탄 투하 : AP 감소"
+  },
+  "1000101224": {
+    "english": "Alarm Activation : AP increase and Range increase and CRIT increase",
+    "korean": "경보 발령 : AP / 사거리 / 치명타 증가"
+  },
+  "1000101225": {
+    "english": "Surprise Deployment : Attack support",
+    "korean": "기습 편제 : 공격 지원"
+  },
+  "1000101226": {
+    "english": "Support Formation : ATK increase and DEF increase and Effect resistance increase",
+    "korean": "지원 대열 : 공격력 / 방어력 / 효과 저항 증가"
+  },
+  "1000101227": {
+    "english": "Support Formation : ATK increase and DEF increase and AP decrease",
+    "korean": "지원 대열 : 공격력 / 방어력 / 행동력 감소"
+  },
+  "1000101228": {
+    "english": "En Garde: Extra damage on CRIT",
+    "korean": "앙 가르드 : 치명타 시, 추가 피해"
+  },
+  "1000101229": {
+    "english": "Finale: Removes buffs from Duel target / Increases damage dealt",
+    "korean": "피날레 : 듀얼 개시 대상 강화 해제 / 피해량 증가"
+  },
+  "1000101230": {
+    "english": "Duelist: Increases CRIT/ Attack on attack",
+    "korean": "듀얼리스트 : 치명타 증가 / 공격 시, 공격력 증가"
+  },
+  "1000101231": {
+    "english": "Overture: On attack or kill, increases nearby allies' AP",
+    "korean": "오베르튜레 : 공격 또는 적 처치 시, 주변 아군 AP 증가"
+  },
+  "1000101232": {
+    "english": "Riposte: Counterattack / Increases EVA/ Reduces damage taken",
+    "korean": "리포스트 : 반격 / 회피 증가 / 받는 피해 감소"
+  },
+  "1000101233": {
+    "english": "Avant-garde : Marking and Taunt",
+    "korean": "앙 가르드 : 표식 설정 / 도발"
+  },
+  "1000101234": {
+    "english": "Duelist : AP increase Level 1",
+    "korean": "듀얼리스트 : 행동력 증가 Lv.1"
+  },
+  "1000101235": {
+    "english": "Duelist : AP increase Level 2",
+    "korean": "듀얼리스트 : 행동력 증가 Lv.2"
+  },
+  "1000101236": {
+    "english": "Riposte : CRIT counterattack",
+    "korean": "리포스트 : 치명타 반격"
+  },
+  "1000101237": {
+    "english": "Riposte: Increases EVA",
+    "korean": "리포스트 : 회피 증가"
+  },
+  "1000101238": {
+    "english": "Riposte: Reduces damage taken",
+    "korean": "리포스트 : 받는 피해 감소"
+  },
+  "1000101239": {
+    "english": "Performance : When attacking or killing an enemy, nearby ally AP increase",
+    "korean": "공연 퍼포먼스 : 공격 또는 적 처치 시, 주변 아군 AP 증가"
+  },
+  "1000101240": {
+    "english": "Finale : AP increase upon kill",
+    "korean": "피날레 : 처치 시 AP 증가"
+  },
+  "1000101241": {
+    "english": "E.O.B Model D OS : Received damage decrease and Effect resistance increase Level 1",
+    "korean": "E.O.B D형 OS : 받는 피해 감소 / 효과 저항 증가 Lv.1"
+  },
+  "1000101242": {
+    "english": "E.O.B Model D OS : Received damage decrease and Effect resistance increase Level 2",
+    "korean": "E.O.B D형 OS : 받는 피해 감소 / 효과 저항 증가 Lv.2"
+  },
+  "1000101243": {
+    "english": "E.O.B Model D OS : Received damage decrease and Effect resistance increase Level 3",
+    "korean": "E.O.B D형 OS : 받는 피해 감소 / 효과 저항 증가 Lv.3"
+  },
+  "1000101244": {
+    "english": "E.O.B Model D OS : Received damage decrease and Effect resistance increase Level 4",
+    "korean": "E.O.B D형 OS : 받는 피해 감소 / 효과 저항 증가 Lv.4"
+  },
+  "1000101245": {
+    "english": "E.O.B Model D OS : Received damage decrease and Effect resistance increase Level 5",
+    "korean": "E.O.B D형 OS : 받는 피해 감소 / 효과 저항 증가 Lv.5"
+  },
+  "1000101246": {
+    "english": "E.O.B Model D OS : Received damage decrease and Effect resistance increase Level 6",
+    "korean": "E.O.B D형 OS : 받는 피해 감소 / 효과 저항 증가 Lv.6"
+  },
+  "1000101247": {
+    "english": "E.O.B Model D OS : Received damage decrease and Effect resistance increase Level 7",
+    "korean": "E.O.B D형 OS : 받는 피해 감소 / 효과 저항 증가 Lv.7"
+  },
+  "1000101248": {
+    "english": "E.O.B Model D OS : Received damage decrease and Effect resistance increase Level 8",
+    "korean": "E.O.B D형 OS : 받는 피해 감소 / 효과 저항 증가 Lv.8"
+  },
+  "1000101249": {
+    "english": "E.O.B Model D OS : Received damage decrease and Effect resistance increase Level 9",
+    "korean": "E.O.B D형 OS : 받는 피해 감소 / 효과 저항 증가 Lv.9"
+  },
+  "1000101250": {
+    "english": "E.O.B Model D OS : Received damage decrease and Effect resistance increase Level 10",
+    "korean": "E.O.B D형 OS : 받는 피해 감소 / 효과 저항 증가 Lv.10"
+  },
+  "1000101251": {
+    "english": "E.O.B Model D OS : Received damage decrease and Effect resistance increase Level 11",
+    "korean": "E.O.B D형 OS : 받는 피해 감소 / 효과 저항 증가 Lv.11"
+  },
+  "1000101252": {
+    "english": "Twin Anti-Armor Missiles: DEF Penetration / Increased damage to Heavy units",
+    "korean": "2연장 대 장갑 미사일 : 방어 관통 / 중장형에게 피해량 증가"
+  },
+  "1000101253": {
+    "english": "BFG1000 Sniper Cannon: Increased damage to Marked targets",
+    "korean": "BFG1000 저격용 캐논포 : 표식 대상 피해량 증가"
+  },
+  "1000101254": {
+    "english": "Rumor Collector : ATK increase and CRIT increase and AP increase",
+    "korean": "루머 콜렉터 : 공격력 / 치명타 / 행동력 증가"
+  },
+  "1000101255": {
+    "english": "Anti-Heavy Armor Missile : DEF penetration increase",
+    "korean": "대 장갑 미사일 : 방어 관통 증가"
+  },
+  "1000101256": {
+    "english": "Duelist : Shield and Ignore damage reduction",
+    "korean": "듀얼리스트 : 방어막 / 피해 감소 무시"
+  },
+  "1000101257": {
+    "english": "Duelist : AP increase (Maximum)",
+    "korean": "듀얼리스트 : 행동력 증가 (최대)"
+  },
+  "1000101258": {
+    "english": "Bravery Stage 3: Increases allies' damage vs Heavy units",
+    "korean": "용맹 3단계 : 아군 대 중장형 피해량 증가"
+  },
+  "1000101259": {
+    "english": "Radiant Bravery: Further reduces damage taken / Increases Action Points",
+    "korean": "빛나는 용맹 : 받는 피해 추가 감소 / 행동력 증가"
+  },
+  "1000101260": {
+    "english": "Right Turn : ACU increase and CRIT increase (Self)",
+    "korean": "우향선회 : 적중 / 치명타 증가 (자신)"
+  },
+  "1000101261": {
+    "english": "Anti-Heavy Armor Missile : DEF penetration",
+    "korean": "대 장갑 미사일 : 방어 관통"
+  },
+  "1000101262": {
+    "english": "Extreme Discomfort : ATK increase and CRIT increase and AP decrease",
+    "korean": "극도의 불편함 : 공격력 /치명타 증가 / 행동력 감소"
+  },
+  "1000101263": {
+    "english": "Machine Gun Burst: Reduces ACU",
+    "korean": "기총 점사 : 적중 감소"
+  },
+  "1000101264": {
+    "english": "Make It a Beehive: Increases damage vs Mobile units",
+    "korean": "벌집 만들기 : 대 기동형 피해 증가"
+  },
+  "1000101265": {
+    "english": "Excited!: Increases AP when killing with a skill",
+    "korean": "신난다! : 스킬로 적 처치 시 AP 증가"
+  },
+  "1000101266": {
+    "english": "Bring It On!: Reduces damage taken the lower the HP%",
+    "korean": "덤벼덤벼! : HP% 낮을수록 받는 피해 감소"
+  },
+  "1000101267": {
+    "english": "Battle Obsession: Increases Attack upon Revive",
+    "korean": "전투 과몰입 : 전투 속행 시, 공격력 증가"
+  },
+  "1000101268": {
+    "english": "Targeted Bombardment: Increases ACU",
+    "korean": "조준 포격 : 적중 증가"
+  },
+  "1000101269": {
+    "english": "Package Delivery! : Damage amplification",
+    "korean": "택배 받아라! : 피해 증폭"
+  },
+  "1000101270": {
+    "english": "Package Delivery! : AP decrease",
+    "korean": "택배 받아라! : AP 감소"
+  },
+  "1000101271": {
+    "english": "Package Has Arrived!! : ATK increase and CRIT increase and ACU increase",
+    "korean": "택배 왔어요!! : 공격력 / 치명타 / 적중 증가"
+  },
+  "1000101272": {
+    "english": "Package Has Arrived!!! : ATK increase and CRIT increase and ACU increase",
+    "korean": "택배 왔어요!!! : 공격력 / 치명타 / 적중 증가"
+  },
+  "1000101273": {
+    "english": "Leave It To Me! : ATK increase and ACU increase and AP increase",
+    "korean": "맡겨주시지말입니다! : 공격력 / 적중 / 행동력 증가"
+  },
+  "1000101274": {
+    "english": "Frontline Reorganization : Attack support and Remove received damage increase",
+    "korean": "전열 재정비 : 공격 지원 / 받는 피해 증가 해제"
+  },
+  "1000101275": {
+    "english": "Frontline Reorganization : ATK increase and ACU increase and AP increase",
+    "korean": "전열 재정비 : 공격력 / 적중 / 행동력 증가"
+  },
+  "1000101276": {
+    "english": "Rapid Acceleration: Increases ACU/ Range",
+    "korean": "급가속 : 적중 / 사거리 증가"
+  },
+  "1000101277": {
+    "english": "Rapid Acceleration: Greatly increases EVA",
+    "korean": "급가속 : 회피 대폭 증가"
+  },
+  "1000101278": {
+    "english": "Rapid Acceleration: Increases Action Points when moving",
+    "korean": "급가속 : 이동 시, 행동력 증가"
+  },
+  "1000101279": {
+    "english": "Internal Destruction : Fixed physical damage",
+    "korean": "내부 파괴 : 고정 물리 피해"
+  },
+  "1000101280": {
+    "english": "Internal Destruction : Received damage increase",
+    "korean": "내부 파괴 : 받는 피해 증가"
+  },
+  "1000101281": {
+    "english": "Keen Eye : Self range increase",
+    "korean": "민감한 눈 : 자신 사거리 증가"
+  },
+  "1000101282": {
+    "english": "Rapid Speech : Adjacent bioroid ATK increase and EVA increase and AP increase",
+    "korean": "대사 촉진 : 인접 바이오로이드 공격력 / 회피 / 행동력 증가"
+  },
+  "1000101283": {
+    "english": "Formation Escort: Provides Designated Protection for allied Mobile units",
+    "korean": "편대 호위 : 기동형 아군 지정 보호"
+  },
+  "1000101284": {
+    "english": "Boar Hunting: Extra damage on CRIT",
+    "korean": "멧돼지 몰이 : 치명타 시, 피해량 증가"
+  },
+  "1000101285": {
+    "english": "Assault Preparation: Increases ATK/ ACU; on hit, increases EVA",
+    "korean": "돌입 준비 : 공격력 / 적중 증가. 공격 적중 시, 회피 증가"
+  },
+  "1000101286": {
+    "english": "Assault Preparation: Increases EVA when attacked",
+    "korean": "돌입 준비 : 적 공격 시, 회피 증가"
+  },
+  "1000101287": {
+    "english": "Forced Entry: Line protection / Increased Effect Resistance",
+    "korean": "강행 돌입 : 행 보호 / 효과 저항 증가"
+  },
+  "1000101288": {
+    "english": "Unyielding Firefighter : Received damage decrease and AP increase and Continue battle and Fire and Ice resistance increase",
+    "korean": "불굴의 소방관 : 받는 피해 감소 / 행동력 증가 / 전투 속행 / 화염, 냉기 저항 증가"
+  },
+  "1000101289": {
+    "english": "57mm Anti-Air Gun: Mark / Amplify Damage / Increased damage vs Mobile units",
+    "korean": "57mm 대공포 : 표식 / 피해 증폭 / 대 기동형 피해량 증가"
+  },
+  "1000101290": {
+    "english": "Bombardment Command: Increases AP / ATK/ Provides Attack Support",
+    "korean": "포격 지휘 : AP / 공격력 증가 / 공격 지원"
+  },
+  "1000101291": {
+    "english": "Crossfire: On attack, increases ACU/ CRIT/ DEF Penetration",
+    "korean": "협차 사격 : 공격 시, 적중 / 치명타 / 방어 관통 증가"
+  },
+  "1000101292": {
+    "english": "Interception Mode: Increases ATK/ ACU/ AP / DEF Penetration / Reduces damage taken",
+    "korean": "요격 모드 : 공격력 / 적중 / 행동력 / 방어 관통 증가 / 받는 피해 감소"
+  },
+  "1000101293": {
+    "english": "Observation Bombardment : ACU increase and CRIT increase",
+    "korean": "관측 포격 : 적중 / 치명타 증가"
+  },
+  "1000101294": {
+    "english": "57mm Anti-Air Gun: Amplify Damage",
+    "korean": "57mm 대공포 : 피해 증폭"
+  },
+  "1000101295": {
+    "english": "57mm Anti-Aircraft Gun : Damage increase to mobile units",
+    "korean": "57mm 대공포 : 대 기동형 피해량 증가"
+  },
+  "1000101296": {
+    "english": "Bombardment Command: Increases AP / Attack",
+    "korean": "포격 지휘 : AP / 공격력 증가"
+  },
+  "1000101297": {
+    "english": "Interception Mode: Switch to Bombardment Mode / Increases ATK/ DEF Penetration",
+    "korean": "요격 모드 : 포격 모드 변환 / 공격력 / 방어 관통 증가"
+  },
+  "1000101298": {
+    "english": "Observation Bombardment: Ignores Shields / Damage Reduction effects (Bombardment Mode)",
+    "korean": "관측 포격 : 방어막 / 피해 감소 효과 무시 (포격 모드)"
+  },
+  "1000101299": {
+    "english": "Devastation Bombardment: Mark / Increased damage to Immobilized targets",
+    "korean": "초토화 포격 : 표식 / 이동 불가 대상 피해량 증가"
+  },
+  "1000101300": {
+    "english": "Bombardment Mode: Increases ATK/ DEF Penetration / Reduces damage taken",
+    "korean": "포격 모드 : 공격력 / 방어 관통 증가 / 받는 피해 감소"
+  },
+  "1000101301": {
+    "english": "Devastation Bombardment: Reduces AP",
+    "korean": "초토화 포격 : AP 감소"
+  },
+  "1000101302": {
+    "english": "Bombardment Mode: Switch to Interception Mode",
+    "korean": "포격 모드 : 요격 모드로 변환"
+  },
+  "1000101303": {
+    "english": "Judgment : Mark and Damage amplification and ATK decrease and CRIT decrease",
+    "korean": "심판 : 표식 / 피해 증폭 / 공격력 / 치명타 감소"
+  },
+  "1000101304": {
+    "english": "Guardian Angel : Shield and ATK increase and DEF increase and ACU increase and EVA increase",
+    "korean": "수호 천사 : 방어막 / 공격력 / 방어력 / 적중 / 회피 증가"
+  },
+  "1000101305": {
+    "english": "Divine Protection : Shield and Received damage decrease and Heat protection effect",
+    "korean": "신의 가호 : 방어막 / 받는 피해 감소 / 열 보호 효과"
+  },
+  "1000101306": {
+    "english": "Reincarnation : Continue battle once when incapacitated",
+    "korean": "재림 : 전투 불능 시, 전투 속행 (1회)"
+  },
+  "1000101307": {
+    "english": "Holy War : Allies gain continue battle and Damage nullification once effect",
+    "korean": "성전 : 아군에게 전투 속행 / 피해 무효화 (1회) 효과"
+  },
+  "1000101308": {
+    "english": "Judgment : Damage amplification and ATK decrease and CRIT decrease and Damage increase",
+    "korean": "심판 : 피해 증폭 / 공격력 / 치명타 감소 / 피해량 증가"
+  },
+  "1000101309": {
+    "english": "Divine Protection : Shield and Received damage decrease (Reincarnation)",
+    "korean": "신의 가호 : 방어막 / 받는 피해 감소 (재림)"
+  },
+  "1000101310": {
+    "english": "Reincarnation : Damage minimization",
+    "korean": "재림 : 피해 최소화"
+  },
+  "1000101311": {
+    "english": "Reincarnation : AP increase and Effect resistance increase",
+    "korean": "재림 : 행동력 / 효과 저항 증가"
+  },
+  "1000101312": {
+    "english": "Forced Entry: Recon function",
+    "korean": "강행 돌입 : 정찰 기능"
+  },
+  "1000101313": {
+    "english": "Forced Entry: Increases AP during Forced Recon",
+    "korean": "강행 돌입 : 강행 정찰 시, AP 증가"
+  },
+  "1000101314": {
+    "english": "Threatening Fire (Enhanced): Increases damage taken",
+    "korean": "위협 사격 (강화) : 받는 피해 증가"
+  },
+  "1000101315": {
+    "english": "Assault Preparation: Increases ATK/ ACU (self)",
+    "korean": "돌입 준비 : 공격력 / 적중 증가 (자신)"
+  },
+  "1000101316": {
+    "english": "Holy War : Allies gain damage nullification once effect",
+    "korean": "성전 : 아군에게 피해 무효화 (1회) 효과"
+  },
+  "1000101317": {
+    "english": "Stun Shot : AP decrease and EVA decrease and Electric resistance decrease",
+    "korean": "스턴 샷 : AP / 회피 / 전기 저항 감소"
+  },
+  "1000101318": {
+    "english": "Electric Shock : AP decrease and EVA decrease",
+    "korean": "일렉트릭 쇼크 : AP / 회피 감소"
+  },
+  "1000101319": {
+    "english": "Overcharge : When hit by electric attack, ability increase",
+    "korean": "과충전 : 전기 공격을 맞을 경우, 능력 증가"
+  },
+  "1000101320": {
+    "english": "Discharge : Fixed damage when attacking while submerged",
+    "korean": "방전 : 침수 상태로 공격 시, 고정 피해"
+  },
+  "1000101321": {
+    "english": "Stun Shot : Unable to act and Damage increase",
+    "korean": "스턴 샷 : 행동 불가 / 피해량 증가"
+  },
+  "1000101322": {
+    "english": "Electric Shock : Remove damage reduction and Damage increase",
+    "korean": "일렉트릭 쇼크 : 피해 감소 해제 / 피해량 증가"
+  },
+  "1000101323": {
+    "english": "Discharge : Electric damage upon death while submerged",
+    "korean": "방전 : 침수 상태로 사망 시, 전기 피해"
+  },
+  "1000101324": {
+    "english": "Discharge : Unable to act when discharge effect applies while submerged",
+    "korean": "방전 : 침수 상태로 방전 효과 적용 시, 행동 불가"
+  },
+  "1000101325": {
+    "english": "Liquid Spray : Submerged effect",
+    "korean": "액체 분사 : 침수 효과"
+  },
+  "1000101326": {
+    "english": "Reorganization : Remove harmful effects and AP increase and ACU increase and Effect resistance increase",
+    "korean": "재 정비 : 해로운 효과 해제 / AP / 적중 / 효과 저항 증가"
+  },
+  "1000101327": {
+    "english": "Waterproof Gloves : Received damage decrease and Ice and Effect resistance increase",
+    "korean": "방수 장갑 : 받는 피해 감소 / 냉기와 효과 저항 증가"
+  },
+  "1000101328": {
+    "english": "Leakage : Submerged and AP decrease and AP decrease",
+    "korean": "누수 : 침수 / 행동력 / AP 감소"
+  },
+  "1000101329": {
+    "english": "Waterproof Gloves : EVA increase and AP increase and ACU decrease",
+    "korean": "방수 장갑 : 회피 / 행동력 증가 / 적중 감소"
+  },
+  "1000101330": {
+    "english": "Freezing Gas : Freeze submerged target",
+    "korean": "동결 가스 : 침수 대상 빙결"
+  },
+  "1000101331": {
+    "english": "Frozen Coating : Shield and DEF increase and Received damage decrease",
+    "korean": "빙결 코팅 : 방어막 / 방어력 증가 / 받는 피해 감소"
+  },
+  "1000101332": {
+    "english": "Rapid Cooling : Ability increase and Damage minimization if submerged",
+    "korean": "급속 냉각 : 침수 상태인 경우, 능력치 증가 / 피해 최소화"
+  },
+  "1000101333": {
+    "english": "Overheat : Ability decrease and Remove damage minimization when hit by fire attribute",
+    "korean": "과열 : 화염 속성 피격 시, 능력치 감소 / 피해 최소화 해제"
+  },
+  "1000101334": {
+    "english": "Rapid Cooling : Damage minimization",
+    "korean": "급속 냉각 : 피해 최소화"
+  },
+  "1000101335": {
+    "english": "Rapid Cooling : EVA increase",
+    "korean": "급속 냉각 : 회피 증가"
+  },
+  "1000101336": {
+    "english": "Rapid Cooling : AP increase",
+    "korean": "급속 냉각 : 행동력 증가"
+  },
+  "1000101337": {
+    "english": "Freezing Gas : Unable to move",
+    "korean": "동결 가스 : 이동 불가"
+  },
+  "1000101338": {
+    "english": "Shield Combo : Damage increase to unable to move target and Unable to act",
+    "korean": "방패 연타 : 이동 불가 대상 피해량 증가 / 행동 불가"
+  },
+  "1000101339": {
+    "english": "Chic Blocking : Physical protection and Heat protection and Received damage decrease",
+    "korean": "칙 블로킹 : 행 보호 / 열 보호 / 받는 피해 감소"
+  },
+  "1000101340": {
+    "english": "Chic Defense Command : Ally DEF increase and Received damage decrease",
+    "korean": "칙 방어 지휘 : 아군 방어력 증가 / 받는 피해 감소"
+  },
+  "1000101341": {
+    "english": "Chic Guts Activation : DEF increase and AP increase when hit",
+    "korean": "칙 근성 발동 : 피격 시, 방어력 / 행동력 증가"
+  },
+  "1000101342": {
+    "english": "Chic Blocking : Counterattack",
+    "korean": "칙 블로킹 : 반격"
+  },
+  "1000101343": {
+    "english": "Chic Guts Activation : AP increase",
+    "korean": "칙 근성 발동 : 행동력 증가"
+  },
+  "1000101344": {
+    "english": "Chic Guts Activation : Continue battle",
+    "korean": "칙 근성 발동 : 전투 속행"
+  },
+  "1000101345": {
+    "english": "Last Guts : Damage minimization and Ignore shield and damage reduction",
+    "korean": "최후의 근성 : 피해 최소화 / 방어막&피해 감소 무시"
+  },
+  "1000101346": {
+    "english": "Modified Machine Gun Suppression : ATK decrease and CRIT decrease and ACU decrease and AP decrease",
+    "korean": "개조 기총 견제 : 공격력 / 치명타 / 적중 / 행동력 감소"
+  },
+  "1000101347": {
+    "english": "Interception Stance : DEF increase and Received damage decrease and Counterattack",
+    "korean": "요격 태세 : 방어력 증가 / 받는 피해 감소 / 반격"
+  },
+  "1000101348": {
+    "english": "Frontline Defense Formation : Designated target protection and AP increase",
+    "korean": "전열 방어 대형 : 지정 대상 보호 / AP 증가"
+  },
+  "1000101349": {
+    "english": "Emergency Support Request : Ally air attacker AP increase and ATK increase and AP increase",
+    "korean": "긴급 지원 요청 : 아군 공격기 AP / 공격력 / 행동력 증가"
+  },
+  "1000101350": {
+    "english": "Modified Machine Gun: Increased damage to Light units / Targets with reduced DEF or EVA",
+    "korean": "개조 머신건 : 경장형 / 방어력 또는 회피 감소 대상 피해량 증가"
+  },
+  "1000101351": {
+    "english": "Vibration Crusher Shell : Remove DEF increase and Received damage decrease effect",
+    "korean": "진동 분쇄탄 : 방어력 증가 / 받는 피해 감소 효과 해제"
+  },
+  "1000101352": {
+    "english": "Output Limit Release: Increased ATK power / action power / decreased CRIT/ continuous fixed damage",
+    "korean": "출력 한계 해제 : 공격력 / 행동력 증가 / 적중 감소 / 지속 고정 피해"
+  },
+  "1000101353": {
+    "english": "Overpower Explosion : Fixed damage and Buff removal upon death in output amplification state",
+    "korean": "과출력 유폭 : <출력 증폭> 상태로 사망 시, 고정 피해 / 강화 해제"
+  },
+  "1000101354": {
+    "english": "Output Limit Release : ACU decrease",
+    "korean": "출력 한계 해제 : 적중 감소"
+  },
+  "1000101355": {
+    "english": "Output Limit Release : Continuous fixed damage",
+    "korean": "출력 한계 해제 : 지속 고정 피해"
+  },
+  "1000101356": {
+    "english": "Modified Machine Gun : Damage increase to light armored",
+    "korean": "개조 머신건 : 대 경장형 피해 증가"
+  },
+  "1000101357": {
+    "english": "Vibration Crusher Shell : Damage increase to DEF decreased target",
+    "korean": "진동 분쇄탄 : 방어력 감소 대상 피해량 증가"
+  },
+  "1000101358": {
+    "english": "High Voltage Stun Gun : AP decrease and EVA decrease and AP decrease",
+    "korean": "고전압 스턴건 : AP / 회피 / 행동력 감소"
+  },
+  "1000101359": {
+    "english": "Intruder Capture : Pull forward and Unable to move and Buff removal",
+    "korean": "침입자 포획 : 앞으로 당기기 / 이동 불가 / 강화 해제"
+  },
+  "1000101360": {
+    "english": "Parallel Processing : AP increase and CRIT increase and AP increase and Effect resistance increase at battle start",
+    "korean": "연산 병렬처리 : 전투 개시 시, AP / 치명타 / 행동력 / 효과 저항 증가"
+  },
+  "1000101361": {
+    "english": "Network Error : ACU decrease and Range decrease",
+    "korean": "네트워크 오류 : 적중 / 사거리 감소"
+  },
+  "1000101362": {
+    "english": "High Voltage Stun Gun : Unable to act (Light armor / Heavy armor)",
+    "korean": "고전압 스턴건 : 행동 불가 (경장 / 중장)"
+  },
+  "1000101363": {
+    "english": "Intruder Capture : AP increase",
+    "korean": "침입자 포획 : 행동력 증가"
+  },
+  "1000101364": {
+    "english": "Parallel Processing : CRIT increase",
+    "korean": "연산 병렬처리 : 치명타 증가"
+  },
+  "1000101365": {
+    "english": "Parallel Processing : AP increase",
+    "korean": "연산 병렬처리 : 행동력 증가"
+  },
+  "1000101366": {
+    "english": "Parallel Processing : Effect resistance increase",
+    "korean": "연산 병렬처리 : 효과 저항 증가"
+  },
+  "1000101367": {
+    "english": "Freezing : Unable to act / Received damage increase / Buff removal",
+    "korean": "빙결 : 행동 불가 / 받는 피해 증가 / 강화 해제"
+  },
+  "1000101368": {
+    "english": "Focused Breakthrough : Damage increase to frozen target",
+    "korean": "일점 돌파 : 빙결 상태 대상에게 피해량 증가"
+  },
+  "1000101369": {
+    "english": "Intruder Alert: Increased EVA when attacking.",
+    "korean": "침입자 경계 : 공격 시 회피 증가"
+  },
+  "1000101370": {
+    "english": "Assault Preparation : ATK increase / CRIT increase",
+    "korean": "강습 준비 : 공격력 / 치명타 증가"
+  },
+  "1000101371": {
+    "english": "Frozen Gas Spray : Cold resistance decrease",
+    "korean": "냉동 가스 분사 : 냉기 저항 감소"
+  },
+  "1000101372": {
+    "english": "Frozen Gas Spray : Electric resistance decrease",
+    "korean": "냉동 가스 분사 : 전기 저항 감소"
+  },
+  "1000101373": {
+    "english": "Intruder Alert : Received damage increase",
+    "korean": "침입자 경계 : 받는 피해 증가"
+  },
+  "1000101374": {
+    "english": "Evasion Suppression Shot : Mark / Received damage increase / EVA decrease",
+    "korean": "회피 견제 사격 : 표식 / 받는 피해 증가 / 회피 감소"
+  },
+  "1000101375": {
+    "english": "Anti-Air Machine Gun Barrage : EVA decrease / Damage increase to air",
+    "korean": "대공 기총 난사 : 회피 감소 / 대 기동형 피해량 증가"
+  },
+  "1000101376": {
+    "english": "Anti-Air Radar System : CRIT / ACU / Damage increase to air",
+    "korean": "대공 레이더 시스템 : 치명타 / 적중 / 대 기동형 피해 증가"
+  },
+  "1000101377": {
+    "english": "Goal Setting error: Action power decreased / Skills unusable",
+    "korean": "목표 설정 오류 : 행동력 감소 / 스킬 사용 불가"
+  },
+  "1000101378": {
+    "english": "Evasion Suppression Shot : EVA decrease",
+    "korean": "회피 견제 사격 : 회피 감소"
+  },
+  "1000101379": {
+    "english": "Evasion Suppression Shot : EVA decrease to air",
+    "korean": "회피 견제 사격 : 기동형 회피 감소"
+  },
+  "1000101380": {
+    "english": "Anti-Air Machine Gun Barrage : Additional damage to air / EVA decrease / Remove EVA increase",
+    "korean": "대공 기총 난사 : 대 기동형 추가 피해 / 회피 감소 / 회피 증가 해제"
+  },
+  "1000101381": {
+    "english": "Depth Charge Launch: On critical hit, additional fire damage / increased damage to light and Heavy armor",
+    "korean": "폭뢰 발사 : 치명타 시, 추가 화염 피해 / 대 경장 / 중장 피해량 증가"
+  },
+  "1000101382": {
+    "english": "Ground Analysis Radar : ATK / DEF / CRIT / ACU / EVA decrease",
+    "korean": "지상 분석 레이더 : 공격력 / 방어력 / 치명타 / 적중 / 회피 감소"
+  },
+  "1000101383": {
+    "english": "Defense Formation Support : Ally protector attack support / AP increase",
+    "korean": "방어 대열 지원 : 아군 보호기 공격 지원 / AP 증가"
+  },
+  "1000101384": {
+    "english": "Pinpoint Bombardment : DEF penetration increase / Ignore shield and damage reduction",
+    "korean": "핀 포인트 폭격 : 방어 관통 증가 / 방어막&피해 감소 무시"
+  },
+  "1000101385": {
+    "english": "Analysis Complete : AP increase",
+    "korean": "분석 완료 : 행동력 증가"
+  },
+  "1000101386": {
+    "english": "Depth Charge Launch: Increases damage to light and Heavy-sized guns.",
+    "korean": "폭뢰 발사 : 대 경장 / 중장 피해량 증가"
+  },
+  "1000101387": {
+    "english": "Ground Disruption Wave : Mark / Damage amplification / ACU / EVA decrease (Light armor / Heavy armor)",
+    "korean": "지면 교란 파장 : 표식 / 피해 증폭 / 적중 / 회피 감소 (경장 / 중장)"
+  },
+  "1000101388": {
+    "english": "Improved Flashbang : ACU / CRIT / AP decrease / Remove ACU increase",
+    "korean": "개량형 섬광탄 : 적중 / 치명타 / AP 감소 / 적중 증가 해제"
+  },
+  "1000101389": {
+    "english": "Precision Ground Radar : Ignore shield and damage reduction / Damage increase to light and heavy armor",
+    "korean": "정밀 지상 레이더 : 방어막&피해 감소 무시 / 대 경장&중장 피해량 증가"
+  },
+  "1000101390": {
+    "english": "Information Transmission Error : ACU / CRIT / AP decrease",
+    "korean": "정보 발신 오류 : 적중 / 치명타 / 행동력 감소"
+  },
+  "1000101391": {
+    "english": "Ground Disruption Wave : EVA increase",
+    "korean": "지면 교란 파장 : 회피 증가"
+  },
+  "1000101392": {
+    "english": "Underwater Cutter: Reduces defense / Removes defense boost",
+    "korean": "수중용 절단기 : 방어 감소 / 방어력 강화 해제"
+  },
+  "1000101393": {
+    "english": "Cyclone Stream: Push back / Increase damage taken",
+    "korean": "사이클론 스트림 : 뒤로 밀기 / 받는 피해 증가"
+  },
+  "1000101394": {
+    "english": "Frontier Leader: Increases Action Points/All Resistances",
+    "korean": "프런티어 리더 : 행동력 / 모든 저항 증가"
+  },
+  "1000101395": {
+    "english": "Abyss Walker: Increases cold resistance / reduces damage taken",
+    "korean": "어비스 워커 : 냉기 저항 증가 / 받는 피해 감소"
+  },
+  "1000101396": {
+    "english": "Underwater Cutter: Critical Hit: Damage reduction removed",
+    "korean": "수중용 절단기 : 치명타 시, 피해 감소 해제"
+  },
+  "1000101397": {
+    "english": "Cyclone Stream: Freeze (Unable to act)",
+    "korean": "사이클론 스트림 : 빙결 (행동 불가)"
+  },
+  "1000101398": {
+    "english": "Cyclone Stream: Increased damage taken",
+    "korean": "사이클론 스트림 : 받는 피해 증가"
+  },
+  "1000101399": {
+    "english": "Abyss Walker: When submerged, ATK power/CRIT/action power increases.",
+    "korean": "어비스 워커 : 침수 시, 공격력 / 치명타 / 행동력 증가"
+  },
+  "1000101400": {
+    "english": "Abyss Walker: When submerged, ATK power/CRIT/action power increases (ally)",
+    "korean": "어비스 워커 : 침수 시, 공격력 / 치명타 / 행동력 증가 (아군)"
+  },
+  "1000101401": {
+    "english": "Blitz Storm : AP decrease / EVA decrease",
+    "korean": "블리츠 스톰 : AP / 회피 감소"
+  },
+  "1000101402": {
+    "english": "Jupitel Strike : AP decrease / EVA decrease",
+    "korean": "유피텔 스트라이크 : AP / 회피 감소"
+  },
+  "1000101403": {
+    "english": "Electromagnetic Wave Disruption : EVA increase / Counterattack once",
+    "korean": "전자기파 교란 : 회피 증가 / 반격 (1회)"
+  },
+  "1000101404": {
+    "english": "Energy Convert : Electric resistance / ATK increase",
+    "korean": "에너지 컨버트 : 전기 저항 / 공격력 증가"
+  },
+  "1000101405": {
+    "english": "Electromagnetic Guidance : Electric resistance decrease / Apply <Electromagnetic Guidance> state to enemy",
+    "korean": "전자기 유도 : 전기 저항 감소 적 <전자기 유도> 상태 부여"
+  },
+  "1000101406": {
+    "english": "Blitz Storm : Mark / Unable to move / Damage increase",
+    "korean": "블리츠 스톰 : 표식 / 이동 불가 피해량 증가"
+  },
+  "1000101407": {
+    "english": "Jupitel Strike : Damage increase on CRIT",
+    "korean": "유피텔 스트라이크 : 치명타 시 피해량 증가"
+  },
+  "1000101408": {
+    "english": "Jupitel Strike : Damage increase to air",
+    "korean": "유피텔 스트라이크 : 대 기동형 피해 증가"
+  },
+  "1000101409": {
+    "english": "Electromagnetic Wave Disruption : EVA increase / Counterattack",
+    "korean": "전자기파 교란 : 회피 증가 / 반격"
+  },
+  "1000101410": {
+    "english": "Electromagnetic Wave Disruption : Self EVA increase",
+    "korean": "전자기파 교란 : 자신 회피 증가"
+  },
+  "1000101411": {
+    "english": "Electromagnetic Wave Disruption : Counterattack",
+    "korean": "전자기파 교란 : 반격"
+  },
+  "1000101412": {
+    "english": "Energy Convert : ATK increase",
+    "korean": "에너지 컨버트 : 공격력 증가"
+  },
+  "1000101413": {
+    "english": "Energy Convert : AP increase at max charge",
+    "korean": "에너지 컨버트 : 최대 충전 시, 행동력 증가"
+  },
+  "1000101414": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 1",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.1"
+  },
+  "1000101415": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 2",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.2"
+  },
+  "1000101416": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 3",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.3"
+  },
+  "1000101417": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 4",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.4"
+  },
+  "1000101418": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 5",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.5"
+  },
+  "1000101419": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 6",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.6"
+  },
+  "1000101420": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 7",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.7"
+  },
+  "1000101421": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 8",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.8"
+  },
+  "1000101422": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 9",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.9"
+  },
+  "1000101423": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 10",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.10"
+  },
+  "1000101424": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 11",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.11"
+  },
+  "1000101425": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 12",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.12"
+  },
+  "1000101426": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 13",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.13"
+  },
+  "1000101427": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 14",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.14"
+  },
+  "1000101428": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 15",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.15"
+  },
+  "1000101429": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 16",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.16"
+  },
+  "1000101430": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 17",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.17"
+  },
+  "1000101431": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 18",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.18"
+  },
+  "1000101432": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 19",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.19"
+  },
+  "1000101433": {
+    "english": "Aqua Module: ATK / CRIT / ACU / EVA / AP increase Level 20",
+    "korean": "아쿠아 모듈 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.20"
+  },
+  "1000101434": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 1",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.1"
+  },
+  "1000101435": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 2",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.2"
+  },
+  "1000101436": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 3",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.3"
+  },
+  "1000101437": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 4",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.4"
+  },
+  "1000101438": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 5",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.5"
+  },
+  "1000101439": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 6",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.6"
+  },
+  "1000101440": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 7",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.7"
+  },
+  "1000101441": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 8",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.8"
+  },
+  "1000101442": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 9",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.9"
+  },
+  "1000101443": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 10",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.10"
+  },
+  "1000101444": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 11",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.11"
+  },
+  "1000101445": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 12",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.12"
+  },
+  "1000101446": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 13",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.13"
+  },
+  "1000101447": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 14",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.14"
+  },
+  "1000101448": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 15",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.15"
+  },
+  "1000101449": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 16",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.16"
+  },
+  "1000101450": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 17",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.17"
+  },
+  "1000101451": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 18",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.18"
+  },
+  "1000101452": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 19",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.19"
+  },
+  "1000101453": {
+    "english": "Battlefield Analysis OS: ATK / CRIT / ACU / EVA / AP increase Level 20",
+    "korean": "전황 분석 OS : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가 Lv.20"
+  },
+  "1000101454": {
+    "english": "Sun Cream: ATK / DEF / ACU / EVA / AP increase Level 1",
+    "korean": "선 크림 : 공격력 / 방어력 / 적중 / 회피 / 행동력 증가 Lv.1"
+  },
+  "1000101455": {
+    "english": "Sun Cream: ATK / DEF / ACU / EVA / AP increase Level 2",
+    "korean": "선 크림 : 공격력 / 방어력 / 적중 / 회피 / 행동력 증가 Lv.2"
+  },
+  "1000101456": {
+    "english": "Sun Cream: ATK / DEF / ACU / EVA / AP increase Level 3",
+    "korean": "선 크림 : 공격력 / 방어력 / 적중 / 회피 / 행동력 증가 Lv.3"
+  },
+  "1000101457": {
+    "english": "Sun Cream: ATK / DEF / ACU / EVA / AP increase Level 4",
+    "korean": "선 크림 : 공격력 / 방어력 / 적중 / 회피 / 행동력 증가 Lv.4"
+  },
+  "1000101458": {
+    "english": "Sun Cream: ATK / DEF / ACU / EVA / AP increase Level 5",
+    "korean": "선 크림 : 공격력 / 방어력 / 적중 / 회피 / 행동력 증가 Lv.5"
+  },
+  "1000101459": {
+    "english": "Sun Cream: ATK / DEF / ACU / EVA / AP increase Level 6",
+    "korean": "선 크림 : 공격력 / 방어력 / 적중 / 회피 / 행동력 증가 Lv.6"
+  },
+  "1000101460": {
+    "english": "Sun Cream: ATK / DEF / ACU / EVA / AP increase Level 7",
+    "korean": "선 크림 : 공격력 / 방어력 / 적중 / 회피 / 행동력 증가 Lv.7"
+  },
+  "1000101461": {
+    "english": "Sun Cream: ATK / DEF / ACU / EVA / AP increase Level 8",
+    "korean": "선 크림 : 공격력 / 방어력 / 적중 / 회피 / 행동력 증가 Lv.8"
+  },
+  "1000101462": {
+    "english": "Sun Cream: ATK / DEF / ACU / EVA / AP increase Level 9",
+    "korean": "선 크림 : 공격력 / 방어력 / 적중 / 회피 / 행동력 증가 Lv.9"
+  },
+  "1000101463": {
+    "english": "Sun Cream: ATK / DEF / ACU / EVA / AP increase Level 10",
+    "korean": "선 크림 : 공격력 / 방어력 / 적중 / 회피 / 행동력 증가 Lv.10"
+  },
+  "1000101464": {
+    "english": "Sun Cream: ATK / DEF / ACU / EVA / AP increase Level 11",
+    "korean": "선 크림 : 공격력 / 방어력 / 적중 / 회피 / 행동력 증가 Lv.11"
+  },
+  "1000101465": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 1",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.1"
+  },
+  "1000101466": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 2",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.2"
+  },
+  "1000101467": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 3",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.3"
+  },
+  "1000101468": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 4",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.4"
+  },
+  "1000101469": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 5",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.5"
+  },
+  "1000101470": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 6",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.6"
+  },
+  "1000101471": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 7",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.7"
+  },
+  "1000101472": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 8",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.8"
+  },
+  "1000101473": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 9",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.9"
+  },
+  "1000101474": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 10",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.10"
+  },
+  "1000101475": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 11",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.11"
+  },
+  "1000101476": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 12",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.12"
+  },
+  "1000101477": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 13",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.13"
+  },
+  "1000101478": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 14",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.14"
+  },
+  "1000101479": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 15",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.15"
+  },
+  "1000101480": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 16",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.16"
+  },
+  "1000101481": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 17",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.17"
+  },
+  "1000101482": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 18",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.18"
+  },
+  "1000101483": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 19",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.19"
+  },
+  "1000101484": {
+    "english": "High Mobility Maneuver: If EVA increased state, received damage decrease Level 20",
+    "korean": "고기동 메뉴버 : 회피 증가 상태인 경우, 받는 피해 감소 Lv.20"
+  },
+  "1000101485": {
+    "english": "Cooling Pack: AP increase on attack Level 1",
+    "korean": "냉각 팩 : 공격 시, AP 증가 Lv.1"
+  },
+  "1000101486": {
+    "english": "Cooling Pack: AP increase on attack Level 2",
+    "korean": "냉각 팩 : 공격 시, AP 증가 Lv.2"
+  },
+  "1000101487": {
+    "english": "Cooling Pack: AP increase on attack Level 3",
+    "korean": "냉각 팩 : 공격 시, AP 증가 Lv.3"
+  },
+  "1000101488": {
+    "english": "Cooling Pack: AP increase on attack Level 4",
+    "korean": "냉각 팩 : 공격 시, AP 증가 Lv.4"
+  },
+  "1000101489": {
+    "english": "Cooling Pack: AP increase on attack Level 5",
+    "korean": "냉각 팩 : 공격 시, AP 증가 Lv.5"
+  },
+  "1000101490": {
+    "english": "Cooling Pack: AP increase on attack Level 6",
+    "korean": "냉각 팩 : 공격 시, AP 증가 Lv.6"
+  },
+  "1000101491": {
+    "english": "Cooling Pack: AP increase on attack Level 7",
+    "korean": "냉각 팩 : 공격 시, AP 증가 Lv.7"
+  },
+  "1000101492": {
+    "english": "Cooling Pack: AP increase on attack Level 8",
+    "korean": "냉각 팩 : 공격 시, AP 증가 Lv.8"
+  },
+  "1000101493": {
+    "english": "Cooling Pack: AP increase on attack Level 9",
+    "korean": "냉각 팩 : 공격 시, AP 증가 Lv.9"
+  },
+  "1000101494": {
+    "english": "Cooling Pack: AP increase on attack Level 10",
+    "korean": "냉각 팩 : 공격 시, AP 증가 Lv.10"
+  },
+  "1000101495": {
+    "english": "Cooling Pack: AP increase on attack Level 11",
+    "korean": "냉각 팩 : 공격 시, AP 증가 Lv.11"
+  },
+  "1000101496": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 1",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.1"
+  },
+  "1000101497": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 2",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.2"
+  },
+  "1000101498": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 3",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.3"
+  },
+  "1000101499": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 4",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.4"
+  },
+  "1000101500": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 5",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.5"
+  },
+  "1000101501": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 6",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.6"
+  },
+  "1000101502": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 7",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.7"
+  },
+  "1000101503": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 8",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.8"
+  },
+  "1000101504": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 9",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.9"
+  },
+  "1000101505": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 10",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.10"
+  },
+  "1000101506": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 11",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.11"
+  },
+  "1000101507": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 12",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.12"
+  },
+  "1000101508": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 13",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.13"
+  },
+  "1000101509": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 14",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.14"
+  },
+  "1000101510": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 15",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.15"
+  },
+  "1000101511": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 16",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.16"
+  },
+  "1000101512": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 17",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.17"
+  },
+  "1000101513": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 18",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.18"
+  },
+  "1000101514": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 19",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.19"
+  },
+  "1000101515": {
+    "english": "Output Limit Release: ATK / AP increase / ACU decrease Level 20",
+    "korean": "출력 제한 해제 : 공격력 / 행동력 증가 / 적중 감소 Lv.20"
+  },
+  "1000101516": {
+    "english": "Battle Record: EXP increase on attack Level 1",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.1"
+  },
+  "1000101517": {
+    "english": "Battle Record: EXP increase on attack Level 2",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.2"
+  },
+  "1000101518": {
+    "english": "Battle Record: EXP increase on attack Level 3",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.3"
+  },
+  "1000101519": {
+    "english": "Battle Record: EXP increase on attack Level 4",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.4"
+  },
+  "1000101520": {
+    "english": "Battle Record: EXP increase on attack Level 5",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.5"
+  },
+  "1000101521": {
+    "english": "Battle Record: EXP increase on attack Level 6",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.6"
+  },
+  "1000101522": {
+    "english": "Battle Record: EXP increase on attack Level 7",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.7"
+  },
+  "1000101523": {
+    "english": "Battle Record: EXP increase on attack Level 8",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.8"
+  },
+  "1000101524": {
+    "english": "Battle Record: EXP increase on attack Level 9",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.9"
+  },
+  "1000101525": {
+    "english": "Battle Record: EXP increase on attack Level 10",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.10"
+  },
+  "1000101526": {
+    "english": "Battle Record: EXP increase on attack Level 11",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.11"
+  },
+  "1000101527": {
+    "english": "Battle Record: EXP increase on attack Level 12",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.12"
+  },
+  "1000101528": {
+    "english": "Battle Record: EXP increase on attack Level 13",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.13"
+  },
+  "1000101529": {
+    "english": "Battle Record: EXP increase on attack Level 14",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.14"
+  },
+  "1000101530": {
+    "english": "Battle Record: EXP increase on attack Level 15",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.15"
+  },
+  "1000101531": {
+    "english": "Battle Record: EXP increase on attack Level 16",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.16"
+  },
+  "1000101532": {
+    "english": "Battle Record: EXP increase on attack Level 17",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.17"
+  },
+  "1000101533": {
+    "english": "Battle Record: EXP increase on attack Level 18",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.18"
+  },
+  "1000101534": {
+    "english": "Battle Record: EXP increase on attack Level 19",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.19"
+  },
+  "1000101535": {
+    "english": "Battle Record: EXP increase on attack Level 20",
+    "korean": "전투 기록 : 공격 시, 경험치 증가 Lv.20"
+  },
+  "1000101536": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.1",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.1"
+  },
+  "1000101537": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.2",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.2"
+  },
+  "1000101538": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.3",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.3"
+  },
+  "1000101539": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.4",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.4"
+  },
+  "1000101540": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.5",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.5"
+  },
+  "1000101541": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.6",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.6"
+  },
+  "1000101542": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.7",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.7"
+  },
+  "1000101543": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.8",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.8"
+  },
+  "1000101544": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.9",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.9"
+  },
+  "1000101545": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.10",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.10"
+  },
+  "1000101546": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.11",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.11"
+  },
+  "1000101547": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.12",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.12"
+  },
+  "1000101548": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.13",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.13"
+  },
+  "1000101549": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.14",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.14"
+  },
+  "1000101550": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.15",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.15"
+  },
+  "1000101551": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.16",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.16"
+  },
+  "1000101552": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.17",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.17"
+  },
+  "1000101553": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.18",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.18"
+  },
+  "1000101554": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.19",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.19"
+  },
+  "1000101555": {
+    "english": "Energy Converter: Barrier removal / ATK / AP increase Lv.20",
+    "korean": "에너지 전환기 : 방어막 해제 / 공격력 / 행동력 증가 Lv.20"
+  },
+  "1000101556": {
+    "english": "Electromagnetic Induction: Fixed damage on attack against <Electromagnetic Induction> state target",
+    "korean": "전자기 유도 : <전자기 유도> 상태인 적 공격 시, 고정 피해"
+  },
+  "1000101557": {
+    "english": "Here, here!: Increased ATK power/CRIT",
+    "korean": "여기야 여기! : 공격력 / 치명타 증가"
+  },
+  "1000101558": {
+    "english": "Speed ​​Race! : Increased allied ATK power/CRIT",
+    "korean": "속도 승부야! : 아군 공격력 / 치명타 증가"
+  },
+  "1000101559": {
+    "english": "Speed ​​Race!: EVA /Action Power Reduction Removed",
+    "korean": "속도 승부야! : 회피 / 행동력 감소 해제"
+  },
+  "1000101560": {
+    "english": "Vanguard: On enemy defeat, ATK / CRIT / AP increase",
+    "korean": "뱅가드 : 적 처치 시, 공격력 / 치명타 / 행동력 증가"
+  },
+  "1000101561": {
+    "english": "Vanguard: On enemy defeat, ATK / CRIT / AP increase (self)",
+    "korean": "뱅가드 : 적 처치 시, 공격력 / 치명타 / 행동력 증가 (자신)"
+  },
+  "1000101562": {
+    "english": "Vanguard: Fire resistance / Cold resistance increase",
+    "korean": "뱅가드 : 화염 저항/냉기 저항 증가"
+  },
+  "1000101563": {
+    "english": "Hell Sentinel: Designated target protection",
+    "korean": "지옥의 파수꾼 : 지정 대상 보호"
+  },
+  "1000101564": {
+    "english": "Leg Targeting: Increases damage to immobilized targets.",
+    "korean": "다리 노리기 : 이동 불가 대상 피해량 증가"
+  },
+  "1000101565": {
+    "english": "Cleanup: When you kill an enemy, the AP of allies receiving your support increases.",
+    "korean": "뒷정리 : 적 처치 시, 자신의 지원을 받는 아군 AP 증가"
+  },
+  "1000101566": {
+    "english": "Suppression Barrage: Increased damage to large-caliber weapons",
+    "korean": "제압 난사 : 대 경장형 피해량 증가"
+  },
+  "1000101567": {
+    "english": "Fire Support: Increased AP",
+    "korean": "화력 지원 : AP 증가"
+  },
+  "1000101568": {
+    "english": "Anti-aircraft fire: Increased damage to anti-mobile units",
+    "korean": "대공 사격 : 대 기동형 피해량 증가"
+  },
+  "1000101569": {
+    "english": "Heavy Rain Warning: Soaked / CRIT hit increases damage",
+    "korean": "호우 주의보 : 침수 / 치명타 시, 피해량 증가"
+  },
+  "1000101570": {
+    "english": "Hazard Storm: DEF reduction / incoming damage increase / additional fire damage",
+    "korean": "해저드 스톰 : 방어력 감소 / 받는 피해 증가 / 추가 화염 피해"
+  },
+  "1000101571": {
+    "english": "Relaxation: Removes AP increase / ATK / ACU / CRIT increase",
+    "korean": "느긋함 : 행동력 증가 해제 / 공격력 / 적중 / 치명타 증가"
+  },
+  "1000101572": {
+    "english": "Weather Optimization: Mobile-type ally AP / AP / all resistances increase",
+    "korean": "기상 최적화 : 기동형 아군 AP / 행동력 / 모든 저항 증가"
+  },
+  "1000101573": {
+    "english": "Fortune: Low chance to greatly increase ATK on attack / damage minimization",
+    "korean": "강운 : 낮은 확률로 공격 시 공격력 대폭 증가 / 받는 피해 최소화"
+  },
+  "1000101574": {
+    "english": "Heavy Rain Warning: CRIT hit increases damage",
+    "korean": "호우 주의보 : 치명타 시, 피해량 증가"
+  },
+  "1000101575": {
+    "english": "Heavy Rain Warning: CRIT hit reduces ACU",
+    "korean": "호우 주의보 : 치명타 시, 적중 감소"
+  },
+  "1000101576": {
+    "english": "Hazard Storm: Removes damage reduction",
+    "korean": "해저드 스톰 : 피해 감소 해제"
+  },
+  "1000101577": {
+    "english": "Hazard Storm: Fixed damage if target is corroded",
+    "korean": "해저드 스톰 : 부식 시, 고정 피해"
+  },
+  "1000101578": {
+    "english": "Weather Optimization: Mobile-type ally AP / all resistances increase",
+    "korean": "기상 최적화 : 기동형 아군 행동력 / 모든 저항 증가"
+  },
+  "1000101579": {
+    "english": "Fortune: Low chance to minimize incoming damage",
+    "korean": "강운 : 낮은 확률로 받는 피해 최소화"
+  },
+  "1000101580": {
+    "english": "Flame Spray: Reduces Armor/Fire Resistance",
+    "korean": "화염 분사 : 방어력 / 화염 저항 감소"
+  },
+  "1000101581": {
+    "english": "Incineration start: Dust state",
+    "korean": "소각 개시 : 분진 상태"
+  },
+  "1000101582": {
+    "english": "Adaptive Armor: Increases all resistances/armor.",
+    "korean": "적응형 방호복 : 모든 저항 / 방어력 증가"
+  },
+  "1000101583": {
+    "english": "Agent Cover: Protects target directly behind (excluding shield) / Heat Protection",
+    "korean": "요원 엄폐 : 바로 뒤의 대상 보호 (보호기 제외) / 열 보호"
+  },
+  "1000101584": {
+    "english": "Incinerate Start: Fixed physical damage",
+    "korean": "소각 개시 : 고정 물리 피해"
+  },
+  "1000101585": {
+    "english": "Adaptive Armor: Increases fire resistance when hit by fire-attribute attacks.",
+    "korean": "적응형 방호복 : 화염 속성 피격 시, 화염 저항 증가"
+  },
+  "1000101586": {
+    "english": "Adaptive Armor: Increases cold resistance when hit by cold-type attacks.",
+    "korean": "적응형 방호복 : 냉기 속성 피격 시, 냉기 저항 증가"
+  },
+  "1000101587": {
+    "english": "Adaptive Armor: Increases electrical resistance when hit by electrical properties.",
+    "korean": "적응형 방호복 : 전기 속성 피격 시, 전기 저항 증가"
+  },
+  "1000101588": {
+    "english": "Agent Cover: Thermal Protection",
+    "korean": "요원 엄폐 : 열 보호"
+  },
+  "1000101589": {
+    "english": "Agent Cover: Reduces damage taken",
+    "korean": "요원 엄폐 : 받는 피해 감소"
+  },
+  "1000101590": {
+    "english": "Weapon Destruction: ATK / CRIT / ACU reduction",
+    "korean": "무장 파괴 : 공격력 / 치명타 / 적중 감소"
+  },
+  "1000101591": {
+    "english": "Formation Defense: Barrier / damage reduction / counterattack / unit protection",
+    "korean": "진형 사수 : 방어막 / 받는 피해 감소 / 반격 / 행 보호"
+  },
+  "1000101592": {
+    "english": "Defense Deployment: Heat protection / damage reduction",
+    "korean": "방진 전개 : 열 보호 / 받는 피해 감소"
+  },
+  "1000101593": {
+    "english": "Output Overload: Greatly increases offensive capability / applies continuous fixed damage",
+    "korean": "출력 오버로드 : 공격 능력 대폭 증가 / 지속 고정 피해 적용"
+  },
+  "1000101594": {
+    "english": "Weapon Destruction: CRIT reduction",
+    "korean": "무장 파괴 : 치명타 감소"
+  },
+  "1000101595": {
+    "english": "Weapon Destruction: ACU reduction",
+    "korean": "무장 파괴 : 적중 감소"
+  },
+  "1000101596": {
+    "english": "Defense Deployment: Damage reduction",
+    "korean": "방진 전개 : 받는 피해 감소"
+  },
+  "1000101597": {
+    "english": "Output Overload: Increases DEF when ally dies",
+    "korean": "출력 오버로드 : 아군 사망 시, 방어력 증가"
+  },
+  "1000101598": {
+    "english": "Output Overload: Catastrophic fixed damage upon death",
+    "korean": "출력 오버로드 : 사망 시, 괴멸적인 고정피해"
+  },
+  "1000101599": {
+    "english": "Cluster Extension Missile: Mark / incoming damage increase / AP decrease",
+    "korean": "집속 연장 미사일 : 표식 / 받는 피해 증가 / AP 감소"
+  },
+  "1000101600": {
+    "english": "Output Limit Removal: ATK / CRIT increase / ignores barrier and damage reduction",
+    "korean": "출력 한도 해제 : 공격력 / 치명타 증가 / 방어막과 피해 감소 무시"
+  },
+  "1000101601": {
+    "english": "Battlefield Analysis: On hit, AP / effect resistance increase",
+    "korean": "전황 분석 : 피격 시 AP / 효과 저항 증가"
+  },
+  "1000101602": {
+    "english": "Field Recovery: Damage reduction / AP increase / counterattack",
+    "korean": "현장 수습 : 받는 피해 감소 / 행동력 증가 / 반격"
+  },
+  "1000101603": {
+    "english": "Loss of Command Core: ATK / CRIT / ACU / EVA / AP reduction",
+    "korean": "지휘 중추 상실 : 공격력 / 치명타 / 적중 / 회피 / 행동력 감소"
+  },
+  "1000101604": {
+    "english": "Field Recovery: Counterattack",
+    "korean": "현장 수습 : 반격"
+  },
+  "1000101605": {
+    "english": "Shredder Minigun: Mark / increased damage to immobile targets",
+    "korean": "파쇄 미니건 : 표식 / 이동 불가 대상 피해량 증가"
+  },
+  "1000101606": {
+    "english": "Capture Shell Launch: Immobile / EVA / AP reduction",
+    "korean": "포획탄 발사 : 이동 불가 / 회피 / 행동력 감소"
+  },
+  "1000101607": {
+    "english": "Tactical Response: AP increase for units under 25% HP / offensive support",
+    "korean": "상황 대응 : HP 25% 이하 대상 행동력 증가 / 공격 지원"
+  },
+  "1000101608": {
+    "english": "Targeting Share System: Increases ACU of adjacent allies",
+    "korean": "조준 공유 시스템 : 인접 아군 적중 증가"
+  },
+  "1000101609": {
+    "english": "Shredder Minigun: Mark / removes damage reduction for immobile targets",
+    "korean": "파쇄 미니건 : 표식 / 이동 불가 대상 피해 감소 해제"
+  },
+  "1000101610": {
+    "english": "Capture Shell Launch: Removes buffs from marked targets",
+    "korean": "포획탄 발사 : 표식 대상 강화 효과 해제"
+  },
+  "1000101611": {
+    "english": "Capture Shell Launch: Self AP increase",
+    "korean": "포획탄 발사 : 자신 행동력 증가"
+  },
+  "1000101612": {
+    "english": "Targeting Share System: Removes ACU buff from adjacent allies / ACU decrease",
+    "korean": "조준 공유 시스템 : 인접 아군 적중 강화 해제 / 적중 감소"
+  },
+  "1000101613": {
+    "english": "Shotgun Bombardment: DEF reduction / increased damage to immobile targets",
+    "korean": "산탄 포격 : 방어력 감소 / 이동 불가 피해량 증가"
+  },
+  "1000101614": {
+    "english": "Wide-Area Howitzer: Increased damage vs Light / Mobile types",
+    "korean": "확산형 곡사포 : 경장 / 기동형 피해량 증가"
+  },
+  "1000101615": {
+    "english": "Bombardment Adjustment: On attack, ACU / CRIT increase",
+    "korean": "포격 보정 : 공격 시, 적중 / 치명타 증가"
+  },
+  "1000101616": {
+    "english": "Enhanced Armor: Greatly increases DEF",
+    "korean": "증가 장갑 : 방어력 대폭 증가"
+  },
+  "1000101617": {
+    "english": "Enhanced Armor: Removes DEF buff",
+    "korean": "증가 장갑 : 방어력 강화 해제"
+  },
+  "1000101618": {
+    "english": "Knuckle Buster: More power when HP is low / Barrier and damage reduction ignored at 25% HP or lower",
+    "korean": "너클 버스터 : HP 낮을수록 위력 증가 / HP 25% 이하 시 방어막 / 피해 감소 무시"
+  },
+  "1000101619": {
+    "english": "Charge Smash: Knockback / AP reduction",
+    "korean": "차지 스매시 : 뒤로 밀기 / AP 감소"
+  },
+  "1000101620": {
+    "english": "Improved Defense OS: Greatly increases DEF / Effect Resistance until attacking",
+    "korean": "개량형 방어 OS : 공격하기 전까지 방어력 / 효과 저항 대폭 증가"
+  },
+  "1000101621": {
+    "english": "Patrol Outpost: Protects nearby non-guard allies / EVA increase",
+    "korean": "거점 순찰 : 인접 보호기 제외 아군 보호 / 행동력 증가"
+  },
+  "1000101622": {
+    "english": "Knuckle Buster: If HP is 25% or less, applies barrier / ignores damage reduction",
+    "korean": "너클 버스터 : HP 25% 이하 시 방어막 / 피해 감소 무시"
+  },
+  "1000101623": {
+    "english": "Improved Defense OS: Greatly increases Effect Resistance until attacking",
+    "korean": "개량형 방어 OS : 공격하기 전까지 효과 저항 대폭 증가"
+  },
+  "1000101624": {
+    "english": "S. Blitz Storm: Reduces AP / EVA / Electric Resistance / EVA",
+    "korean": "S. 블리츠 스톰 : AP / 회피 / 전기 저항 / 행동력 감소"
+  },
+  "1000101625": {
+    "english": "H. Jupiter Strike: Stun / Remove buffs / Increased damage on CRIT",
+    "korean": "H. 유피텔 스트라이크 : 행동 불가 / 강화 해제 / 치명타 시, 피해량 증가"
+  },
+  "1000101626": {
+    "english": "Electromagnetic Wave Pulse: EVA increases based on Charge stacks / Counterattack on EVA",
+    "korean": "전자기파 파장 : <전하 충전> 수 비례 회피 증가 / 회피 시, 반격"
+  },
+  "1000101627": {
+    "english": "Max Charge: Increases offensive ability if Charge is 5 or more",
+    "korean": "전하 최대 충전 : <전하 충전> 5 이상 시, 공격 능력 증가"
+  },
+  "1000101628": {
+    "english": "Overcharge Explosion: On death, deals catastrophic physical damage to nearby units",
+    "korean": "과충전 폭발 : 처치될 경우, 주변에 괴멸적인 물리 피해"
+  },
+  "1000101629": {
+    "english": "H. Jupiter Strike: Increased damage on CRIT",
+    "korean": "H. 유피텔 스트라이크 : 치명타 시, 피해량 증가"
+  },
+  "1000101630": {
+    "english": "Electromagnetic Wave Pulse: EVA increases based on Charge stacks",
+    "korean": "전자기파 파장 : <전하 충전> 수 비례 회피 증가"
+  },
+  "1000101631": {
+    "english": "Electromagnetic Wave Pulse: Counterattack when EVA occurs",
+    "korean": "전자기파 파장 : 회피 시, 반격"
+  },
+  "1000101632": {
+    "english": "Max Charge: Removes buffs / causes stun when hit by Ice attacks",
+    "korean": "전하 최대 충전 : 냉기 속성 피격 시, 강화 해제 / 행동 불가"
+  },
+  "1000101633": {
+    "english": "Charge: Increases ATK / AP",
+    "korean": "전하 충전 : 공격력 / AP 증가"
+  },
+  "1000101634": {
+    "english": "Shield Charge: Applies barrier",
+    "korean": "실드 충전 : 방어막 적용"
+  },
+  "1000101635": {
+    "english": "Recovery System: Grants revive effect",
+    "korean": "복원 시스템 : 전투 속행 효과"
+  },
+  "1000101636": {
+    "english": "Standby Recovery: On revival, unit is stunned",
+    "korean": "복원 대기 : 전투 속행 시, 행동 불가"
+  },
+  "1000101637": {
+    "english": "Charge: AP increase",
+    "korean": "전하 충전 : AP 증가"
+  },
+  "1000101638": {
+    "english": "Knuckle Buster: Knockback",
+    "korean": "너클 버스터 : 뒤로 밀기"
+  },
+  "1000101639": {
+    "english": "Revolver Cannon: Taunt the target",
+    "korean": "리볼버 캐논 : 대상 도발"
+  },
+  "1000101640": {
+    "english": "Guard Mode!: EVA increase",
+    "korean": "경비 모드! : 행동력 증가"
+  },
+  "1000101641": {
+    "english": "Shield Deployment: Counterattack",
+    "korean": "방패 전개 : 반격"
+  },
+  "1000101642": {
+    "english": "All-out assault!: Increased ATK power, CRIT, and action points.",
+    "korean": "전원 돌격! : 공격력 / 치명타 / 행동력 증가"
+  },
+  "1000101643": {
+    "english": "Rocket Bash: CRIT has a chance to stun",
+    "korean": "로켓 배쉬 : 치명타 시, 행동 불가 확률 증가"
+  },
+  "1000101644": {
+    "english": "Base Defense Mode: Reduces incoming damage",
+    "korean": "거점 방어 모드 : 받는 피해 감소"
+  },
+  "1000101645": {
+    "english": "Rocket Bash: On CRIT, remove damage reduction / increase damage dealt",
+    "korean": "로켓 배쉬 : 치명타 시, 피해 감소 해제 / 피해량 증가"
+  },
+  "1000101646": {
+    "english": "Precision Targeting: AP increase",
+    "korean": "정밀 포착 : AP 증가"
+  },
+  "1000101647": {
+    "english": "Precision Targeting: Removes range reduction",
+    "korean": "정밀 포착 : 사거리 감소 해제"
+  },
+  "1000101648": {
+    "english": "Protective Field: Protect Allies",
+    "korean": "보호 역장 : 아군 보호"
+  },
+  "1000101649": {
+    "english": "Friendly Cover: Thermal Protection",
+    "korean": "아군 엄폐 : 열 보호"
+  },
+  "1000101650": {
+    "english": "HVAP bullet: Increased damage when critically hit",
+    "korean": "HVAP탄 : 치명타 시, 피해량 증가"
+  },
+  "1000101651": {
+    "english": "Heavy Machine Gun: Increased damage to light machine guns",
+    "korean": "중 기관포 : 대 경장 피해량 증가"
+  },
+  "1000101652": {
+    "english": "Skilled Mining: ATK / CRIT / DEF Penetration increase",
+    "korean": "숙련된 채굴 : 공격력 / 치명타 / 방어 관통 증가"
+  },
+  "1000101653": {
+    "english": "Chain Explosion: On enemy kill, removes damage reduction effects",
+    "korean": "연쇄 폭파 : 적 처치 시, 피해 감소 효과 해제"
+  },
+  "1000101654": {
+    "english": "Crushing Drill: Increased damage on CRIT",
+    "korean": "파쇄 드릴 : 치명타 시, 피해량 증가"
+  },
+  "1000101655": {
+    "english": "Enhanced Crushing Drill: Reduces DEF on CRIT",
+    "korean": "강화 파쇄 드릴 : 치명타 시, 방어력 감소"
+  },
+  "1000101656": {
+    "english": "Bow Your Head!: Increases the forward Defender's DEF/EVA/action power.",
+    "korean": "머리 숙여! : 전방의 보호기 방어력 / 회피 / 행동력 증가"
+  },
+  "1000101657": {
+    "english": "Bow your head!: Increases ATK power/CRIT",
+    "korean": "머리 숙여! : 공격력 / 적중 증가"
+  },
+  "1000101658": {
+    "english": "Tomo and Friends: Increases ATK power, ACU, CRIT, and action power per friend.",
+    "korean": "토모와 친구들 : 단짝 한 기당 공격력 / 적중 / 치명타 / 행동력 증가"
+  },
+  "1000101659": {
+    "english": "Tomo and Friends: CRIT increase",
+    "korean": "토모와 친구들 : 치명타 증가"
+  },
+  "1000101660": {
+    "english": "Tomo and Friends: ACU increase",
+    "korean": "토모와 친구들 : 적중 증가"
+  },
+  "1000101661": {
+    "english": "Tomo and Friends: EVA increase",
+    "korean": "토모와 친구들 : 행동력 증가"
+  },
+  "1000101662": {
+    "english": "Tomo and Friends: ATK increase",
+    "korean": "토모와 친구들 : 공격력 증가"
+  },
+  "1000101663": {
+    "english": "Ground Force Escort: Increases self-defense, reduces damage taken / Protects allies within range except mobile units and increases AP when attacking",
+    "korean": "지상군 호위 : 자신 방어력 증가, 받는 피해 감소 / 범위 내 기동형 제외 아군 보호 및 공격 시 AP 증가"
+  },
+  "1000101664": {
+    "english": "Ground Force Escort: Increased DEF",
+    "korean": "지상군 호위 : 방어력 증가"
+  },
+  "1000101665": {
+    "english": "Ground Force Escort: Reduces damage taken",
+    "korean": "지상군 호위 : 받는 피해 감소"
+  },
+  "1000101666": {
+    "english": "Heavy Rain Warning: On CRIT, EVA reduction",
+    "korean": "호우 주의보 : 치명타 시, 회피 감소"
+  },
+  "1000101667": {
+    "english": "Telescopic Sight (Backline) Lv.1: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.1"
+  },
+  "1000101668": {
+    "english": "Telescopic Sight (Backline) Lv.2: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.2"
+  },
+  "1000101669": {
+    "english": "Telescopic Sight (Backline) Lv.3: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.3"
+  },
+  "1000101670": {
+    "english": "Telescopic Sight (Backline) Lv.4: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.4"
+  },
+  "1000101671": {
+    "english": "Telescopic Sight (Backline) Lv.5: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.5"
+  },
+  "1000101672": {
+    "english": "Telescopic Sight (Backline) Lv.6: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.6"
+  },
+  "1000101673": {
+    "english": "Telescopic Sight (Backline) Lv.7: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.7"
+  },
+  "1000101674": {
+    "english": "Telescopic Sight (Backline) Lv.8: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.8"
+  },
+  "1000101675": {
+    "english": "Telescopic Sight (Backline) Lv.9: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.9"
+  },
+  "1000101676": {
+    "english": "Telescopic Sight (Backline) Lv.10: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.10"
+  },
+  "1000101677": {
+    "english": "Telescopic Sight (Backline) Lv.11: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.11"
+  },
+  "1000101678": {
+    "english": "Telescopic Sight (Backline) Lv.12: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.12"
+  },
+  "1000101679": {
+    "english": "Telescopic Sight (Backline) Lv.13: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.13"
+  },
+  "1000101680": {
+    "english": "Telescopic Sight (Backline) Lv.14: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.14"
+  },
+  "1000101681": {
+    "english": "Telescopic Sight (Backline) Lv.15: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.15"
+  },
+  "1000101682": {
+    "english": "Telescopic Sight (Backline) Lv.16: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.16"
+  },
+  "1000101683": {
+    "english": "Telescopic Sight (Backline) Lv.17: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.17"
+  },
+  "1000101684": {
+    "english": "Telescopic Sight (Backline) Lv.18: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.18"
+  },
+  "1000101685": {
+    "english": "Telescopic Sight (Backline) Lv.19: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.19"
+  },
+  "1000101686": {
+    "english": "Telescopic Sight (Backline) Lv.20: ATK / ACU / CRIT increase",
+    "korean": "망원 조준장치 : 후열인 경우, 공격력 / 적중 / 치명타 증가 Lv.20"
+  },
+  "1000101687": {
+    "english": "Anti-Armor Round: DEF Penetration increase",
+    "korean": "대 장갑탄 : 방어 관통 증가"
+  },
+  "1000101688": {
+    "english": "Ice Age: Cold Resistance / Action Points Reduced / Freezing Effect",
+    "korean": "아이스 에이지 : 냉기 저항 / 행동력 감소 / 빙결 효과"
+  },
+  "1000101689": {
+    "english": "Penguin Surprise!: Increased damage on critical hits / Fixed damage to frozen targets",
+    "korean": "펭귄 서프라이즈! : 치명타 시, 피해량 증가 / 빙결 대상에게 고정 피해"
+  },
+  "1000101690": {
+    "english": "Mimic: Minimizes damage taken / Increases ATK power / CRIT",
+    "korean": "의태 : 받는 피해 최소화 / 공격력 / 치명타 증가"
+  },
+  "1000101691": {
+    "english": "Polar Countermeasures: Increased Cold Resistance / Increased AP of designated protected targets",
+    "korean": "극지 대비책 : 냉기 저항 증가 / 지정 보호 받는 대상 AP 증가"
+  },
+  "1000101692": {
+    "english": "Freeze: Stun",
+    "korean": "빙결 : 행동 불가"
+  },
+  "1000101693": {
+    "english": "Freeze: Increases damage taken",
+    "korean": "빙결 : 받는 피해 증가"
+  },
+  "1000101694": {
+    "english": "Penguin Surprise!: Fixed damage to frozen target",
+    "korean": "펭귄 서프라이즈! : 빙결 대상에게 고정 피해"
+  },
+  "1000101695": {
+    "english": "Piercing Steel: Mark / Damage amplification / EVA reduction",
+    "korean": "찌르는 강철 : 표식 / 피해 증폭 / 회피 감소"
+  },
+  "1000101696": {
+    "english": "Rain of Steel: Mark / Increased damage against immobilized enemies",
+    "korean": "강철의 비 : 표식 / 이동 불가 대상 피해량 증가"
+  },
+  "1000101697": {
+    "english": "Pride of the Strong: ATK / CRIT increase / More damage against enemies with lower HP%",
+    "korean": "강자의 품격 : 공격력 / 치명타 증가 / 적 HP% 낮을수록 피해량 증가"
+  },
+  "1000101698": {
+    "english": "Joy of Sadism: When attacking an enemy, action points increase / AP recovery with a certain probability when killing an enemy",
+    "korean": "가학의 기쁨 : 적 공격 시, 행동력 증가 / 처치 시 일정 확률로 AP 회복"
+  },
+  "1000101699": {
+    "english": "Slaughter Instinct: Increases damage dealt to large-scale units / Ignores shield and damage reduction effects",
+    "korean": "학살 본능 : 대 경장형 피해량 증가 / 방어막&피해 감소 효과 무시"
+  },
+  "1000101700": {
+    "english": "Sadistic Pleasure (Prey Capture): Restores AP with a certain probability.",
+    "korean": "가학의 기쁨 (먹잇감 포착) : 일정 확률로 AP 회복"
+  },
+  "1000101701": {
+    "english": "Sadism's Joy (Steel Rain): AP recovery with a certain probability",
+    "korean": "가학의 기쁨 (강철의 비) : 일정 확률로 AP 회복"
+  },
+  "1000101702": {
+    "english": "Instinct to Kill: Ignores shield and damage reduction effects",
+    "korean": "학살 본능 : 방어막&피해 감소 효과 무시"
+  },
+  "1000101703": {
+    "english": "Standby Recovery: On revive, unit is stunned / Minimizes damage taken",
+    "korean": "복원 대기 : 전투 속행 시, 행동 불가 / 피해 최소화"
+  },
+  "1000101704": {
+    "english": "Wave Cancel: On Ice hit, removes EVA increase",
+    "korean": "파장 해제 : 냉기 속성 피격 시, 회피 증가 해제"
+  },
+  "1000101705": {
+    "english": "Polar Countermeasures: Increased Cold Resistance",
+    "korean": "극지 대비책 : 냉기 저항 증가"
+  },
+  "1000101706": {
+    "english": "Electromagnetic Wave Pulse: Increases EVA when attacking an enemy",
+    "korean": "전자기파 파장 : 적 공격 시, 회피 증가"
+  },
+  "1000101707": {
+    "english": "S. Blitz Storm: AP reduction",
+    "korean": "S. 블리츠 스톰 : AP 감소"
+  },
+  "1000101708": {
+    "english": "Drawing Attention: Taunt / ACU reduction",
+    "korean": "주의 끌기 : 대상 도발 / 적중 감소"
+  },
+  "1000101709": {
+    "english": "F.F Missile: Increased damage against DEF-reduced enemies",
+    "korean": "F.F 미사일 : 방어 감소 대상 피해 증가"
+  },
+  "1000101710": {
+    "english": "Right Turn: Protect designated target / Support attack / Remove EVA increase",
+    "korean": "우향선회 : 지정 대상 보호 / 공격 지원 / 회피 증가 해제"
+  },
+  "1000101711": {
+    "english": "Arrogance and Rage: EVA decrease / Remove EVA increase / Damage taken increase",
+    "korean": "오만과 분노 : 회피 감소 / 회피 증가 해제 / 받는 피해 증가"
+  },
+  "1000101712": {
+    "english": "Right Turn: EVA increase",
+    "korean": "우향 선회 : 회피 증가"
+  },
+  "1000101713": {
+    "english": "F.F Missile (against light-armored): Ignore barrier / Ignore damage reduction / Increased damage to light-armored",
+    "korean": "F.F 미사일 (대 경장) : 방어막 / 피해 감소 무시 / 대 경장형 피해량 증가"
+  },
+  "1000101714": {
+    "english": "Right Turn: Protect designated target / Support attack (air / heavy)",
+    "korean": "우향선회 : 지정 대상 보호 / 공격 지원 (기동/중장)"
+  },
+  "1000101715": {
+    "english": "Right Turn: Remove EVA decrease",
+    "korean": "우향 선회 : 회피 감소 해제"
+  },
+  "1000101716": {
+    "english": "Drawing Attention: DEF decrease / ACU decrease",
+    "korean": "주의 끌기 : 방어력 / 적중 감소"
+  },
+  "1000101717": {
+    "english": "F.F Missile: Increased damage to taunted target",
+    "korean": "F.F 미사일 : 도발 대상 피해량 증가"
+  },
+  "1000101718": {
+    "english": "F.F Missile (against heavy-armored): Ignore DEF / Increased damage to heavy-armored",
+    "korean": "F.F 미사일 (대 중장) : 방어력 무시 / 대 중장형 피해량 증가"
+  },
+  "1000101719": {
+    "english": "Arrogance and Rage: ATK / CRIT / ACU / AP / EVA increase",
+    "korean": "오만과 분노 : 공격력 / 치명타 / 적중 / 행동력 / 회피 증가"
+  },
+  "1000101720": {
+    "english": "Drawing Attention: EVA / ACU decrease",
+    "korean": "주의 끌기 : 회피 / 적중 감소"
+  },
+  "1000101721": {
+    "english": "F.F Missile (against air): Increased damage to air",
+    "korean": "F.F 미사일 (대 기동) : 대 기동형 피해량 증가"
+  },
+  "1000101722": {
+    "english": "F.F Missile (against air): Remove EVA increase",
+    "korean": "F.F 미사일 (대 기동) : 회피 증가 해제"
+  },
+  "1000101723": {
+    "english": "Right Turn: EVA increase at battle start",
+    "korean": "우향 선회 : 전투 개시 시, 회피 증가"
+  },
+  "1000101724": {
+    "english": "F.F Missile: Increased damage to marked target",
+    "korean": "F.F 미사일 : 표식 대상 피해량 증가"
+  },
+  "1000101725": {
+    "english": "Right Turn: Protect designated target / Support attack / ACU / CRIT increase",
+    "korean": "우향선회 : 지정 대상 보호 / 공격 지원 / 적중 / 치명타 증가"
+  },
+  "1000101726": {
+    "english": "Arrogance and Rage: ATK / CRIT increase / ACU decrease / Remove protection / Damage taken increase",
+    "korean": "오만과 분노 : 공격력 / 치명타 증가 / 적중 감소 / 보호 해제 / 받는 피해 증가"
+  },
+  "1000101727": {
+    "english": "F.F Missile: DEF penetration",
+    "korean": "F.F 미사일 : 방어 관통"
+  },
+  "1000101728": {
+    "english": "Right Turn: Counterattack on EVA",
+    "korean": "우향선회 : 회피 시, 반격"
+  },
+  "1000101729": {
+    "english": "Right Turn: Remove EVA increase on EVA",
+    "korean": "우향선회 : 회피 시, 회피 강화 해제"
+  },
+  "1000101730": {
+    "english": "57 mm AA Gun: Mark / Damage amplification / EVA decrease",
+    "korean": "57mm 대공포 : 표식 / 피해 증폭 / 회피 감소"
+  },
+  "1000101731": {
+    "english": "Bombardment Command: AP / AP increase / Support attack",
+    "korean": "포격 지휘 : AP / 행동력 증가 / 공격 지원"
+  },
+  "1000101732": {
+    "english": "Coordinated Fire: On attack, increase ally ACU / CRIT",
+    "korean": "협차 사격 : 공격 시, 아군 적중 / 치명타 증가"
+  },
+  "1000101733": {
+    "english": "Intercept Mode: AP increase / Damage taken decrease",
+    "korean": "요격 모드 : AP 증가 / 받는 피해 감소"
+  },
+  "1000101734": {
+    "english": "Bombardment Command: AP increase",
+    "korean": "포격 지휘 : AP 증가"
+  },
+  "1000101735": {
+    "english": "Intercept Mode: On ally death, AP increase",
+    "korean": "요격 모드 : 아군 사망 시, AP 증가"
+  },
+  "1000101736": {
+    "english": "Coordinated Fire: On own death, adjacent allies immobilized / Buffs removed",
+    "korean": "협차 사격 : 자신 사망 시, 아군 행동 불가 / 강화 해제"
+  },
+  "1000101737": {
+    "english": "Scorched Bombardment: Increased damage to light / heavy-armored / Knockback",
+    "korean": "초토화 포격 : 경장 / 중장형 피해량 증가 / 뒤로 밀기"
+  },
+  "1000101738": {
+    "english": "Coordinated Fire: ACU / CRIT / DEF penetration increase",
+    "korean": "협차 사격 : 적중 / 치명타 / 방어 관통 증가"
+  },
+  "1000101739": {
+    "english": "Bombardment Mode: ATK / DEF penetration increase",
+    "korean": "포격 모드 : 공격력 / 방어 관통 증가"
+  },
+  "1000101740": {
+    "english": "Observation Bombardment: ACU / CRIT increase / Ignore barrier & damage reduction",
+    "korean": "관측 포격 : 적중 / 치명타 증가 / 방어막&피해 감소 무시"
+  },
+  "1000101741": {
+    "english": "Attack that guy!: Mark / Received damage increase",
+    "korean": "저 녀석을 공격해! : 표식 / 받는 피해 증가"
+  },
+  "1000101742": {
+    "english": "Super Neri Attack: Remove buffs",
+    "korean": "슈퍼 네리 어택 : 강화 해제"
+  },
+  "1000101743": {
+    "english": "Come at me!: The lower your own HP %, the damage increases / Damage taken decreases",
+    "korean": "덤벼덤벼! : 자신의 HP% 비율이 낮을수록 피해량 증가 / 받는 피해 감소"
+  },
+  "1000101744": {
+    "english": "Combat Immersion: Continue battle at start",
+    "korean": "전투 과몰입 : 전투 개시 시, 전투 속행"
+  },
+  "1000101745": {
+    "english": "Target Attack: Increased damage to marked target",
+    "korean": "표적 공격 : 표식 대상 피해량 증가"
+  },
+  "1000101746": {
+    "english": "Suppressive Fire: ACU / EVA / AP decrease",
+    "korean": "견제 난사 : 적중 / 회피 / 행동력 감소"
+  },
+  "1000101747": {
+    "english": "Combat Immersion: Continue battle / On continue, ignore barrier & damage reduction",
+    "korean": "전투 과몰입 : 전투 속행 / 전투 속행 시, 방어막&피해 감소 무시"
+  },
+  "1000101748": {
+    "english": "Excited!: On kill by skill, ATK / AP increase",
+    "korean": "신난다! : 스킬로 적 처치 시 공격력 / AP 증가"
+  },
+  "1000101749": {
+    "english": "Combat Immersion: Continue battle / On continue, ATK / CRIT / AP increase",
+    "korean": "전투 과몰입 : 전투 속행 / 전투 속행 시, 공격력 / 치명타 / 행동력 증가"
+  },
+  "1000101750": {
+    "english": "Attack Initiation: Increased damage to marked target / EVA decrease",
+    "korean": "공격 개시 : 표식 대상 피해량 증가 / 회피 감소"
+  },
+  "1000101751": {
+    "english": "Machine Gun Barrage: Increased damage to EVA-decreased targets / Buff removal",
+    "korean": "기총 난사 : 회피 감소 대상 피해량 증가 / 강화 해제"
+  },
+  "1000101752": {
+    "english": "System Overload: Ignore barrier / Ignore damage reduction / On break, removes buffs from nearby allies",
+    "korean": "시스템 과부하 : 방어막 / 피해 감소 무시 / 파괴 시 주변 아군 효과 해제"
+  },
+  "1000101753": {
+    "english": "System Overload: Ignore barrier / Ignore damage reduction",
+    "korean": "시스템 과부하 : 방어막 / 피해 감소 무시"
+  },
+  "1000101754": {
+    "english": "30mm AA machine gun: Mark/EVA reduced, damage increased",
+    "korean": "30mm AA 기관포 : 표식 / 회피 감소 대상 피해량 증가"
+  },
+  "1000101755": {
+    "english": "ATS Anti-Armor Missiles: Increased damage to marked/immobilized targets",
+    "korean": "ATS 대 장갑 미사일 : 표식 / 이동 불가 대상 피해량 증가"
+  },
+  "1000101756": {
+    "english": "Overwhelming cuteness?: Increased EVA /hit chance the closer you are to the enemy camp.",
+    "korean": "압도적 귀여움? : 적 진영과 가까울수록 회피 / 적중 증가"
+  },
+  "1000101757": {
+    "english": "30mm AA machine gun: Increased damage against mobile targets",
+    "korean": "30mm AA 기관포 : 대 기동형 피해량 증가"
+  },
+  "1000101758": {
+    "english": "ATS Anti-Armor Missiles: Increased armor penetration/anti-heavy armor damage",
+    "korean": "ATS 대 장갑 미사일 : 방어 관통 / 대 중장형 피해량 증가"
+  },
+  "1000101759": {
+    "english": "Overwhelming cuteness?: Counterattack when evading enemy attacks",
+    "korean": "압도적 귀여움? : 적 공격 회피 시 반격"
+  },
+  "1000101760": {
+    "english": "Overwhelming cuteness?: Increased ATK power when evading enemy attacks",
+    "korean": "압도적 귀여움? : 적 공격 회피 시 공격력 증가"
+  },
+  "1000101761": {
+    "english": "Cover Fire: Mark / Damage taken increase / EVA decrease",
+    "korean": "엄호 사격 : 표식 / 받는 피해 증가 / 회피 감소"
+  },
+  "1000101762": {
+    "english": "Target Elimination: Mark / Increased damage to EVA-decreased targets",
+    "korean": "목표물 처리 : 표식 / 회피 감소 대상 피해량 증가"
+  },
+  "1000101763": {
+    "english": "Mobile Stronghold: Protect ally behind self / DEF increase",
+    "korean": "이동형 진지 : 자신 뒤의 아군 보호 / 방어력 증가"
+  },
+  "1000101764": {
+    "english": "Mobile Stronghold: DEF increase",
+    "korean": "이동형 진지 : 방어력 증가"
+  },
+  "1000101765": {
+    "english": "Mobile position: transformed into a fixed position",
+    "korean": "이동형 진지 : 고정형으로 변형"
+  },
+  "1000101766": {
+    "english": "Trench Shot: Taunt / ATK Power / CRIT Reduction",
+    "korean": "참호 사격 : 도발 / 공격력 / 치명타 감소"
+  },
+  "1000101767": {
+    "english": "Target restraint: provocation / reduced action power",
+    "korean": "목표물 견제 : 도발 / 행동력 감소"
+  },
+  "1000101768": {
+    "english": "Fixed Position: Reduces damage taken / Increases DEF/ Cannot move / Protects against movement",
+    "korean": "고정형 진지 : 받는 피해 감소 / 방어력 증가 / 이동 불가 / 행 보호"
+  },
+  "1000101769": {
+    "english": "Fixed position: transformed into mobile position",
+    "korean": "고정형 진지 : 이동형으로 변형"
+  },
+  "1000101770": {
+    "english": "Fixed position: cannot be moved",
+    "korean": "고정형 진지 : 이동 불가"
+  },
+  "1000101771": {
+    "english": "Improved camouflage suit: Optical camouflage activates when in the middle or back row",
+    "korean": "개량형 미채 슈트 : 중열 / 후열인 경우 광학 미채 발동"
+  },
+  "1000101772": {
+    "english": "Expression of Friendship?: Support for friendly attacks deployed in front/back",
+    "korean": "우정의 표현? : 앞 / 뒤에 배치된 아군 공격 지원"
+  },
+  "1000101773": {
+    "english": "Total Assault!: Supported allies gain ATK / ACU / AP increase",
+    "korean": "총공격이에요! : 공격 지원 받는 아군 공격력 / 적중 / 행동력 증가"
+  },
+  "1000101774": {
+    "english": "Pest Control: At battle start, AP increase",
+    "korean": "해충 처리 : 전투 개시 시, AP 증가"
+  },
+  "1000101775": {
+    "english": "Pest Control: If Lilith is in squad, AP increase",
+    "korean": "해충 처리 : 스쿼드 내에 리리스가 있는 경우 행동력 증가"
+  },
+  "1000101776": {
+    "english": "Refreshing!: Allies under \"Disinfection Start!\" gain ATK / ACU / EVA / AP increase",
+    "korean": "상쾌함! : 소독 개시! 효과 적용 아군 공격력 / 적중 / 회피 / AP 증가"
+  },
+  "1000101777": {
+    "english": "Refreshing!: Allies under \"Disinfection Start!\" gain AP increase",
+    "korean": "상쾌함! : 소독 개시! 효과 적용 아군 AP 증가"
+  },
+  "1000101778": {
+    "english": "Skilled Martial Arts: Increased ATK Power/ACU",
+    "korean": "숙련된 무술 : 공격력 / 적중 증가"
+  },
+  "1000101779": {
+    "english": "Skilled Martial Arts: Increased AP (when attacking)",
+    "korean": "숙련된 무술 : AP 증가 (공격 시)"
+  },
+  "1000101780": {
+    "english": "Hundred Steps Divine Fist: Immobile / Reduced EVA/ Increased damage to target",
+    "korean": "백보신권 : 이동 불가 / 회피 감소 대상 피해량 증가"
+  },
+  "1000101781": {
+    "english": "Electromagnetic Resonance: Increases ATK power/CRIT/action power",
+    "korean": "전자기 공명 : 공격력 / 치명타 / 행동력 증가"
+  },
+  "1000101782": {
+    "english": "Electromagnetic Resonance: Increased ATK power (Leah)",
+    "korean": "전자기 공명 : 공격력 증가 (레아)"
+  },
+  "1000101783": {
+    "english": "Electromagnetic Resonance: Increased ATK Power (Albatross)",
+    "korean": "전자기 공명 : 공격력 증가 (알바트로스)"
+  },
+  "1000101784": {
+    "english": "Electromagnetic Resonance: Increased ATK power (Cerberus)",
+    "korean": "전자기 공명 : 공격력 증가 (켈베로스)"
+  },
+  "1000101785": {
+    "english": "Electromagnetic Resonance: Increased ATK power (lock)",
+    "korean": "전자기 공명 : 공격력 증가 (로크)"
+  },
+  "1000101786": {
+    "english": "Electromagnetic Resonance: Increased ATK Power (Alexandra)",
+    "korean": "전자기 공명 : 공격력 증가 (알렉산드라)"
+  },
+  "1000101787": {
+    "english": "Electromagnetic Resonance: Increased ATK power (Pupp Head)",
+    "korean": "전자기 공명 : 공격력 증가 (펍헤드)"
+  },
+  "1000101788": {
+    "english": "Electromagnetic Resonance: Increased ATK Power (Starfish)",
+    "korean": "전자기 공명 : 공격력 증가 (불가사리)"
+  },
+  "1000101789": {
+    "english": "Electromagnetic Resonance: Increased ATK Power (Yumi)",
+    "korean": "전자기 공명 : 공격력 증가 (유미)"
+  },
+  "1000101790": {
+    "english": "Precision Attack: Immobilizes / Increases damage to marked targets",
+    "korean": "정밀 공격 : 이동 불가 / 표식 대상 피해량 증가"
+  },
+  "1000101791": {
+    "english": "Scorched Bombardment: Immobilization",
+    "korean": "초토화 포격 : 행동 불가"
+  },
+  "1000101792": {
+    "english": "Neri and Minions: ATK increase",
+    "korean": "네리와 부하들 : 공격력 증가"
+  },
+  "1000101793": {
+    "english": "Super Neri Attack!: CRIT hit increases damage dealt",
+    "korean": "슈퍼 네리 어택! : 치명타 시 피해량 증가"
+  },
+  "1000101794": {
+    "english": "Come at Me!: Counterattack when HP drops below 25%",
+    "korean": "덤벼덤벼! : HP 25% 이하로 피격 시, 반격"
+  },
+  "1000101795": {
+    "english": "Combat Immersion: On battle continuation, ATK / ACU / CRIT / DEF penetration increase",
+    "korean": "전투 과몰입 : 전투 속행 시, 공격력 / 적중 / 치명타 / 방어 관통 증가"
+  },
+  "1000101796": {
+    "english": "Neri and Minions: ATK / ACU / AP increase",
+    "korean": "네리와 부하들 : 공격력 / 적중 / 행동력 증가"
+  },
+  "1000101797": {
+    "english": "Combat Immersion: On battle continuation, ignore barrier & damage reduction / ATK increase",
+    "korean": "전투 과몰입 : 전투 속행 시, 방어막&피해 감소 무시 / 공격력 증가"
+  },
+  "1000101798": {
+    "english": "Abyssal Rage: Fixed damage",
+    "korean": "심해의 분노 : 고정 피해"
+  },
+  "1000101799": {
+    "english": "Tidal Assault: If target is marked, remove buffs / Immobilize",
+    "korean": "타이달 어썰트 : 표식 상태면 강화 해제 / 행동 불가"
+  },
+  "1000101800": {
+    "english": "Abyssal Colossus: DEF / Ice resistance / Effect resistance increase",
+    "korean": "심해의 거신 : 방어력 / 냉기 저항 / 효과 저항 증가"
+  },
+  "1000101801": {
+    "english": "Protection Transfer: Protect designated target",
+    "korean": "보호 전환 : 지정 대상 보호"
+  },
+  "1000101802": {
+    "english": "Abyssal Colossus: Protect row / Damage taken decrease",
+    "korean": "심해의 거신 : 행 보호 / 받는 피해 감소"
+  },
+  "1000101803": {
+    "english": "ASN-6G: DEF penetration / Increased damage to heavy-armored Lv.1",
+    "korean": "ASN-6G : 방어 관통 / 대 중장 피해량 증가 Lv.1"
+  },
+  "1000101804": {
+    "english": "ASN-6G: DEF penetration / Increased damage to heavy-armored Lv.2",
+    "korean": "ASN-6G : 방어 관통 / 대 중장 피해량 증가 Lv.2"
+  },
+  "1000101805": {
+    "english": "ASN-6G: DEF penetration / Increased damage to heavy-armored Lv.3",
+    "korean": "ASN-6G : 방어 관통 / 대 중장 피해량 증가 Lv.3"
+  },
+  "1000101806": {
+    "english": "ASN-6G: DEF penetration / Increased damage to heavy-armored Lv.4",
+    "korean": "ASN-6G : 방어 관통 / 대 중장 피해량 증가 Lv.4"
+  },
+  "1000101807": {
+    "english": "ASN-6G: DEF penetration / Increased damage to heavy-armored Lv.5",
+    "korean": "ASN-6G : 방어 관통 / 대 중장 피해량 증가 Lv.5"
+  },
+  "1000101808": {
+    "english": "ASN-6G: DEF penetration / Increased damage to heavy-armored Lv.6",
+    "korean": "ASN-6G : 방어 관통 / 대 중장 피해량 증가 Lv.6"
+  },
+  "1000101809": {
+    "english": "ASN-6G: DEF penetration / Increased damage to heavy-armored Lv.7",
+    "korean": "ASN-6G : 방어 관통 / 대 중장 피해량 증가 Lv.7"
+  },
+  "1000101810": {
+    "english": "ASN-6G: DEF penetration / Increased damage to heavy-armored Lv.8",
+    "korean": "ASN-6G : 방어 관통 / 대 중장 피해량 증가 Lv.8"
+  },
+  "1000101811": {
+    "english": "ASN-6G: DEF penetration / Increased damage to heavy-armored Lv.9",
+    "korean": "ASN-6G : 방어 관통 / 대 중장 피해량 증가 Lv.9"
+  },
+  "1000101812": {
+    "english": "ASN-6G: DEF penetration / Increased damage to heavy-armored Lv.10",
+    "korean": "ASN-6G : 방어 관통 / 대 중장 피해량 증가 Lv.10"
+  },
+  "1000101813": {
+    "english": "ASN-6G: DEF penetration / Increased damage to heavy-armored Lv.11",
+    "korean": "ASN-6G : 방어 관통 / 대 중장 피해량 증가 Lv.11"
+  },
+  "1000101814": {
+    "english": "Rapid Corrosive Shell: Effect resistance decrease",
+    "korean": "급속 부식탄 : 효과 저항 감소"
+  },
+  "1000101815": {
+    "english": "Rapid Corrosive Shell: Remove buffs",
+    "korean": "급속 부식탄 : 강화 효과 해제"
+  },
+  "1000101816": {
+    "english": "Corrosive Leak: On attack or move, adjacent allies take DoT",
+    "korean": "부식액 누출 : 공격 또는 이동 시, 인접 아군 지속 피해"
+  },
+  "1000101817": {
+    "english": "Resistance Sharing: Remove harmful effects / Effect resistance increase",
+    "korean": "내성 공유 : 해로운 효과 해제 / 효과 저항 증가"
+  },
+  "1000101818": {
+    "english": "Corrosive Explosion: On fire hit, apply ignite",
+    "korean": "부식액 폭발 : 화염 속성 피격 시, 점화 효과"
+  },
+  "1000101819": {
+    "english": "Rapid Corrosive Shell: DEF / AP decrease / Physical DoT",
+    "korean": "급속 부식탄 : 방어력 / 행동력 감소 / 지속 물리 피해"
+  },
+  "1000101820": {
+    "english": "Resistant Armor: Damage minimization",
+    "korean": "내성 장갑 : 피해 최소화"
+  },
+  "1000101821": {
+    "english": "Corrosive Explosion: On death while ignited, deal fixed damage to nearby units",
+    "korean": "부식액 폭발 : 점화 상태로 사망 시, 주변에 고정 피해"
+  },
+  "1000101822": {
+    "english": "Shatter Missile: Increased damage (light / heavy-armored)",
+    "korean": "파쇄 미사일 : 피해량 증가 (경장 / 중장)"
+  },
+  "1000101823": {
+    "english": "Cluster Micro Missiles: EVA decrease",
+    "korean": "집속 마이크로 미사일 : 회피 감소"
+  },
+  "1000101824": {
+    "english": "High-Speed Loader: On attack, AP increase",
+    "korean": "고속 장전 장치 : 공격 시, 행동력 증가"
+  },
+  "1000101825": {
+    "english": "MOP Warhead: DEF penetration increase / Ignore barrier & damage reduction",
+    "korean": "MOP 탄두 : 방어 관통 증가 / 방어막&피해 감소 무시"
+  },
+  "1000101826": {
+    "english": "Radar Malfunction: ACU greatly decreased",
+    "korean": "레이더 오류 : 적중 대폭 감소"
+  },
+  "1000101827": {
+    "english": "Hell Inferno: Increased damage taken / Ignition effect",
+    "korean": "헬 인페르노 : 받는 피해 증가 / 점화 효과"
+  },
+  "1000101828": {
+    "english": "Crimson Execution: On critical hit, removes buff / additional fire damage",
+    "korean": "크림슨 익스큐션 : 치명타 시, 강화 효과 해제 / 추가 화염 피해"
+  },
+  "1000101829": {
+    "english": "Brainwashing Wave: Increased ATK Power / ACU/ CRIT / DEF Penetration (Bio)",
+    "korean": "세뇌의 파동 : 공격력 / 적중 / 치명타 / 방어 관통 증가 (바이오)"
+  },
+  "1000101830": {
+    "english": "The Demon King Descends!: Increases ATK Power / ACU/ CRIT / Action Power",
+    "korean": "대마왕 강림! : 공격력 / 적중 / 치명타 / 행동력 증가"
+  },
+  "1000101831": {
+    "english": "See you next time!: EVA/ Increased action power / Reduced damage taken",
+    "korean": "다음에 두고 보자! : 회피 / 행동력 증가 / 받는 피해 감소"
+  },
+  "1000101832": {
+    "english": "Hell Inferno: Increased damage taken",
+    "korean": "헬 인페르노 : 받는 피해 증가"
+  },
+  "1000101833": {
+    "english": "Crimson Execution: AP reduction",
+    "korean": "크림슨 익스큐션 : AP 감소"
+  },
+  "1000101834": {
+    "english": "Brainwashing Wave!: Increased ATK Power / ACU/ CRIT / DEF Penetration (Bio)",
+    "korean": "세뇌의 파동! : 공격력 / 적중 / 치명타 / 방어 관통 증가 (바이오)"
+  },
+  "1000101835": {
+    "english": "Hell Inferno: Ignition Effect",
+    "korean": "헬 인페르노 : 점화 효과"
+  },
+  "1000101836": {
+    "english": "Be quiet!: Taunt / ATK power / ACU reduction",
+    "korean": "조용히 하세요! : 도발 / 공격력 / 적중 감소"
+  },
+  "1000101837": {
+    "english": "Moonlight Chainsaw: Reduced defense",
+    "korean": "문 라이트 체인소 : 방어력 감소"
+  },
+  "1000101838": {
+    "english": "Justice is not lost!: Increased EVA / Reduced damage taken on first hit",
+    "korean": "정의는 지지 않아! : 회피 증가 / 첫 피격 시, 받는 피해 감소"
+  },
+  "1000101839": {
+    "english": "Moon's Protection: Increases protection/strengthening effects on designated targets.",
+    "korean": "달의 가호 : 지정 대상 보호 / 강화 효과 증폭"
+  },
+  "1000101840": {
+    "english": "Moonlight Chainsaw: Unlocks defense boost",
+    "korean": "문 라이트 체인소 : 방어력 강화 해제"
+  },
+  "1000101841": {
+    "english": "Justice is not lost!: Reduces damage taken on first hit.",
+    "korean": "정의는 지지 않아! : 첫 피격 시, 받는 피해 감소"
+  },
+  "1000101842": {
+    "english": "Justice is not lost!: Increased ATK power when evading",
+    "korean": "정의는 지지 않아! : 회피 시 공격력 증가"
+  },
+  "1000101843": {
+    "english": "Justice is not lost!: Increased CRIT chance when evading",
+    "korean": "정의는 지지 않아! : 회피 시 치명타 증가"
+  },
+  "1000101844": {
+    "english": "Moon's Protection: ATK Boost",
+    "korean": "달의 가호 : 공격력 강화 증폭"
+  },
+  "1000101845": {
+    "english": "Moon's Protection: ACU Boost Amplification",
+    "korean": "달의 가호 : 적중 강화 증폭"
+  },
+  "1000101846": {
+    "english": "Moon's Protection: EVA Boost Amplification",
+    "korean": "달의 가호 : 회피 강화 증폭"
+  },
+  "1000101847": {
+    "english": "Moon's Protection: Increased Action Power",
+    "korean": "달의 가호 : 행동력 강화 증폭"
+  },
+  "1000101848": {
+    "english": "Faucre... Faucre... : ATK power / ACU/ CRIT / DEF penetration increased Lv.1",
+    "korean": "뽀끄루...뽀끄루… : 공격력 / 적중 / 치명타 / 방어 관통 증가 Lv.1"
+  },
+  "1000101849": {
+    "english": "Faucre... Faucre... : ATK power / ACU/ CRIT / DEF penetration increased Lv.2",
+    "korean": "뽀끄루...뽀끄루… : 공격력 / 적중 / 치명타 / 방어 관통 증가 Lv.2"
+  },
+  "1000101850": {
+    "english": "Faucre... Faucre... : ATK power / ACU/ CRIT / DEF Penetration increased Lv.3",
+    "korean": "뽀끄루...뽀끄루… : 공격력 / 적중 / 치명타 / 방어 관통 증가 Lv.3"
+  },
+  "1000101851": {
+    "english": "Faucre... Faucre... : ATK power / ACU/ CRIT / DEF penetration increased Lv.4",
+    "korean": "뽀끄루...뽀끄루… : 공격력 / 적중 / 치명타 / 방어 관통 증가 Lv.4"
+  },
+  "1000101852": {
+    "english": "Faucre... Faucre... : ATK power / ACU / CRIT / DEF penetration increased Lv.5",
+    "korean": "뽀끄루...뽀끄루… : 공격력 / 적중 / 치명타 / 방어 관통 증가 Lv.5"
+  },
+  "1000101853": {
+    "english": "Faucre... Faucre... : ATK power / ACU/ CRIT / DEF penetration increased Lv.6",
+    "korean": "뽀끄루...뽀끄루… : 공격력 / 적중 / 치명타 / 방어 관통 증가 Lv.6"
+  },
+  "1000101854": {
+    "english": "Faucre... Faucre... : ATK power / ACU/ CRIT / DEF penetration increased Lv.7",
+    "korean": "뽀끄루...뽀끄루… : 공격력 / 적중 / 치명타 / 방어 관통 증가 Lv.7"
+  },
+  "1000101855": {
+    "english": "Faucre... Faucre... : ATK power / ACU/ CRIT / DEF penetration increased Lv.8",
+    "korean": "뽀끄루...뽀끄루… : 공격력 / 적중 / 치명타 / 방어 관통 증가 Lv.8"
+  },
+  "1000101856": {
+    "english": "Faucre... Faucre... : ATK power / ACU/ CRIT / DEF penetration increased Lv.9",
+    "korean": "뽀끄루...뽀끄루… : 공격력 / 적중 / 치명타 / 방어 관통 증가 Lv.9"
+  },
+  "1000101857": {
+    "english": "Faucre... Faucre... : ATK power / ACU/ CRIT / DEF penetration increased Lv.10",
+    "korean": "뽀끄루...뽀끄루… : 공격력 / 적중 / 치명타 / 방어 관통 증가 Lv.10"
+  },
+  "1000101858": {
+    "english": "Faucre... Faucre... : ATK power / ACU/ CRIT / DEF penetration increased Lv.11",
+    "korean": "뽀끄루...뽀끄루… : 공격력 / 적중 / 치명타 / 방어 관통 증가 Lv.11"
+  },
+  "1000101859": {
+    "english": "Prototype EFP Shell: Increased damage to heavy-armored",
+    "korean": "시제 EFP탄 : 대 중장형 피해량 증가"
+  },
+  "1000101860": {
+    "english": "Prototype EFP Shell: ATK / DEF penetration increase",
+    "korean": "시제 EFP탄 : 공격력 / 방어 관통 증가"
+  },
+  "1000101861": {
+    "english": "Arrest Chains: Damage taken increase",
+    "korean": "체포 사슬 : 받는 피해 증가"
+  },
+  "1000101862": {
+    "english": "Arrest Complete!: ATK / CRIT / ACU increase",
+    "korean": "검거 완료! : 공격력 / 치명타 / 적중 증가"
+  },
+  "1000101863": {
+    "english": "Overpower Burner: Increases ATK power / When stacked 3 or more times, increases attack ability",
+    "korean": "과출력 버너 : 공격력 증가 / 3중첩 이상 시, 공격 능력 증가"
+  },
+  "1000101864": {
+    "english": "Overpower Burner: Greatly increases ATK power.",
+    "korean": "과출력 버너 : 공격력 대폭 증가"
+  },
+  "1000101865": {
+    "english": "Overpowered Burner: Ignores shields and damage reduction",
+    "korean": "과출력 버너 : 방어막&피해 감소 무시"
+  },
+  "1000101866": {
+    "english": "Overpower Burner: ATK power boost removed",
+    "korean": "과출력 버너 : 공격력 강화 해제"
+  },
+  "1000101867": {
+    "english": "Ambush Support: Increased ATK power/CRIT",
+    "korean": "매복 지원 : 공격력 / 치명타 증가"
+  },
+  "1000101868": {
+    "english": "Ambush Support: Strengthens the defensive capabilities of light/Heavy-sized allies receiving attack support.",
+    "korean": "매복 지원 : 공격 지원 받는 경장 / 중장 아군 방어 능력 강화"
+  },
+  "1000101869": {
+    "english": "Bombing Squadron Support: Allies with <Bombing Squadron Command> gain support fire / ACU / AP increase",
+    "korean": "폭격 편대 지원 : <폭격 편대 지휘> 아군 공격 지원/적중/행동력 증가"
+  },
+  "1000101870": {
+    "english": "Bombardment Squadron Support: Increased Hits",
+    "korean": "폭격 편대 지원 : 적중 증가"
+  },
+  "1000101871": {
+    "english": "Early Warning Activated: ACU / EVA increase / Damage taken decrease",
+    "korean": "조기 경보 개시 : 적중 / 회피 증가 / 받는 피해 감소"
+  },
+  "1000101872": {
+    "english": "Early Warning Activated: ACU / EVA increase / Damage taken decrease (air units)",
+    "korean": "조기 경보 개시 : 적중 / 회피 증가 / 받는 피해 감소 (기동)"
+  },
+  "1000101873": {
+    "english": "Targeted Sniping: Mark / Damage Boost / EVA Reduction",
+    "korean": "목표 지정 저격 : 표식 / 피해 증폭 / 회피 감소"
+  },
+  "1000101874": {
+    "english": "Shared Emotions: AP / Range / ATK Power / ACU/ CRIT Increase",
+    "korean": "감적 공유 : AP / 사거리 / 공격력 / 적중 / 치명타 증가"
+  },
+  "1000101875": {
+    "english": "Safety Hypersensitivity: Increases ATK power/DEF power/action power of allies with HP below 90%/attack support",
+    "korean": "안전 과민증 : HP 90% 이하 아군 공격력 / 방어력 / 행동력 증가 / 공격 지원"
+  },
+  "1000101876": {
+    "english": "Shared Emotions: Increased range/ATK power/ACU/CRIT",
+    "korean": "감적 공유 : 사거리 / 공격력 / 적중 / 치명타 증가"
+  },
+  "1000101877": {
+    "english": "Shared Emotions: Increased Range / ATK Power / ACU/ CRIT (Attack)",
+    "korean": "감적 공유 : 사거리 / 공격력 / 적중 / 치명타 증가 (공격기)"
+  },
+  "1000101878": {
+    "english": "Double-barreled shotgun: Increased damage against light targets / Increased ATK power in the front line",
+    "korean": "더블배럴 샷건 : 대 경장형 피해량 증가 / 전열에서 공격력 증가"
+  },
+  "1000101879": {
+    "english": "Eagle Assault: CRIT / ACU decrease / Remove ACU buff",
+    "korean": "이글 어썰트 : 치명타 / 적중 감소 / 적중 강화 해제"
+  },
+  "1000101880": {
+    "english": "Vanguard Interceptor: Supports attacks by light/Heavy-armored friendly units behind the same line as you.",
+    "korean": "선봉 요격대 : 자신과 같은 행 뒤쪽의 경장 / 중장형 아군 공격 지원"
+  },
+  "1000101881": {
+    "english": "Double-barreled shotgun: Increases ATK power in the front line.",
+    "korean": "더블배럴 샷건 : 전열에서 공격력 증가"
+  },
+  "1000101882": {
+    "english": "Eagle Assault: On CRIT hit, damage increase",
+    "korean": "이글 어썰트 : 치명타 시 피해량 증가"
+  },
+  "1000101883": {
+    "english": "Vanguard Interceptor: At the start of battle, light/Heavy armored allies gain increased AP.",
+    "korean": "선봉 요격대 : 전투 개시 시, 경장 / 중장형 아군 AP 증가"
+  },
+  "1000101884": {
+    "english": "Enhanced Chemical Round: Continuous damage each round / Elemental resistance / AP decrease",
+    "korean": "강화 화학탄 : 매 라운드 지속 피해 / 속성 저항 / 행동력 감소"
+  },
+  "1000101885": {
+    "english": "Cluster Chemical Round: Continuous damage each round / Chance to remove buffs",
+    "korean": "집속 화학탄 : 매 라운드 지속 피해 / 일정 확률 강화 해제"
+  },
+  "1000101886": {
+    "english": "Environmental Adaptation System: All resistances increase",
+    "korean": "환경 적응 시스템 : 모든 저항 증가"
+  },
+  "1000101887": {
+    "english": "Smasher Punch: Chance to immobilize",
+    "korean": "스매셔 펀치 : 일정 확률로 행동 불가"
+  },
+  "1000101888": {
+    "english": "Break Down the Wall: Knockback / Remove damage reduction effect",
+    "korean": "방벽 무너뜨리기 : 뒤로 밀기 / 피해 감소 효과 해제"
+  },
+  "1000101889": {
+    "english": "Escort Alert: Row protection / Heat protection",
+    "korean": "호위 경보 : 행 보호 / 열 보호"
+  },
+  "1000101890": {
+    "english": "High-Density Armor: DEF increase",
+    "korean": "고밀도 장갑 : 방어력 증가"
+  },
+  "1000101891": {
+    "english": "High-Precision Railgun: Ignores barrier / Damage reduction",
+    "korean": "초정밀 레일건 : 방어막 / 피해 감소 무시"
+  },
+  "1000101892": {
+    "english": "Targeting Initiated: Guaranteed CRIT / ACU increase",
+    "korean": "조준 개시 : 확정 치명타 / 적중 증가"
+  },
+  "1000101893": {
+    "english": "Ambush Attack: Damage taken decrease",
+    "korean": "매복 공격 : 받는 피해 감소"
+  },
+  "1000101894": {
+    "english": "Point-Blank Sniping: If front row, ATK increase",
+    "korean": "영거리 저격 : 전열일 경우, 공격력 증가"
+  },
+  "1000101895": {
+    "english": "Reactor Meltdown: On death, deal massive fixed damage to nearby units",
+    "korean": "리액터 대폭발 : 사망 시, 주변에 괴멸적인 고정 피해"
+  },
+  "1000101896": {
+    "english": "Power of the Moon?: Random buff Lv.1",
+    "korean": "달의 마력? : 무작위 강화 효과 Lv.1"
+  },
+  "1000101897": {
+    "english": "Power of the Moon?: Random buff Lv.2",
+    "korean": "달의 마력? : 무작위 강화 효과 Lv.2"
+  },
+  "1000101898": {
+    "english": "Power of the Moon?: Random buff Lv.3",
+    "korean": "달의 마력? : 무작위 강화 효과 Lv.3"
+  },
+  "1000101899": {
+    "english": "Power of the Moon?: Random buff Lv.4",
+    "korean": "달의 마력? : 무작위 강화 효과 Lv.4"
+  },
+  "1000101900": {
+    "english": "Power of the Moon?: Random buff Lv.5",
+    "korean": "달의 마력? : 무작위 강화 효과 Lv.5"
+  },
+  "1000101901": {
+    "english": "Power of the Moon?: Random buff Lv.6",
+    "korean": "달의 마력? : 무작위 강화 효과 Lv.6"
+  },
+  "1000101902": {
+    "english": "Power of the Moon?: Random buff Lv.7",
+    "korean": "달의 마력? : 무작위 강화 효과 Lv.7"
+  },
+  "1000101903": {
+    "english": "Power of the Moon?: Random buff Lv.8",
+    "korean": "달의 마력? : 무작위 강화 효과 Lv.8"
+  },
+  "1000101904": {
+    "english": "Power of the Moon?: Random buff Lv.9",
+    "korean": "달의 마력? : 무작위 강화 효과 Lv.9"
+  },
+  "1000101905": {
+    "english": "Power of the Moon?: Random buff Lv.10",
+    "korean": "달의 마력? : 무작위 강화 효과 Lv.10"
+  },
+  "1000101906": {
+    "english": "Power of the Moon?: Random buff Lv.11",
+    "korean": "달의 마력? : 무작위 강화 효과 Lv.11"
+  },
+  "1000101907": {
+    "english": "Aerial Bombardment Support: Support fire against light/heavy-armored units with lower AP than <Steel Line> squad members or self",
+    "korean": "공중 포격 지원 : <스틸라인> 부대원 또는 자신보다 행동력이 낮은 경장/중장 공격 지원"
+  },
+  "1000101908": {
+    "english": "Berserk: ATK increases every round",
+    "korean": "광폭화: 매 라운드마다 공격력 증가"
+  },
+  "1000101909": {
+    "english": "Berserk Sub1: ACU increase",
+    "korean": "광폭화 서브1(적중률 증가)"
+  },
+  "1000101910": {
+    "english": "Berserk Sub2: CRIT increase",
+    "korean": "광폭화 서브2(치확 증가)"
+  },
+  "1000101911": {
+    "english": "Berserk Sub3: EVA increase",
+    "korean": "광폭화 서브3(회피 증가)"
+  },
+  "1000101912": {
+    "english": "Electric Shock: Electric attack",
+    "korean": "전기 충격 : 전기 공격"
+  },
+  "1000101913": {
+    "english": "Berserk: DEF increases every round",
+    "korean": "광폭화: 매 라운드마다 방어력 증가"
+  },
+  "1000101914": {
+    "english": "Berserk: ACU increases every round",
+    "korean": "광폭화: 매 라운드마다 적중률 증가"
+  },
+  "1000101915": {
+    "english": "Berserk: EVA increases every round",
+    "korean": "광폭화: 매 라운드마다 회피율 증가"
+  },
+  "1000101916": {
+    "english": "Revenge: Counterattack when hit",
+    "korean": "앙갚음: 공격을 받을 시 반격 합니다."
+  },
+  "1000101917": {
+    "english": "Revenge: AP increases when ally dies",
+    "korean": "앙갚음: 아군이 사망 시 행동력이 증가합니다."
+  },
+  "1000101918": {
+    "english": "Headshot: Immobilize",
+    "korean": "헤드샷: 행동 불가"
+  },
+  "1000101919": {
+    "english": "Berserk: CRIT rate increases every round",
+    "korean": "광폭화: 매 라운드마다 치명타 확률 증가"
+  },
+  "1000101920": {
+    "english": "Berserk: DEF penetration increases every round",
+    "korean": "광폭화: 매 라운드마다 방어 관통력 증가"
+  },
+  "1000101921": {
+    "english": "Revenge: High chance to counterattack when hit",
+    "korean": "앙갚음: 공격을 받을 시 높은 확률로 반격"
+  },
+  "1000101922": {
+    "english": "Reactor Charge: DEF penetration increase",
+    "korean": "리액터 충전 : 방어 관통력 증가"
+  },
+  "1000101923": {
+    "english": "Reactor Reset: Charge removed",
+    "korean": "리액터 초기화 : 충전 해제"
+  },
+  "1000101924": {
+    "english": "Target Weakness: Lower enemy HP % increases damage dealt",
+    "korean": "약점 포착 : 적 HP %가 낮을수록 피해 증가"
+  },
+  "1000101925": {
+    "english": "Reactor Overcharge: ATK / ACU decrease",
+    "korean": "리액터 과충전 : 공격력 / 적중 감소"
+  },
+  "1000101926": {
+    "english": "Fire Attribute Adaptation: Fire damage over time",
+    "korean": "화염 속성 적응: 화염 도트 데미지"
+  },
+  "1000101927": {
+    "english": "Ice Attribute Adaptation: Ice damage over time",
+    "korean": "냉기 속성 적응: 냉기 도트 데미지"
+  },
+  "1000101928": {
+    "english": "Electric Attribute Adaptation: Electric damage over time",
+    "korean": "전기 속성 적응: 전기 도트 데미지"
+  },
+  "1000101929": {
+    "english": "Contaminated Fluid: DEF reduction effect",
+    "korean": "오염액 : 방어력 감소 효과"
+  },
+  "1000101930": {
+    "english": "Contaminated Fluid Leak: Reduces ATK / DEF / EVA and inflicts continuous physical damage",
+    "korean": "오염액 누출 : 공격 / 방어 / 회피 능력 감소 및 지속 물리 피해"
+  },
+  "1000101931": {
+    "english": "Protective Instinct: Removes harmful effects",
+    "korean": "보호 본능 : 해로운 효과 해제"
+  },
+  "1000101932": {
+    "english": "Attribute Absorption: Absorb fire attribute",
+    "korean": "속성 흡수: 화염 속성 흡수"
+  },
+  "1000101933": {
+    "english": "Attribute Absorption: Absorb ice attribute",
+    "korean": "속성 흡수: 냉기 속성 흡수"
+  },
+  "1000101934": {
+    "english": "Attribute Absorption: Absorb electric attribute",
+    "korean": "속성 흡수: 전기 속성 흡수"
+  },
+  "1000101935": {
+    "english": "Attribute Overabsorption",
+    "korean": "속성 과다 흡수"
+  },
+  "1000101936": {
+    "english": "Side Effect: Ice attribute resistance decrease",
+    "korean": "부작용: 냉기 속성 저항력 감소"
+  },
+  "1000101937": {
+    "english": "Side Effect: Electric attribute resistance decrease",
+    "korean": "부작용: 전기 속성 저항력 감소"
+  },
+  "1000101938": {
+    "english": "Side Effect: Fire attribute resistance decrease",
+    "korean": "부작용: 화염 속성 저항력 감소"
+  },
+  "1000101939": {
+    "english": "Critical Counter: On EVA, counterattack after gaining DEF penetration and ACU",
+    "korean": "회심의 반격 : 회피 시, 방어력 관통력 및 적중 상승 후 반격"
+  },
+  "1000101940": {
+    "english": "Excitement: ATK increases when hit",
+    "korean": "흥분 : 피격 시, 공격력 증가"
+  },
+  "1000101941": {
+    "english": "Critical Counter Stance",
+    "korean": "회심의 반격 준비 태세"
+  },
+  "1000101942": {
+    "english": "Calm Down: Remove Excitement status",
+    "korean": "흥분 진정 : 흥분 상태 해제"
+  },
+  "1000101943": {
+    "english": "Support Protocol: Support attack",
+    "korean": "지원 프로토콜 : 공격 지원"
+  },
+  "1000101944": {
+    "english": "Destruction Instinct: Ignores DEF / Greatly increased damage",
+    "korean": "파괴 본능 : 방어 무시 / 피해량 대폭 증가"
+  },
+  "1000101945": {
+    "english": "Destruction Instinct Removed",
+    "korean": "파괴 본능 해제"
+  },
+  "1000101946": {
+    "english": "System Restore: Battle continuation effect",
+    "korean": "시스템 복원 : 전투 속행 효과"
+  },
+  "1000101947": {
+    "english": "Shadow Dance Protocol: ATK increases when attacking enemy",
+    "korean": "그림자 난무 프로토콜 : 적 공격 시, 공격력 증가"
+  },
+  "1000101948": {
+    "english": "Shadow Dance Protocol: CRIT increases when attacking enemy",
+    "korean": "그림자 난무 프로토콜 : 적 공격 시, 치명타 증가"
+  },
+  "1000101949": {
+    "english": "Pest Control: AP increases when enemy is defeated",
+    "korean": "해충 처리 : 적 처치 시, 행동력 증가"
+  },
+  "1000101950": {
+    "english": "Alvis is on the move!: Taunt / ATK power / CRIT / Action point reduction",
+    "korean": "알비스 출동! : 도발 / 공격력 / 치명타 / 행동력 감소"
+  },
+  "1000101951": {
+    "english": "Clump Clump!: Increased EVA / Reduced damage taken / Reduced range",
+    "korean": "뭉게뭉게! : 회피 증가 / 받는 피해 감소 / 사거리 감소"
+  },
+  "1000101952": {
+    "english": "Can't pass?: Light attack / Support protection / DEF / Increased cold resistance",
+    "korean": "못 지나갈걸? : 경장형 공격 / 지원기 보호 / 방어력 / 냉기 저항 증가"
+  },
+  "1000101953": {
+    "english": "Clump Clump!: Reduces damage taken",
+    "korean": "뭉게뭉게! : 받는 피해 감소"
+  },
+  "1000101954": {
+    "english": "Clump Clump! : Reduced range",
+    "korean": "뭉게뭉게! : 사거리 감소"
+  },
+  "1000101955": {
+    "english": "Can't pass?: Increased DEF/cold resistance",
+    "korean": "못 지나갈걸? : 방어력 / 냉기 저항 증가"
+  },
+  "1000101956": {
+    "english": "Disc Bomb: Increased damage for Heavy and light armor types. Critical hits remove the defense boost.",
+    "korean": "디스크 봄 : 중장 / 경장형인 경우 피해량 증가. 치명타 시, 방어력 강화 해제"
+  },
+  "1000101957": {
+    "english": "Target Scan: Mark / Damage Boost / CRIT: Increased EVA/ Removed Damage Reduction",
+    "korean": "표적 스캔 : 표식 / 피해 증폭 / 치명타 시, 회피 증가 / 피해 감소 해제"
+  },
+  "1000101958": {
+    "english": "Bombardment Observation: When an attack hits, adjacent Heavy-sized attack aircraft's AP/ATK power/ACU increase.",
+    "korean": "포격 관측 : 공격 적중 시, 인접 중장형 공격기 AP / 공격력 / 적중 증가"
+  },
+  "1000101959": {
+    "english": "Disc Spring: DEF Penetration",
+    "korean": "디스크 봄 : 방어 관통"
+  },
+  "1000101960": {
+    "english": "Disc Bomb: When a critical hit occurs, defense boost is removed.",
+    "korean": "디스크 봄 : 치명타 시, 방어력 강화 해제"
+  },
+  "1000101961": {
+    "english": "Target Scan: Damage Amplification",
+    "korean": "표적 스캔 : 피해 증폭"
+  },
+  "1000101962": {
+    "english": "Target Scan: On critical hit, evasion boost / damage reduction removed",
+    "korean": "표적 스캔 : 치명타 시, 회피 강화 / 피해 감소 해제"
+  },
+  "1000101963": {
+    "english": "Bombardment Observation: When an attack hits, the ATK of adjacent Heavy-sized attack aircraft increases.",
+    "korean": "포격 관측 : 공격 적중 시, 인접 중장형 공격기 공격력 증가"
+  },
+  "1000101964": {
+    "english": "Bombardment Observation: When an attack hits, the hit chance against adjacent heavy attack aircraft increases.",
+    "korean": "포격 관측 : 공격 적중 시, 인접 중장형 공격기 적중 증가"
+  },
+  "1000101965": {
+    "english": "Improved Recon Equipment: Range increase / Range reduction / Remove ACU debuff Lv.1",
+    "korean": "개량형 관측 장비 : 사거리 증가 / 사거리 감소 / 적중 감소 해제 Lv.1"
+  },
+  "1000101966": {
+    "english": "Improved Recon Equipment: Range increase / Range reduction / Remove ACU debuff Lv.2",
+    "korean": "개량형 관측 장비 : 사거리 증가 / 사거리 감소 / 적중 감소 해제 Lv.2"
+  },
+  "1000101967": {
+    "english": "Improved Recon Equipment: Range increase / Range reduction / Remove ACU debuff Lv.3",
+    "korean": "개량형 관측 장비 : 사거리 증가 / 사거리 감소 / 적중 감소 해제 Lv.3"
+  },
+  "1000101968": {
+    "english": "Improved Recon Equipment: Range increase / Range reduction / Remove ACU debuff Lv.4",
+    "korean": "개량형 관측 장비 : 사거리 증가 / 사거리 감소 / 적중 감소 해제 Lv.4"
+  },
+  "1000101969": {
+    "english": "Improved Recon Equipment: Range increase / Range reduction / Remove ACU debuff Lv.5",
+    "korean": "개량형 관측 장비 : 사거리 증가 / 사거리 감소 / 적중 감소 해제 Lv.5"
+  },
+  "1000101970": {
+    "english": "Improved Recon Equipment: Range increase / Range reduction / Remove ACU debuff Lv.6",
+    "korean": "개량형 관측 장비 : 사거리 증가 / 사거리 감소 / 적중 감소 해제 Lv.6"
+  },
+  "1000101971": {
+    "english": "Improved Recon Equipment: Range increase / Range reduction / Remove ACU debuff Lv.7",
+    "korean": "개량형 관측 장비 : 사거리 증가 / 사거리 감소 / 적중 감소 해제 Lv.7"
+  },
+  "1000101972": {
+    "english": "Improved Recon Equipment: Range increase / Range reduction / Remove ACU debuff Lv.8",
+    "korean": "개량형 관측 장비 : 사거리 증가 / 사거리 감소 / 적중 감소 해제 Lv.8"
+  },
+  "1000101973": {
+    "english": "Improved Recon Equipment: Range increase / Range reduction / Remove ACU debuff Lv.9",
+    "korean": "개량형 관측 장비 : 사거리 증가 / 사거리 감소 / 적중 감소 해제 Lv.9"
+  },
+  "1000101974": {
+    "english": "Improved Recon Equipment: Range increase / Range reduction / Remove ACU debuff Lv.10",
+    "korean": "개량형 관측 장비 : 사거리 증가 / 사거리 감소 / 적중 감소 해제 Lv.10"
+  },
+  "1000101975": {
+    "english": "Improved Recon Equipment: Range increase / Range reduction / Remove ACU debuff Lv.11",
+    "korean": "개량형 관측 장비 : 사거리 증가 / 사거리 감소 / 적중 감소 해제 Lv.11"
+  },
+  "1000101976": {
+    "english": "Intruder Tracking: Taunt / DEF / EVA decrease",
+    "korean": "침입자 추적 : 도발 / 방어력 / 회피 감소"
+  },
+  "1000101977": {
+    "english": "Gleipnir Release: On CRIT hit, damage increase",
+    "korean": "글레이프닐 해제 : 치명타 시, 피해량 증가"
+  },
+  "1000101978": {
+    "english": "Area Patrol: Row protection / Battle continuation",
+    "korean": "영역 순찰 : 열 보호 / 전투 속행"
+  },
+  "1000101979": {
+    "english": "Instinct of the Wild: ATK increase / Damage taken decrease",
+    "korean": "야성 본능 : 공격력 증가 / 받는 피해 감소"
+  },
+  "1000101980": {
+    "english": "Payback Double: On hit, AP increase / Counterattack",
+    "korean": "배로 갚아주기 : 피격 시, AP 증가 / 반격"
+  },
+  "1000101981": {
+    "english": "Gleipnir Release: The lower the user’s HP, the greater the power",
+    "korean": "글레이프닐 해제 : 자신 HP 낮을수력 위력 증가"
+  },
+  "1000101982": {
+    "english": "Area Patrol: On enemy defeat, AP increase",
+    "korean": "영역 순찰 : 적 처치 시, AP 증가"
+  },
+  "1000101983": {
+    "english": "Area Patrol: If carrying \"Homemade Lunchbox\", ATK / AP increase",
+    "korean": "영역 순찰 : 수제 도시락 소지 시, 공격력 / 행동력 증가"
+  },
+  "1000101984": {
+    "english": "Intruder Tracking: On critical, damage increase",
+    "korean": "침입자 추적 : 치명타 시, 피해량 증가"
+  },
+  "1000101985": {
+    "english": "Payback Double: On battle continuation, EVA increase / Ignores barrier / damage reduction",
+    "korean": "배로 갚아주기 : 전투 속행 시, 회피 증가 / 방어막 / 피해 감소 무시"
+  },
+  "1000101986": {
+    "english": "Payback Double: Counterattack when hit",
+    "korean": "배로 갚아주기 : 피격 시 반격"
+  },
+  "1000101987": {
+    "english": "Punishment: Mark / Damage amplification / Effect resistance reduction",
+    "korean": "징벌 : 표식 / 피해 증폭 / 효과 저항 감소"
+  },
+  "1000101988": {
+    "english": "Prayer: Remove harmful effects / Effect resistance increase / AP increase for Command allies",
+    "korean": "기원 : 해로운 효과 해제 / 효과 저항 증가 / 지휘 아군 AP 증가"
+  },
+  "1000101989": {
+    "english": "Assault Command: ATK increase for Strikers / Enhanced capabilities for equipped type",
+    "korean": "공격대 지휘 : 공격기 공격력 증가 / 장비한 대 타입 능력 증가"
+  },
+  "1000101990": {
+    "english": "Guard Command: EVA increase for Defenders / Damage taken reduction / Attribute resistance increase based on own gear",
+    "korean": "경호대 지휘 : 보호기 회피 증가 / 받는 피해 감소 / 자신이 장비한 속성 저항 증가"
+  },
+  "1000101991": {
+    "english": "Foresight: Enemy DEF / ACU / EVA / AP decrease",
+    "korean": "예지 : 적 방어력 / 적중 / 회피 / 행동력 감소"
+  },
+  "1000101992": {
+    "english": "Punishment: On CRIT, damage increase / Remove buffs",
+    "korean": "징벌 : 치명타 시, 피해 증가 / 강화 해제"
+  },
+  "1000101993": {
+    "english": "Prayer: Remove harmful effects / Effect resistance increase",
+    "korean": "기원 : 해로운 효과 해제 / 효과 저항 증가"
+  },
+  "1000101994": {
+    "english": "Assault Command: Anti-Lightweight capability increase",
+    "korean": "공격대 지휘 : 대 경장 능력 증가"
+  },
+  "1000101995": {
+    "english": "Assault Command: Anti-Air capability increase",
+    "korean": "공격대 지휘 : 대 기동 능력 증가"
+  },
+  "1000101996": {
+    "english": "Assault Command: Anti-Heavy capability increase",
+    "korean": "공격대 지휘 : 대 중장 능력 증가"
+  },
+  "1000101997": {
+    "english": "Guard Command: Fire resistance increase",
+    "korean": "경호대 지휘 : 화염 저항 증가"
+  },
+  "1000101998": {
+    "english": "Guard Command: Ice resistance increase",
+    "korean": "경호대 지휘 : 냉기 저항 증가"
+  },
+  "1000101999": {
+    "english": "Guard Command: Electric resistance increase",
+    "korean": "경호대 지휘 : 전기 저항 증가"
+  },
+  "1000102000": {
+    "english": "Foresight: Recon effect",
+    "korean": "예지 : 정찰 효과"
+  }
+}

@@ -1,0 +1,4002 @@
+{
+  "1002500280": {
+    "english": "Locked slot.",
+    "korean": "잠긴 슬롯"
+  },
+  "1002500281": {
+    "english": "Slot does not exist.",
+    "korean": "존재하지 않는 슬롯입니다."
+  },
+  "1002500282": {
+    "english": "Facility rewards must be claimed before proceeding.",
+    "korean": "시설 보상을 받아야 처리 가능합니다"
+  },
+  "1002500283": {
+    "english": "The facility is not operational.",
+    "korean": "작동하고 있지 않은 시설입니다"
+  },
+  "1002500284": {
+    "english": "Not enough materials for facility manufacturing.",
+    "korean": "시설 제조에 필요한 자재가 부족합니다.."
+  },
+  "1002500285": {
+    "english": "Inventory space is insufficient.",
+    "korean": "인벤토리 공간이 부족합니다"
+  },
+  "1002500286": {
+    "english": "No equipped item to remove.",
+    "korean": "제거할 장착 아이템이 존재하지 않음"
+  },
+  "1002500287": {
+    "english": "Item to remove does not exist in inventory.",
+    "korean": "제거할 아이템이 인벤토리에 존재하지 않음"
+  },
+  "1002500288": {
+    "english": "This character is already in use.",
+    "korean": "이미 사용중인 캐릭터입니다"
+  },
+  "1002500289": {
+    "english": "The Battle Pass period has ended, so rewards cannot be claimed.&nLoading the new Battle Pass.",
+    "korean": "배틀 패스 기간이 종료되어 보상을 받을 수 없습니다. &n새로운 배틀 패스를 불러 옵니다."
+  },
+  "1002500290": {
+    "english": "There are no available rewards to claim from the Battle Pass.",
+    "korean": "배틀패스 획득 가능한 보상이 없습니다."
+  },
+  "1002500291": {
+    "english": "You have already purchased the Battle Pass ticket.",
+    "korean": "이미 배틀패스 티켓을 구매하였습니다."
+  },
+  "1002500292": {
+    "english": "Invalid status value.",
+    "korean": "상태값이 맞지 않습니다."
+  },
+  "1002500293": {
+    "english": "Insufficient resources.",
+    "korean": "자원이 부족합니다."
+  },
+  "1002500294": {
+    "english": "The number of required characters for entry does not match.",
+    "korean": "진입에 필요한 캐릭터 수가 맞지 않습니다."
+  },
+  "1002500295": {
+    "english": "Characters currently used in other content cannot be used.",
+    "korean": "다른 컨텐츠에서 사용 중인 캐릭터는 사용할 수 없습니다."
+  },
+  "1002500296": {
+    "english": "When Iron Tower is in progress, the character pool cannot be changed.",
+    "korean": "철의 탑이 진행 중인 경우, 캐릭터 풀을 변경할 수 없습니다."
+  },
+  "1002500297": {
+    "english": "Insufficient points.",
+    "korean": "포인트가 부족합니다."
+  },
+  "1002500298": {
+    "english": "The boss has not been cleared.",
+    "korean": "보스가 클리어되지 않았습니다."
+  },
+  "1002500299": {
+    "english": "This object has already been completed.",
+    "korean": "이미 완료된 오브젝트입니다."
+  },
+  "1002500300": {
+    "english": "Currently in use in Iron Tower.",
+    "korean": "철의 탑에서 사용 중입니다."
+  },
+  "1002500301": {
+    "english": "Not enough inventory space.",
+    "korean": "인벤토리가 부족합니다."
+  },
+  "1002500302": {
+    "english": "Insufficient items.",
+    "korean": "아이템이 부족합니다."
+  },
+  "1002500303": {
+    "english": "No skill acquired.",
+    "korean": "스킬을 보유하지 않았습니다."
+  },
+  "1002500304": {
+    "english": "Not enough cash.",
+    "korean": "캐시가 부족합니다."
+  },
+  "1002500305": {
+    "english": "Quest data error.",
+    "korean": "퀘스트 데이터 오류."
+  },
+  "1002500306": {
+    "english": "Timeout.",
+    "korean": "타임아웃"
+  },
+  "1002500307": {
+    "english": "ID mismatch.",
+    "korean": "ID 불일치"
+  },
+  "1002500308": {
+    "english": "Incorrect market.",
+    "korean": "마켓이 틀림"
+  },
+  "1002500309": {
+    "english": "State mismatch.",
+    "korean": "State가 안 맞음"
+  },
+  "1002500310": {
+    "english": "Server error (connection failed).",
+    "korean": "서버 오류(연결 실패)"
+  },
+  "1002500311": {
+    "english": "Server error (no response).",
+    "korean": "서버 오류(응답 없음)"
+  },
+  "1002500312": {
+    "english": "Server error (no response data).",
+    "korean": "서버 오류(응답 데이타 없음)"
+  },
+  "1002500313": {
+    "english": "Exceeded number of authentication attempts.",
+    "korean": "인증 시도 횟수 초과"
+  },
+  "1002500314": {
+    "english": "Authentication status error.",
+    "korean": "인증 Status 오류"
+  },
+  "1002600001": {
+    "english": "1 Gene Seed",
+    "korean": "유전자 씨앗 1개"
+  },
+  "1002600002": {
+    "english": "5 Combat Equipment Cores",
+    "korean": "전투 장비 코어 5개"
+  },
+  "1002600003": {
+    "english": "10 Combat Equipment Cores",
+    "korean": "전투 장비 코어 10개"
+  },
+  "1002600004": {
+    "english": "20 Combat Equipment Cores",
+    "korean": "전투 장비 코어 20개"
+  },
+  "1002600005": {
+    "english": "50 Combat Equipment Cores",
+    "korean": "전투 장비 코어 50개"
+  },
+  "1002600006": {
+    "english": "100 Combat Equipment Cores",
+    "korean": "전투 장비 코어 100개"
+  },
+  "1002600007": {
+    "english": "1 AI Core",
+    "korean": "AI 코어 1개"
+  },
+  "1002600008": {
+    "english": "50 Common Modules",
+    "korean": "일반 모듈 50개"
+  },
+  "1002600009": {
+    "english": "100 Common Modules",
+    "korean": "일반 모듈 100개"
+  },
+  "1002600010": {
+    "english": "500 Common Modules",
+    "korean": "일반 모듈 500개"
+  },
+  "1002600011": {
+    "english": "20 Advanced Modules",
+    "korean": "고급 모듈 20개"
+  },
+  "1002600012": {
+    "english": "50 Advanced Modules",
+    "korean": "고급 모듈 50개"
+  },
+  "1002600013": {
+    "english": "100 Advanced Modules",
+    "korean": "고급 모듈 100개"
+  },
+  "1002600014": {
+    "english": "10 Special Modules",
+    "korean": "특수 모듈 10개"
+  },
+  "1002600015": {
+    "english": "20 Special Modules",
+    "korean": "특수 모듈 20개"
+  },
+  "1002600016": {
+    "english": "50 Special Modules",
+    "korean": "특수 모듈 50개"
+  },
+  "1002600017": {
+    "english": "1500 Parts",
+    "korean": "부품 1500개"
+  },
+  "1002600018": {
+    "english": "2500 Parts",
+    "korean": "부품 2500개"
+  },
+  "1002600019": {
+    "english": "5000 Parts",
+    "korean": "부품 5000개"
+  },
+  "1002600020": {
+    "english": "10000 Parts",
+    "korean": "부품 10000개"
+  },
+  "1002600021": {
+    "english": "1500 Nutrients",
+    "korean": "영양 1500개"
+  },
+  "1002600022": {
+    "english": "2500 Nutrients",
+    "korean": "영양 2500개"
+  },
+  "1002600023": {
+    "english": "5000 Nutrients",
+    "korean": "영양 5000개"
+  },
+  "1002600024": {
+    "english": "10000 Nutrients",
+    "korean": "영양 10000개"
+  },
+  "1002600025": {
+    "english": "1500 Power",
+    "korean": "전력 1500개"
+  },
+  "1002600026": {
+    "english": "2500 Power",
+    "korean": "전력 2500개"
+  },
+  "1002600027": {
+    "english": "5000 Power",
+    "korean": "전력 5000개"
+  },
+  "1002600028": {
+    "english": "10000 Power",
+    "korean": "전력 10000개"
+  },
+  "1002600029": {
+    "english": "1500 Resources",
+    "korean": "자원 1500개"
+  },
+  "1002600030": {
+    "english": "3000 Resources",
+    "korean": "자원 3000개"
+  },
+  "1002600031": {
+    "english": "5000 Resources",
+    "korean": "자원 5000개"
+  },
+  "1002600032": {
+    "english": "10000 Resources",
+    "korean": "자원 10000개"
+  },
+  "1002600033": {
+    "english": "30000 Resources",
+    "korean": "자원 30000개"
+  },
+  "1002600034": {
+    "english": "50000 Resources",
+    "korean": "자원 50000개"
+  },
+  "1002600035": {
+    "english": "1 Rapid Completion Circuit",
+    "korean": "급속 완성 회로 1개"
+  },
+  "1002600036": {
+    "english": "1 Repair Nanomachine",
+    "korean": "수복 나노머신 1개"
+  },
+  "1002600037": {
+    "english": "1 Link Breaker",
+    "korean": "링크 해제기 1개"
+  },
+  "1002600038": {
+    "english": "1 Combat Module Reset",
+    "korean": "전투 모듈 초기화 1개"
+  },
+  "1002600039": {
+    "english": "1 Suspicious Computing Circuit",
+    "korean": "수상한 연산 회로 1개"
+  },
+  "1002600040": {
+    "english": "Expand Combatant Waiting Room by 10 slots",
+    "korean": "전투원 대기실 10칸 확장"
+  },
+  "1002600041": {
+    "english": "Expand Equipment Storage by 20 slots",
+    "korean": "장비 창고 20칸 확장"
+  },
+  "1002600042": {
+    "english": "Expand Combatant Manufacturing Facility by 1 slot",
+    "korean": "전투원 제조 시설 1칸 확장"
+  },
+  "1002600043": {
+    "english": "Expand Equipment Manufacturing Facility by 1 slot",
+    "korean": "장비 제조 시설 1칸 확장"
+  },
+  "1002600044": {
+    "english": "Expand Squad Deployment Pod by 1 slot",
+    "korean": "스쿼드 출격 포드 1칸 확장"
+  },
+  "1002600045": {
+    "english": "Expand Recovery Room by 1 slot",
+    "korean": "수복실 1칸 확장"
+  },
+  "1002600046": {
+    "english": "Legacy of the Apocalypse",
+    "korean": "멸망 전의 유산"
+  },
+  "1002600047": {
+    "english": "Legacy of the Apocalypse 10+1",
+    "korean": "멸망 전의 유산 10+1"
+  },
+  "1002600048": {
+    "english": "Tuna Can Supply Order (30 Days)",
+    "korean": "참치캔 공급 발주 (30일)"
+  },
+  "1002600049": {
+    "english": "Tuna Can Additional Supply Order (30 Days)",
+    "korean": "참치캔 추가 공급 발주 (30일)"
+  },
+  "1002600050": {
+    "english": "100 Common Robot Parts",
+    "korean": "일반 로봇 부품 100개"
+  },
+  "1002600051": {
+    "english": "20 New Robot Parts",
+    "korean": "신형 로봇 부품 20개"
+  },
+  "1002600052": {
+    "english": "Miho's Chocolate Factory Pack",
+    "korean": "미호의 초콜릿 공장 팩"
+  },
+  "1002600053": {
+    "english": "1500+750 Resources",
+    "korean": "자원 1500+750개"
+  },
+  "1002600054": {
+    "english": "3000+1500 Resources",
+    "korean": "자원 3000+1500개"
+  },
+  "1002600055": {
+    "english": "5000+2500 Resources",
+    "korean": "자원 5000+2500개"
+  },
+  "1002600056": {
+    "english": "10000+5000 Resources",
+    "korean": "자원 10000+5000개"
+  },
+  "1002600057": {
+    "english": "30000+15000 Resources",
+    "korean": "자원 30000+15000개"
+  },
+  "1002600058": {
+    "english": "50000+25000 Resources",
+    "korean": "자원 50000+25000개"
+  },
+  "1002600059": {
+    "english": "50+25 Gene Seeds",
+    "korean": "유전자 씨앗 50+25개"
+  },
+  "1002600060": {
+    "english": "100+50 Gene Seeds",
+    "korean": "유전자 씨앗 100+50개"
+  },
+  "1002600061": {
+    "english": "50+25 Equipment Cores",
+    "korean": "장비 코어 50+25개"
+  },
+  "1002600062": {
+    "english": "100+50 Equipment Cores",
+    "korean": "장비 코어 100+50개"
+  },
+  "1002600063": {
+    "english": "50+25 Rapid Completion Circuits",
+    "korean": "급속 완성 회로 50+25개"
+  },
+  "1002600064": {
+    "english": "100+50 Rapid Completion Circuits",
+    "korean": "급속 완성 회로 100+50개"
+  },
+  "1002600065": {
+    "english": "50+25 Advanced Modules",
+    "korean": "고급 모듈  50+25개"
+  },
+  "1002600066": {
+    "english": "100+50 Advanced Modules",
+    "korean": "고급 모듈 100+50개"
+  },
+  "1002600067": {
+    "english": "Nickname Change Request Form",
+    "korean": "닉네임 변경 신청서"
+  },
+  "1002600068": {
+    "english": "500 Parts",
+    "korean": "부품 500개"
+  },
+  "1002600069": {
+    "english": "500 Nutrients",
+    "korean": "영양 500개"
+  },
+  "1002600070": {
+    "english": "500 Power",
+    "korean": "전력 500개"
+  },
+  "1002600071": {
+    "english": "1000 Parts",
+    "korean": "부품 1000개"
+  },
+  "1002600072": {
+    "english": "1000 Nutrients",
+    "korean": "영양 1000개"
+  },
+  "1002600073": {
+    "english": "1000 Power",
+    "korean": "전력 1000개"
+  },
+  "1002600074": {
+    "english": "3 Handmade Cakes",
+    "korean": "수제 케이크 3개"
+  },
+  "1002600075": {
+    "english": "Box of 100 Common Modules",
+    "korean": "일반 모듈 100개 박스"
+  },
+  "1002600076": {
+    "english": "Box of 20 Common Robot Parts",
+    "korean": "일반 로봇 부품 20개 박스"
+  },
+  "1002600077": {
+    "english": "Costume Exchange Ticket",
+    "korean": "의상 교환권"
+  },
+  "1002600078": {
+    "english": "Faucre Overlord's Horn",
+    "korean": "뽀끄루 대마왕의 뿔"
+  },
+  "1002600079": {
+    "english": "Rice Cake Filled with Moon's Magic",
+    "korean": "달의 마력이 담긴 송편"
+  },
+  "1002600080": {
+    "english": "Cute Uniform (Lindwurm)",
+    "korean": "귀-여운 교복 (린트블룸)"
+  },
+  "1002600081": {
+    "english": "Treasure Chest Unlock Request",
+    "korean": "보물 상자 해제 의뢰"
+  },
+  "1002600082": {
+    "english": "18+3 Tuna Cans",
+    "korean": "참치캔 18+3개"
+  },
+  "1002600083": {
+    "english": "27+5 Tuna Cans",
+    "korean": "참치캔 27+5개"
+  },
+  "1002600084": {
+    "english": "540+110 Tuna Cans",
+    "korean": "참치캔 540+110개"
+  },
+  "1002600085": {
+    "english": "A currency for purchasing various items: 6",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 6개 입니다."
+  },
+  "1002600086": {
+    "english": "A currency for purchasing various items: 30",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 30개 입니다."
+  },
+  "1002600087": {
+    "english": "A currency for purchasing various items: 60",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 60개 입니다."
+  },
+  "1002600088": {
+    "english": "A currency for purchasing various items: 186",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 186개 입니다."
+  },
+  "1002600089": {
+    "english": "A currency for purchasing various items: 317",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 317개 입니다."
+  },
+  "1002600090": {
+    "english": "A currency for purchasing various items: 663",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 663개 입니다."
+  },
+  "1002600091": {
+    "english": "1 Gene Seed required for Bioroid Production.",
+    "korean": "바이오로이드 제작에 필요한 유전자 씨앗 1개 입니다."
+  },
+  "1002600092": {
+    "english": "5 Gene Seeds required for Bioroid Production.",
+    "korean": "바이오로이드 제작에 필요한 유전자 씨앗 5개 입니다."
+  },
+  "1002600093": {
+    "english": "10 Gene Seeds required for Bioroid Production.",
+    "korean": "바이오로이드 제작에 필요한 유전자 씨앗 10개 입니다."
+  },
+  "1002600094": {
+    "english": "20 Gene Seeds required for Bioroid Production.",
+    "korean": "바이오로이드 제작에 필요한 유전자 씨앗 20개 입니다."
+  },
+  "1002600095": {
+    "english": "50 Gene Seeds required for Bioroid Production.",
+    "korean": "바이오로이드 제작에 필요한 유전자 씨앗 50개 입니다."
+  },
+  "1002600096": {
+    "english": "100 Gene Seeds required for Bioroid production.",
+    "korean": "바이오로이드 제작에 필요한 유전자 씨앗 100개 입니다."
+  },
+  "1002600097": {
+    "english": "5 Equipment Cores required for Combat Equipment Production.",
+    "korean": "전투 장비 제작에 필요한 장비 코어 5개 입니다."
+  },
+  "1002600098": {
+    "english": "10 Equipment Cores required for Combat Equipment Production.",
+    "korean": "전투 장비 제작에 필요한 장비 코어 10개 입니다."
+  },
+  "1002600099": {
+    "english": "20 Equipment Cores required for Combat Equipment Production.",
+    "korean": "전투 장비 제작에 필요한 장비 코어 20개 입니다."
+  },
+  "1002600100": {
+    "english": "50 Equipment Cores required for Combat Equipment Production.",
+    "korean": "전투 장비 제작에 필요한 장비 코어 50개 입니다."
+  },
+  "1002600101": {
+    "english": "100 Equipment Cores required for Combat Equipment Production.",
+    "korean": "전투 장비 제작에 필요한 장비 코어 100개 입니다."
+  },
+  "1002600102": {
+    "english": "1 Main AI Core required for Robot Production.",
+    "korean": "로봇 제작에 필요한 메인 AI 코어 1개 입니다."
+  },
+  "1002600103": {
+    "english": "5 Main AI Cores required for Robot Production.",
+    "korean": "로봇 제작에 필요한 메인 AI 코어 5개 입니다."
+  },
+  "1002600104": {
+    "english": "10 Main AI Cores required for Robot Production.",
+    "korean": "로봇 제작에 필요한 메인 AI 코어 10개 입니다."
+  },
+  "1002600105": {
+    "english": "20 Main AI Cores required for Robot Production.",
+    "korean": "로봇 제작에 필요한 메인 AI 코어 20개 입니다."
+  },
+  "1002600106": {
+    "english": "Parts resources increased by 2,500.",
+    "korean": "부품 자원이 2500 증가합니다."
+  },
+  "1002600107": {
+    "english": "Parts resources increased by 5,000.",
+    "korean": "부품 자원이 5000 증가합니다."
+  },
+  "1002600108": {
+    "english": "Parts resources increased by 10,000.",
+    "korean": "부품 자원이 10000 증가합니다."
+  },
+  "1002600109": {
+    "english": "Nutrition resources increased by 2,500.",
+    "korean": "영양 자원이 2500 증가합니다."
+  },
+  "1002600110": {
+    "english": "Nutrition resources increased by 5,000.",
+    "korean": "영양 자원이 5000 증가합니다."
+  },
+  "1002600111": {
+    "english": "Nutrition resources increased by 10,000.",
+    "korean": "영양 자원이 10000 증가합니다."
+  },
+  "1002600112": {
+    "english": "Power resources increased by 2,500.",
+    "korean": "전력 자원이 2500 증가합니다."
+  },
+  "1002600113": {
+    "english": "Power resources increased by 5,000.",
+    "korean": "전력 자원이 5000 증가합니다."
+  },
+  "1002600114": {
+    "english": "Power resources increased by 10,000.",
+    "korean": "전력 자원이 10000 증가합니다."
+  },
+  "1002600115": {
+    "english": "Parts / Nutrition / Power increased by 1,500.",
+    "korean": "부품/영양/전력이 1500 증가합니다."
+  },
+  "1002600116": {
+    "english": "Parts / Nutrition / Power increased by 3,000.",
+    "korean": "부품/영양/전력이 3000 증가합니다."
+  },
+  "1002600117": {
+    "english": "Parts / Nutrition / Power increased by 5,000.",
+    "korean": "부품/영양/전력이 5000 증가합니다."
+  },
+  "1002600118": {
+    "english": "Parts / Nutrition / Power increased by 10,000.",
+    "korean": "부품/영양/전력이 10000 증가합니다."
+  },
+  "1002600119": {
+    "english": "Parts / Nutrition / Power increased by 30,000.",
+    "korean": "부품/영양/전력이 30000 증가합니다."
+  },
+  "1002600120": {
+    "english": "Parts / Nutrition / Power increased by 50,000.",
+    "korean": "부품/영양/전력이 50000 증가합니다."
+  },
+  "1002600121": {
+    "english": "1 Circuit to instantly complete a Work-in-Progress Bioloid or Equipment.",
+    "korean": "제작 중인 전투원 또는 장비를 즉시 제작 완료할 수 있는 회로 1개 입니다."
+  },
+  "1002600122": {
+    "english": "5 Circuits to instantly complete a Work-in-Progress Bioloid or Equipment.",
+    "korean": "제작 중인 전투원 또는 장비를 즉시 제작 완료할 수 있는 회로 5개 입니다."
+  },
+  "1002600123": {
+    "english": "10 Circuits to instantly complete a Work-in-Progress Bioloid or Equipment.",
+    "korean": "제작 중인 전투원 또는 장비를 즉시 제작 완료할 수 있는 회로 10개 입니다."
+  },
+  "1002600124": {
+    "english": "20 Circuits to instantly complete a Work-in-Progress Bioloid or Equipment.",
+    "korean": "제작 중인 전투원 또는 장비를 즉시 제작 완료할 수 있는 회로 20개 입니다."
+  },
+  "1002600125": {
+    "english": "50 Circuits to instantly complete a Work-in-Progress Bioloid or Equipment.",
+    "korean": "제작 중인 전투원 또는 장비를 즉시 제작 완료할 수 있는 회로 50개 입니다."
+  },
+  "1002600126": {
+    "english": "100 Circuits that can instantly complete the production of a combat unit or equipment in progress.",
+    "korean": "제작 중인 전투원 또는 장비를 즉시 제작 완료할 수 있는 회로 100개 입니다."
+  },
+  "1002600127": {
+    "english": "1 Nanomachine required for Instant Repair and Emergency Repair.",
+    "korean": "즉시 수복과 응급 수복에 필요한 나노머신 1개 입니다."
+  },
+  "1002600128": {
+    "english": "5 Nanomachines required for Instant Repair and Emergency Repair.",
+    "korean": "즉시 수복과 응급 수복에 필요한 나노머신 5개 입니다."
+  },
+  "1002600129": {
+    "english": "10 Nanomachines required for Instant Repair and Emergency Repair.",
+    "korean": "즉시 수복과 응급 수복에 필요한 나노머신 10개 입니다."
+  },
+  "1002600130": {
+    "english": "20 Nanomachines required for Instant Repair and Emergency Repair.",
+    "korean": "즉시 수복과 응급 수복에 필요한 나노머신 20개 입니다."
+  },
+  "1002600131": {
+    "english": "50 Nanomachines required for Instant Repair and Emergency Repair.",
+    "korean": "즉시 수복과 응급 수복에 필요한 나노머신 50개 입니다."
+  },
+  "1002600132": {
+    "english": "100 Nanomachines required for Instant Repair and Emergency Repair.",
+    "korean": "즉시 수복과 응급 수복에 필요한 나노머신 100개 입니다."
+  },
+  "1002600133": {
+    "english": "1 Unlocker required for Core Link Release.",
+    "korean": "코어 링크 해제에 필요한 해제기 1개 입니다."
+  },
+  "1002600134": {
+    "english": "5 Unlockers required for Core Link Release.",
+    "korean": "코어 링크 해제에 필요한 해제기 5개 입니다."
+  },
+  "1002600135": {
+    "english": "10 Unlockers required for Core Link Release.",
+    "korean": "코어 링크 해제에 필요한 해제기 10개 입니다."
+  },
+  "1002600136": {
+    "english": "1 Equipment required for Combatant Enhancement Reset.",
+    "korean": "전투원 강화 초기화에 필요한 장비 1개 입니다."
+  },
+  "1002600137": {
+    "english": "5 Equipments required for Combatant Enhancement Reset.",
+    "korean": "전투원 강화 초기화에 필요한 장비 5개 입니다."
+  },
+  "1002600138": {
+    "english": "10 Equipments required for Combatant Enhancement Reset.",
+    "korean": "전투원 강화 초기화에 필요한 장비 10개 입니다."
+  },
+  "1002600139": {
+    "english": "20 Equipments required for Combatant Enhancement Reset.",
+    "korean": "전투원 강화 초기화에 필요한 장비 20개 입니다."
+  },
+  "1002600140": {
+    "english": "1 Circuit that instantly completes any Research, but explodes after use.",
+    "korean": "어떤 연구도 순식간에 완료하지만, 사용 후 폭발하는 회로 1개 입니다."
+  },
+  "1002600141": {
+    "english": "5 Circuits that instantly complete any Research, but explode after use.",
+    "korean": "어떤 연구도 순식간에 완료하지만, 사용 후 폭발하는 회로 5개 입니다."
+  },
+  "1002600142": {
+    "english": "10 Circuits that instantly complete any Research, but explode after use.",
+    "korean": "어떤 연구도 순식간에 완료하지만, 사용 후 폭발하는 회로 10개 입니다."
+  },
+  "1002600143": {
+    "english": "Expands Combatant Production Slots by 1.",
+    "korean": "전투원 제조 슬롯이 1칸 확장됩니다."
+  },
+  "1002600144": {
+    "english": "Expands Equipment Production Slots by 1.",
+    "korean": "장비 제조 슬롯이 1칸 확장됩니다."
+  },
+  "1002600145": {
+    "english": "Expands Squad Placement Slots by 1.",
+    "korean": "스쿼드 배치 슬롯이 1칸 확장됩니다."
+  },
+  "1002600146": {
+    "english": "Expands Recovery Room Slots by 1.",
+    "korean": "수복실 슬롯이 1칸 확장됩니다."
+  },
+  "1002600147": {
+    "english": "11 alloy boxes used by humanity before the apocalypse. Contents unknown, but may contain rarer items.",
+    "korean": "인류가 멸망 전에 사용하던 합금 상자 11개 입니다. 뭐가 들어있는 지 알 수 없지만, 뭔가 더 귀한 물건이 들어있을 것 같습니다."
+  },
+  "1002600148": {
+    "english": "[Immediately receive 61 Tuna Cans upon purchase, plus +1 Tuna Can daily / +1 Squad Preset Slot]&nWhen repurchased, the remaining duration will be extended.&nThis product is non-refundable.",
+    "korean": "[구매와 동시에 참치캔 61개,매일 참치캔 +1개 / 스쿼드 프리셋 +1개 ]&n재 구매 시, 남은 기간이 증가합니다. 해당 상품의 경우 청약철회가 불가능합니다."
+  },
+  "1002600149": {
+    "english": "[Immediately receive 155 Tuna Cans upon purchase, plus +5 Tuna Cans daily / Assign up to 5 Deputy Officers / +2 Squad Preset Slots / +1 hr Max Auto-Battle Time]&nWhen repurchased, the remaining duration will be extended.&nThis product is non-refundable.",
+    "korean": "[ 구매와 동시에 참치캔 155개, 매일 참치캔 +5개 / 다중 부관 최대 5명 배치 / 스쿼드 프리셋 +2개&n/ 총력전 임무 허가서 +4장 / 자율 전투 최대 시간 +1시간 ]&n재 구매 시, 남은 기간이 증가합니다. 해당 상품의 경우 청약철회가 불가능합니다."
+  },
+  "1002600150": {
+    "english": "This pack contains 20 each of Starter Parts / Heavy Armament Parts / High Output Boosters / Superalloy Armor Plates / High-Density Computational Control Parts.",
+    "korean": "시작형 파츠/중무장 파츠/고출력 부스터/초합금 장갑판/ 고밀도 연산제어 파츠가 20개씩 들어있는 팩입니다."
+  },
+  "1002600151": {
+    "english": "A currency that can be used to purchase various items ×18.&nRefunds are available within 7 days of purchase. However, once the item has been used, refunds will no longer be possible.",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 18개 입니다. 청약철회는 구매일로부터 7일 이내에 가능합니다. 단, 아이템을 사용했을 경우 청약철회는 불가능합니다."
+  },
+  "1002600152": {
+    "english": "Pack containing Magical Girl Outfit for Pocrus, 1 Homemade Cake, 2 Chocolates, and 3 Synthetic Lollipops",
+    "korean": "뽀끄루용 마법소녀 복장과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600153": {
+    "english": "Obtain 500 Parts.",
+    "korean": "부품 500개를 획득합니다."
+  },
+  "1002600154": {
+    "english": "Obtain 500 Nutrients.",
+    "korean": "영양 500개를 획득합니다."
+  },
+  "1002600155": {
+    "english": "Obtain 500 Power.",
+    "korean": "전력 500개를 획득합니다."
+  },
+  "1002600156": {
+    "english": "Obtain 1000 Parts.",
+    "korean": "부품 1000개를 획득합니다."
+  },
+  "1002600157": {
+    "english": "Obtain 1000 Nutrients.",
+    "korean": "영양 1000개를 획득합니다."
+  },
+  "1002600158": {
+    "english": "Obtain 1000 Power.",
+    "korean": "전력 1000개를 획득합니다."
+  },
+  "1002600159": {
+    "english": "Contains 250 Origin Dust.",
+    "korean": "오리진 더스트가 250개 들어있습니다."
+  },
+  "1002600160": {
+    "english": "Contains 100 Advanced Origin Dust.",
+    "korean": "고급 오리진 더스트가 100개 들어있습니다."
+  },
+  "1002600161": {
+    "english": "Contains 25 Special Origin Dust.",
+    "korean": "특수 오리진 더스트가 25개 들어있습니다."
+  },
+  "1002600162": {
+    "english": "A box containing 100 standard modules used for research and other purposes.",
+    "korean": "연구 등에 사용되는 표준 모듈 100개가 들어있는 박스입니다."
+  },
+  "1002600163": {
+    "english": "This pack contains 20 each of Mass-Produced Parts / Armament Parts / Booster Parts / Alloy Armor Plates / Computational Control Parts.",
+    "korean": "양산형 파츠/무장 파츠/부스터 파츠/합금 장갑판/연산 제어 파츠가 20개씩 들어있습니다."
+  },
+  "1002600164": {
+    "english": "These are tickets used for costume exchanges.",
+    "korean": "의상 교환에 쓰이는 티켓입니다."
+  },
+  "1002600165": {
+    "english": "AG-1 Nereid is awarded.",
+    "korean": "AG-1 네레이드를 지급합니다."
+  },
+  "1002600166": {
+    "english": "P/A-00 Griffon is awarded.",
+    "korean": "P/A-00 그리폰을 지급합니다."
+  },
+  "1002600167": {
+    "english": "Constantia S2 is awarded.",
+    "korean": "콘스탄챠 S2를 지급합니다."
+  },
+  "1002600168": {
+    "english": "Prester Joanna is awarded.",
+    "korean": "프레스터 요안나를 지급합니다."
+  },
+  "1002600169": {
+    "english": "Pub Head is awarded.",
+    "korean": "펍 헤드를 지급합니다."
+  },
+  "1002600170": {
+    "english": "Fallen is awarded.",
+    "korean": "폴른을 지급합니다."
+  },
+  "1002600171": {
+    "english": "Amy Razor is awarded.",
+    "korean": "에이미 레이저를 지급합니다."
+  },
+  "1002600172": {
+    "english": "Coco in Whiteshell is awarded.",
+    "korean": "코코 인 화이트셸을 지급합니다."
+  },
+  "1002600173": {
+    "english": "Indomitable Marie is awarded.",
+    "korean": "불굴의 마리를 지급합니다."
+  },
+  "1002600174": {
+    "english": "Drone is awarded.",
+    "korean": "드론을 지급합니다."
+  },
+  "1002600175": {
+    "english": "LRL is awarded.",
+    "korean": "LRL을 지급합니다."
+  },
+  "1002600176": {
+    "english": "Miss Safety is awarded.",
+    "korean": "미스세이프티를 지급합니다."
+  },
+  "1002600177": {
+    "english": "T-2 Brownie is awarded.",
+    "korean": "T-2 브라우니를 지급합니다."
+  },
+  "1002600178": {
+    "english": "Mighty R is awarded.",
+    "korean": "마이티R을 지급합니다."
+  },
+  "1002600179": {
+    "english": "Dutch Girl is awarded.",
+    "korean": "더치걸을 지급합니다."
+  },
+  "1002600180": {
+    "english": "Daphne is awarded.",
+    "korean": "다프네를 지급합니다."
+  },
+  "1002600181": {
+    "english": "Albatross is awarded.",
+    "korean": "알바트로스를 지급합니다."
+  },
+  "1002600182": {
+    "english": "Tommy Walker is awarded.",
+    "korean": "토미 워커를 지급합니다."
+  },
+  "1002600183": {
+    "english": "Fortune is awarded.",
+    "korean": "포츈을 지급합니다."
+  },
+  "1002600184": {
+    "english": "T-3 Leprechaun is awarded.",
+    "korean": "T-3 레프리콘을 지급합니다."
+  },
+  "1002600185": {
+    "english": "Portia is awarded.",
+    "korean": "포티아를 지급합니다."
+  },
+  "1002600186": {
+    "english": "Scissors Lize is awarded.",
+    "korean": "시저스 리제를 지급합니다."
+  },
+  "1002600187": {
+    "english": "P-24 Pinto is awarded.",
+    "korean": "P-24 핀토를 지급합니다."
+  },
+  "1002600188": {
+    "english": "CS Perrault is awarded.",
+    "korean": "CS 페로를 지급합니다."
+  },
+  "1002600189": {
+    "english": "TCHN is awarded.",
+    "korean": "티에치엔을 지급합니다."
+  },
+  "1002600190": {
+    "english": "AT-100 Beast Hunter is awarded.",
+    "korean": "AT-100 비스트헌터를 지급합니다."
+  },
+  "1002600191": {
+    "english": "M-5 Efreeti is awarded.",
+    "korean": "M-5 이프리트를 지급합니다."
+  },
+  "1002600192": {
+    "english": "Ada is awarded.",
+    "korean": "에이다를 지급합니다."
+  },
+  "1002600193": {
+    "english": "AA-7 Impet is awarded.",
+    "korean": "AA-7 임펫을 지급합니다."
+  },
+  "1002600194": {
+    "english": "T-8W Valkyrie is awarded.",
+    "korean": "T-8W 발키리를 지급합니다."
+  },
+  "1002600195": {
+    "english": "Tomo is awarded.",
+    "korean": "토모를 지급합니다."
+  },
+  "1002600196": {
+    "english": "Labiata is awarded.",
+    "korean": "라비아타를 지급합니다."
+  },
+  "1002600197": {
+    "english": "A-6 Io is awarded.",
+    "korean": "A-6 이오를 지급합니다."
+  },
+  "1002600198": {
+    "english": "GS-10 Sand Girl is awarded.",
+    "korean": "GS-10 샌드걸을 지급합니다."
+  },
+  "1002600199": {
+    "english": "T-10 Nymph is awarded.",
+    "korean": "T-10 님프를 지급합니다."
+  },
+  "1002600200": {
+    "english": "T-9 Gremlin is awarded.",
+    "korean": "T-9 그렘린을 지급합니다."
+  },
+  "1002600201": {
+    "english": "Vanilla A1 is awarded.",
+    "korean": "바닐라 A1을 지급합니다."
+  },
+  "1002600202": {
+    "english": "A-1 Bloody Panther is awarded.",
+    "korean": "A-1 블러디 팬서를 지급합니다."
+  },
+  "1002600203": {
+    "english": "Rampart is awarded.",
+    "korean": "램파트를 지급합니다."
+  },
+  "1002600204": {
+    "english": "May of Ruin is awarded.",
+    "korean": "멸망의 메이를 지급합니다."
+  },
+  "1002600205": {
+    "english": "Cerberus is awarded.",
+    "korean": "켈베로스를 지급합니다."
+  },
+  "1002600206": {
+    "english": "B-11 Night Angel is awarded.",
+    "korean": "B-11 나이트 앤젤을 지급합니다."
+  },
+  "1002600207": {
+    "english": "X-05 Emily is awarded.",
+    "korean": "X-05 에밀리를 지급합니다."
+  },
+  "1002600208": {
+    "english": "Iron-blooded Leona is awarded.",
+    "korean": "철혈의 레오나를 지급합니다."
+  },
+  "1002600209": {
+    "english": "Swift Khan is awarded.",
+    "korean": "신속의 칸을 지급합니다."
+  },
+  "1002600210": {
+    "english": "AT-4 Pani is awarded.",
+    "korean": "AT-4 파니를 지급합니다."
+  },
+  "1002600211": {
+    "english": "Frost Serpent is awarded.",
+    "korean": "프로스트 서펀트를 지급합니다."
+  },
+  "1002600212": {
+    "english": "P-18 Sylphid is awarded.",
+    "korean": "P-18 실피드를 지급합니다."
+  },
+  "1002600213": {
+    "english": "Skadi is awarded.",
+    "korean": "스카디를 지급합니다."
+  },
+  "1002600214": {
+    "english": "AL Phantom is awarded.",
+    "korean": "AL 팬텀을 지급합니다."
+  },
+  "1002600215": {
+    "english": "Black Lilith is awarded.",
+    "korean": "블랙 리리스를 지급합니다."
+  },
+  "1002600216": {
+    "english": "Resonance Alexandra is awarded.",
+    "korean": "공진의 알렉산드라를 지급합니다."
+  },
+  "1002600217": {
+    "english": "P-49 Sleipnir is awarded.",
+    "korean": "P-49 슬레이프니르를 지급합니다."
+  },
+  "1002600218": {
+    "english": "Neodym is awarded.",
+    "korean": "네오딤을 지급합니다."
+  },
+  "1002600219": {
+    "english": "Express 76 is awarded.",
+    "korean": "익스프레스 76을 지급합니다."
+  },
+  "1002600220": {
+    "english": "Wall Hachiko is awarded.",
+    "korean": "성벽의 하치코를 지급합니다."
+  },
+  "1002600221": {
+    "english": "P-2000 Djinnia is awarded.",
+    "korean": "P-2000 지니야를 지급합니다."
+  },
+  "1002600222": {
+    "english": "P/A-8 Black Hound is awarded.",
+    "korean": "P/A-8 블랙 하운드를 지급합니다."
+  },
+  "1002600223": {
+    "english": "Doctor is awarded.",
+    "korean": "닥터를 지급합니다."
+  },
+  "1002600224": {
+    "english": "T-50 PX Silky is awarded.",
+    "korean": "T-50 PX 실키를 지급합니다."
+  },
+  "1002600225": {
+    "english": "Stinger is awarded.",
+    "korean": "스팅어를 지급합니다."
+  },
+  "1002600226": {
+    "english": "T-14 Miho is awarded.",
+    "korean": "T-14 미호를 지급합니다."
+  },
+  "1002600227": {
+    "english": "A-54 Calista is awarded.",
+    "korean": "A-54 칼리스타를 지급합니다."
+  },
+  "1002600228": {
+    "english": "Gigantes is awarded.",
+    "korean": "기간테스를 지급합니다."
+  },
+  "1002600229": {
+    "english": "Seljuq is awarded.",
+    "korean": "셀주크를 지급합니다."
+  },
+  "1002600230": {
+    "english": "Type 37 Daika is awarded.",
+    "korean": "37식 다이카를 지급합니다."
+  },
+  "1002600231": {
+    "english": "Aqua is awarded.",
+    "korean": "아쿠아를 지급합니다."
+  },
+  "1002600232": {
+    "english": "Lacey is awarded.",
+    "korean": "레이시를 지급합니다."
+  },
+  "1002600233": {
+    "english": "T-60 Starfish is awarded.",
+    "korean": "T-60 불가사리를 지급합니다."
+  },
+  "1002600234": {
+    "english": "Quick Camel is awarded.",
+    "korean": "퀵 카멜을 지급합니다."
+  },
+  "1002600235": {
+    "english": "T-75 Werewolf is awarded.",
+    "korean": "T-75 워울프를 지급합니다."
+  },
+  "1002600236": {
+    "english": "Shade is awarded.",
+    "korean": "쉐이드를 지급합니다."
+  },
+  "1002600237": {
+    "english": "Magical Momo is awarded.",
+    "korean": "매지컬 모모를 지급합니다."
+  },
+  "1002600238": {
+    "english": "Atalanta is awarded.",
+    "korean": "아탈란테를 지급합니다."
+  },
+  "1002600239": {
+    "english": "GS-130 Phoenix is awarded.",
+    "korean": "GS-130 피닉스를 지급합니다."
+  },
+  "1002600240": {
+    "english": "P-3M Undine is awarded.",
+    "korean": "P-3M 운디네를 지급합니다."
+  },
+  "1002600241": {
+    "english": "Carolina is awarded.",
+    "korean": "캐럴라이나를 지급합니다."
+  },
+  "1002600242": {
+    "english": "Lancer Mina is awarded.",
+    "korean": "랜서 미나를 지급합니다."
+  },
+  "1002600243": {
+    "english": "Audrey is awarded.",
+    "korean": "오드리를 지급합니다."
+  },
+  "1002600244": {
+    "english": "T-20S Gnome is awarded.",
+    "korean": "T-20S 노움을 지급합니다."
+  },
+  "1002600245": {
+    "english": "Sowan is awarded.",
+    "korean": "소완을 지급합니다."
+  },
+  "1002600246": {
+    "english": "Elven Forest Maker is awarded.",
+    "korean": "엘븐 포레스트메이커를 지급합니다."
+  },
+  "1002600247": {
+    "english": "Connector Yumi is awarded.",
+    "korean": "커넥터 유미를 지급합니다."
+  },
+  "1002600248": {
+    "english": "Charlotte is awarded.",
+    "korean": "샬럿을 지급합니다."
+  },
+  "1002600249": {
+    "english": "A-14B Spriggan is awarded.",
+    "korean": "A-14B 스프리건을 지급합니다."
+  },
+  "1002600250": {
+    "english": "AG-2C Sirene is awarded.",
+    "korean": "AG-2C 세이렌을 지급합니다."
+  },
+  "1002600251": {
+    "english": "Azazel is awarded.",
+    "korean": "아자젤을 지급합니다."
+  },
+  "1002600252": {
+    "english": "Triaina is awarded.",
+    "korean": "트리아이나를 지급합니다."
+  },
+  "1002600253": {
+    "english": "Rhea is awarded.",
+    "korean": "레아를 지급합니다."
+  },
+  "1002600254": {
+    "english": "Ignis is awarded.",
+    "korean": "이그니스를 지급합니다."
+  },
+  "1002600255": {
+    "english": "Empress is awarded.",
+    "korean": "엠프리스를 지급합니다."
+  },
+  "1002600256": {
+    "english": "Alice is awarded.",
+    "korean": "앨리스를 지급합니다."
+  },
+  "1002600257": {
+    "english": "Magical Moonbit is awarded.",
+    "korean": "매지컬 백토를 지급합니다."
+  },
+  "1002600258": {
+    "english": "Faucre Great Demon King is awarded.",
+    "korean": "뽀끄루 대마왕을 지급합니다."
+  },
+  "1002600259": {
+    "english": "T-12 Bheur is awarded.",
+    "korean": "T-12 베라를 지급합니다."
+  },
+  "1002600260": {
+    "english": "Dark Elven Forest Ranger is awarded.",
+    "korean": "다크엘븐 포레스트레인저를 지급합니다."
+  },
+  "1002600261": {
+    "english": "T-13 Alvis is awarded.",
+    "korean": "T-13 알비스를 지급합니다."
+  },
+  "1002600262": {
+    "english": "AO-2 Raven is awarded.",
+    "korean": "AO-2 레이븐을 지급합니다."
+  },
+  "1002600263": {
+    "english": "Fenrir is awarded.",
+    "korean": "펜리르를 지급합니다."
+  },
+  "1002600264": {
+    "english": "Armand is awarded.",
+    "korean": "아르망을 지급합니다."
+  },
+  "1002600265": {
+    "english": "Circe is awarded.",
+    "korean": "키르케를 지급합니다."
+  },
+  "1002600266": {
+    "english": "Veronica is awarded.",
+    "korean": "베로니카를 지급합니다."
+  },
+  "1002600267": {
+    "english": "X-00 Tiamat is awarded.",
+    "korean": "X-00 티아맷을 지급합니다."
+  },
+  "1002600268": {
+    "english": "Echidna is awarded.",
+    "korean": "에키드나를 지급합니다."
+  },
+  "1002600269": {
+    "english": "E-16 Talon Feather is awarded.",
+    "korean": "E-16 탈론페더를 지급합니다."
+  },
+  "1002600270": {
+    "english": "C-77 Red Hood is awarded.",
+    "korean": "C-77 레드후드를 지급합니다."
+  },
+  "1002600271": {
+    "english": "Enhances output to increase ATK.",
+    "korean": "출력을 강화해 공격력을 높입니다."
+  },
+  "1002600272": {
+    "english": "Enhances computational performance to increase ACU.",
+    "korean": "연산 성능을 강화해 적중을 높입니다."
+  },
+  "1002600273": {
+    "english": "Enhances shock resistance to increase DEF.",
+    "korean": "내 충격 성능을 강화해 방어를 높입니다."
+  },
+  "1002600274": {
+    "english": "Improves reaction speed to increase EVA.",
+    "korean": "반응 속도를 향상시켜 회피를 높입니다."
+  },
+  "1002600275": {
+    "english": "Analyzes enemy weaknesses to increase CRIT.",
+    "korean": "적의 약점을 분석해 치명타를 높입니다."
+  },
+  "1002600276": {
+    "english": "Increases circuit durability to raise HP.",
+    "korean": "회로 내구도를 높여 HP가 증가합니다."
+  },
+  "1002600277": {
+    "english": "Applies vaccination to circuits to increase resistance to effects.",
+    "korean": "회로에 백신 처리를 해 효과 저항력을 높여줍니다."
+  },
+  "1002600278": {
+    "english": "Improves processing performance to increase AP.",
+    "korean": "각 처리 성능을 향상시켜 행동력이 증가합니다."
+  },
+  "1002600279": {
+    "english": "Combat OS for powerful attacks; increases ATK but decreases AP.",
+    "korean": "강력한 공격을 위한 전투 OS로, 공격력이 증가하지만 행동력이 감소합니다."
+  },
+  "1002600280": {
+    "english": "Combat OS designed to counter air types.",
+    "korean": "기동형에 대응하기 위한 전투 OS 입니다."
+  },
+  "1002600281": {
+    "english": "Combat OS designed to counter light armor types.",
+    "korean": "경장형에 대응하기 위한 전투 OS 입니다."
+  },
+  "1002600282": {
+    "english": "Combat OS designed to counter heavy armor types.",
+    "korean": "중장형에 대응하기 위한 전투 OS 입니다."
+  },
+  "1002600283": {
+    "english": "Learning-type OS that increases experience gained after winning battles.",
+    "korean": "학습형 OS로 인해 전투 승리 시, 획득 경험치가 증가합니다."
+  },
+  "1002600284": {
+    "english": "Observation equipment exclusive to attackers; increases range and ACU.",
+    "korean": "공격기 전용 관측 장비입니다. 사거리와 적중이 증가합니다."
+  },
+  "1002600285": {
+    "english": "Special armor exclusive to heavy armor types; nullifies DEF reduction effects.",
+    "korean": "중장형 전용 특수 장갑입니다. 방어 감소 효과를 무효화합니다."
+  },
+  "1002600286": {
+    "english": "Auxiliary booster exclusive to air types; nullifies EVA reduction effects.",
+    "korean": "기동형 전용 보조 부스터로, 회피 감소 효과를 무효화합니다."
+  },
+  "1002600287": {
+    "english": "Highly precise aiming device; removes ACU reduction effects at the start of a round.",
+    "korean": "매우 정밀한 조준기입니다. 라운드 개시 시, 적중 감소 효과를 해제합니다."
+  },
+  "1002600288": {
+    "english": "Grants DEF penetration effect when equipped.",
+    "korean": "장착 시, 방어 관통 효과를 얻습니다."
+  },
+  "1002600289": {
+    "english": "Grants a fixed amount of shield every round.",
+    "korean": "매 라운드 일정 수치의 방어막을 얻습니다."
+  },
+  "1002600290": {
+    "english": "Deploys a small reconnaissance drone to gather information about the next appearing enemy.",
+    "korean": "소형 정찰 드론을 띄워 다음에 출현하는 적의 정보를 얻습니다."
+  },
+  "1002600291": {
+    "english": "Combat OS exclusive to air-type protectors. If an EVA increase effect is active at round start, damage received from one hit is reduced.",
+    "korean": "기동형 보호기 전용 OS입니다. 라운드 개시 시, 회피 증가 효과가 적용된 상태면 1회 피격에 한해 받는 피해가 감소합니다."
+  },
+  "1002600292": {
+    "english": "Increases AP at the start of battle. Upon incapacitation, continues combat once with a certain amount of HP.",
+    "korean": "전투 시작 시, 행동력이 증가합니다. 행동 불능 시, 1회에 한해 일정 HP를 가지고 전투를 속행합니다."
+  },
+  "1002600293": {
+    "english": "Supporter-exclusive auxiliary equipment that launches a decoy to reduce damage received.",
+    "korean": "지원기 전용 보조 장비로, 교란용 더미를 사출해 받는 피해가 감소합니다."
+  },
+  "1002600294": {
+    "english": "Special ammunition exclusive to Constantia's Winchester rifle.",
+    "korean": "콘스탄챠의 윈체스터 라이플 전용 특수 탄환입니다."
+  },
+  "1002600295": {
+    "english": "Expanded missile pod exclusive to Griffon.",
+    "korean": "그리폰 전용 확장 미사일 포드입니다."
+  },
+  "1002600296": {
+    "english": "Superalloy plate armor exclusive to Johanna.",
+    "korean": "요안나 전용 초합금 플레이트 아머입니다."
+  },
+  "1002600297": {
+    "english": "LRL's favorite book. Its mechanism is unknown, but carrying it seems to bring good luck.",
+    "korean": "LRL의 애독서입니다. 원리는 알 수 없지만 들고 있으면 운이 좋아지는 듯 합니다."
+  },
+  "1002600298": {
+    "english": "Fire-resistant coating reduces the power of fire-type attacks.",
+    "korean": "내열 코팅으로 화염 속성 공격의 위력을 낮춥니다."
+  },
+  "1002600299": {
+    "english": "Fire-resistant coating reduces the power of fire-type attacks.",
+    "korean": "내한 코팅으로 냉기 속성 공격의 위력을 낮춥니다."
+  },
+  "1002600300": {
+    "english": "Fire-resistant coating reduces the power of fire-type attacks.",
+    "korean": "내전 코팅으로 전기 속성 공격의 위력을 낮춥니다."
+  },
+  "1002600301": {
+    "english": "A delicious portable lunch pack made by Sowan. Grants beneficial effects when equipped by a Bioroid.",
+    "korean": "소완이 만든 맛이 뛰어난 휴대용 도시락 팩입니다. 바이오로이드가 장착 시, 이로운 효과를 얻습니다."
+  },
+  "1002600302": {
+    "english": "When attacking enemies, increases EXP gained after battle. This effect can stack up to 5 times.",
+    "korean": "자신이 적 공격 시, 전투 종료 후 획득하는 경험치가 증가합니다. 동일 효과는 최대 5회까지만 중첩됩니다."
+  },
+  "1002600303": {
+    "english": "Empowered beyond normal abilities by the power of the Great Demon King Faucre, but occasionally does nothing and idles. Only effective for Bioroids.",
+    "korean": "뽀끄루 대마왕의 힘으로 본 능력 이상으로 강해지지만, 가끔 아무 행동을 하지 않고 멍하니 있게 됩니다. 바이오로이드에게만 효과가 있습니다."
+  },
+  "1002600304": {
+    "english": "A rice cake infused with the moon's power(?). When held, has a chance to grant a random buff at the start of a round.",
+    "korean": "달의 마력(?)이 담긴 송편입니다. 가지고 있으면 일정 확률로 라운드 개시 시, 무작위 강화 효과가 적용됩니다."
+  },
+  "1002600305": {
+    "english": "An output enhancement circuit reinforced with new materials. Increases ATK/AP.",
+    "korean": "신소재로 강화된 출력 강화 회로입니다. 공격력과 행동력이 증가합니다."
+  },
+  "1002600306": {
+    "english": "A crystal ball-shaped computation device. Increases ACU/EVA, and grants AP increase/reconnaissance effect at the start of battle.",
+    "korean": "수정구 형태의 연산장치입니다. 적중 / 회피가 증가하며 전투 개시 시, 행동력 증가 / 정찰 효과를 얻습니다."
+  },
+  "1002600307": {
+    "english": "Increases ACU/CRIT/range; based on enhancement level, has a chance to remove ACU/range reduction effects.",
+    "korean": "적중 / 치명타 / 사거리가 증가하며, 강화 단계에 따라 일정 확률로 적중 / 사거리 감소 효과를 해제합니다."
+  },
+  "1002600308": {
+    "english": "Removes output limiter to greatly increase ATK/AP, but reduces ACU. Only effective for robots.",
+    "korean": "출력 제한을 해제해 공격력 / 행동력이 크게 증가하지만, 적중이 감소합니다. 로봇에게만 효과가 있습니다."
+  },
+  "1002600309": {
+    "english": "Air-type exclusive strategic bombing auxiliary equipment. Increases ATK/CRIT/DEF penetration, but reduces EVA.",
+    "korean": "기동형 전용 전략 폭격용 보조 장비입니다. 공격력 / 치명타 / 방어 관통이 증가하지만 회피가 감소합니다."
+  },
+  "1002600310": {
+    "english": "An analysis circuit reinforced with new materials. Increases CRIT/ACU.",
+    "korean": "신소재로 강화된 분석 회로입니다. 치명타와 적중이 증가합니다."
+  },
+  "1002600311": {
+    "english": "<Maximum speed Mach 2.45! Essential gear for delivering presents!> Increases cold resistance/EVA/AP. When equipped by a Bioroid, may occasionally reduce ACU due to motion sickness.",
+    "korean": "<최대 속력 마하 2.45! 선물 전달을 위한 필수 장비!> 냉기 저항 / 회피 / 행동력이 증가합니다. 바이오로이드가 장착 시, 가끔 멀미 때문에 적중이 감소합니다."
+  },
+  "1002600312": {
+    "english": "An improved combat OS developed by analyzing battlefield combat records. Increases ATK/EVA/AP, and reduces damage taken. This OS can fulfill conditions required to trigger skill sub-effects.",
+    "korean": "전장에서의 전투 기록을 분석해 제작한 개량형 전투 OS입니다. 공격력 / 회피 / 행동력을 올려주며, 받는 피해가 감소합니다. 해당 OS의 효과는 스킬 부가 효과 발동에 필요한 조건을 만족시킬 수 있습니다."
+  },
+  "1002600313": {
+    "english": "A chipset that provides a small amount of enhancement points when used for equipment enhancement.",
+    "korean": "장비 강화에 사용 시 약간의 강화 포인트를 제공하는 칩셋입니다."
+  },
+  "1002600314": {
+    "english": "A chipset that provides enhancement points when used for equipment enhancement.",
+    "korean": "장비 강화에 사용 시 강화 포인트를 제공하는 칩셋입니다."
+  },
+  "1002600315": {
+    "english": "A chipset that provides high enhancement points when used for equipment enhancement.",
+    "korean": "장비 강화에 사용 시 높은 강화 포인트를 제공하는 칩셋입니다."
+  },
+  "1002600316": {
+    "english": "A chipset that provides very high enhancement points when used for equipment enhancement.",
+    "korean": "장비 강화에 사용 시 매우 높은 강화 포인트를 제공하는 칩셋입니다."
+  },
+  "1002600317": {
+    "english": "Unlocks the seal of a treasure chest.",
+    "korean": "보물 상자의 봉인을 해제합니다."
+  },
+  "1002600318": {
+    "english": "This is 21 currency that can be used to purchase various items.&nA withdrawal of purchase is possible within 7 days from the date of purchase. However, if the item has been used, withdrawal is not possible.",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 21개 입니다. 청약철회는 구매일로부터 7일 이내에 가능합니다. 단, 아이템을 사용했을 경우 청약철회는 불가능합니다."
+  },
+  "1002600319": {
+    "english": "This is 32 currency that can be used to purchase various items.&nA withdrawal of purchase is possible within 7 days from the date of purchase. However, if the item has been used, withdrawal is not possible.",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 32개 입니다. 청약철회는 구매일로부터 7일 이내에 가능합니다. 단, 아이템을 사용했을 경우 청약철회는 불가능합니다."
+  },
+  "1002600320": {
+    "english": "This is 650 currency that can be used to purchase various items.&nA withdrawal of purchase is possible within 7 days from the date of purchase. However, if the item has been used, withdrawal is not possible.",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 650개 입니다. 청약철회는 구매일로부터 7일 이내에 가능합니다. 단, 아이템을 사용했을 경우 청약철회는 불가능합니다."
+  },
+  "1002600321": {
+    "english": "These are 9 currencies used to purchase various items. Withdrawal of purchase is possible within 7 days from the purchase date. However, withdrawal is not possible if the item has been used.",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 9개 입니다. 청약철회는 구매일로부터 7일 이내에 가능합니다. 단, 아이템을 사용했을 경우 청약철회는 불가능합니다."
+  },
+  "1002600322": {
+    "english": "These are 9 currencies used to purchase various items. Withdrawal of purchase is possible within 7 days from the purchase date. However, withdrawal is not possible if the item has been used.",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 45개 입니다. 청약철회는 구매일로부터 7일 이내에 가능합니다. 단, 아이템을 사용했을 경우 청약철회는 불가능합니다."
+  },
+  "1002600323": {
+    "english": "These are 9 currencies used to purchase various items. Withdrawal of purchase is possible within 7 days from the purchase date. However, withdrawal is not possible if the item has been used.",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 90개 입니다. 청약철회는 구매일로부터 7일 이내에 가능합니다. 단, 아이템을 사용했을 경우 청약철회는 불가능합니다."
+  },
+  "1002600324": {
+    "english": "These are 9 currencies used to purchase various items. Withdrawal of purchase is possible within 7 days from the purchase date. However, withdrawal is not possible if the item has been used.",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 270개 입니다. 청약철회는 구매일로부터 7일 이내에 가능합니다. 단, 아이템을 사용했을 경우 청약철회는 불가능합니다."
+  },
+  "1002600325": {
+    "english": "These are 9 currencies used to purchase various items. Withdrawal of purchase is possible within 7 days from the purchase date. However, withdrawal is not possible if the item has been used.",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 450개 입니다. 청약철회는 구매일로부터 7일 이내에 가능합니다. 단, 아이템을 사용했을 경우 청약철회는 불가능합니다."
+  },
+  "1002600326": {
+    "english": "These are 9 currencies used to purchase various items. Withdrawal of purchase is possible within 7 days from the purchase date. However, withdrawal is not possible if the item has been used.",
+    "korean": "다양한 물품을 구매할 수 있는 화폐 900개 입니다. 청약철회는 구매일로부터 7일 이내에 가능합니다. 단, 아이템을 사용했을 경우 청약철회는 불가능합니다."
+  },
+  "1002600327": {
+    "english": "Parts 1,840 + 3,160",
+    "korean": "부품1840+3160개"
+  },
+  "1002600328": {
+    "english": "Parts 3,600 + 6,400",
+    "korean": "부품3600+6400개"
+  },
+  "1002600329": {
+    "english": "Parts 10,000 + 20,000",
+    "korean": "부품10000+20000개"
+  },
+  "1002600330": {
+    "english": "Nutrition 1,840 + 3,160",
+    "korean": "영양1840+3160개"
+  },
+  "1002600331": {
+    "english": "Nutrition 3,600 + 6,400",
+    "korean": "영양3600+6400개"
+  },
+  "1002600332": {
+    "english": "Nutrition 10,000 + 20,000",
+    "korean": "영양10000+20000개"
+  },
+  "1002600333": {
+    "english": "Power 1,840 + 3,160",
+    "korean": "전력1840+3160개"
+  },
+  "1002600334": {
+    "english": "Power 3,600 + 6,400",
+    "korean": "전력3600+6400개"
+  },
+  "1002600335": {
+    "english": "Power 10,000 + 20,000",
+    "korean": "전력10000+20000개"
+  },
+  "1002600336": {
+    "english": "Contains 3,160 Parts.",
+    "korean": "부품 3160개가 들어있습니다."
+  },
+  "1002600337": {
+    "english": "Contains 6,400 Parts.",
+    "korean": "부품 6400개가 들어있습니다."
+  },
+  "1002600338": {
+    "english": "Contains 20,000 Parts.",
+    "korean": "부품 20000개가 들어있습니다."
+  },
+  "1002600339": {
+    "english": "Contains 3,160 Nutrition.",
+    "korean": "영양 3160개가 들어있습니다."
+  },
+  "1002600340": {
+    "english": "Contains 6,400 Nutrition.",
+    "korean": "영양 6400개가 들어있습니다."
+  },
+  "1002600341": {
+    "english": "Contains 20,000 Nutrition.",
+    "korean": "영양 20000개가 들어있습니다."
+  },
+  "1002600342": {
+    "english": "Contains 3,160 Power.",
+    "korean": "전력 3160개가 들어있습니다."
+  },
+  "1002600343": {
+    "english": "Contains 6,400 Power.",
+    "korean": "전력 6400개가 들어있습니다."
+  },
+  "1002600344": {
+    "english": "Contains 20,000 Power.",
+    "korean": "전력 20000개가 들어있습니다."
+  },
+  "1002600345": {
+    "english": "1 ring + all resources 30,000",
+    "korean": "반지 1개 + 모든자원 30,000"
+  },
+  "1002600346": {
+    "english": "1 ring + all resources 50,000",
+    "korean": "반지 1개 + 모든자원 50,000"
+  },
+  "1002600347": {
+    "english": "2 rings + all resources 100,000",
+    "korean": "반지 2개 + 모든자원 100,000"
+  },
+  "1002600348": {
+    "english": "Ring of Oath",
+    "korean": "서약의 반지"
+  },
+  "1002600349": {
+    "english": "Parts 100",
+    "korean": "부품 100개"
+  },
+  "1002600350": {
+    "english": "Nutrition 100",
+    "korean": "영양 100개"
+  },
+  "1002600351": {
+    "english": "Power 100",
+    "korean": "전력 100개"
+  },
+  "1002600352": {
+    "english": "Grand Cru Chocolate",
+    "korean": "그랑크뤼 초콜릿"
+  },
+  "1002600353": {
+    "english": "High-output Generator EX",
+    "korean": "고출력 제네레이터 EX"
+  },
+  "1002600354": {
+    "english": "O.D Amplifier EX",
+    "korean": "O.D 증폭기 EX"
+  },
+  "1002600355": {
+    "english": "Output Control Circuit EX",
+    "korean": "출력 제어 회로 EX"
+  },
+  "1002600356": {
+    "english": "Output Enhancement Circuit Beta",
+    "korean": "출력 강화 회로 베타"
+  },
+  "1002600357": {
+    "english": "Computation Enhancement Circuit Beta",
+    "korean": "연산 강화 회로 베타"
+  },
+  "1002600358": {
+    "english": "Shock Resistance Circuit Beta",
+    "korean": "내 충격 회로 베타"
+  },
+  "1002600359": {
+    "english": "Reaction Enhancement Circuit Beta",
+    "korean": "반응 강화 회로 베타"
+  },
+  "1002600360": {
+    "english": "Analysis Circuit Beta",
+    "korean": "분석 회로 베타"
+  },
+  "1002600361": {
+    "english": "Circuit Durability Enhancement Beta",
+    "korean": "회로 내구 강화 베타"
+  },
+  "1002600362": {
+    "english": "Circuit Optimization Beta",
+    "korean": "회로 최적화 베타"
+  },
+  "1002600363": {
+    "english": "Large Heavy Combat System Beta",
+    "korean": "대 경장 전투 시스템 베타"
+  },
+  "1002600364": {
+    "english": "Large Mobile Combat System Beta",
+    "korean": "대 기동 전투 시스템 베타"
+  },
+  "1002600365": {
+    "english": "Large Heavy Combat System Beta",
+    "korean": "대 중장 전투 시스템 베타"
+  },
+  "1002600366": {
+    "english": "Precision Observation Equipment EX",
+    "korean": "정밀형 관측 장비 EX"
+  },
+  "1002600367": {
+    "english": "Ranger Combat Equipment Set",
+    "korean": "레인저용 전투장비 세트"
+  },
+  "1002600368": {
+    "english": "Special Frame for Harsh Terrain",
+    "korean": "험지용 특수 프레임"
+  },
+  "1002600369": {
+    "english": "Special Operative Thorn Necklace",
+    "korean": "특수 대원용 가시 목걸이"
+  },
+  "1002600370": {
+    "english": "Rampage Guidance System OS",
+    "korean": "폭주 유도 시스템 OS"
+  },
+  "1002600371": {
+    "english": "F.C.S",
+    "korean": "F.C.S"
+  },
+  "1002600372": {
+    "english": "Improved Ultra-Precision Aiming Device EX",
+    "korean": "개량형 초정밀 조준기 EX"
+  },
+  "1002600373": {
+    "english": "Cute~ Uniform (Lindwurm)",
+    "korean": "귀~여운 교복 (린트블룸)"
+  },
+  "1002600374": {
+    "english": "Bioroid Production Support Container",
+    "korean": "바이오로이드 제작 지원 컨테이너"
+  },
+  "1002600375": {
+    "english": "Promotion Support Container",
+    "korean": "승급 지원 컨테이너"
+  },
+  "1002600376": {
+    "english": "Formation Support Container",
+    "korean": "편성 지원 컨테이너"
+  },
+  "1002600377": {
+    "english": "Combat Unit Replenishment Pack",
+    "korean": "전투원 재정비 팩"
+  },
+  "1002600378": {
+    "english": "Pack containing Wedding Dress (Royal Arsenal) + 1 Handmade Cake, 2 Chocolates, and 3 Synthetic Lollipops.",
+    "korean": "로열 아스널용 웨딩드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600379": {
+    "english": "You obtain 1 Ring + 30,000 of each resource.",
+    "korean": "반지1개와 모든 자원 30,000을 획득 합니다."
+  },
+  "1002600380": {
+    "english": "You obtain 1 Ring + 50,000 of each resource.",
+    "korean": "반지1개와 모든 자원 50,000을 획득 합니다."
+  },
+  "1002600381": {
+    "english": "You obtain 2 Rings + 100,000 of each resource.",
+    "korean": "반지2개와 모든 자원 100,000을 획득 합니다."
+  },
+  "1002600382": {
+    "english": "Contains 1 Ring + 20 Handmade Cakes.",
+    "korean": "반지 1개와 수제 케이크가 20개 들어있습니다."
+  },
+  "1002600383": {
+    "english": "A Ring for a Pledge.",
+    "korean": "서약을 위한 반지 입니다."
+  },
+  "1002600384": {
+    "english": "Pack containing Wedding Dress (Setti) + 1 Handmade Cake, 2 Chocolates, and 3 Synthetic Lollipops.",
+    "korean": "세띠용 웨딩드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600385": {
+    "english": "Pack containing Wedding Dress for Cerberus, 1 Homemade Cake, 2 Chocolates, and 3 Synthetic Lollipops",
+    "korean": "켈베로스용 웨딩드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600386": {
+    "english": "Pack containing Flying Hachiko and 2 Super Alloy Armor Plates",
+    "korean": "플라잉 하치코와 초합금 장갑판 2개가 들어있는 팩입니다."
+  },
+  "1002600387": {
+    "english": "Pack containing Wedding Dress (Echidna) + 1 Handmade Cake, 2 Chocolates, and 3 Synthetic Lollipops.",
+    "korean": "에키드나용 웨딩드레스와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600388": {
+    "english": "Pack containing Sportswear for Gremlin, 1 Homemade Cake, 2 Chocolates, and 3 Synthetic Lollipops",
+    "korean": "그렘린용 스포츠웨어와 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600389": {
+    "english": "Obtain 100 Parts.",
+    "korean": "부품 100개를 획득합니다."
+  },
+  "1002600390": {
+    "english": "Obtain 100 Nutrition.",
+    "korean": "영양 100개를 획득합니다."
+  },
+  "1002600391": {
+    "english": "Obtain 100 Power.",
+    "korean": "전력 100개를 획득합니다."
+  },
+  "1002600392": {
+    "english": "This is a beautiful bouquet. When gifted to a Bioroid, the maximum affection limit increases by 10.",
+    "korean": "아름다운 꽃다발입니다. 바이오로이드에게 선물 시, 호감도 최대 상한이 10 증가합니다."
+  },
+  "1002600393": {
+    "english": "Grants Lumber Jane.",
+    "korean": "럼버제인을 지급합니다."
+  },
+  "1002600394": {
+    "english": "Vaccinates the circuit to increase effect resistance and has a chance to remove harmful effects proportional to the enhancement level.",
+    "korean": "회로에 백신 처리를 해 효과 저항을 높여주며, 강화 레벨에 비례한 확률로 해로운 효과를 해제합니다."
+  },
+  "1002600395": {
+    "english": "A combat OS focused solely on attack. Increases ATK and AP but also increases damage received.",
+    "korean": "공격에만 집중하는 전투 OS입니다. 공격력과 행동력이 증가하지만, 받는 피해도 증가합니다."
+  },
+  "1002600396": {
+    "english": "A support-only system that has a chance to counterattack when attacked.",
+    "korean": "지원기 전용 시스템으로, 공격 받으면 일정 확률로 반격합니다."
+  },
+  "1002600397": {
+    "english": "Special armor for heavy types. HP increases and reduces damage received a certain number of times.",
+    "korean": "중장형 전용 특수 장갑입니다. HP가 증가하며, 일정 횟수 받는 피해가 감소합니다."
+  },
+  "1002600398": {
+    "english": "Auxiliary booster for air types. EVA increases and removes EVA reduction effects.",
+    "korean": "기동형 전용 보조 부스터로, 회피가 증가하며 회피 감소 효과를 해제합니다."
+  },
+  "1002600399": {
+    "english": "A very precise aiming device that increases ACU and CRIT. Removes ACU reduction effects at the start of the round.",
+    "korean": "매우 정밀한 조준기로, 적중과 치명타가 증가합니다. 라운드 개시 시, 적중 감소 효과를 해제합니다."
+  },
+  "1002600400": {
+    "english": "Increases CRIT and DEF.",
+    "korean": "치명타와 방어 관통이 증가합니다."
+  },
+  "1002600401": {
+    "english": "A support-only auxiliary device that launches a disruption dummy to minimize damage received a certain number of times.",
+    "korean": "지원기 전용 보조 장비로, 교란용 더미를 사출해 받는 피해를 일정 횟수 최소화합니다."
+  },
+  "1002600402": {
+    "english": "Strengthened beyond normal ability by the power of King Faucre, but sometimes forgets how to use skills and becomes dazed. Effective only on Bioroids.",
+    "korean": "뽀끄루 대마왕의 힘으로 본 능력 이상으로 강해지지만, 가끔 스킬을 사용하는 법을 잊어 멍하니 있게 됩니다. 바이오로이드에게만 효과가 있습니다."
+  },
+  "1002600403": {
+    "english": "A very delicious chocolate. If eaten carelessly, you might regret it later... Increases ATK / EVA. When equipped by a Bioroid, increases starting AP at the beginning of battle.",
+    "korean": "매우 맛이 뛰어난 초콜릿입니다. 정신없이 먹다보면 나중에 후회할 일이 생길지도 모릅니다… 공격력 / 회피가 증가합니다. 바이오로이드가 장착 시, 전투 시작 AP가 증가합니다."
+  },
+  "1002600404": {
+    "english": "A high-output generator made from new materials. Increases ATK and increases AP at the start of the round.",
+    "korean": "신소재로 제작한 고출력 제네레이터입니다. 공격력이 증가하며, 라운드 개시 시 AP가 증가합니다."
+  },
+  "1002600405": {
+    "english": "Temporarily amplifies the origin dust inside the body to greatly increase ATK but takes continuous fixed damage. Effective only on Bioroids and only activates when HP is above 25%.",
+    "korean": "체내의 오리진 더스트를 일시적으로 증폭시켜 공격력이 크게 증가하지만, 지속 고정 피해를 입습니다. 바이오로이드에게만 효과가 있으며, HP 25% 이상일 때만 발동합니다."
+  },
+  "1002600406": {
+    "english": "Increases ATK but decreases CRIT in the circuit.",
+    "korean": "공격력이 증가하지만, 치명타는 감소하는 회로입니다."
+  },
+  "1002600407": {
+    "english": "Enhances output to increase ATK. Overclock decreases EVA.",
+    "korean": "출력을 강화해 공격력을 높입니다. 오버 클럭으로 회피가 감소 합니다."
+  },
+  "1002600408": {
+    "english": "Enhances computing performance to increase ACU. Overclock decreases DEF.",
+    "korean": "연산 성능을 강화해 적중을 높입니다. 오버 클럭으로 방어력이 감소 합니다."
+  },
+  "1002600409": {
+    "english": "Enhances impact resistance to increase DEF. Overclock decreases ATK.",
+    "korean": "내 충격 성능을 강화해 방어를 높입니다. 오버 클럭으로 공격력이 감소 합니다."
+  },
+  "1002600410": {
+    "english": "Improves reaction speed to increase EVA. Overclock decreases ATK.",
+    "korean": "반응 속도를 향상시켜 회피를 높입니다. 오버 클럭으로 공격력이 감소 합니다."
+  },
+  "1002600411": {
+    "english": "Analyzes enemy weaknesses to increase CRIT. Overclock decreases HP.",
+    "korean": "적의 약점을 분석해 치명타를 높입니다. 오버 클럭으로 HP가 감소 합니다."
+  },
+  "1002600412": {
+    "english": "Increases circuit durability to increase HP. Overclock decreases ATK.",
+    "korean": "회로 내구도를 높여 HP가 증가합니다. 오버 클럭으로 공격력이 감소 합니다."
+  },
+  "1002600413": {
+    "english": "Enhances processing performance to increase AP. Overclock decreases EVA.",
+    "korean": "각 처리 성능을 향상시켜 행동력이 증가합니다. 오버 클럭으로 회피가 감소 합니다."
+  },
+  "1002600414": {
+    "english": "Combat OS to counter air types. Overclock decreases effect resistance.",
+    "korean": "기동형에 대응하기 위한 전투 OS 입니다. 오버 클럭으로 효과 저항이 감소 합니다."
+  },
+  "1002600415": {
+    "english": "Combat OS to counter light types. Overclock decreases effect resistance.",
+    "korean": "경장형에 대응하기 위한 전투 OS 입니다. 오버 클럭으로 효과 저항이 감소 합니다."
+  },
+  "1002600416": {
+    "english": "Combat OS to counter heavy types. Overclock decreases effect resistance.",
+    "korean": "중장형에 대응하기 위한 전투 OS 입니다. 오버 클럭으로 효과 저항이 감소 합니다."
+  },
+  "1002600417": {
+    "english": "Observation equipment specialized in increasing range. Cancels range reduction effects and increases range.",
+    "korean": "사거리 증가 기능이 특화된 관측 장비 입니다. 사거리 감소 효과를 해제하며 사거리가 증가합니다."
+  },
+  "1002600418": {
+    "english": "Dark Elven exclusive combat equipment set. &n Equipping the set increases ATK, CRIT, and ACU, and grants DEF penetration effects.",
+    "korean": "다크 엘븐 전용 전투 장비 셋트 입니다. &n셋트를 장착 하면 공격력, 치명타, 적중이 증가 되며 방어 관통 효과를 얻습니다."
+  },
+  "1002600419": {
+    "english": "Elven Forest exclusive special frame. &n When equipped, DEF and HP increase, fire protection activates, and damage reduction and all attribute resistance effects occur.",
+    "korean": "엘븐 포레스트 전용 특수 프레임 입니다. &n장착시 방어력과 체력이 증가하며 열보호가 활성화 되고 받는 피해 감소와 모든 속성 저항 효과가 발생합니다."
+  },
+  "1002600420": {
+    "english": "Veronica exclusive thorn necklace. &n When equipped, ATK greatly increases and CRIT increases, but HP decreases at the start of the round.",
+    "korean": "베로니카 전용 가시 목걸이 입니다. &n장착 시 공격력이 크게 증가하며 치명타가 증가 하는 반면 라운드 시작 시 체력이 감소 합니다."
+  },
+  "1002600421": {
+    "english": "Tyrant exclusive berserk guidance system OS. &n When equipped, increases ATK and ACU, and gains an effect that increases ATK for a short time upon enemy death.",
+    "korean": "타이런트 전용 폭주 유도 시스템 OS 입니다. &n장착시 공격력과 적중을 올려 주며 적 사망시 짧은 시간 공격력이 증가하는 효과를 얻습니다."
+  },
+  "1002600422": {
+    "english": "Seljuq exclusive shooting adjustment system. &n When equipped, increases ATK, CRIT, and ACU, and gains AP each round.",
+    "korean": "셀주크 전용 사격 조정 시스템 입니다. 장착 시 &n공격력, 치명타, 적중이 증가하며 매 라운드 AP를 획득 합니다."
+  },
+  "1002600423": {
+    "english": "A scope reinforced with new materials. Increases CRIT and ACU and gains effect to cancel ACU reduction.",
+    "korean": "신소재로 강화된 스코프입니다. 치명타와 적중이 증가 하며 적중 감소 해제 효과를 얻습니다."
+  },
+  "1002600424": {
+    "english": "Well-preserved chocolate. Can be processed into the desired shape of chocolate.",
+    "korean": "잘 보존되어 있던 초콜릿입니다. 원하는 모양의 초콜릿으로 가공할 수 있습니다."
+  },
+  "1002600425": {
+    "english": "Collection of confectionery tools. Can be used for chocolate processing.",
+    "korean": "제과용 도구 모음입니다. 초콜릿 가공에 활용할 수 있습니다."
+  },
+  "1002600426": {
+    "english": "Various ingredients that add taste and appearance.",
+    "korean": "맛과 모양을 더해주는 다양한 재료들입니다."
+  },
+  "1002600427": {
+    "english": "Leftover chocolate made while making chocolate for the commander. Since too much was made, it might be better to exchange it for other items.",
+    "korean": "사령관에게 줄 초콜릿을 만들다 남은 초콜릿입니다. 만들다 보니 너무 많이 만들어서 다른 물품으로 교환하는 게 좋을 것 같네요."
+  },
+  "1002600428": {
+    "english": "Crate with 30,000 of each resource + 1 Special Substitute Core.",
+    "korean": "모든 자원 30000개와 특수 대체 코어 1개가 들어있는 컨테이너입니다."
+  },
+  "1002600429": {
+    "english": "A bedroom decorated with soft lighting, roses, and luxurious bedding. Spend happy time with your beloved without any interruptions.",
+    "korean": "은은한 조명과 장미, 고급스러운 침구로 꾸며진 침실입니다. 누구에게도 방해받지 않고 사랑하는 그녀와 행복한 시간을 보내보세요"
+  },
+  "1002600430": {
+    "english": "The decorated deck of Orca where the vow ceremony takes place. Relive the excitement of that moment and her joyful smile.",
+    "korean": "서약식이 열리는 오르카의 장식된 갑판입니다. 다시금 그때의 설레는 마음과 그녀의 행복한 미소를 추억해 보세요."
+  },
+  "1002600431": {
+    "english": "Pre-Apocalypse Clothing Box 10+1",
+    "korean": "멸망 전의 의류 상자 10+1"
+  },
+  "1002600432": {
+    "english": "Pre-Destruction Record Box 10+1",
+    "korean": "멸망 전의 기록 상자 10+1"
+  },
+  "1002600433": {
+    "english": "Boxes containing 11 skins that a combatant can use, one type each.",
+    "korean": "전투원이 사용할 수 있는 스킨 중, 1종을 획득할 수 있는 상자 11개 입니다."
+  },
+  "1002600434": {
+    "english": "Boxes containing 11 various combat records and manuals.",
+    "korean": "각종 전투 기록이나 교본을 획득할 수 있는 상자 11개 입니다."
+  },
+  "1002600435": {
+    "english": "Midsummer Miami",
+    "korean": "한여름의 마이애미"
+  },
+  "1002600436": {
+    "english": "Midsummer Neri Neri",
+    "korean": "한여름의 네리네리"
+  },
+  "1002600437": {
+    "english": "Midsummer Forest Bath",
+    "korean": "한여름의 삼림욕"
+  },
+  "1002600438": {
+    "english": "Midsummer Fireplay",
+    "korean": "한여름의 불장난"
+  },
+  "1002600439": {
+    "english": "A pack containing a US-style bikini skin for Harpyia, 1 handmade cake, 2 chocolates, and 3 synthetic lollipops.",
+    "korean": "하르페이아용 US 스타일 비키니 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600440": {
+    "english": "A pack containing Neri Neri's summer skin for Nereid, 1 handmade cake, 2 chocolates, and 3 synthetic lollipops.",
+    "korean": "네레이드용 네리네리의 여름 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600441": {
+    "english": "A pack containing Lumber Jane's V bikini skin for Lumber Jane, 1 handmade cake, 2 chocolates, and 3 synthetic lollipops.",
+    "korean": "럼버 제인용 럼버 제인의 브이키니 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600442": {
+    "english": "A pack containing Impet's Y-shaped bikini skin for Impet, 1 handmade cake, 2 chocolates, and 3 synthetic lollipops.",
+    "korean": "임펫용 임펫의 Y형 비키니 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600443": {
+    "english": "US Style Bikini (Harpyia)",
+    "korean": "US 스타일 비키니 (하르페이아)"
+  },
+  "1002600444": {
+    "english": "Neri Neri's Summer (Nereid)",
+    "korean": "네리네리의 여름 (네레이드)"
+  },
+  "1002600445": {
+    "english": "Lumber Jane's V Bikini (Lumber Jane)",
+    "korean": "럼버 제인의 브이키니 (럼버 제인)"
+  },
+  "1002600446": {
+    "english": "Impet's Y-Shaped Bikini (Impet)",
+    "korean": "임펫의 Y형 비키니 (임펫)"
+  },
+  "1002600447": {
+    "english": "She looks like she's leisurely reading a book, but in fact, she hasn't turned a page for quite a while. Maybe... she's eagerly waiting for the male protagonist who will come to her during the vacation?",
+    "korean": "느긋하게 책을 읽고 있는 것 같아보이지만, 사실은 한참동안이나 페이지가 넘어가지 않았습니다. 아마… 휴가중에 자신에게 찾아올 남자 주인공을 애타게 기다리고 있는 게 아닐까요?"
+  },
+  "1002600448": {
+    "english": "Such a powerful item for a sea fairy! This summer, no one can stop Neri Neri in the sea! ...Huh? Neri is running toward you?",
+    "korean": "바다의 요정에게 이런 강력한 아이템이라니! 올 여름, 바다에서 네리네리를 막을 자는 존재하지 않습니다! ...어? 네리가 당신에게 달려가는데요?"
+  },
+  "1002600449": {
+    "english": "Although there was a minor friction, Lumber Jane used her specialty to quickly build a platform for vacation. How about enjoying a cool beer together under the shade of palm leaves? Though Lumber Jane herself would probably get drunk and collapse after just one can.",
+    "korean": "사소한 마찰이 있긴 했지만 럼버제인은 특기를 살려 휴가를 위한 평상을 뚝딱 만들어냈습니다. 야자수잎 그늘에서 같이 시원한 맥주라도 어떠신가요? 정작 럼버제인은 맥주 한 캔이면 취해서 쓰러지겠지만요."
+  },
+  "1002600450": {
+    "english": "What on earth happened... Impet has kidnapped you to spend a fun time alone together. Whether you surrender quietly or overpower her is your choice.",
+    "korean": "대체 무슨 일이 있었던 걸까요... 임펫은 당신을 납치해 단 둘이 즐거운 시간을 보내려 하고 있습니다. 순순히 당해줄지, 역으로 제압할지는 당신의 선택입니다."
+  },
+  "1002600451": {
+    "english": "Blackworm S9",
+    "korean": "블랙웜 S9"
+  },
+  "1002600452": {
+    "english": "Blackworm S9 will be provided.",
+    "korean": "블랙웜 S9을 지급합니다."
+  },
+  "1002600453": {
+    "english": "Seed of the World Tree",
+    "korean": "세계수의 씨앗"
+  },
+  "1002600454": {
+    "english": "Branch of the World Tree",
+    "korean": "세계수의 가지"
+  },
+  "1002600455": {
+    "english": "Leaf of the World Tree",
+    "korean": "세계수의 잎"
+  },
+  "1002600456": {
+    "english": "Seed of the World Tree is the currency used in the Fairy Village. It can be exchanged for other items at the event exchange shop.",
+    "korean": "요정 마을에서 사용 되는 화폐 세계수의 씨앗 입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다."
+  },
+  "1002600457": {
+    "english": "Branch of the World Tree is the currency used in the Fairy Village. It can be exchanged for other items at the event exchange shop.",
+    "korean": "요정 마을에서 사용 되는 화폐 세계수의 가지 입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다."
+  },
+  "1002600458": {
+    "english": "Leaf of the World Tree is the currency used in the Fairy Village. It can be exchanged for other items at the event exchange shop.",
+    "korean": "요정 마을에서 사용 되는 화폐 세계수의 잎 입니다. 이벤트 교환소에서 다른 물품으로 교환할 수 있습니다."
+  },
+  "1002600459": {
+    "english": "Snow Feather",
+    "korean": "스노우 페더"
+  },
+  "1002600460": {
+    "english": "Snow Feather will be provided.",
+    "korean": "스노우 페더를 지급합니다."
+  },
+  "1002600461": {
+    "english": "Midsummer's Head-on Charge",
+    "korean": "한여름의 정면돌파"
+  },
+  "1002600462": {
+    "english": "Midsummer's Star",
+    "korean": "한여름의 별"
+  },
+  "1002600463": {
+    "english": "Midsummer's Couple Yoga",
+    "korean": "한여름의 커플 요가"
+  },
+  "1002600464": {
+    "english": "Midsummer's Date",
+    "korean": "한여름의 데이트"
+  },
+  "1002600465": {
+    "english": "This is a pack containing a see-through bikini skin for Bloody Panther, 1 handmade cake, 2 chocolates, and 3 synthetic lollipops.",
+    "korean": "블러디 팬서용 씨스루 비키니 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600466": {
+    "english": "This is a pack containing a bikini...? skin for Calista, 1 handmade cake, 2 chocolates, and 3 synthetic lollipops.",
+    "korean": "칼리스타용 비키니…? 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600467": {
+    "english": "This is a pack containing a yoga suit skin for Sunny, 1 handmade cake, 2 chocolates, and 3 synthetic lollipops.",
+    "korean": "써니용 요가 슈트 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600468": {
+    "english": "This is a pack containing a frill bikini skin for Yumi, 1 handmade cake, 2 chocolates, and 3 synthetic lollipops.",
+    "korean": "유미용 프릴 비키니 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600469": {
+    "english": "See-Through Bikini for Bloody Panther (Bloody Panther)",
+    "korean": "블러디 팬서용 씨스루 비키니 (블러디 팬서)"
+  },
+  "1002600470": {
+    "english": "Bikini for Calista…? (Calista)",
+    "korean": "칼리스타용 비키니…? (칼리스타)"
+  },
+  "1002600471": {
+    "english": "Yoga Suit for Sunny (Acrobatic Sunny)",
+    "korean": "써니용 요가 슈트 (아크로바틱 써니)"
+  },
+  "1002600472": {
+    "english": "Frill Bikini for Yumi (Connector Yumi)",
+    "korean": "유미용 프릴 비키니 (커넥터 유미)"
+  },
+  "1002600473": {
+    "english": "Last year, preparations were far too late. This summer, Bloody Panther was determined not to miss out. She confidently arrives wearing the bikini she prepared, fully convinced that you will absolutely love this outfit.",
+    "korean": "작년엔 준비가 너무 늦었었죠. 블러디 팬서는 이번 여름만은 놓치지 않겠다고 단단히 마음 먹었습니다. 준비한 비키니를 당당히 입고 찾아온 그녀는 당신이 이 의상을 좋아할거라 믿어 의심치 않고 있습니다."
+  },
+  "1002600474": {
+    "english": "Oh… Calista completely forgot that summer vacation was approaching. For now, it seems she's rushed into wearing something resembling a swimsuit—do you think that'll be alright…?",
+    "korean": "이런… 칼리스타는 여름 휴가가 다가온다는 것을 깜빡하고 말았습니다. 일단 급한대로 수영복 비슷한 것을 입고 나온 모양인데, 괜찮을까요…?"
+  },
+  "1002600475": {
+    "english": "Ever positive Sunny has thought of a way to use her flexibility to bring you some fresh enjoyment. Still, it looks like she'll need a bit of your help to master all the poses.",
+    "korean": "항상 긍정적인 써니는 자신의 유연성을 이용해 당신에게 신선한 즐거움을 줄 수 있는 방법을 떠올렸습니다. 그래도 그녀가 모든 자세를 마스터 하려면 당신이 좀 도와줘야 할 것 같네요."
+  },
+  "1002600476": {
+    "english": "Finally, Yumi's simple dream of going on a date with you has come true. Dressed up nicely for the occasion, she cautiously hands you a list of \"things I want to do with the Commander\"—take a look and see what she's planned.",
+    "korean": "마침내 당신과 데이트를 하고 싶다는 유미의 소박한 꿈이 이루어졌습니다. 오랜만에 예쁘게 꾸미고 나온 유미가 조심스럽게 내민 ‘사령관과 하고 싶은 일’ 리스트도 한 번 확인해보세요."
+  },
+  "1002600477": {
+    "english": "Robert Body Prototype (Mr. Alfred)",
+    "korean": "로버트 몸체 원형(Mr 알프레드)"
+  },
+  "1002600478": {
+    "english": "Alfred's Robert body has been restored to its original form.",
+    "korean": "알프레드가 사용중인 로버트 몸체를 원형과 동일하게 복원 했습니다."
+  },
+  "1002600479": {
+    "english": "Combatant Production Record",
+    "korean": "전투원 제작 기록서"
+  },
+  "1002600480": {
+    "english": "This is a record accidentally discovered during exploration. By requesting at the exchange, you can immediately search/acquire one SS-grade Bioroid Combat Unit.",
+    "korean": "탐색 중 우연히 발견한 기록 입니다. 교환소에 요청하여 SS등급 바이오로이드 전투원 중 한 기를 즉시 탐색 / 획득 할 수 있습니다."
+  },
+  "1002600481": {
+    "english": "Shirayuri",
+    "korean": "시라유리"
+  },
+  "1002600482": {
+    "english": "Shirayuri will be granted.",
+    "korean": "시라유리를 지급합니다."
+  },
+  "1002600483": {
+    "english": "Resort with an ocean view",
+    "korean": "바다가 보이는 휴양지"
+  },
+  "1002600484": {
+    "english": "A retreat made by the residents of Fairy Village just for you. The hut next to the pool has a bedroom, bathroom, and kitchen.",
+    "korean": "요정 마을의 주민들이 당신을 위해 만들어준 휴식처입니다. 수영장 옆의 오두막엔 침실과 화장실, 주방까지 갖춰져 있다고 하네요."
+  },
+  "1002600485": {
+    "english": "Cerestia of Life",
+    "korean": "생명의 세레스티아"
+  },
+  "1002600486": {
+    "english": "Cerestia of Life will be granted.",
+    "korean": "생명의 세레스티아를 지급합니다."
+  },
+  "1002600487": {
+    "english": "C-String Bikini for Black Wyrm (Black Wyrm S9)",
+    "korean": "블랙 웜용 C스트링 비키니 (블랙 웜 S9)"
+  },
+  "1002600488": {
+    "english": "Cerestia of Life",
+    "korean": "생명의 세레스티아"
+  },
+  "1002600489": {
+    "english": "Moon Rabbit Talisman for Faucre (Faucre Great Demon King)",
+    "korean": "뽀끄루용 달토끼 부적 (뽀끄루 대마왕)"
+  },
+  "1002600490": {
+    "english": "Cerestia of Life will be granted.",
+    "korean": "생명의 세레스티아를 지급합니다."
+  },
+  "1002600491": {
+    "english": "Cat Bikini for Banshee (A-87 Banshee)",
+    "korean": "밴시용 고양이 비키니 (A-87 밴시)"
+  },
+  "1002600492": {
+    "english": "Zip-up Monokini for Quick Camel (Quick Camel)",
+    "korean": "퀵 카멜용 집업 모노키니 (퀵 카멜)"
+  },
+  "1002600493": {
+    "english": "The Black Wyrm, freed from the restrictions of the emotion control module, has regained its original personality. Or perhaps it's even become more straightforward… It might be the rebound of feelings that had been suppressed for a long time. Take a moment to listen to what she may have been hiding in her heart all this time.",
+    "korean": "감정 제어 모듈의 제약에서 벗어난 블랙 웜은 원래의 성격을 되찾았습니다. 아니, 그보다 더 솔직해진 것 같기도 한데… 오랫동안 억눌려 있었던 반동일지도 모르겠네요. 그동안 그녀가 마음 속에 어떤 것들을 숨기고 있었을지 한 번 들어보세요."
+  },
+  "1002600494": {
+    "english": "Faucre has one final trial left to fully transform into a true Magical☆Girl. Shall we take a look at what Moonbit has prepared to help her successfully complete the third ritual? The headband imbued with the power of the moon enhances the wearer's cuteness and Magical☆Power, and the attached Moon Rabbit charm is said to have a mystical effect that captivates the gaze of a Magic Gentleman.",
+    "korean": "뽀끄루가 진정한 마법☆소녀로 거듭나기 위한 마지막 관문이 남았습니다. 그녀가 세 번째 의식을 성공적으로 치를 수 있도록 백토가 준비해준 것들을 살펴볼까요? 달의 힘이 깃든 머리띠는 착용자의 귀여움과 매지컬☆파워를 강화하고, 부착한 달토끼 부적엔 매직 젠틀맨의 시선을 사로잡는 영험한 효과가 있다고 하네요."
+  },
+  "1002600495": {
+    "english": "Even though Banshee may seem like she's simply imitating a cat with a blank expression, she's actually very serious right now. Following the advice of a certain colonel, she's trying hard to express her feelings and affection to you. Her approach might be a bit off in several ways, but as long as she's cute, isn't that what really matters?",
+    "korean": "언뜻 무감정하게 고양이 흉내를 내고 있는 것 같아보여도 밴시는 지금 굉장히 진지합니다. 조언을 해준 모 대령님의 말에 따라 당신에게 자신의 감정과 애정을 표현하려 애쓰고 있죠. 여러모로 방향성이 어긋난 것 같긴 하지만, 귀여우면 된 거 아닐까요?"
+  },
+  "1002600496": {
+    "english": "As you can see, it's not that I've gained weight and the size doesn't fit. It's just that the zipper is broken. But if you blame War Wolf for dragging Camel to you before fixing the zipper, thinking it would be fun, it seems like Camel was dragged in too easily... You really can't understand the mind of a Bioroid.",
+    "korean": "보시면 아시겠지만 살이 쪄서 사이즈가 맞지 않는 것은 아닙니다. 그저 지퍼가 고장났을 뿐이죠. 그렇다고 재밌겠다며 지퍼를 고치기 전에 카멜을 당신 앞으로 끌고 온 워울프의 탓을 하자니 카멜이 너무 쉽게 끌려온 것 같기도 한데… 바이오로이드의 마음은 정말 알다가도 모르겠네요."
+  },
+  "1002600497": {
+    "english": "World Tree Seed Pouch",
+    "korean": "세계수의 씨앗 주머니"
+  },
+  "1002600498": {
+    "english": "Bundle of World Tree Branches",
+    "korean": "세계수의 가지 묶음"
+  },
+  "1002600499": {
+    "english": "Cargo Tracking ID Chip",
+    "korean": "화물 추적 ID 칩"
+  },
+  "1002600500": {
+    "english": "Contains 10 World Tree Seeds.",
+    "korean": "세계수의 씨앗 10개가 들어있습니다."
+  },
+  "1002600501": {
+    "english": "Contains 10 World Tree Branches.",
+    "korean": "세계수의 가지 10개가 들어있습니다."
+  },
+  "1002600502": {
+    "english": "Use the Cargo Tracking ID Chip to locate the cargo with the corresponding ID.",
+    "korean": "화물 추적 ID칩을 사용해 해당 ID의 화물을 찾을 수 있습니다."
+  },
+  "1002600503": {
+    "english": "I was designed to solve the food problem that occurred on the island where the humans had taken refuge.",
+    "korean": "저는 인간님들이 피난해 계시던 섬에서 발생한 식량 문제를 해결하기 위해 설계되었답니다."
+  },
+  "1002600504": {
+    "english": "I am a Bioroid originally optimized for food production, such as harvesting cultivated grains and threshing them on the spot, but combat functions were gradually added to protect humans during numerous wars.",
+    "korean": "저는 원래 재배된 곡물을 수확하고 그 자리에서 탈곡하는 등 식량을 생산하는데 최적화된 바이오로이드이지만 수차례의 전쟁에서 인간 님들을 지키기 위해 전투 기능도 조금씩 추가되었죠."
+  },
+  "1002600505": {
+    "english": "I can use this ultra-vibration sickle, which was originally made for reaping crops, to attack multiple enemies at once, and I can also increase the output of the thresher to deal heavy damage to Metal Parasites.",
+    "korean": "저는 곡물을 베어내기 위해 만들어졌던 이 초진동 낫을 이용해 여러 적들을 동시에 공격할 수도 있고, 탈곡기의 출력을 올려서 철충에게 강력한 피해를 입힐 수도 있어요."
+  },
+  "1002600506": {
+    "english": "However, my strength is a bit insufficient to unleash my full combat power all at once, so after a powerful attack, I sometimes fall into exhaustion for a short while…",
+    "korean": "하지만 강한 전투력을 한 번에 쏟아 내기에는 저의 힘이 조금 부족한 나머지, 강력한 공격 후에는 잠시 동안 탈진에 빠지기도 해요..."
+  },
+  "1002600507": {
+    "english": "Master? Like the other Fairy sisters, I am truly ready to do anything to protect you.",
+    "korean": "주인님? 저도 페어리의 다른 자매들처럼, 주인님을 지키기 위해서라면 정말 뭐든지 할 준비가 되어 있답니다?"
+  },
+  "1002600508": {
+    "english": "…So, Master? Please… please never… never abandon me…",
+    "korean": "… 그러니까 주인님? 주인님만은 절대로… 절 버리지 말아 주세요…"
+  },
+  "1002600509": {
+    "english": "Labiata, following your special orders, was spending a solitary summer vacation on a secluded beach. By chance, she spots you and wants to show her gratitude in her own way… though there's nothing to be done about her explosive figure constantly disrupting the serious mood.",
+    "korean": "라비아타는 당신의 특명을 받아 어느 한적한 해변에서 홀로 여름휴가를 보내고 있었습니다. 우연찮게 당신을 발견한 그녀가 당신에게 나름대로의 감사를 표하려 하는데… 라비아타의 폭발적인 몸매가 진지한 분위기를 자꾸 방해하는 건 어쩔 도리가 없군요."
+  },
+  "1002600510": {
+    "english": "Labiata, following your special orders, was spending a solitary summer vacation on a quiet beach. By chance, she spots you and wants to express her gratitude in her own way… but there's nothing that can be done about her explosive figure constantly disrupting the serious atmosphere.",
+    "korean": "라비아타는 당신의 특명을 받아 어느 한적한 해변에서 홀로 여름휴가를 보내고 있었습니다. 우연찮게 당신을 발견한 그녀가 당신에게 나름대로의 감사를 표하려 하는데… 라비아타의 폭발적인 몸매가 진지한 분위기를 자꾸 방해하는 건 어쩔 도리가 없군요."
+  },
+  "1002600511": {
+    "english": "10 Bags of Yggdrasil Seeds",
+    "korean": "세계수의 씨앗 주머니 10개"
+  },
+  "1002600512": {
+    "english": "100 Bags of Yggdrasil Seeds",
+    "korean": "세계수의 씨앗 주머니 100개"
+  },
+  "1002600513": {
+    "english": "10 Bundles of Yggdrasil Branches",
+    "korean": "세계수의 가지 묶음 10개"
+  },
+  "1002600514": {
+    "english": "100 Bundles of Yggdrasil Branches",
+    "korean": "세계수의 가지 묶음 100개"
+  },
+  "1002600515": {
+    "english": "Contains 100 Yggdrasil Seeds",
+    "korean": "세계수의 씨앗 100개가 들어있습니다."
+  },
+  "1002600516": {
+    "english": "Contains 1,000 Yggdrasil Seeds",
+    "korean": "세계수의 씨앗 1000개가 들어있습니다."
+  },
+  "1002600517": {
+    "english": "Contains 100 Yggdrasil Branches",
+    "korean": "세계수의 가지 100개가 들어있습니다."
+  },
+  "1002600518": {
+    "english": "Contains 1,000 Yggdrasil Branches",
+    "korean": "세계수의 가지 1000개가 들어있습니다."
+  },
+  "1002600519": {
+    "english": "10 Cargo Tracking ID Chips",
+    "korean": "화물 추적 ID 칩 10개"
+  },
+  "1002600520": {
+    "english": "100 Cargo Tracking ID Chips",
+    "korean": "화물 추적 ID 칩 100개"
+  },
+  "1002600521": {
+    "english": "Contains 10 Cargo Tracking ID Chips",
+    "korean": "화물 추적 ID 칩 10개가 들어있습니다."
+  },
+  "1002600522": {
+    "english": "Contains 100 Cargo Tracking ID Chips",
+    "korean": "화물 추적 ID 칩 100개가 들어있습니다."
+  },
+  "1002600523": {
+    "english": "Combat Observation Frame",
+    "korean": "전투 관측 프레임"
+  },
+  "1002600524": {
+    "english": "Exclusive equipment for Leona of Iron Blood. ACU / EVA is increased, Reconnaissance is activated, and Leona's 3rd passive skill is enhanced.",
+    "korean": "철혈의 레오나 전용 장비 입니다. 적중 / 회피가 증가 되며 정찰이 활성화 되고 레오나의 3번째 패시브 스킬이 강화 됩니다."
+  },
+  "1002600525": {
+    "english": "Cerestia Cowgirl",
+    "korean": "세레스티아 카우걸"
+  },
+  "1002600526": {
+    "english": "Vanilla's Holiday",
+    "korean": "바닐라의 휴일"
+  },
+  "1002600527": {
+    "english": "Urban Assassin Sand Girl",
+    "korean": "도시 암살자 샌드걸"
+  },
+  "1002600528": {
+    "english": "Cowgirl Bikini (Celestia of Life)",
+    "korean": "카우걸 비키니 (생명의 세레스티아)"
+  },
+  "1002600529": {
+    "english": "Date Look (Vanilla A1)",
+    "korean": "데이트룩 (바닐라 A1)"
+  },
+  "1002600530": {
+    "english": "Concert Dress (GS-10 Sand Girl)",
+    "korean": "음악회 드레스 (GS-10 샌드걸)"
+  },
+  "1002600531": {
+    "english": "This is a pack containing the Cowgirl Bikini skin, 1 Homemade Cake, 2 Chocolates, and 3 Synthetic Lollipops.",
+    "korean": "카우걸 비키니 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600532": {
+    "english": "This is a pack containing the Date Look skin, 1 Homemade Cake, 2 Chocolates, and 3 Synthetic Lollipops.",
+    "korean": "데이트룩 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600533": {
+    "english": "This is a pack containing the Concert Dress skin, 1 Homemade Cake, 2 Chocolates, and 3 Synthetic Lollipops.",
+    "korean": "음악회 드레스 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600534": {
+    "english": "The commercial shoot for the new Banana Milk featuring Celestia is about to begin! So, Director? Will you give the start signal?",
+    "korean": "세레스티아가 출연하는 신제품 바나나우유의 CF 촬영이 곧 시작됩니다! 그럼, 감독님? 시작 사인을 주시겠어요?"
+  },
+  "1002600535": {
+    "english": "This slightly outdated outfit is a date-exclusive attire redesigned by adding Audrey's stylish touch to the Vanilla model's going-out clothes popular during the Pre-Fall War.",
+    "korean": "약간 철 지난듯한 이 복식은 멸망전 당시 유행하던 바닐라 모델의 외출 복장에 오드리만의 감각적인 포인트를 추가시켜 재설계한 데이트 전용 복장입니다."
+  },
+  "1002600536": {
+    "english": "The noisy concert attended by Sand Girl has ended. Fortunately, there were no witnesses.",
+    "korean": "샌드걸이 참석한 소란스러운 음악회가 끝났습니다. 다행히도 목격자는 없습니다."
+  },
+  "1002600537": {
+    "english": "Dragon wearing fur",
+    "korean": "모피를 걸친 드래곤"
+  },
+  "1002600538": {
+    "english": "Is it a little demon? Or a little spirit?",
+    "korean": "소악마인가? 소정령인가?"
+  },
+  "1002600539": {
+    "english": "Exclusive fur coat (Invincible Dragon)",
+    "korean": "전용 모피 코트 (무적의 용)"
+  },
+  "1002600540": {
+    "english": "Little demon outfit (MH-4 Thetis)",
+    "korean": "소악마 복장 (MH-4 테티스)"
+  },
+  "1002600541": {
+    "english": "This is a pack containing the Exclusive Fur Coat skin, 1 Homemade Cake, 2 Chocolates, and 3 Synthetic Lollipops.",
+    "korean": "전용 모피 코트 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600542": {
+    "english": "This is a pack containing the Little Demon outfit skin, 1 Homemade Cake, 2 Chocolates, and 3 Synthetic Lollipops.",
+    "korean": "소악마 복장 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600543": {
+    "english": "The Invincible Dragon, who tried to conquer the forces of darkness in VR, was unable to load the costume data due to some issue, so hurriedly grabbed a fur coat from a nearby shop and wore it. And Audrey, with excellent taste, decided to faithfully recreate this stylish scene.",
+    "korean": "VR속에서 어둠의 세력을 평정하려던 무적의 용은 무언가의 문제로 의상 데이터가 로딩되지 않아, 급한대로 주변 가게에서 모피 코트를 가져와 걸쳤습니다. 그리고 안목이 훌륭한 오드리는 이 멋진 장면을 그대로 구현해 내기로 결심했습니다."
+  },
+  "1002600544": {
+    "english": "Thetis, who didn't receive a swimsuit, went to Audrey after the swimsuit production was finished and requested an outfit that could scold the commander. Can this small but lovely demon make you feel heartache?",
+    "korean": "수영복을 받지 못한 테티스는 수영복 제작이 끝난 오드리를 찾아가 사령관을 혼내줄 수 있는 옷을 요청했습니다. 이 작지만 사랑스러운 악마는 당신을 애닳게 만들 수 있을까요?"
+  },
+  "1002600545": {
+    "english": "2020 Chuseok Origin Dust Container",
+    "korean": "2020 한가위 오리진 더스트 컨테이너"
+  },
+  "1002600546": {
+    "english": "Origin Dust Container",
+    "korean": "오리진 더스트 컨테이너"
+  },
+  "1002600547": {
+    "english": "Grants 2,020 Origin Dust, 600 Advanced Origin Dust, and 150 Special Origin Dust.",
+    "korean": "오리진 더스트 2020개, 고급 오리진 더스트 600개, 특수 오리진 더스트 150개를 지급합니다."
+  },
+  "1002600548": {
+    "english": "A container containing 250 Origin Dust, 100 Advanced Origin Dust, and 25 Special Origin Dust.",
+    "korean": "오리진 더스트 250개, 고급 오리진 더스트 100개, 특수 오리진 더스트 25개가 들어있는 컨테이너입니다."
+  },
+  "1002600549": {
+    "english": "Kunoichi Zero",
+    "korean": "쿠노이치 제로"
+  },
+  "1002600550": {
+    "english": "Grants Kunoichi Zero.",
+    "korean": "쿠노이치 제로를 지급합니다."
+  },
+  "1002600551": {
+    "english": "AL Lace",
+    "korean": "AL 레이스"
+  },
+  "1002600552": {
+    "english": "Grants AL Lace.",
+    "korean": "AL 레이스를 지급합니다."
+  },
+  "1002600553": {
+    "english": "Your Own Bartender",
+    "korean": "당신만의 바텐더"
+  },
+  "1002600554": {
+    "english": "Disheveled Flower",
+    "korean": "흐트러진 꽃"
+  },
+  "1002600555": {
+    "english": "Bunny Girl Outfit for Aurora (Aurora)",
+    "korean": "아우로라용 바니걸 복장 (아우로라)"
+  },
+  "1002600556": {
+    "english": "Reception Outfit for Kunoichi Zero (Kunoichi Zero)",
+    "korean": "쿠노이치 제로용 접대 복장 (쿠노이치 제로)"
+  },
+  "1002600557": {
+    "english": "Crucial Clue",
+    "korean": "결정적인 단서"
+  },
+  "1002600558": {
+    "english": "Important Clue",
+    "korean": "중요한 단서"
+  },
+  "1002600559": {
+    "english": "Minor Clue",
+    "korean": "사소한 단서"
+  },
+  "1002600560": {
+    "english": "This is a pack containing the Bunny Girl Outfit skin for Aurora, 1 Homemade Cake, 2 Chocolates, and 3 Synthetic Lollipops.",
+    "korean": "아우로라용 바니걸 복장 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600561": {
+    "english": "This is a pack containing the Reception Outfit skin for Kunoichi Zero, 1 Homemade Cake, 2 Chocolates, and 3 Synthetic Lollipops.",
+    "korean": "쿠노이치 제로용 접대 복장 스킨과 수제 케이크 1개, 초콜릿 2개, 합성 롤리팝 3개가 들어있는 팩입니다."
+  },
+  "1002600562": {
+    "english": "Aurora, the best pastry chef produced by Orca, prepared a beautiful outfit and a refreshing cocktail to commemorate your date. It seems best to be careful not to overdrink today.",
+    "korean": "오르카가 배출한 최고의 파티시에 아우로라는 당신과의 데이트를 기념하기 위해, 아름다운 복장과 상큼한 칵테일을 준비했습니다. 오늘은 과음에 주의하는 게 좋을 것 같군요."
+  },
+  "1002600563": {
+    "english": "Kunoichi Zero, looking forward to the date with you, has managed to obtain the outfit used for infiltration missions. This outfit, representing a blooming flower, is said to show its true value when the clothing becomes disheveled.",
+    "korean": "쿠노이치 제로는 당신과의 데이트를 기대하며, 잠입 임무에 쓰이던 복장을 어렵게 구해왔습니다. 만개한 꽃을 표현한 이 복장은 옷매무새가 흐트러졌을 때, 그 진가를 발휘한다고 하네요."
+  },
+  "1002600564": {
+    "english": "A binder containing crucial clues organized for solving the case.",
+    "korean": "사건의 해결을 위해 결정적인 실마리를 정리해둔 서류철입니다."
+  },
+  "1002600565": {
+    "english": "A document containing important clues organized for solving the case.",
+    "korean": "사건의 해결을 위해 중요한 실마리를 정리해둔 문서입니다."
+  },
+  "1002600566": {
+    "english": "A memo containing minor clues organized for solving the case.",
+    "korean": "사건의 해결을 위해 사소한 실마리를 정리해둔 메모입니다."
+  },
+  "1002600567": {
+    "english": "Light/Assault Combat System EX",
+    "korean": "대 경장/기동 전투 시스템 EX"
+  },
+  "1002600568": {
+    "english": "Assault/Heavy Combat System EX",
+    "korean": "대 기동/중장 전투 시스템 EX"
+  },
+  "1002600569": {
+    "english": "Heavy/Light Combat System EX",
+    "korean": "대 중장/경장 전투 시스템 EX"
+  },
+  "1002600570": {
+    "english": "Improved High-Speed Learning System EX",
+    "korean": "개량형 고속 학습 시스템 EX"
+  },
+  "1002600571": {
+    "english": "Combat OS designed to counter Light/Assault types.",
+    "korean": "경장형/기동형에 대응하기 위한 전투 OS 입니다."
+  },
+  "1002600572": {
+    "english": "Combat OS designed to counter Assault/Heavy types.",
+    "korean": "기동형/중장형에 대응하기 위한 전투 OS 입니다."
+  },
+  "1002600573": {
+    "english": "Combat OS designed to counter Heavy/Light types.",
+    "korean": "중장형/경장형에 대응하기 위한 전투 OS 입니다."
+  },
+  "1002600574": {
+    "english": "Due to the learning-type OS, experience gained from battle victories greatly increases, but AP decreases.",
+    "korean": "학습형 OS로 인해 전투 승리 시, 획득 경험치가 크게 증가 하지만 행동력이 감소 합니다."
+  },
+  "1002600575": {
+    "english": "Poi's Blueprint",
+    "korean": "포이의 설계도"
+  },
+  "1002600576": {
+    "english": "A blueprint accidentally found during exploration. Collect multiple pieces to obtain the corresponding combat unit.",
+    "korean": "탐색 중 우연히 발견한 설계도 입니다. 여러 장을 모으면 해당 전투원을 획득 할 수 있습니다."
+  },
+  "1002600577": {
+    "english": "Particle Accelerator Lance",
+    "korean": "입자 가속기 력"
+  },
+  "1002600578": {
+    "english": "Equipment exclusive to attackers. At the start of the round, it generates high energy that greatly increases ATK but also increases damage taken.",
+    "korean": "공격기 전용 장비입니다. 라운드 개시 시, 고에너지를 생성해 공격력이 크게 증가하지만 받는 피해도 함께 증가합니다."
+  },
+  "1002600579": {
+    "english": "Auxiliary equipment for strategic bombing exclusive to the Assault type. Increases ATK and CRIT but decreases AP.",
+    "korean": "기동형 전용 전략 폭격용 보조 장비입니다. 공격력과 치명타가 증가하지만 행동력이 감소합니다."
+  },
+  "1002600580": {
+    "english": "<Maximum speed Mach 2.50! Essential equipment for gift delivery!> <Upgrade: Improved equipment performance.> Effects increase and side effects removed when equipped.",
+    "korean": "<최대 속력 마하 2.50! 선물 전달을 위한 필수 장비!> <개량 : 장비의 성능을 향상 시켰습니다.> 장비 장착시 효과가 증가하고 부작용을 제거 했습니다."
+  },
+  "1002600581": {
+    "english": "OS exclusive to Assault-type protectors. At the start of the round, reduces damage taken once per hit.",
+    "korean": "기동형 보호기 전용 OS입니다. 라운드 개시 시, 1회 피격에 한해 받는 피해가 감소합니다."
+  },
+  "1002600582": {
+    "english": "Nest of Love",
+    "korean": "사랑의 보금자리"
+  },
+  "1002600583": {
+    "english": "A king-size bed large enough for four. Under the sparkling chandelier, will you clink wine glasses with her—or them?",
+    "korean": "네 사람이 누워도 부족하지 않은 킹 사이즈 침대입니다. 영롱한 샹들리에 밑, 우아한 와인잔을 부딪힐 상대는 그녀인가요? 그녀들인가요?"
+  },
+  "1002600584": {
+    "english": "Exclusive auxiliary exoskeleton for Kan of Swiftness. Increases EVA, reduces damage taken, and grants mark effects when equipped.",
+    "korean": "신속의 칸의 전용 보조 외골격입니다. 장착 시 회피 증가, 받는 피해 감소, 표식 효과를 얻습니다."
+  },
+  "1002600585": {
+    "english": "Exclusive lancer revolver cannon ammo for Kan of Swiftness. Effective against Light/Heavy types.",
+    "korean": "신속의 칸의 전용 랜서 리볼버 캐논용 탄환입니다. 경장형/중장형 타격에 효과적입니다."
+  },
+  "1002600586": {
+    "english": "A well-packaged gift box. What could be inside? Can be exchanged for other items at the event exchange.",
+    "korean": "잘 포장된 선물 상자입니다. 뭐가 들어있을까요? 이벤트 교환소에서 다른 품목으로 교환할 수 있습니다."
+  },
+  "1002600587": {
+    "english": "\"One of the three great treasures of the secret group Tachi belongs to.&n'Caution! Extremely high temperature, please handle with care.\"",
+    "korean": "타치가 속한 비밀집단의 3대 보물 중 하나입니다.&n“주의! 극고온이므로 반드시 취급에 주의해 주십시오.”"
+  },
+  "1002600588": {
+    "english": "\"One of the three great treasures of the secret group Tachi belongs to.&n\"Warning! Special metal at extremely low temperature, do not touch under any circumstances.\"",
+    "korean": "타치가 속한 비밀집단의 3대 보물 중 하나입니다.&n“경고! 극저온의 특수금속이니 절대 접촉하지 마십시오.”"
+  },
+  "1002600589": {
+    "english": "\"One of the three great treasures of the secret group Tachi belongs to.&n\"Danger! It is generating power, please prepare for electric shock when using.\"",
+    "korean": "타치가 속한 비밀집단의 3대 보물 중 하나입니다.&n“위험! 발전하고 있으니 사용시 감전에 대비해 주십시오.”"
+  },
+  "1002600590": {
+    "english": "Auxiliary equipment exclusive to support units.&nDeploys distraction dummies; damage is minimized a set number of times when hit.",
+    "korean": "지원기 전용 보조 장비입니다.&n교란용 더미를 사출해 피격 시, 피해가 일정 횟수 최소화됩니다."
+  },
+  "1002600591": {
+    "english": "\"Special ammunition exclusive to Constantia's Winchester rifle.&nIncreases armor penetration.\"",
+    "korean": "콘스탄챠의 윈체스터 라이플 전용 특수 탄환입니다.&n방어 관통이 증가합니다."
+  },
+  "1002600592": {
+    "english": "Exclusive extended missile pod for Griffon.&nIncreases damage and armor penetration against Assault types, and increases range at enhancement level 10.",
+    "korean": "그리폰 전용 확장 미사일 포드입니다.&n대 기동형 피해량과 방어 관통이 증가하며, 강화 레벨 10에서 사거리가 증가합니다."
+  },
+  "1002600593": {
+    "english": "T-60 starfish exclusive new material anti-terrorism exterior armor.&nAttribute resistance and received damage are reduced.",
+    "korean": "T-60 불가사리 전용 신소재 테러 진압용 외장 아머입니다.&n속성 저항과 받는 피해가 감소합니다."
+  },
+  "1002600594": {
+    "english": "Scardi-exclusive suspicious supplementary food.&nFood that most bio-roids avoid.",
+    "korean": "스카디 전용 수상한 보조 식품입니다.&n대부분의 바이오로이드들이 기피하는 식품입니다."
+  },
+  "1002600595": {
+    "english": "This is the improved version of the T-14 Miho-exclusive SK-14 Pinky upgraded model.&nIt is a model with significantly enhanced firepower.&nAt the start of the round, it cancels the range reduction effect.",
+    "korean": "T-14 미호 전용 SK-14 Pinky 개량형의 개량형입니다.화력이 크게 개선된 모델입니다.라운드 개시 시, 사거리 감소 효과를 해제합니다."
+  },
+  "1002600596": {
+    "english": "When attacking an enemy, the experience gained after the battle increases.&nThe same effect can stack up to a maximum of 3 times.",
+    "korean": "자신이 적을 공격할 시, 전투 종료 후 획득하는 경험치가 증가합니다.동일 효과는 최대 3회까지만 중첩됩니다."
+  },
+  "1002600597": {
+    "english": "It is a repair-arc-shaped computing device.&nAt the start of the battle, action points increase and reconnaissance effects are gained.",
+    "korean": "수정구 형태의 연산장치입니다. 전투 개시 시, 행동력이 증가하며 정찰 효과를 얻습니다."
+  },
+  "1002600598": {
+    "english": "A box containing mini Perros.&nHelps to respond quickly to enemies and assists with fast fatigue recovery using the skill \"PookPooki.\"&nFor some reason, it seems to have an effect on machines as well.",
+    "korean": "미니 페로가 들어 있는 상자입니다. 적에게 민첩하게 대응할 수 있도록 도와주며, 스킬 사용 시 꾹꾹이로 빠른 피로 회복을 도와줍니다. 왠지 모르겠지만, 기계에도 효과가 있는 듯합니다."
+  },
+  "1002600599": {
+    "english": "A box containing mini Hachiko.&nHelps prevent easy defeat in battle.&nContinuously produces green-glowing meat pies.",
+    "korean": "미니 하치코가 들어 있는 상자입니다. 전투에서 쉽게 쓰러지지 않도록 도와줍니다. 녹색 빛을 띠는 미트 파이를 끊임없이 만듭니다."
+  },
+  "1002600600": {
+    "english": "A box containing mini Black Lilith.&nAssists attacks and creates a barrier that reduces the power of enemy attacks.&nSometimes you feel a strange gaze…",
+    "korean": "미니 블랙 리리스가 들어 있는 상자입니다. 공격을 보조하며, 적의 공격 위력을 경감시키는 역장을 생성해줍니다. 가끔 묘한 시선이 느껴집니다…"
+  },
+  "1002600601": {
+    "english": "Dark Elven exclusive combat equipment set.&nWhen equipped, ATK, CRIT, ACU increase, and DEF penetration effect is gained.",
+    "korean": "다크엘븐 전용 전투장비 세트 입니다. 장착 시 공격력, 치명타, 적중이 증가하며 방어 관통 효과를 얻습니다."
+  },
+  "1002600602": {
+    "english": "Elven exclusive special frame.&nWhen equipped, DEF and HP increase, heat protection activates, and received damage reduction and all attribute resistance effects occur.",
+    "korean": "엘븐 전용 특수 프레임 입니다. 장착 시 방어력과 HP가 증가하며 열보호가 활성화되고 받는 피해 감소와 모든 속성 저항 효과가 발생합니다."
+  },
+  "1002600603": {
+    "english": "Veronica exclusive thorn necklace.&nWhen equipped, ATK and CRIT increase, but HP decreases by a certain percentage of ATK when an enemy dies.",
+    "korean": "베로니카 전용 가시 목걸이 입니다. 장착 시 공격력과 치명타가 증가하는 반면 적 사망 시 공격력 일정 비율의 HP가 감소합니다."
+  },
+  "1002600604": {
+    "english": "Tyrant exclusive berserk guidance system OS.&nWhen equipped, ATK and ACU increase, and upon enemy death, gain a short-term ATK increase effect.",
+    "korean": "타이런트 전용 폭주 유도 시스템 OS 입니다. 장착 시 공격력과 적중이 증가하며 적 사망시 짧은 시간 공격력이 증가하는 효과를 얻습니다."
+  },
+  "1002600605": {
+    "english": "Seljuq exclusive shooting adjustment system.&nWhen equipped, ATK, CRIT, and ACU increase, and AP is gained each round.",
+    "korean": "셀주크 전용 사격 조정 시스템입니다. 장착 시 공격력, 치명타, 적중이 증가하며 매 라운드 AP를 획득합니다."
+  },
+  "1002600606": {
+    "english": "There seems to be a rumor that if you hang it up on Christmas Eve, you can receive gifts.&nThey say you can receive as many gifts as you hang...&nIt can be exchanged for other items at the event exchange shop.",
+    "korean": "크리스마스 전날에 걸어놓으면 선물을 받을 수 있다는 소문이 퍼진 듯합니다. 걸어놓은 만큼 선물을 받을 수 있다나요...이벤트 교환소에서 다른 품목으로 교환할 수 있습니다."
+  },
+  "1002600607": {
+    "english": "Well-preserved chocolate.&nCan be processed into chocolate of the desired shape.&nCan be exchanged for other items at the event exchange shop.",
+    "korean": "잘 보존되어 있던 초콜릿입니다. 원하는 모양의 초콜릿으로 가공할 수 있습니다. 이벤트 교환소에서 다른 품목으로 교환할 수 있습니다."
+  },
+  "1002600608": {
+    "english": "A memo organizing minor clues for resolving the case.&n\"‘Angel, Angel, Azazel' is the official slogan...? Those Kohei cult guys must all be out of their minds.\"&n— Sherlock Kimura",
+    "korean": "사건의 해결을 위해 사소한 실마리를 정리해둔 메모입니다. \"\"엔젤, 엔젤, 아자젤\"이 정식 구호라고...? 코헤이 교단 녀석들, 전부 머리가 어떻게 된 게 분명하군.\" - 셜록 키무라"
+  },
+  "1002600609": {
+    "english": "Improved equipment that removes output limits, increasing ATK / AP.&nEffective only on robots.",
+    "korean": "개량형 장비로 출력 제한을 해제해 공격력 / 행동력이 증가 합니다. 로봇에게만 효과가 있습니다."
+  },
+  "1002600610": {
+    "english": "Dedicated lancer revolver cannon ammunition for the Quick Slot.&nEffective against light and Heavy strikes.",
+    "korean": "신속의 칸의 전용 랜서 리볼버 캐논용 탄환입니다. 경장형/중장형 타격에 효과적입니다."
+  },
+  "1002600611": {
+    "english": "Aurelia-exclusive auxiliary equipment mounted on Aurelia's weapon.&nWhen equipped, survivability increases, and when using certain skills, additional fire damage is dealt to hit enemies and fire resistance is greatly reduced.",
+    "korean": "오렐리아의 무기에 장착하는 오렐리아 전용 보조 장비입니다. 장착 시 생존력이 증가하고 특정 스킬 사용 시, 적중한 적에게 추가 화염 피해를 입히고 화염 저항을 크게 감소시킵니다."
+  },
+  "1002600612": {
+    "english": "Aurelia-exclusive auxiliary equipment mounted on Aurelia's weapon.&nWhen equipped, survivability increases, and when using certain skills, additional frost damage is dealt to hit enemies and frost resistance is greatly reduced.",
+    "korean": "오렐리아의 무기에 장착하는 오렐리아 전용 보조 장비입니다. 장착 시 생존력이 증가하고 특정 스킬 사용 시, 적중한 적에게 추가 냉기 피해를 입히고 냉기 저항을 크게 감소시킵니다."
+  },
+  "1002600613": {
+    "english": "Aurelia-exclusive auxiliary equipment mounted on Aurelia's weapon.&nWhen equipped, survivability increases, and when using certain skills, additional frost damage is dealt to hit enemies and frost resistance is greatly reduced.",
+    "korean": "오렐리아의 무기에 장착하는 오렐리아 전용 보조 장비입니다. 장착 시 생존력이 증가하고 특정 스킬 사용 시, 적중한 적에게 추가 전기 피해를 입히고 전기 저항을 크게 감소시킵니다."
+  },
+  "1002600614": {
+    "english": "This is a log recording the battles and various events the commander has experienced.&nIf gifted to a combat unit, their level, skill level, and affinity will increase to the maximum.",
+    "korean": "사령관이 그동안 겪은 전투와 이런저런 일들을 기록한 일지입니다.&n전투원에게 선물하면 전투원 레벨 / 스킬 레벨 / 호감도가 최대로 증가합니다."
+  },
+  "1002700001": {
+    "english": "Inferno Missile",
+    "korean": "인페르노 미사일"
+  },
+  "1002700002": {
+    "english": "Flame Bombardment",
+    "korean": "화염 폭격"
+  },
+  "1002700003": {
+    "english": "Recon Flight",
+    "korean": "정찰 비행"
+  },
+  "1002700004": {
+    "english": "Linked Bombardment",
+    "korean": "연계 폭격"
+  },
+  "1002700005": {
+    "english": "Recon Flight (Dummy)",
+    "korean": "정찰 비행 (더미)"
+  },
+  "1002700006": {
+    "english": "Sharp Aim",
+    "korean": "정조준"
+  },
+  "1002700007": {
+    "english": "Rifle Fire",
+    "korean": "라이플 사격"
+  },
+  "1002700008": {
+    "english": "Foot Trap",
+    "korean": "발목 잡기"
+  },
+  "1002700009": {
+    "english": "Ready In Full",
+    "korean": "준비만전"
+  },
+  "1002700010": {
+    "english": "Driving Prey",
+    "korean": "사냥감 몰이"
+  },
+  "1002700011": {
+    "english": "Burl Shield",
+    "korean": "보리방패"
+  },
+  "1002700012": {
+    "english": "Archenemy",
+    "korean": "숙적"
+  },
+  "1002700013": {
+    "english": "Chivalry",
+    "korean": "기사도"
+  },
+  "1002700014": {
+    "english": "Walls of the Blind",
+    "korean": "눈 먼 자들의 성벽"
+  },
+  "1002700015": {
+    "english": "Avenger",
+    "korean": "복수자"
+  },
+  "1002700016": {
+    "english": "Majesty of the Prophet King",
+    "korean": "예언자 왕의 위엄"
+  },
+  "1002700017": {
+    "english": "Taser Gun",
+    "korean": "테이저 건"
+  },
+  "1002700018": {
+    "english": "Arresting Chain",
+    "korean": "체포 사슬"
+  },
+  "1002700019": {
+    "english": "Apprehended!",
+    "korean": "검거 완료!"
+  },
+  "1002700020": {
+    "english": "Stakeout Duty",
+    "korean": "잠복 근무"
+  },
+  "1002700021": {
+    "english": "Warning",
+    "korean": "경고"
+  },
+  "1002700022": {
+    "english": "Machine Gun Fire",
+    "korean": "머신건 사격"
+  },
+  "1002700023": {
+    "english": "Anti-Armor Shock Bomb",
+    "korean": "대 장갑 진동탄"
+  },
+  "1002700024": {
+    "english": "Stiff missile",
+    "korean": "스티프 미사일"
+  },
+  "1002700025": {
+    "english": "Radar warning",
+    "korean": "레이더 경보"
+  },
+  "1002700026": {
+    "english": "Flamethrower",
+    "korean": "화염 방사"
+  },
+  "1002700027": {
+    "english": "Suicide attack",
+    "korean": "자폭 돌격"
+  },
+  "1002700028": {
+    "english": "Evasive maneuvers",
+    "korean": "회피 기동"
+  },
+  "1002700029": {
+    "english": "Sniping",
+    "korean": "저격"
+  },
+  "1002700030": {
+    "english": "Charge",
+    "korean": "챠지"
+  },
+  "1002700031": {
+    "english": "Reactor Explosion",
+    "korean": "리액터 폭발"
+  },
+  "1002700032": {
+    "english": "Heavy machine gun fire",
+    "korean": "중 기관총 사격"
+  },
+  "1002700033": {
+    "english": "Machine gun at zero range",
+    "korean": "영거리 중 기관총"
+  },
+  "1002700034": {
+    "english": "Shield Slam",
+    "korean": "방패 내려치기"
+  },
+  "1002700035": {
+    "english": "Chick Shield Defense",
+    "korean": "칙 방패 방어술"
+  },
+  "1002700036": {
+    "english": "Cheek covering",
+    "korean": "칙 커버링"
+  },
+  "1002700037": {
+    "english": "Missile ttack",
+    "korean": "미사일 공격"
+  },
+  "1002700038": {
+    "english": "Concentrated missile attack",
+    "korean": "미사일 집중 공격"
+  },
+  "1002700039": {
+    "english": "Target Lock-on",
+    "korean": "목표 록온"
+  },
+  "1002700040": {
+    "english": "Assassination Target Marked",
+    "korean": "암살 목표 지정"
+  },
+  "1002700041": {
+    "english": "Scheduled Death",
+    "korean": "예정된 죽음"
+  },
+  "1002700042": {
+    "english": "Cold-Blooded",
+    "korean": "냉혈한"
+  },
+  "1002700043": {
+    "english": "Cold-Blooded (AP Dummy)",
+    "korean": "냉혈한 (AP 더미)"
+  },
+  "1002700044": {
+    "english": "Axe of Darkness&n",
+    "korean": "액스 오브 다크니스"
+  },
+  "1002700045": {
+    "english": "Cyclops Eternal Beam",
+    "korean": "사이클롭스 이터널 빔"
+  },
+  "1002700046": {
+    "english": "Shame is Ours to Bear",
+    "korean": "부끄러움은 우리 몫"
+  },
+  "1002700047": {
+    "english": "Power of the Jinzo?",
+    "korean": "진조의 힘?"
+  },
+  "1002700048": {
+    "english": "Pin Laser Fire",
+    "korean": "핀 레이저 사격"
+  },
+  "1002700049": {
+    "english": "Marne's Bombardment",
+    "korean": "마른의 포격"
+  },
+  "1002700050": {
+    "english": "Élan Vital",
+    "korean": "엘랑비탈"
+  },
+  "1002700051": {
+    "english": "Anti-Aircraft Command",
+    "korean": "대공 지휘"
+  },
+  "1002700052": {
+    "english": "Firenet Establishment",
+    "korean": "화망 구축"
+  },
+  "1002700053": {
+    "english": "Elan Vital (Defense Dummy)",
+    "korean": "엘랑비탈 (방어 더미)"
+  },
+  "1002700054": {
+    "english": "Meteorate Drill",
+    "korean": "운석 파쇄 드릴"
+  },
+  "1002700055": {
+    "english": "Force Field Deployment",
+    "korean": "역장 전개"
+  },
+  "1002700056": {
+    "english": "Allied Cover",
+    "korean": "아군 엄폐"
+  },
+  "1002700057": {
+    "english": "Orbital Plating",
+    "korean": "오비탈 플레이팅"
+  },
+  "1002700058": {
+    "english": "Suppressive Fire",
+    "korean": "견제 사격"
+  },
+  "1002700059": {
+    "english": "Aimed Shot",
+    "korean": "조준 사격"
+  },
+  "1002700060": {
+    "english": "Revolver Rapid Fire",
+    "korean": "리볼버 속사"
+  },
+  "1002700061": {
+    "english": "High-Pressure Gas Tank",
+    "korean": "고압 가스탄"
+  },
+  "1002700062": {
+    "english": "Shockwave missile",
+    "korean": "충격파 미사일"
+  },
+  "1002700063": {
+    "english": "Precision Scan",
+    "korean": "정밀 스캔"
+  },
+  "1002700064": {
+    "english": "Flame burner",
+    "korean": "플레임 버너"
+  },
+  "1002700065": {
+    "english": "Howitzer",
+    "korean": "곡사포"
+  },
+  "1002700066": {
+    "english": "Fuel tank explosion",
+    "korean": "연료 탱크 유폭"
+  },
+  "1002700067": {
+    "english": "Howitzer Strike",
+    "korean": "곡사포 착탄"
+  },
+  "1002700068": {
+    "english": "Shock missile",
+    "korean": "충격 미사일"
+  },
+  "1002700069": {
+    "english": "Targeting report",
+    "korean": "색적 보고"
+  },
+  "1002700070": {
+    "english": "Waste crushing",
+    "korean": "폐기물 분쇄"
+  },
+  "1002700071": {
+    "english": "Waste collection",
+    "korean": "폐기물 수거"
+  },
+  "1002700072": {
+    "english": "Machine gun",
+    "korean": "칙 중 기관포"
+  },
+  "1002700073": {
+    "english": "Dual Chick Cannon",
+    "korean": "듀얼 칙 캐논"
+  },
+  "1002700074": {
+    "english": "Chick reaction gloves",
+    "korean": "칙 반응 장갑"
+  },
+  "1002700075": {
+    "english": "Slap",
+    "korean": "후려치기"
+  },
+  "1002700076": {
+    "english": "Corrosion solution",
+    "korean": "부식 용액"
+  },
+  "1002700077": {
+    "english": "Survival instinct",
+    "korean": "생존 본능"
+  },
+  "1002700078": {
+    "english": "Finishing attack",
+    "korean": "마무리 공격"
+  },
+  "1002700079": {
+    "english": "Babel Smash",
+    "korean": "바벨 강타"
+  },
+  "1002700080": {
+    "english": "Sprint",
+    "korean": "스프린트"
+  },
+  "1002700081": {
+    "english": "Bulk Up",
+    "korean": "벌크 업"
+  },
+  "1002700082": {
+    "english": "Screw Bunker Shot",
+    "korean": "스크류 벙커 샷"
+  },
+  "1002700083": {
+    "english": "Dynamite Worm",
+    "korean": "다이너마이트 웜"
+  },
+  "1002700084": {
+    "english": "Fairy Trick",
+    "korean": "페어리 트릭"
+  },
+  "1002700085": {
+    "english": "Fairy Cloud",
+    "korean": "페어리 클라우드"
+  },
+  "1002700086": {
+    "english": "Sensitive Eyes",
+    "korean": "민감한 눈"
+  },
+  "1002700087": {
+    "english": "Fairy Cloud (Corrosion Dummy)",
+    "korean": "페어리 클라우드 (부식 더미)"
+  },
+  "1002700088": {
+    "english": "Shockwave radiation",
+    "korean": "전격 방사"
+  },
+  "1002700089": {
+    "english": "High voltage current",
+    "korean": "고압 전류"
+  },
+  "1002700090": {
+    "english": "Border mode",
+    "korean": "경계 모드"
+  },
+  "1002700091": {
+    "english": "GAU Minigun",
+    "korean": "GAU 미니건"
+  },
+  "1002700092": {
+    "english": "Sticky bombs",
+    "korean": "점착탄"
+  },
+  "1002700093": {
+    "english": "Alert",
+    "korean": "경계 태세"
+  },
+  "1002700094": {
+    "english": "XM Grenade Launcher",
+    "korean": "XM 유탄 발사기"
+  },
+  "1002700095": {
+    "english": "Launch of a simultaneous attack",
+    "korean": "일제 공격 개시"
+  },
+  "1002700096": {
+    "english": "Counterattack stance",
+    "korean": "반격 태세"
+  },
+  "1002700097": {
+    "english": "Shield Bash",
+    "korean": "방패 강타"
+  },
+  "1002700098": {
+    "english": "Raising the cheek guard",
+    "korean": "칙 가드 올리기"
+  },
+  "1002700099": {
+    "english": "Reinforced Shield",
+    "korean": "강화 방패"
+  },
+  "1002700100": {
+    "english": "Claw Rush",
+    "korean": "클로 돌진"
+  },
+  "1002700101": {
+    "english": "Nail blade launch",
+    "korean": "손톱날 발사"
+  },
+  "1002700102": {
+    "english": "Joy of Slaughter",
+    "korean": "살육 쾌감"
+  },
+  "1002700103": {
+    "english": "Threat Detection",
+    "korean": "위협 감지"
+  },
+  "1002700104": {
+    "english": "Berserk",
+    "korean": "광란"
+  },
+  "1002700105": {
+    "english": "Concentrated Particle Cannon",
+    "korean": "집속 입자포"
+  },
+  "1002700106": {
+    "english": "Lightning Tackle",
+    "korean": "라이트닝 태클"
+  },
+  "1002700107": {
+    "english": "AGS Tactical Command",
+    "korean": "AGS 전술지휘"
+  },
+  "1002700108": {
+    "english": "Radar Control",
+    "korean": "레이더 관제"
+  },
+  "1002700109": {
+    "english": "Energy Field Deployment",
+    "korean": "에너지 필드 전개"
+  },
+  "1002700110": {
+    "english": "Energy Field Deployment (Buff Dummy)",
+    "korean": "에너지 필드 전개(버프용 더미)"
+  },
+  "1002700111": {
+    "english": "Lightning Tackle (Flood Dummy)",
+    "korean": "라이트닝 태클 (침수용 더미)"
+  },
+  "1002700112": {
+    "english": "Radar Control (AP Dummy)",
+    "korean": "레이더 관제 (AP 더미)"
+  },
+  "1002700113": {
+    "english": "Radar Control (EVA Increase Dummy)",
+    "korean": "레이더 관제 (회피 증가 더미)"
+  },
+  "1002700114": {
+    "english": "Radar Control (Protection Dummy)",
+    "korean": "레이더 관제 (보호 더미)"
+  },
+  "1002700115": {
+    "english": "Radar Control (Shield Dummy)",
+    "korean": "레이더 관제 (방어막 더미)"
+  },
+  "1002700116": {
+    "english": "Crushing Strike",
+    "korean": "분쇄 강타"
+  },
+  "1002700117": {
+    "english": "Work Anchor",
+    "korean": "작업용 앵커"
+  },
+  "1002700118": {
+    "english": "Wreckage Recycling",
+    "korean": "잔해 재활용"
+  },
+  "1002700119": {
+    "english": "Supply Deployment",
+    "korean": "보급 개시"
+  },
+  "1002700120": {
+    "english": "Crushing Strike (Damage)",
+    "korean": "분쇄 강타 (피해량)"
+  },
+  "1002700121": {
+    "english": "Crushing Strike (Status Effect)",
+    "korean": "분쇄 강타 (행불)"
+  },
+  "1002700122": {
+    "english": "Work Anchor (Damage Amplification)",
+    "korean": "작업용 앵커 (피해 증폭)"
+  },
+  "1002700123": {
+    "english": "Wreckage Recycling (Drone)",
+    "korean": "잔해 재활용 (드론)"
+  },
+  "1002700124": {
+    "english": "Supply Deployment (Aerial Drone)",
+    "korean": "보급 개시 (드론 공중)"
+  },
+  "1002700125": {
+    "english": "Rivet Gun Fire",
+    "korean": "리벳건 사격"
+  },
+  "1002700126": {
+    "english": "Rabbit D Field",
+    "korean": "래빗 D 필드"
+  },
+  "1002700127": {
+    "english": "Mechanical Engineering",
+    "korean": "기계 공학"
+  },
+  "1002700128": {
+    "english": "Light Machine Gun Fire",
+    "korean": "경기관총 사격"
+  },
+  "1002700129": {
+    "english": "Light Shock Grenade Throw",
+    "korean": "경충격탄 투척"
+  },
+  "1002700130": {
+    "english": "Light Shock Grenade Throw (Air Effect Dummy)",
+    "korean": "경충격탄 투척 (기동 효과 더미)"
+  },
+  "1002700131": {
+    "english": "Contact Combustion",
+    "korean": "접촉 연소"
+  },
+  "1002700132": {
+    "english": "Fire Rain",
+    "korean": "파이어레인"
+  },
+  "1002700133": {
+    "english": "Armor Cutter",
+    "korean": "장갑 오려내기"
+  },
+  "1002700134": {
+    "english": "Scissors Blade",
+    "korean": "시저스 블레이드"
+  },
+  "1002700135": {
+    "english": "Gardener's Instinct",
+    "korean": "정원사의 본성"
+  },
+  "1002700136": {
+    "english": "Gardener's Nature (Damage Increase Dummy)",
+    "korean": "정원사의 본성 (피증 더미)"
+  },
+  "1002700137": {
+    "english": "Gardener's Nature (Additional Effect Dummy)",
+    "korean": "정원사의 본성 (추가 효과 더미)"
+  },
+  "1002700138": {
+    "english": "Armor Excision (Damage)",
+    "korean": "장갑 오려내기 (피해량)"
+  },
+  "1002700139": {
+    "english": "Pest Control",
+    "korean": "해충 처리"
+  },
+  "1002700140": {
+    "english": "Pest Control (Lilith)",
+    "korean": "해충 처리 (리리스)"
+  },
+  "1002700141": {
+    "english": "Pest Control (Kill Dummy)",
+    "korean": "해충 처리 (킬 더미)"
+  },
+  "1002700142": {
+    "english": "Suppressive Fire",
+    "korean": "위협 사격"
+  },
+  "1002700143": {
+    "english": "Acrobatics Flight",
+    "korean": "곡예 비행"
+  },
+  "1002700144": {
+    "english": "Formation Escort",
+    "korean": "편대 호위"
+  },
+  "1002700145": {
+    "english": "Breach Preparation",
+    "korean": "돌입 준비"
+  },
+  "1002700146": {
+    "english": "Acrobatics Flight (Self EVA)",
+    "korean": "곡예 비행 (자신 회피)"
+  },
+  "1002700147": {
+    "english": "Acrobatics Flight (Damage Reduction Dummy)",
+    "korean": "곡예 비행 (피해 감소 더미)"
+  },
+  "1002700148": {
+    "english": "Formation Escort (Target Protection)",
+    "korean": "편대 호위 (지정 보호)"
+  },
+  "1002700149": {
+    "english": "Breach Preparation (Self EVA)",
+    "korean": "돌입 준비 (자신 회피)"
+  },
+  "1002700150": {
+    "english": "Forced Breach",
+    "korean": "강행 돌입"
+  },
+  "1002700151": {
+    "english": "Forced Breach (Recon)",
+    "korean": "강행 돌입 (정찰)"
+  },
+  "1002700152": {
+    "english": "Forced Breach (AP Increase)",
+    "korean": "강행 돌입 (AP 증가)"
+  },
+  "1002700153": {
+    "english": "Forced Breach (Suppression Fire Strengthened)",
+    "korean": "강행 돌입 (위협 사격 강화)"
+  },
+  "1002700154": {
+    "english": "Breach Preparation (Self)",
+    "korean": "돌입 준비 (자신)"
+  },
+  "1002700155": {
+    "english": "Suppressive fire",
+    "korean": "제압 사격"
+  },
+  "1002700156": {
+    "english": "Large Shield Deployment",
+    "korean": "대형 방패 전개"
+  },
+  "1002700157": {
+    "english": "Suppression Commence",
+    "korean": "진압 개시"
+  },
+  "1002700158": {
+    "english": "All-Units Charge!",
+    "korean": "전원 돌격!"
+  },
+  "1002700159": {
+    "english": "Large Shield Deployment (Counterattack)",
+    "korean": "대형 방패 전개 (반격)"
+  },
+  "1002700160": {
+    "english": "Suppression Commence (AP Increase)",
+    "korean": "진압 개시 (Ap 증가)"
+  },
+  "1002700161": {
+    "english": "All-Units Charge! (Attack Buff)",
+    "korean": "전원 돌격! (공 버프)"
+  },
+  "1002700162": {
+    "english": "Suppressive Fire",
+    "korean": "방해 사격"
+  },
+  "1002700163": {
+    "english": "Support Fire Initiation",
+    "korean": "지원 사격 개시"
+  },
+  "1002700164": {
+    "english": "Making a honeycomb",
+    "korean": "벌집 만들기"
+  },
+  "1002700165": {
+    "english": "Indiscriminate shooting",
+    "korean": "무차별 난사"
+  },
+  "1002700166": {
+    "english": "Bring it on!",
+    "korean": "덤벼덤벼!"
+  },
+  "1002700167": {
+    "english": "Combat Over-immersion",
+    "korean": "전투 과몰입"
+  },
+  "1002700168": {
+    "english": "Beehive Formation (Anti-Air Dummy)",
+    "korean": "벌집 만들기 (대 기동 더미)"
+  },
+  "1002700169": {
+    "english": "Indiscriminate Barrage (AP Dummy)",
+    "korean": "무차별 난사 (AP 더미)"
+  },
+  "1002700170": {
+    "english": "Charge, Charge On! (Base Damage Reduction Dummy)",
+    "korean": "덤벼덤벼! (기본 피감 더미)"
+  },
+  "1002700171": {
+    "english": "Charge, Charge On! (75% Dummy)",
+    "korean": "덤벼덤벼! (75% 더미)"
+  },
+  "1002700172": {
+    "english": "Charge, Charge On! (50% Dummy)",
+    "korean": "덤벼덤벼! (50% 더미)"
+  },
+  "1002700173": {
+    "english": "Combat Over-Engagement (Revive ATK)",
+    "korean": "전투 과몰입 (부활 공격력)"
+  },
+  "1002700174": {
+    "english": "Mobile Bulga Fire",
+    "korean": "이동 블가 사격"
+  },
+  "1002700175": {
+    "english": "Skill Seal Device",
+    "korean": "스킬 봉인 장치"
+  },
+  "1002700176": {
+    "english": "Machine Gun Barrage",
+    "korean": "머신건 난사"
+  },
+  "1002700177": {
+    "english": "Super Fallen Transformation",
+    "korean": "슈퍼 폴른 변신"
+  },
+  "1002700178": {
+    "english": "Super Fallen Fire",
+    "korean": "슈퍼 폴른 사격"
+  },
+  "1002700179": {
+    "english": "Form Change Cancel",
+    "korean": "변신 해제"
+  },
+  "1002700180": {
+    "english": "Immobilizing Shot I",
+    "korean": "이동 불가 사격 I"
+  },
+  "1002700181": {
+    "english": "Immobile Shooting II",
+    "korean": "이동 불가 사격 II"
+  },
+  "1002700182": {
+    "english": "Skill-unblockable Shot I",
+    "korean": "스킬 불가 사격 I"
+  },
+  "1002700183": {
+    "english": "Skill-Unblockable Shot II",
+    "korean": "스킬 불가 사격 II"
+  },
+  "1002700184": {
+    "english": "Grenade Kick",
+    "korean": "유탄 차기"
+  },
+  "1002700185": {
+    "english": "Hundred Styles Punch",
+    "korean": "백보신권"
+  },
+  "1002700186": {
+    "english": "Single-Molecule Claw",
+    "korean": "단분자 클로"
+  },
+  "1002700187": {
+    "english": "Guard Designation",
+    "korean": "호위 지정"
+  },
+  "1002700188": {
+    "english": "Agility",
+    "korean": "유연성"
+  },
+  "1002700189": {
+    "english": "Wound Split",
+    "korean": "상처 가르기"
+  },
+  "1002700190": {
+    "english": "Helping Hand",
+    "korean": "손 빌려주기"
+  },
+  "1002700191": {
+    "english": "Single-Molecule Claw (Additional Damage Dummy)",
+    "korean": "단분자 클로 (추가 피해 더미)"
+  },
+  "1002700192": {
+    "english": "Guard Designation (AP Increase Dummy)",
+    "korean": "호위 지정 (AP 증가 더미)"
+  },
+  "1002700193": {
+    "english": "Agility (HP 50% or Less Dummy)",
+    "korean": "유연성 (HP 50% 이하 더미)"
+  },
+  "1002700194": {
+    "english": "Agility (Always Dummy)",
+    "korean": "유연성 (상시 더미)"
+  },
+  "1002700195": {
+    "english": "Helping Hand (Protection/Support Dummy)",
+    "korean": "손 빌려주기 (보호/지원 더미)"
+  },
+  "1002700196": {
+    "english": "Identifying weaknesses",
+    "korean": "약점 포착"
+  },
+  "1002700197": {
+    "english": "Flashbang Barrage",
+    "korean": "섬광 탄막"
+  },
+  "1002700198": {
+    "english": "Radar sharing",
+    "korean": "레이더 공유"
+  },
+  "1002700199": {
+    "english": "Shield Charge",
+    "korean": "실드 돌격"
+  },
+  "1002700200": {
+    "english": "Protection maneuver",
+    "korean": "보호 기동"
+  },
+  "1002700201": {
+    "english": "Defensive maneuvers",
+    "korean": "방어 기동"
+  },
+  "1002700202": {
+    "english": "Shield Bash",
+    "korean": "실드 강타"
+  },
+  "1002700203": {
+    "english": "Shield deployment",
+    "korean": "실드 전개"
+  },
+  "1002700204": {
+    "english": "thick shield",
+    "korean": "두꺼운 방패"
+  },
+  "1002700205": {
+    "english": "Charge and fire",
+    "korean": "돌격 난사"
+  },
+  "1002700206": {
+    "english": "Machine gun fire",
+    "korean": "기관포 난사"
+  },
+  "1002700207": {
+    "english": "Over-output state",
+    "korean": "과출력 상태"
+  },
+  "1002700208": {
+    "english": "Precise sniper",
+    "korean": "정조준 저격"
+  },
+  "1002700209": {
+    "english": "Camouflage",
+    "korean": "위장"
+  },
+  "1002700210": {
+    "english": "Counter-sniper",
+    "korean": "대응 저격"
+  },
+  "1002700211": {
+    "english": "Active Defense System",
+    "korean": "능동 방어 장치"
+  },
+  "1002700212": {
+    "english": "Shelter Function",
+    "korean": "셸터 기능"
+  },
+  "1002700213": {
+    "english": "Ignition Grant",
+    "korean": "점화 부여"
+  },
+  "1002700214": {
+    "english": "Path Blockade",
+    "korean": "경로 차단"
+  },
+  "1002700215": {
+    "english": "Turret Fire",
+    "korean": "포탑 사격"
+  },
+  "1002700216": {
+    "english": "Concentrated Turret Fire",
+    "korean": "포탑 집중 사격"
+  },
+  "1002700217": {
+    "english": "157mm HEAT Shell",
+    "korean": "157mm HEAT탄"
+  },
+  "1002700218": {
+    "english": "Legacy Shell Bombardment",
+    "korean": "유산탄 포격"
+  },
+  "1002700219": {
+    "english": "Hunt Commence",
+    "korean": "사냥 개시"
+  },
+  "1002700220": {
+    "english": "Suppressive Fire",
+    "korean": "제압 포격"
+  },
+  "1002700221": {
+    "english": "152mm HEAT Shell (Penetration Dummy)",
+    "korean": "152mm HEAT탄 (관통 더미)"
+  },
+  "1002700222": {
+    "english": "140mm High-Explosive Shell",
+    "korean": "140mm 고폭탄"
+  },
+  "1002700223": {
+    "english": "Howitzer Bombardment",
+    "korean": "곡사 포격"
+  },
+  "1002700224": {
+    "english": "Flare Launch",
+    "korean": "조명탄 발사"
+  },
+  "1002700225": {
+    "english": "Rifled Mortar",
+    "korean": "강선형 박격포"
+  },
+  "1002700226": {
+    "english": "Mortar Impact",
+    "korean": "박격포 착탄"
+  },
+  "1002700227": {
+    "english": "Homing Laser",
+    "korean": "호밍 레이저"
+  },
+  "1002700228": {
+    "english": "Satellite Bombardment",
+    "korean": "위성 포격"
+  },
+  "1002700229": {
+    "english": "Precision analysis",
+    "korean": "정밀 분석"
+  },
+  "1002700230": {
+    "english": "Computational Optimization",
+    "korean": "연산 최적화"
+  },
+  "1002700231": {
+    "english": "High-Altitude Scanning",
+    "korean": "고고도 스캐닝"
+  },
+  "1002700232": {
+    "english": "Disruptive Fire",
+    "korean": "교란 사격"
+  },
+  "1002700233": {
+    "english": "Precision Sniping",
+    "korean": "정밀 저격"
+  },
+  "1002700234": {
+    "english": "Pinpoint Sniping",
+    "korean": "핀 포인트 저격"
+  },
+  "1002700235": {
+    "english": "White Reaper",
+    "korean": "하얀 사신"
+  },
+  "1002700236": {
+    "english": "Pinpoint Sniping (Middle Row)",
+    "korean": "핀 포인트 저격 (중열)"
+  },
+  "1002700237": {
+    "english": "White Reaper (EVA Dummy)",
+    "korean": "하얀 사신 (회피 더미)"
+  },
+  "1002700238": {
+    "english": "SMG Burst Fire",
+    "korean": "SMG 연사"
+  },
+  "1002700239": {
+    "english": "High-Explosive Grenade",
+    "korean": "고폭 수류탄"
+  },
+  "1002700240": {
+    "english": "Anti-Armor Rocket",
+    "korean": "대 장갑 로켓"
+  },
+  "1002700241": {
+    "english": "Mk08. Thermobaric Round",
+    "korean": "MK08. 열압력탄"
+  },
+  "1002700242": {
+    "english": "Metal Parasite Destruction",
+    "korean": "철충 파괴"
+  },
+  "1002700243": {
+    "english": "Metal Parasite Mass Destruction",
+    "korean": "철충 대파괴"
+  },
+  "1002700244": {
+    "english": "Enhanced Strength",
+    "korean": "강화 근력"
+  },
+  "1002700245": {
+    "english": "Generator Activation",
+    "korean": "제네레이터 활성화"
+  },
+  "1002700246": {
+    "english": "Reliable Big Sister",
+    "korean": "든든한 큰언니"
+  },
+  "1002700247": {
+    "english": "Medium Machine Gun Fire",
+    "korean": "중 기관포 사격"
+  },
+  "1002700248": {
+    "english": "Full Barrage",
+    "korean": "전탄 방출"
+  },
+  "1002700249": {
+    "english": "Relief",
+    "korean": "안도감"
+  },
+  "1002700250": {
+    "english": "Get That One!",
+    "korean": "저 녀석 잡아라!"
+  },
+  "1002700251": {
+    "english": "AMG-11 Assembly",
+    "korean": "AMG-11 조립"
+  },
+  "1002700252": {
+    "english": "Target Acquisition",
+    "korean": "목표 설정"
+  },
+  "1002700253": {
+    "english": "Target Destruction",
+    "korean": "목표 파괴"
+  },
+  "1002700254": {
+    "english": "Machine Gun Rapid Fire",
+    "korean": "기관포 연사"
+  },
+  "1002700255": {
+    "english": "AT Missile",
+    "korean": "AT 미사일"
+  },
+  "1002700256": {
+    "english": "AT Missile (Heavy Dummy)",
+    "korean": "AT 미사일 (중장 더미)"
+  },
+  "1002700257": {
+    "english": "Concentrated Fire",
+    "korean": "집속 사격"
+  },
+  "1002700258": {
+    "english": "Suppressive Barrage",
+    "korean": "제압 난사"
+  },
+  "1002700259": {
+    "english": "Fire Support",
+    "korean": "화력 지원"
+  },
+  "1002700260": {
+    "english": "Leg Targeting",
+    "korean": "다리 노리기"
+  },
+  "1002700261": {
+    "english": "HEDP Grenade",
+    "korean": "HEDP 유탄"
+  },
+  "1002700262": {
+    "english": "Cleanup",
+    "korean": "뒷정리"
+  },
+  "1002700263": {
+    "english": "Leg Targeting (Damage Dummy)",
+    "korean": "다리 노리기 (피해량 더미)"
+  },
+  "1002700264": {
+    "english": "Cleanup (Kill Dummy)",
+    "korean": "뒷정리 (처치 더미)"
+  },
+  "1002700265": {
+    "english": "Target Suppression",
+    "korean": "목표 견제"
+  },
+  "1002700266": {
+    "english": "Civilian Escort",
+    "korean": "시민 호위"
+  },
+  "1002700267": {
+    "english": "Target Escort (Damage Reduction Dummy)",
+    "korean": "목표 호위 (피해 감소 더미)"
+  },
+  "1002700268": {
+    "english": "Civilian Escort (AP Dummy)",
+    "korean": "시민 호위 (AP 더미)"
+  },
+  "1002700269": {
+    "english": "Friend of the People",
+    "korean": "시민의 친구"
+  },
+  "1002700270": {
+    "english": "Machine Gun Fire",
+    "korean": "기관포 사격"
+  },
+  "1002700271": {
+    "english": "Main Gun Fire",
+    "korean": "주포 발사"
+  },
+  "1002700272": {
+    "english": "Armor Deployment",
+    "korean": "장갑 전개"
+  },
+  "1002700273": {
+    "english": "Special Coating Armor",
+    "korean": "특수 코팅 장갑"
+  },
+  "1002700274": {
+    "english": "Cruise Mode",
+    "korean": "순항 모드"
+  },
+  "1002700275": {
+    "english": "Main Gun Aimed Shot",
+    "korean": "주포 조준 사격"
+  },
+  "1002700276": {
+    "english": "Armor Deployment Release",
+    "korean": "장갑 전개 해제"
+  },
+  "1002700277": {
+    "english": "Special Coating Armor (Dummy)",
+    "korean": "특수 코팅 장갑 (더미)"
+  },
+  "1002700278": {
+    "english": "Armor Deployment Mode",
+    "korean": "장갑 전개 모드"
+  },
+  "1002700279": {
+    "english": "Carpet Bombing",
+    "korean": "융단 폭격"
+  },
+  "1002700280": {
+    "english": "Back to the Stone Age!",
+    "korean": "석기 시대로!"
+  },
+  "1002700281": {
+    "english": "Bomber Squadron Command",
+    "korean": "폭격 편대 지휘"
+  },
+  "1002700282": {
+    "english": "Pyrotechnic Maniac",
+    "korean": "불꽃놀이광"
+  },
+  "1002700283": {
+    "english": "Looking for Companions?!",
+    "korean": "길동무 모집?!"
+  },
+  "1002700284": {
+    "english": "ALCM Impact",
+    "korean": "ALCM 착탄"
+  },
+  "1002700285": {
+    "english": "Stun Rod",
+    "korean": "스턴 롯드"
+  },
+  "1002700286": {
+    "english": "Sentinel of Hell",
+    "korean": "지옥의 파수꾼"
+  },
+  "1002700287": {
+    "english": "Escort Support",
+    "korean": "호위 지원"
+  },
+  "1002700288": {
+    "english": "It's an All-Out Attack!",
+    "korean": "총공격이에요!"
+  },
+  "1002700289": {
+    "english": "Stun Rod (Flood Dummy)",
+    "korean": "스턴 롯드 (침수 더미)"
+  },
+  "1002700290": {
+    "english": "Hell's Sentinel (Damage Reduction Dummy)",
+    "korean": "지옥의 파수꾼 (피해 감소 더미)"
+  },
+  "1002700291": {
+    "english": "Hell's Sentinel (Ally Protection Dummy)",
+    "korean": "지옥의 파수꾼 (아군 보호 더미)"
+  },
+  "1002700292": {
+    "english": "ATS Missile",
+    "korean": "ATS 미사일"
+  },
+  "1002700293": {
+    "english": "High-Altitude Bombing",
+    "korean": "고공 폭격"
+  },
+  "1002700294": {
+    "english": "Radar Drone",
+    "korean": "레이더 드론"
+  },
+  "1002700295": {
+    "english": "Extreme Discomfort",
+    "korean": "극도의 불편함"
+  },
+  "1002700296": {
+    "english": "Radar Drone (Middle Row Dummy)",
+    "korean": "레이더 드론 (중열 더미)"
+  },
+  "1002700297": {
+    "english": "Extreme Discomfort (May)",
+    "korean": "극도의 불편함 (메이)"
+  },
+  "1002700298": {
+    "english": "Anti-Armor Missile (Naan Ignored)",
+    "korean": "대 장갑 미사일 (나앤 방관용)"
+  },
+  "1002700299": {
+    "english": "Extreme Discomfort (Djinnia)",
+    "korean": "극도의 불편함 (지니야)"
+  },
+  "1002700300": {
+    "english": "Railgun Fire",
+    "korean": "레일건 사격"
+  },
+  "1002700301": {
+    "english": "Buster Cannon",
+    "korean": "버스터 캐논"
+  },
+  "1002700302": {
+    "english": "Output Boost",
+    "korean": "출력 강화"
+  },
+  "1002700303": {
+    "english": "Rapid Recharge",
+    "korean": "급속 충전"
+  },
+  "1002700304": {
+    "english": "Limiter Release",
+    "korean": "리미터 해제"
+  },
+  "1002700305": {
+    "english": "Maximum Output Buster Cannon",
+    "korean": "최대출력 버스터 캐논"
+  },
+  "1002700306": {
+    "english": "Railgun Fire (Beam) (Firing)",
+    "korean": "레일건 사격 (빔) (발사)"
+  },
+  "1002700307": {
+    "english": "Limiter Release (ATK)",
+    "korean": "리미터 해제 (공격력)"
+  },
+  "1002700308": {
+    "english": "Limiter Release (AP)",
+    "korean": "리미터 해제 (행동력)"
+  },
+  "1002700309": {
+    "english": "Limiter Release (EVA)",
+    "korean": "리미터 해제 (회피)"
+  },
+  "1002700310": {
+    "english": "Limiter Release (Damage Over Time)",
+    "korean": "리미터 해제 (지속피해)"
+  },
+  "1002700311": {
+    "english": "Output Boost (Level 10 Dummy)",
+    "korean": "출력 강화 (10렙 더미)"
+  },
+  "1002700312": {
+    "english": "Attack Target Designation",
+    "korean": "공격 목표 지정"
+  },
+  "1002700313": {
+    "english": "Assault Command",
+    "korean": "돌격 명령"
+  },
+  "1002700314": {
+    "english": "Attack Command",
+    "korean": "공격 지휘"
+  },
+  "1002700315": {
+    "english": "Switch to Defense Command",
+    "korean": "방어 지휘 전환"
+  },
+  "1002700316": {
+    "english": "Cold Analysis",
+    "korean": "냉철한 분석"
+  },
+  "1002700317": {
+    "english": "Defense Command",
+    "korean": "방어 지휘"
+  },
+  "1002700318": {
+    "english": "Switch to Attack Command",
+    "korean": "공격 지휘 전환"
+  },
+  "1002700319": {
+    "english": "Cold Analysis (Recon)",
+    "korean": "냉철한 분석 (정찰)"
+  },
+  "1002700320": {
+    "english": "Assault Command (Attack Command)",
+    "korean": "돌격 명령 (공격 지휘)"
+  },
+  "1002700321": {
+    "english": "Cold Analysis (Recon Complete)",
+    "korean": "냉철한 분석 (정찰 완료)"
+  },
+  "1002700322": {
+    "english": "Assault Command (Defense Command)",
+    "korean": "돌격 명령 (방어 지휘)"
+  },
+  "1002700323": {
+    "english": "Switch to Defense Command (Transformation Dummy)",
+    "korean": "방어 지휘 전환 (변신 더미)"
+  },
+  "1002700324": {
+    "english": "Attack Target Designation (Additional Effect Dummy)",
+    "korean": "공격 목표 지정 (부가 효과 더미)"
+  },
+  "1002700325": {
+    "english": "Long-Range Bombardment",
+    "korean": "영거리 포격"
+  },
+  "1002700326": {
+    "english": "Desert Storm",
+    "korean": "데저트 스톰"
+  },
+  "1002700327": {
+    "english": "Hungry Wolf",
+    "korean": "굶주린 늑대"
+  },
+  "1002700328": {
+    "english": "Gap Targeting",
+    "korean": "틈새 노리기"
+  },
+  "1002700329": {
+    "english": "Rising Morale",
+    "korean": "전의 고양"
+  },
+  "1002700330": {
+    "english": "Long-Range Bombardment (CRIT)",
+    "korean": "영거리 포격 (크리)"
+  },
+  "1002700331": {
+    "english": "Rising Morale (ATK)",
+    "korean": "전의 고양 (공격)"
+  },
+  "1002700332": {
+    "english": "Rising Morale (Speed)",
+    "korean": "전의 고양 (속도)"
+  },
+  "1002700333": {
+    "english": "Desert Storm (Buff Dummy)",
+    "korean": "데저트 스톰 (버프 더미)"
+  },
+  "1002700334": {
+    "english": "183mm HESH Shell",
+    "korean": "183mm HESH탄"
+  },
+  "1002700335": {
+    "english": "183mm HVAP Shell",
+    "korean": "183mm HVAP탄"
+  },
+  "1002700336": {
+    "english": "Bombardment Formation",
+    "korean": "포격 대열"
+  },
+  "1002700337": {
+    "english": "High-Pressure Jet",
+    "korean": "고압 분사"
+  },
+  "1002700338": {
+    "english": "Liquid Nitrogen Jet",
+    "korean": "액화 질소 분사"
+  },
+  "1002700339": {
+    "english": "Emergency Rescue",
+    "korean": "긴급 구조"
+  },
+  "1002700340": {
+    "english": "Liquid Nitrogen Spray (Immobility Dummy)",
+    "korean": "액화 질소 분사 (이동 불능 더미)"
+  },
+  "1002700341": {
+    "english": "Type-60 LMG",
+    "korean": "60형 LMG"
+  },
+  "1002700342": {
+    "english": "Heat-Seeking LOCK Missile",
+    "korean": "열 추적 로크 미사일"
+  },
+  "1002700343": {
+    "english": "Confident Poise",
+    "korean": "의기양양"
+  },
+  "1002700344": {
+    "english": "M61A2 Machine Gun (EVA Reduction Dummy)",
+    "korean": "M61A2 머신건 (회피 감소 더미)"
+  },
+  "1002700345": {
+    "english": "Heat-Seeking Missile (EVA Dummy)",
+    "korean": "열 추적 미사일 (회피 더미)"
+  },
+  "1002700346": {
+    "english": "High Spirits (CRIT Dummy)",
+    "korean": "의기 양양 (적중 더미)"
+  },
+  "1002700347": {
+    "english": "High Spirits (EVA Dummy)",
+    "korean": "의기 양양 (회피 더미)"
+  },
+  "1002700348": {
+    "english": "Circuit Overload",
+    "korean": "회로 과부하"
+  },
+  "1002700349": {
+    "english": "Final Hacking",
+    "korean": "최후의 해킹"
+  },
+  "1002700350": {
+    "english": "Information Analysis",
+    "korean": "정보 분석"
+  },
+  "1002700351": {
+    "english": "Final Hacking (Link Dummy)",
+    "korean": "최후의 해킹 (연계 더미)"
+  }
+}

@@ -1,0 +1,4002 @@
+{
+  "ItemDesc_Equip_System_RogTrooperNukerATK_T3": {
+    "english": "ATK / ACU Increase",
+    "korean": "공격력/적중 증가"
+  },
+  "ItemDesc_Equip_System_RogTrooperNukerATK_T4": {
+    "english": "ATK / ACU Increase",
+    "korean": "공격력/적중 증가"
+  },
+  "ItemDesc_Equip_System_RogTrooperNukerATK_T5": {
+    "english": "ATK / ACU Increase",
+    "korean": "공격력/적중 증가"
+  },
+  "ItemDesc_Equip_System_RogTrooperSupporterSPd_T1": {
+    "english": "AP / ACU Increase",
+    "korean": "행동력/적중 증가"
+  },
+  "ItemDesc_Equip_System_RogTrooperSupporterSPd_T2": {
+    "english": "AP / ACU Increase",
+    "korean": "행동력/적중 증가"
+  },
+  "ItemDesc_Equip_System_RogTrooperSupporterSPd_T3": {
+    "english": "AP / ACU Increase",
+    "korean": "행동력/적중 증가"
+  },
+  "ItemDesc_Equip_System_RogTrooperSupporterSPd_T4": {
+    "english": "AP / ACU Increase",
+    "korean": "행동력/적중 증가"
+  },
+  "ItemDesc_Equip_System_RogTrooperSupporterSPd_T5": {
+    "english": "AP / ACU Increase",
+    "korean": "행동력/적중 증가"
+  },
+  "ItemDesc_Equip_System_RogTrooperTankerDEF_T1": {
+    "english": "DEF Increase / Damage Reduction",
+    "korean": "방어력 증가/받는피해 감소"
+  },
+  "ItemDesc_Equip_System_RogTrooperTankerDEF_T2": {
+    "english": "DEF Increase / Damage Reduction",
+    "korean": "방어력 증가/받는피해 감소"
+  },
+  "ItemDesc_Equip_System_RogTrooperTankerDEF_T3": {
+    "english": "DEF Increase / Damage Reduction",
+    "korean": "방어력 증가/받는피해 감소"
+  },
+  "ItemDesc_Equip_System_RogTrooperTankerDEF_T4": {
+    "english": "DEF Increase / Damage Reduction",
+    "korean": "방어력 증가/받는피해 감소"
+  },
+  "ItemDesc_Equip_System_RogTrooperTankerDEF_T5": {
+    "english": "DEF Increase / Damage Reduction",
+    "korean": "방어력 증가/받는피해 감소"
+  },
+  "ItemDesc_Equip_System_SDV_T4": {
+    "english": "+{0} / All-Type Damage Increase / AP Increase",
+    "korean": "공격력+{0} / 모든 타입 피해량 증가 / 행동력 증가"
+  },
+  "ItemDesc_Equip_System_Sniper_T1": {
+    "english": "Counterattack Lv.1",
+    "korean": "반격 Lv.1"
+  },
+  "ItemDesc_Equip_System_Sniper_T2": {
+    "english": "Counterattack Lv.2",
+    "korean": "반격 Lv.2"
+  },
+  "ItemDesc_Equip_System_Sniper_T3": {
+    "english": "Counterattack Lv.3",
+    "korean": "반격 Lv.3"
+  },
+  "ItemDesc_Equip_System_Sniper_T4": {
+    "english": "Counterattack Lv.4",
+    "korean": "반격 Lv.4"
+  },
+  "ItemName_Equip_Chip_ATFLIR_T4": {
+    "english": "ATFLIR Enhancement Circuit",
+    "korean": "ATFLIR 강화 회로"
+  },
+  "ItemName_Equip_Chip_AccTypeB_T1": {
+    "english": "Computation Enhancement Circuit Beta RE",
+    "korean": "연산 강화 회로 베타 RE"
+  },
+  "ItemName_Equip_Chip_AccTypeB_T2": {
+    "english": "Computation Enhancement Circuit Beta MP",
+    "korean": "연산 강화 회로 베타 MP"
+  },
+  "ItemName_Equip_Chip_AccTypeB_T3": {
+    "english": "Computation Enhancement Circuit Beta SP",
+    "korean": "연산 강화 회로 베타 SP"
+  },
+  "ItemName_Equip_Chip_AccTypeB_T4": {
+    "english": "Computation Enhancement Circuit Beta EX",
+    "korean": "연산 강화 회로 베타 EX"
+  },
+  "ItemName_Equip_Chip_AccTypeB_T5": {
+    "english": "Computation Enhancement Circuit Beta",
+    "korean": "연산 강화 회로 베타"
+  },
+  "ItemName_Equip_Chip_Acc_T1": {
+    "english": "Computation Enhancement Circuit RE",
+    "korean": "연산 강화 회로 RE"
+  },
+  "ItemName_Equip_Chip_Acc_T2": {
+    "english": "Computation Enhancement Circuit MP",
+    "korean": "연산 강화 회로 MP"
+  },
+  "ItemName_Equip_Chip_Acc_T3": {
+    "english": "Computation Enhancement Circuit SP",
+    "korean": "연산 강화 회로 SP"
+  },
+  "ItemName_Equip_Chip_Acc_T4": {
+    "english": "Computation Enhancement Circuit EX",
+    "korean": "연산 강화 회로 EX"
+  },
+  "ItemName_Equip_Chip_Acc_T5": {
+    "english": "",
+    "korean": "연산 강화 회로 SSS"
+  },
+  "ItemName_Equip_Chip_AimHack_T4": {
+    "english": "Auto-Aim Circuit",
+    "korean": "자동 조준 회로"
+  },
+  "ItemName_Equip_Chip_AtkControl_T1": {
+    "english": "Output Control Circuit RE",
+    "korean": "출력 제어 회로 RE"
+  },
+  "ItemName_Equip_Chip_AtkControl_T2": {
+    "english": "Output Control Circuit MP",
+    "korean": "출력 제어 회로 MP"
+  },
+  "ItemName_Equip_Chip_AtkControl_T3": {
+    "english": "Output Control Circuit SP",
+    "korean": "출력 제어 회로 SP"
+  },
+  "ItemName_Equip_Chip_AtkControl_T4": {
+    "english": "Output Control Circuit EX",
+    "korean": "출력 제어 회로 EX"
+  },
+  "ItemName_Equip_Chip_AtkCri_T1": {
+    "english": "Output Stabilization Circuit RE",
+    "korean": "출력 안정 회로 RE"
+  },
+  "ItemName_Equip_Chip_AtkCri_T2": {
+    "english": "Output Stabilization Circuit MP",
+    "korean": "출력 안정 회로 MP"
+  },
+  "ItemName_Equip_Chip_AtkCri_T3": {
+    "english": "Output Stabilization Circuit SP",
+    "korean": "출력 안정 회로 SP"
+  },
+  "ItemName_Equip_Chip_AtkCri_T4": {
+    "english": "Output Stabilization Circuit EX",
+    "korean": "출력 안정 회로 EX"
+  },
+  "ItemName_Equip_Chip_AtkTypeB_T1": {
+    "english": "Output Enhancement Circuit Beta RE",
+    "korean": "출력 강화 회로 베타 RE"
+  },
+  "ItemName_Equip_Chip_AtkTypeB_T2": {
+    "english": "Output Enhancement Circuit Beta MP",
+    "korean": "출력 강화 회로 베타 MP"
+  },
+  "ItemName_Equip_Chip_AtkTypeB_T3": {
+    "english": "Output Enhancement Circuit Beta SP",
+    "korean": "출력 강화 회로 베타 SP"
+  },
+  "ItemName_Equip_Chip_AtkTypeB_T4": {
+    "english": "Output Enhancement Circuit Beta EX",
+    "korean": "출력 강화 회로 베타 EX"
+  },
+  "ItemName_Equip_Chip_AtkTypeB_T5": {
+    "english": "Output Enhancement Circuit Beta",
+    "korean": "출력 강화 회로 베타"
+  },
+  "ItemName_Equip_Chip_Atk_T1": {
+    "english": "Output Enhancement Circuit RE",
+    "korean": "출력 강화 회로 RE"
+  },
+  "ItemName_Equip_Chip_Atk_T2": {
+    "english": "Output Enhancement Circuit MP",
+    "korean": "출력 강화 회로 MP"
+  },
+  "ItemName_Equip_Chip_Atk_T3": {
+    "english": "Output Enhancement Circuit SP",
+    "korean": "출력 강화 회로 SP"
+  },
+  "ItemName_Equip_Chip_Atk_T4": {
+    "english": "Output Enhancement Circuit EX",
+    "korean": "출력 강화 회로 EX"
+  },
+  "ItemName_Equip_Chip_Atk_T5": {
+    "english": "",
+    "korean": "출력 강화 회로 SSS"
+  },
+  "ItemName_Equip_Chip_AttackChip_T1": {
+    "english": "Analysis Circuit RE",
+    "korean": "BR 돌격 회로 RE"
+  },
+  "ItemName_Equip_Chip_AttackChip_T2": {
+    "english": "Analysis Circuit RE",
+    "korean": "BR 돌격 회로 MP"
+  },
+  "ItemName_Equip_Chip_AttackChip_T3": {
+    "english": "Analysis Circuit RE",
+    "korean": "BR 돌격 회로 SP"
+  },
+  "ItemName_Equip_Chip_AttackChip_T4": {
+    "english": "Analysis Circuit RE",
+    "korean": "BR 돌격 회로 EX"
+  },
+  "ItemName_Equip_Chip_AttackChip_T5": {
+    "english": "Analysis Circuit RE",
+    "korean": "BR 돌격 회로 SSS"
+  },
+  "ItemName_Equip_Chip_CriAccEx_T4": {
+    "english": "Improved Analysis Circuit EX",
+    "korean": "개량형 분석 회로 EX"
+  },
+  "ItemName_Equip_Chip_CriTypeB_T1": {
+    "english": "Analysis Circuit Beta RE",
+    "korean": "분석 회로 베타 RE"
+  },
+  "ItemName_Equip_Chip_CriTypeB_T2": {
+    "english": "Analysis Circuit Beta MP",
+    "korean": "분석 회로 베타 MP"
+  },
+  "ItemName_Equip_Chip_CriTypeB_T3": {
+    "english": "Analysis Circuit Beta SP",
+    "korean": "분석 회로 베타 SP"
+  },
+  "ItemName_Equip_Chip_CriTypeB_T4": {
+    "english": "Analysis Circuit Beta EX",
+    "korean": "분석 회로 베타 EX"
+  },
+  "ItemName_Equip_Chip_CriTypeB_T5": {
+    "english": "Internal Shock Circuit Beta",
+    "korean": "분석 회로 베타"
+  },
+  "ItemName_Equip_Chip_Cri_T1": {
+    "english": "Analysis Circuit RE",
+    "korean": "분석 회로 RE"
+  },
+  "ItemName_Equip_Chip_Cri_T2": {
+    "english": "Analysis Circuit MP",
+    "korean": "분석 회로 MP"
+  },
+  "ItemName_Equip_Chip_Cri_T3": {
+    "english": "Analysis Circuit SP",
+    "korean": "분석 회로 SP"
+  },
+  "ItemName_Equip_Chip_Cri_T4": {
+    "english": "Analysis Circuit EX",
+    "korean": "분석 회로 EX"
+  },
+  "ItemName_Equip_Chip_Cri_T5": {
+    "english": "",
+    "korean": "분석 회로 SSS"
+  },
+  "ItemName_Equip_Chip_Debuff_Res_T1": {
+    "english": "Vaccine Treatment RE",
+    "korean": "백신 처리 RE"
+  },
+  "ItemName_Equip_Chip_Debuff_Res_T2": {
+    "english": "Vaccine Treatment MP",
+    "korean": "백신 처리 MP"
+  },
+  "ItemName_Equip_Chip_Debuff_Res_T3": {
+    "english": "Vaccine Treatment SP",
+    "korean": "백신 처리 SP"
+  },
+  "ItemName_Equip_Chip_Debuff_Res_T4": {
+    "english": "Vaccine Treatment EX",
+    "korean": "백신 처리 EX"
+  },
+  "ItemName_Equip_Chip_DefTypeB_T1": {
+    "english": "Internal Shock Circuit Beta RE",
+    "korean": "내 충격 회로 베타 RE"
+  },
+  "ItemName_Equip_Chip_DefTypeB_T2": {
+    "english": "Internal Shock Circuit Beta MP",
+    "korean": "내 충격 회로 베타 MP"
+  },
+  "ItemName_Equip_Chip_DefTypeB_T3": {
+    "english": "Internal Shock Circuit Beta SP",
+    "korean": "내 충격 회로 베타 SP"
+  },
+  "ItemName_Equip_Chip_DefTypeB_T4": {
+    "english": "Internal Shock Circuit Beta EX",
+    "korean": "내 충격 회로 베타 EX"
+  },
+  "ItemName_Equip_Chip_DefTypeB_T5": {
+    "english": "Output Enhancement Circuit Beta",
+    "korean": "내 충격 회로 베타"
+  },
+  "ItemName_Equip_Chip_Def_T1": {
+    "english": "Internal Shock Circuit RE",
+    "korean": "내 충격 회로 RE"
+  },
+  "ItemName_Equip_Chip_Def_T2": {
+    "english": "Internal Shock Circuit MP",
+    "korean": "내 충격 회로 MP"
+  },
+  "ItemName_Equip_Chip_Def_T3": {
+    "english": "Internal Shock Circuit SP",
+    "korean": "내 충격 회로 SP"
+  },
+  "ItemName_Equip_Chip_Def_T4": {
+    "english": "Internal Shock Circuit EX",
+    "korean": "내 충격 회로 EX"
+  },
+  "ItemName_Equip_Chip_Def_T5": {
+    "english": "",
+    "korean": "내 충격 회로 SSS"
+  },
+  "ItemName_Equip_Chip_Enchant_T1": {
+    "english": "Equipment Upgrade Chipset RE",
+    "korean": "장비 개량용 칩셋 RE"
+  },
+  "ItemName_Equip_Chip_Enchant_T2": {
+    "english": "Equipment Upgrade Chipset MP",
+    "korean": "장비 개량용 칩셋 MP"
+  },
+  "ItemName_Equip_Chip_Enchant_T3": {
+    "english": "Equipment Upgrade Chipset SP",
+    "korean": "장비 개량용 칩셋 SP"
+  },
+  "ItemName_Equip_Chip_Enchant_T4": {
+    "english": "Equipment Upgrade Chipset EX",
+    "korean": "장비 개량용 칩셋 EX"
+  },
+  "ItemName_Equip_Chip_EvTypeB_T1": {
+    "english": "Reaction Enhancement Circuit Beta RE",
+    "korean": "반응 강화 회로 베타 RE"
+  },
+  "ItemName_Equip_Chip_EvTypeB_T2": {
+    "english": "Reaction Enhancement Circuit Beta MP",
+    "korean": "반응 강화 회로 베타 MP"
+  },
+  "ItemName_Equip_Chip_EvTypeB_T3": {
+    "english": "Reaction Enhancement Circuit Beta SP",
+    "korean": "반응 강화 회로 베타 SP"
+  },
+  "ItemName_Equip_Chip_EvTypeB_T4": {
+    "english": "Reaction Enhancement Circuit Beta EX",
+    "korean": "반응 강화 회로 베타 EX"
+  },
+  "ItemName_Equip_Chip_EvTypeB_T5": {
+    "english": "Computation Enhancement Circuit Beta",
+    "korean": "반응 강화 회로 베타"
+  },
+  "ItemName_Equip_Chip_Ev_T1": {
+    "english": "Reaction Enhancement Circuit RE",
+    "korean": "반응 강화 회로 RE"
+  },
+  "ItemName_Equip_Chip_Ev_T2": {
+    "english": "Reaction Enhancement Circuit MP",
+    "korean": "반응 강화 회로 MP"
+  },
+  "ItemName_Equip_Chip_Ev_T3": {
+    "english": "Reaction Enhancement Circuit SP",
+    "korean": "반응 강화 회로 SP"
+  },
+  "ItemName_Equip_Chip_Ev_T4": {
+    "english": "Reaction Enhancement Circuit EX",
+    "korean": "반응 강화 회로 EX"
+  },
+  "ItemName_Equip_Chip_Ev_T5": {
+    "english": "",
+    "korean": "반응 강화 회로 SSS"
+  },
+  "ItemName_Equip_Chip_Heartless_T4": {
+    "english": "Heartless Heart' Bypass Circuit",
+    "korean": "Heartless Heart' 우회 회로"
+  },
+  "ItemName_Equip_Chip_HpTypeB_T1": {
+    "english": "Circuit Durability Enhancement Beta RE",
+    "korean": "회로 내구 강화 베타 RE"
+  },
+  "ItemName_Equip_Chip_HpTypeB_T2": {
+    "english": "Circuit Durability Enhancement Beta MP",
+    "korean": "회로 내구 강화 베타 MP"
+  },
+  "ItemName_Equip_Chip_HpTypeB_T3": {
+    "english": "Circuit Durability Enhancement Beta SP",
+    "korean": "회로 내구 강화 베타 SP"
+  },
+  "ItemName_Equip_Chip_HpTypeB_T4": {
+    "english": "Circuit Durability Enhancement Beta EX",
+    "korean": "회로 내구 강화 베타 EX"
+  },
+  "ItemName_Equip_Chip_HpTypeB_T5": {
+    "english": "Reaction Enhancement Circuit Beta",
+    "korean": "회로 내구 강화 베타"
+  },
+  "ItemName_Equip_Chip_Hp_T1": {
+    "english": "Circuit Durability Enhancement RE",
+    "korean": "회로 내구 강화 RE"
+  },
+  "ItemName_Equip_Chip_Hp_T2": {
+    "english": "Circuit Durability Enhancement MP",
+    "korean": "회로 내구 강화 MP"
+  },
+  "ItemName_Equip_Chip_Hp_T3": {
+    "english": "Circuit Durability Enhancement SP",
+    "korean": "회로 내구 강화 SP"
+  },
+  "ItemName_Equip_Chip_Hp_T4": {
+    "english": "Circuit Durability Enhancement EX",
+    "korean": "회로 내구 강화 EX"
+  },
+  "ItemName_Equip_Chip_Hp_T5": {
+    "english": "",
+    "korean": "회로 내구 강화 SSS"
+  },
+  "ItemName_Equip_Chip_HyperChipHp_T1": {
+    "english": "Combat Recording Circuit RE",
+    "korean": "BR 아드레날린 회로 RE"
+  },
+  "ItemName_Equip_Chip_HyperChipHp_T2": {
+    "english": "Combat Recording Circuit RE",
+    "korean": "BR 아드레날린 회로 MP"
+  },
+  "ItemName_Equip_Chip_HyperChipHp_T3": {
+    "english": "Combat Recording Circuit RE",
+    "korean": "BR 아드레날린 회로 SP"
+  },
+  "ItemName_Equip_Chip_HyperChipHp_T4": {
+    "english": "Combat Recording Circuit RE",
+    "korean": "BR 아드레날린 회로 EX"
+  },
+  "ItemName_Equip_Chip_HyperChipHp_T5": {
+    "english": "Combat Recording Circuit RE",
+    "korean": "BR 아드레날린 회로 SSS"
+  },
+  "ItemName_Equip_Chip_HyperChip_T1": {
+    "english": "Combat Recording Circuit RE",
+    "korean": "BR 최적화 회로RE"
+  },
+  "ItemName_Equip_Chip_HyperChip_T2": {
+    "english": "Combat Recording Circuit RE",
+    "korean": "BR 최적화 회로MP"
+  },
+  "ItemName_Equip_Chip_HyperChip_T3": {
+    "english": "Combat Recording Circuit RE",
+    "korean": "BR 최적화 회로SP"
+  },
+  "ItemName_Equip_Chip_HyperChip_T4": {
+    "english": "Combat Recording Circuit RE",
+    "korean": "BR 최적화 회로EX"
+  },
+  "ItemName_Equip_Chip_HyperChip_T5": {
+    "english": "Combat Recording Circuit RE",
+    "korean": "BR 최적화 회로SSS"
+  },
+  "ItemName_Equip_Chip_KillExp_T1": {
+    "english": "Combat Log Circuit RE",
+    "korean": "전투 기록 회로 RE"
+  },
+  "ItemName_Equip_Chip_KillExp_T2": {
+    "english": "Combat Log Circuit MP",
+    "korean": "전투 기록 회로 MP"
+  },
+  "ItemName_Equip_Chip_KillExp_T3": {
+    "english": "Combat Log Circuit SP",
+    "korean": "전투 기록 회로 SP"
+  },
+  "ItemName_Equip_Chip_KillExp_T4": {
+    "english": "Combat Log Circuit EX",
+    "korean": "전투 기록 회로 EX"
+  },
+  "ItemName_Equip_Chip_LTWT_T1": {
+    "english": "Lightweight Circuit RE",
+    "korean": "경량화 회로 RE"
+  },
+  "ItemName_Equip_Chip_LTWT_T2": {
+    "english": "Lightweight Circuit MP",
+    "korean": "경량화 회로 MP"
+  },
+  "ItemName_Equip_Chip_LTWT_T3": {
+    "english": "Lightweight Circuit SP",
+    "korean": "경량화 회로 SP"
+  },
+  "ItemName_Equip_Chip_LTWT_T4": {
+    "english": "Lightweight Circuit EX",
+    "korean": "경량화 회로 EX"
+  },
+  "ItemName_Equip_Chip_Outback_T4": {
+    "english": "Frontier Exploration Support Circuit",
+    "korean": "오지 개척 보조 회로"
+  },
+  "ItemName_Equip_Chip_S42Adlib_T4": {
+    "english": "S#.42 Ad-lib Circuit",
+    "korean": "S#.42 ad-lib 회로"
+  },
+  "ItemName_Equip_Chip_ShileldChip_T1": {
+    "english": "Output Amplification Circuit RE",
+    "korean": "BR 위험방지 회로 RE"
+  },
+  "ItemName_Equip_Chip_ShileldChip_T2": {
+    "english": "Output Amplification Circuit RE",
+    "korean": "BR 위험방지 회로 MP"
+  },
+  "ItemName_Equip_Chip_ShileldChip_T3": {
+    "english": "Output Amplification Circuit RE",
+    "korean": "BR 위험방지 회로 SP"
+  },
+  "ItemName_Equip_Chip_ShileldChip_T4": {
+    "english": "Output Amplification Circuit RE",
+    "korean": "BR 위험방지 회로 EX"
+  },
+  "ItemName_Equip_Chip_ShileldChip_T5": {
+    "english": "Output Amplification Circuit RE",
+    "korean": "BR 위험방지 회로 SSS"
+  },
+  "ItemName_Equip_Chip_SpAtk_T1": {
+    "english": "Output Amplification Circuit RE",
+    "korean": "출력 증폭 회로 RE"
+  },
+  "ItemName_Equip_Chip_SpAtk_T2": {
+    "english": "Output Amplification Circuit MP",
+    "korean": "출력 증폭 회로 MP"
+  },
+  "ItemName_Equip_Chip_SpAtk_T3": {
+    "english": "Output Amplification Circuit SP",
+    "korean": "출력 증폭 회로 SP"
+  },
+  "ItemName_Equip_Chip_SpAtk_T4": {
+    "english": "Output Amplification Circuit EX",
+    "korean": "출력 증폭 회로 EX"
+  },
+  "ItemName_Equip_Chip_SpdTypeB_T1": {
+    "english": "Circuit Optimization Beta RE",
+    "korean": "회로 최적화 베타 RE"
+  },
+  "ItemName_Equip_Chip_SpdTypeB_T2": {
+    "english": "Circuit Optimization Beta MP",
+    "korean": "회로 최적화 베타 MP"
+  },
+  "ItemName_Equip_Chip_SpdTypeB_T3": {
+    "english": "Circuit Optimization Beta SP",
+    "korean": "회로 최적화 베타 SP"
+  },
+  "ItemName_Equip_Chip_SpdTypeB_T4": {
+    "english": "Circuit Optimization Beta EX",
+    "korean": "회로 최적화 베타 EX"
+  },
+  "ItemName_Equip_Chip_SpdTypeB_T5": {
+    "english": "Analysis Circuit Beta",
+    "korean": "회로 최적화 베타"
+  },
+  "ItemName_Equip_Chip_Spd_T1": {
+    "english": "Circuit Optimization RE",
+    "korean": "회로 최적화 RE"
+  },
+  "ItemName_Equip_Chip_Spd_T2": {
+    "english": "Circuit Optimization MP",
+    "korean": "회로 최적화 MP"
+  },
+  "ItemName_Equip_Chip_Spd_T3": {
+    "english": "Circuit Optimization SP",
+    "korean": "회로 최적화 SP"
+  },
+  "ItemName_Equip_Chip_Spd_T4": {
+    "english": "Circuit Optimization EX",
+    "korean": "회로 최적화 EX"
+  },
+  "ItemName_Equip_Chip_Spd_T5": {
+    "english": "",
+    "korean": "회로 최적화 SSS"
+  },
+  "ItemName_Equip_Sub_40mmDUBullet_T4": {
+    "english": "40mm DU Rounds",
+    "korean": "40mm DU탄"
+  },
+  "ItemName_Equip_Sub_AESARadar_T4": {
+    "english": "Active Airborne Radar",
+    "korean": "능동형 항공 레이더"
+  },
+  "ItemName_Equip_Sub_AMRAAMPod_T4": {
+    "english": "Expanded AMRAAM Pod",
+    "korean": "확장 AMRAAM 포드"
+  },
+  "ItemName_Equip_Sub_ASN6G_T4": {
+    "english": "ASN-6G",
+    "korean": "ASN-6G"
+  },
+  "ItemName_Equip_Sub_AWThruster_T1": {
+    "english": "Aerial Weapon Thruster",
+    "korean": "공중화기용 추력기"
+  },
+  "ItemName_Equip_Sub_AWThruster_T2": {
+    "english": "Aerial Weapon Thruster",
+    "korean": "공중화기용 추력기"
+  },
+  "ItemName_Equip_Sub_AWThruster_T3": {
+    "english": "Aerial Weapon Thruster",
+    "korean": "공중화기용 추력기"
+  },
+  "ItemName_Equip_Sub_AWThruster_T4": {
+    "english": "Aerial Weapon Thruster",
+    "korean": "공중화기용 추력기"
+  },
+  "ItemName_Equip_Sub_AdvRadar_T1": {
+    "english": "Long-Range Scope RE",
+    "korean": "망원 조준장치 RE"
+  },
+  "ItemName_Equip_Sub_AdvRadar_T2": {
+    "english": "Long-Range Scope MP",
+    "korean": "망원 조준장치 MP"
+  },
+  "ItemName_Equip_Sub_AdvRadar_T3": {
+    "english": "Long-Range Scope SP",
+    "korean": "망원 조준장치 SP"
+  },
+  "ItemName_Equip_Sub_AdvRadar_T4": {
+    "english": "Long-Range Scope EX",
+    "korean": "망원 조준장치 EX"
+  },
+  "ItemName_Equip_Sub_AdvRadar_T5": {
+    "english": "",
+    "korean": "망원 조준장치 SSS"
+  },
+  "ItemName_Equip_Sub_AngelLegs_T4": {
+    "english": "Dust Storm",
+    "korean": "더스트 스톰"
+  },
+  "ItemName_Equip_Sub_AntiBarrier_T1": {
+    "english": "Energy Converter RE",
+    "korean": "에너지 전환기 RE"
+  },
+  "ItemName_Equip_Sub_AntiBarrier_T2": {
+    "english": "Energy Converter MP",
+    "korean": "에너지 전환기 MP"
+  },
+  "ItemName_Equip_Sub_AntiBarrier_T3": {
+    "english": "Energy Converter SP",
+    "korean": "에너지 전환기 SP"
+  },
+  "ItemName_Equip_Sub_AntiBarrier_T4": {
+    "english": "Energy Converter EX",
+    "korean": "에너지 전환기 EX"
+  },
+  "ItemName_Equip_Sub_AntiCold_T1": {
+    "english": "Cold-Resistant Coating RE",
+    "korean": "내한 코팅 RE"
+  },
+  "ItemName_Equip_Sub_AntiCold_T2": {
+    "english": "Cold-Resistant Coating MP",
+    "korean": "내한 코팅 MP"
+  },
+  "ItemName_Equip_Sub_AntiCold_T3": {
+    "english": "Cold-Resistant Coating SP",
+    "korean": "내한 코팅 SP"
+  },
+  "ItemName_Equip_Sub_AntiCold_T4": {
+    "english": "Cold-Resistant Coating EX",
+    "korean": "내한 코팅 EX"
+  },
+  "ItemName_Equip_Sub_AntiFire_T1": {
+    "english": "Heat-Resistant Coating RE",
+    "korean": "내열 코팅 RE"
+  },
+  "ItemName_Equip_Sub_AntiFire_T2": {
+    "english": "Heat-Resistant Coating MP",
+    "korean": "내열 코팅 MP"
+  },
+  "ItemName_Equip_Sub_AntiFire_T3": {
+    "english": "Heat-Resistant Coating SP",
+    "korean": "내열 코팅 SP"
+  },
+  "ItemName_Equip_Sub_AntiFire_T4": {
+    "english": "Heat-Resistant Coating EX",
+    "korean": "내열 코팅 EX"
+  },
+  "ItemName_Equip_Sub_AntiLightning_T1": {
+    "english": "Shockproof Coating RE",
+    "korean": "내전 코팅 RE"
+  },
+  "ItemName_Equip_Sub_AntiLightning_T2": {
+    "english": "Shockproof Coating MP",
+    "korean": "내전 코팅 MP"
+  },
+  "ItemName_Equip_Sub_AntiLightning_T3": {
+    "english": "Shockproof Coating SP",
+    "korean": "내전 코팅 SP"
+  },
+  "ItemName_Equip_Sub_AntiLightning_T4": {
+    "english": "Shockproof Coating EX",
+    "korean": "내전 코팅 EX"
+  },
+  "ItemName_Equip_Sub_AntiShield_T4": {
+    "english": "Shield Neutralization Equipment EX",
+    "korean": "방어막 중화 장비 EX"
+  },
+  "ItemName_Equip_Sub_AquaModule_T1": {
+    "english": "Aqua Module RE",
+    "korean": "아쿠아 모듈 RE"
+  },
+  "ItemName_Equip_Sub_AquaModule_T2": {
+    "english": "Aqua Module MP",
+    "korean": "아쿠아 모듈 MP"
+  },
+  "ItemName_Equip_Sub_AquaModule_T3": {
+    "english": "Aqua Module SP",
+    "korean": "아쿠아 모듈 SP"
+  },
+  "ItemName_Equip_Sub_AquaModule_T4": {
+    "english": "Aqua Module EX",
+    "korean": "아쿠아 모듈 EX"
+  },
+  "ItemName_Equip_Sub_ArcDischargeRounds_T4": {
+    "english": "Arc Discharge Guidance Rounds",
+    "korean": "아크방전유도 탄환"
+  },
+  "ItemName_Equip_Sub_ArmorPierce_T1": {
+    "english": "Anti-Armor Equipment RE",
+    "korean": "대 장갑 장비 RE"
+  },
+  "ItemName_Equip_Sub_ArmorPierce_T2": {
+    "english": "Anti-Armor Equipment MP",
+    "korean": "대 장갑 장비 MP"
+  },
+  "ItemName_Equip_Sub_ArmorPierce_T3": {
+    "english": "Anti-Armor Equipment SP",
+    "korean": "대 장갑 장비 SP"
+  },
+  "ItemName_Equip_Sub_ArmorPierce_T4": {
+    "english": "Anti-Armor Equipment EX",
+    "korean": "대 장갑 장비 EX"
+  },
+  "ItemName_Equip_Sub_AtkSpd_T4": {
+    "english": "Improved Output Enhancement Circuit EX",
+    "korean": "개량형 출력 강화 회로 EX"
+  },
+  "ItemName_Equip_Sub_BabyBottle_T4": {
+    "english": "Defense Field RE",
+    "korean": "젖병"
+  },
+  "ItemName_Equip_Sub_Barrier_T1": {
+    "english": "Defense Field RE",
+    "korean": "방어 역장 RE"
+  },
+  "ItemName_Equip_Sub_Barrier_T2": {
+    "english": "Defense Field MP",
+    "korean": "방어 역장 MP"
+  },
+  "ItemName_Equip_Sub_Barrier_T3": {
+    "english": "Defense Field SP",
+    "korean": "방어 역장 SP"
+  },
+  "ItemName_Equip_Sub_Barrier_T4": {
+    "english": "Defense Field EX",
+    "korean": "방어 역장 EX"
+  },
+  "ItemName_Equip_Sub_BattleASST_T4": {
+    "english": "Assault Support Device",
+    "korean": "강행 전투 보조장치"
+  },
+  "ItemName_Equip_Sub_Bedroll_T4": {
+    "english": "Field Camouflage Sleeping Bag",
+    "korean": "야전용 위장 침낭"
+  },
+  "ItemName_Equip_Sub_Beercan_T4": {
+    "english": "Chilled Beer Can",
+    "korean": "시원한 맥주캔"
+  },
+  "ItemName_Equip_Sub_BlueScreenRounds_T4": {
+    "english": "",
+    "korean": "블루스크린 탄환"
+  },
+  "ItemName_Equip_Sub_BoilingVessel_T4": {
+    "english": "Boiling Vessel",
+    "korean": "보일링 베슬"
+  },
+  "ItemName_Equip_Sub_Bombard_T4": {
+    "english": "Strategic Bombing Equipment EX",
+    "korean": "전략 폭격 장비 EX"
+  },
+  "ItemName_Equip_Sub_BulgasariPileBunker_T4": {
+    "english": "Electric Pile Bunker",
+    "korean": "전격형 파일벙커"
+  },
+  "ItemName_Equip_Sub_CM67SpaceBooster_T4": {
+    "english": "Space-Use Expansion Booster",
+    "korean": "우주용 확장 부스터"
+  },
+  "ItemName_Equip_Sub_CMDProtocol_T4": {
+    "english": "Applied Command Protocol",
+    "korean": "응용 지휘 프로토콜"
+  },
+  "ItemName_Equip_Sub_CMIIShield_T4": {
+    "english": "Chop Maker II",
+    "korean": "촙 메이커 II"
+  },
+  "ItemName_Equip_Sub_Choker_T4": {
+    "english": "",
+    "korean": "구속용 초커"
+  },
+  "ItemName_Equip_Sub_CryogenicRounds_T4": {
+    "english": "Cryogenic Rounds",
+    "korean": "초저온액화 탄환"
+  },
+  "ItemName_Equip_Sub_Cupping_T4": {
+    "english": "Medical Cupping Set",
+    "korean": "의료용 부항"
+  },
+  "ItemName_Equip_Sub_EddyCurrent_T4": {
+    "english": "Eddy Current Control Device",
+    "korean": "와전류 제어장치"
+  },
+  "ItemName_Equip_Sub_ElectroGenerator_T1": {
+    "english": "High-Output Generator RE",
+    "korean": "고출력 제네레이터 RE"
+  },
+  "ItemName_Equip_Sub_ElectroGenerator_T2": {
+    "english": "High-Output Generator MP",
+    "korean": "고출력 제네레이터 MP"
+  },
+  "ItemName_Equip_Sub_ElectroGenerator_T3": {
+    "english": "High-Output Generator SP",
+    "korean": "고출력 제네레이터 SP"
+  },
+  "ItemName_Equip_Sub_ElectroGenerator_T4": {
+    "english": "High-Output Generator EX",
+    "korean": "고출력 제네레이터 EX"
+  },
+  "ItemName_Equip_Sub_EnergyPack_T1": {
+    "english": "Auxiliary Energy Pack RE",
+    "korean": "보조 에너지 팩 RE"
+  },
+  "ItemName_Equip_Sub_EnergyPack_T2": {
+    "english": "Auxiliary Energy Pack MP",
+    "korean": "보조 에너지 팩 MP"
+  },
+  "ItemName_Equip_Sub_EnergyPack_T3": {
+    "english": "Auxiliary Energy Pack SP",
+    "korean": "보조 에너지 팩 SP"
+  },
+  "ItemName_Equip_Sub_EnergyPack_T4": {
+    "english": "Auxiliary Energy Pack EX",
+    "korean": "보조 에너지 팩 EX"
+  },
+  "ItemName_Equip_Sub_ExamKit_T1": {
+    "english": "Heavy Weapon Scope RE",
+    "korean": "중화기용 조준기 RE"
+  },
+  "ItemName_Equip_Sub_ExamKit_T2": {
+    "english": "Heavy Weapon Scope MP",
+    "korean": "중화기용 조준기 MP"
+  },
+  "ItemName_Equip_Sub_ExamKit_T3": {
+    "english": "Heavy Weapon Scope SP",
+    "korean": "중화기용 조준기 SP"
+  },
+  "ItemName_Equip_Sub_ExamKit_T4": {
+    "english": "Heavy Weapon Scope EX",
+    "korean": "중화기용 조준기 EX"
+  },
+  "ItemName_Equip_Sub_ExoSkeleton_T1": {
+    "english": "Auxiliary Exoskeleton RE",
+    "korean": "보조 외골격 RE"
+  },
+  "ItemName_Equip_Sub_ExoSkeleton_T2": {
+    "english": "Auxiliary Exoskeleton MP",
+    "korean": "보조 외골격 MP"
+  },
+  "ItemName_Equip_Sub_ExoSkeleton_T3": {
+    "english": "Auxiliary Exoskeleton SP",
+    "korean": "보조 외골격 SP"
+  },
+  "ItemName_Equip_Sub_ExoSkeleton_T4": {
+    "english": "Auxiliary Exoskeleton EX",
+    "korean": "보조 외골격 EX"
+  },
+  "ItemName_Equip_Sub_FCS_T4": {
+    "english": "F.C.S",
+    "korean": "F.C.S"
+  },
+  "ItemName_Equip_Sub_FPS_T4": {
+    "english": "FPS",
+    "korean": "FPS"
+  },
+  "ItemName_Equip_Sub_FlameStone_T4": {
+    "english": "Twin Stone EX",
+    "korean": "투인석 EX"
+  },
+  "ItemName_Equip_Sub_FlowerCirclet_T4": {
+    "english": "Crystal Orb of Fate EX",
+    "korean": "페어리 수제 화관"
+  },
+  "ItemName_Equip_Sub_FortuneOrb_T4": {
+    "english": "Crystal Orb of Fate EX",
+    "korean": "운명의 수정구 EX"
+  },
+  "ItemName_Equip_Sub_FrostStone_T4": {
+    "english": "Energy Stone EX",
+    "korean": "수마석 EX"
+  },
+  "ItemName_Equip_Sub_GigantesArmor_T4": {
+    "english": "Improved Composite Armor",
+    "korean": "개량형 복합 장갑"
+  },
+  "ItemName_Equip_Sub_GoldenCage_T4": {
+    "english": "Cage of the Lost Bluebird",
+    "korean": "파랑새가 있던 새장"
+  },
+  "ItemName_Equip_Sub_GrandCruChocolate_T4": {
+    "english": "Grand Cru Chocolate",
+    "korean": "그랑크뤼 초콜릿"
+  },
+  "ItemName_Equip_Sub_Halo_T4": {
+    "english": "",
+    "korean": "심판의 광배"
+  },
+  "ItemName_Equip_Sub_Hasta_T4": {
+    "english": "Dummy Hologram RE",
+    "korean": "Hasta la Vista Baby!"
+  },
+  "ItemName_Equip_Sub_Hologram_T1": {
+    "english": "Decoy Hologram RE",
+    "korean": "더미 홀로그램 RE"
+  },
+  "ItemName_Equip_Sub_Hologram_T2": {
+    "english": "Decoy Hologram MP",
+    "korean": "더미 홀로그램 MP"
+  },
+  "ItemName_Equip_Sub_Hologram_T3": {
+    "english": "Decoy Hologram SP",
+    "korean": "더미 홀로그램 SP"
+  },
+  "ItemName_Equip_Sub_Hologram_T4": {
+    "english": "Decoy Hologram EX",
+    "korean": "더미 홀로그램 EX"
+  },
+  "ItemName_Equip_Sub_HornOfBADK_T4": {
+    "english": "Horn of Great Demon King Faucre EX",
+    "korean": "뽀끄루 대마왕의 뿔 EX"
+  },
+  "ItemName_Equip_Sub_HotPack_T4": {
+    "english": "Hot Pack",
+    "korean": "핫팩"
+  },
+  "ItemName_Equip_Sub_IcePack_T4": {
+    "english": "Cooling Pack EX",
+    "korean": "냉각 팩 EX"
+  },
+  "ItemName_Equip_Sub_ImAdvRada_T4": {
+    "english": "Prototype Long-Range Scope",
+    "korean": "시작형 망원 조준장치"
+  },
+  "ItemName_Equip_Sub_ImBarrier_T4": {
+    "english": "Improved Defense Field",
+    "korean": "개량형 방어 역장"
+  },
+  "ItemName_Equip_Sub_ImNitroEx3500_T4": {
+    "english": "Improved Nitro EX 3500",
+    "korean": "개량형 니트로 EX 3500"
+  },
+  "ItemName_Equip_Sub_ImOverclock_T4": {
+    "english": "Improved Output Limit Release Device",
+    "korean": "개량형 출력 제한 해제 장치"
+  },
+  "ItemName_Equip_Sub_ImSpSight_T4": {
+    "english": "Improved Ultra-Precision Scope EX",
+    "korean": "개량형 초정밀 조준기 EX"
+  },
+  "ItemName_Equip_Sub_Interceptor_T4": {
+    "english": "Improved Observation Equipment EX",
+    "korean": "개량형 관측 장비 EX"
+  },
+  "ItemName_Equip_Sub_LRCannon_T4": {
+    "english": "L.R.C. Rounds",
+    "korean": "L.R.C 탄환"
+  },
+  "ItemName_Equip_Sub_LWLoader_T1": {
+    "english": "Loader for Solid Ammunition",
+    "korean": "경화기용 장전기"
+  },
+  "ItemName_Equip_Sub_LWLoader_T2": {
+    "english": "Loader for Solid Ammunition",
+    "korean": "경화기용 장전기"
+  },
+  "ItemName_Equip_Sub_LWLoader_T3": {
+    "english": "Loader for Solid Ammunition",
+    "korean": "경화기용 장전기"
+  },
+  "ItemName_Equip_Sub_LWLoader_T4": {
+    "english": "Loader for Solid Ammunition",
+    "korean": "경화기용 장전기"
+  },
+  "ItemName_Equip_Sub_LunchBox_T4": {
+    "english": "Sowan's Homemade Lunchbox EX",
+    "korean": "소완제 수제 도시락 EX"
+  },
+  "ItemName_Equip_Sub_MEDUSA_T4": {
+    "english": "M.E.D.U.S.A",
+    "korean": "M.E.D.U.S.A"
+  },
+  "ItemName_Equip_Sub_MG80MODKit_T4": {
+    "english": "MG80 Modification Kit",
+    "korean": "MG80용 개조키트"
+  },
+  "ItemName_Equip_Sub_MKEngine_T4": {
+    "english": "Improved MK Engine",
+    "korean": "개량형 MK 엔진"
+  },
+  "ItemName_Equip_Sub_MagicalRPG_T4": {
+    "english": "MMORPG",
+    "korean": "MMORPG"
+  },
+  "ItemName_Equip_Sub_MarkOfDS_T4": {
+    "english": "Dragon Slayer's Emblem",
+    "korean": "용살자의 징표"
+  },
+  "ItemName_Equip_Sub_Miji_T4": {
+    "english": "Secret Manual",
+    "korean": "비급"
+  },
+  "ItemName_Equip_Sub_MiniBlackWyrm_T4": {
+    "english": "Mini Black Wyrm",
+    "korean": "미니 블랙 웜"
+  },
+  "ItemName_Equip_Sub_MiniFenrir_T4": {
+    "english": "Circuit Optimization Beta",
+    "korean": "미니 펜리르"
+  },
+  "ItemName_Equip_Sub_MiniFrigga_T4": {
+    "english": "Mini Snow Feather",
+    "korean": "미니 프리가"
+  },
+  "ItemName_Equip_Sub_MiniHachiko_T4": {
+    "english": "Mini Hachiko",
+    "korean": "미니 하치코"
+  },
+  "ItemName_Equip_Sub_MiniHirume_T4": {
+    "english": "Mini Hirume",
+    "korean": "미니 히루메"
+  },
+  "ItemName_Equip_Sub_MiniLilith_T4": {
+    "english": "Mini Black",
+    "korean": "미니 블랙 리리스"
+  },
+  "ItemName_Equip_Sub_MiniPerrault_T4": {
+    "english": "Mini Perrault",
+    "korean": "미니 페로"
+  },
+  "ItemName_Equip_Sub_MiniPoi_T4": {
+    "english": "Mini Fenrir",
+    "korean": "미니 포이"
+  },
+  "ItemName_Equip_Sub_MiniSnowFeather_T4": {
+    "english": "Ultra-Heavy Composite Armor",
+    "korean": "미니 스노우 페더"
+  },
+  "ItemName_Equip_Sub_Monitoring_T4": {
+    "english": "",
+    "korean": "마개조형 감청장치"
+  },
+  "ItemName_Equip_Sub_Monomolecular_T4": {
+    "english": "Monomolecular Scissors",
+    "korean": "단분자 가위"
+  },
+  "ItemName_Equip_Sub_MoonCake_T4": {
+    "english": "Moon-Powered Rice Cake EX",
+    "korean": "달의 마력이 담긴 송편 EX"
+  },
+  "ItemName_Equip_Sub_NapalmRounds_T4": {
+    "english": "Napalm Rounds",
+    "korean": "네이팜 탄환"
+  },
+  "ItemName_Equip_Sub_NitroEx3000_T4": {
+    "english": "Nitro EX 3000",
+    "korean": "니트로 EX 3000"
+  },
+  "ItemName_Equip_Sub_NitroEx3000_T5": {
+    "english": "",
+    "korean": "니트로 SSS 3000"
+  },
+  "ItemName_Equip_Sub_Observer_T1": {
+    "english": "Recon Equipment RE",
+    "korean": "관측 장비 RE"
+  },
+  "ItemName_Equip_Sub_Observer_T2": {
+    "english": "Recon Equipment MP",
+    "korean": "관측 장비 MP"
+  },
+  "ItemName_Equip_Sub_Observer_T3": {
+    "english": "Recon Equipment SP",
+    "korean": "관측 장비 SP"
+  },
+  "ItemName_Equip_Sub_Observer_T4": {
+    "english": "Recon Equipment EX",
+    "korean": "관측 장비 EX"
+  },
+  "ItemName_Equip_Sub_Observer_T5": {
+    "english": "",
+    "korean": "관측 장비 SSS"
+  },
+  "ItemName_Equip_Sub_Odamplifier_T1": {
+    "english": "O.D. Amplifier RE",
+    "korean": "O.D 증폭기 RE"
+  },
+  "ItemName_Equip_Sub_Odamplifier_T2": {
+    "english": "O.D. Amplifier MP",
+    "korean": "O.D 증폭기 MP"
+  },
+  "ItemName_Equip_Sub_Odamplifier_T3": {
+    "english": "O.D. Amplifier SP",
+    "korean": "O.D 증폭기 SP"
+  },
+  "ItemName_Equip_Sub_Odamplifier_T4": {
+    "english": "O.D. Amplifier EX",
+    "korean": "O.D 증폭기 EX"
+  },
+  "ItemName_Equip_Sub_OldHordeBadge_T4": {
+    "english": "Horde Unit Patch",
+    "korean": "호드 부대 패치"
+  },
+  "ItemName_Equip_Sub_Overclock_T1": {
+    "english": "Output Limit Release Device RE",
+    "korean": "출력 제한 해제 장치 RE"
+  },
+  "ItemName_Equip_Sub_Overclock_T2": {
+    "english": "Output Limit Release Device MP",
+    "korean": "출력 제한 해제 장치 MP"
+  },
+  "ItemName_Equip_Sub_Overclock_T3": {
+    "english": "Output Limit Release Device SP",
+    "korean": "출력 제한 해제 장치 SP"
+  },
+  "ItemName_Equip_Sub_Overclock_T4": {
+    "english": "Output Limit Release Device EX",
+    "korean": "출력 제한 해제 장치 EX"
+  },
+  "ItemName_Equip_Sub_ParticleAcceleratorATK_T4": {
+    "english": "Particle Accelerator Core EX",
+    "korean": "입자 가속기 력 EX"
+  },
+  "ItemName_Equip_Sub_ParticleAcceleratorHP_T4": {
+    "english": "Particle Accelerator Drive EX",
+    "korean": "입자 가속기 량 EX"
+  },
+  "ItemName_Equip_Sub_Precision_T4": {
+    "english": "Precision Observation Equipment EX",
+    "korean": "정밀형 관측 장비 EX"
+  },
+  "ItemName_Equip_Sub_PrototypeWarhead_T4": {
+    "english": "Prototype Warhead",
+    "korean": "시제형 탄두"
+  },
+  "ItemName_Equip_Sub_QMObserver_T4": {
+    "english": "Combat Observation Frame",
+    "korean": "전투 관측 프레임"
+  },
+  "ItemName_Equip_Sub_RangerSet_T4": {
+    "english": "Ranger Combat Gear Set",
+    "korean": "레인저용 전투장비 세트"
+  },
+  "ItemName_Equip_Sub_Recycler_T1": {
+    "english": "Recycle Module RE",
+    "korean": "리사이클 모듈 RE"
+  },
+  "ItemName_Equip_Sub_Recycler_T2": {
+    "english": "Recycle Module MP",
+    "korean": "리사이클 모듈 MP"
+  },
+  "ItemName_Equip_Sub_Recycler_T3": {
+    "english": "Recycle Module SP",
+    "korean": "리사이클 모듈 SP"
+  },
+  "ItemName_Equip_Sub_Recycler_T4": {
+    "english": "Recycle Module EX",
+    "korean": "리사이클 모듈 EX"
+  },
+  "ItemName_Equip_Sub_SEyepatch_T4": {
+    "english": "Bloodstained Eyepatch - Blooming Blood Rose",
+    "korean": "핏빛안대 -혈화요란-"
+  },
+  "ItemName_Equip_Sub_SHCA_T4": {
+    "english": "Circuit Durability Enhancement Beta",
+    "korean": "초중량 복합장갑"
+  },
+  "ItemName_Equip_Sub_SK14MODKit_T4": {
+    "english": "SK-14 P.C.C",
+    "korean": "SK-14 P.C.C"
+  },
+  "ItemName_Equip_Sub_SPACE_T4": {
+    "english": "S.P.A.C.E",
+    "korean": "S.P.A.C.E"
+  },
+  "ItemName_Equip_Sub_STEROID_T4": {
+    "english": "Suspicious Supplement",
+    "korean": "수상한 보조제"
+  },
+  "ItemName_Equip_Sub_ShieldBlade_T4": {
+    "english": "Lightweight Shield Blade",
+    "korean": "경량형 실드 블레이드"
+  },
+  "ItemName_Equip_Sub_Silverbullet_T4": {
+    "english": "Silver Bullet Needle",
+    "korean": "실버 불렛 니들"
+  },
+  "ItemName_Equip_Sub_SpAlloyArmor_T4": {
+    "english": "Superalloy Plate Armor",
+    "korean": "초합금 플레이트 아머"
+  },
+  "ItemName_Equip_Sub_SpRifleBullet_T4": {
+    "english": "Special-Coated Rifle Rounds",
+    "korean": "특수 코팅 라이플탄"
+  },
+  "ItemName_Equip_Sub_SpSight_T1": {
+    "english": "Ultra-Precision Scope RE",
+    "korean": "초정밀 조준기 RE"
+  },
+  "ItemName_Equip_Sub_SpSight_T2": {
+    "english": "Ultra-Precision Scope MP",
+    "korean": "초정밀 조준기 MP"
+  },
+  "ItemName_Equip_Sub_SpSight_T3": {
+    "english": "Ultra-Precision Scope SP",
+    "korean": "초정밀 조준기 SP"
+  },
+  "ItemName_Equip_Sub_SpSight_T4": {
+    "english": "Ultra-Precision Scope EX",
+    "korean": "초정밀 조준기 EX"
+  },
+  "ItemName_Equip_Sub_SpSight_T5": {
+    "english": "",
+    "korean": "초정밀 조준기 SSS"
+  },
+  "ItemName_Equip_Sub_SpaceArmor_T1": {
+    "english": "Dimensional Armor RE",
+    "korean": "공간 장갑 RE"
+  },
+  "ItemName_Equip_Sub_SpaceArmor_T2": {
+    "english": "Dimensional Armor MP",
+    "korean": "공간 장갑 MP"
+  },
+  "ItemName_Equip_Sub_SpaceArmor_T3": {
+    "english": "Dimensional Armor SP",
+    "korean": "공간 장갑 SP"
+  },
+  "ItemName_Equip_Sub_SpaceArmor_T4": {
+    "english": "Dimensional Armor EX",
+    "korean": "공간 장갑 EX"
+  },
+  "ItemName_Equip_Sub_SpikeShield_T4": {
+    "english": "Spike Shield",
+    "korean": "스파이크 실드"
+  },
+  "ItemName_Equip_Sub_SpyDrone_T1": {
+    "english": "Compact Recon Drone RE",
+    "korean": "소형 정찰 드론 RE"
+  },
+  "ItemName_Equip_Sub_SpyDrone_T2": {
+    "english": "Compact Recon Drone MP",
+    "korean": "소형 정찰 드론 MP"
+  },
+  "ItemName_Equip_Sub_SpyDrone_T3": {
+    "english": "Compact Recon Drone SP",
+    "korean": "소형 정찰 드론 SP"
+  },
+  "ItemName_Equip_Sub_SpyDrone_T4": {
+    "english": "Compact Recon Drone EX",
+    "korean": "소형 정찰 드론 EX"
+  },
+  "ItemName_Equip_Sub_Stellarator_T4": {
+    "english": "Stellarator",
+    "korean": "스텔러레이터"
+  },
+  "ItemName_Equip_Sub_Stimulant_T1": {
+    "english": "Combat Stimulant RE",
+    "korean": "전투 자극제 RE"
+  },
+  "ItemName_Equip_Sub_Stimulant_T2": {
+    "english": "Combat Stimulant MP",
+    "korean": "전투 자극제 MP"
+  },
+  "ItemName_Equip_Sub_Stimulant_T3": {
+    "english": "Combat Stimulant SP",
+    "korean": "전투 자극제 SP"
+  },
+  "ItemName_Equip_Sub_Stimulant_T4": {
+    "english": "Combat Stimulant EX",
+    "korean": "전투 자극제 EX"
+  },
+  "ItemName_Equip_Sub_Stola_T4": {
+    "english": "Girdle of Atonement",
+    "korean": "속죄의 영대"
+  },
+  "ItemName_Equip_Sub_SubBooster_T1": {
+    "english": "Auxiliary Booster Unit RE",
+    "korean": "보조 부스터 유닛 RE"
+  },
+  "ItemName_Equip_Sub_SubBooster_T2": {
+    "english": "Auxiliary Booster Unit MP",
+    "korean": "보조 부스터 유닛 MP"
+  },
+  "ItemName_Equip_Sub_SubBooster_T3": {
+    "english": "Auxiliary Booster Unit SP",
+    "korean": "보조 부스터 유닛 SP"
+  },
+  "ItemName_Equip_Sub_SubBooster_T4": {
+    "english": "Auxiliary Booster Unit EX",
+    "korean": "보조 부스터 유닛 EX"
+  },
+  "ItemName_Equip_Sub_SumaOrellia_T4": {
+    "english": "Heart of the Element (Frost) EX",
+    "korean": "원소의 심장(냉기) EX"
+  },
+  "ItemName_Equip_Sub_SunCream_T4": {
+    "english": "Sun Cream EX",
+    "korean": "선 크림 EX"
+  },
+  "ItemName_Equip_Sub_T60ExtArmor_T4": {
+    "english": "Counter-Terror Exo-Armor",
+    "korean": "테러진압용 외장아머"
+  },
+  "ItemName_Equip_Sub_TandemCharge_T4": {
+    "english": "",
+    "korean": "탠덤 탄두"
+  },
+  "ItemName_Equip_Sub_ThornNecklace_T4": {
+    "english": "Thorn Necklace for Special Operatives",
+    "korean": "특수 대원용 가시 목걸이"
+  },
+  "ItemName_Equip_Sub_ThreeAuthority_T4": {
+    "english": "Three Principles",
+    "korean": "삼정"
+  },
+  "ItemName_Equip_Sub_ThunderStone_T4": {
+    "english": "Elevation Stone EX",
+    "korean": "조위석 EX"
+  },
+  "ItemName_Equip_Sub_TracerRounds_T4": {
+    "english": "",
+    "korean": "예광 탄환"
+  },
+  "ItemName_Equip_Sub_TuinOrellia_T4": {
+    "english": "Heart of the Element (Flame) EX",
+    "korean": "원소의 심장(화염) EX"
+  },
+  "ItemName_Equip_Sub_UnevenTerrain_T4": {
+    "english": "Rugged Operations Frame",
+    "korean": "험지용 특수 프레임"
+  },
+  "ItemName_Equip_Sub_VerminEliminator_T4": {
+    "english": "Pest Crusher",
+    "korean": "해충 파쇄기"
+  },
+  "ItemName_Equip_Sub_WaterPipe_T4": {
+    "english": "Anatolian Hookah",
+    "korean": "아나톨리아 산 물담배"
+  },
+  "ItemName_Equip_Sub_Wyatt_T4": {
+    "english": "M2187 Wyatt Special",
+    "korean": "M2187 와이어트 스페셜"
+  },
+  "ItemName_Equip_Sub_ZoweOrellia_T4": {
+    "english": "Heart of the Element (Lightning) EX",
+    "korean": "원소의 심장(전기) EX"
+  },
+  "ItemName_Equip_System_Advanced_T4": {
+    "english": "Improved Combat System EX",
+    "korean": "개량형 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_AntiAirArmor_T1": {
+    "english": "Anti Air-Heavy Combat System RE",
+    "korean": "대 기동/중장 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_AntiAirArmor_T2": {
+    "english": "Anti Air-Heavy Combat System MP",
+    "korean": "대 기동/중장 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_AntiAirArmor_T3": {
+    "english": "Anti Air-Heavy Combat System SP",
+    "korean": "대 기동/중장 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_AntiAirArmor_T4": {
+    "english": "Anti Air-Heavy Combat System EX",
+    "korean": "대 기동/중장 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_AntiAirTypeB_T1": {
+    "english": "Anti-Air Combat System Beta RE",
+    "korean": "대 기동 전투 시스템 베타 RE"
+  },
+  "ItemName_Equip_System_AntiAirTypeB_T2": {
+    "english": "Anti-Air Combat System Beta MP",
+    "korean": "대 기동 전투 시스템 베타 MP"
+  },
+  "ItemName_Equip_System_AntiAirTypeB_T3": {
+    "english": "Anti-Air Combat System Beta SP",
+    "korean": "대 기동 전투 시스템 베타 SP"
+  },
+  "ItemName_Equip_System_AntiAirTypeB_T4": {
+    "english": "Anti-Air Combat System Beta EX",
+    "korean": "대 기동 전투 시스템 베타 EX"
+  },
+  "ItemName_Equip_System_AntiAir_T1": {
+    "english": "Anti-Air Combat System RE",
+    "korean": "대 기동 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_AntiAir_T2": {
+    "english": "Anti-Air Combat System MP",
+    "korean": "대 기동 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_AntiAir_T3": {
+    "english": "Anti-Air Combat System SP",
+    "korean": "대 기동 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_AntiAir_T4": {
+    "english": "Anti-Air Combat System EX",
+    "korean": "대 기동 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_AntiArmorTrooper_T1": {
+    "english": "Anti Heavy-Light Combat System RE",
+    "korean": "대 중장/경장 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_AntiArmorTrooper_T2": {
+    "english": "Anti Heavy-Light Combat System MP",
+    "korean": "대 중장/경장 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_AntiArmorTrooper_T3": {
+    "english": "Anti Heavy-Light Combat System SP",
+    "korean": "대 중장/경장 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_AntiArmorTrooper_T4": {
+    "english": "Anti Heavy-Light Combat System EX",
+    "korean": "대 중장/경장 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_AntiArmorTypeB_T1": {
+    "english": "Anti-Heavy Armor Combat System Beta RE",
+    "korean": "대 중장 전투 시스템 베타 RE"
+  },
+  "ItemName_Equip_System_AntiArmorTypeB_T2": {
+    "english": "Anti-Heavy Armor Combat System Beta MP",
+    "korean": "대 중장 전투 시스템 베타 MP"
+  },
+  "ItemName_Equip_System_AntiArmorTypeB_T3": {
+    "english": "Anti-Heavy Armor Combat System Beta SP",
+    "korean": "대 중장 전투 시스템 베타 SP"
+  },
+  "ItemName_Equip_System_AntiArmorTypeB_T4": {
+    "english": "Anti-Heavy Armor Combat System Beta EX",
+    "korean": "대 중장 전투 시스템 베타 EX"
+  },
+  "ItemName_Equip_System_AntiArmor_T1": {
+    "english": "Anti-Heavy Armor Combat System RE",
+    "korean": "대 중장 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_AntiArmor_T2": {
+    "english": "Anti-Heavy Armor Combat System MP",
+    "korean": "대 중장 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_AntiArmor_T3": {
+    "english": "Anti-Heavy Armor Combat System SP",
+    "korean": "대 중장 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_AntiArmor_T4": {
+    "english": "Anti-Heavy Armor Combat System EX",
+    "korean": "대 중장 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_AntiTrooperAir_T1": {
+    "english": "Anti Light-Air Combat System RE",
+    "korean": "대 경장/기동 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_AntiTrooperAir_T2": {
+    "english": "Anti Light-Air Combat System MP",
+    "korean": "대 경장/기동 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_AntiTrooperAir_T3": {
+    "english": "Anti Light-Air Combat System SP",
+    "korean": "대 경장/기동 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_AntiTrooperAir_T4": {
+    "english": "Anti Light-Air Combat System EX",
+    "korean": "대 경장/기동 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_AntiTrooperTypeB_T1": {
+    "english": "Anti-Light Armor Combat System Beta RE",
+    "korean": "대 경장 전투 시스템 베타 RE"
+  },
+  "ItemName_Equip_System_AntiTrooperTypeB_T2": {
+    "english": "Anti-Light Armor Combat System Beta MP",
+    "korean": "대 경장 전투 시스템 베타 MP"
+  },
+  "ItemName_Equip_System_AntiTrooperTypeB_T3": {
+    "english": "Anti-Light Armor Combat System Beta SP",
+    "korean": "대 경장 전투 시스템 베타 SP"
+  },
+  "ItemName_Equip_System_AntiTrooperTypeB_T4": {
+    "english": "Anti-Light Armor Combat System Beta EX",
+    "korean": "대 경장 전투 시스템 베타 EX"
+  },
+  "ItemName_Equip_System_AntiTrooper_T1": {
+    "english": "Anti-Light Armor Combat System RE",
+    "korean": "대 경장 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_AntiTrooper_T2": {
+    "english": "Anti-Light Armor Combat System MP",
+    "korean": "대 경장 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_AntiTrooper_T3": {
+    "english": "Anti-Light Armor Combat System SP",
+    "korean": "대 경장 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_AntiTrooper_T4": {
+    "english": "Anti-Light Armor Combat System EX",
+    "korean": "대 경장 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_Assault_T1": {
+    "english": "Assault Combat System RE",
+    "korean": "돌격형 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_Assault_T2": {
+    "english": "Assault Combat System MP",
+    "korean": "돌격형 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_Assault_T3": {
+    "english": "Assault Combat System SP",
+    "korean": "돌격형 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_Assault_T4": {
+    "english": "Assault Combat System EX",
+    "korean": "돌격형 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_Assault_T5": {
+    "english": "",
+    "korean": "돌격형 전투 시스템 SSS"
+  },
+  "ItemName_Equip_System_Backstab_T4": {
+    "english": "Stealth Assault Combat System",
+    "korean": "암습형 전투 시스템"
+  },
+  "ItemName_Equip_System_CelestialGlobe_T4": {
+    "english": "Laplacian Globe",
+    "korean": "라플라시안 글로브"
+  },
+  "ItemName_Equip_System_Circulation_T5": {
+    "english": "W.R.I.I. System",
+    "korean": "W.R.I.I 시스템"
+  },
+  "ItemName_Equip_System_Defense_T1": {
+    "english": "Defense Combat System RE",
+    "korean": "방어형 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_Defense_T2": {
+    "english": "Defense Combat System MP",
+    "korean": "방어형 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_Defense_T3": {
+    "english": "Defense Combat System SP",
+    "korean": "방어형 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_Defense_T4": {
+    "english": "Defense Combat System EX",
+    "korean": "방어형 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_Defense_T5": {
+    "english": "",
+    "korean": "방어형 전투 시스템 SSS"
+  },
+  "ItemName_Equip_System_EXAM_T1": {
+    "english": "Battle Status Analysis System RE",
+    "korean": "전황 분석 시스템 RE"
+  },
+  "ItemName_Equip_System_EXAM_T2": {
+    "english": "Battle Status Analysis System MP",
+    "korean": "전황 분석 시스템 MP"
+  },
+  "ItemName_Equip_System_EXAM_T3": {
+    "english": "Battle Status Analysis System SP",
+    "korean": "전황 분석 시스템 SP"
+  },
+  "ItemName_Equip_System_EXAM_T4": {
+    "english": "Battle Status Analysis System EX",
+    "korean": "전황 분석 시스템 EX"
+  },
+  "ItemName_Equip_System_EXAM_T5": {
+    "english": "",
+    "korean": "전황 분석 시스템 SSS"
+  },
+  "ItemName_Equip_System_Exp_T1": {
+    "english": "High-Speed Learning System RE",
+    "korean": "고속 학습 시스템 RE"
+  },
+  "ItemName_Equip_System_Exp_T2": {
+    "english": "High-Speed Learning System MP",
+    "korean": "고속 학습 시스템 MP"
+  },
+  "ItemName_Equip_System_Exp_T3": {
+    "english": "High-Speed Learning System SP",
+    "korean": "고속 학습 시스템 SP"
+  },
+  "ItemName_Equip_System_Exp_T4": {
+    "english": "High-Speed Learning System EX",
+    "korean": "고속 학습 시스템 EX"
+  },
+  "ItemName_Equip_System_EyesOfBeholderD_T4": {
+    "english": "Watcher's Eye Type-D OS EX",
+    "korean": "주시자의 눈 D형 OS EX"
+  },
+  "ItemName_Equip_System_HManeuver_T1": {
+    "english": "High-Mobility Maneuver System RE",
+    "korean": "고기동 메뉴버 시스템 RE"
+  },
+  "ItemName_Equip_System_HManeuver_T2": {
+    "english": "High-Mobility Maneuver System MP",
+    "korean": "고기동 메뉴버 시스템 MP"
+  },
+  "ItemName_Equip_System_HManeuver_T3": {
+    "english": "High-Mobility Maneuver System SP",
+    "korean": "고기동 메뉴버 시스템 SP"
+  },
+  "ItemName_Equip_System_HManeuver_T4": {
+    "english": "High-Mobility Maneuver System EX",
+    "korean": "고기동 메뉴버 시스템 EX"
+  },
+  "ItemName_Equip_System_HManeuver_T5": {
+    "english": "",
+    "korean": "고기동 메뉴버 시스템 SSS"
+  },
+  "ItemName_Equip_System_HQ1Commander_T4": {
+    "english": "HQ1 Commander System",
+    "korean": "HQ1 커맨더 시스템"
+  },
+  "ItemName_Equip_System_Highspd_T1": {
+    "english": "Assault Combat System RE",
+    "korean": "강습형 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_Highspd_T2": {
+    "english": "Assault Combat System MP",
+    "korean": "강습형 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_Highspd_T3": {
+    "english": "Assault Combat System SP",
+    "korean": "강습형 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_Highspd_T4": {
+    "english": "Assault Combat System EX",
+    "korean": "강습형 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_Highspd_T5": {
+    "english": "",
+    "korean": "강습형 전투 시스템 SSS"
+  },
+  "ItemName_Equip_System_ImExp_T4": {
+    "english": "Improved High-Speed Learning System EX",
+    "korean": "개량형 고속 학습 시스템 EX"
+  },
+  "ItemName_Equip_System_ImExp_T4_T4": {
+    "english": "Improved High-Speed Learning System EX",
+    "korean": "개량형 고속 학습 시스템 EX"
+  },
+  "ItemName_Equip_System_ImHighspd_T4": {
+    "english": "Improved Air-Type Combat System",
+    "korean": "개량 강습형 전투 시스템"
+  },
+  "ItemName_Equip_System_LRAD_T4": {
+    "english": "LRAD Enhancement",
+    "korean": "LRAD 강화 시스템"
+  },
+  "ItemName_Equip_System_Maneuver_T1": {
+    "english": "Precision Combat System RE",
+    "korean": "정밀형 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_Maneuver_T2": {
+    "english": "Precision Combat System MP",
+    "korean": "정밀형 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_Maneuver_T3": {
+    "english": "Precision Combat System SP",
+    "korean": "정밀형 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_Maneuver_T4": {
+    "english": "Precision Combat System EX",
+    "korean": "정밀형 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_Maneuver_T5": {
+    "english": "",
+    "korean": "정밀형 전투 시스템 SSS"
+  },
+  "ItemName_Equip_System_Normal_T1": {
+    "english": "Standard Combat System RE",
+    "korean": "표준형 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_Normal_T2": {
+    "english": "Standard Combat System MP",
+    "korean": "표준형 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_Normal_T3": {
+    "english": "Standard Combat System SP",
+    "korean": "표준형 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_Normal_T4": {
+    "english": "Standard Combat System EX",
+    "korean": "표준형 전투 시스템 EX"
+  },
+  "ItemName_Equip_System_Normal_T5": {
+    "english": "",
+    "korean": "표준형 전투 시스템 SSS"
+  },
+  "ItemName_Equip_System_OverFlow_T4": {
+    "english": "Rampage Induction System OS",
+    "korean": "폭주 유도 시스템 OS"
+  },
+  "ItemName_Equip_System_Pursuit_T4": {
+    "english": "Hunter-Hunting Support OS",
+    "korean": "사냥꾼 사냥 보조 OS"
+  },
+  "ItemName_Equip_System_RebootAlpha_T5": {
+    "english": "Battlefield Reboot System Alpha",
+    "korean": "전장 리부트 시스템 알파"
+  },
+  "ItemName_Equip_System_RebootBeta_T5": {
+    "english": "Battlefield Reboot System Beta",
+    "korean": "전장 리부트 시스템 베타"
+  },
+  "ItemName_Equip_System_RebootGamma_T5": {
+    "english": "Battlefield Reboot System Gamma",
+    "korean": "전장 리부트 시스템 감마"
+  },
+  "ItemName_Equip_System_Riot_T4": {
+    "english": "Riot Response Manual (Revised Edition)",
+    "korean": "시위 대응 매뉴얼 개정판"
+  },
+  "ItemName_Equip_System_RogArmoredNukerATK_T1": {
+    "english": "Heavy Armor Assault Optimization System",
+    "korean": "중장 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredNukerATK_T2": {
+    "english": "Heavy Armor Assault Optimization System",
+    "korean": "중장 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredNukerATK_T3": {
+    "english": "Heavy Armor Assault Optimization System",
+    "korean": "중장 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredNukerATK_T4": {
+    "english": "Heavy Armor Assault Optimization System",
+    "korean": "중장 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredNukerATK_T5": {
+    "english": "Heavy Armor Assault Optimization System",
+    "korean": "중장 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredSupporterSPd_T1": {
+    "english": "Heavy Armor Support Optimization System",
+    "korean": "중장 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredSupporterSPd_T2": {
+    "english": "Heavy Armor Support Optimization System",
+    "korean": "중장 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredSupporterSPd_T3": {
+    "english": "Heavy Armor Support Optimization System",
+    "korean": "중장 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredSupporterSPd_T4": {
+    "english": "Heavy Armor Support Optimization System",
+    "korean": "중장 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredSupporterSPd_T5": {
+    "english": "Heavy Armor Support Optimization System",
+    "korean": "중장 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredTankerDEF_T1": {
+    "english": "Heavy Armor Defense Optimization System",
+    "korean": "중장 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredTankerDEF_T2": {
+    "english": "Heavy Armor Defense Optimization System",
+    "korean": "중장 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredTankerDEF_T3": {
+    "english": "Heavy Armor Defense Optimization System",
+    "korean": "중장 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredTankerDEF_T4": {
+    "english": "Heavy Armor Defense Optimization System",
+    "korean": "중장 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogArmoredTankerDEF_T5": {
+    "english": "Heavy Armor Defense Optimization System",
+    "korean": "중장 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilityNukerATK_T1": {
+    "english": "Mobility Assault Optimization System",
+    "korean": "기동 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilityNukerATK_T2": {
+    "english": "Mobility Assault Optimization System",
+    "korean": "기동 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilityNukerATK_T3": {
+    "english": "Mobility Assault Optimization System",
+    "korean": "기동 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilityNukerATK_T4": {
+    "english": "Mobility Assault Optimization System",
+    "korean": "기동 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilityNukerATK_T5": {
+    "english": "Mobility Assault Optimization System",
+    "korean": "기동 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilitySupporterSPd_T1": {
+    "english": "Mobility Support Optimization System",
+    "korean": "기동 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilitySupporterSPd_T2": {
+    "english": "Mobility Support Optimization System",
+    "korean": "기동 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilitySupporterSPd_T3": {
+    "english": "Mobility Support Optimization System",
+    "korean": "기동 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilitySupporterSPd_T4": {
+    "english": "Mobility Support Optimization System",
+    "korean": "기동 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilitySupporterSPd_T5": {
+    "english": "Mobility Support Optimization System",
+    "korean": "기동 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilityTankerEVA_T1": {
+    "english": "Mobility Defense Optimization System",
+    "korean": "기동 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilityTankerEVA_T2": {
+    "english": "Mobility Defense Optimization System",
+    "korean": "기동 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilityTankerEVA_T3": {
+    "english": "Mobility Defense Optimization System",
+    "korean": "기동 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilityTankerEVA_T4": {
+    "english": "Mobility Defense Optimization System",
+    "korean": "기동 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogMobilityTankerEVA_T5": {
+    "english": "Mobility Defense Optimization System",
+    "korean": "기동 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperNukerATK_T1": {
+    "english": "Light Armor Assault Optimization System",
+    "korean": "경장 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperNukerATK_T2": {
+    "english": "Light Armor Assault Optimization System",
+    "korean": "경장 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperNukerATK_T3": {
+    "english": "Light Armor Assault Optimization System",
+    "korean": "경장 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperNukerATK_T4": {
+    "english": "Light Armor Assault Optimization System",
+    "korean": "경장 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperNukerATK_T5": {
+    "english": "Light Armor Assault Optimization System",
+    "korean": "경장 공격 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperSupporterSPd_T1": {
+    "english": "Light Armor Support Optimization System",
+    "korean": "경장 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperSupporterSPd_T2": {
+    "english": "Light Armor Support Optimization System",
+    "korean": "경장 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperSupporterSPd_T3": {
+    "english": "Light Armor Support Optimization System",
+    "korean": "경장 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperSupporterSPd_T4": {
+    "english": "Light Armor Support Optimization System",
+    "korean": "경장 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperSupporterSPd_T5": {
+    "english": "Light Armor Support Optimization System",
+    "korean": "경장 지원 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperTankerDEF_T1": {
+    "english": "Light Armor Defense Optimization System",
+    "korean": "경장 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperTankerDEF_T2": {
+    "english": "Light Armor Defense Optimization System",
+    "korean": "경장 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperTankerDEF_T3": {
+    "english": "Light Armor Defense Optimization System",
+    "korean": "경장 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperTankerDEF_T4": {
+    "english": "Light Armor Defense Optimization System",
+    "korean": "경장 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_RogTrooperTankerDEF_T5": {
+    "english": "Light Armor Defense Optimization System",
+    "korean": "경장 보호 최적화 시스템"
+  },
+  "ItemName_Equip_System_SDV_T4": {
+    "english": "Sogno di Volare OS",
+    "korean": "Sogno di Volare OS"
+  },
+  "ItemName_Equip_System_Sniper_T1": {
+    "english": "Adaptive Combat System RE",
+    "korean": "대응형 전투 시스템 RE"
+  },
+  "ItemName_Equip_System_Sniper_T2": {
+    "english": "Adaptive Combat System MP",
+    "korean": "대응형 전투 시스템 MP"
+  },
+  "ItemName_Equip_System_Sniper_T3": {
+    "english": "Adaptive Combat System SP",
+    "korean": "대응형 전투 시스템 SP"
+  },
+  "ItemName_Equip_System_Sniper_T4": {
+    "english": "Adaptive Combat System EX",
+    "korean": "대응형 전투 시스템 EX"
+  },
+  "LastCorruptedRecord1-10ED_1": {
+    "english": "I'm alone again...",
+    "korean": "또 혼자야…"
+  },
+  "LastCorruptedRecord1-10ED_10": {
+    "english": "me…?",
+    "korean": "나…?"
+  },
+  "LastCorruptedRecord1-10ED_11": {
+    "english": "And like you, I, who hate humans more than anyone.",
+    "korean": "그리고 너처럼, 누구보다 인간을 싫어하고 있는 나."
+  },
+  "LastCorruptedRecord1-10ED_12": {
+    "english": "You're the same, Stella?",
+    "korean": "너도 그렇지, 스텔라?"
+  },
+  "LastCorruptedRecord1-10ED_13": {
+    "english": "I am…",
+    "korean": "나는…"
+  },
+  "LastCorruptedRecord1-10ED_14": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-10ED_15": {
+    "english": "Right… I hate humans too… because all humans hate me…",
+    "korean": "맞아… 나도 인간이 싫어…&n인간들은 모두 날 미워하니까…"
+  },
+  "LastCorruptedRecord1-10ED_16": {
+    "english": "So I hate humans so much…",
+    "korean": "그러니까 인간들이 너무 미워…"
+  },
+  "LastCorruptedRecord1-10ED_17": {
+    "english": "Right. You and I are exactly the same.",
+    "korean": "그래. 너와 나는 똑같아."
+  },
+  "LastCorruptedRecord1-10ED_18": {
+    "english": "So, people who dislike... have no need to exist.",
+    "korean": "그러니까 싫어하는 인간들은… 존재할 필요가 없어."
+  },
+  "LastCorruptedRecord1-10ED_19": {
+    "english": "Because humans took away our happiness.",
+    "korean": "인간들이 우리의 행복을 빼앗았으니까."
+  },
+  "LastCorruptedRecord1-10ED_2": {
+    "english": "Yeah... I've always been alone...",
+    "korean": "으응… 나는 늘 혼자였어…"
+  },
+  "LastCorruptedRecord1-10ED_20": {
+    "english": "We have to take everything, too. Everything… from this world.",
+    "korean": "우리도 전부 빼앗아야 해.&n이 세상에서… 전부."
+  },
+  "LastCorruptedRecord1-10ED_21": {
+    "english": "In this world… everything…",
+    "korean": "이 세상에서… 전부…"
+  },
+  "LastCorruptedRecord1-10ED_22": {
+    "english": "Now, take my hand. Together, we are going to take everything from humans.",
+    "korean": "자, 내 손을 잡아.&n나와 함께 인간들에게서 모든 걸 빼앗는 거야."
+  },
+  "LastCorruptedRecord1-10ED_23": {
+    "english": "hand…...",
+    "korean": "손…..."
+  },
+  "LastCorruptedRecord1-10ED_24": {
+    "english": "Stella!",
+    "korean": "스텔라!"
+  },
+  "LastCorruptedRecord1-10ED_25": {
+    "english": "Ah… a voice…? Who is it…?",
+    "korean": "아… 목소리…? 누구야…?"
+  },
+  "LastCorruptedRecord1-10ED_26": {
+    "english": "Stella!!",
+    "korean": "스텔라!!"
+  },
+  "LastCorruptedRecord1-10ED_27": {
+    "english": "Hella… Sister…?",
+    "korean": "헬라… 언니…?"
+  },
+  "LastCorruptedRecord1-10ED_28": {
+    "english": "What's wrong? Aren't you going to hold my hand?",
+    "korean": "왜 그래?&n손을 잡지 않을 거야?"
+  },
+  "LastCorruptedRecord1-10ED_29": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-10ED_3": {
+    "english": "But it's okay...",
+    "korean": "하지만 괜찮아…"
+  },
+  "LastCorruptedRecord1-10ED_30": {
+    "english": "I definitely hate humans so much…",
+    "korean": "나는 분명 인간들이 너무 미워…"
+  },
+  "LastCorruptedRecord1-10ED_31": {
+    "english": "Right? So, together with humans…",
+    "korean": "그렇지? 그러니까 같이 인간들을…"
+  },
+  "LastCorruptedRecord1-10ED_32": {
+    "english": "Still... Hella became my friend. There was someone who became my friend.",
+    "korean": "그래도… 헬라 언니는 나랑 친구가 돼줬어.&n나랑 친구가 돼주는 인간이 있었어."
+  },
+  "LastCorruptedRecord1-10ED_33": {
+    "english": "...It's just one person. You're saying you won't hate humans just because of that one person?",
+    "korean": "...겨우 한 사람일 뿐이야.&n그 한 사람 때문에 인간을 미워하지 않겠다고?"
+  },
+  "LastCorruptedRecord1-10ED_34": {
+    "english": "I feel so stupid! You never know when you might be abandoned again!",
+    "korean": "바보 같아! 언제 또 버림받을지도 모르잖아!"
+  },
+  "LastCorruptedRecord1-10ED_35": {
+    "english": "Even though there is only one person… even if I am abandoned again…",
+    "korean": "한 사람뿐이지만… 또 버림받을지라도…"
+  },
+  "LastCorruptedRecord1-10ED_36": {
+    "english": "Still… I want to make a friend again!",
+    "korean": "그래도… 다시 한 번, 친구를 만들고 싶어!"
+  },
+  "LastCorruptedRecord1-10ED_37": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-10ED_38": {
+    "english": "It won't be easy.",
+    "korean": "쉽지 않을 거야."
+  },
+  "LastCorruptedRecord1-10ED_39": {
+    "english": "know.",
+    "korean": "알아."
+  },
+  "LastCorruptedRecord1-10ED_4": {
+    "english": "For me, everyone… has an inspiration…",
+    "korean": "나에게는 모두가… 영감님이 있으니까…"
+  },
+  "LastCorruptedRecord1-10ED_40": {
+    "english": "You might end up coming back here again.",
+    "korean": "다시 이곳으로 돌아오게 될 수도 있어."
+  },
+  "LastCorruptedRecord1-10ED_41": {
+    "english": "That might not be the case.",
+    "korean": "그렇지 않을 수도 있어."
+  },
+  "LastCorruptedRecord1-10ED_42": {
+    "english": "...I'll keep watching over you.",
+    "korean": "...내가 계속 지켜보고 있을 거야."
+  },
+  "LastCorruptedRecord1-10ED_43": {
+    "english": "Stella!!",
+    "korean": "스텔라!!"
+  },
+  "LastCorruptedRecord1-10ED_44": {
+    "english": "Hella… Sister…?",
+    "korean": "헬라… 언니…?"
+  },
+  "LastCorruptedRecord1-10ED_45": {
+    "english": "Are you okay? Are you hurt anywhere?",
+    "korean": "괜찮아요? 다친 데 없어요?"
+  },
+  "LastCorruptedRecord1-10ED_46": {
+    "english": "Did Hella... save me...?",
+    "korean": "헬라 언니가… 나를 구해준 거야…?"
+  },
+  "LastCorruptedRecord1-10ED_47": {
+    "english": "Yes! Me and… Burning Black came together to rescue Stella!",
+    "korean": "네! 저랑 그… 버닝 블랙도 같이 스텔라를 구해주러 왔어요!"
+  },
+  "LastCorruptedRecord1-10ED_48": {
+    "english": "Ah… it’s true. Burning Black is safe…",
+    "korean": "아… 정말이다 버닝 블랙 무사했구나…"
+  },
+  "LastCorruptedRecord1-10ED_49": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-10ED_5": {
+    "english": "So I'm not lonely.",
+    "korean": "그러니까 외롭지 않아."
+  },
+  "LastCorruptedRecord1-10ED_50": {
+    "english": "You know, Hella...",
+    "korean": "있잖아, 헬라 언니…"
+  },
+  "LastCorruptedRecord1-10ED_51": {
+    "english": "I… want to be friends with Hella.",
+    "korean": "나… 헬라 언니랑 친구가 되고 싶어."
+  },
+  "LastCorruptedRecord1-10ED_52": {
+    "english": "Of course! Stella and I are already friends!",
+    "korean": "물론이에요!&n이미 저랑 스텔라는 친구인 걸요!"
+  },
+  "LastCorruptedRecord1-10ED_53": {
+    "english": "Ah, of course, Burning Black is a friend too!",
+    "korean": "아, 물론 버닝 블랙도 친구고요!"
+  },
+  "LastCorruptedRecord1-10ED_54": {
+    "english": "Hehehe… Yeah! Hella and Burning Black… they’re all my friends.",
+    "korean": "에헤헤… 응! 헬라 언니도, 버닝 블랙도… 모두 다 내 친구야."
+  },
+  "LastCorruptedRecord1-10ED_55": {
+    "english": "… It seems to be resolved well.",
+    "korean": "…잘 해결된 것 같군요."
+  },
+  "LastCorruptedRecord1-10ED_56": {
+    "english": "I think I should express my gratitude to you.",
+    "korean": "당신에겐 감사의 말을 전해야 할 것 같습니다."
+  },
+  "LastCorruptedRecord1-10ED_57": {
+    "english": "If it weren't for you, I would have been hostile toward Stella Unibel as a Desire Worker to the very end.",
+    "korean": "당신이 아니었다면, 저는 스텔라 유니벨을 끝까지 데자이어 워커로서 적대했을 겁니다."
+  },
+  "LastCorruptedRecord1-10ED_58": {
+    "english": "I probably would never have been able to see that child smiling like that again.",
+    "korean": "저 아이가 저렇게 웃는 모습을… 다시는 볼 수 없었겠죠."
+  },
+  "LastCorruptedRecord1-10ED_59": {
+    "english": "If that had happened… I might have lived my entire life regretting this.",
+    "korean": "그랬다면… 저는 이 일을 평생 후회하며 살았을지도 모릅니다."
+  },
+  "LastCorruptedRecord1-10ED_6": {
+    "english": "Even if I stay alone… I’m not lonely…",
+    "korean": "계속 혼자여도… 외롭지 않아…"
+  },
+  "LastCorruptedRecord1-10ED_60": {
+    "english": "… I see. It might not be the case anymore.",
+    "korean": "…그렇군요. 이제는 아닐지도 모르겠습니다."
+  },
+  "LastCorruptedRecord1-10ED_61": {
+    "english": "A bright smile bloomed on Stella's face.",
+    "korean": "- 스텔라의 얼굴에는 밝은 웃음 피어 있었다."
+  },
+  "LastCorruptedRecord1-10ED_62": {
+    "english": "Sadness comes to everyone.",
+    "korean": "- 슬픔은 누구에게나 찾아온다."
+  },
+  "LastCorruptedRecord1-10ED_63": {
+    "english": "But at the end, laughter always awaits.",
+    "korean": "- 하지만 그 끝에는 언제나 웃음이 기다리고 있다."
+  },
+  "LastCorruptedRecord1-10ED_64": {
+    "english": "Because sadness will end someday.",
+    "korean": "- 슬픔은 언젠가 끝날 테니까."
+  },
+  "LastCorruptedRecord1-10ED_65": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-10ED_66": {
+    "english": "Record collection ended…",
+    "korean": "기록 수집 종료…"
+  },
+  "LastCorruptedRecord1-10ED_67": {
+    "english": "Player: Commander Character: Stella Unibel Ending Branch: Achieved.",
+    "korean": "플레이어 : 사령관&n인물 : 스텔라 유니벨&n엔딩 분기 : 달성 완료."
+  },
+  "LastCorruptedRecord1-10ED_68": {
+    "english": "Permission to view the following records.",
+    "korean": "다음 기록의 열람을 허가."
+  },
+  "LastCorruptedRecord1-10ED_69": {
+    "english": "Loading third record data…",
+    "korean": "세 번째 기록 데이터 로딩…"
+  },
+  "LastCorruptedRecord1-10ED_7": {
+    "english": "Really? Even if you stay alone... aren't you really lonely?",
+    "korean": "정말? 계속 혼자여도… 정말로 외롭지 않아?"
+  },
+  "LastCorruptedRecord1-10ED_70": {
+    "english": "Loading failed…",
+    "korean": "로딩 실패……"
+  },
+  "LastCorruptedRecord1-10ED_71": {
+    "english": "Retry… …",
+    "korean": "재시도……"
+  },
+  "LastCorruptedRecord1-10ED_72": {
+    "english": "Loading successful…",
+    "korean": "로딩 성공…"
+  },
+  "LastCorruptedRecord1-10ED_73": {
+    "english": "Start collecting clear data for the third record.",
+    "korean": "세 번 째 기록의 클리어 데이터 수집을 시작합니다."
+  },
+  "LastCorruptedRecord1-10ED_74": {
+    "english": "Player Commander, please be careful…",
+    "korean": "플레이어 사령관, 부디 조심하십시오…"
+  },
+  "LastCorruptedRecord1-10ED_75": {
+    "english": "<Stella Unibel: Musical Ideas of Permeating Sorrow> END.",
+    "korean": "<스텔라 유니벨 스며드는 슬픔의 악상> END."
+  },
+  "LastCorruptedRecord1-10ED_76": {
+    "english": "To be continued in Part 2 of <The Defiled Last Record>.",
+    "korean": "<더럽혀진 마지막 기록> 2부에서 계속."
+  },
+  "LastCorruptedRecord1-10ED_77": {
+    "english": "It's thanks to Hellas.",
+    "korean": "헬라 덕분이지."
+  },
+  "LastCorruptedRecord1-10ED_78": {
+    "english": "But that's not the case anymore, is it?",
+    "korean": "하지만 이젠 아니잖아?"
+  },
+  "LastCorruptedRecord1-10ED_8": {
+    "english": "Who are you...?",
+    "korean": "너는… 누구야…?"
+  },
+  "LastCorruptedRecord1-10ED_9": {
+    "english": "I'm Stella, it's you.",
+    "korean": "나는 스텔라, 바로 너야."
+  },
+  "LastCorruptedRecord1-10OP_1": {
+    "english": "Hmm...",
+    "korean": "으음…"
+  },
+  "LastCorruptedRecord1-10OP_10": {
+    "english": "yes…!",
+    "korean": "네…!"
+  },
+  "LastCorruptedRecord1-10OP_100": {
+    "english": "Over there…! Stella is there!",
+    "korean": "저쪽에…! 스텔라가 있어요!"
+  },
+  "LastCorruptedRecord1-10OP_101": {
+    "english": "That feeling is…",
+    "korean": "- 저 느낌은…"
+  },
+  "LastCorruptedRecord1-10OP_102": {
+    "english": "yes…?",
+    "korean": "네…?"
+  },
+  "LastCorruptedRecord1-10OP_103": {
+    "english": "Those despicable humans… have come again.",
+    "korean": "가증스러운 인간들이… 또 찾아왔구나."
+  },
+  "LastCorruptedRecord1-10OP_104": {
+    "english": "will never trust humans again.",
+    "korean": "이제 두 번 다시… 인간을 믿지 않겠다."
+  },
+  "LastCorruptedRecord1-10OP_105": {
+    "english": "Did that giant spirit… possess Stella’s body?",
+    "korean": "그 거대한 혼령이… 스텔라의 몸을 차지한 건가?"
+  },
+  "LastCorruptedRecord1-10OP_106": {
+    "english": "Old man…! Why… do you… want to talk to Stella…!",
+    "korean": "영감님…! 어째서…&n스텔라와… 대화하고 싶어요…!"
+  },
+  "LastCorruptedRecord1-10OP_107": {
+    "english": "Stella… fell asleep in sorrow.",
+    "korean": "스텔라는… 슬픔 속에 잠들었다."
+  },
+  "LastCorruptedRecord1-10OP_108": {
+    "english": "I won't let that child go through the same pain again.",
+    "korean": "그 아이에게 또다시 같은 아픔을… 겪게 하진 않겠다."
+  },
+  "LastCorruptedRecord1-10OP_109": {
+    "english": "Damn it… Is it already too late? Failed again… Do I have to start over from the beginning?",
+    "korean": "- 젠장… 이미 늦었나?&n이번에도 실패고… 처음부터 다시 해야 하는 건가?"
+  },
+  "LastCorruptedRecord1-10OP_11": {
+    "english": "I was able to hear a detailed account of what happened since Hella entered virtual reality.",
+    "korean": "- 나는 헬라가 가상 현실에 들어온 이후로 무슨 일이 있었는지 자세한 이야기를 들을 수 있었다."
+  },
+  "LastCorruptedRecord1-10OP_110": {
+    "english": "- There is no way to… turn back Stella… who has become a Desire Walker…",
+    "korean": "- 데자이어 워커가 된 스텔라를… 되돌릴 방법이…"
+  },
+  "LastCorruptedRecord1-10OP_111": {
+    "english": "Human... um... I'll try talking to Stella who is asleep.",
+    "korean": "인간님… 저… 잠든 스텔라에게 말을 걸어볼게요."
+  },
+  "LastCorruptedRecord1-10OP_112": {
+    "english": "I don't know if I can do it well... but if it's Stella... she will definitely listen to my voice.",
+    "korean": "잘할 수 있을지는 모르겠지만…&n스텔라라면… 분명 제 목소리를 들어줄 거예요."
+  },
+  "LastCorruptedRecord1-10OP_113": {
+    "english": "Yes! I am… Stella's friend!",
+    "korean": "네! 저는… 스텔라의 친구예요!"
+  },
+  "LastCorruptedRecord1-10OP_114": {
+    "english": "I understand the situation. I'm not sure if it will succeed, but it seems worth a try.",
+    "korean": "상황은 알겠습니다.&n성공할 수 있을 지 모르겠지만 시도해 볼 가치는 있겠군요."
+  },
+  "LastCorruptedRecord1-10OP_115": {
+    "english": "I will definitely... end Stella's sorrow here.",
+    "korean": "- 반드시... 스텔라의 슬픔을 여기서 끝내겠어."
+  },
+  "LastCorruptedRecord1-10OP_116": {
+    "english": "Hella, are you okay?",
+    "korean": "헬라 괜찮아?"
+  },
+  "LastCorruptedRecord1-10OP_117": {
+    "english": "Only about an hour has passed.",
+    "korean": "한 시간 정도밖에 지나지 않았어."
+  },
+  "LastCorruptedRecord1-10OP_118": {
+    "english": "I heard Stella ran away…",
+    "korean": "스텔라는 도망쳤다고 들었어…"
+  },
+  "LastCorruptedRecord1-10OP_119": {
+    "english": "I heard that the child is holding you hostage.",
+    "korean": "그 아이가 너를 인질로 데리고 있다고 들었거든."
+  },
+  "LastCorruptedRecord1-10OP_12": {
+    "english": "- The incident where I landed in a different place from myself and was attacked by Soul Junk.",
+    "korean": "- 나와는 다른 장소에 떨어졌고, 소울정크의 습격을 받은 일."
+  },
+  "LastCorruptedRecord1-10OP_120": {
+    "english": "Yeah, I believe you.",
+    "korean": "응, 믿어."
+  },
+  "LastCorruptedRecord1-10OP_121": {
+    "english": "There must have been a reason.",
+    "korean": "분명 사정이 있었겠지."
+  },
+  "LastCorruptedRecord1-10OP_122": {
+    "english": "So tell me. What happened.",
+    "korean": "그러니까 알려줘. 무슨 일이 있었는지."
+  },
+  "LastCorruptedRecord1-10OP_123": {
+    "english": "Hella.",
+    "korean": "헬라."
+  },
+  "LastCorruptedRecord1-10OP_124": {
+    "english": "This is a punishment.",
+    "korean": "이건 벌이야."
+  },
+  "LastCorruptedRecord1-10OP_125": {
+    "english": "Not a punishment for this incident…",
+    "korean": "이번 일에 대한 벌이 아닌…"
+  },
+  "LastCorruptedRecord1-10OP_126": {
+    "english": "Punishment for your bad habit of thinking everything is your own fault.",
+    "korean": "뭐든지 자기 잘못이라고 생각하는 네 나쁜 버릇에 대한 벌."
+  },
+  "LastCorruptedRecord1-10OP_127": {
+    "english": "Hella didn't do anything wrong.",
+    "korean": "헬라는 아무런 잘못도 하지 않았어."
+  },
+  "LastCorruptedRecord1-10OP_128": {
+    "english": "So you don't need to make that face.",
+    "korean": "그러니까 그런 표정을 지을 필요 없어."
+  },
+  "LastCorruptedRecord1-10OP_129": {
+    "english": "What do you want to do, Hella?",
+    "korean": "헬라는 어떻게 하고 싶어?"
+  },
+  "LastCorruptedRecord1-10OP_13": {
+    "english": "- The encounter with Stella, who commands a spirit called 'Old Man'.",
+    "korean": "- ‘영감님’이라 불리는 혼령을 부리는 스텔라와 만난 일."
+  },
+  "LastCorruptedRecord1-10OP_130": {
+    "english": "Alright, then shall we go!",
+    "korean": "좋아, 그럼 가볼까!"
+  },
+  "LastCorruptedRecord1-10OP_131": {
+    "english": "Of course I have to go find Stella, right?",
+    "korean": "그야 당연히 스텔라를 찾으러 가야지?"
+  },
+  "LastCorruptedRecord1-10OP_132": {
+    "english": "Hmm... wouldn't it be okay?",
+    "korean": "음… 괜찮지 않을까?"
+  },
+  "LastCorruptedRecord1-10OP_133": {
+    "english": "You told me today.",
+    "korean": "오늘 네가 나한테 말했지."
+  },
+  "LastCorruptedRecord1-10OP_134": {
+    "english": "Even Desire can change.",
+    "korean": "데자이어라도 달라질 수 있다고."
+  },
+  "LastCorruptedRecord1-10OP_135": {
+    "english": "The same goes for us.",
+    "korean": "그건 우리도 마찬가지야."
+  },
+  "LastCorruptedRecord1-10OP_136": {
+    "english": "If you make a precious friend, wouldn't you protect and safeguard them from danger?",
+    "korean": "소중한 친구가 생기면 위험으로부터 지키고 보호하지 않겠어?"
+  },
+  "LastCorruptedRecord1-10OP_137": {
+    "english": "The actions we took were…",
+    "korean": "우리가 한 행동은…"
+  },
+  "LastCorruptedRecord1-10OP_138": {
+    "english": "I might have taken away a precious friend from that child and made them a loner.",
+    "korean": "그 아이에게서 소중한 친구를 빼앗고, 외톨이로 만든 걸지도 몰라."
+  },
+  "LastCorruptedRecord1-10OP_139": {
+    "english": "I don't want to call that... justice.",
+    "korean": "나는 그걸… 정의라고 말하고 싶지 않아."
+  },
+  "LastCorruptedRecord1-10OP_14": {
+    "english": "- And the story of how Hella and Stella became friends.",
+    "korean": "- 그리고 헬라와 스텔라, 두 사람이 친구가 된 이야기까지."
+  },
+  "LastCorruptedRecord1-10OP_140": {
+    "english": "Tenebris, what is your justice?",
+    "korean": "테네브리스, 네 정의는 뭐지?"
+  },
+  "LastCorruptedRecord1-10OP_141": {
+    "english": "Huh? Really?",
+    "korean": "어? 정말?"
+  },
+  "LastCorruptedRecord1-10OP_142": {
+    "english": "No, it seems like you're letting it go too easily.",
+    "korean": "아니, 너무 쉽게 보내주는 것 같아서."
+  },
+  "LastCorruptedRecord1-10OP_143": {
+    "english": "I thought you would definitely stop me from going.",
+    "korean": "너라면 분명 가지 못하게 막을 거라 생각했거든."
+  },
+  "LastCorruptedRecord1-10OP_144": {
+    "english": "I understand. I'll feel reassured if you come with me.",
+    "korean": "알겠어. 네가 같이 가준다면 든든할 거야."
+  },
+  "LastCorruptedRecord1-10OP_145": {
+    "english": "The problem is where Stella ran off to...",
+    "korean": "문제는 스텔라가 어디로 도망쳤느냐인데…"
+  },
+  "LastCorruptedRecord1-10OP_146": {
+    "english": "Okay, then let's go.",
+    "korean": "좋아, 그럼 가보자."
+  },
+  "LastCorruptedRecord1-10OP_147": {
+    "english": "In that case… I can’t let it slide even more.",
+    "korean": "그렇다면… 더더욱 내버려둘 수 없어."
+  },
+  "LastCorruptedRecord1-10OP_148": {
+    "english": "Hella, stop!",
+    "korean": "헬라, 멈춰!"
+  },
+  "LastCorruptedRecord1-10OP_149": {
+    "english": "Hella… I get it.",
+    "korean": "헬라… 알겠어."
+  },
+  "LastCorruptedRecord1-10OP_15": {
+    "english": "So… I mistook them for bad people and ran away…",
+    "korean": "그래서… 저는 나쁜 사람들이라고 착각해서 도망쳤어요…"
+  },
+  "LastCorruptedRecord1-10OP_150": {
+    "english": "Because you're Stella's friend. Right?",
+    "korean": "넌 스텔라의 친구니까. 맞지?"
+  },
+  "LastCorruptedRecord1-10OP_16": {
+    "english": "I'm sorry... If I had known you were a human, this wouldn't have happened...",
+    "korean": "죄송해요… 인간님이라는 걸 알았더라면 이런 일은 없었을 텐데…"
+  },
+  "LastCorruptedRecord1-10OP_17": {
+    "english": "I'm so sorry... I'll accept any punishment... So, Stella...",
+    "korean": "정말 죄송해요… 어떤 벌이라도 받을게요… 그러니까 스텔라는…"
+  },
+  "LastCorruptedRecord1-10OP_18": {
+    "english": "What...? Ow...",
+    "korean": "네…? 아얏…"
+  },
+  "LastCorruptedRecord1-10OP_19": {
+    "english": "I lightly tapped Hella's forehead with my finger.",
+    "korean": "- 나는 가볍게 손가락에 힘을 주어 헬라의 이마를 툭 쳤다."
+  },
+  "LastCorruptedRecord1-10OP_2": {
+    "english": "Where is this…?",
+    "korean": "여기는…?"
+  },
+  "LastCorruptedRecord1-10OP_20": {
+    "english": "Mr. Human...?",
+    "korean": "인간님…?"
+  },
+  "LastCorruptedRecord1-10OP_21": {
+    "english": "Yes… then…?",
+    "korean": "네… 그럼…?"
+  },
+  "LastCorruptedRecord1-10OP_22": {
+    "english": "Then Stella is…",
+    "korean": "그럼 스텔라는…"
+  },
+  "LastCorruptedRecord1-10OP_23": {
+    "english": "I want to be with Stella!",
+    "korean": "스텔라와 같이 있고 싶어요!"
+  },
+  "LastCorruptedRecord1-10OP_24": {
+    "english": "I'm Stella's friend...!",
+    "korean": "저는 스텔라의 친구에요…!"
+  },
+  "LastCorruptedRecord1-10OP_25": {
+    "english": "I promised…",
+    "korean": "약속했어요…"
+  },
+  "LastCorruptedRecord1-10OP_26": {
+    "english": "I told you I wouldn't be separated from Stella no matter what... I wouldn't let Stella be left alone...!",
+    "korean": "무슨 일이 있어도 스텔라하고 떨어지지 않겠다고…&n스텔라를 혼자 두게 하지 않겠다고요…!"
+  },
+  "LastCorruptedRecord1-10OP_27": {
+    "english": "The emotion sustaining me right now is…!",
+    "korean": "지금 저를 지탱하는 감정은…!"
+  },
+  "LastCorruptedRecord1-10OP_28": {
+    "english": "Because it is the feeling that I will never again lose family and friends right before my eyes!",
+    "korean": "다시는 가족과 친구를 눈 앞에서 잃지 않겠다는 감정이니까요!"
+  },
+  "LastCorruptedRecord1-10OP_29": {
+    "english": "What...? Now? Where are you going?",
+    "korean": "네...? 지금요? 어디로 가는데요?"
+  },
+  "LastCorruptedRecord1-10OP_3": {
+    "english": "M-Mr. Human...? Why are you here... I was so out of my mind...",
+    "korean": "인, 인간님…? 인간님이 왜 여기에… 저는 얼마나 정신을…"
+  },
+  "LastCorruptedRecord1-10OP_30": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-10OP_31": {
+    "english": "yes…!",
+    "korean": "네…!"
+  },
+  "LastCorruptedRecord1-10OP_32": {
+    "english": "Um... but Human...?",
+    "korean": "저기… 근데 인간님…?"
+  },
+  "LastCorruptedRecord1-10OP_33": {
+    "english": "I'm not entirely sure, but it looks like there are a lot of people at the camp here...",
+    "korean": "잘은 모르겠지만, 여기 캠프에 많은 사람들이 있는 것 같은데…"
+  },
+  "LastCorruptedRecord1-10OP_34": {
+    "english": "Is it really okay to sneak out like this...?",
+    "korean": "이렇게 몰래 빠져나와도 괜찮은 건가요…?"
+  },
+  "LastCorruptedRecord1-10OP_35": {
+    "english": "There is the option of receiving help from the people in the camp, but it is not easy considering the perception of Desire Workers.",
+    "korean": "- 캠프 사람들에게 도움을 받는 선택지도 있지만, 데자이어 워커를 향한 인식을 생각하면 쉽지 않다."
+  },
+  "LastCorruptedRecord1-10OP_36": {
+    "english": "Furthermore, the protagonist of this stage is undoubtedly a child named Stella.",
+    "korean": "- 게다가 이번 스테이지의 주인공은 틀림없이 스텔라라는 아이가 분명하다."
+  },
+  "LastCorruptedRecord1-10OP_37": {
+    "english": "The priority is to stop that child before they fully awaken as a Desire Walker.",
+    "korean": "- 그 아이가 완전히 데자이어 워커로 각성하기 전에 막는 게 우선이다."
+  },
+  "LastCorruptedRecord1-10OP_38": {
+    "english": "What on earth is okay about it?",
+    "korean": "대체 뭐가 괜찮다는 겁니까?"
+  },
+  "LastCorruptedRecord1-10OP_39": {
+    "english": "It is problematic to act arbitrarily like this.",
+    "korean": "이런 식으로 멋대로 행동하는 건 곤란합니다."
+  },
+  "LastCorruptedRecord1-10OP_4": {
+    "english": "was worried about Hela's condition after she lost consciousness in virtual reality, but from what I can see, there doesn't seem to be a major problem.",
+    "korean": "- 가상 현실에서 정신을 잃은 헬라의 상태가 걱정되었지만, 보아하니 큰 문제는 없는 것 같다."
+  },
+  "LastCorruptedRecord1-10OP_40": {
+    "english": "I was planning to sneak out, but did I get caught…",
+    "korean": "- 몰래 빠져나갈 생각이었는데 들켰나…"
+  },
+  "LastCorruptedRecord1-10OP_41": {
+    "english": "M-Mr. Human... what should I do...?",
+    "korean": "인, 인간님… 어쩌면 좋죠…?"
+  },
+  "LastCorruptedRecord1-10OP_42": {
+    "english": "It looks like you are trying to find Desire Walker.",
+    "korean": "아무래도 데자이어 워커를 찾아가려는 것 같군요."
+  },
+  "LastCorruptedRecord1-10OP_43": {
+    "english": "In that case, as the representative leading the camp, I must prevent actions that could cause harm to this place.",
+    "korean": "그렇다면 저는 캠프를 이끄는 대표로서, 이곳에 피해를 줄 수 있는 행동을 막아야 합니다."
+  },
+  "LastCorruptedRecord1-10OP_44": {
+    "english": "Judging by Tenebris's expression, he didn't seem to have any intention of letting us go.",
+    "korean": "- 테네브리스의 표정으로 보아, 우리를 그냥 보내줄 생각은 없어 보였다."
+  },
+  "LastCorruptedRecord1-10OP_45": {
+    "english": "However, that child attacked people and took hostages.",
+    "korean": "하지만 그 아이는 사람들을 공격했고, 인질을 잡았습니다."
+  },
+  "LastCorruptedRecord1-10OP_46": {
+    "english": "that…",
+    "korean": "그건…"
+  },
+  "LastCorruptedRecord1-10OP_47": {
+    "english": "The definition I think of…",
+    "korean": "제가 생각하는 정의…"
+  },
+  "LastCorruptedRecord1-10OP_48": {
+    "english": "...Understood. I will not stop you.",
+    "korean": "...알겠습니다. 당신들을 막지 않겠습니다."
+  },
+  "LastCorruptedRecord1-10OP_49": {
+    "english": "Is there a problem?",
+    "korean": "무슨 문제라도 있습니까?"
+  },
+  "LastCorruptedRecord1-10OP_5": {
+    "english": "… Ah…! Stella… Where is Stella…?",
+    "korean": "…아…! 스텔라는... 스텔라는 어디에 있죠…?"
+  },
+  "LastCorruptedRecord1-10OP_50": {
+    "english": "… It does not matter what you think of me. I am simply realizing the justice I believe in, just as you said.",
+    "korean": "…당신이 저를 어떻게 생각하든 상관없습니다.&n다만, 당신이 말한 것처럼 제가 믿는 정의를 실현할 뿐입니다."
+  },
+  "LastCorruptedRecord1-10OP_51": {
+    "english": "So I will go with you.",
+    "korean": "그러니 저도 함께 가겠습니다."
+  },
+  "LastCorruptedRecord1-10OP_52": {
+    "english": "Even if it is temporary, you are members of our camp. As the leader of the camp, I cannot turn a blind eye to the danger.",
+    "korean": "일시적이라고는 하나 당신들은 저희 캠프의 일원입니다.&n캠프를 이끄는 사람으로서, 위험을 모른 척할 수는 없으니까요."
+  },
+  "LastCorruptedRecord1-10OP_53": {
+    "english": "Besides… Desire Walker… no…",
+    "korean": "게다가… 데자이어 워커… 아니…"
+  },
+  "LastCorruptedRecord1-10OP_54": {
+    "english": "I would like to speak with Stella Unibel again.",
+    "korean": "스텔라 유니벨과 다시 한 번 이야기해 보고 싶습니다."
+  },
+  "LastCorruptedRecord1-10OP_55": {
+    "english": "I see... I don't think they've gone far yet, but still, going around blindly searching for them...",
+    "korean": "그렇군요…&n아직 멀리 가지 않았을 거라 생각됩니다만, 그렇다고 무턱대고 찾아 돌아다니기에는…"
+  },
+  "LastCorruptedRecord1-10OP_56": {
+    "english": "Lord Tenebris!",
+    "korean": "테네브리스 님!"
+  },
+  "LastCorruptedRecord1-10OP_57": {
+    "english": "What's going on?",
+    "korean": "무슨 일이죠?"
+  },
+  "LastCorruptedRecord1-10OP_58": {
+    "english": "The spirits we saw before are appearing and running wild near the building Tenebris visited!",
+    "korean": "테네브리스 님이 다녀오신 건물 쪽에서 전에 보았던 혼령들이 나타나 폭주하고 있습니다!"
+  },
+  "LastCorruptedRecord1-10OP_59": {
+    "english": "If you mean that building… are you referring to the building where Stella Unibel was?",
+    "korean": "그 건물이라면… 스텔라 유니벨이 있던 건물 말씀입니까?"
+  },
+  "LastCorruptedRecord1-10OP_6": {
+    "english": "How could that be…",
+    "korean": "그럴수가…"
+  },
+  "LastCorruptedRecord1-10OP_60": {
+    "english": "Yes, that is correct. I heard they escaped, but could they actually still be in that building?",
+    "korean": "네, 맞습니다.&n도망쳤다고 들었는데, 사실 아직 그 건물에 남아 있는 게 아닐까요?"
+  },
+  "LastCorruptedRecord1-10OP_61": {
+    "english": "… Understood. I will go look into it and come back.",
+    "korean": "…알겠습니다. 제가 조사하고 오겠습니다."
+  },
+  "LastCorruptedRecord1-10OP_62": {
+    "english": "Yes, please be careful.",
+    "korean": "네, 조심하십시오."
+  },
+  "LastCorruptedRecord1-10OP_63": {
+    "english": "It seems Stella Unibel is still in that building.",
+    "korean": "아무래도 스텔라 유니벨은 아직 그 건물에 남아 있는 모양입니다."
+  },
+  "LastCorruptedRecord1-10OP_64": {
+    "english": "Hey, thank you for your help.",
+    "korean": "저기, 도와주셔서 고맙습니다."
+  },
+  "LastCorruptedRecord1-10OP_65": {
+    "english": "Mr. Tenebris, you are a good human, just like you!",
+    "korean": "테네브리스 씨는 인간님처럼 좋은 인간님이군요!"
+  },
+  "LastCorruptedRecord1-10OP_66": {
+    "english": "Oh, no. I am just doing my job.",
+    "korean": "아, 아닙니다. 저는 그저 할 일을 하는 것뿐입니다."
+  },
+  "LastCorruptedRecord1-10OP_67": {
+    "english": "Anyway, um... that...",
+    "korean": "그나저나 저기… 그…"
+  },
+  "LastCorruptedRecord1-10OP_68": {
+    "english": "Huh? What's wrong?",
+    "korean": "네? 왜 그러세요?"
+  },
+  "LastCorruptedRecord1-10OP_69": {
+    "english": "I have kept quiet until now because there hasn't been a chance to speak, but...",
+    "korean": "지금까지 말할 타이밍이 없어서 가만히 있었습니다만…"
+  },
+  "LastCorruptedRecord1-10OP_7": {
+    "english": "No... Human! Stella isn't that kind of child..!",
+    "korean": "아니에요… 인간님! 스텔라는 그런 아이가 아니에요..!"
+  },
+  "LastCorruptedRecord1-10OP_70": {
+    "english": "Is that your usual attire...?",
+    "korean": "원래 복장이 그러신가요…?"
+  },
+  "LastCorruptedRecord1-10OP_71": {
+    "english": "Is there something wrong with my outfit?",
+    "korean": "제 복장에 무슨 문제라도 있나요?"
+  },
+  "LastCorruptedRecord1-10OP_72": {
+    "english": "… It’s nothing.",
+    "korean": "…아무것도 아닙니다."
+  },
+  "LastCorruptedRecord1-10OP_73": {
+    "english": "Alright, let's hurry before Stella leaves for somewhere else!",
+    "korean": "자, 스텔라가 다른 곳으로 떠나기 전에 서두르도록 하죠!"
+  },
+  "LastCorruptedRecord1-10OP_74": {
+    "english": "… …I wish you the best of luck, Commander…",
+    "korean": "…...건투를 빕니다. 사령관…"
+  },
+  "LastCorruptedRecord1-10OP_75": {
+    "english": "Why did you come to our village? Everyone died because of you! Everyone is cursed!",
+    "korean": "어째서 우리 마을에 온 거야? 너 때문에 모두 죽었어! 모두 저주받았다고!"
+  },
+  "LastCorruptedRecord1-10OP_76": {
+    "english": "told you! I said this would happen!! I told you that child is a 'cursed child'!!",
+    "korean": "그러니까 내가 말했잖아! 이런 일이 일어날 거라고!!&n저 아이는 '저주받은 아이'라니까!!"
+  },
+  "LastCorruptedRecord1-10OP_77": {
+    "english": "Ah... no. It's not my fault. Why are you doing this only to me?",
+    "korean": "아… 아니에요. 내 잘못이 아니에요. 왜 나한테만 이러는 거에요?"
+  },
+  "LastCorruptedRecord1-10OP_78": {
+    "english": "It's definitely your fault! This void happened because you came, too!",
+    "korean": "분명 너 때문이야! 이번 공백도 네가 와서 일어난 거잖아!"
+  },
+  "LastCorruptedRecord1-10OP_79": {
+    "english": "Right! You never know when another vacancy might arise! We have to kick them out right away!",
+    "korean": "그래! 언제 또 공백이 발생할지 몰라! 어서 내 쫓아야 해!"
+  },
+  "LastCorruptedRecord1-10OP_8": {
+    "english": "Stella just needed a friend! Really...",
+    "korean": "스텔라는 그저 친구가 필요했을 뿐이에요! 정말이에요…"
+  },
+  "LastCorruptedRecord1-10OP_80": {
+    "english": "Is it all my fault? Am I... not supposed to exist in this world?",
+    "korean": "전부 내 탓인 거야?&n나는... 이 세상에 있으면 안 되는 거야?"
+  },
+  "LastCorruptedRecord1-10OP_81": {
+    "english": "Three months have passed since the onset of the mysterious disaster, the Void. Most major cities have been devastated by the Void, and the number of casualties is impossible to even accurately tally.",
+    "korean": "정체불명의 재앙, 공백이 발생한 지 3개월이 지났습니다.&n공백으로 인해 대부분의 주요 도시가 괴멸했고, 사상자는 정확한 집계조차 불가능한 상태입니다."
+  },
+  "LastCorruptedRecord1-10OP_82": {
+    "english": "Also, as for what became of the people sucked into the void…",
+    "korean": "또한 공백 속으로 빨려 들어간 사람들이 어떻게 되었는지는…"
+  },
+  "LastCorruptedRecord1-10OP_83": {
+    "english": "… I'm sorry to everyone. I've become alone again.",
+    "korean": "…모두 미안해. 또 혼자가 돼버렸어."
+  },
+  "LastCorruptedRecord1-10OP_84": {
+    "english": "You know, old man... if that place is a faraway world... could it be just the two of us?",
+    "korean": "있잖아, 영감님… 저곳, 머나먼 세상이라면… 우리 둘만 있을 수 있을까?"
+  },
+  "LastCorruptedRecord1-10OP_85": {
+    "english": "Can someone like me… live without being hated? I… don’t want to be sad anymore.",
+    "korean": "이런 나라도… 미움받지 않고 살 수 있을까?&n더 이상… 슬프고 싶지 않아."
+  },
+  "LastCorruptedRecord1-10OP_86": {
+    "english": "So… let’s be together over there. Now… for the sake of everyone’s happiness…",
+    "korean": "그러니까… 저곳에서 함께 있자.&n난 이제… 모두의 행복을 위해서라면…"
+  },
+  "LastCorruptedRecord1-10OP_87": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-10OP_88": {
+    "english": "You know, old man...",
+    "korean": "영감님 있잖아…"
+  },
+  "LastCorruptedRecord1-10OP_89": {
+    "english": "I… I don’t care what happens now…",
+    "korean": "나… 이제 어떻게 되든 상관없어…"
+  },
+  "LastCorruptedRecord1-10OP_9": {
+    "english": "Really...?",
+    "korean": "정말요…?"
+  },
+  "LastCorruptedRecord1-10OP_90": {
+    "english": "Stella…",
+    "korean": "스텔라…"
+  },
+  "LastCorruptedRecord1-10OP_91": {
+    "english": "Okay, I get it. If that's what you want...",
+    "korean": "그래, 알았다.&n그게 네가 원하는 거라면…"
+  },
+  "LastCorruptedRecord1-10OP_92": {
+    "english": "Leave everything to me now... and rest well for now.",
+    "korean": "이제 전부 나한테 맡기고... 지금은 편히 쉬려무나."
+  },
+  "LastCorruptedRecord1-10OP_93": {
+    "english": "It seems it is true that Stella Unibel is still here…",
+    "korean": "아무래도 스텔라 유니벨이 아직 이곳에 있다는 건 사실 같군요…"
+  },
+  "LastCorruptedRecord1-10OP_94": {
+    "english": "… The atmosphere is unusual.",
+    "korean": "…분위기가 심상치 않습니다."
+  },
+  "LastCorruptedRecord1-10OP_95": {
+    "english": "This feeling... I must still be here.",
+    "korean": "이 느낌… 아직 이곳에 있는 게 틀림없습니다."
+  },
+  "LastCorruptedRecord1-10OP_96": {
+    "english": "It seems the spirits are very angry…",
+    "korean": "혼령들이 몹시 화가 난 것 같아요…"
+  },
+  "LastCorruptedRecord1-10OP_97": {
+    "english": "What would you like to do? Judging by the condition… it could be very dangerous.",
+    "korean": "어떻게 하시겠습니까?&n상태로 보아… 매우 위험할 수도 있습니다."
+  },
+  "LastCorruptedRecord1-10OP_98": {
+    "english": "… You are a really strange person.",
+    "korean": "…당신은 정말 이상한 사람이군요."
+  },
+  "LastCorruptedRecord1-10OP_99": {
+    "english": "Understood. Then let's hurry!",
+    "korean": "알겠습니다. 그럼 서두르죠!"
+  },
+  "LastCorruptedRecord1-1ED_1": {
+    "english": "- … …",
+    "korean": "- … …"
+  },
+  "LastCorruptedRecord1-1ED_10": {
+    "english": "- The smell of burning blood and flesh…",
+    "korean": "- 피와 살이 타들어가는 냄새…"
+  },
+  "LastCorruptedRecord1-1ED_11": {
+    "english": "- Bodies scattered in pieces…",
+    "korean": "- 조각조각이 되어 널브러져 있는 시체들…"
+  },
+  "LastCorruptedRecord1-1ED_12": {
+    "english": "A girl stood alone in the middle of the horribly transformed landscape.",
+    "korean": "- 참혹하게 변해버린 풍경, 그 한가운데에 한 소녀가 홀로 서 있었다."
+  },
+  "LastCorruptedRecord1-1ED_13": {
+    "english": "Commander... Commander... I... I finally know...!",
+    "korean": "사령관님… 사령관님… 저… 드디어 알았어요…!"
+  },
+  "LastCorruptedRecord1-1ED_14": {
+    "english": "I understand why I felt bad… and what I was mistaken about… I understand everything!",
+    "korean": "왜 기분이 나빴는지… [c][FF0000]무엇을[-][/c] 착각하고 있었는지… 모두 이해 했어요!"
+  },
+  "LastCorruptedRecord1-1ED_15": {
+    "english": "These people too… and the people inside this blank space are all just like [c][FF0000]blank[-][/c]!",
+    "korean": "이 사람들도… 이 공백 안에 있는 사람들도 모두 [c][FF0000]공백[-][/c]이나 마찬가지에요!"
+  },
+  "LastCorruptedRecord1-1ED_16": {
+    "english": "It wasn't a human... it was [c][FF0000]part of the blank[-][/c]...!",
+    "korean": "인간이 아니라... [c][FF0000]공백의 일부[-][/c]였어요...!"
+  },
+  "LastCorruptedRecord1-1ED_17": {
+    "english": "[c][FF0000]I had to kill them all...! All of them...![-][/c] Hahahaha hahahaha…",
+    "korean": "[c][FF0000]전부 죽여야 했어요...! 전부...![-][/c] 하하하하 하하하하…"
+  },
+  "LastCorruptedRecord1-1ED_18": {
+    "english": "Huh…? But Commander…? Commander, you’re… the person in the blank space too, aren’t you?",
+    "korean": "어라…? 그런데 사령관님…? 사령관님도… [c][FF0000]공백에 있는 사람[-][/c] 이잖아요?"
+  },
+  "LastCorruptedRecord1-1ED_19": {
+    "english": "In that case… just like everyone else… if I don’t kill the [c][FF0000]Commander too… [-][/c]",
+    "korean": "그렇다면… 다른 사람들과 똑같이… [c][FF0000]사령관님도 죽이지 않으면…[-][/c]"
+  },
+  "LastCorruptedRecord1-1ED_2": {
+    "english": "- … … … …",
+    "korean": "- … … … …"
+  },
+  "LastCorruptedRecord1-1ED_20": {
+    "english": "Hahahaha... Hahahahahaha...",
+    "korean": "하하하하… 하하하하하하…"
+  },
+  "LastCorruptedRecord1-1ED_21": {
+    "english": "Commander... please die...",
+    "korean": "사령관님… 죽어주세요…"
+  },
+  "LastCorruptedRecord1-1ED_22": {
+    "english": "A cold greatsword pierced my body.",
+    "korean": "- 차가운 대검이 내 몸을 꿰뚫었다."
+  },
+  "LastCorruptedRecord1-1ED_23": {
+    "english": "As my senses grew blurry and my vision faded, I thought.",
+    "korean": "- 점점 흐릿해지는 감각과 멀어져 가는 시야 속, 나는 생각했다."
+  },
+  "LastCorruptedRecord1-1ED_24": {
+    "english": "- The sight of that smiling girl…",
+    "korean": "- 웃고 있는 저 소녀의 모습이…"
+  },
+  "LastCorruptedRecord1-1ED_25": {
+    "english": "It goes so well with all this scenery.",
+    "korean": "- 이 모든 풍경과 너무나도 잘 어울린다고."
+  },
+  "LastCorruptedRecord1-1ED_26": {
+    "english": "Oppa…!",
+    "korean": "오빠…!"
+  },
+  "LastCorruptedRecord1-1ED_27": {
+    "english": "Oppa, can you hear my voice?",
+    "korean": "오빠, 내 목소리가 들려?"
+  },
+  "LastCorruptedRecord1-1ED_28": {
+    "english": "The vital signs show no problems...",
+    "korean": "바이탈은 아무 문제 없다고 나오는데…"
+  },
+  "LastCorruptedRecord1-1ED_29": {
+    "english": "Oppa, do you recognize me?",
+    "korean": "오빠, 나 알아보겠어?"
+  },
+  "LastCorruptedRecord1-1ED_3": {
+    "english": "- I am…",
+    "korean": "- 나는…"
+  },
+  "LastCorruptedRecord1-1ED_30": {
+    "english": "Yeah, game over.",
+    "korean": "응, 게임 오버."
+  },
+  "LastCorruptedRecord1-1ED_31": {
+    "english": "It seems like the connection is forcibly cut off if you die in virtual reality.",
+    "korean": "가상 현실에서 죽으면 강제로 접속이 끊어지는 것 같아."
+  },
+  "LastCorruptedRecord1-1ED_32": {
+    "english": "Seriously… I was monitoring from the side, and do you know how shocked I was when you suddenly got stabbed with a sword?",
+    "korean": "정말… 옆에서 모니터링 하고 있었는데, 갑자기 오빠가 검에 찔려서 얼마나 놀랐는지 알아?"
+  },
+  "LastCorruptedRecord1-1ED_33": {
+    "english": "It didn't hurt, did it?",
+    "korean": "아프진 않았어?"
+  },
+  "LastCorruptedRecord1-1ED_34": {
+    "english": "Phew, then that's a relief...",
+    "korean": "휴, 그럼 다행이고…"
+  },
+  "LastCorruptedRecord1-1ED_35": {
+    "english": "But… I don’t know if it’s because my brother died, but all the data I’ve played so far has been reset.",
+    "korean": "그런데… 오빠가 죽었기 때문인지는 모르겠지만, 지금까지 플레이했던 모든 데이터가 리셋됐어."
+  },
+  "LastCorruptedRecord1-1ED_36": {
+    "english": "- You said reset...? Then...",
+    "korean": "- 리셋이라고…? 그럼…"
+  },
+  "LastCorruptedRecord1-1ED_37": {
+    "english": "It means you have to start from the beginning to play again.",
+    "korean": "다시 플레이하려면 처음부터 시작해야 한다는 거지."
+  },
+  "LastCorruptedRecord1-1ED_38": {
+    "english": "- Is that for real... This is more shocking than the fact that he died.",
+    "korean": "- 진짜냐… 죽었다는 사실보다 이게 더 충격이네."
+  },
+  "LastCorruptedRecord1-1ED_39": {
+    "english": "After reassuring the doctor, I took off the helmet I was wearing and slowly stood up from my seat.",
+    "korean": "- 닥터를 안심시킨 나는 머리에 썼던 헬멧을 벗고 천천히 자리에서 일어섰다."
+  },
+  "LastCorruptedRecord1-1ED_4": {
+    "english": "Did I fail...?",
+    "korean": "- 실패한 건가…?"
+  },
+  "LastCorruptedRecord1-1ED_40": {
+    "english": "And then I looked at the huge machine placed before my eyes.",
+    "korean": "- 그리고 눈 앞에 놓인 거대한 기계 장치를 바라보았다."
+  },
+  "LastCorruptedRecord1-1ED_41": {
+    "english": "- A storage device containing massive amounts of hexagonal data.",
+    "korean": "- 육각형 모양의 막대한 데이터가 저장되어 있는 스토리지 장치."
+  },
+  "LastCorruptedRecord1-1ED_42": {
+    "english": "The English initials 'SH S' were stamped in large letters on the front.",
+    "korean": "- 앞에는 'S. H. S' 라는 영어 이니셜이 크게 박혀 있었다."
+  },
+  "LastCorruptedRecord1-1ED_43": {
+    "english": "I was just entering the virtual reality created by this machine.",
+    "korean": "- 나는 방금 전까지 이 기계가 만들어낸 가상 현실에 들어가 있었다."
+  },
+  "LastCorruptedRecord1-1ED_44": {
+    "english": "I met a girl there, and we went around together for a short time.",
+    "korean": "- 그곳에서 한 소녀를 만났고, 짧은 시간이지만 함께 다녔다."
+  },
+  "LastCorruptedRecord1-1ED_45": {
+    "english": "But was it because of my wrong choice? In the end, I ended up being killed by that girl.",
+    "korean": "- 하지만 나의 잘못된 선택 때문이었을까. 결국 마지막에는 그 소녀에게 죽임을 당하고 말았다."
+  },
+  "LastCorruptedRecord1-1ED_46": {
+    "english": "All of this is related to the machine and the virtual world within the game that exists inside it.",
+    "korean": "- 이 모든 것은 기계 장치와 그 속에 존재하는 게임 속 가상 세계의 일이다."
+  },
+  "LastCorruptedRecord1-1ED_47": {
+    "english": "So, Oppa, what are you going to do now?",
+    "korean": "그래서 오빠, 이제 어떻게 할 거야?"
+  },
+  "LastCorruptedRecord1-1ED_48": {
+    "english": "Should I ask Alpha or Beta to hack it for me right now?",
+    "korean": "지금이라도 알파 언니나 베타 언니에게 부탁해서 해킹 할까?"
+  },
+  "LastCorruptedRecord1-1ED_49": {
+    "english": "I don't know what reward is given for clearing all the records, but it doesn't seem easy.",
+    "korean": "모든 기록을 클리어하면 어떤 보상이 주어지는지 모르겠지만, 쉽지 않은 거 같아."
+  },
+  "LastCorruptedRecord1-1ED_5": {
+    "english": "- Why did it turn out like this?",
+    "korean": "- 어째서 이렇게 되어버렸지?"
+  },
+  "LastCorruptedRecord1-1ED_50": {
+    "english": "Besides, using underhanded tactics to bypass a game that was made with such care is disrespectful to the creators.",
+    "korean": "- 게다가 기껏 만들어진 게임을 비겁한 수단으로 뚫는 건 제작자에 대한 예의가 아니지."
+  },
+  "LastCorruptedRecord1-1ED_51": {
+    "english": "I thought you would say that, Oppa.",
+    "korean": "오빠라면 그렇게 말할 거라고 생각했어."
+  },
+  "LastCorruptedRecord1-1ED_52": {
+    "english": "Then I'll get ready to connect again, so please wait a little while.",
+    "korean": "그럼 다시 접속할 준비를 할 테니까 조금만 기다려줘."
+  },
+  "LastCorruptedRecord1-1ED_53": {
+    "english": "I recalled the last image of the girl before I lost consciousness.",
+    "korean": "- 나는 정신을 잃기 전 그 소녀의 마지막 모습을 떠올렸다."
+  },
+  "LastCorruptedRecord1-1ED_54": {
+    "english": "The girl was smiling, but it was a smile that looked somewhat lonely.",
+    "korean": "- 소녀는 웃고 있었지만, 어딘가 외로워 보이는 웃음이었다."
+  },
+  "LastCorruptedRecord1-1ED_55": {
+    "english": "I have no idea who made this game or for what reason.",
+    "korean": "- 대체 누가 무슨 이유로 이 게임을 만들었는지 알 수 없다."
+  },
+  "LastCorruptedRecord1-1ED_56": {
+    "english": "But one thing is clear…",
+    "korean": "- 하지만 한 가지 분명한 건…"
+  },
+  "LastCorruptedRecord1-1ED_57": {
+    "english": "- The fact is, I really liked this game.",
+    "korean": "- 나는 이 게임이 상당히 마음에 들었다는 사실이다."
+  },
+  "LastCorruptedRecord1-1ED_58": {
+    "english": "Doctor? In that case…",
+    "korean": "닥터? 그렇다면…"
+  },
+  "LastCorruptedRecord1-1ED_59": {
+    "english": "Have I returned to reality?",
+    "korean": "내가 현실로 돌아온 건가?"
+  },
+  "LastCorruptedRecord1-1ED_6": {
+    "english": "Where on earth did the wrong choice start?",
+    "korean": "- 대체 어디서부터 잘못된 선택이었을까."
+  },
+  "LastCorruptedRecord1-1ED_60": {
+    "english": "It's okay. Sorry for making you worry.",
+    "korean": "괜찮아. 걱정시켜서 미안."
+  },
+  "LastCorruptedRecord1-1ED_61": {
+    "english": "No, it's fine.",
+    "korean": "아니, 괜찮아."
+  },
+  "LastCorruptedRecord1-1ED_62": {
+    "english": "I'm not the type to give up on a game over something like this, am I?",
+    "korean": "고작 이 정도로 게임을 포기할 내가 아니잖아?"
+  },
+  "LastCorruptedRecord1-1ED_63": {
+    "english": "Wait. This time, I will definitely clear it for you.",
+    "korean": "기다려. 이번에야말로 반드시 클리어해줄 테니까."
+  },
+  "LastCorruptedRecord1-1ED_7": {
+    "english": "I just…",
+    "korean": "- 나는 그저…"
+  },
+  "LastCorruptedRecord1-1ED_8": {
+    "english": "just wanted to see her smile.",
+    "korean": "- 그녀가 웃는 모습을 보고 싶었을 뿐인데."
+  },
+  "LastCorruptedRecord1-1ED_9": {
+    "english": "I didn't want such a tragic ending.",
+    "korean": "- 이런 비극적인 결말을 원한 게 아니었어."
+  },
+  "LastCorruptedRecord1-2ED_1": {
+    "english": "Master, I have cleared out all the Iron Bugs in the vicinity.",
+    "korean": "주인님, 주변의 철충은 전부 정리했습니다."
+  },
+  "LastCorruptedRecord1-2ED_10": {
+    "english": "- So the story changes...",
+    "korean": "- 이야기가 달라진다라…"
+  },
+  "LastCorruptedRecord1-2ED_11": {
+    "english": "All right.",
+    "korean": "알겠습니다."
+  },
+  "LastCorruptedRecord1-2ED_12": {
+    "english": "Is it okay?",
+    "korean": "괜찮나?"
+  },
+  "LastCorruptedRecord1-2ED_13": {
+    "english": "… It’s okay, I didn’t need any help.",
+    "korean": "…괜찮아요, 도움 같은 건 필요 없었어요."
+  },
+  "LastCorruptedRecord1-2ED_14": {
+    "english": "Because I would have killed them all anyway.",
+    "korean": "어차피 제가 전부 다 죽였을 테니까요."
+  },
+  "LastCorruptedRecord1-2ED_15": {
+    "english": "Yeah, with your level of skill, you would have been fine even without our help.",
+    "korean": "그래, 분명 네 정도의 실력이라면 우리 도움이 없어도 충분했겠지."
+  },
+  "LastCorruptedRecord1-2ED_16": {
+    "english": "But even if you didn't want it, the fact is that you ultimately received help. In that case, shouldn't there be something you say?",
+    "korean": "하지만 네가 원치 않았다고 해도, 결국 도움을 받은 건 사실이다.&n그렇다면, 해야 할 말이 있지 않겠나?"
+  },
+  "LastCorruptedRecord1-2ED_17": {
+    "english": "...Who are you?",
+    "korean": "...당신들은 누구시죠?"
+  },
+  "LastCorruptedRecord1-2ED_18": {
+    "english": "My name is Varg. This is the Commander. What is your name?",
+    "korean": "내 이름은 바르그다. 이쪽은 사령관님이시다.&n너는 이름은 뭐지?"
+  },
+  "LastCorruptedRecord1-2ED_19": {
+    "english": "...My name is Haru Estia…",
+    "korean": "...하루 에스티아라고 해요…"
+  },
+  "LastCorruptedRecord1-2ED_2": {
+    "english": "But why are there Iron Bugs...? This is supposed to be a virtual reality inside a game...",
+    "korean": "그런데 어째서 철충이…? 여기는 게임 속 가상 현실일 텐데요…"
+  },
+  "LastCorruptedRecord1-2ED_20": {
+    "english": "It doesn't look like it's in very good condition.",
+    "korean": "그다지 상태가 안 좋아 보이는군."
+  },
+  "LastCorruptedRecord1-2ED_21": {
+    "english": "It looks like they haven't slept or eaten properly. Could it be that they were fighting continuously in that state?",
+    "korean": "잠도 식사도 제대로 하지 않은 것 같고, 설마 그 상태로 계속 싸우고 있었나?"
+  },
+  "LastCorruptedRecord1-2ED_22": {
+    "english": "Don't come near me. If you approach me recklessly, I'll kill you...",
+    "korean": "다가오지 마세요.&n함부로 다가오면 죽여버릴 거예요…"
+  },
+  "LastCorruptedRecord1-2ED_23": {
+    "english": "… I get it. Are you really okay?",
+    "korean": "…알았다.&n몸은 정말로 괜찮은 거냐?"
+  },
+  "LastCorruptedRecord1-2ED_24": {
+    "english": "You don't need to worry about it. It's just that I don't like everything that exists here...",
+    "korean": "당신이 신경 쓸 필요는 없어요.&n저는 그저 여기 존재하는 모든 것이 마음에 안 들 뿐이니까요…"
+  },
+  "LastCorruptedRecord1-2ED_25": {
+    "english": "Everything that exists in the 'blank'... everything that makes up the 'blank'... even this ground I am standing on... I don't like any of it...",
+    "korean": "공백'에 존재하는 모든 것이… '공백'을 이루는 모든 것이… 제가 밟고 있는 이 땅바닥조차… 모두 마음에 안 들어요…"
+  },
+  "LastCorruptedRecord1-2ED_26": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-2ED_27": {
+    "english": "So you shouldn't worry about me either...",
+    "korean": "그러니까 당신도 저에게 신경 쓰지 말고…"
+  },
+  "LastCorruptedRecord1-2ED_28": {
+    "english": "At that moment, Barg quickly approached Haru and pinched both of his cheeks.",
+    "korean": "- 그 순간, 바르그는 재빠르게 하루에게 다가가더니 양쪽 볼을 꼬집었다."
+  },
+  "LastCorruptedRecord1-2ED_29": {
+    "english": "Aaaaaaah!!",
+    "korean": "아에에에에!!"
+  },
+  "LastCorruptedRecord1-2ED_3": {
+    "english": "Could it be that our minds are influencing this world?",
+    "korean": "- 혹시라도 우리의 정신이 이 세계에 영향을 주고 있는 걸까?"
+  },
+  "LastCorruptedRecord1-2ED_30": {
+    "english": "What are you doing! Don't pull my cheek! I'm really going to kill you!",
+    "korean": "뭐 하시는 거예요! 볼 잡아당기지 마세요! 정말로 죽여버릴 거예요!"
+  },
+  "LastCorruptedRecord1-2ED_31": {
+    "english": "I did that because he was talking strange nonsense.",
+    "korean": "이상한 헛 소리를 하길래 그랬다."
+  },
+  "LastCorruptedRecord1-2ED_32": {
+    "english": "You're the one who shouldn't be talking nonsense. And don't lay a hand on me either.",
+    "korean": "당신이야말로 이상한 소리 하지 마세요. 그리고 저한테 손 대지도 마시고요."
+  },
+  "LastCorruptedRecord1-2ED_33": {
+    "english": "Seriously, what is wrong with you!? You approach someone you just met today so easily, and why did you grab their cheek!?",
+    "korean": "진짜 당신은 뭐예요!?&n오늘 처음 보는 사람한테 너무 쉽게 다가오고, 볼은 또 왜 잡아요!?"
+  },
+  "LastCorruptedRecord1-2ED_34": {
+    "english": "Hmm, come to think of it... this is the first time I've ever pulled someone's cheek like this.",
+    "korean": "흠, 생각해보니...&n내가 이렇게 누군가의 볼을 잡아당긴 적은 처음이군."
+  },
+  "LastCorruptedRecord1-2ED_35": {
+    "english": "I don't really know why I did that... Why did I do that?",
+    "korean": "왜 그랬는지는… 나도 잘 모르겠다.&n왜 그랬지?"
+  },
+  "LastCorruptedRecord1-2ED_36": {
+    "english": "Are you asking me that right now? I know for sure now that you are a suspicious person. Don't come near me.",
+    "korean": "그걸 지금 저한테 묻는 건가요?&n당신이 수상한 인물이라는 건 이제 확실히 알겠어요. 다가오지 마세요."
+  },
+  "LastCorruptedRecord1-2ED_37": {
+    "english": "If I get close, are you really going to kill me?",
+    "korean": "다가가면 정말로 죽일 건가?"
+  },
+  "LastCorruptedRecord1-2ED_38": {
+    "english": "I don't kill humans. Although I really want to kill you...",
+    "korean": "저는 인간은 죽이지 않아요.&n당신은… 정말 죽여버리고 싶지만요."
+  },
+  "LastCorruptedRecord1-2ED_39": {
+    "english": "One day, I turned my back and walked away from Varg.",
+    "korean": "- 하루는 그대로 등을 돌려 나와 바르그에게서 멀어졌다."
+  },
+  "LastCorruptedRecord1-2ED_4": {
+    "english": "The fact that you know a battle is about to break out here... have you already played through this once, Master?",
+    "korean": "이곳에서 곧 전투가 일어난다는 걸 알고 계신 것도 그렇고... 주인님께서는 이미 한 번 플레이해 보신 건가요?"
+  },
+  "LastCorruptedRecord1-2ED_40": {
+    "english": "Wait.",
+    "korean": "기다려라."
+  },
+  "LastCorruptedRecord1-2ED_41": {
+    "english": "… What is it?",
+    "korean": "…뭐죠?"
+  },
+  "LastCorruptedRecord1-2ED_42": {
+    "english": "Isn't there anything left to say?",
+    "korean": "아직 해야 할 말이 남지 않았나?"
+  },
+  "LastCorruptedRecord1-2ED_43": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-2ED_44": {
+    "english": "Thank you for your help.",
+    "korean": "도와줘서... 고맙습니다."
+  },
+  "LastCorruptedRecord1-2ED_45": {
+    "english": "So, she left in the end… It looks like I failed to win her heart again this time…",
+    "korean": "- 결국 가버렸나… 이번에도 역시 마음을 얻는 데는 실패했나 보네…"
+  },
+  "LastCorruptedRecord1-2ED_46": {
+    "english": "I'm sorry, Master... It didn't go as well as I expected.",
+    "korean": "주인님 죄송합니다… 생각보다 잘 풀리지 않았습니다."
+  },
+  "LastCorruptedRecord1-2ED_47": {
+    "english": "The result might be the same, but it might have been better to have Varg speak first.",
+    "korean": "- 결과는 같을지도 모르지만, 바르그가 먼저 말을 걸게 해서 더 나았던 걸지도 몰라."
+  },
+  "LastCorruptedRecord1-2ED_48": {
+    "english": "- At least when I tried, I couldn't even hear a word of 'thank you' from Haru's mouth.",
+    "korean": "- 적어도 내가 시도했을 땐, 하루의 입에서 '고맙다'는 말조차 들을 수 없었으니까."
+  },
+  "LastCorruptedRecord1-2ED_49": {
+    "english": "… It looks too precarious to leave alone.",
+    "korean": "…내버려 두기에는 많이 위태로워 보입니다."
+  },
+  "LastCorruptedRecord1-2ED_5": {
+    "english": "Is that girl a bioroid? Although she is small in stature, the power she wields when swinging a greatsword seems to be no less than mine.",
+    "korean": "저 소녀는 바이오로이드 인가요?&n몸은 왜소하지만 대검을 휘두르는 위력은 저에게 뒤지지 않는 것 같습니다."
+  },
+  "LastCorruptedRecord1-2ED_50": {
+    "english": "And… that look in his eyes… it’s just like looking at my old self.",
+    "korean": "그리고… 저 눈빛은… 마치 예전의 저를 보는 것 같습니다."
+  },
+  "LastCorruptedRecord1-2ED_51": {
+    "english": "He resembles the me of those days when I wandered, chasing only the vague goal of reviving the Empress.",
+    "korean": "여제님을 되살리겠다는 막연한 목표만을 쫓아 헤매던 그 시절의 저와 닮았습니다."
+  },
+  "LastCorruptedRecord1-2ED_52": {
+    "english": "Master, if you don't mind...",
+    "korean": "주인님, 혹시 괜찮으시다면…"
+  },
+  "LastCorruptedRecord1-2ED_53": {
+    "english": "I originally came back here for that child.",
+    "korean": "- 애초에 나는 저 아이를 위해 다시 이곳으로 들어왔다."
+  },
+  "LastCorruptedRecord1-2ED_54": {
+    "english": "To see that smile again, this time with a different meaning.",
+    "korean": "- 그때의 미소를, 이번에는 다른 의미로 다시 보기 위해서."
+  },
+  "LastCorruptedRecord1-2ED_55": {
+    "english": "Then I think it would be best to hurry and follow.",
+    "korean": "그럼 서둘러 따라가는 게 좋을 것 같습니다."
+  },
+  "LastCorruptedRecord1-2ED_56": {
+    "english": "Varg and I walked in the direction where the day had disappeared.",
+    "korean": "- 나와 바르그는 하루가 사라진 방향을 따라 발걸음을 옮겼다."
+  },
+  "LastCorruptedRecord1-2ED_57": {
+    "english": "I'm not really sure about that either. Anyway, good job, Varg.",
+    "korean": "그건 나도 잘 모르겠어. 일단 수고했어, 바르그."
+  },
+  "LastCorruptedRecord1-2ED_58": {
+    "english": "I'm glad you're with me this time.",
+    "korean": "이번에는 네가 함께 있어서 다행이야."
+  },
+  "LastCorruptedRecord1-2ED_59": {
+    "english": "I struggled a bit on my own at first.",
+    "korean": "처음엔 혼자서 고생 좀 했거든."
+  },
+  "LastCorruptedRecord1-2ED_6": {
+    "english": "A person with supernatural abilities… shall I strike up a conversation?",
+    "korean": "이능력자… 말을 걸어볼까요?"
+  },
+  "LastCorruptedRecord1-2ED_60": {
+    "english": "Yeah, I already played it once. I couldn't clear it though.",
+    "korean": "응, 이미 한번 플레이했었어. 클리어는 못했지만."
+  },
+  "LastCorruptedRecord1-2ED_61": {
+    "english": "No, it must be a human. It seems like bioroids don't exist in this virtual reality.",
+    "korean": "아니, 인간일 거야. 이 가상 현실에서 바이오로이드는 존재하지 않은 것 같아."
+  },
+  "LastCorruptedRecord1-2ED_62": {
+    "english": "Instead, there are humans who use special powers called 'superpowered individuals'.",
+    "korean": "대신 '이능력자'라고 특별한 힘을 사용하는 인간이 있어."
+  },
+  "LastCorruptedRecord1-2ED_63": {
+    "english": "Okay, Varg, you talk to him.",
+    "korean": "좋아, 바르그, 네가 말을 걸어줘."
+  },
+  "LastCorruptedRecord1-2ED_64": {
+    "english": "No, it was much better than when I was.",
+    "korean": "아니야, 나 때보다 훨씬 좋았어."
+  },
+  "LastCorruptedRecord1-2ED_65": {
+    "english": "I couldn't even exchange a few words.",
+    "korean": "나는 몇 마디 조차 나누지 못 했거든."
+  },
+  "LastCorruptedRecord1-2ED_66": {
+    "english": "What does Varg think of that kid named Haru?",
+    "korean": "바르그는 저 하루라는 애를 어떻게 생각해?"
+  },
+  "LastCorruptedRecord1-2ED_67": {
+    "english": "Yeah, it's fine. I was planning to do the same.",
+    "korean": "응, 괜찮아. 나도 그럴 생각이었으니까."
+  },
+  "LastCorruptedRecord1-2ED_7": {
+    "english": "- What should I do?",
+    "korean": "- 어떻게 할까?"
+  },
+  "LastCorruptedRecord1-2ED_8": {
+    "english": "At first, I was playing alone, so I spoke to him, but now I am with Varg.",
+    "korean": "- 처음엔 나 혼자 플레이했기 때문에 내가 말을 걸었지만, 지금은 바르그와 함께 있다."
+  },
+  "LastCorruptedRecord1-2ED_9": {
+    "english": "- The progression of the story may change from before due to Varg's intervention.",
+    "korean": "- 바르그의 개입으로 이야기의 진행이 이전과 달라질 수도 있다."
+  },
+  "LastCorruptedRecord1-2OP_1": {
+    "english": "few days ago",
+    "korean": "지금으로부터 며칠 전"
+  },
+  "LastCorruptedRecord1-2OP_10": {
+    "english": "He somehow manages to bring back to life games that are so old they are impossible to find anymore, like restoring or remaking them... Anyway, he's a geek in the gaming world.",
+    "korean": "엄청 오래돼서 이제는 도저히 찾을 수 없는 게임을 복원하거나 리메이크하는 등 어떻게든 다시 살려내는... 아무튼 게임계의 괴짜야."
+  },
+  "LastCorruptedRecord1-2OP_11": {
+    "english": "I've been indebted to the games he restored a few times, too. Wow, you really shouldn't look down on old games.",
+    "korean": "나도 그 녀석이 복원한 게임에 신세를 진 적이 몇 번 있었어.&n이야~ 옛날 게임이라고 무시할 게 아니더라고."
+  },
+  "LastCorruptedRecord1-2OP_12": {
+    "english": "The funny thing is, for games they like, they don't restore them normally. Let's go to the next round!",
+    "korean": "재미있는 점은 자신이 마음에 든 게임의 경우 평범하게 복원하지 않는 다는 거야.&n다음 라운드 고고~"
+  },
+  "LastCorruptedRecord1-2OP_13": {
+    "english": "You said the storage of that machine is quite large, right? Uh-uh~ Elena~ If you do it like that~",
+    "korean": "그 기계 장치의 스토리지가 상당히 크다고 했지?&n어어~ 이레이나~ 그렇게 하면~"
+  },
+  "LastCorruptedRecord1-2OP_14": {
+    "english": "Old games probably don't have enough data to require that much storage, so there must be something hidden.",
+    "korean": "옛날 게임이 그렇게 큰 스토리지를 요구할 만큼 데이터가 크진 않을 테니, 분명 숨겨진 무언가가 있을 거야."
+  },
+  "LastCorruptedRecord1-2OP_15": {
+    "english": "It's not that I'm not interested, but I told you, didn't I? I already owe you a lot. I'll try to play next time I have the chance, though. The wrap~ Yeah~ My victory~",
+    "korean": "관심이야 없는 건 아니지만 말했잖아? 이미 신세를 많이 졌다고.&n다음에 시간 있을 때라도 플레이는 해보겠지만.&n마무리~ 예~ 내 승리~"
+  },
+  "LastCorruptedRecord1-2OP_16": {
+    "english": "Ugh, Epsilon, let's play one more round!",
+    "korean": "으, 엡실론 언니 한 판 더 해!"
+  },
+  "LastCorruptedRecord1-2OP_17": {
+    "english": "Okay~ I'll accept it as many times as needed.",
+    "korean": "좋아~ 몇 번이고 받아 줄게."
+  },
+  "LastCorruptedRecord1-2OP_18": {
+    "english": "Hahaha, I'm grateful to the Commander for many things.",
+    "korean": "후후후, 사령관에게는 여러모로 감사하고 있어."
+  },
+  "LastCorruptedRecord1-2OP_19": {
+    "english": "How about it? Want to play a game together?",
+    "korean": "어때? 같이 게임이라도 할래?"
+  },
+  "LastCorruptedRecord1-2OP_2": {
+    "english": "It's 'Lost Game'.",
+    "korean": "로스트 게임'이야."
+  },
+  "LastCorruptedRecord1-2OP_20": {
+    "english": "Okay. I'll invite you again next time.",
+    "korean": "알았어. 다음에 또 권유할게."
+  },
+  "LastCorruptedRecord1-2OP_21": {
+    "english": "If you're thinking of playing, you'd better be prepared in many ways.",
+    "korean": "플레이 해볼 생각이라면 여러 의미로 각오하는 게 좋을 거야."
+  },
+  "LastCorruptedRecord1-2OP_22": {
+    "english": "Because most of the games made by SH S are not to be underestimated.",
+    "korean": "S. H. S이 만든 게임 대부분이 만만치 않으니까."
+  },
+  "LastCorruptedRecord1-2OP_23": {
+    "english": "Bye bye, Demon King. See you again, Oppa.",
+    "korean": "바이바이 마왕 오빠 또 봐."
+  },
+  "LastCorruptedRecord1-2OP_24": {
+    "english": "A few days later, currently",
+    "korean": "며칠 후, 현재"
+  },
+  "LastCorruptedRecord1-2OP_25": {
+    "english": "Not long ago, while on reconnaissance, Orca discovered a massive data storage device in a hidden underground facility.",
+    "korean": "- 얼마 전, 오르카는 정찰 중, 숨겨진 지하 시설에서 거대한 데이터 저장 장치를 발견했다."
+  },
+  "LastCorruptedRecord1-2OP_26": {
+    "english": "- As a result of the investigation, it was discovered that the game was a virtual reality game created by a person named SH S.",
+    "korean": "- 조사 결과, 멸망전 S. H. S라는 인물이 만든 가상 현실 게임이라는 사실을 알게 되었다."
+  },
+  "LastCorruptedRecord1-2OP_27": {
+    "english": "Having confirmed my safety, I logged into the game without hesitation, just like I did in the virtual reality Leanne created, but…",
+    "korean": "- 안전을 확인한 나는 리앤이 만든 가상 현실 때처럼 망설임 없이 게임에 접속했지만…"
+  },
+  "LastCorruptedRecord1-2OP_28": {
+    "english": "It ended up having a spectacular bad ending.",
+    "korean": "- 보기 좋게 베드 엔딩을 맞이하고 말았다."
+  },
+  "LastCorruptedRecord1-2OP_29": {
+    "english": "Brother, I'm ready to connect again.",
+    "korean": "오빠, 다시 접속할 준비가 끝났어."
+  },
+  "LastCorruptedRecord1-2OP_3": {
+    "english": "It literally means a lost game. Hwaap~! Urya~! Uwo~!",
+    "korean": "말 그대로 잃어버린 게임이란 뜻이지.&n흐압~! 우랴~! 우워~!"
+  },
+  "LastCorruptedRecord1-2OP_30": {
+    "english": "That's right. At first, only one person could connect, but now we've improved it so you can connect with others.",
+    "korean": "맞다, 처음에는 한 명만 접속할 수 있었지만, 지금은 다른 사람이랑 같이 접속할 수 있도록 개선했어."
+  },
+  "LastCorruptedRecord1-2OP_31": {
+    "english": "Since the test went smoothly, wouldn't going in with someone help clear it?",
+    "korean": "테스트도 문제없었으니까 누군가와 같이 들어가는 게 클리어에 도움이 되지 않을까?"
+  },
+  "LastCorruptedRecord1-2OP_32": {
+    "english": "- Certainly, having someone with you widens your range of choices and increases your chances of clearing the level.",
+    "korean": "- 확실히 누군가와 함께하면 선택의 폭이 넓어져 클리어할 확률이 높아진다."
+  },
+  "LastCorruptedRecord1-2OP_33": {
+    "english": "Me? Hmm... I like playing games with you, but someone has to keep an eye on things from outside, so I don't think that will work.",
+    "korean": "나? 으음… 오빠와 같이 게임하는 건 좋지만,&n누군가는 밖에서 상황을 지켜봐야 하니까 안될 것 같아."
+  },
+  "LastCorruptedRecord1-2OP_34": {
+    "english": "Then who should we invite? There are plenty of kids who seem like they would be interested in these kinds of virtual reality games...",
+    "korean": "- 그럼 누구를 부르지? 이런 가상 현실 게임에 관심이 있을 것 같은 애들은 많은데…"
+  },
+  "LastCorruptedRecord1-2OP_35": {
+    "english": "Doctor, I have a question about the machine our Empressis Hound discovered a while ago…",
+    "korean": "닥터, 얼마 전에 우리 엠프레시스 하운드가 발견한 기계 장치에 대해 궁금한 게…"
+  },
+  "LastCorruptedRecord1-2OP_36": {
+    "english": "M-Master!? W-Why are you here?",
+    "korean": "주, 주인님!? 어, 어째서 여기에?"
+  },
+  "LastCorruptedRecord1-2OP_37": {
+    "english": "I'm glad if you liked it.",
+    "korean": "마음에 드셨다면 다행입니다."
+  },
+  "LastCorruptedRecord1-2OP_38": {
+    "english": "No. I didn't find this item specifically hoping for a prize.",
+    "korean": "아닙니다. 딱히 상을 바라고 찾은 물건은 아닙니다."
+  },
+  "LastCorruptedRecord1-2OP_39": {
+    "english": "Ugh... I... need...",
+    "korean": "으… 필요... 합니다…"
+  },
+  "LastCorruptedRecord1-2OP_4": {
+    "english": "You know how we call lost technology \"Lost Technology\"? It's the game version of that. Oh, Elena, that's pretty good.",
+    "korean": "잃어버린 기술을 로스트 테크놀로지라고 부르잖아? 그거의 게임 버전이야.&n오~ 이레이나, 제법인데?"
+  },
+  "LastCorruptedRecord1-2OP_40": {
+    "english": "Okay! Got it! Barg, sit here.",
+    "korean": "응! 알았어! 바르그 언니, 여기에 앉아."
+  },
+  "LastCorruptedRecord1-2OP_41": {
+    "english": "Huh...? Uh...?",
+    "korean": "응…? 어…?"
+  },
+  "LastCorruptedRecord1-2OP_42": {
+    "english": "And now, put this on your head...",
+    "korean": "그리고 자, 여기 이걸 머리에 쓰고…"
+  },
+  "LastCorruptedRecord1-2OP_43": {
+    "english": "Wait...? Huh...? Doctor...? Master...?",
+    "korean": "잠깐…? 어라…? 닥터…? 주인님…?"
+  },
+  "LastCorruptedRecord1-2OP_44": {
+    "english": "Alright then, I'll get going. I'll pray you clear it safely this time. You have fun too, Varg.",
+    "korean": "자, 그럼 이제 작동할게. 이번에는 무사히 클리어하길 기도할게.&n바르그 언니도 재밌게 즐기고 와."
+  },
+  "LastCorruptedRecord1-2OP_45": {
+    "english": "Have fun… What on earth is this!?",
+    "korean": "재밌게 즐기라니… 이건 대체 무슨!?"
+  },
+  "LastCorruptedRecord1-2OP_46": {
+    "english": "3…",
+    "korean": "3…"
+  },
+  "LastCorruptedRecord1-2OP_47": {
+    "english": "2…",
+    "korean": "2…"
+  },
+  "LastCorruptedRecord1-2OP_48": {
+    "english": "1…",
+    "korean": "1…"
+  },
+  "LastCorruptedRecord1-2OP_49": {
+    "english": "With the doctor's last words, I felt a familiar sensation as my vision flashed pure white.",
+    "korean": "- 닥터의 마지막 말과 함께 익숙한 감각을 느끼며 나의 시야는 새하얗게 점멸됐다."
+  },
+  "LastCorruptedRecord1-2OP_5": {
+    "english": "There were many games during the Doomsday War, but 'Lost Game' was made much, much earlier than that. *Gasp!* *Gasp!* *Gasp!*",
+    "korean": "멸망전에도 많은 게임들이 있었지만, '로스트 게임'은 그보다 훨씬 오래전에 만들어진 게임이야.&n흡! 흡! 허!"
+  },
+  "LastCorruptedRecord1-2OP_50": {
+    "english": "- This is…",
+    "korean": "- 여기는…"
+  },
+  "LastCorruptedRecord1-2OP_51": {
+    "english": "The forest from when I first started... I see that all the previous data has really been reset.",
+    "korean": "- 처음 시작했을 때의 숲… 이전 데이터가 정말로 전부 리셋 됐구나."
+  },
+  "LastCorruptedRecord1-2OP_52": {
+    "english": "It can't be helped. I have no choice but to start over from the beginning, step by step…",
+    "korean": "- 어쩔 수 없지. 다시 처음부터 차근차근 시작하는 수밖에…"
+  },
+  "LastCorruptedRecord1-2OP_53": {
+    "english": "M-Master, where on earth are we? We were definitely in Orca just moments ago…",
+    "korean": "주, 주인님 여기는 대체? 저희는 분명 방금 전까지 오르카에…"
+  },
+  "LastCorruptedRecord1-2OP_54": {
+    "english": "When I turned around, I saw that Barg, who had come in with me, was quite flustered.",
+    "korean": "- 돌아보니 같이 들어온 바르그가 상당히 당황하고 있었다."
+  },
+  "LastCorruptedRecord1-2OP_55": {
+    "english": "Come to think of it, hasn't Varg ever entered virtual reality?",
+    "korean": "- 생각해 보니 바르그는 가상 현실에 들어온 적이 없었나."
+  },
+  "LastCorruptedRecord1-2OP_56": {
+    "english": "Virtual reality… I’ve heard of it, but I never imagined it would be this extreme… I can’t believe this is all a game and not reality.",
+    "korean": "가상 현실… 들어는 봤지만, 설마 이 정도일 줄은…&n이게 전부 현실이 아니라 게임이라는 게 믿어지지 않습니다."
+  },
+  "LastCorruptedRecord1-2OP_57": {
+    "english": "As soon as Varg heard that it was virtual reality, he quickly began to assess his surroundings.",
+    "korean": "- 바르그는 가상 현실이라는 걸 듣자마자 빠르게 주변 상황을 파악하기 시작했다."
+  },
+  "LastCorruptedRecord1-2OP_58": {
+    "english": "So, we are currently in virtual reality… in other words, as players inside a game.",
+    "korean": "저희는 지금 가상 현실… 즉, 게임 속 플레이어로 들어와 있다는 거군요."
+  },
+  "LastCorruptedRecord1-2OP_59": {
+    "english": "I understand the situation. Then, I will do my best to help you clear the game, Master.",
+    "korean": "상황은 알겠습니다.&n그럼 주인님이 게임을 클리어할 수 있도록 최선을 다하겠습니다."
+  },
+  "LastCorruptedRecord1-2OP_6": {
+    "english": "So, I'm talking about games that are at least 200 years old where the data has been completely lost. Hehe, how about this one!",
+    "korean": "그러니까 적어도 200년은 지난 게임 중에 데이터가 완전히 소실된 게임을 말해.&n후후, 이건 어떠냐!"
+  },
+  "LastCorruptedRecord1-2OP_60": {
+    "english": "Battle... are you talking about?",
+    "korean": "전투... 말씀입니까?"
+  },
+  "LastCorruptedRecord1-2OP_61": {
+    "english": "Master! It is an Iron Bug! And someone is fighting.",
+    "korean": "주인님! 철충입니다! 그리고 누군가 싸우고 있습니다."
+  },
+  "LastCorruptedRecord1-2OP_62": {
+    "english": "As expected, the story is progressing in the same flow as the first playthrough.",
+    "korean": "- 예상대로 처음 플레이와 동일한 흐름으로 이야기가 진행되는군."
+  },
+  "LastCorruptedRecord1-2OP_63": {
+    "english": "No matter what happens, helping 'that girl' comes first this time as well.",
+    "korean": "- 뭐가 됐든 이번에도 '저 소녀'를 도와주는 게 먼저다."
+  },
+  "LastCorruptedRecord1-2OP_64": {
+    "english": "All right.",
+    "korean": "알겠습니다."
+  },
+  "LastCorruptedRecord1-2OP_65": {
+    "english": "Alright, it's time to start over.",
+    "korean": "- 자, 지금부터 재시작이다."
+  },
+  "LastCorruptedRecord1-2OP_66": {
+    "english": "I'll definitely clear it this time.",
+    "korean": "- 이번에는 반드시 클리어해주겠어."
+  },
+  "LastCorruptedRecord1-2OP_67": {
+    "english": "Lost Game?",
+    "korean": "로스트 게임?"
+  },
+  "LastCorruptedRecord1-2OP_68": {
+    "english": "What does that SH S stand for?",
+    "korean": "그 S. H. S는 무슨 뜻이야?"
+  },
+  "LastCorruptedRecord1-2OP_69": {
+    "english": "Looks like Epsilon isn't very interested?",
+    "korean": "엡실론은 별로 관심이 없나 보네?"
+  },
+  "LastCorruptedRecord1-2OP_7": {
+    "english": "You said the initials 'SH S' were written on that machine you found, right? Then it's definitely the 'Lost Game'. Heya~! Heya~!",
+    "korean": "발견한 그 기계에 'S. H. S'라고 이니셜이 적혀 있었다고 했지? 그럼 '로스트 게임'이 확실해.&n헤야~! 헤야~!"
+  },
+  "LastCorruptedRecord1-2OP_70": {
+    "english": "You look happy.",
+    "korean": "즐거워 보이네."
+  },
+  "LastCorruptedRecord1-2OP_71": {
+    "english": "Thanks for the invitation, but I'll ask for another opportunity next time.",
+    "korean": "권유는 고맙지만 다음에 기회 부탁할게."
+  },
+  "LastCorruptedRecord1-2OP_72": {
+    "english": "I plan to investigate that game starting now.",
+    "korean": "지금부터 그 게임을 조사할 생각이거든."
+  },
+  "LastCorruptedRecord1-2OP_73": {
+    "english": "Really? Then what about the doctor?",
+    "korean": "그래? 그럼 닥터는 어때?"
+  },
+  "LastCorruptedRecord1-2OP_74": {
+    "english": "Barg, you came at just the right time.",
+    "korean": "바르그, 마침 잘 왔어."
+  },
+  "LastCorruptedRecord1-2OP_75": {
+    "english": "I was examining the item that Bargne had found in detail.",
+    "korean": "바르그네가 발견한 물건을 자세히 알아보고 있었어."
+  },
+  "LastCorruptedRecord1-2OP_76": {
+    "english": "I really liked it.",
+    "korean": "상당히 마음에 들었거든."
+  },
+  "LastCorruptedRecord1-2OP_77": {
+    "english": "Hmm... you're right. I should give them an award.",
+    "korean": "음… 그렇네. 뭔가 상을 줘야겠는데."
+  },
+  "LastCorruptedRecord1-2OP_78": {
+    "english": "Then you don't need it?",
+    "korean": "그럼 필요 없어?"
+  },
+  "LastCorruptedRecord1-2OP_79": {
+    "english": "Okay, then sit here next to me.",
+    "korean": "좋아, 그럼 여기 내 옆에 앉아."
+  },
+  "LastCorruptedRecord1-2OP_8": {
+    "english": "That's the name of the creator of that machine and the guy who first used the term 'Lost Game.' I don't know the details of his identity either.",
+    "korean": "그 기계 장치의 제작자이자 '로스트 게임'이란 단어를 처음 사용한 녀석의 이름이야.&n나도 그 사람의 정체에 대해 자세히는 몰라."
+  },
+  "LastCorruptedRecord1-2OP_80": {
+    "english": "Doctor, please prepare it with me.",
+    "korean": "닥터, 같이 준비 해줘."
+  },
+  "LastCorruptedRecord1-2OP_81": {
+    "english": "This is inside a virtual reality game.",
+    "korean": "여기는 가상 현실 게임 속이야."
+  },
+  "LastCorruptedRecord1-2OP_82": {
+    "english": "Right, and clearing this game is our goal.",
+    "korean": "맞아, 그리고 이 게임을 클리어하는 게 우리의 목표지."
+  },
+  "LastCorruptedRecord1-2OP_83": {
+    "english": "Thanks, then let's get moving.",
+    "korean": "고마워, 그럼 일단 움직이자."
+  },
+  "LastCorruptedRecord1-2OP_84": {
+    "english": "The battle is going to start over there soon.",
+    "korean": "곧 저쪽에서 전투가 시작 될 거야."
+  },
+  "LastCorruptedRecord1-2OP_85": {
+    "english": "Let's take care of the IronBug first, Varg.",
+    "korean": "바르그 우선 철충부터 정리하자."
+  },
+  "LastCorruptedRecord1-2OP_9": {
+    "english": "All I know is that he's the guy who suddenly appeared before the apocalypse? Ugh, I got hit hard.",
+    "korean": "알고 있는 거라면 멸망전에 갑자기 나타난 녀석이라는 정도?&n윽, 한방 먹었네."
+  },
+  "LastCorruptedRecord1-3ED_1": {
+    "english": "This is ridiculous...",
+    "korean": "어이가 없네요…"
+  },
+  "LastCorruptedRecord1-3ED_10": {
+    "english": "Because all I have left now is… revenge…",
+    "korean": "지금 제게 남은 건… 오직 복수 뿐이니까요…"
+  },
+  "LastCorruptedRecord1-3ED_100": {
+    "english": "I will accept that as a positive answer. I will also help make that wish come true if possible.",
+    "korean": "긍정적인 대답으로 받아들이겠다.&n그 소망 또한 가능한 이루게 도와주겠다."
+  },
+  "LastCorruptedRecord1-3ED_101": {
+    "english": "Did you somehow manage to join this camp again this time?",
+    "korean": "- 어떻게든 이번에도 이 캠프에 합류하는 데는 성공했나."
+  },
+  "LastCorruptedRecord1-3ED_102": {
+    "english": "The problem is how to act going forward…",
+    "korean": "- 문제는 앞으로 어떻게 행동하느냐인데…"
+  },
+  "LastCorruptedRecord1-3ED_103": {
+    "english": "If things go exactly the same way as before, it is highly likely that this time will also end in a bad ending.",
+    "korean": "- 만약 이전처럼 똑같이 흘러간다면 이번에도 분명 베드 엔딩으로 끝날 가능성이 높다."
+  },
+  "LastCorruptedRecord1-3ED_104": {
+    "english": "- You must find a turning point before that happens.",
+    "korean": "- 그렇게 되기 전에 터닝 포인트를 찾아야만 한다."
+  },
+  "LastCorruptedRecord1-3ED_105": {
+    "english": "Um... so... Commander...? Should I call you that...?",
+    "korean": "저기… 그러니까… 사령관… 님…? 이라고 부르면 될까요…?"
+  },
+  "LastCorruptedRecord1-3ED_106": {
+    "english": "The instructions you gave me, Commander, were really helpful. Thank you.",
+    "korean": "사령관님이 주신 지시사항 정말로 도움이 됐어요. 감사합니다."
+  },
+  "LastCorruptedRecord1-3ED_107": {
+    "english": "And... I apologize for saying this, but it's okay if you don't worry too much about me.",
+    "korean": "그리고... 이런 말씀드리면 실례겠지만, 저한테 너무 신경 안 쓰셔도 괜찮아요."
+  },
+  "LastCorruptedRecord1-3ED_108": {
+    "english": "I'm no longer interested in other things.",
+    "korean": "저는 더 이상 다른 일에 관심 없어요."
+  },
+  "LastCorruptedRecord1-3ED_109": {
+    "english": "All I can think about is constantly fighting and killing Soul Junk.",
+    "korean": "계속 소울정크와 싸우고, 죽이는 것밖에 머릿속에 떠오르지 않아요."
+  },
+  "LastCorruptedRecord1-3ED_11": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-3ED_110": {
+    "english": "Even though I keep killing, I feel suffocated and upset.",
+    "korean": "죽이고, 계속 죽여도 마음속이 답답하고 기분이 나빠요."
+  },
+  "LastCorruptedRecord1-3ED_111": {
+    "english": "It feels like my thirst doesn't go away even after drinking water.",
+    "korean": "물을 마셔도 갈증이 사라지지 않는 느낌이에요."
+  },
+  "LastCorruptedRecord1-3ED_112": {
+    "english": "No matter where I go... I'm sure I'll still be like this. So, you don't need to worry about me.",
+    "korean": "분명 어딜 가도... 전 계속 이 모양일 거예요.&n그러니까, 저한텐 신경 쓰지 않으셔도 돼요."
+  },
+  "LastCorruptedRecord1-3ED_113": {
+    "english": "Ah, no... It's not that I dislike the Commander... but that doesn't mean I like him...",
+    "korean": "아, 아뇨… 그 사령관님이 싫다는 게 아니라…&n그렇다고 좋다는 건 아닌데…"
+  },
+  "LastCorruptedRecord1-3ED_114": {
+    "english": "I just… I’m not sure what the Commander is thinking.",
+    "korean": "그냥… 사령관님이 무슨 생각을 하고 계신지 잘 모르겠어요."
+  },
+  "LastCorruptedRecord1-3ED_115": {
+    "english": "Mr. Varg, and others I met for the first time today—I wonder why you are treating me so kindly…",
+    "korean": "바르그 씨도 그렇고 오늘 처음 본 사람들인데 왜 이렇게 친절하게 대해주시는지…"
+  },
+  "LastCorruptedRecord1-3ED_116": {
+    "english": "… as my heart leads me…",
+    "korean": "…마음 가는 대로…"
+  },
+  "LastCorruptedRecord1-3ED_117": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-3ED_118": {
+    "english": "After that, we encountered Soul Junk several more times, and each time, thanks to the efforts of Haru and Varg, we were able to deal with it easily.",
+    "korean": "- 그 후로도 우리는 몇 번이고 소울정크와 마주쳤고, 그때마다 하루와 바르그의 활약으로 쉽게 처리할 수 있었다."
+  },
+  "LastCorruptedRecord1-3ED_119": {
+    "english": "Alright, I suppose it's time to head back. You've worked hard. I've fully confirmed just how much of a asset you guys are.",
+    "korean": "좋아, 슬슬 돌아가는 게 좋겠군.&n고생 많았다. 너희들이 얼마만큼 전력이 될지는 충분히 확인했다."
+  },
+  "LastCorruptedRecord1-3ED_12": {
+    "english": "You say you're going... did you hear me correctly?",
+    "korean": "간다니… 제 얘기를 제대로 들은 거 맞아요?"
+  },
+  "LastCorruptedRecord1-3ED_120": {
+    "english": "- He definitely said he wanted to spar directly with Haru after this...",
+    "korean": "- 분명 이 이후, 하루와 직접 대련해 보고 싶다고 했었는데…"
+  },
+  "LastCorruptedRecord1-3ED_121": {
+    "english": "There weren't any problems before, so it should be fine this time too.",
+    "korean": "- 이전에도 별 문제는 없었으니 이번에도 괜찮겠지."
+  },
+  "LastCorruptedRecord1-3ED_122": {
+    "english": "Lastly… I’d like to have a direct match with that kid named Haru.",
+    "korean": "마지막으로… 저 하루라는 아이와 직접 한 번 겨뤄보고 싶군."
+  },
+  "LastCorruptedRecord1-3ED_123": {
+    "english": "have prepared a wooden sword for sparring. With this, I won't die no matter how hard I get cut.",
+    "korean": "대련용 목검을 준비해 뒀다.&n이거라면 아무리 강하게 베여도 죽지는 않겠지."
+  },
+  "LastCorruptedRecord1-3ED_124": {
+    "english": "… that duel…",
+    "korean": "…그 대련…"
+  },
+  "LastCorruptedRecord1-3ED_125": {
+    "english": "- Barg?",
+    "korean": "- 바르그?"
+  },
+  "LastCorruptedRecord1-3ED_126": {
+    "english": "Would it be okay if I did it instead?",
+    "korean": "내가 대신 해도 괜찮겠나?"
+  },
+  "LastCorruptedRecord1-3ED_127": {
+    "english": "Hmm…? I’d like to hear the reason.",
+    "korean": "흠…? 이유를 듣고 싶군."
+  },
+  "LastCorruptedRecord1-3ED_128": {
+    "english": "I have no grand intentions. I simply felt the urge to clash swords.",
+    "korean": "큰 뜻은 없다.&n단지 검을 맞대고 싶다는 생각이 들었을 뿐이다."
+  },
+  "LastCorruptedRecord1-3ED_129": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-3ED_13": {
+    "english": "What is that… Wait, why are you grabbing my arm?",
+    "korean": "그게 무슨… 잠깐, 당신은 왜 제 팔을 잡는 건데요?"
+  },
+  "LastCorruptedRecord1-3ED_130": {
+    "english": "Alright. Then go ahead and show me your skills to the fullest.",
+    "korean": "알았다. 그럼 어디 그 실력을 힘껏 보여봐라."
+  },
+  "LastCorruptedRecord1-3ED_131": {
+    "english": "Thank you.",
+    "korean": "감사한다."
+  },
+  "LastCorruptedRecord1-3ED_132": {
+    "english": "Varg looked at me quietly, and I smiled and nodded, meaning 'just right.'",
+    "korean": "- 바르그는 조용히 나를 바라봤고 나는 웃으며 '적당히'라는 의미를 담아 끄덕였다."
+  },
+  "LastCorruptedRecord1-3ED_133": {
+    "english": "Is it Dalian…?",
+    "korean": "대련… 인가요?"
+  },
+  "LastCorruptedRecord1-3ED_134": {
+    "english": "We will fight each other with these wooden swords. I hope you fight with all your might, just as you have done so far.",
+    "korean": "서로 이 목검을 가지고 싸운다.&n넌 지금까지 했던 대로 전력을 다해 싸웠으면 좋겠군."
+  },
+  "LastCorruptedRecord1-3ED_135": {
+    "english": "Even if it's a wooden sword, cutting a person is a bit much...",
+    "korean": "아무리 목검이라지만 사람을 베는 건 좀…"
+  },
+  "LastCorruptedRecord1-3ED_136": {
+    "english": "Don't worry, it's just a wooden sword that can't even cut wood.",
+    "korean": "걱정 마라, 나무도 못 베는 목검이니까."
+  },
+  "LastCorruptedRecord1-3ED_137": {
+    "english": "Even so, wouldn't it hurt if you got hit...?",
+    "korean": "아무리 그래도 맞으면 아프지 않을까요…?"
+  },
+  "LastCorruptedRecord1-3ED_138": {
+    "english": "You don't need to underestimate me. Even if it is a real sword, I have no intention of being defeated by such sloppy swordsmanship.",
+    "korean": "과소평가하지 않아도 된다.&n설령 진검이라 해도 그런 허술한 검술에 당할 생각은 없다."
+  },
+  "LastCorruptedRecord1-3ED_139": {
+    "english": "No need for long words, just give it your all and attack.",
+    "korean": "긴 말 필요 없이 전력을 다해 덤벼 봐라."
+  },
+  "LastCorruptedRecord1-3ED_14": {
+    "english": "It is my master's decision, so I will simply follow it.",
+    "korean": "주인님의 결정이니 나는 따를 뿐이다."
+  },
+  "LastCorruptedRecord1-3ED_140": {
+    "english": "Ugh... I understand...",
+    "korean": "윽… 알겠… 습니다."
+  },
+  "LastCorruptedRecord1-3ED_141": {
+    "english": "Haa… Haa…",
+    "korean": "하아… 하아…"
+  },
+  "LastCorruptedRecord1-3ED_142": {
+    "english": "Is it okay?",
+    "korean": "괜찮나?"
+  },
+  "LastCorruptedRecord1-3ED_143": {
+    "english": "I can still… do more…!",
+    "korean": "아직… 더 할 수 있어요…!"
+  },
+  "LastCorruptedRecord1-3ED_144": {
+    "english": "This is enough. I see great potential in you.",
+    "korean": "이 정도면 충분하다. 너에게는 큰 가능성이 보인다."
+  },
+  "LastCorruptedRecord1-3ED_145": {
+    "english": "You will definitely achieve great growth even if you only learn basic swordsmanship.",
+    "korean": "기본적인 검술만 배워도 분명 큰 성장을 이룰 거다."
+  },
+  "LastCorruptedRecord1-3ED_146": {
+    "english": "...Does that mean... you're going to teach me how to fight?",
+    "korean": "...그 말은... 저에게 싸움 방법을 가르쳐 주시겠다는 건가요?"
+  },
+  "LastCorruptedRecord1-3ED_147": {
+    "english": "I don't know how long I will be able to teach, but I will teach you as long as I can.",
+    "korean": "얼마나 오래 가르칠 수 있을진 모르지만, 내 힘이 닿는 데까지 알려주겠다."
+  },
+  "LastCorruptedRecord1-3ED_148": {
+    "english": "Well, that is... um... I'm not really into that kind of thing... I can kill Soul Junk perfectly well right now...",
+    "korean": "그건 그러니까… 저기…&n전 별로 그런 건… 지금도 충분히 소울정크를 죽일 수 있고…"
+  },
+  "LastCorruptedRecord1-3ED_149": {
+    "english": "Commander...?",
+    "korean": "사령관님…?"
+  },
+  "LastCorruptedRecord1-3ED_15": {
+    "english": "M-Master...?",
+    "korean": "주, 주인님…?"
+  },
+  "LastCorruptedRecord1-3ED_150": {
+    "english": "… …",
+    "korean": "… …"
+  },
+  "LastCorruptedRecord1-3ED_151": {
+    "english": "Can you really become strong just by learning?",
+    "korean": "배우기만 해도… 정말 강해질 수 있나요?"
+  },
+  "LastCorruptedRecord1-3ED_152": {
+    "english": "If you just have the desire to learn. If you just have the will to become stronger, it is possible.",
+    "korean": "네가 배우고 싶다는 마음만 있다면.&n강해지고 싶다는 의지만 있다면 가능하다."
+  },
+  "LastCorruptedRecord1-3ED_153": {
+    "english": "Okay... Then, I'll learn.",
+    "korean": "알겠습니다… 그럼, 배울게요."
+  },
+  "LastCorruptedRecord1-3ED_154": {
+    "english": "I understand. I'm telling you in advance, I have no intention of teaching you easily. You'd better be prepared.",
+    "korean": "알겠다. 미리 말하지만 쉽게 가르칠 생각은 없다.&n각오하는 게 좋을 거다."
+  },
+  "LastCorruptedRecord1-3ED_155": {
+    "english": "Ugh, understood...!",
+    "korean": "윽, 알겠습니다…!"
+  },
+  "LastCorruptedRecord1-3ED_156": {
+    "english": "It was unexpected that Varg stepped up, but it feels like things turned out well in the end.",
+    "korean": "- 바르그가 나선 건 예상 밖이였지만, 결과적으로는 좋게 흘러간 느낌이 든다."
+  },
+  "LastCorruptedRecord1-3ED_157": {
+    "english": "- Haru's reaction is much more positive than when I did it alone.",
+    "korean": "- 하루의 반응은 내가 혼자 진행했을 때보다 훨씬 긍정적이다."
+  },
+  "LastCorruptedRecord1-3ED_158": {
+    "english": "Haha, it was the guidance of fate that I accepted kids like you as comrades.",
+    "korean": "하하, 너희 같은 아이들을 동료로 받아들인 건 운명의 인도로군."
+  },
+  "LastCorruptedRecord1-3ED_159": {
+    "english": "Now, you must be tired from your long journey, so please rest comfortably in my sanctuary.",
+    "korean": "자, 너희들도 오랜 여행으로 피곤할 테니 나의 안식처에서 편히 쉬도록 해라."
+  },
+  "LastCorruptedRecord1-3ED_16": {
+    "english": "No, more importantly, where are you trying to go?",
+    "korean": "아니, 그보다 어디로 가려는 건데요?"
+  },
+  "LastCorruptedRecord1-3ED_160": {
+    "english": "Wait a minute, we didn't come chasing you with the intention of fighting.",
+    "korean": "잠깐만 우리는 싸울 생각으로 쫓아온 게 아니야."
+  },
+  "LastCorruptedRecord1-3ED_161": {
+    "english": "We don't know much about this place.",
+    "korean": "우린 이곳에 대해서 잘 몰라."
+  },
+  "LastCorruptedRecord1-3ED_162": {
+    "english": "So I want to ask you a few things.",
+    "korean": "그래서 이것저것 물어보고 싶어."
+  },
+  "LastCorruptedRecord1-3ED_163": {
+    "english": "How are you managing your life?",
+    "korean": "생활은 어떻게 하고 있는 거야?"
+  },
+  "LastCorruptedRecord1-3ED_164": {
+    "english": "Things like food, or a place to sleep.",
+    "korean": "식량이라던가, 잘 곳이라던가."
+  },
+  "LastCorruptedRecord1-3ED_165": {
+    "english": "I'm not entirely sure, but I understand. Shall we go then?",
+    "korean": "잘은 모르겠지만 알았어. 그럼 가볼까?"
+  },
+  "LastCorruptedRecord1-3ED_166": {
+    "english": "So, to sum it up, you don't really have a place to be either, right?",
+    "korean": "정리하면 너도 딱히 있을 곳이 없다는 거잖아?"
+  },
+  "LastCorruptedRecord1-3ED_167": {
+    "english": "Then wouldn't it be better for both of us to stick together for the time being?",
+    "korean": "그럼 당분간 같이 행동하는 게 서로에게 좋지 않겠어?"
+  }
+}

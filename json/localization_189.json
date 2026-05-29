@@ -1,0 +1,4002 @@
+{
+  "SkillDesc_Skill_PECS_Boryeon_N_5": {
+    "english": "At the start of the round, activates defense ignore for self.&nAt the start of the round, increases AP of allies within range.&nDamage increase effects of own active skills are doubled.",
+    "korean": "라운드 개시 시, 자신은 보호 무시가 활성화됩니다.&n라운드 개시 시, 범위 내 아군의 AP가 증가합니다.&n자신의 액티브 스킬의 피해량 증가 효과가 두 배로 증폭됩니다."
+  },
+  "SkillDesc_Skill_PECS_CoCoWhiteShell_N_1": {
+    "english": "Shatters armor with the Meteor-Break Drill, dealing {0} damage and reducing the target’s DEF for 3 rounds. The effect gradually diminishes each round.&nIf the target is a Heavy-type or Defender, removes their Damage Reduction effect.&nOn hit, if <Stinger> is in the squad, triggers a coordinated attack with [Shatter Charge].",
+    "korean": "운석 파쇄 드릴로 장갑을 부숴, {0} 피해를 주고 3라운드 동안 대상의 방어력을 감소시킵니다. 해당 효과는 라운드 경과에 따라 점감합니다.&n적중 대상이 중장형 또는 보호기인 경우, 받는 피해 감소 효과를 해제합니다.&n적중 시 스쿼드 내에 <스팅어>가 있을 경우, [파쇄 돌격] 협동 공격을 유도합니다."
+  },
+  "SkillDesc_Skill_PECS_CoCoWhiteShell_N_2": {
+    "english": "When this skill is used, increases the target’s AP (excluding Defenders), grants designated protection, and provides a barrier for 3 rounds.&nIf the target is a member of <Orbital Watcher>, the AP gain is doubled and harmful effects are removed.&nIf the target is <Aeda>, the <Calculation Overload> effect is removed.",
+    "korean": "스킬 사용 시, 보호기를 제외한 대상의 AP를 증가시키고, 3라운드 동안 지정 보호하며 방어막을 부여합니다.&n대상이 <오비탈 와쳐> 소속 전투원인 경우, AP 증가량이 두 배로 증폭되고 해로운 효과를 해제합니다.&n대상이 <에이다>인 경우, <연산 과부하> 효과를 해제할 수 있습니다."
+  },
+  "SkillDesc_Skill_PECS_CoCoWhiteShell_N_3": {
+    "english": "At the start of the round, grants designated protection and increases EVA for allies within range, excluding Defenders.&nAt the start of the round, reduces damage taken by self based on the number of allied units (excluding self).&nUnits belonging to <Orbital Watcher> are counted as two for this calculation.",
+    "korean": "라운드 개시 시, 범위 내 보호기를 제외한 아군을 지정 보호하고 회피를 증가시킵니다.&n라운드 개시 시, 자신을 제외한 아군 1기당 자신이 받는 피해가 감소합니다.&n<오비탈 와쳐> 소속 전투원은 2기로 취급하여 계산됩니다."
+  },
+  "SkillDesc_Skill_PECS_CoCoWhiteShell_N_4": {
+    "english": "At the start of the round, self gains both Row and Column Protection.&nAlso gains increased DEF, Effect Resistance, and all Elemental Resistances due to special space-grade armor.&nBecomes immune to Ice Resistance Down effects at the start of the round.",
+    "korean": "라운드 개시 시, 자신은 행 / 열 보호가 활성화됩니다.&n라운드 개시 시, 자신은 우주용 특수 장갑으로 인해 방어력 / 효과 저항 / 모든 속성 저항이 증가합니다.&n라운드 개시 시, 자신은 냉기 저항 감소 효과에 면역 상태가 됩니다."
+  },
+  "SkillDesc_Skill_PECS_CoCoWhiteShell_N_5": {
+    "english": "At the start of the round, sets a lower limit for Ice Resistance for allies within range.&nWhen hit by Ice damage or starting the round while <Drenched>, gains an effect that minimizes damage below a certain threshold for the rest of the round.&nWhen hit while in <Condensed> state, increases AP for allies within range for 2 rounds.",
+    "korean": "라운드 개시 시, 범위 내 아군의 냉기 저항 하한을 생성합니다.&n냉기 속성 피격 시 또는 <침수> 상태로 라운드 개시 시, 자신은 해당 라운드 동안 일정 이하의 피해를 최소화하는 효과를 획득합니다.&n<응축> 상태에서 피격 시, 2라운드 동안 범위 내 아군의 행동력을 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_CyclopsePrincess_N_1": {
+    "english": "Swing the <Demon Sword: Oath of Darkness> to deal {0} damage.&nReduces the target’s DEF and Effect Resistance for 2 rounds, with amplified effects based on the number of <Primordial Power> types applied to the user.&nIf the user's HP is 40% or higher, the attack removes the target’s Counter and Damage Minimization effects on hit and deals increased damage.&nNone of these effects are affected by Effect Resistance.",
+    "korean": "<마검 : 어둠의 서약>을 휘둘러 {0} 피해를 줍니다. 적중 대상의 방어력 / 효과 저항을 2라운드 동안 감소시키며, 자신에게 적용된 <진조의 권능> 종류 수에 따라 효과가 증폭됩니다.&n자신의 HP가 40% 이상일 때, 공격 적중 시 대상의 반격 / 피해 최소화 효과를 해제하며 피해량이 증가합니다.&n각 효과는 효과 저항의 영향을 받지 않습니다."
+  },
+  "SkillDesc_Skill_PECS_CyclopsePrincess_N_2": {
+    "english": "After releasing the seal on the eyepatch, fire a crimson flash at the target area to deal {0} damage and remove Counter effects from hit targets.&nAdditionally, based on the number of <Primordial Power> types applied to the user, weaken the targets' Damage Reduction effects for 2 rounds.&nAt skill level 10, the skill’s area of effect greatly increases.",
+    "korean": "안대의 봉인을 해제한 후, 진홍빛 섬광을 발사해 목표 지점에 {0} 피해를 주고 적중 대상의 반격 효과를 해제합니다.&n또한 자신에게 적용된 <진조의 권능> 종류 수에 따라 2라운드 동안 적중 대상의 받는 피해 감소 효과를 약화시킵니다.&n스킬 레벨 10에서 효과 범위가 크게 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_CyclopsePrincess_N_3": {
+    "english": "<Primordial Power: Evil Eye>: At the start of the round, if not receiving Attack Support, gain CRIT Up for 1 round.&n<Primordial Power: Fate Weaving>: At the start of the round, if not receiving Attack Support or Designated Protection, gain Ignore Protection for 1 round.&n<Primordial Power: Undying>: Upon defeating an enemy, gain an Undispellable Guts effect. (Up to 3 stacks)",
+    "korean": "<진조의 권능 : 사안> : 라운드 개시 시, 자신이 공격 지원 효과를 받고 있지 않은 경우, 1라운드 동안 치명타가 증가합니다.&n<진조의 권능 : 운명조작> : 라운드 개시 시, 자신이 공격 지원 및 지정 보호 효과를 받고 있지 않은 경우, 1라운드 동안 보호 무시 효과를 획득합니다.&n<진조의 권능 : 불사> : 적 처치 시, 해제 불가 전투 속행 효과를 획득합니다. (최대 3중첩)"
+  },
+  "SkillDesc_Skill_PECS_CyclopsePrincess_N_4": {
+    "english": "At the start of the round, increase the ATK and AP of allies within range for 1 round based on the number of <Primordial Power> types applied to the user.&nIf allies within range are affected by <LRL: Primordial Power?>, the base effect is enhanced and their Penetration increases.&nWhile the user is under a Guts effect, AP of allies within range is further increased.",
+    "korean": "라운드 개시 시, 자신에게 적용된 <진조의 권능> 종류 수에 따라 1라운드 동안 범위 내 아군의 공격력 / 행동력을 증가시킵니다. 범위 내 아군에게 <LRL : 진조의 힘?>이 적용된 상태인 경우, 기본 효과가 추가 적용되며 방어 관통이 증가합니다.&n자신이 전투 속행 시, 범위 내 아군의 AP가 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_CyclopsePrincess_N_5": {
+    "english": "When an attack hits, if the user has 2 or more types of <Primordial Power> applied, removes the target’s Support Attack and Designated Protection effects and increases the damage they take.&nAt the start of the round, enemy units affected by both <Eternal Primordial Flare> and <LRL: Cyclops Eternal Beam> have their maximum number of actions reduced.&nThese effects are not affected by Effect Resistance.",
+    "korean": "공격 적중 시, 자신에게 <진조의 권능>이 2종류 이상 적용된 경우, 대상의 공격 지원 / 지정 보호 효과를 해제하며 받는 피해를 증가시킵니다.&n라운드 개시 시, <영원한 진조의 섬광> 및 <LRL : 사이클롭스 이터널 빔> 효과가 모두 적용 중인 적군은 최대 행동 횟수가 감소합니다.&n각 효과들은 효과 저항의 영향을 받지 않습니다."
+  },
+  "SkillDesc_Skill_PECS_DarkElf_N_5": {
+    "english": "At the start of the round, ATK is increased.&nIf the attack misses, ACU is greatly increased for 1 round.",
+    "korean": "라운드 개시 시, 공격력이 증가합니다. 공격이 적중하지 않을 시, 1라운드 동안 적중이 크게 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Dione_N_1": {
+    "english": "Deals {0} Ice damage that ignores Guard to a designated area.&nOn hit, targets become Immobilized for 1 round.&nIf an enemy is defeated with Safety Perimeter Breach!, grants 1-time Damage Immunity to self.&nDamage Immunity gained from defeating enemies with Safety Perimeter Breach! does not stack with the immunity from Golden Workers Torpedo, but it can be refreshed.",
+    "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 입힙니다.&n적중 시 대상은 1라운드 동안 이동 불가 상태가 됩니다.&n안전 범위 이탈!로 적을 처치 시 자신에게 피해 무효화 1회를 획득합니다.&n적을 처치 후 안전 범위 이탈!로 획득하는 피해 무효화는 골든 워커즈 토르피도의 피해 무효화와 중첩 적용되지 않으며 갱신될 수 있습니다."
+  },
+  "SkillDesc_Skill_PECS_Dione_N_2": {
+    "english": "Deals {0} Ice damage that ignores Guard to a designated area.&nOn hit, reduces the target’s AP and inflicts Drenched.&nWhile Drenched, the target has reduced Ice and Electric resistance and increased Fire resistance for 2 rounds.",
+    "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 입힙니다.&n적중 시 대상은 행동력 감소 및 침수 상태가 됩니다.&n침수 시 대상의 2라운드 동안 냉기 / 전기 저항 감소, 화염 저항 증가 상태가 됩니다."
+  },
+  "SkillDesc_Skill_PECS_Dione_N_3": {
+    "english": "At the start of the round, taunts all enemies.&nFor 2 rounds, reduces their AP and increases damage taken (up to 3 stacks).",
+    "korean": "라운드 개시 시 모든 적을 도발합니다.&n2라운드 동안 적의 행동력을 감소시키고 받는 피해를 증가시킵니다(최대 3 중첩)."
+  },
+  "SkillDesc_Skill_PECS_Dione_N_4": {
+    "english": "At the start of the round, if the user is in a <Drenched> state, increases ATK / CRIT / AP.&nAdditionally, if hit while <Drenched>, the attacker’s <Damage Reduction> effect is removed.",
+    "korean": "라운드 개시 시 자신이 <침수> 상태인 경우 공격력 / 치명타 / 행동력이 증가합니다.&n라운드 개시 시 자신이 <침수> 상태로 피격 시 적의 <받는 피해 감소> 효과가 해제됩니다."
+  },
+  "SkillDesc_Skill_PECS_Dione_N_5": {
+    "english": "At the start of the round, if there is another <Golden Workers> unit in the squad (excluding self), gains Ice Resistance and counterattacks when hit with a 100% chance.&nAlso, gains 1-time Damage Immunity.&nDamage Immunity gained from Golden Workers Torpedo does not stack with that of Safety Perimeter Breach!, but it can be refreshed.",
+    "korean": "라운드 개시 시 스쿼드에 자신을 제외한 <골든 워커즈> 소속 전투원이 있을 경우 냉기 저항을 얻고 피격 시 100% 확률로 반격합니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <골든 워커즈> 소속 전투원이 있을 경우 피해 무효화 1회를 획득합니다.&n라운드 개시 시 골든 워커즈 토르피도로 획득하는 피해 무효화는 안전 범위 이탈!의 피해 무효화와 중첩 적용되지 않으며 갱신될 수 있습니다."
+  },
+  "SkillDesc_Skill_PECS_Draculina_N_1": {
+    "english": "Deals {0} damage that ignores Guard to enemies at the target location.&nIf the target is positioned in the front row, removes buffs and increases damage dealt.&nIf the target is a <Thrall>, the positional condition is ignored, the target is released, and damage is further increased.",
+    "korean": "목표 지점의 적에게 {0} 보호 무시 피해를 줍니다.&n적중 대상이 전열에 위치한 경우, 강화 효과를 해제하고 피해량이 증가합니다.&n적중 대상이 <권속>인 경우, 상기 효과의 위치 조건을 무시하며 대상을 해방하고 피해량이 추가로 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Draculina_N_2": {
+    "english": "Deals {0} damage to a single target.&nIf the target’s HP is 100%, inflicts <Mark of Scarring> for 4 rounds to prepare them for becoming a <Thrall>.&nIf the target is already a <Thrall>, releases them and deals damage based on the user’s ATK.&nEach skill level grants +10% hit rate bonus.",
+    "korean": "단일 대상에게 {0} 피해를 줍니다.&n적중 대상의 HP가 100%인 경우, 4라운드 동안 <상흔>을 남겨 <권속>을 만들 준비를 합니다.&n적중 대상이 이미 <권속>인 경우, 대상을 해방하고 자신 공격력에 비례한 피해를 줍니다.&n스킬 레벨 당 +10%의 적중 보정이 적용됩니다."
+  },
+  "SkillDesc_Skill_PECS_Draculina_N_3": {
+    "english": "At the start of the round, increases own Defense Penetration.&nWhen using Night of the Blood Queen, enters the <Satiated> state, increasing ATK and CRIT for 4 rounds (does not stack).&nIf not in the <Satiated> state at the start of the round, becomes Hungry and increases own AP.",
+    "korean": "라운드 개시 시, 자신의 방어 관통이 증가합니다. &n<피의 여왕의 밤> 사용 시, 자신은 <충만함> 상태가 되어 4라운드 동안 공격력 / 치명타가 증가합니다. (중첩 불가)&n라운드 개시 시 자신이 <충만함> 상태가 아닌 경우, 굶주려 자신의 AP가 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Draculina_N_4": {
+    "english": "At the start of the round, turns targets with <Mark of Scarring> into <Thralls>.&n<Thralls> are inflicted with Skill Seal and take increased damage.&nThis effect is not affected by Effect Resistance but can be removed by cleansing debuffs.",
+    "korean": "라운드 개시 시, <상흔>을 가진 대상을 자신의 <권속>으로 삼습니다.&n<권속>은 스킬 사용 불가 상태가 되며 받는 피해가 증가합니다.&n상기 효과는 효과 저항의 영향을 받지 않지만 해로운 효과 해제로 해제할 수 있습니다."
+  },
+  "SkillDesc_Skill_PECS_Draculina_N_5": {
+    "english": "At the start of battle, grants <Recon Active> to all allies.&nAt the start of each round, gains an effect that increases damage dealt based on the target’s remaining HP—the lower the HP, the higher the damage.&n",
+    "korean": "전투 개시 시, 아군 전체에게 <정찰 활성화>를 부여합니다.&n라운드 개시 시, 자신은 대상의 HP가 낮을 수록 피해량이 증가하는 효과를 획득합니다."
+  },
+  "SkillDesc_Skill_PECS_Drone_N_1": {
+    "english": "Fires a shockwave missile that deals {0} damage, knocks the target back 1 tile, and reduces their AP.",
+    "korean": "충격파 미사일을 발사해 {0} 피해를 주고, 대상을 뒤로 1칸 밀어내며 AP를 감소시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Drone_N_2": {
+    "english": "Analyzes the weaknesses of targets at the designated location, increasing damage taken for 2 rounds and reducing their effect resistance and EVA.&nAt skill level 5, the area of effect increases.&nA 999% ACU modifier is applied.",
+    "korean": "목표 지점에 있는 대상들의 약점을 분석해, 2라운드 동안 받는 피해를 증가시키며 효과 저항과 회피를 감소시킵니다.&n스킬 레벨 5부터 범위가 증가합니다.&n999%의 적중 보정이 적용됩니다."
+  },
+  "SkillDesc_Skill_PECS_Drone_N_3": {
+    "english": "At the start of battle, your AP increases for each AGS in the squad.&nAt the start of the round, your effect resistance increases and you become immune to AP reduction effects.",
+    "korean": "전투 개시 시, 스쿼드 내 AGS 1기당 자신의 AP가 증가합니다.&n라운드 개시 시, 자신의 효과 저항이 증가하고 행동력 감소 효과에 면역 상태가 됩니다."
+  },
+  "SkillDesc_Skill_PECS_Drone_N_4": {
+    "english": "At the start of the round, ignore protection from allied support units and increase ACU.&nAt the start of the round, disable ignoring protection from enemy support units and decrease ACU.",
+    "korean": "라운드 개시 시, 아군 지원기의 보호 무시를 활성화하고 적중을 증가시킵니다.&n라운드 개시 시, 적 지원기의 보호 무시를 비활성화하고 적중을 감소시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Drone_N_5": {
+    "english": "At the start of the round, own AP increase.&nAs long as <Tommy Walker> is in the squad, the user receives reserve units and gains Battle Continuation.&nWhen using <Shockwave Missile>, removes the target’s EVA enhancement effect.&nWhen using <Precision Scan>, removes the target’s damage nullification effect.",
+    "korean": "라운드 개시 시, 자신의 행동력이 증가합니다.&n스쿼드 내에 <토미 워커>가 존재하는 한, 자신은 예비 소체를 공급받아 무제한의 전투 속행을 획득합니다.&n<충격파 미사일> 사용 시, 대상의 회피 강화 효과를 해제합니다.&n<정밀 스캔> 사용 시, 대상의 피해 무효화 효과를 해제합니다."
+  },
+  "SkillDesc_Skill_PECS_ElvenForestmaker_N_5": {
+    "english": "At the start of the round, gain 100% resistance to buff removal. When using a skill, increase the damage taken by all enemies who do not receive AP increase effects for 2 rounds.",
+    "korean": "라운드 개시 시, 강화 해제 저항 100% 효과를 얻습니다. 스킬 사용 시, 행동력 증가 효과를 받지 않는 모든 적의 받는 피해를 2라운드 동안 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Empress_N_1": {
+    "english": "Deals {0} Cold attribute damage to the designated area, and for 2 rounds, reduces the target's Cold Resistance and AP upon hit.&nIf the target is in the <Soaked> state, inflicts the <Frozen> state for 2 rounds, making them unable to move and increasing damage taken.",
+    "korean": "지정 범위에 {0} 냉기 속성 피해를 주고, 2라운드 동안 적중 대상의 냉기 저항과 행동력을 감소시킵니다.&n대상이 <침수> 상태일 경우, 이동 불가 상태로 만들고 받는 피해가 증가하는 <빙결> 상태를 2라운드 동안 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_Empress_N_2": {
+    "english": "Deals {0} Cold attribute damage to a single target. Damage increases on CRIT.&nIf the target is in the <Soaked> state, inflicts the <Frozen> state for 2 rounds, making them unable to act and increasing damage taken.",
+    "korean": "단일 대상에게 {0} 냉기 속성 피해를 줍니다. 치명타 시, 피해량이 증가합니다. &n대상이 <침수> 상태일 경우, 행동 불가 상태로 만들고 받는 피해가 증가하는 <빙결> 상태를 2라운드 동안 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_Empress_N_3": {
+    "english": "At the start of battle, gains the Damage Mitigation (2 times) effect.&nAt the start of the round, if this effect is active, ATK and CRIT increase with stacking for 3 rounds.&nIf the Damage Mitigation effect has expired, it is regained when waiting.",
+    "korean": "전투 개시 시, 피해 최소화 (2회) 효과를 획득합니다.&n라운드 개시 시 해당 효과가 활성화 된 상태인 경우, 3라운드 동안 공격력과 치명타가 중첩하여 증가합니다.&n피해 최소화 효과가 소멸된 상태에서 대기 시, 피해 최소화 효과를 다시 획득합니다."
+  },
+  "SkillDesc_Skill_PECS_Empress_N_4": {
+    "english": "At the start of the round, increases Cold Resistance for self and nearby allies. The Cold Resistance effect is applied at double strength to self.&nAt the start of the round, increases the AP of allies within the designated protection area.&nAt skill level 10, the effect applies to all regardless of own position.",
+    "korean": "라운드 개시 시, 자신과 주변 아군의 냉기 저항이 증가합니다. 자신은 냉기 저항 효과가 2배로 적용됩니다. &n라운드 개시 시, 지정 보호를 받는 범위 내 아군의 AP를 증가시킵니다. &n스킬 레벨 10에서 자신의 위치와 관계없이 전체 적용됩니다."
+  },
+  "SkillDesc_Skill_PECS_Empress_N_5": {
+    "english": "At the start of the round, increases own AP.&nIf possessing Damage Mitigation from <Mimicry> at the start of the round, gains an effect that ignores protection.&n<Penguin Surprise!> If the hit target is in the <Soaked> state, removes the target’s buffs.&nAt the start of the round, reduces the Cold Resistance of enemies in the <Frozen> state.",
+    "korean": "라운드 개시 시, 자신의 행동력이 증가합니다.&n라운드 개시 시 <의태>에 의한 피해 최소화를 보유한 경우, 자신은 보호 무시 효과가 활성화됩니다.&n<펭귄 서프라이즈!> 적중 대상이 <침수> 상태인 경우, 대상의 강화 효과를 해제합니다.&n라운드 개시 시, <빙결> 상태의 적의 냉기 저항을 감소시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Erato_N_1": {
+    "english": "Charms the target with a special wavelength in own voice.&nRegardless of hit, removes the target’s EVA Buff and applies EVA Reduction for 3 rounds.&nOn hit, deals {0} damage that ignores Protection and removes the target’s Counterattack Buff.&nCharmed enemies are pulled forward toward the front row whenever possible each time they are hit.",
+    "korean": "특별한 파장을 담은 자신의 목소리로 대상을 매혹합니다.&n적중에 관계 없이 대상의 회피 강화 효과를 해제하고, 3라운드 동안 회피 감소 효과를 부여합니다.&n적중 시, {0} 보호 무시 피해를 가하고 대상의 반격 강화 효과를 해제합니다.&n매혹 상태의 적은 피격 시마다 가능한 경우 전열 쪽으로 끌려오게 됩니다."
+  },
+  "SkillDesc_Skill_PECS_Erato_N_2": {
+    "english": "Grants allies within the designated area an ATK increase proportional to own ATK for 2 rounds.&nWhen using the skill, gains a general ATK reduction effect.&nAt the start of the round and when using the skill, removes ATK increase effects proportional to other combatants’ ATK applied to self.",
+    "korean": "지정 범위 내 아군에게 2라운드 동안 자신의 공격력에 비례한 공격력 증가 효과를 부여합니다.&n스킬 사용 시, 자신은 공격력 감소 일반 효과를 획득합니다.&n라운드 개시 및 스킬 사용 시, 자신에게 적용된 타 전투원의 공격력 비례 공격력 증가 효과를 해제합니다."
+  },
+  "SkillDesc_Skill_PECS_Erato_N_3": {
+    "english": "At the start of battle, grants an AP increase effect to nearby allies with lower AP than self.&nAt the start of the round, grants nearby allies immunity to harmful effects for 1 round based on their role. Self gains immunity to all harmful effects.&nAttacker: Immune to Attack Power reduction&nDefender: Immune to Defense reduction&nSupporter: Immune to AP reduction",
+    "korean": "전투 개시 시, 자신보다 행동력이 낮은 주변 아군에게 AP 증가 효과를 부여합니다.&n라운드 개시 시, 자신 주변 아군에게 역할군에 따라 1라운드 동안 해로운 효과 면역 상태를 부여합니다. 자신은 모든 면역 상태를 획득합니다. &n공격기 : 공격력 감소 면역&n보호기 : 방어력 감소 면역&n지원기 : AP 감소 면역"
+  },
+  "SkillDesc_Skill_PECS_Erato_N_4": {
+    "english": "At the start of the round, gains a general ATK increase effect for 1 round.&nWhen an enemy dies, removes own ATK reduction effect caused by <With You>.&nAt the start of the round, if not affected by the ATK reduction from <With You>, increases own AP.",
+    "korean": "라운드 개시 시, 자신은 1라운드 동안 공격력 증가 일반 효과를 획득합니다.&n적 사망 시, <With You>에 의한 자신의 공격력 감소 효과를 해제합니다.&n라운드 개시 시, <With You>에 의한 자신의 공격력 감소 효과가 적용되지 않은 상태인 경우, 자신의 행동력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Erato_N_5": {
+    "english": "At the start of the round, grants additional effects to the target for 1 round based on the number of <You’re Already☆My FAN> stacks.&nAll effects ignore effect resistance and are amplified the closer the target is to the front row.&n<Fan> (1 stack): Reduces AP&n<Superfan> (2 stacks): Increases damage taken&n<Fluorescent Fan> (3 stacks): Prevents buffs and actions (front row)",
+    "korean": "라운드 개시 시, <넌 이미☆나의 FAN> 효과 중첩 수에 따라 대상에게 1라운드 동안 추가 효과를 부여합니다. &n모든 효과는 효과 저항에 영향을 받지 않으며, 대상이 전열에 가까울 수록 효과가 증폭됩니다.&n<팬> (1중첩) : 행동력 감소&n<광팬> (2중첩) : 받는 피해 증가&n<형광팬> (3중첩) : 강화 불가, 행동 불가(전열)"
+  },
+  "SkillDesc_Skill_PECS_Hathor_N_1": {
+    "english": "Swings a massive golden weapon to deal {0} damage to a single target.&nOn hit, reduces the target's Defense for 2 rounds.&nDamage increases the lower your HP is.",
+    "korean": "거대한 황금빛 무기를 휘둘러 단일 대상에게 {0} 피해를 입힙니다.&n적중 시, 2라운드 동안 대상의 방어력을 감소시킵니다.&n자신의 HP가 낮을 수록 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Hathor_N_2": {
+    "english": "Announces the arrival of divine punishment and deals {0} protection-ignoring damage within the designated area.&nOn critical hit, removes all AoE damage dispersion effects from the target and increases damage taken by the target for 2 rounds.&nIf <Sekhmet of Death> is in the squad upon hit, reduces the target's range for that round and triggers the [Cycle of Life’s Bond] cooperative attack.",
+    "korean": "신성한 징벌이 도래했음을 알리며 지정 범위에 {0} 보호 무시 피해를 입힙니다.&n치명타 시, 대상의 모든 광역 피해 분산 효과를 해제하고 2라운드 동안 대상이 받는 피해를 증가시킵니다.&n적중 시 스쿼드 내에 <사멸의 세크메트>가 있을 경우, 해당 라운드 동안 대상의 사거리를 감소시키고 [순환하는 생명의 굴레] 협동 공격을 유도합니다."
+  },
+  "SkillDesc_Skill_PECS_Hathor_N_3": {
+    "english": "At the start of the round, increases own effect resistance.&nWhile waiting, strengthens the body through power source replacement, gaining the following effects until the end of battle:&n- On attack hit, removes damage reduction effects and increases damage dealt but causes overload, dealing physical damage proportional to own ATK.&n- When <Song of the Forest> effect is applied to self, all effects are doubled.",
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가합니다.&n대기 시, 동력원 교체를 통해 신체를 강화하여 전투 종료 시까지 자신은 다음 효과를 획득합니다.&n- 공격 적중 시, 받는 피해 감소 효과를 해제하고 피해량이 증가하지만 부하가 발생하여 자신 공격력에 비례한 물리 피해를 입습니다.&n- 자신에게 <숲의 노래> 효과 적용 시, 모든 효과가 두 배로 증폭됩니다."
+  },
+  "SkillDesc_Skill_PECS_Hathor_N_4": {
+    "english": "At the start of battle, gains the Battle Continuation effect.&nUpon enemy kill, additionally gains the above effect. (Maximum 1 stack)&nWhen hit, increases own ATK for 3 rounds.",
+    "korean": "전투 개시 시, 자신은 전투 속행 효과를 획득합니다.&n적 처치 시, 상기 효과를 추가로 획득합니다. (최대 1중첩)&n피격 시, 3라운드 동안 자신의 공격력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Hathor_N_5": {
+    "english": "At the start of the round, grants allies with the <Maternity> effect a shield / damage ignore effect and increases their range.&nAt the start of battle, increases own AP based on the number of <Elven-type Bioroids> in the squad.&nUpon own death, increases the action speed of all allies for 2 rounds.",
+    "korean": "라운드 개시 시, <모성> 효과가 적용중인 아군에게 방어막 / 피해 감소 무시 효과를 부여하고 사거리를 증가시킵니다.&n전투 개시 시, 스쿼드 내 <엘븐형 바이오로이드> 수에 따라 자신의 AP가 증가합니다.&n자신 사망 시, 2라운드 동안 아군 전체의 행동력을 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Hussar_N_1": {
+    "english": "Deals {0} Electric damage to targets within range.&nOn hit, reduces target's ACU and inflicts Immobilize for 2 rounds.",
+    "korean": "범위 내 대상에게 {0} 전기 피해를 줍니다.&n적중 시, 2라운드 동안 대상의 적중을 감소시키고 이동 불가 상태로 만듭니다."
+  },
+  "SkillDesc_Skill_PECS_Hussar_N_2": {
+    "english": "Deals {0} Electric damage to a single target, ignoring barriers, and removes Electric Resistance buffs.&nOn hit, reduces the target's Electric Resistance for 2 rounds.&nIf the target is Immobilized, damage is increased.",
+    "korean": "단일 대상에게 {0} 보호 무시 전기 피해를 주고 전기 저항 증가 효과를 해제합니다.&n적중 시, 2라운드 동안 대상의 전기 저항을 감소시킵니다.&n대상이 이동 불가 상태인 경우, 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Hussar_N_3": {
+    "english": "At the start of the round, increases own EVA and Effect Resistance.&nCounters when attacked. Upon countering, applies \"Chiara!\" effect for 2 rounds. (Stacks up to 3 times.)&nOwn attacks deal more damage the lower the target's HP.",
+    "korean": "라운드 개시 시, 자신의 회피 / 효과 저항이 증가합니다.&n공격 받을 시, 반격합니다. 반격 시, 2라운드 동안 <치아라!> 효과가 추가로 적용됩니다. (최대 3중첩)&n자신의 공격은 대상의 HP가 낮을 수록 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Hussar_N_4": {
+    "english": "At the start of the round, supports attacks from Air-Type units or allies affiliated with Orbital Watcher.&nWhen performing Follow-Up Attacks or Support Attacks, increases the ATK of affected allies for 3 rounds. (Stacks up to 10 times.)&nIf under Designated Protection at the start of the round, increases own skill power.",
+    "korean": "라운드 개시 시, 기동형 또는 <오비탈 와쳐> 소속 전투원의 공격을 지원합니다.&n재공격 / 공격 지원 시, 3라운드 동안 상기 효과의 대상이 되는 아군의 공격력을 증가시킵니다. (최대 10중첩)&n라운드 개시 시 자신이 지정 보호를 받고 있을 경우, 자신의 스킬 위력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Hussar_N_5": {
+    "english": "At the start of the round, increases Anti-Heavy damage dealt by Air-Type units or allies affiliated with Orbital Watcher.&nAlso at the start of the round, reduces Electric Resistance of all enemies based on the number of Air-Type allies.&nIf the number of Air-Type allies exceeds the number of Air-Type enemies, the Electric Resistance reduction is amplified by 50%.",
+    "korean": "라운드 개시 시, 기동형 또는 <오비탈 와쳐> 소속 전투원의 대 경장형 피해량을 증가시킵니다.&n라운드 개시 시, 기동형 아군 수에 비례하여 적 전체의 전기 저항을 감소시킵니다.&n기동형 적의 수보다 기동형 아군 수가 많을 경우, 전기 저항 감소 효과가 50% 증폭됩니다."
+  },
+  "SkillDesc_Skill_PECS_Ignis_N_1": {
+    "english": "Deals {0} fire damage to a designated area and reduces DEF and Fire Resistance for 2 turns.&nTargets farther behind the initial impact point take 50% less damage.&nApplies a 10% accuracy bonus per skill level.",
+    "korean": "지정 범위에 {0} 화염 피해를 주고, 2라운드 동안 방어력 / 화염 속성 저항을 감소시킵니다.&n목표 지점 뒤의 대상일수록 피해량이 50%씩 줄어듭니다.&n스킬 레벨 당 10%의 적중 보정이 적용됩니다."
+  },
+  "SkillDesc_Skill_PECS_Ignis_N_2": {
+    "english": "Deals {0} fire damage that ignores protection to a designated area, reduces the target’s CRIT for 2 turns, and inflicts ongoing fire damage.&nIf the target is affected by Fire Resistance Reduction, additionally deals fixed fire damage based on your attack.",
+    "korean": "지정 범위에 {0} 보호 무시 화염 피해를 주고, 2라운드 동안 대상의 치명타를 감소시키며 지속 화염 피해를 부여합니다. &n대상이 화염 저항 감소 상태인 경우, 추가로 자신의 공격력에 비례한 고정 화염 피해를 입힙니다."
+  },
+  "SkillDesc_Skill_PECS_Ignis_N_3": {
+    "english": "At the start of the round, increases Fire Resistance / Effect Resistance / DEF.&nWhen hit by an elemental ATK, the corresponding elemental resistance is further increased by the resistance boost amount for 2 turns.&nWhen hit by a physical ATK, Defense is further increased for 2 turns.",
+    "korean": "라운드 개시 시, 화염 저항 / 효과 저항 / 방어력이 증가합니다. &n각 속성 공격 피격 시, 2라운드 동안 해당 속성 저항이 저항 증가 수치만큼 추가로 적용됩니다.&n물리 공격 피격 시, 2라운드 동안 방어력이 추가로 적용됩니다."
+  },
+  "SkillDesc_Skill_PECS_Ignis_N_4": {
+    "english": "At the start of the round, designates targets within range (excluding Defender) for protection, and activates Fire Protection on yourself.&nIf there is a designated protection target at the start of the round, damage taken by yourself is reduced.",
+    "korean": "라운드 개시 시, 보호기를 제외한 범위 내 대상을 지정 보호하며 자신은 열 보호가 활성화됩니다. &n라운드 개시 시 자신이 지정 보호할 대상이 있는 경우, 자신이 받는 피해가 감소합니다."
+  },
+  "SkillDesc_Skill_PECS_Ignis_N_5": {
+    "english": "Increases all of your base elemental resistances to 35%.&nIf positioned on the frontline at the start of combat, increases your range by 1 and activates Counterattack.&nThe Counterattack effect can be toggled via the Wait command.&nAt the start of the round, if you are under a resistance increase or decrease effect, you gain the minimum resistance threshold for that element.",
+    "korean": "자신의 기본 속성 저항이 각 35%로 증가합니다.&n전투 개시 시 자신이 전열에 위치한 경우, 자신의 사거리가 1 증가하고 반격이 활성화됩니다.&n반격 효과는 대기를 통해 활성화 여부를 변경할 수 있습니다.&n라운드 개시 시 자신이 속성 저항 증감 상태인 경우, 해당 속성 저항 하한을 획득합니다."
+  },
+  "SkillDesc_Skill_PECS_Ireina_N_1": {
+    "english": "Deals {0} damage to a single target. On hit, the target's Evasion and Defense are reduced for 2 rounds, and damage taken is increased. On critical hit, removes the target's Defense increase effect.",
+    "korean": "단일 대상에게 {0} 피해를 줍니다.&n적중 시 대상은 2라운드 동안 회피 및 방어력이 감소되고 받는 피해가 증가됩니다.&n치명타 시 대상의 방어력 증가 효과를 해제합니다."
+  },
+  "SkillDesc_Skill_PECS_Ireina_N_2": {
+    "english": "Deals {0} damage to the designated area. Upon hitting, effect resistance increases for allies including yourself for 2 rounds. Upon hitting, grants a shield proportional to your defense to allies including yourself for 2 rounds.",
+    "korean": "지정 범위에 {0} 피해를 줍니다.&n스킬 적중 시 2라운드 동안 자신 포함 아군에게 효과 저항이 증가합니다.&n스킬 적중 시 2라운드 동안 자신 포함 아군에게 자신의 방어력 비례 보호막을 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_Ireina_N_3": {
+    "english": "At the start of the round, auxiliary attack power increases in proportion to your defense. At the start of the round, if there are <Orbital Watcher> combatants in the squad excluding yourself, your defense increases based on the number of target combatants. At the start of the round, attack support is provided to <Orbital Watcher> combatants excluding yourself. ※ If attack support targets are duplicated within the squad, attack support is applied only once.",
+    "korean": "라운드 개시 시 자신의 방어력에 비례하여 보조 공격력이 증가합니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <오비탈 와쳐> 전투원이 있는 경우 대상 전투원 수에 따라 자신의 방어력이 증가합니다.&n라운드 개시 시 자신을 제외한 <오비탈 와쳐> 전투원을 공격 지원합니다.&n※ 스쿼드 내에 공격 지원 대상이 중복된 경우 공격 지원은 1회만 적용됩니다."
+  },
+  "SkillDesc_Skill_PECS_Ireina_N_4": {
+    "english": "At the start of a round, grant yourself [1P] and the combatant behind you [2P] for 1 round. [1P]: Increases Defense / Evasion / Damage Reduction [2P]: Increases Attack / Accuracy / Critical Hit",
+    "korean": "라운드 개시 시 1라운드 동안 자신에게 [1P]를 부여하고 자신의 뒤 전투원에게 [2P]를 부여합니다.&n[1P] : 방어력 / 회피 / 받는 피해 감소 증가&n[2P] : 공격력 / 적중 / 치명타 증가"
+  },
+  "SkillDesc_Skill_PECS_Ireina_N_5": {
+    "english": "At the start of the round, [2P] designates and protects, and provides attack support. At the start of the round, [1P] gains an effect that increases skill power proportional to their defense. If [2P] is granted <Lemonade Epsilon>, Lemonade Epsilon gains an additional buff. ※ Lemonade Epsilon Additional Buff: Ignores Shield / Damage Reduction, Increases Fire / Cold / Electric Resistance. ※ If there are duplicate attack support targets within the squad, attack support is applied only once.",
+    "korean": "라운드 개시 시 [2P] 지정 보호하고 공격 지원을 합니다.&n라운드 개시 시 [1P] 자신의 방어력 비례 스킬위력 증가 효과를 획득합니다.&n[2P]를 <레모네이드 엡실론> 부여 받은 경우 레모네이드 엡실론은 추가 버프를 획득합니다.&n※ 레모네이드 엡실론 추가 버프 : 방어막 / 피해 감소 무시, 화염 / 냉기 / 전기 저항 증가&n※ 스쿼드 내에 공격 지원 대상이 중복된 경우 공격 지원은 1회만 적용됩니다."
+  },
+  "SkillDesc_Skill_PECS_LRL_N_5": {
+    "english": "At the start of battle, increases the skill power of allies within range. At the start of the round, further increases the skill power of allies receiving the \"Overflowing Strength!\" effect from Cyclops Princess. When a critical hit is landed with an active skill, each active skill is enhanced.&nAxe of Darkness Enhancement: Increases damage taken and applies Unbuffable for 2 rounds.&nCyclops Eternal Beam Enhancement: Removes the target's shield / damage reduction ignoring effect.",
+    "korean": "전투 개시 시, 범위 내 아군의 스킬 위력이 증가하고 라운드 개시 시, 사이클롭스 프린세스의 <힘이 넘쳐 흐르는구나!> 효과를 받는 아군에게 추가적으로 스킬 위력을 증가시킵니다. 액티브 스킬 사용으로 치명타 적중 시, 각 액티브 스킬이 강화됩니다. <액스 오브 다크니스> 강화 : 2라운드 동안 받는 피해 증가 및 강화 불가 효과 적용 <사이클롭스 이터널 빔> 강화 : 방어막 / 피해 감소 무시 효과 해제"
+  },
+  "SkillDesc_Skill_PECS_LemonadeBeta_N_1": {
+    "english": "Delivers {0} Ignore Protection damage to a single target along with a light greeting.&nOn critical hit, removes all attribute resistance reversal effects from the target.&nOn hit, reduces the damage you take. This effect is cleared when hit by a physical attack.&nIf the above effects are already applied, instead grants damage nullification to an ally's protection skill for that round.",
+    "korean": "가벼운 인사를 겸해 단일 대상에게 {0} 보호 무시 피해를 줍니다.&n치명타 시, 대상의 모든 속성 저항 반전 효과를 해제합니다.&n적중 시, 자신의 받는 피해가 감소합니다. 해당 효과는 물리 공격 피격 시 해제됩니다.&n상기 효과가 이미 적용된 상태인 경우, 대신 해당 라운드 동안 아군 보호기에게 피해 무효화를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeBeta_N_2": {
+    "english": "Releases one's emotions to deal {0} Ignore Protection damage to a specified range.&nOn critical hit, removes all attribute resistance floor effects from the target.&nOn hit, increases your effect resistance. This effect is cleared when hit by a physical attack.&nIf the above effects are already applied, instead increases the AP of an ally's attacker.",
+    "korean": "자신의 감정을 발산하여 지정 범위에 {0} 보호 무시 피해를 줍니다.&n치명타 시, 대상의 모든 속성 저항 하한 효과를 해제합니다.&n적중 시, 자신의 효과 저항이 증가합니다. 해당 효과는 물리 공격 피격 시 해제됩니다.&n상기 효과가 이미 적용된 상태인 경우, 대신 아군 공격기의 AP를 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeBeta_N_3": {
+    "english": "At the start of the round, decreases the cold resistance of all enemies.&nAdditional effects are applied based on the number of light-armored allies in the squad:&n&n3 or fewer: Cold resistance reduction effect is doubled.&n&n2 or fewer: Cold resistance reduction effect ignores the target's effect resistance.&n&n1 or fewer: At the start of battle, applies Unbuffable to enemy attackers for 2 rounds.",
+    "korean": "라운드 개시 시, 적 전체의 냉기 저항을 감소시킵니다.&n아군 스쿼드의 경장형 수에 따라 다음 효과가 추가로 적용됩니다.&n- 3기 이하 : 냉기 저항 감소 효과가 두 배로 증폭됩니다.&n- 2기 이하 : 냉기 저항 감소 효과가 대상의 효과 저항을 무시합니다.&n- 1기 이하 : 전투 개시 시, 2라운드 동안 적 공격기에게 강화 불가를 적용합니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeBeta_N_4": {
+    "english": "At the start of the round, decreases the electric resistance of all enemies.&nAdditional effects are applied based on the number of Air-type allies in the squad:&n&n3 or fewer: Electric resistance reduction effect is doubled.&n&n2 or fewer: Electric resistance reduction effect ignores the target's effect resistance.&n&n1 or fewer: At the start of battle, decreases the action power of enemy support units for 2 rounds.",
+    "korean": "라운드 개시 시, 적 전체의 전기 저항을 감소시킵니다.&n아군 스쿼드의 기동형 수에 따라 다음 효과가 추가로 적용됩니다.&n- 3기 이하 : 전기 저항 감소 효과가 두 배로 증폭됩니다.&n- 2기 이하 : 전기 저항 감소 효과가 대상의 효과 저항을 무시합니다.&n- 1기 이하 : 전투 개시 시, 2라운드 동안 적 지원기의 행동력을 감소시킵니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeBeta_N_5": {
+    "english": "At the start of the round, decreases the Fire resistance of all enemies.&nAdditional effects are applied based on the number of heavy-armored allies in the squad:&n&n3 or fewer: Fire resistance reduction effect is doubled.&n&n2 or fewer: Fire resistance reduction effect ignores the target's effect resistance.&n&n1 or fewer: At the start of battle, increases the damage taken by enemy defenders for 2 rounds.",
+    "korean": "라운드 개시 시, 적 전체의 화염 저항을 감소시킵니다.&n아군 스쿼드의 중장형 수에 따라 다음 효과가 추가로 적용됩니다.&n- 3기 이하 : 화염 저항 감소 효과가 두 배로 증폭됩니다.&n- 2기 이하 : 화염 저항 감소 효과가 대상의 효과 저항을 무시합니다.&n- 1기 이하 : 전투 개시 시, 2라운드 동안 적 보호기의 받는 피해를 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeEpsilon_N_1": {
+    "english": "Deals {0} protection-ignoring damage to the target. On a critical hit, removes buffs from the target.",
+    "korean": "대상에게 {0} 보호 무시 피해를 줍니다. 치명타 시, 대상에게 강화 효과를 해제합니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeEpsilon_N_2": {
+    "english": "Deals {0} damage to the target point, reduces the AP of hit enemies, and if there are other <Orbital Watcher> members in the squad or <Leonade Gamma>, <Lemonade Beta>, <Lemonade Alpha>, increases the damage received proportionally to the number of such units.",
+    "korean": "목표 지점에 {0} 피해를 줍니다., 적중한 적의 AP를 감소시키고 스쿼드 내 자신외의 <오비탈 와쳐>소속 전투원 혹은 <레모네이드 감마>, <레모네이드 베타>, <레모네이드 알파>가 있다면 전투원 수에 비례하여 받는 피해 증가를 줍니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeEpsilon_N_3": {
+    "english": "At the start of the round, increases the accuracy of all allies for 2 rounds.  &nDepending on the type of ally, the following effects are applied, and if they are an Orbital Watcher (excluding yourself), some effects are increased.  &nAttacker: Increases attack power (Orbital Watcher effect doubled)  &nProtector: Gains damage reduction (Orbital Watcher effect doubled), 100% counterattack for 1 round (fixed value)  &nWhen using [Belphegor: Inception], nullifies damage once for 1 round (max 1 stack, fixed value)  &nSupporter: Increases action power (Orbital Watcher effect doubled)  &nAll are normal effects.",
+    "korean": "라운드 개시시 2라운드 동안 모든 아군의 적중을 증가시킵니다. &n아군의 타입에 따라 아래 효과를 부여하고 오비탈 와쳐(자신 제외)라면 일부 효과가 증가합니다. &n공격기 : 공격력 증가 (오비탈 와쳐 효과 2배)&n보호기 : 받는 피해 감소 획득 (오비탈 와쳐 효과 2배) , 1라운드 동안 100%위력 반격 (수치 고정)&n[벨페고르: 인셉션] 사용시 1라운드 동안 피해 무효화 1회 (최대 1중첩, 수치 고정)&n지원기 : 행동력 증가 (오비탈 와쳐 효과 2배)&n모두 일반 효과입니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeEpsilon_N_4": {
+    "english": "Reduces all enemies' Defense, Lightning Resistance, Fire Resistance, and Ice Resistance for 2 rounds at the start of the round. Additionally, it grants the following effects: Using [Belphegor: Inception]: Reduces all enemies' Effect Resistance for 2 rounds. Using [Belphegor: Lyca Maximum Output]: Further reduces all enemies' Defense, Lightning Resistance, Fire Resistance, and Ice Resistance for 2 rounds. All are general effects.",
+    "korean": "라운드 개시시 2라운드 동안 모든 적의 방어력, 전기 저항, 화염 저항, 냉기 저항을 감소시킵니다.  &n추가로 아래의 효과를 줍니다.&n[벨페고르: 인셉션] 사용: 2라운드 동안 모든 적 효과 저항 감소&n[벨페고르: 라이카 최대 출력] 사용: 2라운드 동안  모든 적 방어력, 전기 저항, 화염 저항, 냉기 저항 추가 감소&n모두 일반 효과 입니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeEpsilon_N_5": {
+    "english": "At the start of the round, reduces all enemies' accuracy and attack power for 2 rounds. Additionally, it has the following effects:  &nWhen [Belphegor: Inception] is used: further reduces all enemies' accuracy for 2 rounds  &nWhen [Belphegor: Laika Maximum Output] is used: reduces all enemies' action points for 2 rounds  &nAll are normal effects.",
+    "korean": "라운드 개시시 2라운드 동안  모든 적의 적중과 공격력을 감소시킵니다. 추가로 아래 효과를 가집니다.&n[벨페고르: 인셉션] 사용 시: 2라운드 동안 모든 적 적중 추가 감소 &n[벨페고르: 라이카 최대 출력] 사용 시: 2라운드 동안 모든 적 행동력 감소&n모두 일반 효과 입니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeGamma_N_1": {
+    "english": "Deals {0} ignore protection damage to the specified area. Damage is reduced by 25% on the tile behind the target point.&nWhen the skill hits, it lowers the target's defense and increases the damage they take for 2 rounds.",
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점 뒷 칸에는 피해가 25% 감소합니다. &n스킬 적중 시 2라운드 동안 대상의 방어력을 낮추고 받는 피해를 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeGamma_N_2": {
+    "english": "Deals {0} damage that ignores protection within the specified range. Upon hitting, it cancels the target's counter effect, and if the target's HP is 70% or higher, the damage increases.",
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다.&n적중 시 대상의 반격 효과를 해제하며 대상의 hp가 70% 이상인 경우, 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeGamma_N_3": {
+    "english": "At the start of the round, gain Defense Penetration. If you have one of Rode, Merlin, Triton, or Merope, your Attack Power increases.",
+    "korean": "라운드 개시 시, 방어 관통을 획득합니다. 로데/ 멀린/ 트리톤/ 메로페 중 한명이 있으면 공격력이 상승합니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeGamma_N_4": {
+    "english": "At the start of the round, removes harmful effects on yourself. If HP is 25% or below, increases skill power for 1 round.",
+    "korean": "라운드 개시 시, 자신에게 걸린 해로운 효과를 해제합니다. HP가 25%이하인 경우 스킬 위력을 1라운드 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_LemonadeGamma_N_5": {
+    "english": "At the start of the round, gain the Continue Battle effect on yourself.  &nAt the start of the round, grant yourself Effect Resistance / Debuff Resistance.  &nWhen hit, gain the Counter effect for 1 round.",
+    "korean": "라운드 개시 시 자신에게 전투 속행 효과를 얻습니다.&n라운드 개시 시 자신에게 효과 저항 / 강화 해제 저항을 부여합니다.&n피격시, 1라운드 동안 반격효과를 얻습니다."
+  },
+  "SkillDesc_Skill_PECS_Lumberjane_N_1": {
+    "english": "Fires a sawblade, dealing {0} damage to the target location.&nOn hit, decreases the target's DEF/ action power for 3 rounds.&nIf the hit target is heavy-armored, the damage increases.&n",
+    "korean": "톱날을 발사하여 목표 지점에 {0} 피해를 줍니다.&n적중 시, 3라운드 동안 대상의 방어력 / 행동력을 감소시킵니다.&n적중 대상이 중장형인 경우 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Lumberjane_N_2": {
+    "english": "Attempts a 1:1 conversation with the specified target, dealing {0} damage.&nIf the hit target is under DEF / action power reduction, the damage increases for each.",
+    "korean": "지정 대상에게 1:1 대화를 시도하여 {0} 피해를 줍니다.&n적중 대상이 방어력 / 행동력 감소 상태인 경우 각각 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Lumberjane_N_3": {
+    "english": "At the start of the round, permanently increases your attack power / defense penetration. (Up to 4 stacks)&nOn attack hit, increases your AP based on the number of \"Let’s Go All Out!\" stacks.",
+    "korean": "라운드 개시 시, 자신의 공격력 / 방어 관통이 영구적으로 증가합니다. (최대 4중첩)&n공격 적중 시, <화끈하게 가보자고!> 중첩 수에 비례하여 자신의 AP가 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Lumberjane_N_4": {
+    "english": "At the start of the round, increases the damage taken by all enemies for 3 rounds.&nThe \"Timber Registration\" effect is not affected by effect resistance but can be removed by harmful effect removal.&nWhen attempting a \"Conversation\" on a target with 3 or more stacks of \"Timber Registration\", removes the target's enhancement effects.",
+    "korean": "라운드 개시 시, 3라운드 동안 적 전체의 받는 피해를 증가시킵니다.&n<입목등기> 효과는 효과 저항의 영향을 받지 않지만 해로운 효과 해제로 해제할 수 있습니다.&n<입목등기> 중첩이 3 이상인 대상에게 <대화 시도> 시, 대상의 강화 효과를 해제합니다."
+  },
+  "SkillDesc_Skill_PECS_Lumberjane_N_5": {
+    "english": "At the start of the battle, you gain increased CRIT and general effects.&nThe stacking speed of \"Let’s Go All Out!\" is doubled, and the maximum stack count is increased by 50%.&nWhile the \"Timber Registration\" effect is active, the number of \"Timber Registration\" stacks required to remove enhancement effects is reduced by 1 and changed to a general effect.",
+    "korean": "전투 개시 시, 자신은 치명타 증가 일반 효과를 획득합니다.&n<화끈하게 가보자고!>의 중첩 누적 속도가 두 배로 증폭되고 최대 중첩 수가 50% 증폭됩니다.&n<입목등기> 효과 중, 강화 효과 해제에 필요한 <입목등기> 중첩이 1 감소하고 일반 효과로 변경됩니다."
+  },
+  "SkillDesc_Skill_PECS_Melt_N_1": {
+    "english": "Deals {0} protection-ignoring damage to the target location. Randomly triggers one of four additional effects on hit targets. [Additional Effect] Immobilize / Immobilize / Disable Skills / Remove Enhancement",
+    "korean": "목표 지점에 {0} 보호 무시 피해를 입힙니다.&n적중 대상들에 4가지 추가 효과 중 1개가 랜덤으로 발생합니다.&n[추가 효과]&n이동 불가 / 행동 불가 / 스킬 사용 불가 / 강화 효과 해제"
+  },
+  "SkillDesc_Skill_PECS_Melt_N_2": {
+    "english": "Brainwashes an ally to force them to use their skill again. Receives additional effects based on the target's role. Attackers: Increased Critical Hit Rate Protectors: Reduced Damage Taken Supporters: Increased AP",
+    "korean": "아군을 세뇌하여 사용한 스킬을 한번 더 사용하게 만든다.&n대상의 역할군에 따라 추가 효과를 받습니다.&n공격기 : 치명타 증가&n보호기 : 받는 피해 감소&n지원기 : AP 증가"
+  },
+  "SkillDesc_Skill_PECS_Melt_N_3": {
+    "english": "Your AP increases at the start of battle. If your HP is 25% or lower, your Attack Power and Action Power increase at the start of the round.",
+    "korean": "전투 개시 시 자신의 AP가 증가합니다.&n자신의 HP가 25% 이하면 라운드 시작 시 공격력과 행동력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Melt_N_4": {
+    "english": "At the start of the round, allies' Attack Power / Armor Penetration increases, and damage taken is reduced. If <Poi> is in the squad, Poi receives double the applied effects.",
+    "korean": "라운드 개시 시, 아군의 공격력 / 방어 관통이 증가하고 받는 피해 감소합니다.&n스쿼드 내에 <포이>가 존재할 경우, 포이는 적용 효과를 2배로 받습니다."
+  },
+  "SkillDesc_Skill_PECS_Melt_N_5": {
+    "english": "At the start of a round, allies' Hit / Critical / Skill Power increases.",
+    "korean": "라운드 개시 시, 아군의 적중 / 치명타 / 스킬 위력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Merlin_N_1": {
+    "english": "Take out a small firearm from the bag and deal {0} damage to a single target.&nOn hit, increase the target's damage taken for 2 rounds.&nIf the target is an attacker, increase the damage and remove the enhancement effect.",
+    "korean": "가방 속에서 자그마한 중화기를 꺼내 단일 대상에게 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상의 받는 피해를 증가시킵니다.&n대상이 공격기일 경우, 피해량이 증가하고 강화 효과를 해제합니다."
+  },
+  "SkillDesc_Skill_PECS_Merlin_N_2": {
+    "english": "Upon using the skill, deploy the armory to increase the AP of allied attackers within range and increase armor penetration for 3 rounds.&nIf there are no defenders in the squad, grant counterattack effect to all medium and heavy allies for 2 rounds, regardless of position.",
+    "korean": "스킬 사용 시, 무기고를 전개하여 범위 내 아군 공격기의 AP를 증가시키고, 3라운드 동안 방어 관통을 증가시킵니다.&n스쿼드 내에 보호기가 없을 경우, 위치와 관계 없이 모든 중장형 아군에게 2라운드 동안 반격 효과를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_Merlin_N_3": {
+    "english": "At the start of the round, permanently increase the ATK power of allied attackers within range. (Up to 5 stacks)&nIf an allied attacker has 2 or more at the start of the round, reduce the damage taken by allied attackers within range.&nIf an allied attacker has 4 or more at the start of the round, increase the action power of allied attackers within range.&nThe effect value is doubled for medium and heavy attackers.",
+    "korean": "라운드 개시 시, 범위 내 아군 공격기의 공격력을 영구적으로 증가시킵니다. (최대 5중첩)&n라운드 개시 시 아군 공격기가 2 이상인 경우, 범위 내 아군 공격기의 받는 피해를 감소시킵니다.&n라운드 개시 시 아군 공격기가 4 이상인 경우, 범위 내 아군 공격기의 행동력을 증가시킵니다.&n중장형 공격기는 효과 수치가 두 배로 증폭됩니다."
+  },
+  "SkillDesc_Skill_PECS_Merlin_N_4": {
+    "english": "At the start of the round, increase the effect resistance/ACU of medium and heavy allies based on the number of allied attackers.&nAt the start of combat, if there are 5 allied attackers, apply the <UNREP> effect to all allies, excluding counterattack.",
+    "korean": "라운드 개시 시, 아군 공격기 수에 따라 중장형 아군의 효과 저항 / 적중을 증가시킵니다.&n전투 개시 시 아군 공격기가 5기일 경우, 반격을 제외한 <UNREP> 효과가 아군 전체에 적용됩니다."
+  },
+  "SkillDesc_Skill_PECS_Merlin_N_5": {
+    "english": "At the start of the round, if there is at least 1 <Poseidon> affiliated attacker other than oneself, activate protection ignore and increase CRIT chance.&nIgnore the activation conditions of the <Output Limitation Release> skill held by <Poseidon> affiliated attackers and allow it to activate immediately.",
+    "korean": "라운드 개시 시 자신 외의 <포세이돈> 소속 공격기가 1기 이상 존재할 경우, 자신은 보호 무시가 활성화되고 치명타가 증가합니다.&n<포세이돈> 소속 공격기가 보유한 <출력 제한 해제> 스킬의 발동 조건을 무시하고 즉시 발동할 수 있도록 합니다."
+  },
+  "SkillDesc_Skill_PECS_Mery_N_1": {
+    "english": "While cleaning, throw clutter to deal {0} damage to the designated area.&nOn hit, reduce the target's attack / evasion for 2 rounds.&nAfter using the skill, feel lighter and gain increased action power for 2 rounds.",
+    "korean": "청소를 겸해 잡동사니를 내던져 지정 범위에 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상의 공격력 / 회피를 감소시킵니다.&n스킬 사용 후, 한결 가뿐해져 2라운드 동안 자신의 행동력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Mery_N_2": {
+    "english": "Bestow a masterpiece on the target ally, granting the following effects for 2 rounds depending on their role:&n&nAttacker: Increased ATK power / Defender: Reduced damage taken / Supporter: Increased action power",
+    "korean": "대상 아군에게 걸작을 선사하여 역할군에 따라 2라운드 동안 다음 효과를 부여합니다.&n- 공격기 : 공격력 증가 / 보호기 : 받는 피해 감소 / 지원기 : 행동력 증가"
+  },
+  "SkillDesc_Skill_PECS_Mery_N_3": {
+    "english": "At the start of the round, increase the ATK power / action power of allies with attack roles within the range.&nIf the target is a mobility/light armor type with HP over 95%, additionally grant a shield / ignore damage reduction effect.",
+    "korean": "라운드 개시 시, 범위 내 아군 공격기의 공격력 / 행동력을 증가시킵니다.&n대상이 HP 95% 이상인 기동/경장형인 경우, 추가로 방어막 / 피해 감소 무시 효과를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_Mery_N_4": {
+    "english": "At the start of the round, grant a mark to allies with DEF roles within the range and increase their DEF.&nWhen hit, increase your own AP.",
+    "korean": "라운드 개시 시, 범위 내 아군 보호기에게 표식을 부여하고 방어력을 증가시킵니다.&n자신이 피격 시, 자신의 AP가 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Mery_N_5": {
+    "english": "At the start of the round, increase your effect resistance and reduce the damage you take.&nAt the start of the round, grant 50% of the active <Custom Masterpiece> effect to the target of your passive skill.&nThe additional effect from <Atelier Girl> will activate as long as one of the conditions is met.",
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가하고 받는 피해가 감소합니다.&n라운드 개시 시, 활성화된 <맞춤형 걸작> 지속 효과의 50%를 자신의 패시브 스킬 효과 대상에게 부여합니다.&n<아틀리에의 소녀>에 의한 추가 효과가, 조건 중 어느 한 쪽만 충족되어도 발동할 수 있게 됩니다."
+  },
+  "SkillDesc_Skill_PECS_MightyR_CH_1": {
+    "english": "Smash the enemy with a barbell to deal {0} damage. On hit, increases the target's damage taken for 2 rounds.",
+    "korean": "바벨로 적을 분쇄하여 {0} 피해를 줍니다. 적중 시, 2라운드 동안 대상의 받는 피해를 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_MightyR_CH_2": {
+    "english": "Charge at the target with Mach speed to deal {0} protection-ignoring damage, and the shockwave inflicts 25% reduced damage to nearby enemies.&nOn hit, reduces the target's AP. If the target is positioned in the front row, inflicts incapacitation for 2 rounds.",
+    "korean": "마하의 속도로 목표에 돌격하여 {0} 보호 무시 피해를 주고, 그 충격파로 주변에는 25% 감소한 피해를 입힙니다.&n적중 시, 대상의 AP를 감소시킵니다. 대상이 전열에 위치한 경우 2라운드 동안 행동 불능 상태를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_MightyR_CH_3": {
+    "english": "At the start of the round, enter <Super Pump Up> state, increasing your ATK / action power.&nAt the start of the round, increases allied Bioroids' ATK / action power.&nOn a successful hit, further increases allied Bioroids' ATK / action power for 2 rounds. (Max 1 stack)",
+    "korean": "라운드 개시 시, <초 펌핑 업> 상태가 되어 자신의 공격력 / 행동력이 증가합니다.&n라운드 개시 시, 아군 바이오로이드의 공격력 / 행동력을 증가시킵니다.&n공격 적중 시, 2라운드 동안 아군 바이오로이드의 공격력 / 행동력을 추가로 증가시킵니다. (최대 1중첩)"
+  },
+  "SkillDesc_Skill_PECS_MightyR_CH_4": {
+    "english": "At the start of the round, increases allied Bioroids' EXP gain.&nAt the start of the round, grants defense penetration / defense increase effects to allies under <Super Pump Up>.",
+    "korean": "라운드 개시 시, 아군 바이오로이드의 경험치 획득량이 증가합니다.&n라운드 개시 시, <초 펌핑 업> 효과를 받는 아군에게 방어 관통 / 방어력 증가 효과를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_MightyR_CH_5": {
+    "english": "At the start of the round, increases your effect resistance.&nAt the start of the round, if you have attack support applied, amplifies <Personal Trainer>'s defense penetration / defense increase effects by 50%.&nAttack support effects applied to yourself will not activate.&n<Super Pump Up> / <Personal Trainer> effects also affect allied AGS.",
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가합니다.&n라운드 개시 시, 자신에게 공격 지원 효과가 적용된 경우 <퍼스널 트레이너>의 방어 관통 / 방어력 증가 효과를 50% 증폭시킵니다.&n자신에게 적용된 공격 지원 효과는 발동하지 않습니다.&n<초 펌핑 업> / <퍼스널 트레이너> 효과가 아군 AGS에도 영향을 미칩니다."
+  },
+  "SkillDesc_Skill_PECS_MightyR_N_1": {
+    "english": "Strike with the barbell, dealing {0} damage. Damage increases if in Bulk Up state.",
+    "korean": "바벨로 강타해 {0} 피해를 줍니다. 벌크 업 상태면 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_MightyR_N_2": {
+    "english": "Charge at the target, dealing {0} protection-ignoring damage, and deal 25% reduced damage to the targets in the backline.&nIf in <Bulk Up> status, increase damage and reduce the target's AP.",
+    "korean": "목표에 돌격하여 {0} 보호 무시 피해를 주고 대상 뒷 열에 25% 감소한 피해를 줍니다. &n<벌크 업> 상태인 경우 피해량이 증가하고 대상의 AP를 감소시킵니다."
+  },
+  "SkillDesc_Skill_PECS_MightyR_N_3": {
+    "english": "Upon attacking, permanently enter <Bulk Up> status, increasing your ATK power / action power. (Up to 3 stacks)&nAt the start of the round, if <Bulk Up> stacks are at maximum, enter <Super Pumping Up> status, enhancing each skill and applying the basic effects of <Bulk Up> to allied Bioroids.&nWhen starting combat with a 5-member squad, immediately enter <Super Pumping Up> status.",
+    "korean": "공격 시, 영구적으로 <벌크 업> 상태가 되어 자신의 공격력 / 행동력이 증가합니다. (최대 3스택)&n라운드 개시 시, <벌크 업> 스택이 최대치인 경우, <초 펌핑 업> 상태가 되어 각 스킬이 강화되고 <벌크 업> 기본 효과를 아군 바이오로이드에게도 적용합니다.&n5인 스쿼드로 전투 개시 시, 즉시 <초 펌핑 업> 상태를 획득합니다."
+  },
+  "SkillDesc_Skill_PECS_MightyR_N_4": {
+    "english": "At the start of the round, increase the experience gained by allied Bioroids.&nThe amount of experience gained additionally increases based on your <Bulk Up> stacks.&nAt the start of the round, grant armor penetration / DEF increase effects to allies benefiting from <Bulk Up>.",
+    "korean": "라운드 개시 시, 아군 바이오로이드의 경험치 획득량이 증가합니다. 자신의 <벌크 업> 스택에 비례하여 경험치 획득량이 추가로 증가합니다.&n라운드 개시 시, <벌크 업> 효과를 받는 아군에게 방어 관통 / 방어력 증가 효과를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_MightyR_N_5": {
+    "english": "At the start of the round, increase your effect resistance.&nAt the start of the round, if you have an ATK support effect applied, amplify the armor penetration / DEF increase effect of <Personal Trainer> by 50%.&nThe attack support effect applied to you will not activate.&nThe effects of <Bulk Up> / <Personal Trainer> also affect allied AGS units.",
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가합니다.&n라운드 개시 시, 자신에게 공격 지원 효과가 적용된 경우 <퍼스널 트레이너>의 방어 관통 / 방어력 증가 효과를 50% 증폭시킵니다.&n자신에게 적용된 공격 지원 효과는 발동하지 않습니다.&n<벌크 업> / <퍼스널 트레이너> 효과가 아군 AGS에도 영향을 미칩니다."
+  },
+  "SkillDesc_Skill_PECS_Nidhogg_N_1": {
+    "english": "Charges forward with blades drawn, dealing {0} damage to a single target. Ignores Protect.&nOn hit, reduces the target's skill power for 3 rounds and increases the user's skill power. (Does not stack)&nOn a CRIT, gains 1 stack of <Toxic Substance>.&nIf the target is under the effect of <Burst of Resentful Malice>, damage is increased.",
+    "korean": "칼날을 세우고 돌진하여 단일 대상에게 {0} 보호 무시 피해를 줍니다.&n적중 시, 3라운드 동안 대상의 스킬 위력을 감소시키고 자신의 스킬 위력이 증가합니다. (중첩 불가)&n치명타 시, <유독 물질>을 1중첩 획득합니다.&n적중 대상이 <사무친 악의의 분출>에 의한 효과가 적용 중인 경우, 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Nidhogg_N_2": {
+    "english": "Sprays concentrated venom, dealing {0} damage to a designated area. Ignores Protect.&nConsumes all stacks of <Toxic Substance>, applying additional effects for 2 rounds based on the number of stacks:&n1 or more stacks: ACU reduction&n2 or more stacks: Increased damage taken&n3 stacks: Cannot be buffed",
+    "korean": "농축된 독액을 분출하여 지정 범위에 {0} 보호 무시 피해를 줍니다.&n<유독 물질> 중첩을 모두 소모하며, 그 수에 따라 2라운드 동안 대상에게 다음 효과가 추가로 적용됩니다.&n1중첩 이상 : 적중 감소 / 2중첩 이상 : 받는 피해 증가 / 3중첩 : 강화 불가"
+  },
+  "SkillDesc_Skill_PECS_Nidhogg_N_3": {
+    "english": "At the start of the round, toxic leakage reduces Effect Resistance of allies within range.&nAt the start of the round, releases toxicity to reduce all enemies' Effect Resistance.&nThese effects increase based on the number of <Toxic Substance> stacks held.",
+    "korean": "라운드 개시 시, 독성이 유출되어 범위 내 아군의 효과 저항이 감소합니다.&n라운드 개시 시, 독성을 흘려보내 모든 적의 효과 저항이 감소합니다.&n자신이 보유한 <유독 물질> 중첩 수에 따라 상기 효과가 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Nidhogg_N_4": {
+    "english": "At the start of the round, reduces the range of enemy attack skills.&nUpon enemy death, gains 1 stack of <Toxic Substance>.&nHarmful effects inflicted by the user are doubled in strength if the target is a Air-type unit.&nThe 'Cannot be buffed' effect of <Burst of Resentful Malice> is applied regardless of hit or miss if the target is Air-type.",
+    "korean": "라운드 개시 시, 적 공격기의 사거리가 감소합니다.&n적 사망 시, <유독 물질>을 1중첩 획득합니다.&n자신이 적에게 부여하는 해로운 효과는, 대상이 기동형일 경우 효과가 두 배로 증폭됩니다.&n<사무친 악의의 분출>의 강화 불가 효과는, 대상이 기동형일 경우 적중 여부에 관계 없이 적용됩니다."
+  },
+  "SkillDesc_Skill_PECS_Nidhogg_N_5": {
+    "english": "At the start of battle, gain 2 stacks of <Toxic Substance>, and increase your AP based on the number of stacks.&nCan hold up to 3 stacks of <Toxic Substance>.&nIf <Toxic Substance> is gained beyond the maximum stack limit, AP increases instead.",
+    "korean": "전투 개시 시, <유독 물질>을 2중첩 획득하며 중첩 수에 따라 자신의 행동력이 증가합니다.&n<유독 물질>은 최대 3중첩까지만 보유할 수 있습니다.&n최대 한도를 초과하여 <유독 물질> 획득 시, 자신의 AP가 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Olivia_N_1": {
+    "english": "Marks a seam on a single target, dealing {0} damage.&nOn hit, increases target's damage received for 2 rounds and increases own defense penetration.",
+    "korean": "단일 대상에게 박음선을 표시하며 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상의 받는 피해를 증가시키고 자신의 방어 관통이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Olivia_N_2": {
+    "english": "Dances the needle with elegant movements to deal {0} damage to the target.&nIf the target has 2 or more <Thread Stacks>, removes target's buffs.&nDamage increases based on the number of <Thread> stacks applied to self (max 5 stacks).&nIncreases action of all allies for 2 rounds after skill use.",
+    "korean": "화려한 움직임으로 바늘을 춤추게하여 대상에게 {0} 피해를 줍니다.&n적중 대상의 <바늘땀> 중첩이 2 이상일 경우, 대상의 강화 효과를 해제합니다.&n적중 시, 자신에게 적용된 <실밥> 중첩 수에 따라 피해량이 증가합니다. (최대 5중첩)&n스킬을 사용한 다음 2라운드 동안 아군 전체의 행동력을 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Olivia_N_3": {
+    "english": "Upon follow-up attack / Attack Support, increases own ATK for 2 rounds. (Up to 2 stacks)&nAt the start of the round, increases own Maximum Action Count.&nIf there is only 1 enemy unit at the start of the round and Taylor is present, enter <Thimble> state, reducing the skill power of <Basting Stitch> and increasing the skill power of <Papillon Stitch>.",
+    "korean": "재공격 / 지원 공격 시, 2라운드 동안 자신의 공격력이 증가합니다. (최대 2중첩)&n라운드 개시 시, 자신의 최대 행동 횟수가 증가합니다. &n라운드 개시 시 적 개체 수가 1이고 테일러가 있을 경우, <골무>를 준비하여 <시침질>의 스킬 위력이 감소하고 <파피용 스티치>의 스킬 위력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Olivia_N_4": {
+    "english": "At the start of the round, grant allied Support units Attack Support and increases AP.&nIf there is an ally under the above effect, the user cannot trigger Attack Support from sources other than themselves.&nIf effects from a <PECS> Designer other than the Olivia's are applied, certain effects are amplified.",
+    "korean": "라운드 개시 시, 아군 지원기의 공격을 지원하고 AP를 증가시킵니다.&n상기 효과가 적용된 아군이 있을 경우, 자신은 자신에 의한 효과 외의 공격 지원을 발동시킬 수 없습니다.&n자신 외의 <PECS> 의상 디자이너에 의한 효과가 자신에게 적용될 경우, 일부 효과가 증폭됩니다."
+  },
+  "SkillDesc_Skill_PECS_Olivia_N_5": {
+    "english": "At the start of the round, increases own ATK / Maximum Action Count.&nIf there are 3 or fewer enemy units, the effects of the user’s active skills are doubled.&nUpon follow-up / Attack Support, reduces ACU / EVA of enemies affected by the active skill of a <PECS> Designer for 2 rounds. (Up to 5 stacks)",
+    "korean": "라운드 개시 시, 자신의 공격력 / 최대 행동 횟수가 증가합니다.&n적 개체 수가 3 이하일 경우, 자신의 액티브 스킬 효과가 두 배로 증폭됩니다.&n재공격 / 지원 공격 시, 2라운드 동안 <PECS> 의상 디자이너의 액티브 스킬 효과를 받는 적의 적중 / 회피를 감소시킵니다. (최대 5중첩)"
+  },
+  "SkillDesc_Skill_PECS_Orangeade_N_1": {
+    "english": "Deals {0} damage and fixed damage to the target. Ignore Protect. The target cannot gain new buff effects for 2 rounds.",
+    "korean": "대상에게 {0} 보호 무시 피해와 고정 피해를 입힙니다. 대상은 2라운드 동안 새로운 강화 효과를 얻을 수 없게 됩니다."
+  },
+  "SkillDesc_Skill_PECS_Orangeade_N_2": {
+    "english": "Grants an ATK Buff proportional to Orangeade's ATK to all allies except herself for 2 rounds.",
+    "korean": "2라운드 동안 자신을 제외한 아군에게 오렌지에이드의 공격력에 비례한 공격력 강화 효과를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_Orangeade_N_3": {
+    "english": "At the start of battle, if the number of Air-type allies in the squad is 2 or fewer, increases all allies' Skill Power / CRIT. This effect cannot be removed.",
+    "korean": "전투 개시 시 스쿼드에 기동형 아군 수가 2 이하일 경우, 모든 아군의 스킬 위력 / 치명타를 증가시킵니다. 해당 효과는 해제할 수 없습니다."
+  },
+  "SkillDesc_Skill_PECS_Orangeade_N_4": {
+    "english": "At the start of battle, if the number of Heavy-type allies in the squad is 2 or fewer, increases all allies' ATK / DEF. This effect cannot be removed.",
+    "korean": "전투 개시 시 스쿼드에 중장형 아군 수가 2 이하일 경우, 모든 아군의 공격력 / 방어력을 증가시킵니다. 해당 효과는 해제할 수 없습니다."
+  },
+  "SkillDesc_Skill_PECS_Orangeade_N_5": {
+    "english": "At the start of battle, if the number of Light-type allies in the squad is 2 or fewer, increases all allies' Range / ACU. This effect cannot be removed.&nAt Skill Level 10, Range is further increased.",
+    "korean": "전투 개시 시 스쿼드에 경장형 아군 수가 2 이하일 경우, 모든 아군의 사거리 / 적중을 증가시킵니다. 해당 효과는 해제할 수 없습니다.&n스킬 레벨 10에서 사거리가 추가로 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_CH_1": {
+    "english": "Deals {0} damage to the target point and 50% reduced damage to surrounding areas. Reduces the target's EVA for 3 rounds, and if the target has row or ally protection active, damage is increased.",
+    "korean": "목표 지점에 {0} 피해를 주고 주위에 50% 감소한 피해를 줍니다. 3라운드 동안 대상의 회피를 감소시키고, 대상이 행 보호 또는 열 보호 활성화 상태면 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_CH_2": {
+    "english": "Deals {0} armor-piercing / shield-ignoring damage to enemies in the designated area. Removes the shield effect of hit targets and reduces the area damage distribution effect based on the number of enemies. Using this skill switches to <Falcon Form> mode.",
+    "korean": "지정 범위 적에게 {0} 방어 관통 / 보호 무시 피해를 줍니다. 적중 대상의 방어막 효과를 해제하고 적 수에 비례하여 광역 피해 분산 효과를 감소시킵니다. 해당 스킬 사용 시, <팔콘 폼> 모드로 변환됩니다."
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_CH_3": {
+    "english": "At the start of the round, the area damage concentration effect is permanently applied. Can stack up to 5 times. Using Skill 2 switches to <Falcon Form>.",
+    "korean": "라운드 개시 시, 광역 피해량 집중 효과가 영구히 적용됩니다. 최대 5중첩까지 가능합니다. 2스킬 사용 시, <팔콘 폼>으로 변환됩니다."
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_N_1": {
+    "english": "Deals {0} damage to enemies in the designated area, and reduces their DEF for 3 turns. Damage increases on Critical Hit.",
+    "korean": "지정 범위 적에게 {0} 피해를 주고 3라운드 동안 대상의 방어력을 감소시킵니다. 치명타 시, 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_N_2": {
+    "english": "Deals {0} damage to the target. Ignores the target’s Shield and Damage Reduction effects. Skill power increases based on own Evasion.",
+    "korean": "대상에게 {0} 피해를 줍니다. 대상의 방어막 / 피해 감소 효과를 무시하며, 자신 회피에 비례하여 스킬 위력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_N_3": {
+    "english": "At the start of the round, permanently increases CRIT and EVA (up to 5 stacks). Battle starts with <Mode Shift Ready> active. While in this state, using Wait will transform the unit into <Human Form>.",
+    "korean": "라운드 개시 시, 치명타 / 회피 증가 효과가 영구히 적용됩니다. 최대 5중첩까지 가능합니다. 전투 시작 시 <모드 전환 준비> 활성화 상태가 되며, 해당 상태에서 대기 시 <휴먼 폼>으로 변환됩니다."
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_N_4": {
+    "english": "At the start of the round, increases ATK and AP. Skill power increases based on own EVA.",
+    "korean": "라운드 개시 시, 공격력 / 행동력이 증가하고 자신의 회피 수치에 비례하여 스킬 위력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_N_5": {
+    "english": "At the start of the round, increases AP based on number of EVA stacks from <Falcon Form>. Also increases ATK based on AoE damage focus stacks from <Human Form>.",
+    "korean": "라운드 개시 시, <팔콘 폼>의 회피 증가 중첩 수에 비례하여 AP가 증가합니다. 라운드 개시 시, <휴먼 폼>의 광역 피해량 집중 중첩 수에 비례하여 공격력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_QueenMane_N_1": {
+    "english": "Deals {0} damage to a single target. Ignores Protect.&nIf the target’s ATK is lower than the user’s on hit, damage is increased.&nOn critical hit, inflicts Persistent Physical Damage for 3 rounds.",
+    "korean": "단일 대상에게 {0} 보호 무시 피해를 줍니다.&n적중 시 대상의 공격력이 자신보다 낮을 경우, 피해량이 증가합니다.&n치명타 시, 3라운드 동안 지속 물리 피해를 입힙니다."
+  },
+  "SkillDesc_Skill_PECS_QueenMane_N_2": {
+    "english": "Deals {0} damage to a designated area and inflicts Immobilized status for 2 rounds.&nOn critical hit, disables target’s actions for the round.&nIf the target is already under Persistent Physical Damage, the disable lasts 2 rounds.&nWhen this skill is used, increases ATK / DEF of allies within <Pack Tactics> range for 2 rounds.",
+    "korean": "지정 범위에 {0} 피해를 주고, 2라운드 동안 대상을 이동 불가 상태로 만듭니다.&n치명타 시, 해당 라운드 동안 대상을 행동 불능 상태로 만듭니다.&n대상에게 지속 물리 피해가 적용중인 경우, 행동 불능이 2라운드 동안 지속됩니다.&n스킬 사용 시, 2라운드 동안 <무리짓기> 범위 내 아군의 공격력 / 방어력을 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_QueenMane_N_3": {
+    "english": "At the start of the round, increases own ATK / CRIT.&nWhile waiting, gains Counterattack. This effect can be manually removed by waiting.&nIf Counterattack is active at round start, increases EVA / ATK and extends range by 3.",
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가합니다.&n대기 시, 자신은 반격 효과를 획득합니다. 해당 효과는 대기를 통해 임의로 해제할 수 있습니다.&n라운드 개시 시 자신에게 반격 효과가 적용된 경우, 회피 / 공격력이 증가하고 사거리가 3 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_QueenMane_N_4": {
+    "english": "At the start of the round, increases the damage dealt by allies within range to heavy / light armor types.&nEffect is amplified by 50% when in a 5-unit squad.&nIf the user is the only attacker in the squad at battle start, increases AP of allies within range.",
+    "korean": "라운드 개시 시, 범위 내 아군의 대 중장형 / 경장형 피해량이 증가합니다. &n5인 스쿼드 구성 시 효과가 50% 증폭됩니다.&n전투 개시 시 자신이 스쿼드 내 유일한 공격기인 경우, 범위 내 아군의 AP가 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_QueenMane_N_5": {
+    "english": "At the start of the round, increases user’s base ATK for 3 rounds.&nAlso decreases AP of all enemies with lower ATK via an overwhelming roar.&nAt battle start, gains an AP increase buff based on the number of 'prey'.",
+    "korean": "라운드 개시 시, 3라운드 동안 자신의 기본 공격력이 증가합니다.&n라운드 개시 시, 위압적인 포효로 자신보다 공격력이 낮은 모든 적의 행동력을 감소시킵니다.&n전투 개시 시, 사냥감 수에 비례하여 자신은 행동력 증가 일반 효과를 획득합니다."
+  },
+  "SkillDesc_Skill_PECS_Rhode_CH_1": {
+    "english": "Deals {0} defense-ignoring damage to the target.  &nWhen the skill hits, it reduces the target's attack power and critical hit for 2 rounds.  &nIf the target's HP is at 100%, it inflicts a skill disable effect for 1 round.",
+    "korean": "대상에게 {0} 보호 무시 피해를 줍니다. &n스킬 적중시 2라운드 동안 대상의 공격력과 치명타를 감소시킵니다.&n대상의 HP가 100%인 경우, 1라운드 동안 스킬 사용 불가 효과를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_Rhode_CH_2": {
+    "english": "Deals {0} protection-ignoring damage within a specified range that is very difficult to evade.  &nUpon hitting, it removes column/row/specified protection effects, grants a damage-increasing effect for 1 round, and decreases AP.  &nWhen used, it returns to its original form.",
+    "korean": "지정 범위에 회피가 매우 어려운 {0} 보호 무시 피해를 줍니다.&n적중시 열/행/지정 보호 효과를 해제하고 1라운드 동안 받는 피해 증가 효과를 주고 AP를 감소시킵니다.&n사용시, 원래 형태로 돌아갑니다."
+  },
+  "SkillDesc_Skill_PECS_Rhode_N_1": {
+    "english": "Deals {0} defense-ignoring damage to the target.  &nWhen the skill hits, it reduces the target's attack power and critical hit for 2 rounds.  &nIf the target's HP is at 100%, it inflicts a skill usage disable effect for 1 round.",
+    "korean": "대상에게 {0} 보호 무시 피해를 줍니다.&n스킬 적중시 2라운드 동안 대상의 공격력과 치명타를 감소시킵니다.&n대상의 HP가 100%인 경우, 1라운드 동안 스킬 사용 불가 효과를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_Rhode_N_2": {
+    "english": "Deals {0} piercing damage that is very difficult to avoid within the specified range.  &nWhen it hits, it removes the fire/row/specific protection effects.",
+    "korean": "지정 범위에  회피가 매우 어려운 {0} 보호 무시 피해를 줍니다.&n적중시 열/행/지정 보호 효과를 해제합니다."
+  },
+  "SkillDesc_Skill_PECS_Rhode_N_3": {
+    "english": "At the start of battle, increases own AP.  &nAt the start of the round, increases allies' Effect Resistance / Debuff Resistance for 1 round, and additionally increases it for Lemonade Gamma, Merlin, Triton, and Merope.",
+    "korean": "전투 개시시, 자신의 AP를 증가 시킵니다.&n라운드 개시시, 1 라운드 동안 아군의 효과 저항 / 강화 해제 저항이 증가하며 레모네이드 감마, 멀린, 트리톤, 메로페는 추가로 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Rhode_N_4": {
+    "english": "At the start of the round, increase your action points for 1 round. In normal mode, using an active skill once switches to bombardment mode.",
+    "korean": "라운드 개시시, 1 라운드 동안 자신의 행동력을  증가시킵니다. 일반 모드에서 1번 엑티브 스킬 사용시 대포격 모드로 전환합니다."
+  },
+  "SkillDesc_Skill_PECS_Rhode_N_5": {
+    "english": "At the start of the round, increases the AP of Lemonade Gamma, Triton, Merlin, and Merope. Lemonade Gamma and Merope receive an additional increase.  &nAt the start of the round, for 1 round, grants Lemonade Gamma a combat shield and an effect that ignores damage reduction received.  &nAt the start of the round, for 1 round, grants Merope an effect that reduces damage received in combat.",
+    "korean": "라운드 개시시 레모네이드 감마, 트리톤, 멀린,메로페의 AP를 증가시킵니다. 레모네이드 감마와 메로페는 추가로 증가합니다.&n라운드 개시시, 1라운드 동안 레모네이드 감마에게  전투중 방어막과 받는 피해 감소 무시 효과를 부여합니다.&n라운드 개시시, 1라운드 동안 메로페에게 전투중 받는 피해 감소 효과를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_Sekhmet_N_1": {
+    "english": "Deals {0} damage to the target location and 90% reduced damage to surrounding enemies. If an enemy is defeated, deals fixed physical damage to enemies within the area and reduces their Defense for 3 rounds.",
+    "korean": "목표 지점에 {0} 피해를 주고 주변에는 90% 감소한 피해를 입힙니다. 적이 처치된 경우 범위 내 적에게 고정 물리 피해를 주고 3라운드 동안 방어력을 감소시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Sekhmet_N_2": {
+    "english": "Deals {0} damage ignoring DEF to the target location and 75% / 90% reduced damage to the back row. On hit, removes the target’s AP increase effects, reduces their AP for 2 rounds, and increases own Ap proportionally to the number of enemies.",
+    "korean": "목표 지점에 {0} 보호 무시 피해를 주고 뒷열에는 75% / 90% 감소한 피해를 입힙니다. 공격 적중 시, 대상의 행동력 증가 효과를 해제하고 2라운드 동안 대상의 행동력을 감소시키며 적 수에 비례하여 자신의 행동력을 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Sekhmet_N_3": {
+    "english": "At the start of the round, increases MOVE / DEF Penetration. Further increases own MOVE / DEF Penetration based on the number of <Elven-type Bioroids> in the squad.",
+    "korean": "라운드 개시 시, 행동력 / 방어 관통이 증가합니다. 스쿼드 내 <엘븐형 바이오로이드> 수에 따라 자신의 행동력 / 방어 관통이 추가로 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Sekhmet_N_4": {
+    "english": "At the start of the round, gains Area Damage Focus. Area Damage Focus increases the final damage of AoE attacks the fewer enemies are in the attack range, reaching its maximum when only 1 enemy is present. When hit, increases own ATK for 3 rounds.",
+    "korean": "라운드 개시 시, 광역 피해량 집중 효과를 얻습니다. 광역 피해량 집중은 공격 범위에 포함된 적의 수가 적을수록 광역 공격의 최종 피해량이 증가하며, 적이 1기일 때 최대로 적용됩니다. 피격 시, 3라운드 동안 공격력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Sekhmet_N_5": {
+    "english": "At the start of the round, increases ACU of allies within range and grants Row Guard to Defender and Support units.",
+    "korean": "라운드 개시 시, 범위 내 아군의 적중을 증가시키고, 보호기 / 지원기에게 행 보호를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_Shepherd_N_1": {
+    "english": "Deals {0} lightning damage ignoring protection to a single target.&nWhen a skill hit triggers a critical hit, it removes the target's buffs.&nWhen a skill hits, Sadius of Punishment assists with attacks using the Taser Cannon.",
+    "korean": "단일 대상에게 {0} 보호 무시 전기 피해를 줍니다.&n스킬 적중에 따른 치명타 발생 시 대상의 강화 효과를 해제합니다.&n스킬 적중 시 징벌의 사디어스가 테이져 캐논으로 공격 지원합니다."
+  },
+  "SkillDesc_Skill_PECS_Shepherd_N_2": {
+    "english": "Deals {0} lightning damage that ignores protection in the designated area.  &nWhen a critical hit occurs from the skill, it removes the target's minimum lightning resistance and reversal effects.  &nWhen the skill hits, Erosion Sonia supports the attack with HEDP.",
+    "korean": "지정 범위에 {0} 보호 무시 전기 피해를 줍니다.&n스킬 적중에 따른 치명타 발생 시 대상의 전기 속성 저항 하한 및 반전 효과를 해제합니다.&n스킬 적중 시 유린의 소니아가 HEDP로 공격 지원합니다."
+  },
+  "SkillDesc_Skill_PECS_Shepherd_N_3": {
+    "english": "Increases allies' AP when attacks hit.  &nFurther increases allies' AP when an enemy is defeated.  &nCombatants belonging to <City Guard> gain additional AP.",
+    "korean": "공격 적중 시 아군의 AP를 증가시킵니다.&n적 처치 시 아군의 AP를 추가로 증가시킵니다.&n<시티 가드> 소속 전투원은 AP를 추가로 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Shepherd_N_4": {
+    "english": "Increases allies' attack power when an attack hits.  &nIncreases allies' critical rate additionally when an enemy is defeated.  &nCombatants belonging to <City Guard> gain additional action points.",
+    "korean": "공격 적중 시 아군의 공격력을 증가시킵니다.&n적 처치 시 아군의 치명타를 추가로 증가 시킵니다.&n<시티 가드> 소속 전투원은 행동력를 추가로 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Shepherd_N_5": {
+    "english": "At the start of the round, decreases the electrical resistance of all hostile targets.  &nAt the start of the round, if there is a combatant affiliated with <City Guard> in the squad, further decreases the electrical resistance of all hostile targets.",
+    "korean": "라운드 개시 시 적대 대상 전체의 전기 저항력을 감소시킵니다.&n라운드 개시 시 스쿼드에 <시티 가드> 소속 전투원이 있을 경우 적대 대상 전체의 전기 저항력을 추가로 감소시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Sonia_N_1": {
+    "english": "Fires a grenade at enemies within the designated area, dealing {0} damage and partially ignoring the target’s DEF.&nOn hit, if the target is Drenched, removes the Fire resistance boost from Drenched and reduces resistance for 3 rounds.&nDamage is increased against Light Armor targets.",
+    "korean": "지정 범위 내 적에게 유탄을 발사하여 {0} 피해를 줍니다. 대상의 방어력 일부를 무시합니다.&n적중 시, 대상이 침수 상태인 경우 침수로 인한 화염 저항 증가 효과를 해제하고 3라운드 동안 효과 저항을 감소시킵니다.&n대상이 경장형일 경우 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Sonia_N_2": {
+    "english": "Wields an MGL in each hand and sprays Thermobaric Rounds at enemies within the designated area, dealing {0} Fire damage that ignores DEF. Damage is increased on CRIT.&nReduces the target’s EVA for 2 rounds regardless of hit, and additionally reduces the target’s ATK on hit.&nIf <Sadius of Retribution> is in the squad, performs a cooperative <Electric Fence> attack on the designated target.",
+    "korean": "양손으로 각각 MGL을 쥐고 지정 범위 내 적에게 열압력탄을 난사하여 보호 무시 {0} 화염 피해를 줍니다. 치명타 시, 피해량이 증가합니다.&n적중 여부에 관계없이 2라운드 동안 대상의 회피를 감소시키고, 적중 시 추가로 대상의 공격력을 감소시킵니다.&n스쿼드 내에 <징벌의 사디어스>가 있을 시, 지정 대상에게 <일렉트릭 펜스> 스킬 협동 공격을 합니다."
+  },
+  "SkillDesc_Skill_PECS_Sonia_N_3": {
+    "english": "When an enemy dies, grants ATK increase to allies within range for 3 rounds. Gains double the ATK increase effect for self (up to 3 stacks).&nAt the end of the wave, grants <Reconnaissance> to allies within range.&nAt the start of the round, grants ACU / CRIT increase for 1 round to allies within range who are under <Reconnaissance>.",
+    "korean": "적 사망 시, 범위 내 아군에게 3라운드 동안 공격력 증가 효과를 부여합니다. 자신은 공격력 증가 효과가 두 배로 증가합니다. (최대 3중첩)&n웨이브 종료 시, 범위 내 아군에게 <정찰> 효과를 부여합니다.&n라운드 개시 시, <정찰> 상태인 범위 내 아군에게 1라운드 동안 적중 / 치명타 증가 효과를 부여합니다."
+  },
+  "SkillDesc_Skill_PECS_Sonia_N_4": {
+    "english": "At the start of battle, if there are 6 or more enemies, increases own AP and permanently increases ATK.&nAt the start of the round, increases own MOVE proportionally to the number of enemies.",
+    "korean": "전투 개시 시, 적 개체 수가 6 이상일 경우 자신의 AP가 증가하고 영구적으로 공격력이 증가합니다.&n라운드 개시 시, 적 개체 수에 비례하여 자신의 행동력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Sonia_N_5": {
+    "english": "At the start of the round, reduces ATK / CRIT of enemies in Counterattack status.&nAt the start of the round, reduces effect resistance of Immobilized enemies.&nAt the start of the round, increases damage received by enemies unable to act.",
+    "korean": "라운드 개시 시, 반격 상태인 적의 공격력 / 치명타를 감소시킵니다.&n라운드 개시 시, 이동 불가 상태인 적의 효과 저항을 감소시킵니다.&n라운드 개시 시, 행동 불능 상태인 적의 받는 피해를 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_CH_1": {
+    "english": "Deals {0} protection-ignoring damage to designated area.&nOn hit, removes target's DEF increase effects.&nOn crit, weakens target's damage reduction effects for 2 rounds.",
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. &n적중 시, 대상의 방어력 증가 효과를 해제합니다.&n치명타 시, 2라운드 동안 대상의 받는 피해 감소 효과를 약화시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_CH_2": {
+    "english": "Deals {0} damage to designated target. The lower the target's current HP%, the higher the damage.&nOn hit, decreases target's ATK for 2 rounds and increases damage taken.&nIf the target is not under DEF increase, the effect is amplified, doubling the values.&nAmplified effect is not affected by effect resistance and cannot be cleansed by debuff removal.",
+    "korean": "지정 대상에게 {0} 피해를 줍니다. 대상의 현재 HP%가 낮을수록 피해량이 증가합니다.&n적중 시, 2라운드 동안 대상의 공격력을 감소시키고, 받는 피해를 증가시킵니다.&n적중 대상이 방어력 증가 상태가 아닌 경우, 효과가 증폭되어 증감 수치가 두 배로 적용됩니다.&n증폭된 효과는 효과 저항의 영향을 받지 않으며, 해로운 효과 해제로 해제할 수 없습니다."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_CH_4": {
+    "english": "At the start of the round, gains DEF Penetration and Shield/Damage Reduction Ignore.&nAP cost decreases depending on Active Skill levels.",
+    "korean": "라운드 개시 시, 방어 관통이 증가하고 방어막 / 피해 감소 무시 효과를 획득합니다.&n각 액티브 스킬 레벨에 따라 소모 AP가 감소합니다."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_CH_5": {
+    "english": "At the start of the round, increases own ATK/Crit.&nAt battle start, permanently gains DEF reduction (normal effect).&nInstead, gains AP at battle start and permanent immunity to harmful Action Power reduction / AP reduction effects.",
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가합니다.&n전투 개시 시, 방어력 감소 일반 효과를 영구 획득합니다.&n대신 전투 개시 시 AP가 증가하고, 해로운 행동력 감소 / AP 감소 효과에 영구 면역이 됩니다."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_N_1": {
+    "english": "Deals {0} DEF-ignoring damage to a designated area.&nOn hit, removes the target's defense increase effects.&nOn CRIT, removes the target's Damage Taken Reduction and Increased damage taken.",
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. &n적중 시, 대상의 방어력 증가 효과를 해제합니다.&n치명타 시, 대상의 받는 피해 감소 효과를 해제하며 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_N_2": {
+    "english": "Deals {0} damage to a designated target.&nThe lower the target's current HP%, the higher the damage.&nOn hit, reduces the target’s ATK and increases Damage Taken for 2 rounds.&nIf the target does not have both DEF Up and Damage Reduction buffs / the debuffs are amplified, applying double the effect.&nAmplified effects are unaffected by Effect Resistance, and cannot be removed by cleanse-type effects.",
+    "korean": "지정 대상에게 {0} 피해를 줍니다. 대상의 현재 HP%가 낮을수록 피해량이 증가합니다.&n적중 시, 2라운드 동안 대상의 공격력을 감소시키고, 받는 피해를 증가시킵니다.&n적중 대상이 방어력 증가 / 받는 피해 감소 강화 효과를 모두 보유하지 않은 경우, 효과가 증폭되어 증감 수치가 두 배로 적용됩니다.&n증폭된 효과는 효과 저항의 영향을 받지 않으며, 해로운 효과 해제로 해제할 수 없습니다."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_N_3": {
+    "english": "At the start of the round, AP increases, up to 3 stacks.&n<If Receiving…> buff stacks are 2 or more, Range increases by 2.&n<If the buff...> is at maximum stacks, ACU greatly increases.",
+    "korean": "라운드 개시 시, 최대 3회까지 공격력이 증가합니다.&n<수신중…> 버프 중첩이 2 이상인 경우, 자신의 사거리가 2 증가합니다.&n<수신중…> 버프 중첩이 최대치인 경우, 적중이 크게 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_N_4": {
+    "english": "At the start of the round, gains effects that increase DEF / all Resistances / and reduce incoming damage.&nOn the first attack each round, DEF Penetration is greatly increased. For subsequent attacks, DEF Penetration is reduced by half.&nAP cost decreases according to the level of each active skill.&nEquipping <S.P.A.C.E> changes certain skills.",
+    "korean": "라운드 개시 시, 방어력 증가 / 모든 저항 증가 / 받는 피해 감소 효과를 획득합니다.&n매 라운드 자신의 첫 번째 공격에는 방어 관통이 크게 증가합니다. 이후의 공격에는 반감한 방어 관통이 적용됩니다.&n각 액티브 스킬 레벨에 따라 소모 AP가 감소합니다.&n<S.P.A.C.E> 장착 시 일부 스킬을 변경합니다."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_N_5": {
+    "english": "At the start of the round, your ATK and CRIT increase.&nAt the start of battle, permanently gains the normal effect of AP reduction.&nInstead, at the start of battle, AP increases and becomes permanently immune to harmful AP reduction / AP reduction effects.",
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가합니다.&n전투 개시 시, 행동력 감소 일반 효과를 영구 획득합니다.&n대신 전투 개시 시 AP가 증가하고, 해로운 행동력 감소 / AP 감소 효과에 영구 면역이 됩니다."
+  },
+  "SkillDesc_Skill_PECS_Stinger_N_1": {
+    "english": "Deals {0} damage with a flamethrower, and deals 50% reduced damage to targets behind.&nOn hit, inflicts continuous fire damage for 3 rounds and reduces the target’s Effect Resistance.",
+    "korean": "화염 방사로 {0} 피해를 주고, 뒤의 대상에게는 50% 감소한 피해를 줍니다. &n적중 시, 3라운드 동안 대상에게 지속 화염 피해를 주고 효과 저항을 감소시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Stinger_N_2": {
+    "english": "Charges at the target, dealing {0} damage. Ignores a portion of the target’s DEF.&nIf the target is Immobilized or Marked, damage is increased accordingly.&nWhen the skill is used, removes EVA / AP reduction effects from yourself.",
+    "korean": "목표 대상에게 돌격해 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.&n적중 대상이 이동 불가 또는 표식 상태인 경우, 각각 피해량이 증가합니다.&n스킬 사용 시, 자신에게 적용된 회피 / 행동력 감소 효과를 해제합니다."
+  },
+  "SkillDesc_Skill_PECS_Stinger_N_3": {
+    "english": "When attacked by an enemy, boosts thruster output to increase ATK / AP for 2 rounds.&nAt the start of the round, increases own EVA for 2 rounds.",
+    "korean": "적 공격 시, 부스터 출력을 올려 2라운드 동안 공격력 / 행동력이 증가합니다.&n라운드 개시 시, 2라운드 동안 자신의 회피가 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Stinger_N_4": {
+    "english": "At the start of battle, greatly increases own EVA. This effect gradually decreases as rounds progress.&nAt the start of the round, if under designated protection, increases own AP.&nThe activation effect duration of <Preheat Initiated> is extended by 1 round.",
+    "korean": "전투 개시 시, 자신의 회피가 크게 증가합니다. 해당 효과는 라운드 경과에 따라 점감합니다.&n라운드 개시 시 자신이 지정 보호를 받고 있을 경우, 자신의 AP가 증가합니다.&n<예열 개시>의 발동 효과 지속이 1라운드 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Stinger_N_5": {
+    "english": "At the start of the round, gains an effect that increases skill power based on EVA.&nWhen using <Napalm Burner>, enter Overdrive and gain effects that ignore Shields and Damage Reduction for 3 rounds.&nWhile in <Overdrive> state, defeating an enemy refunds 50% of the AP used.",
+    "korean": "라운드 개시 시, 자신은 회피 비례 스킬 위력 증가 효과를 획득합니다.&n<네이팜 버너> 사용 시, 초가속하여 3라운드 동안 방어막 / 피해 감소 무시 효과를 획득합니다.&n<초가속> 상태에서 적 처치 시, 사용한 AP의 50%를 돌려받습니다."
+  },
+  "SkillDesc_Skill_PECS_TaylorClothcut_N_1": {
+    "english": "Slice through the Iron Bug to deal {0} damage and reduce the target’s DEF for 2 rounds.&nOn CRIT, inflict Physical DoT for 2 rounds and double the DEF reduction effect. (Does not stack)&nApplies additional effects based on the current <Decadent Aesthetic> state.",
+    "korean": "철충을 재단해 {0} 피해를 주고, 2라운드 동안 대상의 방어력을 감소시킵니다.&n치명타 시, 2라운드 동안 대상에게 지속 물리 피해를 입히고 방어력 감소 효과가 두 배로 증폭됩니다. (중첩 불가)&n현재 적용 중인 <탐미주의> 상태에 따라 추가 효과를 적용합니다."
+  },
+  "SkillDesc_Skill_PECS_TaylorClothcut_N_2": {
+    "english": "Instantly tailor fabric to dispel harmful effects from the target ally.&nApplies additional effects for 2 rounds based on the current <Decadent Aesthetic> state.",
+    "korean": "즉석에서 옷감을 마름질하여 대상 아군에게 적용된 해로운 효과를 해제합니다.&n현재 적용 중인 <탐미주의> 상태에 따라 2라운드 동안 추가 효과를 적용합니다."
+  },
+  "SkillDesc_Skill_PECS_TaylorClothcut_N_3": {
+    "english": "At the start of the round, gain different effects depending on the row you are positioned in, and the additional effects of active skills change accordingly.&nIf there is only 1 enemy unit, using <Field Tailoring> grants the corresponding effect based on type at double strength regardless of position. (Cannot stack)",
+    "korean": "라운드 개시 시, 자신이 배치된 열에 따라 각기 다른 효과를 획득하며, 액티브 스킬의 추가 효과가 변경됩니다.&n적 개체 수가 1인 경우 <야전 마름질> 사용 시, 위치와 관계없이 해당 타입에 맞는 효과가 두 배로 증폭되어 추가 적용됩니다. (중첩 불가)"
+  },
+  "SkillDesc_Skill_PECS_TaylorClothcut_N_4": {
+    "english": "Seeks ultimate beauty through a collaboration with <Audrey Dreamweaver>.&nWhen either <Audrey> or the user uses an active skill, additional effects are triggered, including the row where the other is positioned. Identical effects do not stack.&nIf <Audrey> is in the squad, gain the <Model Scouting> effect regardless of position. The effect scales with the skill level of <Double Vie>.",
+    "korean": "<오드리 드림위버>와의 합작을 통해 극한의 아름다움을 추구합니다.&n<오드리> 및 자신이 액티브 스킬 사용 시, 서로가 배치된 열도 포함하여 추가 효과가 발동합니다. 동일한 효과는 중첩 발동하지 않습니다.&n스쿼드 내에 <오드리>가 존재할 경우, 위치에 관계없이 <모델 스카우팅> 효과를 획득합니다. 효과는 <두블 비에> 스킬 레벨에 비례합니다."
+  },
+  "SkillDesc_Skill_PECS_TaylorClothcut_N_5": {
+    "english": "At the start of the round, activates protection ignore for <PECS> costume designers.&nAt the start of the round, increases the AP of allies affected by the active skills of <PECS> costume designers.&nAt the start of the round, decreases the AP of enemies affected by the active skills of <PECS> costume designers.",
+    "korean": "라운드 개시 시, <PECS> 의상 디자이너의 보호 무시를 활성화합니다.&n라운드 개시 시, <PECS> 의상 디자이너의 액티브 스킬 효과를 받는 아군의 AP를 증가시킵니다.&n라운드 개시 시, <PECS> 의상 디자이너의 액티브 스킬 효과를 받는 적의 AP를 감소시킵니다."
+  },
+  "SkillDesc_Skill_PECS_Tiequan_N_1": {
+    "english": "Kick a grenade to deal {0} damage.&nOn CRIT, damage is increased.&nOn hit, removes the target's Counterattack enhancement effect.",
+    "korean": "유탄을 차 날려 {0} 피해를 줍니다. 치명타 시, 피해량이 증가합니다. 적중 시, 대상의 반격 강화 효과를 해제합니다."
+  },
+  "SkillDesc_Skill_PECS_Tiequan_N_2": {
+    "english": "Deliver a straight punch to deal {0} DEF-piercing damage.&nThe closer the target is to the frontline, the greater the damage.",
+    "korean": "정권지르기로 {0} 방어 관통 피해를 줍니다. 대상이 전열에 가까울 수록 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Tiequan_N_3": {
+    "english": "At the start of the round, increases the user's ATK / ACU.&nEach time the user attacks an enemy, defeats an enemy, or is attacked, they permanently gain an additional 50% of the above ATK / ACU buff. (Up to 3 stacks for each condition)&nWhen attacking an enemy, the user's AP increases. On a CRIT, the user additionally gains AP equal to 50% of the above amount.&nAP gain scales with each active skill's level.",
+    "korean": "라운드 개시 시, 자신의 공격력 / 적중이 증가합니다.&n적 공격 시, 적 처치 시, 공격 당할 시마다 해당 수치의 50% 만큼의 공격력 / 적중 증가 효과를 영구 획득합니다. (각 최대 3중첩)&n적 공격 시, 자신의 AP가 증가합니다. 치명타 시, 추가로 해당 수치의 50% 만큼 자신의 AP가 증가합니다. &nAP 증가 효과는 각 액티브 스킬 레벨에 비례합니다."
+  },
+  "SkillDesc_Skill_PECS_Tiequan_N_4": {
+    "english": "At the start of the round, increases the user's range.&nAt skill level 10, range increases further.&nAlso increases the user's AP at the start of the round.&nAdditionally, increases the user's maximum number of actions per round by 1.",
+    "korean": "라운드 개시 시, 자신의 사거리가 증가합니다. 스킬 레벨 10에서 사거리가 추가로 증가합니다.&n라운드 개시 시, 자신의 행동력이 증가합니다.&n라운드 개시 시, 자신의 최대 행동 횟수가 1 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Tiequan_N_5": {
+    "english": "All attacks from the enlightened Tien-Chien ignore the target's DEF.&nThe armor penetration effect of <Hundred-Step Divine Fist> is converted to an effect that ignores barriers and damage reduction.&nAt the start of the round, increases own damage against medium and heavy armor targets.",
+    "korean": "깨달음을 얻은 티에치엔의 모든 공격은 대상의 방어력을 무시합니다.&n<백보신권>의 방어 관통 효과가 방어막/받는 피해 감소 무시 효과로 변환됩니다.&n라운드 개시 시, 자신의 대 중장형 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_TommyWalker_N_1": {
+    "english": "Deals {0} damage through consecutive hits and removes damage reduction effects.&nIgnores a portion of the target's DEF.&nIf the target is Immobilized / Marked, renders them unable to act for the rest of the round.",
+    "korean": "적을 연타해 {0} 피해를 주고, 받는 피해 감소 효과를 해제합니다. &n대상의 방어력을 일정 비율 무시합니다.&n대상이 이동 불가 / 표식 상태인 경우, 해당 라운드 동안 행동 불가 상태로 만듭니다."
+  },
+  "SkillDesc_Skill_PECS_TommyWalker_N_2": {
+    "english": "Capture the enemy with an anchor to deal {0} damage and pull them forward by 2 tiles.&nThe captured target will suffer Reduced AP / Immobilization / Increased Damage Taken for 2 rounds.&nEach skill level grants an 8% ACU bonus.",
+    "korean": "앵커로 적을 포획해 {0} 피해를 주고 2칸 앞으로 당깁니다. &n포획된 대상은 2라운드 동안 행동력 감소 / 이동 불가 / 받는 피해 증가 상태가 됩니다.&n스킬 레벨 당 8%의 적중 보정이 적용됩니다."
+  },
+  "SkillDesc_Skill_PECS_TommyWalker_N_3": {
+    "english": "When an enemy dies, collect their remains to permanently increase allies’ ATK / DEF.&nAt the start of battle, increases allies’ experience gain. If the target is an AGS, the effect is doubled.&nIf there is a <Drone> in the squad, your AP increases.",
+    "korean": "적 사망 시, 적의 잔해를 수거해 아군의 공격력 / 방어력을 영구적으로 증가시킵니다.&n전투 개시 시, 아군의 획득 경험치를 증가시킵니다. 대상이 AGS인 경우 효과가 두 배로 증폭됩니다.&n스쿼드 내에 <드론>이 있는 경우, 자신의 행동력이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_TommyWalker_N_4": {
+    "english": "At the start of the round, increases the AP of allies within range.&nWhen an enemy dies, collect their remains to increase the AP of allies within range.&nIf there is a <Drone> in the squad, remote delivery allows AP to be increased regardless of adjacency.",
+    "korean": "라운드 개시 시, 범위 내 아군의 AP를 증가시킵니다. &n적 사망 시, 적의 잔해를 수거해 범위 내 아군의 AP를 증가시킵니다.&n스쿼드 내에 <드론>이 있는 경우, 원격 배송을 통해 인접 여부에 관계 없이 AP를 증가시킵니다."
+  },
+  "SkillDesc_Skill_PECS_TommyWalker_N_5": {
+    "english": "At the start of the round, your ATK / DEF / Range increases.&nWhen <Work Anchor> hits, triggers a coordinated attack with the <Crushing Strike> skill.&nThe on-kill effects of <Scrap Recycling> / <Supply Drop> are doubled if you are the one who defeats the enemy.",
+    "korean": "라운드 개시 시, 자신의 공격력 / 방어력 / 사거리가 증가합니다.&n<작업용 앵커> 적중 시, <분쇄 강타> 스킬 협동 공격을 실행합니다.&n<잔해 재활용> / <보급 개시>의 적 사망 시 발동 효과가, 자신이 적 처치 시에는 두 배로 증폭됩니다."
+  },
+  "SkillDesc_Skill_PECS_Triaina_N_1": {
+    "english": "Deals {0} damage with an underwater cutter and removes DEF-enhancing effects.&nOn hit, reduces the target's DEF for 2 rounds.&nOn CRIT, increases damage and removes the target’s damage reduction effects.",
+    "korean": "수중용 절단기로 {0} 피해를 주고, 방어력 강화 효과를 해제합니다. &n적중 시, 2라운드 동안 대상의 방어력을 감소시킵니다.&n치명타 시, 피해량이 증가하며 대상의 피해 감소 효과를 해제합니다."
+  },
+  "SkillDesc_Skill_PECS_Triaina_N_2": {
+    "english": "Deals {0} cold damage that ignores protection to a designated area and pushes targets backward.&nOn hit, inflicts Increased Damage Taken for 2 rounds.&nIf the target is <Submerged>, removes buffs and has a 50% chance to inflict Incapacitation.",
+    "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 주며 대상을 뒤로 밉니다. &n적중 시, 대상에게 2라운드 동안 받는 피해 증가 효과를 부여합니다. &n대상이 <침수> 상태인 경우, 강화 효과를 해제하고 50% 확률로 행동 불가 상태로 만듭니다."
+  },
+  "SkillDesc_Skill_PECS_Triaina_N_3": {
+    "english": "At the start of the round, increases AP / Effect Resistance / Elemental Resistance of Bioroid allies within range.&nDepending on the target’s position, one of the following effects is doubled:&n- Front Row: Effect Resistance / Middle Row: Elemental Resistance / Back Row: AP&nAt skill level 10, the range is increased.",
+    "korean": "라운드 개시 시, 범위 내 바이오로이드 아군의 행동력 / 효과 저항 / 속성 저항을 증가시킵니다. &n대상이 배치된 위치에 따라 다음 효과가 두 배 증폭됩니다.&n- 전열 : 효과 저항 / 중열 : 속성 저항 / 후열 : 행동력&n스킬 레벨 10에서 범위가 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Triaina_N_4": {
+    "english": "Increases your base Cold Resistance to 80%.&nAt the start of the round, reduces damage taken.&nIf you are in the <Submerged> state at the start of the round, your ATK / CRIT / AP are increased.&nAllies affected by <Frontier Leader> also gain 50% of this effect when they are in the <Submerged> state.",
+    "korean": "자신의 기본 냉기 저항이 80%로 증가합니다.&n라운드 개시 시, 자신이 받는 피해가 감소합니다. &n라운드 개시 시 자신이 <침수> 상태인 경우, 공격력 / 치명타 / 행동력이 증가합니다.&n<프런티어 리더> 효과를 받는 아군도 <침수> 상태가 되면 해당 효과의 50%가 적용됩니다."
+  },
+  "SkillDesc_Skill_PECS_Triaina_N_5": {
+    "english": "Increases your base Electric Resistance to 80%.&nAt the start of battle, you permanently enter the <Submerged> state and inflict <Submerged> on all enemies for 2 rounds.&nWhen Idle, inflicts <Submerged> on all enemies for 2 rounds.",
+    "korean": "자신의 기본 전기 저항이 80%로 증가합니다.&n전투 개시 시, 자신은 영구적으로 <침수> 상태가 되고, 2라운드 동안 적 전체를 <침수> 상태로 만듭니다.&n대기 시, 적 전체를 2라운드 동안 <침수> 상태로 만듭니다."
+  },
+  "SkillDesc_Skill_PECS_Triton_N_1": {
+    "english": "Deals {0} damage to the target location and 50% reduced damage to adjacent tiles.&nReduces the target’s ATK / DEF for 2 rounds.&nIf the <Output Limit Release> passive is active, ignores shields and damage reduction effects.",
+    "korean": "목표 지점에 {0} 피해를 주고 양 옆에 50% 감소한 피해를 줍니다. 2라운드 동안 대상의 공격력 / 방어력을 감소시키고, <출력 제한 해제> 패시브가 활성화된 경우, 방어막 / 피해 감소 효과를 무시합니다."
+  },
+  "SkillDesc_Skill_PECS_Triton_N_2": {
+    "english": "Deals {0} protection-ignoring damage to the target location.&nDamage decreases by 25% for each tile away from the target point.&nIf Triton’s ATK is higher than the target’s ATK, deals additional damage.",
+    "korean": "목표 지점에 {0} 보호 무시 피해를 줍니다. 목표 지점에서 멀어질수록 피해량이 25%씩 감소하며, 대상의 공격력보다 트리톤의 공격력이 높을 시, 추가 피해를 줍니다."
+  },
+  "SkillDesc_Skill_PECS_Triton_N_3": {
+    "english": "At the start of battle, gain permanent immunity to non-removable AP reduction and Taunt effects. When an ATK hits, increases your ATK and DEF Penetration for 3 rounds.",
+    "korean": "전투 시작 시, 해제 불가의 AP 감소 효과 면역, 도발 효과 면역 효과가 영구히 적용됩니다. 공격 적중 시, 3라운드 동안 자신의 공격력과 방어 관통이 증가합니다."
+  },
+  "SkillDesc_Skill_PECS_Triton_N_4": {
+    "english": "At the start of the round, a permanent AP increase is applied.&nIf the AP boost from <Output Surge> reaches 3 stacks or more, the <Output Limit Release> passive is activated.",
+    "korean": "라운드 개시 시, 행동력 증가 효과가 영구히 적용됩니다. <출력 상승>의 행동력 증가 효과가 3중첩 이상일 경우, <출력 제한 해제> 패시브가 활성화됩니다."
+  },
+  "SkillDesc_Skill_PECS_Triton_N_5": {
+    "english": "At the start of the round, the maximum number of actions increases by 1.&nWhen using the <Gatling Fire> skill, triggers a coordinated attack with the <Scorched Earth> skill on the target.",
+    "korean": "라운드 개시 시 최대 행동 횟수가 1회 증가하고, <기관포 사격> 스킬 사용 시 대상에게 <초토화> 스킬 협동 공격을 합니다."
+  },
+  "SkillDesc_Skill_PECS_Veronica_N_5": {
+    "english": "At the start of battle, a non-removable Battle Continuation effect is applied at a certain HP%.&nIf there are other <Kohei> units in the squad excluding yourself, an additional Battle Continuation effect is applied.&nWhen Battle Continuation activates, non-removable ATK / AP increases are applied.&nAt the start of the round, CRIT and Range are increased.",
+    "korean": "전투 개시 시, 일정 HP %로 해제 불가한 전투 속행 효과가 적용됩니다. 스쿼드 내 자신을 제외한 <코헤이> 소속 전투원이 있는 경우 전투 속행 효과가 추가로 적용됩니다. 전투 속행 발동 시, 해제 불가능한 공격력 / 행동력 증가 효과가 적용됩니다. 라운드 개시 시, 치명타와 사거리가 증가합니다."
+  },
+  "SkillDesc_Skill_Passive_Tast_N_1": {
+    "english": "Expansion Passive Test: ATK Ratio (%) Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 공격력 비율(%) 증감"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_10": {
+    "english": "Expansion Passive Test: Electric Resistance Ratio (%) Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 절연성 비율(%) 증감"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_11": {
+    "english": "Expansion Passive Test: Action Freeze",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 행동 동결"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_12": {
+    "english": "Expansion Passive Test: Physical Reflect Damage - Defender ATK Ratio (%)",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 물리 반사 피해 - 방어자 공격력 비율(%)"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_13": {
+    "english": "Expansion Passive Test: Shield Fixed Damage Absorption",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 방어막 일정 피해량 흡수"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_14": {
+    "english": "Expansion Passive Test: Damage Amplification State (%)",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 피해 증폭 상태 (%)"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_15": {
+    "english": "Expansion Passive Test: Additional Numeric Damage",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 추가 수치 피해"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_16": {
+    "english": "Expansion Passive Test: Block Action",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 행 막기"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_17": {
+    "english": "Expansion Passive Test: Block All",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 전체 막기"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_18": {
+    "english": "Expansion Passive Test: Send Backward",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 뒤로 보내기"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_19": {
+    "english": "Expansion Passive Test: Send Forward",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 앞으로 보내기"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_2": {
+    "english": "Expansion Passive Test: DEF Ratio (%) Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 방어력 비율(%) 증감"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_20": {
+    "english": "Expansion Passive Test: Range Increase (+)",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 사거리 증감(+)"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_21": {
+    "english": "Expansion Passive Test: Attack Priority Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 공격 우선 순위 감소"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_22": {
+    "english": "Expansion Passive Test: DEF Penetration (+)",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 방어력 관통 (+)"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_23": {
+    "english": "Expansion Passive Test: DEF Penetration (%)",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 방어력 관통(%)"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_24": {
+    "english": "Expansion Passive Test: Grid Swap",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 그리드 교대"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_25": {
+    "english": "Expansion Passive Test: Light Armor Additional Damage",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 경장 추가데미지"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_26": {
+    "english": "Expansion Passive Test: Heavy Armor Additional Damage",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 중장 추가데미지"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_27": {
+    "english": "Expansion Passive Test: aIR Additional Damage",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 기동 추가데미지"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_28": {
+    "english": "Expansion Passive Test: Taunt",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 도발"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_29": {
+    "english": "Expansion Passive Test: Fire Block",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 열 막기"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_3": {
+    "english": "Expansion Passive Test: HP Ratio (%) Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : HP 비율(%) 증감"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_30": {
+    "english": "Expansion Passive Test: Target Designation Block",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 대상 지정 막기"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_31": {
+    "english": "Expansion Passive Test: Arc Attack",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 원호 공격"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_32": {
+    "english": "Expansion Passive Test: Movement Disabled",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 이동 불가"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_33": {
+    "english": "Expansion Passive Test: Skill Use Disabled",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 스킬 사용 불가"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_34": {
+    "english": "Expansion Passive Test: Damage Increases As My HP Decreases",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 내 HP가 적을수록 피해 증가"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_35": {
+    "english": "Expansion Passive Test: Damage Increases As Enemy HP Decreases",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 적 HP가 적을수록 피해 증가"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_36": {
+    "english": "Expansion Passive Test: Grit",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 근성"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_37": {
+    "english": "Expansion Passive Test: Mark",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 표식"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_38": {
+    "english": "Expansion Passive Test: Special DEF Penetration",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 특수 방어 관통"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_39": {
+    "english": "Expansion Passive Test: Analysis Function",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 분석 기능"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_4": {
+    "english": "Expansion Passive Test: ACU Ratio (%) Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 명중률 비율(%) 증감"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_40": {
+    "english": "Expansion Passive Test: Grit (%)",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 근성(%)"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_41": {
+    "english": "Expansion Passive Test: Remove All Buff Effects",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 모든 강화 효과 제거"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_42": {
+    "english": "Expansion Passive Test: Skill Power Ratio (%) Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 스킬 위력 비율(%) 증감"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_43": {
+    "english": "Expansion Passive Test: Active Skill 1 Range Increase/Decrease (+, -)",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 액티브 1스킬의 사거리 증감(+,-)"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_44": {
+    "english": "Expansion Passive Test: Active Skill 2 Range Increase/Decrease (+, -)",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 액티브 2스킬의 사거리 증감(+,-)"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_45": {
+    "english": "Expansion Passive Test: Concentrated Attack",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 집속 공격"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_46": {
+    "english": "Expansion Passive Test: Damage Dispersion",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 피해 분산"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_47": {
+    "english": "Expansion Passive Test: EVA Proportional Skill Power Increase",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 회피 비례 스킬 위력 증가"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_48": {
+    "english": "Expansion Passive Test: EVA Proportional Attacker Skill Power Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 회피 비례 공격자 스킬 위력 감소"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_49": {
+    "english": "Expansion Passive Test: DEF Proportional Skill Power Increase",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 방어력 비례 스킬 위력 증가"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_5": {
+    "english": "Expansion Passive Test: CRIT Rate Ratio (%) Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 치명타 확률 비율(%) 증감"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_50": {
+    "english": "Expansion Passive Test: DEF Proportional Attacker CRIT Value Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 방어력 비례 공격자 치명타 수치 감소"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_51": {
+    "english": "Expansion Passive Test: Caster ATK Proportional Target ATK Increase",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 시전자 공격력 비례 대상 공격력 증가"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_52": {
+    "english": "Expansion Passive Test: Fire Resistance Value Lower Limit",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 화염 저항 수치 하한"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_53": {
+    "english": "Expansion Passive Test: Cold Resistance Value Lower Limit",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 냉기 저항 수치 하한"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_54": {
+    "english": "Expansion Passive Test: Electric Resistance Value Lower Limit",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 전기 저항 수치 하한"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_55": {
+    "english": "Expansion Passive Test: Fire Resistance Value Fixed",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 화염 저항 수치 고정"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_56": {
+    "english": "Expansion Passive Test: Cold Resistance Value Fixed",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 냉기 저항 수치 고정"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_57": {
+    "english": "Expansion Passive Test: Electric Resistance Value Fixed",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 전기 저항 수치 고정"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_58": {
+    "english": "Expansion Passive Test: Fire Resistance Reduction Reversal",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 화염 저항 감소 반전"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_59": {
+    "english": "Expansion Passive Test: Cold Resistance Reduction Reversal",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 냉기 저항 감소 반전"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_6": {
+    "english": "Expansion Passive Test: EVA Ratio (%) Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 회피율 비율(%) 증감"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_60": {
+    "english": "Expansion Passive Test: Electric Resistance Reduction Reversal",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 전기 저항 감소 반전"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_61": {
+    "english": "Expansion Passive Test: Enhancement Impossible Applied",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 강화 불가 적용"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_62": {
+    "english": "Expansion Passive Test: Enhancement Removal Resistance",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 강화 해제 저항"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_63": {
+    "english": "Expansion Passive Test: Round Maximum AP Count Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 라운드 최대 행동 횟수 증감"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_64": {
+    "english": "Expansion Passive Test: Taunt Effect on Attacker",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 공격자에게 도발 효과"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_65": {
+    "english": "Expansion Passive Test: Current HP Proportional DEF Penetration Resistance",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 현재 HP 비례 방어 관통 저항"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_66": {
+    "english": "Expansion Passive Test: Ignore Protection Function",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 보호 기능 무시"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_67": {
+    "english": "Expansion Passive Test: Cannot Ignore Protection Function",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 보호 기능 무시 불가"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_7": {
+    "english": "Expansion Passive Test: Air Ratio (%) Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 속도 비율(%) 증감"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_8": {
+    "english": "Expansion Passive Test: Fire Resistance Ratio (%) Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 내열성 비율(%) 증감"
+  },
+  "SkillDesc_Skill_Passive_Tast_N_9": {
+    "english": "Expansion Passive Test: Cold Resistance Ratio (%) Increase/Decrease",
+    "korean": "확장 패시브 테스트입니다. 해당 내용 : 방한성 비율(%) 증감"
+  },
+  "SkillDesc_Skill_ST_Mercury_N_1": {
+    "english": "Fires MAVs at enemies in a designated area, dealing {0} damage and removing the target’s EVA buffs regardless of hit. Ignores Protect.&nOn hit, reduces the target’s ACU / EVA for 2 rounds, and if the target is under the <Taking down a peg> effect, also removes damage reduction effects.&nIf <X-02 Ur> is in the squad, triggers a <Full-Area Barrage> or <Reflect Shot> Coordinated Attack.&nMercury, who strictly limits MAV usage, does not counterattack under any circumstances.",
+    "korean": "지정 범위의 적에게 MAV를 사출하여 {0} 보호 무시 피해를 주고, 적중 여부와 관계없이 대상의 이로운 회피 증가 효과를 해제합니다.&n적중 시, 2라운드 동안 대상의 적중 / 회피를 감소시키고, 대상이 <콧대 꺾기> 효과가 적용중인 경우 추가로 받는 피해 감소 효과를 해제합니다.&n스쿼드 내에 <X-02 우르>가 있는 경우, <전방위 사격> 또는 <리플렉트 샷> 협동 공격을 유도합니다.&nMAV 사출량을 엄격하게 제한하는 머큐리는 어떠한 상황에서도 반격을 하지 않습니다."
+  },
+  "SkillDesc_Skill_ST_Mercury_N_2": {
+    "english": "Fires MAVs at all allies to increase their AP and remove debuffs.&nAlso grants a 2-round effect that increases Defense Penetration / Skill Power based on EVA.&nIf the target is under a passive skill effect from another <Strikers> squad member (excluding self), each effect is increased by 50%.",
+    "korean": "모든 아군에게 MAV를 사출하여 대상의 AP를 증가시키고 해로운 효과를 해제합니다.&n또한 대상에게 2라운드 동안 방어 관통 / 회피 비례 스킬 위력 증가 효과를 부여합니다.&n대상이 자신을 제외한 <스트라이커즈> 부대원의 패시브 스킬 효과를 받는 상태인 경우, 각 효과가 50% 증가합니다."
+  },
+  "SkillDesc_Skill_ST_Mercury_N_3": {
+    "english": "At the start of battle, gains unremovable EVA / AP buff for 1 hit.&n<Recon> allows previewing the next enemy wave. If in <Recon> state at the start of the round, greatly increases own EVA.&nAt the start of the round, grants allies in <Recon> immunity to EVA debuffs.&nWhen attacked, if in Counterattack state, removes own Counterattack effect.",
+    "korean": "전투 개시 시, 자신이 최초로 공격 받기 전까지 해제 불가의 회피 / 행동력 증가 효과를 획득합니다.&n<정찰>로 다음에 출현할 적을 확인할 수 있습니다. <정찰> 상태로 라운드 개시 시, 자신의 회피가 크게 증가합니다.&n라운드 개시 시, <정찰> 상태인 아군에게 해로운 회피 감소 면역 효과를 부여합니다.&n공격 받을 시, 자신이 반격 상태인 경우 자신에게 적용된 반격 효과를 해제합니다."
+  },
+  "SkillDesc_Skill_ST_Mercury_N_4": {
+    "english": "At the start of the round, grants all allies ATK / CRIT increase effects proportional to the number of attackers in the squad.&nAt the start of the round, grants the following effects to all allies based on the roles of <Strikers> squad members:&nAttacker: Skill Power increase / Defender: Effect Resistance increase / Supporter: ACU increase.",
+    "korean": "라운드 개시 시, 스쿼드 내 공격기 수에 비례하여 아군 전체에게 공격력 / 치명타 증가 효과를 부여합니다.&n라운드 개시 시, 스쿼드 내 <스트라이커즈> 부대원의 역할군에 따라 다음 효과를 아군 전체에게 부여합니다.&n공격기 : 스킬 위력 증가 / 보호기 : 효과 저항 증가 / 지원기 : 적중 증가"
+  },
+  "SkillDesc_Skill_ST_Mercury_N_5": {
+    "english": "At the start of battle, permanently reduces the AP of enemies with higher ATK than self.&nAt the start of the round, reduces AP and grants Increase Damage Taken debuff to enemies with ATK / CRIT / ACU / Skill Power increase or decrease effects.&nThese effects are not affected by Effect Resistance but can be removed by debuff removal.",
+    "korean": "전투 개시 시, 자신보다 공격력이 높은 적의 행동력을 영구적으로 감소시킵니다.&n라운드 개시 시, 공격력 / 치명타 / 적중 / 스킬 위력 증감 효과가 적용된 적의 AP를 감소시키고 받는 피해 증가 효과를 부여합니다.&n각 효과들은 효과 저항의 영향을 받지는 않지만, 해로운 효과 해제로는 해제 가능합니다."
+  },
+  "SkillDesc_Skill_ST_Tiamat_N_1": {
+    "english": "Deals {0} damage to the target, with increased damage on a CRIT.&nReduces the target’s DEF for 2 rounds, and if the target is in <Insight> state, increases damage taken. Skill power increases proportionally to your EVA.",
+    "korean": "대상에게 {0} 피해를 주고, 치명타 시 피해량이 증가합니다. 2라운드 동안 대상의 방어력을 감소시키며, 대상이 <간파> 상태면 받는 피해가 증가합니다. 자신 회피에 비례하여 스킬 위력이 증가합니다."
+  },
+  "SkillDesc_Skill_ST_Tiamat_N_2": {
+    "english": "Deals {0} damage to the target. Ignores the target’s Shield / Damage Reduction effects. Damage increases if the target is Heavy-type or on a CRIT.&nWhen using the skill, deals fixed damage based on your ATK, and damage increases the lower your current HP.",
+    "korean": "대상에게 {0} 피해를 줍니다. 대상의 방어막 / 피해 감소 효과를 무시하며, 대상이 중장형이거나 치명타 시 피해량이 증가합니다. 스킬 사용 시, 자신의 공격력에 비례한 고정 피해를 입으며, 자신의 현재 HP가 낮을수록 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_ST_Tiamat_N_3": {
+    "english": "At the start of the round, analyzes the actions of enemies with lower AP than yourself, reducing their ACU and EVA. You gain increased EVA and counterattack when attacked in this state. &nYour ATK increases up to 3 times when attacking enemies.",
+    "korean": "라운드 개시 시, 자신보다 행동력이 낮은 적의 행동을 간파해 적중과 회피를 감소시킵니다. 자신은 회피가 증가하며, 해당 상태에서 공격받으면 반격합니다. 적을 공격하면 공격력이 최대 3회까지 증가합니다."
+  },
+  "SkillDesc_Skill_ST_Tiamat_N_4": {
+    "english": "Increases CRIT / ACU / AP of Air-Type allies within range.&nIf you are in the front row, this effect also applies to Light-type and Heavy-type allies.",
+    "korean": "범위 내 기동형 아군들의 치명타 / 적중 / 행동력이 증가합니다. 자신이 전열이면 경장형 / 중장형 아군에게도 적용됩니다."
+  },
+  "SkillDesc_Skill_ST_Tiamat_N_5": {
+    "english": "Increases your DEF Penetration and allows you to scout the next appearing enemy.&nAt the start of the round with Recon Activation status, increases DEF Penetration / EVA / ACU / AP.",
+    "korean": "자신의 방어 관통이 증가하며, 정찰로 다음에 출현할 적을 확인할 수 있습니다. 정찰 활성화 상태로 라운드 개시 시, 방어 관통 / 회피 / 적중 / 행동력이 증가합니다."
+  },
+  "SkillDesc_Skill_ST_Ullr_CH_1": {
+    "english": "Deals {0} armor-ignoring damage to a designated area. Only 50% / 25% of the damage is applied behind the target point. Ignores a certain percentage of the target's defense, and on CRIT, cancels the target's counterattack effects and increases damage.",
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점의 뒤에는 50% / 25% 피해만 적용됩니다. 대상의 방어력을 일정 비율 무시하며, 치명타 시 대상의 반격 효과를 해제하고 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_ST_Ullr_CH_2": {
+    "english": "Deals {0} armor-ignoring damage to the target. On CRIT, damage is increased and the target's counterattack / damage reduction effects are canceled. If the target is marked or has evasion reduced, damage is further increased.",
+    "korean": "대상에게 {0} 보호 무시 피해를 줍니다. 치명타 시, 피해량이 증가하고 대상의 반격 / 받는 피해 감소 효과를 해제합니다. 대상이 표식 / 회피 감소 상태면 피해량이 추가로 증가합니다."
+  },
+  "SkillDesc_Skill_ST_Ullr_CH_4": {
+    "english": "At the start of the round, if in the back row, enters <Long-range Sniper Mode>, permanently increasing ACU. This effect can stack up to 5 times. At the start of the round, armor penetration is increased and ACU / CRIT reduction effects are canceled. If in the front or middle row at the start of the round, transforms into <Close-range Response Mode>.",
+    "korean": "라운드 개시 시, 후열인 경우 <장거리 저격 모드>가 되어 적중이 영구적으로 증가합니다. 해당 효과는 최대 5중첩까지 가능합니다. 라운드 개시 시, 방어 관통이 증가하고 적중 / 치명타 감소 효과가 해제됩니다. 전열 또는 중열에서 라운드 개시 시, <근거리 대응 모드>로 변환됩니다."
+  },
+  "SkillDesc_Skill_ST_Ullr_N_1": {
+    "english": "Deals {0} damage to the designated area. Damage increases if targets are Light-type / Air-type, or affected by Immobilization / EVA Reduction.",
+    "korean": "지정 범위에 {0} 피해를 줍니다. 대상이 경장형 / 기동형이거나 이동 불가 / 회피 감소 상태면 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_ST_Ullr_N_2": {
+    "english": "Deals {0} protection-ignoring damage to the designated area.&n50% damage is applied at the target point, and 75% damage at the outermost edges.&nOn ATK, removes the target’s EVA increase effect; damage increases on CRIT.&nIf the target is Immobilized or has EVA Reduction, increases damage taken for 2 rounds. This effect does not stack.",
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점에는 50%, 가장 바깥쪽은 75% 피해만 적용됩니다. 공격 시, 대상의 회피 증가 효과를 해제하고, 치명타 시 피해량이 증가합니다. 대상이 이동 불가 / 회피 감소 상태면 2라운드 동안 받는 피해가 증가합니다. 해당 효과는 중첩되지 않습니다."
+  },
+  "SkillDesc_Skill_ST_Ullr_N_3": {
+    "english": "At the start of the round, increases ATK / CRIT / DEF Penetration proportionally to the number of adjacent allies.&nIf no adjacent allies are present, increases AP but applies an unremovable and unresistable effect that removes ACU buffs and reduces ACU.&nIf adjacent allies include <Strikers> squad members or <X-Series Prototype> units, supports the first acting unit’s ATK once during that round.",
+    "korean": "라운드 개시 시, 인접한 아군 수에 비례하여 공격력 / 치명타 / 방어 관통이 증가합니다. 인접한 아군이 없을 경우, AP가 증가하지만 해제 및 저항 불가의 적중 증가 효과 해제 / 적중 감소 효과가 적용됩니다. 인접한 아군이 <스트라이커즈> 부대원 또는 <X-계열 시험기> 전투원인 경우, 해당 라운드에 첫 행동하는 전투원의 공격을 1회 지원합니다."
+  },
+  "SkillDesc_Skill_ST_Ullr_N_4": {
+    "english": "At the start of the round, if positioned in the front or middle row, enters <Close-Range Response Mode>, increasing AP and gaining Shield / Damage Reduction Ignoring effects.&nIf positioned in the back row at the start of the round, switches to <Long-Range Sniper Mode>.",
+    "korean": "라운드 개시 시, 전열 또는 중열인 경우 <근거리 대응 모드>가 되어 행동력이 증가하고 방어막 / 피해 감소 무시 효과를 얻습니다. 후열에서 라운드 개시 시, <장거리 저격 모드>로 변환됩니다."
+  },
+  "SkillDesc_Skill_ST_Ullr_N_5": {
+    "english": "At the start of battle, grants all <Strikers> squad members or <X-Series Prototype> units except yourself 1 unremovable damage nullification.&nAt the start of each round, grants yourself damage mitigation against attacks below a certain power threshold, increased Effect Resistance / increased Buff Removal Resistance.&nWhen hit, enters <Energy Accumulation> state, increasing the next attack's Skill Power proportionally to the number of stacks.&n<Energy Accumulation> can stack up to 3 times, and all stacks are consumed upon a successful attack.",
+    "korean": "전투 개시 시, 자신을 제외한 <스트라이커즈> 부대원 또는 <X-계열 시험기> 전투원에게 해제 불가의 피해 무효화 1회를 부여합니다. 라운드 개시 시, 자신에게 일정 위력 미만 공격 피해 최소화와 효과 저항 / 강화 해제 저항 증가 효과를 부여합니다. 피격 시, <에너지 집속> 상태가 되며, 중첩 수에 비례하여 다음 공격의 스킬 위력이 증가합니다. <에너지 집속> 상태는 최대 3중첩까지 가능하며, 공격 적중 시 모든 중첩을 소모합니다."
+  },
+  "SkillDesc_Skill_TEST_Nest_N_1": {
+    "english": "Fires an energy condensate dealing {0} damage. Damage increases if the target is affected by the <Erosion> effect.",
+    "korean": "에너지 응집체를 발사해 {0} 피해를 줍니다. 대상이 <침식> 효과에 적용되어 있는 상태일 시 피해량이 증가합니다."
+  },
+  "SkillDesc_Skill_TEST_Nest_N_2": {
+    "english": "Fires an erosion projectile that deals {0} damage to the target. Damage is reduced by 25% around the target. On hit, there is a 30% chance to push the target back and reduce their Attack/Defense. The Attack/Defense reduction effect diminishes as combat progresses.",
+    "korean": "목표 지점에 {0} 피해를 주는 침식체를 발사합니다. 목표 지점 주변은 피해가 25% 감소합니다. 적중 시, 30% 확률로 대상을 뒤로 밀고 공격력 / 방어력을 감소시킵니다. 공격력 / 방어력 감소 효과는 전투가 진행될수록 점감 됩니다."
+  },
+  "SkillDesc_Skill_TEST_Nest_N_3": {
+    "english": "Grants nearby allies an effect that gradually increases based on your HP. Blessing of Grace Stage 1 (HP 100% ~ 70%): Increases Attack / Defense Blessing of Grace Stage 2 (HP 70% ~ 40%): Increases Attack / Defense / Accuracy Blessing of Grace Stage 3 (HP 40% ~ 0%): Increases Attack / Defense / Accuracy",
+    "korean": "주위 아군에게 자신의 HP에 따라 점차 강해지는 효과를 부여합니다.&n&n은총 하사 1단계 (HP 100% ~ 70%) : 공격력 / 방어력 증가&n은총 하사 2단계 (HP 70% ~ 40%) : 공격력 / 방어력 / 적중 증가&n은총 하사 3단계 (HP 40% ~ 0%) : 공격력 / 방어력 / 적중 증가"
+  },
+  "SkillDesc_Skill_TEST_Nest_N_4": {
+    "english": "Upon being hit, enter the <Prepare for Barrier Deployment> state. If hit while in this state with 4 stacks, a barrier deploys, nullifying damage 5 times for 3 rounds. If hit while the barrier is deployed, harmful effects are removed. If an ally dies, the barrier is forcibly deactivated, increasing damage taken for 3 rounds.",
+    "korean": "피격 시, <배리어 전개 준비> 상태가 되며 4회 중첩인 상태로 피격 시, 배리어가 전개되어 3라운드 동안 피해를 5회 무효화합니다. 배리어가 전개돼있는 동안 피격 시, 해로운 효과를 해제하고 아군이 사망 시, 배리어가 강제로 해제되어 3라운드 동안 받는 피해가 증가합니다."
+  },
+  "SkillDesc_Skill_TEST_Nest_N_5": {
+    "english": "When hit by an elemental attack while in the <Barrier Deployment> state, you enter the <Ejection System Damage> state. If you are hit while this state is stacked 3 times, you enter the <Ejection System Destruction> state, making it impossible to use the <Erosion> skill.",
+    "korean": "<배리어 전개> 상태에서 속성 공격에 피격 시, <사출 시스템 손상> 상태가 되며 해당 상태가 3회 중첩 된 상태로 피격 시, <사출 시스템 파괴>가 되어 <침식> 스킬을 사용할 수 없게 됩니다."
+  },
+  "SkillDesc_Skill_Test_Monster_N_1": {
+    "english": "Test Mob Active 1: Welcome Offering, Taunts all targets.",
+    "korean": "테스트 몹 액티브 1 : 환영 선사, 전체 대상에게 도발을 겁니다."
+  },
+  "SkillDesc_Skill_Test_Monster_N_2": {
+    "english": "Test Mob Active 2: Harvest",
+    "korean": "테스트 몹 액티브 2 : 수확"
+  },
+  "SkillDesc_Skill_Test_Monster_N_3": {
+    "english": "Test Mob Passive 1: Last Stand, the lower your HP, the more damage you deal to enemies.",
+    "korean": "테스트 몹 패시브 1 : 마지막 발악, 자신의 HP가 낮을수록 적에게 주는 피해량이 증가합니다."
+  },
+  "SkillName_Skill_3P_Ajax_N_1": {
+    "english": "Stampede",
+    "korean": "스탬피드"
+  },
+  "SkillName_Skill_3P_Ajax_N_2": {
+    "english": "Irresistible Force",
+    "korean": "기각지세"
+  },
+  "SkillName_Skill_3P_Ajax_N_3": {
+    "english": "Bridle Handling",
+    "korean": "고삐 다루기"
+  },
+  "SkillName_Skill_3P_Ajax_N_4": {
+    "english": "Bound Duty",
+    "korean": "주어진 의무"
+  },
+  "SkillName_Skill_3P_Ajax_N_5": {
+    "english": "Strength in Numbers",
+    "korean": "뭉치면 산다"
+  },
+  "SkillName_Skill_3P_Alcyone_N_1": {
+    "english": "Skittering Brinicle",
+    "korean": "스키터링 브리니클"
+  },
+  "SkillName_Skill_3P_Alcyone_N_2": {
+    "english": "Weigh Anchor!",
+    "korean": "닻을 올려라!"
+  },
+  "SkillName_Skill_3P_Alcyone_N_3": {
+    "english": "Polar Survival Contest",
+    "korean": "극지 생존 경쟁"
+  },
+  "SkillName_Skill_3P_Alcyone_N_4": {
+    "english": "Adaptive Alloy Shield",
+    "korean": "가변형 합금 방패"
+  },
+  "SkillName_Skill_3P_Alcyone_N_5": {
+    "english": "Roaring Surge",
+    "korean": "포효하는 노도"
+  },
+  "SkillName_Skill_3P_Alice_N_1": {
+    "english": "Piercing Steel",
+    "korean": "찌르는 강철"
+  },
+  "SkillName_Skill_3P_Alice_N_2": {
+    "english": "Rain of Steel",
+    "korean": "강철의 비"
+  },
+  "SkillName_Skill_3P_Alice_N_3": {
+    "english": "Dignity of the Strong",
+    "korean": "강자의 품격"
+  },
+  "SkillName_Skill_3P_Alice_N_4": {
+    "english": "Joy of Sadism",
+    "korean": "가학의 기쁨"
+  },
+  "SkillName_Skill_3P_Alice_N_5": {
+    "english": "Instinct for Slaughter",
+    "korean": "학살 본능"
+  },
+  "SkillName_Skill_3P_Amphitrite_N_1": {
+    "english": "Naval Gunfire: Electronic Disruption Shell",
+    "korean": "함포 사격 : 전자교란탄"
+  },
+  "SkillName_Skill_3P_Amphitrite_N_2": {
+    "english": "Naval Gunfire: Electromagnetic High-Explosive Shell",
+    "korean": "함포 사격 : 전자기 고폭탄"
+  },
+  "SkillName_Skill_3P_Amphitrite_N_3": {
+    "english": "Fleet Tactical Command",
+    "korean": "함대 전술 지휘"
+  },
+  "SkillName_Skill_3P_Amphitrite_N_4": {
+    "english": "Command Broadcast",
+    "korean": "지휘 전파"
+  },
+  "SkillName_Skill_3P_Amphitrite_N_5": {
+    "english": "Radar Lock",
+    "korean": "레이더 포착"
+  },
+  "SkillName_Skill_3P_Aurora_N_1": {
+    "english": "Mise en Place",
+    "korean": "밑준비"
+  },
+  "SkillName_Skill_3P_Aurora_N_2": {
+    "english": "Finishing Touch Dessert",
+    "korean": "회심의 디저트"
+  },
+  "SkillName_Skill_3P_Aurora_N_3": {
+    "english": "Psychokinetic Field",
+    "korean": "염동 역장"
+  },
+  "SkillName_Skill_3P_Aurora_N_4": {
+    "english": "Sweet Aroma",
+    "korean": "달콤한 향기"
+  },
+  "SkillName_Skill_3P_Aurora_N_5": {
+    "english": "Dream Pâtissière",
+    "korean": "드림 파티시에르"
+  },
+  "SkillName_Skill_3P_BlackWyrm_N_1": {
+    "english": "Black Iron Scales",
+    "korean": "흑철 비늘"
+  },
+  "SkillName_Skill_3P_BlackWyrm_N_2": {
+    "english": "Flame Claw",
+    "korean": "화염 발톱"
+  },
+  "SkillName_Skill_3P_BlackWyrm_N_3": {
+    "english": "Fall Back!",
+    "korean": "뒤로 피하세요!"
+  },
+  "SkillName_Skill_3P_BlackWyrm_N_4": {
+    "english": "Heat Shield",
+    "korean": "열기 보호"
+  },
+  "SkillName_Skill_3P_BlackWyrm_N_5": {
+    "english": "Black Ash",
+    "korean": "검은 분진"
+  },
+  "SkillName_Skill_3P_CSPerrault_N_1": {
+    "english": "Monomolecular Claw",
+    "korean": "단분자 클로"
+  },
+  "SkillName_Skill_3P_CSPerrault_N_2": {
+    "english": "Suppressive Opening",
+    "korean": "견제 개시"
+  },
+  "SkillName_Skill_3P_CSPerrault_N_3": {
+    "english": "Flexibility",
+    "korean": "유연성"
+  },
+  "SkillName_Skill_3P_CSPerrault_N_4": {
+    "english": "Wounding Slash",
+    "korean": "상처 가르기"
+  },
+  "SkillName_Skill_3P_CSPerrault_N_5": {
+    "english": "Lend a Hand",
+    "korean": "손 빌려주기"
+  },
+  "SkillName_Skill_3P_ConstantiaS2_N_1": {
+    "english": "Rifle Shot",
+    "korean": "라이플 사격"
+  },
+  "SkillName_Skill_3P_ConstantiaS2_N_2": {
+    "english": "Trip Up",
+    "korean": "발목 잡기"
+  },
+  "SkillName_Skill_3P_ConstantiaS2_N_3": {
+    "english": "Fully Prepared",
+    "korean": "준비만전"
+  },
+  "SkillName_Skill_3P_ConstantiaS2_N_4": {
+    "english": "Dedicated Service Spirit",
+    "korean": "투철한 봉사정신"
+  },
+  "SkillName_Skill_3P_ConstantiaS2_N_5": {
+    "english": "Orca Housekeeper",
+    "korean": "오르카 하우스키퍼"
+  },
+  "SkillName_Skill_3P_Fotia_N_1": {
+    "english": "Contact Combustion",
+    "korean": "접촉 연소"
+  },
+  "SkillName_Skill_3P_Fotia_N_2": {
+    "english": "Fire Rain",
+    "korean": "파이어레인"
+  },
+  "SkillName_Skill_3P_Fotia_N_3": {
+    "english": "Apprentice Chef",
+    "korean": "견습 요리사"
+  },
+  "SkillName_Skill_3P_Fotia_N_4": {
+    "english": "Chef de Partie",
+    "korean": "셰프 드 파티"
+  },
+  "SkillName_Skill_3P_Fotia_N_5": {
+    "english": "Sous Chef",
+    "korean": "부 주방장"
+  },
+  "SkillName_Skill_3P_Frigga_N_1": {
+    "english": "Blade Charge",
+    "korean": "블레이드 차지"
+  },
+  "SkillName_Skill_3P_Frigga_N_2": {
+    "english": "Roar of the Frontline",
+    "korean": "최전선의 포효"
+  },
+  "SkillName_Skill_3P_Frigga_N_3": {
+    "english": "Mother Bear’s Embrace",
+    "korean": "어미곰의 포옹"
+  },
+  "SkillName_Skill_3P_Frigga_N_4": {
+    "english": "Mother Bear’s Maternity",
+    "korean": "어미곰의 모성"
+  },
+  "SkillName_Skill_3P_Frigga_N_5": {
+    "english": "Guard Position",
+    "korean": "경호 위치"
+  },
+  "SkillName_Skill_3P_Galatea_N_1": {
+    "english": "MK12 Dual Purpose Gun",
+    "korean": "MK12 양용포"
+  },
+  "SkillName_Skill_3P_Galatea_N_2": {
+    "english": "Ramming Assault Strategy",
+    "korean": "충각 돌격 전술"
+  },
+  "SkillName_Skill_3P_Galatea_N_3": {
+    "english": "Fleet Circling Formation",
+    "korean": "함대원형진"
+  },
+  "SkillName_Skill_3P_Galatea_N_4": {
+    "english": "Multi-functional Bulge",
+    "korean": "다목적 벌지"
+  },
+  "SkillName_Skill_3P_Galatea_N_5": {
+    "english": "Heroic Virtue",
+    "korean": "영웅의 기상"
+  },
+  "SkillName_Skill_3P_Hachiko_N_1": {
+    "english": "Revolver Cannon",
+    "korean": "리볼버 캐논"
+  },
+  "SkillName_Skill_3P_Hachiko_N_2": {
+    "english": "Return the Favor",
+    "korean": "은혜 갚기"
+  },
+  "SkillName_Skill_3P_Hachiko_N_3": {
+    "english": "Alert Mode!",
+    "korean": "경비 모드!"
+  },
+  "SkillName_Skill_3P_Hachiko_N_4": {
+    "english": "Undying Will",
+    "korean": "불굴의 의지"
+  },
+  "SkillName_Skill_3P_Hachiko_N_5": {
+    "english": "I Won't Back Down!",
+    "korean": "물러서지 않아요!"
+  },
+  "SkillName_Skill_3P_Hirume_N_1": {
+    "english": "Breath of the Sun",
+    "korean": "태양 숨결"
+  },
+  "SkillName_Skill_3P_Hirume_N_2": {
+    "english": "Art of Exorcism",
+    "korean": "퇴마의 술법"
+  },
+  "SkillName_Skill_3P_Hirume_N_3": {
+    "english": "Body that Purges Evil",
+    "korean": "마를 물리는 신체"
+  },
+  "SkillName_Skill_3P_Hirume_N_4": {
+    "english": "Divine Radiance",
+    "korean": "신성한 광휘"
+  },
+  "SkillName_Skill_3P_Hirume_N_5": {
+    "english": "The Left Eye of the Creator God",
+    "korean": "창조신의 왼쪽 눈"
+  },
+  "SkillName_Skill_3P_Labiata_N_1": {
+    "english": "Hundred Flowers Blooming",
+    "korean": "백화난만"
+  },
+  "SkillName_Skill_3P_Labiata_N_2": {
+    "english": "Hundred Flowers Stirring",
+    "korean": "백화요란"
+  },
+  "SkillName_Skill_3P_Labiata_N_3": {
+    "english": "Whirlwind Wild Grass",
+    "korean": "질풍경초"
+  },
+  "SkillName_Skill_3P_Labiata_N_4": {
+    "english": "Plasma Generator",
+    "korean": "플라즈마 제네레이터"
+  },
+  "SkillName_Skill_3P_Labiata_N_5": {
+    "english": "Authority",
+    "korean": "권여"
+  },
+  "SkillName_Skill_3P_Maria_N_1": {
+    "english": "Attack deterrence",
+    "korean": "공격 견제"
+  },
+  "SkillName_Skill_3P_Maria_N_2": {
+    "english": "Shape Memory Skirt",
+    "korean": "형상기억 스커트"
+  },
+  "SkillName_Skill_3P_Maria_N_3": {
+    "english": "Supply Check",
+    "korean": "준비물 확인"
+  },
+  "SkillName_Skill_3P_Maria_N_4": {
+    "english": "Support",
+    "korean": "뒷바라지"
+  },
+  "SkillName_Skill_3P_Maria_N_5": {
+    "english": "Three Thousand Teachings",
+    "korean": "삼천지교"
+  },
+  "SkillName_Skill_3P_Melite_N_1": {
+    "english": "Hey, you!",
+    "korean": "거기 너!"
+  },
+  "SkillName_Skill_3P_Melite_N_2": {
+    "english": "Make way!",
+    "korean": "길을 내어라!"
+  },
+  "SkillName_Skill_3P_Melite_N_3": {
+    "english": "Come here!",
+    "korean": "이리 오너라!"
+  },
+  "SkillName_Skill_3P_Melite_N_4": {
+    "english": "Be Grateful!",
+    "korean": "감사히 받도록!"
+  },
+  "SkillName_Skill_3P_Melite_N_5": {
+    "english": "Clear Fate",
+    "korean": "명백한 운명"
+  },
+  "SkillName_Skill_3P_Merope_N_1": {
+    "english": "Riptide Headshot",
+    "korean": "립타이드 헤드샷"
+  },
+  "SkillName_Skill_3P_Merope_N_2": {
+    "english": "All-out attack by a sickly beautiful girl!",
+    "korean": "병약 미소녀 총공격!"
+  },
+  "SkillName_Skill_3P_Merope_N_3": {
+    "english": "Protective instinct!",
+    "korean": "보호 본능!"
+  },
+  "SkillName_Skill_3P_Merope_N_4": {
+    "english": "The best defense is offense!",
+    "korean": "최선의 방어는 공격이다!"
+  },
+  "SkillName_Skill_3P_Merope_N_5": {
+    "english": "Raging storm",
+    "korean": "몰아치는 노도"
+  },
+  "SkillName_Skill_3P_Ran_N_1": {
+    "english": "Flash Slash",
+    "korean": "찰나 베기"
+  },
+  "SkillName_Skill_3P_Ran_N_2": {
+    "english": "Clear mirror",
+    "korean": "명경지수"
+  },
+  "SkillName_Skill_3P_Ran_N_3": {
+    "english": "Shadow Guard",
+    "korean": "그림자 호위"
+  },
+  "SkillName_Skill_3P_Ran_N_4": {
+    "english": "Sharpened Senses",
+    "korean": "예리한 감각"
+  },
+  "SkillName_Skill_3P_Ran_N_5": {
+    "english": "Graceful as Flowing Water",
+    "korean": "경화수월"
+  },
+  "SkillName_Skill_3P_Salacia_N_1": {
+    "english": "Boom-Boom Bullet' Fire~",
+    "korean": "‘펑펑 터지는 탄’ 발사~"
+  },
+  "SkillName_Skill_3P_Salacia_N_2": {
+    "english": "Pierce-Everything Bullet' Fire~",
+    "korean": "‘전부 뚫는 탄’ 발사~"
+  },
+  "SkillName_Skill_3P_Salacia_N_3": {
+    "english": "Bang~ Bang~!",
+    "korean": "빵~ 빵~!"
+  },
+  "SkillName_Skill_3P_Salacia_N_4": {
+    "english": "Sis, let’s go already!",
+    "korean": "언니, 얼른 가자!"
+  },
+  "SkillName_Skill_3P_Salacia_N_5": {
+    "english": "Cia’s suuuper strong!",
+    "korean": "시아, 엄~청 세!"
+  },
+  "SkillName_Skill_3P_Satgat_N_1": {
+    "english": "Moonshadow Blade",
+    "korean": "월영검"
+  },
+  "SkillName_Skill_3P_Satgat_N_2": {
+    "english": "Fatal Secret Technique: High-Frequency Science",
+    "korean": "절명오의 : 고자과학"
+  },
+  "SkillName_Skill_3P_Satgat_N_3": {
+    "english": "Graceful Void Stance",
+    "korean": "소식영허지세"
+  },
+  "SkillName_Skill_3P_Satgat_N_4": {
+    "english": "Everlasting Current",
+    "korean": "현하지변"
+  },
+  "SkillName_Skill_3P_Satgat_N_5": {
+    "english": "Free Roaming",
+    "korean": "소요유"
+  },
+  "SkillName_Skill_3P_Vanilla_N_1": {
+    "english": "Aim for the legs.",
+    "korean": "다리 노리기"
+  },
+  "SkillName_Skill_3P_Vanilla_N_2": {
+    "english": "HEDP Grenade",
+    "korean": "HEDP 유탄"
+  },
+  "SkillName_Skill_3P_Vanilla_N_3": {
+    "english": "Cleanup",
+    "korean": "뒷정리"
+  },
+  "SkillName_Skill_3P_Vanilla_N_4": {
+    "english": "Maid Next Door",
+    "korean": "옆자리 메이드씨"
+  },
+  "SkillName_Skill_3P_Vanilla_N_5": {
+    "english": "Disinfecting the Filth",
+    "korean": "오물은 소독입니다"
+  },
+  "SkillName_Skill_AGS_Aeda_N_1": {
+    "english": "Homing Laser",
+    "korean": "호밍 레이저"
+  },
+  "SkillName_Skill_AGS_Aeda_N_2": {
+    "english": "Satellite Strike",
+    "korean": "위성 포격"
+  },
+  "SkillName_Skill_AGS_Aeda_N_3": {
+    "english": "Precision Analysis",
+    "korean": "정밀 분석"
+  },
+  "SkillName_Skill_AGS_Aeda_N_4": {
+    "english": "Computation Optimization",
+    "korean": "연산 최적화"
+  },
+  "SkillName_Skill_AGS_Aeda_N_5": {
+    "english": "High-Altitude Scanning",
+    "korean": "고고도 스캐닝"
+  },
+  "SkillName_Skill_AGS_Deathstalker_N_1": {
+    "english": "Catatumbo Machine Gun",
+    "korean": "카타툼보 머신건"
+  },
+  "SkillName_Skill_AGS_Deathstalker_N_2": {
+    "english": "Pike Railgun",
+    "korean": "파이크 레일건"
+  },
+  "SkillName_Skill_AGS_Deathstalker_N_3": {
+    "english": "Protest Hardline Response",
+    "korean": "시위 강경 대응"
+  },
+  "SkillName_Skill_AGS_Deathstalker_N_4": {
+    "english": "Hunter-Killer Protocol",
+    "korean": "헌터-킬러 프로토콜"
+  },
+  "SkillName_Skill_AGS_Deathstalker_N_5": {
+    "english": "Enhanced Fire Support",
+    "korean": "화력 지원 증강"
+  },
+  "SkillName_Skill_AGS_Fallen_N_1": {
+    "english": "Machine Gun Fire",
+    "korean": "머신건 사격"
+  },
+  "SkillName_Skill_AGS_Fallen_N_2": {
+    "english": "Heavy Armor Vibration Shell",
+    "korean": "대 장갑 진동탄"
+  },
+  "SkillName_Skill_AGS_Fallen_N_3": {
+    "english": "Tactical Support Function",
+    "korean": "전술 보조 기능"
+  },
+  "SkillName_Skill_AGS_Fallen_N_4": {
+    "english": "Cover Optimization",
+    "korean": "엄폐 최적화"
+  },
+  "SkillName_Skill_AGS_Fallen_N_5": {
+    "english": "Assault Formation",
+    "korean": "어썰트 포메이션"
+  },
+  "SkillName_Skill_AGS_Fortress_CH_1": {
+    "english": "Trench Fire",
+    "korean": "참호 사격"
+  },
+  "SkillName_Skill_AGS_Fortress_CH_2": {
+    "english": "Suppress Target",
+    "korean": "목표물 견제"
+  },
+  "SkillName_Skill_AGS_Fortress_CH_3": {
+    "english": "Turret Down Mode",
+    "korean": "터렛 다운 모드"
+  },
+  "SkillName_Skill_AGS_Fortress_CH_5": {
+    "english": "Auto Threat Measurement",
+    "korean": "자동 위협 측정"
+  },
+  "SkillName_Skill_AGS_Fortress_N_1": {
+    "english": "Cover Fire",
+    "korean": "엄호 사격"
+  },
+  "SkillName_Skill_AGS_Fortress_N_2": {
+    "english": "Target Elimination",
+    "korean": "목표물 처리"
+  },
+  "SkillName_Skill_AGS_Fortress_N_3": {
+    "english": "Hull Down Mode",
+    "korean": "헐 다운 모드"
+  },
+  "SkillName_Skill_AGS_Fortress_N_4": {
+    "english": "Goalkeeper-class Air Defense Network",
+    "korean": "골키퍼급 방공망"
+  },
+  "SkillName_Skill_AGS_Fortress_N_5": {
+    "english": "Damage Control",
+    "korean": "대미지 컨트롤"
+  },
+  "SkillName_Skill_AGS_Goltarion_N_1": {
+    "english": "Scorching! Hellfire Beam",
+    "korean": "작열! 헬파이어 빔"
+  },
+  "SkillName_Skill_AGS_Goltarion_N_2": {
+    "english": "Summon!! Demonic Weapon",
+    "korean": "소환!! 데모닉 웨폰"
+  },
+  "SkillName_Skill_AGS_Goltarion_N_3": {
+    "english": "Immortal Gauntlet",
+    "korean": "불사의 장갑"
+  },
+  "SkillName_Skill_AGS_Goltarion_N_4": {
+    "english": "Great Demon King, Be Careful!",
+    "korean": "마왕님, 조심하십시오!"
+  },
+  "SkillName_Skill_AGS_Goltarion_N_5": {
+    "english": "By the command of the Great Demon King…!",
+    "korean": "마왕님의 명이라면…!"
+  },
+  "SkillName_Skill_AGS_Goltarion_N_95": {
+    "english": "If it is the Demon Lord's command…!",
+    "korean": "마왕님의 명이라면…!"
+  },
+  "SkillName_Skill_AGS_Watcher_N_1": {
+    "english": "Strafe",
+    "korean": "스트레이프"
+  },
+  "SkillName_Skill_AGS_Watcher_N_2": {
+    "english": "Cooperative Recon",
+    "korean": "협동정찰"
+  },
+  "SkillName_Skill_AGS_Watcher_N_3": {
+    "english": "Close Air Support",
+    "korean": "근접 항공 지원"
+  },
+  "SkillName_Skill_AGS_Watcher_N_4": {
+    "english": "Number of Reaper-class Units",
+    "korean": "리퍼급 기체 개수"
+  },
+  "SkillName_Skill_AGS_Watcher_N_5": {
+    "english": "Eye of the Sky",
+    "korean": "창공의 눈"
+  },
+  "SkillName_Skill_BR_AS12TurtleDragon_N_1": {
+    "english": "Suppressive Fire",
+    "korean": "제압 사격"
+  },
+  "SkillName_Skill_BR_AS12TurtleDragon_N_2": {
+    "english": "Deploy Large Shield",
+    "korean": "대형 방패 전개"
+  },
+  "SkillName_Skill_BR_AS12TurtleDragon_N_3": {
+    "english": "Commence Suppression",
+    "korean": "진압 개시"
+  },
+  "SkillName_Skill_BR_AS12TurtleDragon_N_4": {
+    "english": "Full Assault!",
+    "korean": "전원 돌격!"
+  },
+  "SkillName_Skill_BR_AS12TurtleDragon_N_5": {
+    "english": "Tit for Tat",
+    "korean": "팃포탯"
+  },
+  "SkillName_Skill_BR_Alvis_N_1": {
+    "english": "Alvis, Deploy!",
+    "korean": "알비스 출동!"
+  },
+  "SkillName_Skill_BR_Alvis_N_2": {
+    "english": "Smoky Time!",
+    "korean": "뭉게뭉게!"
+  },
+  "SkillName_Skill_BR_Alvis_N_3": {
+    "english": "You Shall Not Pass?",
+    "korean": "못 지나갈걸?"
+  },
+  "SkillName_Skill_BR_Alvis_N_4": {
+    "english": "Care for a Bite?",
+    "korean": "한 개 먹을래?"
+  },
+  "SkillName_Skill_BR_Alvis_N_5": {
+    "english": "Choco Formation!",
+    "korean": "초코 포메이션!"
+  },
+  "SkillName_Skill_BR_Andvari_N_1": {
+    "english": "Presenting a Solution",
+    "korean": "해결책 제시"
+  },
+  "SkillName_Skill_BR_Andvari_N_2": {
+    "english": "Gotta Use It Wisely!",
+    "korean": "아껴 써야 해요!"
+  },
+  "SkillName_Skill_BR_Andvari_N_3": {
+    "english": "Mature Little Sister",
+    "korean": "의젓한 여동생"
+  },
+  "SkillName_Skill_BR_Andvari_N_4": {
+    "english": "Refined Multipurpose Supply Pod",
+    "korean": "개량형 다목적 보급고"
+  },
+  "SkillName_Skill_BR_Andvari_N_5": {
+    "english": "Specially Modified Stock",
+    "korean": "특수 개조형 개머리판"
+  },
+  "SkillName_Skill_BR_Banshee_N_4": {
+    "english": "Slow, But Deadly",
+    "korean": "Slow, But Deadly"
+  },
+  "SkillName_Skill_BR_Banshee_N_5": {
+    "english": "Doom Diver",
+    "korean": "둠 다이버"
+  },
+  "SkillName_Skill_BR_BeastHunter_N_1": {
+    "english": "157mm HEAT Round",
+    "korean": "157mm HEAT탄"
+  },
+  "SkillName_Skill_BR_BeastHunter_N_2": {
+    "english": "Cluster Bombardment",
+    "korean": "유산탄 포격"
+  },
+  "SkillName_Skill_BR_BeastHunter_N_3": {
+    "english": "The Hunt Begins",
+    "korean": "사냥 개시"
+  },
+  "SkillName_Skill_BR_BeastHunter_N_4": {
+    "english": "Suppressive Bombardment",
+    "korean": "제압 포격"
+  },
+  "SkillName_Skill_BR_BeastHunter_N_5": {
+    "english": "Kill Zone",
+    "korean": "살상지대"
+  },
+  "SkillName_Skill_BR_Bheur_N_1": {
+    "english": "Designated Target Sniping",
+    "korean": "목표 지정 저격"
+  },
+  "SkillName_Skill_BR_Bheur_N_2": {
+    "english": "Sense Sharing",
+    "korean": "감적 공유"
+  },
+  "SkillName_Skill_BR_Bheur_N_3": {
+    "english": "Hypervigilance",
+    "korean": "안전 과민증"
+  },
+  "SkillName_Skill_BR_Bheur_N_4": {
+    "english": "Thorough Preparation",
+    "korean": "철저한 준비"
+  },
+  "SkillName_Skill_BR_Bheur_N_5": {
+    "english": "Empathic Insight",
+    "korean": "공감적 내관"
+  },
+  "SkillName_Skill_BR_Blackhound_N_1": {
+    "english": "Machine Gun Burst",
+    "korean": "기총 점사"
+  },
+  "SkillName_Skill_BR_Blackhound_N_2": {
+    "english": "EMP Missile",
+    "korean": "EMP 미사일"
+  },
+  "SkillName_Skill_BR_Blackhound_N_3": {
+    "english": "Emergency Escort",
+    "korean": "긴급 호위"
+  },
+  "SkillName_Skill_BR_Blackhound_N_4": {
+    "english": "VIFF Maneuver",
+    "korean": "VIFF 기동"
+  },
+  "SkillName_Skill_BR_Blackhound_N_5": {
+    "english": "Tachi Weave",
+    "korean": "타치 위브"
+  },
+  "SkillName_Skill_BR_BloodyPanther_CH_1": {
+    "english": "Heavy Machine Gun Fire",
+    "korean": "주포 조준 사격"
+  },
+  "SkillName_Skill_BR_BloodyPanther_CH_2": {
+    "english": "Armor Deployment Deactivation",
+    "korean": "장갑 전개 해제"
+  },
+  "SkillName_Skill_BR_BloodyPanther_CH_3": {
+    "english": "Deploy Armor Plates",
+    "korean": "장갑 전개"
+  },
+  "SkillName_Skill_BR_BloodyPanther_CH_5": {
+    "english": "Cruiser Mode",
+    "korean": "장갑 전개 모드"
+  },
+  "SkillName_Skill_BR_BloodyPanther_N_1": {
+    "english": "Heavy Machine Gun Fire",
+    "korean": "기관포 사격"
+  },
+  "SkillName_Skill_BR_BloodyPanther_N_2": {
+    "english": "Main Cannon Fire",
+    "korean": "주포 발사"
+  },
+  "SkillName_Skill_BR_BloodyPanther_N_3": {
+    "english": "Deploy Armor Plates",
+    "korean": "장갑 전개"
+  },
+  "SkillName_Skill_BR_BloodyPanther_N_4": {
+    "english": "Special Coating Armor",
+    "korean": "특수 코팅 장갑"
+  },
+  "SkillName_Skill_BR_BloodyPanther_N_5": {
+    "english": "Cruiser Mode",
+    "korean": "순항 모드"
+  },
+  "SkillName_Skill_BR_Brunhild_N_1": {
+    "english": "Blaze",
+    "korean": "불길"
+  },
+  "SkillName_Skill_BR_Brunhild_N_2": {
+    "english": "Bloodstained Empress",
+    "korean": "핏빛 효후"
+  },
+  "SkillName_Skill_BR_Brunhild_N_3": {
+    "english": "Skaldmer",
+    "korean": "스캴드메르"
+  },
+  "SkillName_Skill_BR_Brunhild_N_4": {
+    "english": "Stay Back",
+    "korean": "가까이 오지마"
+  },
+  "SkillName_Skill_BR_Brunhild_N_5": {
+    "english": "Vaprogi",
+    "korean": "바프로기"
+  },
+  "SkillName_Skill_BR_Bulgasari_CH_1": {
+    "english": "Shock Spike",
+    "korean": "쇼크 스파이크"
+  },
+  "SkillName_Skill_BR_Bulgasari_CH_2": {
+    "english": "Bunker buster",
+    "korean": "벙커 버스터"
+  },
+  "SkillName_Skill_BR_Bulgasari_N_1": {
+    "english": "File driver",
+    "korean": "파일 드라이버"
+  },
+  "SkillName_Skill_BR_Bulgasari_N_2": {
+    "english": "Battery RAM",
+    "korean": "배터링 램"
+  },
+  "SkillName_Skill_BR_Bulgasari_N_3": {
+    "english": "Hydraulic accumulator",
+    "korean": "유압 축압기"
+  },
+  "SkillName_Skill_BR_Bulgasari_N_4": {
+    "english": "Wall breaching",
+    "korean": "월 브리칭"
+  },
+  "SkillName_Skill_BR_Bulgasari_N_5": {
+    "english": "Linkage Breakthrough",
+    "korean": "연계 돌파"
+  },
+  "SkillName_Skill_BR_Calista_N_1": {
+    "english": "Aimed Bombardment",
+    "korean": "조준 포격"
+  },
+  "SkillName_Skill_BR_Calista_N_2": {
+    "english": "90mm HEAT Round Volley",
+    "korean": "90mm HEAT탄 연사"
+  },
+  "SkillName_Skill_BR_Calista_N_3": {
+    "english": "Auto-Reload Mechanism",
+    "korean": "자동 장전 장치"
+  },
+  "SkillName_Skill_BR_Calista_N_4": {
+    "english": "Taunting Provocation",
+    "korean": "오기 부리기"
+  },
+  "SkillName_Skill_BR_Calista_N_5": {
+    "english": "Revolver Fanning",
+    "korean": "리볼버 패닝"
+  },
+  "SkillName_Skill_BR_Cheona_N_1": {
+    "english": "Dagger Throw",
+    "korean": "단검 투척"
+  },
+  "SkillName_Skill_BR_Cheona_N_2": {
+    "english": "Serpent Fang",
+    "korean": "뱀 송곳니"
+  },
+  "SkillName_Skill_BR_Cheona_N_3": {
+    "english": "Stealth Action",
+    "korean": "은밀 행동"
+  },
+  "SkillName_Skill_BR_Cheona_N_4": {
+    "english": "Twin Heads",
+    "korean": "쌍두사"
+  },
+  "SkillName_Skill_BR_Cheona_N_5": {
+    "english": "So Warm~",
+    "korean": "따뜻해서 좋네~"
+  },
+  "SkillName_Skill_BR_Echidna_N_1": {
+    "english": "Devour",
+    "korean": "포식"
+  },
+  "SkillName_Skill_BR_Echidna_N_2": {
+    "english": "Serpent’s Embrace",
+    "korean": "뱀의 포옹"
+  },
+  "SkillName_Skill_BR_Echidna_N_3": {
+    "english": "Corrupted Alloy Scales",
+    "korean": "부정형 합금 비늘"
+  },
+  "SkillName_Skill_BR_Echidna_N_4": {
+    "english": "Queen’s Aura",
+    "korean": "여왕의 존재감"
+  },
+  "SkillName_Skill_BR_Echidna_N_5": {
+    "english": "Swamp of Desire",
+    "korean": "욕망의 늪"
+  },
+  "SkillName_Skill_BR_Efreeti_N_1": {
+    "english": "140mm High-Explosive Shell",
+    "korean": "140mm 고폭탄"
+  },
+  "SkillName_Skill_BR_Efreeti_N_2": {
+    "english": "Howitzer Bombardment",
+    "korean": "곡사 포격"
+  },
+  "SkillName_Skill_BR_Efreeti_N_3": {
+    "english": "Flare Shot",
+    "korean": "조명탄 발사"
+  },
+  "SkillName_Skill_BR_Efreeti_N_4": {
+    "english": "Rifled Mortar",
+    "korean": "강선형 박격포"
+  },
+  "SkillName_Skill_BR_Efreeti_N_5": {
+    "english": "Leave me alone...",
+    "korean": "날 혼자 내버려둬…"
+  },
+  "SkillName_Skill_BR_Ellie_N_1": {
+    "english": "Taser Needle",
+    "korean": "테이저 니들"
+  },
+  "SkillName_Skill_BR_Ellie_N_2": {
+    "english": "Defense Mode",
+    "korean": "방호 모드"
+  },
+  "SkillName_Skill_BR_Ellie_N_3": {
+    "english": "Noblesse Oblige",
+    "korean": "노블레스 오블리주"
+  },
+  "SkillName_Skill_BR_Ellie_N_4": {
+    "english": "Comfortable Tea Time",
+    "korean": "편안한 티타임"
+  },
+  "SkillName_Skill_BR_Ellie_N_5": {
+    "english": "Afternoon Tea",
+    "korean": "애프터눈 티"
+  },
+  "SkillName_Skill_BR_Fafnir_N_1": {
+    "english": "Hrotti",
+    "korean": "흐로티"
+  },
+  "SkillName_Skill_BR_Fafnir_N_2": {
+    "english": "Thunderous Strike",
+    "korean": "뇌정벽력"
+  },
+  "SkillName_Skill_BR_Fafnir_N_3": {
+    "english": "The Embracer",
+    "korean": "끌어안는 자"
+  },
+  "SkillName_Skill_BR_Fafnir_N_4": {
+    "english": "One Dragon, One Death",
+    "korean": "일룡일사"
+  },
+  "SkillName_Skill_BR_Fafnir_N_5": {
+    "english": "Helm of Reverence",
+    "korean": "경외의 투구"
+  },
+  "SkillName_Skill_BR_Gnome_N_4": {
+    "english": "Preemptive Positioning",
+    "korean": "견제 위치 선점"
+  },
+  "SkillName_Skill_BR_Gnome_N_5": {
+    "english": "Counter-Assault Tactics",
+    "korean": "돌격 전술 대응"
+  },
+  "SkillName_Skill_BR_Habetrot_N_1": {
+    "english": "Spray and Pray",
+    "korean": "스프레이 앤 프레이"
+  },
+  "SkillName_Skill_BR_Habetrot_N_2": {
+    "english": "DAGAIE MK-III",
+    "korean": "DAGAIE MK-III"
+  },
+  "SkillName_Skill_BR_Habetrot_N_3": {
+    "english": "Leading by Example",
+    "korean": "솔선수범"
+  },
+  "SkillName_Skill_BR_Habetrot_N_4": {
+    "english": "Joint Arms",
+    "korean": "제병합동"
+  },
+  "SkillName_Skill_BR_Habetrot_N_5": {
+    "english": "Elan...?",
+    "korean": "엘랑…?"
+  },
+  "SkillName_Skill_BR_Harpy_N_1": {
+    "english": "NARAAK Missile",
+    "korean": "NARAAK 미사일"
+  },
+  "SkillName_Skill_BR_Harpy_N_2": {
+    "english": "Full Burst",
+    "korean": "풀 버스트"
+  },
+  "SkillName_Skill_BR_Harpy_N_3": {
+    "english": "Stealth Maneuver",
+    "korean": "스텔스 기동"
+  },
+  "SkillName_Skill_BR_Harpy_N_4": {
+    "english": "Integrated Air Combat Information Processing",
+    "korean": "통합 항전 정보처리"
+  },
+  "SkillName_Skill_BR_Harpy_N_5": {
+    "english": "NVEL System",
+    "korean": "NVEL 시스템"
+  },
+  "SkillName_Skill_BR_Hela_N_1": {
+    "english": "Necromancy",
+    "korean": "강령"
+  },
+  "SkillName_Skill_BR_Hela_N_2": {
+    "english": "Nano Particle Amplification",
+    "korean": "나노 입자 증폭"
+  },
+  "SkillName_Skill_BR_Hela_N_3": {
+    "english": "Goddess of the Dead",
+    "korean": "죽은 자들의 여신"
+  },
+  "SkillName_Skill_BR_Hela_N_4": {
+    "english": "Naglfar",
+    "korean": "나글파르"
+  },
+  "SkillName_Skill_BR_Hela_N_5": {
+    "english": "Helheim",
+    "korean": "헬헤임"
+  },
+  "SkillName_Skill_BR_HongRyun_N_1": {
+    "english": "Frost Bolt",
+    "korean": "빙결 볼트"
+  },
+  "SkillName_Skill_BR_HongRyun_N_2": {
+    "english": "Battlefield Control",
+    "korean": "전장 장악"
+  },
+  "SkillName_Skill_BR_HongRyun_N_3": {
+    "english": "Anti-Terrorism Command",
+    "korean": "대 테러 지휘"
+  },
+  "SkillName_Skill_BR_HongRyun_N_4": {
+    "english": "Pacification Formation",
+    "korean": "진압 대형 편성"
+  },
+  "SkillName_Skill_BR_HongRyun_N_5": {
+    "english": "Precision Sniper Command",
+    "korean": "정밀 저격 지시"
+  },
+  "SkillName_Skill_BR_Hraesvelgr_N_1": {
+    "english": "Diffusion Beam Port",
+    "korean": "확산 빔 포트"
+  },
+  "SkillName_Skill_BR_Hraesvelgr_N_2": {
+    "english": "Anti-Air Neutralization",
+    "korean": "대공 무력화"
+  },
+  "SkillName_Skill_BR_Hraesvelgr_N_3": {
+    "english": "Command and Control",
+    "korean": "지휘 통제"
+  },
+  "SkillName_Skill_BR_Hraesvelgr_N_4": {
+    "english": "Interference Response Unit",
+    "korean": "간섭 대응 유닛"
+  },
+  "SkillName_Skill_BR_Hraesvelgr_N_5": {
+    "english": "Prototype FOG",
+    "korean": "시제형 FOG"
+  },
+  "SkillName_Skill_BR_Hyena_N_1": {
+    "english": "Deadly Grenade",
+    "korean": "죽여주는 수류탄"
+  },
+  "SkillName_Skill_BR_Hyena_N_2": {
+    "english": "Shotgun Barrage",
+    "korean": "샷건 연사"
+  },
+  "SkillName_Skill_BR_Hyena_N_3": {
+    "english": "Infectious Madness",
+    "korean": "전염되는 광기"
+  },
+  "SkillName_Skill_BR_Hyena_N_4": {
+    "english": "Short Fuse",
+    "korean": "짧은 도화선"
+  },
+  "SkillName_Skill_BR_Hyena_N_5": {
+    "english": "Flamboyant Explosive Finale",
+    "korean": "화려한 폭발 엔딩"
+  },
+  "SkillName_Skill_BR_Impet_N_1": {
+    "english": "Heavy Armor-Piercing Rocket",
+    "korean": "대 장갑 로켓"
+  },
+  "SkillName_Skill_BR_Impet_N_2": {
+    "english": "MK08 Thermobaric Shell",
+    "korean": "MK08. 열압력탄"
+  },
+  "SkillName_Skill_BR_Impet_N_3": {
+    "english": "Prototype EFP Round",
+    "korean": "시제 EFP탄"
+  },
+  "SkillName_Skill_BR_Impet_N_4": {
+    "english": "Field Manual",
+    "korean": "야전교범"
+  },
+  "SkillName_Skill_BR_Impet_N_5": {
+    "english": "JTAC Designation Approval",
+    "korean": "JTAC 임명 승인"
+  },
+  "SkillName_Skill_BR_Io_N_1": {
+    "english": "Medium Machine Gun Fire",
+    "korean": "중 기관포 사격"
+  },
+  "SkillName_Skill_BR_Io_N_2": {
+    "english": "Full Salvo",
+    "korean": "전탄 방출"
+  },
+  "SkillName_Skill_BR_Io_N_3": {
+    "english": "Sense of Relief",
+    "korean": "안도감"
+  },
+  "SkillName_Skill_BR_Io_N_4": {
+    "english": "Light Armor Break",
+    "korean": "경장갑 파괴"
+  },
+  "SkillName_Skill_BR_Io_N_5": {
+    "english": "It Should Be Safe Here",
+    "korean": "여기라면 괜찮겠지?"
+  },
+  "SkillName_Skill_BR_JangHwa_CH_1": {
+    "english": "Remote Bomb Detonation",
+    "korean": "원격 폭탄 격발"
+  },
+  "SkillName_Skill_BR_JangHwa_N_1": {
+    "english": "Deploy IED",
+    "korean": "IED 설치"
+  },
+  "SkillName_Skill_BR_JangHwa_N_2": {
+    "english": "Fortified Wire",
+    "korean": "강화 와이어"
+  },
+  "SkillName_Skill_BR_JangHwa_N_3": {
+    "english": "Tactical Disruptor",
+    "korean": "사보타주 스페셜리스트"
+  },
+  "SkillName_Skill_BR_JangHwa_N_4": {
+    "english": "Obsessive Mania",
+    "korean": "광적인 집착"
+  },
+  "SkillName_Skill_BR_JangHwa_N_5": {
+    "english": "Thrill of the Hunt",
+    "korean": "사냥의 희열"
+  },
+  "SkillName_Skill_BR_Khan_N_1": {
+    "english": "Long-range barrage",
+    "korean": "영거리 포격"
+  },
+  "SkillName_Skill_BR_Khan_N_2": {
+    "english": "Sandstorm",
+    "korean": "데저트 스톰"
+  },
+  "SkillName_Skill_BR_Khan_N_3": {
+    "english": "Hungry Wolf",
+    "korean": "굶주린 늑대"
+  },
+  "SkillName_Skill_BR_Khan_N_4": {
+    "english": "Weak point strike",
+    "korean": "틈새 노리기"
+  },
+  "SkillName_Skill_BR_Khan_N_5": {
+    "english": "Savage Cat",
+    "korean": "전의 고양"
+  },
+  "SkillName_Skill_BR_Kheshig_N_1": {
+    "english": "Close-range shelling",
+    "korean": "근거리 포격"
+  },
+  "SkillName_Skill_BR_Kheshig_N_2": {
+    "english": "Tactical Placement",
+    "korean": "전술 배치"
+  },
+  "SkillName_Skill_BR_Kheshig_N_3": {
+    "english": "First aid",
+    "korean": "응급 처치"
+  },
+  "SkillName_Skill_BR_Kheshig_N_4": {
+    "english": "Inspiration",
+    "korean": "감화"
+  },
+  "SkillName_Skill_BR_Kheshig_N_5": {
+    "english": "Sub Chaser",
+    "korean": "파부침선"
+  },
+  "SkillName_Skill_BR_Leona_CH_3": {
+    "english": "Defensive Command",
+    "korean": "방어 지휘"
+  },
+  "SkillName_Skill_BR_Leona_CH_4": {
+    "english": "Prepare for attack.",
+    "korean": "공격 준비 태세"
+  },
+  "SkillName_Skill_BR_Leona_N_1": {
+    "english": "Designate Attack Target",
+    "korean": "공격 목표 지정"
+  },
+  "SkillName_Skill_BR_Leona_N_2": {
+    "english": "Charge Command",
+    "korean": "돌격 명령"
+  },
+  "SkillName_Skill_BR_Leona_N_3": {
+    "english": "Attack Command",
+    "korean": "공격 지휘"
+  },
+  "SkillName_Skill_BR_Leona_N_4": {
+    "english": "Defensive Stance",
+    "korean": "방어 준비 태세"
+  },
+  "SkillName_Skill_BR_Leona_N_5": {
+    "english": "Sharp Assessment",
+    "korean": "냉철한 분석"
+  },
+  "SkillName_Skill_BR_Leprechaun_N_1": {
+    "english": "Light Machine Gun Fire",
+    "korean": "경기관총 사격"
+  },
+  "SkillName_Skill_BR_Leprechaun_N_2": {
+    "english": "Light Machine Gun Barrage",
+    "korean": "경기관총 난사"
+  },
+  "SkillName_Skill_BR_Leprechaun_N_3": {
+    "english": "Formation Reset",
+    "korean": "포메이션 재정비"
+  },
+  "SkillName_Skill_BR_Leprechaun_N_4": {
+    "english": "Barrage Fire",
+    "korean": "탄막 사격"
+  },
+  "SkillName_Skill_BR_Leprechaun_N_5": {
+    "english": "Focused Fire",
+    "korean": "일점 집중 사격"
+  },
+  "SkillName_Skill_BR_Lindwurm_N_1": {
+    "english": "30mm AA Autocannon",
+    "korean": "30mm AA 기관포"
+  },
+  "SkillName_Skill_BR_Lindwurm_N_2": {
+    "english": "X-25 Anti-Armor Missile",
+    "korean": "X-25 대 장갑 미사일"
+  },
+  "SkillName_Skill_BR_Lindwurm_N_3": {
+    "english": "Overwhelming Cuteness?",
+    "korean": "압도적 귀여움?"
+  },
+  "SkillName_Skill_BR_Lindwurm_N_4": {
+    "english": "Everyone, Please Look This Way–!",
+    "korean": "모두 주목해주세요-!"
+  },
+  "SkillName_Skill_BR_Lindwurm_N_5": {
+    "english": "Top Gun",
+    "korean": "탑건"
+  },
+  "SkillName_Skill_BR_Marie_N_1": {
+    "english": "Pin Laser Shooting",
+    "korean": "핀 레이저 사격"
+  },
+  "SkillName_Skill_BR_Marie_N_2": {
+    "english": "Mare's Barrage",
+    "korean": "마른의 포격"
+  },
+  "SkillName_Skill_BR_Marie_N_3": {
+    "english": "Vital Force",
+    "korean": "엘랑비탈"
+  },
+  "SkillName_Skill_BR_Marie_N_4": {
+    "english": "Anti-air Command",
+    "korean": "대공 지휘"
+  },
+  "SkillName_Skill_BR_Marie_N_5": {
+    "english": "Fire Network Setup",
+    "korean": "화망 구축"
+  },
+  "SkillName_Skill_BR_Miho_N_1": {
+    "english": "Seriously?",
+    "korean": "바보 아냐?"
+  },
+  "SkillName_Skill_BR_Miho_N_2": {
+    "english": "Finishing Shot",
+    "korean": "마무리 저격"
+  },
+  "SkillName_Skill_BR_Miho_N_3": {
+    "english": "Vanguard Support",
+    "korean": "전위 지원"
+  },
+  "SkillName_Skill_BR_Miho_N_4": {
+    "english": "Heads Down!",
+    "korean": "머리 숙여!"
+  },
+  "SkillName_Skill_BR_Miho_N_5": {
+    "english": "Foxtrot Sniper",
+    "korean": "폭스트롯 스나이퍼"
+  },
+  "SkillName_Skill_BR_Nashorn_CH_1": {
+    "english": "Frontline Chemical Cannon Stoßer",
+    "korean": "전열화학포 Stoßer"
+  },
+  "SkillName_Skill_BR_Nashorn_CH_2": {
+    "english": "Special Purpose High-Explosive Shell Stampfer",
+    "korean": "특수목적고폭탄 Stampfer"
+  },
+  "SkillName_Skill_BR_Nashorn_N_1": {
+    "english": "Machine Gun Faulheit",
+    "korean": "기관포 Faulheit"
+  },
+  "SkillName_Skill_BR_Nashorn_N_2": {
+    "english": "Battlefield Situation Relay",
+    "korean": "전장 상황 전파"
+  },
+  "SkillName_Skill_BR_Nashorn_N_3": {
+    "english": "Excellent Cautionary Example",
+    "korean": "훌륭한 반면교사"
+  },
+  "SkillName_Skill_BR_Nashorn_N_4": {
+    "english": "Strategic Lightweight Armor Plate",
+    "korean": "전략적 경량화 장갑판"
+  },
+  "SkillName_Skill_BR_Nashorn_N_5": {
+    "english": "Cautious Advance",
+    "korean": "호시우보"
+  },
+  "SkillName_Skill_BR_Nereid_N_1": {
+    "english": "Turn into a Beehive",
+    "korean": "벌집 만들기"
+  },
+  "SkillName_Skill_BR_Nereid_N_2": {
+    "english": "Indiscriminate Barrage",
+    "korean": "무차별 난사"
+  },
+  "SkillName_Skill_BR_Nereid_N_3": {
+    "english": "Come at Me!",
+    "korean": "덤벼덤벼!"
+  },
+  "SkillName_Skill_BR_Nereid_N_4": {
+    "english": "Combat Immersion",
+    "korean": "전투 과몰입"
+  },
+  "SkillName_Skill_BR_Nereid_N_5": {
+    "english": "Anti-Air Formation!",
+    "korean": "대공 포메이션!"
+  },
+  "SkillName_Skill_BR_Nymph_N_1": {
+    "english": "Focused Fire",
+    "korean": "집속 사격"
+  },
+  "SkillName_Skill_BR_Nymph_N_2": {
+    "english": "Suppressive Barrage",
+    "korean": "제압 난사"
+  },
+  "SkillName_Skill_BR_Nymph_N_3": {
+    "english": "Fire Support",
+    "korean": "화력 지원"
+  },
+  "SkillName_Skill_BR_Nymph_N_4": {
+    "english": "Ambush Support",
+    "korean": "매복 지원"
+  },
+  "SkillName_Skill_BR_Nymph_N_5": {
+    "english": "For Glorious Battle",
+    "korean": "영광스러운 전투를 위하여"
+  },
+  "SkillName_Skill_BR_PA00EL_N_1": {
+    "english": "Inferno Missile",
+    "korean": "인페르노 미사일"
+  },
+  "SkillName_Skill_BR_PA00EL_N_2": {
+    "english": "Flame Bombardment",
+    "korean": "화염 폭격"
+  },
+  "SkillName_Skill_BR_PA00EL_N_3": {
+    "english": "Recon Flight",
+    "korean": "정찰 비행"
+  },
+  "SkillName_Skill_BR_PA00EL_N_4": {
+    "english": "Coordinated Bombing",
+    "korean": "연계 폭격"
+  },
+  "SkillName_Skill_BR_PA00EL_N_5": {
+    "english": "Sky Knight",
+    "korean": "하늘을 달리는 기사"
+  },
+  "SkillName_Skill_BR_PXSilky_N_5": {
+    "english": "You can't just take that without permission!",
+    "korean": "마음대로 꺼내가시면 안돼요!"
+  },
+  "SkillName_Skill_BR_Pani_N_1": {
+    "english": "183mm HESH Shell",
+    "korean": "183mm HESH탄"
+  },
+  "SkillName_Skill_BR_Pani_N_2": {
+    "english": "183mm HVAP Shell",
+    "korean": "183mm HVAP탄"
+  },
+  "SkillName_Skill_BR_Pani_N_3": {
+    "english": "Bombardment Formation",
+    "korean": "포격 대열"
+  },
+  "SkillName_Skill_BR_Pani_N_4": {
+    "english": "Assault Column",
+    "korean": "진방렬"
+  },
+  "SkillName_Skill_BR_Pani_N_5": {
+    "english": "Fire Projection",
+    "korean": "화력 투사"
+  },
+  "SkillName_Skill_BR_Phoenix_N_5": {
+    "english": "Ground Suppression Bombardment",
+    "korean": "지상 제압 포격"
+  },
+  "SkillName_Skill_BR_Pixie_N_1": {
+    "english": "Finish Them, Ryan!",
+    "korean": "해치워, 라이언"
+  },
+  "SkillName_Skill_BR_Pixie_N_2": {
+    "english": "Wipe Them All Out!",
+    "korean": "싹 쓸어버려!"
+  },
+  "SkillName_Skill_BR_Pixie_N_3": {
+    "english": "Ryan’s Hungry for Battle",
+    "korean": "라이언이 굶주렸다"
+  },
+  "SkillName_Skill_BR_Pixie_N_4": {
+    "english": "Wintermute Arms",
+    "korean": "윈터뮤트 암즈"
+  },
+  "SkillName_Skill_BR_Pixie_N_5": {
+    "english": "Valhalla Spirits",
+    "korean": "발할라 스피리츠"
+  },
+  "SkillName_Skill_BR_PoniesAnger_CH_2": {
+    "english": "Mongoose Maneuver",
+    "korean": "몽구스 매뉴버"
+  },
+  "SkillName_Skill_BR_PoniesAnger_N_1": {
+    "english": "Warning Shot",
+    "korean": "위협 사격"
+  },
+  "SkillName_Skill_BR_PoniesAnger_N_2": {
+    "english": "Acrobatic Flight",
+    "korean": "곡예 비행"
+  },
+  "SkillName_Skill_BR_PoniesAnger_N_3": {
+    "english": "Squad Escort",
+    "korean": "편대 호위"
+  },
+  "SkillName_Skill_BR_PoniesAnger_N_4": {
+    "english": "Breakthrough Prep",
+    "korean": "돌입 준비"
+  },
+  "SkillName_Skill_BR_PoniesAnger_N_5": {
+    "english": "Heroic Entry",
+    "korean": "영웅 출현"
+  },
+  "SkillName_Skill_BR_QuickCamel_N_1": {
+    "english": "Dual Machine Guns",
+    "korean": "듀얼 머신건"
+  },
+  "SkillName_Skill_BR_QuickCamel_N_2": {
+    "english": "180mm Rocket Launcher",
+    "korean": "180mm 로켓포"
+  },
+  "SkillName_Skill_BR_QuickCamel_N_3": {
+    "english": "Infantry Support",
+    "korean": "보병 지원"
+  },
+  "SkillName_Skill_BR_QuickCamel_N_4": {
+    "english": "Mobile Fire",
+    "korean": "기동간 사격"
+  },
+  "SkillName_Skill_BR_QuickCamel_N_5": {
+    "english": "Mobile Tactical Support",
+    "korean": "기동 전술 지원"
+  },
+  "SkillName_Skill_BR_Raven_N_1": {
+    "english": "Disk Bomb",
+    "korean": "디스크 봄"
+  },
+  "SkillName_Skill_BR_Raven_N_2": {
+    "english": "Target Scan",
+    "korean": "표적 스캔"
+  },
+  "SkillName_Skill_BR_Raven_N_3": {
+    "english": "Fire Support Coordination",
+    "korean": "포격 관측"
+  },
+  "SkillName_Skill_BR_Raven_N_4": {
+    "english": "AAC FDO",
+    "korean": "AAC FDO"
+  },
+  "SkillName_Skill_BR_Raven_N_5": {
+    "english": "Take Point",
+    "korean": "테이크 포인트"
+  },
+  "SkillName_Skill_BR_RedHood_N_1": {
+    "english": "Quad Auto-Cannon",
+    "korean": "4연장 기관포"
+  },
+  "SkillName_Skill_BR_RedHood_N_2": {
+    "english": "Follow Me!",
+    "korean": "나를 따르라!"
+  },
+  "SkillName_Skill_BR_RedHood_N_3": {
+    "english": "Hold the Line!",
+    "korean": "물러서지마라!"
+  },
+  "SkillName_Skill_BR_RedHood_N_4": {
+    "english": "No Retreat!",
+    "korean": "후퇴는 없다!"
+  },
+  "SkillName_Skill_BR_RedHood_N_5": {
+    "english": "To the Last",
+    "korean": "최후의 한 명까지"
+  },
+  "SkillName_Skill_BR_RoyalArsenal_N_1": {
+    "english": "20mm Anti-Materiel Sniper Rifle",
+    "korean": "20mm 대물 저격총"
+  },
+  "SkillName_Skill_BR_RoyalArsenal_N_2": {
+    "english": "F.Armory Deployment",
+    "korean": "F.아머리 전개"
+  },
+  "SkillName_Skill_BR_RoyalArsenal_N_3": {
+    "english": "Heavy Armor Commander",
+    "korean": "중장부대 지휘"
+  },
+  "SkillName_Skill_BR_RoyalArsenal_N_4": {
+    "english": "Unlimited Resupply",
+    "korean": "무제한 보급 개시"
+  },
+  "SkillName_Skill_BR_RoyalArsenal_N_5": {
+    "english": "CTCS",
+    "korean": "CTCS"
+  },
+  "SkillName_Skill_BR_Salamander_N_1": {
+    "english": "Flamethrower",
+    "korean": "화염 방사"
+  },
+  "SkillName_Skill_BR_Salamander_N_2": {
+    "english": "Tactical Maneuver: Straight Flush",
+    "korean": "전술 기동: 스트레이트 플러시"
+  },
+  "SkillName_Skill_BR_Salamander_N_3": {
+    "english": "Gambler's Frenzy",
+    "korean": "도박광"
+  },
+  "SkillName_Skill_BR_Salamander_N_4": {
+    "english": "Chain Flame",
+    "korean": "연쇄 화염"
+  },
+  "SkillName_Skill_BR_Salamander_N_5": {
+    "english": "Risky Bluff",
+    "korean": "리스키 블러핑"
+  },
+  "SkillName_Skill_BR_SandMan_N_1": {
+    "english": "Machine Gun Rapid Fire",
+    "korean": "기관포 연사"
+  },
+  "SkillName_Skill_BR_SandMan_N_2": {
+    "english": "AT Missile",
+    "korean": "AT 미사일"
+  },
+  "SkillName_Skill_BR_SandMan_N_3": {
+    "english": "Infantry Escort",
+    "korean": "지상군 호위"
+  },
+  "SkillName_Skill_BR_SandMan_N_4": {
+    "english": "Reinforced Hardpoint Retrofit",
+    "korean": "강화형 하드포인트 탑재"
+  },
+  "SkillName_Skill_BR_SandMan_N_5": {
+    "english": "Slidrugtani Propulsion System",
+    "korean": "슬리드룩타니급 추진 시스템"
+  },
+  "SkillName_Skill_BR_Scarabya_N_1": {
+    "english": "Tenderize",
+    "korean": "텐더라이즈"
+  },
+  "SkillName_Skill_BR_Scarabya_N_2": {
+    "english": "Breakthrough Tuning",
+    "korean": "브레이크스루 튜닝"
+  },
+  "SkillName_Skill_BR_Scarabya_N_3": {
+    "english": "Laid-Back",
+    "korean": "무사태평"
+  },
+  "SkillName_Skill_BR_Scarabya_N_4": {
+    "english": "Snack Time",
+    "korean": "스낵타임"
+  },
+  "SkillName_Skill_BR_Scarabya_N_5": {
+    "english": "Hunting Trophy",
+    "korean": "헌팅 트로피"
+  },
+  "SkillName_Skill_BR_Scathy_N_1": {
+    "english": "Circuit Overload",
+    "korean": "회로 과부하"
+  },
+  "SkillName_Skill_BR_Scathy_N_2": {
+    "english": "Final Hack",
+    "korean": "최후의 해킹"
+  },
+  "SkillName_Skill_BR_Scathy_N_3": {
+    "english": "Recon Analysis",
+    "korean": "정보 분석"
+  },
+  "SkillName_Skill_BR_Scathy_N_4": {
+    "english": "Infiltration",
+    "korean": "인필트레이션"
+  },
+  "SkillName_Skill_BR_Scathy_N_5": {
+    "english": "Brute Force",
+    "korean": "브루트 포스"
+  },
+  "SkillName_Skill_BR_Sirene_CH_1": {
+    "english": "203mm Twin Cannon",
+    "korean": "203mm 연장포"
+  },
+  "SkillName_Skill_BR_Sirene_CH_2": {
+    "english": "Devastation Bombardment",
+    "korean": "초토화 포격"
+  },
+  "SkillName_Skill_BR_Sirene_CH_4": {
+    "english": "Bombardment Mode",
+    "korean": "포격 모드"
+  },
+  "SkillName_Skill_BR_Sirene_N_1": {
+    "english": "57mm Anti-Air Cannon",
+    "korean": "57mm 대공포"
+  },
+  "SkillName_Skill_BR_Sirene_N_2": {
+    "english": "Bombardment Command",
+    "korean": "포격 지휘"
+  },
+  "SkillName_Skill_BR_Sirene_N_3": {
+    "english": "Bracketing Fire",
+    "korean": "협차 사격"
+  },
+  "SkillName_Skill_BR_Sirene_N_4": {
+    "english": "Interception Mode",
+    "korean": "요격 모드"
+  },
+  "SkillName_Skill_BR_Sirene_N_5": {
+    "english": "Observatory Bombardment",
+    "korean": "관측 포격"
+  },
+  "SkillName_Skill_BR_Sleipnir_N_1": {
+    "english": "Laser Beam",
+    "korean": "레이저 빔 사격"
+  },
+  "SkillName_Skill_BR_Sleipnir_N_2": {
+    "english": "Limit Break",
+    "korean": "한계돌파"
+  },
+  "SkillName_Skill_BR_Sleipnir_N_3": {
+    "english": "It's a Speed Race!",
+    "korean": "속도 승부야!"
+  },
+  "SkillName_Skill_BR_Sleipnir_N_4": {
+    "english": "Where Are You Looking?",
+    "korean": "어딜 보는거야?"
+  },
+  "SkillName_Skill_BR_Sleipnir_N_5": {
+    "english": "Unstoppable Dash",
+    "korean": "멈출 수 없는 질주"
+  },
+  "SkillName_Skill_BR_Spriggan_N_1": {
+    "english": "Twin-Launcher Heavy Armor Missile",
+    "korean": "2연장 대 장갑 미사일"
+  },
+  "SkillName_Skill_BR_Spriggan_N_2": {
+    "english": "BFG1000 Sniper Cannon",
+    "korean": "BFG1000 저격용 캐논포"
+  },
+  "SkillName_Skill_BR_Spriggan_N_3": {
+    "english": "Rumor Collector",
+    "korean": "루머 콜렉터"
+  },
+  "SkillName_Skill_BR_Spriggan_N_4": {
+    "english": "Combat Filming Equipment",
+    "korean": "전투용 촬영 장비"
+  },
+  "SkillName_Skill_BR_Spriggan_N_5": {
+    "english": "Scoop Discovery?",
+    "korean": "특종 발견?"
+  },
+  "SkillName_Skill_BR_Sterling_N_1": {
+    "english": "Trash inside the warehouse",
+    "korean": "창고 안에 쓰레기가"
+  },
+  "SkillName_Skill_BR_Sterling_N_2": {
+    "english": "There is such a treasure inside the warehouse",
+    "korean": "창고 안에 이런 보물이"
+  },
+  "SkillName_Skill_BR_Sterling_N_3": {
+    "english": "I missed this.",
+    "korean": "이걸 빠뜨렸네요"
+  },
+  "SkillName_Skill_BR_Sterling_N_4": {
+    "english": "A plan? Or improvisation?",
+    "korean": "계획? 아니면 임기응변?"
+  },
+  "SkillName_Skill_BR_Sterling_N_5": {
+    "english": "Haka never die!",
+    "korean": "하카 never die!"
+  },
+  "SkillName_Skill_BR_TalonFeather_N_1": {
+    "english": "XV-5 Auto Turret",
+    "korean": "XV-5 오토 터렛"
+  },
+  "SkillName_Skill_BR_TalonFeather_N_2": {
+    "english": "Radar Jammer",
+    "korean": "레이더 재머"
+  },
+  "SkillName_Skill_BR_TalonFeather_N_3": {
+    "english": "Ground Assault Support",
+    "korean": "지상 공격대 지원"
+  },
+  "SkillName_Skill_BR_TalonFeather_N_4": {
+    "english": "High-Altitude Reconnaissance",
+    "korean": "고고도 정찰"
+  },
+  "SkillName_Skill_BR_TalonFeather_N_5": {
+    "english": "ECCCM",
+    "korean": "ECCCM"
+  },
+  "SkillName_Skill_BR_Thetis_N_1": {
+    "english": "Shooting, I'm confident!",
+    "korean": "사격은 자신있지롱-"
+  },
+  "SkillName_Skill_BR_Thetis_N_2": {
+    "english": "It's my gift to you!",
+    "korean": "내가 주는 선물이야!"
+  },
+  "SkillName_Skill_BR_Thetis_N_3": {
+    "english": "Patrol mission commencing!",
+    "korean": "초계 임무 개시"
+  },
+  "SkillName_Skill_BR_Thetis_N_4": {
+    "english": "Hardpoint mounted!",
+    "korean": "하드포인트 탑재"
+  },
+  "SkillName_Skill_BR_Thetis_N_5": {
+    "english": "Tactical Air Relay activated!",
+    "korean": "전술 공중중계"
+  },
+  "SkillName_Skill_BR_Undine_N_1": {
+    "english": "Dual-Barrel Revolver Cannon",
+    "korean": "2연장 리볼버 캐논"
+  },
+  "SkillName_Skill_BR_Undine_N_2": {
+    "english": "F.F. Missile",
+    "korean": "F.F 미사일"
+  },
+  "SkillName_Skill_BR_Undine_N_3": {
+    "english": "Right Flank Turn",
+    "korean": "우향선회"
+  },
+  "SkillName_Skill_BR_Undine_N_4": {
+    "english": "Pride and Fury",
+    "korean": "오만과 분노"
+  },
+  "SkillName_Skill_BR_Undine_N_5": {
+    "english": "B.S.U. Maneuver",
+    "korean": "B.S.U 메뉴버"
+  },
+  "SkillName_Skill_BR_Uroborus_N_1": {
+    "english": "Tiny Gatling",
+    "korean": "타이니 개틀링"
+  },
+  "SkillName_Skill_BR_Uroborus_N_2": {
+    "english": "Squad Sortie!",
+    "korean": "편대 출격!"
+  },
+  "SkillName_Skill_BR_Uroborus_N_3": {
+    "english": "Commander’s Frontline",
+    "korean": "단장의 전선"
+  },
+  "SkillName_Skill_BR_Uroborus_N_4": {
+    "english": "Optimal Attack Route",
+    "korean": "최적의 공격 경로"
+  },
+  "SkillName_Skill_BR_Uroborus_N_5": {
+    "english": "Model for Successors",
+    "korean": "후학의 귀감"
+  },
+  "SkillName_Skill_BR_Valkyrie_N_1": {
+    "english": "Disruptive Fire",
+    "korean": "교란 사격"
+  },
+  "SkillName_Skill_BR_Valkyrie_N_2": {
+    "english": "Precision Sniping",
+    "korean": "정밀 저격"
+  },
+  "SkillName_Skill_BR_Valkyrie_N_3": {
+    "english": "Pinpoint Shot",
+    "korean": "핀 포인트 저격"
+  },
+  "SkillName_Skill_BR_Valkyrie_N_4": {
+    "english": "White Reaper",
+    "korean": "하얀 사신"
+  },
+  "SkillName_Skill_BR_Valkyrie_N_5": {
+    "english": "Valhalla's Herald",
+    "korean": "발할라로 이끄는 자"
+  },
+  "SkillName_Skill_BR_Vargr_N_1": {
+    "english": "Hrodvitnir",
+    "korean": "흐로드비트니르"
+  },
+  "SkillName_Skill_BR_Vargr_N_2": {
+    "english": "Ragnarok",
+    "korean": "라그나로크"
+  },
+  "SkillName_Skill_BR_Vargr_N_3": {
+    "english": "Loyal Thunder Hound",
+    "korean": "충실한 번견"
+  },
+  "SkillName_Skill_BR_Vargr_N_4": {
+    "english": "Eternal Rest",
+    "korean": "영휴"
+  },
+  "SkillName_Skill_BR_Vargr_N_5": {
+    "english": "Efficient Variable Blocking",
+    "korean": "효율적 변수 차단"
+  },
+  "SkillName_Skill_BR_Vargr_Rage_TU_1": {
+    "english": "Hrodvitnir",
+    "korean": "흐로드비트니르"
+  },
+  "SkillName_Skill_BR_Vargr_Rage_TU_2": {
+    "english": "Ragnarok",
+    "korean": "라그나로크"
+  },
+  "SkillName_Skill_BR_Vargr_Rage_TU_3": {
+    "english": "Angry guard dog",
+    "korean": "분노한 번견"
+  },
+  "SkillName_Skill_BR_Vargr_Rage_TU_4": {
+    "english": "Yeonghyu",
+    "korean": "영휴"
+  },
+  "SkillName_Skill_BR_Vargr_Rage_TU_5": {
+    "english": "Fight to the death",
+    "korean": "필사즉생"
+  },
+  "SkillName_Skill_BR_WarWolf_CH_1": {
+    "english": "Bayonet pointing",
+    "korean": "베요넷 포인팅"
+  },
+  "SkillName_Skill_BR_WarWolf_CH_2": {
+    "english": "Bayonet Thrust",
+    "korean": "베요넷 스러스트"
+  },
+  "SkillName_Skill_BR_WarWolf_N_1": {
+    "english": "Bayonet Fire",
+    "korean": "총검 사격"
+  },
+  "SkillName_Skill_BR_WarWolf_N_2": {
+    "english": "Bayonet Charge",
+    "korean": "총검 돌격"
+  },
+  "SkillName_Skill_BR_WarWolf_N_3": {
+    "english": "Star Instinct",
+    "korean": "주연 본능"
+  },
+  "SkillName_Skill_BR_WarWolf_N_4": {
+    "english": "Wrath of the Wasteland",
+    "korean": "황야의 분노"
+  },
+  "SkillName_Skill_BR_WarWolf_N_5": {
+    "english": "Western Showdown",
+    "korean": "웨스턴 쇼다운"
+  },
+  "SkillName_Skill_BR_Wraithy_N_1": {
+    "english": "Lightning Shot",
+    "korean": "라이트닝 샷"
+  },
+  "SkillName_Skill_BR_Wraithy_N_2": {
+    "english": "Storm Bolt",
+    "korean": "스톰 볼트"
+  },
+  "SkillName_Skill_BR_Wraithy_N_3": {
+    "english": "Electromagnetic Resonance",
+    "korean": "전자기 공명"
+  },
+  "SkillName_Skill_BR_Wraithy_N_4": {
+    "english": "Neural Stimulation",
+    "korean": "신경 자극"
+  },
+  "SkillName_Skill_BR_Wraithy_N_5": {
+    "english": "Chain Current",
+    "korean": "연쇄 전류"
+  },
+  "SkillName_Skill_BUFF_Backstab_N_1": {
+    "english": "Ambush Combat System Buff Dummy Lv.1",
+    "korean": "암습형 전투 시스템 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_Backstab_N_10": {
+    "english": "Ambush Combat System Buff Dummy Lv.10",
+    "korean": "암습형 전투 시스템 버프 더미 Lv.10"
+  },
+  "SkillName_Skill_BUFF_Backstab_N_11": {
+    "english": "Ambush Combat System Buff Dummy Lv.11",
+    "korean": "암습형 전투 시스템 버프 더미 Lv.11"
+  },
+  "SkillName_Skill_BUFF_Backstab_N_2": {
+    "english": "Ambush Combat System Buff Dummy Lv.2",
+    "korean": "암습형 전투 시스템 버프 더미 Lv.2"
+  },
+  "SkillName_Skill_BUFF_Backstab_N_3": {
+    "english": "Ambush Combat System Buff Dummy Lv.3",
+    "korean": "암습형 전투 시스템 버프 더미 Lv.3"
+  },
+  "SkillName_Skill_BUFF_Backstab_N_4": {
+    "english": "Ambush Combat System Buff Dummy Lv.4",
+    "korean": "암습형 전투 시스템 버프 더미 Lv.4"
+  },
+  "SkillName_Skill_BUFF_Backstab_N_5": {
+    "english": "Ambush Combat System Buff Dummy Lv.5",
+    "korean": "암습형 전투 시스템 버프 더미 Lv.5"
+  },
+  "SkillName_Skill_BUFF_Backstab_N_6": {
+    "english": "Ambush Combat System Buff Dummy Lv.6",
+    "korean": "암습형 전투 시스템 버프 더미 Lv.6"
+  },
+  "SkillName_Skill_BUFF_Backstab_N_7": {
+    "english": "Ambush Combat System Buff Dummy Lv.7",
+    "korean": "암습형 전투 시스템 버프 더미 Lv.7"
+  },
+  "SkillName_Skill_BUFF_Backstab_N_8": {
+    "english": "Ambush Combat System Buff Dummy Lv.8",
+    "korean": "암습형 전투 시스템 버프 더미 Lv.8"
+  },
+  "SkillName_Skill_BUFF_Backstab_N_9": {
+    "english": "Ambush Combat System Buff Dummy Lv.9",
+    "korean": "암습형 전투 시스템 버프 더미 Lv.9"
+  },
+  "SkillName_Skill_BUFF_BattleASST_N_1": {
+    "english": "Forced Combat Support Device Buff Dummy Lv.1",
+    "korean": "강행 전투 보조장치 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_BattleASST_N_10": {
+    "english": "Forced Combat Support Device Buff Dummy Lv.10",
+    "korean": "강행 전투 보조장치 버프 더미 Lv.10"
+  },
+  "SkillName_Skill_BUFF_BattleASST_N_11": {
+    "english": "Forced Combat Support Device Buff Dummy Lv.11",
+    "korean": "강행 전투 보조장치 버프 더미 Lv.11"
+  },
+  "SkillName_Skill_BUFF_BattleASST_N_2": {
+    "english": "Forced Combat Support Device Buff Dummy Lv.2",
+    "korean": "강행 전투 보조장치 버프 더미 Lv.2"
+  },
+  "SkillName_Skill_BUFF_BattleASST_N_3": {
+    "english": "Forced Combat Support Device Buff Dummy Lv.3",
+    "korean": "강행 전투 보조장치 버프 더미 Lv.3"
+  },
+  "SkillName_Skill_BUFF_BattleASST_N_4": {
+    "english": "Forced Combat Support Device Buff Dummy Lv.4",
+    "korean": "강행 전투 보조장치 버프 더미 Lv.4"
+  },
+  "SkillName_Skill_BUFF_BattleASST_N_5": {
+    "english": "Forced Combat Support Device Buff Dummy Lv.5",
+    "korean": "강행 전투 보조장치 버프 더미 Lv.5"
+  },
+  "SkillName_Skill_BUFF_BattleASST_N_6": {
+    "english": "Forced Combat Support Device Buff Dummy Lv.6",
+    "korean": "강행 전투 보조장치 버프 더미 Lv.6"
+  },
+  "SkillName_Skill_BUFF_BattleASST_N_7": {
+    "english": "Forced Combat Support Device Buff Dummy Lv.7",
+    "korean": "강행 전투 보조장치 버프 더미 Lv.7"
+  },
+  "SkillName_Skill_BUFF_BattleASST_N_8": {
+    "english": "Forced Combat Support Device Buff Dummy Lv.8",
+    "korean": "강행 전투 보조장치 버프 더미 Lv.8"
+  },
+  "SkillName_Skill_BUFF_BattleASST_N_9": {
+    "english": "Forced Combat Support Device Buff Dummy Lv.9",
+    "korean": "강행 전투 보조장치 버프 더미 Lv.9"
+  },
+  "SkillName_Skill_BUFF_HotPack_N_1": {
+    "english": "Hot Pack Buff Lv. 1",
+    "korean": "핫팩 버프 Lv.1"
+  },
+  "SkillName_Skill_BUFF_ImAdvRada_N_1": {
+    "english": "Starter Telescopic Sight Buff Dummy Lv.1",
+    "korean": "시작형 망원 조준장치 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_ImAdvRada_N_10": {
+    "english": "Starter Telescopic Sight Buff Dummy Lv.10",
+    "korean": "시작형 망원 조준장치 버프 더미 Lv.10"
+  },
+  "SkillName_Skill_BUFF_ImAdvRada_N_11": {
+    "english": "Starter Telescopic Sight Buff Dummy Lv.11",
+    "korean": "시작형 망원 조준장치 버프 더미 Lv.11"
+  },
+  "SkillName_Skill_BUFF_ImAdvRada_N_2": {
+    "english": "Starter Telescopic Sight Buff Dummy Lv.2",
+    "korean": "시작형 망원 조준장치 버프 더미 Lv.2"
+  },
+  "SkillName_Skill_BUFF_ImAdvRada_N_3": {
+    "english": "Starter Telescopic Sight Buff Dummy Lv.3",
+    "korean": "시작형 망원 조준장치 버프 더미 Lv.3"
+  },
+  "SkillName_Skill_BUFF_ImAdvRada_N_4": {
+    "english": "Starter Telescopic Sight Buff Dummy Lv.4",
+    "korean": "시작형 망원 조준장치 버프 더미 Lv.4"
+  },
+  "SkillName_Skill_BUFF_ImAdvRada_N_5": {
+    "english": "Starter Telescopic Sight Buff Dummy Lv.5",
+    "korean": "시작형 망원 조준장치 버프 더미 Lv.5"
+  },
+  "SkillName_Skill_BUFF_ImAdvRada_N_6": {
+    "english": "Starter Telescopic Sight Buff Dummy Lv.6",
+    "korean": "시작형 망원 조준장치 버프 더미 Lv.6"
+  },
+  "SkillName_Skill_BUFF_ImAdvRada_N_7": {
+    "english": "Starter Telescopic Sight Buff Dummy Lv.7",
+    "korean": "시작형 망원 조준장치 버프 더미 Lv.7"
+  },
+  "SkillName_Skill_BUFF_ImAdvRada_N_8": {
+    "english": "Starter Telescopic Sight Buff Dummy Lv.8",
+    "korean": "시작형 망원 조준장치 버프 더미 Lv.8"
+  },
+  "SkillName_Skill_BUFF_ImAdvRada_N_9": {
+    "english": "Starter Telescopic Sight Buff Dummy Lv.9",
+    "korean": "시작형 망원 조준장치 버프 더미 Lv.9"
+  },
+  "SkillName_Skill_BUFF_MiniBlackWyrm_N_1": {
+    "english": "Mini Black Wyrm Buff Dummy Lv.1",
+    "korean": "미니 블랙 웜 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_MiniBlackWyrm_N_10": {
+    "english": "Mini Black Wyrm Buff Dummy Lv.10",
+    "korean": "미니 블랙 웜 버프 더미 Lv.10"
+  },
+  "SkillName_Skill_BUFF_MiniBlackWyrm_N_11": {
+    "english": "Mini Black Wyrm Buff Dummy Lv.11",
+    "korean": "미니 블랙 웜 버프 더미 Lv.11"
+  },
+  "SkillName_Skill_BUFF_MiniBlackWyrm_N_2": {
+    "english": "Mini Black Wyrm Buff Dummy Lv.2",
+    "korean": "미니 블랙 웜 버프 더미 Lv.2"
+  },
+  "SkillName_Skill_BUFF_MiniBlackWyrm_N_3": {
+    "english": "Mini Black Wyrm Buff Dummy Lv.3",
+    "korean": "미니 블랙 웜 버프 더미 Lv.3"
+  },
+  "SkillName_Skill_BUFF_MiniBlackWyrm_N_4": {
+    "english": "Mini Black Wyrm Buff Dummy Lv.4",
+    "korean": "미니 블랙 웜 버프 더미 Lv.4"
+  },
+  "SkillName_Skill_BUFF_MiniBlackWyrm_N_5": {
+    "english": "Mini Black Wyrm Buff Dummy Lv.5",
+    "korean": "미니 블랙 웜 버프 더미 Lv.5"
+  },
+  "SkillName_Skill_BUFF_MiniBlackWyrm_N_6": {
+    "english": "Mini Black Wyrm Buff Dummy Lv.6",
+    "korean": "미니 블랙 웜 버프 더미 Lv.6"
+  },
+  "SkillName_Skill_BUFF_MiniBlackWyrm_N_7": {
+    "english": "Mini Black Wyrm Buff Dummy Lv.7",
+    "korean": "미니 블랙 웜 버프 더미 Lv.7"
+  },
+  "SkillName_Skill_BUFF_MiniBlackWyrm_N_8": {
+    "english": "Mini Black Wyrm Buff Dummy Lv.8",
+    "korean": "미니 블랙 웜 버프 더미 Lv.8"
+  },
+  "SkillName_Skill_BUFF_MiniBlackWyrm_N_9": {
+    "english": "Mini Black Wyrm Buff Dummy Lv.9",
+    "korean": "미니 블랙 웜 버프 더미 Lv.9"
+  },
+  "SkillName_Skill_BUFF_MiniFenrir_N_1": {
+    "english": "Mini Fenrir Buff Dummy Lv.1",
+    "korean": "미니 펜리르 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_MiniFenrir_N_10": {
+    "english": "Mini Fenrir Buff Dummy Lv.10",
+    "korean": "미니 펜리르 버프 더미 Lv.10"
+  },
+  "SkillName_Skill_BUFF_MiniFenrir_N_11": {
+    "english": "Mini Fenrir Buff Dummy Lv.11",
+    "korean": "미니 펜리르 버프 더미 Lv.11"
+  },
+  "SkillName_Skill_BUFF_MiniFenrir_N_2": {
+    "english": "Mini Fenrir Buff Dummy Lv.2",
+    "korean": "미니 펜리르 버프 더미 Lv.2"
+  },
+  "SkillName_Skill_BUFF_MiniFenrir_N_3": {
+    "english": "Mini Fenrir Buff Dummy Lv.3",
+    "korean": "미니 펜리르 버프 더미 Lv.3"
+  },
+  "SkillName_Skill_BUFF_MiniFenrir_N_4": {
+    "english": "Mini Fenrir Buff Dummy Lv.4",
+    "korean": "미니 펜리르 버프 더미 Lv.4"
+  },
+  "SkillName_Skill_BUFF_MiniFenrir_N_5": {
+    "english": "Mini Fenrir Buff Dummy Lv.5",
+    "korean": "미니 펜리르 버프 더미 Lv.5"
+  },
+  "SkillName_Skill_BUFF_MiniFenrir_N_6": {
+    "english": "Mini Fenrir Buff Dummy Lv.6",
+    "korean": "미니 펜리르 버프 더미 Lv.6"
+  },
+  "SkillName_Skill_BUFF_MiniFenrir_N_7": {
+    "english": "Mini Fenrir Buff Dummy Lv.7",
+    "korean": "미니 펜리르 버프 더미 Lv.7"
+  },
+  "SkillName_Skill_BUFF_MiniFenrir_N_8": {
+    "english": "Mini Fenrir Buff Dummy Lv.8",
+    "korean": "미니 펜리르 버프 더미 Lv.8"
+  },
+  "SkillName_Skill_BUFF_MiniFenrir_N_9": {
+    "english": "Mini Fenrir Buff Dummy Lv.9",
+    "korean": "미니 펜리르 버프 더미 Lv.9"
+  },
+  "SkillName_Skill_BUFF_MiniFrigga_N_1": {
+    "english": "Mini Frigga Buff Dummy Lv.1",
+    "korean": "미니 프리가 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_MiniFrigga_N_10": {
+    "english": "Mini Frigga Buff Dummy Lv.10",
+    "korean": "미니 프리가 버프 더미 Lv.10"
+  },
+  "SkillName_Skill_BUFF_MiniFrigga_N_11": {
+    "english": "Mini Frigga Buff Dummy Lv.11",
+    "korean": "미니 프리가 버프 더미 Lv.11"
+  },
+  "SkillName_Skill_BUFF_MiniFrigga_N_2": {
+    "english": "Mini Frigga Buff Dummy Lv.2",
+    "korean": "미니 프리가 버프 더미 Lv.2"
+  },
+  "SkillName_Skill_BUFF_MiniFrigga_N_3": {
+    "english": "Mini Frigga Buff Dummy Lv.3",
+    "korean": "미니 프리가 버프 더미 Lv.3"
+  },
+  "SkillName_Skill_BUFF_MiniFrigga_N_4": {
+    "english": "Mini Frigga Buff Dummy Lv.4",
+    "korean": "미니 프리가 버프 더미 Lv.4"
+  },
+  "SkillName_Skill_BUFF_MiniFrigga_N_5": {
+    "english": "Mini Frigga Buff Dummy Lv.5",
+    "korean": "미니 프리가 버프 더미 Lv.5"
+  },
+  "SkillName_Skill_BUFF_MiniFrigga_N_6": {
+    "english": "Mini Frigga Buff Dummy Lv.6",
+    "korean": "미니 프리가 버프 더미 Lv.6"
+  },
+  "SkillName_Skill_BUFF_MiniFrigga_N_7": {
+    "english": "Mini Frigga Buff Dummy Lv.7",
+    "korean": "미니 프리가 버프 더미 Lv.7"
+  },
+  "SkillName_Skill_BUFF_MiniFrigga_N_8": {
+    "english": "Mini Frigga Buff Dummy Lv.8",
+    "korean": "미니 프리가 버프 더미 Lv.8"
+  },
+  "SkillName_Skill_BUFF_MiniFrigga_N_9": {
+    "english": "Mini Frigga Buff Dummy Lv.9",
+    "korean": "미니 프리가 버프 더미 Lv.9"
+  },
+  "SkillName_Skill_BUFF_MiniHirume_N_1": {
+    "english": "Mini Hirume Buff Dummy Lv.1",
+    "korean": "미니 히루메 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_MiniHirume_N_10": {
+    "english": "Mini Hirume Buff Dummy Lv.10",
+    "korean": "미니 히루메 버프 더미 Lv.10"
+  },
+  "SkillName_Skill_BUFF_MiniHirume_N_11": {
+    "english": "Mini Hirume Buff Dummy Lv.11",
+    "korean": "미니 히루메 버프 더미 Lv.11"
+  },
+  "SkillName_Skill_BUFF_MiniHirume_N_2": {
+    "english": "Mini Hirume Buff Dummy Lv.2",
+    "korean": "미니 히루메 버프 더미 Lv.2"
+  },
+  "SkillName_Skill_BUFF_MiniHirume_N_3": {
+    "english": "Mini Hirume Buff Dummy Lv.3",
+    "korean": "미니 히루메 버프 더미 Lv.3"
+  },
+  "SkillName_Skill_BUFF_MiniHirume_N_4": {
+    "english": "Mini Hirume Buff Dummy Lv.4",
+    "korean": "미니 히루메 버프 더미 Lv.4"
+  },
+  "SkillName_Skill_BUFF_MiniHirume_N_5": {
+    "english": "Mini Hirume Buff Dummy Lv.5",
+    "korean": "미니 히루메 버프 더미 Lv.5"
+  },
+  "SkillName_Skill_BUFF_MiniHirume_N_6": {
+    "english": "Mini Hirume Buff Dummy Lv.6",
+    "korean": "미니 히루메 버프 더미 Lv.6"
+  },
+  "SkillName_Skill_BUFF_MiniHirume_N_7": {
+    "english": "Mini Hirume Buff Dummy Lv.7",
+    "korean": "미니 히루메 버프 더미 Lv.7"
+  },
+  "SkillName_Skill_BUFF_MiniHirume_N_8": {
+    "english": "Mini Hirume Buff Dummy Lv.8",
+    "korean": "미니 히루메 버프 더미 Lv.8"
+  },
+  "SkillName_Skill_BUFF_MiniHirume_N_9": {
+    "english": "Mini Hirume Buff Dummy Lv.9",
+    "korean": "미니 히루메 버프 더미 Lv.9"
+  },
+  "SkillName_Skill_BUFF_MiniPoi_N_1": {
+    "english": "Mini Poi Buff Dummy Lv.1",
+    "korean": "미니 포이 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_MiniPoi_N_10": {
+    "english": "Mini Poi Buff Dummy Lv.10",
+    "korean": "미니 포이 버프 더미 Lv.10"
+  },
+  "SkillName_Skill_BUFF_MiniPoi_N_11": {
+    "english": "Mini Poi Buff Dummy Lv.11",
+    "korean": "미니 포이 버프 더미 Lv.11"
+  },
+  "SkillName_Skill_BUFF_MiniPoi_N_2": {
+    "english": "Mini Poi Buff Dummy Lv.2",
+    "korean": "미니 포이 버프 더미 Lv.2"
+  },
+  "SkillName_Skill_BUFF_MiniPoi_N_3": {
+    "english": "Mini Poi Buff Dummy Lv.3",
+    "korean": "미니 포이 버프 더미 Lv.3"
+  },
+  "SkillName_Skill_BUFF_MiniPoi_N_4": {
+    "english": "Mini Poi Buff Dummy Lv.4",
+    "korean": "미니 포이 버프 더미 Lv.4"
+  },
+  "SkillName_Skill_BUFF_MiniPoi_N_5": {
+    "english": "Mini Poi Buff Dummy Lv.5",
+    "korean": "미니 포이 버프 더미 Lv.5"
+  },
+  "SkillName_Skill_BUFF_MiniPoi_N_6": {
+    "english": "Mini Poi Buff Dummy Lv.6",
+    "korean": "미니 포이 버프 더미 Lv.6"
+  },
+  "SkillName_Skill_BUFF_MiniPoi_N_7": {
+    "english": "Mini Poi Buff Dummy Lv.7",
+    "korean": "미니 포이 버프 더미 Lv.7"
+  },
+  "SkillName_Skill_BUFF_MiniPoi_N_8": {
+    "english": "Mini Poi Buff Dummy Lv.8",
+    "korean": "미니 포이 버프 더미 Lv.8"
+  },
+  "SkillName_Skill_BUFF_MiniPoi_N_9": {
+    "english": "Mini Poi Buff Dummy Lv.9",
+    "korean": "미니 포이 버프 더미 Lv.9"
+  },
+  "SkillName_Skill_BUFF_MiniSnowFeather_N_1": {
+    "english": "Mini Snowfeather Buff Dummy Lv.1",
+    "korean": "미니 스노우페더 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_MiniSnowFeather_N_10": {
+    "english": "Mini Snowfeather Buff Dummy Lv.10",
+    "korean": "미니 스노우페더 버프 더미 Lv.10"
+  },
+  "SkillName_Skill_BUFF_MiniSnowFeather_N_11": {
+    "english": "Mini Snowfeather Buff Dummy Lv.11",
+    "korean": "미니 스노우페더 버프 더미 Lv.11"
+  },
+  "SkillName_Skill_BUFF_MiniSnowFeather_N_2": {
+    "english": "Mini Snowfeather Buff Dummy Lv.2",
+    "korean": "미니 스노우페더 버프 더미 Lv.2"
+  },
+  "SkillName_Skill_BUFF_MiniSnowFeather_N_3": {
+    "english": "Mini Snowfeather Buff Dummy Lv.3",
+    "korean": "미니 스노우페더 버프 더미 Lv.3"
+  },
+  "SkillName_Skill_BUFF_MiniSnowFeather_N_4": {
+    "english": "Mini Snowfeather Buff Dummy Lv.4",
+    "korean": "미니 스노우페더 버프 더미 Lv.4"
+  },
+  "SkillName_Skill_BUFF_MiniSnowFeather_N_5": {
+    "english": "Mini Snowfeather Buff Dummy Lv.5",
+    "korean": "미니 스노우페더 버프 더미 Lv.5"
+  },
+  "SkillName_Skill_BUFF_MiniSnowFeather_N_6": {
+    "english": "Mini Snowfeather Buff Dummy Lv.6",
+    "korean": "미니 스노우페더 버프 더미 Lv.6"
+  },
+  "SkillName_Skill_BUFF_MiniSnowFeather_N_7": {
+    "english": "Mini Snowfeather Buff Dummy Lv.7",
+    "korean": "미니 스노우페더 버프 더미 Lv.7"
+  },
+  "SkillName_Skill_BUFF_MiniSnowFeather_N_8": {
+    "english": "Mini Snowfeather Buff Dummy Lv.8",
+    "korean": "미니 스노우페더 버프 더미 Lv.8"
+  },
+  "SkillName_Skill_BUFF_MiniSnowFeather_N_9": {
+    "english": "Mini Snowfeather Buff Dummy Lv.9",
+    "korean": "미니 스노우페더 버프 더미 Lv.9"
+  },
+  "SkillName_Skill_BUFF_RebootAlpha_N_1": {
+    "english": "Battlefield Reboot Alpha Buff Stack Lv. 1",
+    "korean": "전장 리부트 알파 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_RebootBeta_N_1": {
+    "english": "Battlefield Reboot Beta Buff Stack Lv. 1",
+    "korean": "전장 리부트 베타 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_RebootGamma_N_1": {
+    "english": "Battlefield Reboot Gamma Buff Stack Lv. 1",
+    "korean": "전장 리부트 감마 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_SHCA_N_1": {
+    "english": "Heavy Composite Armor Buff Dummy Lv.1",
+    "korean": "초중량 복합장갑 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_SpikeShield_N_1": {
+    "english": "Spike Shield Buff Dummy Lv.1",
+    "korean": "스파이크 실드 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_BUFF_SpikeShield_N_10": {
+    "english": "Spike Shield Buff Dummy Lv.10",
+    "korean": "스파이크 실드 버프 더미 Lv.10"
+  },
+  "SkillName_Skill_BUFF_SpikeShield_N_11": {
+    "english": "Spike Shield Buff Dummy Lv.11",
+    "korean": "스파이크 실드 버프 더미 Lv.11"
+  },
+  "SkillName_Skill_BUFF_SpikeShield_N_2": {
+    "english": "Spike Shield Buff Dummy Lv.2",
+    "korean": "스파이크 실드 버프 더미 Lv.2"
+  },
+  "SkillName_Skill_BUFF_SpikeShield_N_3": {
+    "english": "Spike Shield Buff Dummy Lv.3",
+    "korean": "스파이크 실드 버프 더미 Lv.3"
+  },
+  "SkillName_Skill_BUFF_SpikeShield_N_4": {
+    "english": "Spike Shield Buff Dummy Lv.4",
+    "korean": "스파이크 실드 버프 더미 Lv.4"
+  },
+  "SkillName_Skill_BUFF_SpikeShield_N_5": {
+    "english": "Spike Shield Buff Dummy Lv.5",
+    "korean": "스파이크 실드 버프 더미 Lv.5"
+  },
+  "SkillName_Skill_BUFF_SpikeShield_N_6": {
+    "english": "Spike Shield Buff Dummy Lv.6",
+    "korean": "스파이크 실드 버프 더미 Lv.6"
+  },
+  "SkillName_Skill_BUFF_SpikeShield_N_7": {
+    "english": "Spike Shield Buff Dummy Lv.7",
+    "korean": "스파이크 실드 버프 더미 Lv.7"
+  },
+  "SkillName_Skill_BUFF_SpikeShield_N_8": {
+    "english": "Spike Shield Buff Dummy Lv.8",
+    "korean": "스파이크 실드 버프 더미 Lv.8"
+  },
+  "SkillName_Skill_BUFF_SpikeShield_N_9": {
+    "english": "Spike Shield Buff Dummy Lv.9",
+    "korean": "스파이크 실드 버프 더미 Lv.9"
+  },
+  "SkillName_Skill_BUFF_WRII_N_1": {
+    "english": "W.R.I.I System Buff Stack Lv.1",
+    "korean": "W.R.I.I 시스템 버프 더미 Lv.1"
+  },
+  "SkillName_Skill_DS_Atalanta_N_1": {
+    "english": "Warrior's Spear",
+    "korean": "전사의 창"
+  },
+  "SkillName_Skill_DS_Atalanta_N_2": {
+    "english": "Boar Drive",
+    "korean": "멧돼지 몰이"
+  },
+  "SkillName_Skill_DS_Atalanta_N_3": {
+    "english": "Radiant Valor",
+    "korean": "빛나는 용맹"
+  },
+  "SkillName_Skill_DS_Atalanta_N_4": {
+    "english": "Peltast Mastery",
+    "korean": "펠타스트 숙련"
+  },
+  "SkillName_Skill_DS_Atalanta_N_5": {
+    "english": "Orca Expeditionary Force",
+    "korean": "오르카 호 원정대"
+  },
+  "SkillName_Skill_DS_Baekto_N_1": {
+    "english": "Magic God's Justice Staff",
+    "korean": "마법신의 정의봉"
+  },
+  "SkillName_Skill_DS_Baekto_N_2": {
+    "english": "Moon Light Chainsaw&n",
+    "korean": "문 라이트 체인소"
+  },
+  "SkillName_Skill_DS_Baekto_N_3": {
+    "english": "Justice will never lose!&n",
+    "korean": "정의는 지지 않아!"
+  },
+  "SkillName_Skill_DS_Baekto_N_4": {
+    "english": "Blessing of the Moon",
+    "korean": "달의 가호"
+  },
+  "SkillName_Skill_DS_Baekto_N_5": {
+    "english": "Defend the helpless.",
+    "korean": "정의의 이름으로 용서치 않겠다!"
+  },
+  "SkillName_Skill_DS_BunnySlayer_N_1": {
+    "english": "Bunny Slam!",
+    "korean": "바니 난무!"
+  },
+  "SkillName_Skill_DS_BunnySlayer_N_2": {
+    "english": "Bunny Destruction Kick!",
+    "korean": "바니 파멸킥!"
+  },
+  "SkillName_Skill_DS_BunnySlayer_N_3": {
+    "english": "Bunny bunny!",
+    "korean": "바니바니!"
+  },
+  "SkillName_Skill_DS_BunnySlayer_N_4": {
+    "english": "Bunny-murder technique",
+    "korean": "바니-살해술"
+  },
+  "SkillName_Skill_DS_BunnySlayer_N_5": {
+    "english": "Burning Spirit of Bunny",
+    "korean": "타오르는 바니의 혼"
+  },
+  "SkillName_Skill_DS_Cloverace_N_1": {
+    "english": "Mace of Friendship",
+    "korean": "우정의 철퇴"
+  },
+  "SkillName_Skill_DS_Cloverace_N_2": {
+    "english": "Friend Storm Kick",
+    "korean": "프렌드 스톰 킥"
+  },
+  "SkillName_Skill_DS_Cloverace_N_3": {
+    "english": "Actress of Friendship",
+    "korean": "우정의 여배우"
+  },
+  "SkillName_Skill_DS_Cloverace_N_4": {
+    "english": "In the Name of Siblings",
+    "korean": "형제자매의 이름으로"
+  },
+  "SkillName_Skill_DS_Cloverace_N_5": {
+    "english": "Villain’s Reckoning",
+    "korean": "악당퇴산"
+  },
+  "SkillName_Skill_DS_Faucre_N_1": {
+    "english": "Hell Inferno",
+    "korean": "헬 인페르노"
+  },
+  "SkillName_Skill_DS_Faucre_N_2": {
+    "english": "Crimson Execution",
+    "korean": "크림슨 익스큐션"
+  },
+  "SkillName_Skill_DS_Faucre_N_3": {
+    "english": "Brainwashing Wave",
+    "korean": "세뇌의 파동"
+  },
+  "SkillName_Skill_DS_Faucre_N_4": {
+    "english": "Evil Lord's Advent!",
+    "korean": "대마왕 강림!"
+  },
+  "SkillName_Skill_DS_Faucre_N_5": {
+    "english": "Shadow of Evil",
+    "korean": "마의 장막"
+  },
+  "SkillName_Skill_DS_Johanna_N_1": {
+    "english": "Nemesis",
+    "korean": "숙적"
+  },
+  "SkillName_Skill_DS_Johanna_N_2": {
+    "english": "Chivalry",
+    "korean": "기사도"
+  },
+  "SkillName_Skill_DS_Johanna_N_3": {
+    "english": "Declaration of Holy War",
+    "korean": "성전 선포"
+  },
+  "SkillName_Skill_DS_Johanna_N_4": {
+    "english": "Indulgence",
+    "korean": "대사"
+  },
+  "SkillName_Skill_DS_Johanna_N_5": {
+    "english": "Patron Saint",
+    "korean": "수호성인"
+  },
+  "SkillName_Skill_DS_Kaen_N_1": {
+    "english": "Enenra Launch",
+    "korean": "엔엔라 사출"
+  },
+  "SkillName_Skill_DS_Kaen_N_2": {
+    "english": "Thousand Red Flames",
+    "korean": "만자천홍"
+  },
+  "SkillName_Skill_DS_Kaen_N_3": {
+    "english": "Shadow of the Crimson Lotus",
+    "korean": "홍련의 암희"
+  },
+  "SkillName_Skill_DS_Kaen_N_4": {
+    "english": "Kaen Shadow Strike II",
+    "korean": "기장닌자 카엔 2호기"
+  },
+  "SkillName_Skill_DS_Kaen_N_5": {
+    "english": "Silent Blade: Swallow Cut",
+    "korean": "츠바메가에시"
+  },
+  "SkillName_Skill_DS_Koyori_N_1": {
+    "english": "Heaven's Blessing",
+    "korean": "천주의 호부"
+  },
+  "SkillName_Skill_DS_Koyori_N_2": {
+    "english": "Spiritual Magic",
+    "korean": "구자의 술법"
+  },
+  "SkillName_Skill_DS_Koyori_N_3": {
+    "english": "Serene Priestess of Justice",
+    "korean": "정의와 미모의 무녀"
+  },
+  "SkillName_Skill_DS_Koyori_N_4": {
+    "english": "Shikigami Basaro",
+    "korean": "식신 바사로"
+  },
+  "SkillName_Skill_DS_Koyori_N_5": {
+    "english": "Immediate Order",
+    "korean": "급급여율령"
+  },
+  "SkillName_Skill_DS_KunoichiEnrai_N_1": {
+    "english": "Homura",
+    "korean": "호무라"
+  },
+  "SkillName_Skill_DS_KunoichiEnrai_N_2": {
+    "english": "Ikazuchi",
+    "korean": "이카즈치"
+  },
+  "SkillName_Skill_DS_KunoichiEnrai_N_3": {
+    "english": "Silver Shadow Technique",
+    "korean": "은형술"
+  },
+  "SkillName_Skill_DS_KunoichiEnrai_N_4": {
+    "english": "Sky's Unknowable Snowflake",
+    "korean": "하늘이 모르는 눈꽃"
+  },
+  "SkillName_Skill_DS_KunoichiEnrai_N_5": {
+    "english": "License Revocation <Murasaki Ryu>",
+    "korean": "면허개전 <무라사키 류>"
+  },
+  "SkillName_Skill_DS_KunoichiKaen_N_1": {
+    "english": "Shiranui",
+    "korean": "시라누이"
+  },
+  "SkillName_Skill_DS_KunoichiKaen_N_2": {
+    "english": "Secret Art [Avatar Descent]",
+    "korean": "오의 [화신강림]"
+  },
+  "SkillName_Skill_DS_KunoichiKaen_N_3": {
+    "english": "Dance of Flames",
+    "korean": "불꽃의 춤"
+  },
+  "SkillName_Skill_DS_KunoichiKaen_N_4": {
+    "english": "One Hit Kill",
+    "korean": "일격필살"
+  },
+  "SkillName_Skill_DS_KunoichiKaen_N_5": {
+    "english": "License Revocation <Murasaki Ryu>",
+    "korean": "면허개전 <무라사키 류>"
+  },
+  "SkillName_Skill_DS_KunoichiShiden_N_1": {
+    "english": "Thunderous Dance",
+    "korean": "뇌화난무"
+  },
+  "SkillName_Skill_DS_KunoichiShiden_N_2": {
+    "english": "Murasaki-ryu Secret Art: Chunroe",
+    "korean": "무라사키류 오의: 춘뢰"
+  },
+  "SkillName_Skill_DS_KunoichiShiden_N_3": {
+    "english": "Master",
+    "korean": "스승"
+  },
+  "SkillName_Skill_DS_KunoichiShiden_N_4": {
+    "english": "Time Sensory Manipulation",
+    "korean": "시간질주의 술법"
+  },
+  "SkillName_Skill_DS_KunoichiShiden_N_5": {
+    "english": "Transformation Technique <Extreme>",
+    "korean": "변화의 술법 <극>"
+  },
+  "SkillName_Skill_DS_KunoichiZero_N_1": {
+    "english": "Stealth",
+    "korean": "은밀"
+  },
+  "SkillName_Skill_DS_KunoichiZero_N_2": {
+    "english": "Thunder God Strike",
+    "korean": "뇌신 일섬"
+  },
+  "SkillName_Skill_DS_KunoichiZero_N_3": {
+    "english": "Void Strike",
+    "korean": "허공 둔"
+  },
+  "SkillName_Skill_DS_KunoichiZero_N_4": {
+    "english": "Acceleration",
+    "korean": "가속"
+  },
+  "SkillName_Skill_DS_KunoichiZero_N_5": {
+    "english": "License Activation <Murasaki Ryu>",
+    "korean": "면허개전 <무라사키 류>"
+  },
+  "SkillName_Skill_DS_MoMo_N_1": {
+    "english": "Magic God's Wand",
+    "korean": "마법신의 요술봉"
+  },
+  "SkillName_Skill_DS_MoMo_N_2": {
+    "english": "Momo-chan's Blade",
+    "korean": "모모찬바라"
+  },
+  "SkillName_Skill_DS_MoMo_N_3": {
+    "english": "End-of-the-century Magical Girl",
+    "korean": "세기말 마법소녀"
+  },
+  "SkillName_Skill_DS_MoMo_N_4": {
+    "english": "Witness Momo!",
+    "korean": "나를 기억해주세요!"
+  },
+  "SkillName_Skill_DS_MoMo_N_5": {
+    "english": "Evolutionary Magical Girl",
+    "korean": "성장형 마법소녀"
+  },
+  "SkillName_Skill_DS_Sarena_N_1": {
+    "english": "Rampage! Hellbent Lance",
+    "korean": "폭주! 헬벤트 랜스"
+  },
+  "SkillName_Skill_DS_Sarena_N_2": {
+    "english": "Breakthrough!! Archdemonic Rush",
+    "korean": "돌파!! 아크데모닉 러시"
+  },
+  "SkillName_Skill_DS_Sarena_N_3": {
+    "english": "Wedge that Casts Off Restraints",
+    "korean": "속박을 벗어던진 쐐기"
+  },
+  "SkillName_Skill_DS_Sarena_N_4": {
+    "english": "Legacy of Goltharion VIII",
+    "korean": "골타리온 Ⅷ세의 유산"
+  },
+  "SkillName_Skill_DS_Sarena_N_5": {
+    "english": "Reunion as Friends",
+    "korean": "친구로서의 재회"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1101": {
+    "english": "◆1 ATK Increase",
+    "korean": "◆1 공격력 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1102": {
+    "english": "◆1 Defense Increase",
+    "korean": "◆1 방어력 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1103": {
+    "english": "◆1 Accuracy Increase",
+    "korean": "◆1 적중 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1104": {
+    "english": "◆1 Critical Increase",
+    "korean": "◆1 치명타 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1105": {
+    "english": "◆1 Evasion Increase",
+    "korean": "◆1 회피 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1106": {
+    "english": "◆1 Action Power Increase",
+    "korean": "◆1 행동력 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1107": {
+    "english": "◆1 Fire Attribute Resistance Increase",
+    "korean": "◆1 화염 속성 저항 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1108": {
+    "english": "◆1 Ice Attribute Resistance Increase",
+    "korean": "◆1 냉기 속성 저항 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1109": {
+    "english": "◆1 Electric Attribute Resistance Increase",
+    "korean": "◆1 전기 속성 저항 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1110": {
+    "english": "◆1 Effect Resistance",
+    "korean": "◆1 효과 저항"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1201": {
+    "english": "◆1 Damage Distribution",
+    "korean": "◆1 피해 분산"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1202": {
+    "english": "◆2 Anti-Light Armor Damage Increase",
+    "korean": "◆2 대 경장 피해량 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1203": {
+    "english": "◆2 Anti-Heavy Armor Damage Increase",
+    "korean": "◆2 대 중장 피해량 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1204": {
+    "english": "◆2 Anti-Mobile Damage Increase",
+    "korean": "◆2 대 기동 피해량 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1205": {
+    "english": "◆2 Focused Attack",
+    "korean": "◆2 집속 공격"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1206": {
+    "english": "◆2 Skill Power Increase (Evasion Proportional)",
+    "korean": "◆2 회피 비례 스킬 위력 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1207": {
+    "english": "◆2 Skill Power Increase (Defense Proportional)",
+    "korean": "◆2 방어력 비례 스킬 위력 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1208": {
+    "english": "◆2 Attacker Critical Value Decrease (Defense Proportional)",
+    "korean": "◆2 방어력 비례 공격자 치명타 수치 감소"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1209": {
+    "english": "◆2 Defense Penetration",
+    "korean": "◆2 방어 관통"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1210": {
+    "english": "◆2 Buff Removal Resistance",
+    "korean": "◆2 강화 해제 저항"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1211": {
+    "english": "◆2 Shield",
+    "korean": "◆2 방어막"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1212": {
+    "english": "◆2 Defense Penetration Resistance (Current HP Proportional)",
+    "korean": "◆2 현재 HP 비례 방어 관통 저항"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1213": {
+    "english": "◆2 Skill Power Increase",
+    "korean": "◆2 스킬 위력 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1301": {
+    "english": "◆3 On Enemy Kill, AP Increase",
+    "korean": "◆3 적 처치 시, AP 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1302": {
+    "english": "◆3 Incoming Damage Reduction",
+    "korean": "◆3 받는 피해 감소"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1303": {
+    "english": "◆3 At Battle Start, AP Increase",
+    "korean": "◆3 전투 개시 시, AP 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1304": {
+    "english": "◆3 When HP ≥ 50%, Re-attack",
+    "korean": "◆3 HP 50%이상, 재공격"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1305": {
+    "english": "◆3 When HP ≥ 50%, Range Increase",
+    "korean": "◆3 HP 50%이상, 사거리 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1306": {
+    "english": "◆3 When HP ≥ 50%, Range Increase",
+    "korean": "◆3 HP 50%이상, 사거리 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1307": {
+    "english": "◆3 Recon",
+    "korean": "◆3 정찰"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1308": {
+    "english": "◆3 Recon 2",
+    "korean": "◆3 정찰 2"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1309": {
+    "english": "◆3 Recon 3",
+    "korean": "◆3 정찰 3"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1310": {
+    "english": "◆3 Recon 4",
+    "korean": "◆3 정찰 4"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1311": {
+    "english": "◆3 Recon 5",
+    "korean": "◆3 정찰 5"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1312": {
+    "english": "◆3 Recon 6",
+    "korean": "◆3 정찰 6"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1313": {
+    "english": "◆3 Recon 7",
+    "korean": "◆3 정찰 7"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1314": {
+    "english": "◆3 Recon 8",
+    "korean": "◆3 정찰 8"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1315": {
+    "english": "◆3 Recon 9",
+    "korean": "◆3 정찰 9"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1316": {
+    "english": "◆3 Recon 10",
+    "korean": "◆3 정찰 10"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_1317": {
+    "english": "◆3 On Hit, Effect Resistance Decrease",
+    "korean": "◆3 적중 시, 효과 저항 감소"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2201": {
+    "english": "◆2 On Hit, AP Increase",
+    "korean": "◆2 적중 시, AP 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2301": {
+    "english": "◆3 On Critical, Incoming Damage Reduction Removal",
+    "korean": "◆3 치명타 시, 받는 피해 감소 해제"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2302": {
+    "english": "◆3 On Hit, AP Decrease",
+    "korean": "◆3 적중 시, AP 감소"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2303": {
+    "english": "◆3 On Critical, Damage Increase",
+    "korean": "◆3 치명타 시, 피해량 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2304": {
+    "english": "◆3 On Critical, Physical Damage",
+    "korean": "◆3 치명타 시, 물리 피해"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2305": {
+    "english": "◆3 On Hit, Incoming Damage Increase",
+    "korean": "◆3 적중 시, 받는 피해 증가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2306": {
+    "english": "◆3 On Hit, ATK Decrease",
+    "korean": "◆3 적중 시, 공격력 감소"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2307": {
+    "english": "◆3 On Hit, Provoke",
+    "korean": "◆3 적중 시, 도발"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2308": {
+    "english": "◆3 On Hit, Provoke 2",
+    "korean": "◆3 적중 시, 도발 2"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2309": {
+    "english": "◆3 On Hit, Provoke 3",
+    "korean": "◆3 적중 시, 도발 3"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2310": {
+    "english": "◆3 On Hit, Provoke 4",
+    "korean": "◆3 적중 시, 도발 4"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2311": {
+    "english": "◆3 On Hit, Provoke 5",
+    "korean": "◆3 적중 시, 도발 5"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2312": {
+    "english": "◆3 On Hit, Provoke 6",
+    "korean": "◆3 적중 시, 도발 6"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2313": {
+    "english": "◆3 On Hit, Provoke 7",
+    "korean": "◆3 적중 시, 도발 7"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2314": {
+    "english": "◆3 On Hit, Provoke 8",
+    "korean": "◆3 적중 시, 도발 8"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2315": {
+    "english": "◆3 On Hit, Provoke 9",
+    "korean": "◆3 적중 시, 도발 9"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2316": {
+    "english": "◆3 On Hit, Provoke 10",
+    "korean": "◆3 적중 시, 도발 10"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2317": {
+    "english": "◆3 On Hit, Cannot Ignore Protection",
+    "korean": "◆3 적중 시, 보호무시 불가"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2318": {
+    "english": "◆3 On Hit, Cannot Ignore Protection 2",
+    "korean": "◆3 적중 시, 보호무시 불가 2"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2319": {
+    "english": "◆3 On Hit, Cannot Ignore Protection 3",
+    "korean": "◆3 적중 시, 보호무시 불가 3"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2320": {
+    "english": "◆3 On Hit, Cannot Ignore Protection 4",
+    "korean": "◆3 적중 시, 보호무시 불가 4"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2321": {
+    "english": "◆3 On Hit, Cannot Ignore Protection 5",
+    "korean": "◆3 적중 시, 보호무시 불가 5"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2322": {
+    "english": "◆3 On Hit, Cannot Ignore Protection 6",
+    "korean": "◆3 적중 시, 보호무시 불가 6"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2323": {
+    "english": "◆3 On Hit, Cannot Ignore Protection 7",
+    "korean": "◆3 적중 시, 보호무시 불가 7"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2324": {
+    "english": "◆3 On Hit, Cannot Ignore Protection 8",
+    "korean": "◆3 적중 시, 보호무시 불가 8"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2325": {
+    "english": "◆3 On Hit, Cannot Ignore Protection 9",
+    "korean": "◆3 적중 시, 보호무시 불가 9"
+  },
+  "SkillName_Skill_ExtPassiveSkill_N_2326": {
+    "english": "◆3 On Hit, Cannot Ignore Protection 10",
+    "korean": "◆3 적중 시, 보호무시 불가 10"
+  },
+  "SkillName_Skill_LC_Chii_N_1": {
+    "english": "Myodo 0-Sik - Kalbaram Storm",
+    "korean": "묘도 0식 - 칼바람 폭풍"
+  },
+  "SkillName_Skill_LC_Chii_N_2": {
+    "english": "The End Called by Predators",
+    "korean": "포식자가 부르는 종말"
+  }
+}

@@ -1,0 +1,4002 @@
+{
+  "BuffDesc1_Effect_MP_MarionnetteDM_V2_TU_52": {
+    "english": "Active Tactics : Damage vs Mobile {0}%",
+    "korean": "능동형 전술 : 대 기동형 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_1": {
+    "english": "Twin Armor-Piercing Autocannon: Mark",
+    "korean": "2연장 장갑관통 속사포 : 표식"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_2": {
+    "english": "Shock Shell Launch : Push Back {0} tiles",
+    "korean": "충격탄 발사 : 뒤로 {0}칸 밀기"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_21": {
+    "english": "Shock Shell Launch : Damage {0}% (self front row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (자신 전열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_22": {
+    "english": "Shock Shell Launch : Damage {0}% (self mid row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (자신 중열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_23": {
+    "english": "Shock Shell Launch : Damage {0}% (target front row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (대상 전열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_24": {
+    "english": "Shock Shell Launch : Damage {0}% (target mid row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (대상 중열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_3": {
+    "english": "Toxic Enhancement Drug Injection : Defense {0}%",
+    "korean": "유독성 강화약 주입 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_31": {
+    "english": "Toxic Enhancement Drug Injection : Effect Resistance {0}%",
+    "korean": "유독성 강화약 주입 : 효과 저항 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_32": {
+    "english": "Toxic Enhancement Drug Injection : Area Damage Distribution {0}% (max)",
+    "korean": "유독성 강화약 주입 : 광역 피해 분산 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_33": {
+    "english": "Toxic Enhancement Drug Injection : Incoming Damage Reduced by {0}%",
+    "korean": "유독성 강화약 주입 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_34": {
+    "english": "Toxic Enhancement Drug Injection : Counterattack with {0}% Power",
+    "korean": "유독성 강화약 주입 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_4": {
+    "english": "Favoritism: Damage Taken Reduced by {0}%",
+    "korean": "편애 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_41": {
+    "english": "Favoritism: Continue battle with {0}% HP",
+    "korean": "편애 : {0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_42": {
+    "english": "Favoritism : Continue Combat with {0}% HP",
+    "korean": "편애 : {0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_5": {
+    "english": "Obsession: Anti-Heavy Damage {0}%",
+    "korean": "집착 : 대 중장형 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_51": {
+    "english": "Obsession: Evasion {0}%",
+    "korean": "집착 : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_1": {
+    "english": "Twin Armor-Piercing Autocannon: Mark",
+    "korean": "2연장 철갑 속사포 : 표식"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_2": {
+    "english": "Shock Round Fire: Push Back {0} Tiles",
+    "korean": "충격탄 발사 : 뒤로 {0}칸 밀기"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_21": {
+    "english": "Shock Round Fire: Damage {0}% (Self Front Row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (자신 전열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_22": {
+    "english": "Shock Round Fire: Damage {0}% (Self Middle Row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (자신 중열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_23": {
+    "english": "Shock Round Fire: Damage {0}% (Target Front Row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (대상 전열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_24": {
+    "english": "Shock Round Fire: Damage {0}% (Target Middle Row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (대상 중열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_3": {
+    "english": "Parallel Distribution System: Action Power {0}%",
+    "korean": "병렬 분산 시스템 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_31": {
+    "english": "Parallel Distributed System: Effect resistance {0}%",
+    "korean": "병렬 분산 시스템 : 효과 저항 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_32": {
+    "english": "Parallel Distributed System: Area damage distribution {0}% (max)",
+    "korean": "병렬 분산 시스템 : 광역 피해 분산 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_4": {
+    "english": "Cross-Type Shield Armor: Damage Taken Reduced by {0}%",
+    "korean": "교차형 차폐 장갑 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_41": {
+    "english": "Cross-Type Shield Armor: Row Protection",
+    "korean": "교차형 차폐 장갑 : 행 보호"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_42": {
+    "english": "Cross-Type Shield Armor: Column Protection",
+    "korean": "교차형 차폐 장갑 : 열 보호"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_43": {
+    "english": "Cross-Type Shield Armor: Damage Taken Reduced by {0}%",
+    "korean": "교차형 차폐 장갑 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_44": {
+    "english": "Cross-Type Shield Armor: Damage Taken Reduced by {0}%",
+    "korean": "교차형 차폐 장갑 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_5": {
+    "english": "Retaliation Protocol: Counterattack at {0}% Power",
+    "korean": "보복 프로토콜 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_51": {
+    "english": "Retaliation Protocol: Counterattack at {0}% Power",
+    "korean": "보복 프로토콜 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_52": {
+    "english": "Retaliation Protocol: Counterattack at {0}% Power",
+    "korean": "보복 프로토콜 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_1": {
+    "english": "Twin Armor-Piercing Autocannon: Mark",
+    "korean": "2연장 철갑 속사포 : 표식"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_2": {
+    "english": "Shock Shell Launch : Push Back {0} tiles",
+    "korean": "충격탄 발사 : 뒤로 {0}칸 밀기"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_21": {
+    "english": "Shock Shell Launch : Damage {0}% (self front row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (자신 전열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_22": {
+    "english": "Shock Shell Launch : Damage {0}% (self mid row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (자신 중열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_23": {
+    "english": "Shock Shell Launch : Damage {0}% (target front row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (대상 전열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_24": {
+    "english": "Shock Shell Launch : Damage {0}% (target mid row)",
+    "korean": "충격탄 발사 : 피해량 {0}% (대상 중열)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_3": {
+    "english": "Parallel Distributed System : Action Points {0}%",
+    "korean": "병렬 분산 시스템 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_31": {
+    "english": "Parallel Distributed System : Effect Resistance {0}%",
+    "korean": "병렬 분산 시스템 : 효과 저항 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_32": {
+    "english": "Parallel Distributed System : Area Damage Distribution {0}% (max)",
+    "korean": "병렬 분산 시스템 : 광역 피해 분산 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_4": {
+    "english": "Cross-Type Reactive Armor: Damage Taken Reduced by {0}%",
+    "korean": "교차형 반응 장갑 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_41": {
+    "english": "Cross-Type Reactive Armor: Row Protection",
+    "korean": "교차형 반응 장갑 : 행 보호"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_42": {
+    "english": "Cross-Type Reactive Armor : Heat Protection",
+    "korean": "교차형 반응 장갑 : 열 보호"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_5": {
+    "english": "Depth Defense Tactics: Counterattack at {0}% Power",
+    "korean": "종심방어 전술 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_51": {
+    "english": "Depth Defense Tactic : Counterattack with {0}% power",
+    "korean": "종심방어 전술 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_V2_TU_52": {
+    "english": "Depth Defense Tactic : Counterattack with {0}% power",
+    "korean": "종심방어 전술 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_1": {
+    "english": "APFSDS: Damage {0}% (Against Heavy)",
+    "korean": "APFSDS : 피해량 {0}% (중장형)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_11": {
+    "english": "APFSDS : Damage {0}% (protector)",
+    "korean": "APFSDS : 피해량 {0}% (보호기)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_12": {
+    "english": "APFSDS : Defense Penetration {0}%",
+    "korean": "APFSDS : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_2": {
+    "english": "Thermite Bombardment: Damage Taken Increased by {0}%",
+    "korean": "테르밋탄 포격 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_3": {
+    "english": "Toxic Enhancement Drug Injection : Incoming Damage Reduced by {0}%",
+    "korean": "유독성 강화약 주입 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_31": {
+    "english": "Toxic Enhancement Drug Injection : Immunity to Incapacitation",
+    "korean": "유독성 강화약 주입 : 행동 불능 면역"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_32": {
+    "english": "Toxic Enhancement Drug Injection : Area Damage Distribution {0}% (max)",
+    "korean": "유독성 강화약 주입 : 광역 피해 분산 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_33": {
+    "english": "Favoritism : Continue Combat with {0}% HP",
+    "korean": "편애 : {0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_34": {
+    "english": "Favoritism : Continue Combat with {0}% HP",
+    "korean": "편애 : {0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_4": {
+    "english": "Bio Recoil Control: Reattack",
+    "korean": "생체 반동 제어 : 재공격"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_41": {
+    "english": "Bio Recoil Control : Accuracy {0}%",
+    "korean": "생체 반동 제어 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_5": {
+    "english": "Resentment: Damage increases by {0}% as own HP decreases",
+    "korean": "원망 : 내 HP가 적을수록 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_1": {
+    "english": "APFSDS: Damage {0}% (Heavy)",
+    "korean": "APFSDS : 피해량 {0}% (중장형)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_11": {
+    "english": "APFSDS: Damage {0}% (Protector)",
+    "korean": "APFSDS : 피해량 {0}% (보호기)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_12": {
+    "english": "APFSDS: Defense Penetration {0}%",
+    "korean": "APFSDS : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_2": {
+    "english": "Napalm Bombardment: Damage Taken Increased by {0}%",
+    "korean": "네이팜탄 포격 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_3": {
+    "english": "Parallel Distribution System: Action Power {0}%",
+    "korean": "병렬 분산 시스템 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_31": {
+    "english": "Parallel Distributed System: Effect resistance {0}%",
+    "korean": "병렬 분산 시스템 : 효과 저항 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_32": {
+    "english": "Parallel Distributed System: Area damage distribution {0}% (max)",
+    "korean": "병렬 분산 시스템 : 광역 피해 분산 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_4": {
+    "english": "Fire Control Network: Reattack",
+    "korean": "사격 통제 네트워크 : 재공격"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_41": {
+    "english": "Fire Control Network: Ignore Shield / Damage Reduction",
+    "korean": "사격 통제 네트워크 : 방어막 / 피해 감소 무시"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_42": {
+    "english": "Fire Control Network: Accuracy {0}%",
+    "korean": "사격 통제 네트워크 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_1": {
+    "english": "APFSDS: Damage {0}% (Heavy)",
+    "korean": "APFSDS : 피해량 {0}% (중장형)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_11": {
+    "english": "APFSDS : Damage {0}% (protector)",
+    "korean": "APFSDS : 피해량 {0}% (보호기)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_12": {
+    "english": "APFSDS : Defense Penetration {0}%",
+    "korean": "APFSDS : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_2": {
+    "english": "Dual-Purpose Incendiary Round: Damage Taken Increased by {0}%",
+    "korean": "이중목적 소이탄 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_3": {
+    "english": "Parallel Distributed System : Action Points {0}%",
+    "korean": "병렬 분산 시스템 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_31": {
+    "english": "Parallel Distributed System : Effect Resistance {0}%",
+    "korean": "병렬 분산 시스템 : 효과 저항 {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_32": {
+    "english": "Parallel Distributed System : Area Damage Distribution {0}% (max)",
+    "korean": "병렬 분산 시스템 : 광역 피해 분산 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_4": {
+    "english": "Recoil Control Device: Reattack",
+    "korean": "반동 제어 장치 : 재공격"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_41": {
+    "english": "Recoil Control Device : Accuracy {0}%",
+    "korean": "반동 제어 장치 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_1": {
+    "english": "Beehive Breaker: Defense Penetration {0}%",
+    "korean": "벌집 부수기 : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_11": {
+    "english": "[Indiscriminate Fire] Ready",
+    "korean": "[무차별 발포] 준비"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_2": {
+    "english": "Indiscriminate Fire: Remove Buff Effects",
+    "korean": "무차별 발포 : 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_21": {
+    "english": "Indiscriminate Fire: Damage {0}%",
+    "korean": "무차별 발포 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_3": {
+    "english": "Come On Come On Come On!: Damage {0}% proportional to own missing HP (Max)",
+    "korean": "덤벼덤벼덤벼! : 자신 HP 반비례 피해량 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_31": {
+    "english": "Splash Splash Splash!: Damage Taken {0}% Decreased",
+    "korean": "덤벙덤벙덤벙! : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_4": {
+    "english": "Battle Focus: Continue battle with {0}% HP",
+    "korean": "전투 초집중 : {0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_41": {
+    "english": "Oh No You Don’t…: Ignore Shield / Damage Reduction",
+    "korean": "어쩔씨구리… : 방어막 / 피해 감소 무시"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_5": {
+    "english": "Super Anti-Air Formation!: Attack Power {0}%",
+    "korean": "슈퍼 대공 포메이션! : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_55": {
+    "english": "Best Friend: Maximum Action Count {0}",
+    "korean": "최고의 친구 : 최대 행동 횟수 {0}"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_56": {
+    "english": "I’m Sorry, Wilson!",
+    "korean": "미안해, 윌슨!"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_1": {
+    "english": "Explosion of Great Ruin: Cooperative Attack",
+    "korean": "큰 파멸의 징조: 협동 공격"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_11": {
+    "english": "Blast of Great Ruin: Defense {0}%",
+    "korean": "큰 파멸의 폭발: 방어력{0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_12": {
+    "english": "Blast of Great Ruin: Defense {0}% (Critical)",
+    "korean": "큰 파멸의 폭발: 방어력{0}% (치명)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_2": {
+    "english": "Omen of Great Ruin: Cooperative Attack",
+    "korean": "큰 파멸의 징조: 협동 공격"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_21": {
+    "english": "Omen of Great Ruin: Damage Increase {0}%",
+    "korean": "큰 파멸의 징조: 피해량 증가{0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_3": {
+    "english": "Deeper Darkness: Defense {0}",
+    "korean": "더 깊은 어둠: 방어력{0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_31": {
+    "english": "Deeper Darkness: Immune to Defense Reduction",
+    "korean": "더 깊은 어둠 : 방어력 감소 면역"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_32": {
+    "english": "Deeper Darkness: Accuracy {0}%",
+    "korean": "더 깊은 어둠: 적중{0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_33": {
+    "english": "Deeper Darkness: Gain AP {0} when attack misses",
+    "korean": "더 깊은 어둠 :미 적중시 AP{0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_4": {
+    "english": "Omen of Deep Corruption: Continuous Physical Damage {0}",
+    "korean": "깊은 타락의 징조: 지속 물리 피해{0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_41": {
+    "english": "Omen of Deep Corruption: Continuous Fire Damage {0}",
+    "korean": "깊은 타락의 징조: 화염 지속 피해{0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_42": {
+    "english": "Omen of Deep Corruption: Continuous Electric Damage {0}",
+    "korean": "깊은 타락의 징조: 전기 지속 피해{0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_43": {
+    "english": "Omen of Deep Corruption: Continuous Cold Damage {0}",
+    "korean": "깊은 타락의 징조: 냉기 지속 피해{0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_44": {
+    "english": "Omen of Deep Corruption: Continuous Fire Damage {0} (When Hit)",
+    "korean": "깊은 타락의 징조: 화염 지속 피해{0} (피격)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_45": {
+    "english": "Omen of Deep Corruption: Continuous Electric Damage {0} (When Hit)",
+    "korean": "깊은 타락의 징조: 전기 지속 피해{0} (피격)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_46": {
+    "english": "Omen of Deep Corruption: Continuous Cold Damage {0} (When Hit)",
+    "korean": "깊은 타락의 징조: 냉기 지속 피해{0} (피격)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_5": {
+    "english": "Unending Tragedy: Continue battle with {0}% HP",
+    "korean": "멈추지 않는 비극: {0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_51": {
+    "english": "Unending Tragedy: Continue battle with {0}% HP upon revival",
+    "korean": "멈추지 않는 비극 :부활 시{0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_52": {
+    "english": "Unending Tragedy: Attack Power {0}%",
+    "korean": "멈추지 않는 비극 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_1": {
+    "english": "Explosion of Ruin: Damage {0}%",
+    "korean": "파멸의 폭발 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_2": {
+    "english": "Ruin: Damage Reduction Weakened by {0}%",
+    "korean": "파멸: 받는 피해 감소 약화 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_21": {
+    "english": "Ruin: Effect Resistance {0}%",
+    "korean": "파멸: 효과 저항 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_22": {
+    "english": "Ruin: Effect Resistance {0}% (Critical)",
+    "korean": "파멸: 효과 저항 {0}% (치명타)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_3": {
+    "english": "Deep Darkness: Continuous Physical Damage {0}",
+    "korean": "깊은 어둠: {0}지속 물리 피해"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_31": {
+    "english": "Deep Darkness: Continuous Electric Damage {0} (Ruin)",
+    "korean": "깊은 어둠: {0}지속 전기 피해 (파멸)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_32": {
+    "english": "Deep Darkness: Continuous Fire Damage {0} (Corruption)",
+    "korean": "깊은 어둠: {0}지속 화염 피해 (타락)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_4": {
+    "english": "Corruption: Action Power {0}%",
+    "korean": "타락: 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_41": {
+    "english": "Omen of Corruption: Counterattack at {0}% Power",
+    "korean": "타락의 징조: {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_5": {
+    "english": "Into the Darkness: Damage Nullified {0} times (2 people)",
+    "korean": "어둠속으로: 피해 무효화 {0}회 (2명)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_51": {
+    "english": "Into the Darkness: Damage Nullified {0} times (3 people)",
+    "korean": "어둠속으로: 피해 무효화 {0}회 (3명)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_52": {
+    "english": "Into the Darkness: Damage Nullified {0} times (4 people)",
+    "korean": "어둠속으로: 피해 무효화 {0}회 (4명)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_53": {
+    "english": "Into the Darkness : AP {0} (Exclusive)",
+    "korean": "어둠속으로 : AP {0} (단독)"
+  },
+  "BuffDesc1_Effect_MP_NightChick13_N_1": {
+    "english": "Steel Rain: Evasion {0}%",
+    "korean": "스틸 레인: 회피 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChick13_N_2": {
+    "english": "Single Target Barrage: Damage {0}%",
+    "korean": "원타겟 난사 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChick13_N_3": {
+    "english": "Executioner Heavy: Critical {0}%",
+    "korean": "처형 중장 : 치명타 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChick13_N_4": {
+    "english": "Executioner Light: Critical {0}%",
+    "korean": "처형 경장 : 치명타 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_1": {
+    "english": "Rapid Freeze Round: Immobilized",
+    "korean": "급속 냉동탄 : 행동 불가"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_11": {
+    "english": "Frostbite: Accuracy {0}%",
+    "korean": "동상 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_3": {
+    "english": "Coolant Leak: Continuous Cold Damage {0}",
+    "korean": "냉매 누출 : 지속 냉기 피해 {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_4": {
+    "english": "Water-Cooled Armor: Minimize Damage",
+    "korean": "수랭식 장갑 : 피해 최소화"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_41": {
+    "english": "Water-Cooled Armor: AP {0}",
+    "korean": "수랭식 장갑 : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_5": {
+    "english": "Thermal Compression Failure: Continuous Electric Damage {0}",
+    "korean": "단열 압축 이상 : 지속 전기 피해 {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_51": {
+    "english": "Compressor Explosion: Attack {0}% fixed damage",
+    "korean": "압축기 폭발 : 공격력 {0}% 고정 피해"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_1": {
+    "english": "Localized EMP Round: Immobilized",
+    "korean": "국소 EMP 탄 : 행동 불가"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_11": {
+    "english": "Circuit Paralysis: Attack Power {0}%",
+    "korean": "회로 마비 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_3": {
+    "english": "Electromagnetic Overcharge: Continuous Electric Damage {0}",
+    "korean": "전자기파 과충전 : 지속 전기 피해 {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_4": {
+    "english": "Magnetic Armor: Minimize Damage",
+    "korean": "자성 장갑 : 피해 최소화"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_41": {
+    "english": "Magnetic Armor: Remove harmful effects",
+    "korean": "자성 장갑 : 해로운 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_5": {
+    "english": "Freezing: Continuous Cold Damage {0}",
+    "korean": "동파 : 지속 냉기 피해 {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_51": {
+    "english": "Battery Explosion: Attack {0}% fixed damage",
+    "korean": "배터리 폭발 : 공격력 {0}% 고정 피해"
+  },
+  "BuffDesc1_Effect_MP_NightChickDE13_N_1": {
+    "english": "Target Acquired: Damage Taken {0}%",
+    "korean": "목표를 포착: 받는 피해 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickDE13_N_2": {
+    "english": "Operation Start: Accuracy {0}%",
+    "korean": "작전을 시작: 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickDE13_N_3": {
+    "english": "Enhanced: Defense {0}%",
+    "korean": "강화가 됨: 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickDE13_N_4": {
+    "english": "Becomes Wiser: Nullify Damage {0} Times",
+    "korean": "현명해 짐 : 피해 무효화 {0}회"
+  },
+  "BuffDesc1_Effect_MP_NightChickDEX13_N_1": {
+    "english": "Scent of Death: Damage Taken {0}%",
+    "korean": "죽음의 냄새: 받는 피해 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickDEX13_N_2": {
+    "english": "Luminous Orb: Accuracy {0}%",
+    "korean": "빛드는 구체 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickDEX13_N_3": {
+    "english": "Now Shine Together: Defense {0}%",
+    "korean": "이제 함께 빛나: 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickDEX13_N_4": {
+    "english": "Remove Nasty Bugs: Nullify Damage {0} Times",
+    "korean": "나쁜 벌레 제거 : 피해 무효화 {0}회"
+  },
+  "BuffDesc1_Effect_MP_NightChickM13_N_1": {
+    "english": "Standard Missile: Remove Buff",
+    "korean": "보통 미사일 : 강화 해제"
+  },
+  "BuffDesc1_Effect_MP_NightChickM13_N_2": {
+    "english": "Anti-Heavy Missile: Remove Buff (Heavy)",
+    "korean": "대 중장형 미사일: 강화 해제 (중장)"
+  },
+  "BuffDesc1_Effect_MP_NightChickM13_N_3": {
+    "english": "Missile Launch Prep: Critical {0}%",
+    "korean": "미사일 발사 준비 : 치명타 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM13_N_4": {
+    "english": "Missile Malfunction Removal: Remove Debuff Effects",
+    "korean": "미사일 고장 제거 : 해로운 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_1": {
+    "english": "S.C Missile Barrage: Damage {0}%",
+    "korean": "S.C 미사일 난사 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_11": {
+    "english": "S.C Missile Barrage: Remove Damage Taken Reduction",
+    "korean": "S.C 미사일 난사 : 받는 피해 감소 해제"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_12": {
+    "english": "S.C Missile Barrage: ACU {0}%",
+    "korean": "S.C 미사일 난사 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_13": {
+    "english": "S.C Missile Barrage: ATK {0}% Fixed Damage",
+    "korean": "S.C 미사일 난사 : 공격력 {0}% 고정 피해"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_2": {
+    "english": "S.C Missile Aimed Launch: Damage {0}%",
+    "korean": "S.C 미사일 조준 발사 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_21": {
+    "english": "S.C Missile Aimed Shot: ACU {0}%",
+    "korean": "S.C 미사일 조준 발사 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_22": {
+    "english": "S.C Missile Aimed Shot: ATK {0}% Fixed Damage",
+    "korean": "S.C 미사일 조준 발사 : 공격력 {0}% 고정 피해"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_3": {
+    "english": "Target Suppression: Defense {0}%",
+    "korean": "표적 견제 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_31": {
+    "english": "Decoy Target Suppression: Defense {0}%",
+    "korean": "위장 표적 견제 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_32": {
+    "english": "Decoy Target Suppression: Defense {0}%",
+    "korean": "위장 표적 견제 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_33": {
+    "english": "Target Suppression: EVA {0}%",
+    "korean": "표적 견제 : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_34": {
+    "english": "Camouflaged Target Suppression: EVA {0}%",
+    "korean": "위장 표적 견제 : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_35": {
+    "english": "Camouflaged Target Suppression: EVA {0}%",
+    "korean": "위장 표적 견제 : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_4": {
+    "english": "Combat Adaptation Circuit: Accuracy {0}%",
+    "korean": "전투 적응 회로 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_41": {
+    "english": "Combat Adaptation Circuit: Immune to Attack Power Reduction",
+    "korean": "전투 적응 회로 : 공격력 감소 면역"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_42": {
+    "english": "Combat Adaptation Circuit: Focused Area Damage {0}% (Max)",
+    "korean": "전투 적응 회로 : 광역 피해 집중{0}% (최대)"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_5": {
+    "english": "S.C Precision Aim Circuit: Accuracy {0}%",
+    "korean": "S.C 정밀 조준 회로 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM_RV_51": {
+    "english": "S.C Precision Aim Circuit: Accuracy {0}%",
+    "korean": "S.C 정밀 조준 회로 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_1": {
+    "english": "Formation Block : Damage Taken Reduction {0}%",
+    "korean": "진법 차단: 받는 피해 감소 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_2": {
+    "english": "Block All Attacks! : Designate Protection Target",
+    "korean": "모든 공격 차단! : 지정 대상 보호"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_21": {
+    "english": "Block All Attacks! : Shield {0} (Self)",
+    "korean": "모든 공격 차단! : 방어막 {0} (자신)"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_3": {
+    "english": "Block Danger : Effect Resistance {0}%",
+    "korean": "위험 차단 : 효과 저항 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_4": {
+    "english": "Block Detour : Remove Debuff Effects",
+    "korean": "우회로 차단 : 해로운 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_5": {
+    "english": "Block Sight : Evasion +{0}%",
+    "korean": "시선 차단 :회피 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickSP13_N_1": {
+    "english": "The Moon Rises... : Ignore Shield / Damage Reduction",
+    "korean": "달이 기운다.. : 방어막/피해 감소 무시"
+  },
+  "BuffDesc1_Effect_MP_NightChickSP13_N_2": {
+    "english": "The Sun Sets... : Evasion {0}%",
+    "korean": "태양이 저문다.. : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickSP13_N_3": {
+    "english": "The Star... Falls : Counterattack with {0}% Power",
+    "korean": "별이..떨어진다 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_MP_NightChickSP13_N_4": {
+    "english": "Protected One : Action Power {0}%",
+    "korean": "보호를 받는군 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickSP13_N_41": {
+    "english": "Protected One : Evasion {0}%",
+    "korean": "보호를 받는군 : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_1": {
+    "english": "S.C Shield Bash: Continuous Physical Damage {0}",
+    "korean": "S.C 방패 강타 : 지속 물리 피해 {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_2": {
+    "english": "S.C Defensive Stance: Designate Protection",
+    "korean": "S.C 방어 태세 : 지정 보호"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_21": {
+    "english": "S.C Defensive Stance: Defense {0}%",
+    "korean": "S.C 방어 태세 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_3": {
+    "english": "Threat Target Suppression: Provoke",
+    "korean": "위협 대상 견제 : 도발"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_31": {
+    "english": "Threat Target Suppression: Skill Power {0}%",
+    "korean": "위협 대상 견제 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_32": {
+    "english": "Threat Target Suppression: Skill Power {0}%",
+    "korean": "위협 대상 견제 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_33": {
+    "english": "Threat Target Suppression: Skill Power {0}%",
+    "korean": "위협 대상 견제 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_34": {
+    "english": "Threat Target Suppression: Skill Power {0}%",
+    "korean": "위협 대상 견제 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_35": {
+    "english": "Threat Target Suppression: Skill Power {0}%",
+    "korean": "위협 대상 견제 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_4": {
+    "english": "Combat Adaptation Circuit : Attack Power {0}",
+    "korean": "전투 적응 회로 : 공격력 {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_41": {
+    "english": "Combat Adaptation Circuit : Fire Attribute Adaptation",
+    "korean": "전투 적응 회로 : 화염 속성 적응"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_42": {
+    "english": "Combat Adaptation Circuit : Cold Attribute Adaptation",
+    "korean": "전투 적응 회로 : 냉기 속성 적응"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_43": {
+    "english": "Combat Adaptation Circuit : Electric Attribute Adaptation",
+    "korean": "전투 적응 회로 : 전기 속성 적응"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_5": {
+    "english": "Imperial Defense Formation : Row Protection",
+    "korean": "칙 방어 진형 : 행 보호"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_51": {
+    "english": "Imperial Defense Formation : Area Damage Distribution {0}% (Max)",
+    "korean": "칙 방어 진형 : 광역 피해 분산 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_52": {
+    "english": "Imperial Defense Formation : Area Skill Power {0}%",
+    "korean": "칙 방어 진형 : 광역 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_1": {
+    "english": "Remove all buffs",
+    "korean": "모든 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_11": {
+    "english": "Active 1 not available",
+    "korean": "액티브 1 사용 불가"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_12": {
+    "english": "Active 2 not available",
+    "korean": "액티브 2 사용 불가"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_13": {
+    "english": "Passive cannot be activated",
+    "korean": "패시브 발동 불가"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_14": {
+    "english": "Empathy stacks 5 times, so the sense of relief is activated",
+    "korean": "공감 5중첩되서 방감 발동"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_15": {
+    "english": "The enemy is activated because the shield is not activated",
+    "korean": "방감 안걸려 있어서 적감 발동"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_16": {
+    "english": "Cannot be strengthened",
+    "korean": "강화 불가"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_2": {
+    "english": "Machine Gun Burst: Damage taken {0}%",
+    "korean": "머신건 연사 : 받는 피해{0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_3": {
+    "english": "Front row and attribute debuff",
+    "korean": "맨 앞열 및 속성 디버프 시"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_31": {
+    "english": "Both are medium heat",
+    "korean": "둘다 중열"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_32": {
+    "english": "Back row 2",
+    "korean": "후열2"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_4": {
+    "english": "Both none",
+    "korean": "둘다 none"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_41": {
+    "english": "Inflicts taunt on the target",
+    "korean": "공격 대상자 도발 부여"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_42": {
+    "english": "No protection is ignored by your skills",
+    "korean": "자신의 스킬에 보호 무시 무여"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_5": {
+    "english": "When the resistance value is not fixed",
+    "korean": "저항 수치 고정이 안걸려 있을 때"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_51": {
+    "english": "When there is 1 person in the adjacent grid",
+    "korean": "인접 그리드에 1명 있을 때"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_52": {
+    "english": "When there are 2 people in adjacent grids",
+    "korean": "인접 그리드에 2명 있을 때"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_53": {
+    "english": "When there is no one in the adjacent grid",
+    "korean": "인접 그리드에 아무도 없을 때"
+  },
+  "BuffDesc1_Effect_MP_NightChickTT2_N_11": {
+    "english": "Area Damage {0}%",
+    "korean": "광역 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickTT_N_11": {
+    "english": "Area Skill Power {0}%",
+    "korean": "광역 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_1": {
+    "english": "Push Back {0} Tiles",
+    "korean": "뒤로 {0}칸 밀기"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_11": {
+    "english": "Fire Attribute Release : Continuous Fire Damage {0}",
+    "korean": "화염 속성 방출 : 지속 화염 피해 {0}"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_12": {
+    "english": "Cold Attribute Release : Continuous Cold Damage {0}",
+    "korean": "냉기 속성 방출 : 지속 냉기 피해 {0}"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_13": {
+    "english": "Electric Attribute Release : Continuous Electric Damage {0}",
+    "korean": "전기 속성 방출 : 지속 전기 피해 {0}"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_2": {
+    "english": "Contamination : Defense {0}%",
+    "korean": "오염 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_3": {
+    "english": "Attribute Absorption : Fire Attribute Absorption",
+    "korean": "속성 흡수: 화염 속성 흡수"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_31": {
+    "english": "Attribute Absorption : Cold Attribute Absorption",
+    "korean": "속성 흡수: 냉기 속성 흡수"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_32": {
+    "english": "Attribute Absorption : Electric Attribute Absorption",
+    "korean": "속성 흡수: 전기 속성 흡수"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_33": {
+    "english": "Side Effect : Cold Attribute Resistance {0}%",
+    "korean": "부작용: 냉기 속성 저항력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_34": {
+    "english": "Side Effect : Electric Attribute Resistance {0}%",
+    "korean": "부작용: 전기 속성 저항력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_35": {
+    "english": "Side Effect : Fire Attribute Resistance {0}%",
+    "korean": "부작용: 화염 속성 저항력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_4": {
+    "english": "Contaminant Leak : Cold Attribute Resistance {0}%",
+    "korean": "오염액 누출 : 냉기 속성 저항력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_41": {
+    "english": "Contaminant Leak : Electric Attribute Resistance {0}%",
+    "korean": "오염액 누출 : 전기 속성 저항력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_42": {
+    "english": "Contaminant Leak : Fire Attribute Resistance {0}%",
+    "korean": "오염액 누출 : 화염 속성 저항력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_43": {
+    "english": "Contaminant Leak : Physical Damage {0}",
+    "korean": "오염액 누출 : 물리 피해 {0}"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_5": {
+    "english": "Protective Instinct : Remove Debuff Effects",
+    "korean": "보호 본능 : 해로운 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_PuppHead_TR_Basic_3": {
+    "english": "Critical Reduction : {0}%",
+    "korean": "치명타 감소 : {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_1": {
+    "english": "Provocation Barrage : Mark",
+    "korean": "도발 난사 : 표식"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_2": {
+    "english": "Focused Strike: Damage {0}%",
+    "korean": "목표 집중 타격 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_3": {
+    "english": "PECS Overlay BIOS : Damage Taken Increase {0}%",
+    "korean": "PECS 오버레이 바이오스 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_31": {
+    "english": "PECS Overlay BIOS : Accuracy {0}%",
+    "korean": "PECS 오버레이 바이오스 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_4": {
+    "english": "Bad Sector : Defense {0}%",
+    "korean": "배드 섹터 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_41": {
+    "english": "Bad Sector : Immobilized",
+    "korean": "배드 섹터 : 행동 불가"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_5": {
+    "english": "Firewall : Effect Resistance Increase {0}%",
+    "korean": "방화벽 : 효과 저항 {0}% 증가"
+  },
+  "BuffDesc1_Effect_MP_PuppetDM_N_1": {
+    "english": "Dead Eye : Ignore Protection Activation",
+    "korean": "데드 아이 : 보호 무시 활성화"
+  },
+  "BuffDesc1_Effect_MP_PuppetDM_N_2": {
+    "english": "Serial Impact: Damage {0}%",
+    "korean": "시리얼 임팩트 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetDM_N_3": {
+    "english": "PECS Overlay BIOS : Accuracy {0}%",
+    "korean": "PECS 오버레이 바이오스 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetDM_N_4": {
+    "english": "Bad Sector : Attack Support",
+    "korean": "배드 섹터 : 공격 지원"
+  },
+  "BuffDesc1_Effect_MP_PuppetHA_N_1": {
+    "english": "Dual Tracer Rapid Cannon : Mark",
+    "korean": "2연장 예광탄 속사포 : 표식"
+  },
+  "BuffDesc1_Effect_MP_PuppetHA_N_2": {
+    "english": "Modified Shock Round: Push back {0} tiles",
+    "korean": "개조 충격탄 발사 : 뒤로 {0}칸 밀기"
+  },
+  "BuffDesc1_Effect_MP_PuppetHA_N_21": {
+    "english": "Modified Shock Round: Immobilize",
+    "korean": "개조 충격탄 발사 : 행동 불가"
+  },
+  "BuffDesc1_Effect_MP_PuppetHA_N_3": {
+    "english": "PECS Overlay BIOS : Defense {0}%",
+    "korean": "PECS 오버레이 바이오스 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetHA_N_4": {
+    "english": "Bad Sector : Designate Protection",
+    "korean": "배드 섹터 : 지정 보호"
+  },
+  "BuffDesc1_Effect_MP_PuppetHW_N_1": {
+    "english": "Depleted Uranium Sabot: Defense Penetration {0}%",
+    "korean": "열화우라늄 날탄 : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetHW_N_11": {
+    "english": "Depleted Uranium Sabot: Damage {0}%",
+    "korean": "열화우라늄 날탄 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetHW_N_2": {
+    "english": "Fatigue Breaker Round : Defense {0}%",
+    "korean": "피로 파괴 유발탄 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetHW_N_3": {
+    "english": "PECS Overlay BIOS : Accuracy {0}%",
+    "korean": "PECS 오버레이 바이오스 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetHW_N_4": {
+    "english": "Bad Sector : AP {0}",
+    "korean": "배드 섹터 : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_Rampart13_N_1": {
+    "english": "Full Machine Gun Suppression : Accuracy {0}%",
+    "korean": "완전 기총 견제: 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Rampart13_N_2": {
+    "english": "Full Intercept Stance : Defense {0}%",
+    "korean": "완전 요격 태세 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Rampart13_N_3": {
+    "english": "Full Defense Formation : Designate Protection Target",
+    "korean": "완전 방어 대형 : 지정 대상 보호"
+  },
+  "BuffDesc1_Effect_MP_Rampart13_N_4": {
+    "english": "Full Hazard Readiness : Remove Debuff Effects",
+    "korean": "완전 위험 대비 : 해로운 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_RampartC_TR_Basic_3": {
+    "english": "Evasion Rate Increase : {0}%",
+    "korean": "회피율 증가 : {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge1_1": {
+    "english": "Toxic Concentration: Damage {0}%",
+    "korean": "조독 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge1_2": {
+    "english": "Confusion Wave : Attack Power {0}%",
+    "korean": "착란 파동 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge1_3": {
+    "english": "Recon Operation : Counterattack with {0}% Power",
+    "korean": "탐색전 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge1_31": {
+    "english": "Recon Operation : Accuracy {0}%",
+    "korean": "탐색전 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge1_4": {
+    "english": "Light-Type Command Disruption : Skill Power {0}%",
+    "korean": "경장 지휘 교란 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge1_5": {
+    "english": "Cowardly Survival Strategy : Immune to Damage Taken Increase",
+    "korean": "비겁한 생존 전략 : 받는 피해 증가 면역"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge1_51": {
+    "english": "Cowardly Survival Strategy : Skill Power {0}%",
+    "korean": "비겁한 생존 전략 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_1": {
+    "english": "Claws of Corrosion : Attack Power {0}%",
+    "korean": "침식의 발톱 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_2": {
+    "english": "Decomposition Accelerating...",
+    "korean": "분해 촉진 중…"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_3": {
+    "english": "Wings Folded : Immune to Attack Power Reduction",
+    "korean": "날개 움츠리기 : 공격력 감소 면역"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_31": {
+    "english": "Wing Retraction: AP {0}",
+    "korean": "날개 움츠리기 : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_32": {
+    "english": "Wings Folded : Attack Power {0}%",
+    "korean": "날개 움츠리기 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_4": {
+    "english": "Heavy-Type Command Disruption : Skill Power {0}%",
+    "korean": "중장 지휘 교란 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_41": {
+    "english": "Decomposition: {0} Continuous Physical Damage",
+    "korean": "분해 : {0} 지속 물리 피해"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge3_1": {
+    "english": "Wedge Shot Barrage: Damage {0}%",
+    "korean": "쐐기탄 난사 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge3_2": {
+    "english": "Tissue Dissolution : Remove Defense Increase",
+    "korean": "조직 융해 : 방어력 증가 해제"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge3_3": {
+    "english": "Wings Spread : Immune to Skill Power Reduction",
+    "korean": "활개 펴기 : 스킬 위력 감소 면역"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge3_31": {
+    "english": "Spreading Wings: Ignore Shield / Damage Reduction",
+    "korean": "활개 펴기 : 방어막 / 피해 감소 무시"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge3_4": {
+    "english": "Mobile-Type Command Disruption : Skill Power {0}%",
+    "korean": "기동 지휘 교란 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_1": {
+    "english": "Particle Collapse in Progress...",
+    "korean": "입자 붕괴 중…"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_3": {
+    "english": "Speed Drive : AP {0}",
+    "korean": "증속 구동 : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_31": {
+    "english": "Acceleration Drive: Energy Accumulation",
+    "korean": "증속 구동 : 에너지 축적"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_32": {
+    "english": "Speed Drive : Remove Debuff Effects",
+    "korean": "증속 구동 : 해로운 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_4": {
+    "english": "Core Meltdown : Skill Power {0}%",
+    "korean": "노심용융 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_41": {
+    "english": "Core Meltdown : Attack Power {0}%",
+    "korean": "노심용융 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_5": {
+    "english": "Particle Collapse: Remove Battle Continuation",
+    "korean": "입자 붕괴 : 전투 속행 해제"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_51": {
+    "english": "Particle Collapse: {0} Continuous Physical Damage",
+    "korean": "입자 붕괴 : {0} 지속 물리 피해"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge5_5": {
+    "english": "Creepy Roar: Disabled",
+    "korean": "소름 끼치는 포효 : 행동 불가"
+  },
+  "BuffDesc1_Effect_MP_RedHood_N_1": {
+    "english": "Quad Auto-Cannon : Attack Power {0}%",
+    "korean": "4연장 기관포 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_RedHood_N_2": {
+    "english": "Critical Strike : Damage +{0}%",
+    "korean": "회심의 일격 : 피해량+{0}%"
+  },
+  "BuffDesc1_Effect_MP_RedHood_N_3": {
+    "english": "Do Not Back Down! : Attack Power +{0}%",
+    "korean": "물러서지마라! : 공격력+{0}%"
+  },
+  "BuffDesc1_Effect_MP_RedHood_N_4": {
+    "english": "No Retreat! : Attack Power +{0}%",
+    "korean": "후퇴는 없다! : 공격력+{0}%"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_1": {
+    "english": "Ship Explosion Prep",
+    "korean": "함선 폭파 준비"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_2": {
+    "english": "All of You Become Fish Food!",
+    "korean": "모조리 물고기 밥이 되어라!"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_3": {
+    "english": "Reactor Overload : Effect Resistance {0}%",
+    "korean": "융합로 과부하 : 효과 저항 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_301": {
+    "english": "Ship Destroyed",
+    "korean": "함선 폭파"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_31": {
+    "english": "7 Rounds Until Ship Destruction",
+    "korean": "함선 폭파까지 7 라운드 남음"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_32": {
+    "english": "6 Rounds Until Ship Destruction",
+    "korean": "함선 폭파까지 6 라운드 남음"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_33": {
+    "english": "5 Rounds Until Ship Destruction",
+    "korean": "함선 폭파까지 5 라운드 남음"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_34": {
+    "english": "4 Rounds Until Ship Destruction",
+    "korean": "함선 폭파까지 4 라운드 남음"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_35": {
+    "english": "3 Rounds Until Ship Destruction",
+    "korean": "함선 폭파까지 3 라운드 남음"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_36": {
+    "english": "2 Rounds Until Ship Destruction",
+    "korean": "함선 폭파까지 2 라운드 남음"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_37": {
+    "english": "1 Round Until Ship Destruction",
+    "korean": "함선 폭파까지 1 라운드 남음"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_38": {
+    "english": "Ship Destroyed",
+    "korean": "함선 폭파"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_39": {
+    "english": "Preparing Self-Destruct",
+    "korean": "자폭 준비"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_4": {
+    "english": "Ship Explosion : Remove All Buff Effects",
+    "korean": "함선 폭파 : 모든 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_41": {
+    "english": "Bombardment Initiated, Ship Destroyed",
+    "korean": "포격 개시, 함선 폭파"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_5": {
+    "english": "Ship Explosion : Remove All Buff Effects",
+    "korean": "함선 폭파 : 모든 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_51": {
+    "english": "Bombardment Initiated, Ship Destroyed",
+    "korean": "포격 개시, 함선 폭파"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_52": {
+    "english": "Self-Destruct: Remove All Buffs",
+    "korean": "자폭 : 모든 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_53": {
+    "english": "Ship Destruction: Change AP to {0}",
+    "korean": "함선 폭파 : AP {0}으로 변경"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_1": {
+    "english": "Special Modified Anti-Air Gun : Evasion {0}%",
+    "korean": "특수 개조 대공포 : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_2": {
+    "english": "Problem Child Command: AP {0}",
+    "korean": "문제아 지휘 : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_3": {
+    "english": "Problem Child Control : Attack Power {0}%",
+    "korean": "문제아 통제 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_4": {
+    "english": "Chairman Mode : Damage Taken Reduction {0}%",
+    "korean": "회장 모드 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_5": {
+    "english": "Protective Supervision : Immune to Immobilization",
+    "korean": "보호 관찰 : 행동 불가 면역"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_51": {
+    "english": "Problem Child Observation : Accuracy {0}%",
+    "korean": "문제아 관찰 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_1": {
+    "english": "Special Modified Extended Cannon: Damage {0}%",
+    "korean": "특수 개조 연장포 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_2": {
+    "english": "Carpet Bombing : Continuous Physical Damage {0}",
+    "korean": "융단 포격 : 지속 물리 피해 {0}"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_21": {
+    "english": "It’s Hard... : Action Power {0}%",
+    "korean": "힘들어요… : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_3": {
+    "english": "Subordinate Control : Attack Power {0}%",
+    "korean": "부하 통제 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_4": {
+    "english": "Boss Mode : Defense Penetration {0}%",
+    "korean": "두목 모드 : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_5": {
+    "english": "Subordinate Observation: Ignore Shields / Damage Reduction",
+    "korean": "부하 관찰 : 방어막 / 피해 감소 무시"
+  },
+  "BuffDesc1_Effect_MP_Sparrow13_N_1": {
+    "english": "Shock Missile : Continuous Electric Damage {0}",
+    "korean": "쇼크 미사일 : 지속 전기 피해 {0}"
+  },
+  "BuffDesc1_Effect_MP_Sparrow13_N_2": {
+    "english": "Alert! Alert! Alert! : Accuracy {0}%",
+    "korean": "경보!경보! 경보!: 적중률 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sparrow13_N_3": {
+    "english": "One Less Thing to Worry About : Defense {0}%",
+    "korean": "걱정거리 하나 덜었군: 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sparrow13_N_4": {
+    "english": "See You Later : Damage Nullification {0} Time",
+    "korean": "나중에 봅시다: 피해 무효화 {0}회"
+  },
+  "BuffDesc1_Effect_MP_Speaker13_N_1": {
+    "english": "Push Back {0} Tiles",
+    "korean": "뒤로 {0}칸 밀기"
+  },
+  "BuffDesc1_Effect_MP_Speaker13_N_2": {
+    "english": "Screeeech! : Defense {0}%",
+    "korean": "끼이이이익! : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Speaker13_N_3": {
+    "english": "Shhhhh! : Attack Power {0}%",
+    "korean": "치이이이익: 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Speaker13_N_4": {
+    "english": "Beep Beep Beep Beep : Evasion {0}%",
+    "korean": "삐삐삐삐 : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Stalker13_N_1": {
+    "english": "Switch : Ignore Shield / Damage Reduction",
+    "korean": "스위치: 방어막 / 피해 감소 무시"
+  },
+  "BuffDesc1_Effect_MP_Stalker13_N_2": {
+    "english": "Target at the Center : Next Attack Critical",
+    "korean": "목표를 센터에 : 다음 공격 치명타"
+  },
+  "BuffDesc1_Effect_MP_Stalker13_N_3": {
+    "english": "Pain Equals Number of Enemies : {0} Continuous Cold Damage",
+    "korean": "고통은 적의 수만큼 : {0} 지속 냉기 피해"
+  },
+  "BuffDesc1_Effect_MP_Stalker13_N_31": {
+    "english": "Delicate Like Glass : Cold Resistance {0}%",
+    "korean": "유리같은 섬세함 : 냉기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Stalker13_N_4": {
+    "english": "Everything Begins Now : Remove Harmful Effects",
+    "korean": "모든 것은 이제부터 : 해로운 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_1": {
+    "english": "Small Explosion : More Damage When Enemy HP Is Lower +{0}%",
+    "korean": "소규모 폭발 : 적 HP% 낮을수록 피해량+{0}%"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_14": {
+    "english": "Flame Reaction : Ignited",
+    "korean": "화염 반응 : 점화됨"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_2": {
+    "english": "Unused Skill",
+    "korean": "미사용 스킬"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_3": {
+    "english": "Big Explosion : Attack Power {0}% Fire Attribute Damage",
+    "korean": "대폭발 : 공격력 {0}% 화염 속성 피해"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_4": {
+    "english": "Flame Reaction : Ignited",
+    "korean": "화염 반응 : 점화됨"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_5": {
+    "english": "Reflection : Counterattack Attack Power {0}%",
+    "korean": "반사 : 공격력 {0}% 반격"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_1": {
+    "english": "Machine Gun Fire : Cooperative Attack",
+    "korean": "기관포 사격 : 협동 공격"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_11": {
+    "english": "Machine Gun Fire: Cooperative Attack",
+    "korean": "기관포 사격 : 협동 공격"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_12": {
+    "english": "Machine Gun Fire: ATK {0}%",
+    "korean": "기관포 사격 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_2": {
+    "english": "Devastation : Remove All Buff Effects",
+    "korean": "초토화 : 모든 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_21": {
+    "english": "Annihilation: Damage {0}%",
+    "korean": "초토화 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_3": {
+    "english": "Active Response Algorithm : Immune to AP Reduction Effects",
+    "korean": "능동 대응 알고리즘 : AP 감소 효과 면역"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_31": {
+    "english": "Active Response Algorithm: ATK {0}%",
+    "korean": "능동 대응 알고리즘 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_32": {
+    "english": "Active Response Algorithm: DEF {0}%",
+    "korean": "능동 대응 알고리즘 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_4": {
+    "english": "Output Increase : Output Increase",
+    "korean": "출력 상승 : 출력 상승"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_41": {
+    "english": "Output Surge: Output Limit Release",
+    "korean": "출력 상승 : 출력 제한 해제"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_42": {
+    "english": "Output Surge: Output Limit Release",
+    "korean": "출력 상승 : 출력 제한 해제"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_5": {
+    "english": "Output Limit Release : Maximum Action Count {0}",
+    "korean": "출력 제한 해제 : 최대 행동 횟수{0}"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_51": {
+    "english": "Output Limit Release: ACU {0}%",
+    "korean": "출력 제한 해제 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Triton_B09_6": {
+    "english": "Self-Destruct",
+    "korean": "자폭"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_1": {
+    "english": "Charge : Attack Power {0}%",
+    "korean": "충전 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_11": {
+    "english": "Charge : Damage Nullification {0} Time",
+    "korean": "충전 : 피해 무효 {0}회"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_2": {
+    "english": "Energy Shield : Shield {0}",
+    "korean": "에너지 실드 : 방어막 {0}"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_21": {
+    "english": "Recharge Initiation: Damage Nullified {0} times",
+    "korean": "재충전 개시 : 피해 무효 {0}회"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_3": {
+    "english": "Recharge Start : Damage Nullification {0} Time",
+    "korean": "재충전 개시 : 피해 무효 {0}회"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_31": {
+    "english": "Recharge Start : Damage Nullification {0} Time",
+    "korean": "재충전 개시 : 피해 무효 {0}회"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_4": {
+    "english": "Shock Conversion : AP {0}",
+    "korean": "충격 전환 : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_41": {
+    "english": "Shock Conversion : AP {0}",
+    "korean": "충격 전환 : AP{0}"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_42": {
+    "english": "Shock Conversion : AP {0}",
+    "korean": "충격 전환 : AP{0}"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_5": {
+    "english": "Emergency Power Release : Change to AP {0}",
+    "korean": "긴급 동력 방출 : AP {0}으로 변경"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_51": {
+    "english": "Emergency Power Release : Disabled",
+    "korean": "긴급 동력 방출 : 행동 불능"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_1": {
+    "english": "Improved Revolver Cannon : Critical {0}%",
+    "korean": "개량형 리볼버 캐논 : 치명타 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_11": {
+    "english": "Cream Cheese Pie: Damage {0}%",
+    "korean": "크림 치즈 파이 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_2": {
+    "english": "Enhanced F.F Missile: Defense Penetration {0}%",
+    "korean": "개량형 F.F 미사일 : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_3": {
+    "english": "180 Degree Turn?! : Designated Protection",
+    "korean": "180도 선회?! : 지정 보호"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_31": {
+    "english": "360 Degree Turn?! : Ignore Shield / Damage Reduction",
+    "korean": "360도 선회?! : 방어막 / 피해 감소 무시"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_4": {
+    "english": "Arrogance: Evasion Reduction Removed",
+    "korean": "거만 : 회피 감소 해제"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_41": {
+    "english": "Prejudice : Accuracy {0}%",
+    "korean": "편견 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_42": {
+    "english": "Bias: Counterattack with {0}% Power",
+    "korean": "편견 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_43": {
+    "english": "Zombie?! : Evasion {0}%",
+    "korean": "좀비?! : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_5": {
+    "english": "Elan! : Damage Taken Decrease {0}%",
+    "korean": "엘랑! : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_55": {
+    "english": "El?an? : Damage Taken Increase {0}%",
+    "korean": "엘?랑? : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Audrey_N_21": {
+    "english": "Sister Outfit Production: AP {0}",
+    "korean": "자매용 의상 제작 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Audrey_N_22": {
+    "english": "Lighter New Material: Evasion {0}%",
+    "korean": "더 가벼운 신소재 : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Audrey_N_23": {
+    "english": "Bestseller: Defense {0}%",
+    "korean": "베스트셀러 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Audrey_N_24": {
+    "english": "Femme Fatale: Attack {0}%",
+    "korean": "팜 파탈 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Audrey_N_41": {
+    "english": "My Dress-Up Sister: Attack {0}%",
+    "korean": "My Dress-Up Sister : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Audrey_N_51": {
+    "english": "Decoration overlay: Shield {0}",
+    "korean": "의장 덧대기 : 방어막 {0}"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_1": {
+    "english": "Suppressing the Uninvited Guest : Provokes target (Barbariana)",
+    "korean": "불청객 제압 : 대상 도발 (바바리아나)"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_11": {
+    "english": "No Entry for Unauthorized Personnel : Skill use disabled",
+    "korean": "관계자 외 출입금지 : 스킬 사용 불가"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_2": {
+    "english": "Demolition Start : Defense {0}%",
+    "korean": "철거 개시 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_21": {
+    "english": "Wrecking Ball: Remove Defense Increase",
+    "korean": "레킹볼 : 방어력 증가 해제"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_22": {
+    "english": "Demolition Start : Damage taken {0}% increased",
+    "korean": "철거 개시 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_3": {
+    "english": "Skilled Demolition Technique : Attack power {0}%",
+    "korean": "숙련된 철거 기술 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_4": {
+    "english": "Demolition Preparation : Designated protection (excluding Protectors)",
+    "korean": "철거 준비 : 지정 보호 (보호기 제외)"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_41": {
+    "english": "Demolition Preparation : Defense penetration {0}%",
+    "korean": "철거 준비 : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_42": {
+    "english": "Demolition Prep: Defense Penetration {0}%",
+    "korean": "철거 준비 : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_43": {
+    "english": "Check Safety Gear: Immune to Defense Penetration Reduction",
+    "korean": "안전 장구 확인 : 방어 관통 감소 면역"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_5": {
+    "english": "Innate Resistance: Remove Harmful Effects",
+    "korean": "타고난 저항 : 해로운 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_51": {
+    "english": "Work Plan Briefing : Critical rate {0}%",
+    "korean": "작업 계획 주지 : 치명타 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_55": {
+    "english": "Hazard Prediction Activated : Defense {0}%",
+    "korean": "위험 예지 실시 :  방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_1": {
+    "english": "Righteous Destruction : Skill power {0}% (max)",
+    "korean": "파사현정 : 스킬 위력 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_11": {
+    "english": "Pasa Hyeon Jeong : Skill Power {0}%",
+    "korean": "파사현정 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_12": {
+    "english": "Pasa Hyeon Jeong : Skill Power {0}%",
+    "korean": "파사현정 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_13": {
+    "english": "Pasa Hyeon Jeong : Range {0}",
+    "korean": "파사현정 : 사거리 {0}"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_14": {
+    "english": "Pasa Hyeon Jeong : Range {0}",
+    "korean": "파사현정 : 사거리 {0}"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_15": {
+    "english": "Pasa Hyeon Jeong : Range {0}",
+    "korean": "파사현정 : 사거리 {0}"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_16": {
+    "english": "Pasa Hyeon Jeong: Skill Power {0}%",
+    "korean": "파사현정 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_2": {
+    "english": "Power of Love : Remove Buffs",
+    "korean": "사랑의 힘 : 강화 해제"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_21": {
+    "english": "Oath of Light : Critical rate {0}%",
+    "korean": "빛의 맹약 : 치명타 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_22": {
+    "english": "Vow of Light : Ignore protection activated",
+    "korean": "빛의 맹서 : 보호 무시 활성화"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_23": {
+    "english": "Trinity : Damage {0}%",
+    "korean": "삼위일체 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_3": {
+    "english": "Universal Love : Remove Row Protection",
+    "korean": "겸애 : 행 보호 해제"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_31": {
+    "english": "Cast the First Stone : Mark",
+    "korean": "내게 돌을 던지라 : 표식"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_32": {
+    "english": "Cast the First Stone at Me : Mark",
+    "korean": "내게 돌을 던지라 : 표식"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_4": {
+    "english": "Praise : Damage taken {0}% reduced",
+    "korean": "예찬 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_41": {
+    "english": "Praise : Incoming Damage Reduced {0}%",
+    "korean": "찬미 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_42": {
+    "english": "Triumph : Range {0}",
+    "korean": "개가 : 사거리 {0}"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_43": {
+    "english": "Guga : Range {0}",
+    "korean": "구가 : 사거리 {0}"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_5": {
+    "english": "An Eye for an Eye : Accuracy {0}%",
+    "korean": "눈에는 눈 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_51": {
+    "english": "An Eye for an Eye : Immunity to Accuracy Reduction",
+    "korean": "눈에는 눈 : 적중 감소 면역"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_52": {
+    "english": "A Tooth for a Tooth : Remove Shield / Damage Reduction Ignore",
+    "korean": "이에는 이 : 방어막 / 피해 감소 무시 해제"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_1": {
+    "english": "Snip Snip~ : Attack power {0}%",
+    "korean": "싹둑싹둑~ : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_11": {
+    "english": "Full Course: Damage {0}%",
+    "korean": "풀 코스 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_12": {
+    "english": "Deluxe Full Course: Damage {0}%",
+    "korean": "디럭스 풀 코스 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_2": {
+    "english": "Smooth and Sleek~ : Defense {0}%",
+    "korean": "매끈매끈~ : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_21": {
+    "english": "Corrosive Acid Shot: Damage {0}%",
+    "korean": "부식액 발사 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_22": {
+    "english": "Special Corrosive Acid Shot: Damage {0}%",
+    "korean": "특제 부식액 발사 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_3": {
+    "english": "Outstanding Dexterity : Accuracy {0}%",
+    "korean": "뛰어난 손재주 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_31": {
+    "english": "Excellent Dexterity: Remove Damage Reduction",
+    "korean": "뛰어난 손재주 : 받는 피해 감소 해제"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_4": {
+    "english": "Cheerful Hairdresser : Attack power {0}%",
+    "korean": "발랄한 미용사 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_5": {
+    "english": "Aqua Land Master Stylist : Ignore protection activated",
+    "korean": "아쿠아 랜드 미용장 : 보호 무시 활성화"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_51": {
+    "english": "Your Hair’s Really Damaged~ : AP {0}",
+    "korean": "손님 머리 많이 상하셨네~ : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_1": {
+    "english": "Meteor-Crushing Drill : Defense {0}% (max)",
+    "korean": "운석 파쇄 드릴 : 방어력 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_11": {
+    "english": "Meteor Crusher Drill: Defense {0}%",
+    "korean": "운석 파쇄 드릴 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_12": {
+    "english": "Meteor Crusher Drill: Defense {0}%",
+    "korean": "운석 파쇄 드릴 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_13": {
+    "english": "Armor: Damage Reduction Release",
+    "korean": "파갑 : 받는 피해 감소 해제"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_14": {
+    "english": "Armor: Damage Reduction Release",
+    "korean": "파갑 : 받는 피해 감소 해제"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_15": {
+    "english": "Mass Driver: [Crush Charge] Cooperative Attack",
+    "korean": "매스 드라이버 : [파쇄 돌격] 협동 공격"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_2": {
+    "english": "Field Deployment : Shield {0}",
+    "korean": "역장 전개 : 방어막 {0}"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_21": {
+    "english": "Barrier Deployment: Designated Protection",
+    "korean": "역장 전개 : 지정 보호"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_22": {
+    "english": "Swing-By: Harmful Effect Release",
+    "korean": "스윙바이 : 해로운 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_23": {
+    "english": "<Computation Overload> Release",
+    "korean": "<연산 과부하> 해소"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_3": {
+    "english": "On the Shoulders of Giants : Evasion {0}%",
+    "korean": "거인의 어깨 위 : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_31": {
+    "english": "Far Sight : Damage taken {0}% reduced",
+    "korean": "멀리 보기 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_310": {
+    "english": "Lazy Lieutenant Sister! : Damage taken reduced by {0}%",
+    "korean": "게으른 부관 언니! : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_32": {
+    "english": "Far Sight: Damage Received {0}% Reduction",
+    "korean": "멀리 보기 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_33": {
+    "english": "Far Sight: Damage Received {0}% Reduction",
+    "korean": "멀리 보기 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_34": {
+    "english": "Far Sight: Damage Received {0}% Reduction",
+    "korean": "멀리 보기 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_35": {
+    "english": "No-Nonsense Sister!: Damage Received {0}% Reduction",
+    "korean": "똑부러지는 언니! : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_36": {
+    "english": "Reliable Sister!: Damage Received {0}% Reduction",
+    "korean": "믿음직한 언니! : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_37": {
+    "english": "Shy Sister!: Damage Received {0}% Reduction",
+    "korean": "부끄럼쟁이 언니! : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_38": {
+    "english": "Stylish Sister!: Damage Received {0}% Reduction",
+    "korean": "멋쟁이 언니! : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_39": {
+    "english": "Lazy Boss Sister! : Reduces damage taken by {0}%",
+    "korean": "게으른 대장 언니! : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_4": {
+    "english": "Orbital Plating : Defense {0}%",
+    "korean": "오비탈 플레이팅 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_41": {
+    "english": "Orbital Plating : Row protection",
+    "korean": "오비탈 플레이팅 : 행 보호"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_42": {
+    "english": "Orbital Plating : Fire resistance {0}%",
+    "korean": "오비탈 플레이팅 : 화염 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_43": {
+    "english": "Orbital Plating : Immune to cold resistance reduction",
+    "korean": "오비탈 플레이팅 : 냉기 저항 감소 면역"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_5": {
+    "english": "Vacuum Insulation : Cold resistance lower limit {0}%",
+    "korean": "진공 단열 : 냉기 저항 하한 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_51": {
+    "english": "Condensation : Minimizes damage below {0}",
+    "korean": "응축 : {0} 이하 피해 최소화"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_52": {
+    "english": "Condensation: Minimize Damage {0} or Below",
+    "korean": "응축 : {0} 이하 피해 최소화"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_53": {
+    "english": "Evaporation : Action power {0}%",
+    "korean": "증발 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_1": {
+    "english": "<Demon Sword: Oath of Darkness> : Damage {0}%",
+    "korean": "<마검 : 어둠의 서약> : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_11": {
+    "english": "<Demon Sword: Oath of Darkness> : Defense {0}%",
+    "korean": "<마검 : 어둠의 서약> : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_12": {
+    "english": "<Demon Sword: Oath of Darkness> : Defense {0}%",
+    "korean": "<마검 : 어둠의 서약> : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_13": {
+    "english": "<Demon Sword: Oath of Darkness> : Defense {0}%",
+    "korean": "<마검 : 어둠의 서약> : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_14": {
+    "english": "<Demon Sword: Oath of Darkness> : Defense {0}%",
+    "korean": "<마검 : 어둠의 서약> : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_15": {
+    "english": "<Demon Sword: Oath of Darkness> : Effect resistance {0}% reduced",
+    "korean": "<마검 : 어둠의 서약> : 효과 저항 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_16": {
+    "english": "<Demon Sword: Oath of Darkness> : Effect resistance {0}% reduced",
+    "korean": "<마검 : 어둠의 서약> : 효과 저항 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_17": {
+    "english": "<Demon Sword: Oath of Darkness> : Effect resistance {0}% reduced",
+    "korean": "<마검 : 어둠의 서약> : 효과 저항 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_18": {
+    "english": "<Demon Sword: Oath of Darkness> : Effect resistance {0}% reduced",
+    "korean": "<마검 : 어둠의 서약> : 효과 저항 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_2": {
+    "english": "Eternal True Ancestor’s Radiance : Counterattack disabled",
+    "korean": "영원한 진조의 섬광 : 반격 해제"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_21": {
+    "english": "Eternal True Ancestor’s Radiance : Damage reduction weakened {0}%",
+    "korean": "영원한 진조의 섬광 : 피해 감소 약화 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_22": {
+    "english": "Eternal True Ancestor’s Radiance : Damage reduction weakened {0}%",
+    "korean": "영원한 진조의 섬광 : 피해 감소 약화 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_23": {
+    "english": "Eternal True Ancestor’s Radiance : Damage reduction weakened {0}%",
+    "korean": "영원한 진조의 섬광 : 피해 감소 약화 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_3": {
+    "english": "<True Ancestor’s Authority: Insight> : Critical rate {0}%",
+    "korean": "<진조의 권능 : 사안> : 치명타 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_31": {
+    "english": "<True Ancestor’s Authority: Fate Manipulation> : Ignore protection activated",
+    "korean": "<진조의 권능 : 운명조작> : 보호 무시 활성화"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_32": {
+    "english": "<True Ancestor’s Authority: Immortality> : Continue battle with {0}% HP",
+    "korean": "<진조의 권능 : 불사> : {0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_4": {
+    "english": "Brimming with Power! : AP {0} (upon battle continuation)",
+    "korean": "힘이 넘쳐 흐르는구나! : AP {0} (전투 속행 시)"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_41": {
+    "english": "Brimming with Power! : Attack power {0}%",
+    "korean": "힘이 넘쳐 흐르는구나! : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_42": {
+    "english": "Brimming with Power! : Attack power {0}%",
+    "korean": "힘이 넘쳐 흐르는구나! : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_43": {
+    "english": "Brimming with Power! : Attack power {0}%",
+    "korean": "힘이 넘쳐 흐르는구나! : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_44": {
+    "english": "Brimming with Power! : Attack power {0}%",
+    "korean": "힘이 넘쳐 흐르는구나! : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_5": {
+    "english": "Curse of Blood : Attack support disabled",
+    "korean": "피의 저주 : 공격 지원 해제"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_51": {
+    "english": "Curse of Blood : Damage taken {0}%",
+    "korean": "피의 저주 : 받는 피해 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_52": {
+    "english": "Curse of Blood : Maximum number of actions {0}",
+    "korean": "피의 저주 : 최대 행동 횟수 {0}"
+  },
+  "BuffDesc1_Effect_PECS_DarkElf_N_5": {
+    "english": "Power of Nature : Attack power {0}",
+    "korean": "자연의 기운 : 공격력{0}"
+  },
+  "BuffDesc1_Effect_PECS_DarkElf_N_51": {
+    "english": "Power of Nature : Accuracy {0}%",
+    "korean": "자연의 기운 : 적중{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_1": {
+    "english": "Out of Safe Range! : {0}% cold additional damage",
+    "korean": "안전 범위 이탈! : {0}% 냉기 추가 피해"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_11": {
+    "english": "Out of Safe Range! : Negate damage {0} times",
+    "korean": "안전 범위 이탈! : 피해 무효화 {0}회"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_2": {
+    "english": "Splash Water Bomb : {0}% cold additional damage",
+    "korean": "스플래시 워터 밤 : {0}% 냉기 추가 피해"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_3": {
+    "english": "Maid of the Sea : Provokes",
+    "korean": "바다의 투희 : 도발"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_31": {
+    "english": "Maid of the Sea : Action power {0}%",
+    "korean": "바다의 투희 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_32": {
+    "english": "Maid of the Sea : Damage taken {0}% increased",
+    "korean": "바다의 투희 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_4": {
+    "english": "Current Equals Weight! : Attack power {0}% (when submerged)",
+    "korean": "유속은 곧… 무게! : 공격력 {0}% (침수 시)"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_41": {
+    "english": "Current Equals Weight! : Removes damage reduction",
+    "korean": "유속은 곧… 무게! : 받는 피해 감소 해제"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_5": {
+    "english": "Golden Workers Torpedo : Cold resistance {0}%",
+    "korean": "골든 워커즈 토르피도 : 냉기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_51": {
+    "english": "Golden Workers Torpedo : Counterattack with {0}% power",
+    "korean": "골든 워커즈 토르피도 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_52": {
+    "english": "Golden Workers Torpedo : Negate damage {0} times",
+    "korean": "골든 워커즈 토르피도 : 피해 무효화 {0}회"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_1": {
+    "english": "Sonic Wave Emission: Remove Buff Effects",
+    "korean": "음파 방출 : 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_2": {
+    "english": "Scar : Mark of Subjugation",
+    "korean": "상흔 : 예속의 징표"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_21": {
+    "english": "Night of the Blood Queen: Attack {0}% Fixed Damage",
+    "korean": "피의 여왕의 밤 : 공격력 {0}% 고정 피해"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_22": {
+    "english": "Servant Release",
+    "korean": "권속 해방"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_3": {
+    "english": "Contempt : Defense penetration {0}%",
+    "korean": "멸시 : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_31": {
+    "english": "Hunger : AP {0}",
+    "korean": "굶주림 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_32": {
+    "english": "Fulfillment : Attack power {0}%",
+    "korean": "충만함 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_33": {
+    "english": "Fullness: Critical {0}%",
+    "korean": "충만함 : 치명타 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_4": {
+    "english": "Servant : Skill use disabled",
+    "korean": "권속 : 스킬 사용 불가"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_5": {
+    "english": "Sonar Detection : Reconnaissance activated",
+    "korean": "음파 탐지 : 정찰 활성화"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_51": {
+    "english": "Sonar Detection : Damage proportional to target HP {0}% (max)",
+    "korean": "음파 탐지 : 대상 HP 반비례 피해량 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_1": {
+    "english": "Shockwave Missile : Push Back {0} tiles",
+    "korean": "충격파 미사일 : 뒤로 {0}칸 밀기"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_2": {
+    "english": "Precision Scan : Damage taken {0}% increased",
+    "korean": "정밀 스캔 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_21": {
+    "english": "Precision Scan : Effect Resistance -{0}%",
+    "korean": "정밀 스캔 : 효과 저항 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_3": {
+    "english": "Afterburner : AP {0}",
+    "korean": "애프터버너 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_31": {
+    "english": "Afterburner : AP {0}",
+    "korean": "애프터버너 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_32": {
+    "english": "Afterburner : AP {0}",
+    "korean": "애프터버너 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_33": {
+    "english": "Afterburner : AP {0}",
+    "korean": "애프터버너 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_34": {
+    "english": "Afterburner : AP {0}",
+    "korean": "애프터버너 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_35": {
+    "english": "Afterburner : Effect Resistance +{0}%",
+    "korean": "애프터버너 : 효과 저항 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_4": {
+    "english": "RWR : Ignore protection activated",
+    "korean": "RWR : 보호 무시 활성화"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_41": {
+    "english": "RWR : Ignore protection deactivated",
+    "korean": "RWR : 보호 무시 비활성화"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_5": {
+    "english": "Constancy Protocol : Action power {0} percent",
+    "korean": "컨스턴시 프로토콜 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_51": {
+    "english": "Reserve Body : Continue battle with {0} percent HP",
+    "korean": "예비 소체 : {0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_52": {
+    "english": "Reserve Sub-body : Continue Combat with {0}% HP",
+    "korean": "예비 소체 : {0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_53": {
+    "english": "Huryu : Remove Evasion Buff",
+    "korean": "후류 : 회피 강화 해제"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_54": {
+    "english": "Breakthrough : Remove Damage Nullification",
+    "korean": "돌파구 : 피해 무효화 해제"
+  },
+  "BuffDesc1_Effect_PECS_ElvenForestmaker_N_5": {
+    "english": "Embrace of Nature : Damage taken {0} percent",
+    "korean": "자연의 포용 : 받는 피해{0}%"
+  },
+  "BuffDesc1_Effect_PECS_ElvenForestmaker_N_51": {
+    "english": "Embrace of Nature : Damage taken {0} percent",
+    "korean": "자연의 포용 : 받는 피해{0}%"
+  },
+  "BuffDesc1_Effect_PECS_ElvenForestmaker_N_52": {
+    "english": "Embrace of Nature : Dispel resistance {0} percent",
+    "korean": "자연의 포용 : 강화 해제 저항{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_1": {
+    "english": "Ice Age : Cold resistance {0} percent",
+    "korean": "아이스 에이지 : 냉기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_11": {
+    "english": "Freeze : Movement disabled",
+    "korean": "빙결 : 이동 불가"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_12": {
+    "english": "Freeze : Damage taken {0} percent increased",
+    "korean": "빙결 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_2": {
+    "english": "Surprise! : Damage {0}%",
+    "korean": "서프라이즈! : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_21": {
+    "english": "Freeze : Action disabled",
+    "korean": "빙결 : 행동 불가"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_3": {
+    "english": "Mimicry : Damage minimized",
+    "korean": "의태 : 피해 최소화"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_31": {
+    "english": "Mimicry : Attack power {0} percent",
+    "korean": "의태 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_32": {
+    "english": "Feign : Minimize damage",
+    "korean": "의태 : 피해 최소화"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_4": {
+    "english": "Polar Countermeasure : Cold resistance {0} percent",
+    "korean": "극지 대비책 : 냉기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_41": {
+    "english": "Polar Countermeasure : AP {0}",
+    "korean": "극지 대비책 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_42": {
+    "english": "Polar Countermeasure (Penguin) : Cold resistance {0}%",
+    "korean": "극지 대비책 (펭귄) : 냉기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_5": {
+    "english": "Antarctic Adventure : Action power {0} percent",
+    "korean": "남극 대모험 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_51": {
+    "english": "Mimicry : Ignore protection activated",
+    "korean": "의태 : 보호 무시 활성화"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_52": {
+    "english": "Jumpscare : Remove buffs",
+    "korean": "점프스케어 : 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_53": {
+    "english": "Freeze Tag : Cold resistance {0} percent",
+    "korean": "얼음땡 : 냉기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_1": {
+    "english": "You are already my fan : Evasion increase removed",
+    "korean": "넌 이미☆나의 FAN : 회피 증가 해제"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_11": {
+    "english": "You are already my fan : Evasion {0} percent",
+    "korean": "넌 이미☆나의 FAN : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_12": {
+    "english": "You are already my fan : Counterattack removed",
+    "korean": "넌 이미☆나의 FAN : 반격 해제"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_13": {
+    "english": "You are already my fan : Charm",
+    "korean": "넌 이미☆나의 FAN : 매혹"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_2": {
+    "english": "Increase ally attack power by {0} percent of own attack power per ally",
+    "korean": "자신 공격력 {0}%만큼 아군 공격력 증가 (인원당)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_21": {
+    "english": "With You: Erato ATK proportional ATK increase (1 person)",
+    "korean": "With You : 에라토 공격력 비례 공격력 증가 (1인)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_22": {
+    "english": "With You: Erato ATK proportional ATK increase (2 people)",
+    "korean": "With You : 에라토 공격력 비례 공격력 증가 (2인)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_23": {
+    "english": "With You: Erato ATK proportional ATK increase (3 people)",
+    "korean": "With You : 에라토 공격력 비례 공격력 증가 (3인)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_24": {
+    "english": "With You: Erato ATK proportional ATK increase (4 people)",
+    "korean": "With You : 에라토 공격력 비례 공격력 증가 (4인)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_3": {
+    "english": "Sweet Melody : AP {0}",
+    "korean": "감미로운 멜로디 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_31": {
+    "english": "Sweet Melody : Immune to attack power reduction (Attacker)",
+    "korean": "감미로운 멜로디 : 공격력 감소 면역 (공격기)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_32": {
+    "english": "Sweet Melody : Immune to defense reduction (Protector)",
+    "korean": "감미로운 멜로디 : 방어력 감소 면역 (보호기)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_33": {
+    "english": "Sweet Melody : Immune to AP reduction (Supporter)",
+    "korean": "감미로운 멜로디 : AP 감소 면역 (지원기)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_34": {
+    "english": "Sweet Melody : Immune to attack power reduction",
+    "korean": "감미로운 멜로디 : 공격력 감소 면역"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_4": {
+    "english": "Journey Binding Dreams : Attack power {0} percent",
+    "korean": "꿈을 묶는 여로 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_41": {
+    "english": "With You : Attack power reduction removed",
+    "korean": "<With You> 공격력 감소 해제"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_42": {
+    "english": "Vocal Prep Complete : Action power {0} percent",
+    "korean": "성대 준비 완료! : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_43": {
+    "english": "Composer : Continue battle with {0} percent HP",
+    "korean": "작곡가님…! : {0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_44": {
+    "english": "Vocal Nodule : Attack power {0} percent (Self)",
+    "korean": "성대 결절 : 공격력 {0}% (자신)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_45": {
+    "english": "Solo Live! : Remove ATK-based attack increase",
+    "korean": "솔로 라이브! : 공격력 비례 공격력 증가 해제"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_46": {
+    "english": "Solo Live! : Remove ATK-based attack increase",
+    "korean": "솔로 라이브! : 공격력 비례 공격력 증가 해제"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_5": {
+    "english": "Fan : Action power {0} percent (Front row)",
+    "korean": "팬 : 행동력 {0}% (전열)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_51": {
+    "english": "Fan: Action Power {0}% (middle row)",
+    "korean": "팬 : 행동력 {0}% (중열)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_52": {
+    "english": "Fan : Action power {0} percent (Rear row)",
+    "korean": "팬 : 행동력 {0}% (후열)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_53": {
+    "english": "Super Fan : Damage taken {0} percent increased (Front row)",
+    "korean": "광팬 : 받는 피해 {0}% 증가 (전열)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_54": {
+    "english": "Super Fan: Damage taken {0}% increase (middle row)",
+    "korean": "광팬 : 받는 피해 {0}% 증가 (중열)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_55": {
+    "english": "Super Fan : Damage taken {0} percent increased (Rear row)",
+    "korean": "광팬 : 받는 피해 {0}% 증가 (후열)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_56": {
+    "english": "Glowstick Fan : Buff disabled (Rear row)",
+    "korean": "형광팬 : 강화 불가 (후열)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_57": {
+    "english": "Glowstick Fan : Buff disabled (Middle row)",
+    "korean": "형광팬 : 강화 불가 (중열)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_58": {
+    "english": "Glowstick Fan : Buff disabled (Front row)",
+    "korean": "형광팬 : 강화 불가 (전열)"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_1": {
+    "english": "Bent Horn : Defense {0} percent",
+    "korean": "휘어진 쇠뿔 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_11": {
+    "english": "Twisted Horn: Self HP-proportional Damage {0}% (Maximum)",
+    "korean": "휘어진 쇠뿔 : 자신 HP 반비례 피해량 {0}% (최대)"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_2": {
+    "english": "Descent of the Radiant Sun : Damage taken {0} percent increased",
+    "korean": "찬란한 태양의 강림 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_21": {
+    "english": "Descent of the Radiant Sun: Removes AoE damage distribution",
+    "korean": "찬란한 태양의 강림 : 광역 피해 분산 해제"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_22": {
+    "english": "Divine Punishment: Range {0}",
+    "korean": "신성한 징벌 : 사거리 {0}"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_23": {
+    "english": "Divine Punishment: Cooperative Attack [Cycle of Life's Loop]",
+    "korean": "신성한 징벌 : [순환하는 생명의 굴레] 협동 공격"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_3": {
+    "english": "Reinforced Exoskeleton YOROI : Effect resistance {0} percent increased",
+    "korean": "강화외골격 YOROI : 효과 저항 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_31": {
+    "english": "Power Source Replacement",
+    "korean": "동력원 교체"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_32": {
+    "english": "Physical Overload: Removes received damage reduction",
+    "korean": "신체 과부하 : 받는 피해 감소 해제"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_33": {
+    "english": "Physical Overload: Damage {0}%",
+    "korean": "신체 과부하 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_34": {
+    "english": "Physical Overload: Self ATK {0}% Physical Damage",
+    "korean": "신체 과부하 : 자신 공격력 {0}% 물리 피해"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_4": {
+    "english": "Bearer’s Fate : Continue battle with {0} percent HP",
+    "korean": "짊어진 자의 숙명 : {0}% HP로 전투 속행"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_42": {
+    "english": "Cycle of Life’s Burden : Attack power {0}",
+    "korean": "순환하는 생명의 멍에 : 공격력 {0}"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_5": {
+    "english": "Cheonuseo : Ignore shield and damage reduction",
+    "korean": "천우서 : 방어막 / 피해 감소 무시"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_51": {
+    "english": "Cheonuseo : AP {0}",
+    "korean": "천우서 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_56": {
+    "english": "Crimson Beer : Action power {0} percent",
+    "korean": "핏빛 맥주 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_HighElven_N_34": {
+    "english": "Purification (Sekhmet): Action Power {0}%",
+    "korean": "정화 (세크메트) : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_HighElven_N_35": {
+    "english": "Purification (Hathor): Action Power {0}%",
+    "korean": "정화 (하토르) : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_1": {
+    "english": "Lightning Line : Accuracy {0} percent",
+    "korean": "라이트닝 라인 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_2": {
+    "english": "Tesla Bolt: Electric Resistance Increase Release",
+    "korean": "테슬라 볼트 : 전기 저항 증가 해제"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_21": {
+    "english": "Tesla Bolt : Electric resistance {0} percent",
+    "korean": "테슬라 볼트 : 전기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_22": {
+    "english": "Tesla Bolt: Damage {0}%",
+    "korean": "테슬라 볼트 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_3": {
+    "english": "Chiara : Evasion {0} percent",
+    "korean": "치아라! : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_31": {
+    "english": "That Mundi Kid...: Counterattack {0}% Power",
+    "korean": "문디 자슥이... : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_32": {
+    "english": "Enough Already!: Evasion {0}%",
+    "korean": "고마해라! : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_33": {
+    "english": "Enough Already!: Effect Resistance {0}% Increase",
+    "korean": "고마해라! : 효과 저항 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_34": {
+    "english": "Hey : Damage proportional to target HP {0} percent",
+    "korean": "마! : 대상 HP 반비례 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_4": {
+    "english": "You and Me : Attack support",
+    "korean": "니캉 내캉 : 공격 지원"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_42": {
+    "english": "You and Me : Attack power {0} percent",
+    "korean": "니캉 내캉 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_43": {
+    "english": "You and Me : Skill power {0} percent",
+    "korean": "니캉 내캉 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_5": {
+    "english": "Astro-Caracol : Damage to light and medium armor {0} percent",
+    "korean": "아스트로-카라콜 : 대 경장형 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hussar_N_52": {
+    "english": "Astro-Caracol : Electric resistance {0} percent",
+    "korean": "아스트로-카라콜 : 전기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_1": {
+    "english": "Flame Spray : Defense {0} percent",
+    "korean": "화염 분사 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_2": {
+    "english": "Flammable Attachment : Critical rate {0} percent",
+    "korean": "인화물 부착 : 치명타 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_21": {
+    "english": "Ember : {0}% fixed fire damage",
+    "korean": "잔불 : {0}% 고정 화염 피해"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_3": {
+    "english": "Adaptive Protective Suit : Defense {0} percent",
+    "korean": "적응형 방호복 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_31": {
+    "english": "Environmental Adaptation : Fire resistance {0} percent",
+    "korean": "환경 적응 : 화염 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_32": {
+    "english": "Environmental Adaptation : Cold resistance {0} percent",
+    "korean": "환경 적응 : 냉기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_33": {
+    "english": "Environmental Adaptation : Electric resistance {0} percent",
+    "korean": "환경 적응 : 전기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_34": {
+    "english": "Environmental Adaptation : Defense {0} percent",
+    "korean": "환경 적응 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_4": {
+    "english": "Agent Cover : Designated target protection (Attacker/Supporter)",
+    "korean": "요원 엄폐 : 지정 대상 보호 (공격기/지원기)"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_41": {
+    "english": "Agent Cover : Heat protection",
+    "korean": "요원 엄폐 : 열 보호"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_42": {
+    "english": "Agent Cover : Damage taken {0} percent reduced",
+    "korean": "요원 엄폐 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_5": {
+    "english": "Model Livens : Range {0}",
+    "korean": "Model_Livens : 사거리 {0}"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_51": {
+    "english": "Annihilation : Counterattack with {0}% power",
+    "korean": "분멸 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_52": {
+    "english": "Calm : Cancel Counterattack",
+    "korean": "진정 : 반격 해제"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_53": {
+    "english": "Annihilation : Counterattack with {0}% power",
+    "korean": "분멸 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_54": {
+    "english": "Flame Shielding : Fire resistance lower limit {0} percent",
+    "korean": "화염 차폐 : 화염 저항 하한 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_55": {
+    "english": "Cold Shielding : Cold resistance lower limit {0} percent",
+    "korean": "냉기 차폐 : 냉기 저항 하한 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_56": {
+    "english": "Electric Shielding : Electric resistance lower limit {0} percent",
+    "korean": "전기 차폐 : 전기 저항 하한 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_57": {
+    "english": "Reignition : Activate Counterattack",
+    "korean": "재점화 : 반격 활성화"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_1": {
+    "english": "Hero Ireina's Attack! : Damage {0}%",
+    "korean": "용사 이레이나의 공격! : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_11": {
+    "english": "Hero Ireina's Attack! : Damage Taken {0}%",
+    "korean": "용사 이레이나의 공격! : 받는 피해 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_12": {
+    "english": "Hero Ireina's Attack! : Defense Increase Removed (On Critical Hit)",
+    "korean": "용사 이레이나의 공격! : 방어력 증가 해제 (치명타 시)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_2": {
+    "english": "Is this all? : Damage {0}%",
+    "korean": "고작 이 정도? : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_21": {
+    "english": "Is this all? : Effect Resistance{0}%",
+    "korean": "고작 이 정도? : 효과 저항{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_22": {
+    "english": "Is this all? : Shield {0} (proportional to defense)",
+    "korean": "고작 이 정도? : 보호막 {0} (방어력 비례)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_3": {
+    "english": "I Can't Sleep Like This! : Secondary Attack Power {0}% (Proportional to Defense)",
+    "korean": "이대론 못 자! : 보조 공격력 {0}% (방어력 비례)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_31": {
+    "english": "I can't sleep like this! : Defense {0}% (Ada Type-G)",
+    "korean": "이대론 못 자! : 방어력 {0}% (에이다 Type-G)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_32": {
+    "english": "I can't sleep like this! : Defense {0}% (Coco in Whiteshell)",
+    "korean": "이대론 못 자! : 방어력 {0}% (코코 인 화이트셸)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_33": {
+    "english": "I Can't Sleep Like This! : Defense {0}% (CM67 Stinger)",
+    "korean": "이대론 못 자! : 방어력 {0}% (CM67 스팅어)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_34": {
+    "english": "I can't sleep like this! : Defense {0}% (Spatoiia)",
+    "korean": "이대론 못 자! : 방어력 {0}% (스파토이아)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_35": {
+    "english": "Can't Sleep Like This! : Defense {0}% (AC-6 Hussar)",
+    "korean": "이대론 못 자! : 방어력 {0}% (AC-6 후사르)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_36": {
+    "english": "I Can't Sleep Like This! : Defense {0}% (Lemonade Epsilon)",
+    "korean": "이대론 못 자! : 방어력 {0}% (레모네이드 엡실론)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_37": {
+    "english": "I Can't Sleep Like This! : Attack Support (Orbital Watcher)",
+    "korean": "이대론 못 자! : 공격 지원 (오비탈 와처)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_4": {
+    "english": "Want to play a game with me? : 2P",
+    "korean": "나랑 같이 게임할래? : 2P"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_41": {
+    "english": "Want to play a game with me? : 1P",
+    "korean": "나랑 같이 게임할래? : 1P"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_42": {
+    "english": "Want to play a game with me? : Attack Power {0}% (2P)",
+    "korean": "나랑 같이 게임할래? : 공격력 {0}% (2P)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_43": {
+    "english": "Want to play a game with me? : Defense {0}% (1P)",
+    "korean": "나랑 같이 게임할래? : 방어력 {0}% (1P)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_5": {
+    "english": "I'll be the tank, you be the damage dealer : Skill Power {0}% (Proportional to Defense)",
+    "korean": "내가 탱커할게 넌 딜러해 : 스킬 위력 {0}% (방어력 비례)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_51": {
+    "english": "I'll be the tank, you be the damage dealer : Designated Protection (2P)",
+    "korean": "내가 탱커할게 넌 딜러해 : 지정 보호 (2P)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_52": {
+    "english": "I'll be the tank, you be the damage dealer : Attack support (2P)",
+    "korean": "내가 탱커할게 넌 딜러해 : 공격 지원 (2P)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_53": {
+    "english": "I'll be the tank, you be the damage dealer : Shield / Ignore damage reduction (Lemonade Epsilon)",
+    "korean": "내가 탱커할게 넌 딜러해 : 방어막 / 피해 감소 무시 (레모네이드 엡실론)"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_101": {
+    "english": "Heir of the True Ancestor : Damage taken {0} percent",
+    "korean": "진조를 계승하는 자 : 받는 피해{0}%"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_102": {
+    "english": "Heir of the True Ancestor : Buff disabled",
+    "korean": "진조를 계승하는 자 : 강화 불가 상태"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_103": {
+    "english": "Heir of the True Ancestor : Cooperative attack",
+    "korean": "진조를 계승하는 자 : 협동 공격"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_201": {
+    "english": "Heir of the True Ancestor : Remove shield and ignore damage reduction effect",
+    "korean": "진조를 계승하는 자 : 방어막 / 받는 피해 감소 무시 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_202": {
+    "english": "Heir of the True Ancestor : Shield removed",
+    "korean": "진조를 계승하는 자 : 방어막 해제"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_203": {
+    "english": "Heir of the True Ancestor : Cooperative attack",
+    "korean": "진조를 계승하는 자 : 협동 공격"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_5": {
+    "english": "Heir of the True Ancestor : Skill power {0} percent",
+    "korean": "진조를 계승하는 자 : 스킬 위력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_51": {
+    "english": "Heir of the True Ancestor : Skill power {0} percent",
+    "korean": "진조를 계승하는 자 : 스킬 위력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeAlpha_N_4": {
+    "english": "Range OS : Range {0} (Ally)",
+    "korean": "사거리 OS : 사거리 {0} (아군)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_1": {
+    "english": "Well... go: Removes Attribute Resistance Reversal.",
+    "korean": "잘… 가요 : 속성 저항 반전 해제"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_11": {
+    "english": "Well... go: Fire Resistance Reversal Release",
+    "korean": "잘… 가요 : 화염 저항 반전 해제"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_12": {
+    "english": "Calming the busy beaver...",
+    "korean": "바쁜 비버 달래는 중…"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_13": {
+    "english": "Moment of Mourning : Damage taken {0} percent reduced",
+    "korean": "애도의 시간 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_14": {
+    "english": "Weapon System Reverse Calculation: Damage Nullification",
+    "korean": "무기 체계 역산 : 피해 무효화"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_2": {
+    "english": "The weather is... nice: Attribute resistance floor unlocked.",
+    "korean": "날이… 좋네요 : 속성 저항 하한 해제"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_21": {
+    "english": "The weather is... nice. : Fire Resistance Lower Limit Unlocked",
+    "korean": "날이… 좋네요 : 화염 저항 하한 해제"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_22": {
+    "english": "Preparing the rubber hose...",
+    "korean": "고무호스 준비중…"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_23": {
+    "english": "Foxlight : Effect resistance {0} percent increased",
+    "korean": "여우볕 : 효과 저항 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_24": {
+    "english": "Tensor Algorithm: AP {0}",
+    "korean": "텐서 알고리즘 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_3": {
+    "english": "Comedy : Cold resistance {0} percent",
+    "korean": "희극 : 냉기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_34": {
+    "english": "Tragedy : Buff disabled",
+    "korean": "비극 : 강화 불가"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_4": {
+    "english": "Melancholy : Electric resistance {0} percent",
+    "korean": "우울 : 전기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_43": {
+    "english": "Cheerful : Action power {0} percent",
+    "korean": "유쾌 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_5": {
+    "english": "Harmony : Fire resistance {0} percent",
+    "korean": "조화 : 화염 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_53": {
+    "english": "Disharmony : Damage taken {0} percent increased",
+    "korean": "부조화 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_1": {
+    "english": "Inception : Remove buff effects on critical hit",
+    "korean": "인셉션 : 치명타 시 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_2": {
+    "english": "Maximum Output : AP {0}",
+    "korean": "최대 출력 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_21": {
+    "english": "Maximum Output : Damage taken increased {0} percent (Unit 1)",
+    "korean": "최대 출력 : 받는 피해 증가 {0}% (전투원 1)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_22": {
+    "english": "Maximum Output: Damage Taken Increased {0}% (Unit 2)",
+    "korean": "최대 출력 : 받는 피해 증가 {0}% (전투원 2)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_23": {
+    "english": "Maximum Output: Damage Taken Increased {0}% (Unit 3)",
+    "korean": "최대 출력 : 받는 피해 증가 {0}% (전투원 3)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_24": {
+    "english": "Maximum Output: Damage Taken Increased {0}% (Unit 4)",
+    "korean": "최대 출력 : 받는 피해 증가 {0}% (전투원 4)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_3": {
+    "english": "Levis : Accuracy {0} percent",
+    "korean": "레비스: 적중 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_31": {
+    "english": "Levis (Attacker) : Attack power {0} percent",
+    "korean": "레비스(공격기): 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_32": {
+    "english": "Levis (Attacker) : Attack power {0} percent (Orbital Watcher)",
+    "korean": "레비스(공격기): 공격력 {0}% (오비탈 와쳐)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_33": {
+    "english": "Levis (Defender) : Damage taken reduced {0} percent",
+    "korean": "레비스(보호기): 받는 피해 감소 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_34": {
+    "english": "Levis (Defender) : Damage taken reduced {0} percent (Orbital Watcher)",
+    "korean": "레비스(보호기): 받는 피해 감소 {0}% (오비탈 와쳐)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_35": {
+    "english": "Levis : Counterattack with {0} percent power",
+    "korean": "레비스 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_36": {
+    "english": "Levis (Supporter) : Action power {0} percent",
+    "korean": "레비스(지원기): 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_37": {
+    "english": "Levis (Supporter) : Action power {0} percent (Orbital Watcher)",
+    "korean": "레비스(지원기): 행동력 {0}% (오비탈 와쳐)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_38": {
+    "english": "Do It For Me : Nullify damage {0} times",
+    "korean": "대신 해줘 : 피해 무효화 {0}회"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_4": {
+    "english": "Penna : Defense {0} percent",
+    "korean": "펜나: 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_41": {
+    "english": "Penna : Effect resistance reduced {0} percent (Inception)",
+    "korean": "펜나 : 효과 저항 {0}% 감소 (인셉션)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_42": {
+    "english": "Penna : Defense {0} percent (Maximum Output)",
+    "korean": "펜나: 방어력 {0}% (최대 출력)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_5": {
+    "english": "Gravis : Accuracy {0} percent",
+    "korean": "그라비스: 적중 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_51": {
+    "english": "Gravis : Accuracy {0} percent (Inception)",
+    "korean": "그라비스: 적중 {0}% (인셉션)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_52": {
+    "english": "Gravis : Action power {0} percent (Maximum Output)",
+    "korean": "그라비스: 행동력 {0}% (최대 출력)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_1": {
+    "english": "Sonic Fist : Defense {0} percent",
+    "korean": "소닉 피스트 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_2": {
+    "english": "Infinity Rage : Counterattack effect removed",
+    "korean": "인피니티 레이지 : 반격 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_21": {
+    "english": "Infinity Rage: Damage {0}%",
+    "korean": "인피니티 레이지 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_3": {
+    "english": "Muspelheim : Defense penetration {0} percent",
+    "korean": "무스펠헤임 : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_31": {
+    "english": "For the Captain : Attack power {0} percent",
+    "korean": "대장을 위해! : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_32": {
+    "english": "For the Captain! : Attack Power {0}% (Merope)",
+    "korean": "대장을 위해! : 공격력 {0}% (메로페)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_33": {
+    "english": "For the Captain! : Attack Power {0}% (Rode)",
+    "korean": "대장을 위해! : 공격력 {0}% (로데)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_34": {
+    "english": "For the Captain! : Attack Power {0}% (Merlin)",
+    "korean": "대장을 위해! : 공격력 {0}% (멀린)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_4": {
+    "english": "Berserker : Remove harmful effects",
+    "korean": "버서커 : 해로운 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_41": {
+    "english": "Berserker : Skill power {0} percent",
+    "korean": "버서커 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_5": {
+    "english": "Avenger : Continue battle with {0} HP",
+    "korean": "어벤저 : {0} HP 전투 속행"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_51": {
+    "english": "Avenger : Effect resistance {0} percent",
+    "korean": "어벤저 : 효과 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_52": {
+    "english": "Avenger : Counterattack with {0} percent power",
+    "korean": "어벤저 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_1": {
+    "english": "Jaw Strike : Defense {0} percent",
+    "korean": "앞턱따기 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_11": {
+    "english": "Crossing Saw Blades: Large and Medium Damage {0}%",
+    "korean": "교차하는 톱날 : 대 중장형 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_2": {
+    "english": "Attempted Dialogue: Damage {0}%",
+    "korean": "대화 시도 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_21": {
+    "english": "Attempted Dialogue: Damage {0}%",
+    "korean": "대화 시도 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_22": {
+    "english": "Logging Permit: Remove Buffs",
+    "korean": "벌목허가 : 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_23": {
+    "english": "Logging Permit: Remove Buffs",
+    "korean": "벌목허가 : 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_3": {
+    "english": "Let’s Go All Out : Attack power {0} percent",
+    "korean": "화끈하게 가보자고! : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_31": {
+    "english": "Let's Go All Out!: Defense Penetration {0}%",
+    "korean": "화끈하게 가보자고! : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_310": {
+    "english": "6th Clutch!!!: AP {0}",
+    "korean": "6단 클러치!!! : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_32": {
+    "english": "1st Clutch: AP {0}",
+    "korean": "1단 클러치 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_33": {
+    "english": "2nd Clutch: AP {0}",
+    "korean": "2단 클러치 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_34": {
+    "english": "3rd Clutch: AP {0}",
+    "korean": "3단 클러치 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_35": {
+    "english": "4th Clutch: AP {0}",
+    "korean": "4단 클러치 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_36": {
+    "english": "Go Even Harder!!: ATK {0}%",
+    "korean": "더 화끈하게 가보자고!! : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_37": {
+    "english": "Go Even Harder!!: Defense Penetration {0}%",
+    "korean": "더 화끈하게 가보자고!! : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_38": {
+    "english": "2nd Clutch!: AP {0}",
+    "korean": "2단 클러치! : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_39": {
+    "english": "4th Clutch!!: AP {0}",
+    "korean": "4단 클러치!! : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_4": {
+    "english": "Registration : Damage taken {0} percent increased",
+    "korean": "입목등기 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_41": {
+    "english": "Arbor Strike: Damage Taken {0}% Increase",
+    "korean": "입목등기 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_5": {
+    "english": "Diamond Chain : Critical rate {0} percent",
+    "korean": "다이아몬드 체인 : 치명타 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_1": {
+    "english": "Heroine Nightmare : Damage {0} percent",
+    "korean": "헤로인 나이트 메어 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_11": {
+    "english": "Heroine Nightmare : Cannot move",
+    "korean": "헤로인 나이트 메어 : 이동 불가"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_12": {
+    "english": "Heroine Nightmare : Cannot act",
+    "korean": "헤로인 나이트 메어 : 행동 불가"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_13": {
+    "english": "Heroine Nightmare : Cannot use skills",
+    "korean": "헤로인 나이트 메어 : 스킬 사용 불가"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_14": {
+    "english": "Heroine Nightmare : Remove buffs",
+    "korean": "헤로인 나이트 메어 : 강화 해제"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_2": {
+    "english": "Now, Look Here Please : Brainwash",
+    "korean": "자, 여기를 봐주세요 : 세뇌"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_21": {
+    "english": "Now, Look Here Please : Critical rate {0} percent (Attacker)",
+    "korean": "자, 여기를 봐주세요 : 치명타 {0}% (공격기)"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_22": {
+    "english": "Now, Look Here Please : Damage taken reduced {0} percent (Defender)",
+    "korean": "자, 여기를 봐주세요 : 받는 피해 감소 {0}% (보호기)"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_23": {
+    "english": "Now, Look Here Please : AP {0} (Supporter)",
+    "korean": "자, 여기를 봐주세요 : AP {0} (지원기)"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_3": {
+    "english": "Deep Breath : AP {0}",
+    "korean": "심호흡 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_31": {
+    "english": "I’m Nervous : Attack power {0} percent",
+    "korean": "긴장 돼…. : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_4": {
+    "english": "Therapy : Attack power {0} percent",
+    "korean": "테라피 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_41": {
+    "english": "I’m Sleepy Meow : Attack power {0} percent",
+    "korean": "졸리다 냥…. : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_5": {
+    "english": "Feeling Relaxed : Accuracy {0} percent",
+    "korean": "긴장이 풀렸어요! : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_51": {
+    "english": "Feeling Relaxed : Skill power {0} percent",
+    "korean": "긴장이 풀렸어요! : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_1": {
+    "english": "Big Gun : Damage taken {0} percent increased",
+    "korean": "빅 건 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_11": {
+    "english": "Priority Target: Damage {0}%",
+    "korean": "우선 처리 대상 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_2": {
+    "english": "UNREP : AP {0}",
+    "korean": "UNREP : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_21": {
+    "english": "Knight of the Round Table : Counterattack with {0} percent power",
+    "korean": "원탁의 기사 : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_3": {
+    "english": "Caladbolg : Attack power {0} percent",
+    "korean": "Caladbolg : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_32": {
+    "english": "Sheath : Damage taken reduced {0} percent",
+    "korean": "칼집 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_34": {
+    "english": "Lightning Strike : Action power {0} percent",
+    "korean": "벼락 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_4": {
+    "english": "Avalon: Effect Resistance / Accuracy {0}% (1 Unit)",
+    "korean": "Avalon : 효과 저항 / 적중 {0}% (1기)"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_41": {
+    "english": "Avalon : Effect resistance {0} percent increased",
+    "korean": "Avalon : 효과 저항 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_46": {
+    "english": "UNREP: AP {0}",
+    "korean": "UNREP : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_5": {
+    "english": "Output Limit ‘Partial’ Release : Ignore protection activated",
+    "korean": "출력 제한 '일부' 해제 : 보호 무시 활성화"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_1": {
+    "english": "Atelier Cleaning : Attack power {0} percent",
+    "korean": "아틀리에 청소 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_11": {
+    "english": "Atelier Cleaning : Action power {0} percent",
+    "korean": "아틀리에 청소 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_2": {
+    "english": "Tailored Masterpiece : Attack power {0} percent (Attacker)",
+    "korean": "맞춤형 걸작 : 공격력 {0}% (공격기)"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_21": {
+    "english": "Tailored Masterpiece : Damage taken reduced {0} percent (Defender)",
+    "korean": "맞춤형 걸작 : 받는 피해 {0}% 감소 (보호기)"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_22": {
+    "english": "Tailored Masterpiece : Action power {0} percent (Supporter)",
+    "korean": "맞춤형 걸작 : 행동력 {0}% (지원기)"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_3": {
+    "english": "Girl of the Atelier : Attack power {0} percent",
+    "korean": "아틀리에의 소녀 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_31": {
+    "english": "Girl of the Atelier : Ignore shield and damage reduction",
+    "korean": "아틀리에의 소녀 : 방어막 / 피해 감소 무시"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_4": {
+    "english": "Protective Instinct Triggered : Marked",
+    "korean": "보호본능 유발 : 표식"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_41": {
+    "english": "Ouch! : AP {0}",
+    "korean": "아야! : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_5": {
+    "english": "Unshakable Conviction : Effect resistance {0} percent increased",
+    "korean": "흔들리지 않는 신념 : 효과 저항 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_51": {
+    "english": "Custom Masterpiece : ATK {0}%",
+    "korean": "맞춤형 걸작 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_52": {
+    "english": "Custom Masterpiece : Damage Taken {0}% Reduction",
+    "korean": "맞춤형 걸작 : 받는 피해 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_53": {
+    "english": "Custom Masterpiece : Action Power {0}%",
+    "korean": "맞춤형 걸작 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_57": {
+    "english": "TACTICS Level Five",
+    "korean": "TACTICS Lv.5"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_1": {
+    "english": "Barbell Smash : Damage Taken {0}% Increase",
+    "korean": "바벨 분쇄 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_2": {
+    "english": "Mach Sprint : AP {0}",
+    "korean": "마하 스프린트 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_21": {
+    "english": "Mach Sprint : Incapacitation",
+    "korean": "마하 스프린트 : 행동 불능"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_22": {
+    "english": "Mach Sprint : Incapacitation",
+    "korean": "마하 스프린트 : 행동 불능"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_23": {
+    "english": "Mach Sprint : Incapacitation",
+    "korean": "마하 스프린트 : 행동 불능"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_3": {
+    "english": "Super Pump Up : Attack power {0} percent",
+    "korean": "초 펌핑 업 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_31": {
+    "english": "Follow Along : ATK {0}%",
+    "korean": "따라해 보세요 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_32": {
+    "english": "Pumping : ATK {0}%",
+    "korean": "펌핑 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_33": {
+    "english": "Pumping : Action Power {0}%",
+    "korean": "펌핑 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_34": {
+    "english": "Warming Up Complete",
+    "korean": "워밍 업 종료"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_35": {
+    "english": "Follow Along : ATK {0}%",
+    "korean": "따라해 보세요 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_36": {
+    "english": "Pumping : ATK {0}%",
+    "korean": "펌핑 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_37": {
+    "english": "Pumping : Action Power {0}%",
+    "korean": "펌핑 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_4": {
+    "english": "PT : Gained experience increased {0} percent",
+    "korean": "PT : 획득 경험치 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_41": {
+    "english": "PT : EXP Gain {0}% Increase",
+    "korean": "PT : 획득 경험치 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_42": {
+    "english": "PT : Defense Penetration {0}%",
+    "korean": "PT : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_43": {
+    "english": "PT : Defense Penetration {0}%",
+    "korean": "PT : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_5": {
+    "english": "Miss Olympia : Effect resistance {0} percent increased",
+    "korean": "미스 올림피아 : 효과 저항 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_51": {
+    "english": "One More Set : Defense Penetration {0}%",
+    "korean": "한 세트 더 : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_52": {
+    "english": "Thanks to You All!",
+    "korean": "여러분 덕이에요!"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_1": {
+    "english": "Barbell Strike : Damage {0}%",
+    "korean": "바벨 강타 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_2": {
+    "english": "Sprint : AP {0}",
+    "korean": "스프린트 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_3": {
+    "english": "Bulk Up : Attack power {0} percent",
+    "korean": "벌크 업 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_31": {
+    "english": "Bulk Up : Action Power {0}%",
+    "korean": "벌크 업 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_32": {
+    "english": "Dry Out : Skill Enhancement",
+    "korean": "드라이 아웃 : 스킬 강화"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_33": {
+    "english": "Dry Out : Skill Enhancement",
+    "korean": "드라이 아웃 : 스킬 강화"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_34": {
+    "english": "Gathering Energy… : ATK {0}%",
+    "korean": "기를 모으는 중… : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_4": {
+    "english": "PT : Gained experience increased {0} percent",
+    "korean": "PT : 획득 경험치 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_41": {
+    "english": "PT : EXP Gain {0}% Increase",
+    "korean": "PT : 획득 경험치 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_42": {
+    "english": "PT : EXP Gain {0}% Increase",
+    "korean": "PT : 획득 경험치 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_43": {
+    "english": "PT : EXP Gain {0}% Increase",
+    "korean": "PT : 획득 경험치 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_44": {
+    "english": "PT : Defense Penetration {0}%",
+    "korean": "PT : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_5": {
+    "english": "Miss Olympia : Effect resistance {0} percent increased",
+    "korean": "미스 올림피아 : 효과 저항 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_51": {
+    "english": "One More Set : Defense Penetration {0}%",
+    "korean": "한 세트 더 : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_52": {
+    "english": "Thanks to You All!",
+    "korean": "여러분 덕이에요!"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_53": {
+    "english": "PT : EXP Gain {0}% Increase",
+    "korean": "PT : 획득 경험치 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_54": {
+    "english": "PT : EXP Gain {0}% Increase",
+    "korean": "PT : 획득 경험치 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_55": {
+    "english": "PT : EXP Gain {0}% Increase",
+    "korean": "PT : 획득 경험치 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_56": {
+    "english": "PT : EXP Gain {0}% Increase",
+    "korean": "PT : 획득 경험치 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Nidhogg_N_1": {
+    "english": "Rush of Destruction : Skill power {0} percent",
+    "korean": "파멸의 돌진 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Nidhogg_N_12": {
+    "english": "Primal Violence : Skill power {0} percent",
+    "korean": "원초적 폭력 : 스킬 위력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Nidhogg_N_13": {
+    "english": "Deep-Seated Hatred: Damage {0}%",
+    "korean": "응어리진 증오 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Nidhogg_N_2": {
+    "english": "Lingering Malice : Accuracy {0} percent (One stack)",
+    "korean": "사무친 악의 : 적중 {0}% (1중첩)"
+  },
+  "BuffDesc1_Effect_PECS_Nidhogg_N_22": {
+    "english": "Lingering Malice : Damage taken {0} percent increased (Two stacks)",
+    "korean": "사무친 악의 : 받는 피해 {0}% 증가 (2중첩)"
+  },
+  "BuffDesc1_Effect_PECS_Nidhogg_N_24": {
+    "english": "Malice to the Bone : Buff disabled (Three stacks)",
+    "korean": "뼛속까지 사무친 악의 : 강화 불가 (3중첩)"
+  },
+  "BuffDesc1_Effect_PECS_Nidhogg_N_25": {
+    "english": "Toxic substance emission",
+    "korean": "유독 물질 분출"
+  },
+  "BuffDesc1_Effect_PECS_Nidhogg_N_3": {
+    "english": "Bias Toxicity Respiration: Effect Resistance -{0}% (Ally)",
+    "korean": "편향성 독성 호흡 : 효과 저항 {0}% 감소 (아군)"
+  },
+  "BuffDesc1_Effect_PECS_Nidhogg_N_31": {
+    "english": "Biased Toxic Breath : Effect resistance reduced {0} percent",
+    "korean": "편향성 독성 호흡 : 효과 저항 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_Nidhogg_N_4": {
+    "english": "Root Eater : Range {0}",
+    "korean": "뿌리 갉는 자 : 사거리 {0}"
+  },
+  "BuffDesc1_Effect_PECS_Nidhogg_N_5": {
+    "english": "Toxic Substance Concentration : Action power {0} percent",
+    "korean": "유독 물질 농축 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_1": {
+    "english": "Stitch : Damage taken {0} percent increased",
+    "korean": "바늘땀 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_11": {
+    "english": "Thread : Defense Penetration {0}%",
+    "korean": "실밥 : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_2": {
+    "english": "Running stitch: removes buffs (2+ stacks)",
+    "korean": "감침질 : 강화 효과 해제 (2중첩 이상)"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_21": {
+    "english": "Running stitch: removes buffs",
+    "korean": "감침질 : 강화 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_23": {
+    "english": "Figure Eight Knot",
+    "korean": "8자 매듭"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_24": {
+    "english": "Roll stitch: damage {0}%",
+    "korean": "공그르기 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_3": {
+    "english": "Needlefolk : Attack Power {0}%",
+    "korean": "바늘겨레 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_31": {
+    "english": "<Needle> Ready",
+    "korean": "<바늘> 준비"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_32": {
+    "english": "Stitch : Max Action Count {0}",
+    "korean": "침척 : 최대 행동 횟수 {0}"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_34": {
+    "english": "Golden Stitch : Max Action Count {0}",
+    "korean": "황금 침척 : 최대 행동 횟수 {0}"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_35": {
+    "english": "<Needle> deployment",
+    "korean": "<바늘> 전개"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_36": {
+    "english": "Thimble: modifies skill power",
+    "korean": "골무 : 스킬 위력 변경"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_37": {
+    "english": "<Thimble> remove",
+    "korean": "<골무> 해제"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_4": {
+    "english": "Collaboration : Attack Support",
+    "korean": "컬래버레이션 : 공격 지원"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_41": {
+    "english": "Elegant fingertips: removes attack support",
+    "korean": "엘레강스한 손끝 : 공격 지원 해제"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_42": {
+    "english": "Knotting: action {0}%",
+    "korean": "매듭짓기 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_5": {
+    "english": "Golden Needle : Attack Power {0}%",
+    "korean": "황금 바늘 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_51": {
+    "english": "Eblouissant : Accuracy {0}%",
+    "korean": "Eblouissant : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Olivia_N_52": {
+    "english": "Eblouissant: evasion {0}%",
+    "korean": "Eblouissant : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_1": {
+    "english": "Circuit Interference : {0}% Physical Damage",
+    "korean": "회로 간섭 : {0}% 물리 피해"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_2": {
+    "english": "Information Sharing : Increases ally attack power by {0}% of own attack power",
+    "korean": "정보 공유 : 자신 공격력 {0}%만큼 아군 공격력 증가"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_21": {
+    "english": "Information Sharing : Increases attack power based on Orange’s attack power",
+    "korean": "정보 공유 : 오렌지 공격력 비례 공격력 증가"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_3": {
+    "english": "Fire Support OS : Skill Power {0}%",
+    "korean": "화력 지원 OS : 스킬 위력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_31": {
+    "english": "Caduceus Deployment",
+    "korean": "카두세우스 전개"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_4": {
+    "english": "Ability Enhancement OS : Attack Power {0}",
+    "korean": "능력 강화 OS : 공격력{0}"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_5": {
+    "english": "Aim Correction OS : Accuracy {0}% (Cannot be removed)",
+    "korean": "조준 보정 OS : 적중 {0}% (해제 불가)"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_1": {
+    "english": "Peregrine Kick : Evasion {0}%",
+    "korean": "페레그린 킥 : 회피{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_11": {
+    "english": "Peregrine Kick : Damage {0}%",
+    "korean": "페레그린 킥 : 피해량{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_12": {
+    "english": "Peregrine Kick: Damage {0}%",
+    "korean": "페레그린 킥 : 피해량{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_13": {
+    "english": "Peregrine Kick: Damage {0}%",
+    "korean": "페레그린 킥 : 피해량{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_14": {
+    "english": "Peregrine Kick: Damage {0}%",
+    "korean": "페레그린 킥 : 피해량{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_2": {
+    "english": "Human Form Mode Released",
+    "korean": "휴먼 폼 모드 해제"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_21": {
+    "english": "Breath of the Harpy King : Removes Shield",
+    "korean": "하피 왕의 숨결 : 방어막 해제"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_210": {
+    "english": "Breath of the Harpy King: Area Damage Distribution {0}%",
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_211": {
+    "english": "Breath of the Harpy King: Area Damage Distribution {0}%",
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_212": {
+    "english": "Mode Change End",
+    "korean": "모드 전환 종료"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_22": {
+    "english": "Breath of the Harpy King: Armor Penetration {0}%",
+    "korean": "하피 왕의 숨결 : 방어 관통{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_23": {
+    "english": "Breath of the Harpy King: Area Damage Distribution {0}%",
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_24": {
+    "english": "Breath of the Harpy King: Area Damage Distribution {0}%",
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_25": {
+    "english": "Breath of the Harpy King: Area Damage Distribution {0}%",
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_26": {
+    "english": "Breath of the Harpy King: Area Damage Distribution {0}%",
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_27": {
+    "english": "Breath of the Harpy King: Area Damage Distribution {0}%",
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_28": {
+    "english": "Breath of the Harpy King: Area Damage Distribution {0}%",
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_29": {
+    "english": "Breath of the Harpy King: Area Damage Distribution {0}%",
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_3": {
+    "english": "Human Form : Focused Area Damage {0}%",
+    "korean": "휴먼 폼 : 광역 피해량 집중{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_1": {
+    "english": "Piercing Feather : Damage {0}%",
+    "korean": "꿰뚫는 깃털 : 피해량{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_11": {
+    "english": "Piercing Feather : Defense {0}%",
+    "korean": "꿰뚫는 깃털 : 방어력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_2": {
+    "english": "Gale Strike : Ignores Shield / Damage Reduction",
+    "korean": "질풍격 : 방어막 / 피해 감소 무시"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_21": {
+    "english": "Gale Strike : Skill Power {0}%",
+    "korean": "질풍격 : 스킬 위력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_3": {
+    "english": "Falcon Form : Critical Rate {0}%",
+    "korean": "팔콘 폼 : 치명타{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_31": {
+    "english": "Falcon Form : Evasion {0}%",
+    "korean": "팔콘 폼 : 회피{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_32": {
+    "english": "Human Form : Mode Change",
+    "korean": "휴먼 폼 : 모드 변환"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_33": {
+    "english": "Mode Change Preparation",
+    "korean": "모드 전환 준비"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_4": {
+    "english": "Great Harpy King : Attack Power {0}%",
+    "korean": "위대한 하피의 왕 : 공격력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_41": {
+    "english": "Great Harpy King : Skill Power {0}%",
+    "korean": "위대한 하피의 왕 : 스킬 위력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_5": {
+    "english": "Superior Adaptability : AP {0} (1 Stack)",
+    "korean": "뛰어난 적응력 : AP{0} (1중첩)"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_51": {
+    "english": "Superior Adaptability : AP {0}",
+    "korean": "뛰어난 적응력 : AP{0}"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_510": {
+    "english": "Superior Adaptability : Attack Power {0}%",
+    "korean": "뛰어난 적응력 : 공격력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_52": {
+    "english": "Exceptional Adaptability: AP {0}",
+    "korean": "뛰어난 적응력 : AP{0}"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_53": {
+    "english": "Exceptional Adaptability: AP {0}",
+    "korean": "뛰어난 적응력 : AP{0}"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_54": {
+    "english": "Exceptional Adaptability: AP {0}",
+    "korean": "뛰어난 적응력 : AP{0}"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_55": {
+    "english": "Exceptional Adaptability: AP {0}",
+    "korean": "뛰어난 적응력 : AP{0}"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_56": {
+    "english": "Exceptional Adaptability: Attack {0}%",
+    "korean": "뛰어난 적응력 : 공격력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_57": {
+    "english": "Exceptional Adaptability: Attack {0}%",
+    "korean": "뛰어난 적응력 : 공격력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_58": {
+    "english": "Exceptional Adaptability: Attack {0}%",
+    "korean": "뛰어난 적응력 : 공격력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_59": {
+    "english": "Exceptional Adaptability: Attack {0}%",
+    "korean": "뛰어난 적응력 : 공격력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_1": {
+    "english": "Hierarchy Adjustment: Damage {0}%",
+    "korean": "서열정리 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_11": {
+    "english": "Choke Hold: Damage {0}%",
+    "korean": "숨통 끊기 : 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_12": {
+    "english": "Cut the Breath : {0} Continuous Physical Damage",
+    "korean": "숨통 끊기 : {0} 지속 물리 피해"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_2": {
+    "english": "Merciless Strike : Immobilized",
+    "korean": "무자비한 일격 : 이동 불가"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_21": {
+    "english": "Easy Prey : Unable to Act",
+    "korean": "손쉬운 먹잇감 : 행동 불가"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_22": {
+    "english": "Easy Prey: Cannot Act",
+    "korean": "손쉬운 먹잇감 : 행동 불가"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_3": {
+    "english": "Hunting Preparation : Attack Power {0}%",
+    "korean": "사냥 준비 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_31": {
+    "english": "Be Prepared : Counterattack Power {0}%",
+    "korean": "Be prepared : {0}% 위력으로 반격"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_32": {
+    "english": "Hoshiubo: Remove Counterattack",
+    "korean": "호시우보 : 반격 해제"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_33": {
+    "english": "Be Prepared : Range {0}",
+    "korean": "Be prepared : 사거리 {0}"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_4": {
+    "english": "Pack Tactics : Damage to Heavy-Type Enemies {0}%",
+    "korean": "무리짓기 : 대 중장형 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_41": {
+    "english": "Pack Behavior: Large and Medium Damage {0}%",
+    "korean": "무리짓기 : 대 중장형 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_42": {
+    "english": "Pride : Attack Power {0}%",
+    "korean": "프라이드 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_43": {
+    "english": "Weight of the Crown : AP {0}",
+    "korean": "왕관의 무게 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_5": {
+    "english": "Apex Predator : Attack Power {0}",
+    "korean": "최상위 포식자 : 공격력 {0}"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_51": {
+    "english": "Roar of the Leader : Action Power {0}%",
+    "korean": "우두머리의 포효 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_52": {
+    "english": "Target Acquired : Action Power {0}%",
+    "korean": "사냥감 포착 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_1": {
+    "english": "Stop It!: Attack Power {0}%",
+    "korean": "그만두세요!: 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_11": {
+    "english": "Stop It!: Skill Use Disabled",
+    "korean": "그만두세요!: 스킬 사용 불가"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_2": {
+    "english": "Mr. Annihilator! Now’s the Time~! : Removes Row Protection Effect",
+    "korean": "어나이얼레이터 씨! 지금이에요~! : 행 보호 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_21": {
+    "english": "Mr. Annihilator! Now’s the Time~! : Removes Designated Protection",
+    "korean": "어나이얼레이터 씨! 지금이에요~! :  지정 보호 해제"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_22": {
+    "english": "Change to Normal Form",
+    "korean": "일반 형태로 변경"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_23": {
+    "english": "Mr. Annihilator! Now’s the Time~! : AP {0}",
+    "korean": "어나이얼레이터 씨! 지금이에요~! : AP{0}"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_1": {
+    "english": "Stop It!: Attack Power {0}%",
+    "korean": "그만두세요!: 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_11": {
+    "english": "Stop It!: Skill Use Disabled",
+    "korean": "그만두세요!: 스킬 사용 불가"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_12": {
+    "english": "Fleet bombardment mode",
+    "korean": "함대 대포격 모드"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_2": {
+    "english": "Mr. Annihilator! Help Me~!: Removes Row Protection Effect",
+    "korean": "어나이얼레이터 씨! 도와주세요~!: 행 보호 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_21": {
+    "english": "Mr. Annihilator! Help Me~!: Removes Designated Protection",
+    "korean": "어나이얼레이터 씨! 도와주세요~!:  지정 보호 해제"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_3": {
+    "english": "Am I the Acting Vice-Commander!? : AP {0}",
+    "korean": "제가 임시 부관이요!? : AP{0}"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_31": {
+    "english": "Am I the Acting Vice-Commander!? : Effect Resistance {0}%",
+    "korean": "제가 임시 부관이요!? : 효과 저항{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_32": {
+    "english": "Am I the Acting Vice-Commander!? : Buff Removal Resistance {0}%",
+    "korean": "제가 임시 부관이요!? : 강화 해제 저항{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_33": {
+    "english": "Am I the Acting Vice-Commander!? : Buff Removal Resistance {0}%",
+    "korean": "제가 임시 부관이요!? : 강화 해제 저항{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_4": {
+    "english": "I’ll Show I Can Do It Too! : Action Power {0}%",
+    "korean": "저도 할 수 있다는 걸 보여드리겠어요! : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_41": {
+    "english": "I’ll Show I Can Do It Too! : Artillery Mode",
+    "korean": "저도 할 수 있다는 걸 보여드리겠어요! : 대포격 모드"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_5": {
+    "english": "I Want to Be Helpful : AP {0}",
+    "korean": "도움이 되고싶어요: AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_51": {
+    "english": "You Two Are My Inspiration : Damage Taken Reduced {0}%",
+    "korean": "두 분은 제 동경의 대상이에요 : 받는 피해 감소 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_52": {
+    "english": "You Two Are My Inspiration : Ignores Shield / Damage Reduction (Gamma)",
+    "korean": "두 분은 제 동경의 대상이에요 : 방어막 / 피해 감소 무시(감마)"
+  },
+  "BuffDesc1_Effect_PECS_Sadius_N_58": {
+    "english": "Guard of Citizen : ATK {0}% (Sonia of Ravage)",
+    "korean": "가드 오브 시티즌: 공격력 {0}%(유린의 소니아)"
+  },
+  "BuffDesc1_Effect_PECS_Sadius_N_59": {
+    "english": "Guard of Citizen: Attack Power {0}%(English Shepherd)",
+    "korean": "가드 오브 시티즌: 공격력 {0}%(잉글리쉬 셰퍼드)"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_1": {
+    "english": "Touch of the Afterlife : Attack Power {0}% Fixed Damage",
+    "korean": "내세의 손길 : 공격력{0}% 고정 피해"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_11": {
+    "english": "Touch of the Afterlife: DEF {0}%",
+    "korean": "내세의 손길 : 방어력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_2": {
+    "english": "Cycle of Life’s Loop : Action Power {0}%",
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_21": {
+    "english": "Cycle of Life: AP {0}%",
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_211": {
+    "english": "Cycle of Life’s Loop : Removes Action Power Increase Effect",
+    "korean": "순환하는 생명의 굴레 : 행동력 증가 효과 해제"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_22": {
+    "english": "Cycle of Life: AP {0}%",
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_23": {
+    "english": "Cycle of Life: AP {0}%",
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_24": {
+    "english": "Cycle of Life: AP {0}%",
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_25": {
+    "english": "Cycle of Life: AP {0}%",
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_26": {
+    "english": "Cycle of Life: AP {0}%",
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_27": {
+    "english": "Cycle of Life: AP {0}%",
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_28": {
+    "english": "Cycle of Life: AP {0}%",
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_29": {
+    "english": "Cycle of Life’s Loop : Action Power {0}%",
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_3": {
+    "english": "Mercy of the Ringed Cross : Action Power {0}%",
+    "korean": "고리달린 십자가의 자비 : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_31": {
+    "english": "Mercy of the Hooped Cross (Elven): AP {0}%",
+    "korean": "고리달린 십자가의 자비(엘븐) : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_32": {
+    "english": "Mercy of the Ringed Cross (Dark Elven) : Action Power {0}%",
+    "korean": "고리달린 십자가의 자비(다크엘븐) : 행동력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_33": {
+    "english": "Mercy of the Cross with a Ring (Cerestia): Action Power {0}%",
+    "korean": "고리달린 십자가의 자비 (세레스티아) : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_34": {
+    "english": "Mercy of the Cross with a Ring (Hathor): Action Power {0}%",
+    "korean": "고리달린 십자가의 자비 (하토르) : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_4": {
+    "english": "Three Faces of the Goddess : Attack Power {0}%",
+    "korean": "여신의 세 얼굴 : 공격력{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_41": {
+    "english": "Three Faces of the Goddess: Area Damage Concentration {0}% (Max)",
+    "korean": "여신의 세 얼굴 : 광역 피해 집중{0}% (최대)"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_5": {
+    "english": "Motherhood : Accuracy {0}%",
+    "korean": "모성 : 적중{0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_51": {
+    "english": "Maternal: Protect AP",
+    "korean": "모성 : 행 보호"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_1": {
+    "english": "Good Day to Die : Damage {0}% (Electric)",
+    "korean": "굿데이 투 다이 : 피해량 {0}%(전기)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_11": {
+    "english": "Good Day to Die : Removes Buffs",
+    "korean": "굿데이 투 다이 : 강화 해제"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_12": {
+    "english": "Good Day to Die : Cooperative Attack",
+    "korean": "굿데이 투 다이 : 협동 공격"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_2": {
+    "english": "EMP SHOT! : Damage {0}% (Electric)",
+    "korean": "EMP SHOT! : 피해량 {0}%(전기)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_21": {
+    "english": "EMP SHOT! : Removes Electric Resistance Limit",
+    "korean": "EMP SHOT! : 전기 저항 하한 해제"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_22": {
+    "english": "EMP SHOT! : Cooperative Attack",
+    "korean": "EMP SHOT! : 협동 공격"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_3": {
+    "english": "Leader of the City Guard : AP {0} (On Hit)",
+    "korean": "시티가드의 리더 : AP {0} (적중)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_31": {
+    "english": "Leader of the City Guard : AP {0} (On Kill)",
+    "korean": "시티가드의 리더 : AP {0} (처치)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_32": {
+    "english": "Suppression Ready! : AP {0} (On Hit)",
+    "korean": "진압 준비! : AP {0} (적중)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_33": {
+    "english": "Suppression Ready! : AP {0} (On Kill)",
+    "korean": "진압 준비! : AP {0} (처치)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_4": {
+    "english": "Clutch Hitter : Attack Power {0}% (On Hit)",
+    "korean": "클러치 히터 : 공격력 {0}% (적중)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_41": {
+    "english": "Clutch Hitter : Critical Rate {0}% (On Kill)",
+    "korean": "클러치 히터 : 치명타 {0}% (처치)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_42": {
+    "english": "Bench Clearing : Action Power {0}% (On Hit)",
+    "korean": "벤치 클리어링 : 행동력 {0}% (적중)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_43": {
+    "english": "Bench Clearing : Action Power {0}% (On Kill)",
+    "korean": "벤치 클리어링 : 행동력 {0}% (처치)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_5": {
+    "english": "Watchdog of Caracas : Electric Resistance {0}%",
+    "korean": "카라카스의 파수견 : 전기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_51": {
+    "english": "C.G.P.D : Electric Resistance {0}%",
+    "korean": "C.G.P.D : 전기 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_1": {
+    "english": "HEDP : Defense Penetration {0}%",
+    "korean": "HEDP : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_11": {
+    "english": "HEDP : Effect Resistance {0}% Decrease",
+    "korean": "HEDP : 효과 저항 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_12": {
+    "english": "HEDP : Removes Increased Fire Resistance from Flooding",
+    "korean": "HEDP : 침수로 인한 화염 저항 증가 해제"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_13": {
+    "english": "HEDP : Cancellation of Increased Fire Resistance due to Submersion",
+    "korean": "HEDP : 침수로 인한 화염 저항 증가 해제"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_14": {
+    "english": "HEDP : Cancellation of Increased Fire Resistance due to Submersion",
+    "korean": "HEDP : 침수로 인한 화염 저항 증가 해제"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_15": {
+    "english": "HEDP : Cancellation of Increased Fire Resistance due to Submersion",
+    "korean": "HEDP : 침수로 인한 화염 저항 증가 해제"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_16": {
+    "english": "HEDP : Cancellation of Increased Fire Resistance due to Submersion",
+    "korean": "HEDP : 침수로 인한 화염 저항 증가 해제"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_2": {
+    "english": "Raining Justice : Damage {0}% (Fire)",
+    "korean": "빗발치는 정의 : 피해량 {0}% (화염)"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_21": {
+    "english": "Raining Justice : Evasion {0}%",
+    "korean": "빗발치는 정의 : 회피 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_22": {
+    "english": "Raining Justice : Attack Power {0}%",
+    "korean": "빗발치는 정의 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_23": {
+    "english": "Raining Justice : Cooperative Attack",
+    "korean": "빗발치는 정의 : 협동 공격"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_3": {
+    "english": "Cold Sensation : Attack Power {0}",
+    "korean": "서늘한 감각 : 공격력 {0}"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_31": {
+    "english": "Cool Sensation : ATK {0}",
+    "korean": "서늘한 감각 : 공격력 {0}"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_32": {
+    "english": "Cold Sensation : Enables Recon Mode",
+    "korean": "서늘한 감각 : 정찰 활성화"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_33": {
+    "english": "Cold Sensation : Accuracy {0}%",
+    "korean": "서늘한 감각 : 적중 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_4": {
+    "english": "Lazy Perfectionist : AP {0}",
+    "korean": "게으른 완벽주의자 : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_41": {
+    "english": "Lazy Perfectionist : Attack Power {0}%",
+    "korean": "게으른 완벽주의자 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_410": {
+    "english": "Lazy Perfectionist : Action Power {0}%",
+    "korean": "게으른 완벽주의자 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_42": {
+    "english": "Lazy Perfectionist : Action Power {0}%",
+    "korean": "게으른 완벽주의자 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_43": {
+    "english": "Lazy Perfectionist : Action Power {0}%",
+    "korean": "게으른 완벽주의자 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_44": {
+    "english": "Lazy Perfectionist : Action Power {0}%",
+    "korean": "게으른 완벽주의자 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_45": {
+    "english": "Lazy Perfectionist : Action Power {0}%",
+    "korean": "게으른 완벽주의자 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_46": {
+    "english": "Lazy Perfectionist : Action Power {0}%",
+    "korean": "게으른 완벽주의자 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_47": {
+    "english": "Lazy Perfectionist : Action Power {0}%",
+    "korean": "게으른 완벽주의자 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_48": {
+    "english": "Lazy Perfectionist : Action Power {0}%",
+    "korean": "게으른 완벽주의자 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_49": {
+    "english": "Lazy Perfectionist : Action Power {0}%",
+    "korean": "게으른 완벽주의자 : 행동력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_5": {
+    "english": "Resistance Is Futile : Attack Power {0}%",
+    "korean": "저항은 무의미하다 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_51": {
+    "english": "Surrender Peacefully : Effect Resistance {0}% Decrease",
+    "korean": "순순히 투항하라 : 효과 저항 {0}% 감소"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_52": {
+    "english": "No Right to Counsel : Damage Taken {0}% Increase",
+    "korean": "변호사 선임은 없다 : 받는 피해 {0}% 증가"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_1": {
+    "english": "Critical Strike : Damage Reduction Weakening {0}%",
+    "korean": "회심의 일격 : 피해 감소 약화 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_2": {
+    "english": "CQB Entry : Damage Proportional to Target HP {0}%",
+    "korean": "CQB 돌입 : 대상 HP 반비례 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_21": {
+    "english": "Disarm : Attack Power {0}%",
+    "korean": "무장 파괴 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_22": {
+    "english": "Armament Destruction: ATK {0}%",
+    "korean": "무장 대파괴 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_4": {
+    "english": "S.P.A.C.E : Defense Penetration {0}%",
+    "korean": "S.P.A.C.E : 방어 관통 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_5": {
+    "english": "Great Leap : Attack Power {0}%",
+    "korean": "위대한 도약 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_51": {
+    "english": "Great Leap : Defense {0}%",
+    "korean": "위대한 도약 : 방어력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_1": {
+    "english": "Critical Strike : Removes Damage Reduction",
+    "korean": "회심의 일격 : 받는 피해 감소 해제"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_11": {
+    "english": "Critical Strike : Remove defense increase",
+    "korean": "회심의 일격 : 방어력 증가 해제"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_14": {
+    "english": "Space Combat Armor : Fire Resistance {0}%",
+    "korean": "우주용 컴뱃 아머 : 화염 저항 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_2": {
+    "english": "CQB Entry : Damage Proportional to Target HP {0}%",
+    "korean": "CQB 돌입 : 대상 HP 반비례 피해량 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_21": {
+    "english": "Disarm : Attack Power {0}%",
+    "korean": "무장 파괴 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_22": {
+    "english": "Armament Annihilation : Attack {0}%",
+    "korean": "무장 대파괴 : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_3": {
+    "english": "Receiving... : Attack Power {0}%",
+    "korean": "수신중... : 공격력 {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_31": {
+    "english": "Compiling… : Range {0}",
+    "korean": "컴파일링... : 사거리 {0}"
+  }
+}
