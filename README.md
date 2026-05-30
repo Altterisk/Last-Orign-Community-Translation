@@ -44,6 +44,17 @@ Applies all rules from `corrections/corrections.json` across every file in `for_
 
 ---
 
+## Getting the patch
+
+> **Note:** Modifying game files is against the game's Terms of Service. The patching method and the patch itself will not be shared in this repository.
+
+The patch can be downloaded from the community Discord (not the official discord):  
+**https://discord.com/invite/PS3pAMF6FZ**
+
+If you want to learn how to make the patch, or want to try adapting it for another language, contact **Altter** in the Discord.
+
+---
+
 ## Contributing
 
 All translation work lives in `for_review/`.  

@@ -2,21 +2,39 @@
 GUI editor for for_review/*.json translation files.
 """
 
+import asyncio
 import json
 import re
+import threading
 import tkinter as tk
 from tkinter import ttk, messagebox
 from pathlib import Path
+
+try:
+    from local_google_translate import GoogleTranslateV2
+    _HAS_MTL = True
+except ImportError:
+    _HAS_MTL = False
 
 try:
     BASE_DIR = Path(__file__).resolve().parent
 except NameError:
     BASE_DIR = Path.cwd()
 
-REVIEW_DIR = BASE_DIR / "for_review"
+REVIEW_DIR  = BASE_DIR / "for_review"
 NO_TRANS_RE = re.compile(r"^No_Trans|^No_translation", re.IGNORECASE)
 
-COLOR_MISSING = "#c0392b"   # red — untranslated / placeholder
+COLOR_MISSING = "#e74c3c"
+
+DARK_BG     = "#1e1e1e"
+DARK_PANEL  = "#252526"
+DARK_WIDGET = "#3c3c3c"
+DARK_FG     = "#d4d4d4"
+DARK_DIM    = "#858585"
+DARK_SEL    = "#094771"
+DARK_SLFG   = "#ffffff"
+DARK_BORDER = "#454545"
+DARK_RO     = "#252526"
 
 
 def _load(path: Path) -> dict:
@@ -33,6 +51,35 @@ def _is_missing(english: str) -> bool:
     return not english.strip() or bool(NO_TRANS_RE.match(english))
 
 
+def _apply_dark_style(root: tk.Tk) -> None:
+    style = ttk.Style(root)
+    style.theme_use("clam")
+    style.configure(".", background=DARK_BG, foreground=DARK_FG,
+                    fieldbackground=DARK_WIDGET, bordercolor=DARK_BORDER,
+                    darkcolor=DARK_PANEL, lightcolor=DARK_PANEL,
+                    troughcolor=DARK_PANEL, insertcolor=DARK_FG,
+                    selectbackground=DARK_SEL, selectforeground=DARK_SLFG)
+    style.configure("TFrame",  background=DARK_BG)
+    style.configure("TLabel",  background=DARK_BG, foreground=DARK_FG)
+    style.configure("TButton", background=DARK_WIDGET, foreground=DARK_FG,
+                    bordercolor=DARK_BORDER, padding=4)
+    style.map("TButton",
+              background=[("active", "#505357"), ("pressed", "#505357")],
+              relief=[("pressed", "flat"), ("!pressed", "flat")])
+    style.configure("TEntry", fieldbackground=DARK_WIDGET, foreground=DARK_FG,
+                    insertcolor=DARK_FG, bordercolor=DARK_BORDER)
+    style.configure("TCombobox", fieldbackground=DARK_WIDGET, foreground=DARK_FG,
+                    arrowcolor=DARK_FG, bordercolor=DARK_BORDER)
+    style.map("TCombobox",
+              fieldbackground=[("readonly", DARK_WIDGET)],
+              selectbackground=[("readonly", DARK_SEL)],
+              selectforeground=[("readonly", DARK_SLFG)])
+    style.configure("TScrollbar", background=DARK_WIDGET, troughcolor=DARK_PANEL,
+                    arrowcolor=DARK_FG, bordercolor=DARK_BORDER)
+    style.configure("TPanedwindow", background=DARK_BG)
+    root.configure(bg=DARK_BG)
+
+
 # ---------------------------------------------------------------------------
 
 
@@ -43,20 +90,25 @@ class App(tk.Tk):
         self.geometry("1100x640")
         self.minsize(800, 500)
 
-        self.files: list[Path] = sorted(REVIEW_DIR.glob("*.json"))
-        self._search_job: str | None = None   # pending after() job id
+        self._fill_path = REVIEW_DIR / "ko_kr_fill.json"
+        self._show_fill = False
+        self.files: list[Path] = [
+            f for f in sorted(REVIEW_DIR.glob("*.json"))
+            if f.name != self._fill_path.name
+        ]
+        self._search_job: str | None = None
 
-        # Per-file data cache — all mutations happen here; _save writes it to disk
         self.file_cache: dict[Path, dict] = {}
 
-        self.codes:    list[str]              = []   # codes in current file (unfiltered)
-        self.filtered: list[tuple[Path, str]] = []   # (path, code) — may span files
+        self.codes:    list[str]              = []
+        self.filtered: list[tuple[Path, str]] = []
 
         self.cur_code: str  | None = None
         self.cur_file: Path | None = None
         self._dirty   = False
         self._loading = False
 
+        _apply_dark_style(self)
         self._build()
 
         if self.files:
@@ -85,9 +137,10 @@ class App(tk.Tk):
         ttk.Button(top, text="◀", width=2, command=lambda: self._step_file(-1)).pack(side=tk.LEFT, padx=(6, 1))
         ttk.Button(top, text="▶", width=2, command=lambda: self._step_file(1)).pack(side=tk.LEFT, padx=(1, 0))
 
-        ttk.Button(top, text="KO Fill", command=self._open_ko_fill).pack(side=tk.LEFT, padx=(10, 0))
+        self.btn_fill = ttk.Button(top, text="Fill ▼", command=self._toggle_fill)
+        self.btn_fill.pack(side=tk.LEFT, padx=(10, 0))
 
-        self.lbl_info = ttk.Label(top, text="", foreground="gray")
+        self.lbl_info = ttk.Label(top, text="", foreground=DARK_DIM)
         self.lbl_info.pack(side=tk.LEFT, padx=10)
 
         # ── main split ─────────────────────────────────────────────────────
@@ -114,6 +167,8 @@ class App(tk.Tk):
         self.entry_list = tk.Listbox(
             lf, yscrollcommand=sb.set, selectmode=tk.SINGLE,
             activestyle="none", font=("Consolas", 9), relief=tk.FLAT,
+            bg=DARK_PANEL, fg=DARK_FG, selectbackground=DARK_SEL,
+            selectforeground=DARK_SLFG, bd=0,
         )
         sb.config(command=self.entry_list.yview)
         sb.pack(side=tk.RIGHT, fill=tk.Y)
@@ -133,7 +188,8 @@ class App(tk.Tk):
         form.pack(fill=tk.BOTH, expand=True, padx=8, pady=4)
         form.columnconfigure(0, weight=1)
         form.rowconfigure(3, weight=1)
-        form.rowconfigure(5, weight=2)
+        form.rowconfigure(5, weight=0)
+        form.rowconfigure(7, weight=2)
 
         # Code row
         code_hdr = ttk.Frame(form)
@@ -154,13 +210,35 @@ class App(tk.Tk):
 
         self.txt_korean = tk.Text(
             form, font=("Segoe UI", 10), height=4, wrap=tk.WORD,
-            relief=tk.FLAT, background="#f5f5f5", state=tk.DISABLED,
+            relief=tk.FLAT, state=tk.DISABLED,
+            bg=DARK_RO, fg=DARK_FG, insertbackground=DARK_FG,
+            selectbackground=DARK_SEL, selectforeground=DARK_SLFG, bd=0,
         )
         self.txt_korean.grid(row=3, column=0, sticky=tk.NSEW, pady=(2, 8))
 
+        # MTL row
+        mtl_hdr = ttk.Frame(form)
+        mtl_hdr.grid(row=4, column=0, sticky=tk.EW)
+        ttk.Label(mtl_hdr, text="Machine Translation:", font=("Segoe UI", 9, "bold")).pack(side=tk.LEFT)
+        self.btn_apply_mtl = ttk.Button(mtl_hdr, text="Apply", width=6,
+                                        command=self._apply_mtl)
+        self.btn_apply_mtl.pack(side=tk.RIGHT, padx=(4, 0))
+        self.btn_translate = ttk.Button(mtl_hdr, text="Translate", width=9,
+                                        command=self._run_translation,
+                                        state=tk.NORMAL if _HAS_MTL else tk.DISABLED)
+        self.btn_translate.pack(side=tk.RIGHT)
+
+        self.txt_mtl = tk.Text(
+            form, font=("Segoe UI", 10), height=3, wrap=tk.WORD,
+            relief=tk.FLAT, state=tk.DISABLED,
+            bg=DARK_RO, fg=DARK_FG, insertbackground=DARK_FG,
+            selectbackground=DARK_SEL, selectforeground=DARK_SLFG, bd=0,
+        )
+        self.txt_mtl.grid(row=5, column=0, sticky=tk.EW, pady=(2, 8))
+
         # English row
         en_hdr = ttk.Frame(form)
-        en_hdr.grid(row=4, column=0, sticky=tk.EW)
+        en_hdr.grid(row=6, column=0, sticky=tk.EW)
         ttk.Label(en_hdr, text="English:", font=("Segoe UI", 9, "bold")).pack(side=tk.LEFT)
         ttk.Button(en_hdr, text="Undo", width=6,
                    command=self._undo).pack(side=tk.RIGHT, padx=(4, 0))
@@ -170,23 +248,24 @@ class App(tk.Tk):
                    command=self._copy_from_above).pack(side=tk.RIGHT)
 
         self.txt_english = tk.Text(
-            form, font=("Segoe UI", 10), height=6, wrap=tk.WORD,
+            form, font=("Segoe UI", 10), height=5, wrap=tk.WORD,
             relief=tk.FLAT, undo=True,
+            bg=DARK_WIDGET, fg=DARK_FG, insertbackground=DARK_FG,
+            selectbackground=DARK_SEL, selectforeground=DARK_SLFG, bd=0,
         )
-        self.txt_english.grid(row=5, column=0, sticky=tk.NSEW, pady=(2, 0))
+        self.txt_english.grid(row=7, column=0, sticky=tk.NSEW, pady=(2, 0))
         self.txt_english.bind("<KeyRelease>", self._on_english_key)
 
         # ── bottom bar ─────────────────────────────────────────────────────
         bar = ttk.Frame(self)
         bar.pack(fill=tk.X, padx=6, pady=(0, 6))
         self.var_status = tk.StringVar(value="Ready")
-        ttk.Label(bar, textvariable=self.var_status, foreground="gray").pack(side=tk.LEFT, padx=4)
+        ttk.Label(bar, textvariable=self.var_status, foreground=DARK_DIM).pack(side=tk.LEFT, padx=4)
         ttk.Button(bar, text="Save", command=self._save, width=10).pack(side=tk.RIGHT, padx=4)
 
     # ---------------------------------------------------------------- file
 
     def _get_data(self, path: Path) -> dict:
-        """Return cached data for path, loading from disk if needed."""
         if path not in self.file_cache:
             self.file_cache[path] = _load(path)
         return self.file_cache[path]
@@ -218,13 +297,19 @@ class App(tk.Tk):
     def _on_file_select(self, _event):
         self._load_file(REVIEW_DIR / self.file_var.get())
 
-    def _open_ko_fill(self):
-        path = REVIEW_DIR / "ko_kr_fill.json"
-        if not path.exists():
-            messagebox.showinfo("KO Fill", "ko_kr_fill.json not found in for_review/.", parent=self)
-            return
-        self.file_var.set(path.name)
-        self._load_file(path)
+    def _toggle_fill(self):
+        self._show_fill = not self._show_fill
+        self.btn_fill.config(text="Fill ▲" if self._show_fill else "Fill ▼")
+        all_files = sorted(REVIEW_DIR.glob("*.json"))
+        if self._show_fill:
+            self.files = all_files
+        else:
+            self.files = [f for f in all_files if f.name != self._fill_path.name]
+        self.file_cb.config(values=[f.name for f in self.files])
+        if not self._show_fill and self.cur_file == self._fill_path:
+            if self.files:
+                self.file_var.set(self.files[0].name)
+                self._load_file(self.files[0])
 
     def _step_file(self, direction: int):
         if not self.files:
@@ -303,7 +388,6 @@ class App(tk.Tk):
     def _select_index(self, idx: int):
         self._flush_current()
         path, code = self.filtered[idx]
-        # Switch file if the result is from a different one
         if path != self.cur_file:
             if self._dirty and not self._confirm_discard():
                 return
@@ -364,6 +448,10 @@ class App(tk.Tk):
         self.txt_korean.insert("1.0", entry.get("korean", ""))
         self.txt_korean.config(state=tk.DISABLED)
 
+        self.txt_mtl.config(state=tk.NORMAL)
+        self.txt_mtl.delete("1.0", tk.END)
+        self.txt_mtl.config(state=tk.DISABLED)
+
         self.txt_english.delete("1.0", tk.END)
         self.txt_english.insert("1.0", entry.get("english", ""))
         self.txt_english.edit_reset()
@@ -406,6 +494,46 @@ class App(tk.Tk):
         if text:
             self.clipboard_clear()
             self.clipboard_append(text)
+
+    def _run_translation(self):
+        if not _HAS_MTL:
+            return
+        korean = self.txt_korean.get("1.0", tk.END).strip()
+        if not korean:
+            return
+        self.btn_translate.config(state=tk.DISABLED)
+        self.txt_mtl.config(state=tk.NORMAL)
+        self.txt_mtl.delete("1.0", tk.END)
+        self.txt_mtl.insert("1.0", "…")
+        self.txt_mtl.config(state=tk.DISABLED)
+
+        def _worker():
+            async def _translate():
+                async with GoogleTranslateV2() as tr:
+                    return await tr.translate(korean, src="ko", dest="en")
+            try:
+                result = asyncio.run(_translate())
+                if not result or result == korean:
+                    result = "[Translation failed]"
+            except Exception as exc:
+                result = f"[Error: {exc}]"
+            self.after(0, lambda: self._set_mtl(result))
+
+        threading.Thread(target=_worker, daemon=True).start()
+
+    def _set_mtl(self, text: str):
+        self.txt_mtl.config(state=tk.NORMAL)
+        self.txt_mtl.delete("1.0", tk.END)
+        self.txt_mtl.insert("1.0", text)
+        self.txt_mtl.config(state=tk.DISABLED)
+        self.btn_translate.config(state=tk.NORMAL)
+
+    def _apply_mtl(self):
+        mtl = self.txt_mtl.get("1.0", tk.END).strip()
+        if mtl and not mtl.startswith("["):
+            self.txt_english.delete("1.0", tk.END)
+            self.txt_english.insert("1.0", mtl)
+            self._mark_dirty()
 
     def _copy_from_above(self):
         self._copy_english_from_neighbor(-1)

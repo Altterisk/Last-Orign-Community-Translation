@@ -20,7 +20,7 @@
     "korean": "안 통해요! : 받는 피해 감소 {0}% (자신)"
   },
   "1000105006": {
-    "english": "Guard Mode!: AP {0}% (Self)",
+    "english": "Guard Mode!: SPD {0}% (Self)",
     "korean": "경비 모드! : 행동력{0}% (자신)"
   },
   "1000105007": {
@@ -60,11 +60,11 @@
     "korean": "기동간 사격 : 적중{0}%"
   },
   "1000105016": {
-    "english": "Mobile Fire: AP {0}%",
+    "english": "Mobile Fire: SPD {0}%",
     "korean": "기동 사격 : 행동력{0}%"
   },
   "1000105017": {
-    "english": "Airstrike Preparation: AP {0}%",
+    "english": "Airstrike Preparation: SPD {0}%",
     "korean": "공습 준비 : 행동력{0}%"
   },
   "1000105018": {
@@ -72,7 +72,7 @@
     "korean": "공격 포메이션 : 사거리{0}"
   },
   "1000105019": {
-    "english": "Enhanced Sticky Bomb: AP {0}%",
+    "english": "Enhanced Sticky Bomb: SPD {0}%",
     "korean": "강화 점착탄 : 행동력 {0}%"
   },
   "1000105020": {
@@ -80,7 +80,7 @@
     "korean": "역습 태세 : {0}% 위력으로 반격"
   },
   "1000105021": {
-    "english": "High-Speed Maneuver: AP {0}%",
+    "english": "High-Speed Maneuver: SPD {0}%",
     "korean": "고속 기동 : 행동력 {0}%"
   },
   "1000105022": {
@@ -120,7 +120,7 @@
     "korean": "방어 지휘 (공격) : 행동력{0}%"
   },
   "1000105031": {
-    "english": "Unstoppable Instinct: Immunity to AP Reduction",
+    "english": "Unstoppable Instinct: Immunity to SPD Reduction",
     "korean": "멈출 수 없는 본능 : 행동력 감소 무효"
   },
   "1000105032": {
@@ -276,7 +276,7 @@
     "korean": "제압 사격 : 표식"
   },
   "1000105070": {
-    "english": "Directed Fire: AP {0}%",
+    "english": "Directed Fire: SPD {0}%",
     "korean": "지향 사격 : 행동력 {0}%"
   },
   "1000105071": {
@@ -284,7 +284,7 @@
     "korean": "재밍 미사일 : 치명타 {0}%"
   },
   "1000105072": {
-    "english": "Anti-Radar Chief: AP {0}%",
+    "english": "Anti-Radar Chief: SPD {0}%",
     "korean": "대 레이더 쳬프 : 행동력{0}%"
   },
   "1000105073": {
@@ -308,7 +308,7 @@
     "korean": "전투 본능 : 방어력{0}%"
   },
   "1000105078": {
-    "english": "Attack Alert: AP {0}",
+    "english": "Attack Alert: SPD {0}%",
     "korean": "공격 경계 : 행동력 {0}%"
   },
   "1000105079": {
@@ -376,7 +376,7 @@
     "korean": "목표 지시 : 행동력{0}%"
   },
   "1000105095": {
-    "english": "Target Instruction: AP {0}% (robot)",
+    "english": "Target Instruction: SPD {0}% (robot)",
     "korean": "목표 지시 : 행동력{0}% (로봇)"
   },
   "1000105096": {
@@ -384,11 +384,11 @@
     "korean": "잔해 부착 (최대) : 행동력 {0}%"
   },
   "1000105097": {
-    "english": "Charge Command (Attack): {0}% Action Points",
+    "english": "Charge Command (Attack): {0}% SPD",
     "korean": "돌격 명령 (공격) : 행동력{0}%"
   },
   "1000105098": {
-    "english": "Charge Command (Defense): {0}% Action Points",
+    "english": "Charge Command (Defense): {0}% SPD",
     "korean": "돌격 명령 (방어) : 행동력{0}%"
   },
   "1000105099": {
@@ -440,7 +440,7 @@
     "korean": "주연 본능! : 방어 관통{0}%"
   },
   "1000105111": {
-    "english": "Friend of the Citizens: AP {0}%",
+    "english": "Friend of the Citizens: SPD {0}%",
     "korean": "시민의 친구 : 행동력{0}%"
   },
   "1000105112": {
@@ -448,7 +448,7 @@
     "korean": "지원 대열 : 효과 저항{0}%"
   },
   "1000105113": {
-    "english": "Support Formation: AP {0}%",
+    "english": "Support Formation: SPD {0}%",
     "korean": "지원 대열 : 행동력 {0}%"
   },
   "1000105114": {
@@ -456,7 +456,7 @@
     "korean": "피날레 : AP{0} (적 처치 시)"
   },
   "1000105115": {
-    "english": "Rumor Collector: Action Points {0}%",
+    "english": "Rumor Collector: SPD {0}%",
     "korean": "루머 콜렉터 : 행동력{0}%"
   },
   "1000105116": {
@@ -464,7 +464,7 @@
     "korean": "압도적 불편함 : 행동력{0}%"
   },
   "1000105117": {
-    "english": "Extreme Discomfort (Genie): Action Points {0}%",
+    "english": "Extreme Discomfort (Genie): SPD {0}%",
     "korean": "극도의 불편함 (지니야) : 행동력 {0}%"
   },
   "1000105118": {
@@ -484,7 +484,7 @@
     "korean": "맡겨주시지말입니다! : 행동력{0}%"
   },
   "1000105122": {
-    "english": "Don't Trust!: AP {0}%",
+    "english": "Don't Trust!: SPD {0}%",
     "korean": "절믿으시지말입니다! : 행동력{0}%"
   },
   "1000105123": {
@@ -492,7 +492,7 @@
     "korean": "브라우니 담당 : 공격력{0}% (자신)"
   },
   "1000105124": {
-    "english": "Brownie in Charge: AP {0}%",
+    "english": "Brownie in Charge: SPD {0}%",
     "korean": "브라우니 담당 : 행동력{0}%"
   },
   "1000105125": {
@@ -500,7 +500,7 @@
     "korean": "급가속 : 행동력{0}% (이동 시)"
   },
   "1000105126": {
-    "english": "Dialogue Promotion: AP {0}% (bio)",
+    "english": "Dialogue Promotion: SPD {0}% (bio)",
     "korean": "대사 촉진 : 행동력{0}% (바이오)"
   },
   "1000105127": {
@@ -536,7 +536,7 @@
     "korean": "신의 가호 : 열 보호"
   },
   "1000105135": {
-    "english": "Rebirth: AP {0}% (when continuing combat)",
+    "english": "Rebirth: SPD {0}% (when continuing combat)",
     "korean": "재림 : 행동력{0}% (전투 속행 시)"
   },
   "1000105136": {
@@ -552,7 +552,7 @@
     "korean": "감전 : 전기 저항 {0}%"
   },
   "1000105139": {
-    "english": "Overcharge: AP {0}%",
+    "english": "Overcharge: SPD {0}%",
     "korean": "과충전 : 행동력{0}%"
   },
   "1000105140": {
@@ -560,7 +560,7 @@
     "korean": "재 정비 : AP{0}"
   },
   "1000105141": {
-    "english": "Hydrophobia: AP {0}%",
+    "english": "Hydrophobia: SPD {0}%",
     "korean": "물 공포증 : 행동력{0}%"
   },
   "1000105142": {
@@ -596,7 +596,7 @@
     "korean": "긴급 지원 요청 : AP{0} (공격기)"
   },
   "1000105150": {
-    "english": "High Voltage Stun Gun: AP {0}%",
+    "english": "High Voltage Stun Gun: SPD {0}%",
     "korean": "고전압 스턴건 : 행동력 {0}%"
   },
   "1000105151": {
@@ -624,7 +624,7 @@
     "korean": "정밀 지상 레이더 : 대 중장형 피해량{0}%"
   },
   "1000105157": {
-    "english": "Information Transmission Error: AP {0}%",
+    "english": "Information Transmission Error: SPD {0}%",
     "korean": "정보 발신 오류 : 행동력 {0}%"
   },
   "1000105158": {
@@ -644,7 +644,7 @@
     "korean": "어비스 워커 : 공격력{0}% (침수 시)"
   },
   "1000105162": {
-    "english": "Home Ground: Action Points {0}%",
+    "english": "Home Ground: SPD {0}%",
     "korean": "홈 그라운드 : 행동력{0}%"
   },
   "1000105163": {
@@ -660,7 +660,7 @@
     "korean": "전황 분석 OS : 적중{0}% (정찰 시)"
   },
   "1000105166": {
-    "english": "Hunting Start: AP {0}% (bio)",
+    "english": "Hunting Start: SPD {0}% (bio)",
     "korean": "헌팅 개시 : 행동력{0}% (바이오)"
   },
   "1000105167": {
@@ -672,11 +672,11 @@
     "korean": "에너지 전환 : 방어막 해제"
   },
   "1000105169": {
-    "english": "Breakthrough Start: AP {0}% (attacker)",
+    "english": "Breakthrough Start: SPD {0}% (attacker)",
     "korean": "돌파 개시 : 행동력{0}% (공격기)"
   },
   "1000105170": {
-    "english": "Breakthrough Start: AP {0}%",
+    "english": "Breakthrough Start: SPD {0}%",
     "korean": "돌파 개시 : 행동력{0}%"
   },
   "1000105171": {
@@ -720,7 +720,7 @@
     "korean": "집속 연장 미사일 : AP {0}"
   },
   "1000105181": {
-    "english": "Output Limit Release: AP {0}%",
+    "english": "Output Limit Release: SPD {0}%",
     "korean": "출력 한도 해제 : 행동력{0}%"
   },
   "1000105182": {
@@ -728,7 +728,7 @@
     "korean": "지휘 중추 상실 : 받는 피해{0}%"
   },
   "1000105183": {
-    "english": "Capture Shot: AP {0}%",
+    "english": "Capture Shot: SPD {0}%",
     "korean": "포획탄 : 행동력 {0}%"
   },
   "1000105184": {
@@ -736,7 +736,7 @@
     "korean": "전하 최대 충전 : 치명타{0}%"
   },
   "1000105185": {
-    "english": "All Charge!: {0}% Action Points",
+    "english": "All Charge!: {0}% SPD",
     "korean": "전원 돌격! : 행동력{0}%"
   },
   "1000105186": {
@@ -816,7 +816,7 @@
     "korean": "덤벼덤벼덤벼! : 효과 저항{0}%"
   },
   "1000105205": {
-    "english": "Indiscriminate Check : AP {0}%",
+    "english": "Indiscriminate Check : SPD {0}%",
     "korean": "무차별 견제 : 행동력 {0}%"
   },
   "1000105206": {
@@ -840,11 +840,11 @@
     "korean": "광학 미채 : 확정 치명타 (2r)"
   },
   "1000105211": {
-    "english": "All-Out Attack! : AP {0}%",
+    "english": "All-Out Attack! : SPD {0}%",
     "korean": "총공격이에요! : 행동력{0}%"
   },
   "1000105212": {
-    "english": "Hehehe… : AP {0}% (upon kill)",
+    "english": "Hehehe… : SPD {0}% (upon kill)",
     "korean": "히히히… : 행동력{0}% (처치 시)"
   },
   "1000105213": {
@@ -932,7 +932,7 @@
     "korean": "매복 지원 : {0}% 위력으로 반격 (경장/중장)"
   },
   "1000105234": {
-    "english": "Bomber Squad Support : AP {0}%",
+    "english": "Bomber Squad Support : SPD {0}%",
     "korean": "폭격 편대 지원 : 행동력{0}% (편대 지휘 대상)"
   },
   "1000105235": {
@@ -1144,7 +1144,7 @@
     "korean": "부정형 합금 비늘 : 전기 저항{0}%"
   },
   "1000105287": {
-    "english": "Queen's Presence : AP {0}% (light armor / air)",
+    "english": "Queen's Presence : SPD {0}% (light armor / air)",
     "korean": "여왕의 존재감 : 행동력{0}% (경장/기동)"
   },
   "1000105288": {
@@ -1196,7 +1196,7 @@
     "korean": "저격 목표 포착 : 회피 {0}%"
   },
   "1000105300": {
-    "english": "Target Acquired: AP {0}%",
+    "english": "Target Acquired: SPD {0}%",
     "korean": "목표 포착 : 행동력{0}%"
   },
   "1000105301": {
@@ -1216,11 +1216,11 @@
     "korean": "레이더 재머 : 회피 {0}%"
   },
   "1000105305": {
-    "english": "High Altitude Reconnaissance: Action Point {0}% (Light/Heavy)",
+    "english": "High Altitude Reconnaissance: SPD {0}% (Light/Heavy)",
     "korean": "고고도 정찰 : 행동력{0}% (경장/중장)"
   },
   "1000105306": {
-    "english": "Don't back down! : Action {0}%",
+    "english": "Don't back down! : SPD {0}%",
     "korean": "물러서지마라! : 행동력{0}%"
   },
   "1000105307": {
@@ -1272,7 +1272,7 @@
     "korean": "칙 지상 폭격 : 피해량{0}% (중장)"
   },
   "1000105319": {
-    "english": "Chik Formation (Launcher): AP {0}%",
+    "english": "Chik Formation (Launcher): SPD {0}%",
     "korean": "칙 포메이션 (런쳐) : 행동력{0}%"
   },
   "1000105320": {
@@ -1360,7 +1360,7 @@
     "korean": "무장 재보급 : 공격력 감소 해제 (F.아머리 상태)"
   },
   "1000105341": {
-    "english": "CTCS: {0}% DEF penetration (heavy attack aircraft)",
+    "english": "CTCS: {0}% DEF penetration (heavy Attacker)",
     "korean": "CTCS : 방어 관통{0}% (중장 공격기)"
   },
   "1000105342": {
@@ -1420,7 +1420,7 @@
     "korean": "재위장 : 회피 감소 해제 (처치 시)"
   },
   "1000105356": {
-    "english": "Relief: Action {0}%",
+    "english": "Relief: SPD {0}%",
     "korean": "안도감 : 행동력{0}%"
   },
   "1000105357": {
@@ -1656,7 +1656,7 @@
     "korean": "출력 증폭 : 치명타{0}%"
   },
   "1000105415": {
-    "english": "Unlock Outer Gloves: Action Points{0}%",
+    "english": "Unlock Outer Gloves: SPD{0}%",
     "korean": "외장 장갑 해제 : 행동력{0}%"
   },
   "1000105416": {
@@ -1680,7 +1680,7 @@
     "korean": "기술 선도 : 전기 저항 {0}%"
   },
   "1000105421": {
-    "english": "Sadistic Chef: Action Points{0}%",
+    "english": "Sadistic Chef: SPD{0}%",
     "korean": "가학적인 요리사 : 행동력{0}%"
   },
   "1000105422": {
@@ -1704,7 +1704,7 @@
     "korean": "배수진 : 적중{0}%"
   },
   "1000105427": {
-    "english": "Change Mode : Action Points {0}%",
+    "english": "Change Mode : SPD {0}%",
     "korean": "모드 변경 : 행동력 {0}%"
   },
   "1000105428": {
@@ -1764,7 +1764,7 @@
     "korean": "빙결 코팅 : 화염 저항 {0}%"
   },
   "1000105442": {
-    "english": "Overheating: Action Points {0}%",
+    "english": "Overheating: SPD {0}%",
     "korean": "과열 : 행동력 {0}%"
   },
   "1000105443": {
@@ -1772,7 +1772,7 @@
     "korean": "칙 블로킹 : 효과 저항{0}%"
   },
   "1000105444": {
-    "english": "Modified Machine Gun Suppression: Action Points {0}%",
+    "english": "Modified Machine Gun Suppression: SPD {0}%",
     "korean": "개조 기총 견제 : 행동력 {0}%"
   },
   "1000105445": {
@@ -1876,7 +1876,7 @@
     "korean": "포격 지휘 : 효과 저항{0}%"
   },
   "1000105470": {
-    "english": "Combat Overload : Action Points{0}%",
+    "english": "Combat Overload : SPD{0}%",
     "korean": "전투 과몰입 : 행동력{0}%"
   },
   "1000105471": {
@@ -1968,7 +1968,7 @@
     "korean": "기원 : 효과 저항{0}% (2r)"
   },
   "1000105493": {
-    "english": "Preemptive Strike: Action Points {0}%",
+    "english": "Preemptive Strike: SPD {0}%",
     "korean": "선제 공격 : 행동력 {0}%"
   },
   "1000105494": {
@@ -1992,7 +1992,7 @@
     "korean": "두 개로 보여- : 적중 {0}%"
   },
   "1000105499": {
-    "english": "Last Crusade: {0}% Action Points (when killing an enemy)",
+    "english": "Last Crusade: {0}% SPD (when killing an enemy)",
     "korean": "최후의 성전 : 행동력{0}% (적 처치 시)"
   },
   "1000105500": {
@@ -2016,11 +2016,11 @@
     "korean": "여왕의 존재감 : 지정 대상 보호 (경장/기동)"
   },
   "1000105505": {
-    "english": "Take the lead: Action {0}%",
+    "english": "Take the lead: SPD {0}%",
     "korean": "앞장서시죠 : 행동력{0}%"
   },
   "1000105506": {
-    "english": "Extreme Cold Adaptation : Action Points{0}%",
+    "english": "Extreme Cold Adaptation : SPD{0}%",
     "korean": "혹한 적응 : 행동력{0}%"
   },
   "1000105507": {
@@ -2060,7 +2060,7 @@
     "korean": "준비물 확인 : 행동력{0}%"
   },
   "1000105516": {
-    "english": "Chick Formation : Action Points{0}%",
+    "english": "Chick Formation : SPD{0}%",
     "korean": "칙 포메이션 : 행동력{0}%"
   },
   "1000105517": {
@@ -2108,11 +2108,11 @@
     "korean": "무장 재보급 : 치명타 감소 해제 (F.아머리 상태)"
   },
   "1000105528": {
-    "english": "Reheat: AP{0} (F.Armor status heavy attack aircraft)",
+    "english": "Reheat: AP{0} (F.Armor status heavy Attacker)",
     "korean": "재방열 : AP{0} (F.아머리 상태 중장 공격기)"
   },
   "1000105529": {
-    "english": "Improved Combat System: Action Points{0}%",
+    "english": "Improved Combat System: SPD{0}%",
     "korean": "개량형 전투 시스템 : 행동력{0}%"
   },
   "1000105530": {
@@ -2188,7 +2188,7 @@
     "korean": "벙커 버스터 : 피해 감소 효과 해제"
   },
   "1000105548": {
-    "english": "Mobile Shot: {0}% Action Points (while moving)",
+    "english": "Mobile Shot: {0}% SPD (while moving)",
     "korean": "기동간 사격 : 행동력{0}% (이동 시)"
   },
   "1000105549": {
@@ -2232,7 +2232,7 @@
     "korean": "출력 증폭 : 행동력{0}%"
   },
   "1000105559": {
-    "english": "Top Secret New Research: Accuracy / Action Point Reduction",
+    "english": "Top Secret New Research: Accuracy / SPD Reduction",
     "korean": "극비 신작 연구 : 적중 / 행동력 감소"
   },
   "1000105560": {
@@ -2288,11 +2288,11 @@
     "korean": "어비스 워커 : 행동력{0}% (침수 시)"
   },
   "1000105573": {
-    "english": "Aqua Module: Action Points {0}% (when flooded)",
+    "english": "Aqua Module: SPD {0}% (when flooded)",
     "korean": "아쿠아 모듈 : 행동력{0}% (침수 시)"
   },
   "1000105574": {
-    "english": "Battlefield Analysis OS: Action Points{0}% (when scouting)",
+    "english": "Battlefield Analysis OS: SPD{0}% (when scouting)",
     "korean": "전황 분석 OS : 행동력{0}% (정찰 시)"
   },
   "1000105575": {
@@ -2336,7 +2336,7 @@
     "korean": "포격 지휘 : 해로운 효과 해제"
   },
   "1000105585": {
-    "english": "Super Nerineri! : Action Points{0}%",
+    "english": "Super Nerineri! : SPD{0}%",
     "korean": "슈퍼 네리네리다! : 행동력{0}%"
   },
   "1000105586": {
@@ -2400,7 +2400,7 @@
     "korean": "앞장서시죠 : 공격 지원"
   },
   "1000105601": {
-    "english": "Jamming Capture Round: Action Points {0}%",
+    "english": "Jamming Capture Round: SPD {0}%",
     "korean": "재밍 포획탄 : 행동력 {0}%"
   },
   "1000105602": {
@@ -2416,7 +2416,7 @@
     "korean": "칙 업그레이드 : 행동력{0}%"
   },
   "1000105605": {
-    "english": "Permanent Reinforcement: Action Points{0}%",
+    "english": "Permanent Reinforcement: SPD{0}%",
     "korean": "칙 영구 강화 : 행동력{0}%"
   },
   "1000105606": {
@@ -2440,7 +2440,7 @@
     "korean": "목표 제거 : 추가 피해"
   },
   "1000105611": {
-    "english": "Assassination Preparation: Action Point Recovery Effect",
+    "english": "Assassination Preparation: SPD Recovery Effect",
     "korean": "암살 준비 : 행동력 회복 효과"
   },
   "1000105612": {
@@ -2448,7 +2448,7 @@
     "korean": "정화의 빛! : 적중 / 행동력 감소"
   },
   "1000105613": {
-    "english": "Increases action point recovery during battle by {0}",
+    "english": "Increases SPD recovery during battle by {0}",
     "korean": "전투 중 행동력 회복 {0} 증가"
   },
   "1000105614": {
@@ -2484,7 +2484,7 @@
     "korean": "편대 호위 : 인접 기동형 적중 / 회피 / 행동력 증가"
   },
   "1000105622": {
-    "english": "Slug bullet: ACU/ Action point reduction / Certain probability of being unable to act",
+    "english": "Slug bullet: ACU/ SPD reduction / Certain probability of being unable to act",
     "korean": "슬러그 탄 : 적중 / 행동력 감소 / 일정 확률 행동 불가"
   },
   "1000105623": {
@@ -2652,7 +2652,7 @@
     "korean": "공격 지휘 전환 : 공격 시, 공격 지휘로 전환"
   },
   "1000105665": {
-    "english": "Unstoppable Run: Removes the increased and decreased action points/evasion effects.",
+    "english": "Unstoppable Run: Removes the increased and decreased SPD/evasion effects.",
     "korean": "멈출 수 없는 질주 : 행동력 / 회피 증가 & 감소 효과 해제"
   },
   "1000105668": {
@@ -2668,7 +2668,7 @@
     "korean": "곡예 비행 : 회피 증가"
   },
   "1000105677": {
-    "english": "Warrior's Spear: Taunt / Reduces Action Points",
+    "english": "Warrior's Spear: Taunt / Reduces SPD",
     "korean": "전사의 창 : 도발 / 행동력 감소"
   },
   "1000105678": {
@@ -2744,7 +2744,7 @@
     "korean": "용맹 : 공격 적중 시, 치명타 증가"
   },
   "1000105699": {
-    "english": "Shining Bravery: Reduces damage taken / Increases AP.",
+    "english": "Shining Bravery: Reduces damage taken / Increases SPD.",
     "korean": "빛나는 용맹 : 받는 피해 감소 / 행동력 증가"
   },
   "1000105700": {
@@ -2916,7 +2916,7 @@
     "korean": "첩보망 공유 : 정찰 활성화 대상 공격 지원"
   },
   "1000105750": {
-    "english": "Intel Network Sharing: AP Increase (on standby)",
+    "english": "Intel Network Sharing: SPD Increase (on standby)",
     "korean": "첩보망 공유 : 행동력 증가 (대기 시)"
   },
   "1000105751": {
@@ -3160,7 +3160,7 @@
     "korean": "첩보망 구축 : 공격력{0}%"
   },
   "1000105819": {
-    "english": "Intel Network Sharing: AP {0}%",
+    "english": "Intel Network Sharing: SPD {0}%",
     "korean": "첩보망 공유 : 행동력{0}%"
   },
   "1000105820": {
@@ -3192,7 +3192,7 @@
     "korean": "첩보 지원 : 공격 지원"
   },
   "1000105827": {
-    "english": "I’m Watching You...: AP {0}%",
+    "english": "I’m Watching You...: SPD {0}%",
     "korean": "지켜보고 있어요... : 행동력{0}%"
   },
   "1000105828": {
@@ -3244,7 +3244,7 @@
     "korean": "호위 지원 : {0}% 확률 공격 지원"
   },
   "1000105840": {
-    "english": "Unstoppable Run: Action Points Reduced",
+    "english": "Unstoppable Run: SPD Reduced",
     "korean": "멈출 수 없는 질주 : 행동력 감소 무효"
   },
   "1000105841": {
@@ -3380,7 +3380,7 @@
     "korean": "용맹 : 지정 대상 보호 (경장)"
   },
   "1000105896": {
-    "english": "Charge Command: {0}% AP",
+    "english": "Charge Command: {0}% SPD",
     "korean": "돌격 명령 : 행동력{0}%"
   },
   "1000105899": {
@@ -3388,11 +3388,11 @@
     "korean": "듀얼 개시 : 대상 도발"
   },
   "1000105900": {
-    "english": "Extreme Discomfort (Daika): AP {0}%",
+    "english": "Extreme Discomfort (Daika): SPD {0}%",
     "korean": "극도의 불편함 (다이카) : 행동력 {0}%"
   },
   "1000105901": {
-    "english": "Extreme Discomfort (Sylphide): {0}% AP",
+    "english": "Extreme Discomfort (Sylphide): {0}% SPD",
     "korean": "극도의 불편함 (실피드) : 행동력 {0}%"
   },
   "1000105902": {
@@ -3464,7 +3464,7 @@
     "korean": "거점 방어 모드 : 효과 저항{0}% (공격 시)"
   },
   "1000105924": {
-    "english": "Home Ground: AP {0}% (when flooded)",
+    "english": "Home Ground: SPD {0}% (when flooded)",
     "korean": "홈 그라운드 : 행동력{0}% (침수 시)"
   },
   "1000105925": {
@@ -3500,7 +3500,7 @@
     "korean": "엘랑비탈 : 방어력 증가 / 받는 피해 감소"
   },
   "1000105933": {
-    "english": "Anti-Air Command: Protect Light Allies / Damage to Air Units / ACU / AP Increase",
+    "english": "Anti-Air Command: Protect Light Allies / Damage to Air Units / ACU / SPD Increase",
     "korean": "대공 지휘 : 경장 아군 보호 / 대 기동형 피해량 / 적중 / 행동력 증가"
   },
   "1000105934": {
@@ -3524,7 +3524,7 @@
     "korean": "정밀 분석 : 인접 아군 공격력 / 치명타 증가 / 방어 관통 증가"
   },
   "1000105939": {
-    "english": "Operation Optimization: Increased action points/AP of adjacent allies",
+    "english": "Operation Optimization: Increased SPD/AP of adjacent allies",
     "korean": "연산 최적화 : 인접 아군 행동력 / AP 증가"
   },
   "1000105940": {
@@ -3676,7 +3676,7 @@
     "korean": "위장 전술 : 적 처치 시, 회피 증가"
   },
   "1000105977": {
-    "english": "Anti-Air Command: Damage to Air Units / ACU / AP Increase",
+    "english": "Anti-Air Command: Damage to Air Units / ACU / SPD Increase",
     "korean": "대공 지휘 : 대 기동형 피해량 / 적중 / 행동력 증가"
   },
   "1000105978": {
@@ -3740,19 +3740,19 @@
     "korean": "HESH탄 : 방어력 감소 대상 피해 감소 효과 해제"
   },
   "1000105993": {
-    "english": "Tomo and Friends: ATK / ACU / CRIT / AP Increase",
+    "english": "Tomo and Friends: ATK / ACU / CRIT / SPD Increase",
     "korean": "토모와 친구들 : 공격력 / 적중 / 치명타 / 행동력 증가"
   },
   "1000105994": {
-    "english": "Tomo and Friends!: ATK / ACU / CRIT / AP Increase",
+    "english": "Tomo and Friends!: ATK / ACU / CRIT / SPD Increase",
     "korean": "토모와 친구들! : 공격력 / 적중 / 치명타 / 행동력 증가"
   },
   "1000105995": {
-    "english": "Tomo and Friends~: ATK / ACU / CRIT / AP Increase",
+    "english": "Tomo and Friends~: ATK / ACU / CRIT / SPD Increase",
     "korean": "토모와 친구들~ : 공격력 / 적중 / 치명타 / 행동력 증가"
   },
   "1000105996": {
-    "english": "Tomo and Friends?: ATK / ACU / CRIT / AP Increase",
+    "english": "Tomo and Friends?: ATK / ACU / CRIT / SPD Increase",
     "korean": "토모와 친구들? : 공격력 / 적중 / 치명타 / 행동력 증가"
   },
   "1000105997": {

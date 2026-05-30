@@ -196,7 +196,7 @@
     "korean": "총공격이에요! : 자신 받는 피해 감소 / 반격"
   },
   "1000106107": {
-    "english": "Ice Bolt: Mark / EVA / Reduced AP / Increased Damage Taken / Use Battlefield Control",
+    "english": "Ice Bolt: Mark / EVA / SPD / Increased Damage Taken / Use Battlefield Control",
     "korean": "빙결 볼트 : 표식 / 회피 / 행동력 감소 / 받는 피해 증가 / 전장 장악 사용"
   },
   "1000106108": {
@@ -216,7 +216,7 @@
     "korean": "정밀 저격 지시 : 경장형 공격기 / 지원기 공격력 / 적중 / 치명타 / 관통 증가"
   },
   "1000106112": {
-    "english": "Ice Bolt: EVA/ AP Reduced / Damage Taken Increased",
+    "english": "Ice Bolt: EVA/ SPD / Damage Taken Increased",
     "korean": "빙결 볼트 : 회피 / 행동력 감소 / 받는 피해 증가"
   },
   "1000106113": {
@@ -776,7 +776,7 @@
     "korean": "내가 주는 선물이야! : 표식 / 받는 피해 증가 / 적중 감소"
   },
   "1000106252": {
-    "english": "Initiate a reconnaissance mission: Increases CRIT, ACU, and EVA. Increases action points during reconnaissance.",
+    "english": "Initiate a reconnaissance mission: Increases CRIT, ACU, and EVA. Increases SPD during reconnaissance.",
     "korean": "초계 임무 개시 : 치명타 / 적중 / 회피 증가. 정찰 시, 행동력 증가"
   },
   "1000106253": {
@@ -1120,7 +1120,7 @@
     "korean": "기습 : 치명타 시, 반격 해제"
   },
   "1000106338": {
-    "english": "Initiate Outpost Mission: Support the Siren Attack",
+    "english": "Initiate Outpost Mission: Support the Sirene Attack",
     "korean": "초계 임무 개시 : 세이렌에게 공격 지원"
   },
   "1000106339": {
@@ -1520,11 +1520,11 @@
     "korean": "은밀 : 치명타시 피해량 증가 / 중장 추가 피해"
   },
   "1000106438": {
-    "english": "Thunder God Flash: Ignores protection, reduces AP/EVA /electricity attributes, and deals additional damage when under fire/cold debuff status.",
+    "english": "Thunder God Flash: Ignores protection, reduces SPD/EVA /electricity attributes, and deals additional damage when under fire/cold debuff status.",
     "korean": "뇌신 일섬 : 보호 무시, 행동력 / 회피 / 전기 속성 감소, 화염/냉기 디버프 상태 시 추가 피해"
   },
   "1000106439": {
-    "english": "Void: Increases EVA/ACU, increases CRIT/AP when attacking (stacks)",
+    "english": "Void: Increases EVA/ACU, increases CRIT/SPD (stacks)",
     "korean": "허공 둔 : 회피 / 적중 증가, 공격 적중시 치명타 / 행동력 증가 (중첩)"
   },
   "1000106440": {
@@ -1708,7 +1708,7 @@
     "korean": "피날레 : 피해량{0}% (표식 / 도발 대상)"
   },
   "1000106485": {
-    "english": "Autoload: {0}% AP",
+    "english": "Autoload: {0}% SPD",
     "korean": "자동 장전 : 행동력{0}%"
   },
   "1000106486": {
@@ -2348,7 +2348,7 @@
     "korean": "급가속 공격 : 피해량{0}%"
   },
   "1000106645": {
-    "english": "Reload: {0}% AP",
+    "english": "Reload: {0}% SPD",
     "korean": "재장전 : 행동력{0}%"
   },
   "1000106646": {
@@ -2452,7 +2452,7 @@
     "korean": "정밀 초계 임무 : 치명타{0}%"
   },
   "1000106671": {
-    "english": "Patrol Report : AP {0}%",
+    "english": "Patrol Report : SPD {0}%",
     "korean": "초계 보고 : 행동력{0}%"
   },
   "1000106672": {
@@ -2652,7 +2652,7 @@
     "korean": "대화 시도 : 방어력 {0}%"
   },
   "1000106721": {
-    "english": "Let's Go All Out! : AP {0}%",
+    "english": "Let's Go All Out! : SPD {0}%",
     "korean": "화끈하게 가보자고! : 행동력{0}%"
   },
   "1000106722": {
@@ -2736,7 +2736,7 @@
     "korean": "은밀 : 추가 전기 피해{0}%"
   },
   "1000106742": {
-    "english": "Lightning Flash : AP {0}",
+    "english": "Lightning Flash : SPD {0}",
     "korean": "뇌신 일섬 : 행동력{0}"
   },
   "1000106743": {
@@ -2828,7 +2828,7 @@
     "korean": "정밀 포격 : 적중{0}%"
   },
   "1000106765": {
-    "english": "Auto Reload Device : AP {0}%",
+    "english": "Auto Reload Device : SPD {0}%",
     "korean": "자동 장전 장치 : 행동력{0}%"
   },
   "1000106766": {
@@ -2836,7 +2836,7 @@
     "korean": "불굴의 의지 : AP{0} (HP 33% 이하)"
   },
   "1000106767": {
-    "english": "Fighting Spirit : AP {0}%",
+    "english": "Fighting Spirit : SPD {0}%",
     "korean": "전의 충만 : 행동력{0}%"
   },
   "1000106768": {
@@ -2916,11 +2916,11 @@
     "korean": "탄막 사격 (잔탄 최대) : 행동력{0}%"
   },
   "1000106787": {
-    "english": "Suppressive Fire (Ammo Normal) : AP {0}%",
+    "english": "Suppressive Fire (Ammo Normal) : SPD {0}%",
     "korean": "탄막 사격 (잔탄 보통) : 행동력{0}%"
   },
   "1000106788": {
-    "english": "Suppressive Fire (Ammo High) : AP {0}%",
+    "english": "Suppressive Fire (Ammo High) : SPD {0}%",
     "korean": "탄막 사격 (잔탄 높음) : 행동력{0}%"
   },
   "1000106789": {
@@ -2956,11 +2956,11 @@
     "korean": "짜릿한 달콤함 : 회피{0}%"
   },
   "1000106797": {
-    "english": "Very Sweet Scent : AP {0}%",
+    "english": "Very Sweet Scent : SPD {0}%",
     "korean": "매우 달콤한 향기 : 행동력{0}%"
   },
   "1000106798": {
-    "english": "Full of Motivation : AP {0}%",
+    "english": "Full of Motivation : SPD {0}%",
     "korean": "의욕 만만 : 행동력{0}%"
   },
   "1000106799": {
@@ -2968,7 +2968,7 @@
     "korean": "빙결 볼트 : 회피 {0}%"
   },
   "1000106800": {
-    "english": "Anti-Terror Command : AP {0}% (Mongoose Unit Effect Target)",
+    "english": "Anti-Terror Command : SPD {0}% (Mongoose Unit Effect Target)",
     "korean": "대 테러 지휘 : 행동력{0}% (몽구스 대원 효과 대상)"
   },
   "1000106801": {
@@ -2976,7 +2976,7 @@
     "korean": "정밀 저격 지시 : 적중{0}% (경장 공격/지원)"
   },
   "1000106802": {
-    "english": "Rapid Freeze : AP {0}%",
+    "english": "Rapid Freeze : SPD {0}%",
     "korean": "급속 빙결 : 행동력 {0}%"
   },
   "1000106803": {
@@ -3204,7 +3204,7 @@
     "korean": "은총 하사 3단계 : 방어 관통{0}%"
   },
   "1000106859": {
-    "english": "Attempt Communication : AP {0}%",
+    "english": "Attempt Communication : SPD {0}%",
     "korean": "대화 시도 : 행동력 {0}%"
   },
   "1000106860": {
@@ -3272,7 +3272,7 @@
     "korean": "허공 둔 : 적중{0}%"
   },
   "1000106876": {
-    "english": "Air Slash : AP {0}%",
+    "english": "Air Slash : SPD {0}%",
     "korean": "허공 둔 : 행동력{0}%"
   },
   "1000106877": {
@@ -3324,7 +3324,7 @@
     "korean": "위장 개시 : 회피{0}% (적 처치 시)"
   },
   "1000106889": {
-    "english": "Slower, Slower~! : AP {0}%",
+    "english": "Slower, Slower~! : SPD {0}%",
     "korean": "느려 느려~! : 행동력{0}%"
   },
   "1000106890": {
@@ -3340,7 +3340,7 @@
     "korean": "돌격형 전투 OS : 행동력{0}%"
   },
   "1000106893": {
-    "english": "Anti-Air Command : AP {0}%",
+    "english": "Anti-Air Command : SPD {0}%",
     "korean": "대공 지휘 : 행동력{0}%"
   },
   "1000106894": {
@@ -3356,15 +3356,15 @@
     "korean": "루머 배포 준비 : 행동력{0}% (2웨이브 이후)"
   },
   "1000106897": {
-    "english": "Rapid Acceleration : AP {0}% (Frontline)",
+    "english": "Rapid Acceleration : SPD {0}% (Frontline)",
     "korean": "급가속 : 행동력{0}% (전열)"
   },
   "1000106898": {
-    "english": "Rapid Acceleration : AP {0}% (Midline)",
+    "english": "Rapid Acceleration : SPD {0}% (Midline)",
     "korean": "급가속 : 행동력{0}% (중열)"
   },
   "1000106899": {
-    "english": "Rapid Acceleration : AP {0}% (Backline)",
+    "english": "Rapid Acceleration : SPD {0}% (Backline)",
     "korean": "급가속 : 행동력{0}% (후열)"
   },
   "1000106900": {
@@ -3512,11 +3512,11 @@
     "korean": "통솔 대응 : 치명타{0}%"
   },
   "1000106936": {
-    "english": "Attack Command (Observation) : AP{0}%",
+    "english": "Attack Command (Observation) : SPD{0}%",
     "korean": "공격 지휘 (관측) : 행동력{0}%"
   },
   "1000106937": {
-    "english": "Defense Command (Observation) : AP{0}%",
+    "english": "Defense Command (Observation) : SPD{0}%",
     "korean": "방어 지휘 (관측) : 행동력{0}%"
   },
   "1000106938": {
@@ -3544,7 +3544,7 @@
     "korean": "뒤로 피하세요! : 화염 저항{0}% (화 속성 피격 시)"
   },
   "1000106944": {
-    "english": "Heat Protection : AP{0}%",
+    "english": "Heat Protection : SPD{0}%",
     "korean": "열기 보호 : 행동력{0}%"
   },
   "1000106945": {
@@ -3584,7 +3584,7 @@
     "korean": "잡을 수 있겠어? : 회피{0}% (공격 시)"
   },
   "1000106954": {
-    "english": "Linked Maneuver : AP{0}% (Per Anger of Horde Member)",
+    "english": "Linked Maneuver : SPD{0}% (Per Anger of Horde Member)",
     "korean": "연계 기동 : 행동력{0}% (앵거 오브 호드 대원 당)"
   },
   "1000106955": {
@@ -3644,7 +3644,7 @@
     "korean": "하드포인트 <보조> 시 : 적중 강화 해제"
   },
   "1000106969": {
-    "english": "Patrol Mission Start : AP{0}%",
+    "english": "Patrol Mission Start : SPD{0}%",
     "korean": "초계 임무 개시 : 행동력{0}%"
   },
   "1000106970": {
@@ -3652,7 +3652,7 @@
     "korean": "하드포인트 <보조> : 보조 기능 강화"
   },
   "1000106971": {
-    "english": "Precision Patrol Mission : AP{0}%",
+    "english": "Precision Patrol Mission : SPD{0}%",
     "korean": "정밀 초계 임무 : 행동력{0}%"
   },
   "1000106972": {
@@ -3660,7 +3660,7 @@
     "korean": "사기 진작 : {0}% 위력으로 반격 (자신 전투 불능 시)"
   },
   "1000106973": {
-    "english": "Mastery of Military Strategy: Action Points{0}%",
+    "english": "Mastery of Military Strategy: SPD{0}%",
     "korean": "군사 전략 통달 : 행동력{0}%"
   },
   "1000106974": {
@@ -3672,7 +3672,7 @@
     "korean": "사기 진작 : {0}% 위력으로 반격"
   },
   "1000106976": {
-    "english": "Volley Attack : Action Points{0}%",
+    "english": "Volley Attack : SPD{0}%",
     "korean": "일제 공격 : 행동력{0}%"
   },
   "1000106977": {

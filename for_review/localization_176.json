@@ -168,7 +168,7 @@
     "korean": "수제 민트 초콜릿 (하치코)"
   },
   "Ev_Chocolate_3P_Salacia_Desc": {
-    "english": "This is handmade chocolate made by Salasia herself.",
+    "english": "This is handmade chocolate made by Salacia herself.",
     "korean": "살라시아가 직접 만든 수제 초콜릿입니다."
   },
   "Ev_Chocolate_3P_Salacia_Name": {
@@ -328,11 +328,11 @@
     "korean": "행성 모양 초콜릿 (코코)"
   },
   "Ev_Chocolate_PECS_HighElven_Desc": {
-    "english": "This is handmade milk chocolate made with milk harvested directly by Celestia.",
+    "english": "This is handmade milk chocolate made with milk harvested directly by Cerestia.",
     "korean": "세레스티아가 직접 채취한 밀크로 만든 수제 밀크 초콜릿입니다."
   },
   "Ev_Chocolate_PECS_HighElven_Name": {
-    "english": "Elven Milk Chocolate (Celestia)",
+    "english": "Elven Milk Chocolate (Cerestia)",
     "korean": "엘븐밀크 초콜릿 (세레스티아)"
   },
   "Ev_Chocolate_PECS_Leanne_Desc": {
@@ -364,7 +364,7 @@
     "korean": "우르가 만든 양 모양 수제 초콜릿입니다."
   },
   "Ev_Chocolate_ST_Ullr_Name": {
-    "english": "Sheep-shaped chocolate (Ur)",
+    "english": "Sheep-shaped chocolate (Ullr)",
     "korean": "양 모양 초콜릿 (우르)"
   },
   "Ev_Consumable_5thAnniversaryTicket": {
@@ -576,19 +576,19 @@
     "korean": "공격력이 증가하지만, 치명타는 감소하는 회로입니다."
   },
   "ItemDescDetail_Equip_Chip_AtkCri_T1": {
-    "english": "It stabilizes output to lower action points, but increases attack power and critical hit rate.",
+    "english": "It stabilizes output to lower SPD, but increases attack power and critical hit rate.",
     "korean": "출력을 안정시켜 행동력을 낮추는 대신, 공격력과 치명타를 높입니다."
   },
   "ItemDescDetail_Equip_Chip_AtkCri_T2": {
-    "english": "It stabilizes output to lower action points, but increases attack power and critical hit rate.",
+    "english": "It stabilizes output to lower SPD, but increases attack power and critical hit rate.",
     "korean": "출력을 안정시켜 행동력을 낮추는 대신, 공격력과 치명타를 높입니다."
   },
   "ItemDescDetail_Equip_Chip_AtkCri_T3": {
-    "english": "It stabilizes output to lower action points, but increases attack power and critical hit rate.",
+    "english": "It stabilizes output to lower SPD, but increases attack power and critical hit rate.",
     "korean": "출력을 안정시켜 행동력을 낮추는 대신, 공격력과 치명타를 높입니다."
   },
   "ItemDescDetail_Equip_Chip_AtkCri_T4": {
-    "english": "Stabilizes output to reduce AP, but increases ATK and CRIT.",
+    "english": "Stabilizes output to reduce SPD, but increases ATK and CRIT.",
     "korean": "출력을 안정시켜 행동력을 낮추는 대신, 공격력과 치명타를 높입니다."
   },
   "ItemDescDetail_Equip_Chip_AtkTypeB_T1": {
@@ -880,7 +880,7 @@
     "korean": "경량화 처리로 적중 / 회피 / 행동력이 증가하지만, 공격력이 감소합니다."
   },
   "ItemDescDetail_Equip_Chip_LTWT_T4": {
-    "english": "Lightweight processing increases Accuracy / Evasion / Action Points but decreases Attack.",
+    "english": "Lightweight processing increases Accuracy / Evasion / SPD but decreases Attack.",
     "korean": "경량화 처리로 적중 / 회피 / 행동력이 증가하지만, 공격력이 감소합니다."
   },
   "ItemDescDetail_Equip_Chip_Outback_T4": {
@@ -940,7 +940,7 @@
     "korean": "각 처리 성능을 향상시켜 행동력이 증가합니다. 오버 클럭으로 회피가 감소 합니다."
   },
   "ItemDescDetail_Equip_Chip_SpdTypeB_T4": {
-    "english": "Enhances processing performance to increase action points. Overclock reduces evasion.",
+    "english": "Enhances processing performance to increase SPD. Overclock reduces evasion.",
     "korean": "각 처리 성능을 향상시켜 행동력이 증가합니다. 오버 클럭으로 회피가 감소 합니다."
   },
   "ItemDescDetail_Equip_Chip_Spd_T1": {
@@ -956,7 +956,7 @@
     "korean": "각 처리 성능을 향상시켜 행동력이 증가합니다."
   },
   "ItemDescDetail_Equip_Chip_Spd_T4": {
-    "english": "Improves processing performance to increase AP.",
+    "english": "Improves processing performance to increase SPD.",
     "korean": "각 처리 성능을 향상시켜 행동력이 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_40mmDUBullet_T4": {
@@ -976,15 +976,15 @@
     "korean": "P-3M 운디네 전용 ASN-6G 미사일입니다. 방어 관통과 대 중장형 피해량이 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_AWThruster_T1": {
-    "english": "This is a thruster exclusive to mobile attack aircraft. When equipped, skill power increases.",
+    "english": "This is a thruster exclusive to mobile Attacker. When equipped, skill power increases.",
     "korean": "기동형 공격기 전용 추력기입니다.&n장착 시, 스킬 위력이 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_AWThruster_T2": {
-    "english": "This is a thruster exclusive to mobile attack aircraft. When equipped, skill power increases.",
+    "english": "This is a thruster exclusive to mobile Attacker. When equipped, skill power increases.",
     "korean": "기동형 공격기 전용 추력기입니다.&n장착 시, 스킬 위력이 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_AWThruster_T3": {
-    "english": "This is a thruster exclusive to mobile attack aircraft. When equipped, skill power increases.",
+    "english": "This is a thruster exclusive to mobile Attacker. When equipped, skill power increases.",
     "korean": "기동형 공격기 전용 추력기입니다.&n장착 시, 스킬 위력이 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_AWThruster_T4": {
@@ -1024,7 +1024,7 @@
     "korean": "라운드 개시 시, 방어막 효과가 적용된 상태면 해당 효과를 해제하고 공격력과 행동력이 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_AntiBarrier_T4": {
-    "english": "At the start of the round, if a shield effect is active, that effect is removed and attack power and AP increase.",
+    "english": "At the start of the round, if a shield effect is active, that effect is removed and attack power and SPD increase.",
     "korean": "라운드 개시 시, 방어막 효과가 적용된 상태면 해당 효과를 해제하고 공격력과 행동력이 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_AntiCold_T1": {
@@ -1116,7 +1116,7 @@
     "korean": "치명타가 증가하며 방어 관통 효과를 얻습니다."
   },
   "ItemDescDetail_Equip_Sub_AtkSpd_T4": {
-    "english": "Output enhancement circuit reinforced with new materials.&nATK and AP increase.",
+    "english": "Output enhancement circuit reinforced with new materials.&nATK and SPD increase.",
     "korean": "신소재로 강화된 출력 강화 회로입니다.&n공격력과 행동력이 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_BabyBottle_T4": {
@@ -1152,7 +1152,7 @@
     "korean": "종종 멀린이 양 손에 들고 다니는 맥주입니다. 좋아하는 브랜드일까요?&n[i][c][ff0000]※ 주의 : 함부로 흔들면 안됩니다.[/i][-][/c]&n&n<빅 건> 치명타 시, 대상의 강화 효과를 해제합니다."
   },
   "ItemDescDetail_Equip_Sub_BlueScreenRounds_T4": {
-    "english": "",
+    "english": "Electronic warfare rounds exclusive to mobile units.&nOn CRIT, reduces the target's Skill Power for 2 rounds.&n",
     "korean": "기동형 전용 전자전 탄환입니다. &n치명타 시, 2라운드 동안 대상의 스킬 위력을 감소시킵니다.&n"
   },
   "ItemDescDetail_Equip_Sub_BoilingVessel_T4": {
@@ -1180,7 +1180,7 @@
     "korean": "켈베로스 전용 촙 메이커 II와 강화 티타늄 실드입니다. 라운드 개시 시, 방어력이 증가하며 반격이 활성화 됩니다. <스턴 롯드>의 피해량이 20% 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_Choker_T4": {
-    "english": "",
+    "english": "A choker designed for Alice with a built-in timer that gradually tightens.&nConstructed to withstand even a Bioroid's strength without breaking easily.&nSwaps the on-hit effects of Active Skills with each other.",
     "korean": "타이머가 삽입되어 점차 죄어드는 기능이 부착된 앨리스용 초커입니다.&n바이오로이드의 힘으로도 쉬이 파손되지 않도록 튼튼하게 제작되었습니다.&n액티브 스킬의 적중 시 효과를 서로 맞바꿉니다."
   },
   "ItemDescDetail_Equip_Sub_CryogenicRounds_T4": {
@@ -1228,15 +1228,15 @@
     "korean": "에너지 팩의 보조로, 매 라운드 AP가 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_ExamKit_T1": {
-    "english": "This is a sight exclusive to heavy attack aircraft. When attacking, there is a certain probability of ignoring the target's shields and damage reduction effects.",
+    "english": "This is a sight exclusive to heavy Attacker. When attacking, there is a certain probability of ignoring the target's shields and damage reduction effects.",
     "korean": "중장형 공격기 전용 조준기입니다.&n공격 시, 일정 확률로 공격 대상의 방어막과 피해 감소 효과를 무시합니다."
   },
   "ItemDescDetail_Equip_Sub_ExamKit_T2": {
-    "english": "This is a sight exclusive to heavy attack aircraft. When attacking, there is a certain probability of ignoring the target's shields and damage reduction effects.",
+    "english": "This is a sight exclusive to heavy Attacker. When attacking, there is a certain probability of ignoring the target's shields and damage reduction effects.",
     "korean": "중장형 공격기 전용 조준기입니다.&n공격 시, 일정 확률로 공격 대상의 방어막과 피해 감소 효과를 무시합니다."
   },
   "ItemDescDetail_Equip_Sub_ExamKit_T3": {
-    "english": "This is a sight exclusive to heavy attack aircraft. When attacking, there is a certain probability of ignoring the target's shields and damage reduction effects.",
+    "english": "This is a sight exclusive to heavy Attacker. When attacking, there is a certain probability of ignoring the target's shields and damage reduction effects.",
     "korean": "중장형 공격기 전용 조준기입니다.&n공격 시, 일정 확률로 공격 대상의 방어막과 피해 감소 효과를 무시합니다."
   },
   "ItemDescDetail_Equip_Sub_ExamKit_T4": {
@@ -1276,7 +1276,7 @@
     "korean": "페어리 자매들이 티타니아를 위해 만들어준 수제 화관입니다.&n자신의 스킬 효과를 발동시키기 위해 필요한 <천년서리> 중첩이 1 감소합니다."
   },
   "ItemDescDetail_Equip_Sub_FortuneOrb_T4": {
-    "english": "It is a crystal ball-shaped computing device.&nAt the start of battle, AP increases and Recon effect is gained.",
+    "english": "It is a crystal ball-shaped computing device.&nAt the start of battle, SPD increases and Recon effect is gained.",
     "korean": "수정구 형태의 연산장치입니다.&n전투 개시 시, 행동력이 증가하며 정찰 효과를 얻습니다."
   },
   "ItemDescDetail_Equip_Sub_FrostStone_T4": {
@@ -1296,7 +1296,7 @@
     "korean": "매우 맛이 뛰어난 초콜릿입니다. 정신없이 먹다보면 나중에 후회할 일이 생길지도 모릅니다…&n바이오로이드가 장착 시, 전투 시작 AP가 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_Halo_T4": {
-    "english": "",
+    "english": "A halo imbued with Sarakael's unyielding will.&n[i][c][B8DDD9FF]Oderint dum metuant[/i][-][/c]&n",
     "korean": "사라카엘의 완고한 의지가 느껴지는 광배입니다.&n[i][c][B8DDD9FF]Oderint dum metuant[/i][-][/c]&n"
   },
   "ItemDescDetail_Equip_Sub_Hasta_T4": {
@@ -1336,7 +1336,7 @@
     "korean": "공격기 전용 장비입니다.&n전투 개시 시 자신이 후열인 경우, 자신의 적중이 크게 증가합니다. 해당 효과는 라운드 경과에 따라 점감합니다."
   },
   "ItemDescDetail_Equip_Sub_ImBarrier_T4": {
-    "english": "Upgraded equipment: grants a higher amount of shield each round but reduces action points.",
+    "english": "Upgraded equipment: grants a higher amount of shield each round but reduces SPD.",
     "korean": "개량형 장비로 매 라운드마다 더 높은 수치의 방어막을 얻는 대신 행동력이 감소합니다."
   },
   "ItemDescDetail_Equip_Sub_ImNitroEx3500_T4": {
@@ -1344,7 +1344,7 @@
     "korean": "<최대 속력 마하 2.50! 선물 전달을 위한 필수 장비!>&n<개량 : 장비의 성능을 향상 시켰습니다.>&n기동형 바이오로이드가 장착 후 회피 시, 포스트스톨 기동을 통해 스킬 위력이 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_ImOverclock_T4": {
-    "english": "Upgraded equipment that removes output limits, increasing attack power and action points. Only effective for robots.",
+    "english": "Upgraded equipment that removes output limits, increasing attack power and SPD. Only effective for robots.",
     "korean": "개량형 장비로 출력 제한을 해제해 공격력 / 행동력이 증가 합니다.&n로봇에게만 효과가 있습니다."
   },
   "ItemDescDetail_Equip_Sub_ImSpSight_T4": {
@@ -1360,15 +1360,15 @@
     "korean": "신속의 칸의 전용 랜서 리볼버 캐논용 탄환입니다. &n경장형/중장형 타격에 효과적입니다."
   },
   "ItemDescDetail_Equip_Sub_LWLoader_T1": {
-    "english": "This is a reloader exclusive to light attack aircraft. When attacking, there is a certain probability of gaining a re-attack effect.",
+    "english": "This is a reloader exclusive to light Attacker. When attacking, there is a certain probability of gaining a re-attack effect.",
     "korean": "경장형 공격기 전용 장전기입니다.&n공격 시, 일정 확률로 재공격 효과를 얻습니다."
   },
   "ItemDescDetail_Equip_Sub_LWLoader_T2": {
-    "english": "This is a reloader exclusive to light attack aircraft. When attacking, there is a certain probability of gaining a re-attack effect.",
+    "english": "This is a reloader exclusive to light Attacker. When attacking, there is a certain probability of gaining a re-attack effect.",
     "korean": "경장형 공격기 전용 장전기입니다.&n공격 시, 일정 확률로 재공격 효과를 얻습니다."
   },
   "ItemDescDetail_Equip_Sub_LWLoader_T3": {
-    "english": "This is a reloader exclusive to light attack aircraft. When attacking, there is a certain probability of gaining a re-attack effect.",
+    "english": "This is a reloader exclusive to light Attacker. When attacking, there is a certain probability of gaining a re-attack effect.",
     "korean": "경장형 공격기 전용 장전기입니다.&n공격 시, 일정 확률로 재공격 효과를 얻습니다."
   },
   "ItemDescDetail_Equip_Sub_LWLoader_T4": {
@@ -1404,7 +1404,7 @@
     "korean": "티에치엔이 '기연'이라고 주장하는 고대 문서입니다.&n<정금백련>을 습득한 후 적 처치 시, 공격력이 증가합니다."
   },
   "ItemDescDetail_Equip_Sub_MiniBlackWyrm_T4": {
-    "english": "This is a box containing a Mini Black Worm. It protects with a small shield and suppresses enemies with higher speed than the protected target when hit.&nThe gun looks a bit heavy though.&nExclusive equipment for protectors.",
+    "english": "This is a box containing a Mini Black Worm. It protects with a small shield and suppresses enemies with higher SPD than the protected target when hit.&nThe gun looks a bit heavy though.&nExclusive equipment for protectors.",
     "korean": "미니 블랙 웜이 들어있는 상자입니다. 작은 방패로 보호하며 피격 시, 보호 대상자보다 빠른 행동력을 가진 적을 견제합니다.&n총이 조금 무거워 보이지만요. &n보호기 전용 장비입니다."
   },
   "ItemDescDetail_Equip_Sub_MiniFenrir_T4": {
@@ -1440,7 +1440,7 @@
     "korean": "미니 스노우 페더가 들어있는 상자입니다. 그녀의 날갯짓은 적의 공격을 막는데 효과적입니다. ...가끔 차갑지만요.&n매 라운드마다 1회 피격에 한해 피해가 최소화 됩니다.&n보호기 전용 장비입니다."
   },
   "ItemDescDetail_Equip_Sub_Monitoring_T4": {
-    "english": "",
+    "english": "A surveillance device that Talonfeather claims to use for monitoring battlefield conditions.&nDespite her claims, it is frequently found in the Horde dormitory and the Commander's bedroom.&nThe EVA increase effect from <Kan of Swiftness>'s <Gap Exploitation> is no longer removed upon evading.",
     "korean": "탈론페더가 전장 상황을 파악하기 위해 사용한다…고 주장하는 감청장치입니다.&n본인의 주장과는 달리 호드 숙소와 사령관의 침실에서 자주 발견됩니다.&n<신속의 칸>의 <틈새 노리기>에 의한 회피 증가 효과가 더 이상 회피 시 해제되지 않습니다."
   },
   "ItemDescDetail_Equip_Sub_Monomolecular_T4": {
@@ -1508,7 +1508,7 @@
     "korean": "출력 제한을 해제해 공격력 / 행동력이 크게 증가하지만, 적중이 감소합니다. &n로봇에게만 효과가 있습니다."
   },
   "ItemDescDetail_Equip_Sub_Overclock_T4": {
-    "english": "Release output limit to greatly increase ATK / AP, but ACU decreases.&nOnly effective for robots.",
+    "english": "Release output limit to greatly increase ATK / SPD, but ACU decreases.&nOnly effective for robots.",
     "korean": "출력 제한을 해제해 공격력 / 행동력이 크게 증가하지만, 적중이 감소합니다. &n로봇에게만 효과가 있습니다."
   },
   "ItemDescDetail_Equip_Sub_ParticleAcceleratorATK_T4": {
@@ -1644,19 +1644,19 @@
     "korean": "오르카 기술부의 대원들이 라비아타를 위해 머리를 맞대고 만든 개선형 플라즈마 제네레이터입니다.&n공격 적중 시, <플라즈마> 중첩이 추가로 누적됩니다.&n<권여>의 지속 효과를 자신에게 집중합니다."
   },
   "ItemDescDetail_Equip_Sub_Stimulant_T1": {
-    "english": "At the start of battle, Action Points increase. If unable to act, continue the battle with a certain amount of HP once.",
+    "english": "At the start of battle, SPD increase. If unable to act, continue the battle with a certain amount of HP once.",
     "korean": "전투 시작 시, 행동력이 증가합니다.&n행동 불능 시, 1회에 한해 일정 HP를 가지고 전투를 속행합니다."
   },
   "ItemDescDetail_Equip_Sub_Stimulant_T2": {
-    "english": "At the start of battle, Action Points increase. If unable to act, continue the battle with a certain amount of HP once.",
+    "english": "At the start of battle, SPD increase. If unable to act, continue the battle with a certain amount of HP once.",
     "korean": "전투 시작 시, 행동력이 증가합니다.&n행동 불능 시, 1회에 한해 일정 HP를 가지고 전투를 속행합니다."
   },
   "ItemDescDetail_Equip_Sub_Stimulant_T3": {
-    "english": "At the start of battle, Action Points increase. If unable to act, continue the battle with a certain amount of HP once.",
+    "english": "At the start of battle, SPD increase. If unable to act, continue the battle with a certain amount of HP once.",
     "korean": "전투 시작 시, 행동력이 증가합니다.&n행동 불능 시, 1회에 한해 일정 HP를 가지고 전투를 속행합니다."
   },
   "ItemDescDetail_Equip_Sub_Stimulant_T4": {
-    "english": "At the start of combat, AP increases.&nWhen incapacitated, continues battle once with a certain amount of HP.",
+    "english": "At the start of combat, SPD increases.&nWhen incapacitated, continues battle once with a certain amount of HP.",
     "korean": "전투 시작 시, 행동력이 증가합니다.&n행동 불능 시, 1회에 한해 일정 HP를 가지고 전투를 속행합니다."
   },
   "ItemDescDetail_Equip_Sub_Stola_T4": {
@@ -1692,7 +1692,7 @@
     "korean": "T-60 불가사리 전용 신소재 테러 진압용 외장 아머입니다.&n속성 저항과 받는 피해가 감소하고 행 보호가 활성화됩니다."
   },
   "ItemDescDetail_Equip_Sub_TandemCharge_T4": {
-    "english": "",
+    "english": "Tandem warhead rounds exclusive to heavy-armored units.&nOn CRIT, removes the target's damage reduction effect.&n",
     "korean": "중장형 전용 이중 탄두입니다. &n치명타 시, 대상의 받는 피해 감소 효과를 해제합니다.&n"
   },
   "ItemDescDetail_Equip_Sub_ThornNecklace_T4": {
@@ -1708,7 +1708,7 @@
     "korean": "타치의 무기에 장착하는 타치 전용 보조 장비입니다. &n장착 시 적중한 적에게 추가 전기 피해를 입힙니다."
   },
   "ItemDescDetail_Equip_Sub_TracerRounds_T4": {
-    "english": "",
+    "english": "Tracer rounds exclusive to light-armored units.&nOn hit, removes the target's EVA increase effect and applies Marking.&n",
     "korean": "경장형 전용 예광 탄환입니다.&n적중 시, 대상의 회피 증가 효과를 해제하고 표식을 부여합니다.&n"
   },
   "ItemDescDetail_Equip_Sub_TuinOrellia_T4": {
@@ -1736,7 +1736,7 @@
     "korean": "오렐리아의 무기에 장착하는 오렐리아 전용 보조 장비입니다. &n장착 시 생존력이 증가하고 특정 스킬 사용 시, 적중한 적에게 추가 전기 피해를 입히고 전기 저항을 크게 감소시킵니다."
   },
   "ItemDescDetail_Equip_System_Advanced_T4": {
-    "english": "This is a modified combat OS created by analyzing battle records from the battlefield. It increases ATK / EVA / AP and reduces damage received.&nThe effect of this OS can satisfy the conditions required to trigger skill additional effects.&n",
+    "english": "This is a modified combat OS created by analyzing battle records from the battlefield. It increases ATK / EVA / SPD and reduces damage received.&nThe effect of this OS can satisfy the conditions required to trigger skill additional effects.&n",
     "korean": "전장에서의 전투 기록을 분석해 제작한 개량형 전투 OS입니다. 공격력 / 회피 / 행동력을 올려주며, 받는 피해가 감소합니다.&n해당 OS의 효과는 스킬 부가 효과 발동에 필요한 조건을 만족시킬 수 있습니다."
   },
   "ItemDescDetail_Equip_System_AntiAirArmor_T1": {
@@ -1900,7 +1900,7 @@
     "korean": "공격에만 집중하는 전투 OS입니다."
   },
   "ItemDescDetail_Equip_System_Assault_T5": {
-    "english": "",
+    "english": "A combat OS that focuses solely on offense.",
     "korean": "공격에만 집중하는 전투 OS입니다."
   },
   "ItemDescDetail_Equip_System_Backstab_T4": {
@@ -1932,7 +1932,7 @@
     "korean": "방어에 집중하는 전투 OS 입니다."
   },
   "ItemDescDetail_Equip_System_Defense_T5": {
-    "english": "",
+    "english": "A combat OS that focuses on defense.",
     "korean": "방어에 집중하는 전투 OS 입니다."
   },
   "ItemDescDetail_Equip_System_EXAM_T1": {
@@ -1952,7 +1952,7 @@
     "korean": "정찰 기능이 활성화 된 상태로 라운드 개시 시, 전황을 분석해 능력이 증가합니다."
   },
   "ItemDescDetail_Equip_System_EXAM_T5": {
-    "english": "",
+    "english": "At the start of each round, if Recon is active, analyzes the battlefield to increase abilities.",
     "korean": "라운드 개시 시 정찰 활성화 상태인 경우, 전황을 분석해 능력이 증가합니다."
   },
   "ItemDescDetail_Equip_System_Exp_T1": {
@@ -1992,7 +1992,7 @@
     "korean": "기동형 보호기 전용 OS입니다.&n라운드 개시 시, 1회 피격에 한해 받는 피해가 감소합니다."
   },
   "ItemDescDetail_Equip_System_HManeuver_T5": {
-    "english": "",
+    "english": "A combat OS exclusive to mobile-type defenders.&nAt the start of each round, damage taken is reduced for up to 2 hits.",
     "korean": "기동형 보호기 전용 OS입니다.&n라운드 개시 시, 2회 피격에 한해 받는 피해가 감소합니다."
   },
   "ItemDescDetail_Equip_System_HQ1Commander_T4": {
@@ -2016,7 +2016,7 @@
     "korean": "강력한 공격을 위한 전투 OS로, 공격력이 증가하지만 사거리가 감소합니다."
   },
   "ItemDescDetail_Equip_System_ImExp_T4": {
-    "english": "Due to the learning OS, experience points gained upon winning a battle increase significantly, but action points decrease.",
+    "english": "Due to the learning OS, experience points gained upon winning a battle increase significantly, but SPD decreases.",
     "korean": "학습형 OS로 인해 전투 승리 시, 획득 경험치가 크게 증가 하지만 행동력이 감소 합니다."
   },
   "ItemDescDetail_Equip_System_ImExp_T4_T4": {
@@ -2032,23 +2032,23 @@
     "korean": "드라큐리나 전용 장거리 음향 장치 강화 OS입니다."
   },
   "ItemDescDetail_Equip_System_Maneuver_T1": {
-    "english": "combat OS for precision attacks that increases Attack Power, Accuracy, and Critical Hit, but decreases Action Points. At the start of a round, removes the Accuracy reduction effect.",
+    "english": "combat OS for precision attacks that increases Attack Power, Accuracy, and Critical Hit, but decreases SPD. At the start of a round, removes the Accuracy reduction effect.",
     "korean": "정밀 공격을 위한 전투 OS로, 공격력 / 적중 / 치명타가 증가하지만 행동력이 감소합니다.&n라운드 개시 시, 적중 감소 효과를 해제합니다."
   },
   "ItemDescDetail_Equip_System_Maneuver_T2": {
-    "english": "combat OS for precision attacks that increases Attack Power, Accuracy, and Critical Hit, but decreases Action Points. At the start of a round, removes the Accuracy reduction effect.",
+    "english": "combat OS for precision attacks that increases Attack Power, Accuracy, and Critical Hit, but decreases SPD. At the start of a round, removes the Accuracy reduction effect.",
     "korean": "정밀 공격을 위한 전투 OS로, 공격력 / 적중 / 치명타가 증가하지만 행동력이 감소합니다.&n라운드 개시 시, 적중 감소 효과를 해제합니다."
   },
   "ItemDescDetail_Equip_System_Maneuver_T3": {
-    "english": "combat OS for precision attacks that increases Attack Power, Accuracy, and Critical Hit, but decreases Action Points. At the start of a round, removes the Accuracy reduction effect.",
+    "english": "combat OS for precision attacks that increases Attack Power, Accuracy, and Critical Hit, but decreases SPD. At the start of a round, removes the Accuracy reduction effect.",
     "korean": "정밀 공격을 위한 전투 OS로, 공격력 / 적중 / 치명타가 증가하지만 행동력이 감소합니다.&n라운드 개시 시, 적중 감소 효과를 해제합니다."
   },
   "ItemDescDetail_Equip_System_Maneuver_T4": {
-    "english": "A combat OS for precision attacks: increases attack / accuracy / critical but decreases action points. At the start of the round, removes accuracy reduction effects.",
+    "english": "A combat OS for precision attacks: increases attack / accuracy / critical but decreases SPD. At the start of the round, removes accuracy reduction effects.",
     "korean": "정밀 공격을 위한 전투 OS로, 공격력 / 적중 / 치명타가 증가하지만 행동력이 감소합니다.&n라운드 개시 시, 적중 감소 효과를 해제합니다."
   },
   "ItemDescDetail_Equip_System_Maneuver_T5": {
-    "english": "",
+    "english": "A combat OS for precision attacks that increases ATK / ACU / CRIT but decreases SPD.&nAt the start of each round, removes ACU decrease effects.",
     "korean": "정밀 공격을 위한 전투 OS로, 공격력 / 적중 / 치명타가 증가하지만 행동력이 감소합니다.&n라운드 개시 시, 적중 감소 효과를 해제합니다."
   },
   "ItemDescDetail_Equip_System_Normal_T1": {
@@ -2068,7 +2068,7 @@
     "korean": "공격, 방어, 적중, 회피를 올려주는 표준형 전투 OS입니다. 해당 OS의 효과는 스킬 부가 효과 발동에 필요한 조건을 만족시킬 수 있습니다."
   },
   "ItemDescDetail_Equip_System_Normal_T5": {
-    "english": "",
+    "english": "A standard combat OS that increases ATK, DEF, ACU, and EVA.&nThe effects of this OS are classified as enhancement effects.",
     "korean": "공격력, 방어력, 적중, 회피를 올려주는 표준형 전투 OS입니다. &n해당 OS의 효과는 강화 효과로 분류됩니다."
   },
   "ItemDescDetail_Equip_System_OverFlow_T4": {
@@ -2096,15 +2096,15 @@
     "korean": "[i][c][B8DDD9FF]\"…상술한 바와 같이 강화인간 및 중장비 동원 시위에 대한 대응을 명함. 이상. 끝.\"[/i][-][/c]&n&n데스스토커의 '특정 적'에 대한 대응 능력을 향상시키는 OS입니다.&n<시위 강경 대응>의 경장형 관련 효과가 수치의 50%만큼 중장형 조건 및 대상으로 발동합니다."
   },
   "ItemDescDetail_Equip_System_RogArmoredNukerATK_T1": {
-    "english": "This is an OS dedicated to heavy-duty attack aircraft developed with new materials.",
+    "english": "This is an OS dedicated to heavy-duty Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 중장형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogArmoredNukerATK_T2": {
-    "english": "This is an OS dedicated to heavy-duty attack aircraft developed with new materials.",
+    "english": "This is an OS dedicated to heavy-duty Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 중장형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogArmoredNukerATK_T3": {
-    "english": "This is an OS dedicated to heavy-duty attack aircraft developed with new materials.",
+    "english": "This is an OS dedicated to heavy-duty Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 중장형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogArmoredNukerATK_T4": {
@@ -2112,7 +2112,7 @@
     "korean": "신규 소재로 개발된 중장형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogArmoredNukerATK_T5": {
-    "english": "This is an OS dedicated to heavy-duty attack aircraft developed with new materials.",
+    "english": "This is an OS dedicated to heavy-duty Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 중장형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogArmoredSupporterSPd_T1": {
@@ -2156,15 +2156,15 @@
     "korean": "신규 소재로 개발된 중장형 보호기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogMobilityNukerATK_T1": {
-    "english": "This is an OS exclusively for mobile attack aircraft developed with new materials.",
+    "english": "This is an OS exclusively for mobile Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 기동형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogMobilityNukerATK_T2": {
-    "english": "This is an OS exclusively for mobile attack aircraft developed with new materials.",
+    "english": "This is an OS exclusively for mobile Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 기동형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogMobilityNukerATK_T3": {
-    "english": "This is an OS exclusively for mobile attack aircraft developed with new materials.",
+    "english": "This is an OS exclusively for mobile Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 기동형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogMobilityNukerATK_T4": {
@@ -2172,7 +2172,7 @@
     "korean": "신규 소재로 개발된 기동형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogMobilityNukerATK_T5": {
-    "english": "This is an OS exclusively for mobile attack aircraft developed with new materials.",
+    "english": "This is an OS exclusively for mobile Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 기동형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogMobilitySupporterSPd_T1": {
@@ -2216,15 +2216,15 @@
     "korean": "신규 소재로 개발된 기동형 보호기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogTrooperNukerATK_T1": {
-    "english": "This is an OS exclusively for light attack aircraft developed with new materials.",
+    "english": "This is an OS exclusively for light Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 경장형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogTrooperNukerATK_T2": {
-    "english": "This is an OS exclusively for light attack aircraft developed with new materials.",
+    "english": "This is an OS exclusively for light Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 경장형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogTrooperNukerATK_T3": {
-    "english": "This is an OS exclusively for light attack aircraft developed with new materials.",
+    "english": "This is an OS exclusively for light Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 경장형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogTrooperNukerATK_T4": {
@@ -2232,7 +2232,7 @@
     "korean": "신규 소재로 개발된 경장형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogTrooperNukerATK_T5": {
-    "english": "This is an OS exclusively for light attack aircraft developed with new materials.",
+    "english": "This is an OS exclusively for light Attacker developed with new materials.",
     "korean": "신규 소재로 개발된 경장형 공격기 전용 OS 입니다."
   },
   "ItemDescDetail_Equip_System_RogTrooperSupporterSPd_T1": {
@@ -2352,19 +2352,19 @@
     "korean": "공격력+{0} / 치명타{1}"
   },
   "ItemDesc_Equip_Chip_AtkCri_T1": {
-    "english": "ATK+{0} / CRIT+{1} / AP+{2}",
+    "english": "ATK+{0} / CRIT+{1} / SPD{2}",
     "korean": "공격력+{0} / 치명타+{1} / 행동력{2}"
   },
   "ItemDesc_Equip_Chip_AtkCri_T2": {
-    "english": "ATK+{0} / CRIT+{1} / AP+{2}",
+    "english": "ATK+{0} / CRIT+{1} / SPD{2}",
     "korean": "공격력+{0} / 치명타+{1} / 행동력{2}"
   },
   "ItemDesc_Equip_Chip_AtkCri_T3": {
-    "english": "ATK+{0} / CRIT+{1} / AP+{2}",
+    "english": "ATK+{0} / CRIT+{1} / SPD{2}",
     "korean": "공격력+{0} / 치명타+{1} / 행동력{2}"
   },
   "ItemDesc_Equip_Chip_AtkCri_T4": {
-    "english": "ATK+{0} / CRIT+{1} / AP+{2}",
+    "english": "ATK+{0} / CRIT+{1} / SPD{2}",
     "korean": "공격력+{0} / 치명타+{1} / 행동력{2}"
   },
   "ItemDesc_Equip_Chip_AtkTypeB_T1": {
@@ -2588,43 +2588,43 @@
     "korean": "HP+{0}"
   },
   "ItemDesc_Equip_Chip_HyperChipHp_T1": {
-    "english": "Increase EXP Gained When Attacking Lv.1",
+    "english": "HP+{0}",
     "korean": "HP+{0}"
   },
   "ItemDesc_Equip_Chip_HyperChipHp_T2": {
-    "english": "Increase EXP Gained When Attacking Lv.1",
+    "english": "HP+{0}",
     "korean": "HP+{0}"
   },
   "ItemDesc_Equip_Chip_HyperChipHp_T3": {
-    "english": "Increase EXP Gained When Attacking Lv.1",
+    "english": "HP+{0}",
     "korean": "HP+{0}"
   },
   "ItemDesc_Equip_Chip_HyperChipHp_T4": {
-    "english": "Increase EXP Gained When Attacking Lv.1",
+    "english": "HP+{0}",
     "korean": "HP+{0}"
   },
   "ItemDesc_Equip_Chip_HyperChipHp_T5": {
-    "english": "Increase EXP Gained When Attacking Lv.1",
+    "english": "HP+{0}",
     "korean": "HP+{0}"
   },
   "ItemDesc_Equip_Chip_HyperChip_T1": {
-    "english": "Increase EXP Gained When Attacking Lv.1",
+    "english": "SPD+{0}",
     "korean": "행동력+{0}"
   },
   "ItemDesc_Equip_Chip_HyperChip_T2": {
-    "english": "Increase EXP Gained When Attacking Lv.1",
+    "english": "SPD+{0}",
     "korean": "행동력+{0}"
   },
   "ItemDesc_Equip_Chip_HyperChip_T3": {
-    "english": "Increase EXP Gained When Attacking Lv.1",
+    "english": "SPD+{0}",
     "korean": "행동력+{0}"
   },
   "ItemDesc_Equip_Chip_HyperChip_T4": {
-    "english": "Increase EXP Gained When Attacking Lv.1",
+    "english": "SPD+{0}",
     "korean": "행동력+{0}"
   },
   "ItemDesc_Equip_Chip_HyperChip_T5": {
-    "english": "Increase EXP Gained When Attacking Lv.1",
+    "english": "SPD+{0}",
     "korean": "행동력+{0}"
   },
   "ItemDesc_Equip_Chip_KillExp_T1": {
@@ -2644,23 +2644,23 @@
     "korean": "적 공격 시, 획득 경험치 증가 Lv.4"
   },
   "ItemDesc_Equip_Chip_LTWT_T1": {
-    "english": "ACU+{0} / EVA+{1} / AP+{2}",
+    "english": "ACU+{0} / EVA+{1} / SPD+{2}",
     "korean": "적중+{0} / 회피+{1} / 행동력+{2}"
   },
   "ItemDesc_Equip_Chip_LTWT_T2": {
-    "english": "ACU+{0} / EVA+{1} / AP+{2}",
+    "english": "ACU+{0} / EVA+{1} / SPD+{2}",
     "korean": "적중+{0} / 회피+{1} / 행동력+{2}"
   },
   "ItemDesc_Equip_Chip_LTWT_T3": {
-    "english": "ACU+{0} / EVA+{1} / AP+{2}",
+    "english": "ACU+{0} / EVA+{1} / SPD+{2}",
     "korean": "적중+{0} / 회피+{1} / 행동력+{2}"
   },
   "ItemDesc_Equip_Chip_LTWT_T4": {
-    "english": "ACU+{0} / EVA+{1} / AP+{2}",
+    "english": "ACU+{0} / EVA+{1} / SPD+{2}",
     "korean": "적중+{0} / 회피+{1} / 행동력+{2}"
   },
   "ItemDesc_Equip_Chip_Outback_T4": {
-    "english": "DEF Penetration / Max Action Count / Skill 1 Range Increase",
+    "english": "ATK+{0} / DEF+{1} / EVA+{2}",
     "korean": "공격력+{0} / 방어력+{1} / 회피+{2}"
   },
   "ItemDesc_Equip_Chip_S42Adlib_T4": {
@@ -2668,23 +2668,23 @@
     "korean": "공격력+{0} / HP{1} / 방어력{2}"
   },
   "ItemDesc_Equip_Chip_ShileldChip_T1": {
-    "english": "ATK+{0} / ACU+{1}",
+    "english": "DEF+{0} / EVA+{1}",
     "korean": "방어력+{0} / 회피+{1}"
   },
   "ItemDesc_Equip_Chip_ShileldChip_T2": {
-    "english": "ATK+{0} / ACU+{1}",
+    "english": "DEF+{0} / EVA+{1}",
     "korean": "방어력+{0} / 회피+{1}"
   },
   "ItemDesc_Equip_Chip_ShileldChip_T3": {
-    "english": "ATK+{0} / ACU+{1}",
+    "english": "DEF+{0} / EVA+{1}",
     "korean": "방어력+{0} / 회피+{1}"
   },
   "ItemDesc_Equip_Chip_ShileldChip_T4": {
-    "english": "ATK+{0} / ACU+{1}",
+    "english": "DEF+{0} / EVA+{1}",
     "korean": "방어력+{0} / 회피+{1}"
   },
   "ItemDesc_Equip_Chip_ShileldChip_T5": {
-    "english": "ATK+{0} / ACU+{1}",
+    "english": "DEF+{0} / EVA+{1}",
     "korean": "방어력+{0} / 회피+{1}"
   },
   "ItemDesc_Equip_Chip_SpAtk_T1": {
@@ -2704,35 +2704,35 @@
     "korean": "공격력+{0} / 적중{1}"
   },
   "ItemDesc_Equip_Chip_SpdTypeB_T1": {
-    "english": "AP+{0} / EVA+{1}",
+    "english": "SPD+{0} / EVA+{1}",
     "korean": "행동력+{0} / 회피{1}"
   },
   "ItemDesc_Equip_Chip_SpdTypeB_T2": {
-    "english": "AP+{0} / EVA+{1}",
+    "english": "SPD+{0} / EVA+{1}",
     "korean": "행동력+{0} / 회피{1}"
   },
   "ItemDesc_Equip_Chip_SpdTypeB_T3": {
-    "english": "AP+{0} / EVA+{1}",
+    "english": "SPD+{0} / EVA+{1}",
     "korean": "행동력+{0} / 회피{1}"
   },
   "ItemDesc_Equip_Chip_SpdTypeB_T4": {
-    "english": "AP+{0} / EVA+{1}",
+    "english": "SPD+{0} / EVA+{1}",
     "korean": "행동력+{0} / 회피{1}"
   },
   "ItemDesc_Equip_Chip_Spd_T1": {
-    "english": "MOVE+{0}",
+    "english": "SPD+{0}",
     "korean": "행동력+{0}"
   },
   "ItemDesc_Equip_Chip_Spd_T2": {
-    "english": "MOVE+{0}",
+    "english": "SPD+{0}",
     "korean": "행동력+{0}"
   },
   "ItemDesc_Equip_Chip_Spd_T3": {
-    "english": "MOVE+{0}",
+    "english": "SPD+{0}",
     "korean": "행동력+{0}"
   },
   "ItemDesc_Equip_Chip_Spd_T4": {
-    "english": "MOVE+{0}",
+    "english": "SPD+{0}",
     "korean": "행동력+{0}"
   },
   "ItemDesc_Equip_Sub_40mmDUBullet_T4": {
@@ -2788,19 +2788,19 @@
     "korean": "받는 피해 감소 / <전의 고양> 강화"
   },
   "ItemDesc_Equip_Sub_AntiBarrier_T1": {
-    "english": "When Shielded: Convert ATK / AP Lv.1",
+    "english": "When Shielded: Convert ATK / SPD Lv.1",
     "korean": "방어막 적용 시, 공격력 / 행동력 전환 Lv.1"
   },
   "ItemDesc_Equip_Sub_AntiBarrier_T2": {
-    "english": "When Shielded: Convert ATK / AP Lv.2",
+    "english": "When Shielded: Convert ATK / SPD Lv.2",
     "korean": "방어막 적용 시, 공격력 / 행동력 전환 Lv.2"
   },
   "ItemDesc_Equip_Sub_AntiBarrier_T3": {
-    "english": "When Shielded: Convert ATK / AP Lv.3",
+    "english": "When Shielded: Convert ATK / SPD Lv.3",
     "korean": "방어막 적용 시, 공격력 / 행동력 전환 Lv.3"
   },
   "ItemDesc_Equip_Sub_AntiBarrier_T4": {
-    "english": "When Shielded: Convert ATK / AP Lv.4",
+    "english": "When Shielded: Convert ATK / SPD Lv.4",
     "korean": "방어막 적용 시, 공격력 / 행동력 전환 Lv.4"
   },
   "ItemDesc_Equip_Sub_AntiCold_T1": {
@@ -2892,11 +2892,11 @@
     "korean": "치명타+{0} / 방어 관통 Lv.4"
   },
   "ItemDesc_Equip_Sub_AtkSpd_T4": {
-    "english": "ATK+{0} / AP+{1}",
+    "english": "ATK+{0} / SPD+{1}",
     "korean": "공격력+{0} / 행동력+{1}"
   },
   "ItemDesc_Equip_Sub_BabyBottle_T4": {
-    "english": "Shield Lv.1",
+    "english": "HP+{0} / SPD+{1} / Damage Taken Reduction",
     "korean": "HP+{0} /행동력+{1} /받는 피해 감소"
   },
   "ItemDesc_Equip_Sub_Barrier_T1": {
@@ -2916,19 +2916,19 @@
     "korean": "방어막 Lv.4"
   },
   "ItemDesc_Equip_Sub_BattleASST_T4": {
-    "english": "AP+{0} / ATK Decrease / Max Actions +1",
+    "english": "SPD+{0} / ATK Decrease / Max Actions +1",
     "korean": "행동력+{0} / 공격력 감소 / 최대 행동 횟수+1"
   },
   "ItemDesc_Equip_Sub_Bedroll_T4": {
-    "english": "Ice Resistance+{0} / AP+{1} / Skill Enhancement",
+    "english": "Ice Resistance+{0} / SPD+{1} / Skill Enhancement",
     "korean": "냉기 저항+{0} / 행동력+{1} / 스킬 강화"
   },
   "ItemDesc_Equip_Sub_Beercan_T4": {
-    "english": "EVA+{0} / AP+{1} / Marking Immunity / <Big Gun> Enhancement",
+    "english": "EVA+{0} / SPD+{1} / Marking Immunity / <Big Gun> Enhancement",
     "korean": "회피{0} / 행동력+{1} / 표식 면역 / <빅 건> 강화"
   },
   "ItemDesc_Equip_Sub_BlueScreenRounds_T4": {
-    "english": "",
+    "english": "ACU+{0} / CRIT+{1} / Skill Power Decrease",
     "korean": "적중+{0} / 치명타+{1} / 스킬 위력 감소"
   },
   "ItemDesc_Equip_Sub_BoilingVessel_T4": {
@@ -2944,7 +2944,7 @@
     "korean": "공격력 증가"
   },
   "ItemDesc_Equip_Sub_CM67SpaceBooster_T4": {
-    "english": "ATK+{0} / EVA+{1} / AP+{2} / EVA Reduction Immunity / CRIT Increase",
+    "english": "ATK+{0} / EVA+{1} / SPD+{2} / EVA Reduction Immunity / CRIT Increase",
     "korean": "공격력+{0} / 회피+{1} / 행동력+{2} / 회피 감소 면역 / 치명타 증가"
   },
   "ItemDesc_Equip_Sub_CMDProtocol_T4": {
@@ -2956,7 +2956,7 @@
     "korean": "공격력+{0} / 화염 저항+{1} / 전기 저항+{2}"
   },
   "ItemDesc_Equip_Sub_Choker_T4": {
-    "english": "",
+    "english": "CRIT+{0} / ATK Increase / Skill Change",
     "korean": "치명타+{0} / 공격력 증가 / 스킬 변경"
   },
   "ItemDesc_Equip_Sub_CryogenicRounds_T4": {
@@ -2968,7 +2968,7 @@
     "korean": "공격력+{0} / AP 감소 면역 / <강화외골격 YOROI> 강화"
   },
   "ItemDesc_Equip_Sub_EddyCurrent_T4": {
-    "english": "ACU+{0} / CRIT+{1} / AP Increase / Some Skills Change",
+    "english": "ACU+{0} / CRIT+{1} / SPD / Some Skills Change",
     "korean": "적중+{0} / 치명타+{1} / 행동력 증가 / 일부 스킬 변경"
   },
   "ItemDesc_Equip_Sub_ElectroGenerator_T1": {
@@ -3020,19 +3020,19 @@
     "korean": "적중+{0} / 치명타+{1} / 피해 감소 무시 Lv.4"
   },
   "ItemDesc_Equip_Sub_ExoSkeleton_T1": {
-    "english": "EVA+{0} / AP+{1} / Damage Reduction",
+    "english": "EVA+{0} / SPD+{1} / Damage Reduction",
     "korean": "회피+{0} / 행동력+{1} / 받는 피해 감소"
   },
   "ItemDesc_Equip_Sub_ExoSkeleton_T2": {
-    "english": "EVA+{0} / AP+{1} / Damage Reduction",
+    "english": "EVA+{0} / SPD+{1} / Damage Reduction",
     "korean": "회피+{0} / 행동력+{1} / 받는 피해 감소"
   },
   "ItemDesc_Equip_Sub_ExoSkeleton_T3": {
-    "english": "EVA+{0} / AP+{1} / Damage Reduction",
+    "english": "EVA+{0} / SPD+{1} / Damage Reduction",
     "korean": "회피+{0} / 행동력+{1} / 받는 피해 감소"
   },
   "ItemDesc_Equip_Sub_ExoSkeleton_T4": {
-    "english": "EVA+{0} / AP+{1} / Damage Reduction",
+    "english": "EVA+{0} / SPD+{1} / Damage Reduction",
     "korean": "회피+{0} / 행동력+{1} / 받는 피해 감소"
   },
   "ItemDesc_Equip_Sub_FCS_T4": {
@@ -3060,7 +3060,7 @@
     "korean": "공격력+{0} / 치명타+{1} / 적중+{2} / 냉기 추가 피해"
   },
   "ItemDesc_Equip_Sub_GigantesArmor_T4": {
-    "english": "ATK+{0} / AP+{1} / Damage Reduction / Fire Resistance Increase / Cold Resistance Increase / Counterattack",
+    "english": "ATK+{0} / SPD+{1} / Damage Reduction / Fire Resistance Increase / Cold Resistance Increase / Counterattack",
     "korean": "공격력+{0} / 행동력+{1} / 받는 피해 감소 / 화염 저항 증가 / 냉기 저항 증가 / 반격"
   },
   "ItemDesc_Equip_Sub_GoldenCage_T4": {
@@ -3072,7 +3072,7 @@
     "korean": "공격력+{0} / 회피+{1}"
   },
   "ItemDesc_Equip_Sub_Halo_T4": {
-    "english": "",
+    "english": "ATK+{0} / ACU+{1} / On Kill: Continue Combat / Shield / Ignore Damage Reduction",
     "korean": "공격력+{0} / 적중+{1} / 적 처치 시, 전투 속행 / 방어막 / 피해 감소 무시"
   },
   "ItemDesc_Equip_Sub_Hasta_T4": {
@@ -3112,15 +3112,15 @@
     "korean": "치명타+{0} / 적중 증가"
   },
   "ItemDesc_Equip_Sub_ImBarrier_T4": {
-    "english": "Gain Shield / AP Reduction",
+    "english": "Gain Shield / SPD Reduction",
     "korean": "방어막 획득 / 행동력 감소"
   },
   "ItemDesc_Equip_Sub_ImNitroEx3500_T4": {
-    "english": "Cold Resistance+{0} / EVA+{1} / AP+{2}",
+    "english": "Cold Resistance+{0} / EVA+{1} / SPD+{2}",
     "korean": "냉기 저항+{0} / 회피+{1} / 행동력+{2}"
   },
   "ItemDesc_Equip_Sub_ImOverclock_T4": {
-    "english": "ATK / AP Increase",
+    "english": "ATK / SPD Increase",
     "korean": "공격력 / 행동력 증가"
   },
   "ItemDesc_Equip_Sub_ImSpSight_T4": {
@@ -3152,15 +3152,15 @@
     "korean": "적중+{0} / 치명타+{1} / 재공격 Lv.4"
   },
   "ItemDesc_Equip_Sub_LunchBox_T4": {
-    "english": "ATK / AP Increase",
+    "english": "ATK / SPD Increase",
     "korean": "공격력 / 행동력 증가"
   },
   "ItemDesc_Equip_Sub_MEDUSA_T4": {
-    "english": "Electric Resistance+{0} / ACU Increase / On Hit, Enemy AP Reduction",
+    "english": "Electric Resistance+{0} / ACU Increase / On Hit, Enemy SPD Reduction",
     "korean": "전기 저항+{0} / 적중 증가 / 피격 시, 적 행동력 감소"
   },
   "ItemDesc_Equip_Sub_MG80MODKit_T4": {
-    "english": "ATK+{0} / CRIT+{1} / AP+{2} / Damage vs. Light Armor Increased",
+    "english": "ATK+{0} / CRIT+{1} / SPD+{2} / Damage vs. Light Armor Increased",
     "korean": "공격력+{0} / 치명타+{1} / 행동력+{2} / 대 경장형 피해량 증가"
   },
   "ItemDesc_Equip_Sub_MKEngine_T4": {
@@ -3180,7 +3180,7 @@
     "korean": "치명타+{0} / 재공격 / 적 처치 시, 공격력 증가"
   },
   "ItemDesc_Equip_Sub_MiniBlackWyrm_T4": {
-    "english": "HP+{0} / On Hit, reduce Fire Resistance of enemies with higher AP than the target",
+    "english": "HP+{0} / On Hit, reduce Fire Resistance of enemies with higher SPD than the target",
     "korean": "HP +{0} / 피격 시, 피격 대상보다 높은 행동력의 적 화염 저항 감소"
   },
   "ItemDesc_Equip_Sub_MiniFenrir_T4": {
@@ -3196,7 +3196,7 @@
     "korean": "HP+{0} / 방어력+{1}"
   },
   "ItemDesc_Equip_Sub_MiniHirume_T4": {
-    "english": "EVA+{0} / Recon Ability / AP Increase",
+    "english": "EVA+{0} / Recon Ability / SPD Increase",
     "korean": "회피 +{0} / 정찰 기능 / 행동력 증가"
   },
   "ItemDesc_Equip_Sub_MiniLilith_T4": {
@@ -3216,7 +3216,7 @@
     "korean": "회피 +{0} / 피해 최소화 (1회)"
   },
   "ItemDesc_Equip_Sub_Monitoring_T4": {
-    "english": "",
+    "english": "CRIT+{0} / Range Increase / AP Increase",
     "korean": "치명타+{0} / 사거리 증가 / AP 증가"
   },
   "ItemDesc_Equip_Sub_Monomolecular_T4": {
@@ -3232,7 +3232,7 @@
     "korean": "지속 화염 피해 / 화염 저항 감소"
   },
   "ItemDesc_Equip_Sub_NitroEx3000_T4": {
-    "english": "Cold Resistance +{0} / EVA+{1} / AP+{2}",
+    "english": "Cold Resistance +{0} / EVA+{1} / SPD+{2}",
     "korean": "냉기 저항+{0} / 회피+{1} / 행동력+{2}"
   },
   "ItemDesc_Equip_Sub_Observer_T1": {
@@ -3268,23 +3268,23 @@
     "korean": "공격력 증가 / 지속 고정 피해"
   },
   "ItemDesc_Equip_Sub_OldHordeBadge_T4": {
-    "english": "ACU+{0} / AP+{1} / Starting AP Increase",
+    "english": "ACU+{0} / SPD+{1} / Starting AP Increase",
     "korean": "적중+{0} / 행동력+{1} / 전투 개시 시, AP 증가"
   },
   "ItemDesc_Equip_Sub_Overclock_T1": {
-    "english": "ATK / AP Increase / ACU Reduction Lv.1",
+    "english": "ATK / SPD Increase / ACU Reduction Lv.1",
     "korean": "공격력 / 행동력 증가 / 적중 감소 Lv.1"
   },
   "ItemDesc_Equip_Sub_Overclock_T2": {
-    "english": "ATK / AP Increase / ACU Reduction Lv.2",
+    "english": "ATK / SPD Increase / ACU Reduction Lv.2",
     "korean": "공격력 / 행동력 증가 / 적중 감소 Lv.2"
   },
   "ItemDesc_Equip_Sub_Overclock_T3": {
-    "english": "ATK / AP Increase / ACU Reduction Lv.3",
+    "english": "ATK / SPD Increase / ACU Reduction Lv.3",
     "korean": "공격력 / 행동력 증가 / 적중 감소 Lv.3"
   },
   "ItemDesc_Equip_Sub_Overclock_T4": {
-    "english": "ATK / AP Increase / ACU Reduction Lv.4",
+    "english": "ATK / SPD Increase / ACU Reduction Lv.4",
     "korean": "공격력 / 행동력 증가 / 적중 감소 Lv.4"
   },
   "ItemDesc_Equip_Sub_ParticleAcceleratorATK_T4": {
@@ -3332,7 +3332,7 @@
     "korean": "치명타+{0} / 적중+{1} / 전투 속행 / 반격"
   },
   "ItemDesc_Equip_Sub_SHCA_T4": {
-    "english": "HP+{0} / DEF+{1} / Immobilized / Position Change Immunity / AP Reduction",
+    "english": "HP+{0} / DEF+{1} / Immobilized / Position Change Immunity / SPD Reduction",
     "korean": "HP+{0} / 방어력+{1} / 이동 불가 / 위치변경 면역 / 행동력 감소"
   },
   "ItemDesc_Equip_Sub_SK14MODKit_T4": {
@@ -3344,7 +3344,7 @@
     "korean": "공격력+{0} / 재공격 / 일부 스킬 변경"
   },
   "ItemDesc_Equip_Sub_STEROID_T4": {
-    "english": "AP+{0} / ATK+{1} / Range Increase / Anti-Heavy Armor Attack",
+    "english": "SPD+{0} / ATK+{1} / Range Increase / Anti-Heavy Armor Attack",
     "korean": "행동력+{0} / 공격력+{1} / 사거리 증가 / 대 중장 공격"
   },
   "ItemDesc_Equip_Sub_ShieldBlade_T4": {
@@ -3352,7 +3352,7 @@
     "korean": "HP+{0} / 치명타 증가 / 일부 스킬 변경"
   },
   "ItemDesc_Equip_Sub_Silverbullet_T4": {
-    "english": "All Elemental Resistance+{0} / ATK / CRIT / ACU / Max Action Count Increase",
+    "english": "All Elemental Resistance+{0} / ATK / CRIT / ACU / SPD",
     "korean": "적중+{0} / 치명타+{1} / 행동력+{2} / 재공격"
   },
   "ItemDesc_Equip_Sub_SpAlloyArmor_T4": {
@@ -3400,39 +3400,39 @@
     "korean": "HP+{0} / 방어력+{1} / 방어력 비례 스킬 위력 증가"
   },
   "ItemDesc_Equip_Sub_SpyDrone_T1": {
-    "english": "ACU+{0} / AP+{1} / Recon Function",
+    "english": "ACU+{0} / SPD+{1} / Recon Function",
     "korean": "적중+{0} / 행동력+{1} / 정찰 기능"
   },
   "ItemDesc_Equip_Sub_SpyDrone_T2": {
-    "english": "ACU+{0} / AP+{1} / Recon Function",
+    "english": "ACU+{0} / SPD+{1} / Recon Function",
     "korean": "적중+{0} / 행동력+{1} / 정찰 기능"
   },
   "ItemDesc_Equip_Sub_SpyDrone_T3": {
-    "english": "ACU+{0} / AP+{1} / Recon Function",
+    "english": "ACU+{0} / SPD+{1} / Recon Function",
     "korean": "적중+{0} / 행동력+{1} / 정찰 기능"
   },
   "ItemDesc_Equip_Sub_SpyDrone_T4": {
-    "english": "ACU+{0} / AP+{1} / Recon Function",
+    "english": "ACU+{0} / SPD+{1} / Recon Function",
     "korean": "적중+{0} / 행동력+{1} / 정찰 기능"
   },
   "ItemDesc_Equip_Sub_Stellarator_T4": {
-    "english": "AP / Max Action Count Increase / Skill Enhancement",
+    "english": "SPD / Max Action Count Increase / Skill Enhancement",
     "korean": "행동력 / 최대 행동 횟수 증가 / 스킬 강화"
   },
   "ItemDesc_Equip_Sub_Stimulant_T1": {
-    "english": "AP Increase / Battle Continuation Lv.1",
+    "english": "SPD Increase / Battle Continuation Lv.1",
     "korean": "행동력 증가 / 전투 속행 Lv.1"
   },
   "ItemDesc_Equip_Sub_Stimulant_T2": {
-    "english": "AP Increase / Battle Continuation Lv.2",
+    "english": "SPD Increase / Battle Continuation Lv.2",
     "korean": "행동력 증가 / 전투 속행 Lv.2"
   },
   "ItemDesc_Equip_Sub_Stimulant_T3": {
-    "english": "AP Increase / Battle Continuation Lv.3",
+    "english": "SPD Increase / Battle Continuation Lv.3",
     "korean": "행동력 증가 / 전투 속행 Lv.3"
   },
   "ItemDesc_Equip_Sub_Stimulant_T4": {
-    "english": "AP Increase / Battle Continuation Lv.4",
+    "english": "SPD Increase / Battle Continuation Lv.4",
     "korean": "행동력 증가 / 전투 속행 Lv.4"
   },
   "ItemDesc_Equip_Sub_Stola_T4": {
@@ -3464,11 +3464,11 @@
     "korean": "화염 저항+{0} / 화염 속성 피격 시, 능력 증가"
   },
   "ItemDesc_Equip_Sub_T60ExtArmor_T4": {
-    "english": "HP+{0} / DEF+{1} / AP+{2} / Defensive Ability Up / Guarded Movement",
+    "english": "HP+{0} / DEF+{1} / SPD+{2} / Defensive Ability Up / Guarded Movement",
     "korean": "HP+{0} / 방어력+{1} / 행동력+{2} / 방어 능력 증가 / 행보호"
   },
   "ItemDesc_Equip_Sub_TandemCharge_T4": {
-    "english": "",
+    "english": "ACU+{0} / CRIT+{1} / Damage Reduction Removal",
     "korean": "적중+{0} / 치명타+{1} / 받는 피해 감소 해제"
   },
   "ItemDesc_Equip_Sub_ThornNecklace_T4": {
@@ -3476,7 +3476,7 @@
     "korean": "공격력+{0} / 치명타+{1} / 방어관통 증가"
   },
   "ItemDesc_Equip_Sub_ThreeAuthority_T4": {
-    "english": "Starting AP / AP Increase / Recon Activation / <Fleet Bombardment Start> Restriction Lifted",
+    "english": "Starting AP / SPD Increase / Recon Activation / <Fleet Bombardment Start> Restriction Lifted",
     "korean": "전투 개시 AP / 행동력 증가 / 정찰 활성화 / <함대 포격 개시> 제한 해제"
   },
   "ItemDesc_Equip_Sub_ThunderStone_T4": {
@@ -3484,7 +3484,7 @@
     "korean": "공격력+{0} / 치명타+{1} / 적중+{2} / 전기 추가 피해"
   },
   "ItemDesc_Equip_Sub_TracerRounds_T4": {
-    "english": "",
+    "english": "ACU+{0} / CRIT+{1} / EVA Increase Removal / Marking",
     "korean": "적중+{0} / 치명타+{1} / 회피 증가 해제 / 표식"
   },
   "ItemDesc_Equip_Sub_TuinOrellia_T4": {
@@ -3512,7 +3512,7 @@
     "korean": "적중+{0} / 받는 피해 감소 / 전기 추가 피해 / 전투 속행"
   },
   "ItemDesc_Equip_System_Advanced_T4": {
-    "english": "ATK / EVA / AP Increase / Damage Reduction",
+    "english": "ATK / EVA / SPD / Damage Reduction",
     "korean": "공격력 / 회피 / 행동력 증가 / 받는 피해 감소"
   },
   "ItemDesc_Equip_System_AntiAirArmor_T1": {
@@ -3660,31 +3660,31 @@
     "korean": "대 경장 공격 Lv.4"
   },
   "ItemDesc_Equip_System_Assault_T1": {
-    "english": "Increase ATK / DMG Taken / AP",
+    "english": "Increase ATK / DMG Taken / SPD",
     "korean": "공격력 / 받는 피해 / 행동력 증가"
   },
   "ItemDesc_Equip_System_Assault_T2": {
-    "english": "Increase ATK / DMG Taken / AP",
+    "english": "Increase ATK / DMG Taken / SPD",
     "korean": "공격력 / 받는 피해 / 행동력 증가"
   },
   "ItemDesc_Equip_System_Assault_T3": {
-    "english": "Increase ATK / DMG Taken / AP",
+    "english": "Increase ATK / DMG Taken / SPD",
     "korean": "공격력 / 받는 피해 / 행동력 증가"
   },
   "ItemDesc_Equip_System_Assault_T4": {
-    "english": "Increase ATK / DMG Taken / AP",
+    "english": "Increase ATK / DMG Taken / SPD",
     "korean": "공격력 / 받는 피해 / 행동력 증가"
   },
   "ItemDesc_Equip_System_Assault_T5": {
-    "english": "",
+    "english": "ATK / Damage Taken / SPD Increase",
     "korean": "공격력 / 받는 피해 / 행동력 증가"
   },
   "ItemDesc_Equip_System_Backstab_T4": {
-    "english": "ATK Increase / AP Decrease / Ignore Guard Activated",
+    "english": "ATK Increase / SPD Decrease / Ignore Guard Activated",
     "korean": "공격력 증가 / 행동력 감소 / 보호 무시 활성화"
   },
   "ItemDesc_Equip_System_CelestialGlobe_T4": {
-    "english": "CRIT+{0} / AP+{1} / Increased Damage vs Light/Heavy/Air Types",
+    "english": "CRIT+{0} / SPD+{1} / Increased Damage vs Light/Heavy/Air Types",
     "korean": "치명타+{0} / 행동력+{1} / 대 경장/중장/기동형 피해량 증가"
   },
   "ItemDesc_Equip_System_Circulation_T5": {
@@ -3708,7 +3708,7 @@
     "korean": "방어 능력 증가 Lv.4"
   },
   "ItemDesc_Equip_System_Defense_T5": {
-    "english": "",
+    "english": "Defense Ability Increase Lv.5",
     "korean": "방어 능력 증가 Lv.5"
   },
   "ItemDesc_Equip_System_EXAM_T1": {
@@ -3728,7 +3728,7 @@
     "korean": "정찰 활성화 시, 능력 증가 Lv.4"
   },
   "ItemDesc_Equip_System_EXAM_T5": {
-    "english": "",
+    "english": "When Recon Active, Ability Increase Lv.5",
     "korean": "정찰 활성화 시, 능력 증가 Lv.5"
   },
   "ItemDesc_Equip_System_Exp_T1": {
@@ -3768,7 +3768,7 @@
     "korean": "적중+{0} / 회피+{1} / 받는 피해 감소 Lv.4"
   },
   "ItemDesc_Equip_System_HManeuver_T5": {
-    "english": "",
+    "english": "ACU+{0} / EVA+{1} / Damage Taken Reduction Lv.5",
     "korean": "적중+{0} / 회피+{1} / 받는 피해 감소 Lv.5"
   },
   "ItemDesc_Equip_System_HQ1Commander_T4": {
@@ -3792,11 +3792,11 @@
     "korean": "공격력 증가 / 사거리 감소 Lv.4"
   },
   "ItemDesc_Equip_System_ImExp_T4": {
-    "english": "EXP Gain / AP Reduction",
+    "english": "EXP Gain / SPD Reduction",
     "korean": "경험치 증가/행동력 감소"
   },
   "ItemDesc_Equip_System_ImExp_T4_T4": {
-    "english": "EXP Gain / AP Reduction",
+    "english": "EXP Gain / SPD Reduction",
     "korean": "경험치 증가/행동력 감소"
   },
   "ItemDesc_Equip_System_ImHighspd_T4": {
@@ -3808,23 +3808,23 @@
     "korean": "대 경장/기동/중장 공격 Lv.4 / 사거리 증가"
   },
   "ItemDesc_Equip_System_Maneuver_T1": {
-    "english": "ATK Increased / ACU+{0} / CRIT+{1} / AP Decrease",
+    "english": "ATK Increased / ACU+{0} / CRIT+{1} / SPD Decrease",
     "korean": "공격력 증가 / 적중+{0} / 치명타+{1} / 행동력 감소"
   },
   "ItemDesc_Equip_System_Maneuver_T2": {
-    "english": "ATK Increased / ACU+{0} / CRIT+{1} / AP Decrease",
+    "english": "ATK Increased / ACU+{0} / CRIT+{1} / SPD Decrease",
     "korean": "공격력 증가 / 적중+{0} / 치명타+{1} / 행동력 감소"
   },
   "ItemDesc_Equip_System_Maneuver_T3": {
-    "english": "ATK Increased / ACU+{0} / CRIT+{1} / AP Decrease",
+    "english": "ATK Increased / ACU+{0} / CRIT+{1} / SPD Decrease",
     "korean": "공격력 증가 / 적중+{0} / 치명타+{1} / 행동력 감소"
   },
   "ItemDesc_Equip_System_Maneuver_T4": {
-    "english": "ATK Increased / ACU+{0} / CRIT+{1} / AP Decrease",
+    "english": "ATK Increased / ACU+{0} / CRIT+{1} / SPD Decrease",
     "korean": "공격력 증가 / 적중+{0} / 치명타+{1} / 행동력 감소"
   },
   "ItemDesc_Equip_System_Maneuver_T5": {
-    "english": "",
+    "english": "ATK Increase / ACU+{0} / CRIT+{1} / SPD Decrease",
     "korean": "공격력 증가 / 적중+{0} / 치명타+{1} / 행동력 감소"
   },
   "ItemDesc_Equip_System_Normal_T1": {
@@ -3844,7 +3844,7 @@
     "korean": "능력치 증가 Lv.4"
   },
   "ItemDesc_Equip_System_Normal_T5": {
-    "english": "",
+    "english": "Stats Increase Lv.5",
     "korean": "능력치 증가 Lv.5"
   },
   "ItemDesc_Equip_System_OverFlow_T4": {
@@ -3892,23 +3892,23 @@
     "korean": "공격력/치명타 증가"
   },
   "ItemDesc_Equip_System_RogArmoredSupporterSPd_T1": {
-    "english": "AP Increase / AP Gain at Battle Start",
+    "english": "SPD Increase / AP Gain at Battle Start",
     "korean": "행동력 증가/전투시작시 AP 증가"
   },
   "ItemDesc_Equip_System_RogArmoredSupporterSPd_T2": {
-    "english": "AP Increase / AP Gain at Battle Start",
+    "english": "SPD Increase / AP Gain at Battle Start",
     "korean": "행동력 증가/전투시작시 AP 증가"
   },
   "ItemDesc_Equip_System_RogArmoredSupporterSPd_T3": {
-    "english": "AP Increase / AP Gain at Battle Start",
+    "english": "SPD Increase / AP Gain at Battle Start",
     "korean": "행동력 증가/전투시작시 AP 증가"
   },
   "ItemDesc_Equip_System_RogArmoredSupporterSPd_T4": {
-    "english": "AP Increase / AP Gain at Battle Start",
+    "english": "SPD Increase / AP Gain at Battle Start",
     "korean": "행동력 증가/전투시작시 AP 증가"
   },
   "ItemDesc_Equip_System_RogArmoredSupporterSPd_T5": {
-    "english": "AP Increase / AP Gain at Battle Start",
+    "english": "SPD Increase / AP Gain at Battle Start",
     "korean": "행동력 증가/전투시작시 AP 증가"
   },
   "ItemDesc_Equip_System_RogArmoredTankerDEF_T1": {
@@ -3932,63 +3932,63 @@
     "korean": "HP+{0}/방어력 증가"
   },
   "ItemDesc_Equip_System_RogMobilityNukerATK_T1": {
-    "english": "ATK / AP Increase",
+    "english": "ATK / SPD Increase",
     "korean": "공격력/행동력 증가"
   },
   "ItemDesc_Equip_System_RogMobilityNukerATK_T2": {
-    "english": "ATK / AP Increase",
+    "english": "ATK / SPD Increase",
     "korean": "공격력/행동력 증가"
   },
   "ItemDesc_Equip_System_RogMobilityNukerATK_T3": {
-    "english": "ATK / AP Increase",
+    "english": "ATK / SPD Increase",
     "korean": "공격력/행동력 증가"
   },
   "ItemDesc_Equip_System_RogMobilityNukerATK_T4": {
-    "english": "ATK / AP Increase",
+    "english": "ATK / SPD Increase",
     "korean": "공격력/행동력 증가"
   },
   "ItemDesc_Equip_System_RogMobilityNukerATK_T5": {
-    "english": "ATK / AP Increase",
+    "english": "ATK / SPD Increase",
     "korean": "공격력/행동력 증가"
   },
   "ItemDesc_Equip_System_RogMobilitySupporterSPd_T1": {
-    "english": "AP / ACU Increase",
+    "english": "SPD / ACU Increase",
     "korean": "행동력/적중 증가"
   },
   "ItemDesc_Equip_System_RogMobilitySupporterSPd_T2": {
-    "english": "AP / ACU Increase",
+    "english": "SPD / ACU Increase",
     "korean": "행동력/적중 증가"
   },
   "ItemDesc_Equip_System_RogMobilitySupporterSPd_T3": {
-    "english": "AP / ACU Increase",
+    "english": "SPD / ACU Increase",
     "korean": "행동력/적중 증가"
   },
   "ItemDesc_Equip_System_RogMobilitySupporterSPd_T4": {
-    "english": "AP / ACU Increase",
+    "english": "SPD / ACU Increase",
     "korean": "행동력/적중 증가"
   },
   "ItemDesc_Equip_System_RogMobilitySupporterSPd_T5": {
-    "english": "AP / ACU Increase",
+    "english": "SPD / ACU Increase",
     "korean": "행동력/적중 증가"
   },
   "ItemDesc_Equip_System_RogMobilityTankerEVA_T1": {
-    "english": "EVA / AP Increase",
+    "english": "EVA / SPD Increase",
     "korean": "회피/행동력 증가"
   },
   "ItemDesc_Equip_System_RogMobilityTankerEVA_T2": {
-    "english": "EVA / AP Increase",
+    "english": "EVA / SPD Increase",
     "korean": "회피/행동력 증가"
   },
   "ItemDesc_Equip_System_RogMobilityTankerEVA_T3": {
-    "english": "EVA / AP Increase",
+    "english": "EVA / SPD Increase",
     "korean": "회피/행동력 증가"
   },
   "ItemDesc_Equip_System_RogMobilityTankerEVA_T4": {
-    "english": "EVA / AP Increase",
+    "english": "EVA / SPD Increase",
     "korean": "회피/행동력 증가"
   },
   "ItemDesc_Equip_System_RogMobilityTankerEVA_T5": {
-    "english": "EVA / AP Increase",
+    "english": "EVA / SPD Increase",
     "korean": "회피/행동력 증가"
   },
   "ItemDesc_Equip_System_RogTrooperNukerATK_T1": {

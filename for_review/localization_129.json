@@ -1872,7 +1872,7 @@
     "korean": "듀얼리스트 (치명타)"
   },
   "1002702820": {
-    "english": "Ang Guard (ACU / Action Decrease)",
+    "english": "Ang Guard (ACU / SPD Decrease)",
     "korean": "앙 가르드 (적중 / 행동력 감소)"
   },
   "1002702821": {
@@ -2032,7 +2032,7 @@
     "korean": "단일 대상 {0} 피해. 일정 확률 회피 감소"
   },
   "1002702860": {
-    "english": "",
+    "english": "Single target {0} damage. Increased damage to targets with reduced evasion.",
     "korean": "단일 대상 {0} 피해. 회피 감소 대상 피해량 증가"
   },
   "1002702861": {
@@ -2084,7 +2084,7 @@
     "korean": "단일 대상 방어력 감소 / 피해 감소 효과 해제"
   },
   "1002702873": {
-    "english": "Fires a shock missile at the target enemy, dealing {0} damage and reducing their action points.",
+    "english": "Fires a shock missile at the target enemy, dealing {0} damage and reducing their SPD.",
     "korean": "목표 적에게 쇼크 미사일을 발사해 {0} 피해를 주며, 행동력을 낮춥니다."
   },
   "1002702874": {
@@ -2260,7 +2260,7 @@
     "korean": "근접 공격으로 {0} 피해를 줍니다. 대상이 이동 불가 상태인 경우, 대상을 강타해 피해량이 증가하며 일정 확률로 2라운드 동안 행동 불가로 만듭니다."
   },
   "1002702917": {
-    "english": "Captures the target with pincers, dealing {0} damage and pulling them 2 spaces forward. Upon hit, Action Points are reduced for 2 rounds, and there is a certain probability of becoming immobile.",
+    "english": "Captures the target with pincers, dealing {0} damage and pulling them 2 spaces forward. Upon hit, SPD are reduced for 2 rounds, and there is a certain probability of becoming immobile.",
     "korean": "집게로 목표 대상을 포획해 {0} 피해를 주며 2칸 앞으로 당깁니다. 적중 시, 2라운드 동안 행동력이 감소하며 일정 확률로 이동 불가 상태가 됩니다."
   },
   "1002702918": {
@@ -2332,7 +2332,7 @@
     "korean": "고압 전류로 {0} 전기 속성 피해를 주고, 일정 확률로 대상을 행동 불능 상태로 만들고 회피를 감소시킵니다."
   },
   "1002702935": {
-    "english": "Stands in a guarded state until adjacent to an enemy or attacked. Damage taken and action points are reduced until attacked.",
+    "english": "Stands in a guarded state until adjacent to an enemy or attacked. Damage taken and SPD are reduced until attacked.",
     "korean": "적과 인접하거나 공격당하기 전까지 경계 상태로 대기합니다. 공격당하기 전까지 받는 피해와 행동력이 감소합니다."
   },
   "1002702936": {
@@ -2344,7 +2344,7 @@
     "korean": "점착탄을 던져 {0} 피해를 줍니다. 적중한 대상을 2라운드 동안 이동 불가 상태로 만들고, 일정 확률로 회피 / 행동력을 감소 시킵니다."
   },
   "1002702938": {
-    "english": "When an ally is eliminated, switch to Alert Stance, reducing the action points of allies on both sides and supporting the target's attack.",
+    "english": "When an ally is eliminated, switch to Alert Stance, reducing the SPD of allies on both sides and supporting the target's attack.",
     "korean": "아군이 처치되면  경계 태세로 전환해, 양 옆의 아군의 행동력을 감소시키며 대상의 공격을 지원합니다."
   },
   "1002702939": {
@@ -2388,7 +2388,7 @@
     "korean": "피격 시, 위협을 감지해 해당 라운드 동안 회피가 증가하며 공격력이 감소합니다. 해당 효과는 중첩됩니다."
   },
   "1002702949": {
-    "english": "When killing an enemy, increases MOVE and CRIT for 3 rounds. This effect can stack.",
+    "english": "When killing an enemy, increases SPD and CRIT for 3 rounds. This effect can stack.",
     "korean": "적을 처치한 경우, 3라운드 동안 행동력과 치명타가 증가합니다. 해당 효과는 중첩됩니다."
   },
   "1002702950": {
@@ -2436,7 +2436,7 @@
     "korean": "목표 지점에 래빗 D 필드 설치"
   },
   "1002702961": {
-    "english": "Increases robot allies' ATK / DEF / action speed",
+    "english": "Increases robot allies' ATK / DEF / SPD",
     "korean": "로봇 아군 공격력 / 방어력 / 행동력 증가"
   },
   "1002702962": {
@@ -2464,7 +2464,7 @@
     "korean": "공격력 / 치명타 / 방어 관통 증가. HP 50% 이하 시, 효과 / 받는 피해 증가"
   },
   "1002702968": {
-    "english": "At the start of battle, increases AP. Increases AP when defeating an enemy or if there is a Metal Parasite in the squad",
+    "english": "At the start of battle, increases SPD. Increases SPD when defeating an enemy or if there is a Metal Parasite in the squad",
     "korean": "전투 개시 시, AP 증가. 적 처치 / 스쿼드 내 해충이 있을 시 행동력 증가"
   },
   "1002702969": {
@@ -2756,7 +2756,7 @@
     "korean": "목표 지점 {0} 피해. 치명타 시 피해량 증가, AP 감소"
   },
   "1002703041": {
-    "english": "If Designated Target is Protected, ATK / ACU / CRIT / Action Speed Increase",
+    "english": "If Designated Target is Protected, ATK / ACU / CRIT / SPD Increase",
     "korean": "지정 대상 보호를 받으면 공격력 / 적중 / 치명타 / 행동력 증가"
   },
   "1002703042": {
@@ -2792,7 +2792,7 @@
     "korean": "아군 공격 지원 / 대상 AP 증가"
   },
   "1002703050": {
-    "english": "Single Target {0} Damage. Movement Disabled / Action Speed Decrease. Movement Disabled / EVA Decrease Target Damage Increase",
+    "english": "Single Target {0} Damage. Movement Disabled / SPD Decrease. Movement Disabled / EVA Decrease Target Damage Increase",
     "korean": "단일 대상 {0} 피해. 이동 불가 / 행동력 감소. 이동 불가 / 회피 감소 대상 피해량 증가"
   },
   "1002703051": {
@@ -2812,7 +2812,7 @@
     "korean": "지정 대상 보호 / AP 증가. 자신이 받는 피해 감소"
   },
   "1002703055": {
-    "english": "Protects the ally directly above in the same row. Increases that ally's ACU and AP",
+    "english": "Protects the ally directly above in the same row. Increases that ally's ACU and SPD",
     "korean": "같은 열 위쪽의 아군 보호. 대상 적중 / 행동력 증가"
   },
   "1002703056": {
@@ -2828,7 +2828,7 @@
     "korean": "대기 시, 장갑 전개 모드로 변형. 행 보호 / 받는 피해 감소"
   },
   "1002703059": {
-    "english": "Protect Light and Heavy Armor Allies. Heavy Armor Ally ATK / Action Speed Increase",
+    "english": "Protect Light and Heavy Armor Allies. Heavy Armor Ally ATK / SPD Increase",
     "korean": "경장형 / 중장형 아군 보호. 중장형 아군 공격력 / 행동력 증가"
   },
   "1002703060": {
@@ -2856,7 +2856,7 @@
     "korean": "범위 내 기동형 아군 공격력 / 치명타 증가"
   },
   "1002703066": {
-    "english": "Increase ATK / Action Speed Each Time an Enemy is Defeated",
+    "english": "Increase ATK / SPD",
     "korean": "적이 처치될 때마다 공격력 / 행동력 증가"
   },
   "1002703067": {
@@ -2880,7 +2880,7 @@
     "korean": "자신 HP 25% 이상이면 뒤의 아군 보호 / 공격 지원 / 치명타 증가"
   },
   "1002703072": {
-    "english": "Ally Receiving Attack Support ATK / ACU / Action Speed Increase. If Attacker, Designated Protection",
+    "english": "Ally Receiving Attack Support ATK / ACU / SPD Increase. If Attacker, Designated Protection",
     "korean": "공격 지원을 받는 아군 공격력 / 적중 / 행동력 증가. 공격기면 지정 보호"
   },
   "1002703073": {
@@ -2896,7 +2896,7 @@
     "korean": "중열 또는 후열인 경우, 회피 / 적중 / 사거리 증가"
   },
   "1002703076": {
-    "english": "ATK / CRIT / Action Speed Increase. Additional Increase if May is in Squad",
+    "english": "ATK / CRIT / SPD Increase. Additional Increase if May is in Squad",
     "korean": "공격력 / 치명타 / 행동력 증가. 스쿼드에 메이가 있으면 추가 증가"
   },
   "1002703077": {
@@ -2916,7 +2916,7 @@
     "korean": "공격 지원 또는 지정 보호를 받는 상태면 AP 증가"
   },
   "1002703081": {
-    "english": "When HP is 33% or lower, increases ATK / EVA / AP / enhances skills, and triggers Overload",
+    "english": "When HP is 33% or lower, increases ATK / EVA / SPD / enhances skills, and triggers Overload",
     "korean": "HP 33% 이하 시, 공격력 / 회피 / 행동력 증가 / 스킬 강화 /과부하"
   },
   "1002703082": {
@@ -2928,7 +2928,7 @@
     "korean": "목표 지점 {0} 피해. 보호 / 특수 방어 효과 무시"
   },
   "1002703084": {
-    "english": "If HP Below 33%, ATK / EVA / Action Speed Increase / Skill Strengthened. Overload Effect",
+    "english": "If HP Below 33%, ATK / EVA / SPD Increase / Skill Strengthened. Overload Effect",
     "korean": "HP 33% 이하 시, 공격력 / 회피 / 행동력 증가 / 스킬 강화. 과부하 효과"
   },
   "1002703085": {
@@ -2940,23 +2940,23 @@
     "korean": "목표 아군 AP 변경. 해로운 효과 해제 / 지휘 효과 증폭"
   },
   "1002703087": {
-    "english": "Ally ATK / ACU / Action Speed Increase",
+    "english": "Ally ATK / ACU / SPD Increase",
     "korean": "아군 공격력 / 적중 / 행동력 증가"
   },
   "1002703088": {
-    "english": "Ally DEF / Action Speed Increase / Damage Taken Reduction. On Standby, Switch to DEF Command",
+    "english": "Ally DEF / SPD Increase / Damage Taken Reduction. On Standby, Switch to DEF Command",
     "korean": "아군 방어력 / 행동력 증가 / 받는 피해 감소. 대기 시, 방어 지휘로 전환"
   },
   "1002703089": {
-    "english": "Action Speed Increase / Recon Ability. In Recon, Ally Attacker Battle Start AP Increase",
+    "english": "SPD Increase / Recon Ability. In Recon, Ally Attacker Battle Start AP Increase",
     "korean": "행동력 증가 / 정찰 기능. 정찰 시, 아군 공격기 전투 개시 AP 증가"
   },
   "1002703090": {
-    "english": "Ally DEF / Action Speed Increase / Damage Taken Reduction",
+    "english": "Ally DEF / SPD Increase / Damage Taken Reduction",
     "korean": "아군 방어력 / 행동력 증가 / 받는 피해 감소"
   },
   "1002703091": {
-    "english": "Ally ATK / ACU / Action Speed Increase. On Standby, Switch to Attack Command",
+    "english": "Ally ATK / ACU / SPD Increase. On Standby, Switch to Attack Command",
     "korean": "아군 공격력 / 적중 / 행동력 증가. 대기 시, 공격 지휘로 전환"
   },
   "1002703092": {
@@ -2972,11 +2972,11 @@
     "korean": "전투 개시 시, 전열이면 경장형 아군 AP / 적중 / 치명타 증가"
   },
   "1002703095": {
-    "english": "While Action Speed Increased, DEF Penetration Effect",
+    "english": "While SPD Increased, DEF Penetration Effect",
     "korean": "행동력 증가 상태 시, 방어 관통 효과"
   },
   "1002703096": {
-    "english": "When Enemy is Defeated, ATK / CRIT / Action Speed Increase",
+    "english": "When Enemy is Defeated, ATK / CRIT / SPD Increase",
     "korean": "적 처치 시, 공격력 / 치명타 / 행동력 증가"
   },
   "1002703097": {
@@ -2996,7 +2996,7 @@
     "korean": "단일 대상 {0} 피해. 이동 불가/침수 대상이면 빙결 효과/협동 공격"
   },
   "1002703101": {
-    "english": "Among Adjacent Allies, Protect Ally with Lower HP% than Self / Action Speed Increase",
+    "english": "Among Adjacent Allies, Protect Ally with Lower HP% than Self / SPD Increase",
     "korean": "인접한 아군 중, 자신보다 HP%가 낮은 대상 지정 보호 / 행동력 증가"
   },
   "1002703102": {
@@ -3032,7 +3032,7 @@
     "korean": "대기 시, 광학 미채 활성화. 회피 / AP 증가 / 확정 치명타"
   },
   "1002703110": {
-    "english": "When in Optical Camouflage, ATK / CRIT Increase. Damage Taken / Action Speed Decrease",
+    "english": "When in Optical Camouflage, ATK / CRIT Increase. Damage Taken / SPD Decrease",
     "korean": "광학 미채 상태인 경우, 공격력 / 치명타 증가. 받는 피해 / 행동력 감소"
   },
   "1002703111": {
@@ -3056,7 +3056,7 @@
     "korean": "지정 대상 보호. 대상과 자신에게 피해 무효 1회 / 공격력 / 적중 증가"
   },
   "1002703116": {
-    "english": "When Hit, Action Speed Increase / Damage Taken Reduction. Effect Resistance Increase at Max Stacks",
+    "english": "When Hit, SPD Increase / Damage Taken Reduction. Effect Resistance Increase at Max Stacks",
     "korean": "피격 시, 행동력 증가 / 받는 피해 감소. 최대 중첩 시 효과 저항 증가"
   },
   "1002703117": {
@@ -3064,7 +3064,7 @@
     "korean": "공격력 증가 상태면 반격. 적 처치 또는 아군 사망 시 공격력 / 치명타 증가"
   },
   "1002703118": {
-    "english": "Designated Target Protection. ATK / Action Speed Increase. If <Sadistic Tendencies>, Additional Action Speed Increase / ACU Decrease",
+    "english": "Designated Target Protection. ATK / SPD Increase. If <Sadistic Tendencies>, Additional SPD Increase / ACU Decrease",
     "korean": "지정 대상 보호. 공격력 / 행동력 증가. <가학성향> 시, 행동력 추가 증가 / 적중 감소"
   },
   "1002703119": {
@@ -3076,11 +3076,11 @@
     "korean": "지정 범위 {0} 피해. 일정 확률 AP / 회피 감소. 치명타 시, 피해량 증가"
   },
   "1002703121": {
-    "english": "On enemy kill, increases ATK, CRIT, and AP. If this effect stacks 2 or more times, triggers Transformation",
+    "english": "On enemy kill, increases ATK, CRIT, and SPD. If this effect stacks 2 or more times, triggers Transformation",
     "korean": "적 처치 시, 공격력 / 치명타 / 행동력 증가. 해당 효과 2중첩 이상일 경우 변신"
   },
   "1002703122": {
-    "english": "Adjacent Ally EVA / Electric Resistance / Action Speed Increase",
+    "english": "Adjacent Ally EVA / Electric Resistance / SPD Increase",
     "korean": "인접 아군 회피 / 전기 저항 / 행동력 증가"
   },
   "1002703123": {
@@ -3092,7 +3092,7 @@
     "korean": "단일 대상 {0} 피해. AP / 회피 감소. 침수 대상 피해량 증가 / 피해 감소 해제"
   },
   "1002703125": {
-    "english": "When Enemy is Defeated, ATK / CRIT / Action Speed Increase",
+    "english": "When Enemy is Defeated, ATK / CRIT / SPD Increase",
     "korean": "적 처치 시, 공격력 / 치명타 / 행동력 증가."
   },
   "1002703126": {
@@ -3112,7 +3112,7 @@
     "korean": "자신의 HP가 50% 이하 상태에서 피격된 경우, 주변 철충들에게 요격 명령을 내려 AP를 증가시킵니다."
   },
   "1002703130": {
-    "english": "When a commanded Iron Bug is defeated, it enters a state of alert, increasing its action points and evasion for 2 rounds. This effect stacks.",
+    "english": "When a commanded Iron Bug is defeated, it enters a state of alert, increasing its SPD and evasion for 2 rounds. This effect stacks.",
     "korean": "통솔하는 철충이 처치된 경우, 경계 상태가 되어 2라운드 동안 행동력과 회피가 증가합니다. 해당 효과는 중첩됩니다."
   },
   "1002703131": {
@@ -3164,7 +3164,7 @@
     "korean": "범위 내 보호기 AP 증가 / 공격 지원"
   },
   "1002703143": {
-    "english": "Protection Within Range DEF / EVA / Action Speed Increase. Own ATK / ACU Increase",
+    "english": "Protection Within Range DEF / EVA / SPD Increase. Own ATK / ACU Increase",
     "korean": "범위 내 보호기 방어력 / 회피 / 행동력 증가. 자신의 공격력 / 적중 증가"
   },
   "1002703144": {
@@ -3192,7 +3192,7 @@
     "korean": "단일 대상 {0} 피해. 방어 관통. 이동 불가 / 표식 대상 피해량 증가"
   },
   "1002703150": {
-    "english": "When Attacked, ATK / Action Speed / EVA Increase",
+    "english": "When Attacked, ATK / SPD / EVA Increase",
     "korean": "적 공격 시, 공격력 / 행동력 / 회피 증가"
   },
   "1002703151": {
@@ -3204,15 +3204,15 @@
     "korean": "지정 범위 {0} 보호 무시 피해. 적중 감소. 뒷 열일수록 공격력 증가"
   },
   "1002703153": {
-    "english": "Protect Mobile Type Except Protection Within Range / Ally ATK / CRIT / Action Speed Increase",
+    "english": "Protect Mobile Type Except Protection Within Range / Ally ATK / CRIT / SPD Increase",
     "korean": "범위 내 보호기 제외 기동형 보호 / 아군 공격력 / 치명타 / 행동력 증가"
   },
   "1002703154": {
-    "english": "On Attack EVA, Action Speed Increase / When Stacks ≥3, ATK / CRIT Increase",
+    "english": "On Attack EVA, SPD Increase / When Stacks ≥3, ATK / CRIT Increase",
     "korean": "공격 회피 시, 행동력 증가 / 중첩 3 이상 시, 공격력 / 치명타 증가"
   },
   "1002703155": {
-    "english": "When Attacked, EVA Increase / Action Speed Decrease / EVA Decrease Nullified",
+    "english": "When Attacked, EVA Increase / SPD Decrease / EVA Decrease Nullified",
     "korean": "적 공격 시, 회피 증가 / 행동력 감소 / 회피 감소 무효"
   },
   "1002703156": {
@@ -3244,7 +3244,7 @@
     "korean": "단일 대상 {0} 피해. 수집한 잔해 수에 따라 방해 효과 적용"
   },
   "1002703163": {
-    "english": "Ignores protection in designated area {0} damage. Increases DEF. Reduces EVA/action/range. Cannot move.",
+    "english": "Ignores protection in designated area {0} damage. Increases DEF. Reduces EVA/action/range. Cannot SPD.",
     "korean": "지정 범위 보호 무시 {0} 피해. 방어력 증가. 회피/행동력/사거리 감소. 이동 불가"
   },
   "1002703164": {
@@ -3272,7 +3272,7 @@
     "korean": "아군 AP / 공격력 / 치명타 / 적중 증가. <워커 홀릭> 중첩 수 비례 효과 증가"
   },
   "1002703170": {
-    "english": "When the skill hits, increases AP / reduces damage taken.",
+    "english": "When the skill hits, increases SPD / reduces damage taken.",
     "korean": "스킬 적중 시, 행동력 증가 / 받는 피해 감소"
   },
   "1002703171": {
@@ -3288,7 +3288,7 @@
     "korean": "목표 지점 {0} 방어 관통 피해. 보호기인 경우, 피해량 증가"
   },
   "1002703174": {
-    "english": "When Enemy Defeated, Action Speed Increase",
+    "english": "When Enemy Defeated, SPD Increase",
     "korean": "적 처치 시, 행동력 증가"
   },
   "1002703175": {
@@ -3328,11 +3328,11 @@
     "korean": "단일 대상 {0} 피해. 대상 도발 / 이동 불가 / 표식 대상 피해량 증가"
   },
   "1002703184": {
-    "english": "Increase AP / Action Speed of Allies Protected by Self. Self Damage Taken Reduction",
+    "english": "Increase AP / SPD. Self Damage Taken Reduction",
     "korean": "자신의 보호를 받는 아군들의 AP / 행동력 증가. 자신은 받는 피해 감소"
   },
   "1002703185": {
-    "english": "Protect Surrounding Allies. Increase Action Speed / Counterattack When Using Skill",
+    "english": "Protect Surrounding Allies. Increase SPD / Counterattack When Using Skill",
     "korean": "주변 아군 보호. 스킬 사용 시, 행동력 증가 / 반격"
   },
   "1002703186": {
@@ -3352,7 +3352,7 @@
     "korean": "라운드 개시 시, 자신에게 적용된 강화 효과에 따라 주변 아군을 강화"
   },
   "1002703190": {
-    "english": "While idle, increases ATK, CRIT, and AP.",
+    "english": "While idle, increases ATK, CRIT, and SPD.",
     "korean": "대기 시, 공격력 / 치명타 / 행동력 증가"
   },
   "1002703191": {
@@ -3360,7 +3360,7 @@
     "korean": "전투 개시 AP 증가 / 정찰 / 정찰 시, 적 공격력 / 치명타 감소"
   },
   "1002703192": {
-    "english": "On Standby, ATK / Action Speed Increase",
+    "english": "On Standby, ATK / SPD Increase",
     "korean": "대기 시, 공격력 / 행동력 증가"
   },
   "1002703193": {
@@ -3464,7 +3464,7 @@
     "korean": "표식 대상에게 추가 피해."
   },
   "1002703218": {
-    "english": "Fires a chemical warhead dealing {0} damage. Corrodes the target for 3 rounds. Corroded targets have reduced Defense/Action and take continuous damage every round.",
+    "english": "Fires a chemical warhead dealing {0} damage. Corrodes the target for 3 rounds. Corroded targets have reduced Defense/SPD and take continuous damage every round.",
     "korean": "화학 탄두를 발사해 {0} 피해를 줍니다. 3라운드 동안 대상을 부식 상태로 만듭니다. 부식 상태가 된 대상은 방어력 / 행동력이 감소하며 매 라운드 지속 피해를 입습니다."
   },
   "1002703219": {
@@ -3488,7 +3488,7 @@
     "korean": "근접 공격으로 {0} 피해를 줍니다. 대상이 이동 불가 상태인 경우, 대상을 강타해 피해량이 증가하며 2라운드 동안 행동 불가로 만듭니다."
   },
   "1002703224": {
-    "english": "Grabs the target with pincers, dealing {0} damage and pulling them 2 spaces forward. On hit, Action Points are reduced for 2 rounds and movement is disabled.",
+    "english": "Grabs the target with pincers, dealing {0} damage and pulling them 2 spaces forward. On hit, SPD are reduced for 2 rounds and movement is disabled.",
     "korean": "집게로 목표 대상을 포획해 {0} 피해를 주며 2칸 앞으로 당깁니다. 적중 시, 2라운드 동안 행동력이 감소하며 이동 불가 상태가 됩니다."
   },
   "1002703225": {
@@ -3560,7 +3560,7 @@
     "korean": "적을 발견하거나 적에게 공격당하기 전 까지는 경계 상태로 대기합니다. 공격당하기 전까지 받는 피해가 대폭 감소합니다."
   },
   "1002703242": {
-    "english": "Throws a sticky grenade to deal {0} damage, and has a certain probability of immobilizing the hit target / reducing their evasion / action points for 3 rounds. Has a certain probability of removing the target's evasion / action point enhancement effects.",
+    "english": "Throws a sticky grenade to deal {0} damage, and has a certain probability of immobilizing the hit target / reducing their evasion / SPD for 3 rounds. Has a certain probability of removing the target's evasion / SPD.",
     "korean": "점착탄을 던져 {0} 피해를 주고, 일정 확률로 적중한 대상을 3라운드 동안 이동 불가 / 회피 / 행동력 감소 상태로 만듭니다. 일정 확률로 대상의 회피 / 행동력 강화 효과를 해제합니다."
   },
   "1002703243": {
@@ -3600,7 +3600,7 @@
     "korean": "공격 대상에게 돌격 후, 자폭해 {0} 피해를 줍니다. 대상의 방어력을 무시합니다."
   },
   "1002703252": {
-    "english": "If an ally dies, Evasion increases for 2 rounds while Action Points and Accuracy decrease. This effect stacks.",
+    "english": "If an ally dies, Evasion increases for 2 rounds while SPD and Accuracy decrease. This effect stacks.",
     "korean": "아군이 사망한 경우, 2라운드 동안 회피가 증가하며 행동력 / 적중이 감소합니다. 해당 효과는 중첩됩니다."
   },
   "1002703253": {
@@ -3744,7 +3744,7 @@
     "korean": "사망할 경우, 관련된 모든 시스템이 정지합니다."
   },
   "1002703288": {
-    "english": "Skadi's hacking reduces ATK and SPD for 3 rounds",
+    "english": "Scathy's hacking reduces ATK and SPD for 3 rounds",
     "korean": "스카디의 해킹으로 인해 3라운드 동안 공격력과 행동력이 감소합니다."
   },
   "1002703289": {
@@ -3812,7 +3812,7 @@
     "korean": "전격구를 발사해 {0} 전기 속성 피해를 줍니다. 대상이 감전 상태면 회피를 감소시키며, 일정 확률로 행동 불능 상태로 만듭니다."
   },
   "1002703305": {
-    "english": "Discharge attack ignores protection effects and deals {0} electric damage. Has a certain chance to electrocute the target, reducing their action points and evasion for 3 rounds.",
+    "english": "Discharge attack ignores protection effects and deals {0} electric damage. Has a certain chance to electrocute the target, reducing their SPD and evasion for 3 rounds.",
     "korean": "방전 공격으로 보호 효과를 무시하고 {0} 전기 속성 피해를 줍니다. 일정 확률로 대상을 감전시켜 3라운드 동안 행동력과 회피를 낮춥니다."
   },
   "1002703306": {
@@ -3820,7 +3820,7 @@
     "korean": "방어력 감소 10%"
   },
   "1002703307": {
-    "english": "Upon being hit, removes immobility, incapacitation, and action reduction effects with a certain probability.",
+    "english": "Upon being hit, removes immobility, incapacitation, and SPD reduction effects with a certain probability.",
     "korean": "피격 시, 일정 확률로 이동 불가 / 행동 불가 / 행동력 감소 효과를 해제합니다."
   },
   "1002703308": {
@@ -3932,7 +3932,7 @@
     "korean": "지정 범위 {0} 보호 무시 피해. 이동 불가 / 회피 감소 대상 피해량 증가"
   },
   "1002703335": {
-    "english": "Supports attacks by <Steel Line> units and allied light/Heavy-armored units with lower action speed than yourself.",
+    "english": "Supports attacks by <Steel Line> units and allied light/Heavy-armored units with lower SPD than yourself.",
     "korean": "<스틸라인 계열> 부대원 및 자신 보다 행동력이 낮은 경장 / 중장 아군 공격 지원"
   },
   "1002703336": {
@@ -3968,11 +3968,11 @@
     "korean": "범위 내 아군 공격력 / 방어력 / 적중 / 회피 증가"
   },
   "1002703344": {
-    "english": "If in Cheerleader state, increases allies' ATK and CRIT. While waiting, increases allies' AP and MOVE.",
+    "english": "If in Cheerleader state, increases allies' ATK and CRIT. While waiting, increases allies' AP and SPD.",
     "korean": "<치어 리더> 상태면 아군 공격력/치명타 증가. 대기 시, 아군 AP/행동력 증가"
   },
   "1002703345": {
-    "english": "On skill hit, increases MOVE and enhances skill (up to 3 stacks).",
+    "english": "On skill hit, increases SPD and enhances skill (up to 3 stacks).",
     "korean": "스킬 적중 시, 행동력 증가 / 스킬 강화 (최대 3중첩)"
   },
   "1002703346": {
@@ -3988,7 +3988,7 @@
     "korean": "범위 내 공격기,지원기 지정 보호 / 자신,공격기 공격력,치명타 증가 / 처치 시 공격력,치명타,행동력 증가"
   },
   "1002703349": {
-    "english": "Deals {0} damage to a single target. Reduces EVA and MOVE, inflicts immobility. Additional effects based on Aesthetic Exploration.",
+    "english": "Deals {0} damage to a single target. Reduces EVA and SPD, inflicts immobility. Additional effects based on Aesthetic Exploration.",
     "korean": "단일 대상 {0} 피해. 회피/행동력 감소/이동 불가. <심미 탐구>에 따른 추가 효과"
   },
   "1002703350": {

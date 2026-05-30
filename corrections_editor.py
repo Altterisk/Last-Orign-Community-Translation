@@ -14,6 +14,15 @@ except NameError:
 
 CORRECTIONS_FILE = BASE_DIR / "corrections" / "corrections.json"
 
+DARK_BG     = "#1e1e1e"
+DARK_PANEL  = "#252526"
+DARK_WIDGET = "#3c3c3c"
+DARK_FG     = "#d4d4d4"
+DARK_DIM    = "#858585"
+DARK_SEL    = "#094771"
+DARK_SLFG   = "#ffffff"
+DARK_BORDER = "#454545"
+
 
 def _load():
     if CORRECTIONS_FILE.exists():
@@ -25,6 +34,29 @@ def _load():
 def _save(data):
     with open(CORRECTIONS_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
+
+
+def _apply_dark_style(root: tk.Tk) -> None:
+    style = ttk.Style(root)
+    style.theme_use("clam")
+    style.configure(".", background=DARK_BG, foreground=DARK_FG,
+                    fieldbackground=DARK_WIDGET, bordercolor=DARK_BORDER,
+                    darkcolor=DARK_PANEL, lightcolor=DARK_PANEL,
+                    troughcolor=DARK_PANEL, insertcolor=DARK_FG,
+                    selectbackground=DARK_SEL, selectforeground=DARK_SLFG)
+    style.configure("TFrame",  background=DARK_BG)
+    style.configure("TLabel",  background=DARK_BG, foreground=DARK_FG)
+    style.configure("TButton", background=DARK_WIDGET, foreground=DARK_FG,
+                    bordercolor=DARK_BORDER, padding=4)
+    style.map("TButton",
+              background=[("active", "#505357"), ("pressed", "#505357")],
+              relief=[("pressed", "flat"), ("!pressed", "flat")])
+    style.configure("TEntry", fieldbackground=DARK_WIDGET, foreground=DARK_FG,
+                    insertcolor=DARK_FG, bordercolor=DARK_BORDER)
+    style.configure("TScrollbar", background=DARK_WIDGET, troughcolor=DARK_PANEL,
+                    arrowcolor=DARK_FG, bordercolor=DARK_BORDER)
+    style.configure("TPanedwindow", background=DARK_BG)
+    root.configure(bg=DARK_BG)
 
 
 # ---------------------------------------------------------------------------
@@ -42,6 +74,7 @@ class App(tk.Tk):
         self._loading = False
         self._dirty = False
 
+        _apply_dark_style(self)
         self._build()
         self._repopulate_list()
         if self.data:
@@ -71,6 +104,8 @@ class App(tk.Tk):
         self.entry_list = tk.Listbox(
             lf, yscrollcommand=sb.set, selectmode=tk.SINGLE,
             activestyle="none", font=("Segoe UI", 9), relief=tk.FLAT,
+            bg=DARK_PANEL, fg=DARK_FG, selectbackground=DARK_SEL,
+            selectforeground=DARK_SLFG, bd=0,
         )
         sb.config(command=self.entry_list.yview)
         sb.pack(side=tk.RIGHT, fill=tk.Y)
@@ -124,6 +159,8 @@ class App(tk.Tk):
         self.mis_list = tk.Listbox(
             mf, yscrollcommand=msb.set, selectmode=tk.SINGLE,
             activestyle="none", font=("Segoe UI", 9), relief=tk.FLAT,
+            bg=DARK_PANEL, fg=DARK_FG, selectbackground=DARK_SEL,
+            selectforeground=DARK_SLFG, bd=0,
         )
         msb.config(command=self.mis_list.yview)
         msb.pack(side=tk.RIGHT, fill=tk.Y)
@@ -135,7 +172,7 @@ class App(tk.Tk):
         self.var_new_mis = tk.StringVar()
         self.ent_new_mis = ttk.Entry(ar, textvariable=self.var_new_mis, font=("Segoe UI", 10))
         self.ent_new_mis.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 6))
-        self.ent_new_mis.bind("<Return>", lambda _e: self._add_mis())
+        self.ent_new_mis.bind("<Return>", lambda _: self._add_mis())
         ttk.Button(ar, text="Add", command=self._add_mis, width=8).pack(side=tk.LEFT, padx=(0, 6))
         ttk.Button(ar, text="Remove Selected", command=self._remove_mis).pack(side=tk.LEFT)
 
@@ -143,7 +180,7 @@ class App(tk.Tk):
         bar = ttk.Frame(self)
         bar.pack(fill=tk.X, padx=6, pady=6)
         self.var_status = tk.StringVar(value="Ready")
-        ttk.Label(bar, textvariable=self.var_status, foreground="gray").pack(side=tk.LEFT, padx=4)
+        ttk.Label(bar, textvariable=self.var_status, foreground=DARK_DIM).pack(side=tk.LEFT, padx=4)
         ttk.Button(bar, text="Save", command=self._save, width=10).pack(side=tk.RIGHT, padx=4)
 
     # ---------------------------------------------------------------- list
@@ -182,7 +219,6 @@ class App(tk.Tk):
         e = self.data[self.cur]
         e["original"]           = self.var_original.get().strip()
         e["correctTranslation"] = self.var_correct.get().strip()
-        # mistranslation list is kept in sync live; just ensure it's current
         e["mistranslation"] = list(self.mis_list.get(0, tk.END))
         self._update_list_row(self.cur)
 

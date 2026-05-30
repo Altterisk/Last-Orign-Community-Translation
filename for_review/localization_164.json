@@ -20,7 +20,7 @@
     "korean": "함대원형진 : 지정 보호"
   },
   "BuffDesc1_Effect_3P_Galatea_N_33": {
-    "english": "Fleet wedge formation : Action Points {0}%",
+    "english": "Fleet wedge formation : SPD {0}%",
     "korean": "함대원형진 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_3P_Galatea_N_34": {
@@ -80,7 +80,7 @@
     "korean": "리볼버 캐논 : 받는 피해 감소 효과 해제"
   },
   "BuffDesc1_Effect_3P_Hachiko_N_13": {
-    "english": "Guard Mode!: AP {0}%",
+    "english": "Guard Mode!: SPD {0}%",
     "korean": "경비 모드! : 행동력{0}%"
   },
   "BuffDesc1_Effect_3P_Hachiko_N_14": {
@@ -92,7 +92,7 @@
     "korean": "은혜 갚기 : AP{0}"
   },
   "BuffDesc1_Effect_3P_Hachiko_N_21": {
-    "english": "Play With Me!: AP {0}%",
+    "english": "Play With Me!: SPD {0}%",
     "korean": "놀아줘요! : 행동력{0}%"
   },
   "BuffDesc1_Effect_3P_Hachiko_N_22": {
@@ -100,7 +100,7 @@
     "korean": "은혜 갚기 : AP{0} (컴페니언)"
   },
   "BuffDesc1_Effect_3P_Hachiko_N_23": {
-    "english": "Play With Me!: AP {0}% (Companion)",
+    "english": "Play With Me!: SPD {0}% (Companion)",
     "korean": "놀아줘요! : 행동력{0}% (컴페니언)"
   },
   "BuffDesc1_Effect_3P_Hachiko_N_3": {
@@ -192,7 +192,7 @@
     "korean": "신성한 광휘 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_3P_Hirume_N_44": {
-    "english": "Divine Radiance: Action Points {0}% (Altruism)",
+    "english": "Divine Radiance: SPD {0}% (Altruism)",
     "korean": "신성한 광휘 : 행동력 {0}% (봉사정신)"
   },
   "BuffDesc1_Effect_3P_Hirume_N_5": {
@@ -244,7 +244,7 @@
     "korean": "질풍경초 : 방어 관통 {0}%"
   },
   "BuffDesc1_Effect_3P_Labiata_N_33": {
-    "english": "Whirlwind Primrose: Action {0}% (Spirit of Service)",
+    "english": "Whirlwind Primrose: SPD {0}% (Spirit of Service)",
     "korean": "질풍경초 : 행동력 {0}% (봉사정신)"
   },
   "BuffDesc1_Effect_3P_Labiata_N_4": {
@@ -816,7 +816,7 @@
     "korean": "보좌하겠습니다 : 행 보호"
   },
   "BuffDesc1_Effect_3P_Vanilla_N_43": {
-    "english": "The Maid Next Door: Action {0}% (Spirit of Service)",
+    "english": "The Maid Next Door: SPD {0}% (Spirit of Service)",
     "korean": "옆자리 메이드씨 : 행동력 {0}% (봉사정신)"
   },
   "BuffDesc1_Effect_3P_Vanilla_N_5": {
@@ -872,23 +872,23 @@
     "korean": "연산 최적화 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_AGS_Aeda_N_41": {
-    "english": "Computation Optimization: Action {0}% (AGS)",
+    "english": "Computation Optimization: SPD {0}% (AGS)",
     "korean": "연산 최적화 : 행동력 {0}% (AGS)"
   },
   "BuffDesc1_Effect_AGS_Aeda_N_42": {
-    "english": "Computation Optimization: Action {0}% (Orbital Watcher)",
+    "english": "Computation Optimization: SPD {0}% (Orbital Watcher)",
     "korean": "연산 최적화 : 행동력 {0}% (오비탈 와쳐)"
   },
   "BuffDesc1_Effect_AGS_Aeda_N_43": {
-    "english": "Computation Optimization: Action {0}%",
+    "english": "Computation Optimization: SPD {0}%",
     "korean": "연산 최적화 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_AGS_Aeda_N_44": {
-    "english": "Computation Optimization: Action {0}% (AGS)",
+    "english": "Computation Optimization: SPD {0}% (AGS)",
     "korean": "연산 최적화 : 행동력 {0}% (AGS)"
   },
   "BuffDesc1_Effect_AGS_Aeda_N_45": {
-    "english": "Computation Optimization: Action {0}% (Orbital Watcher)",
+    "english": "Computation Optimization: SPD {0}% (Orbital Watcher)",
     "korean": "연산 최적화 : 행동력 {0}% (오비탈 와쳐)"
   },
   "BuffDesc1_Effect_AGS_Aeda_N_5": {
@@ -900,7 +900,7 @@
     "korean": "위치 포착 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_AGS_Aeda_N_52": {
-    "english": "1010011100100110001111001000: Action {0}%",
+    "english": "1010011100100110001111001000: SPD {0}%",
     "korean": "1010011100100110001111001000 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_AGS_Deathstalker_N_1": {
@@ -1392,19 +1392,19 @@
     "korean": "협동정찰 : 행동력 감소 해제"
   },
   "BuffDesc1_Effect_AGS_Watcher_N_21": {
-    "english": "Cooperative Recon : Action Points {0} (Large/Heavy)",
+    "english": "Cooperative Recon : SPD {0} (Large/Heavy)",
     "korean": "협동정찰 : 행동력 {0}% (중장형)"
   },
   "BuffDesc1_Effect_AGS_Watcher_N_22": {
-    "english": "Cooperative Recon : Action Points {0} (Large/Heavy)",
+    "english": "Cooperative Recon : SPD {0} (Large/Heavy)",
     "korean": "협동정찰 : 행동력 {0}% (중장형)"
   },
   "BuffDesc1_Effect_AGS_Watcher_N_23": {
-    "english": "Cooperative Recon : Action Points {0} (Large/Heavy)",
+    "english": "Cooperative Recon : SPD {0} (Large/Heavy)",
     "korean": "협동정찰 : 행동력 {0}% (중장형)"
   },
   "BuffDesc1_Effect_AGS_Watcher_N_24": {
-    "english": "Cooperative Recon : Action Points {0} (Large/Heavy)",
+    "english": "Cooperative Recon : SPD {0} (Large/Heavy)",
     "korean": "협동정찰 : 행동력 {0}% (중장형)"
   },
   "BuffDesc1_Effect_AGS_Watcher_N_26": {
@@ -1852,39 +1852,39 @@
     "korean": "킬 박스 : 받는 피해 {0}% 증가"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_511": {
-    "english": "Kill Zone: Action {0}%",
+    "english": "Kill Zone: SPD {0}%",
     "korean": "킬 존 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_512": {
-    "english": "Kill Zone: Action {0}%",
+    "english": "Kill Zone: SPD {0}%",
     "korean": "킬 존 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_513": {
-    "english": "Kill Zone: Action {0}%",
+    "english": "Kill Zone: SPD {0}%",
     "korean": "킬 존 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_514": {
-    "english": "Kill Zone: Action {0}%",
+    "english": "Kill Zone: SPD {0}%",
     "korean": "킬 존 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_515": {
-    "english": "Kill Zone: Action {0}%",
+    "english": "Kill Zone: SPD {0}%",
     "korean": "킬 존 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_516": {
-    "english": "Kill Box: Action {0}%",
+    "english": "Kill Box: SPD {0}%",
     "korean": "킬 박스 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_517": {
-    "english": "Kill Box: Action {0}%",
+    "english": "Kill Box: SPD {0}%",
     "korean": "킬 박스 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_518": {
-    "english": "Kill Box: Action {0}%",
+    "english": "Kill Box: SPD {0}%",
     "korean": "킬 박스 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_519": {
-    "english": "Kill Box: Action {0}%",
+    "english": "Kill Box: SPD {0}%",
     "korean": "킬 박스 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_52": {
@@ -1892,7 +1892,7 @@
     "korean": "킬 존 : 받는 피해 {0}% 증가"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_520": {
-    "english": "Kill Box: Action {0}%",
+    "english": "Kill Box: SPD {0}%",
     "korean": "킬 박스 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_BeastHunter_N_53": {
@@ -2660,7 +2660,7 @@
     "korean": "날 혼자 내버려둬... : 광역 피해 분산 효과 해제"
   },
   "BuffDesc1_Effect_BR_Efreeti_None_56": {
-    "english": "Leave me alone...: AP {0}%",
+    "english": "Leave me alone...: SPD {0}%",
     "korean": "날 혼자 내버려둬... : 행동력{0}%"
   },
   "BuffDesc1_Effect_BR_Efreeti_None_7": {
@@ -3036,15 +3036,15 @@
     "korean": "제병합동 : 행동력 {0}% (경장형)"
   },
   "BuffDesc1_Effect_BR_Habetrot_N_45": {
-    "english": "Combined Arms: AP {0}% (Heavy units)",
+    "english": "Combined Arms: SPD {0}% (Heavy units)",
     "korean": "제병합동 : 행동력 {0}% (중장형)"
   },
   "BuffDesc1_Effect_BR_Habetrot_N_46": {
-    "english": "Combined Arms: AP {0}% (Attack units)",
+    "english": "Combined Arms: SPD {0}% (Attack units)",
     "korean": "제병합동 : 행동력 {0}% (공격기)"
   },
   "BuffDesc1_Effect_BR_Habetrot_N_47": {
-    "english": "Combined Arms: AP {0}% (Support units)",
+    "english": "Combined Arms: SPD {0}% (Support units)",
     "korean": "제병합동 : 행동력 {0}% (지원기)"
   },
   "BuffDesc1_Effect_BR_Habetrot_N_5": {
@@ -3072,11 +3072,11 @@
     "korean": "엘랑…? : 행동력 {0}% (마리)"
   },
   "BuffDesc1_Effect_BR_Habetrot_N_54": {
-    "english": "Elang…?: AP {0}% (Red Hood)",
+    "english": "Elang…?: SPD {0}% (Red Hood)",
     "korean": "엘랑…? : 행동력 {0}% (레드후드)"
   },
   "BuffDesc1_Effect_BR_Habetrot_N_55": {
-    "english": "Elang…?: AP {0}% (Phoenix)",
+    "english": "Elang…?: SPD {0}% (Phoenix)",
     "korean": "엘랑…? : 행동력 {0}% (피닉스)"
   },
   "BuffDesc1_Effect_BR_Habetrot_N_56": {
@@ -3520,7 +3520,7 @@
     "korean": "야전교범 : 해로운 효과 해제"
   },
   "BuffDesc1_Effect_BR_Impet_N_43": {
-    "english": "Field Manual: Action {0}%",
+    "english": "Field Manual: SPD {0}%",
     "korean": "야전교범 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Impet_N_44": {
@@ -3540,7 +3540,7 @@
     "korean": "야전교범 : 해로운 효과 해제"
   },
   "BuffDesc1_Effect_BR_Impet_N_48": {
-    "english": "Field Manual: Action {0}%",
+    "english": "Field Manual: SPD {0}%",
     "korean": "야전교범 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Impet_N_5": {
@@ -3832,15 +3832,15 @@
     "korean": "지치지 않는 다리"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_43": {
-    "english": "Inspiration: Action points {0}%",
+    "english": "Inspiration: SPD {0}%",
     "korean": "감화 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_44": {
-    "english": "Inspiration: Action points {0}%",
+    "english": "Inspiration: SPD {0}%",
     "korean": "감화 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_45": {
-    "english": "Inspiration: Action points {0}%",
+    "english": "Inspiration: SPD {0}%",
     "korean": "감화 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_46": {
@@ -3848,7 +3848,7 @@
     "korean": "가슴에 품은 동경"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_47": {
-    "english": "Dreamed ideal: Action points {0}% (Max)",
+    "english": "Dreamed ideal: SPD {0}% (Max)",
     "korean": "꿈꾸던 이상 : 행동력 {0}% (최대)"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_5": {

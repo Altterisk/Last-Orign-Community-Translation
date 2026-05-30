@@ -40,11 +40,11 @@
     "korean": "라운드 개시 시, 체력이 10% 미만일 경우 사망 시, 최대 체력의 50% 상태로 재가동을 합니다."
   },
   "1002706396": {
-    "english": "Deals {0} damage to the target area and applies AP reduction / increased damage taken status.&nAdditional AP reduction / increased damage taken status is applied according to the number of <Weakness Analysis> stacks, and when at 3 stacks, additionally reduces AP.",
+    "english": "Deals {0} damage to the target area and applies SPD reduction / increased damage taken status.&nAdditional SPD reduction / increased damage taken status is applied according to the number of <Weakness Analysis> stacks, and when at 3 stacks, additionally reduces AP.",
     "korean": "목표 지점에 {0} 피해를 주고, 행동력 감소 / 받는 피해 증가 상태를 적용시킵니다. <약점 분석>의 중첩 수에 따라 행동력 감소 / 받는 피해 증가 상태가 추가적으로 적용되며 3중첩인 상태일 시, 추가적으로 AP를 감소시킵니다."
   },
   "1002706397": {
-    "english": "Deals {0} damage to the target area and has a low chance to inflict the incapacitated status.&nIf self has ATK / DEF / ACU / CRIT / AP / EVA reduction effects applied, applies the same reductions to the enemy.&nIf <Weakness Analysis> is at maximum stacks, the chance to inflict incapacitated increases and all <Weakness Analysis> stacks are consumed upon using this skill.",
+    "english": "Deals {0} damage to the target area and has a low chance to inflict the incapacitated status.&nIf self has ATK / DEF / ACU / CRIT / SPD / EVA reduction effects applied, applies the same reductions to the enemy.&nIf <Weakness Analysis> is at maximum stacks, the chance to inflict incapacitated increases and all <Weakness Analysis> stacks are consumed upon using this skill.",
     "korean": "목표 지점에 {0} 피해를 주고, 낮은 확률로 행동 불가 상태로 만듭니다. 자신에게 공격력 / 방어력 / 적중 / 치명타 / 행동력 / 회피 감소 효과가 적용돼 있을 경우, 감소된 항목을 적에게도 적용시킵니다. <약점 분석>이 최대 중첩일 경우, 행동 불가 확률이 증가하며 해당 스킬을 사용 시, <약점 분석>을 전부 소모합니다."
   },
   "1002706398": {
@@ -52,7 +52,7 @@
     "korean": "라운드 개시 시, 주위 아군의 공격력 / 적중을 증가시키고 자신에게 방어력 증가 / 방어막을 부여합니다. 라운드가 지속됨에 따라 해당 버프는 추가적으로 적용됩니다."
   },
   "1002706399": {
-    "english": "When using the Weakness Analysis skill, <Weakness Analysis> is applied and AP of nearby allies is increased according to the number of <Weakness Analysis> stacks.&nWhen hit by an elemental attack while at maximum <Weakness Analysis> stacks, enters <Calculation Error> status which removes <Weakness Analysis> and, at the start of the round during this status, all buffs on self and allies are removed and they become incapacitated for 2 rounds.",
+    "english": "When using the Weakness Analysis skill, <Weakness Analysis> is applied and SPD of nearby allies is increased according to the number of <Weakness Analysis> stacks.&nWhen hit by an elemental attack while at maximum <Weakness Analysis> stacks, enters <Calculation Error> status which removes <Weakness Analysis> and, at the start of the round during this status, all buffs on self and allies are removed and they become incapacitated for 2 rounds.",
     "korean": "약점 분석 스킬 사용 시, <약점 분석>이 적용되고 <약점 분석>의 중첩 수에 따라 주위 아군의 행동력이 증가합니다. <약점 분석>이 최대 중첩인 상태에서 속성 공격에 피격 시, <연산 오류> 상태가 되어 <약점 분석> 상태가 해제되고 해당 상태에서 라운드 개시 시, 자신을 포함한 모든 아군의 강화 효과가 해제되고 2라운드 동안 행동 불능 상태가 됩니다."
   },
   "1002706400": {
@@ -64,7 +64,7 @@
     "korean": "전투 개시 시, 2라운드 동안 범위 내 아군의 공격을 지원합니다. 화염 공격에 피격 시, 해당 효과는 해제됩니다."
   },
   "1002706402": {
-    "english": "At the start of the round, if <Output Amplification> has 5 or more stacks, ignores shield / damage reduction effects and grants DEF Penetration.&nWhen hit by fire attacks while in <Output Limit Release> status, AP is reduced.",
+    "english": "At the start of the round, if <Output Amplification> has 5 or more stacks, ignores shield / damage reduction effects and grants DEF Penetration.&nWhen hit by fire attacks while in <Output Limit Release> status, SPD is reduced.",
     "korean": "라운드 개시 시, <출력 증폭>이 5중첩 이상인 상태라면 방어막 / 피해 감소 효과를 무시하며 방어 관통 효과가 부여 됩니다. <출력 한계 해제> 상태에서 화염 공격에 피격 시 행동력이 감소합니다."
   },
   "1002706403": {
@@ -88,11 +88,11 @@
     "korean": "경장형 아군 또는 <엘븐형 바이오로이드>의 해로운 효과를 모두 해제하고 AP를 증가시키며, 3라운드 동안 공격력 / 치명타 / 방어 관통을 증가시킵니다. 스킬 사용 시, 기본 공격력에 비례한 고정 피해를 입습니다."
   },
   "1002706408": {
-    "english": "At the start of the round, gains increased AP and deploys a barrier at the start of battle.&nOwn AP is further increased based on the number of <Elven-type Bioroids> in the squad.",
+    "english": "At the start of the round, gains increased SPD and deploys a barrier at the start of battle.&nOwn SPD is further increased based on the number of <Elven-type Bioroids> in the squad.",
     "korean": "라운드 시작 시 행동력이 증가하며, 전투 시작 시 방어막을 전개합니다. 스쿼드 내 <엘븐형 바이오로이드> 수에 따라 자신의 행동력이 추가로 증가합니다."
   },
   "1002706409": {
-    "english": "Increases ATK, AP, and DEF Penetration for Light-type allies or <Elven-type Bioroids>.&nThe effect received by Light-type allies is further enhanced based on the number of <Elven-type Bioroids> in the squad.",
+    "english": "Increases ATK, SPD, and DEF Penetration for Light-type allies or <Elven-type Bioroids>.&nThe effect received by Light-type allies is further enhanced based on the number of <Elven-type Bioroids> in the squad.",
     "korean": "경장형 아군 또는 <엘븐형 바이오로이드>의 공격력 / 행동력 / 방어 관통을 증가시킵니다. 스쿼드 내 <엘븐형 바이오로이드> 수에 따라 경장형 아군이 받는 효과가 증가합니다."
   },
   "1002706410": {
@@ -108,7 +108,7 @@
     "korean": "적 공격 시, 지정 보호 효과를 해제하며 2라운드 동안 자신에게 표식이 지정됩니다. 라운드 개시 시, 방어력 / 효과 저항이 증가하고 받는 피해가 감소합니다."
   },
   "1002706413": {
-    "english": "At the start of combat, there is a certain probability that enemies will be rendered unable to use skills for 2 rounds, and the Combat Continuation effect will be applied. When Combat Continuation is activated, Action Points increase significantly, and all remaining Combat Continuation effects are removed. If destroyed while in this state, it self-destructs against enemies, dealing fixed fire damage proportional to its attack power.",
+    "english": "At the start of combat, there is a certain probability that enemies will be rendered unable to use skills for 2 rounds, and the Combat Continuation effect will be applied. When Combat Continuation is activated, SPD increases significantly, and all remaining Combat Continuation effects are removed. If destroyed while in this state, it self-destructs against enemies, dealing fixed fire damage proportional to its attack power.",
     "korean": "전투 개시 시, 일정 확률로 2라운드간 적들을 스킬 사용 불가 상태로 만들고 전투 속행 효과가 적용됩니다. 전투 속행 발동 시, 행동력이 크게 증가하며 남은 모든 전투 속행 효과를 해제합니다. 해당 상태에서 파괴되면 적에게 자폭해 공격력에 비례한 고정 화염 피해를 줍니다."
   },
   "1002706414": {
@@ -136,15 +136,15 @@
     "korean": "라운드 개시 시, 자신에게 방어막 / 방어력 증가를 부여합니다. 해당 효과는 매 라운드 감소합니다."
   },
   "1002706420": {
-    "english": "Deals {1} damage to the designated area, reduces AP, and has a low chance to apply skill disable.&nThe chance to apply skill disable increases if the enemy is immobilized.&nFor Light units, reduces ATK / ACU; for Mobile units, reduces AP / EVA; for Heavy units, reduces ATK / DEF.",
+    "english": "Deals {1} damage to the designated area, reduces AP, and has a low chance to apply skill disable.&nThe chance to apply skill disable increases if the enemy is immobilized.&nFor Light units, reduces ATK / ACU; for Mobile units, reduces SPD / EVA; for Heavy units, reduces ATK / DEF.",
     "korean": "지정 범위에 {1} 피해를 주고, AP 감소 / 낮은 확률로 스킬 사용 불가를 적용합니다. 적 이동 불가 상태 시 스킬 사용 불가 확률이 증가하며 경장형일 시 공격력 / 적중, 기동형일 시 행동력 / 회피, 중장형일 시 공격력 / 방어력이 감소합니다."
   },
   "1002706421": {
-    "english": "Deals {2} damage to the designated area, reduces AP, and has a low chance to apply skill disable.&nThe chance to apply skill disable increases if the enemy is immobilized.&nFor Light units, reduces ATK / ACU; for Mobile units, reduces AP / EVA; for Heavy units, reduces ATK / DEF.",
+    "english": "Deals {2} damage to the designated area, reduces AP, and has a low chance to apply skill disable.&nThe chance to apply skill disable increases if the enemy is immobilized.&nFor Light units, reduces ATK / ACU; for Mobile units, reduces SPD / EVA; for Heavy units, reduces ATK / DEF.",
     "korean": "지정 범위에 {2} 피해를 주고, AP 감소 / 낮은 확률로 스킬 사용 불가를 적용합니다. 적 이동 불가 상태 시 스킬 사용 불가 확률이 증가하며 경장형일 시 공격력 / 적중, 기동형일 시 행동력 / 회피, 중장형일 시 공격력 / 방어력이 감소합니다."
   },
   "1002706422": {
-    "english": "Deals {3} damage to the designated area, reduces AP, and has a low chance to apply skill disable.&nThe chance to apply skill disable increases if the enemy is immobilized.&nFor Light units, reduces ATK / ACU; for Mobile units, reduces AP / EVA; for Heavy units, reduces ATK / DEF.",
+    "english": "Deals {3} damage to the designated area, reduces AP, and has a low chance to apply skill disable.&nThe chance to apply skill disable increases if the enemy is immobilized.&nFor Light units, reduces ATK / ACU; for Mobile units, reduces SPD / EVA; for Heavy units, reduces ATK / DEF.",
     "korean": "지정 범위에 {3} 피해를 주고, AP 감소 / 낮은 확률로 스킬 사용 불가를 적용합니다. 적 이동 불가 상태 시 스킬 사용 불가 확률이 증가하며 경장형일 시 공격력 / 적중, 기동형일 시 행동력 / 회피, 중장형일 시 공격력 / 방어력이 감소합니다."
   },
   "1002706423": {
@@ -152,7 +152,7 @@
     "korean": "단일 적에게 개조된 폭발탄을 발사하여 {0} 피해를 주고, 2라운드 동안 대상을 표식으로 설정합니다."
   },
   "1002706424": {
-    "english": "When the skill is used, the attacker's ATK/CRIT, protector's DEF/EVA, and supporter's AP/ACU increase.&nIf belonging to Sisters of Valhalla, the effects are doubled, and Frost Resistance is increased.",
+    "english": "When the skill is used, the attacker's ATK/CRIT, protector's DEF/CRIT, supporter's SPD/ACU increase.&nIf belonging to Sisters of Valhalla, the effects are doubled, and Frost Resistance is increased.",
     "korean": "스킬 사용시 공격기의 공격력/치명타, 보호기의 방어력/회피, 지원기의 행동력/적중이 증가합니다. 시스터즈 오브 발할라 소속일 시 효과가 2배로 적용되며, 냉기 저항이 증가합니다."
   },
   "1002706425": {
@@ -168,7 +168,7 @@
     "korean": "지정 범위에 {0} 피해를 주고, 2라운드 동안 대상들의 방어력을 감소시키며 받는 피해를 증가시킵니다."
   },
   "1002706428": {
-    "english": "Deals {0} protection-ignoring damage to a single enemy. Damage increases on a CRIT, but using the skill causes exhaustion, greatly reducing own AP.",
+    "english": "Deals {0} protection-ignoring damage to a single enemy. Damage increases on a CRIT, but using the skill causes exhaustion, greatly reducing own SPD.",
     "korean": "단일 적에게 {0} 보호 무시 피해를 줍니다. 치명타 시 피해량이 증가하며, 스킬 사용 시 탈진하여 자신의 행동력이 크게 감소합니다."
   },
   "1002706429": {
@@ -176,19 +176,19 @@
     "korean": "라운드 개시 시, 자신의 치명타 확률 / 방어 관통 비율이 증가하며, 대 중장 공격력이 증가합니다."
   },
   "1002706430": {
-    "english": "At the start of the round, allies within range gain increased ACU / ATK / AP. If Scissors Lise and Daphne are in the squad, the effect increases further and can stack up to 3 times.",
+    "english": "At the start of the round, allies within range gain increased ACU / ATK / SPD. If Scissors Lise and Daphne are in the squad, the effect increases further and can stack up to 3 times.",
     "korean": "라운드 개시 시, 범위 내 아군의 적중 / 공격력 / 행동력이 증가합니다. 스쿼드에 시저스 리제, 다프네가 있으면 효과가 추가로 증가하여, 최대 3회까지 중첩됩니다."
   },
   "1002706431": {
-    "english": "Deals {0} protection-ignoring damage to a single enemy.&nOn CRIT, damage is increased, and upon using the skill, becomes exhausted, greatly reducing own AP.",
+    "english": "Deals {0} protection-ignoring damage to a single enemy.&nOn CRIT, damage is increased, and upon using the skill, becomes exhausted, greatly reducing own SPD.",
     "korean": "단일 적에게 {0} 보호 무시 피해를 줍니다. 치명타시 피해량이 증가하며, 스킬 사용시 탈진하여 자신의 행동력이 크게 감소합니다."
   },
   "1002706432": {
-    "english": "At the start of the round, increases ACU / ATK / AP of allies within range, stacking up to 3 times.&nIf Scissors Lize or Daphne is in the squad, the effect is further increased.",
+    "english": "At the start of the round, increases ACU / ATK / SPD of allies within range, stacking up to 3 times.&nIf Scissors Lize or Daphne is in the squad, the effect is further increased.",
     "korean": "라운드 개시 시, 범위 내 아군의 적중 / 공격력 / 행동력이 증가하여 최대 3회까지 중첩됩니다. 스쿼드에 시저스 리제, 다프네가 있으면 효과가 추가로 증가합니다."
   },
   "1002706433": {
-    "english": "When an attack hits, increases AP and ATK of allies within range.",
+    "english": "When an attack hits, increases SPD and ATK of allies within range.",
     "korean": "공격 적중 시, 범위 내 아군의 행동력과 공격력이 증가합니다."
   },
   "1002706434": {
@@ -200,7 +200,7 @@
     "korean": "목표에 돌격하여 {0} 피해를 주고 대상 뒷 열에 25% 감소한 피해를 줍니다. 벌크 업 중첩 2 이상이면 피해량 증가 / AP 감소, 5 이상이면 행동 불능 상태를 부여합니다."
   },
   "1002706436": {
-    "english": "When an attack hits, enters Bulk Up status for 5 rounds, increasing AP and ATK.&nThis effect can stack up to 5 times.&nAppearance changes based on the number of Bulk Up stacks.",
+    "english": "When an attack hits, enters Bulk Up status for 5 rounds, increasing SPD and ATK.&nThis effect can stack up to 5 times.&nAppearance changes based on the number of Bulk Up stacks.",
     "korean": "공격 적중 시, 5라운드 동안 벌크 업 상태가 되어 행동력 / 공격력이 증가합니다. 해당 효과는 5번까지 중첩됩니다. 공격 적중 시, 벌크업 중첩 수에 따라 외형이 변화합니다."
   },
   "1002706437": {
@@ -228,7 +228,7 @@
     "korean": "지정 범위에 {0} 전기 속성 피해를 주고 전기 속성 저항을 감소시킵니다. <고전압> 상태에서는 대상의 전기 속성 저항을 크게 감소시키고 1라운드 동안 행동 불가 상태로 만듭니다. 스킬 사용 후 <고전압> 상태는 해제됩니다."
   },
   "1002706443": {
-    "english": "Deals {0} Electric damage to a designated area. Ignores Protect. If the target is afflicted with reduced Electric Resistance, decreases their AP. On a critical hit, damage is increased.",
+    "english": "Deals {0} Electric damage to a designated area. Ignores Protect. If the target is afflicted with reduced Electric Resistance, decreases their SPD. On a critical hit, damage is increased.",
     "korean": "지정 범위에 {0} 전기 속성 보호 무시 피해를 주고 적 전기 속성 저항 감소 상태일 시 적 행동력을 감소시킵니다. 치명타 시, 피해량이 증가합니다."
   },
   "1002706444": {
@@ -236,7 +236,7 @@
     "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가하며, 아군 인원 3명일 시 공격력, 5명일 시 치명타가 추가 증가합니다. 지정 범위 시티가드 소속 / 경장 보호기를 공격 지원하며, 전투 시작 시 <충전> 상태가 되고 <충전> 상태에서 대기 시 <고전압> 상태로 전환합니다."
   },
   "1002706445": {
-    "english": "On hit, increases ATK and AP of allies in the designated area, stacking up to 3 times.",
+    "english": "On hit, increases ATK and SPD of allies in the designated area, stacking up to 3 times.",
     "korean": "공격 적중 시 지정 범위 아군 공격력 / 행동력이 최대 3중첩하여 증가합니다."
   },
   "1002706446": {
@@ -260,11 +260,11 @@
     "korean": "라운드 개시 시, 자신에게 이로운 표식을 지정하고 자신의 방어력과 모든 속성 저항을 증가시키며 받는 피해를 감소시킵니다."
   },
   "1002706451": {
-    "english": "At the start of the round, protects Light-type / Heavy-type allies within the designated area.&nIncreases the Action Points (AP) of allies within the area, and if own HP is 50% or below, further increases AP.",
+    "english": "At the start of the round, protects Light-type / Heavy-type allies within the designated area.&nIncreases the SPD (AP) of allies within the area, and if own HP is 50% or below, further increases AP.",
     "korean": "라운드 개시 시, 범위 내 경장형 / 중장형 아군을 보호합니다. 범위 내 아군의 행동력을 증가시키며, 자신의 HP가 50% 이하일 시 AP를 추가 증가시킵니다."
   },
   "1002706452": {
-    "english": "At the start of combat, gains the \"Continue Battle\" effect.&nAt the start of each round, damage taken is reduced and action points (or speed) are increased.&nThe damage reduction effect increases each time HP drops below 75% and 50%.",
+    "english": "At the start of combat, gains the \"Continue Battle\" effect.&nAt the start of each round, damage taken is reduced and SPD are increased.&nThe damage reduction effect increases each time HP drops below 75% and 50%.",
     "korean": "전투 개시 시 전투 속행 효과를 얻습니다. 라운드 개시 시 받는 피해가 감소하며 행동력이 증가합니다. 받는 피해 감소 효과는 HP가 75% / 50% 이하가 될 때마다 증가합니다."
   },
   "1002706453": {
@@ -340,7 +340,7 @@
     "korean": "전열일수록 방어력 증가 / 받는 피해 감소. 피격 시, 공격력 증가"
   },
   "1002706471": {
-    "english": "Protects light armored allies in squad. Allies' ACU / AP / damage to air increased",
+    "english": "Protects light armored allies in squad. Allies' ACU / SPD / damage to air increased",
     "korean": "스쿼드 내 경장형 아군 지정 보호. 아군 적중 / 행동력 / 대 기동형 피해량 증가"
   },
   "1002706472": {
@@ -356,7 +356,7 @@
     "korean": "목표 대상 {0} 보호 무시 피해. 벌크 업 2 중첩 이상 시, 피해량 증가 / AP 감소, 5 이상 시 행동 불능"
   },
   "1002706475": {
-    "english": "On attack hit, increases AP / ATK, Bulk Up buff max 5 stacks",
+    "english": "On attack hit, increases SPD / ATK, Bulk Up buff max 5 stacks",
     "korean": "공격 적중 시 행동력 / 공격력 증가, 벌크업 버프, 최대 5중첩"
   },
   "1002706476": {
@@ -368,7 +368,7 @@
     "korean": "효과 저항 증가 / 행 보호 / 정찰. <위협 사격>, <편대 호위> 강화. <강행 정찰> 시, AP 증가"
   },
   "1002706478": {
-    "english": "Increases ATK / CRIT / AP for allies in range. Protects all except air/protector types. Counterattacks if front row",
+    "english": "Increases ATK / CRIT / SPD for allies in range. Protects all except air/protector types. Counterattacks if front row",
     "korean": "범위 내 아군 공격력 / 치명타 / 행동력 증가. 기동형 / 보호기 제외 지정 보호. 전열이면 반격"
   },
   "1002706479": {
@@ -388,7 +388,7 @@
     "korean": "목표 지점 {0} 피해. 표식 / 받는 피해 증가 / 회피 감소"
   },
   "1002706483": {
-    "english": "Target area {0} damage ignoring protection. Applies AP reduction (self / unremovable)",
+    "english": "Target area {0} damage ignoring protection. Applies SPD reduction (self / unremovable)",
     "korean": "목표 지점 {0} 보호 무시 피해. 행동력 감소 (자신 / 해제 불가)"
   },
   "1002706484": {
@@ -396,7 +396,7 @@
     "korean": "인접 아군 공격력 / 치명타 / 방어 관통 증가"
   },
   "1002706485": {
-    "english": "Increases AP / AP of adjacent allies. Effect doubled for robots",
+    "english": "Increases SPD / AP of adjacent allies. Effect doubled for robots",
     "korean": "인접 아군 행동력 / AP 증가. 로봇에게는 효과 2배"
   },
   "1002706486": {
@@ -428,7 +428,7 @@
     "korean": "아군 지정 보호/치명타 증가/공격기 공격 지원/자신 방어력 증가"
   },
   "1002706493": {
-    "english": "Reduces damage taken. Increases allies' ATK, ACU, and AP.",
+    "english": "Reduces damage taken. Increases allies' ATK, ACU, and SPD.",
     "korean": "받는 피해 감소. 아군 공격력/적중/행동력 증가"
   },
   "1002706494": {
@@ -444,7 +444,7 @@
     "korean": "회피 / 방어 관통 / 대 경장형 / 중장형 피해량 증가. 공격 적중 시, 전용 표식 설정"
   },
   "1002706497": {
-    "english": "At round start, ATK / AP increase. Additional increase on enemy kill.",
+    "english": "At round start, ATK / SPD increase. Additional increase on enemy kill.",
     "korean": "라운드 개시 시, 공격력 / 행동력 증가. 적 처치 시, 추가 증가"
   },
   "1002706498": {
@@ -460,7 +460,7 @@
     "korean": "단일 대상 {0} 방어 관통 피해. 치명타 시, 피해량 증가"
   },
   "1002706501": {
-    "english": "Protects Light/Heavy Armor-type allies, increases AP",
+    "english": "Protects Light/Heavy Armor-type allies, increases SPD",
     "korean": "경장/중장형 아군 보호, 행동력 증가"
   },
   "1002706502": {
@@ -484,7 +484,7 @@
     "korean": "치명타 / 회피 증가 / 받는 피해 감소. 적 처치 시, AP 증가"
   },
   "1002706507": {
-    "english": "When on standby, activates Optical Camouflage.&nGrants guaranteed CRIT for 2 rounds.&nIncreases ATK, reduces AP, and changes Active Skills.",
+    "english": "When on standby, activates Optical Camouflage.&nGrants guaranteed CRIT for 2 rounds.&nIncreases ATK, reduces SPD, and changes Active Skills.",
     "korean": "대기 시, 광학 미채 발동. 확정 치명타 (2r). 공격력 증가 / 행동력 감소 / 액티브 스킬 변경"
   },
   "1002706508": {
@@ -512,7 +512,7 @@
     "korean": "범위 내 기동형 제외 아군 적중 감소 / 회피 증가 / 받는 피해 감소"
   },
   "1002706514": {
-    "english": "Single target {0} damage. Reduces taunt / ACU / CRIT / AP / enables cooperative attack.",
+    "english": "Single target {0} damage. Reduces taunt / ACU / CRIT / SPD / enables cooperative attack.",
     "korean": "단일 대상 {0} 피해. 도발 / 적중 / 치명타 / 행동력 감소 / 협동 공격"
   },
   "1002706515": {
@@ -520,15 +520,15 @@
     "korean": "지정 범위 {0} 보호 무시 피해. 적중 감소 / 반격 효과 해제. 뒷 열일수록 공격력 증가 / 방어 관통"
   },
   "1002706516": {
-    "english": "Increases ATK / CRIT / AP of allies. Protects air types except protectors in range.",
+    "english": "Increases ATK / CRIT / SPD of allies. Protects air types except protectors in range.",
     "korean": "아군 공격력 / 치명타 / 행동력 증가. 범위 내 보호기 제외 기동형 지정 보호"
   },
   "1002706517": {
-    "english": "Increases AP on attack EVA. Additional EVA increase at round start if active.",
+    "english": "Increases SPD on attack EVA. Additional EVA increase at round start if active.",
     "korean": "공격 회피 시, 행동력 증가. 활성화 상태면 라운드 개시 시, 회피 추가 증가"
   },
   "1002706518": {
-    "english": "Increases EVA on enemy attack. Removes AP and EVA reductions.",
+    "english": "Increases EVA on enemy attack. Removes SPD and EVA reductions.",
     "korean": "적 공격 시, 회피 증가. 행동력 감소 / 회피 감소 해제"
   },
   "1002706519": {
@@ -540,11 +540,11 @@
     "korean": "목표 지점 {0} 피해. 대상이 보호기인 경우 / 치명타 시 피해량 증가"
   },
   "1002706521": {
-    "english": "Increases DEF penetration. At battle start, increases AP / enables reattack. Re-activates on standby.",
+    "english": "Increases DEF penetration. At battle start, increases SPD / enables reattack. Re-activates on standby.",
     "korean": "방어 관통 증가. 전투 개시 시, 행동력 증가 / 재공격. 대기 시, 재활성화"
   },
   "1002706522": {
-    "english": "Protects allies in range. Increases AP / counterattack on skill use.",
+    "english": "Protects allies in range. Increases SPD / counterattack on skill use.",
     "korean": "범위 내 아군 지정 보호. 스킬 사용 시, 행동력 증가 / 반격"
   },
   "1002706523": {
@@ -556,7 +556,7 @@
     "korean": "같은 열 인접 경장 / 중장형 아군 공격 지원 / AP 상승"
   },
   "1002706525": {
-    "english": "Increases ATK / CRIT / damage reduction. <Anger of Horde> increases AP per squad member / supports attacks of squad members in range.",
+    "english": "Increases ATK / CRIT / damage reduction. <Anger of Horde> increases SPD per squad member / supports attacks of squad members in range.",
     "korean": "공격력 / 치명타 증가 / 받는 피해 감소. <앵거 오브 호드> 대원 당 행동력 증가 / 범위 내 대원의 공격 지원"
   },
   "1002706526": {
@@ -568,7 +568,7 @@
     "korean": "범위 내 아군 지정 보호 / 적중 / 치명타 증가. 라운드 개시 시 / 공격 시, 회피 증가"
   },
   "1002706528": {
-    "english": "Increases ATK / ACU / CRIT / AP on attack. EVA increases on enemy kill / also applies to allies.",
+    "english": "Increases ATK / ACU / CRIT / SPD on attack. EVA increases on enemy kill / also applies to allies.",
     "korean": "공격 시, 공격력 / 적중 / 치명타 / 행동력 증가. 적 처치 시, 회피 증가 / 아군에게도 효과 적용"
   },
   "1002706529": {
@@ -584,15 +584,15 @@
     "korean": "단일 대상 {0} 방어 관통 피해. 치명타 시, 피해량 증가. 대 중장형 피해량 증가"
   },
   "1002706532": {
-    "english": "Increases ATK / CRIT. Increases AP in next battle after current battle ends.",
+    "english": "Increases ATK / CRIT. Increases SPD in next battle after current battle ends.",
     "korean": "공격력 / 치명타 증가. 전투 종료 시, 다음 전투 행동력 증가"
   },
   "1002706533": {
-    "english": "Closer to front row increases AP / EVA. Closer to back row increases ACU.",
+    "english": "Closer to front row increases SPD / EVA. Closer to back row increases ACU.",
     "korean": "전열에 가까울수록 행동력 / 회피 증가. 후열에 가까울수록 적중 증가"
   },
   "1002706534": {
-    "english": "Battle Continuation (1 time). Reduces incoming damage, increases AP / Fire Resistance / Cold Resistance",
+    "english": "Battle Continuation (1 time). Reduces incoming damage, increases SPD / Fire Resistance / Cold Resistance",
     "korean": "전투 속행 (1회). 받는 피해 감소, 행동력/화염저항/냉기저항 증가"
   },
   "1002706535": {
@@ -604,7 +604,7 @@
     "korean": "라운드 개시 시, 범위 내 아군 적중 / 치명타 / 방어 관통 증가"
   },
   "1002706537": {
-    "english": "For each well-synergized ally in the squad, increase ATK / ACU / CRIT / AP.&nSupports the target’s ATK.",
+    "english": "For each well-synergized ally in the squad, increase ATK / ACU / CRIT / SPD.&nSupports the target’s ATK.",
     "korean": "스쿼드에 죽이 잘 맞는 친구 1기 당 공격력 / 적중 / 치명타 / 행동력 증가. 대상 공격 지원"
   },
   "1002706538": {
@@ -620,7 +620,7 @@
     "korean": "범위 내 아군 공격 지원 / 적중 증가"
   },
   "1002706541": {
-    "english": "CRIT Up. Allies affected by <Bombing Squadron Escort> gain Attack Support and increased ACU / AP.",
+    "english": "CRIT Up. Allies affected by <Bombing Squadron Escort> gain Attack Support and increased ACU / SPD.",
     "korean": "치명타 증가. 메이의 <폭격 편대 지휘> 효과 대상 공격 지원 / 적중 / 행동력 증가"
   },
   "1002706542": {
@@ -652,7 +652,7 @@
     "korean": "자신 HP% 낮을수록 피해량 증가. 공격 시 / 적 처치 시, 공격 능력 증가. 전투 불능 시, 표식 대상에게 고정 피해"
   },
   "1002706549": {
-    "english": "Protects designated front-row light / air allies / increases ACU / AP",
+    "english": "Protects designated front-row light / air allies / increases ACU / SPD",
     "korean": "전열에 배치된 경장 / 기동형 아군 지정 보호 / 적중 / 행동력 증가"
   },
   "1002706550": {
@@ -672,7 +672,7 @@
     "korean": "받는 피해 감소. 효과 저항 / 대 경장&중장형 피해량 증가. <다이너마이트 웜> 강화"
   },
   "1002706554": {
-    "english": "Increases ATK / AP. Additional effect on active skill CRIT based on <Suppressive Fire> ammo",
+    "english": "Increases ATK / SPD. Additional effect on active skill CRIT based on <Suppressive Fire> ammo",
     "korean": "공격력 / 행동력 증가. <탄막 사격> 잔탄에 따라, 액티브 스킬 치명타 시 추가 효과"
   },
   "1002706555": {
@@ -688,7 +688,7 @@
     "korean": "공격력 / 치명타 / 적중 / 회피 증가. 정찰로 다음 적 정보 확인"
   },
   "1002706558": {
-    "english": "Increases AP of allies. <Scout> supports ally attacks. Increases ACU / EVA during <Scout>. Doubles AP effect on standby",
+    "english": "Increases SPD of allies. <Scout> supports ally attacks. Increases ACU / EVA during <Scout>. Doubles SPD effect on standby",
     "korean": "아군 행동력 증가. <정찰> 아군 공격 지원. <정찰> 시 적중/회피 증가. 대기 시 행동력 효과 2배"
   },
   "1002706559": {
@@ -708,11 +708,11 @@
     "korean": "범위 내 아군 방어막 적용. 방어막 적용 대상은 받는 피해 감소."
   },
   "1002706563": {
-    "english": "Increases CRIT / AP of adjacent Bioroid allies. Effect increases if in contact with target / HP ≥ 90%",
+    "english": "Increases CRIT / SPD of adjacent Bioroid allies. Effect increases if in contact with target / HP ≥ 90%",
     "korean": "인접 바이오로이드 아군 치명타 / 행동력 증가. 대상과 접촉 중 / HP가 90% 이상이면 효과 증가"
   },
   "1002706564": {
-    "english": "Deals {0} cold damage to single target. Applies mark / reduces EVA / AP / amplifies damage / activates battlefield control buff",
+    "english": "Deals {0} cold damage to single target. Applies mark / reduces EVA / SPD / amplifies damage / activates battlefield control buff",
     "korean": "단일 대상 {0} 냉기 피해. 표식 / 회피 / 행동력 감소 / 피해 증폭 / 전장 장악 버프 활성화"
   },
   "1002706565": {
@@ -720,7 +720,7 @@
     "korean": "아군 AP / 공격력 / 적중 / 방어 관통 증가"
   },
   "1002706566": {
-    "english": "Increases ATK / AP of allies affected by Pinto / Miho / Steel Draco / Bulgasari skills",
+    "english": "Increases ATK / AP of allies affected by Pinto / Miho / Steel Draco / SPD",
     "korean": "핀토 / 미호 / 스틸 드라코 / 불가사리의 스킬 효과를 받는 아군 공격력 / 행동력 증가"
   },
   "1002706567": {
@@ -752,7 +752,7 @@
     "korean": "적의 적중을 감소시키며, 자신을 표식으로 지정하는 <홀로그램 타이거> 소환"
   },
   "1002706574": {
-    "english": "Grants protection to targeted offensive/support skills within range. Increases own EVA. When attacks hit or evade, increases AP of allies within range.",
+    "english": "Grants protection to targeted offensive/support skills within range. Increases own EVA. When attacks hit or evade, increases SPD of allies within range.",
     "korean": "범위 내 공격기 / 지원기 지정 보호. 자신의 회피 증가. 공격 적중 / 공격 회피 시, 범위 내 아군 행동력 증가"
   },
   "1002706575": {
@@ -784,7 +784,7 @@
     "korean": "지정 보호 해제 / 공격 시 자신에게 표식 지정. 방어력 / 효과 저항 증가 / 받는 피해 감소"
   },
   "1002706582": {
-    "english": "Battle Continuation. While in this state, AP is increased. If destroyed during this state, deals fixed damage to all enemies based on your ATK.",
+    "english": "Battle Continuation. While in this state, SPD is increased. If destroyed during this state, deals fixed damage to all enemies based on your ATK.",
     "korean": "전투 속행. 전투 속행 시, 행동력 증가. 해당 상태에서 파괴되면 모든 적에게 공격력 비례 고정 피해"
   },
   "1002706583": {
@@ -800,7 +800,7 @@
     "korean": "단일 대상 {0} 피해. 표식 / 받는 피해 증가 / 적중 감소"
   },
   "1002706586": {
-    "english": "Increases CRIT / ACU / EVA / AP of allies in range. Scout ability. Increases ATK when in squad with Horizon members",
+    "english": "Increases CRIT / ACU / EVA / SPD of allies in range. Scout ability. Increases ATK when in squad with Horizon members",
     "korean": "범위 내 아군 치명타 / 적중 / 회피 / 행동력 증가. 정찰 기능. 공격력 증가 (호라이즌 대원과 편성 시)"
   },
   "1002706587": {
@@ -820,7 +820,7 @@
     "korean": "범위 내 아군 회피 / 효과 저항 증가 / 받는 피해 감소. 자신 전투 불능 시, 효과 추가 적용 / 반격"
   },
   "1002706591": {
-    "english": "Increases ATK power, ACU, CRIT chance, and AP of allies within range. The effect increases if the target is in attack support or reconnaissance state.",
+    "english": "Increases ATK power, ACU, CRIT chance, and SPD of allies within range. The effect increases if the target is in attack support or reconnaissance state.",
     "korean": "범위 내 아군 공격력 / 적중 / 치명타 / 행동력 증가. 공격 지원 / 정찰 상태면 효과 증가"
   },
   "1002706592": {
@@ -836,7 +836,7 @@
     "korean": "기본 모드로 변환. 해로운 효과 해제"
   },
   "1002706595": {
-    "english": "Increases ATK / reduces AP. On standby, activates optical camouflage / removes harmful effects / increases AP",
+    "english": "Increases ATK / reduces SPD. On standby, activates optical camouflage / removes harmful effects / increases AP",
     "korean": "공격력 증가 / 행동력 감소. 대기 시, 광학 미채 / 해로운 효과 해제 / AP 증가"
   },
   "1002706596": {
@@ -844,11 +844,11 @@
     "korean": "목표 지점에 {0} 피해를 주고 양 옆에 50% 감소한 피해. 중장형 / 방어 감소 대상에게 피해량 증가"
   },
   "1002706597": {
-    "english": "Deals {0} damage to target. Reduces DEF / AP for 3 rounds",
+    "english": "Deals {0} damage to target. Reduces DEF / Reduces SPD for 3 rounds",
     "korean": "지정 대상 {0} 피해. 방어력 / 행동력을 3라운드 동안 감소"
   },
   "1002706598": {
-    "english": "On skill hit, increases AP / DEF penetration / ATK for 3 rounds",
+    "english": "On skill hit, increases SPD / DEF penetration / ATK for 3 rounds",
     "korean": "스킬 적중 시, 3라운드 동안 행동력 / 방어 관통 / 공격력 증가"
   },
   "1002706599": {
@@ -868,7 +868,7 @@
     "korean": "라운드 개시 시, 방어력 증가 / 받는 피해 감소 중첩. 화염 속성 피격 시, 화염 저항 / 받는 피해 감소"
   },
   "1002706603": {
-    "english": "At round start, increases fire resistance / effect resistance / AP in designated area, designated protection",
+    "english": "At round start, increases fire resistance / effect resistance / SPD in designated area, designated protection",
     "korean": "라운드 개시 시, 지정 범위 화염 저항 / 효과 저항 / 행동력 증가, 지정 보호"
   },
   "1002706604": {
@@ -880,11 +880,11 @@
     "korean": "단일 대상 {0} 피해. 치명타시 추가 전기 피해 / 중장 공격시 추가 전기 피해"
   },
   "1002706606": {
-    "english": "Deals {0} protection ignoring damage to designated area. Reduces AP / EVA / electric resistance, deals additional damage when specific resistance is reduced",
+    "english": "Deals {0} protection ignoring damage to designated area. Reduces SPD / EVA / electric resistance, deals additional damage when specific resistance is reduced",
     "korean": "지정 범위 {0} 보호 무시 피해. 행동력/회피/전기 속성 저항 감소, 특정 속성 저항 감소 시 추가 피해"
   },
   "1002706607": {
-    "english": "In designated area, increases EVA / ACU / CRIT, increases AP stacks 3 times",
+    "english": "In designated area, increases EVA / ACU / CRIT, increases SPD stacks 3 times",
     "korean": "지정 범위 회피/적중/치명타 증가, 행동력 3회 중첩 증가"
   },
   "1002706608": {
@@ -892,11 +892,11 @@
     "korean": "라운드 시작시 전기 저항 증가, 적 처치시 AP 증가 / 공격력 3중첩 증가"
   },
   "1002706609": {
-    "english": "In designated area, increases EVA / ACU, stacks CRIT / AP 3 times",
+    "english": "In designated area, increases EVA / ACU, stacks CRIT / SPD 3 times",
     "korean": "지정 범위 회피/적중 증가, 치명타/행동력 3회 중첩 증가"
   },
   "1002706610": {
-    "english": "Increase own AP / increase ATK / CRIT of allies within range / reduce damage taken",
+    "english": "Increase own SPD / increase ATK / CRIT of allies within range / reduce damage taken",
     "korean": "자신 행동력 증가 / 범위 내 아군 공격력 / 치명타 증가 / 받는 피해 감소"
   },
   "1002706611": {
@@ -924,7 +924,7 @@
     "korean": "단일 대상 {0} 냉기 속성 피해 / 적 침수 상태 / 냉기 속성 저항 감소 / 적 이동 불가 상태 일시 추가 피해"
   },
   "1002706617": {
-    "english": "Deals {0} Cryo damage to enemies within range / inflicts Immobilized status / reduces MOVE / ACU / If the target is Drenched, inflicts the Unable to Act status and increases damage received.",
+    "english": "Deals {0} Cryo damage to enemies within range / inflicts Immobilized status / reduces SPD / ACU / If the target is Drenched, inflicts the Unable to Act status and increases damage received.",
     "korean": "범위 대상 {0} 냉기 속성 피해 / 적 이동 불가 / 행동력 / 적중 감소 / 적 침수 시, 행동 불가 , 받는 피해 증가"
   },
   "1002706618": {
@@ -932,7 +932,7 @@
     "korean": "자신 속성 저항 버프 받는 중 반격 / 회피 증가 / 받는 피해 감소 / 적 사망시 공격력 증가 / 적 공격 시 회피 증가"
   },
   "1002706619": {
-    "english": "Protects allies within range / increases allies’ Fire resistance / temporarily increases MOVE / EVA for Attackers and Supporters.",
+    "english": "Protects allies within range / increases allies’ Fire resistance / temporarily increases SPD / EVA for Attackers and Supporters.",
     "korean": "범위 내 아군 보호 / 아군 화염 저항 증가 / 공격기, 지원기 일시 행동력 / 회피 추가 증가"
   },
   "1002706620": {
@@ -952,11 +952,11 @@
     "korean": "특정 조건 아군 공격력/치명타/방어 관통/AP 증가, 해로운 효과 해제, 물리 데미지 입음"
   },
   "1002706624": {
-    "english": "Grants a barrier at the start of battle. At the start of each round, increases AP. Grants additional AP under certain conditions.",
+    "english": "Grants a barrier at the start of battle. At the start of each round, increases SPD. Grants additional SPD under certain conditions.",
     "korean": "전투 시작 시 방어막, 라운드 시작시 행동력 증가, 특정 조건 행동력 추가 증가"
   },
   "1002706625": {
-    "english": "Increases allies' ATK, AP, and DEF Penetration under certain conditions.&nBuffs stack under specific conditions.",
+    "english": "Increases allies' ATK, SPD, and DEF Penetration under certain conditions.&nBuffs stack under specific conditions.",
     "korean": "특정 조건 아군 공격력/행동력/방어 관통 증가, 특정 조건 시 버프 중첩"
   },
   "1002706626": {
@@ -1004,7 +1004,7 @@
     "korean": "지정 범위 {0} 피해. 적 방어력 감소, 받는 피해 증가"
   },
   "1002706637": {
-    "english": "Single target {0} defense-ignoring damage. Increased damage on CRIT, greatly reduces own AP.",
+    "english": "Single target {0} defense-ignoring damage. Increased damage on CRIT, greatly reduces own SPD.",
     "korean": "단일 대상 {0} 보호 무시 피해. 치명타 시 피해 증가, 자신 행동력 대폭 감소"
   },
   "1002706638": {
@@ -1012,15 +1012,15 @@
     "korean": "라운드 개시 시 자신 치명타 / 방어 관통 / 대 중장 공격력 증가"
   },
   "1002706639": {
-    "english": "Increases nearby allies ACU / ATK / AP. When specific characters are in the squad, the buff can stack up to 3 times.",
+    "english": "Increases nearby allies ACU / ATK / SPD. When specific characters are in the squad, the buff can stack up to 3 times.",
     "korean": "주변 아군 적중 / 공격력 / 행동력 증가, 특정 캐릭터 스쿼드 시 버프 최대 3회 중첩 적용"
   },
   "1002706640": {
-    "english": "Deals {0} damage to single target. Increased damage on CRIT, greatly reduces own AP",
+    "english": "Deals {0} damage to single target. Increased damage on CRIT, greatly reduces own SPD",
     "korean": "단일 대상 {0} 피해. 치명타 시 피해 증가, 자신 행동력 대폭 감소"
   },
   "1002706641": {
-    "english": "In Bulk Up state, increases AP / ATK of allies in range",
+    "english": "In Bulk Up state, increases SPD / ATK of allies in range",
     "korean": "벌크 업 시 범위 내 아군 행동력 / 공격력 증가"
   },
   "1002706642": {
@@ -1040,7 +1040,7 @@
     "korean": "지정 범위 {0} 전기 피해. 전기 저항 감소 / 행동 불능"
   },
   "1002706646": {
-    "english": "Deals {0} Electric damage to a designated area. Ignores Protect. If the enemy is affected by reduced Electric Resistance, decreases their AP; on a critical hit, deals additional damage.",
+    "english": "Deals {0} Electric damage to a designated area. Ignores Protect. If the enemy is affected by reduced Electric Resistance, decreases their SPD; on a critical hit, deals additional damage.",
     "korean": "지정 범위 {0} 보호 무시 전기 피해. 적 전기 저항 감소 상태 시 행동력 감소, 치명타 시 추가 피해"
   },
   "1002706647": {
@@ -1048,7 +1048,7 @@
     "korean": "자신 공격력 / 치명타 증가, 특정 조건 버프 중첩, 시티가드 소속 / 경장 보호기 공격 지원, 대기시 완충 상태에서 고전압 상태로 전환"
   },
   "1002706648": {
-    "english": "Increases AP and ATK, stacking up to 3 times.",
+    "english": "Increases SPD and ATK, stacking up to 3 times.",
     "korean": "행동력 / 공격력 최대 3중첩 증가"
   },
   "1002706649": {
@@ -1064,7 +1064,7 @@
     "korean": "자신에게 표식 지정, 방어력 / 모든 속성 저항 증가, 받는 피해 감소"
   },
   "1002706652": {
-    "english": "Battle continuation (once), increases AP / reduces damage taken, effect increases as HP% decreases",
+    "english": "Battle continuation (once), increases SPD / reduces damage taken, effect increases as HP% decreases",
     "korean": "전투 속행 (1회), 행동력 증가 / 받는 피해 감소, HP%가 낮아질수록 효과 증가"
   },
   "1002706653": {
@@ -1268,7 +1268,7 @@
     "korean": "브림스톤(보호기 방어력)"
   },
   "1002706703": {
-    "english": "Brimstone (Supporter AP)",
+    "english": "Brimstone (Supporter SPD)",
     "korean": "브림스톤(지원기 행동력)"
   },
   "1002706704": {
@@ -1300,11 +1300,11 @@
     "korean": "간섭 대응 유닛(무적)"
   },
   "1002706711": {
-    "english": "Interference Response Unit (Shield AP)",
+    "english": "Interference Response Unit (Shield SPD)",
     "korean": "간섭 대응 유닛(방어막 행동력)"
   },
   "1002706712": {
-    "english": "Interference Response Unit (AP)",
+    "english": "Interference Response Unit (SPD)",
     "korean": "간섭 대응 유닛(행동력)"
   },
   "1002706713": {
@@ -1352,7 +1352,7 @@
     "korean": "라운드 개시 시 자신의 공격력을 크게 증가시킵니다. 해당 효과는 4라운드 동안 점차 감소합니다."
   },
   "1002706724": {
-    "english": "At the start of battle, the [Finishing Blow] buff is activated. AP increases.",
+    "english": "At the start of battle, the [Finishing Blow] buff is activated. SPD increases.",
     "korean": "전투 개시 시 [일격필살] 버프가 활성화됩니다. 행동력이 증가합니다."
   },
   "1002706725": {
@@ -1392,7 +1392,7 @@
     "korean": "라운드 개시 시 자신의 공격력을 크게 증가시킵니다. 해당 효과는 4라운드 동안 점차 감소합니다."
   },
   "1002706734": {
-    "english": "At the start of battle, [One Strike Kill] buff is activated. At the start of the round, AP increases.",
+    "english": "At the start of battle, [One Strike Kill] buff is activated. At the start of the round, SPD increases.",
     "korean": "전투 개시 시 [일격필살] 버프가 활성화됩니다. 라운드 개시 시 행동력이 증가합니다."
   },
   "1002706735": {
@@ -1400,11 +1400,11 @@
     "korean": "단일 적에게 {0} 피해를 주고 표식을 활성화합니다. 대상의 방어력 강화 효과를 해제하고 회피를 감소시킵니다."
   },
   "1002706736": {
-    "english": "When the skill is used, increases the ATK/ACU of heavy allies proportional to the number of enemies, and increases the ATK/AP of light allies inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases the ATK/ACU of heavy allies proportional to the number of enemies, and increases the ATK/SPD of light allies inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706737": {
-    "english": "At the start of the round, supports light/heavy, attackers/supporters within range. Increases the CRIT of attackers, DEF of protectors, and AP of supporters within range.",
+    "english": "At the start of the round, supports light/heavy, attackers/supporters within range. Increases the CRIT of attackers, DEF of protectors, and SPD of supporters within range.",
     "korean": "라운드 개시 시 범위 내 경장형/중장형, 공격기/지원기를 지원 공격합니다. 범위 내 공격기의 치명타, 보호기의 방어력, 지원기의 행동력을 증가시킵니다."
   },
   "1002706738": {
@@ -1412,87 +1412,87 @@
     "korean": "단일 적에게 {0} 피해를 주고 표식을 활성화합니다. 대상의 방어력 강화 효과를 해제하고 회피를 감소시킵니다."
   },
   "1002706739": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706740": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706741": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706742": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706743": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706744": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706745": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706746": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706747": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706748": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706749": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706750": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706751": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706752": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706753": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706754": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706755": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706756": {
-    "english": "When the skill is used, increases ATK and ACU of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and AP of ally light-type units inversely proportional to the number of enemies.",
+    "english": "When the skill is used, increases ATK and DEF of ally heavy-type units proportional to the number of enemies.&nIncreases ATK and SPD of ally light-type units inversely proportional to the number of enemies.",
     "korean": "스킬 사용 시 중장형 아군의 공격력/적중률을 적의 수에 비례하여 증가시킵니다. 경장형 아군의 공격력/행동력을 적의 수에 반비례하여 증가시킵니다."
   },
   "1002706757": {
-    "english": "At the start of the round, support attack to light armor/heavy armor, attacker/supporter within range.&nIncrease CRIT of attackers within range, increase DEF of protectors within range, increase AP of supporters within range.&n",
+    "english": "At the start of the round, support attack to light armor/heavy armor, attacker/supporter within range.&nIncrease CRIT of attackers within range, increase DEF of protectors within range, increase SPD of supporters within range.&n",
     "korean": "라운드 개시 시 범위 내 경장형/중장형, 공격기/지원기를 지원 공격합니다. 범위 내 공격기의 치명타, 보호기의 방어력, 지원기의 행동력을 증가시킵니다."
   },
   "1002706758": {
-    "english": "At the start of the round, support attack to light armor/heavy armor, attacker/supporter within range.&nIncrease CRIT of attackers within range, increase DEF of protectors within range, increase AP of supporters within range.&n",
+    "english": "At the start of the round, support attack to light armor/heavy armor, attacker/supporter within range.&nIncrease CRIT of attackers within range, increase DEF of protectors within range, increase SPD of supporters within range.&n",
     "korean": "라운드 개시 시 범위 내 경장형/중장형, 공격기/지원기를 지원 공격합니다. 범위 내 공격기의 치명타, 보호기의 방어력, 지원기의 행동력을 증가시킵니다."
   },
   "1002706759": {
-    "english": "At the start of the round, support attack to light armor/heavy armor, attacker/supporter within range.&nIncrease CRIT of attackers within range, increase DEF of protectors within range, increase AP of supporters within range.&n",
+    "english": "At the start of the round, support attack to light armor/heavy armor, attacker/supporter within range.&nIncrease CRIT of attackers within range, increase DEF of protectors within range, increase SPD of supporters within range.&n",
     "korean": "라운드 개시 시 범위 내 경장형/중장형, 공격기/지원기를 지원 공격합니다. 범위 내 공격기의 치명타, 보호기의 방어력, 지원기의 행동력을 증가시킵니다."
   },
   "1002706760": {
@@ -1508,7 +1508,7 @@
     "korean": "라운드 개시 시 지정 범위 아군의 회피율을 증가시키고 대 경장 피해량/대 중장 피해량을 증가시킵니다."
   },
   "1002706763": {
-    "english": "At the start of the round, grant yourself invincibility for the first round, a shield and increased AP for the second round, and increased AP from the third round onward.",
+    "english": "At the start of the round, grant yourself invincibility for the first round, a shield and increased DEF and SPD for the second round, and increased SPD from the third round onward.",
     "korean": "라운드 개시 시 자신에게 첫 라운드에는 무적 상태, 두 번째 라운드에는 방어막과 행동력 증가, 세번째 라운드 이후에는 행동력 증가를 부여합니다."
   },
   "1002706764": {
@@ -1520,15 +1520,15 @@
     "korean": "지정 범위에 {0} 보호 무시 피해를 주고 적중률을 크게 감소시킵니다. 적의 기동형 대상 공격력을 감소시킵니다."
   },
   "1002706766": {
-    "english": "At the start of the round, grants yourself invincibility on the first round, a shield and increased AP on the second round, and increased AP from the third round onward.",
+    "english": "At the start of the round, grants yourself invincibility on the first round, a shield and increased SPD on the second round, and increased SPD from the third round onward.",
     "korean": "라운드 개시 시 자신에게 첫 라운드에는 무적 상태, 두 번째 라운드에는 방어막과 행동력 증가, 세번째 라운드 이후에는 행동력 증가를 부여합니다."
   },
   "1002706767": {
-    "english": "At the start of the round, grants yourself invincibility on the first round, shield and increased AP on the second round, and increased AP from the third round onward.",
+    "english": "At the start of the round, grants yourself invincibility on the first round, shield and increased SPD on the second round, and increased SPD from the third round onward.",
     "korean": "라운드 개시 시 자신에게 첫 라운드에는 무적 상태, 두 번째 라운드에는 방어막과 행동력 증가, 세번째 라운드 이후에는 행동력 증가를 부여합니다."
   },
   "1002706768": {
-    "english": "At the start of the round, grants yourself invincibility on the first round, shield and increased AP on the second round, and increased AP from the third round onward.",
+    "english": "At the start of the round, grants yourself invincibility on the first round, shield and increased SPD on the second round, and increased SPD from the third round onward.",
     "korean": "라운드 개시 시 자신에게 첫 라운드에는 무적 상태, 두 번째 라운드에는 방어막과 행동력 증가, 세번째 라운드 이후에는 행동력 증가를 부여합니다."
   },
   "1002706769": {
@@ -1536,7 +1536,7 @@
     "korean": "적에게 {0} 보호 무시 피해를 주고, 치명타 시 추가 피해를 입힙니다. 적 적중 시 방어력/회피를 감소시킵니다."
   },
   "1002706770": {
-    "english": "Deals {0} damage that ignores Protection to a designated area and increases damage taken by affected targets.&nIf May of Doom is in the squad, performs a coordinated attack on the designated target with the skill [Back to the Stone Age!].&nOn hit, reduces the user's AP.",
+    "english": "Deals {0} damage that ignores Protection to a designated area and increases damage taken by affected targets.&nIf May of Doom is in the squad, performs a coordinated attack on the designated target with the skill [Back to the Stone Age!].&nOn hit, reduces the user's SPD.",
     "korean": "지정 범위에 {0} 보호 무시 피해를 주고, 받는 피해를 증가시킵니다. 스쿼드 내 멸망의 메이가 있을 시 지정 타깃 대상으로 [석기 시대로!] 스킬 협동 공격을 합니다. 공격 적중 시 자신의 행동력이 감소합니다."
   },
   "1002706771": {
@@ -1556,7 +1556,7 @@
     "korean": "적에게 {0} 보호 무시 피해를 주고, 치명타 시 추가 피해를 입힙니다. 적 적중 시 방어력/회피를 감소시킵니다."
   },
   "1002706775": {
-    "english": "Deals {0} true damage to the specified area and increases damage taken.&nIf May of Destruction is in the squad, performs a cooperative attack with the skill [To the Stone Age!] on the specified target.&nOn attack hit, reduces own AP.",
+    "english": "Deals {0} true damage to the specified area and increases damage taken.&nIf May of Destruction is in the squad, performs a cooperative attack with the skill [To the Stone Age!] on the specified target.&nOn attack hit, reduces own SPD.",
     "korean": "지정 범위에 {0} 보호 무시 피해를 주고, 받는 피해를 증가시킵니다. 스쿼드 내 멸망의 메이가 있을 시 지정 타깃 대상으로 [석기 시대로!] 스킬 협동 공격을 합니다. 공격 적중 시 자신의 행동력이 감소합니다."
   },
   "1002706776": {
@@ -1576,7 +1576,7 @@
     "korean": "라운드 개시시 공격력 크게 증가. 공격력 증가 효과는 일정 라운드 동안 효과 감소"
   },
   "1002706780": {
-    "english": "At the start of the battle, [One-Hit Kill] activates, and at the start of the round, increases own AP.",
+    "english": "At the start of the battle, [One-Hit Kill] activates, and at the start of the round, increases own SPD.",
     "korean": "전투 시작 시 [일격필살] 활성화, 라운드 개시 시 자신 행동력 증가."
   },
   "1002706781": {
@@ -1616,7 +1616,7 @@
     "korean": "라운드 개시시 공격력 크게 증가. 공격력 증가 효과는 일정 라운드 동안 효과 감소"
   },
   "1002706790": {
-    "english": "At the start of battle, activates [One-Hit Kill] and increases own AP.",
+    "english": "At the start of battle, activates [One-Hit Kill] and increases own SPD.",
     "korean": "전투 시작 시 [일격필살] 활성화, 자신 행동력 증가"
   },
   "1002706791": {
@@ -1624,11 +1624,11 @@
     "korean": "단일 대상 {0} 피해. 표식, 방어력 강화 효과 해제, 회피 감소"
   },
   "1002706792": {
-    "english": "Increases ATK/ACU of heavy units proportionally to the number of enemies, and increases ATK/AP of light units inversely proportional to the number of enemies.",
+    "english": "Increases ATK/ACU of heavy units proportionally to the number of enemies, and increases ATK/SPD of light units inversely proportional to the number of enemies.",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706793": {
-    "english": "At the start of the round, supports light/heavy units, attackers/supporters with support attacks; increases CRIT of attackers, DEF of protectors, and AP of supporters.",
+    "english": "At the start of the round, supports light/heavy units, attackers/supporters with support attacks; increases CRIT of attackers, DEF of protectors, and SPD of supporters.",
     "korean": "라운드 개시 시 경장형/중장형, 공격기/지원기 지원공격, 공격기 치명타, 보호기 방어력, 지원기 행동력 증가"
   },
   "1002706794": {
@@ -1636,87 +1636,87 @@
     "korean": "단일 대상 {0} 피해. 표식, 방어력 강화 효과 해제, 회피 감소"
   },
   "1002706795": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Medium-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706796": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706797": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706798": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706799": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Medium-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706800": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706801": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706802": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706803": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Medium-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706804": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706805": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706806": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706807": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706808": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Medium-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706809": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706810": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706811": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706812": {
-    "english": "Heavy-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/AP increase (inversely proportional to number of enemies)",
+    "english": "Medium-type ATK/ACU increase (proportional to number of enemies),&nLight-type ATK/SPD increase (inversely proportional to number of enemies)",
     "korean": "중장형 공격력/적중 증가(적의 수 비례), 경장형 공격력/행동력 증가(적의 수 반비례)"
   },
   "1002706813": {
-    "english": "At the start of the round, Light-/Heavy-type, Attacker/Supporter support attack, Attacker CRIT, Defender DEF, Supporter AP increase",
+    "english": "At the start of the round, Light-/Heavy-type, Attacker/Supporter support attack, Attacker CRIT, Defender DEF, Supporter SPD increase",
     "korean": "라운드 개시 시 경장형/중장형, 공격기/지원기 지원공격, 공격기 치명타, 보호기 방어력, 지원기 행동력 증가"
   },
   "1002706814": {
-    "english": "At the start of the round, Light-/Heavy-type, Attacker/Supporter support attack, Attacker CRIT, Defender DEF, Supporter AP increase",
+    "english": "At the start of the round, Light-/Heavy-type, Attacker/Supporter support attack, Attacker CRIT, Defender DEF, Supporter SPD increase",
     "korean": "라운드 개시 시 경장형/중장형, 공격기/지원기 지원공격, 공격기 치명타, 보호기 방어력, 지원기 행동력 증가"
   },
   "1002706815": {
-    "english": "At the start of the round, Light-/Heavy-type, Attacker/Supporter support attack, Attacker CRIT, Defender DEF, Supporter AP increase",
+    "english": "At the start of the round, Light-/Heavy-type, Attacker/Supporter support attack, Attacker CRIT, Defender DEF, Supporter SPD increase",
     "korean": "라운드 개시 시 경장형/중장형, 공격기/지원기 지원공격, 공격기 치명타, 보호기 방어력, 지원기 행동력 증가"
   },
   "1002706816": {
@@ -1732,7 +1732,7 @@
     "korean": "라운드 개시시 회피/대 경장 피해량/대 중장 피해량 증가"
   },
   "1002706819": {
-    "english": "At the start of the round, self is invincible in the first round, gains shield and AP in the second round, and gains AP from the third round onward.",
+    "english": "At the start of the round, self is invincible in the first round, gains shield and SPD in the second round, and gains SPD from the third round onward.",
     "korean": "라운드 개시시 자신 첫 라운드 무적, 두번째 라운드 방어막/행동력 증가, 세번째 라운드 이후 행동력 증가"
   },
   "1002706820": {
@@ -1744,15 +1744,15 @@
     "korean": "보호 무시 / 적중 강화 해제 / 적중 감소 / 적 대 기동 피해 강화 해제 / 적 대 기동 피해량 감소 / 이동 불가"
   },
   "1002706822": {
-    "english": "At the start of the round, self is invincible in the first round, gains shield and AP in the second round, and gains AP from the third round onward",
+    "english": "At the start of the round, self is invincible in the first round, gains shield and SPD in the second round, and gains SPD from the third round onward",
     "korean": "라운드 개시시 자신 첫 라운드 무적, 두번째 라운드 방어막/행동력 증가, 세번째 라운드 이후 행동력 증가"
   },
   "1002706823": {
-    "english": "At the start of the round, self is invincible in the first round, gains shield and AP in the second round, and gains AP from the third round onward",
+    "english": "At the start of the round, self is invincible in the first round, gains shield and SPD in the second round, and gains SPD from the third round onward",
     "korean": "라운드 개시시 자신 첫 라운드 무적, 두번째 라운드 방어막/행동력 증가, 세번째 라운드 이후 행동력 증가"
   },
   "1002706824": {
-    "english": "At the start of the round, self is invincible in the first round, gains shield and AP in the second round, and gains AP from the third round onward",
+    "english": "At the start of the round, self is invincible in the first round, gains shield and SPD in the second round, and gains SPD from the third round onward",
     "korean": "라운드 개시시 자신 첫 라운드 무적, 두번째 라운드 방어막/행동력 증가, 세번째 라운드 이후 행동력 증가"
   },
   "1002706825": {
@@ -1760,7 +1760,7 @@
     "korean": "보호 무시, 치명타 시 피해량 증가, 적중 시 방어력/회피 감소"
   },
   "1002706826": {
-    "english": "Ignores Protection and increases damage taken by targets.&nIf May of Doom is in the squad, performs a coordinated attack with the skill [Back to the Stone Age!].&nOn skill hit, reduces the user's AP.",
+    "english": "Ignores Protection and increases damage taken by targets.&nIf May of Doom is in the squad, performs a coordinated attack with the skill [Back to the Stone Age!].&nOn skill hit, reduces the user's SPD.",
     "korean": "보호 무시, 받는 피해 증가, 멸망의 메이 스쿼드 포함 시 [석기 시대로!] 스킬 협동 공격, 스킬 적중 시 자신 행동력 감소"
   },
   "1002706827": {
@@ -1780,7 +1780,7 @@
     "korean": "보호 무시, 치명타 시 피해량 증가, 적중 시 방어력/회피 감소"
   },
   "1002706831": {
-    "english": "Ignore protection, increased damage taken, when included in the Doom May Squad [To the Stone Age!] skill cooperative attack, decrease own action points upon skill hit",
+    "english": "Ignore protection, increased damage taken, when included in the Doom May Squad [To the Stone Age!] skill cooperative attack, decrease own SPD upon skill hit",
     "korean": "보호 무시, 받는 피해 증가, 멸망의 메이 스쿼드 포함 시 [석기 시대로!] 스킬 협동 공격, 스킬 적중 시 자신 행동력 감소"
   },
   "1002706832": {
@@ -1804,11 +1804,11 @@
     "korean": "지정 범위에 {0} 피해를 주고, 2라운드 동안 대상들의 방어력을 감소시키며 받는 피해를 증가시킵니다."
   },
   "1002706837": {
-    "english": "Deals {0} frost attribute damage to enemies in the designated area, inflicts immobilization on targets, and reduces AP/ACU.",
+    "english": "Deals {0} frost attribute damage to enemies in the designated area, inflicts immobilization on targets, and reduces SPD/ACU.",
     "korean": "지정 범위 적에게 {0}의 냉기 속성 피해를 주고, 대상에게 이동 불가 상태를 부여하며 행동력 / 적중을 감소시킵니다."
   },
   "1002706838": {
-    "english": "Deals {0} frost attribute damage to enemies in the designated area, inflicts immobilization on targets, and reduces AP/ACU.",
+    "english": "Deals {0} frost attribute damage to enemies in the designated area, inflicts immobilization on targets, and reduces SPD/ACU.",
     "korean": "지정 범위 적에게 {0}의 냉기 속성 피해를 주고, 대상에게 이동 불가 상태를 부여하며 행동력 / 적중을 감소시킵니다."
   },
   "1002706839": {
@@ -1816,11 +1816,11 @@
     "korean": "지정 범위 {0} 피해. 적 방어력 감소, 받는 피해 증가"
   },
   "1002706840": {
-    "english": "Deals {0} frost attribute damage to targets in range / immobilizes enemies / reduces AP / reduces ACU.",
+    "english": "Deals {0} frost attribute damage to targets in range / immobilizes enemies / SPD / reduces ACU.",
     "korean": "범위 대상 {0} 냉기 속성 피해 / 적 이동 불가 / 행동력 / 적중 감소"
   },
   "1002706841": {
-    "english": "Deals {0} frost attribute damage to targets in range / immobilizes enemies / reduces AP / reduces ACU.",
+    "english": "Deals {0} frost attribute damage to targets in range / immobilizes enemies / reduces SPD / reduces ACU.",
     "korean": "범위 대상 {0} 냉기 속성 피해 / 적 이동 불가 / 행동력 / 적중 감소"
   },
   "1002706842": {
@@ -2212,55 +2212,55 @@
     "korean": "전위 추가 지원(자신적중)"
   },
   "1002706939": {
-    "english": "Vanguard Additional Support (Self AP)",
+    "english": "Vanguard Additional Support (Self SPD)",
     "korean": "전위 추가 지원(자신행동력)"
   },
   "1002706940": {
-    "english": "At the start of the round, increase the ATK, ACU, and AP of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
+    "english": "At the start of the round, increase the ATK, ACU, and SPD of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
     "korean": "라운드 시작 시 자신과 범위 내 보호기의 공격력 / 적중 / 행동력을 증가시킵니다. 보호기의 경우 추가로 행보호 / 반격을 부여합니다."
   },
   "1002706941": {
-    "english": "At the start of the round, increase the ATK, ACU, and AP of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
+    "english": "At the start of the round, increase the ATK, ACU, and SPD of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
     "korean": "라운드 시작 시 자신과 범위 내 보호기의 공격력 / 적중 / 행동력을 증가시킵니다. 보호기의 경우 추가로 행보호 / 반격을 부여합니다."
   },
   "1002706942": {
-    "english": "At the start of the round, increase the ATK, ACU, and AP of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
+    "english": "At the start of the round, increase the ATK, ACU, and SPD of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
     "korean": "라운드 시작 시 자신과 범위 내 보호기의 공격력 / 적중 / 행동력을 증가시킵니다. 보호기의 경우 추가로 행보호 / 반격을 부여합니다."
   },
   "1002706943": {
-    "english": "At the start of the round, increase the ATK, ACU, and AP of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
+    "english": "At the start of the round, increase the ATK, ACU, and SPD of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
     "korean": "라운드 시작 시 자신과 범위 내 보호기의 공격력 / 적중 / 행동력을 증가시킵니다. 보호기의 경우 추가로 행보호 / 반격을 부여합니다."
   },
   "1002706944": {
-    "english": "At the start of the round, increase the ATK, ACU, and AP of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
+    "english": "At the start of the round, increase the ATK, ACU, and SPD of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
     "korean": "라운드 시작 시 자신과 범위 내 보호기의 공격력 / 적중 / 행동력을 증가시킵니다. 보호기의 경우 추가로 행보호 / 반격을 부여합니다."
   },
   "1002706945": {
-    "english": "At the start of the round, increase the ATK, ACU, and AP of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
+    "english": "At the start of the round, increase the ATK, ACU, and SPD of self and Defenders within the area. Defenders additionally gain Walk Protection and Counterattack.",
     "korean": "라운드 시작 시 자신과 범위 내 보호기의 공격력 / 적중 / 행동력을 증가시킵니다. 보호기의 경우 추가로 행보호 / 반격을 부여합니다."
   },
   "1002706946": {
-    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase ATK, ACU, and AP of self and Defenders",
+    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase DEF, ACU, and SPD of self and Defenders",
     "korean": "범위 내 보호기 행보호/반격 부여, 자신 및 보호기 공격력/적중/행동력 증가"
   },
   "1002706947": {
-    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase ATK, ACU, and AP of self and Defenders",
+    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase DEF, ACU, and SPD of self and Defenders",
     "korean": "범위 내 보호기 행보호/반격 부여, 자신 및 보호기 공격력/적중/행동력 증가"
   },
   "1002706948": {
-    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase ATK, ACU, and AP of self and Defenders",
+    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase DEF, ACU, and SPD of self and Defenders",
     "korean": "범위 내 보호기 행보호/반격 부여, 자신 및 보호기 공격력/적중/행동력 증가"
   },
   "1002706949": {
-    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase ATK, ACU, and AP of self and Defenders",
+    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase DEF, ACU, and SPD of self and Defenders",
     "korean": "범위 내 보호기 행보호/반격 부여, 자신 및 보호기 공격력/적중/행동력 증가"
   },
   "1002706950": {
-    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase ATK, ACU, and AP of self and Defenders",
+    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase DEF, ACU, and SPD of self and Defenders",
     "korean": "범위 내 보호기 행보호/반격 부여, 자신 및 보호기 공격력/적중/행동력 증가"
   },
   "1002706951": {
-    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase ATK, ACU, and AP of self and Defenders",
+    "english": "Grant Walk Protection and Counterattack to Defenders within the area, increase DEF, ACU, and SPD of self and Defenders",
     "korean": "범위 내 보호기 행보호/반격 부여, 자신 및 보호기 공격력/적중/행동력 증가"
   },
   "1002706952": {
@@ -2328,7 +2328,7 @@
     "korean": "과 흥분 상태(방어 관통)"
   },
   "1002706968": {
-    "english": "Prey Detection (Additional AP)",
+    "english": "Prey Detection (Additional SPD)",
     "korean": "사냥감 포착(행동력 추가)"
   },
   "1002706969": {
@@ -2480,7 +2480,7 @@
     "korean": "라운드 시작 시 과흥분 상태가 됩니다. 피격 시 과흥분 상태가 해제되고, 2회 공격 후 라운드 시작 시 과흥분 상태가 재활성화 됩니다. 자신의 공격력이 증가하며 과흥분 상태일 시 방어 관통이 추가로 증가합니다."
   },
   "1002707006": {
-    "english": "Increases own AP. Gains additional AP while affected by Overexcitement.",
+    "english": "Increases own SPD. Gains additional SPD while affected by Overexcitement.",
     "korean": "자신의 행동력이 증가합니다. 과흥분 상태일 시 행동력이 추가로 증가합니다."
   },
   "1002707007": {
@@ -2516,7 +2516,7 @@
     "korean": "라운드 시작 시 과흥분 상태가 됩니다. 피격 시 과흥분 상태가 해제되고, 2회 대기 후 라운드 시작 시 과흥분 상태가 재활성화 됩니다. 자신의 공격력이 증가하며 과흥분 상태일 시 방어 관통이 추가로 증가합니다."
   },
   "1002707015": {
-    "english": "Increases own AP. Gains additional AP while in Overexcited State.",
+    "english": "Increases own SPD. Gains additional SPD while in Overexcited State.",
     "korean": "자신의 행동력이 증가합니다. 과흥분 상태일 시 행동력이 추가로 증가합니다."
   },
   "1002707016": {
@@ -2668,7 +2668,7 @@
     "korean": "과흥분 버프, 자신 공격력 증가, 과흥분 시 방어 관통 증가"
   },
   "1002707053": {
-    "english": "Increases the user's SPD. While affected by Overexcitement, gains additional AP.",
+    "english": "Increases the user's SPD. While affected by Overexcitement, gains additional SPD.",
     "korean": "자신 행동력 증가, 과흥분 시 행동력 추가 증가"
   },
   "1002707054": {
@@ -2704,7 +2704,7 @@
     "korean": "과흥분 버프, 자신 공격력 증가, 과흥분 시 방어 관통 증가"
   },
   "1002707062": {
-    "english": "Increases own AP, additional AP gained when in Overexcited state.",
+    "english": "Increases own SPD, additional SPD gained when in Overexcited state.",
     "korean": "자신 행동력 증가, 과흥분 시 행동력 추가 증가"
   },
   "1002707063": {
@@ -2864,7 +2864,7 @@
     "korean": "전술 데이터 링크"
   },
   "1002707102": {
-    "english": "At the start of the round, the ATK / CRIT / AP of yourself and robots within a designated range increase. This effect is additionally applied each time Spartan Assault attacks an enemy.&nWhen using the <Flash Bang> skill, a Coordinated Attack is performed on the designated target using the <Multi-Missile Launcher> skill.",
+    "english": "At the start of the round, the ATK / CRIT / SPD of yourself and robots within a designated range increase. This effect is additionally applied each time Spartan Assault attacks an enemy.&nWhen using the <Flash Bang> skill, a Coordinated Attack is performed on the designated target using the <Multi-Missile Launcher> skill.",
     "korean": "라운드 개시 시, 자신과 지정 범위 로봇들의 공격력 / 치명타 / 행동력이 증가합니다. 해당 효과는 스파르탄 어썰트가 적을 공격할 때마다 추가 적용됩니다. <플래시 뱅> 스킬 사용 시, 지정 타깃 대상으로 <다연장 미사일> 스킬 협동 공격을 합니다."
   },
   "1002707103": {
@@ -2876,7 +2876,7 @@
     "korean": "라운드 개시 시, 데이터 링크를 통해 범위 내 아군의 치명타 확률을 증가시킵니다. <데이터 링크>는 최대 3중첩까지 가능합니다. 아군이 <어썰트 라이플> 스킬 사용 시 모든 <데이터 링크> 중첩을 소모하며, 치명타 시 중첩 수에 따라 추가 효과를 얻습니다. 단, 스파르탄 캡틴은 중첩을 소모하지 않습니다."
   },
   "1002707105": {
-    "english": "At the start of the round and when attacking an enemy, allied robots gain increased ATK / CRIT / AP, and Spartan Boomer performs a Coordinated Attack.",
+    "english": "At the start of the round and when attacking an enemy, allied robots gain increased ATK / CRIT / SPD, and Spartan Boomer performs a Coordinated Attack.",
     "korean": "라운드 개시 및 적 공격 시, 아군 로봇 공격력 / 치명타 / 행동력 증가, 스파르탄 부머 협동 공격"
   },
   "1002707106": {
@@ -2964,7 +2964,7 @@
     "korean": "지정 범위에 보호 무시의 {0} 피해를 주고, <분노> 상태일 경우, 추가 피해를 줍니다."
   },
   "1002707127": {
-    "english": "At the start of battle, grants one ally under self Damage Immunity (2 times) /Damage Reduction effects, and at the start of each round, designates one ally under self for protection.&nAt the start of the round, if the designated protected ally’s HP is above 25%, applies the <Devotion> state to self; if the protected ally is an Attacker or Defender, increases ATK, and if a Supporter, increases AP.&nIf the designated protected ally’s HP is 25% or below, applies the <Rage> state to self and increases the protected ally’s DEF.",
+    "english": "At the start of battle, grants one ally under self Damage Immunity (2 times) /Damage Reduction effects, and at the start of each round, designates one ally under self for protection.&nAt the start of the round, if the designated protected ally’s HP is above 25%, applies the <Devotion> state to self; if the protected ally is an Attacker or Defender, increases ATK, and if a Supporter, increases SPD.&nIf the designated protected ally’s HP is 25% or below, applies the <Rage> state to self and increases the protected ally’s DEF.",
     "korean": "전투 개시 시, 자신 아래 1인에게 피해 무효 2회 / 받는 피해 감소 효과를 부여하고 라운드 개시 시, 자신 아래 1인을 지정 보호합니다. 라운드 개시 시, 지정 보호 대상의 체력이 25% 초과일 경우 자신에게 <헌신> 상태가 적용되고 지정 보호 대상이 공격기 또는 보호기 일 경우, 공격력을 증가시키고 지원기 일 경우, 행동력을 증가시킵니다. 지정 보호 대상의 체력이 25% 이하 일 경우 자신에게 <분노> 상태가 적용되고 지정 보호 대상의 방어력을 증가시킵니다."
   },
   "1002707128": {
@@ -3116,11 +3116,11 @@
     "korean": "전투 개시 시, 해제 불가의 AP 감소 효과 면역 / 도발 효과 면역 효과가 영구히 적용되고 물리 공격에 피격 시, 해제 불가의 공격력 / 적중 / 방어력 / 방어력 관통 등이 일정 확률로 부여되나 속성 공격에 피격 시, 해제 됩니다. 라운드 개시 또는 전투 속행 시, 전투 속행이 지속적으로 부여됩니다. 3라운드 이상부터 받는 피해 감소 효과가 적용되며 최대 5중첩까지 적용됩니다. 8라운드 이상일 경우 방어막 / 피해 감소 효과를 무시합니다."
   },
   "1002707165": {
-    "english": "Fires a missile at the target to deal {0} electrical damage and reduce their action points.",
+    "english": "Fires a missile at the target to deal {0} electrical damage and reduce their SPD.",
     "korean": "대상에게 미사일을 발사해 {0} 전기 피해를 주고, 행동력을 감소시킵니다."
   },
   "1002707166": {
-    "english": "Deals {0} protection-ignoring electric damage to the designated area. Damage increases if the target is in a reduced action state.",
+    "english": "Deals {0} protection-ignoring electric damage to the designated area. Damage increases if the target is in a reduced SPD state.",
     "korean": "지정 범위에 {0} 보호 무시 전기 피해를 줍니다. 대상이 행동력 감소 상태면 피해량이 증가합니다."
   },
   "1002707167": {
@@ -3292,7 +3292,7 @@
     "korean": "골든 팩토리 설치 : 소환물 설치. 자신 도발 / 무적 상태"
   },
   "1002707209": {
-    "english": "Preliminary Design: Increase own Action Speed / AP",
+    "english": "Preliminary Design: Increase own SPD / AP",
     "korean": "선행 설계 : 자신 행동력 / AP 증가"
   },
   "1002707210": {
@@ -3340,7 +3340,7 @@
     "korean": "광범위 공격력 증가"
   },
   "1002707221": {
-    "english": "Increase Wide-Range ATK",
+    "english": "Increase Wide-Range SPD",
     "korean": "광범위 행동력 증가"
   },
   "1002707222": {
@@ -3348,7 +3348,7 @@
     "korean": "광범위 공격력 증가"
   },
   "1002707223": {
-    "english": "Increase Wide-Range ATK",
+    "english": "Increase Wide-Range SPD",
     "korean": "광범위 행동력 증가"
   },
   "1002707224": {
@@ -3356,11 +3356,11 @@
     "korean": "대상에게 {0} 피해를 줍니다. 정찰 활성화 상태에서 전투 시작 시 [정보 수집 중] 버프가 활성화 되고 이 상태로 대기시 [정보 획득 완료] 버프가 활성화 되며, [정보 획득 완료] 버프 활성화 시 피격된 적은 저항 불가한 행동 불능 상태(전투 1회 한정)가 됩니다."
   },
   "1002707225": {
-    "english": "Deploys a Golden Factory that creates a shield for allies, increases ATK/AP for Attackers and Defenders, and applies the [Parts Secured] buff to Azaz.&nWhen Azaz waits while under [Parts Secured], they gain a 1-round Damage Immunity / Beneficial Mark buff.&nSummon skills are not affected by range reduction effects.",
+    "english": "Deploys a Golden Factory that creates a shield for allies, increases ATK/SPD for Attackers and Defenders, and applies the [Parts Secured] buff to Azaz.&nWhen Azaz waits while under [Parts Secured], they gain a 1-round Damage Immunity / Beneficial Mark buff.&nSummon skills are not affected by range reduction effects.",
     "korean": "아군 진영에 방어막 생성, 공격기, 보호기 대상 공격력/행동력 증가, 아자즈 [부품 확보] 버프 적용 기능이 있는 골든 팩토리를 설치합니다. [부품 확보] 상태에서 대기시 아자즈에게 1라운드 피해 무시 / 이로운 표식 버프가 부여 됩니다.&n소환 스킬은 사거리 감소 효과에 영향받지 않습니다."
   },
   "1002707226": {
-    "english": "At the start of the round, increases own AP.&nIf equipped with [Defense Field], additionally increases own AP at the start of battle.",
+    "english": "At the start of the round, increases own SPD. If equipped with [Defense Field], additionally increases own AP at the start of battle.",
     "korean": "라운드 시작 시 자신의 행동력을 증가 시킵니다. [방어 역장] 장착 상태에서는 전투 시작시 자신의 AP 가 증가 합니다."
   },
   "1002707227": {
@@ -3368,7 +3368,7 @@
     "korean": "적의 수에 비례하여 적의 공격력을 중첩하여 감소 시킵니다."
   },
   "1002707228": {
-    "english": "Increases the ATK, DEF, and AP of robot characters in the same squad.&nIf Fortune is in the squad, each of these buffs is further enhanced.&nWhen waiting, reduces damage taken by all allies.",
+    "english": "Increases the ATK, DEF, and SPD of robot characters in the same squad.&nIf Fortune is in the squad, each of these buffs is further enhanced.&nWhen waiting, reduces damage taken by all allies.",
     "korean": "같은 스쿼드에 있는 로봇 캐릭터의 공격력, 방어력, 행동력이 증가합니다. 스쿼드에 포츈이 있을 시 각 버프가 추가로 증가 합니다. 대기 시 아군 전체 받는 피해가 감소 합니다."
   },
   "1002707229": {
@@ -3444,7 +3444,7 @@
     "korean": "3라운드 동안 공격기, 보호기인 아군 모두의 공격력을 증가 시킵니다."
   },
   "1002707247": {
-    "english": "Increases the ATK of both allied attackers and defenders for 3 rounds.",
+    "english": "Increases the SPD of both allied attackers and defenders for 3 rounds.",
     "korean": "3라운드 동안 공격기, 보호기인 아군 모두의 행동력을 증가 시킵니다."
   },
   "1002707248": {
@@ -3452,7 +3452,7 @@
     "korean": "3라운드 동안 공격기, 보호기인 아군 모두의 공격력을 증가 시킵니다."
   },
   "1002707249": {
-    "english": "Increases the ATK of both allied attackers and defenders for 3 rounds.",
+    "english": "Increases the SPD of both allied attackers and defenders for 3 rounds.",
     "korean": "3라운드 동안 공격기, 보호기인 아군 모두의 행동력을 증가 시킵니다."
   },
   "1002707250": {
@@ -3460,11 +3460,11 @@
     "korean": "단일 대상 {0} 피해. 행동 불능(전투 1회 한정)"
   },
   "1002707251": {
-    "english": "Deploys a Golden Factory at the target location.&nGrants a shield to allies, increases ATK/AP for Attackers and Defenders.&nWhen waiting, grants self Damage Immunity / Self Mark.",
+    "english": "Deploys a Golden Factory at the target location.&nGrants a shield to allies, increases ATK/SPD for Attackers and Defenders.&nWhen waiting, grants self Damage Immunity / Self Mark.",
     "korean": "목표 지점에 골든 팩토리 설치, 아군 방어막, 공격기, 보호기 공격력 / 행동력 증가, 대기시 자신 피해 무시/자기 표식"
   },
   "1002707252": {
-    "english": "Increases own Action Points (AP).",
+    "english": "Increases own SPD / AP.",
     "korean": "자신 행동력 / AP 증가"
   },
   "1002707253": {
@@ -3472,7 +3472,7 @@
     "korean": "적군 인원 수 비례 공격력 감소"
   },
   "1002707254": {
-    "english": "Increases ATK / DEF / AP of allied robots.&nIf Fortune is in the squad, additional buffs are applied.&nWhen waiting, reduces damage taken.",
+    "english": "Increases ATK / DEF / SPD increases, Fortune squad when buff added, waiting time damage reduction.",
     "korean": "로봇 아군 공격력 / 방어력 / 행동력 증가, 포츈 스쿼드시 버프 추가 적용, 대기시 받는 피해 감소"
   },
   "1002707255": {
@@ -3548,7 +3548,7 @@
     "korean": "3라운드 동안 공격기, 보호기인 아군 모두의 공격력을 증가 시킵니다."
   },
   "1002707273": {
-    "english": "Increases the ATK of both allied attackers and defenders for 3 rounds.",
+    "english": "Increases the SPD of both allied attackers and defenders for 3 rounds.",
     "korean": "3라운드 동안 공격기, 보호기인 아군 모두의 행동력을 증가 시킵니다."
   },
   "1002707274": {
@@ -3556,7 +3556,7 @@
     "korean": "3라운드 동안 공격기, 보호기인 아군 모두의 공격력을 증가 시킵니다."
   },
   "1002707275": {
-    "english": "Increases the ATK of both allied attackers and defenders for 3 rounds.",
+    "english": "Increases the SPD of both allied attackers and defenders for 3 rounds.",
     "korean": "3라운드 동안 공격기, 보호기인 아군 모두의 행동력을 증가 시킵니다."
   },
   "1002707276": {
@@ -3684,7 +3684,7 @@
     "korean": "라운드 개시 시 적군 전체에게 모든 속성 저항 감소를 부여합니다. 내한 코팅 장비 착용 시 냉기 저항이 크게 감소하는 대신 전기/화염 저항 감소효과는 발동하지 않습니다. 내열 코팅 장비 착용 시 화염 저항이 크게 감소하는 대신 전기/냉기 저항 감소효과는 발동하지 않습니다. 내전 코팅 장비 착용 시 전기 저항이 크게 감소하는 대신 화염/냉기 저항 감소효과는 발동하지 않습니다."
   },
   "1002707307": {
-    "english": "At the start of battle, increases own AP for 3 rounds. At the start of each round, allies with the Angel's Embrace buff gain increased ATK/ACU/EVA/AP/effect resistance.",
+    "english": "At the start of battle, increases own SPD for 3 rounds. At the start of each round, allies with the Angel's Embrace buff gain increased ATK/ACU/EVA/AP/effect resistance.",
     "korean": "전투 시작 시 3라운드 동안 자신의 행동력이 증가합니다. 라운드 개시 시 천사의 포옹 버프가 적용된 아군은 공격력/적중/회피/AP/효과저항이 증가합니다."
   },
   "1002707308": {
@@ -3736,7 +3736,7 @@
     "korean": "적군 전체 모든 속성 저항 감소/특정 장비 착용 시 모든 속성 저항 감소는 취소되고 장비에 따른 속성 저항만 대폭 감소"
   },
   "1002707320": {
-    "english": "Self AP increase / Allies with Angel’s Embrace buff gain ATK/ACU/EVA/AP/effect resistance increase",
+    "english": "Self SPD increase / Allies with Angel’s Embrace buff gain ATK/ACU/EVA/AP/effect resistance increase",
     "korean": "자신 행동력 상승/천사의 포옹 버프 적용된 아군 공격력/적중/회피/AP/효과저항 증가"
   },
   "1002707321": {
@@ -3800,15 +3800,15 @@
     "korean": "지정 대상에게 {0} 보호 무시 피해를 입히고, 한 칸 뒤 대상에게는 감소된 피해를 입힙니다. 대상의 방어력을 감소시킵니다."
   },
   "1002707336": {
-    "english": "At the start of the round, increases own ATK and AP based on the number of allies in the squad.",
+    "english": "At the start of the round, increases own ATK and SPD based on the number of allies in the squad.",
     "korean": "라운드 개시 시, 스쿼드에 포함된 아군 1명 당 자신의 공격력과 행동력을 증가 시킵니다."
   },
   "1002707337": {
-    "english": "At the start of the round, increases ATK and AP for allies within range and self. When on standby, gains [I'll Finish This!] state, further increasing Penetration, ATK, and AP, stackable.",
+    "english": "At the start of the round, increases DEF and SPD for allies within range and self. When on standby, gains [I'll Finish This!] state, further increasing Penetration, ATK, and SPD, stackable.",
     "korean": "라운드 개시 시, 범위 내 아군과 자신의 공격력과 행동력을 증가시킵니다. 대기 시 [바로 끝내주마!]상태를 부여하여 방어관통, 공격력, 행동력을 추가로 상승 시키며 중첩됩니다."
   },
   "1002707338": {
-    "english": "At the start of the round, [Hype the Crowd] effect is increased by 50% for self, Mighty R, Barbariana, Skadi, Tiequan, Elven Forest Maker, T-60 Bulgasari, and Niva within range.&nWhen using <Marvelous Dropkick>, triggers a Coordinated Attack with <Babel Slam>, <Demolition Initiated>, <Final Hack>, <Hundred Step Fist>, <Sapling Planting>, <Bunker Buster>, or <Bunny Annihilation Kick!>.&nIf multiple units can participate in the Coordinated Attack, priority is given in the order listed above.",
+    "english": "At the start of the round, [Hype the Crowd] effect is increased by 50% for self, Mighty R, Barbariana, Scathy, Tiequan, Elven Forest Maker, T-60 Bulgasari, and Niva within range.&nWhen using <Marvelous Dropkick>, triggers a Coordinated Attack with <Babel Slam>, <Demolition Initiated>, <Final Hack>, <Hundred Step Fist>, <Sapling Planting>, <Bunker Buster>, or <Bunny Annihilation Kick!>.&nIf multiple units can participate in the Coordinated Attack, priority is given in the order listed above.",
     "korean": "라운드 개시 시, 범위 내에 자신, 마이티R, 바바리아나, 스카디, 티에치엔, 엘븐포레스트 메이커, T-60 불가사리, 니바는 [환호 유도] 효과가 50% 증가합니다.&n<마벨러스 드롭킥>을 사용했을 때 <바벨 강타>, <철거 개시>, <최후의 해킹>, <백보신권>, <묘목 심기>, <벙커 버스터>, <바니 파멸킥!> 스킬로 협동 공격을 유도 합니다. &n협동 공격을 할 수 있는 전투원이 다수인 경우 상기 전투원 순서로 우선권을 가집니다."
   },
   "1002707339": {
@@ -3820,11 +3820,11 @@
     "korean": "대상 {0} 보호 무시 피해, 한칸 뒤 50% 피해 / 방어력 감소"
   },
   "1002707341": {
-    "english": "Self ATK / AP increase",
+    "english": "Self ATK / SPD increase",
     "korean": "자신 공격력/행동력 증가"
   },
   "1002707342": {
-    "english": "Increases ATK / AP of allies within range / When Waiting: additional Penetration / ATK / AP bonus (stackable)",
+    "english": "Increases ATK / SPD of allies within range / When Waiting: additional Penetration / ATK / SPD bonus (stackable)",
     "korean": "범위 내 아군 공격력/행동력 증가 / 대기 시 방어관통/공격력/행동력 추가 적용(중첩가능)"
   },
   "1002707343": {

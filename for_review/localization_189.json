@@ -20,7 +20,7 @@
     "korean": "라운드 개시 시, 자신은 행 / 열 보호가 활성화됩니다.&n라운드 개시 시, 자신은 우주용 특수 장갑으로 인해 방어력 / 효과 저항 / 모든 속성 저항이 증가합니다.&n라운드 개시 시, 자신은 냉기 저항 감소 효과에 면역 상태가 됩니다."
   },
   "SkillDesc_Skill_PECS_CoCoWhiteShell_N_5": {
-    "english": "At the start of the round, sets a lower limit for Ice Resistance for allies within range.&nWhen hit by Ice damage or starting the round while <Drenched>, gains an effect that minimizes damage below a certain threshold for the rest of the round.&nWhen hit while in <Condensed> state, increases AP for allies within range for 2 rounds.",
+    "english": "At the start of the round, sets a lower limit for Ice Resistance for allies within range.&nWhen hit by Ice damage or starting the round while <Drenched>, gains an effect that minimizes damage below a certain threshold for the rest of the round.&nWhen hit while in <Condensed> state, increases SPD for allies within range for 2 rounds.",
     "korean": "라운드 개시 시, 범위 내 아군의 냉기 저항 하한을 생성합니다.&n냉기 속성 피격 시 또는 <침수> 상태로 라운드 개시 시, 자신은 해당 라운드 동안 일정 이하의 피해를 최소화하는 효과를 획득합니다.&n<응축> 상태에서 피격 시, 2라운드 동안 범위 내 아군의 행동력을 증가시킵니다."
   },
   "SkillDesc_Skill_PECS_CyclopsePrincess_N_1": {
@@ -36,7 +36,7 @@
     "korean": "<진조의 권능 : 사안> : 라운드 개시 시, 자신이 공격 지원 효과를 받고 있지 않은 경우, 1라운드 동안 치명타가 증가합니다.&n<진조의 권능 : 운명조작> : 라운드 개시 시, 자신이 공격 지원 및 지정 보호 효과를 받고 있지 않은 경우, 1라운드 동안 보호 무시 효과를 획득합니다.&n<진조의 권능 : 불사> : 적 처치 시, 해제 불가 전투 속행 효과를 획득합니다. (최대 3중첩)"
   },
   "SkillDesc_Skill_PECS_CyclopsePrincess_N_4": {
-    "english": "At the start of the round, increase the ATK and AP of allies within range for 1 round based on the number of <Primordial Power> types applied to the user.&nIf allies within range are affected by <LRL: Primordial Power?>, the base effect is enhanced and their Penetration increases.&nWhile the user is under a Guts effect, AP of allies within range is further increased.",
+    "english": "At the start of the round, increase the ATK and SPD of allies within range for 1 round based on the number of <Primordial Power> types applied to the user.&nIf allies within range are affected by <LRL: Primordial Power?>, the base effect is enhanced and their Penetration increases.&nWhile the user is under a Guts effect, SPD of allies within range is further increased.",
     "korean": "라운드 개시 시, 자신에게 적용된 <진조의 권능> 종류 수에 따라 1라운드 동안 범위 내 아군의 공격력 / 행동력을 증가시킵니다. 범위 내 아군에게 <LRL : 진조의 힘?>이 적용된 상태인 경우, 기본 효과가 추가 적용되며 방어 관통이 증가합니다.&n자신이 전투 속행 시, 범위 내 아군의 AP가 증가합니다."
   },
   "SkillDesc_Skill_PECS_CyclopsePrincess_N_5": {
@@ -52,15 +52,15 @@
     "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 입힙니다.&n적중 시 대상은 1라운드 동안 이동 불가 상태가 됩니다.&n안전 범위 이탈!로 적을 처치 시 자신에게 피해 무효화 1회를 획득합니다.&n적을 처치 후 안전 범위 이탈!로 획득하는 피해 무효화는 골든 워커즈 토르피도의 피해 무효화와 중첩 적용되지 않으며 갱신될 수 있습니다."
   },
   "SkillDesc_Skill_PECS_Dione_N_2": {
-    "english": "Deals {0} Ice damage that ignores Guard to a designated area.&nOn hit, reduces the target’s AP and inflicts Drenched.&nWhile Drenched, the target has reduced Ice and Electric resistance and increased Fire resistance for 2 rounds.",
+    "english": "Deals {0} Ice damage that ignores Guard to a designated area.&nOn hit, reduces the target’s SPD and inflicts Drenched.&nWhile Drenched, the target has reduced Ice and Electric resistance and increased Fire resistance for 2 rounds.",
     "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 입힙니다.&n적중 시 대상은 행동력 감소 및 침수 상태가 됩니다.&n침수 시 대상의 2라운드 동안 냉기 / 전기 저항 감소, 화염 저항 증가 상태가 됩니다."
   },
   "SkillDesc_Skill_PECS_Dione_N_3": {
-    "english": "At the start of the round, taunts all enemies.&nFor 2 rounds, reduces their AP and increases damage taken (up to 3 stacks).",
+    "english": "At the start of the round, taunts all enemies.&nFor 2 rounds, reduces their SPD and increases damage taken (up to 3 stacks).",
     "korean": "라운드 개시 시 모든 적을 도발합니다.&n2라운드 동안 적의 행동력을 감소시키고 받는 피해를 증가시킵니다(최대 3 중첩)."
   },
   "SkillDesc_Skill_PECS_Dione_N_4": {
-    "english": "At the start of the round, if the user is in a <Drenched> state, increases ATK / CRIT / AP.&nAdditionally, if hit while <Drenched>, the attacker’s <Damage Reduction> effect is removed.",
+    "english": "At the start of the round, if the user is in a <Drenched> state, increases ATK / CRIT / SPD.&nAdditionally, if hit while <Drenched>, the attacker’s <Damage Reduction> effect is removed.",
     "korean": "라운드 개시 시 자신이 <침수> 상태인 경우 공격력 / 치명타 / 행동력이 증가합니다.&n라운드 개시 시 자신이 <침수> 상태로 피격 시 적의 <받는 피해 감소> 효과가 해제됩니다."
   },
   "SkillDesc_Skill_PECS_Dione_N_5": {
@@ -96,7 +96,7 @@
     "korean": "목표 지점에 있는 대상들의 약점을 분석해, 2라운드 동안 받는 피해를 증가시키며 효과 저항과 회피를 감소시킵니다.&n스킬 레벨 5부터 범위가 증가합니다.&n999%의 적중 보정이 적용됩니다."
   },
   "SkillDesc_Skill_PECS_Drone_N_3": {
-    "english": "At the start of battle, your AP increases for each AGS in the squad.&nAt the start of the round, your effect resistance increases and you become immune to AP reduction effects.",
+    "english": "At the start of battle, your AP increases for each AGS in the squad.&nAt the start of the round, your effect resistance increases and you become immune to SPD reduction effects.",
     "korean": "전투 개시 시, 스쿼드 내 AGS 1기당 자신의 AP가 증가합니다.&n라운드 개시 시, 자신의 효과 저항이 증가하고 행동력 감소 효과에 면역 상태가 됩니다."
   },
   "SkillDesc_Skill_PECS_Drone_N_4": {
@@ -104,15 +104,15 @@
     "korean": "라운드 개시 시, 아군 지원기의 보호 무시를 활성화하고 적중을 증가시킵니다.&n라운드 개시 시, 적 지원기의 보호 무시를 비활성화하고 적중을 감소시킵니다."
   },
   "SkillDesc_Skill_PECS_Drone_N_5": {
-    "english": "At the start of the round, own AP increase.&nAs long as <Tommy Walker> is in the squad, the user receives reserve units and gains Battle Continuation.&nWhen using <Shockwave Missile>, removes the target’s EVA enhancement effect.&nWhen using <Precision Scan>, removes the target’s damage nullification effect.",
+    "english": "At the start of the round, own SPD increase.&nAs long as <Tommy Walker> is in the squad, the user receives reserve units and gains Battle Continuation.&nWhen using <Shockwave Missile>, removes the target’s EVA enhancement effect.&nWhen using <Precision Scan>, removes the target’s damage nullification effect.",
     "korean": "라운드 개시 시, 자신의 행동력이 증가합니다.&n스쿼드 내에 <토미 워커>가 존재하는 한, 자신은 예비 소체를 공급받아 무제한의 전투 속행을 획득합니다.&n<충격파 미사일> 사용 시, 대상의 회피 강화 효과를 해제합니다.&n<정밀 스캔> 사용 시, 대상의 피해 무효화 효과를 해제합니다."
   },
   "SkillDesc_Skill_PECS_ElvenForestmaker_N_5": {
-    "english": "At the start of the round, gain 100% resistance to buff removal. When using a skill, increase the damage taken by all enemies who do not receive AP increase effects for 2 rounds.",
+    "english": "At the start of the round, gain 100% resistance to buff removal. When using a skill, increase the damage taken by all enemies who do not receive SPD increase effects for 2 rounds.",
     "korean": "라운드 개시 시, 강화 해제 저항 100% 효과를 얻습니다. 스킬 사용 시, 행동력 증가 효과를 받지 않는 모든 적의 받는 피해를 2라운드 동안 증가시킵니다."
   },
   "SkillDesc_Skill_PECS_Empress_N_1": {
-    "english": "Deals {0} Cold attribute damage to the designated area, and for 2 rounds, reduces the target's Cold Resistance and AP upon hit.&nIf the target is in the <Soaked> state, inflicts the <Frozen> state for 2 rounds, making them unable to move and increasing damage taken.",
+    "english": "Deals {0} Cold attribute damage to the designated area, and for 2 rounds, reduces the target's Cold Resistance and SPD upon hit.&nIf the target is in the <Soaked> state, inflicts the <Frozen> state for 2 rounds, making them unable to move and increasing damage taken.",
     "korean": "지정 범위에 {0} 냉기 속성 피해를 주고, 2라운드 동안 적중 대상의 냉기 저항과 행동력을 감소시킵니다.&n대상이 <침수> 상태일 경우, 이동 불가 상태로 만들고 받는 피해가 증가하는 <빙결> 상태를 2라운드 동안 부여합니다."
   },
   "SkillDesc_Skill_PECS_Empress_N_2": {
@@ -128,7 +128,7 @@
     "korean": "라운드 개시 시, 자신과 주변 아군의 냉기 저항이 증가합니다. 자신은 냉기 저항 효과가 2배로 적용됩니다. &n라운드 개시 시, 지정 보호를 받는 범위 내 아군의 AP를 증가시킵니다. &n스킬 레벨 10에서 자신의 위치와 관계없이 전체 적용됩니다."
   },
   "SkillDesc_Skill_PECS_Empress_N_5": {
-    "english": "At the start of the round, increases own AP.&nIf possessing Damage Mitigation from <Mimicry> at the start of the round, gains an effect that ignores protection.&n<Penguin Surprise!> If the hit target is in the <Soaked> state, removes the target’s buffs.&nAt the start of the round, reduces the Cold Resistance of enemies in the <Frozen> state.",
+    "english": "At the start of the round, increases own SPD.&nIf possessing Damage Mitigation from <Mimicry> at the start of the round, gains an effect that ignores protection.&n<Penguin Surprise!> If the hit target is in the <Soaked> state, removes the target’s buffs.&nAt the start of the round, reduces the Cold Resistance of enemies in the <Frozen> state.",
     "korean": "라운드 개시 시, 자신의 행동력이 증가합니다.&n라운드 개시 시 <의태>에 의한 피해 최소화를 보유한 경우, 자신은 보호 무시 효과가 활성화됩니다.&n<펭귄 서프라이즈!> 적중 대상이 <침수> 상태인 경우, 대상의 강화 효과를 해제합니다.&n라운드 개시 시, <빙결> 상태의 적의 냉기 저항을 감소시킵니다."
   },
   "SkillDesc_Skill_PECS_Erato_N_1": {
@@ -140,15 +140,15 @@
     "korean": "지정 범위 내 아군에게 2라운드 동안 자신의 공격력에 비례한 공격력 증가 효과를 부여합니다.&n스킬 사용 시, 자신은 공격력 감소 일반 효과를 획득합니다.&n라운드 개시 및 스킬 사용 시, 자신에게 적용된 타 전투원의 공격력 비례 공격력 증가 효과를 해제합니다."
   },
   "SkillDesc_Skill_PECS_Erato_N_3": {
-    "english": "At the start of battle, grants an AP increase effect to nearby allies with lower AP than self.&nAt the start of the round, grants nearby allies immunity to harmful effects for 1 round based on their role. Self gains immunity to all harmful effects.&nAttacker: Immune to Attack Power reduction&nDefender: Immune to Defense reduction&nSupporter: Immune to AP reduction",
+    "english": "At the start of battle, grants an SPD increase effect to nearby allies with lower SPD than self.&nAt the start of the round, grants nearby allies immunity to harmful effects for 1 round based on their role. Self gains immunity to all harmful effects.&nAttacker: Immune to Attack Power reduction&nDefender: Immune to Defense reduction&nSupporter: Immune to AP reduction",
     "korean": "전투 개시 시, 자신보다 행동력이 낮은 주변 아군에게 AP 증가 효과를 부여합니다.&n라운드 개시 시, 자신 주변 아군에게 역할군에 따라 1라운드 동안 해로운 효과 면역 상태를 부여합니다. 자신은 모든 면역 상태를 획득합니다. &n공격기 : 공격력 감소 면역&n보호기 : 방어력 감소 면역&n지원기 : AP 감소 면역"
   },
   "SkillDesc_Skill_PECS_Erato_N_4": {
-    "english": "At the start of the round, gains a general ATK increase effect for 1 round.&nWhen an enemy dies, removes own ATK reduction effect caused by <With You>.&nAt the start of the round, if not affected by the ATK reduction from <With You>, increases own AP.",
+    "english": "At the start of the round, gains a general ATK increase effect for 1 round.&nWhen an enemy dies, removes own ATK reduction effect caused by <With You>.&nAt the start of the round, if not affected by the ATK reduction from <With You>, increases own SPD.",
     "korean": "라운드 개시 시, 자신은 1라운드 동안 공격력 증가 일반 효과를 획득합니다.&n적 사망 시, <With You>에 의한 자신의 공격력 감소 효과를 해제합니다.&n라운드 개시 시, <With You>에 의한 자신의 공격력 감소 효과가 적용되지 않은 상태인 경우, 자신의 행동력이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Erato_N_5": {
-    "english": "At the start of the round, grants additional effects to the target for 1 round based on the number of <You’re Already☆My FAN> stacks.&nAll effects ignore effect resistance and are amplified the closer the target is to the front row.&n<Fan> (1 stack): Reduces AP&n<Superfan> (2 stacks): Increases damage taken&n<Fluorescent Fan> (3 stacks): Prevents buffs and actions (front row)",
+    "english": "At the start of the round, grants additional effects to the target for 1 round based on the number of <You’re Already☆My FAN> stacks.&nAll effects ignore effect resistance and are amplified the closer the target is to the front row.&n<Fan> (1 stack): Reduces SPD&n<Superfan> (2 stacks): Increases damage taken&n<Fluorescent Fan> (3 stacks): Prevents buffs and actions (front row)",
     "korean": "라운드 개시 시, <넌 이미☆나의 FAN> 효과 중첩 수에 따라 대상에게 1라운드 동안 추가 효과를 부여합니다. &n모든 효과는 효과 저항에 영향을 받지 않으며, 대상이 전열에 가까울 수록 효과가 증폭됩니다.&n<팬> (1중첩) : 행동력 감소&n<광팬> (2중첩) : 받는 피해 증가&n<형광팬> (3중첩) : 강화 불가, 행동 불가(전열)"
   },
   "SkillDesc_Skill_PECS_Hathor_N_1": {
@@ -168,7 +168,7 @@
     "korean": "전투 개시 시, 자신은 전투 속행 효과를 획득합니다.&n적 처치 시, 상기 효과를 추가로 획득합니다. (최대 1중첩)&n피격 시, 3라운드 동안 자신의 공격력이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Hathor_N_5": {
-    "english": "At the start of the round, grants allies with the <Maternity> effect a shield / damage ignore effect and increases their range.&nAt the start of battle, increases own AP based on the number of <Elven-type Bioroids> in the squad.&nUpon own death, increases the action speed of all allies for 2 rounds.",
+    "english": "At the start of the round, grants allies with the <Maternity> effect a shield / damage ignore effect and increases their range.&nAt the start of battle, increases own SPD based on the number of <Elven-type Bioroids> in the squad.&nUpon own death, increases the SPD of all allies for 2 rounds.",
     "korean": "라운드 개시 시, <모성> 효과가 적용중인 아군에게 방어막 / 피해 감소 무시 효과를 부여하고 사거리를 증가시킵니다.&n전투 개시 시, 스쿼드 내 <엘븐형 바이오로이드> 수에 따라 자신의 AP가 증가합니다.&n자신 사망 시, 2라운드 동안 아군 전체의 행동력을 증가시킵니다."
   },
   "SkillDesc_Skill_PECS_Hussar_N_1": {
@@ -272,7 +272,7 @@
     "korean": "라운드 개시시 2라운드 동안 모든 적의 방어력, 전기 저항, 화염 저항, 냉기 저항을 감소시킵니다.  &n추가로 아래의 효과를 줍니다.&n[벨페고르: 인셉션] 사용: 2라운드 동안 모든 적 효과 저항 감소&n[벨페고르: 라이카 최대 출력] 사용: 2라운드 동안  모든 적 방어력, 전기 저항, 화염 저항, 냉기 저항 추가 감소&n모두 일반 효과 입니다."
   },
   "SkillDesc_Skill_PECS_LemonadeEpsilon_N_5": {
-    "english": "At the start of the round, reduces all enemies' accuracy and attack power for 2 rounds. Additionally, it has the following effects:  &nWhen [Belphegor: Inception] is used: further reduces all enemies' accuracy for 2 rounds  &nWhen [Belphegor: Laika Maximum Output] is used: reduces all enemies' action points for 2 rounds  &nAll are normal effects.",
+    "english": "At the start of the round, reduces all enemies' accuracy and attack power for 2 rounds. Additionally, it has the following effects:  &nWhen [Belphegor: Inception] is used: further reduces all enemies' accuracy for 2 rounds  &nWhen [Belphegor: Laika Maximum Output] is used: reduces all enemies' SPD for 2 rounds  &nAll are normal effects.",
     "korean": "라운드 개시시 2라운드 동안  모든 적의 적중과 공격력을 감소시킵니다. 추가로 아래 효과를 가집니다.&n[벨페고르: 인셉션] 사용 시: 2라운드 동안 모든 적 적중 추가 감소 &n[벨페고르: 라이카 최대 출력] 사용 시: 2라운드 동안 모든 적 행동력 감소&n모두 일반 효과 입니다."
   },
   "SkillDesc_Skill_PECS_LemonadeGamma_N_1": {
@@ -284,7 +284,7 @@
     "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다.&n적중 시 대상의 반격 효과를 해제하며 대상의 hp가 70% 이상인 경우, 피해량이 증가합니다."
   },
   "SkillDesc_Skill_PECS_LemonadeGamma_N_3": {
-    "english": "At the start of the round, gain Defense Penetration. If you have one of Rode, Merlin, Triton, or Merope, your Attack Power increases.",
+    "english": "At the start of the round, gain Defense Penetration. If you have one of Rhode, Merlin, Triton, or Merope, your Attack Power increases.",
     "korean": "라운드 개시 시, 방어 관통을 획득합니다. 로데/ 멀린/ 트리톤/ 메로페 중 한명이 있으면 공격력이 상승합니다."
   },
   "SkillDesc_Skill_PECS_LemonadeGamma_N_4": {
@@ -432,7 +432,7 @@
     "korean": "라운드 개시 시, 적 공격기의 사거리가 감소합니다.&n적 사망 시, <유독 물질>을 1중첩 획득합니다.&n자신이 적에게 부여하는 해로운 효과는, 대상이 기동형일 경우 효과가 두 배로 증폭됩니다.&n<사무친 악의의 분출>의 강화 불가 효과는, 대상이 기동형일 경우 적중 여부에 관계 없이 적용됩니다."
   },
   "SkillDesc_Skill_PECS_Nidhogg_N_5": {
-    "english": "At the start of battle, gain 2 stacks of <Toxic Substance>, and increase your AP based on the number of stacks.&nCan hold up to 3 stacks of <Toxic Substance>.&nIf <Toxic Substance> is gained beyond the maximum stack limit, AP increases instead.",
+    "english": "At the start of battle, gain 2 stacks of <Toxic Substance>, and increase your SPD based on the number of stacks.&nCan hold up to 3 stacks of <Toxic Substance>.&nIf <Toxic Substance> is gained beyond the maximum stack limit, AP increases instead.",
     "korean": "전투 개시 시, <유독 물질>을 2중첩 획득하며 중첩 수에 따라 자신의 행동력이 증가합니다.&n<유독 물질>은 최대 3중첩까지만 보유할 수 있습니다.&n최대 한도를 초과하여 <유독 물질> 획득 시, 자신의 AP가 증가합니다."
   },
   "SkillDesc_Skill_PECS_Olivia_N_1": {
@@ -440,7 +440,7 @@
     "korean": "단일 대상에게 박음선을 표시하며 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상의 받는 피해를 증가시키고 자신의 방어 관통이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Olivia_N_2": {
-    "english": "Dances the needle with elegant movements to deal {0} damage to the target.&nIf the target has 2 or more <Thread Stacks>, removes target's buffs.&nDamage increases based on the number of <Thread> stacks applied to self (max 5 stacks).&nIncreases action of all allies for 2 rounds after skill use.",
+    "english": "Dances the needle with elegant movements to deal {0} damage to the target.&nIf the target has 2 or more <Thread Stacks>, removes target's buffs.&nDamage increases based on the number of <Thread> stacks applied to self (max 5 stacks).&nIncreases SPD of all allies for 2 rounds after skill use.",
     "korean": "화려한 움직임으로 바늘을 춤추게하여 대상에게 {0} 피해를 줍니다.&n적중 대상의 <바늘땀> 중첩이 2 이상일 경우, 대상의 강화 효과를 해제합니다.&n적중 시, 자신에게 적용된 <실밥> 중첩 수에 따라 피해량이 증가합니다. (최대 5중첩)&n스킬을 사용한 다음 2라운드 동안 아군 전체의 행동력을 증가시킵니다."
   },
   "SkillDesc_Skill_PECS_Olivia_N_3": {
@@ -500,7 +500,7 @@
     "korean": "라운드 개시 시, 치명타 / 회피 증가 효과가 영구히 적용됩니다. 최대 5중첩까지 가능합니다. 전투 시작 시 <모드 전환 준비> 활성화 상태가 되며, 해당 상태에서 대기 시 <휴먼 폼>으로 변환됩니다."
   },
   "SkillDesc_Skill_PECS_Peregrinus_N_4": {
-    "english": "At the start of the round, increases ATK and AP. Skill power increases based on own EVA.",
+    "english": "At the start of the round, increases ATK and SPD. Skill power increases based on own EVA.",
     "korean": "라운드 개시 시, 공격력 / 행동력이 증가하고 자신의 회피 수치에 비례하여 스킬 위력이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Peregrinus_N_5": {
@@ -524,7 +524,7 @@
     "korean": "라운드 개시 시, 범위 내 아군의 대 중장형 / 경장형 피해량이 증가합니다. &n5인 스쿼드 구성 시 효과가 50% 증폭됩니다.&n전투 개시 시 자신이 스쿼드 내 유일한 공격기인 경우, 범위 내 아군의 AP가 증가합니다."
   },
   "SkillDesc_Skill_PECS_QueenMane_N_5": {
-    "english": "At the start of the round, increases user’s base ATK for 3 rounds.&nAlso decreases AP of all enemies with lower ATK via an overwhelming roar.&nAt battle start, gains an AP increase buff based on the number of 'prey'.",
+    "english": "At the start of the round, increases user’s base ATK for 3 rounds.&nAlso decreases SPD of all enemies with lower ATK via an overwhelming roar.&nAt battle start, gains an SPD increase buff based on the number of 'prey'.",
     "korean": "라운드 개시 시, 3라운드 동안 자신의 기본 공격력이 증가합니다.&n라운드 개시 시, 위압적인 포효로 자신보다 공격력이 낮은 모든 적의 행동력을 감소시킵니다.&n전투 개시 시, 사냥감 수에 비례하여 자신은 행동력 증가 일반 효과를 획득합니다."
   },
   "SkillDesc_Skill_PECS_Rhode_CH_1": {
@@ -548,7 +548,7 @@
     "korean": "전투 개시시, 자신의 AP를 증가 시킵니다.&n라운드 개시시, 1 라운드 동안 아군의 효과 저항 / 강화 해제 저항이 증가하며 레모네이드 감마, 멀린, 트리톤, 메로페는 추가로 증가합니다."
   },
   "SkillDesc_Skill_PECS_Rhode_N_4": {
-    "english": "At the start of the round, increase your action points for 1 round. In normal mode, using an active skill once switches to bombardment mode.",
+    "english": "At the start of the round, increase your SPD for 1 round. In normal mode, using an active skill once switches to bombardment mode.",
     "korean": "라운드 개시시, 1 라운드 동안 자신의 행동력을  증가시킵니다. 일반 모드에서 1번 엑티브 스킬 사용시 대포격 모드로 전환합니다."
   },
   "SkillDesc_Skill_PECS_Rhode_N_5": {
@@ -560,11 +560,11 @@
     "korean": "목표 지점에 {0} 피해를 주고 주변에는 90% 감소한 피해를 입힙니다. 적이 처치된 경우 범위 내 적에게 고정 물리 피해를 주고 3라운드 동안 방어력을 감소시킵니다."
   },
   "SkillDesc_Skill_PECS_Sekhmet_N_2": {
-    "english": "Deals {0} damage ignoring DEF to the target location and 75% / 90% reduced damage to the back row. On hit, removes the target’s AP increase effects, reduces their AP for 2 rounds, and increases own Ap proportionally to the number of enemies.",
+    "english": "Deals {0} damage ignoring DEF to the target location and 75% / 90% reduced damage to the back row. On hit, removes the target’s SPD increase effects, reduces their SPD for 2 rounds, and increases own SPD proportionally to the number of enemies.",
     "korean": "목표 지점에 {0} 보호 무시 피해를 주고 뒷열에는 75% / 90% 감소한 피해를 입힙니다. 공격 적중 시, 대상의 행동력 증가 효과를 해제하고 2라운드 동안 대상의 행동력을 감소시키며 적 수에 비례하여 자신의 행동력을 증가시킵니다."
   },
   "SkillDesc_Skill_PECS_Sekhmet_N_3": {
-    "english": "At the start of the round, increases MOVE / DEF Penetration. Further increases own MOVE / DEF Penetration based on the number of <Elven-type Bioroids> in the squad.",
+    "english": "At the start of the round, increases SPD / DEF Penetration. Further increases own SPD / DEF Penetration based on the number of <Elven-type Bioroids> in the squad.",
     "korean": "라운드 개시 시, 행동력 / 방어 관통이 증가합니다. 스쿼드 내 <엘븐형 바이오로이드> 수에 따라 자신의 행동력 / 방어 관통이 추가로 증가합니다."
   },
   "SkillDesc_Skill_PECS_Sekhmet_N_4": {
@@ -588,7 +588,7 @@
     "korean": "공격 적중 시 아군의 AP를 증가시킵니다.&n적 처치 시 아군의 AP를 추가로 증가시킵니다.&n<시티 가드> 소속 전투원은 AP를 추가로 증가시킵니다."
   },
   "SkillDesc_Skill_PECS_Shepherd_N_4": {
-    "english": "Increases allies' attack power when an attack hits.  &nIncreases allies' critical rate additionally when an enemy is defeated.  &nCombatants belonging to <City Guard> gain additional action points.",
+    "english": "Increases allies' attack power when an attack hits.  &nIncreases allies' critical rate additionally when an enemy is defeated.  &nCombatants belonging to <City Guard> gain additional SPD.",
     "korean": "공격 적중 시 아군의 공격력을 증가시킵니다.&n적 처치 시 아군의 치명타를 추가로 증가 시킵니다.&n<시티 가드> 소속 전투원은 행동력를 추가로 증가시킵니다."
   },
   "SkillDesc_Skill_PECS_Shepherd_N_5": {
@@ -608,7 +608,7 @@
     "korean": "적 사망 시, 범위 내 아군에게 3라운드 동안 공격력 증가 효과를 부여합니다. 자신은 공격력 증가 효과가 두 배로 증가합니다. (최대 3중첩)&n웨이브 종료 시, 범위 내 아군에게 <정찰> 효과를 부여합니다.&n라운드 개시 시, <정찰> 상태인 범위 내 아군에게 1라운드 동안 적중 / 치명타 증가 효과를 부여합니다."
   },
   "SkillDesc_Skill_PECS_Sonia_N_4": {
-    "english": "At the start of battle, if there are 6 or more enemies, increases own AP and permanently increases ATK.&nAt the start of the round, increases own MOVE proportionally to the number of enemies.",
+    "english": "At the start of battle, if there are 6 or more enemies, increases own AP and permanently increases ATK.&nAt the start of the round, increases own SPD proportionally to the number of enemies.",
     "korean": "전투 개시 시, 적 개체 수가 6 이상일 경우 자신의 AP가 증가하고 영구적으로 공격력이 증가합니다.&n라운드 개시 시, 적 개체 수에 비례하여 자신의 행동력이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Sonia_N_5": {
@@ -648,7 +648,7 @@
     "korean": "라운드 개시 시, 방어력 증가 / 모든 저항 증가 / 받는 피해 감소 효과를 획득합니다.&n매 라운드 자신의 첫 번째 공격에는 방어 관통이 크게 증가합니다. 이후의 공격에는 반감한 방어 관통이 적용됩니다.&n각 액티브 스킬 레벨에 따라 소모 AP가 감소합니다.&n<S.P.A.C.E> 장착 시 일부 스킬을 변경합니다."
   },
   "SkillDesc_Skill_PECS_Spartoia_N_5": {
-    "english": "At the start of the round, your ATK and CRIT increase.&nAt the start of battle, permanently gains the normal effect of AP reduction.&nInstead, at the start of battle, AP increases and becomes permanently immune to harmful AP reduction / AP reduction effects.",
+    "english": "At the start of the round, your ATK and CRIT increase.&nAt the start of battle, permanently gains the normal effect of SPD reduction.&nInstead, at the start of battle, AP increases and becomes permanently immune to harmful SPD reduction / AP reduction effects.",
     "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가합니다.&n전투 개시 시, 행동력 감소 일반 효과를 영구 획득합니다.&n대신 전투 개시 시 AP가 증가하고, 해로운 행동력 감소 / AP 감소 효과에 영구 면역이 됩니다."
   },
   "SkillDesc_Skill_PECS_Stinger_N_1": {
@@ -656,11 +656,11 @@
     "korean": "화염 방사로 {0} 피해를 주고, 뒤의 대상에게는 50% 감소한 피해를 줍니다. &n적중 시, 3라운드 동안 대상에게 지속 화염 피해를 주고 효과 저항을 감소시킵니다."
   },
   "SkillDesc_Skill_PECS_Stinger_N_2": {
-    "english": "Charges at the target, dealing {0} damage. Ignores a portion of the target’s DEF.&nIf the target is Immobilized or Marked, damage is increased accordingly.&nWhen the skill is used, removes EVA / AP reduction effects from yourself.",
+    "english": "Charges at the target, dealing {0} damage. Ignores a portion of the target’s DEF.&nIf the target is Immobilized or Marked, damage is increased accordingly.&nWhen the skill is used, removes EVA / SPD reduction effects from yourself.",
     "korean": "목표 대상에게 돌격해 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.&n적중 대상이 이동 불가 또는 표식 상태인 경우, 각각 피해량이 증가합니다.&n스킬 사용 시, 자신에게 적용된 회피 / 행동력 감소 효과를 해제합니다."
   },
   "SkillDesc_Skill_PECS_Stinger_N_3": {
-    "english": "When attacked by an enemy, boosts thruster output to increase ATK / AP for 2 rounds.&nAt the start of the round, increases own EVA for 2 rounds.",
+    "english": "When attacked by an enemy, boosts thruster output to increase ATK / SPD for 2 rounds.&nAt the start of the round, increases own EVA for 2 rounds.",
     "korean": "적 공격 시, 부스터 출력을 올려 2라운드 동안 공격력 / 행동력이 증가합니다.&n라운드 개시 시, 2라운드 동안 자신의 회피가 증가합니다."
   },
   "SkillDesc_Skill_PECS_Stinger_N_4": {
@@ -704,7 +704,7 @@
     "korean": "라운드 개시 시, 자신의 공격력 / 적중이 증가합니다.&n적 공격 시, 적 처치 시, 공격 당할 시마다 해당 수치의 50% 만큼의 공격력 / 적중 증가 효과를 영구 획득합니다. (각 최대 3중첩)&n적 공격 시, 자신의 AP가 증가합니다. 치명타 시, 추가로 해당 수치의 50% 만큼 자신의 AP가 증가합니다. &nAP 증가 효과는 각 액티브 스킬 레벨에 비례합니다."
   },
   "SkillDesc_Skill_PECS_Tiequan_N_4": {
-    "english": "At the start of the round, increases the user's range.&nAt skill level 10, range increases further.&nAlso increases the user's AP at the start of the round.&nAdditionally, increases the user's maximum number of actions per round by 1.",
+    "english": "At the start of the round, increases the user's range.&nAt skill level 10, range increases further.&nAlso increases the user's SPD at the start of the round.&nAdditionally, increases the user's maximum number of actions per round by 1.",
     "korean": "라운드 개시 시, 자신의 사거리가 증가합니다. 스킬 레벨 10에서 사거리가 추가로 증가합니다.&n라운드 개시 시, 자신의 행동력이 증가합니다.&n라운드 개시 시, 자신의 최대 행동 횟수가 1 증가합니다."
   },
   "SkillDesc_Skill_PECS_Tiequan_N_5": {
@@ -716,11 +716,11 @@
     "korean": "적을 연타해 {0} 피해를 주고, 받는 피해 감소 효과를 해제합니다. &n대상의 방어력을 일정 비율 무시합니다.&n대상이 이동 불가 / 표식 상태인 경우, 해당 라운드 동안 행동 불가 상태로 만듭니다."
   },
   "SkillDesc_Skill_PECS_TommyWalker_N_2": {
-    "english": "Capture the enemy with an anchor to deal {0} damage and pull them forward by 2 tiles.&nThe captured target will suffer Reduced AP / Immobilization / Increased Damage Taken for 2 rounds.&nEach skill level grants an 8% ACU bonus.",
+    "english": "Capture the enemy with an anchor to deal {0} damage and pull them forward by 2 tiles.&nThe captured target will suffer Reduced SPD / Immobilization / Increased Damage Taken for 2 rounds.&nEach skill level grants an 8% ACU bonus.",
     "korean": "앵커로 적을 포획해 {0} 피해를 주고 2칸 앞으로 당깁니다. &n포획된 대상은 2라운드 동안 행동력 감소 / 이동 불가 / 받는 피해 증가 상태가 됩니다.&n스킬 레벨 당 8%의 적중 보정이 적용됩니다."
   },
   "SkillDesc_Skill_PECS_TommyWalker_N_3": {
-    "english": "When an enemy dies, collect their remains to permanently increase allies’ ATK / DEF.&nAt the start of battle, increases allies’ experience gain. If the target is an AGS, the effect is doubled.&nIf there is a <Drone> in the squad, your AP increases.",
+    "english": "When an enemy dies, collect their remains to permanently increase allies’ ATK / DEF.&nAt the start of battle, increases allies’ experience gain. If the target is an AGS, the effect is doubled.&nIf there is a <Drone> in the squad, your SPD increases.",
     "korean": "적 사망 시, 적의 잔해를 수거해 아군의 공격력 / 방어력을 영구적으로 증가시킵니다.&n전투 개시 시, 아군의 획득 경험치를 증가시킵니다. 대상이 AGS인 경우 효과가 두 배로 증폭됩니다.&n스쿼드 내에 <드론>이 있는 경우, 자신의 행동력이 증가합니다."
   },
   "SkillDesc_Skill_PECS_TommyWalker_N_4": {
@@ -740,11 +740,11 @@
     "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 주며 대상을 뒤로 밉니다. &n적중 시, 대상에게 2라운드 동안 받는 피해 증가 효과를 부여합니다. &n대상이 <침수> 상태인 경우, 강화 효과를 해제하고 50% 확률로 행동 불가 상태로 만듭니다."
   },
   "SkillDesc_Skill_PECS_Triaina_N_3": {
-    "english": "At the start of the round, increases AP / Effect Resistance / Elemental Resistance of Bioroid allies within range.&nDepending on the target’s position, one of the following effects is doubled:&n- Front Row: Effect Resistance / Middle Row: Elemental Resistance / Back Row: AP&nAt skill level 10, the range is increased.",
+    "english": "At the start of the round, increases SPD / Effect Resistance / Elemental Resistance of Bioroid allies within range.&nDepending on the target’s position, one of the following effects is doubled:&n- Front Row: Effect Resistance / Middle Row: Elemental Resistance / Back Row: SPD&nAt skill level 10, the range is increased.",
     "korean": "라운드 개시 시, 범위 내 바이오로이드 아군의 행동력 / 효과 저항 / 속성 저항을 증가시킵니다. &n대상이 배치된 위치에 따라 다음 효과가 두 배 증폭됩니다.&n- 전열 : 효과 저항 / 중열 : 속성 저항 / 후열 : 행동력&n스킬 레벨 10에서 범위가 증가합니다."
   },
   "SkillDesc_Skill_PECS_Triaina_N_4": {
-    "english": "Increases your base Cold Resistance to 80%.&nAt the start of the round, reduces damage taken.&nIf you are in the <Submerged> state at the start of the round, your ATK / CRIT / AP are increased.&nAllies affected by <Frontier Leader> also gain 50% of this effect when they are in the <Submerged> state.",
+    "english": "Increases your base Cold Resistance to 80%.&nAt the start of the round, reduces damage taken.&nIf you are in the <Submerged> state at the start of the round, your ATK / CRIT / SPD are increased.&nAllies affected by <Frontier Leader> also gain 50% of this effect when they are in the <Submerged> state.",
     "korean": "자신의 기본 냉기 저항이 80%로 증가합니다.&n라운드 개시 시, 자신이 받는 피해가 감소합니다. &n라운드 개시 시 자신이 <침수> 상태인 경우, 공격력 / 치명타 / 행동력이 증가합니다.&n<프런티어 리더> 효과를 받는 아군도 <침수> 상태가 되면 해당 효과의 50%가 적용됩니다."
   },
   "SkillDesc_Skill_PECS_Triaina_N_5": {
@@ -764,7 +764,7 @@
     "korean": "전투 시작 시, 해제 불가의 AP 감소 효과 면역, 도발 효과 면역 효과가 영구히 적용됩니다. 공격 적중 시, 3라운드 동안 자신의 공격력과 방어 관통이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Triton_N_4": {
-    "english": "At the start of the round, a permanent AP increase is applied.&nIf the AP boost from <Output Surge> reaches 3 stacks or more, the <Output Limit Release> passive is activated.",
+    "english": "At the start of the round, a permanent SPD increase is applied.&nIf the SPD boost from <Output Surge> reaches 3 stacks or more, the <Output Limit Release> passive is activated.",
     "korean": "라운드 개시 시, 행동력 증가 효과가 영구히 적용됩니다. <출력 상승>의 행동력 증가 효과가 3중첩 이상일 경우, <출력 제한 해제> 패시브가 활성화됩니다."
   },
   "SkillDesc_Skill_PECS_Triton_N_5": {
@@ -772,7 +772,7 @@
     "korean": "라운드 개시 시 최대 행동 횟수가 1회 증가하고, <기관포 사격> 스킬 사용 시 대상에게 <초토화> 스킬 협동 공격을 합니다."
   },
   "SkillDesc_Skill_PECS_Veronica_N_5": {
-    "english": "At the start of battle, a non-removable Battle Continuation effect is applied at a certain HP%.&nIf there are other <Kohei> units in the squad excluding yourself, an additional Battle Continuation effect is applied.&nWhen Battle Continuation activates, non-removable ATK / AP increases are applied.&nAt the start of the round, CRIT and Range are increased.",
+    "english": "At the start of battle, a non-removable Battle Continuation effect is applied at a certain HP%.&nIf there are other <Kohei> units in the squad excluding yourself, an additional Battle Continuation effect is applied.&nWhen Battle Continuation activates, non-removable ATK / SPD increases are applied.&nAt the start of the round, CRIT and Range are increased.",
     "korean": "전투 개시 시, 일정 HP %로 해제 불가한 전투 속행 효과가 적용됩니다. 스쿼드 내 자신을 제외한 <코헤이> 소속 전투원이 있는 경우 전투 속행 효과가 추가로 적용됩니다. 전투 속행 발동 시, 해제 불가능한 공격력 / 행동력 증가 효과가 적용됩니다. 라운드 개시 시, 치명타와 사거리가 증가합니다."
   },
   "SkillDesc_Skill_Passive_Tast_N_1": {
@@ -1044,7 +1044,7 @@
     "korean": "확장 패시브 테스트입니다. 해당 내용 : 방한성 비율(%) 증감"
   },
   "SkillDesc_Skill_ST_Mercury_N_1": {
-    "english": "Fires MAVs at enemies in a designated area, dealing {0} damage and removing the target’s EVA buffs regardless of hit. Ignores Protect.&nOn hit, reduces the target’s ACU / EVA for 2 rounds, and if the target is under the <Taking down a peg> effect, also removes damage reduction effects.&nIf <X-02 Ur> is in the squad, triggers a <Full-Area Barrage> or <Reflect Shot> Coordinated Attack.&nMercury, who strictly limits MAV usage, does not counterattack under any circumstances.",
+    "english": "Fires MAVs at enemies in a designated area, dealing {0} damage and removing the target’s EVA buffs regardless of hit. Ignores Protect.&nOn hit, reduces the target’s ACU / EVA for 2 rounds, and if the target is under the <Taking down a peg> effect, also removes damage reduction effects.&nIf <X-02 Ullr> is in the squad, triggers a <Full-Area Barrage> or <Reflect Shot> Coordinated Attack.&nMercury, who strictly limits MAV usage, does not counterattack under any circumstances.",
     "korean": "지정 범위의 적에게 MAV를 사출하여 {0} 보호 무시 피해를 주고, 적중 여부와 관계없이 대상의 이로운 회피 증가 효과를 해제합니다.&n적중 시, 2라운드 동안 대상의 적중 / 회피를 감소시키고, 대상이 <콧대 꺾기> 효과가 적용중인 경우 추가로 받는 피해 감소 효과를 해제합니다.&n스쿼드 내에 <X-02 우르>가 있는 경우, <전방위 사격> 또는 <리플렉트 샷> 협동 공격을 유도합니다.&nMAV 사출량을 엄격하게 제한하는 머큐리는 어떠한 상황에서도 반격을 하지 않습니다."
   },
   "SkillDesc_Skill_ST_Mercury_N_2": {
@@ -1052,7 +1052,7 @@
     "korean": "모든 아군에게 MAV를 사출하여 대상의 AP를 증가시키고 해로운 효과를 해제합니다.&n또한 대상에게 2라운드 동안 방어 관통 / 회피 비례 스킬 위력 증가 효과를 부여합니다.&n대상이 자신을 제외한 <스트라이커즈> 부대원의 패시브 스킬 효과를 받는 상태인 경우, 각 효과가 50% 증가합니다."
   },
   "SkillDesc_Skill_ST_Mercury_N_3": {
-    "english": "At the start of battle, gains unremovable EVA / AP buff for 1 hit.&n<Recon> allows previewing the next enemy wave. If in <Recon> state at the start of the round, greatly increases own EVA.&nAt the start of the round, grants allies in <Recon> immunity to EVA debuffs.&nWhen attacked, if in Counterattack state, removes own Counterattack effect.",
+    "english": "At the start of battle, gains unremovable EVA / SPD buff for 1 hit.&n<Recon> allows previewing the next enemy wave. If in <Recon> state at the start of the round, greatly increases own EVA.&nAt the start of the round, grants allies in <Recon> immunity to EVA debuffs.&nWhen attacked, if in Counterattack state, removes own Counterattack effect.",
     "korean": "전투 개시 시, 자신이 최초로 공격 받기 전까지 해제 불가의 회피 / 행동력 증가 효과를 획득합니다.&n<정찰>로 다음에 출현할 적을 확인할 수 있습니다. <정찰> 상태로 라운드 개시 시, 자신의 회피가 크게 증가합니다.&n라운드 개시 시, <정찰> 상태인 아군에게 해로운 회피 감소 면역 효과를 부여합니다.&n공격 받을 시, 자신이 반격 상태인 경우 자신에게 적용된 반격 효과를 해제합니다."
   },
   "SkillDesc_Skill_ST_Mercury_N_4": {
@@ -1060,7 +1060,7 @@
     "korean": "라운드 개시 시, 스쿼드 내 공격기 수에 비례하여 아군 전체에게 공격력 / 치명타 증가 효과를 부여합니다.&n라운드 개시 시, 스쿼드 내 <스트라이커즈> 부대원의 역할군에 따라 다음 효과를 아군 전체에게 부여합니다.&n공격기 : 스킬 위력 증가 / 보호기 : 효과 저항 증가 / 지원기 : 적중 증가"
   },
   "SkillDesc_Skill_ST_Mercury_N_5": {
-    "english": "At the start of battle, permanently reduces the AP of enemies with higher ATK than self.&nAt the start of the round, reduces AP and grants Increase Damage Taken debuff to enemies with ATK / CRIT / ACU / Skill Power increase or decrease effects.&nThese effects are not affected by Effect Resistance but can be removed by debuff removal.",
+    "english": "At the start of battle, permanently reduces the SPD of enemies with higher ATK than self.&nAt the start of the round, reduces AP and grants Increase Damage Taken debuff to enemies with ATK / CRIT / ACU / Skill Power increase or decrease effects.&nThese effects are not affected by Effect Resistance but can be removed by debuff removal.",
     "korean": "전투 개시 시, 자신보다 공격력이 높은 적의 행동력을 영구적으로 감소시킵니다.&n라운드 개시 시, 공격력 / 치명타 / 적중 / 스킬 위력 증감 효과가 적용된 적의 AP를 감소시키고 받는 피해 증가 효과를 부여합니다.&n각 효과들은 효과 저항의 영향을 받지는 않지만, 해로운 효과 해제로는 해제 가능합니다."
   },
   "SkillDesc_Skill_ST_Tiamat_N_1": {
@@ -1072,15 +1072,15 @@
     "korean": "대상에게 {0} 피해를 줍니다. 대상의 방어막 / 피해 감소 효과를 무시하며, 대상이 중장형이거나 치명타 시 피해량이 증가합니다. 스킬 사용 시, 자신의 공격력에 비례한 고정 피해를 입으며, 자신의 현재 HP가 낮을수록 피해량이 증가합니다."
   },
   "SkillDesc_Skill_ST_Tiamat_N_3": {
-    "english": "At the start of the round, analyzes the actions of enemies with lower AP than yourself, reducing their ACU and EVA. You gain increased EVA and counterattack when attacked in this state. &nYour ATK increases up to 3 times when attacking enemies.",
+    "english": "At the start of the round, analyzes the actions of enemies with lower SPD than yourself, reducing their ACU and EVA. You gain increased EVA and counterattack when attacked in this state. &nYour ATK increases up to 3 times when attacking enemies.",
     "korean": "라운드 개시 시, 자신보다 행동력이 낮은 적의 행동을 간파해 적중과 회피를 감소시킵니다. 자신은 회피가 증가하며, 해당 상태에서 공격받으면 반격합니다. 적을 공격하면 공격력이 최대 3회까지 증가합니다."
   },
   "SkillDesc_Skill_ST_Tiamat_N_4": {
-    "english": "Increases CRIT / ACU / AP of Air-Type allies within range.&nIf you are in the front row, this effect also applies to Light-type and Heavy-type allies.",
+    "english": "Increases CRIT / ACU / SPD of Air-Type allies within range.&nIf you are in the front row, this effect also applies to Light-type and Heavy-type allies.",
     "korean": "범위 내 기동형 아군들의 치명타 / 적중 / 행동력이 증가합니다. 자신이 전열이면 경장형 / 중장형 아군에게도 적용됩니다."
   },
   "SkillDesc_Skill_ST_Tiamat_N_5": {
-    "english": "Increases your DEF Penetration and allows you to scout the next appearing enemy.&nAt the start of the round with Recon Activation status, increases DEF Penetration / EVA / ACU / AP.",
+    "english": "Increases your DEF Penetration and allows you to scout the next appearing enemy.&nAt the start of the round with Recon Activation status, increases DEF Penetration / EVA / ACU / SPD.",
     "korean": "자신의 방어 관통이 증가하며, 정찰로 다음에 출현할 적을 확인할 수 있습니다. 정찰 활성화 상태로 라운드 개시 시, 방어 관통 / 회피 / 적중 / 행동력이 증가합니다."
   },
   "SkillDesc_Skill_ST_Ullr_CH_1": {
@@ -1108,7 +1108,7 @@
     "korean": "라운드 개시 시, 인접한 아군 수에 비례하여 공격력 / 치명타 / 방어 관통이 증가합니다. 인접한 아군이 없을 경우, AP가 증가하지만 해제 및 저항 불가의 적중 증가 효과 해제 / 적중 감소 효과가 적용됩니다. 인접한 아군이 <스트라이커즈> 부대원 또는 <X-계열 시험기> 전투원인 경우, 해당 라운드에 첫 행동하는 전투원의 공격을 1회 지원합니다."
   },
   "SkillDesc_Skill_ST_Ullr_N_4": {
-    "english": "At the start of the round, if positioned in the front or middle row, enters <Close-Range Response Mode>, increasing AP and gaining Shield / Damage Reduction Ignoring effects.&nIf positioned in the back row at the start of the round, switches to <Long-Range Sniper Mode>.",
+    "english": "At the start of the round, if positioned in the front or middle row, enters <Close-Range Response Mode>, increasing SPD and gaining Shield / Damage Reduction Ignoring effects.&nIf positioned in the back row at the start of the round, switches to <Long-Range Sniper Mode>.",
     "korean": "라운드 개시 시, 전열 또는 중열인 경우 <근거리 대응 모드>가 되어 행동력이 증가하고 방어막 / 피해 감소 무시 효과를 얻습니다. 후열에서 라운드 개시 시, <장거리 저격 모드>로 변환됩니다."
   },
   "SkillDesc_Skill_ST_Ullr_N_5": {

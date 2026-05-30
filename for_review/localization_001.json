@@ -40,7 +40,7 @@
     "korean": "준비만전 : 전투 개시 시 AP 증가"
   },
   "1000100011": {
-    "english": "Herding Prey: On attack, increases ally ATK / ACU / AP",
+    "english": "Herding Prey: On attack, increases ally ATK / ACU / SPD",
     "korean": "사냥감 몰이 : 공격 시, 아군 공격력 / 적중 / 행동력 증가"
   },
   "1000100012": {
@@ -68,7 +68,7 @@
     "korean": "적 공격력 감소 오오라"
   },
   "1000100018": {
-    "english": "Electric Shock: Reduces AP and EVA",
+    "english": "Electric Shock: Reduces SPD and EVA",
     "korean": "감전 : 행동력 / 회피 감소"
   },
   "1000100019": {
@@ -96,7 +96,7 @@
     "korean": "장갑 무효화 : 방어력 대폭 감소 / 피해 감소 무효"
   },
   "1000100025": {
-    "english": "Stagger: Reduces AP",
+    "english": "Stagger: Reduces SPD",
     "korean": "경직 : 행동력 감소 효과"
   },
   "1000100026": {
@@ -156,7 +156,7 @@
     "korean": "정화의 빛! : 적중 / AP 감소"
   },
   "1000100040": {
-    "english": "Shame is Ours to Bear: Increases ATK, EVA, and AP of adjacent Bioroids",
+    "english": "Shame is Ours to Bear: Increases ATK, EVA, and SPD of adjacent Bioroids",
     "korean": "부끄러움은 우리 몫 : 인접 바이오로이드 공격력 / 회피 / 행동력 증가"
   },
   "1000100041": {
@@ -216,7 +216,7 @@
     "korean": "고압 가스 : 공격력 / 방어력 감소"
   },
   "1000100055": {
-    "english": "Shockwave Missile: Pushes back target and reduces AP",
+    "english": "Shockwave Missile: Pushes back target and reduces SPD",
     "korean": "충격파 미사일 : 뒤로 밀기 / 행동력 감소"
   },
   "1000100056": {
@@ -232,11 +232,11 @@
     "korean": "유폭 : 주변에 물리 피해 / 특수 방어 무효화"
   },
   "1000100059": {
-    "english": "Shock Missile: Reduces AP",
+    "english": "Shock Missile: Reduces SPD",
     "korean": "충격 미사일 : 행동력 감소"
   },
   "1000100060": {
-    "english": "Recon Report: Increases AP and range",
+    "english": "Recon Report: Increases SPD and range",
     "korean": "색적 보고 : 행동력 / 사거리 증가"
   },
   "1000100061": {
@@ -256,7 +256,7 @@
     "korean": "듀얼 칙 캐논 : 피해 감소 효과 해제"
   },
   "1000100065": {
-    "english": "Strike Down: Pushes back target and reduces AP",
+    "english": "Strike Down: Pushes back target and reduces SPD",
     "korean": "후려치기 : 뒤로 밀기 / 행동력 감소 효과"
   },
   "1000100066": {
@@ -264,7 +264,7 @@
     "korean": "부식 용액 : 방어력 감소 효과"
   },
   "1000100067": {
-    "english": "Survival Instinct: Increases AP, ACU, and DEF",
+    "english": "Survival Instinct: Increases SPD, ACC, and DEF",
     "korean": "생존 본능 : 행동력 / 적중 / 방어 능력 증가"
   },
   "1000100068": {
@@ -272,11 +272,11 @@
     "korean": "바벨 강타 : 벌크업 시 추가 피해"
   },
   "1000100069": {
-    "english": "Sprint: Ignores protection damage, when Bulk Up stacks reach a certain number, reduces enemy AP, deals additional physical damage, inflicts inability to act",
+    "english": "Sprint: Ignores protection damage, when Bulk Up stacks reach a certain number, reduces enemy SPD, deals additional physical damage, inflicts inability to act",
     "korean": "스프린트 : 보호 무시 피해, 특정 수 이상 벌크업 시 적 행동력 감소 / 추가 물리 피해 / 행동 불능"
   },
   "1000100070": {
-    "english": "Bulk Up: Increases AP and ATK, applies Bulk Up buff, stacks up to 5 times",
+    "english": "Bulk Up: Increases SPD and ATK, applies Bulk Up buff, stacks up to 5 times",
     "korean": "벌크 업 : 행동력/ 공격력 증가, 벌크업 버프, 최대 5중첩"
   },
   "1000100071": {
@@ -284,7 +284,7 @@
     "korean": "연쇄 폭파 : 적 처치 시, 고정 피해"
   },
   "1000100072": {
-    "english": "Corrosion: Deals damage each round, reduces DEF and AP",
+    "english": "Corrosion: Deals damage each round, reduces DEF and SPD",
     "korean": "부식 : 매 라운드 지속 피해 / 방어력 / 행동력 감소"
   },
   "1000100073": {
@@ -304,11 +304,11 @@
     "korean": "대공 사격 : 기동형에게 추가 피해"
   },
   "1000100077": {
-    "english": "Sticky Bomb: Immobilizes, reduces EVA and AP",
+    "english": "Sticky Bomb: Immobilizes, reduces EVA and SPD",
     "korean": "점착탄 : 이동 불가 / 회피 / 행동력 감소"
   },
   "1000100078": {
-    "english": "Alert Stance: Reduces AP, supports attacks",
+    "english": "Alert Stance: Reduces SPD, supports attacks",
     "korean": "경계 태세 : 행동력 감소 / 공격 지원"
   },
   "1000100079": {
@@ -348,7 +348,7 @@
     "korean": "위협 감지 : 피격 시, 회피 증가 / 공격력 감소"
   },
   "1000100088": {
-    "english": "Frenzy: On enemy kill, increases AP and CRIT, negates AP reduction",
+    "english": "Frenzy: On enemy kill, increases SPD and CRIT, negates SPD reduction",
     "korean": "광란 : 적 처치 시, 행동력 / 치명타 증가 / 행동력 감소 무효"
   },
   "1000100089": {
@@ -372,7 +372,7 @@
     "korean": "분쇄 강타 : 피해 감소 해제"
   },
   "1000100094": {
-    "english": "Work Anchor: Pull / Action Point Reduction / Immobile",
+    "english": "Work Anchor: Pull / SPD Reduction / Immobile",
     "korean": "작업용 앵커 : 당겨오기 / 행동력 감소 / 이동 불가"
   },
   "1000100095": {
@@ -388,7 +388,7 @@
     "korean": "설치 : 래빗 D 필드 소환"
   },
   "1000100098": {
-    "english": "Mechanical Engineering: Increases ally robot ATK, DEF, and AP",
+    "english": "Mechanical Engineering: Increases ally robot ATK, DEF, and SPD",
     "korean": "기계 공학 : 아군 로봇 공격력 / 방어력 / 행동력 증가"
   },
   "1000100099": {
@@ -424,7 +424,7 @@
     "korean": "편대 호위 : 인접 기동형 적중 / 회피 / AP 증가"
   },
   "1000100107": {
-    "english": "Slug Round: ATK Power / Action Point Reduction / Chance to Incapacitate",
+    "english": "Slug Round: ATK Power / SPD Reduction / Chance to Incapacitate",
     "korean": "슬러그 탄 : 공격력 / 행동력 감소 / 일정 확률 행동 불가"
   },
   "1000100108": {
@@ -508,11 +508,11 @@
     "korean": "약점 표시 : 표식 / 받는 피해 증가 / 회피 감소"
   },
   "1000100128": {
-    "english": "Flashbang: Reduces ACU and AP",
+    "english": "Flashbang: Reduces ACU and SPD",
     "korean": "섬광탄 : 적중 / 행동력 감소"
   },
   "1000100129": {
-    "english": "Radar Sharing: Increases adjacent ally range, ACU, and AP",
+    "english": "Radar Sharing: Increases adjacent ally range, ACU, and SPD",
     "korean": "레이더 공유 : 인접 아군 사거리 / 적중 / 행동력 증가"
   },
   "1000100130": {
@@ -520,7 +520,7 @@
     "korean": "실드 돌격 : 행 보호 해제"
   },
   "1000100131": {
-    "english": "Protective Maneuver: Protects designated target, increases AP",
+    "english": "Protective Maneuver: Protects designated target, increases SPD",
     "korean": "보호 기동 : 지정 대상 보호 / 행동력 증가"
   },
   "1000100132": {
@@ -600,7 +600,7 @@
     "korean": "강선형 박격포 : 공격력 / 적중 / 방어 관통 증가"
   },
   "1000100151": {
-    "english": "Massive Explosion: Pushes back, reduces AP",
+    "english": "Massive Explosion: Pushes back, reduces SPD",
     "korean": "대폭발 : 뒤로 밀기, 행동력 감소"
   },
   "1000100152": {
@@ -772,11 +772,11 @@
     "korean": "편대 지휘관 : 기동형 아군 공격력 / 치명타 증가"
   },
   "1000100194": {
-    "english": "Fireworks Maniac: Increases ATK and AP each time an enemy is defeated",
+    "english": "Fireworks Maniac: Increases ATK and SPD each time an enemy is defeated",
     "korean": "불꽃놀이광 : 적이 처치될 때마다 공격력 / 행동력 증가"
   },
   "1000100195": {
-    "english": "Recruit a Comrade?!: If HP is below certain percentage, increases AP and AP of allies within explosion range",
+    "english": "Recruit a Comrade?!: If HP is below certain percentage, increases SPD and AP of allies within explosion range",
     "korean": "길동무 모집?! : HP% 일정 이하 시 유폭 범위 내 아군 행동력 / AP 증가"
   },
   "1000100196": {
@@ -804,7 +804,7 @@
     "korean": "레이더 드론 : 회피 / 적중 / 사거리 증가"
   },
   "1000100202": {
-    "english": "Extreme Discomfort: Increases ATK, CRIT, and AP",
+    "english": "Extreme Discomfort: Increases ATK, CRIT, and SPD",
     "korean": "극도의 불편함 : 공격력 / 치명타 / 행동력 증가"
   },
   "1000100203": {
@@ -824,7 +824,7 @@
     "korean": "급속 충전 : 공격 지원 / 지정 보호 상태로 공격 시, AP 증가"
   },
   "1000100207": {
-    "english": "Limiter Release: Increases ATK, AP, and EVA, deals fixed damage when attacking",
+    "english": "Limiter Release: Increases ATK, SPD, and EVA, deals fixed damage when attacking",
     "korean": "리미터 해제 : 공격력 / 행동력 / 회피 증가 / 공격 시, 고정 피해"
   },
   "1000100208": {
@@ -888,7 +888,7 @@
     "korean": "빙결 : 행동 불능 (피격 시 해제) / 받는 피해 증가"
   },
   "1000100223": {
-    "english": "Emergency Rescue: Protects light/heavy-type allies within range, increases AP",
+    "english": "Emergency Rescue: Protects light/heavy-type allies within range, increases SPD",
     "korean": "긴급 구조 : 범위내 경장/중장형 아군 보호, 행동력 증가"
   },
   "1000100224": {
@@ -956,11 +956,11 @@
     "korean": "감전 : AP / 회피 감소"
   },
   "1000100240": {
-    "english": "Charge Concentration: Increases ATK, CRIT, and AP",
+    "english": "Charge Concentration: Increases ATK, CRIT, and SPD",
     "korean": "전하 집속 : 공격력 / 치명타 / 행동력 증가"
   },
   "1000100241": {
-    "english": "Electrical Field Stimulation: Increases electric resistance, EVA, and AP",
+    "english": "Electrical Field Stimulation: Increases electric resistance, EVA, and SPD",
     "korean": "전기장 자극 : 전기 저항 / 회피 / 행동력 증가"
   },
   "1000100242": {
@@ -1036,7 +1036,7 @@
     "korean": "기폭 폭발 : 기폭 시 범위 폭발"
   },
   "1000100260": {
-    "english": "Charge Release: Increases ATK, CRIT, and AP",
+    "english": "Charge Release: Increases ATK, CRIT, and SPD",
     "korean": "전하 방출 : 공격력 / 치명타 / 행동력 증가"
   },
   "1000100261": {
@@ -1056,7 +1056,7 @@
     "korean": "대응 저격 : 위장 상태인 경우 반격"
   },
   "1000100265": {
-    "english": "Evasive Maneuver: When ally dies, increases EVA, reduces ACU and AP",
+    "english": "Evasive Maneuver: When ally dies, increases EVA, reduces ACU and SPD",
     "korean": "회피 기동 : 아군 사망 시, 회피 증가 / 적중, 행동력 감소"
   },
   "1000100266": {
@@ -1076,7 +1076,7 @@
     "korean": "명령 프로토콜 : 피격 시 주변 아군 AP 증가"
   },
   "1000100270": {
-    "english": "Alert: When ally dies, increases EVA and AP",
+    "english": "Alert: When ally dies, increases EVA and SPD",
     "korean": "경계 : 아군 사망 시, 회피 / 행동력 증가"
   },
   "1000100271": {
@@ -1136,7 +1136,7 @@
     "korean": "점착탄 : 회피 감소 / 이동 불가 / 받는 피해 증가"
   },
   "1000100285": {
-    "english": "Field Supply: Increases AP, grants additional effects based on role",
+    "english": "Field Supply: Increases SPD, grants additional effects based on role",
     "korean": "현장 보급 : 행동력 증가 / 역할군에 따른 추가 효과"
   },
   "1000100286": {
@@ -1160,7 +1160,7 @@
     "korean": "파쇄 돌격 : 이동 불가 / 표식 대상에게 피해 증가"
   },
   "1000100291": {
-    "english": "Confusion: Reduces ACU, CRIT, and AP",
+    "english": "Confusion: Reduces ACU, CRIT, and SPD",
     "korean": "혼란 : 적중 / 치명타 / 행동력 감소"
   },
   "1000100292": {
@@ -1216,7 +1216,7 @@
     "korean": "잔해 투척 : AP 감소 / 잔해 수집 수에 따라 강화 해제"
   },
   "1000100305": {
-    "english": "Wreckage Attachment: Increases DEF, immobilizes, reduces EVA, AP, and range",
+    "english": "Wreckage Attachment: Increases DEF, immobilizes, reduces EVA, SPD, and range",
     "korean": "잔해 부착 : 방어력 증가 / 이동 불가 / 회피 / 행동력 / 사거리 감소"
   },
   "1000100306": {
@@ -1244,7 +1244,7 @@
     "korean": "택배가 섞였나? : AP / 공격력 / 치명타 / 적중 증가"
   },
   "1000100312": {
-    "english": "Workaholic: Increases AP, reduces damage taken",
+    "english": "Workaholic: Increases SPD, reduces damage taken",
     "korean": "워커 홀릭 : 행동력 증가 / 받는 피해 감소"
   },
   "1000100313": {
@@ -1280,7 +1280,7 @@
     "korean": "로켓 배쉬 : 일정 확률로 행동 불가"
   },
   "1000100321": {
-    "english": "Shield Charge: Pushes back, removes row and column protection, reduces ATK and AP",
+    "english": "Shield Charge: Pushes back, removes row and column protection, reduces ATK and SPD",
     "korean": "실드 차지 : 뒤로 밀기 / 행, 열 보호 해제 / 공격력 / 행동력 감소"
   },
   "1000100322": {
@@ -1296,11 +1296,11 @@
     "korean": "리볼버 캐논 : 도발 / 표식 / 이동 불가 대상 피해량 증가"
   },
   "1000100325": {
-    "english": "Repaying Kindness: Increases AP and AP of ally being protected",
+    "english": "Repaying Kindness: Increases SPD and AP of ally being protected",
     "korean": "은혜 갚기 : 자신의 보호를 받는 아군 AP / 행동력 증가"
   },
   "1000100326": {
-    "english": "Guard Mode!: Protects ally, counters when using skill, increases AP",
+    "english": "Guard Mode!: Protects ally, counters when using skill, increases SPD",
     "korean": "경비 모드! : 아군 보호 / 스킬 사용 시 반격 / 행동력 증가"
   },
   "1000100327": {
@@ -1324,7 +1324,7 @@
     "korean": "정체 불명의 발명품 : 자신의 강화 효과에 따라 아군 강화"
   },
   "1000100332": {
-    "english": "Power Deployment!!: When waiting, increases ATK, AP, and CRIT",
+    "english": "Power Deployment!!: When waiting, increases ATK, SPD, and CRIT",
     "korean": "출력 전개!! : 대기 시, 공격력 / 행동력 / 치명타 증가"
   },
   "1000100333": {
@@ -1436,7 +1436,7 @@
     "korean": "정조준 : 적중 / 사거리 / 치명타 증가"
   },
   "1000100360": {
-    "english": "Mobile Fire: While moving, increases range, ATK, ACU, and AP",
+    "english": "Mobile Fire: While moving, increases range, ATK, ACU, and SPD",
     "korean": "기동 사격 : 이동 시 사거리 / 공격력 / 적중 / 행동력 증가"
   },
   "1000100361": {
@@ -1464,7 +1464,7 @@
     "korean": "강타 : 이동 불가 대상 행동 불가 / 피해량 증가"
   },
   "1000100367": {
-    "english": "Scrap Collection: Pulls target, reduces AP, immobilizes",
+    "english": "Scrap Collection: Pulls target, reduces SPD, immobilizes",
     "korean": "폐기물 수거 : 당겨오기 / 행동력 감소 / 이동 불가"
   },
   "1000100368": {
@@ -1508,7 +1508,7 @@
     "korean": "대 장갑 미사일 : 방어 관통 / 방어 감소 추가 피해"
   },
   "1000100378": {
-    "english": "Airstrike Prep: Increases EVA, CRIT, and AP",
+    "english": "Airstrike Prep: Increases EVA, CRIT, and SPD",
     "korean": "공습 준비 : 회피 / 치명타 / 행동력 증가"
   },
   "1000100379": {
@@ -1536,7 +1536,7 @@
     "korean": "역습 태세 : 공격력 / 치명타 증가 / 반격 활성화"
   },
   "1000100385": {
-    "english": "Unit Regrouping: Increases adjacent allies’ AP and ACU",
+    "english": "Unit Regrouping: Increases adjacent allies' SPD and ACU",
     "korean": "부대 재정비 : 인접 아군 행동력 / 적중 증가"
   },
   "1000100386": {
@@ -1552,7 +1552,7 @@
     "korean": "자폭 돌진 : 자폭 공격"
   },
   "1000100389": {
-    "english": "High-Speed Maneuver: Increases EVA, reduces ACU and AP",
+    "english": "High-Speed Maneuver: Increases EVA, reduces ACU and SPD",
     "korean": "고속 기동 : 회피 증가 / 적중 / 행동력 감소"
   },
   "1000100390": {
@@ -1560,7 +1560,7 @@
     "korean": "실드 돌진 : 행 / 열 보호 / 피해 감소 해제"
   },
   "1000100391": {
-    "english": "Escort Maneuver: Protects designated target, increases AP",
+    "english": "Escort Maneuver: Protects designated target, increases SPD",
     "korean": "호위 기동 : 지정 대상 보호 / 행동력 증가"
   },
   "1000100392": {
@@ -1584,7 +1584,7 @@
     "korean": "특수 방어막 전개 : 행 보호"
   },
   "1000100397": {
-    "english": "Escort Target: Supports allied defense, increases AP",
+    "english": "Escort Target: Supports allied defense, increases SPD",
     "korean": "목표 호위 : 아군 지원 방어 / 행동력 증가"
   },
   "1000100398": {
@@ -1596,7 +1596,7 @@
     "korean": "장갑 무효화 : 방어력 감소 / 특수 방어 무효"
   },
   "1000100400": {
-    "english": "Warm-Up Initiated: Increases ATK, AP, and EVA when moving",
+    "english": "Warm-Up Initiated: Increases ATK, SPD, and EVA when moving",
     "korean": "예열 개시 : 이동 시 공격력 / 행동력 / 회피 증가"
   },
   "1000100401": {
@@ -1604,7 +1604,7 @@
     "korean": "목표 경보 : 표식 설정 / 받는 피해 증가 / 회피 감소"
   },
   "1000100402": {
-    "english": "Support Initiated: Supports attack, increases AP",
+    "english": "Support Initiated: Supports attack, increases SPD",
     "korean": "지원 개시 : 공격 지원 / 행동력 증가"
   },
   "1000100403": {
@@ -1640,7 +1640,7 @@
     "korean": "시스템 정지 : 활동 정지"
   },
   "1000100411": {
-    "english": "Hacking: Reduces ATK and AP",
+    "english": "Hacking: Reduces ATK and SPD",
     "korean": "해킹 : 공격력 / 행동력 감소"
   },
   "1000100412": {
@@ -1692,7 +1692,7 @@
     "korean": "약점 공격 : 방어 감소 대상에게 추가 피해"
   },
   "1000100424": {
-    "english": "Mobility Prep: Reduces AP, increases damage taken",
+    "english": "Mobility Prep: Reduces SPD, increases damage taken",
     "korean": "기동 준비 : 행동력 감소 / 받는 피해 증가"
   },
   "1000100425": {
@@ -1704,7 +1704,7 @@
     "korean": "기회 포착 : 회피 시 반격"
   },
   "1000100427": {
-    "english": "Guard Mode!: Enables counterattack and increases AP (self)",
+    "english": "Guard Mode!: Enables counterattack and increases SPD (self)",
     "korean": "경비 모드! : 반격 / 행동력 증가 (자신)"
   },
   "1000100428": {
@@ -1712,7 +1712,7 @@
     "korean": "플라즈마 광탄 : 감전 상태면 행동 불능"
   },
   "1000100429": {
-    "english": "Shock: Chance to reduce AP",
+    "english": "Shock: Chance to reduce SPD",
     "korean": "감전 : 일정 확률로 행동력 감소"
   },
   "1000100430": {
@@ -2120,83 +2120,83 @@
     "korean": "강습형 전투 OS : 공격력 증가 / 사거리 감소 Lv.20"
   },
   "1000100531": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.1",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.1",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.1"
   },
   "1000100532": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.2",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.2",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.2"
   },
   "1000100533": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.3",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.3",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.3"
   },
   "1000100534": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.4",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.4",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.4"
   },
   "1000100535": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.5",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.5",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.5"
   },
   "1000100536": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.6",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.6",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.6"
   },
   "1000100537": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.7",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.7",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.7"
   },
   "1000100538": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.8",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.8",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.8"
   },
   "1000100539": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.9",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.9",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.9"
   },
   "1000100540": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.10",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.10",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.10"
   },
   "1000100541": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.11",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.11",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.11"
   },
   "1000100542": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.12",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.12",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.12"
   },
   "1000100543": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.13",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.13",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.13"
   },
   "1000100544": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.14",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.14",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.14"
   },
   "1000100545": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.15",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.15",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.15"
   },
   "1000100546": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.16",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.16",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.16"
   },
   "1000100547": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.17",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.17",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.17"
   },
   "1000100548": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.18",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.18",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.18"
   },
   "1000100549": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.19",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.19",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.19"
   },
   "1000100550": {
-    "english": "Precision Combat OS: ATK / ACU Increase / AP Decrease / ACU Debuff Removal Lv.20",
+    "english": "Precision Combat OS: ATK / ACU Increase / SPD Decrease / ACU Debuff Removal Lv.20",
     "korean": "정밀형 전투 OS : 공격력 / 적중 증가 / 행동력 감소 / 적중 감소 해제 Lv.20"
   },
   "1000100551": {
@@ -3088,83 +3088,83 @@
     "korean": "정찰 드론 : 다음 적 정보 획득"
   },
   "1000100773": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.1",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.1",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.1"
   },
   "1000100774": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.2",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.2",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.2"
   },
   "1000100775": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.3",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.3",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.3"
   },
   "1000100776": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.4",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.4",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.4"
   },
   "1000100777": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.5",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.5",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.5"
   },
   "1000100778": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.6",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.6",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.6"
   },
   "1000100779": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.7",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.7",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.7"
   },
   "1000100780": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.8",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.8",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.8"
   },
   "1000100781": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.9",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.9",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.9"
   },
   "1000100782": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.10",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.10",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.10"
   },
   "1000100783": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.11",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.11",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.11"
   },
   "1000100784": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.12",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.12",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.12"
   },
   "1000100785": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.13",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.13",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.13"
   },
   "1000100786": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.14",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.14",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.14"
   },
   "1000100787": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.15",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.15",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.15"
   },
   "1000100788": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.16",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.16",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.16"
   },
   "1000100789": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.17",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.17",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.17"
   },
   "1000100790": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.18",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.18",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.18"
   },
   "1000100791": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.19",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.19",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.19"
   },
   "1000100792": {
-    "english": "Combat Stimulant: AP increased / battle continuation Lv.20",
+    "english": "Combat Stimulant: SPD increased / battle continuation Lv.20",
     "korean": "전투 자극제 : 행동력 증가 / 전투 속행 Lv.20"
   },
   "1000100793": {
@@ -3296,7 +3296,7 @@
     "korean": "방어 지휘 (공격) : 공격력 / 적중 / 행동력 증가"
   },
   "1000100825": {
-    "english": "Uncontrollable Instinct: Immune to Taunt / Stun / AP Reduction",
+    "english": "Uncontrollable Instinct: Immune to Taunt / Stun / SPD Reduction",
     "korean": "멈출 수 없는 본능 : 도발 / 행동 불능 / 행동력 감소 무효"
   },
   "1000100826": {
@@ -3484,7 +3484,7 @@
     "korean": "제네레이터 파괴 : 모든 강화 효과 해제"
   },
   "1000100872": {
-    "english": "Masochistic Tendency: Gain AP & take less damage when hit",
+    "english": "Masochistic Tendency: Gain SPD & take less damage when hit",
     "korean": "피학성향 : 피격 시, 행동력 증가 / 받는 피해 감소"
   },
   "1000100873": {
@@ -3588,7 +3588,7 @@
     "korean": "포격 난사 : 이동 불가 / 회피 감소 대상 추가 피해"
   },
   "1000100898": {
-    "english": "Aerial Bombardment Support: Supports attack on light/heavy units with lower AP or from <Steel Line> squad",
+    "english": "Aerial Bombardment Support: Supports attack on light/heavy units with lower SPD or from <Steel Line> squad",
     "korean": "공중 포격 지원 : <스틸라인> 부대원 또는 자신보다 행동력이 낮은 경장/중장 공격 지원"
   },
   "1000100899": {
@@ -3616,7 +3616,7 @@
     "korean": "우향선회 : 지정 대상 보호 / 적중 / 치명타 증가"
   },
   "1000100905": {
-    "english": "Arrogance and Rage: Increases ATK / CRIT / ACU / EVA / AP",
+    "english": "Arrogance and Rage: Increases ATK / CRIT / ACU / EVA / SPD",
     "korean": "오만과 분노 : 공격력 / 치명타 / 적중 / 회피 / 행동력 증가"
   },
   "1000100906": {
@@ -3856,7 +3856,7 @@
     "korean": "피학성향 : 효과 저항 증가"
   },
   "1000100965": {
-    "english": "Stalking: Protect Target / If Masochistic Tendencies active, increase target AP / decrease accuracy",
+    "english": "Stalking: Protect Target / If Masochistic Tendencies active, increase target SPD / decrease accuracy",
     "korean": "스토킹 : 대상 보호 / 가학 성향 상태면 대상 행동력 증가 / 적중 감소"
   },
   "1000100966": {
@@ -3884,11 +3884,11 @@
     "korean": "치어 업! : 공격력 / 방어력 / 적중 / 회피 증가"
   },
   "1000100972": {
-    "english": "LBRB Speaker: Right Button - ATK / CRIT Increase; Left Button - AP Increase",
+    "english": "LBRB Speaker: Right Button - ATK / CRIT Increase; Left Button - SPD Increase",
     "korean": "LBRB 스피커 : RB - 공격력/치명타 증가 : LB - 행동력/AP 증가"
   },
   "1000100973": {
-    "english": "Cheer Leader: Increases AP / Skill Effectiveness",
+    "english": "Cheer Leader: Increases SPD / Skill Effectiveness",
     "korean": "치어 리더 : 행동력 증가 / 스킬 효과 강화"
   },
   "1000100974": {
@@ -3896,7 +3896,7 @@
     "korean": "요인 경호 : 피해 무효 / 공격력 / 적중 증가"
   },
   "1000100975": {
-    "english": "LBRB Speaker: Right Button - Attack Power Boost; Left Button - AP / EVA Increase",
+    "english": "LBRB Speaker: Right Button - Attack Power Boost; Left Button - SPD / EVA Increase",
     "korean": "LBRB 스피커 : RB - 공격 능력 강화 / LB - 행동력 / 회피 증가"
   },
   "1000100976": {
@@ -3908,7 +3908,7 @@
     "korean": "운디네 최고-! : 추가 처치 시, 능력치 증가"
   },
   "1000100978": {
-    "english": "Arrogance and Rage: AP Increase",
+    "english": "Arrogance and Rage: SPD Increase",
     "korean": "오만과 분노 : 행동력 증가"
   },
   "1000100979": {
@@ -3928,7 +3928,7 @@
     "korean": "방어 대형 : 지정 대상 보호 / 방어력 / 화염 저항 증가 / 회피 증가 해제"
   },
   "1000100983": {
-    "english": "Vanguard: Protects Attackers/Supporters / Increases ATK / CRIT for self and attackers / Extra AP on kill",
+    "english": "Vanguard: Protects Attackers/Supporters / Increases ATK / CRIT for self and attackers / SPD on kill",
     "korean": "뱅가드 : 공격기/지원기 보호 /  자신 및 공격기 공격력 / 치명타 증가 / 처치 시 행동력까지 추가로 증가"
   },
   "1000100984": {
@@ -3960,7 +3960,7 @@
     "korean": "다중 포착 : 표식 / 피해 증폭 / 회피 강화 해제 / 회피 감소"
   },
   "1000100991": {
-    "english": "Line Maintenance: When an ally dies, increases AP / Accuracy / EVA of adjacent allies",
+    "english": "Line Maintenance: When an ally dies, increases SPD / Accuracy / EVA of adjacent allies",
     "korean": "대열 정비 : 아군 사망 시, 인접 아군 행동력 / 적중 / 회피 증가"
   },
   "1000100992": {

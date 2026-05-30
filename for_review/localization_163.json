@@ -932,7 +932,7 @@
     "korean": "두 기체의 [c][ffd130][전기 속성 저항][-][/c]의 차이로 인해 레이시 씨의 공격을 받았을 때,&n각각 입는 피해가 다른 것을 확인하셨을 겁니다."
   },
   "3100020402": {
-    "english": "The guard pub head with high [c][ffd130][Electric Resistance][-][/c] took low damage.",
+    "english": "The guard Pupp Head with high [c][ffd130][Electric Resistance][-][/c] took low damage.",
     "korean": "[c][ffd130][전기 속성 저항][-][/c]이 높은 경비용 펍 헤드가 [c][ffd130]낮은 피해를 받았죠.[-][/c]"
   },
   "3100020403": {
@@ -1296,19 +1296,19 @@
     "korean": "1라운드가 종료되고 2라운드가 진행되더라도 여전히 하르페이아는 행동하지만&n훈련용 기간테스는 행동을 하지 못 할 겁니다."
   },
   "3100050202": {
-    "english": "This phenomenon occurs due to the difference in [c][ffd130][Action Points][-][/c].",
+    "english": "This phenomenon occurs due to the difference in [c][ffd130][SPD][-][/c].",
     "korean": "이는 [c][ffd130][행동력][-][/c]의 차이 때문에 발생하는 현상입니다."
   },
   "3100050203": {
-    "english": "[c][ffd130][Action Points][-][/c] are the amount of [c][ffd130][AP][-][/c] that combatants or enemies gain each round.",
+    "english": "[c][ffd130][SPD][-][/c] are the amount of [c][ffd130][AP][-][/c] that combatants or enemies gain each round.",
     "korean": "[c][ffd130][행동력][-][/c]이란 매 라운드마다 전투원 혹은 적이 획득하는 [c][ffd130][AP][-][/c]양입니다."
   },
   "3100050204": {
-    "english": "If [c][ffd130][Action Points][-][/c] are high, you gain more [c][ffd130][AP][-][/c], allowing you to act in more rounds.&nThe order of actions also speeds up.",
+    "english": "If [c][ffd130][SPD][-][/c] are high, you gain more [c][ffd130][AP][-][/c], allowing you to act in more rounds.&nThe order of actions also speeds up.",
     "korean": "[c][ffd130][행동력][-][/c]이 높으면 획득하는 [c][ffd130][AP][-][/c]가 많기에 행동할 수 있는 라운드가 많아지고.&n행동 순서도 빨라지지요."
   },
   "3100050205": {
-    "english": "The reason I can act again this round is because of my [c][ffd130][AP][-][/c] and [c][ffd130][Action Points][-][/c].",
+    "english": "The reason I can act again this round is because of my [c][ffd130][AP][-][/c] and [c][ffd130][SPD][-][/c].",
     "korean": "내가 이번 라운드에서도 행동할 수 있는 이유는 내 [c][ffd130][AP][-][/c]와 [c][ffd130][행동력][-][/c] 덕분이야."
   },
   "3100050206": {
@@ -1316,7 +1316,7 @@
     "korean": "다음 라운드의 내 [c][ffd130][AP][-][/c]를 알기 위해서는 기본적으로 세 가지 변수를 알아야해."
   },
   "3100050207": {
-    "english": "Current round's [c][ffd130][AP][-][/c], [c][ffd130][AP][-][/c] spent this round. And [c][ffd130][Action Points][-][/c].",
+    "english": "Current round's [c][ffd130][AP][-][/c], [c][ffd130][AP][-][/c] spent this round. And [c][ffd130][AP][-][/c]. 그리고 [c][ffd130][SPD][-][/c].",
     "korean": "현재 라운드의 [c][ffd130][AP][-][/c], 현재 라운드에 소모한 [c][ffd130][AP][-][/c]. 그리고 [c][ffd130][행동력][-][/c]."
   },
   "3100050208": {
@@ -1324,7 +1324,7 @@
     "korean": "이것들을 알면 다음 라운드의 [c][ffd130][AP][-][/c]를 간단하게 계산할 수 있어."
   },
   "3100050209": {
-    "english": "([c][ffd130][Current Round's AP][-][/c] - [c][ffd130][AP Spent This Round][-][/c]) + [c][ffd130][Action Points][-][/c] = [c][ffd130][Next Round's AP][-][/c]",
+    "english": "([c][ffd130][Current Round's AP][-][/c] - [c][ffd130][AP Spent This Round][-][/c]) + [c][ffd130][SPD][-][/c] = [c][ffd130][Next Round's AP][-][/c]",
     "korean": "([c][ffd130][현재 라운드의 AP][-][/c] - [c][ffd130][현재 라운드에 소모한 AP][-][/c]) + [c][ffd130][행동력][-][/c] = [c][ffd130][다음 라운드의 AP][-][/c]"
   },
   "3100050210": {
@@ -1332,7 +1332,7 @@
     "korean": "이를 바탕으로 나의 경우에 대해서 알아보자."
   },
   "3100050211": {
-    "english": "My [c][ffd130][AP][-][/c] in the first round was [c][ffd130]14.1[-][/c]. My skill cost [c][ffd130][AP][-][/c] is [c][ffd130]8[-][/c]. And my [c][ffd130][Action Points][-][/c] are [c][ffd130]4.7[-][/c]",
+    "english": "My [c][ffd130][AP][-][/c] in the first round was [c][ffd130]14.1[-][/c]. My skill cost [c][ffd130][AP][-][/c] is [c][ffd130]8[-][/c]. And my [c][ffd130][SPD][-][/c] are [c][ffd130]4.7[-][/c]",
     "korean": "1라운드 때의 내 [c][ffd130][AP][-][/c]는 [c][ffd130]14.1[-][/c]. 내 스킬 소모 [c][ffd130][AP][-][/c]는 [c][ffd130]8[-][/c]. 그리고 내 [c][ffd130][행동력][-][/c]은 [c][ffd130]4.7[-][/c]"
   },
   "3100050212": {
@@ -1348,7 +1348,7 @@
     "korean": "에헴! [c][ffd130][AP][-][/c]가 [c][ffd130]10[-][/c]을 넘었기에 이번 라운드에서도 나는 행동할 수 있는거야."
   },
   "3100050215": {
-    "english": "On the other hand, the training Gigantes from the previous round had [c][ffd130][AP][-][/c] of [c][ffd130]3[-][/c],&nSince you didn't move, the [c][ffd130][AP][-][/c] consumed was [c][ffd130]0[-][/c], and your [c][ffd130][Action Points][-][/c] are [c][ffd130]1[-][/c].",
+    "english": "On the other hand, the training Gigantes from the previous round had [c][ffd130][AP][-][/c] of [c][ffd130]3[-][/c],&nSince you didn't move, the [c][ffd130][AP][-][/c] consumed was [c][ffd130]0[-][/c], and your [c][ffd130]SPD[-][/c] are [c][ffd130]1[-][/c].",
     "korean": "반면에 훈련용 기간테스는 이전 라운드의 [c][ffd130][AP][-][/c]가 [c][ffd130]3[-][/c],&n움직이지 않았기에 소모한 [c][ffd130][AP][-][/c]는 [c][ffd130]0[-][/c], [c][ffd130][행동력][-][/c]은 [c][ffd130]1[-][/c]."
   },
   "3100050216": {
@@ -1440,7 +1440,7 @@
     "korean": "아군의 [c][ffd130][AP][-][/c]를 증가시키고 적의 [c][ffd130][AP][-][/c]를 감소시켜&n적에게 행동할 기회를 빼앗는 전술은 무척이나 유용합니다."
   },
   "3100050320": {
-    "english": "It's not an easy tactic, but if you, Your Majesty, have grasped the concepts of [c][ffd130][AP][-][/c] and [c][ffd130][Action Points][-][/c] thru this training, it should be entirely feasible.",
+    "english": "It's not an easy tactic, but if you, Your Majesty, have grasped the concepts of [c][ffd130][AP][-][/c] and [c][ffd130][SPD][-][/c] thru this training, it should be entirely feasible.",
     "korean": "쉽지 않은 전술이지만 이번 훈련을 통해 [c][ffd130][AP][-][/c]와 [c][ffd130][행동력][-][/c]에 대해 파악하신 각하시라면 충분히 실현 가능할 것입니다."
   },
   "3100050321": {
@@ -1728,7 +1728,7 @@
     "korean": "기초 훈련 5단계 과정에 오신 것을 환영합니다, 각하."
   },
   "3900000070": {
-    "english": "In this course, we will cover [c][ffd130][AP][-][/c] and [c][ffd130][Action Points][-][/c].",
+    "english": "In this course, we will cover [c][ffd130][AP][-][/c] and [c][ffd130][SPD][-][/c].",
     "korean": "이번 과정에서는 [c][ffd130][AP][-][/c]와 [c][ffd130][행동력][-][/c]에 대해서 알려드리겠습니다."
   },
   "3900000071": {
@@ -1792,27 +1792,27 @@
     "korean": "알겠어."
   },
   "7000025": {
-    "english": "",
+    "english": "Miss Orca",
     "korean": "미스오르카"
   },
   "7000026": {
-    "english": "",
+    "english": "Awaiting sale",
     "korean": "판매 대기 중"
   },
   "7000027": {
-    "english": "",
+    "english": "Sales ended",
     "korean": "판매 종료"
   },
   "7000028": {
-    "english": "",
+    "english": "Sales end in {0} hours",
     "korean": "{0}시간 뒤 판매 종료"
   },
   "7000029": {
-    "english": "",
+    "english": "Sales end in {0} minutes",
     "korean": "{0}분 뒤 판매 종료"
   },
   "7000030": {
-    "english": "",
+    "english": "Sales end in {0} seconds",
     "korean": "{0}초 뒤 판매 종료"
   },
   "Achievement_104_Desc": {
@@ -2136,19 +2136,19 @@
     "korean": "행동력 감소 1 : 행동력 {0}%"
   },
   "BuffDesc1_BEG_13_N20": {
-    "english": "SPD Down 2 : SPD {0}%",
+    "english": "SPD Decrease 2 : SPD {0}%",
     "korean": "행동력 감소 2 : 행동력 {0}%"
   },
   "BuffDesc1_BEG_13_N30": {
-    "english": "SPD Down 3 : SPD {0}%",
+    "english": "SPD Decrease 3 : SPD {0}%",
     "korean": "행동력 감소 3 : 행동력 {0}%"
   },
   "BuffDesc1_BEG_13_N40": {
-    "english": "SPD Down 4 : SPD {0}%",
+    "english": "SPD Decrease 4 : SPD {0}%",
     "korean": "행동력 감소 4 : 행동력 {0}%"
   },
   "BuffDesc1_BEG_13_N50": {
-    "english": "SPD Down 5 : SPD {0}%",
+    "english": "SPD Decrease 5 : SPD {0}%",
     "korean": "행동력 감소 5 : 행동력 {0}%"
   },
   "BuffDesc1_BEG_13_P10": {
@@ -2156,19 +2156,19 @@
     "korean": "행동력 증가 1 : 행동력 {0}%"
   },
   "BuffDesc1_BEG_13_P20": {
-    "english": "SPD Up 2 : SPD {0}%",
+    "english": "SPD Increase 2 : SPD {0}%",
     "korean": "행동력 증가 2 : 행동력 {0}%"
   },
   "BuffDesc1_BEG_13_P30": {
-    "english": "SPD Up 3 : SPD {0}%",
+    "english": "SPD Increase 3 : SPD {0}%",
     "korean": "행동력 증가 3 : 행동력 {0}%"
   },
   "BuffDesc1_BEG_13_P40": {
-    "english": "SPD Up 4 : SPD {0}%",
+    "english": "SPD Increase 4 : SPD {0}%",
     "korean": "행동력 증가 4 : 행동력 {0}%"
   },
   "BuffDesc1_BEG_13_P50": {
-    "english": "SPD Up 5 : SPD {0}%",
+    "english": "SPD Increase 5 : SPD {0}%",
     "korean": "행동력 증가 5 : 행동력 {0}%"
   },
   "BuffDesc1_BEG_15_N10": {

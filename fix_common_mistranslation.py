@@ -18,16 +18,18 @@ def load_corrections(path: Path) -> list[dict]:
 
 def _wrong_pattern(wrong: str) -> re.Pattern:
     """
-    Build a case-insensitive regex for `wrong` with word boundaries on whichever
-    ends are word characters.  This prevents e.g. "Felis" from matching inside
-    "Feliss" and turning it into "Felisss".
+    Build a regex for `wrong` with word boundaries on whichever ends are word
+    characters.  This prevents e.g. "Felis" from matching inside "Feliss".
+    All-caps `wrong` (e.g. "MOVE" as a stat) is matched case-sensitively so it
+    doesn't collide with the lowercase action word.
     """
     pat = re.escape(wrong)
     if re.match(r"\w", wrong):
         pat = r"\b" + pat
     if re.search(r"\w$", wrong):
         pat = pat + r"\b"
-    return re.compile(pat, re.IGNORECASE)
+    flags = 0 if wrong.isupper() else re.IGNORECASE
+    return re.compile(pat, flags)
 
 
 def apply_corrections(korean: str, english: str, corrections: list[dict]) -> str:
@@ -36,8 +38,9 @@ def apply_corrections(korean: str, english: str, corrections: list[dict]) -> str
         if entry["original"] not in korean:
             continue
         correct = entry["correctTranslation"]
-        for wrong in entry["mistranslation"]:
-            if wrong.lower() in english.lower():
+        for wrong in sorted(entry["mistranslation"], key=len, reverse=True):
+            present = wrong in english if wrong.isupper() else wrong.lower() in english.lower()
+            if present:
                 english = _wrong_pattern(wrong).sub(correct, english)
     return english
 

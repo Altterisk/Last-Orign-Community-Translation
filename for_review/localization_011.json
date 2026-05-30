@@ -340,7 +340,7 @@
     "korean": "꿈을 좇는 발걸음  : 전투속행 / 해로운 효과 제거"
   },
   "1000110143": {
-    "english": "Confusion: ACU / CRIT / AP Decrease",
+    "english": "Confusion: ACU / CRIT / SPD Decrease",
     "korean": "혼란 : 적중 / 치명타 / 행동력 감소"
   },
   "1000110144": {
@@ -348,7 +348,7 @@
     "korean": "돌진 : 뒤에서 공격할수록 피해 증가"
   },
   "1000110145": {
-    "english": "Unstoppable Rush: Remove AP / EVA Reduction Effects, EVA Increase",
+    "english": "Unstoppable Rush: SPD / EVA Reduction Effects, EVA Increase",
     "korean": "멈출 수 없는 질주 : 행동력 / 회피 감소 효과 해제, 회피 증가"
   },
   "1000110146": {
@@ -420,7 +420,7 @@
     "korean": "라이브 연주 : 방어 관통{0}%"
   },
   "1000110163": {
-    "english": "Live Performance: AP {0}%",
+    "english": "Live Performance: SPD {0}%",
     "korean": "라이브 연주 : 행동력{0}%"
   },
   "1000110164": {
@@ -624,7 +624,7 @@
     "korean": "벙커 버스터 : 뒤로 밀기 / 방어관통 / 보호&피해 감소 효과 해제 / 추가 피해"
   },
   "1000110214": {
-    "english": "Assault Support: Attackers / Defenders / Mongoose Unit Support Attack / ATK / ACU / AP Increase",
+    "english": "Assault Support: Attackers / Defenders / Mongoose Unit Support Attack / ATK / ACU / SPD Increase",
     "korean": "돌격 지원 : 공격기 / 보호기 / 몽구스 대원 공격 지원 / 공격력 / 적중 / 행동력 증가"
   },
   "1000110215": {
@@ -692,7 +692,7 @@
     "korean": "돌격 지원 : 치명타{0}% (보호기/공격기/몽구스대원)"
   },
   "1000110231": {
-    "english": "Assault Support: AP {0}% (Defender/Attacker/Mongoose Unit)",
+    "english": "Assault Support: SPD {0}% (Defender/Attacker/Mongoose Unit)",
     "korean": "돌격 지원 : 행동력{0}% (보호기/공격기/몽구스대원)"
   },
   "1000110232": {
@@ -732,7 +732,7 @@
     "korean": "뛰어난 손재주 : 적중 / 치명타 증가"
   },
   "1000110241": {
-    "english": "Cheerful Hairdresser: Support Attack / ACU / AP / ATK Increase",
+    "english": "Cheerful Hairdresser: Support Attack / ACU / SPD / ATK Increase",
     "korean": "발랄한 미용사 : 지원 공격 / 적중 / 행동력 / 공격력 증가"
   },
   "1000110242": {
@@ -748,7 +748,7 @@
     "korean": "부식액 발사 : 자신 사거리 증가 / 적 방어력 감소 / 적 공격력 감소"
   },
   "1000110245": {
-    "english": "Cheerful Hairdresser: Support Attack / ACU / AP / ATK Increase",
+    "english": "Cheerful Hairdresser: Support Attack / ACU / SPD / ATK Increase",
     "korean": "발랄한 미용사 : 지원 공격 / 적중 / 행동력 / 공격력 증가"
   },
   "1000110246": {
@@ -764,7 +764,7 @@
     "korean": "뛰어난 손재주 : 치명타{0}%"
   },
   "1000110249": {
-    "english": "Cheerful Hairdresser: AP {0}%",
+    "english": "Cheerful Hairdresser: SPD {0}%",
     "korean": "발랄한 미용사 : 행동력{0}%"
   },
   "1000110250": {
@@ -1004,7 +1004,7 @@
     "korean": "전술 전환 : 방어력{0}% (CT66 램파트)"
   },
   "1000110309": {
-    "english": "Tactical Shift: DEF {0}% (SD3M Pub Head)",
+    "english": "Tactical Shift: DEF {0}% (SD3M Pupp Head)",
     "korean": "전술 전환 : 방어력{0}% (SD3M 펍 헤드)"
   },
   "1000110310": {
@@ -1044,7 +1044,7 @@
     "korean": "전술 전환 : 방어 관통{0}% (CT66 램파트)"
   },
   "1000110319": {
-    "english": "Tactical Shift: DEF PEN {0}% (SD3M Pub Head)",
+    "english": "Tactical Shift: DEF PEN {0}% (SD3M Pupp Head)",
     "korean": "전술 전환 : 방어 관통{0}% (SD3M 펍 헤드)"
   },
   "1000110320": {
@@ -1432,7 +1432,7 @@
     "korean": "고룡의 숨결 : 받는 피해 감소 해제 (대상HP가50%이하)"
   },
   "1000110416": {
-    "english": "Storm of Niflheim: Action Points{0}% (Flooding)",
+    "english": "Storm of Niflheim: SPD{0}% (Flooding)",
     "korean": "니플헤임의 폭풍 : 행동력{0}% (침수)"
   },
   "1000110417": {
@@ -2064,7 +2064,7 @@
     "korean": "만들어진 운명 : 적중{0}% (스마트엔조이)"
   },
   "1000110574": {
-    "english": "Master of Elemental Magic: AP {0}% (Smart Enjoy)",
+    "english": "Master of Elemental Magic: SPD {0}% (Smart Enjoy)",
     "korean": "원소마법의 대가 : 행동력{0}% (스마트엔조이)"
   },
   "1000110575": {
@@ -2940,7 +2940,7 @@
     "korean": "죄인의 기도 : 사거리{0} (적 1명)"
   },
   "1000110793": {
-    "english": "Martyrdom: AP {0}%",
+    "english": "Martyrdom: SPD {0}%",
     "korean": "순교: 행동력{0}%"
   },
   "1000110794": {
@@ -3168,7 +3168,7 @@
     "korean": "그림자 대리인 : 방어 관통{0}% (자신/조건부)"
   },
   "1000110850": {
-    "english": "Final Crusade: Action Points{0}%",
+    "english": "Final Crusade: SPD{0}%",
     "korean": "최후의 성전 : 행동력{0}%"
   },
   "1000110851": {
@@ -3392,7 +3392,7 @@
     "korean": "이단 심판 : 받는 피해 감소 {0}%"
   },
   "1000110906": {
-    "english": "Heresy Judgment: Action Points {0}% (Upon enemy death)",
+    "english": "Heresy Judgment: SPD {0}% (Upon enemy death)",
     "korean": "이단 심판 : 행동력{0}% (적 사망 시)"
   },
   "1000110907": {
@@ -3560,11 +3560,11 @@
     "korean": "자신의 회피가 대상의 회피보다 낮음"
   },
   "1000110948": {
-    "english": "Own AP is higher than target's AP",
+    "english": "Own SPD is higher than target's SPD",
     "korean": "자신의 행동력이 대상의 행동력보다 높음"
   },
   "1000110949": {
-    "english": "Own AP is lower than target's AP",
+    "english": "Own SPD is lower than target's SPD",
     "korean": "자신의 행동력이 대상의 행동력보다 낮음"
   },
   "1000110950": {
@@ -3712,7 +3712,7 @@
     "korean": "극도의 우월감 : 행동력{0}%"
   },
   "1000110986": {
-    "english": "Overwhelming Superiority: AP {0}%",
+    "english": "Overwhelming Superiority: SPD {0}%",
     "korean": "압도적 우월감 : 행동력{0}%"
   },
   "1000200001": {

@@ -8,7 +8,7 @@
     "korean": "회심의 반격 준비 태세를 갖춘 상태에서 회피 시 적에게 괴멸적인 피해량으로 반격을 합니다. 회심의 반격 준비 태세가 종료된 후, 다음 1라운드 동안 회피율은 그대로 유지 됩니다."
   },
   "1002704356": {
-    "english": "Deals {0} damage with submachine gun, provoking the target and reducing their ATK / CRIT / AP for 2 rounds.",
+    "english": "Deals {0} damage with submachine gun, provoking the target and reducing their ATK / CRIT / SPD for 2 rounds.",
     "korean": "기관단총으로 {0} 피해를 주고, 2라운드 동안 대상을 도발 / 공격력 / 치명타 / 행동력 감소 상태로 만듭니다."
   },
   "1002704357": {
@@ -68,7 +68,7 @@
     "korean": "범위 내 보호기에게 받는 피해 감소 / 회피 증가 효과를 주며, 자신에게 적용된 속성 저항 강화 효과에 맞춰 대상들의 속성 저항력을 올려줍니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002704371": {
-    "english": "Reveals the next incoming enemy and reduces all enemies' DEF, ACU, EVA, and AP.&nIf Recon is active, targets also receive an additional Increased Damage Taken effect.",
+    "english": "Reveals the next incoming enemy and reduces all enemies' DEF, ACU, EVA, and SPD.&nIf Recon is active, targets also receive an additional Increased Damage Taken effect.",
     "korean": "다음 출현하는 적을 확인할 수 있으며, 모든 적의 방어력 / 적중 / 회피 / 행동력이 감소합니다. 정찰 활성화 상태인 경우, 대상들에게 받는 피해 증가 효과가 추가로 적용됩니다."
   },
   "1002704372": {
@@ -132,7 +132,7 @@
     "korean": "지정 범위에 {0} 피해를 주고, 2라운드 동안 적중을 감소시키며 적중 강화 효과를 해제합니다. 적중 대상은 해당 라운드 동안 스킬을 사용하지 못합니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002704387": {
-    "english": "At battle start, gives drinks to adjacent bio-roids, increasing their ATK / EVA / AP but decreasing ACU. These effects are classified as normal effects.",
+    "english": "At battle start, gives drinks to adjacent bio-roids, increasing their ATK / EVA / SPD but decreasing ACU. These effects are classified as normal effects.",
     "korean": "전투 개시 시, 인접 바이오로이들에게 마실 것을 줘 대상들의 공격력 / 회피 / 행동력을 증가시키지만 적중이 감소합니다. 해당 효과들은 일반 효과로 분류됩니다."
   },
   "1002704388": {
@@ -152,7 +152,7 @@
     "korean": "행 / 열 보호 상태인 아군의 공격을 지원하며, 자신의 액티브 스킬 공격이 적중하면 대상들의 AP가 증가합니다. 대상이 아자젤인 경우, 매 라운드 AP를 증가시켜줍니다."
   },
   "1002704392": {
-    "english": "The lower own HP%, the higher the damage dealt; upon enemy kills, increases ATK / ACU / AP up to 3 times. If incapacitated, deals fixed damage proportional to own ATK to marked enemies.",
+    "english": "The lower own HP%, the higher the damage dealt; upon enemy kills, increases ATK / ACU / SPD up to 3 times. If incapacitated, deals fixed damage proportional to own ATK to marked enemies.",
     "korean": "자신의 HP%가 낮을수록 피해량이 증가하며, 적 처치 시 최대 3회까지 공격력 / 적중 / 행동력이 증가합니다. 자신이 전투 불능이 될 경우, 표식 상태인 적에게 공격에 비례한 고정 피해를 줍니다."
   },
   "1002704393": {
@@ -168,15 +168,15 @@
     "korean": "적을 공격하면 공격력이 최대 3회까지 증가하며, 2라운드 동안 회피가 증가합니다. 해당 상태에서 공격 받으면 반격합니다. 공격력 증가 효과는 피격 시 해제됩니다."
   },
   "1002704396": {
-    "english": "Increases CRIT / ACU / AP of mobile allies within range. Effect is maximized when self is in front row, and decreases up to 50% the further back the ally is placed.",
+    "english": "Increases CRIT / ACU / SPD of mobile allies within range. Effect is maximized when self is in front row, and decreases up to 50% the further back the ally is placed.",
     "korean": "범위 내 기동형 아군들의 치명타 / 적중 / 행동력이 증가합니다. 자신이 전열일 때 최대로 적용되며, 뒷열에 배치될수록 효과가 50%까지 감소합니다."
   },
   "1002704397": {
-    "english": "Increases own DEF penetration and scouts to identify the next appearing enemy. When scouting is active at round start, EVA / ACU / AP increase.",
+    "english": "Increases own DEF penetration and scouts to identify the next appearing enemy. When scouting is active at round start, EVA / ACU / SPD increase.",
     "korean": "자신의 방어 관통이 증가하며, 정찰로 다음에 출현할 적을 확인할 수 있습니다. 정찰 활성화 상태로 라운드 개시 시, 회피 / 적중 / 행동력이 증가합니다."
   },
   "1002704398": {
-    "english": "Deals {0} protection-ignoring damage to designated area, making targets unable to move / increasing damage taken / reducing AP / reducing DEF for 2 rounds. Effect on mobile targets is reduced by 50%. When attacking, own DEF increases up to 3 times.",
+    "english": "Deals {0} protection-ignoring damage to designated area, making targets unable to move / increasing damage taken / SPD / reducing DEF for 2 rounds. Effect on mobile targets is reduced by 50%. When attacking, own DEF increases up to 3 times.",
     "korean": "지정 범위에 {0} 보호 무시 피해를 주고, 2라운드 동안 이동 불가 / 받는 피해 증가 / 행동력 / 방어력 감소 상태로 만듭니다. 기동형에게는 효과가 50% 감소합니다. 공격 시, 자신의 방어력이 최대 3회까지 증가합니다."
   },
   "1002704399": {
@@ -188,19 +188,19 @@
     "korean": "라운드 개시 시, 방어력 / 전기 저항 / 효과 저항이 증가하며, 열 보호 효과가 활성화됩니다."
   },
   "1002704401": {
-    "english": "At the start of the round, increases ATK / ACU / AP of light / air allies within range and designates them for protection.",
+    "english": "At the start of the round, increases ATK / ACU / AP of light / increases SPD and protects the targets.",
     "korean": "라운드 개시 시, 범위 내의 경장 / 기동형 아군들의 공격력 / 적중 / 행동력을 증가시키며 대상들을 지정 보호합니다."
   },
   "1002704402": {
-    "english": "At battle start, reduces AP / immobilizes / increases damage taken of light / Heavy enemies within range for 2 rounds. If the target is Heavy class, the effect increases by 50%. Range increases at skill level 10.",
+    "english": "At battle start, reduces AP / slows SPD / increases damage taken of light / medium enemies within range for 2 rounds. If the target is medium class, the effect increases by 50%. Range increases at skill level 10.",
     "korean": "전투 개시 시, 범위 내 경장형 / 중장형 적을 2라운드 동안 행동력 감소 / 이동 불가 / 받는 피해 증가 상태로 만듭니다. 대상이 중장형일 경우, 효과가 50% 증가합니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002704403": {
-    "english": "At the start of the round, grants row protection / ATK / ACU / AP increase to the ally placed directly in front and supports their attacks.",
+    "english": "At the start of the round, grants row protection / ATK / ACU / SPD increase to the ally placed directly in front and supports their attacks.",
     "korean": "라운드 개시 시, 바로 앞에 배치된 아군에게 행 보호 / 공격력 / 적중 / 행동력 증가 효과를 주고 대상의 공격을 지원합니다."
   },
   "1002704404": {
-    "english": "At the start of the round, reduces damage taken by self. Designates protection and increases AP of targets within range receiving passive effects from M-5 Ifrit or <Steel Line> squad members, excluding protectors and self.",
+    "english": "At the start of the round, reduces damage taken by self. Designates protection and increases SPD of targets within range receiving passive effects from M-5 Ifrit or <Steel Line> squad members, excluding protectors and self.",
     "korean": "라운드 개시 시, 자신이 받는 피해가 감소합니다. 범위 내에 보호기와 자신을 제외한 M-5 이프리트 또는 <스틸라인> 부대원의 패시브 효과를 받는 대상을 지정 보호하며 행동력을 증가시킵니다."
   },
   "1002704405": {
@@ -216,7 +216,7 @@
     "korean": "지정 대상에게 {0} 피해를 줍니다. 대상의 방어막 / 피해 감소 효과를 무시합니다. 대상이 빙결 상태일 경우, 피해량이 증가합니다."
   },
   "1002704408": {
-    "english": "Deals {0} protection-ignoring Cold damage to the designated area. For 3 rounds, targets take Cold damage over time and have a 50% chance to have their Dodge / Action reduced. A 125% Hit modifier is applied.",
+    "english": "Deals {0} protection-ignoring Cold damage to the designated area. For 3 rounds, targets take Cold damage over time and have a 50% chance to have their Dodge / SPD is reduced. A 125% Hit modifier is applied.",
     "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 줍니다. 3라운드 동안 대상들은 지속 냉기 피해를 입으며, 50% 확률로 회피 / 행동력이 감소합니다. 125%의 적중 보정이 적용됩니다."
   },
   "1002704409": {
@@ -256,7 +256,7 @@
     "korean": "교란 파장으로 {0} 보호 무시 피해를 줍니다. 범위 내 대상들은 2라운드 동안 회피 감소 / 받는 피해 증가 상태가 됩니다. 대상이 기동형일 경우, 효과가 2배가 되며 회피 증가 효과를 해제합니다."
   },
   "1002704418": {
-    "english": "Deals {0} defense-ignoring damage to a designated area with a flashbang. Targets hit are reduced in Critical Hit, Accuracy, and Armor Penetration for 3 rounds. Increases your Action Points for 3 rounds.",
+    "english": "Deals {0} defense-ignoring damage to a designated area with a flashbang. Targets hit are reduced in Critical Hit, Accuracy, and Armor Penetration for 3 rounds. Increases your SPD for 3 rounds.",
     "korean": "섬광탄으로 지정 범위에 {0} 보호 무시 피해를 줍니다. 적중 대상은 3라운드 동안 치명타 / 적중 / 방어 관통 감소 상태가 됩니다. 3라운드 동안 자신의 행동력이 증가합니다."
   },
   "1002704419": {
@@ -264,7 +264,7 @@
     "korean": "전투 개시 시, 범위 내 아군의 AP가 증가합니다. 라운드 개시 시, 범위 내 아군의 적중 / 대 기동형 피해량이 증가하며 적중 감소 효과가 해제됩니다."
   },
   "1002704420": {
-    "english": "When a round starts in a flooded state, the action points of yourself and nearby allies decrease, and there is a 10% chance that you will become unable to act.",
+    "english": "When a round starts in a flooded state, the SPD of yourself and nearby allies decrease, and there is a 10% chance that you will become unable to act.",
     "korean": "침수 상태로 라운드 개시 시, 자신과 주변 아군의 행동력이 감소하며 10% 확률로 행동 불가 상태가 됩니다."
   },
   "1002704421": {
@@ -308,7 +308,7 @@
     "korean": "미니건을 발사해 {0} 피해를 줍니다. 치명타 시, 2라운드 동안 대상이 받는 피해가 증가하며 50% 확률로 강화 효과를 해제합니다."
   },
   "1002704431": {
-    "english": "Fires a capture bullet dealing {0} damage, and has a 50% chance to render the target immobile / reduce their Attack / Critical / Evasion / Action Points for 3 rounds. When using the skill, your Accuracy increases for 3 rounds.",
+    "english": "Fires a capture bullet dealing {0} damage, and has a 50% chance to render the target immobile / reduce their Attack / Critical / Evasion / SPD for 3 rounds. When using the skill, your Accuracy increases for 3 rounds.",
     "korean": "포획탄을 발사해 {0} 피해를 주고, 50% 확률로 3라운드 동안 대상을 이동 불가 / 공격력 / 치명타 / 회피 / 행동력 감소 상태로 만듭니다. 스킬 사용 시, 3라운드 동안 자신의 적중이 증가합니다."
   },
   "1002704432": {
@@ -320,7 +320,7 @@
     "korean": "라운드 개시 시, 25% 확률로 적의 회피가 감소하며 받는 피해가 증가합니다."
   },
   "1002704434": {
-    "english": "At battle start, if positioned in the front row, increases AP and various resistances of self and adjacent Bioroids.",
+    "english": "At battle start, if positioned in the front row, increases SPD and various resistances of self and adjacent Bioroids.",
     "korean": "전투 개시 시, 자신이 전열에 배치된 상태면 자신과 인접한 바이오로이드들의 행동력과 각종 저항을 올려줍니다."
   },
   "1002704435": {
@@ -336,7 +336,7 @@
     "korean": "전투 개시 시, 전열에 배치된 경장 / 중장형 아군의 AP가 증가합니다. 정찰 활성화 시, 해당 효과의 50%가 매 라운드 적용됩니다."
   },
   "1002704438": {
-    "english": "At the start of the round, increases ATK / CRIT / AP of light / Heavy allies within range. Reconnaissance allows detection of the next appearing enemy, and EVA increases the farther from the enemy formation.",
+    "english": "At the start of the round, increases ATK / CRIT / AP of light / SPD increases. Reconnaissance allows detection of the next appearing enemy, and EVA increases the farther from the enemy formation.",
     "korean": "라운드 개시 시, 범위 내 경장 / 중장형 아군의 공격력 / 치명타 / 행동력이 증가합니다. 정찰로 다음에 출현할 적을 확인할 수 있으며, 적 진영과 멀수록 자신의 회피가 증가합니다."
   },
   "1002704439": {
@@ -348,15 +348,15 @@
     "korean": "지정 범위에 {0} 화염 속성 피해를 주고, 3라운드 동안 지속 화염 피해를 입는 점화 상태로 만듭니다. 치명타 시, 피해량이 증가합니다."
   },
   "1002704441": {
-    "english": "Increases ATK / effect resistance / AP of allies within range. While idle, if the target's HP is 25% or higher, deals fixed damage and increases AP. Upon own death, twice the AP increase effect is applied to targets without fixed damage.",
+    "english": "Increases ATK / effect resistance / SPD of allies within range. While idle, if the target's HP is 25% or higher, deals fixed damage and increases SPD. Upon own death, twice the SPD increase effect is applied to targets without fixed damage.",
     "korean": "범위 내 아군의 공격력 / 효과 저항 / 행동력을 증가시킵니다. 대기 시, 대상의 HP가 25% 이상이면 고정 피해를 입히며 AP를 증가시킵니다. 자신 사망 시, 고정 피해 없이 AP 증가 효과의 2배가 대상들에게 적용됩니다."
   },
   "1002704442": {
-    "english": "At the start of the round, increase ATK / CRIT / DEF Penetration and reduce damage taken. If in the back row, effect is reduced by 50%. If Brownie is in the same squad, own AP increases.",
+    "english": "At the start of the round, increase ATK / CRIT / DEF Penetration and reduce damage taken. If in the back row, effect is reduced by 50%. If Brownie is in the same squad, own SPD increases.",
     "korean": "라운드 개시 시, 공격력 / 치명타 / 방어 관통이 증가하며 받는 피해가 감소합니다. 해당 효과는 후열일 경우, 효과가 50% 감소합니다. 같은 스쿼드에 브라우니가 있을 경우, 자신의 행동력이 증가합니다."
   },
   "1002704443": {
-    "english": "Deals {0} damage to the target and provokes them for 2 rounds, lowering EVA / AP. Damage increases on CRIT.",
+    "english": "Deals {0} damage to the target and provokes them for 2 rounds, lowering EVA / SPD. Damage increases on CRIT.",
     "korean": "대상에게 {0} 피해를 주고, 2라운드 동안 대상을 도발하며 회피 / 행동력을 낮춥니다. 치명타 시, 피해량이 증가합니다."
   },
   "1002704444": {
@@ -364,7 +364,7 @@
     "korean": "2라운드 동안 공격력 / 적중 / 사거리 / 받는 피해가 증가합니다. 스킬 레벨 10에서 사거리가 추가로 증가합니다."
   },
   "1002704445": {
-    "english": "At the start of the round, designates protection for light / mobile allies within range and increases their ACU / AP.",
+    "english": "At the start of the round, designates protection for light / mobile allies within range and increases their ACU / SPD.",
     "korean": "라운드 개시 시, 범위 내 경장 / 기동형 아군을 지정 보호하며 대상의 적중 / 행동력을 상승시킵니다."
   },
   "1002704446": {
@@ -372,7 +372,7 @@
     "korean": "라운드 개시 시, 치명타 / 적중 / 회피가 증가하며, 적의 공격을 회피하면 반격합니다. 자신이 전열일 경우, 해당 효과로 인한 회피 증가 효과가 30% 추가 적용됩니다."
   },
   "1002704447": {
-    "english": "Deals {0} damage to the target and provokes the hit target for 2 rounds, reducing their ATK / CRIT / AP.",
+    "english": "Deals {0} damage to the target and provokes the hit target for 2 rounds, reducing their ATK / CRIT / SPD.",
     "korean": "대상에게 {0} 피해를 주고, 2라운드 동안 적중 대상을 도발하며 공격력 / 치명타 / 행동력을 낮춥니다."
   },
   "1002704448": {
@@ -380,7 +380,7 @@
     "korean": "자신과 지정 아군에게 3라운드 동안 방어막 / 받는 피해 감소 효과를 줍니다. 대상이 보호기가 아닐 경우, 지정 보호 효과가 추가됩니다."
   },
   "1002704449": {
-    "english": "At battle start, applies a \"cannot use skills until idle\" effect to adjacent allies. At round start, increases their ATK / CRIT / ACU / AP.",
+    "english": "At battle start, applies a \"cannot use skills until idle\" effect to adjacent allies. At round start, increases their ATK / CRIT / ACU / SPD.",
     "korean": "전투 개시 시, 인접한 아군에게 대기하기 전까지 스킬 사용 불가 효과를 줍니다. 라운드 개시 시, 대상들의 공격력 / 치명타 / 적중 / 행동력이 증가합니다."
   },
   "1002704450": {
@@ -452,7 +452,7 @@
     "korean": "전투 개시 시, 범위 내에 있는 기동형 아군들의 AP를 증가시킵니다. 라운드 개시 시, 범위 내 아군들의 치명타 / 적중 / 회피가 증가합니다. 대상이 기동형이 아닐 경우, 효과가 50% 감소합니다."
   },
   "1002704467": {
-    "english": "At the start of the round, increases ATK / AP / DEF penetration and removes range reduction effects.",
+    "english": "At the start of the round, increases ATK / SPD / DEF penetration and removes range reduction effects.",
     "korean": "라운드 개시 시, 공격력 / 행동력 / 방어 관통이 증가하며 사거리 감소 효과를 해제합니다."
   },
   "1002704468": {
@@ -476,7 +476,7 @@
     "korean": "지정 범위에 보호 무시 {0} 피해를 주고, 2라운드 동안 도발 / 공격력 / 적중 감소 상태로 만듭니다. 대상이 표식 / 회피 감소 상태면 피해량이 증가합니다."
   },
   "1002704473": {
-    "english": "Applies a shield to yourself for 3 rounds. If the target is not a defender, applies protection to the target. Increases ATK power / AP for both the target and yourself.",
+    "english": "Applies a shield to yourself for 3 rounds. If the target is not a defender, applies protection to the target. Increases ATK power / SPD for both the target and yourself.",
     "korean": "3라운드 동안 자신에게 방어막이 적용되며, 대상이 보호기가 아닐 경우, 대상을 지정 보호합니다. 대상과 자신의 공격력 / 행동력이 증가합니다."
   },
   "1002704474": {
@@ -524,7 +524,7 @@
     "korean": "라운드 개시 시, 범위 내 중장형 아군의 공격력 / 방어력이 증가하며 받는 피해가 감소합니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002704485": {
-    "english": "At the start of the round, increases CRIT and AP of allies within range. If the target is under the effect of F. Armory Deployment, removes their ATK / CRIT debuffs. At skill level 10, the range increases.",
+    "english": "At the start of the round, increases CRIT and SPD of allies within range. If the target is under the effect of F. Armory Deployment, removes their ATK / CRIT debuffs. At skill level 10, the range increases.",
     "korean": "라운드 개시 시, 범위 내 아군의 치명타 / 행동력이 증가합니다. 대상이 F.아머리 전개 효과를 받는 상태면 공격력 / 치명타 감소 효과를 해제합니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002704486": {
@@ -540,7 +540,7 @@
     "korean": "라운드 개시 시, 받는 피해 감소하고 효과 저항 / 대 경장형 & 중장형 피해량이 증가합니다. 해당 효과가 활성화 된 상태에서 경장 / 중장형 적에게 액티브 스킬 적중 시, 2라운드 동안 대상이 받는 피해가 증가합니다."
   },
   "1002704489": {
-    "english": "At battle start, greatly increases ATK and AP. This effect gradually decreases by up to 33% over 3 rounds. If <Barrage Fire> Ammo Lv.2 or higher is active, removes the target's damage reduction / EVA increase effects on hit.",
+    "english": "At battle start, greatly increases ATK and SPD. This effect gradually decreases by up to 33% over 3 rounds. If <Barrage Fire> Ammo Lv.2 or higher is active, removes the target's damage reduction / EVA increase effects on hit.",
     "korean": "전투 개시 시, 공격력 / 행동력이 크게 증가합니다. 해당 효과는 3라운드에 걸쳐 최대 33%까지 감소합니다. <탄막 사격> 잔탄 Lv.2 이상일 경우, 공격 적중 대상의 받는 피해 감소 / 회피 증가 효과를 해제합니다."
   },
   "1002704490": {
@@ -932,7 +932,7 @@
     "korean": "경비 모드! (피해 감소 더미)"
   },
   "1002704587": {
-    "english": "Repay the Favor (Action Dummy)",
+    "english": "Repay the Favor (SPD Dummy)",
     "korean": "은혜 갚기 (행동력 더미)"
   },
   "1002704588": {
@@ -1204,7 +1204,7 @@
     "korean": "용맹 스택 더미"
   },
   "1002704655": {
-    "english": "Apology & Hatred (Action Dummy)",
+    "english": "Apology & Hatred (SPD Dummy)",
     "korean": "사과 증오 (행동력 더미)"
   },
   "1002704656": {
@@ -2784,7 +2784,7 @@
     "korean": "적 처치 시, 다음 목표를 찾기 시작해 AP가 증가합니다."
   },
   "1002705056": {
-    "english": "If there is a drone in the same squad, your AP increases.",
+    "english": "If there is a drone in the same squad, your SPD increases.",
     "korean": "같은 스쿼드에 드론이 있으면 행동력이 증가합니다."
   },
   "1002705057": {
@@ -2792,11 +2792,11 @@
     "korean": "호위 대형을 편성해 전투 개시 시, 자신의 앞을 제외한 인접한 기동형 아군을 보호합니다. 보호 대상들은 AP / 적중 / 회피가 증가합니다."
   },
   "1002705058": {
-    "english": "Fire a shotgun dealing {0} damage, reducing the target's ACU and AP for 2 rounds. Has a small chance to inflict an action-disabled status on the target.",
+    "english": "Fire a shotgun dealing {0} damage, reducing the target's ACU and SPD for 2 rounds. Has a small chance to inflict an action-disabled status on the target.",
     "korean": "샷건을 발사해 {0} 피해를 주고, 2라운드 동안 대상의 적중과 행동력을 감소시킵니다. 낮은 확률로 대상을 행동 불가 상태로 만듭니다."
   },
   "1002705059": {
-    "english": "At the start of the round, designate front row allies excluding mobile and protector types for protection. If you are in the front row, increase ATK / CRIT / AP of targets within the designated range.",
+    "english": "At the start of the round, designate front row allies excluding mobile and protector types for protection. If you are in the front row, increase ATK / CRIT / SPD of targets within the designated range.",
     "korean": "라운드 개시 시, 전열의 기동형과 보호기 제외 아군을 지정 보호합니다. 자신이 전열인 경우, 해당 범위 내에 있는 대상들의 공격력 / 치명타 / 행동력을 증가시킵니다."
   },
   "1002705060": {
@@ -2816,7 +2816,7 @@
     "korean": "3라운드 동안 지정한 아군을 보호 합니다. 스킬 적용 시, 대상과 자신에게 피해 무효화를 부여하고 공격력과 적중이 증가합니다. 각 효과들은 중첩 적용되지는 않습니다."
   },
   "1002705064": {
-    "english": "At the start of the round, persistently follows and protects the ally directly in front. If you are in a sadistic state due to an enemy kill, the protected ally feels a chill, increasing AP and decreasing ACU.",
+    "english": "At the start of the round, persistently follows and protects the ally directly in front. If you are in a sadistic state due to an enemy kill, the protected ally feels a chill, increasing SPD and decreasing ACU.",
     "korean": "라운드 개시 시, 바로 앞에 있는 아군을 집요하게 쫓아다니며 보호합니다. 자신이 적 처치로 인한 가학성향 상태인 경우, 보호 대상은 서늘함을 느껴 행동력이 증가하고 적중이 감소합니다."
   },
   "1002705065": {
@@ -2840,7 +2840,7 @@
     "korean": "HP 50% 이하가 되면 본성을 주체할 수 없게 되어, 공격력과 치명타가 증가하고 방어 관통 효과를 얻지만 받는 피해도 증가하는 상태가 됩니다."
   },
   "1002705072": {
-    "english": "Damage taken is reduced due to skilled combat techniques. This effect is doubled when the user's HP falls below 50%, and additionally grants increased AP and a counterattack effect. At the start of the round, nullifies designated protection effects applied by other targets.",
+    "english": "Damage taken is reduced due to skilled combat techniques. This effect is doubled when the user's HP falls below 50%, and additionally grants increased SPD and a counterattack effect. At the start of the round, nullifies designated protection effects applied by other targets.",
     "korean": "숙련된 전투 기술로 인해 받는 피해가 감소합니다. 해당 효과는 자신의 HP가 50% 이하가 될 경우에 2배로 적용되며, 행동력 증가 / 반격 효과가 추가됩니다. 라운드 개시 시, 다른 대상이 걸어준 지정 보호 효과를 무효화합니다."
   },
   "1002705073": {
@@ -2856,7 +2856,7 @@
     "korean": "라운드 개시 시, 양옆의 아군에게 수상한 발명품을 나눠줘 자신과 대상들에게 일정 확률로 무작위 강화 효과를 부여합니다. 스킬 레벨 10에서 효과 라운드가 1 증가합니다."
   },
   "1002705076": {
-    "english": "Increases cold resistance, and when hit by cold attribute attacks, triggers a damage reduction effect for 2 rounds. If the user is in a submerged state, ATK, CRIT, and AP increase.",
+    "english": "Increases cold resistance, and when hit by cold attribute attacks, triggers a damage reduction effect for 2 rounds. If the user is in a submerged state, ATK, CRIT, and SPD increase.",
     "korean": "냉기 저항이 증가하며, 냉기 속성 공격을 맞으면 2라운드 동안 받는 피해 감소 효과가 발생합니다. 자신이 침수 상태인 경우, 공격력 / 치명타 / 행동력이 증가합니다."
   },
   "1002705077": {
@@ -2900,7 +2900,7 @@
     "korean": "라운드 개시 시, 공격력 / 치명타 / 적중 / 회피가 증가합니다. 웨이브 종료 시, 정찰로 다음 적 정보를 확인할 수 있습니다."
   },
   "1002705088": {
-    "english": "At the start of the round, increases AP of allies within range, and if there are allies with the <Scouting> effect within range, supports their attacks. If the user has <Scouting> activated, increases ACU / EVA of the targets. During standby, records allies' actions, doubling the AP increase effect for 2 rounds.",
+    "english": "At the start of the round, increases SPD of allies within range, and if there are allies with the <Scouting> effect within range, supports their attacks. If the user has <Scouting> activated, increases ACU / EVA of the targets. During standby, records allies' actions, doubling the SPD increase effect for 2 rounds.",
     "korean": "라운드 개시 시, 범위 내 아군의 행동력이 증가하며 범위 내에 <정찰> 효과가 적용된 아군이 있으면 대상의 공격을 지원합니다. 자신이 <정찰> 활성화 상태일 경우, 대상들의 적중 / 회피가 증가합니다. 대기 시, 아군의 행동을 기록하기 시작해 2라운드 동안 행동력 증가 효과가 2배로 적용됩니다."
   },
   "1002705089": {
@@ -2956,11 +2956,11 @@
     "korean": "단일 대상 {0} 피해. 이동 불가 대상 확률적 행동 불능"
   },
   "1002705102": {
-    "english": "Single target {0} damage. Pull forward / AP decrease / immobilize",
+    "english": "Single target {0} damage. Pull forward / SPD decrease / immobilize",
     "korean": "단일 대상 {0} 피해. 앞으로 당기기 / 행동력 감소 / 이동 불가"
   },
   "1002705103": {
-    "english": "If drone is in same squad, AP increase",
+    "english": "If drone is in same squad, SPD increase",
     "korean": "같은 스쿼드에 드론이 있으면 행동력 증가"
   },
   "1002705104": {
@@ -2980,7 +2980,7 @@
     "korean": "회피 증가 / 반격"
   },
   "1002705109": {
-    "english": "Single target {0} damage. ACU / AP decrease. Chance of action disable",
+    "english": "Single target {0} damage. ACU / SPD decrease. Chance of action disable",
     "korean": "단일 대상 {0} 피해. 적중 / 행동력 감소. 일정 확률 행동 불가"
   },
   "1002705110": {
@@ -2992,7 +2992,7 @@
     "korean": "방어력 증가 / 행 보호 / <대형 방패 전개> 상태로 공격 당할 시 AP 증가"
   },
   "1002705112": {
-    "english": "Protect frontline air-type / non-support allies. If self is frontline, ATK / CRIT / AP increase",
+    "english": "Protect frontline air-type / non-support allies. If self is frontline, ATK / CRIT / SPD increase",
     "korean": "전열 기동형 / 보호기 제외 아군 보호. 자신이 전열이면 공격력 / 치명타 / 행동력 증가"
   },
   "1002705113": {
@@ -3004,7 +3004,7 @@
     "korean": "자신의 남은 HP 비율이 낮을수록 피해량 증가 / 받는 피해 감소"
   },
   "1002705115": {
-    "english": "Upon battle incapacitation, once continue battle. When effect activates, ATK / CRIT / AP increase",
+    "english": "Upon battle incapacitation, once continue battle. When effect activates, ATK / CRIT / SPD increase",
     "korean": "전투 불능 시, 1회에 한해 전투 속행. 효과 발동 시, 공격력 / 치명타 / 행동력 증가"
   },
   "1002705116": {
@@ -3016,7 +3016,7 @@
     "korean": "목표 범위 {0} 피해. 보호 무시. 1라운드 후 착탄. 뒤로 밀기 / AP 감소"
   },
   "1002705118": {
-    "english": "Target area {0} damage. Hits after 1 round. Push back / AP decrease",
+    "english": "Target area {0} damage. Hits after 1 round. Push back / SPD decrease",
     "korean": "목표 범위 {0} 피해. 1라운드 후 착탄. 뒤로 밀기 / 행동력 감소"
   },
   "1002705119": {
@@ -3044,7 +3044,7 @@
     "korean": "목표 지점 {0} 피해. 보호 무시. 제네레이터 활성화 시, 피해량 증가"
   },
   "1002705125": {
-    "english": "If HP is 25% or more, AP increase / if 25% or less, damage received decrease",
+    "english": "If HP is 25% or more, SPD increase / if 25% or less, damage received decrease",
     "korean": "HP 25% 이상이면 행동력 증가 / HP 25% 이하면 받는 피해 감소"
   },
   "1002705126": {
@@ -3100,7 +3100,7 @@
     "korean": "목표 지점 {0} 피해. 보호 무시. 표식 / 이동 불가 대상 피해량 증가"
   },
   "1002705140": {
-    "english": "If May is in squad, ATK / CRIT / AP increase",
+    "english": "If May is in squad, ATK / CRIT / SPD increase",
     "korean": "스쿼드에 메이가 있으면 공격력 / 치명타 / 행동력 증가"
   },
   "1002705141": {
@@ -3108,7 +3108,7 @@
     "korean": "목표 아군 AP 변경. 방해 효과 해제 / 지휘 효과 증폭"
   },
   "1002705142": {
-    "english": "At round start, mid / rear line allies ATK / ACU / AP increase",
+    "english": "At round start, mid / rear line allies ATK / ACU / SPD increase",
     "korean": "라운드 개시 시, 중 / 후열 아군 공격력 / 적중 / 행동력 증가"
   },
   "1002705143": {
@@ -3116,7 +3116,7 @@
     "korean": "대기 시, 방어 지휘로 전환"
   },
   "1002705144": {
-    "english": "At battle end, acquire info on next enemies. When starting battle with info acquired, AP increase",
+    "english": "At battle end, acquire info on next enemies. When starting battle with info acquired, SPD increases",
     "korean": "전투 종료 시, 다음에 출현할 적 정보를 획득할 수 있습니다. 해당 정보를 획득한 상태에서 전투 개시 시, 행동력이 증가합니다."
   },
   "1002705145": {
@@ -3128,11 +3128,11 @@
     "korean": "공격 시, 공격 지휘로 전환"
   },
   "1002705148": {
-    "english": "When hit, AP increase / damage received decrease. At max stacks, effect resistance increase",
+    "english": "When hit, SPD increase / damage received decrease. At max stacks, effect resistance increase",
     "korean": "피격 시, 행동력 증가 / 받는 피해 감소. 최대 중첩 시 효과 저항 증가."
   },
   "1002705149": {
-    "english": "Protect target. If in sadistic tendency state from enemy kills, target AP increase / ACU decrease",
+    "english": "Protect target. If in sadistic tendency state from enemy kills, target SPD increase / ACU decrease",
     "korean": "대상 보호. 적 처치로 인한 가학성향 상태면 대상 행동력 증가 / 적중 감소"
   },
   "1002705150": {
@@ -3148,7 +3148,7 @@
     "korean": "보호기 제외 기동형 보호 / <어딜 보는거야?> 중첩에 따라 아군 능력치 증가"
   },
   "1002705153": {
-    "english": "At round start, chance to nullify AP decrease / EVA decrease",
+    "english": "At round start, chance to nullify SPD decrease / EVA decrease",
     "korean": "라운드 개시 시, 일정 확률로 행동력 감소 / 회피 감소 무효"
   },
   "1002705155": {
@@ -3200,7 +3200,7 @@
     "korean": "전투 종료 시, 다음 적 정보 획득 / AP 증가"
   },
   "1002705173": {
-    "english": "Single target {0} damage. Taunt / AP decrease",
+    "english": "Single target {0} damage. Taunt / SPD decrease",
     "korean": "단일 대상 {0} 피해. 도발 / 행동력 감소"
   },
   "1002705174": {
@@ -3208,7 +3208,7 @@
     "korean": "단일 대상 {0} 피해. 도발 대상 피해량 증가. 공격력 / 치명타 감소"
   },
   "1002705175": {
-    "english": "Damage received decrease. When HP 50% or less, applies double and AP increase / counterattack",
+    "english": "Damage received decrease. When HP 50% or less, applies double and SPD increase / counterattack",
     "korean": "받는 피해 감소. HP 50% 이하 시, 2배로 적용되며 행동력 증가 / 반격"
   },
   "1002705176": {
@@ -3260,7 +3260,7 @@
     "korean": "전투 개시 시, 열 인접 공격기 보호. 자신과 대상 공격력 / 치명타 증가"
   },
   "1002705189": {
-    "english": "When using skill, mid / rear allies' ATK / ACU / AP increase",
+    "english": "When using skill, mid / rear allies' ATK / ACU / SPD increase",
     "korean": "스킬 사용 시, 중 / 후열 아군 공격력 / 적중 / 행동력 증가"
   },
   "1002705193": {
@@ -3276,7 +3276,7 @@
     "korean": "단일 대상 {0} 피해. 대상이 듀얼 개시 상태면 피해량 대폭 증가"
   },
   "1002705196": {
-    "english": "When attacking, ATK increase. CRIT / AP increase according to <Duelist> stacks",
+    "english": "When attacking, ATK increase. CRIT / SPD increase",
     "korean": "적 공격 시, 공격력 증가. <듀얼리스트> 중첩 수에 따라 치명타 / 행동력 증가"
   },
   "1002705197": {
@@ -3284,7 +3284,7 @@
     "korean": "공격 적중 또는 적 처치 시, 인접 아군 AP 증가"
   },
   "1002705198": {
-    "english": "Damage received decrease / AP increase. Applies double when HP is 50% or less",
+    "english": "Damage received decrease / SPD increase. Applies double when HP is 50% or less",
     "korean": "받는 피해 감소 / 행동력 증가. HP 50% 이하 시, 2배로 적용"
   },
   "1002705199": {
@@ -3296,7 +3296,7 @@
     "korean": "범위 내 중장형 AP / 공격력 증가 / 공격 지원"
   },
   "1002705201": {
-    "english": "ACU / AP increase / damage received decrease. Switch to bombardment mode during standby",
+    "english": "ACU / SPD increase / damage received decrease. Switch to bombardment mode during standby",
     "korean": "적중 / 행동력 증가 / 받는 피해 감소. 대기 시, 포격 모드로 변환"
   },
   "1002705202": {
@@ -3336,7 +3336,7 @@
     "korean": "지정 범위 {0} 보호 무시 냉기 피해. 뒤로 밀기 / 보호 해제. 침수인 경우 빙결"
   },
   "1002705211": {
-    "english": "At battle start, self and adjacent Bioroids AP / resistance increase",
+    "english": "At battle start, self and adjacent Bioroids SPD / resistance increase",
     "korean": "전투 개시 시, 자신과 인접 바이오로이드 행동력 / 저항 증가"
   },
   "1002705212": {
@@ -3360,15 +3360,15 @@
     "korean": "모든 저항 / 방어력 증가. 속성 공격 피격 시, 추가로 증가"
   },
   "1002705219": {
-    "english": "Within range, protector DEF / EVA / AP increase. Attacking while protected increases ATK / ACU",
+    "english": "Within range, protector DEF / EVA / SPD increase. Attacking while protected increases ATK / ACU",
     "korean": "범위 내 보호기 방어력 / 회피 / 행동력 증가. 보호 상태로 공격 시, 공격력 / 적중 증가"
   },
   "1002705220": {
-    "english": "Under attack support, allies' ATK / ACU / AP increase",
+    "english": "Under attack support, allies' ATK / ACU / SPD increase",
     "korean": "공격 지원을 받는 상태인 아군 공격력 / 적중 / 행동력 증가"
   },
   "1002705221": {
-    "english": "Damage increases the lower target HP%. AP increase on kill / if pests in squad",
+    "english": "Damage increases the lower target HP%. SPD increase on kill / if pests in squad",
     "korean": "공격 대상의 HP%가 낮을수록 피해량 증가. 적 처치 / 스쿼드 내 해충 있을 시 행동력 증가"
   },
   "1002705222": {
@@ -3376,7 +3376,7 @@
     "korean": "라운드 개시 시, 공격력 증가. <출력 상승> 3중첩 이상인 경우, 공격 능력 대폭 증가"
   },
   "1002705223": {
-    "english": "Allies with HP 75% or less ATK / DEF / AP increase / attack support",
+    "english": "Allies with HP 75% or less ATK / DEF / SPD increase / attack support",
     "korean": "HP 75% 이하 아군 공격력 / 방어력 / 행동력 증가 / 공격 지원"
   },
   "1002705226": {
@@ -3428,7 +3428,7 @@
     "korean": "적을 연타해 {0} 피해를 줍니다. 대상이 이동 불가 상태인 경우, 일정 확률로 대상을 행동 불가 상태로 만듭니다. 스킬 숙련도가 높아질수록 확률이 증가합니다."
   },
   "1002705241": {
-    "english": "Captures the enemy with an anchor, dealing {0} damage and pulling them 1 tile forward. The captured target's AP is reduced for 2 rounds, and they become immobile.",
+    "english": "Captures the enemy with an anchor, dealing {0} damage and pulling them 1 tile forward. The captured target's SPD is reduced for 2 rounds, and they become immobile.",
     "korean": "앵커로 적을 포획해 {0} 피해를 주고 1칸 앞으로 당깁니다. 포획된 대상은 2라운드 동안 행동력이 감소하며, 이동 불가 상태가 됩니다."
   },
   "1002705242": {
@@ -3468,7 +3468,7 @@
     "korean": "미니건을 난사해 대상에게 {0} 피해를 주며, 뒷 열에는 25% 감소한 피해를 줍니다. 해당 스킬로 적을 처치한 경우, AP가 증가하며 2라운드 동안 공격력이 증가합니다. 스킬 숙련도 5부터 뒷 열에도 최대 피해를 줍니다."
   },
   "1002705251": {
-    "english": "If incapacitated, recovers HP once and continues the battle. When the battle continuation effect activates, ATK / CRIT / AP increase during that battle.",
+    "english": "If incapacitated, recovers HP once and continues the battle. When the battle continuation effect activates, ATK / CRIT / SPD increase during that battle.",
     "korean": "전투 불능이 될 경우, 1회에 한해 HP를 회복하고 전투를 속행합니다. 전투 속행 효과 발동 시, 해당 전투 동안 공격력 / 치명타 / 행동력이 증가합니다."
   },
   "1002705252": {
@@ -3520,7 +3520,7 @@
     "korean": "대검으로 강하게 내리쳐 목표 지점에 보호 효과를 무시하고 {0} 피해를 줍니다. 플라즈마 제네레이터 충전을 1 소모하며, 충전량이 3 이상이면 피해량이 증가합니다."
   },
   "1002705264": {
-    "english": "At round start, if HP is 50% or more, AP increases. If HP is 50% or less, damage taken is reduced.",
+    "english": "At round start, if HP is 50% or more, SPD increases. If HP is 50% or less, damage taken is reduced.",
     "korean": "라운드 개시 시, HP가 50% 이상이면 행동력이 증가합니다. HP 50% 이하에선 받는 피해가 감소합니다."
   },
   "1002705265": {
@@ -3580,7 +3580,7 @@
     "korean": "미사일 폭격으로 대상 지점에 {0} 피해를 줍니다. 보호 효과를 무시하며, 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다."
   },
   "1002705279": {
-    "english": "If May is in the squad, feels discomfort due to a certain fact, increasing ATK / CRIT / AP.",
+    "english": "If May is in the squad, feels discomfort due to a certain fact, increasing ATK / CRIT / SPD.",
     "korean": "스쿼드에 메이가 있으면 특정 사실 때문에 불편함을 느껴, 공격력 / 치명타 / 행동력이 증가합니다."
   },
   "1002705280": {
@@ -3652,7 +3652,7 @@
     "korean": "주변의 정보를 분석해, 다음에 출현할 적의 정보를 얻습니다."
   },
   "1002705298": {
-    "english": "Deals {0} damage with a throwing spear, provokes the target for 2 rounds, and decreases their AP. The AP decrease effect stacks.",
+    "english": "Deals {0} damage with a throwing spear, provokes the target for 2 rounds, and decreases their SPD. The SPD decrease effect stacks.",
     "korean": "투창으로 {0} 피해를 주고, 2라운드 동안 대상을 도발하며 행동력을 감소시킵니다. 행동력 감소 효과는 중첩됩니다."
   },
   "1002705299": {
@@ -3700,7 +3700,7 @@
     "korean": "연속 공격으로 {0} 피해를 줍니다. 대상이 듀얼 개시 상태면 피해량이 크게 증가합니다. 해당 스킬로 적 처치 시, AP가 증가합니다. <듀얼리스트> 중첩을 2 소모합니다."
   },
   "1002705310": {
-    "english": "Increases ATK when attacking. Stacks up to 3 times, increasing CRIT and AP at the start of the round proportionally to stacks. At max stacks, adds shield / damage ignore effects.",
+    "english": "Increases ATK when attacking. Stacks up to 3 times, increasing CRIT and SPD at the start of the round proportionally to stacks. At max stacks, adds shield / damage ignore effects.",
     "korean": "적 공격 시, 공격력이 증가합니다. 최대 3번까지 중첩되며, 중첩 수에 비례해 라운드 개시 시 치명타 / 행동력이 증가합니다. 최대 중첩인 경우 방어막 / 피해 감소 무시 효과가 추가됩니다."
   },
   "1002705311": {
@@ -3720,7 +3720,7 @@
     "korean": "공격 시, 2라운드 동안 범위 내 아군들의 적중 / 치명타 / 방어 관통을 증가시킵니다. 스킬 레벨 5 / 10에서 범위가 증가합니다."
   },
   "1002705315": {
-    "english": "At the start of the round, increases ACU / AP and reduces damage received. When waiting, switches to <Artillery Mode>, applying ATK / DEF penetration increase instead of current effects, and changes active skill to artillery.",
+    "english": "At the start of the round, increases ACU / SPD and reduces damage received. When waiting, switches to <Artillery Mode>, applying ATK / DEF penetration increase instead of current effects, and changes active skill to artillery.",
     "korean": "라운드 개시 시, 적중 / 행동력이 증가하며 받는 피해가 감소합니다. 대기 시, <포격 모드>로 변환해 적용 중인 효과 대신, 공격력 / 방어 관통 증가가 적용되며 액티브 스킬이 포격으로 변경됩니다."
   },
   "1002705316": {
@@ -3732,7 +3732,7 @@
     "korean": "포격 연사로 지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점 주변은 피해량이 25% 감소하며, 대상이 경장 / 중장형이면 피해량이 증가합니다. 스킬 사용 시, 2라운드 동안 행동 불가가 됩니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002705318": {
-    "english": "At the start of the round, increases ATK / DEF penetration. When waiting, switches to interception mode increasing ACU / AP and reducing damage received.",
+    "english": "At the start of the round, increases ATK / DEF penetration. When waiting, switches to interception mode increasing ACU / SPD and reducing damage received.",
     "korean": "라운드 개시 시, 공격력 / 방어 관통이 증가합니다. 대기 시, 요격 모드로 전환해 적중 / 행동력이 증가하며 받는 피해가 감소합니다."
   },
   "1002705319": {
@@ -3744,7 +3744,7 @@
     "korean": "라운드 개시 시, 방어막 / 받는 피해 감소 / 열 보호 효과가 적용됩니다. <재림> 상태인 경우, 효과가 50% 증가합니다."
   },
   "1002705321": {
-    "english": "At the start of battle, applies battle continuation effect. When battle continuation activates, AP increases and <Judgment> and <Divine Protection> effects increase by 50%. During the round battle continuation activates, only minimum damage is taken.",
+    "english": "At the start of battle, applies battle continuation effect. When battle continuation activates, SPD increases and <Judgment> and <Divine Protection> effects increase by 50%. During the round battle continuation activates, only minimum damage is taken.",
     "korean": "전투 개시 시, 전투 속행 효과가 적용됩니다. 전투 속행 발동 시, 행동력이 증가하며 <심판>과 <신의 가호> 효과가 50% 증가합니다. 전투 속행이 발동한 라운드 동안에는 최소 피해만 입습니다."
   },
   "1002705322": {

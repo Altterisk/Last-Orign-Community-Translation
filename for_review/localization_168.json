@@ -32,7 +32,7 @@
     "korean": "위대한 도약 : AP {0}"
   },
   "BuffDesc1_Effect_PECS_Spartoia_N_53": {
-    "english": "Great Leap : Immune to action point reduction",
+    "english": "Great Leap : Immune to SPD reduction",
     "korean": "위대한 도약 : 행동력 감소 면역"
   },
   "BuffDesc1_Effect_PECS_Stinger_N_1": {
@@ -788,7 +788,7 @@
     "korean": "아르고스의 눈 : 피해 감소 효과 해제"
   },
   "BuffDesc1_Effect_ST_Mercury_N_13": {
-    "english": "“Woo”rgos’s Eye : Cooperative Attack (X-02 Ur)",
+    "english": "“Woo”rgos’s Eye : Cooperative Attack (X-02 Ullr)",
     "korean": "우'르고스의 눈 : 협동 공격 (X-02 우르)"
   },
   "BuffDesc1_Effect_ST_Mercury_N_2": {
@@ -1280,11 +1280,11 @@
     "korean": "달콤한 향기 : 행동력{0}%"
   },
   "BuffDesc2_Effect_3P_Aurora_N_41": {
-    "english": "Sweet Scent: AP {0}% (Adjacent)",
+    "english": "Sweet Scent: SPD {0}% (Adjacent)",
     "korean": "달콤한 향기 : 행동력{0}% (인접)"
   },
   "BuffDesc2_Effect_3P_Aurora_N_42": {
-    "english": "Sweet Scent: AP {0}% (Below certain HP)",
+    "english": "Sweet Scent: SPD {0}% (Below certain HP)",
     "korean": "달콤한 향기 : 행동력{0}% (일정 체력 이하)"
   },
   "BuffDesc2_Effect_3P_Aurora_N_5": {
@@ -1460,7 +1460,7 @@
     "korean": "저돌 : 방어력 강화 효과 해제"
   },
   "BuffDesc2_Effect_3P_Galatea_N_22": {
-    "english": "Close combat : Action points enhancement effect removal",
+    "english": "Close combat : SPD enhancement effect removal",
     "korean": "육박 : 행동력 강화 효과 해제"
   },
   "BuffDesc2_Effect_3P_Galatea_N_23": {
@@ -1908,11 +1908,11 @@
     "korean": "목표물 견제 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_AGS_Fortress_CH_21": {
-    "english": "Target Suppression : Action {0}%",
+    "english": "Target Suppression : SPD {0}%",
     "korean": "목표물 견제 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_AGS_Fortress_CH_22": {
-    "english": "Target Suppression : Action {0}%",
+    "english": "Target Suppression : SPD {0}%",
     "korean": "목표물 견제 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_AGS_Fortress_CH_3": {
@@ -2648,7 +2648,7 @@
     "korean": "강선형 박격포 : 적중{0}%"
   },
   "BuffDesc2_Effect_BR_Efreeti_N_5": {
-    "english": "Leave me alone... : Action Points{0}%",
+    "english": "Leave me alone... : SPD{0}%",
     "korean": "날 혼자 내버려둬... : 행동력{0}%"
   },
   "BuffDesc2_Effect_BR_Efreeti_None_1": {
@@ -2676,7 +2676,7 @@
     "korean": "강선형 박격포 : 적중{0}%"
   },
   "BuffDesc2_Effect_BR_Efreeti_None_5": {
-    "english": "Leave me alone...: AP {0}%",
+    "english": "Leave me alone...: SPD {0}%",
     "korean": "날 혼자 내버려둬... : 행동력{0}%"
   },
   "BuffDesc2_Effect_BR_Ellie_N_1": {
@@ -2732,7 +2732,7 @@
     "korean": "원호 사격 : 회피{0}%"
   },
   "BuffDesc2_Effect_BR_Gnome_N_12": {
-    "english": "STL Formation : Action Points{0}%",
+    "english": "STL Formation : SPD{0}%",
     "korean": "STL 포메이션 : 행동력{0}%"
   },
   "BuffDesc2_Effect_BR_Gnome_N_2": {
@@ -2768,7 +2768,7 @@
     "korean": "원호 사격 : 회피 {0}%"
   },
   "BuffDesc2_Effect_BR_Gnome_N_None12": {
-    "english": "STL Formation: AP {0}%",
+    "english": "STL Formation: SPD {0}%",
     "korean": "STL 포메이션 : 행동력{0}%"
   },
   "BuffDesc2_Effect_BR_Gnome_N_None2": {
@@ -2856,11 +2856,11 @@
     "korean": "통합 항전 정보처리 : 적중 {0}%"
   },
   "BuffDesc2_Effect_BR_Harpy_N_5": {
-    "english": "NVEL System : Action Points {0}",
+    "english": "NVEL System : SPD {0}%",
     "korean": "NVEL 시스템 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_Hela_N_1": {
-    "english": "Gangryeong : Action Points {0}% (self)",
+    "english": "Gangryeong : SPD {0}% (self)",
     "korean": "강령 : 행동력 {0}% (자신)"
   },
   "BuffDesc2_Effect_BR_Hela_N_2": {
@@ -2888,7 +2888,7 @@
     "korean": "손톱 자국 : 방어력 강화 해제"
   },
   "BuffDesc2_Effect_BR_HongRyun_N_1": {
-    "english": "Freezing Bolt : Action Points {0}%",
+    "english": "Freezing Bolt : SPD {0}%",
     "korean": "빙결 볼트 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_HongRyun_N_2": {
@@ -2900,11 +2900,11 @@
     "korean": "정보 소진"
   },
   "BuffDesc2_Effect_BR_HongRyun_N_3": {
-    "english": "Counterterror Command : Action Points {0}%",
+    "english": "Counterterror Command : SPD {0}%",
     "korean": "대 테러 지휘 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_HongRyun_N_31": {
-    "english": "Anti-Terror Command : Action {0}% (Amplified)",
+    "english": "Anti-Terror Command : SPD {0}% (Amplified)",
     "korean": "대 테러 지휘 : 행동력 {0}% (증폭)"
   },
   "BuffDesc2_Effect_BR_HongRyun_N_32": {
@@ -2988,7 +2988,7 @@
     "korean": "샷건 연사 : 피해량 {0}%"
   },
   "BuffDesc2_Effect_BR_Hyena_N_3": {
-    "english": "Infectious Madness : Action Points {0}% (per unit)",
+    "english": "Infectious Madness : SPD {0}% (per unit)",
     "korean": "전염되는 광기 : 행동력 {0}% (1기당)"
   },
   "BuffDesc2_Effect_BR_Hyena_N_31": {
@@ -2996,11 +2996,11 @@
     "korean": "전염되는 광기 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_Hyena_N_37": {
-    "english": "Assault Initiation : AP {0}% (Skarabia)",
+    "english": "Assault Initiation : SPD {0}% (Skarabia)",
     "korean": "돌격 개시 : 행동력 {0}%(스카라비아)"
   },
   "BuffDesc2_Effect_BR_Hyena_N_38": {
-    "english": "Assault initiation: Action points {0}% (Keshik)",
+    "english": "Assault initiation: SPD {0}% (Keshik)",
     "korean": "돌격 개시 : 행동력 {0}%(케시크)"
   },
   "BuffDesc2_Effect_BR_Hyena_N_4": {
@@ -3112,7 +3112,7 @@
     "korean": "전의 고양 : 대 경장형 피해량 {0}%"
   },
   "BuffDesc2_Effect_BR_Khan_N_51": {
-    "english": "Morale Boost : Action Points {0}%",
+    "english": "Morale Boost : SPD {0}%",
     "korean": "전의 고양 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_Kheshig_N_1": {
@@ -3128,15 +3128,15 @@
     "korean": "전술 배치 : 공격력 {0}%"
   },
   "BuffDesc2_Effect_BR_Kheshig_N_22": {
-    "english": "Tactical deployment: Action points {0}%",
+    "english": "Tactical deployment: SPD {0}%",
     "korean": "전술 배치 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_Kheshig_N_23": {
-    "english": "Tactical deployment: Action points {0}%",
+    "english": "Tactical deployment: SPD {0}%",
     "korean": "전술 배치 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_Kheshig_N_24": {
-    "english": "Tactical deployment: Action points {0}%",
+    "english": "Tactical deployment: SPD {0}%",
     "korean": "전술 배치 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_Kheshig_N_3": {
@@ -3204,7 +3204,7 @@
     "korean": "포메이션 재정비 : 적중{0}%"
   },
   "BuffDesc2_Effect_BR_Leprechaun_N_4": {
-    "english": "Ammo Resupply : Action Points{0}% (per Support unit)",
+    "english": "Ammo Resupply : SPD{0}% (per Support unit)",
     "korean": "잔탄 보급 : 행동력{0}% (지원기 1기당)"
   },
   "BuffDesc2_Effect_BR_Leprechaun_N_5": {
@@ -3536,7 +3536,7 @@
     "korean": "안돼요! : 치명타{0}% (스틸라인)"
   },
   "BuffDesc2_Effect_BR_PXSilky_N_502": {
-    "english": "No! : CRIT {0}% (AP)",
+    "english": "No! : CRIT {0}% (SPD)",
     "korean": "안돼요! : 치명타{0}% (행동력)"
   },
   "BuffDesc2_Effect_BR_Pani_N_1": {
@@ -3732,7 +3732,7 @@
     "korean": "후퇴는 없다! : 치명타 {0}%"
   },
   "BuffDesc2_Effect_BR_RedHood_N_5": {
-    "english": "Action Points {0}% (1 unit reduced)",
+    "english": "SPD {0}% (1 unit reduced)",
     "korean": "행동력 {0}% (1인 감소)"
   },
   "BuffDesc2_Effect_BR_RoyalArsenal_N_1": {
@@ -3748,7 +3748,7 @@
     "korean": "중장부대 지휘 : 방어력 {0}%"
   },
   "BuffDesc2_Effect_BR_RoyalArsenal_N_4": {
-    "english": "Unlimited Supply Initiated : Action Points {0}%",
+    "english": "Unlimited Supply Initiated : SPD {0}%",
     "korean": "무제한 보급 개시 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_RoyalArsenal_N_5": {
@@ -3780,7 +3780,7 @@
     "korean": "트리플 : 적중 {0}%"
   },
   "BuffDesc2_Effect_BR_Salamander_N_53": {
-    "english": "Full House : Action Points {0}%",
+    "english": "Full House : SPD {0}%",
     "korean": "풀 하우스 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_Salamander_N_55": {
@@ -3852,7 +3852,7 @@
     "korean": "무사태평 : 행동 횟수 증감 해제"
   },
   "BuffDesc2_Effect_BR_Scarabya_N_4": {
-    "english": "Caffeine Charge : Action Points {0}%",
+    "english": "Caffeine Charge : SPD {0}%",
     "korean": "카페인 충전 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_Scarabya_N_5": {
@@ -3896,7 +3896,7 @@
     "korean": "포신 냉각 : <재장전> 해제"
   },
   "BuffDesc2_Effect_BR_Sirene_CH_2": {
-    "english": "Reload: AP {0}%",
+    "english": "Reload: SPD {0}%",
     "korean": "재장전 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_Sirene_CH_4": {
@@ -3928,7 +3928,7 @@
     "korean": "협차 사격 : 치명타 {0}%"
   },
   "BuffDesc2_Effect_BR_Sirene_N_4": {
-    "english": "Interception Mode: AP {0}%",
+    "english": "Interception Mode: SPD {0}%",
     "korean": "요격 모드 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_Sirene_N_5": {
@@ -3956,15 +3956,15 @@
     "korean": "속도 승부야! : 치명타 {0}%"
   },
   "BuffDesc2_Effect_BR_Sleipnir_N_4": {
-    "english": "Leaving Me Behind? : Action / Evasion reduction removed",
+    "english": "Leaving Me Behind? : SPD / Evasion reduction removed",
     "korean": "두고 간다? : 행동력 / 회피 감소 해제"
   },
   "BuffDesc2_Effect_BR_Sleipnir_N_41": {
-    "english": "Leaving Me Behind? : Action reduction removed",
+    "english": "Leaving Me Behind? : SPD reduction removed",
     "korean": "두고 간다? : 행동력 감소 해제"
   },
   "BuffDesc2_Effect_BR_Sleipnir_N_5": {
-    "english": "Unstoppable Charge : Action reduction removed",
+    "english": "Unstoppable Charge : SPD reduction removed",
     "korean": "멈출 수 없는 질주 : 행동력 감소 해제"
   },
   "BuffDesc2_Effect_BR_Spriggan_N_1": {

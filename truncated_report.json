@@ -1,0 +1,290 @@
+[
+  {
+    "file": "localization_014.json",
+    "id": "1000601396",
+    "korean": "- 파괴 명령? 기억이 없다고? 제대로 싸운다고?&n이 소녀들은 누구고 무슨 이야길 하고 있는 걸까?",
+    "original": "Tch, but if they start giving weird orders, they'll just be a burden, won’t they? And if they’ve lost their memory, we’ll have to explain every little thing too!",
+    "current": "-combat orders? memory loss? war?&nWho are these girls, and what are they talking about?",
+    "diff": -73
+  },
+  {
+    "file": "localization_172.json",
+    "id": "BuffName_Effect_BR_Sterling_N_31",
+    "korean": "이걸 빠뜨렸네요: 범위 내 둠 브링어 아군의 적중/ 치명타/ 행동력 증가",
+    "original": "Forgot This One: ACU / CRIT / Action Speed Increase for Doom Bringer Allies Within Range",
+    "current": "Forgot This One: ACU / CRIT / SPD",
+    "diff": -55
+  },
+  {
+    "file": "localization_172.json",
+    "id": "BuffName_Effect_BR_Sterling_N_3",
+    "korean": "이걸 빠뜨렸네요: 범위 내 아군의 적중/ 치명타/ 행동력 증가",
+    "original": "Forgot This One: ACU / CRIT / Action Speed Increase for Allies Within Range",
+    "current": "Forgot This One: ACU / CRIT / SPD",
+    "diff": -42
+  },
+  {
+    "file": "localization_129.json",
+    "id": "1002703066",
+    "korean": "적이 처치될 때마다 공격력 / 행동력 증가",
+    "original": "Increase ATK / Action Speed Each Time an Enemy is Defeated",
+    "current": "Increase ATK / SPD",
+    "diff": -40
+  },
+  {
+    "file": "localization_133.json",
+    "id": "1002707254",
+    "korean": "로봇 아군 공격력 / 방어력 / 행동력 증가, 포츈 스쿼드시 버프 추가 적용, 대기시 받는 피해 감소",
+    "original": "Increases ATK / DEF / AP of allied robots.&nIf Fortune is in the squad, additional buffs are applied.&nWhen waiting, reduces damage taken.",
+    "current": "Increases ATK / DEF / SPD increases, Fortune squad when buff added, waiting time damage reduction.",
+    "diff": -40
+  },
+  {
+    "file": "localization_129.json",
+    "id": "1002703184",
+    "korean": "자신의 보호를 받는 아군들의 AP / 행동력 증가. 자신은 받는 피해 감소",
+    "original": "Increase AP / Action Speed of Allies Protected by Self. Self Damage Taken Reduction",
+    "current": "Increase AP / SPD. Self Damage Taken Reduction",
+    "diff": -37
+  },
+  {
+    "file": "localization_187.json",
+    "id": "SkillDesc_Skill_BR_Efreeti_N_5",
+    "korean": "라운드 개시 시, 인접한 아군이 없을 경우, 범위 내 아군에게 행동력 증가효과를 부여합니다. 스쿼드 내에 자신을 제외 한 <스틸라인 계통>의 전투원이 없는 경우, 범위 내 아군에게 행동력 증가 효과가 추가로 적용되고 자신은 행동력 증가 효과가 해제됩니다.  자신을 제외 한 <스틸라인 계통>의 전투원이 있거나 아군이 인접한 상태면 자신에게 행동력 증가 효과가 각각 적용되며 <140mm 고폭탄> 스킬의 발사 / <곡사 포격> 착탄 시, 범위 내 적의 모든 광역 피해 분산 효과를 해제 합니다.",
+    "original": "At the start of the round, if there are no adjacent allies, grants an action power increase effect to allies within range.&nIf there are no \"Steel Line\" system units in the squad, excluding yourself, an additional action power increase effect is applied to allies within range, and the action power increase effect on yourself is removed.&nIf there are \"Steel Line\" system units in the squad, excluding yourself, or if allies are adjacent, the action power increase effect is applied to yourself, and upon firing \"140mm High-Explosive Shell\" or upon \"Howitzer Bombardment\" impact, removes all area damage dispersion effects on enemies within range.",
+    "current": "At the start of the round, if there are no adjacent allies, grants an SPD increase effect to allies within range.&nIf there are no \"Steel Line\" system units in the squad, excluding yourself, an additional SPD increase effect is applied to allies within range, and the SPD increase effect on yourself is removed.&nIf there are \"Steel Line\" system units in the squad, excluding yourself, or if allies are adjacent, the SPD increase effect is applied to yourself, and upon firing \"140mm High-Explosive Shell\" or upon \"Howitzer Bombardment\" impact, removes all area damage dispersion effects on enemies within range.",
+    "diff": -36
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Chip_HyperChipHp_T1",
+    "korean": "HP+{0}",
+    "original": "Increase EXP Gained When Attacking Lv.1",
+    "current": "HP+{0}",
+    "diff": -33
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Chip_HyperChipHp_T2",
+    "korean": "HP+{0}",
+    "original": "Increase EXP Gained When Attacking Lv.1",
+    "current": "HP+{0}",
+    "diff": -33
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Chip_HyperChipHp_T3",
+    "korean": "HP+{0}",
+    "original": "Increase EXP Gained When Attacking Lv.1",
+    "current": "HP+{0}",
+    "diff": -33
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Chip_HyperChipHp_T4",
+    "korean": "HP+{0}",
+    "original": "Increase EXP Gained When Attacking Lv.1",
+    "current": "HP+{0}",
+    "diff": -33
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Chip_HyperChipHp_T5",
+    "korean": "HP+{0}",
+    "original": "Increase EXP Gained When Attacking Lv.1",
+    "current": "HP+{0}",
+    "diff": -33
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Chip_HyperChip_T1",
+    "korean": "행동력+{0}",
+    "original": "Increase EXP Gained When Attacking Lv.1",
+    "current": "SPD+{0}",
+    "diff": -32
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Chip_HyperChip_T2",
+    "korean": "행동력+{0}",
+    "original": "Increase EXP Gained When Attacking Lv.1",
+    "current": "SPD+{0}",
+    "diff": -32
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Chip_HyperChip_T3",
+    "korean": "행동력+{0}",
+    "original": "Increase EXP Gained When Attacking Lv.1",
+    "current": "SPD+{0}",
+    "diff": -32
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Chip_HyperChip_T4",
+    "korean": "행동력+{0}",
+    "original": "Increase EXP Gained When Attacking Lv.1",
+    "current": "SPD+{0}",
+    "diff": -32
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Chip_HyperChip_T5",
+    "korean": "행동력+{0}",
+    "original": "Increase EXP Gained When Attacking Lv.1",
+    "current": "SPD+{0}",
+    "diff": -32
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Chip_Outback_T4",
+    "korean": "공격력+{0} / 방어력+{1} / 회피+{2}",
+    "original": "DEF Penetration / Max Action Count / Skill 1 Range Increase",
+    "current": "ATK+{0} / DEF+{1} / EVA+{2}",
+    "diff": -32
+  },
+  {
+    "file": "localization_013.json",
+    "id": "1000600853",
+    "korean": "정말… 우리 공주님, 괴롭힌다고 괴롭힘을 당해주면 안돼요.&n오늘 밤엔 그리폰을 더 잘 가르쳐 줘야… 응? 이 신호 간섭은…",
+    "original": "Really… Our princess, you must not endure being troubled just because someone bothers you. Tonight, you should teach the griffon better… hmm? This signal interference is…",
+    "current": "Now now… Princess, just being passive when you're being bullied won't solve anything, you know? Tonight, you should teach griffon a lesson…",
+    "diff": -31
+  },
+  {
+    "file": "localization_172.json",
+    "id": "BuffName_Effect_3P_Hachiko_N_2",
+    "korean": "은혜 갚기 : 자신의 보호를 받는 아군 AP / 행동력 증가",
+    "original": "Repay Kindness: AP / AP Increase for Ally Under Your Protection",
+    "current": "Repay Kindness: AP / SPD Increase",
+    "diff": -30
+  },
+  {
+    "file": "localization_186.json",
+    "id": "SkillDescSimple_Skill_BR_Miho_N_4",
+    "korean": "<전위 지원> 효과 대상 방어력 / 회피 / 행동력 증가. 조건부 자신 스킬 위력 증가.",
+    "original": "Increases DEF / EVA / AP of <Vanguard Support> targets.&nConditionally increases own skill power.",
+    "current": "Increases DEF / EVA / SPD. Conditionally increases own skill power.",
+    "diff": -30
+  },
+  {
+    "file": "localization_188.json",
+    "id": "SkillDesc_Skill_LC_Stella_N_5",
+    "korean": "라운드 개시 시 자신에게 스킬 위력 증가 효과를 부여합니다..&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 [도움?]을 부여합니다.&n도움? 1 : AP 증가&n도움? 2 : AP 증가 / 행동력 증가&n도움? 3 : AP 증가 / 행동력 증가 / 효과 저항 증가&n도움? 4 : AP 증가 / 행동력 증가 / 효과 저항 증가 / 받는 피해 감소 효과 부여&n라운드 개시 시 자신을 제외한 <라이언 코퍼레이션> 전투원을 공격 지원합니다.&n※ 스쿼드 내에 공격 지원 대상이 중복된 경우 공격 지원은 1회만 적용됩니다.",
+    "original": "At the start of the round, grant yourself a Skill Power Increase effect. At the start of the round, if there are <Lion Corporation> combatants in the squad excluding yourself, grant [Help?] to all allies based on the number of combatants. Help? 1: Increase AP Help? 2: Increase AP / Increase Action Points Help? 3: Increase AP / Increase Action Points / Increase Effect Resistance Help? 4: Increase AP / Increase Action Points / Increase Effect Resistance / Grant Damage Reduction At the start of the round, provide Attack Support to <Lion Corporation> combatants excluding yourself. ※ If there are duplicate Attack Support targets within the squad, Attack Support is applied only once.",
+    "current": "At the start of the round, grant yourself a Skill Power Increase effect. At the start of the round, if there are <Lion Corporation> combatants in the squad excluding yourself, grant [Help?] to all allies based on the number of combatants. Help? 1: Increase AP Help? 2: Increase AP / Increase SPD Help? 3: Increase AP / Increase SPD / Increase Effect Resistance Help? 4: Increase AP / Increase SPD / Increase Effect Resistance / Grant Damage Reduction At the start of the round, provide Attack Support to <Lion Corporation> combatants excluding yourself. ※ If there are duplicate Attack Support targets within the squad, Attack Support is applied only once.",
+    "diff": -30
+  },
+  {
+    "file": "localization_188.json",
+    "id": "SkillDesc_Skill_MP_Stella_N_5",
+    "korean": "라운드 개시 시 자신에게 스킬 위력 증가 효과를 부여합니다..&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 [도움?]을 부여합니다.&n도움? 1 : AP 증가&n도움? 2 : AP 증가 / 행동력 증가&n도움? 3 : AP 증가 / 행동력 증가 / 효과 저항 증가&n도움? 4 : AP 증가 / 행동력 증가 / 효과 저항 증가 / 받는 피해 감소 효과 부여&n라운드 개시 시 자신을 제외한 <라이언 코퍼레이션> 전투원을 공격 지원합니다.&n※ 스쿼드 내에 공격 지원 대상이 중복된 경우 공격 지원은 1회만 적용됩니다.",
+    "original": "At the start of the round, grant yourself a Skill Power Increase effect. At the start of the round, if there are <Lion Corporation> combatants in the squad excluding yourself, grant [Help?] to all allies based on the number of combatants. Help? 1: Increase AP Help? 2: Increase AP / Increase Action Points Help? 3: Increase AP / Increase Action Points / Increase Effect Resistance Help? 4: Increase AP / Increase Action Points / Increase Effect Resistance / Grant Damage Reduction At the start of the round, provide Attack Support to <Lion Corporation> combatants excluding yourself. ※ If there are duplicate Attack Support targets within the squad, Attack Support is applied only once.",
+    "current": "At the start of the round, grant yourself a Skill Power Increase effect. At the start of the round, if there are <Lion Corporation> combatants in the squad excluding yourself, grant [Help?] to all allies based on the number of combatants. Help? 1: Increase AP Help? 2: Increase AP / Increase SPD Help? 3: Increase AP / Increase SPD / Increase Effect Resistance Help? 4: Increase AP / Increase SPD / Increase Effect Resistance / Grant Damage Reduction At the start of the round, provide Attack Support to <Lion Corporation> combatants excluding yourself. ※ If there are duplicate Attack Support targets within the squad, Attack Support is applied only once.",
+    "diff": -30
+  },
+  {
+    "file": "localization_131.json",
+    "id": "1002705196",
+    "korean": "적 공격 시, 공격력 증가. <듀얼리스트> 중첩 수에 따라 치명타 / 행동력 증가",
+    "original": "When attacking, ATK increase. CRIT / AP increase according to <Duelist> stacks",
+    "current": "When attacking, ATK increase. CRIT / SPD increase",
+    "diff": -29
+  },
+  {
+    "file": "localization_187.json",
+    "id": "SkillDesc_Skill_BR_Khan_N_5",
+    "korean": "라운드 개시 시, 자신의 방어 관통 / 대 경장형 / 중장형 피해량이 증가합니다. &n라운드 개시 시, 3라운드 동안 자신의 공격력 / 행동력이 증가합니다.&n적 처치 시, 2라운드 동안 자신의 공격력 / 행동력이 증가합니다.",
+    "original": "At the start of the round, increases your DEF penetration / damage to heavy and medium armor types.&nAt the start of the round, increases your ATK power / action power for 3 rounds.&nUpon enemy kill, increases your ATK power / action power for 2 rounds.",
+    "current": "At the start of the round, increases your DEF penetration / damage to Heavy armor types.&nAt the start of the round, increases your ATK power / SPD for 3 rounds.&nUpon enemy kill, increases your ATK power / SPD for 2 rounds.",
+    "diff": -29
+  },
+  {
+    "file": "localization_013.json",
+    "id": "1000600795",
+    "korean": "이거 속옷 아니거든? 전투용 수트라서 전혀 부끄럽지 않은데?&n공중전 유닛은 원래 무게를 줄이려고 이런 수트 입거든?",
+    "original": "This isn’t underwear, okay? It’s a combat suit, so there’s nothing to be embarrassed about. Aerial units wear these suits to reduce weight, you know?",
+    "current": "This is a combat suit! There’s nothing to be embarrassed about. Aerial units wear these suits to reduce weight, you know?",
+    "diff": -28
+  },
+  {
+    "file": "localization_132.json",
+    "id": "1002706155",
+    "korean": "라운드 개시 시, 범위 내 아군들의 공격력 / 적중 / 행동력이 증가합니다. <전투 관측 프레임> 장착 시, 각 효과의 33%가 상시 적용됩니다. 방어 지휘로 전환 시, 효과가 50% 감소합니다.",
+    "original": "At round start, increases ATK / ACU / action speed of allies in range. When equipped with <Combat Observation Frame>, 33% of these effects are always active. Effects reduce by 50% when switched to defense command.",
+    "current": "At round start, increases ATK / ACU / SPD. When equipped with <Combat Observation Frame>, 33% of these effects are always active. Effects reduce by 50% when switched to defense command.",
+    "diff": -28
+  },
+  {
+    "file": "localization_189.json",
+    "id": "SkillDesc_Skill_PECS_MightyR_CH_3",
+    "korean": "라운드 개시 시, <초 펌핑 업> 상태가 되어 자신의 공격력 / 행동력이 증가합니다.&n라운드 개시 시, 아군 바이오로이드의 공격력 / 행동력을 증가시킵니다.&n공격 적중 시, 2라운드 동안 아군 바이오로이드의 공격력 / 행동력을 추가로 증가시킵니다. (최대 1중첩)",
+    "original": "At the start of the round, enter <Super Pump Up> state, increasing your ATK / action power.&nAt the start of the round, increases allied Bioroids' ATK / action power.&nOn a successful hit, further increases allied Bioroids' ATK / action power for 2 rounds. (Max 1 stack)",
+    "current": "At the start of the round, enter <Super Pump Up> state, increasing your ATK / SPD.&nAt the start of the round, increases allied Bioroids' ATK / SPD.&nOn a successful hit, further increases allied Bioroids' ATK / SPD for 2 rounds. (Max 1 stack)",
+    "diff": -27
+  },
+  {
+    "file": "localization_010.json",
+    "id": "1000109319",
+    "korean": "뜨거운 기세: 공격 적중 시 공격력/냉기 저항 증가 / 자신 행동력/치명확률 증가",
+    "original": "Burning Spirit: On hit, increase attack power/cold resistance / Increase self action speed/critical rate",
+    "current": "Burning Spirit: On hit, increase attack power/cold resistance / SPD/critical rate",
+    "diff": -23
+  },
+  {
+    "file": "localization_010.json",
+    "id": "1000109320",
+    "korean": "뜨거운 기세: 공격 적중 시 공격력/냉기 저항 증가 / 자신 행동력/치명확률 증가",
+    "original": "Burning Spirit: On hit, increase attack power/cold resistance / Increase self action speed/critical rate",
+    "current": "Burning Spirit: On hit, increase attack power/cold resistance / SPD/critical rate",
+    "diff": -23
+  },
+  {
+    "file": "localization_130.json",
+    "id": "1002703807",
+    "korean": "범위 내 보호기를 제외한 경장형 / 중장형 아군을 지정 대상 보호합니다. 중장형이면 공격력 / 행동력 증가 효과를 주며, 해당 효과는 장갑 전개 모드에선 50% 감소 적용됩니다.",
+    "original": "Designate protection for light/medium-heavy allies within range excluding protectors. If medium-heavy, grant increased ATK and action speed, with these effects reduced by 50% in Armor Deployment Mode.",
+    "current": "Designate protection for light/Heavy allies within range excluding protectors. If Heavy, grant increased ATK and SPD, with these effects reduced by 50% in Armor Deployment Mode.",
+    "diff": -23
+  },
+  {
+    "file": "localization_130.json",
+    "id": "1002703811",
+    "korean": "범위 내 보호기를 제외한 경장형 / 중장형 아군을 지정 대상 보호합니다. 범위 내 중장형 아군에게 공격력 / 행동력 증가 효과를 줍니다.",
+    "original": "Designate protection for light/medium-heavy allies within range excluding protectors. Grants increased ATK and action speed to medium-heavy allies within range.",
+    "current": "Designate protection for light/Heavy allies within range excluding protectors. Grants increased ATK and SPD to Heavy allies within range.",
+    "diff": -23
+  },
+  {
+    "file": "localization_130.json",
+    "id": "1002703601",
+    "korean": "범위 내 경장 / 기동형 아군 공격력 / 적중 / 행동력 증가 / 지정 대상 보호",
+    "original": "Increase ATK / ACU / EVA for light armored / mobile units within range / provide protection to designated target.",
+    "current": "Increase ATK / ACU / EVA for light armored / SPD / provide protection to designated target.",
+    "diff": -22
+  },
+  {
+    "file": "localization_176.json",
+    "id": "ItemDesc_Equip_Sub_Silverbullet_T4",
+    "korean": "적중+{0} / 치명타+{1} / 행동력+{2} / 재공격",
+    "original": "All Elemental Resistance+{0} / ATK / CRIT / ACU / Max Action Count Increase",
+    "current": "All Elemental Resistance+{0} / ATK / CRIT / ACU / SPD",
+    "diff": -22
+  },
+  {
+    "file": "localization_002.json",
+    "id": "1000101358",
+    "korean": "고전압 스턴건 : AP / 회피 / 행동력 감소",
+    "original": "High Voltage Stun Gun : AP decrease and EVA decrease and AP decrease",
+    "current": "High Voltage Stun Gun : AP / EVA / SPD decrease",
+    "diff": -21
+  },
+  {
+    "file": "localization_133.json",
+    "id": "1002706452",
+    "korean": "전투 개시 시 전투 속행 효과를 얻습니다. 라운드 개시 시 받는 피해가 감소하며 행동력이 증가합니다. 받는 피해 감소 효과는 HP가 75% / 50% 이하가 될 때마다 증가합니다.",
+    "original": "At the start of combat, gains the \"Continue Battle\" effect.&nAt the start of each round, damage taken is reduced and action points (or speed) are increased.&nThe damage reduction effect increases each time HP drops below 75% and 50%.",
+    "current": "At the start of combat, gains the \"Continue Battle\" effect.&nAt the start of each round, damage taken is reduced and SPD are increased.&nThe damage reduction effect increases each time HP drops below 75% and 50%.",
+    "diff": -21
+  }
+]
