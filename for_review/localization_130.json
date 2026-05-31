@@ -992,7 +992,7 @@
     "korean": "방어력 / 전기 저항 / 효과 저항 증가 / 열 보호"
   },
   "1002703601": {
-    "english": "Increase ATK / ACU / EVA for light armored / SPD / provide protection to designated target.",
+    "english": "Increase ATK / ACU / SPD for Light armored / Air units / provide protection to designated target.",
     "korean": "범위 내 경장 / 기동형 아군 공격력 / 적중 / 행동력 증가 / 지정 대상 보호"
   },
   "1002703602": {
@@ -2596,7 +2596,7 @@
     "korean": "포격을 난사해 지정 범위에 {0} 보호 무시 피해를 줍니다. 대상이 이동 불가 / 회피 감소 상태면 피해량이 증가합니다. 각 피해량 증가 효과는 중첩됩니다. <지상 제압 포격> 상태일 시, 목표 범위 안의 적에게 AP를 감소시키고, 2라운드 동안 받는 피해 증가를 증가시킵니다."
   },
   "1002704003": {
-    "english": "At the start of combat, supports attacks of <Steel Line> faction members within range except oneself, or light/medium allies with lower SPD than oneself. When supporting another combatant's attack, own AP increases.",
+    "english": "At the start of combat, supports attacks of <Steel Line> faction members within range except oneself, or light/Heavy allies with lower SPD than oneself. When supporting another combatant's attack, own AP increases.",
     "korean": "전투 시작 시, 범위 내 자신을 제외한 <스틸라인 계열> 부대원 또는 자신보다 행동력이 낮은 경장/중장형 아군의 공격을 지원합니다. 자신이 다른 전투원의 공격을 지원할 경우, 자신의 AP가 증가합니다."
   },
   "1002704004": {
@@ -3144,7 +3144,7 @@
     "korean": "공격 시, 2라운드 동안 범위 내 아군들의 적중 / 치명타 / 방어 관통이 증가합니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002704140": {
-    "english": "Increases ATK, ACU, SPD, and DEF penetration while reducing damage taken. While on standby, transforms into <Bombardment Mode>, doubling ATK and DEF penetration effects and increasing damage to light and medium-heavy types, but removing ACU and SPD increase effects and applying only 50% of the damage reduction effect.",
+    "english": "Increases ATK, ACU, SPD, and DEF penetration while reducing damage taken. While on standby, transforms into <Bombardment Mode>, doubling ATK and DEF penetration effects and increasing damage to light and Heavy types, but removing ACU and SPD increase effects and applying only 50% of the damage reduction effect.",
     "korean": "공격력 / 적중 / 행동력 / 방어 관통이 증가하며 받는 피해가 감소합니다. 대기 시 <포격 모드>로 변환해 공격력 / 방어 관통 효과가 2배로 증가하며 대 경장&중장형 피해량이 증가하지만, 적중 / 행동력 증가 효과가 사라지며 받는 피해 감소 효과가 50%만 적용됩니다."
   },
   "1002704141": {
@@ -3160,7 +3160,7 @@
     "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점에서 멀어질수록 피해량이 25%씩 감소하며, 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다. 스킬 사용 시 추가 AP가 소모되며, 2라운드 동안 행동력이 감소합니다. 스킬 레벨이 높아질수록 재 장전 비용이 감소하며, 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002704144": {
-    "english": "At the start of the round, ATK / DEF penetration / damage to light & medium-heavy types increase, while damage taken decreases. When on standby, switches to Interception Mode, increasing ACU / SPD and doubling damage reduction effects, but ATK / DEF penetration effects are reduced by 50%, and the damage increase to light & medium-heavy types disappears.",
+    "english": "At the start of the round, ATK / DEF penetration / damage to light & Heavy types increase, while damage taken decreases. When on standby, switches to Interception Mode, increasing ACU / SPD and doubling damage reduction effects, but ATK / DEF penetration effects are reduced by 50%, and the damage increase to light & Heavy types disappears.",
     "korean": "라운드 개시 시, 공격력 / 방어 관통 / 대 경장&중장형 피해량이 증가하며 받는 피해가 감소합니다. 대기하면 요격 모드로 전환해 적중 / 행동력이 증가하며 받는 피해 감소 효과가 2배가 되지만, 공격력 / 방어 관통 효과가 50%로 감소하며 대 경장&중장형 피해량 증가 효과가 사라집니다."
   },
   "1002704145": {

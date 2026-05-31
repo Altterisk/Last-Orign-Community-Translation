@@ -820,47 +820,47 @@
     "korean": "켈베 전장 피해량 추가 더미"
   },
   "1002705591": {
-    "english": "Lize Battlefield Buff Dummy Lv.1",
+    "english": "Lise Battlefield Buff Dummy Lv.1",
     "korean": "리제 전장 버프 더미 Lv.1"
   },
   "1002705592": {
-    "english": "Lize Battlefield Buff Dummy Lv.2",
+    "english": "Lise Battlefield Buff Dummy Lv.2",
     "korean": "리제 전장 버프 더미 Lv.2"
   },
   "1002705593": {
-    "english": "Lize Battlefield Buff Dummy Lv.3",
+    "english": "Lise Battlefield Buff Dummy Lv.3",
     "korean": "리제 전장 버프 더미 Lv.3"
   },
   "1002705594": {
-    "english": "Lize Battlefield Buff Dummy Lv.4",
+    "english": "Lise Battlefield Buff Dummy Lv.4",
     "korean": "리제 전장 버프 더미 Lv.4"
   },
   "1002705595": {
-    "english": "Lize Battlefield Buff Dummy Lv.5",
+    "english": "Lise Battlefield Buff Dummy Lv.5",
     "korean": "리제 전장 버프 더미 Lv.5"
   },
   "1002705596": {
-    "english": "Lize Battlefield Buff Dummy Lv.6",
+    "english": "Lise Battlefield Buff Dummy Lv.6",
     "korean": "리제 전장 버프 더미 Lv.6"
   },
   "1002705597": {
-    "english": "Lize Battlefield Buff Dummy Lv.7",
+    "english": "Lise Battlefield Buff Dummy Lv.7",
     "korean": "리제 전장 버프 더미 Lv.7"
   },
   "1002705598": {
-    "english": "Lize Battlefield Buff Dummy Lv.8",
+    "english": "Lise Battlefield Buff Dummy Lv.8",
     "korean": "리제 전장 버프 더미 Lv.8"
   },
   "1002705599": {
-    "english": "Lize Battlefield Buff Dummy Lv.9",
+    "english": "Lise Battlefield Buff Dummy Lv.9",
     "korean": "리제 전장 버프 더미 Lv.9"
   },
   "1002705600": {
-    "english": "Lize Battlefield Buff Dummy Lv.10",
+    "english": "Lise Battlefield Buff Dummy Lv.10",
     "korean": "리제 전장 버프 더미 Lv.10"
   },
   "1002705601": {
-    "english": "Lize Battlefield Buff Dummy Lv.11",
+    "english": "Lise Battlefield Buff Dummy Lv.11",
     "korean": "리제 전장 버프 더미 Lv.11"
   },
   "1002705602": {
@@ -2520,7 +2520,7 @@
     "korean": "금빛 물결(다프네 중첩)"
   },
   "1002706016": {
-    "english": "Golden Wave (Scissors Lize Stack)",
+    "english": "Golden Wave (Scissors Lise Stack)",
     "korean": "금빛 물결(시저스 리제 중첩)"
   },
   "1002706017": {
@@ -3076,7 +3076,7 @@
     "korean": "자신의 HP가 33% 이하인 경우 리미터를 해제해 공격력 / 회피 / 행동력이 크게 증가하며 버스터 캐논의 위력이 증가합니다. 해당 상태에서 공격 시, 라운드 종료 시점에 과부하로 인한 고정 지속 피해가 적용됩니다. 과부하 효과는 중첩됩니다."
   },
   "1002706155": {
-    "english": "At round start, increases ATK / ACU / SPD. When equipped with <Combat Observation Frame>, 33% of these effects are always active. Effects reduce by 50% when switched to defense command.",
+    "english": "At round start, increases ATK / ACU / SPD of allies in range. When equipped with <Combat Observation Frame>, 33% of these effects are always active. Effects reduce by 50% when switched to defense command.",
     "korean": "라운드 개시 시, 범위 내 아군들의 공격력 / 적중 / 행동력이 증가합니다. <전투 관측 프레임> 장착 시, 각 효과의 33%가 상시 적용됩니다. 방어 지휘로 전환 시, 효과가 50% 감소합니다."
   },
   "1002706156": {
@@ -3256,7 +3256,7 @@
     "korean": "회피 성공 시, 해당 라운드 동안 적의 빈틈을 노려 반격 합니다."
   },
   "1002706200": {
-    "english": "At the start of the round, supports attacks of <Steel Line> units or allied light/medium-armored units within range (excluding yourself) with lower SPD than yourself. This effect cannot be removed.&nWhen you support attacks of other combatants, your AP increases.",
+    "english": "At the start of the round, supports attacks of <Steel Line> units or allied light/Heavy-armored units within range (excluding yourself) with lower SPD than yourself. This effect cannot be removed.&nWhen you support attacks of other combatants, your AP increases.",
     "korean": "라운드 개시 시, 범위 내 자신을 제외한 <스틸라인 계열> 부대원 또는 자신보다 행동력이 낮은 경장/중장형 아군의 공격을 지원합니다. 해당 효과는 해제할 수 없습니다. 자신이 다른 전투원의 공격을 지원할 경우, 자신의 AP가 증가합니다."
   },
   "1002706201": {
@@ -3768,7 +3768,7 @@
     "korean": "지정 대상에게 미사일과 연막탄을 발사해 {0} 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 / 적중 감소 상태로 만듭니다. 표식을 제외한 효과는 중첩 가능합니다. <하드포인트 탑재 : 보조> 활성화 시, 받는 피해 증가 / 적중 감소 효과가 2배로 적용되며 적중 강화 효과를 해제합니다. <하드포인트 탑재 : 무장> 활성화 상태로 치명타 시, 피해량이 증가합니다."
   },
   "1002706328": {
-    "english": "At the start of the round, increases CRIT / ACU / EVA / SPD of allies within range.&nWhen deployed with <Horizon> members, increases allies' ATK.&nIf the target is <AG-2C Siren>, provides attack support.&nWhen <Hardpoint Equipped: Support> is active, all effects except ATK are applied at 2x strength.&nAfter the battle ends, Recon is activated.",
+    "english": "At the start of the round, increases CRIT / ACU / EVA / SPD of allies within range.&nWhen deployed with <Horizon> members, increases allies' ATK.&nIf the target is <AG-2C Sirene>, provides attack support.&nWhen <Hardpoint Equipped: Support> is active, all effects except ATK are applied at 2x strength.&nAfter the battle ends, Recon is activated.",
     "korean": "라운드 개시 시, 범위 내 아군의 치명타 / 적중 / 회피 / 행동력이 증가합니다. <호라이즌> 대원과 편성된 경우, 아군의 공격력을 증가시킵니다. 대상이 <AG-2C 세이렌>일 경우, 공격을 지원합니다. <하드포인트 탑재 : 보조> 활성화 시, 공격력을 제외한 각 효과가 2배로 적용됩니다. 전투 종료 후, 정찰이 활성화됩니다."
   },
   "1002706329": {

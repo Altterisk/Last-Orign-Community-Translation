@@ -192,7 +192,7 @@
     "korean": "라운드 개시 시, 범위 내의 경장 / 기동형 아군들의 공격력 / 적중 / 행동력을 증가시키며 대상들을 지정 보호합니다."
   },
   "1002704402": {
-    "english": "At battle start, reduces AP / slows SPD / increases damage taken of light / medium enemies within range for 2 rounds. If the target is medium class, the effect increases by 50%. Range increases at skill level 10.",
+    "english": "At battle start, reduces AP / slows SPD / increases damage taken of light / Heavy enemies within range for 2 rounds. If the target is Heavy class, the effect increases by 50%. Range increases at skill level 10.",
     "korean": "전투 개시 시, 범위 내 경장형 / 중장형 적을 2라운드 동안 행동력 감소 / 이동 불가 / 받는 피해 증가 상태로 만듭니다. 대상이 중장형일 경우, 효과가 50% 증가합니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002704403": {
@@ -3276,7 +3276,7 @@
     "korean": "단일 대상 {0} 피해. 대상이 듀얼 개시 상태면 피해량 대폭 증가"
   },
   "1002705196": {
-    "english": "When attacking, ATK increase. CRIT / SPD increase",
+    "english": "When attacking, ATK increase. CRIT / SPD increase according to <Duelist> stacks",
     "korean": "적 공격 시, 공격력 증가. <듀얼리스트> 중첩 수에 따라 치명타 / 행동력 증가"
   },
   "1002705197": {
