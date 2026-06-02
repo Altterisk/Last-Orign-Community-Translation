@@ -4,11 +4,11 @@
     "korean": "확장 패시브 : 적중 시, AP 감소"
   },
   "Effect_ExtPassiveSkill_N_2303": {
-    "english": "Extended Passive: On Critical, Damage Increase",
+    "english": "Extended Passive: On CRIT, Damage Increase",
     "korean": "확장 패시브 : 치명타 시, 피해량 증가"
   },
   "Effect_ExtPassiveSkill_N_2304": {
-    "english": "Extended Passive: On Critical, Physical Damage",
+    "english": "Extended Passive: On CRIT, Physical Damage",
     "korean": "확장 패시브 : 치명타 시, 물리 피해"
   },
   "Effect_ExtPassiveSkill_N_2305": {
@@ -100,15 +100,15 @@
     "korean": "확장 패시브 : 적중 시, 보호무시 불가 10"
   },
   "Effect_MP_HauntedFortress_N_1": {
-    "english": "Disarm Fire: Ignores shield / reduces ATK / CRIT",
+    "english": "Disarm Fire: Ignore Protection / ATK Decrease / CRIT Decrease",
     "korean": "무장 해제 사격 : 보호 무시 / 공격력 / 치명타 감소"
   },
   "Effect_MP_HauntedFortress_N_2": {
-    "english": "Rejection Fire: Pushes targets backward",
+    "english": "Rejection Fire: Push Back",
     "korean": "접근 거부 사격 : 뒤로 밀기"
   },
   "Effect_MP_HauntedFortress_N_3": {
-    "english": "Penetration Resistance: Increases fire protection / DEF / reduces damage received",
+    "english": "Penetration Resistance: Column Protect / DEF Increase / Damage Reduction",
     "korean": "관통 내성 : 열 보호 / 방어력 증가 / 받는 피해 감소"
   },
   "Effect_MP_HauntedFortress_N_4": {
@@ -116,7 +116,7 @@
     "korean": "고정형 참호 : 아군 지정 보호"
   },
   "Effect_MP_HauntedFortress_N_41": {
-    "english": "Fixed Trench: Minimizes damage",
+    "english": "Fixed Trench: Minimize Damage",
     "korean": "고정형 참호 : 피해 최소화"
   },
   "Effect_MP_HauntedFortress_N_5": {
@@ -124,7 +124,7 @@
     "korean": "쓰러지지 않는 성채 : 조건부 전투 속행"
   },
   "Effect_MP_Kidnapper_EV19_C_36": {
-    "english": "Insight: continuous physical damage",
+    "english": "Insight: Physical DoT DMG",
     "korean": "눈치 : 지속 물리 피해"
   },
   "Ev_Chocolate_3P_Alice_Desc": {
@@ -3072,7 +3072,7 @@
     "korean": "공격력+{0} / 회피+{1}"
   },
   "ItemDesc_Equip_Sub_Halo_T4": {
-    "english": "ATK+{0} / ACU+{1} / On Kill: Continue Combat / Shield / Ignore Damage Reduction",
+    "english": "ATK+{0} / ACU+{1} / On Kill: Continue Combat / Ignore Barrier / Damage Reduction",
     "korean": "공격력+{0} / 적중+{1} / 적 처치 시, 전투 속행 / 방어막 / 피해 감소 무시"
   },
   "ItemDesc_Equip_Sub_Hasta_T4": {

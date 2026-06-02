@@ -4,11 +4,11 @@
     "korean": "오염액 누출 : 화염 속성 저항력 감소"
   },
   "BuffName_Effect_MP_Predator_EW2_43": {
-    "english": "Contaminant Leak: Continuous Physical Damage",
+    "english": "Contaminant Leak: Physical DoT DMG",
     "korean": "오염액 누출 : 지속 물리 피해"
   },
   "BuffName_Effect_MP_Predator_EW2_5": {
-    "english": "Instinct to Protect: Removes Harmful Effects / Shield",
+    "english": "Instinct to Protect: Debuff Removal / Barrier",
     "korean": "보호 본능 : 해로운 효과 해제 / 방어막"
   },
   "BuffName_Effect_MP_PuppHead_TR_Basic_3": {
@@ -16,15 +16,15 @@
     "korean": "훈련용 프로그램 : 치명타 감소"
   },
   "BuffName_Effect_MP_PuppetAR_N_1": {
-    "english": "Provocation Barrage: Mark / Provocation",
+    "english": "Provocation Barrage: Marked / Provokes",
     "korean": "도발 난사 : 표식 / 도발"
   },
   "BuffName_Effect_MP_PuppetAR_N_3": {
-    "english": "PECS Overlay BIOS: Damage Taken Increase",
+    "english": "PECS Overlay BIOS: DMG Taken Increased",
     "korean": "PECS 오버레이 바이오스 : 받는 피해 증가"
   },
   "BuffName_Effect_MP_PuppetAR_N_31": {
-    "english": "PECS Overlay BIOS: ACU / CRIT / SPD Increase",
+    "english": "PECS Overlay BIOS: ACC Increase / CRIT Increase / SPD Increase",
     "korean": "PECS 오버레이 바이오스 : 적중 / 치명타 / 행동력 증가"
   },
   "BuffName_Effect_MP_PuppetAR_N_4": {
@@ -32,35 +32,35 @@
     "korean": "배드 섹터 : 방어력 증가"
   },
   "BuffName_Effect_MP_PuppetAR_N_41": {
-    "english": "Bad Sector: Unable to Act",
+    "english": "Bad Sector: Stunned",
     "korean": "배드 섹터 : 행동 불가"
   },
   "BuffName_Effect_MP_PuppetAR_N_5": {
-    "english": "Firewall: Effect Resistance Increase",
+    "english": "Firewall: Status Resist Increase",
     "korean": "방화벽 : 효과 저항 증가"
   },
   "BuffName_Effect_MP_PuppetDM_N_1": {
-    "english": "Dead Eye: Ignores Protection Activated",
+    "english": "Dead Eye: Activate Ignore Protection",
     "korean": "데드 아이 : 보호 무시 활성화"
   },
   "BuffName_Effect_MP_PuppetDM_N_3": {
-    "english": "PECS Overlay BIOS: ACU / CRIT / ATK Increase",
+    "english": "PECS Overlay BIOS: ACC Increase / CRIT Increase / ATK Increase",
     "korean": "PECS 오버레이 바이오스 : 적중 / 치명타 / 공격력 증가"
   },
   "BuffName_Effect_MP_PuppetDM_N_4": {
-    "english": "Bad Sector: Attack Support",
+    "english": "Bad Sector: Follow-Up Attack",
     "korean": "배드 섹터 : 공격 지원"
   },
   "BuffName_Effect_MP_PuppetHA_N_1": {
-    "english": "Dual Flare Gun: Mark / EVA Decrease",
+    "english": "Dual Flare Gun: Marked / EVA Decrease",
     "korean": "2연장 예광탄 속사포 : 표식 / 회피 감소"
   },
   "BuffName_Effect_MP_PuppetHA_N_3": {
-    "english": "PECS Overlay BIOS: DEF Increase / Damage Taken Reduction",
+    "english": "PECS Overlay BIOS: DEF Increase / Damage Reduction",
     "korean": "PECS 오버레이 바이오스 : 방어력 증가 / 받는 피해 감소"
   },
   "BuffName_Effect_MP_PuppetHA_N_4": {
-    "english": "Bad Sector: Designated Protection",
+    "english": "Bad Sector: Target Protect",
     "korean": "배드 섹터 : 지정 보호"
   },
   "BuffName_Effect_MP_PuppetHW_N_2": {
@@ -68,7 +68,7 @@
     "korean": "피로 파괴 유발탄 : 방어력 감소"
   },
   "BuffName_Effect_MP_PuppetHW_N_3": {
-    "english": "PECS Overlay BIOS: ACU / CRIT / DEF Penetration Increase",
+    "english": "PECS Overlay BIOS: ACC Increase / CRIT Increase / DEF Penetration Increase",
     "korean": "PECS 오버레이 바이오스 : 적중 / 치명타 / 방어 관통 증가"
   },
   "BuffName_Effect_MP_PuppetHW_N_4": {
@@ -76,11 +76,11 @@
     "korean": "배드 섹터 : AP 증가"
   },
   "BuffName_Effect_MP_Rampart13_N_1": {
-    "english": "Full Auto Suppression: ATK / CRIT / ACU / SPD Decrease",
+    "english": "Full Auto Suppression: ATK Decrease / CRIT Decrease / ACC Decrease / SPD Decrease",
     "korean": "완전 기총 견제 : 공격력 / 치명타/ 적중/ 행동력 감소"
   },
   "BuffName_Effect_MP_Rampart13_N_2": {
-    "english": "Full Intercept Stance: DEF Increase / Damage Taken Reduction / Counterattack",
+    "english": "Full Intercept Stance: DEF Increase / Damage Reduction / Counter Attack",
     "korean": "완전 요격 태세 : 방어력 증가 / 받는 피해 감소 / 반격"
   },
   "BuffName_Effect_MP_Rampart13_N_3": {
@@ -96,23 +96,23 @@
     "korean": "훈련용 프로그램 : 회피율 증가"
   },
   "BuffName_Effect_MP_Ravager_Challenge1_2": {
-    "english": "Disruption Wave: ATK Increase / Counterattack",
+    "english": "Disruption Wave: ATK Increase / Counter Attack",
     "korean": "착란 파동 : 공격력 증가 / 반격"
   },
   "BuffName_Effect_MP_Ravager_Challenge1_3": {
-    "english": "Reconnaissance: Counterattack",
+    "english": "Reconnaissance: Counter Attack",
     "korean": "탐색전 : 반격"
   },
   "BuffName_Effect_MP_Ravager_Challenge1_31": {
-    "english": "Reconnaissance: ACU Increase",
+    "english": "Reconnaissance: ACC Increase",
     "korean": "탐색전 : 적중 증가"
   },
   "BuffName_Effect_MP_Ravager_Challenge1_4": {
-    "english": "Light Command Disruption: Skill Power / SPD / Effect Trigger Decrease",
+    "english": "Light Command Disruption: Skill Power Decrease / SPD Decrease / Effect Activation Rate Decrease",
     "korean": "경장 지휘 교란 : 스킬 위력 / 행동력 / 효과 발동 감소"
   },
   "BuffName_Effect_MP_Ravager_Challenge1_5": {
-    "english": "Cowardly Survival Strategy: Immune to Damage Taken Increase",
+    "english": "Cowardly Survival Strategy: DMG Taken Increased Immunity",
     "korean": "비겁한 생존 전략 : 받는 피해 증가 면역"
   },
   "BuffName_Effect_MP_Ravager_Challenge1_51": {
@@ -120,15 +120,15 @@
     "korean": "비겁한 생존 전략 : 스킬 위력 감소"
   },
   "BuffName_Effect_MP_Ravager_Challenge2_1": {
-    "english": "Erosion Claws: ATK / SPD Decrease",
+    "english": "Erosion Claws: ATK Decrease / SPD Decrease",
     "korean": "침식의 발톱 : 공격력 / 행동력 감소"
   },
   "BuffName_Effect_MP_Ravager_Challenge2_2": {
-    "english": "Decomposition Promotion: Continuous Physical Damage",
+    "english": "Decomposition Promotion: Physical DoT DMG",
     "korean": "분해 촉진 : 지속 물리 피해"
   },
   "BuffName_Effect_MP_Ravager_Challenge2_3": {
-    "english": "Wing Retraction: Immune to ATK Decrease",
+    "english": "Wing Retraction: ATK Decrease Immunity",
     "korean": "날개 움츠리기 : 공격력 감소 면역"
   },
   "BuffName_Effect_MP_Ravager_Challenge2_32": {
@@ -136,31 +136,31 @@
     "korean": "날개 움츠리기 : 공격력 증가"
   },
   "BuffName_Effect_MP_Ravager_Challenge2_4": {
-    "english": "Heavy Command Disruption: Skill Power / SPD / Effect Trigger Decrease",
+    "english": "Heavy Command Disruption: Skill Power Decrease / SPD Decrease / Effect Activation Rate Decrease",
     "korean": "중장 지휘 교란 : 스킬 위력 / 행동력 / 효과 발동 감소"
   },
   "BuffName_Effect_MP_Ravager_Challenge3_2": {
-    "english": "Organizational Meltdown: Continuous Physical Damage",
+    "english": "Organizational Meltdown: Physical DoT DMG",
     "korean": "조직 융해 : 지속 물리 피해"
   },
   "BuffName_Effect_MP_Ravager_Challenge3_3": {
-    "english": "Free Reign: Immune to Skill Power Decrease",
+    "english": "Free Reign: Skill Power Decrease Immunity",
     "korean": "활개 펴기 : 스킬 위력 감소 면역"
   },
   "BuffName_Effect_MP_Ravager_Challenge3_4": {
-    "english": "Mobile Command Disruption: Skill Power / SPD / Effect Trigger Decrease",
+    "english": "Mobile Command Disruption: Skill Power Decrease / SPD Decrease / Effect Activation Rate Decrease",
     "korean": "기동 지휘 교란 : 스킬 위력 / 행동력 / 효과 발동 감소"
   },
   "BuffName_Effect_MP_Ravager_Challenge4_1": {
-    "english": "Particle Collapse: Continuous Physical Damage",
+    "english": "Particle Collapse: Physical DoT DMG",
     "korean": "입자 붕괴 : 지속 물리 피해"
   },
   "BuffName_Effect_MP_Ravager_Challenge4_3": {
-    "english": "Acceleration Drive: AP / EVA / DEF Penetration Increase",
+    "english": "Acceleration Drive: AP Increase / EVA Increase / DEF Penetration Increase",
     "korean": "증속 구동 : AP / 회피 / 방어 관통 증가"
   },
   "BuffName_Effect_MP_Ravager_Challenge4_32": {
-    "english": "Acceleration Drive: Removes Harmful Effects / SPD Increase",
+    "english": "Acceleration Drive: Debuff Removal / SPD Increase",
     "korean": "증속 구동 : 해로운 효과 해제 / 행동력 증가"
   },
   "BuffName_Effect_MP_Ravager_Challenge4_4": {
@@ -192,39 +192,39 @@
     "korean": "모조리 물고기 밥이 되어라!"
   },
   "BuffName_Effect_MP_Sirene_Challenge1_1": {
-    "english": "Special Modified Anti-Aircraft Gun: EVA reduction",
+    "english": "Special Modified Anti-Aircraft Gun: EVA Decrease",
     "korean": "특수 개조 대공포 : 회피 감소"
   },
   "BuffName_Effect_MP_Sirene_Challenge1_3": {
-    "english": "Problem Child Control: ATK / DEF increase",
+    "english": "Problem Child Control: ATK Increase / DEF Increase",
     "korean": "문제아 통제 : 공격력 / 방어력 증가"
   },
   "BuffName_Effect_MP_Sirene_Challenge1_4": {
-    "english": "Chairman Mode: Damage taken reduction",
+    "english": "Chairman Mode: Damage Reduction",
     "korean": "회장 모드 : 받는 피해 감소"
   },
   "BuffName_Effect_MP_Sirene_Challenge1_5": {
-    "english": "Problem Child Observation: Immune to action disabled / skill use disabled",
+    "english": "Problem Child Observation: Stunned / Silenced Immunity",
     "korean": "문제아 관찰 : 행동 불가 / 스킬 사용 불가 면역"
   },
   "BuffName_Effect_MP_Sirene_Challenge1_51": {
-    "english": "Problem Child Observation: ACU / SPD increase",
+    "english": "Problem Child Observation: ACC Increase / SPD Increase",
     "korean": "문제아 관찰 : 적중 / 행동력 증가"
   },
   "BuffName_Effect_MP_Sirene_Challenge2_2": {
-    "english": "Carpet Bombing: Continuous physical damage",
+    "english": "Carpet Bombing: Physical DoT DMG",
     "korean": "융단 포격 : 지속 물리 피해"
   },
   "BuffName_Effect_MP_Sirene_Challenge2_21": {
-    "english": "Carpet Bombing: SPD reduction",
+    "english": "Carpet Bombing: SPD Decrease",
     "korean": "융단 포격 : 행동력 감소"
   },
   "BuffName_Effect_MP_Sirene_Challenge2_3": {
-    "english": "Subordinate Control: ATK / CRIT increase",
+    "english": "Subordinate Control: ATK Increase / CRIT Increase",
     "korean": "부하 통제 : 공격력 / 치명타 증가"
   },
   "BuffName_Effect_MP_Sirene_Challenge2_4": {
-    "english": "Boss Mode: DEF penetration increase",
+    "english": "Boss Mode: DEF Penetration Increase",
     "korean": "두목 모드 : 방어 관통 증가"
   },
   "BuffName_Effect_MP_Sparrow13_N_1": {
@@ -232,11 +232,11 @@
     "korean": "아하하하하 또 한놈!! : 전기 도트 데미지, 행동력 감소"
   },
   "BuffName_Effect_MP_Sparrow13_N_2": {
-    "english": "Alert! Alert! Alert!: ACU, EVA increase and AP increase",
+    "english": "Alert! Alert! Alert!: ACC, EVA increase and AP increase",
     "korean": "경보! 경보! 경보! : 적중률 , 회피율 증가 및 AP증가"
   },
   "BuffName_Effect_MP_Sparrow13_N_3": {
-    "english": "One less worry: DEF / Fire resistance / Cold resistance increase",
+    "english": "One less worry: DEF Increase / Fire Resist Increase / Cold Resist Increase",
     "korean": "걱정거리 하나 덜었군: 방어력/ 화염 저항/ 냉기 저항 증가"
   },
   "BuffName_Effect_MP_Sparrow13_N_4": {
@@ -244,11 +244,11 @@
     "korean": "나중에 봅시다: 전투 시작시 피해 무효화"
   },
   "BuffName_Effect_MP_Speaker13_N_1": {
-    "english": "Kiiing: Push back",
+    "english": "Kiiing: Push Back",
     "korean": "키이잉 : 뒤로 밀기"
   },
   "BuffName_Effect_MP_Speaker13_N_2": {
-    "english": "Kkiiiiiiik!: DEF / EVA reduction",
+    "english": "Kkiiiiiiik!: DEF Decrease / EVA Decrease",
     "korean": "끼이이이이익! : 방어력 / 회피 감소"
   },
   "BuffName_Effect_MP_Speaker13_N_3": {
@@ -256,15 +256,15 @@
     "korean": "치이이이이익: 자신의 공격력 증가"
   },
   "BuffName_Effect_MP_Speaker13_N_4": {
-    "english": "Beep beep beep beep: ACU and EVA increase",
+    "english": "Beep beep beep beep: ACC and EVA increase",
     "korean": "삐삐삐삐: 적중 및 회피 수치 증가"
   },
   "BuffName_Effect_MP_Stalker13_N_1": {
-    "english": "Switch: Shield / Damage reduction ignore",
+    "english": "Switch: Ignore Barrier / Damage Reduction",
     "korean": "스위치 : 방어막 / 피해 감소 무시"
   },
   "BuffName_Effect_MP_Stalker13_N_2": {
-    "english": "Keep the target centered: CRIT / ACU / SPD increase",
+    "english": "Keep the target centered: CRIT Increase / ACC Increase / SPD Increase",
     "korean": "목표를 센터에 놓고 :치명타 / 적중/ 행동력 증가"
   },
   "BuffName_Effect_MP_Stalker13_N_3": {
@@ -272,7 +272,7 @@
     "korean": "고통은 적의 수만큼 : 지속 속성 피해"
   },
   "BuffName_Effect_MP_Stalker13_N_31": {
-    "english": "Fragile as glass: Cold resistance reduction",
+    "english": "Fragile as glass: Cold Resist Decrease",
     "korean": "유리같은 섬세함 :냉기 저항 감소"
   },
   "BuffName_Effect_MP_Stalker13_N_4": {
@@ -304,7 +304,7 @@
     "korean": "반사 데미지"
   },
   "BuffName_Effect_MP_Triton_B09_1": {
-    "english": "Machine gun fire: Cooperative attack / ATK reduction / DEF reduction",
+    "english": "Machine gun fire: Cooperative Attack / ATK Decrease / DEF Decrease",
     "korean": "기관포 사격 : 협동 공격 / 공격력 감소 / 방어력 감소"
   },
   "BuffName_Effect_MP_Triton_B09_2": {
@@ -312,7 +312,7 @@
     "korean": "초토화 : 모든 강화 효과 해제 / 집속 공격"
   },
   "BuffName_Effect_MP_Triton_B09_3": {
-    "english": "Active response algorithm: AP reduction immunity / Taunt immunity / ATK, DEF increase",
+    "english": "Active response algorithm: AP reduction immunity / Provoke immunity / ATK, DEF increase",
     "korean": "능동 대응 알고리즘 : AP 감소 면역 / 도발 면역 / 공격력,방어력 증가"
   },
   "BuffName_Effect_MP_Triton_B09_4": {
@@ -328,23 +328,23 @@
     "korean": "자폭"
   },
   "BuffName_Effect_MP_UnderWatcherGenerator_EW2_1": {
-    "english": "Energy charge: ATK / Effect resistance increase / Damage immunity (1 time)",
+    "english": "Energy charge: ATK / Effect resistance increase / Damage immunity (1x)",
     "korean": "에너지 충전 : 공격력 / 효과저항 증가 / 피해 무효화 (1회)"
   },
   "BuffName_Effect_MP_UnderWatcherGenerator_EW2_11": {
-    "english": "Energy charge: ATK increase / Damage immunity (1 time)",
+    "english": "Energy charge: ATK Increase / Damage Nullification (1x)",
     "korean": "에너지 충전 : 공격력 증가 / 피해 무효화 (1회)"
   },
   "BuffName_Effect_MP_UnderWatcherGenerator_EW2_2": {
-    "english": "Energy shield: Shield / Status ailment removal",
+    "english": "Energy shield: Barrier / Status ailment removal",
     "korean": "에너지 실드 : 방어막 / 상태 이상 해제"
   },
   "BuffName_Effect_MP_UnderWatcherGenerator_EW2_3": {
-    "english": "Recharge start: Damage taken reduction / Effect resistance increase / Damage immunity",
+    "english": "Recharge start: Damage Reduction / Status Resist Increase / Damage Nullification",
     "korean": "재충전 개시 : 받는 피해 감소 / 효과 저항 증가 / 피해 무효화"
   },
   "BuffName_Effect_MP_UnderWatcherGenerator_EW2_31": {
-    "english": "Recharge start: Damage taken reduction / Effect resistance increase / Damage immunity",
+    "english": "Recharge start: Damage Reduction / Status Resist Increase / Damage Nullification",
     "korean": "재충전 개시 : 받는 피해 감소 / 효과 저항 증가 / 피해 무효화"
   },
   "BuffName_Effect_MP_UnderWatcherGenerator_EW2_4": {
@@ -364,71 +364,71 @@
     "korean": "긴급 동력 방출 : 아군 파괴 시, 아군 AP 변경"
   },
   "BuffName_Effect_MP_UnderWatcherGenerator_EW2_51": {
-    "english": "Emergency power release: When self destroyed, ally action disabled",
+    "english": "Emergency power release: When self destroyed, ally Stunned",
     "korean": "긴급 동력 방출 : 자신 파괴 시, 아군 행동 불능"
   },
   "BuffName_Effect_MP_Undine_Challenge1_1": {
-    "english": "Improved revolver cannon: CRIT reduction",
+    "english": "Improved revolver cannon: CRIT Decrease",
     "korean": "개량형 리볼버 캐논 : 치명타 감소"
   },
   "BuffName_Effect_MP_Undine_Challenge1_3": {
-    "english": "180-degree turn?!: Designated protection / AP increase",
+    "english": "180-degree turn?!: Target Protect / AP Increase",
     "korean": "180도 선회?! : 지정 보호 / AP 증가"
   },
   "BuffName_Effect_MP_Undine_Challenge1_31": {
-    "english": "360-degree turn?!: Shield / Damage reduction ignore",
+    "english": "360-degree turn?!: Ignore Barrier / Damage Reduction",
     "korean": "360도 선회?! : 방어막 / 피해 감소 무시"
   },
   "BuffName_Effect_MP_Undine_Challenge1_41": {
-    "english": "Arrogance and prejudice: ACU increase",
+    "english": "Arrogance and prejudice: ACC Increase",
     "korean": "거만과 편견 : 적중 증가"
   },
   "BuffName_Effect_MP_Undine_Challenge1_43": {
-    "english": "Arrogance and prejudice: EVA increase",
+    "english": "Arrogance and prejudice: EVA Increase",
     "korean": "거만과 편견 : 회피 증가"
   },
   "BuffName_Effect_MP_Undine_Challenge1_5": {
-    "english": "El?rang?: Damage taken reduction",
+    "english": "El?rang?: Damage Reduction",
     "korean": "엘?랑? : 받는 피해 감소"
   },
   "BuffName_Effect_MP_Undine_Challenge1_55": {
-    "english": "El?rang?: Damage taken increase",
+    "english": "El?rang?: DMG Taken Increased",
     "korean": "엘?랑? : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Babariana_N_1": {
-    "english": "Uninvited Guest Suppression: Taunt / ATK / CRIT decrease",
+    "english": "Uninvited Guest Suppression: Provokes / ATK Decrease / CRIT Decrease",
     "korean": "불청객 제압 : 도발 / 공격력 / 치명타 감소"
   },
   "BuffName_Effect_PECS_Babariana_N_11": {
-    "english": "Uninvited Guest Suppression: Skill Usage Disabled",
+    "english": "Uninvited Guest Suppression: Silenced",
     "korean": "불청객 제압 : 스킬 사용 불가"
   },
   "BuffName_Effect_PECS_Babariana_N_2": {
-    "english": "Demolition Start: DEF decrease",
+    "english": "Demolition Start: DEF Decrease",
     "korean": "철거 개시 : 방어력 감소"
   },
   "BuffName_Effect_PECS_Babariana_N_22": {
-    "english": "Demolition Start: Damage Received increase",
+    "english": "Demolition Start: DMG Taken Increased",
     "korean": "철거 개시 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Babariana_N_3": {
-    "english": "Skilled Demolition Technique: ATK / CRIT / DEF Penetration / Effect Resistance increase",
+    "english": "Skilled Demolition Technique: ATK Increase / CRIT Increase / DEF Penetration Increase / Status Resist Increase",
     "korean": "숙련된 철거 기술 : 공격력 / 치명타 / 방어 관통 / 효과 저항 증가"
   },
   "BuffName_Effect_PECS_Babariana_N_4": {
-    "english": "Demolition Ready: Designated Protection",
+    "english": "Demolition Ready: Target Protect",
     "korean": "철거 준비 : 지정 보호"
   },
   "BuffName_Effect_PECS_Babariana_N_41": {
-    "english": "Demolition Ready: DEF Penetration increase / DEF Penetration Decrease Immunity",
+    "english": "Demolition Ready: DEF Penetration Increase / DEF Penetration Decrease Immunity",
     "korean": "철거 준비 : 방어 관통 증가 / 방어 관통 감소 면역"
   },
   "BuffName_Effect_PECS_Babariana_N_51": {
-    "english": "Tool Box Meeting: CRIT increase",
+    "english": "Tool Box Meeting: CRIT Increase",
     "korean": "Tool Box Meeting : 치명타 증가"
   },
   "BuffName_Effect_PECS_Babariana_N_55": {
-    "english": "Tool Box Meeting: DEF increase",
+    "english": "Tool Box Meeting: DEF Increase",
     "korean": "Tool Box Meeting : 방어력 증가"
   },
   "BuffName_Effect_PECS_BlindPrincess_N_1": {
@@ -436,83 +436,83 @@
     "korean": "<성검 : 빛의 약속> : 스킬 위력 / 사거리 감소"
   },
   "BuffName_Effect_PECS_BlindPrincess_N_21": {
-    "english": "Oath of Light: CRIT increase",
+    "english": "Oath of Light: CRIT Increase",
     "korean": "빛의 맹약 : 치명타 증가"
   },
   "BuffName_Effect_PECS_BlindPrincess_N_22": {
-    "english": "Pledge of Light: Protection Ignore Activation",
+    "english": "Pledge of Light: Activate Ignore Protection",
     "korean": "빛의 맹서 : 보호 무시 활성화"
   },
   "BuffName_Effect_PECS_BlindPrincess_N_31": {
-    "english": "Cast Stones at Me: Mark",
+    "english": "Cast Stones at Me: Marked",
     "korean": "내게 돌을 던지라 : 표식"
   },
   "BuffName_Effect_PECS_BlindPrincess_N_4": {
-    "english": "Epic Poem Dedicated to the Hero: Damage Received decrease",
+    "english": "Epic Poem Dedicated to the Hero: Damage Reduction",
     "korean": "영웅에게 올리는 서사시 : 받는 피해 감소"
   },
   "BuffName_Effect_PECS_BlindPrincess_N_42": {
-    "english": "Epic Poem Dedicated to the Hero: Range increase / Damage Immunity",
+    "english": "Epic Poem Dedicated to the Hero: Range Increase / Damage Nullification",
     "korean": "영웅에게 올리는 서사시 : 사거리 증가 / 피해 무효화"
   },
   "BuffName_Effect_PECS_BlindPrincess_N_5": {
-    "english": "An Eye for an Eye: ACU increase",
+    "english": "An Eye for an Eye: ACC Increase",
     "korean": "눈에는 눈 : 적중 증가"
   },
   "BuffName_Effect_PECS_Boryeon_N_1": {
-    "english": "Snip Snip~: ATK decrease",
+    "english": "Snip Snip~: ATK Decrease",
     "korean": "싹둑싹둑~ : 공격력 감소"
   },
   "BuffName_Effect_PECS_Boryeon_N_2": {
-    "english": "Smooth Smooth~: DEF decrease",
+    "english": "Smooth Smooth~: DEF Decrease",
     "korean": "매끈매끈~ : 방어력 감소"
   },
   "BuffName_Effect_PECS_Boryeon_N_3": {
-    "english": "Excellent Craftsmanship: ACU / CRIT increase",
+    "english": "Excellent Craftsmanship: ACC Increase / CRIT Increase",
     "korean": "뛰어난 손재주 : 적중 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Boryeon_N_4": {
-    "english": "Lively Beautician: ATK / SPD increase",
+    "english": "Lively Beautician: ATK Increase / SPD Increase",
     "korean": "발랄한 미용사 : 공격력 / 행동력 증가"
   },
   "BuffName_Effect_PECS_Boryeon_N_5": {
-    "english": "Aqua Land Beautician: Protection Ignore Activation",
+    "english": "Aqua Land Beautician: Activate Ignore Protection",
     "korean": "아쿠아 랜드 미용장 : 보호 무시 활성화"
   },
   "BuffName_Effect_PECS_Boryeon_N_51": {
-    "english": "Aqua Land Beautician: AP increase",
+    "english": "Aqua Land Beautician: AP Increase",
     "korean": "아쿠아 랜드 미용장 : AP 증가"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_1": {
-    "english": "Meteor Shatter Drill: DEF decrease",
+    "english": "Meteor Shatter Drill: DEF Decrease",
     "korean": "운석 파쇄 드릴 : 방어력 감소"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_2": {
-    "english": "Force Field Deployment: Shield / Designated Protection",
+    "english": "Force Field Deployment: Barrier / Target Protect",
     "korean": "역장 전개 : 방어막 / 지정 보호"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_3": {
-    "english": "On the Shoulders of Giants: Designated Protection / EVA increase",
+    "english": "On the Shoulders of Giants: Target Protect / EVA Increase",
     "korean": "거인의 어깨 위 : 지정 보호 / 회피 증가"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_31": {
-    "english": "On the Shoulders of Giants: Damage Received decrease",
+    "english": "On the Shoulders of Giants: Damage Reduction",
     "korean": "거인의 어깨 위 : 받는 피해 감소"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_4": {
-    "english": "Orbital Plating: DEF / Effect Resistance increase",
+    "english": "Orbital Plating: DEF Increase / Status Resist Increase",
     "korean": "오비탈 플레이팅 : 방어력 / 효과 저항 증가"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_41": {
-    "english": "Orbital Plating: Row / Column Protection",
+    "english": "Orbital Plating: Row/Column Protect",
     "korean": "오비탈 플레이팅 : 행 / 열 보호"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_42": {
-    "english": "Orbital Plating: All Attribute Resistance increase",
+    "english": "Orbital Plating: Elemental Resist Increase",
     "korean": "오비탈 플레이팅 : 모든 속성 저항 증가"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_43": {
-    "english": "Orbital Plating: Cold Resistance Decrease Immunity",
+    "english": "Orbital Plating: Cold Resist Decrease Immunity",
     "korean": "오비탈 플레이팅 : 냉기 저항 감소 면역"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_5": {
@@ -520,15 +520,15 @@
     "korean": "진공 단열 : 냉기 저항 하한"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_51": {
-    "english": "Vacuum Insulation: Damage Minimization",
+    "english": "Vacuum Insulation: Minimize Damage",
     "korean": "진공 단열 : 피해 최소화"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_53": {
-    "english": "Vacuum Insulation: SPD increase",
+    "english": "Vacuum Insulation: SPD Increase",
     "korean": "진공 단열 : 행동력 증가"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_1": {
-    "english": "<Dark Sword: Oath of Darkness>: Counterattack / Damage Minimization Removal",
+    "english": "<Dark Sword: Oath of Darkness>: Counter Attack / Damage Minimization Removal",
     "korean": "<마검 : 어둠의 서약> : 반격 / 피해 최소화 해제"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_11": {
@@ -548,19 +548,19 @@
     "korean": "<마검 : 어둠의 서약> : 방어력 / 효과 저항 감소"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_2": {
-    "english": "Eternal True Origin Flash: Counterattack Removal",
+    "english": "Eternal True Origin Flash: Counter Attack Removal",
     "korean": "영원한 진조의 섬광 : 반격 해제"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_21": {
-    "english": "Eternal True Origin Flash: Damage Reduction Weakening",
+    "english": "Eternal True Origin Flash: DMG Reduction Weakening",
     "korean": "영원한 진조의 섬광 : 피해 감소 약화"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_22": {
-    "english": "Eternal True Origin Flash: Damage Reduction Weakening",
+    "english": "Eternal True Origin Flash: DMG Reduction Weakening",
     "korean": "영원한 진조의 섬광 : 피해 감소 약화"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_23": {
-    "english": "Eternal True Origin Flash: Damage Reduction Weakening",
+    "english": "Eternal True Origin Flash: DMG Reduction Weakening",
     "korean": "영원한 진조의 섬광 : 피해 감소 약화"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_3": {
@@ -576,43 +576,43 @@
     "korean": "<진조의 권능 : 불사> : 전투 속행"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_4": {
-    "english": "Overflowing Power!: AP increase",
+    "english": "Overflowing Power!: AP Increase",
     "korean": "힘이 넘쳐 흐르는구나! : AP 증가"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_41": {
-    "english": "Overflowing Power!: ATK / SPD increase",
+    "english": "Overflowing Power!: ATK Increase / SPD Increase",
     "korean": "힘이 넘쳐 흐르는구나! : 공격력 / 행동력 증가"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_42": {
-    "english": "Overflowing Power!: ATK / SPD increase",
+    "english": "Overflowing Power!: ATK Increase / SPD Increase",
     "korean": "힘이 넘쳐 흐르는구나! : 공격력 / 행동력 증가"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_43": {
-    "english": "Overflowing Power!: ATK / SPD increase",
+    "english": "Overflowing Power!: ATK Increase / SPD Increase",
     "korean": "힘이 넘쳐 흐르는구나! : 공격력 / 행동력 증가"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_44": {
-    "english": "Overflowing Power!: ATK / SPD / DEF Penetration increase",
+    "english": "Overflowing Power!: ATK Increase / SPD Increase / DEF Penetration Increase",
     "korean": "힘이 넘쳐 흐르는구나! : 공격력 / 행동력 / 방어 관통 증가"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_5": {
-    "english": "Blood Curse: Attack Support Effect Removal",
+    "english": "Blood Curse: Follow-Up Attack Effect Removal",
     "korean": "피의 저주 : 공격 지원 효과 해제"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_51": {
-    "english": "Blood Curse: Damage Received increase",
+    "english": "Blood Curse: DMG Taken Increased",
     "korean": "피의 저주 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_CyclopsePrincess_N_52": {
-    "english": "Blood Curse: Max Action Count decrease",
+    "english": "Blood Curse: Max Action Decrease",
     "korean": "피의 저주 : 최대 행동 횟수 감소"
   },
   "BuffName_Effect_PECS_DarkElf_N_5": {
-    "english": "Nature’s Energy: ATK increase",
+    "english": "Nature’s Energy: ATK Increase",
     "korean": "자연의 기운 : 공격력 증가"
   },
   "BuffName_Effect_PECS_DarkElf_N_51": {
-    "english": "Nature’s Energy: ACU increase",
+    "english": "Nature’s Energy: ACC Increase",
     "korean": "자연의 기운 : 적중 증가"
   },
   "BuffName_Effect_PECS_Dione_N_1": {
@@ -620,7 +620,7 @@
     "korean": "안전 범위 이탈! : 보호 무시 냉기 공격 / 이동 불가"
   },
   "BuffName_Effect_PECS_Dione_N_11": {
-    "english": "Out of Safe Range!: Damage Immunity (1 time)",
+    "english": "Out of Safe Range!: Damage Nullification (1x)",
     "korean": "안전 범위 이탈! : 피해 무효화 (1회)"
   },
   "BuffName_Effect_PECS_Dione_N_2": {
@@ -628,19 +628,19 @@
     "korean": "스플래시 워터 밤 : 보호 무시 냉기 공격, 행동력 감소, <침수>"
   },
   "BuffName_Effect_PECS_Dione_N_3": {
-    "english": "Sea’s Turmoil: Taunt",
+    "english": "Sea’s Turmoil: Provokes",
     "korean": "바다의 투희 : 도발"
   },
   "BuffName_Effect_PECS_Dione_N_31": {
-    "english": "Sea’s Turmoil: SPD decrease",
+    "english": "Sea’s Turmoil: SPD Decrease",
     "korean": "바다의 투희 : 행동력 감소"
   },
   "BuffName_Effect_PECS_Dione_N_32": {
-    "english": "Sea’s Turmoil: Damage Received increase",
+    "english": "Sea’s Turmoil: DMG Taken Increased",
     "korean": "바다의 투희 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Dione_N_4": {
-    "english": "Current is Weight!: ATK / CRIT / SPD increase, Damage Reduction Removal",
+    "english": "Current is Weight!: ATK / CRIT / SPD increase, DMG Reduction Removal",
     "korean": "유속은 곧… 무게! : 공격력 / 치명타 / 행동력 증가, 받는 피해 감소 해제"
   },
   "BuffName_Effect_PECS_Dione_N_41": {
@@ -648,15 +648,15 @@
     "korean": "유속은 곧… 무게! : 받는 피해 감소 해제"
   },
   "BuffName_Effect_PECS_Dione_N_5": {
-    "english": "Golden Walkers Torpedo: Cold Resistance increase",
+    "english": "Golden Walkers Torpedo: Cold Resist Increase",
     "korean": "골든 워커즈 토르피도 : 냉기 저항 증가"
   },
   "BuffName_Effect_PECS_Dione_N_51": {
-    "english": "Golden Walkers Torpedo: Counterattack",
+    "english": "Golden Walkers Torpedo: Counter Attack",
     "korean": "골든 워커즈 토르피도 : 반격"
   },
   "BuffName_Effect_PECS_Dione_N_52": {
-    "english": "Golden Walkers Torpedo: Damage Immunity",
+    "english": "Golden Walkers Torpedo: Damage Nullification",
     "korean": "골든 워커즈 토르피도 : 피해 무효화"
   },
   "BuffName_Effect_PECS_Draculina_N_2": {
@@ -664,23 +664,23 @@
     "korean": "상흔 : 권속의 징표"
   },
   "BuffName_Effect_PECS_Draculina_N_3": {
-    "english": "Contempt: DEF Penetration increase",
+    "english": "Contempt: DEF Penetration Increase",
     "korean": "멸시 : 방어 관통 증가"
   },
   "BuffName_Effect_PECS_Draculina_N_31": {
-    "english": "Contempt: AP increase",
+    "english": "Contempt: AP Increase",
     "korean": "멸시 : AP 증가"
   },
   "BuffName_Effect_PECS_Draculina_N_32": {
-    "english": "Contempt: ATK / CRIT increase",
+    "english": "Contempt: ATK Increase / CRIT Increase",
     "korean": "멸시 : 공격력 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Draculina_N_4": {
-    "english": "Minion’s Ruler: Skill Use Disabled / Damage Received increase",
+    "english": "Minion’s Ruler: Silenced / DMG Taken Increased",
     "korean": "권속의 지배자 : 스킬 사용 불가 / 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Draculina_N_5": {
-    "english": "Sonar Detection: Recon Activation",
+    "english": "Sonar Detection: Activate Recon Effect",
     "korean": "음파 탐지 : 정찰 활성화"
   },
   "BuffName_Effect_PECS_Draculina_N_51": {
@@ -688,23 +688,23 @@
     "korean": "음파 탐지 : 대상 HP 반비례 피해량 증가"
   },
   "BuffName_Effect_PECS_Drone_N_2": {
-    "english": "Weakness Analysis: Damage Received increase / Effect Resistance / EVA decrease",
+    "english": "Weakness Analysis: DMG Taken Increased / Status Resist Decrease / EVA Decrease",
     "korean": "약점 분석 : 받는 피해 증가 / 효과 저항 / 회피 감소"
   },
   "BuffName_Effect_PECS_Drone_N_3": {
-    "english": "Afterburner: AP / Effect Resistance increase / SPD Decrease Immunity",
+    "english": "Afterburner: AP Increase / Status Resist Increase / SPD Decrease Immunity",
     "korean": "애프터버너 : AP / 효과 저항 증가 / 행동력 감소 면역"
   },
   "BuffName_Effect_PECS_Drone_N_4": {
-    "english": "Radar Alert Receiver: Protection Ignore Activation / ACU increase",
+    "english": "Radar Alert Receiver: Activate Ignore Protection / ACC Increase",
     "korean": "레이더 경보 수신기 : 보호 무시 활성화 / 적중 증가"
   },
   "BuffName_Effect_PECS_Drone_N_41": {
-    "english": "Radar Alert Receiver: Protection Ignore Deactivation / ACU decrease",
+    "english": "Radar Alert Receiver: Deactivate Ignore Protection / ACC Decrease",
     "korean": "레이더 경보 수신기 : 보호 무시 비활성화 / 적중 감소"
   },
   "BuffName_Effect_PECS_Drone_N_5": {
-    "english": "Consistency Protocol: SPD increase",
+    "english": "Consistency Protocol: SPD Increase",
     "korean": "컨스턴시 프로토콜 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Drone_N_51": {
@@ -712,11 +712,11 @@
     "korean": "컨스턴시 프로토콜 : 전투 속행"
   },
   "BuffName_Effect_PECS_ElvenForestmaker_N_5": {
-    "english": "Nature’s Embrace: Damage Received increase",
+    "english": "Nature’s Embrace: DMG Taken Increased",
     "korean": "자연의 포용 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_ElvenForestmaker_N_51": {
-    "english": "Nature’s Embrace: Damage Received increase",
+    "english": "Nature’s Embrace: DMG Taken Increased",
     "korean": "자연의 포용 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_ElvenForestmaker_N_52": {
@@ -724,55 +724,55 @@
     "korean": "자연의 포용 : 강화 해제 저항 증가"
   },
   "BuffName_Effect_PECS_Empress_N_1": {
-    "english": "Ice Age: Cold Resistance / SPD decrease",
+    "english": "Ice Age: Cold Resist Decrease / SPD Decrease",
     "korean": "아이스 에이지 : 냉기 저항 / 행동력 감소"
   },
   "BuffName_Effect_PECS_Empress_N_11": {
-    "english": "Ice Age: Movement Disabled",
+    "english": "Ice Age: Rooted",
     "korean": "아이스 에이지 : 이동 불가"
   },
   "BuffName_Effect_PECS_Empress_N_12": {
-    "english": "Freezing: Damage Received increase",
+    "english": "Freezing: DMG Taken Increased",
     "korean": "빙결 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Empress_N_21": {
-    "english": "Penguin Surprise!: Action Disabled",
+    "english": "Penguin Surprise!: Stunned",
     "korean": "펭귄 서프라이즈! : 행동 불가"
   },
   "BuffName_Effect_PECS_Empress_N_3": {
-    "english": "Camouflage: Damage Minimization",
+    "english": "Camouflage: Minimize Damage",
     "korean": "의태 : 피해 최소화"
   },
   "BuffName_Effect_PECS_Empress_N_31": {
-    "english": "Camouflage: ATK / CRIT increase",
+    "english": "Camouflage: ATK Increase / CRIT Increase",
     "korean": "의태 : 공격력 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Empress_N_4": {
-    "english": "Polar Countermeasure: Cold Resistance / AP increase",
+    "english": "Polar Countermeasure: Cold Resist Increase / AP Increase",
     "korean": "극지 대비책 : 냉기 저항 / AP 증가"
   },
   "BuffName_Effect_PECS_Empress_N_5": {
-    "english": "Antarctic Adventure: SPD increase",
+    "english": "Antarctic Adventure: SPD Increase",
     "korean": "남극 대모험 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Empress_N_51": {
-    "english": "Camouflage: Protection Ignore Activation",
+    "english": "Camouflage: Activate Ignore Protection",
     "korean": "의태 : 보호 무시 활성화"
   },
   "BuffName_Effect_PECS_Empress_N_53": {
-    "english": "Antarctic Adventure: Cold Resistance decrease",
+    "english": "Antarctic Adventure: Cold Resist Decrease",
     "korean": "남극 대모험 : 냉기 저항 감소"
   },
   "BuffName_Effect_PECS_Erato_N_1": {
-    "english": "You’re Already☆My FAN: EVA increase removal",
+    "english": "You’re Already☆My FAN: EVA Buff Removal",
     "korean": "넌 이미☆나의 FAN : 회피 증가 해제"
   },
   "BuffName_Effect_PECS_Erato_N_11": {
-    "english": "You’re Already☆My FAN: EVA decrease",
+    "english": "You’re Already☆My FAN: EVA Decrease",
     "korean": "넌 이미☆나의 FAN : 회피 감소"
   },
   "BuffName_Effect_PECS_Erato_N_12": {
-    "english": "You’re Already☆My FAN: Counterattack Removal",
+    "english": "You’re Already☆My FAN: Counter Attack Removal",
     "korean": "넌 이미☆나의 FAN : 반격 해제"
   },
   "BuffName_Effect_PECS_Erato_N_13": {
@@ -780,35 +780,35 @@
     "korean": "넌 이미☆나의 FAN : 매혹"
   },
   "BuffName_Effect_PECS_Erato_N_2": {
-    "english": "With You: ATK increase",
+    "english": "With You: ATK Increase",
     "korean": "With You : 공격력 증가"
   },
   "BuffName_Effect_PECS_Erato_N_21": {
-    "english": "With You: ATK decrease",
+    "english": "With You: ATK Decrease",
     "korean": "With You : 공격력 감소"
   },
   "BuffName_Effect_PECS_Erato_N_3": {
-    "english": "Sweet Melody: AP increase",
+    "english": "Sweet Melody: AP Increase",
     "korean": "감미로운 멜로디 : AP 증가"
   },
   "BuffName_Effect_PECS_Erato_N_31": {
-    "english": "Sweet Melody: ATK decrease Immunity",
+    "english": "Sweet Melody: ATK Decrease Immunity",
     "korean": "감미로운 멜로디 : 공격력 감소 면역"
   },
   "BuffName_Effect_PECS_Erato_N_32": {
-    "english": "Sweet Melody: DEF decrease Immunity",
+    "english": "Sweet Melody: DEF Decrease Immunity",
     "korean": "감미로운 멜로디 : 방어력 감소 면역"
   },
   "BuffName_Effect_PECS_Erato_N_33": {
-    "english": "Sweet Melody: AP decrease Immunity",
+    "english": "Sweet Melody: AP Decrease Immunity",
     "korean": "감미로운 멜로디 : AP 감소 면역"
   },
   "BuffName_Effect_PECS_Erato_N_34": {
-    "english": "Sweet Melody: ATK / DEF / AP decrease Immunity",
+    "english": "Sweet Melody: ATK Decrease / DEF Decrease / AP Decrease Immunity",
     "korean": "감미로운 멜로디 : 공격력 / 방어력 / AP 감소 면역"
   },
   "BuffName_Effect_PECS_Erato_N_4": {
-    "english": "Journey Binding Dreams: ATK increase",
+    "english": "Journey Binding Dreams: ATK Increase",
     "korean": "꿈을 묶는 여로 : 공격력 증가"
   },
   "BuffName_Effect_PECS_Erato_N_41": {
@@ -816,7 +816,7 @@
     "korean": "꿈을 묶는 여로 : With You 공격력 감소 효과 해제"
   },
   "BuffName_Effect_PECS_Erato_N_42": {
-    "english": "Journey Binding Dreams: SPD increase",
+    "english": "Journey Binding Dreams: SPD Increase",
     "korean": "꿈을 묶는 여로 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Erato_N_43": {
@@ -824,31 +824,31 @@
     "korean": "꿈을 묶는 여로 : 전투 속행"
   },
   "BuffName_Effect_PECS_Erato_N_5": {
-    "english": "On-site Fan Meeting: SPD decrease",
+    "english": "On-site Fan Meeting: SPD Decrease",
     "korean": "현장 팬미팅 : 행동력 감소"
   },
   "BuffName_Effect_PECS_Erato_N_53": {
-    "english": "On-site Fan Meeting: Damage Received increase",
+    "english": "On-site Fan Meeting: DMG Taken Increased",
     "korean": "현장 팬미팅 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Erato_N_56": {
-    "english": "On-site Fan Meeting: Buff Disabled",
+    "english": "On-site Fan Meeting: Buff Prevention",
     "korean": "현장 팬미팅 : 강화 불가"
   },
   "BuffName_Effect_PECS_Erato_N_58": {
-    "english": "On-site Fan Meeting: Buff / Action Disabled",
+    "english": "On-site Fan Meeting: Buff / Stunned",
     "korean": "현장 팬미팅 : 강화 / 행동 불가"
   },
   "BuffName_Effect_PECS_Hathor_N_1": {
-    "english": "Bent Iron Horn: DEF decrease",
+    "english": "Bent Iron Horn: DEF Decrease",
     "korean": "휘어진 쇠뿔 : 방어력 감소"
   },
   "BuffName_Effect_PECS_Hathor_N_2": {
-    "english": "Radiant Sun’s Descent: Damage Received increase",
+    "english": "Radiant Sun’s Descent: DMG Taken Increased",
     "korean": "찬란한 태양의 강림 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Hathor_N_3": {
-    "english": "Reinforced Exoskeleton YOROI: Effect Resistance increase",
+    "english": "Reinforced Exoskeleton YOROI: Status Resist Increase",
     "korean": "강화외골격 YOROI : 효과 저항 증가"
   },
   "BuffName_Effect_PECS_Hathor_N_31": {
@@ -860,31 +860,31 @@
     "korean": "여신의 또 다른 얼굴 : 전투 속행"
   },
   "BuffName_Effect_PECS_Hathor_N_42": {
-    "english": "Goddess’s Other Face: ATK increase",
+    "english": "Goddess’s Other Face: ATK Increase",
     "korean": "여신의 또 다른 얼굴 : 공격력 증가"
   },
   "BuffName_Effect_PECS_Hathor_N_5": {
-    "english": "Cheonwoo Scripture: Shield / Damage Reduction Ignore",
+    "english": "Cheonwoo Scripture: Ignore Barrier / Damage Reduction",
     "korean": "천우서 : 방어막 / 피해 감소 무시"
   },
   "BuffName_Effect_PECS_Hathor_N_51": {
-    "english": "Cheonwoo Scripture: AP increase",
+    "english": "Cheonwoo Scripture: AP Increase",
     "korean": "천우서 : AP 증가"
   },
   "BuffName_Effect_PECS_Hathor_N_56": {
-    "english": "Cheonwoo Scripture: SPD increase",
+    "english": "Cheonwoo Scripture: SPD Increase",
     "korean": "천우서 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Hussar_N_1": {
-    "english": "Lightning Line: ACU decrease / Movement Disabled",
+    "english": "Lightning Line: ACC Decrease / Rooted",
     "korean": "라이트닝 라인 : 적중 감소 / 이동 불가"
   },
   "BuffName_Effect_PECS_Hussar_N_21": {
-    "english": "Tesla Bolt: Electric Resistance decrease",
+    "english": "Tesla Bolt: Electric Resist Decrease",
     "korean": "테슬라 볼트 : 전기 저항 감소"
   },
   "BuffName_Effect_PECS_Hussar_N_3": {
-    "english": "Unpredictable Avenger: EVA / Effect Resistance increase",
+    "english": "Unpredictable Avenger: EVA Increase / Status Resist Increase",
     "korean": "예측 불가능한 복수자 : 회피 / 효과 저항 증가"
   },
   "BuffName_Effect_PECS_Hussar_N_34": {
@@ -892,67 +892,67 @@
     "korean": "예측 불가능한 복수자 : 대상 HP% 반비례 피해량 증가"
   },
   "BuffName_Effect_PECS_Hussar_N_4": {
-    "english": "Nikang Naekang: Attack Support",
+    "english": "Nikang Naekang: Follow-Up Attack",
     "korean": "니캉 내캉 : 공격 지원"
   },
   "BuffName_Effect_PECS_Hussar_N_42": {
-    "english": "Nikang Naekang: ATK increase",
+    "english": "Nikang Naekang: ATK Increase",
     "korean": "니캉 내캉 : 공격력 증가"
   },
   "BuffName_Effect_PECS_Hussar_N_43": {
-    "english": "Nikang Naekang: Skill Power increase",
+    "english": "Nikang Naekang: Skill Power Increase",
     "korean": "니캉 내캉 : 스킬 위력 증가"
   },
   "BuffName_Effect_PECS_Hussar_N_5": {
-    "english": "Astro-Caracol Tactics: Heavy Vehicle Damage increase",
+    "english": "Astro-Caracol Tactics: Anti-Light DMG",
     "korean": "아스트로-카라콜 전술 : 대 경장형 피해량 증가"
   },
   "BuffName_Effect_PECS_Hussar_N_52": {
-    "english": "Astro-Caracol Tactics: Electric Resistance decrease",
+    "english": "Astro-Caracol Tactics: Electric Resist Decrease",
     "korean": "아스트로-카라콜 전술 : 전기 저항 감소"
   },
   "BuffName_Effect_PECS_Ignis_N_1": {
-    "english": "Flamethrower: DEF / Fire Resistance decrease",
+    "english": "Flamethrower: DEF Decrease / Fire Resist Decrease",
     "korean": "화염 분사 : 방어력 / 화염 저항 감소"
   },
   "BuffName_Effect_PECS_Ignis_N_2": {
-    "english": "Incineration Start: CRIT decrease / Continuous Fire Damage",
+    "english": "Incineration Start: CRIT Decrease / Fire DoT DMG",
     "korean": "소각 개시 : 치명타 감소 / 지속 화염 피해"
   },
   "BuffName_Effect_PECS_Ignis_N_3": {
-    "english": "Adaptive Protective Suit: All Attribute Resistance / DEF increase",
+    "english": "Adaptive Protective Suit: Elemental Resist / DEF Increase",
     "korean": "적응형 방호복 : 모든 속성 저항 / 방어력 증가"
   },
   "BuffName_Effect_PECS_Ignis_N_31": {
-    "english": "Adaptive Protective Suit: Fire Resistance increase",
+    "english": "Adaptive Protective Suit: Fire Resist Increase",
     "korean": "적응형 방호복 : 화염 저항 증가"
   },
   "BuffName_Effect_PECS_Ignis_N_32": {
-    "english": "Adaptive Protective Suit: Cold Resistance increase",
+    "english": "Adaptive Protective Suit: Cold Resist Increase",
     "korean": "적응형 방호복 : 냉기 저항 증가"
   },
   "BuffName_Effect_PECS_Ignis_N_33": {
-    "english": "Adaptive Protective Suit: Electric Resistance increase",
+    "english": "Adaptive Protective Suit: Electric Resist Increase",
     "korean": "적응형 방호복 : 전기 저항 증가"
   },
   "BuffName_Effect_PECS_Ignis_N_34": {
-    "english": "Adaptive Protective Suit: DEF increase",
+    "english": "Adaptive Protective Suit: DEF Increase",
     "korean": "적응형 방호복 : 방어력 증가"
   },
   "BuffName_Effect_PECS_Ignis_N_4": {
-    "english": "Agent Cover: Designated Protection",
+    "english": "Agent Cover: Target Protect",
     "korean": "요원 엄폐 : 지정 보호"
   },
   "BuffName_Effect_PECS_Ignis_N_41": {
-    "english": "Agent Cover: Row Protection",
+    "english": "Agent Cover: Column Protect",
     "korean": "요원 엄폐 : 열 보호"
   },
   "BuffName_Effect_PECS_Ignis_N_42": {
-    "english": "Agent Cover: Damage Received decrease",
+    "english": "Agent Cover: Damage Reduction",
     "korean": "요원 엄폐 : 받는 피해 감소"
   },
   "BuffName_Effect_PECS_Ignis_N_5": {
-    "english": "Hostile Environment Shielding: Range increase / Counterattack",
+    "english": "Hostile Environment Shielding: Range Increase / Counter Attack",
     "korean": "적대 환경 차폐 : 사거리 증가 / 반격"
   },
   "BuffName_Effect_PECS_Ignis_N_54": {
@@ -972,11 +972,11 @@
     "korean": "용사 이레이나의 공격!"
   },
   "BuffName_Effect_PECS_Ireina_N_11": {
-    "english": "Hero Ireina's Attack! : Evasion Reduction / Defense Reduction / Damage Taken Increase",
+    "english": "Hero Ireina's Attack! : EVA Decrease / DEF Decrease / DMG Taken Increased",
     "korean": "용사 이레이나의 공격! : 회피 감소 / 방어력 감소 / 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_12": {
-    "english": "Hero Ireina's Attack! : Defense buff removed on critical hit",
+    "english": "Hero Ireina's Attack! : Defense buff removed on CRIT",
     "korean": "용사 이레이나의 공격! : 치명타 시 방어력 강화 해제"
   },
   "BuffName_Effect_PECS_Ireina_N_2": {
@@ -984,39 +984,39 @@
     "korean": "고작 이 정도?"
   },
   "BuffName_Effect_PECS_Ireina_N_21": {
-    "english": "Is this all? : Increased effect resistance",
+    "english": "Is this all? : Status Resist Increase",
     "korean": "고작 이 정도? : 효과 저항 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_22": {
-    "english": "Is this all? : Grant Shield (Proportional to Defense)",
+    "english": "Is this all? : Grant Barrier (DEF-based)",
     "korean": "고작 이 정도? : 보호막 부여 (방어력 비례)"
   },
   "BuffName_Effect_PECS_Ireina_N_3": {
-    "english": "I Can't Sleep Like This! : Secondary Attack Power (Proportional to Defense)",
+    "english": "I Can't Sleep Like This! : Secondary ATK (DEF-based)",
     "korean": "이대론 못 자! : 보조 공격력 (방어력 비례)"
   },
   "BuffName_Effect_PECS_Ireina_N_31": {
-    "english": "I can't sleep like this! : Increase defense",
+    "english": "I can't sleep like this! : DEF Increase",
     "korean": "이대론 못 자! : 방어력 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_32": {
-    "english": "I can't sleep like this! : Increase defense",
+    "english": "I can't sleep like this! : DEF Increase",
     "korean": "이대론 못 자! : 방어력 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_33": {
-    "english": "I can't sleep like this! : Increase defense",
+    "english": "I can't sleep like this! : DEF Increase",
     "korean": "이대론 못 자! : 방어력 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_34": {
-    "english": "I can't sleep like this! : Increase defense",
+    "english": "I can't sleep like this! : DEF Increase",
     "korean": "이대론 못 자! : 방어력 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_35": {
-    "english": "I can't sleep like this! : Increase defense",
+    "english": "I can't sleep like this! : DEF Increase",
     "korean": "이대론 못 자! : 방어력 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_36": {
-    "english": "I can't sleep like this! : Increase defense",
+    "english": "I can't sleep like this! : DEF Increase",
     "korean": "이대론 못 자! : 방어력 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_37": {
@@ -1032,23 +1032,23 @@
     "korean": "나랑 같이 게임할래? : 1P"
   },
   "BuffName_Effect_PECS_Ireina_N_42": {
-    "english": "Want to play a game with me? : 2P - Increase Attack Power / Accuracy / Critical Hit",
+    "english": "Want to play a game with me? : ATK / ACC Increase / CRIT Increase",
     "korean": "나랑 같이 게임할래? : 2P - 공격력 / 적중 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_43": {
-    "english": "Want to play with me? : 1P - Increases Defense / Evasion / Damage Reduction",
+    "english": "Want to play with me? : DEF / EVA Increase / Damage Reduction",
     "korean": "나랑 같이 게임할래? : 1P - 방어력 / 회피 / 받는 피해 감소 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_5": {
-    "english": "I'll be the tank, you be the damage dealer : Skill power increase (proportional to defense)",
+    "english": "I'll be the tank, you be the damage dealer : Skill power increase (DEF-based)",
     "korean": "내가 탱커할게 넌 딜러해 : 스킬 위력 증가 (방어력 비례)"
   },
   "BuffName_Effect_PECS_Ireina_N_51": {
-    "english": "I'll be the tank, you be the DPS : Designated Protection",
+    "english": "I'll be the tank, you be the DPS : Target Protect",
     "korean": "내가 탱커할게 넌 딜러해 : 지정 보호"
   },
   "BuffName_Effect_PECS_Ireina_N_52": {
-    "english": "I'll be the tank, you be the damage dealer : Attack support",
+    "english": "I'll be the tank, you be the damage dealer : Follow-Up Attack",
     "korean": "내가 탱커할게 넌 딜러해 : 공격 지원"
   },
   "BuffName_Effect_PECS_Ireina_N_53": {
@@ -1056,27 +1056,27 @@
     "korean": "내가 탱커할게 넌 딜러해 : <레모네이드 앱실론> 추가 버프"
   },
   "BuffName_Effect_PECS_LRL_N_101": {
-    "english": "Inheritor of True Ancestor: Damage Received increase / Buff Immunity",
+    "english": "Inheritor of True Ancestor: DMG Taken Increased / Buff Prevention",
     "korean": "진조를 계승하는 자 : 받는 피해 증가 / 강화 불가"
   },
   "BuffName_Effect_PECS_LRL_N_102": {
-    "english": "Inheritor of True Ancestor: Damage Received increase / Buff Immunity",
+    "english": "Inheritor of True Ancestor: DMG Taken Increased / Buff Prevention",
     "korean": "진조를 계승하는 자 : 받는 피해 증가 / 강화 불가"
   },
   "BuffName_Effect_PECS_LRL_N_103": {
-    "english": "Inheritor of True Ancestor: Damage Received increase / Buff Immunity",
+    "english": "Inheritor of True Ancestor: DMG Taken Increased / Buff Prevention",
     "korean": "진조를 계승하는 자 : 받는 피해 증가 / 강화 불가"
   },
   "BuffName_Effect_PECS_LRL_N_201": {
-    "english": "Inheritor of True Ancestor: Shield, Damage Reduction Ignore Buff Removal",
+    "english": "Inheritor of True Ancestor: Barrier, DMG Reduction Ignore Buff Removal",
     "korean": "진조를 계승하는 자 : 방어막, 피해 감소 무시 효과 해제"
   },
   "BuffName_Effect_PECS_LRL_N_202": {
-    "english": "Inheritor of True Ancestor: Shield, Damage Reduction Ignore Buff Removal",
+    "english": "Inheritor of True Ancestor: Barrier, DMG Reduction Ignore Buff Removal",
     "korean": "진조를 계승하는 자 : 방어막, 피해 감소 무시 효과 해제"
   },
   "BuffName_Effect_PECS_LRL_N_203": {
-    "english": "Inheritor of True Ancestor: Shield, Damage Reduction Ignore Buff Removal",
+    "english": "Inheritor of True Ancestor: Barrier, DMG Reduction Ignore Buff Removal",
     "korean": "진조를 계승하는 자 : 방어막, 피해 감소 무시 효과 해제"
   },
   "BuffName_Effect_PECS_LRL_N_5": {
@@ -1088,35 +1088,35 @@
     "korean": "진조를 계승하는 자 : 스킬 위력 증가 / 스킬 강화"
   },
   "BuffName_Effect_PECS_LemonadeBeta_N_13": {
-    "english": "Good Morning : Damage Received decrease",
+    "english": "Good Morning : Damage Reduction",
     "korean": "굿 모닝 : 받는 피해 감소"
   },
   "BuffName_Effect_PECS_LemonadeBeta_N_23": {
-    "english": "Gloomy Sunshine : Effect Resistance increase",
+    "english": "Gloomy Sunshine : Status Resist Increase",
     "korean": "글루미 선샤인 : 효과 저항 증가"
   },
   "BuffName_Effect_PECS_LemonadeBeta_N_3": {
-    "english": "Humorous Tragedy : Cold Resistance decrease",
+    "english": "Humorous Tragedy : Cold Resist Decrease",
     "korean": "유머러스 트래저디 : 냉기 저항 감소"
   },
   "BuffName_Effect_PECS_LemonadeBeta_N_34": {
-    "english": "Humorous Tragedy : Buff Immunity",
+    "english": "Humorous Tragedy : Buff Prevention",
     "korean": "유머러스 트래저디 : 강화 불가"
   },
   "BuffName_Effect_PECS_LemonadeBeta_N_4": {
-    "english": "Melancholic Delight : Electric Resistance decrease",
+    "english": "Melancholic Delight : Electric Resist Decrease",
     "korean": "멜랑꼴릭 딜라이트 : 전기 저항 감소"
   },
   "BuffName_Effect_PECS_LemonadeBeta_N_43": {
-    "english": "Melancholic Delight : SPD decrease",
+    "english": "Melancholic Delight : SPD Decrease",
     "korean": "멜랑꼴릭 딜라이트 : 행동력 감소"
   },
   "BuffName_Effect_PECS_LemonadeBeta_N_5": {
-    "english": "Harmonious Discord : Fire Resistance decrease",
+    "english": "Harmonious Discord : Fire Resist Decrease",
     "korean": "하모니어스 디스코드 : 화염 저항 감소"
   },
   "BuffName_Effect_PECS_LemonadeBeta_N_53": {
-    "english": "Harmonious Discord : Damage Received increase",
+    "english": "Harmonious Discord : DMG Taken Increased",
     "korean": "하모니어스 디스코드 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_1": {
@@ -1124,7 +1124,7 @@
     "korean": "인셉션 : 치명타 시, 강화 효과 해제"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_2": {
-    "english": "Max Output: AP decrease / Damage Received increase",
+    "english": "Max Output: AP Decrease / DMG Taken Increased",
     "korean": "최대 출력: AP 감소/ 받는 피해 증가"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_21": {
@@ -1132,39 +1132,39 @@
     "korean": "받는 피해 증가"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_24": {
-    "english": "Maximum Output: AP Reduction",
+    "english": "Maximum Output: AP Decrease",
     "korean": "최대 출력: AP 감소"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_3": {
-    "english": "Penna: DEF / All Resistance decrease",
+    "english": "Penna: DEF Decrease / All Resist Decrease",
     "korean": "펜나: 방어력/모든 저항 감소"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_31": {
-    "english": "Revis (Attacker): ATK increase",
+    "english": "Revis (Attacker): ATK Increase",
     "korean": "레비스(공격기): 공격력 증가"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_32": {
-    "english": "Revis (Attacker): ATK increase (Orbital Watcher)",
+    "english": "Revis (Attacker): ATK Increase (Orbital Watcher)",
     "korean": "레비스(공격기): 공격력 증가(오비탈 와쳐)"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_33": {
-    "english": "Revis (Protector): Damage Received decrease",
+    "english": "Revis (Protector): Damage Reduction",
     "korean": "레비스(보호기):  받는 피해 감소"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_34": {
-    "english": "Revis (Protector): Damage Received decrease (Orbital Watcher)",
+    "english": "Revis (Protector): Damage Reduction (Orbital Watcher)",
     "korean": "레비스(보호기):  받는 피해 감소(오비탈 와쳐)"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_35": {
-    "english": "Revis (Protector): Counterattack",
+    "english": "Revis (Protector): Counter Attack",
     "korean": "레비스(보호기):  반격"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_36": {
-    "english": "Revis (Support): SPD increase",
+    "english": "Revis (Support): SPD Increase",
     "korean": "레비스(지원기):  행동력 증가"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_37": {
-    "english": "Revis (Support): SPD increase (Orbital Watcher)",
+    "english": "Revis (Support): SPD Increase (Orbital Watcher)",
     "korean": "레비스(지원기):  행동력 증가(오비탈 와쳐)"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_38": {
@@ -1172,11 +1172,11 @@
     "korean": "대신 해줘 : 아군 보호기 피해 무효화 1회"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_4": {
-    "english": "Penna: ACU decrease",
+    "english": "Penna: ACC Decrease",
     "korean": "펜나: 적중 감소"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_41": {
-    "english": "Penna: Effect Resistance decrease",
+    "english": "Penna: Status Resist Decrease",
     "korean": "펜나: 효과 저항 감소"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_42": {
@@ -1184,15 +1184,15 @@
     "korean": "펜나: 방어력/냉기저항/전기저항/화염저항 추가 감소"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_5": {
-    "english": "Gravis: SPD / EVA decrease",
+    "english": "Gravis: SPD Decrease / EVA Decrease",
     "korean": "그라비스: 행동력/회피 감소"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_51": {
-    "english": "Gravis: ACU decrease",
+    "english": "Gravis: ACC Decrease",
     "korean": "그라비스: 적중 감소"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_52": {
-    "english": "Gravis: SPD decrease",
+    "english": "Gravis: SPD Decrease",
     "korean": "그라비스: 행동력 감소"
   },
   "BuffName_Effect_PECS_LemonadeGamma_N_1": {
@@ -1212,23 +1212,23 @@
     "korean": "타입 컴뱃: 무스펠헤임"
   },
   "BuffName_Effect_PECS_LemonadeGamma_N_31": {
-    "english": "For the Captain! : ATK increase",
+    "english": "For the Captain! : ATK Increase",
     "korean": "대장을 위해! : 공격력 증가"
   },
   "BuffName_Effect_PECS_LemonadeGamma_N_32": {
-    "english": "For the Captain! : Attack Power Increase (Merope)",
+    "english": "For the Captain! : ATK Increase (Meropé)",
     "korean": "대장을 위해! : 공격력 증가(메로페)"
   },
   "BuffName_Effect_PECS_LemonadeGamma_N_33": {
-    "english": "For the Captain! : Attack Power Increase (Rhode)",
+    "english": "For the Captain! : ATK Increase (Rhode)",
     "korean": "대장을 위해! : 공격력 증가(로데)"
   },
   "BuffName_Effect_PECS_LemonadeGamma_N_34": {
-    "english": "For the Captain! : Attack Power Increase (Merlin)",
+    "english": "For the Captain! : ATK Increase (Merlin)",
     "korean": "대장을 위해! : 공격력 증가(멀린)"
   },
   "BuffName_Effect_PECS_LemonadeGamma_N_4": {
-    "english": "Type Combat: Remove Harmful Effects",
+    "english": "Type Combat: Debuff Removal",
     "korean": "타입 컴뱃: 해로운 효과 해제"
   },
   "BuffName_Effect_PECS_LemonadeGamma_N_41": {
@@ -1244,23 +1244,23 @@
     "korean": "타입 컴뱃: 어벤저 : 효과 저항 / 강화 해제 저항"
   },
   "BuffName_Effect_PECS_LemonadeGamma_N_52": {
-    "english": "Type Combat: Avenger: Counterattack on Hit Activation",
+    "english": "Type Combat: Avenger: Counter Attack on Hit Activation",
     "korean": "타입 컴뱃: 어벤저 : 피격시 반격 활성화"
   },
   "BuffName_Effect_PECS_Lumberjane_N_1": {
-    "english": "Sawblade Launch: DEF / SPD decrease",
+    "english": "Sawblade Launch: DEF Decrease / SPD Decrease",
     "korean": "톱날 발사 : 방어력 / 행동력 감소"
   },
   "BuffName_Effect_PECS_Lumberjane_N_3": {
-    "english": "Let’s Go All Out!: ATK / DEF Penetration increase",
+    "english": "Let’s Go All Out!: ATK Increase / DEF Penetration Increase",
     "korean": "화끈하게 가보자고! : 공격력 / 방어 관통 증가"
   },
   "BuffName_Effect_PECS_Lumberjane_N_4": {
-    "english": "Standing Tree Lamp: Damage Received increase",
+    "english": "Standing Tree Lamp: DMG Taken Increased",
     "korean": "입목등기 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Lumberjane_N_5": {
-    "english": "Diamond Chain: CRIT increase",
+    "english": "Diamond Chain: CRIT Increase",
     "korean": "다이아몬드 체인 : 치명타 증가"
   },
   "BuffName_Effect_PECS_Melt_N_1": {
@@ -1268,15 +1268,15 @@
     "korean": "헤로인 나이트 메어"
   },
   "BuffName_Effect_PECS_Melt_N_11": {
-    "english": "Heroin Nightmare: Immobilized",
+    "english": "Heroin Nightmare: Rooted",
     "korean": "헤로인 나이트 메어 : 이동 불가"
   },
   "BuffName_Effect_PECS_Melt_N_12": {
-    "english": "Heroin Nightmare: Action Disabled",
+    "english": "Heroin Nightmare: Stunned",
     "korean": "헤로인 나이트 메어 : 행동 불가"
   },
   "BuffName_Effect_PECS_Melt_N_13": {
-    "english": "Heroin Nightmare: Skill Use Disabled",
+    "english": "Heroin Nightmare: Silenced",
     "korean": "헤로인 나이트 메어 : 스킬 사용 불가"
   },
   "BuffName_Effect_PECS_Melt_N_14": {
@@ -1300,7 +1300,7 @@
     "korean": "자, 여기를 봐주세요 : 역할군에 따른 추가 효과"
   },
   "BuffName_Effect_PECS_Melt_N_3": {
-    "english": "Deep Breath: AP increase",
+    "english": "Deep Breath: AP Increase",
     "korean": "심호흡 : AP 증가"
   },
   "BuffName_Effect_PECS_Melt_N_31": {
@@ -1308,87 +1308,87 @@
     "korean": "긴장 돼…. : 공격력, 행동력 증가(중파 시)"
   },
   "BuffName_Effect_PECS_Melt_N_4": {
-    "english": "Therapy: ATK / DEF Penetration increase / Damage Received decrease",
+    "english": "Therapy: ATK Increase / DEF Penetration Increase / Damage Reduction",
     "korean": "테라피 : 공격력 / 방어 관통 증가 / 받는 피해 감소"
   },
   "BuffName_Effect_PECS_Melt_N_41": {
-    "english": "Sleepy Cat: ATK / DEF Penetration increase / Damage Received decrease",
+    "english": "Sleepy Cat: ATK Increase / DEF Penetration Increase / Damage Reduction",
     "korean": "졸리다 냥 : 공격력 / 방어 관통 증가 / 받는 피해 감소"
   },
   "BuffName_Effect_PECS_Melt_N_5": {
-    "english": "Relaxed!: ACU increase / CRIT increase",
+    "english": "Relaxed!: ACC Increase / CRIT Increase",
     "korean": "긴장이 풀렸어요! : 적중 증가 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Melt_N_51": {
-    "english": "Relaxed!: Skill Power increase",
+    "english": "Relaxed!: Skill Power Increase",
     "korean": "긴장이 풀렸어요! : 스킬 위력 증가"
   },
   "BuffName_Effect_PECS_Merlin_N_1": {
-    "english": "Big Gun: Damage Received increase",
+    "english": "Big Gun: DMG Taken Increased",
     "korean": "빅 건 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Merlin_N_2": {
-    "english": "UNREP: AP / DEF Penetration increase",
+    "english": "UNREP: AP Increase / DEF Penetration Increase",
     "korean": "UNREP : AP / 방어 관통 증가"
   },
   "BuffName_Effect_PECS_Merlin_N_21": {
-    "english": "UNREP: Counterattack Activation",
+    "english": "UNREP: Activate Counter Attack",
     "korean": "UNREP : 반격 활성화"
   },
   "BuffName_Effect_PECS_Merlin_N_3": {
-    "english": "Portable Arsenal <Caladbolg>: ATK increase",
+    "english": "Portable Arsenal <Caladbolg>: ATK Increase",
     "korean": "휴대용 무기고 <Caladbolg> : 공격력 증가"
   },
   "BuffName_Effect_PECS_Merlin_N_32": {
-    "english": "Portable Arsenal <Caladbolg>: Damage Received decrease",
+    "english": "Portable Arsenal <Caladbolg>: Damage Reduction",
     "korean": "휴대용 무기고 「Caladbolg」 : 받는 피해 감소"
   },
   "BuffName_Effect_PECS_Merlin_N_34": {
-    "english": "Portable Arsenal <Caladbolg>: SPD increase",
+    "english": "Portable Arsenal <Caladbolg>: SPD Increase",
     "korean": "휴대용 무기고 <Caladbolg> : 행동력 증가"
   },
   "BuffName_Effect_PECS_Merlin_N_41": {
-    "english": "Avalonic Field: Effect Resistance / ACU increase",
+    "english": "Avalonic Field: Status Resist Increase / ACC Increase",
     "korean": "아발로닉 필드 : 효과 저항 / 적중 증가"
   },
   "BuffName_Effect_PECS_Merlin_N_5": {
-    "english": "Poseidon Overclock: Ignore Protection Activation / CRIT increase",
+    "english": "Poseidon Overclock: Activate Ignore Protection / CRIT Increase",
     "korean": "포세이돈 오버클럭 : 보호 무시 활성화 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Mery_N_1": {
-    "english": "Atelier Cleaning: ATK / EVA decrease",
+    "english": "Atelier Cleaning: ATK Decrease / EVA Decrease",
     "korean": "아틀리에 청소 : 공격력 / 회피 감소"
   },
   "BuffName_Effect_PECS_Mery_N_11": {
-    "english": "Atelier Cleaning: SPD increase",
+    "english": "Atelier Cleaning: SPD Increase",
     "korean": "아틀리에 청소 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Mery_N_2": {
-    "english": "Custom Masterpiece: ATK increase",
+    "english": "Custom Masterpiece: ATK Increase",
     "korean": "맞춤형 걸작 : 공격력 증가"
   },
   "BuffName_Effect_PECS_Mery_N_21": {
-    "english": "Custom Masterpiece: Damage Received decrease",
+    "english": "Custom Masterpiece: Damage Reduction",
     "korean": "맞춤형 걸작 : 받는 피해 감소"
   },
   "BuffName_Effect_PECS_Mery_N_22": {
-    "english": "Custom Masterpiece: SPD increase",
+    "english": "Custom Masterpiece: SPD Increase",
     "korean": "맞춤형 걸작 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Mery_N_3": {
-    "english": "Atelier Girl: ATK / SPD increase",
+    "english": "Atelier Girl: ATK Increase / SPD Increase",
     "korean": "아틀리에의 소녀 : 공격력 / 행동력 증가"
   },
   "BuffName_Effect_PECS_Mery_N_31": {
-    "english": "Atelier Girl: Shield / Damage Reduction Ignore",
+    "english": "Atelier Girl: Ignore Barrier / Damage Reduction",
     "korean": "아틀리에의 소녀 : 방어막 / 피해 감소 무시"
   },
   "BuffName_Effect_PECS_Mery_N_4": {
-    "english": "Protective Instinct Trigger: Mark / DEF increase",
+    "english": "Protective Instinct Trigger: Marked / DEF Increase",
     "korean": "보호본능 유발 : 표식 / 방어력 증가"
   },
   "BuffName_Effect_PECS_Mery_N_5": {
-    "english": "Unwavering Conviction: Effect Resistance increase / Damage Received decrease",
+    "english": "Unwavering Conviction: Status Resist Increase / Damage Reduction",
     "korean": "흔들리지 않는 신념 : 효과 저항 증가 / 받는 피해 감소"
   },
   "BuffName_Effect_PECS_Mery_N_57": {
@@ -1396,55 +1396,55 @@
     "korean": "TACTICS Lv.5"
   },
   "BuffName_Effect_PECS_MightyR_CH_2": {
-    "english": "Mach Sprint: Action Disabled",
+    "english": "Mach Sprint: Stunned",
     "korean": "마하 스프린트 : 행동 불능"
   },
   "BuffName_Effect_PECS_MightyR_CH_3": {
-    "english": "Super Pumping Up: ATK / SPD increase",
+    "english": "Super Pumping Up: ATK Increase / SPD Increase",
     "korean": "초 펌핑 업 : 공격력 / 행동력 증가"
   },
   "BuffName_Effect_PECS_MightyR_CH_4": {
-    "english": "Personal Trainer: EXP / DEF Penetration / DEF increase",
+    "english": "Personal Trainer: EXP Increase / DEF Penetration Increase / DEF Increase",
     "korean": "퍼스널 트레이너 : 경험치 / 방어 관통 / 방어력 증가"
   },
   "BuffName_Effect_PECS_MightyR_CH_5": {
-    "english": "Miss Olympia: Effect Resistance increase",
+    "english": "Miss Olympia: Status Resist Increase",
     "korean": "미스 올림피아 : 효과 저항 증가"
   },
   "BuffName_Effect_PECS_MightyR_N_2": {
-    "english": "Sprint: Action Disabled",
+    "english": "Sprint: Stunned",
     "korean": "스프린트 : 행동 불능"
   },
   "BuffName_Effect_PECS_MightyR_N_3": {
-    "english": "Bulk Up: ATK / SPD increase",
+    "english": "Bulk Up: ATK Increase / SPD Increase",
     "korean": "벌크 업 : 공격력 / 행동력 증가"
   },
   "BuffName_Effect_PECS_MightyR_N_4": {
-    "english": "Personal Trainer: EXP / DEF Penetration / DEF increase",
+    "english": "Personal Trainer: EXP Increase / DEF Penetration Increase / DEF Increase",
     "korean": "퍼스널 트레이너 : 경험치 / 방어 관통 / 방어력 증가"
   },
   "BuffName_Effect_PECS_MightyR_N_5": {
-    "english": "Miss Olympia: Effect Resistance increase",
+    "english": "Miss Olympia: Status Resist Increase",
     "korean": "미스 올림피아 : 효과 저항 증가"
   },
   "BuffName_Effect_PECS_Nidhogg_N_1": {
-    "english": "Ruinous Charge: Skill Power decrease",
+    "english": "Ruinous Charge: Skill Power Decrease",
     "korean": "파멸의 돌진 : 스킬 위력 감소"
   },
   "BuffName_Effect_PECS_Nidhogg_N_12": {
-    "english": "Ruinous Charge: Skill Power increase",
+    "english": "Ruinous Charge: Skill Power Increase",
     "korean": "파멸의 돌진 : 스킬 위력 증가"
   },
   "BuffName_Effect_PECS_Nidhogg_N_16": {
-    "english": "Toxic Substance Concentration: SPD increase",
+    "english": "Toxic Substance Concentration: SPD Increase",
     "korean": "유독 물질 농축 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Nidhogg_N_2": {
-    "english": "Piercing Malice Outburst: ACU decrease",
+    "english": "Piercing Malice Outburst: ACC Decrease",
     "korean": "사무친 악의의 분출 : 적중 감소"
   },
   "BuffName_Effect_PECS_Nidhogg_N_22": {
-    "english": "Piercing Malice Outburst: Damage Received increase",
+    "english": "Piercing Malice Outburst: DMG Taken Increased",
     "korean": "사무친 악의의 분출 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Nidhogg_N_24": {
@@ -1452,27 +1452,27 @@
     "korean": "사무친 악의의 분출 : 강화 불가"
   },
   "BuffName_Effect_PECS_Nidhogg_N_31": {
-    "english": "Biased Toxic Breath: Effect Resistance decrease",
+    "english": "Biased Toxic Breath: Status Resist Decrease",
     "korean": "편향성 독성 호흡 : 효과 저항 감소"
   },
   "BuffName_Effect_PECS_Nidhogg_N_41": {
-    "english": "Root Biter: Range decrease",
+    "english": "Root Biter: Range Decrease",
     "korean": "뿌리 갉는 자 : 사거리 감소"
   },
   "BuffName_Effect_PECS_Olivia_N_1": {
-    "english": "Feigning: Damage Received increase",
+    "english": "Feigning: DMG Taken Increased",
     "korean": "시침질 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Olivia_N_11": {
-    "english": "Feigning: DEF Penetration increase",
+    "english": "Feigning: DEF Penetration Increase",
     "korean": "시침질 : 방어 관통 증가"
   },
   "BuffName_Effect_PECS_Olivia_N_23": {
-    "english": "Papillon Stitch: SPD increase",
+    "english": "Papillon Stitch: SPD Increase",
     "korean": "파피용 스티치 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Olivia_N_3": {
-    "english": "Needle Kin: ATK increase",
+    "english": "Needle Kin: ATK Increase",
     "korean": "바늘겨레 : 공격력 증가"
   },
   "BuffName_Effect_PECS_Olivia_N_31": {
@@ -1484,15 +1484,15 @@
     "korean": "바늘겨레 : 행동 횟수 증가"
   },
   "BuffName_Effect_PECS_Olivia_N_4": {
-    "english": "Designer Collaboration: Attack Support / AP increase",
+    "english": "Designer Collaboration: Follow-Up Attack / AP Increase",
     "korean": "디자이너 컬래버레이션 : 공격 지원 / AP 증가"
   },
   "BuffName_Effect_PECS_Olivia_N_5": {
-    "english": "Golden Needle: ATK increase",
+    "english": "Golden Needle: ATK Increase",
     "korean": "황금 바늘 : 공격력 증가"
   },
   "BuffName_Effect_PECS_Olivia_N_51": {
-    "english": "Golden Needle: ACU / EVA decrease",
+    "english": "Golden Needle: ACC Decrease / EVA Decrease",
     "korean": "황금 바늘 : 적중 / 회피 감소"
   },
   "BuffName_Effect_PECS_Orangeade_N_1": {
@@ -1516,27 +1516,27 @@
     "korean": "카두세우스 : 능력 강화 OS : 공격력, 방어력 증가"
   },
   "BuffName_Effect_PECS_Orangeade_N_5": {
-    "english": "Caduceus: Aim Correction OS: ACU / Range increase",
+    "english": "Caduceus: Aim Correction OS: ACC / Range increase",
     "korean": "카두세우스 : 조준 보정 OS : 적중 / 사거리 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_CH_1": {
-    "english": "Peregrine Kick: EVA decrease / Damage increase",
+    "english": "Peregrine Kick: EVA Decrease / Additional DMG Increase",
     "korean": "페레그린 킥 : 회피 감소 / 피해량 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_CH_11": {
-    "english": "Peregrine Kick: EVA decrease / Damage increase",
+    "english": "Peregrine Kick: EVA Decrease / Additional DMG Increase",
     "korean": "페레그린 킥 : 회피 감소 / 피해량 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_CH_2": {
-    "english": "Breath of the Harpy King: Shield Removal / DEF Penetration / AoE Damage Spread decrease",
+    "english": "Breath of the Harpy King: Barrier Removal / DEF Penetration Decrease / Area DMG Dispersion Decrease",
     "korean": "하피 왕의 숨결 : 방어막 해제 / 방어 관통 / 광역 피해 분산 감소"
   },
   "BuffName_Effect_PECS_Peregrinus_CH_21": {
-    "english": "Breath of the Harpy King: Shield Removal / DEF Penetration / AoE Damage Spread decrease",
+    "english": "Breath of the Harpy King: Barrier Removal / DEF Penetration Decrease / Area DMG Dispersion Decrease",
     "korean": "하피 왕의 숨결 : 방어막 해제 / 방어 관통 / 광역 피해 분산 감소"
   },
   "BuffName_Effect_PECS_Peregrinus_CH_212": {
-    "english": "Breath of the Harpy King: Shield Removal / DEF Penetration / AoE Damage Spread decrease",
+    "english": "Breath of the Harpy King: Barrier Removal / DEF Penetration Decrease / Area DMG Dispersion Decrease",
     "korean": "하피 왕의 숨결 : 방어막 해제 / 방어 관통 / 광역 피해 분산 감소"
   },
   "BuffName_Effect_PECS_Peregrinus_CH_3": {
@@ -1544,27 +1544,27 @@
     "korean": "휴먼 폼 : 광역 피해량 집중"
   },
   "BuffName_Effect_PECS_Peregrinus_N_1": {
-    "english": "Piercing Feather: DEF decrease / Damage increase",
+    "english": "Piercing Feather: DEF Decrease / Additional DMG Increase",
     "korean": "꿰뚫는 깃털 : 방어력 감소 / 피해량 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_N_11": {
-    "english": "Piercing Feather: DEF decrease / Damage increase",
+    "english": "Piercing Feather: DEF Decrease / Additional DMG Increase",
     "korean": "꿰뚫는 깃털 : 방어력 감소 / 피해량 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_N_2": {
-    "english": "Gale Strike: Shield / Damage Reduction Ignore / Damage increase",
+    "english": "Gale Strike: Ignore Barrier / Damage Reduction / Additional DMG Increase",
     "korean": "질풍격 : 방어막 / 피해 감소 무시 / 피해량 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_N_21": {
-    "english": "Gale Strike: Shield / Damage Reduction Ignore / Damage increase",
+    "english": "Gale Strike: Ignore Barrier / Damage Reduction / Additional DMG Increase",
     "korean": "질풍격 : 방어막 / 피해 감소 무시 / 피해량 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_N_3": {
-    "english": "Falcon Form: CRIT / EVA increase",
+    "english": "Falcon Form: CRIT Increase / EVA Increase",
     "korean": "팔콘 폼 : 치명타 / 회피 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_N_31": {
-    "english": "Falcon Form: CRIT / EVA increase",
+    "english": "Falcon Form: CRIT Increase / EVA Increase",
     "korean": "팔콘 폼 : 치명타 / 회피 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_N_32": {
@@ -1576,47 +1576,47 @@
     "korean": "팔콘 폼 : 모드 변환"
   },
   "BuffName_Effect_PECS_Peregrinus_N_4": {
-    "english": "Great Harpy King: ATK / SPD / Skill Power increase",
+    "english": "Great Harpy King: ATK Increase / SPD Increase / Skill Power Increase",
     "korean": "위대한 하피의 왕 : 공격력 / 행동력 / 스킬 위력 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_N_41": {
-    "english": "Great Harpy King: ATK / SPD / Skill Power increase",
+    "english": "Great Harpy King: ATK Increase / SPD Increase / Skill Power Increase",
     "korean": "위대한 하피의 왕 : 공격력 / 행동력 / 스킬 위력 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_N_5": {
-    "english": "Outstanding Adaptability: AP / ATK increase",
+    "english": "Outstanding Adaptability: AP Increase / ATK Increase",
     "korean": "뛰어난 적응력 : AP / 공격력 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_N_51": {
-    "english": "Outstanding Adaptability: AP increase",
+    "english": "Outstanding Adaptability: AP Increase",
     "korean": "뛰어난 적응력 : AP 증가"
   },
   "BuffName_Effect_PECS_Peregrinus_N_56": {
-    "english": "Outstanding Adaptability: ATK increase",
+    "english": "Outstanding Adaptability: ATK Increase",
     "korean": "뛰어난 적응력 : 공격력 증가"
   },
   "BuffName_Effect_PECS_QueenMane_N_12": {
-    "english": "Bite-Sized: Continuous Physical Damage",
+    "english": "Bite-Sized: Physical DoT DMG",
     "korean": "한입거리 : 지속 물리 피해"
   },
   "BuffName_Effect_PECS_QueenMane_N_2": {
-    "english": "Ruthless Strike: Immobilized",
+    "english": "Ruthless Strike: Rooted",
     "korean": "무자비한 일격 : 이동 불가"
   },
   "BuffName_Effect_PECS_QueenMane_N_21": {
-    "english": "Ruthless Strike: Action Disabled",
+    "english": "Ruthless Strike: Stunned",
     "korean": "무자비한 일격 : 행동 불가"
   },
   "BuffName_Effect_PECS_QueenMane_N_3": {
-    "english": "Hunting Ready: ATK / CRIT increase",
+    "english": "Hunting Ready: ATK Increase / CRIT Increase",
     "korean": "사냥 준비 : 공격력 / 치명타 증가"
   },
   "BuffName_Effect_PECS_QueenMane_N_31": {
-    "english": "Hunting Ready: Counterattack Activation",
+    "english": "Hunting Ready: Activate Counter Attack",
     "korean": "사냥 준비 : 반격 활성화"
   },
   "BuffName_Effect_PECS_QueenMane_N_33": {
-    "english": "Hunting Ready: Range / EVA / ATK increase",
+    "english": "Hunting Ready: Range Increase / EVA Increase / ATK Increase",
     "korean": "사냥 준비 : 사거리 / 회피 / 공격력 증가"
   },
   "BuffName_Effect_PECS_QueenMane_N_4": {
@@ -1624,23 +1624,23 @@
     "korean": "무리짓기 : 대 중장형 / 경장형 피해량 증가"
   },
   "BuffName_Effect_PECS_QueenMane_N_42": {
-    "english": "Ruthless Strike: ATK / DEF increase",
+    "english": "Ruthless Strike: ATK Increase / DEF Increase",
     "korean": "무자비한 일격 : 공격력 / 방어력 증가"
   },
   "BuffName_Effect_PECS_QueenMane_N_43": {
-    "english": "Gathering: AP increase",
+    "english": "Gathering: AP Increase",
     "korean": "무리짓기 : AP 증가"
   },
   "BuffName_Effect_PECS_QueenMane_N_5": {
-    "english": "Apex Predator: ATK increase",
+    "english": "Apex Predator: ATK Increase",
     "korean": "최상위 포식자 : 공격력 증가"
   },
   "BuffName_Effect_PECS_QueenMane_N_51": {
-    "english": "Apex Predator: SPD decrease",
+    "english": "Apex Predator: SPD Decrease",
     "korean": "최상위 포식자 : 행동력 감소"
   },
   "BuffName_Effect_PECS_QueenMane_N_52": {
-    "english": "Apex Predator: SPD increase",
+    "english": "Apex Predator: SPD Increase",
     "korean": "최상위 포식자 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Rhode_CH_1": {
@@ -1656,7 +1656,7 @@
     "korean": "어나이얼레이터 씨! 지금이에요~!: 행 보호, 열 보호 해제"
   },
   "BuffName_Effect_PECS_Rhode_CH_21": {
-    "english": "Annihilator, now’s the time~!: Designated Protection removed",
+    "english": "Annihilator, now’s the time~!: Target Protect Removal",
     "korean": "어나이얼레이터 씨! 지금이에요~! : 지정 보호 해제"
   },
   "BuffName_Effect_PECS_Rhode_CH_22": {
@@ -1664,7 +1664,7 @@
     "korean": "어나이얼레이터 씨! 지금이에요~! : 일반형태로 변경"
   },
   "BuffName_Effect_PECS_Rhode_CH_23": {
-    "english": "Annihilator, now’s the time~!: AP / EVA decrease / Damage Received increase",
+    "english": "Annihilator, now’s the time~!: AP Decrease / EVA Decrease / DMG Taken Increased",
     "korean": "어나이얼레이터 씨! 지금이에요~! : AP / 회피 감소 / 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Rhode_N_1": {
@@ -1680,7 +1680,7 @@
     "korean": "어나이얼레이터 씨! 도와주세요~!: 행 보호, 열 보호 해제"
   },
   "BuffName_Effect_PECS_Rhode_N_21": {
-    "english": "Annihilator, help me~!: Designated Protection removed",
+    "english": "Annihilator, help me~!: Target Protect Removal",
     "korean": "어나이얼레이터 씨! 도와주세요~! : 지정 보호 해제"
   },
   "BuffName_Effect_PECS_Rhode_N_3": {
@@ -1688,19 +1688,19 @@
     "korean": "제가 임시 부관이요!? : AP 증가/효과 저항 및 강화 해제 저항 증가"
   },
   "BuffName_Effect_PECS_Rhode_N_31": {
-    "english": "I’m your temporary subordinate!?: Effect Resistance increase",
+    "english": "I’m your temporary subordinate!?: Status Resist Increase",
     "korean": "제가 임시 부관이요!? : 효과 저항 증가"
   },
   "BuffName_Effect_PECS_Rhode_N_32": {
-    "english": "I’m your temporary subordinate!?: Buff Removal Resistance",
+    "english": "I’m your temporary subordinate!?: Buff Removal Resist",
     "korean": "제가 임시 부관이요!? : 강화 해제 저항"
   },
   "BuffName_Effect_PECS_Rhode_N_33": {
-    "english": "I’m your temporary subordinate!?: Buff Removal Resistance",
+    "english": "I’m your temporary subordinate!?: Buff Removal Resist",
     "korean": "제가 임시 부관이요!? : 강화 해제 저항"
   },
   "BuffName_Effect_PECS_Rhode_N_4": {
-    "english": "I’ll show you I can do it too!: SPD increase",
+    "english": "I’ll show you I can do it too!: SPD Increase",
     "korean": "저도 할 수 있다는 걸 보여드리겠어요! : 행동력 증가"
   },
   "BuffName_Effect_PECS_Rhode_N_41": {
@@ -1724,11 +1724,11 @@
     "korean": "순환하는 생명의 굴레 : 행동력 증감"
   },
   "BuffName_Effect_PECS_Sekhmet_N_211": {
-    "english": "Cycle of Life: SPD increase effect removal",
+    "english": "Cycle of Life: SPD Buff Removal",
     "korean": "순환하는 생명의 굴레 : 행동력 증가 효과 해제"
   },
   "BuffName_Effect_PECS_Sekhmet_N_3": {
-    "english": "Mercy of the Ringed Cross: SPD / DEF Penetration increase",
+    "english": "Mercy of the Ringed Cross: SPD Increase / DEF Penetration Increase",
     "korean": "고리달린 십자가의 자비 : 행동력 / 방어 관통 증가"
   },
   "BuffName_Effect_PECS_Sekhmet_N_4": {
@@ -1736,7 +1736,7 @@
     "korean": "여신의 세 얼굴 : 광역 피해량 집중"
   },
   "BuffName_Effect_PECS_Sekhmet_N_5": {
-    "english": "Motherhood: ACU increase, gives Row Protection / Support Protection",
+    "english": "Motherhood: ACC increase, gives Row Protection / Support Protection",
     "korean": "모성 : 적중 증가, 보호기 / 지원기 행보호 부여"
   },
   "BuffName_Effect_PECS_Shepherd_N_1": {
@@ -1748,7 +1748,7 @@
     "korean": "굿데이 투 다이 : 치명타 시 강화 효과 해제"
   },
   "BuffName_Effect_PECS_Shepherd_N_12": {
-    "english": "Good Day to Die: Cooperative attack",
+    "english": "Good Day to Die: Cooperative Attack",
     "korean": "굿데이 투 다이 : 협동 공격"
   },
   "BuffName_Effect_PECS_Shepherd_N_2": {
@@ -1760,27 +1760,27 @@
     "korean": "EMP SHOT!  : 전기 속성 저항 하한 해제 / 전기 속성 저항 반전 해제"
   },
   "BuffName_Effect_PECS_Shepherd_N_22": {
-    "english": "EMP SHOT!: Cooperative attack",
+    "english": "EMP SHOT!: Cooperative Attack",
     "korean": "EMP SHOT!  : 협동 공격"
   },
   "BuffName_Effect_PECS_Shepherd_N_3": {
-    "english": "Leader of City Guard: AP increase",
+    "english": "Leader of City Guard: AP Increase",
     "korean": "시티가드의 리더 : AP 증가"
   },
   "BuffName_Effect_PECS_Shepherd_N_31": {
-    "english": "Leader of City Guard: AP increase",
+    "english": "Leader of City Guard: AP Increase",
     "korean": "시티가드의 리더 : AP 증가"
   },
   "BuffName_Effect_PECS_Shepherd_N_32": {
-    "english": "Suppression Ready!: AP increase",
+    "english": "Suppression Ready!: AP Increase",
     "korean": "진압 준비! : AP 증가"
   },
   "BuffName_Effect_PECS_Shepherd_N_33": {
-    "english": "Suppression Ready!: AP increase",
+    "english": "Suppression Ready!: AP Increase",
     "korean": "진압 준비! : AP 증가"
   },
   "BuffName_Effect_PECS_Shepherd_N_4": {
-    "english": "Clutch Heater: ATK increase",
+    "english": "Clutch Heater: ATK Increase",
     "korean": "클러치 히터 : 공격력 증가"
   },
   "BuffName_Effect_PECS_Shepherd_N_41": {
@@ -1788,11 +1788,11 @@
     "korean": "클러치 히터 : 치명타 확률 증가"
   },
   "BuffName_Effect_PECS_Shepherd_N_42": {
-    "english": "Bench Clearing: SPD increase",
+    "english": "Bench Clearing: SPD Increase",
     "korean": "벤치 클리어링 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Shepherd_N_43": {
-    "english": "Bench Clearing: SPD increase",
+    "english": "Bench Clearing: SPD Increase",
     "korean": "벤치 클리어링 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Shepherd_N_5": {
@@ -1804,11 +1804,11 @@
     "korean": "C.G.P.D : 전기 속성 저항 감소"
   },
   "BuffName_Effect_PECS_Sonia_N_1": {
-    "english": "HEDP: Armor penetration / Increased damage to heavy armor",
+    "english": "HEDP: DEF Penetration Increase / Anti-Light DMG",
     "korean": "HEDP : 방어 관통 / 대 경장 피해량 증가"
   },
   "BuffName_Effect_PECS_Sonia_N_11": {
-    "english": "HEDP: Effect resistance reduction",
+    "english": "HEDP: Status Resist Decrease",
     "korean": "HEDP : 효과 저항 감소"
   },
   "BuffName_Effect_PECS_Sonia_N_12": {
@@ -1820,55 +1820,55 @@
     "korean": "빗발치는 정의 : 치명타 피해량 증가"
   },
   "BuffName_Effect_PECS_Sonia_N_21": {
-    "english": "Blazing Justice: EVA reduction",
+    "english": "Blazing Justice: EVA Decrease",
     "korean": "빗발치는 정의 : 회피 감소"
   },
   "BuffName_Effect_PECS_Sonia_N_22": {
-    "english": "Blazing Justice: ATK reduction",
+    "english": "Blazing Justice: ATK Decrease",
     "korean": "빗발치는 정의 : 공격력 감소"
   },
   "BuffName_Effect_PECS_Sonia_N_23": {
-    "english": "Blazing Justice: Cooperative attack",
+    "english": "Blazing Justice: Cooperative Attack",
     "korean": "빗발치는 정의 : 협동 공격"
   },
   "BuffName_Effect_PECS_Sonia_N_3": {
-    "english": "Cool Sensation: ATK increase",
+    "english": "Cool Sensation: ATK Increase",
     "korean": "서늘한 감각 : 공격력 증가"
   },
   "BuffName_Effect_PECS_Sonia_N_32": {
-    "english": "Cool Sensation: Recon activation",
+    "english": "Cool Sensation: Activate Recon Effect",
     "korean": "서늘한 감각 : 정찰 활성화"
   },
   "BuffName_Effect_PECS_Sonia_N_33": {
-    "english": "Cool Sensation: ACU / CRIT increase",
+    "english": "Cool Sensation: ACC Increase / CRIT Increase",
     "korean": "서늘한 감각 : 적중 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Sonia_N_4": {
-    "english": "Lazy Perfectionist: AP increase",
+    "english": "Lazy Perfectionist: AP Increase",
     "korean": "게으른 완벽주의자 : AP 증가"
   },
   "BuffName_Effect_PECS_Sonia_N_41": {
-    "english": "Lazy Perfectionist: ATK increase",
+    "english": "Lazy Perfectionist: ATK Increase",
     "korean": "게으른 완벽주의자 : 공격력 증가"
   },
   "BuffName_Effect_PECS_Sonia_N_42": {
-    "english": "Lazy Perfectionist: SPD increase",
+    "english": "Lazy Perfectionist: SPD Increase",
     "korean": "게으른 완벽주의자 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Sonia_N_5": {
-    "english": "Got You Arrested!: ATK / CRIT reduction",
+    "english": "Got You Arrested!: ATK Decrease / CRIT Decrease",
     "korean": "체포하겠어! : 공격력 / 치명타 감소"
   },
   "BuffName_Effect_PECS_Sonia_N_51": {
-    "english": "Got You Arrested!: Effect resistance reduction",
+    "english": "Got You Arrested!: Status Resist Decrease",
     "korean": "체포하겠어! : 효과 저항 감소"
   },
   "BuffName_Effect_PECS_Sonia_N_52": {
-    "english": "Got You Arrested!: Increased damage received",
+    "english": "Got You Arrested!: DMG Taken Increased",
     "korean": "체포하겠어! : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Spartoia_CH_1": {
-    "english": "Tachyon Lance: Damage reduction weakening",
+    "english": "Tachyon Lance: DMG Reduction weakening",
     "korean": "타키온 랜스 : 피해 감소 약화"
   },
   "BuffName_Effect_PECS_Spartoia_CH_2": {
@@ -1876,7 +1876,7 @@
     "korean": "미티어릭 CQB : 대상의 HP 반비례 피해량 증가"
   },
   "BuffName_Effect_PECS_Spartoia_CH_21": {
-    "english": "Meteoric CQB: ATK reduction / increased damage received",
+    "english": "Meteoric CQB: ATK Decrease / DMG Taken Increased",
     "korean": "미티어릭 CQB : 공격력 감소 / 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Spartoia_CH_4": {
@@ -1884,15 +1884,15 @@
     "korean": "S.P.A.C.E : 방어 관통 증가 / 피해 감소 무시"
   },
   "BuffName_Effect_PECS_Spartoia_CH_5": {
-    "english": "Great Leap: ATK / CRIT increase",
+    "english": "Great Leap: ATK Increase / CRIT Increase",
     "korean": "위대한 도약 : 공격력 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Spartoia_CH_51": {
-    "english": "Great Leap: Immunity to AP / SPD reduction",
+    "english": "Great Leap: SPD Decrease / AP Decrease Immunity",
     "korean": "위대한 도약 : 행동력 / AP 감소 면역"
   },
   "BuffName_Effect_PECS_Spartoia_N_1": {
-    "english": "Shooting Star: DEF increase / Damage reduction removal",
+    "english": "Shooting Star: DEF Increase / Damage Reduction Removal",
     "korean": "슈팅스타 : 방어력 증가 / 받는 피해 감소 해제"
   },
   "BuffName_Effect_PECS_Spartoia_N_2": {
@@ -1900,11 +1900,11 @@
     "korean": "CQB 돌입 : 대상 HP 반비례 피해량 증가"
   },
   "BuffName_Effect_PECS_Spartoia_N_21": {
-    "english": "CQB Charge: ATK reduction / increased damage received",
+    "english": "CQB Charge: ATK Decrease / DMG Taken Increased",
     "korean": "CQB 돌입 : 공격력 감소 / 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Spartoia_N_3": {
-    "english": "Observation Data Reception: ATK / Range / ACU increase",
+    "english": "Observation Data Reception: ATK Increase / Range Increase / ACC Increase",
     "korean": "관측 데이터 수신 : 공격력 / 사거리 / 적중 증가"
   },
   "BuffName_Effect_PECS_Spartoia_N_33": {
@@ -1912,215 +1912,215 @@
     "korean": "S.P.A.C.E 장착"
   },
   "BuffName_Effect_PECS_Spartoia_N_4": {
-    "english": "Space Combat Armor: DEF / All resistances increase / Damage reduction",
+    "english": "Space Combat Armor: DEF Increase / All Resist Increase / Damage Reduction",
     "korean": "우주용 컴뱃 아머 : 방어력 / 모든 저항 증가 / 받는 피해 감소"
   },
   "BuffName_Effect_PECS_Spartoia_N_41": {
-    "english": "Space Combat Armor: Armor penetration increase",
+    "english": "Space Combat Armor: DEF Penetration Increase",
     "korean": "우주용 컴뱃 아머 : 방어 관통 증가"
   },
   "BuffName_Effect_PECS_Spartoia_N_5": {
-    "english": "Small Steps: ATK / CRIT increase",
+    "english": "Small Steps: ATK Increase / CRIT Increase",
     "korean": "작은 발걸음 : 공격력 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Spartoia_N_51": {
-    "english": "Small Steps: Immunity to AP / SPD reduction",
+    "english": "Small Steps: SPD Decrease / AP Decrease Immunity",
     "korean": "작은 발걸음 : 행동력 / AP 감소 면역"
   },
   "BuffName_Effect_PECS_Stinger_N_1": {
-    "english": "Napalm Burner: Continuous fire damage / Effect resistance reduction",
+    "english": "Napalm Burner: Fire DoT DMG / Status Resist Decrease",
     "korean": "네이팜 버너 : 지속 화염 피해 / 효과 저항 감소"
   },
   "BuffName_Effect_PECS_Stinger_N_3": {
-    "english": "Preheating Start: ATK / SPD increase",
+    "english": "Preheating Start: ATK Increase / SPD Increase",
     "korean": "예열 개시 : 공격력 / 행동력 증가"
   },
   "BuffName_Effect_PECS_Stinger_N_31": {
-    "english": "Preheating Start: EVA increase",
+    "english": "Preheating Start: EVA Increase",
     "korean": "예열 개시 : 회피 증가"
   },
   "BuffName_Effect_PECS_Stinger_N_4": {
-    "english": "Third Cosmic Velocity: EVA increase",
+    "english": "Third Cosmic Velocity: EVA Increase",
     "korean": "제 3 우주속도 : 회피 증가"
   },
   "BuffName_Effect_PECS_Stinger_N_41": {
-    "english": "Third Cosmic Velocity: EVA decrease",
+    "english": "Third Cosmic Velocity: EVA Decrease",
     "korean": "제 3 우주속도 : 회피 감소"
   },
   "BuffName_Effect_PECS_Stinger_N_42": {
-    "english": "Third Cosmic Velocity: AP increase",
+    "english": "Third Cosmic Velocity: AP Increase",
     "korean": "제 3 우주속도 : AP 증가"
   },
   "BuffName_Effect_PECS_Stinger_N_5": {
-    "english": "Grand Finale: Skill power increase proportional to EVA",
+    "english": "Grand Finale: Skill Power Increase Based on EVA",
     "korean": "그랜드 피날레 : 회피 비례 스킬 위력 증가"
   },
   "BuffName_Effect_PECS_Stinger_N_51": {
-    "english": "Grand Finale: Shield / Ignore damage reduction",
+    "english": "Grand Finale: Ignore Barrier / Damage Reduction",
     "korean": "그랜드 피날레 : 방어막 / 피해 감소 무시"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_1": {
-    "english": "Ironworm Foundation: DEF reduction",
+    "english": "Ironworm Foundation: DEF Decrease",
     "korean": "철충 재단 : 방어력 감소"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_12": {
-    "english": "Ironworm Foundation: Continuous physical damage",
+    "english": "Ironworm Foundation: Physical DoT DMG",
     "korean": "철충 재단 : 지속 물리 피해"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_13": {
-    "english": "Ironworm Foundation: Effect resistance reduction",
+    "english": "Ironworm Foundation: Status Resist Decrease",
     "korean": "철충 재단 : 효과 저항 감소"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_14": {
-    "english": "Ironworm Foundation: Armor penetration reduction",
+    "english": "Ironworm Foundation: DEF Penetration Decrease",
     "korean": "철충 재단 : 방어 관통 감소"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_15": {
-    "english": "Ironworm Foundation: Range reduction",
+    "english": "Ironworm Foundation: Range Decrease",
     "korean": "철충 재단 : 사거리 감소"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_21": {
-    "english": "Field Dressing: Increased damage to heavy armor",
+    "english": "Field Dressing: Anti-Light DMG",
     "korean": "야전 마름질 : 대 경장형 피해량 증가"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_22": {
-    "english": "Field Dressing: Increased damage to mobile units",
+    "english": "Field Dressing: Anti-Air DMG",
     "korean": "야전 마름질 : 대 기동형 피해량 증가"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_23": {
-    "english": "Field Dressing: Increased damage to Heavy armor",
+    "english": "Field Dressing: Anti-Heavy DMG",
     "korean": "야전 마름질 : 대 중장형 피해량 증가"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_3": {
-    "english": "Hedonism: Effect resistance increase",
+    "english": "Hedonism: Status Resist Increase",
     "korean": "탐미주의 : 효과 저항 증가"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_32": {
-    "english": "Hedonism: SPD increase",
+    "english": "Hedonism: SPD Increase",
     "korean": "탐미주의 : 행동력 증가"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_33": {
-    "english": "Hedonism: ACU / Range increase",
+    "english": "Hedonism: ACC Increase / Range Increase",
     "korean": "탐미주의 : 적중 / 사거리 증가"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_41": {
-    "english": "Model Scouting: ATK / CRIT / ACU / SPD increase",
+    "english": "Model Scouting: ATK Increase / CRIT Increase / ACC Increase / SPD Increase",
     "korean": "모델 스카우팅 : 공격력 / 치명타 / 적중 / 행동력 증가"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_5": {
-    "english": "Prettoforte: Ignore protection activation",
+    "english": "Prettoforte: Activate Ignore Protection",
     "korean": "프레타포르테 : 보호 무시 활성화"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_51": {
-    "english": "Prettoforte: AP increase",
+    "english": "Prettoforte: AP Increase",
     "korean": "프레타포르테 : AP 증가"
   },
   "BuffName_Effect_PECS_TaylorClothcut_N_52": {
-    "english": "Prettoforte: AP decrease",
+    "english": "Prettoforte: AP Decrease",
     "korean": "프레타포르테 : AP 감소"
   },
   "BuffName_Effect_PECS_Tiequan_N_1": {
-    "english": "Tanjishintong: Damage increase",
+    "english": "Tanjishintong: Additional DMG Increase",
     "korean": "탄지신통 : 피해량 증가"
   },
   "BuffName_Effect_PECS_Tiequan_N_2": {
-    "english": "Baekboshingwon: Damage increase",
+    "english": "Baekboshingwon: Additional DMG Increase",
     "korean": "백보신권 : 피해량 증가"
   },
   "BuffName_Effect_PECS_Tiequan_N_3": {
-    "english": "Jeonggeumbakryun: ATK / ACU increase",
+    "english": "Jeonggeumbakryun: ATK Increase / ACC Increase",
     "korean": "정금백련 : 공격력 / 적중 증가"
   },
   "BuffName_Effect_PECS_Tiequan_N_4": {
-    "english": "Balkyung: Range / SPD / Maximum action count increase",
+    "english": "Balkyung: Range Increase / SPD Increase / Max Action Increase",
     "korean": "발경 : 사거리 / 행동력 / 최대 행동 횟수 증가"
   },
   "BuffName_Effect_PECS_Tiequan_N_5": {
-    "english": "Saryangbalcheon Geun: Ignore DEF / Increased damage to Heavy armor",
+    "english": "Saryangbalcheon Geun: Ignore DEF / Anti-Heavy DMG",
     "korean": "사량발천근 : 방어력 무시 / 대 중장 피해량 증가"
   },
   "BuffName_Effect_PECS_TommyWalker_N_12": {
-    "english": "Crushing Strike: Unable to act",
+    "english": "Crushing Strike: Stunned",
     "korean": "분쇄 강타 : 행동 불가"
   },
   "BuffName_Effect_PECS_TommyWalker_N_2": {
-    "english": "Work Anchor: AP reduction / Cannot SPD",
+    "english": "Work Anchor: SPD Decrease / Rooted",
     "korean": "작업용 앵커 : 행동력 감소 / 이동 불가"
   },
   "BuffName_Effect_PECS_TommyWalker_N_21": {
-    "english": "Work Anchor: Increased damage received",
+    "english": "Work Anchor: DMG Taken Increased",
     "korean": "작업용 앵커 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_TommyWalker_N_3": {
-    "english": "Scrap Recycling: ATK / DEF increase",
+    "english": "Scrap Recycling: ATK Increase / DEF Increase",
     "korean": "잔해 재활용 : 공격력 / 방어력 증가"
   },
   "BuffName_Effect_PECS_TommyWalker_N_31": {
-    "english": "Scrap Recycling: SPD increase",
+    "english": "Scrap Recycling: SPD Increase",
     "korean": "잔해 재활용 : 행동력 증가"
   },
   "BuffName_Effect_PECS_TommyWalker_N_32": {
-    "english": "Scrap Recycling: Increased experience gained",
+    "english": "Scrap Recycling: EXP Increase",
     "korean": "잔해 재활용 : 획득 경험치 증가"
   },
   "BuffName_Effect_PECS_TommyWalker_N_4": {
-    "english": "Supply Start: AP increase",
+    "english": "Supply Start: AP Increase",
     "korean": "보급 개시 : AP 증가"
   },
   "BuffName_Effect_PECS_TommyWalker_N_5": {
-    "english": "Golden Walkers Wagon: ATK / DEF / Range increase",
+    "english": "Golden Walkers Wagon: ATK Increase / DEF Increase / Range Increase",
     "korean": "골든 워커즈 왜건 : 공격력 / 방어력 / 사거리 증가"
   },
   "BuffName_Effect_PECS_Triaina_N_1": {
-    "english": "Underwater Cutter: DEF reduction",
+    "english": "Underwater Cutter: DEF Decrease",
     "korean": "수중용 절단기 : 방어력 감소"
   },
   "BuffName_Effect_PECS_Triaina_N_2": {
-    "english": "Cyclone Stream: Increased damage received",
+    "english": "Cyclone Stream: DMG Taken Increased",
     "korean": "사이클론 스트림 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Triaina_N_21": {
-    "english": "Cyclone Stream: Unable to act",
+    "english": "Cyclone Stream: Stunned",
     "korean": "사이클론 스트림 : 행동 불가"
   },
   "BuffName_Effect_PECS_Triaina_N_22": {
-    "english": "Cyclone Stream: Increased damage received",
+    "english": "Cyclone Stream: DMG Taken Increased",
     "korean": "사이클론 스트림 : 받는 피해 증가"
   },
   "BuffName_Effect_PECS_Triaina_N_3": {
-    "english": "Frontier Leader: SPD / Effect resistance / Attribute resistance increase",
+    "english": "Frontier Leader: SPD Increase / Status Resist Increase / Elemental Resist Increase",
     "korean": "프런티어 리더 : 행동력 / 효과 저항 / 속성 저항 증가"
   },
   "BuffName_Effect_PECS_Triaina_N_4": {
-    "english": "Abyss Walker: Reduced damage received",
+    "english": "Abyss Walker: Damage Reduction",
     "korean": "어비스 워커 : 받는 피해 감소"
   },
   "BuffName_Effect_PECS_Triaina_N_41": {
-    "english": "Abyss Walker: ATK / CRIT / SPD increase",
+    "english": "Abyss Walker: ATK Increase / CRIT Increase / SPD Increase",
     "korean": "어비스 워커 : 공격력 / 치명타 / 행동력 증가"
   },
   "BuffName_Effect_PECS_Triton_N_1": {
-    "english": "Machine Gun Fire: ATK / DEF reduction",
+    "english": "Machine Gun Fire: ATK Decrease / DEF Decrease",
     "korean": "기관포 사격 : 공격력 / 방어력 감소"
   },
   "BuffName_Effect_PECS_Triton_N_11": {
-    "english": "Machine Gun Fire: Shield / Ignore damage reduction",
+    "english": "Machine Gun Fire: Ignore Barrier / Damage Reduction",
     "korean": "기관포 사격 : 방어막 / 피해 감소 무시"
   },
   "BuffName_Effect_PECS_Triton_N_2": {
-    "english": "Scorched Earth: Additional damage",
+    "english": "Scorched Earth: Additional DMG",
     "korean": "초토화 : 추가 피해"
   },
   "BuffName_Effect_PECS_Triton_N_3": {
-    "english": "Active Response Algorithm: Immunity to AP reduction / Taunt immunity",
+    "english": "Active Response Algorithm: AP Decrease Immunity / Provokes Immunity",
     "korean": "능동 대응 알고리즘 : AP 감소 면역 / 도발 면역"
   },
   "BuffName_Effect_PECS_Triton_N_4": {
-    "english": "Output Increase: SPD increase",
+    "english": "Output Increase: SPD Increase",
     "korean": "출력 상승 : 행동력 증가"
   },
   "BuffName_Effect_PECS_Triton_N_5": {
-    "english": "Output Limit Release: Maximum action count increase",
+    "english": "Output Limit Release: Max Action Increase",
     "korean": "출력 제한 해제 : 최대 행동 횟수 증가"
   },
   "BuffName_Effect_PECS_Veronica_N_5": {
@@ -2184,11 +2184,11 @@
     "korean": "확장패시브 테스트 : 공격 우선 순위 감소"
   },
   "BuffName_Effect_Passive_Tast_N_22": {
-    "english": "Extended Passive Test : Defense Penetration (+)",
+    "english": "Extended Passive Test : DEF Penetration (+)",
     "korean": "확장패시브 테스트 : 방어력 관통 (+)"
   },
   "BuffName_Effect_Passive_Tast_N_23": {
-    "english": "Extended Passive Test : Defense Penetration (%)",
+    "english": "Extended Passive Test : DEF Penetration (%)",
     "korean": "확장패시브 테스트 : 방어력 관통(%)"
   },
   "BuffName_Effect_Passive_Tast_N_24": {
@@ -2208,7 +2208,7 @@
     "korean": "확장패시브 테스트 : 기동 추가데미지"
   },
   "BuffName_Effect_Passive_Tast_N_28": {
-    "english": "Extended Passive Test : Taunt",
+    "english": "Extended Passive Test : Provokes",
     "korean": "확장패시브 테스트 : 도발"
   },
   "BuffName_Effect_Passive_Tast_N_29": {
@@ -2224,15 +2224,15 @@
     "korean": "확장패시브 테스트 : 대상 지정 막기"
   },
   "BuffName_Effect_Passive_Tast_N_31": {
-    "english": "Extended Passive Test : Support Attack",
+    "english": "Extended Passive Test : Follow-Up Attack",
     "korean": "확장패시브 테스트 : 원호 공격"
   },
   "BuffName_Effect_Passive_Tast_N_32": {
-    "english": "Extended Passive Test : Cannot Move",
+    "english": "Extended Passive Test : Rooted",
     "korean": "확장패시브 테스트 : 이동 불가"
   },
   "BuffName_Effect_Passive_Tast_N_33": {
-    "english": "Extended Passive Test : Cannot Use Skills",
+    "english": "Extended Passive Test : Silenced",
     "korean": "확장패시브 테스트 : 스킬 사용 불가"
   },
   "BuffName_Effect_Passive_Tast_N_34": {
@@ -2248,7 +2248,7 @@
     "korean": "확장패시브 테스트 : 근성"
   },
   "BuffName_Effect_Passive_Tast_N_37": {
-    "english": "Extended Passive Test : Mark",
+    "english": "Extended Passive Test : Marked",
     "korean": "확장패시브 테스트 : 표식"
   },
   "BuffName_Effect_Passive_Tast_N_38": {
@@ -2292,23 +2292,23 @@
     "korean": "확장패시브 테스트 : 피해 분산"
   },
   "BuffName_Effect_Passive_Tast_N_47": {
-    "english": "Extended Passive Test : Skill Power Increase Proportional to Evasion",
+    "english": "Extended Passive Test : Skill Power Increase Based on EVA",
     "korean": "확장패시브 테스트 : 회피 비례 스킬 위력 증가"
   },
   "BuffName_Effect_Passive_Tast_N_48": {
-    "english": "Extended Passive Test : Attacker Skill Power Decrease Proportional to Evasion",
+    "english": "Extended Passive Test : Reduce Attacker Skill Power Based on EVA",
     "korean": "확장패시브 테스트 : 회피 비례 공격자 스킬 위력 감소"
   },
   "BuffName_Effect_Passive_Tast_N_49": {
-    "english": "Extended Passive Test : Skill Power Increase Proportional to Defense",
+    "english": "Extended Passive Test : Skill Power Increase Based on DEF",
     "korean": "확장패시브 테스트 : 방어력 비례 스킬 위력 증가"
   },
   "BuffName_Effect_Passive_Tast_N_5": {
-    "english": "Extended Passive Test : Critical Rate Ratio (%) Increase/Decrease",
+    "english": "Extended Passive Test : CRIT Ratio (%) Increase/Decrease",
     "korean": "확장패시브 테스트 : 치명타 확률 비율(%) 증감"
   },
   "BuffName_Effect_Passive_Tast_N_50": {
-    "english": "Extended Passive Test : Attacker Critical Stat Decrease Proportional to Defense",
+    "english": "Extended Passive Test : Reduce Attacker CRIT Based on DEF",
     "korean": "확장패시브 테스트 : 방어력 비례 공격자 치명타 수치 감소"
   },
   "BuffName_Effect_Passive_Tast_N_51": {
@@ -2348,7 +2348,7 @@
     "korean": "확장패시브 테스트 : 냉기 저항 감소 반전"
   },
   "BuffName_Effect_Passive_Tast_N_6": {
-    "english": "Extended Passive Test : Evasion Ratio (%) Increase/Decrease",
+    "english": "Extended Passive Test : EVA Ratio (%) Increase/Decrease",
     "korean": "확장패시브 테스트 : 회피율 비율(%) 증감"
   },
   "BuffName_Effect_Passive_Tast_N_60": {
@@ -2360,7 +2360,7 @@
     "korean": "확장패시브 테스트 : 강화 불가 적용"
   },
   "BuffName_Effect_Passive_Tast_N_62": {
-    "english": "Extended Passive Test : Buff Removal Resistance",
+    "english": "Extended Passive Test : Buff Removal Resist",
     "korean": "확장패시브 테스트 : 강화 해제 저항"
   },
   "BuffName_Effect_Passive_Tast_N_63": {
@@ -2400,83 +2400,83 @@
     "korean": "아르고스의 눈 : 회피 강화 효과 햐제"
   },
   "BuffName_Effect_ST_Mercury_N_11": {
-    "english": "Eye of Argos: ACU / EVA reduction",
+    "english": "Eye of Argos: ACC Decrease / EVA Decrease",
     "korean": "아르고스의 눈 : 적중 / 회피 감소"
   },
   "BuffName_Effect_ST_Mercury_N_12": {
-    "english": "Eye of Argos: Damage reduction removal",
+    "english": "Eye of Argos: Damage Reduction Removal",
     "korean": "아르고스의 눈 : 받는 피해 감소 효과 해제"
   },
   "BuffName_Effect_ST_Mercury_N_13": {
-    "english": "Eye of Argos: Cooperative attack",
+    "english": "Eye of Argos: Cooperative Attack",
     "korean": "아르고스의 눈 : 협동 공격"
   },
   "BuffName_Effect_ST_Mercury_N_2": {
-    "english": "Best Time: AP / Armor penetration / Skill power increase proportional to EVA",
+    "english": "Best Time: AP Increase / DEF Penetration Increase / Skill Power Increase Based on EVA",
     "korean": "최상의 시간 : AP / 방어 관통 / 회피 비례 스킬 위력 증가"
   },
   "BuffName_Effect_ST_Mercury_N_3": {
-    "english": "Talaria: EVA / SPD increase",
+    "english": "Talaria: EVA Increase / SPD Increase",
     "korean": "탈라리아 : 회피 / 행동력 증가"
   },
   "BuffName_Effect_ST_Mercury_N_31": {
-    "english": "Talaria: Recon activation",
+    "english": "Talaria: Activate Recon Effect",
     "korean": "탈라리아 : 정찰 활성화"
   },
   "BuffName_Effect_ST_Mercury_N_32": {
-    "english": "Talaria: EVA increase",
+    "english": "Talaria: EVA Increase",
     "korean": "탈라리아 : 회피 증가"
   },
   "BuffName_Effect_ST_Mercury_N_33": {
-    "english": "Eye of Argos: Counterattack removal",
+    "english": "Eye of Argos: Counter Attack Removal",
     "korean": "아르고스의 눈 : 반격 해제"
   },
   "BuffName_Effect_ST_Mercury_N_4": {
-    "english": "Tactic Links: ATK / CRIT increase",
+    "english": "Tactic Links: ATK Increase / CRIT Increase",
     "korean": "택틱 링크스 : 공격력 / 치명타 증가"
   },
   "BuffName_Effect_ST_Mercury_N_45": {
-    "english": "Tactic Links: Skill power increase",
+    "english": "Tactic Links: Skill Power Increase",
     "korean": "택틱 링크스 : 스킬 위력 증가"
   },
   "BuffName_Effect_ST_Mercury_N_46": {
-    "english": "Tactic Links: Effect resistance increase",
+    "english": "Tactic Links: Status Resist Increase",
     "korean": "택틱 링크스 : 효과 저항 증가"
   },
   "BuffName_Effect_ST_Mercury_N_47": {
-    "english": "Tactic Links: ACU increase",
+    "english": "Tactic Links: ACC Increase",
     "korean": "택틱 링크스 : 적중 증가"
   },
   "BuffName_Effect_ST_Mercury_N_48": {
-    "english": "Talaria: Immunity to EVA reduction",
+    "english": "Talaria: EVA Decrease Immunity",
     "korean": "탈라리아 : 회피 감소 면역"
   },
   "BuffName_Effect_ST_Mercury_N_5": {
-    "english": "Nose Breaker: SPD reduction",
+    "english": "Nose Breaker: SPD Decrease",
     "korean": "콧대 꺾기 : 행동력 감소"
   },
   "BuffName_Effect_ST_Mercury_N_51": {
-    "english": "Nose Breaker: AP decrease",
+    "english": "Nose Breaker: AP Decrease",
     "korean": "콧대 꺾기 : AP 감소"
   },
   "BuffName_Effect_ST_Mercury_N_52": {
-    "english": "Nose Breaker: Increased damage received",
+    "english": "Nose Breaker: DMG Taken Increased",
     "korean": "콧대 꺾기 : 받는 피해 증가"
   },
   "BuffName_Effect_ST_Tiamat_N_1": {
-    "english": "Heavy Armor Blade: DEF reduction / Damage increase",
+    "english": "Heavy Armor Blade: DEF Decrease / Additional DMG Increase",
     "korean": "대 장갑 블레이드 : 방어력 감소 / 피해량 증가"
   },
   "BuffName_Effect_ST_Tiamat_N_2": {
-    "english": "Full Weapon Assault: Damage increase / Shield / Ignore damage reduction",
+    "english": "Full Weapon Assault: Additional DMG Increase / Ignore Barrier / Damage Reduction",
     "korean": "풀 웨폰 어썰트 : 피해량 증가 / 방어막 / 피해 감소 무시"
   },
   "BuffName_Effect_ST_Tiamat_N_3": {
-    "english": "Insight: EVA increase / On attack hit, ATK increase / Counterattack activation",
+    "english": "Insight: EVA increase / On attack hit, ATK increase / Counter Attack activation",
     "korean": "간파 : 회피 증가 / 공격 적중 시, 공격력 증가 / 반격 활성화"
   },
   "BuffName_Effect_ST_Tiamat_N_4": {
-    "english": "Wedge Formation: CRIT / ACU / SPD increase",
+    "english": "Wedge Formation: CRIT Increase / ACC Increase / SPD Increase",
     "korean": "쐐기대형 : 치명타 / 적중 / 행동력 증가"
   },
   "BuffName_Effect_ST_Tiamat_N_5": {
@@ -2484,115 +2484,115 @@
     "korean": "우회 공격 : 방어 관통 증가. 정찰 시, 회피 / 적중 / 행동력 증가"
   },
   "BuffName_Effect_ST_Ullr_CH_1": {
-    "english": "Focus Shot: Armor penetration",
+    "english": "Focus Shot: DEF Penetration",
     "korean": "포커스 샷 : 방어 관통"
   },
   "BuffName_Effect_ST_Ullr_CH_11": {
-    "english": "Focus Shot: Counterattack effect removal / Additional damage",
+    "english": "Focus Shot: Counter Attack Effect Removal / Additional DMG",
     "korean": "포커스 샷 : 반격 효과 해제 / 추가 피해"
   },
   "BuffName_Effect_ST_Ullr_CH_2": {
-    "english": "Reflect Shot: Additional damage / Counterattack, damage reduction removal",
+    "english": "Reflect Shot: Additional damage / Counter Attack, DMG Reduction removal",
     "korean": "리플렉트 샷 : 추가 피해 / 반격, 받는 피해 감소 효과 해제"
   },
   "BuffName_Effect_ST_Ullr_CH_21": {
-    "english": "Reflect Shot: Additional damage",
+    "english": "Reflect Shot: Additional DMG",
     "korean": "리플렉트 샷 : 추가 피해"
   },
   "BuffName_Effect_ST_Ullr_CH_4": {
-    "english": "Long-range Sniper Mode: ACU, Armor penetration increase / ACU, CRIT reduction effect removed",
+    "english": "Long-range Sniper Mode: ACC, DEF Penetration increase / ACC, CRIT reduction effect removed",
     "korean": "장거리 저격 모드 : 적중, 방어 관통 증가 / 적중, 치명타 감소 효과 해제"
   },
   "BuffName_Effect_ST_Ullr_CH_41": {
-    "english": "Long-range Sniper Mode: ACU, Armor penetration increase / ACU, CRIT reduction effect removed",
+    "english": "Long-range Sniper Mode: ACC, DEF Penetration increase / ACC, CRIT reduction effect removed",
     "korean": "장거리 저격 모드 : 적중, 방어 관통 증가 / 적중, 치명타 감소 효과 해제"
   },
   "BuffName_Effect_ST_Ullr_CH_42": {
-    "english": "Long-range Sniper Mode: ACU, Armor penetration increase / ACU, CRIT reduction effect removed",
+    "english": "Long-range Sniper Mode: ACC, DEF Penetration increase / ACC, CRIT reduction effect removed",
     "korean": "장거리 저격 모드 : 적중, 방어 관통 증가 / 적중, 치명타 감소 효과 해제"
   },
   "BuffName_Effect_ST_Ullr_CH_43": {
-    "english": "Long-range Sniper Mode: ACU, Armor penetration increase / ACU, CRIT reduction effect removed",
+    "english": "Long-range Sniper Mode: ACC, DEF Penetration increase / ACC, CRIT reduction effect removed",
     "korean": "장거리 저격 모드 : 적중, 방어 관통 증가 / 적중, 치명타 감소 효과 해제"
   },
   "BuffName_Effect_ST_Ullr_CH_44": {
-    "english": "Long-range Sniper Mode: ACU, Armor penetration increase / ACU, CRIT reduction effect removed",
+    "english": "Long-range Sniper Mode: ACC, DEF Penetration increase / ACC, CRIT reduction effect removed",
     "korean": "장거리 저격 모드 : 적중, 방어 관통 증가 / 적중, 치명타 감소 효과 해제"
   },
   "BuffName_Effect_ST_Ullr_N_1": {
-    "english": "Spread Shot: Additional damage",
+    "english": "Spread Shot: Additional DMG",
     "korean": "확산 사격 : 추가 피해"
   },
   "BuffName_Effect_ST_Ullr_N_11": {
-    "english": "Spread Shot: Increased damage to heavy armor / mobile units",
+    "english": "Spread Shot: Anti-Light DMG / Anti-Air DMG",
     "korean": "확산 사격 : 대 경장 / 대 기동 피해량 증가"
   },
   "BuffName_Effect_ST_Ullr_N_2": {
-    "english": "Omnidirectional Fire: EVA increase effect removed",
+    "english": "Omnidirectional Fire: EVA Buff Removal",
     "korean": "전방위 사격 : 회피 증가 효과 해제"
   },
   "BuffName_Effect_ST_Ullr_N_21": {
-    "english": "Omnidirectional Fire: Additional damage",
+    "english": "Omnidirectional Fire: Additional DMG",
     "korean": "전방위 사격 : 추가 피해"
   },
   "BuffName_Effect_ST_Ullr_N_22": {
-    "english": "Omnidirectional Fire: Increased damage received",
+    "english": "Omnidirectional Fire: DMG Taken Increased",
     "korean": "전방위 사격 : 받는 피해 증가"
   },
   "BuffName_Effect_ST_Ullr_N_3": {
-    "english": "Separation Anxiety: ATK / CRIT / Armor penetration increase",
+    "english": "Separation Anxiety: ATK Increase / CRIT Increase / DEF Penetration Increase",
     "korean": "분리불안증 : 공격력 / 치명타 / 방어 관통 증가"
   },
   "BuffName_Effect_ST_Ullr_N_31": {
-    "english": "Separation Anxiety: ATK / CRIT / Armor penetration increase",
+    "english": "Separation Anxiety: ATK Increase / CRIT Increase / DEF Penetration Increase",
     "korean": "분리불안증 : 공격력 / 치명타 / 방어 관통 증가"
   },
   "BuffName_Effect_ST_Ullr_N_32": {
-    "english": "Separation Anxiety: ATK / CRIT / Armor penetration increase",
+    "english": "Separation Anxiety: ATK Increase / CRIT Increase / DEF Penetration Increase",
     "korean": "분리불안증 : 공격력 / 치명타 / 방어 관통 증가"
   },
   "BuffName_Effect_ST_Ullr_N_33": {
-    "english": "Separation Anxiety: ATK / CRIT / Armor penetration increase",
+    "english": "Separation Anxiety: ATK Increase / CRIT Increase / DEF Penetration Increase",
     "korean": "분리불안증 : 공격력 / 치명타 / 방어 관통 증가"
   },
   "BuffName_Effect_ST_Ullr_N_34": {
-    "english": "Separation Anxiety: ACU reduction / ACU increase effect removed",
+    "english": "Separation Anxiety: ACC Decrease / ACC Buff Removal",
     "korean": "분리불안증 : 적중 감소 / 적중 증가 효과 해제"
   },
   "BuffName_Effect_ST_Ullr_N_4": {
-    "english": "Close-range Response Mode: SPD increase / Shield, ignore damage reduction",
+    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / Damage Reduction",
     "korean": "근거리 대응 모드 : 행동력 증가 / 방어막, 피해 감소 무시"
   },
   "BuffName_Effect_ST_Ullr_N_41": {
-    "english": "Close-range Response Mode: SPD increase / Shield, ignore damage reduction",
+    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / Damage Reduction",
     "korean": "근거리 대응 모드 : 행동력 증가 / 방어막, 피해 감소 무시"
   },
   "BuffName_Effect_ST_Ullr_N_42": {
-    "english": "Close-range Response Mode: SPD increase / Shield, ignore damage reduction",
+    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / Damage Reduction",
     "korean": "근거리 대응 모드 : 행동력 증가 / 방어막, 피해 감소 무시"
   },
   "BuffName_Effect_ST_Ullr_N_43": {
-    "english": "Close-range Response Mode: SPD increase / Shield, ignore damage reduction",
+    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / Damage Reduction",
     "korean": "근거리 대응 모드 : 행동력 증가 / 방어막, 피해 감소 무시"
   },
   "BuffName_Effect_ST_Ullr_N_5": {
-    "english": "Reflect Field Deployment: Damage nullification",
+    "english": "Reflect Field Deployment: Damage Nullification",
     "korean": "리플렉트 필드 전개 : 피해 무효화"
   },
   "BuffName_Effect_ST_Ullr_N_51": {
-    "english": "Reflect Field Deployment: Effect resistance / Buff removal resistance",
+    "english": "Reflect Field Deployment: Status Resist / Buff Removal Resist",
     "korean": "리플렉트 필드 전개 : 효과 저항 / 강화 해제 저항"
   },
   "BuffName_Effect_ST_Ullr_N_52": {
-    "english": "Reflect Field Deployment: Skill power increase",
+    "english": "Reflect Field Deployment: Skill Power Increase",
     "korean": "리플렉트 필드 전개 : 스킬 위력 증가"
   },
   "BuffName_Effect_ST_Ullr_N_53": {
-    "english": "Reflect Field Deployment: Attack support",
+    "english": "Reflect Field Deployment: Follow-Up Attack",
     "korean": "리플렉트 필드 전개 : 공격 지원"
   },
   "BuffName_Effect_ST_Ullr_N_54": {
-    "english": "Reflect Field Deployment: Damage nullification",
+    "english": "Reflect Field Deployment: Damage Nullification",
     "korean": "리플렉트 필드 전개 : 피해 무효화"
   },
   "BuffName_Effect_TEST_Nest_N_1": {
@@ -2600,11 +2600,11 @@
     "korean": "파멸 도래 : <침식> 상태 시 피해량 증가"
   },
   "BuffName_Effect_TEST_Nest_N_2": {
-    "english": "Erosion: Push back 1 tile / ATK / DEF reduction",
+    "english": "Erosion: Push Back / ATK Decrease / DEF Decrease",
     "korean": "침식 : 뒤로 1칸 밀기 / 공격력 / 방어력 감소"
   },
   "BuffName_Effect_TEST_Nest_N_21": {
-    "english": "Erosion: Push back 1 tile / ATK / DEF reduction",
+    "english": "Erosion: Push Back / ATK Decrease / DEF Decrease",
     "korean": "침식 : 뒤로 1칸 밀기 / 공격력 / 방어력 감소"
   },
   "BuffName_Effect_TEST_Nest_N_3": {
@@ -2656,7 +2656,7 @@
     "korean": "사출 시스템 파괴"
   },
   "BuffName_Effect_Test_Monster_N_1": {
-    "english": "Illusionist: Taunt",
+    "english": "Illusionist: Provokes",
     "korean": "환영 선사 : 도발"
   },
   "BuffName_Effect_Test_Monster_N_3": {
