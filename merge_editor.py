@@ -34,6 +34,11 @@ BASE_DIR    = Path(__file__).resolve().parent
 REVIEW_DIR  = BASE_DIR / "for_review"
 ORIG_DIR    = BASE_DIR / "json"
 
+sys.path.insert(0, str(BASE_DIR))
+from fix_common_mistranslation import apply_corrections, load_corrections  # noqa: E402
+
+_CORRECTIONS = load_corrections(BASE_DIR / "corrections" / "corrections.json")
+
 
 # ---------------------------------------------------------------------------
 # Data loading
@@ -46,9 +51,11 @@ def save_json(path: Path, data: dict) -> None:
 
 def collect_diffs(source_dir: Path) -> list[tuple]:
     """
-    Returns (fname, eid, korean, orig_en, rev_en, src_en) for every entry where:
-      - src_en (merge_review) != orig_en (json baseline)   — a meaningful change
-      - src_en (merge_review) != rev_en (for_review)       — still unresolved
+    Returns (fname, eid, korean, orig_en, rev_en, src_en) for every entry where,
+    after applying corrections to both sides:
+      - src_en != orig_en  (merge_review changed something from baseline)
+      - src_en != rev_en   (still unresolved after corrections)
+    Displayed rev_en / src_en are the correction-applied versions.
     """
     diffs = []
     for src_path in sorted(source_dir.glob("*.json")):
@@ -64,8 +71,13 @@ def collect_diffs(source_dir: Path) -> list[tuple]:
             rev_en  = rev_data.get(eid,  {}).get("english", "")
             orig_en = orig_data.get(eid, {}).get("english", "")
             korean  = src_entry.get("korean", rev_data.get(eid, {}).get("korean", ""))
-            if src_en and rev_en and src_en != orig_en and src_en != rev_en:
-                diffs.append((src_path.name, eid, korean, orig_en, rev_en, src_en))
+            if not src_en or not rev_en:
+                continue
+            # Apply corrections to both sides before comparing
+            src_fixed = apply_corrections(korean, src_en, _CORRECTIONS)
+            rev_fixed = apply_corrections(korean, rev_en, _CORRECTIONS)
+            if src_fixed != orig_en and src_fixed != rev_fixed:
+                diffs.append((src_path.name, eid, korean, orig_en, rev_fixed, src_fixed))
     return diffs
 
 

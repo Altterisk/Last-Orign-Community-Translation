@@ -78,6 +78,7 @@ class App(tk.Tk):
 
         # Search
         self._filtered: list[int] = list(range(len(self.data)))  # data indices shown
+        self._search_job: str | None = None   # pending after() id for debounce
 
         # Undo history: list of (deep copy of data, cur data-index)
         self._history: list[tuple[list, int | None]] = []
@@ -112,7 +113,7 @@ class App(tk.Tk):
         sf = ttk.Frame(left)
         sf.pack(fill=tk.X, padx=6, pady=(0, 4))
         self._search_var = tk.StringVar()
-        self._search_var.trace_add("write", lambda *_: self._apply_filter())
+        self._search_var.trace_add("write", lambda *_: self._schedule_filter())
         search_entry = ttk.Entry(sf, textvariable=self._search_var,
                                  font=("Segoe UI", 9))
         search_entry.pack(side=tk.LEFT, fill=tk.X, expand=True)
@@ -241,8 +242,19 @@ class App(tk.Tk):
         ]).lower()
         return query in haystack
 
+    def _schedule_filter(self):
+        if not hasattr(self, "entry_list"):
+            return
+        if self._search_job is not None:
+            self.after_cancel(self._search_job)
+        delay = 300 if self._search_text() else 0
+        self._search_job = self.after(delay, self._apply_filter)
+
     def _apply_filter(self):
         """Rebuild the listbox to show only entries matching the current search."""
+        self._search_job = None
+        if not hasattr(self, "entry_list"):
+            return
         query = self._search_text()
         # Flush current selection before repopulating
         if self.cur is not None:
