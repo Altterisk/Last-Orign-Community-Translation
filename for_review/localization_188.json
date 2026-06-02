@@ -128,7 +128,7 @@
     "korean": "라운드 개시 시, 자신의 행동력 / 회피가 증가합니다.&n<디스크 봄> / <표적 스캔>의 부가 효과 발동 조건을 '치명타 시'에서 '적중 시'로 완화합니다.&n전투 개시 시, <AA 캐노니어> 소속 공격기에게 1라운드 동안 보호 무시 일반 효과를 부여합니다. 해당 효과는 적 보호기 수만큼 지속 라운드가 증가합니다."
   },
   "SkillDesc_Skill_BR_RedHood_N_1": {
-    "english": "Deals {0} damage to the target and reduces their ATK/CRIT for 2 rounds.&nDeals increased damage to targets with reduced DEF/EVA.&nIf <M-5 Ifrit> is in the squad, performs a coordinated attack with the <Arcing Barrage> skill on the designated target.",
+    "english": "Deals {0} damage to the target and reduces their ATK/CRIT for 2 rounds.&nDeals increased damage to targets with reduced DEF/EVA.&nIf <M-5 Efreeti> is in the squad, performs a coordinated attack with the <Arcing Barrage> skill on the designated target.",
     "korean": "대상에게 {0} 피해를 주고, 2라운드 동안 대상의 공격력 / 치명타를 낮춥니다. 방어력 / 회피 감소 대상에게 피해량이 증가합니다.&n스쿼드 내에 <M-5 이프리트>가 있을 시, 지정 타겟 대상으로 <곡사 포격> 스킬 협동 공격을 합니다."
   },
   "SkillDesc_Skill_BR_RedHood_N_2": {
@@ -832,11 +832,11 @@
     "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가합니다.&n라운드 개시 시, 자신은 보호 무시 효과를 획득합니다. 해당 효과는 <돌파!! 아크데모닉 러시> 사용 시 해제됩니다.&n공격 적중 시 자신이 받는 피해 증가 상태인 경우, 액티브 스킬의 피해량이 증가합니다."
   },
   "SkillDesc_Skill_DS_Sarena_N_4": {
-    "english": "When hit: purges armor, causing self to take increased damage and gain AP for the rest of the round.&nIf <Goltharion XIII> is in the squad: the above effect can also be applied to the target, and the AP increase effect is shared between both.&nAt the start of the round: activates row protection for allied Light-type defenders in the front row.",
+    "english": "When hit: purges armor, causing self to take increased damage and gain AP for the rest of the round.&nIf <Goltarion XIII> is in the squad: the above effect can also be applied to the target, and the AP increase effect is shared between both.&nAt the start of the round: activates row protection for allied Light-type defenders in the front row.",
     "korean": "피격 시, 장갑을 퍼지하여 해당 라운드 동안 자신이 받는 피해가 증가하고 AP가 증가합니다.&n스쿼드 내 <골타리온 XⅢ세>가 있을 경우, 상기 효과를 대상에게도 물려줄 수 있고 AP 증가 효과를 서로 공유합니다.&n라운드 개시 시, 전열에 위치한 아군 경장형 보호기의 열 보호를 활성화합니다."
   },
   "SkillDesc_Skill_DS_Sarena_N_5": {
-    "english": "At the start of the round: Attacks Supports to <D-Enter Villains> and <Magical Girl> units in the squad, and increases ATK.&nFor the following skills, treats self as a <Magical Girl> to activate their effects:&n&n<Magical Momo>’s <End-of-Century Magical Girl>&n&n<Goltharion XIII>’s <If It’s the Demon King’s Command…!>",
+    "english": "At the start of the round: Attacks Supports to <D-Enter Villains> and <Magical Girl> units in the squad, and increases ATK.&nFor the following skills, treats self as a <Magical Girl> to activate their effects:&n&n<Magical Momo>’s <End-of-Century Magical Girl>&n&n<Goltarion XIII>’s <If It’s the Demon King’s Command…!>",
     "korean": "라운드 개시 시, 스쿼드 내 <마왕군> 및 <마법소녀>의 공격을 지원하고 공격력을 증가시킵니다.&n이하의 스킬에 대하여 자신을 <마법소녀>로서 취급하여 효과를 발동시킬 수 있습니다.&n- <매지컬 모모>의 <세기말 마법소녀> / <골타리온 XⅢ세>의 <마왕님의 명이라면…!>"
   },
   "SkillDesc_Skill_ExtPassiveSkill_N_1101": {
@@ -1112,7 +1112,7 @@
     "korean": "전방의 적들을 빠르게 베어 밀어내며 광속베기로 지정 범위에 {0} 보호 무시 화염 피해를 발생시킵니다.&n스킬 적중 시 2라운드 동안 대상의 적중을 감소시키고 [합선] 상태로 만듭니다.&n치명타 시 대상의 모든 강화 효과를 해제하고 화염 피해량이 증가합니다."
   },
   "SkillDesc_Skill_LC_Chii_N_2": {
-    "english": "Transform the right hand into a demon hand, draw the weapon, and Soul Junk it to deal {0} fire damage within a designated area. Upon hitting an enemy, grant yourself the Area Damage Focus effect. On a critical hit, remove the target's shield and deal continuous fire damage for 2 rounds. If <Efnell>, <Inabi>, and <Dana Opini> are in the squad, there is a 100% chance of triggering a cooperative attack using [Super Nova], [Tactical Airstrike], and [Lash Impale] skills. If there are multiple combatants capable of cooperative attacks, priority is given in the order indicated above (Efnell > Dana Opini). If multiple enemies are targeted, prioritize the enemy within range; if a cooperative attack is impossible due to range, the next combatant in line executes the cooperative attack.",
+    "english": "Transform the right hand into a demon hand, draw the weapon, and Soul Junk it to deal {0} fire damage within a designated area. Upon hitting an enemy, grant yourself the Area Damage Focus effect. On a critical hit, remove the target's shield and deal continuous fire damage for 2 rounds. If <Ephnel>, <Lee Nabi>, and <Dhana Opini> are in the squad, there is a 100% chance of triggering a cooperative attack using [Super Nova], [Tactical Airstrike], and [Lash Impale] skills. If there are multiple combatants capable of cooperative attacks, priority is given in the order indicated above (Ephnel > Dhana Opini). If multiple enemies are targeted, prioritize the enemy within range; if a cooperative attack is impossible due to range, the next combatant in line executes the cooperative attack.",
     "korean": "오른손을 귀수로 변화 후 무기를 뽑아 소울 정크화시켜 지정 범위에 {0} 화염 피해를 발생시킵니다.&n스킬 적중 시 자신에게 광역 피해 집중 효과를 부여합니다.&n치명타 시 대상의 방어막을 해제하고 2라운드 동안 지속 확염 피해를 발생시킵니다.&n스쿼드에 <에프넬>, <이나비>, <다나 오피니>가 있는 경우 100%로 [슈퍼 노바], [택티컬 에어스트라이크], [래쉬 임페일] 스킬로 협동 공격을 유도합니다.&n협동 공격이 가능한 전투원이 여렷인 경우 위 표기된 순으로 우선권을 가집니다. (에프넬 > 다나 오피니 순)&n다수의 적이 대상인 경우 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다."
   },
   "SkillDesc_Skill_LC_Chii_N_3": {
@@ -1120,7 +1120,7 @@
     "korean": "라운드 개시 시 자신의 방어력 및 회피, 행동력을 증가시킵니다.&n공격 적중 시 자신의 AP를 증가시킵니다.&n적 처치 시 자신의 AP를 추가로 증가시킵니다."
   },
   "SkillDesc_Skill_LC_Chii_N_4": {
-    "english": "At the start of the round, increases the evasion and skill power of all allies. If <CS Ferro> and <Poi> are in the squad at the start of the round, CS Ferro and Poi receive double the effect. If <CS Ferro> and <Poi> are in the squad at the start of the round, provides attack support to CS Ferro and Poi.",
+    "english": "At the start of the round, increases the evasion and skill power of all allies. If <CS Perrault> and <Poi> are in the squad at the start of the round, CS Perrault and Poi receive double the effect. If <CS Perrault> and <Poi> are in the squad at the start of the round, provides attack support to CS Perrault and Poi.",
     "korean": "라운드 개시 시 아군 전체의 회피 및 스킬 위력을 증가시킵니다.&n라운드 개시 시 스쿼드에 <CS 페로>, <포이>가 있는 경우 CS 페로 및 포이는 2배로 효과를 받습니다.&n라운드 개시 시 스쿼드에 <CS 페로>, <포이>가 있는 경우 CS 페로 및 포이를 공격 지원합니다."
   },
   "SkillDesc_Skill_LC_Chii_N_5": {
@@ -1232,7 +1232,7 @@
     "korean": "소울에너지 탄을 장전 한 뒤 전방에 발사하여 지정 범위에 {0} 보호 무시 냉기 피해를 발생시킵니다.&n스킬 적중 시 2라운드 동안 자신에게 대 중장 공격력을 증가시키고 대상을 [침수] 상태로 만듭니다.&n치명타 시 냉기 피해량이 증가하고 2라운드 동안 대상의 효과 저항이 감소합니다."
   },
   "SkillDesc_Skill_LC_Nabi_N_2": {
-    "english": "After an aerial bombardment via radio, deal {0} Cold damage to a designated area with a heavy weapon. Upon hitting, remove the target's Row/Column Protection effects and deal Cold damage over time for 2 rounds. On a critical hit, reduce the target's SPD for 2 rounds. If <Chii Aruel>, <Dana Opini>, and <Efnell> are in the squad, trigger a cooperative attack with [Predator's Apocalypse], [Lash Impale], and [Super Nova] skills with 100% probability. If there are multiple combatants capable of cooperative attacks, priority is given in the order indicated above (Chii Aruel > Efnell). If multiple enemies are the target, prioritize the enemy within range; if a cooperative attack is impossible due to range, the next combatant in line executes the cooperative attack.",
+    "english": "After an aerial bombardment via radio, deal {0} Cold damage to a designated area with a heavy weapon. Upon hitting, remove the target's Row/Column Protection effects and deal Cold damage over time for 2 rounds. On a critical hit, reduce the target's SPD for 2 rounds. If <Chii Aruel>, <Dhana Opini>, and <Ephnel> are in the squad, trigger a cooperative attack with [Predator's Apocalypse], [Lash Impale], and [Super Nova] skills with 100% probability. If there are multiple combatants capable of cooperative attacks, priority is given in the order indicated above (Chii Aruel > Ephnel). If multiple enemies are the target, prioritize the enemy within range; if a cooperative attack is impossible due to range, the next combatant in line executes the cooperative attack.",
     "korean": "무전으로 공중 폭격 후 중화기로 지정 범위에 {0} 냉기 피해를 발생시킵니다.&n스킬 적중 시 대상의 행 보호 / 열 보호 효과를 해제하고 2라운드 동안 지속 냉기 피해를 발생시킵니다.&n치명타 시 2라운드 동안 대상의 행동력을 감소시킵니다.&n스쿼드에 <치이 아루엘>, <다나 오피니>, <에프넬>가 있는 경우 100%로 [포식자가 부르는 종말], [래쉬 임페일], [슈퍼 노바] 스킬로 협동 공격을 유도합니다.&n협동 공격이 가능한 전투원이 여렷인 경우 위 표기된 순으로 우선권을 가집니다. (치이 아루엘 > 에프넬 순)&n다수의 적이 대상인 경우 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다."
   },
   "SkillDesc_Skill_LC_Nabi_N_3": {
@@ -1364,7 +1364,7 @@
     "korean": "전방의 적들을 빠르게 베어 밀어내며 광속베기로 지정 범위에 {0} 보호 무시 화염 피해를 발생시킵니다.&n스킬 적중 시 2라운드 동안 대상의 적중을 감소시키고 [합선] 상태로 만듭니다.&n치명타 시 대상의 모든 강화 효과를 해제하고 화염 피해량이 증가합니다."
   },
   "SkillDesc_Skill_MP_Chii_N_2": {
-    "english": "Transform the right hand into a demon hand, draw the weapon, and Soul Junk it to deal {0} fire damage in the designated area. Upon hitting, grant yourself the Area Damage Focus effect. Upon critical hit, remove the target's shield and deal continuous fire damage for 2 rounds. If <Efnell>, <Inabi>, or <Dana Opini> are in the squad, there is a 100% chance to trigger a cooperative attack using [Super Nova], [Tactical Airstrike], or [Lash Impale] skills. If there are multiple combatants capable of cooperative attacks, priority is given in the order indicated above (Efnell > Dana Opini). If multiple enemies are the target, prioritize the enemy within range; if a cooperative attack is impossible due to range, the next combatant in line executes the cooperative attack.",
+    "english": "Transform the right hand into a demon hand, draw the weapon, and Soul Junk it to deal {0} fire damage in the designated area. Upon hitting, grant yourself the Area Damage Focus effect. Upon critical hit, remove the target's shield and deal continuous fire damage for 2 rounds. If <Ephnel>, <Lee Nabi>, or <Dhana Opini> are in the squad, there is a 100% chance to trigger a cooperative attack using [Super Nova], [Tactical Airstrike], or [Lash Impale] skills. If there are multiple combatants capable of cooperative attacks, priority is given in the order indicated above (Ephnel > Dhana Opini). If multiple enemies are the target, prioritize the enemy within range; if a cooperative attack is impossible due to range, the next combatant in line executes the cooperative attack.",
     "korean": "오른손을 귀수로 변화 후 무기를 뽑아 소울 정크화시켜 지정 범위에 {0} 화염 피해를 발생시킵니다.&n스킬 적중 시 자신에게 광역 피해 집중 효과를 부여합니다.&n치명타 시 대상의 방어막을 해제하고 2라운드 동안 지속 확염 피해를 발생시킵니다.&n스쿼드에 <에프넬>, <이나비>, <다나 오피니>가 있는 경우 100%로 [슈퍼 노바], [택티컬 에어스트라이크], [래쉬 임페일] 스킬로 협동 공격을 유도합니다.&n협동 공격이 가능한 전투원이 여렷인 경우 위 표기된 순으로 우선권을 가집니다. (에프넬 > 다나 오피니 순)&n다수의 적이 대상인 경우 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다."
   },
   "SkillDesc_Skill_MP_Chii_N_3": {
@@ -1372,7 +1372,7 @@
     "korean": "라운드 개시 시 자신의 방어력 및 회피, 행동력을 증가시킵니다.&n공격 적중 시 자신의 AP를 증가시킵니다.&n적 처치 시 자신의 AP를 추가로 증가시킵니다."
   },
   "SkillDesc_Skill_MP_Chii_N_4": {
-    "english": "At the start of the round, increases the evasion and skill power of all allies. At the start of the round, if <CS Ferro> and <Poi> are in the squad, CS Ferro and Poi receive double the effect. At the start of the round, if <CS Ferro> and <Poi> are in the squad, provides attack support to CS Ferro and Poi.",
+    "english": "At the start of the round, increases the evasion and skill power of all allies. At the start of the round, if <CS Perrault> and <Poi> are in the squad, CS Perrault and Poi receive double the effect. At the start of the round, if <CS Perrault> and <Poi> are in the squad, provides attack support to CS Perrault and Poi.",
     "korean": "라운드 개시 시 아군 전체의 회피 및 스킬 위력을 증가시킵니다.&n라운드 개시 시 스쿼드에 <CS 페로>, <포이>가 있는 경우 CS 페로 및 포이는 2배로 효과를 받습니다.&n라운드 개시 시 스쿼드에 <CS 페로>, <포이>가 있는 경우 CS 페로 및 포이를 공격 지원합니다."
   },
   "SkillDesc_Skill_MP_Chii_N_5": {
@@ -2064,7 +2064,7 @@
     "korean": "지정 범위의 적에게 {0}의 보호 무시 피해를 줍니다.&n적중 시 자신이 <피해망상> 상태인 경우, 재공격 효과를 획득합니다."
   },
   "SkillDesc_Skill_MP_JangHwa_TU3_3": {
-    "english": "At the start of battle, gains Damage Mitigation (2 times). At the start of the round, if <C-77 Crimson Lotus> is present, applies an unremovable mark to the target. If <C-77 Crimson Lotus> is absent, gains AoE damage focus effect.",
+    "english": "At the start of battle, gains Damage Mitigation (2 times). At the start of the round, if <C-77 HongRyeon> is present, applies an unremovable mark to the target. If <C-77 HongRyeon> is absent, gains AoE damage focus effect.",
     "korean": "전투 개시 시, 자신은 피해 최소화 (2회) 효과를 획득합니다.&n라운드 개시 시 <C-77 홍련>이 있을 경우, 대상에게 해제 불가한 표식을 부여합니다.&n라운드 개시 시 <C-77 홍련>이 없을 경우, 자신은 광역 피해 집중 효과를 획득합니다."
   },
   "SkillDesc_Skill_MP_JangHwa_TU3_4": {
@@ -2704,7 +2704,7 @@
     "korean": "소울에너지 탄을 장전 한 뒤 전방에 발사하여 지정 범위에 {0} 보호 무시 냉기 피해를 발생시킵니다.&n스킬 적중 시 2라운드 동안 자신에게 대 중장 공격력을 증가시키고 대상을 [침수] 상태로 만듭니다.&n치명타 시 냉기 피해량이 증가하고 2라운드 동안 대상의 효과 저항이 감소합니다."
   },
   "SkillDesc_Skill_MP_Nabi_N_2": {
-    "english": "After an aerial bombardment via radio, deal {0} Cold damage to a designated area with a heavy weapon. Upon hitting, remove the target's Row/Column Protection effects and deal Cold damage over time for 2 rounds. On a critical hit, reduce the target's SPD for 2 rounds. If <Chii Aruel>, <Dana Opini>, and <Efnell> are in the squad, trigger a cooperative attack with [Predator's Apocalypse], [Lash Impale], and [Super Nova] skills with 100% probability. If there are multiple combatants capable of cooperative attacks, priority is given in the order indicated above (Chii Aruel > Efnell). If multiple enemies are the target, prioritize the enemy within range; if a cooperative attack is impossible due to range, the next combatant in line executes the cooperative attack.",
+    "english": "After an aerial bombardment via radio, deal {0} Cold damage to a designated area with a heavy weapon. Upon hitting, remove the target's Row/Column Protection effects and deal Cold damage over time for 2 rounds. On a critical hit, reduce the target's SPD for 2 rounds. If <Chii Aruel>, <Dhana Opini>, and <Ephnel> are in the squad, trigger a cooperative attack with [Predator's Apocalypse], [Lash Impale], and [Super Nova] skills with 100% probability. If there are multiple combatants capable of cooperative attacks, priority is given in the order indicated above (Chii Aruel > Ephnel). If multiple enemies are the target, prioritize the enemy within range; if a cooperative attack is impossible due to range, the next combatant in line executes the cooperative attack.",
     "korean": "무전으로 공중 폭격 후 중화기로 지정 범위에 {0} 냉기 피해를 발생시킵니다.&n스킬 적중 시 대상의 행 보호 / 열 보호 효과를 해제하고 2라운드 동안 지속 냉기 피해를 발생시킵니다.&n치명타 시 2라운드 동안 대상의 행동력을 감소시킵니다.&n스쿼드에 <치이 아루엘>, <다나 오피니>, <에프넬>가 있는 경우 100%로 [포식자가 부르는 종말], [래쉬 임페일], [슈퍼 노바] 스킬로 협동 공격을 유도합니다.&n협동 공격이 가능한 전투원이 여렷인 경우 위 표기된 순으로 우선권을 가집니다. (치이 아루엘 > 에프넬 순)&n다수의 적이 대상인 경우 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다."
   },
   "SkillDesc_Skill_MP_Nabi_N_3": {
