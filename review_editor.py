@@ -11,7 +11,7 @@ from tkinter import ttk, messagebox
 from pathlib import Path
 
 try:
-    from local_google_translate import GoogleTranslateV2
+    from translators.local_google_translate import GoogleTranslateV2
     _HAS_MTL = True
 except ImportError:
     _HAS_MTL = False
