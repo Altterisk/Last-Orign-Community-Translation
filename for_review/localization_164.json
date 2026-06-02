@@ -108,7 +108,7 @@
     "korean": "경비 모드! : 지정 대상 보호"
   },
   "BuffDesc1_Effect_3P_Hachiko_N_4": {
-    "english": "Indomitable Will : Continue Battle with {0}% HP",
+    "english": "Indomitable Will : Battle Continuation with {0}% HP",
     "korean": "불굴의 의지 : {0}% HP 전투 속행"
   },
   "BuffDesc1_Effect_3P_Hachiko_N_41": {
@@ -132,7 +132,7 @@
     "korean": "경비 모드! : 받는 피해 감소 {0}% (자신)"
   },
   "BuffDesc1_Effect_3P_Hachiko_N_44": {
-    "english": "Indomitable Will: Continue fighting at {0}% HP",
+    "english": "Indomitable Will: Battle Continuation with {0}% HP",
     "korean": "불굴의 의지 : {0}% HP 전투 속행"
   },
   "BuffDesc1_Effect_3P_Hachiko_N_5": {
@@ -312,11 +312,11 @@
     "korean": "깜빡한 준비물 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_3P_Maria_N_3": {
-    "english": "Ready? : Silenced (cannot be removed)",
+    "english": "Ready? : Silenced (Unremovable)",
     "korean": "준비됐나요? : 스킬 사용 불가 (해제 불가)"
   },
   "BuffDesc1_Effect_3P_Maria_N_31": {
-    "english": "Are You Ready? : Silenced (cannot be removed)",
+    "english": "Are You Ready? : Silenced (Unremovable)",
     "korean": "준비됐나요? : 스킬 사용 불가 (해제 불가)"
   },
   "BuffDesc1_Effect_3P_Maria_N_32": {
@@ -408,7 +408,7 @@
     "korean": "이리 오너라! : 공격력 {0}% (방어막)"
   },
   "BuffDesc1_Effect_3P_Melite_N_33": {
-    "english": "Come here! : ATK {0}% Decrease (Damage Taken Reduction)",
+    "english": "Come here! : ATK {0}% (Damage Taken Reduction)",
     "korean": "이리 오너라! : 공격력 {0}% (받는 피해 감소)"
   },
   "BuffDesc1_Effect_3P_Melite_N_34": {
@@ -1124,7 +1124,7 @@
     "korean": "터렛 다운 모드 : 방어력 {0}%"
   },
   "BuffDesc1_Effect_AGS_Fortress_CH_33": {
-    "english": "Turret Down Mode : Rooted (cannot be removed)",
+    "english": "Turret Down Mode : Rooted (Unremovable)",
     "korean": "터렛 다운 모드 : 이동 불가 (해제불가)"
   },
   "BuffDesc1_Effect_AGS_Fortress_CH_34": {
@@ -1216,7 +1216,7 @@
     "korean": "공격 지점 역산 : 스킬 위력 {0}%"
   },
   "BuffDesc1_Effect_AGS_Fortress_N_5": {
-    "english": "Damage Control : Continue Battle with {0}% HP",
+    "english": "Damage Control : Battle Continuation with {0}% HP",
     "korean": "대미지 컨트롤 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_AGS_Fortress_N_51": {
@@ -1264,23 +1264,23 @@
     "korean": "소환!! 데모닉 웨폰 : 피해량 {0}%"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_3": {
-    "english": "Undying Armor : Continue Battle with {0}% HP",
+    "english": "Undying Armor : Battle Continuation with {0}% HP",
     "korean": "불사의 장갑 : {0}% HP 전투 속행"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_31": {
-    "english": "Gloves of Immortality: {0}% HP Continue Battle",
+    "english": "Gloves of Immortality: Battle Continuation with {0}% HP",
     "korean": "불사의 장갑 : {0}% HP 전투 속행"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_32": {
-    "english": "Internal component damage: Unable to continue combat",
+    "english": "Internal component damage: Unable to Battle Continuation",
     "korean": "내부 부품 손상 : 전투 속행 불가"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_33": {
-    "english": "Internal component damage: Unable to continue combat",
+    "english": "Internal component damage: Unable to Battle Continuation",
     "korean": "내부 부품 손상 : 전투 속행 불가"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_34": {
-    "english": "By solemn command: Continue battle at {0}% HP",
+    "english": "By solemn command: Battle Continuation with {0}% HP",
     "korean": "지엄한 명을 받들어 : {0}% HP 전투 속행"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_35": {
@@ -1324,15 +1324,15 @@
     "korean": "마왕님의 명이라면…! : 스킬 위력 {0}% (모모)"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_53": {
-    "english": "If it is the Demon Lord's command…! : Ignore Barrier / Damage Reduction (BaekTo)",
+    "english": "If it is the Demon Lord's command…! : Ignore Barrier / DMG Reduction (BaekTo)",
     "korean": "마왕님의 명이라면…! : 방어막 / 피해 감소 무시 (백토)"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_54": {
-    "english": "Undying Armor : Continue Battle with {0}% HP",
+    "english": "Undying Armor : Battle Continuation with {0}% HP",
     "korean": "불사의 장갑 : {0}% HP 전투 속행"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_55": {
-    "english": "Internal component damage: Unable to continue combat",
+    "english": "Internal component damage: Unable to Battle Continuation",
     "korean": "내부 부품 손상 : 전투 속행 불가"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_905": {
@@ -1348,15 +1348,15 @@
     "korean": "마왕님의 명이라면…! : 스킬 위력{0}% (모모)"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_953": {
-    "english": "If it is the Demon Lord's command…! : Ignore Barrier / Damage Reduction (BaekTo)",
+    "english": "If it is the Demon Lord's command…! : Ignore Barrier / DMG Reduction (BaekTo)",
     "korean": "마왕님의 명이라면…! : 방어막 / 피해 감소 무시 (백토)"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_954": {
-    "english": "Gloves of Immortality: {0}% HP Continue Battle",
+    "english": "Gloves of Immortality: Battle Continuation with {0}% HP",
     "korean": "불사의 장갑 : {0}% HP 전투 속행"
   },
   "BuffDesc1_Effect_AGS_Goltarion_N_955": {
-    "english": "Internal component damage: Unable to continue combat",
+    "english": "Internal component damage: Unable to Battle Continuation",
     "korean": "내부 부품 손상 : 전투 속행 불가"
   },
   "BuffDesc1_Effect_AGS_Rampart_N_510": {
@@ -2028,7 +2028,7 @@
     "korean": "AESA Online"
   },
   "BuffDesc1_Effect_BR_BloodyPanther_CH_1": {
-    "english": "Defense Penetration {0}%",
+    "english": "DEF Penetration {0}%",
     "korean": "방어 관통 {0}%"
   },
   "BuffDesc1_Effect_BR_BloodyPanther_CH_2": {
@@ -2180,7 +2180,7 @@
     "korean": "가까이 오지마 : {0} 지속 화염 피해"
   },
   "BuffDesc1_Effect_BR_Brunhild_N_5": {
-    "english": "Baprogi : Fire Resistance Lower Limit {0}%",
+    "english": "Baprogi : Minimum Fire Resist {0}%",
     "korean": "바프로기 : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_BR_Brunhild_N_51": {
@@ -2744,7 +2744,7 @@
     "korean": "차분한 한 모금 : {0} 이하 피해 최소화"
   },
   "BuffDesc1_Effect_BR_Ellie_N_54": {
-    "english": "A Calm Sip : Minimize damage below {0}",
+    "english": "A Calm Sip : Minimize Damage Below {0}",
     "korean": "차분한 한 모금 : {0} 이하 피해 최소화"
   },
   "BuffDesc1_Effect_BR_Fafnir_N_1": {
@@ -3780,27 +3780,27 @@
     "korean": "AP {0} 반환"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_3": {
-    "english": "First Aid : Continue Battle at {0} HP",
+    "english": "First Aid : Battle Continuation with {0} HP",
     "korean": "응급 처치 : {0} HP로 전투 속행"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_31": {
-    "english": "Emergency treatment: Continue battle with {0} HP",
+    "english": "Emergency treatment: Battle Continuation with {0} HP",
     "korean": "응급 처치 : {0} HP로 전투 속행"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_32": {
-    "english": "Emergency treatment: Continue battle with {0} HP",
+    "english": "Emergency treatment: Battle Continuation with {0} HP",
     "korean": "응급 처치 : {0} HP로 전투 속행"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_33": {
-    "english": "Emergency treatment: Continue battle with {0} HP",
+    "english": "Emergency treatment: Battle Continuation with {0} HP",
     "korean": "응급 처치 : {0} HP로 전투 속행"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_34": {
-    "english": "Emergency treatment: Continue battle with {0} HP",
+    "english": "Emergency treatment: Battle Continuation with {0} HP",
     "korean": "응급 처치 : {0} HP로 전투 속행"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_35": {
-    "english": "Emergency treatment: Continue battle with {0} HP",
+    "english": "Emergency treatment: Battle Continuation with {0} HP",
     "korean": "응급 처치 : {0} HP로 전투 속행"
   },
   "BuffDesc1_Effect_BR_Kheshig_N_36": {

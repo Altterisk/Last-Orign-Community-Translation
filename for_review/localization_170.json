@@ -80,15 +80,15 @@
     "korean": "침식 : 방어력 {0}%"
   },
   "BuffDesc2_Effect_TEST_Nest_N_3": {
-    "english": "Grace Bestowal Stage 1: DEF {0}%",
+    "english": "Grace Bestowal Stage 1: DEF +{0}%",
     "korean": "은총 하사 1단계 : 방어력+{0}%"
   },
   "BuffDesc2_Effect_TEST_Nest_N_31": {
-    "english": "Grace Bestowal Stage 2: DEF {0}%",
+    "english": "Grace Bestowal Stage 2: DEF +{0}%",
     "korean": "은총 하사 2단계 : 방어력+{0}%"
   },
   "BuffDesc2_Effect_TEST_Nest_N_32": {
-    "english": "Grace Bestowal Stage 3: DEF {0}%",
+    "english": "Grace Bestowal Stage 3: DEF +{0}%",
     "korean": "은총 하사 3단계 : 방어력+{0}%"
   },
   "BuffDesc3_Effect_3P_Ajax_N_1": {
@@ -276,7 +276,7 @@
     "korean": "돌파 : 해로운 효과 해제"
   },
   "BuffDesc3_Effect_3P_Galatea_N_21": {
-    "english": "Defense enhancement effect removal",
+    "english": "DEF Buff Removal",
     "korean": "방어력 강화 효과 해제"
   },
   "BuffDesc3_Effect_3P_Galatea_N_24": {
@@ -1132,7 +1132,7 @@
     "korean": "따끔한 단죄 : 공격력 {0}%"
   },
   "BuffDesc3_Effect_BR_Ellie_N_5": {
-    "english": "A Calm Sip : Minimizes Damage Below {0}",
+    "english": "A Calm Sip : Minimize Damage Below {0}",
     "korean": "차분한 한 모금 : {0} 이하 피해 최소화"
   },
   "BuffDesc3_Effect_BR_Fafnir_N_3": {
@@ -1288,7 +1288,7 @@
     "korean": "[풀 버스트] 협동 공격"
   },
   "BuffDesc3_Effect_BR_Hraesvelgr_N_2": {
-    "english": "Anti-Air Neutralization : ACC Increase / Anti-Air DMG Buff Removal",
+    "english": "Anti-Air Neutralization : ACC / Anti-Air DMG Buff Removal",
     "korean": "대공 무력화 : 적중 / 대 기동형 피해량 증가 해제"
   },
   "BuffDesc3_Effect_BR_Hraesvelgr_N_3": {
@@ -1796,7 +1796,7 @@
     "korean": "후퇴는 없다! : 방어 관통 {0}%"
   },
   "BuffDesc3_Effect_BR_RedHood_N_5": {
-    "english": "Received Damage {0}% reduction (for 2 units)",
+    "english": "Damage Reduction {0}% (2 unit decrease)",
     "korean": "받는 피해 {0}% 감소 (2인 감소)"
   },
   "BuffDesc3_Effect_BR_RoyalArsenal_N_2": {
@@ -1848,7 +1848,7 @@
     "korean": "하드포인트 : {0}% 위력으로 반격"
   },
   "BuffDesc3_Effect_BR_SandMan_N_5": {
-    "english": "Gullinbursti: Continue battle with {0} HP (Defensive Command)",
+    "english": "Gullinbursti: Battle Continuation with {0} HP (Defensive Command)",
     "korean": "굴린부르스티 : {0} HP로 전투 속행 (방어 지휘)"
   },
   "BuffDesc3_Effect_BR_Scarabya_N_1": {
@@ -2248,7 +2248,7 @@
     "korean": "M.E.D.U.S.A : 행동력 {0}% (피격 시)"
   },
   "BuffDesc3_Effect_BUFF_MagicalRPG_N_1": {
-    "english": "MMORPG: Continue Battle with {0} HP",
+    "english": "MMORPG: Battle Continuation with {0} HP",
     "korean": "MMORPG : {0} HP로 전투 속행"
   },
   "BuffDesc3_Effect_BUFF_SDV_N_1": {
@@ -2332,7 +2332,7 @@
     "korean": "특수전 : 치명타 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1015": {
-    "english": "Special Operations: Continue Battle with {0}% HP",
+    "english": "Special Operations: Battle Continuation with {0}% HP",
     "korean": "특수전 : {0}% HP로 전투 속행"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_102": {
@@ -2364,7 +2364,7 @@
     "korean": "전장 적응 : 적중 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_109": {
-    "english": "Battlefield Adaptation: Continue Battle with {0}% HP",
+    "english": "Battlefield Adaptation: Battle Continuation with {0}% HP",
     "korean": "전장 적응 : {0}% HP로 전투 속행"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_11": {
@@ -2396,7 +2396,7 @@
     "korean": "기세는 불과 같이 : 최대 행동 횟수 {0}"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_116": {
-    "english": "Battlefield Adaptation: Continue Battle with {0}% HP",
+    "english": "Battlefield Adaptation: Battle Continuation with {0}% HP",
     "korean": "전장 적응 : {0}% HP로 전투 속행"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_117": {
@@ -2404,7 +2404,7 @@
     "korean": "전장 적응 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_118": {
-    "english": "Battlefield Adaptation: Continue Battle with {0}% HP",
+    "english": "Battlefield Adaptation: Battle Continuation with {0}% HP",
     "korean": "전장 적응 : {0}% HP로 전투 속행"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_119": {
@@ -2512,7 +2512,7 @@
     "korean": "전장 적응 : 치명타 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_142": {
-    "english": "Battlefield Adaptation: Continue Battle with {0}% HP",
+    "english": "Battlefield Adaptation: Battle Continuation with {0}% HP",
     "korean": "전장 적응 : {0}% HP로 전투 속행"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_143": {
@@ -2772,7 +2772,7 @@
     "korean": "뉘우침 : 행동 불능"
   },
   "BuffDesc3_Effect_DS_Cloverace_N_3": {
-    "english": "Leave It to Me!: Continue Battle with {0}% HP",
+    "english": "Leave It to Me!: Battle Continuation with {0}% HP",
     "korean": "맡겨만 줘! : {0}% HP로 전투 속행"
   },
   "BuffDesc3_Effect_DS_Cloverace_N_4": {
@@ -3224,15 +3224,15 @@
     "korean": "이물질 제거 :행동력 {0}%"
   },
   "BuffDesc3_Effect_MP_Brownie_N_1": {
-    "english": "Suppressive Fire: DMG Taken {0}%",
+    "english": "Suppressive Fire: DMG Taken +{0}%",
     "korean": "견제 사격 : 받는 피해+{0}%"
   },
   "BuffDesc3_Effect_MP_Brownie_N_11": {
-    "english": "It's a Charge!: CRIT {0}%",
+    "english": "It's a Charge!: CRIT +{0}%",
     "korean": "돌격이지말입니다! : 치명타+{0}%"
   },
   "BuffDesc3_Effect_MP_Brownie_N_3": {
-    "english": "It's a Charge!: CRIT {0}%",
+    "english": "It's a Charge!: CRIT +{0}%",
     "korean": "돌격이지말입니다! : 치명타+{0}%"
   },
   "BuffDesc3_Effect_MP_Demolisher_BOSS_Challenge1_4": {
@@ -3256,7 +3256,7 @@
     "korean": "콜로서스 웨이브 : 피해 최소화 해제"
   },
   "BuffDesc3_Effect_MP_Demolisher_BOSS_Challenge3_5": {
-    "english": "Boiling: Electric Resistance Lower Limit {0}%",
+    "english": "Boiling: Minimum Electric Resist {0}%",
     "korean": "부글부글 : 전기 저항 하한 {0}%"
   },
   "BuffDesc3_Effect_MP_Demolisher_BOSS_Challenge3_51": {
@@ -3272,7 +3272,7 @@
     "korean": "멈출 수 없는 진격 : 도발 면역"
   },
   "BuffDesc3_Effect_MP_Efreeti_N_1": {
-    "english": "Precision Bombardment: Additional DMG {0}%",
+    "english": "Precision Bombardment: Additional DMG +{0}%",
     "korean": "정밀 포격 : 피해량+{0}%"
   },
   "BuffDesc3_Effect_MP_Efreeti_N_2": {
@@ -3284,7 +3284,7 @@
     "korean": "조명탄 지원 : 적중 감소 해제"
   },
   "BuffDesc3_Effect_MP_Efreeti_N_4": {
-    "english": "Rifled Mortar: DEF Penetration {0}%",
+    "english": "Rifled Mortar: DEF Penetration +{0}%",
     "korean": "강선형 박격포 : 방어 관통+{0}%"
   },
   "BuffDesc3_Effect_MP_Efreeti_N_5": {
@@ -3296,7 +3296,7 @@
     "korean": "연계 전술 : 받는 피해 감소{0}% (전열)"
   },
   "BuffDesc3_Effect_MP_Gnome_N_1": {
-    "english": "Covering Fire: DMG Taken {0}%",
+    "english": "Covering Fire: DMG Taken +{0}%",
     "korean": "원호 사격 : 받는 피해+{0}%"
   },
   "BuffDesc3_Effect_MP_Gnome_N_2": {
@@ -3324,11 +3324,11 @@
     "korean": "관통 내성 : 방어력 {0}%"
   },
   "BuffDesc3_Effect_MP_Impet_N_3": {
-    "english": "Prototype EFP Shell: DEF Penetration {0}% (Front Row)",
+    "english": "Prototype EFP Shell: DEF Penetration +{0}% (Front Row)",
     "korean": "시제 EFP탄 : 방어 관통+{0}% (전열)"
   },
   "BuffDesc3_Effect_MP_Impet_N_4": {
-    "english": "Steel Line Mindset: CRIT {0}%",
+    "english": "Steel Line Mindset: CRIT +{0}%",
     "korean": "스틸라인의 마음가짐 : 치명타+{0}%"
   },
   "BuffDesc3_Effect_MP_Intruder_N_1": {
@@ -3412,7 +3412,7 @@
     "korean": "포메이션 재정비 : 행동력{0}%"
   },
   "BuffDesc3_Effect_MP_Leprechaun_N_5": {
-    "english": "Focused Volley: DEF Penetration {0}% (cannot be removed)",
+    "english": "Focused Volley: DEF Penetration {0}% (Unremovable)",
     "korean": "일점 집중 사격 : 방어 관통{0}% (해제 불가)"
   },
   "BuffDesc3_Effect_MP_Mammoth13_N_4": {
@@ -3424,7 +3424,7 @@
     "korean": "핀 레이저 : 치명타 {0}%"
   },
   "BuffDesc3_Effect_MP_Marie_N_15": {
-    "english": "Anti-Air Command: SPD {0}%",
+    "english": "Anti-Air Command: SPD +{0}%",
     "korean": "대공 지휘 : 행동력+{0}%"
   },
   "BuffDesc3_Effect_MP_Marie_N_3": {
@@ -3432,7 +3432,7 @@
     "korean": "역습 준비 : 공격력+{0}% (피격 시)"
   },
   "BuffDesc3_Effect_MP_Marie_N_4": {
-    "english": "Anti-Air Command: ACC {0}%",
+    "english": "Anti-Air Command: ACC +{0}%",
     "korean": "대공 지휘 : 적중+{0}%"
   },
   "BuffDesc3_Effect_MP_Marie_N_5": {
@@ -3536,7 +3536,7 @@
     "korean": "대 중장형 미사일: : 피해량 {0}% (중장)"
   },
   "BuffDesc3_Effect_MP_NightChickM13_N_3": {
-    "english": "Missile Launch Ready: Anti-Heavy DMG {0}%",
+    "english": "Missile Launch Ready: Anti-Heavy DMG +{0}%",
     "korean": "미사일 발사 준비 : 대 중장형 피해량+{0}%"
   },
   "BuffDesc3_Effect_MP_NightChickM13_N_4": {
@@ -3584,7 +3584,7 @@
     "korean": "전기 저항 수치 {0}% 하한선"
   },
   "BuffDesc3_Effect_MP_NightChickSpCH_B0208_32": {
-    "english": "Inverted electrical resistance value",
+    "english": "Reverse Electric Resist Debuff",
     "korean": "전기 저항 수치 반전"
   },
   "BuffDesc3_Effect_MP_Predator_EW2_2": {
@@ -3628,15 +3628,15 @@
     "korean": "증속 구동 : 방어 관통 {0}%"
   },
   "BuffDesc3_Effect_MP_RedHood_N_1": {
-    "english": "Focused Attack: Additional DMG {0}%",
+    "english": "Focused Attack: Additional DMG +{0}%",
     "korean": "집중 공격 : 피해량+{0}%"
   },
   "BuffDesc3_Effect_MP_RedHood_N_3": {
-    "english": "Don’t Retreat!: SPD {0}%",
+    "english": "Don’t Retreat!: SPD +{0}%",
     "korean": "물러서지마라! : 행동력+{0}%"
   },
   "BuffDesc3_Effect_MP_RedHood_N_4": {
-    "english": "No Retreat!: DEF Penetration {0}%",
+    "english": "No Retreat!: DEF Penetration +{0}%",
     "korean": "후퇴는 없다! : 방어 관통+{0}%"
   },
   "BuffDesc3_Effect_MP_Ship_Controller_B09_4": {
@@ -3752,7 +3752,7 @@
     "korean": "<마검 : 어둠의 서약> : 피해 최소화 해제"
   },
   "BuffDesc3_Effect_PECS_CyclopsePrincess_N_3": {
-    "english": ": Continue Battle at {0}% HP",
+    "english": ": Battle Continuation at {0}% HP",
     "korean": "<진조의 권능 : 불사> : {0}% HP로 전투 속행"
   },
   "BuffDesc3_Effect_PECS_CyclopsePrincess_N_4": {
@@ -3880,7 +3880,7 @@
     "korean": "요원 엄폐 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_PECS_Ignis_N_5": {
-    "english": "Hostile Environment Shielding: Attribute Resistance Lower Limit {0}%",
+    "english": "Hostile Environment Shielding: Minimum Elemental Resist {0}%",
     "korean": "적대 환경 차폐 : 속성 저항 하한 {0}%"
   },
   "BuffDesc3_Effect_PECS_Ireina_N_1": {

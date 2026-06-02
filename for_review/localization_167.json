@@ -52,11 +52,11 @@
     "korean": "편애 : 받는 피해 {0}% 감소"
   },
   "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_41": {
-    "english": "Favoritism: Continue battle with {0}% HP",
+    "english": "Favoritism: Battle Continuation with {0}% HP",
     "korean": "편애 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_42": {
-    "english": "Favoritism : Continue Combat with {0}% HP",
+    "english": "Favoritism : Battle Continuation with {0}% HP",
     "korean": "편애 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_5": {
@@ -224,11 +224,11 @@
     "korean": "유독성 강화약 주입 : 광역 피해 분산 {0}% (최대)"
   },
   "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_33": {
-    "english": "Favoritism : Continue Combat with {0}% HP",
+    "english": "Favoritism : Battle Continuation with {0}% HP",
     "korean": "편애 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_34": {
-    "english": "Favoritism : Continue Combat with {0}% HP",
+    "english": "Favoritism : Battle Continuation with {0}% HP",
     "korean": "편애 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_4": {
@@ -344,7 +344,7 @@
     "korean": "덤벙덤벙덤벙! : 받는 피해 {0}% 감소"
   },
   "BuffDesc1_Effect_MP_Nereid_Challenge1_4": {
-    "english": "Battle Focus: Continue battle with {0}% HP",
+    "english": "Battle Focus: Battle Continuation with {0}% HP",
     "korean": "전투 초집중 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_Nereid_Challenge1_41": {
@@ -428,11 +428,11 @@
     "korean": "깊은 타락의 징조: 냉기 지속 피해{0} (피격)"
   },
   "BuffDesc1_Effect_MP_Nidhogg_C_5": {
-    "english": "Unending Tragedy: Continue battle with {0}% HP",
+    "english": "Unending Tragedy: Battle Continuation with {0}% HP",
     "korean": "멈추지 않는 비극: {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_Nidhogg_C_51": {
-    "english": "Unending Tragedy: Continue battle with {0}% HP upon revival",
+    "english": "Unending Tragedy: Battle Continuation with {0}% HP upon revival",
     "korean": "멈추지 않는 비극 :부활 시{0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_Nidhogg_C_52": {
@@ -792,7 +792,7 @@
     "korean": "칙 방어 진형 : 광역 스킬 위력 {0}%"
   },
   "BuffDesc1_Effect_MP_NightChickSpCH_B0208_1": {
-    "english": "Remove all buffs",
+    "english": "Buff Removal",
     "korean": "모든 강화 효과 해제"
   },
   "BuffDesc1_Effect_MP_NightChickSpCH_B0208_11": {
@@ -816,7 +816,7 @@
     "korean": "방감 안걸려 있어서 적감 발동"
   },
   "BuffDesc1_Effect_MP_NightChickSpCH_B0208_16": {
-    "english": "Cannot be strengthened",
+    "english": "Buff Prevention",
     "korean": "강화 불가"
   },
   "BuffDesc1_Effect_MP_NightChickSpCH_B0208_2": {
@@ -872,7 +872,7 @@
     "korean": "광역 스킬 위력 {0}%"
   },
   "BuffDesc1_Effect_MP_Predator_EW2_1": {
-    "english": "Push Back {0} Tiles",
+    "english": "Push Back {0}",
     "korean": "뒤로 {0}칸 밀기"
   },
   "BuffDesc1_Effect_MP_Predator_EW2_11": {
@@ -1144,7 +1144,7 @@
     "korean": "노심용융 : 공격력 {0}%"
   },
   "BuffDesc1_Effect_MP_Ravager_Challenge4_5": {
-    "english": "Particle Collapse: Remove Battle Continuation",
+    "english": "Particle Collapse: Battle Continuation Removal",
     "korean": "입자 붕괴 : 전투 속행 해제"
   },
   "BuffDesc1_Effect_MP_Ravager_Challenge4_51": {
@@ -1160,15 +1160,15 @@
     "korean": "4연장 기관포 : 공격력 {0}%"
   },
   "BuffDesc1_Effect_MP_RedHood_N_2": {
-    "english": "Critical Strike : Additional DMG {0}%",
+    "english": "Critical Strike : Additional DMG +{0}%",
     "korean": "회심의 일격 : 피해량+{0}%"
   },
   "BuffDesc1_Effect_MP_RedHood_N_3": {
-    "english": "Do Not Back Down! : ATK {0}%",
+    "english": "Do Not Back Down! : ATK +{0}%",
     "korean": "물러서지마라! : 공격력+{0}%"
   },
   "BuffDesc1_Effect_MP_RedHood_N_4": {
-    "english": "No Retreat! : ATK {0}%",
+    "english": "No Retreat! : ATK +{0}%",
     "korean": "후퇴는 없다! : 공격력+{0}%"
   },
   "BuffDesc1_Effect_MP_Ship_Controller_B09_1": {
@@ -1312,7 +1312,7 @@
     "korean": "나중에 봅시다: 피해 무효화 {0}회"
   },
   "BuffDesc1_Effect_MP_Speaker13_N_1": {
-    "english": "Push Back {0} Tiles",
+    "english": "Push Back {0}",
     "korean": "뒤로 {0}칸 밀기"
   },
   "BuffDesc1_Effect_MP_Speaker13_N_2": {
@@ -1820,15 +1820,15 @@
     "korean": "오비탈 플레이팅 : 냉기 저항 감소 면역"
   },
   "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_5": {
-    "english": "Vacuum Insulation : Cold resistance lower limit {0}%",
+    "english": "Vacuum Insulation : Minimum Cold Resist {0}%",
     "korean": "진공 단열 : 냉기 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_51": {
-    "english": "Condensation : Minimizes damage below {0}",
+    "english": "Condensation : Minimize Damage Below {0}",
     "korean": "응축 : {0} 이하 피해 최소화"
   },
   "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_52": {
-    "english": "Condensation: Minimize Damage {0} or Below",
+    "english": "Condensation: Minimize Damage Below {0}",
     "korean": "응축 : {0} 이하 피해 최소화"
   },
   "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_53": {
@@ -1896,7 +1896,7 @@
     "korean": "<진조의 권능 : 운명조작> : 보호 무시 활성화"
   },
   "BuffDesc1_Effect_PECS_CyclopsePrincess_N_32": {
-    "english": "<True Ancestor’s Authority: Immortality> : Continue battle with {0}% HP",
+    "english": "<True Ancestor’s Authority: Immortality> : Battle Continuation with {0}% HP",
     "korean": "<진조의 권능 : 불사> : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_PECS_CyclopsePrincess_N_4": {
@@ -2076,11 +2076,11 @@
     "korean": "컨스턴시 프로토콜 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_PECS_Drone_N_51": {
-    "english": "Reserve Body : Continue battle with {0} percent HP",
+    "english": "Reserve Body : Battle Continuation with {0}% HP",
     "korean": "예비 소체 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_PECS_Drone_N_52": {
-    "english": "Reserve Sub-body : Continue Combat with {0}% HP",
+    "english": "Reserve Sub-body : Battle Continuation with {0}% HP",
     "korean": "예비 소체 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_PECS_Drone_N_53": {
@@ -2232,7 +2232,7 @@
     "korean": "성대 준비 완료! : 행동력 {0}%"
   },
   "BuffDesc1_Effect_PECS_Erato_N_43": {
-    "english": "Composer : Continue battle with {0} percent HP",
+    "english": "Composer : Battle Continuation with {0}% HP",
     "korean": "작곡가님…! : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_PECS_Erato_N_44": {
@@ -2328,7 +2328,7 @@
     "korean": "신체 과부하 : 자신 공격력 {0}% 물리 피해"
   },
   "BuffDesc1_Effect_PECS_Hathor_N_4": {
-    "english": "Bearer’s Fate : Continue battle with {0} percent HP",
+    "english": "Bearer’s Fate : Battle Continuation with {0}% HP",
     "korean": "짊어진 자의 숙명 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_PECS_Hathor_N_42": {
@@ -2472,15 +2472,15 @@
     "korean": "분멸 : {0}% 위력으로 반격"
   },
   "BuffDesc1_Effect_PECS_Ignis_N_54": {
-    "english": "Flame Shielding : Fire resistance lower limit {0} percent",
+    "english": "Flame Shielding : Minimum Fire Resist {0}%",
     "korean": "화염 차폐 : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_PECS_Ignis_N_55": {
-    "english": "Cold Shielding : Cold resistance lower limit {0} percent",
+    "english": "Cold Shielding : Minimum Cold Resist {0}%",
     "korean": "냉기 차폐 : 냉기 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_PECS_Ignis_N_56": {
-    "english": "Electric Shielding : Electric resistance lower limit {0} percent",
+    "english": "Electric Shielding : Minimum Electric Resist {0}%",
     "korean": "전기 차폐 : 전기 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_PECS_Ignis_N_57": {
@@ -2572,7 +2572,7 @@
     "korean": "내가 탱커할게 넌 딜러해 : 공격 지원 (2P)"
   },
   "BuffDesc1_Effect_PECS_Ireina_N_53": {
-    "english": "I'll be the tank, you be the damage dealer : Ignore Barrier / Damage Reduction (Lemonade Epsilon)",
+    "english": "I'll be the tank, you be the damage dealer : Ignore Barrier / DMG Reduction (Lemonade Epsilon)",
     "korean": "내가 탱커할게 넌 딜러해 : 방어막 / 피해 감소 무시 (레모네이드 엡실론)"
   },
   "BuffDesc1_Effect_PECS_LRL_N_101": {
@@ -2800,7 +2800,7 @@
     "korean": "버서커 : 스킬 위력 {0}%"
   },
   "BuffDesc1_Effect_PECS_LemonadeGamma_N_5": {
-    "english": "Avenger : Continue battle with {0} HP",
+    "english": "Avenger : Battle Continuation with {0} HP",
     "korean": "어벤저 : {0} HP 전투 속행"
   },
   "BuffDesc1_Effect_PECS_LemonadeGamma_N_51": {
@@ -3352,7 +3352,7 @@
     "korean": "능력 강화 OS : 공격력{0}"
   },
   "BuffDesc1_Effect_PECS_Orangeade_N_5": {
-    "english": "Aim Correction OS : ACC {0}% (cannot be removed)",
+    "english": "Aim Correction OS : ACC {0}% (Unremovable)",
     "korean": "조준 보정 OS : 적중 {0}% (해제 불가)"
   },
   "BuffDesc1_Effect_PECS_Peregrinus_CH_1": {
@@ -3660,7 +3660,7 @@
     "korean": "두 분은 제 동경의 대상이에요 : 받는 피해 감소 {0}%"
   },
   "BuffDesc1_Effect_PECS_Rhode_N_52": {
-    "english": "You Two Are My Inspiration : Ignore Barrier / Damage Reduction (Gamma)",
+    "english": "You Two Are My Inspiration : Ignore Barrier / DMG Reduction (Gamma)",
     "korean": "두 분은 제 동경의 대상이에요 : 방어막 / 피해 감소 무시(감마)"
   },
   "BuffDesc1_Effect_PECS_Sadius_N_58": {
@@ -3776,7 +3776,7 @@
     "korean": "EMP SHOT! : 피해량 {0}%(전기)"
   },
   "BuffDesc1_Effect_PECS_Shepherd_N_21": {
-    "english": "EMP SHOT! : Removes Electric Resistance Limit",
+    "english": "EMP SHOT! : Minimum Electric Resist Removal",
     "korean": "EMP SHOT! : 전기 저항 하한 해제"
   },
   "BuffDesc1_Effect_PECS_Shepherd_N_22": {

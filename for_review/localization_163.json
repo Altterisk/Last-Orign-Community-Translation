@@ -1772,7 +1772,7 @@
     "korean": "무시당했어!"
   },
   "3900120405": {
-    "english": "Ignoring protection?",
+    "english": "Ignore Protection",
     "korean": "보호 무시?"
   },
   "3900140306": {
@@ -1852,15 +1852,15 @@
     "korean": "모든 해로운 효과 해제"
   },
   "BuffDesc1_BEG_101_11": {
-    "english": "<Evasion Decrease> Immunity",
+    "english": "EVA Decrease Immunity",
     "korean": "<회피 감소> 면역"
   },
   "BuffDesc1_BEG_101_22": {
-    "english": "<Unable to Act> Immunity",
+    "english": "Stunned Immunity",
     "korean": "<행동 불가> 면역"
   },
   "BuffDesc1_BEG_101_7": {
-    "english": "<Accuracy Decrease> Immunity",
+    "english": "ACC Decrease Immunity",
     "korean": "<적중 감소> 면역"
   },
   "BuffDesc1_BEG_106_N10": {
@@ -1944,63 +1944,63 @@
     "korean": "광역 피해 분산 4 : 광역 피해 분산 {0}% (최대)"
   },
   "BuffDesc1_BEG_116_P100": {
-    "english": "Fire Resistance Lower Limit 5 : Fire Resistance Lower Limit {0}%",
+    "english": "Fire Resistance Lower Limit 5 : Minimum Fire Resist {0}%",
     "korean": "화염 저항 하한 5 : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_116_P20": {
-    "english": "Fire Resistance Lower Limit 1: Fire Resistance Lower Limit {0}%",
+    "english": "Fire Resistance Lower Limit 1: Minimum Fire Resist {0}%",
     "korean": "화염 저항 하한 1 : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_116_P40": {
-    "english": "Fire Resistance Lower Limit 2 : Fire Resistance Lower Limit {0}%",
+    "english": "Fire Resistance Lower Limit 2 : Minimum Fire Resist {0}%",
     "korean": "화염 저항 하한 2 : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_116_P60": {
-    "english": "Fire Resistance Lower Limit 3 : Fire Resistance Lower Limit {0}%",
+    "english": "Fire Resistance Lower Limit 3 : Minimum Fire Resist {0}%",
     "korean": "화염 저항 하한 3 : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_116_P80": {
-    "english": "Fire Resistance Lower Limit 4 : Fire Resistance Lower Limit {0}%",
+    "english": "Fire Resistance Lower Limit 4 : Minimum Fire Resist {0}%",
     "korean": "화염 저항 하한 4 : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_117_P100": {
-    "english": "Cold Resistance Lower Limit 5 : Cold Resistance Lower Limit {0}%",
+    "english": "Cold Resistance Lower Limit 5 : Minimum Cold Resist {0}%",
     "korean": "냉기 저항 하한 5 : 냉기 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_117_P20": {
-    "english": "Cold Resistance Lower Limit 1: Cold Resistance Lower Limit {0}%",
+    "english": "Cold Resistance Lower Limit 1: Minimum Cold Resist {0}%",
     "korean": "냉기 저항 하한 1 : 냉기 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_117_P40": {
-    "english": "Cold Resistance Lower Limit 2 : Cold Resistance Lower Limit {0}%",
+    "english": "Cold Resistance Lower Limit 2 : Minimum Cold Resist {0}%",
     "korean": "냉기 저항 하한 2 : 냉기 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_117_P60": {
-    "english": "Cold Resistance Lower Limit 3 : Cold Resistance Lower Limit {0}%",
+    "english": "Cold Resistance Lower Limit 3 : Minimum Cold Resist {0}%",
     "korean": "냉기 저항 하한 3 : 냉기 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_117_P80": {
-    "english": "Cold Resistance Lower Limit 4 : Cold Resistance Lower Limit {0}%",
+    "english": "Cold Resistance Lower Limit 4 : Minimum Cold Resist {0}%",
     "korean": "냉기 저항 하한 4 : 냉기 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_118_P100": {
-    "english": "Electric Resistance Lower Limit 5 : Electric Resistance Lower Limit {0}%",
+    "english": "Electric Resistance Lower Limit 5 : Minimum Electric Resist {0}%",
     "korean": "전기 저항 하한 5 : 전기 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_118_P20": {
-    "english": "Electric Resistance Lower Limit 1: Electric Resistance Lower Limit {0}%",
+    "english": "Electric Resistance Lower Limit 1: Minimum Electric Resist {0}%",
     "korean": "전기 저항 하한 1 : 전기 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_118_P40": {
-    "english": "Electric Resistance Lower Limit 2 : Electric Resistance Lower Limit {0}%",
+    "english": "Electric Resistance Lower Limit 2 : Minimum Electric Resist {0}%",
     "korean": "전기 저항 하한 2 : 전기 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_118_P60": {
-    "english": "Electric Resistance Lower Limit 3 : Electric Resistance Lower Limit {0}%",
+    "english": "Electric Resistance Lower Limit 3 : Minimum Electric Resist {0}%",
     "korean": "전기 저항 하한 3 : 전기 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_118_P80": {
-    "english": "Electric Resistance Lower Limit 4 : Electric Resistance Lower Limit {0}%",
+    "english": "Electric Resistance Lower Limit 4 : Minimum Electric Resist {0}%",
     "korean": "전기 저항 하한 4 : 전기 저항 하한 {0}%"
   },
   "BuffDesc1_BEG_11_N10": {
@@ -2048,19 +2048,19 @@
     "korean": "회피 증가 X : 회피 {0}%"
   },
   "BuffDesc1_BEG_122_X": {
-    "english": "Fire Resistance Reversal: Reverse Fire Resistance Reduction Value",
+    "english": "Fire Resistance Reversal: Reverse Fire Resist Debuff",
     "korean": "화염 저항 반전 : 화염 저항 감소 수치 반전"
   },
   "BuffDesc1_BEG_123_X": {
-    "english": "Cold Resistance Reversal: Reverse Cold Resistance Reduction Value",
+    "english": "Cold Resistance Reversal: Reverse Cold Resist Debuff",
     "korean": "냉기 저항 반전 : 냉기 저항 감소 수치 반전"
   },
   "BuffDesc1_BEG_124_X": {
-    "english": "Electric Resistance Reversal: Reverse Electric Resistance Reduction Value",
+    "english": "Electric Resistance Reversal: Reverse Electric Resist Debuff",
     "korean": "전기 저항 반전 : 전기 저항 감소 수치 반전"
   },
   "BuffDesc1_BEG_125_X": {
-    "english": "Enhancement Disabled: Enhancement Effects Cannot Be Applied",
+    "english": "Enhancement Disabled: Buff Prevention",
     "korean": "강화 불가 : 강화 효과 적용 불가"
   },
   "BuffDesc1_BEG_126_P100": {
@@ -2104,31 +2104,31 @@
     "korean": "최대 행동 횟수 증가 5 : 최대 행동 횟수 {0}"
   },
   "BuffDesc1_BEG_129_P10": {
-    "english": "Defense Penetration Resistance 1: Self HP-Proportional Defense Penetration Resistance {0}% (Max)",
+    "english": "Defense Penetration Resistance 1: Reduce Attacker DEF Penetration Based on HP {0}% (Max)",
     "korean": "방어 관통 저항 1 : 자신 HP 비례 방어 관통 저항 {0}% (최대)"
   },
   "BuffDesc1_BEG_129_P20": {
-    "english": "Defense Penetration Resistance 2 : Defense Penetration Resistance proportional to own HP {0}% (Max)",
+    "english": "Defense Penetration Resistance 2 : Reduce Attacker DEF Penetration Based on HP {0}% (Max)",
     "korean": "방어 관통 저항 2 : 자신 HP 비례 방어 관통 저항 {0}% (최대)"
   },
   "BuffDesc1_BEG_129_P30": {
-    "english": "Defense Penetration Resistance 3 : Defense Penetration Resistance proportional to own HP {0}% (Max)",
+    "english": "Defense Penetration Resistance 3 : Reduce Attacker DEF Penetration Based on HP {0}% (Max)",
     "korean": "방어 관통 저항 3 : 자신 HP 비례 방어 관통 저항 {0}% (최대)"
   },
   "BuffDesc1_BEG_129_P40": {
-    "english": "Defense Penetration Resistance 4 : Defense Penetration Resistance proportional to own HP {0}% (Max)",
+    "english": "Defense Penetration Resistance 4 : Reduce Attacker DEF Penetration Based on HP {0}% (Max)",
     "korean": "방어 관통 저항 4 : 자신 HP 비례 방어 관통 저항 {0}% (최대)"
   },
   "BuffDesc1_BEG_129_P50": {
-    "english": "Defense Penetration Resistance 5 : Defense Penetration Resistance proportional to own HP {0}% (Max)",
+    "english": "Defense Penetration Resistance 5 : Reduce Attacker DEF Penetration Based on HP {0}% (Max)",
     "korean": "방어 관통 저항 5 : 자신 HP 비례 방어 관통 저항 {0}% (최대)"
   },
   "BuffDesc1_BEG_130_X": {
-    "english": "Protection Ignore Activated",
+    "english": "Activate Ignore Protection",
     "korean": "보호 무시 활성화"
   },
   "BuffDesc1_BEG_131_X": {
-    "english": "Protection Ignore Deactivated",
+    "english": "Deactivate Ignore Protection",
     "korean": "보호 무시 비활성화"
   },
   "BuffDesc1_BEG_13_N10": {
@@ -2372,7 +2372,7 @@
     "korean": "AP 증가 5 : AP {0}"
   },
   "BuffDesc1_BEG_22_X": {
-    "english": "Unable to Act",
+    "english": "Stunned",
     "korean": "행동 불가"
   },
   "BuffDesc1_BEG_29_P100": {
@@ -2420,19 +2420,19 @@
     "korean": "피해 최소화 1 : {0} 이하 피해 최소화"
   },
   "BuffDesc1_BEG_34_P2000": {
-    "english": "Damage Minimization 2 : Minimize damage {0} or lower",
+    "english": "Damage Minimization 2 : Minimize Damage Below {0}",
     "korean": "피해 최소화 2 : {0} 이하 피해 최소화"
   },
   "BuffDesc1_BEG_34_P3000": {
-    "english": "Damage Minimization 3 : Minimize damage {0} or lower",
+    "english": "Damage Minimization 3 : Minimize Damage Below {0}",
     "korean": "피해 최소화 3 : {0} 이하 피해 최소화"
   },
   "BuffDesc1_BEG_34_P4000": {
-    "english": "Damage Minimization 4 : Minimize damage {0} or lower",
+    "english": "Damage Minimization 4 : Minimize Damage Below {0}",
     "korean": "피해 최소화 4 : {0} 이하 피해 최소화"
   },
   "BuffDesc1_BEG_34_P5000": {
-    "english": "Damage Minimization 5 : Minimize damage {0} or lower",
+    "english": "Damage Minimization 5 : Minimize Damage Below {0}",
     "korean": "피해 최소화 5 : {0} 이하 피해 최소화"
   },
   "BuffDesc1_BEG_34_X": {
@@ -2544,7 +2544,7 @@
     "korean": "받는 피해 증가 5 : 받는 피해 증가 {0}%"
   },
   "BuffDesc1_BEG_50_X": {
-    "english": "Row Protection",
+    "english": "Row Protect",
     "korean": "행 보호"
   },
   "BuffDesc1_BEG_52_P1": {
@@ -2856,27 +2856,27 @@
     "korean": "유폭 : 공격력 {0}% 고정 피해"
   },
   "BuffDesc1_BEG_74_X": {
-    "english": "Provoke",
+    "english": "Provokes",
     "korean": "도발"
   },
   "BuffDesc1_BEG_75_X": {
-    "english": "Heat Protection",
+    "english": "Column Protect",
     "korean": "열 보호"
   },
   "BuffDesc1_BEG_76_X": {
-    "english": "Designated Protection",
+    "english": "Target Protect",
     "korean": "지정 보호"
   },
   "BuffDesc1_BEG_77_X": {
-    "english": "Attack Support",
+    "english": "Follow-Up Attack",
     "korean": "공격 지원"
   },
   "BuffDesc1_BEG_78_X": {
-    "english": "Unable to Move",
+    "english": "Rooted",
     "korean": "이동 불가"
   },
   "BuffDesc1_BEG_79_X": {
-    "english": "Skill Use Disabled",
+    "english": "Silenced",
     "korean": "스킬 사용 불가"
   },
   "BuffDesc1_BEG_7_N10": {
@@ -2960,23 +2960,23 @@
     "korean": "마무리 5 : 대상 HP 반비례 피해량 {0}% (최대)"
   },
   "BuffDesc1_BEG_82_P100": {
-    "english": "Temporary Combat Continuation 1: Continue Combat with {0} HP",
+    "english": "Temporary Combat Continuation 1: Battle Continuation with {0} HP",
     "korean": "임시 전투 속행 1 : {0} HP로 전투 속행"
   },
   "BuffDesc1_BEG_82_P200": {
-    "english": "Temporary Revive 2 : Revive with {0} HP",
+    "english": "Temporary Revive 2 : Battle Continuation with {0} HP",
     "korean": "임시 전투 속행 2 : {0} HP로 전투 속행"
   },
   "BuffDesc1_BEG_82_P300": {
-    "english": "Temporary Revive 3 : Revive with {0} HP",
+    "english": "Temporary Revive 3 : Battle Continuation with {0} HP",
     "korean": "임시 전투 속행 3 : {0} HP로 전투 속행"
   },
   "BuffDesc1_BEG_82_P400": {
-    "english": "Temporary Revive 4 : Revive with {0} HP",
+    "english": "Temporary Revive 4 : Battle Continuation with {0} HP",
     "korean": "임시 전투 속행 4 : {0} HP로 전투 속행"
   },
   "BuffDesc1_BEG_82_P500": {
-    "english": "Temporary Revive 5 : Revive with {0} HP",
+    "english": "Temporary Revive 5 : Battle Continuation with {0} HP",
     "korean": "임시 전투 속행 5 : {0} HP로 전투 속행"
   },
   "BuffDesc1_BEG_83_P100": {
@@ -3060,19 +3060,19 @@
     "korean": "피해량 증가 4 : 피해량 {0}%"
   },
   "BuffDesc1_BEG_87_X": {
-    "english": "Mark",
+    "english": "Marked",
     "korean": "표식"
   },
   "BuffDesc1_BEG_88_11": {
-    "english": "<Evasion Increase> Removal",
+    "english": "EVA Increase Removal",
     "korean": "<회피 증가> 해제"
   },
   "BuffDesc1_BEG_88_3": {
-    "english": "<Defense Increase> Removal",
+    "english": "DEF Increase Removal",
     "korean": "<방어력 증가> 해제"
   },
   "BuffDesc1_BEG_89_7": {
-    "english": "<Accuracy Decrease> Removal",
+    "english": "ACC Decrease Removal",
     "korean": "<적중 감소> 해제"
   },
   "BuffDesc1_BEG_90_P100": {
@@ -3120,27 +3120,27 @@
     "korean": "방어막 / 피해 감소 무시"
   },
   "BuffDesc1_BEG_98_P100": {
-    "english": "AoE Damage Split 4 : AoE Damage Split {0}% (max)",
+    "english": "AoE Damage Split 4 : Battle Continuation with {0}% HP",
     "korean": "전투 속행 5 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_BEG_98_P20": {
-    "english": "Combat Continuation 1: Continue Combat with {0}% HP",
+    "english": "Combat Continuation 1: Battle Continuation with {0}% HP",
     "korean": "전투 속행 1 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_BEG_98_P40": {
-    "english": "AoE Damage Focus 5 : AoE Damage Focus {0}% (max)",
+    "english": "AoE Damage Focus 5 : Battle Continuation with {0}% HP",
     "korean": "전투 속행 2 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_BEG_98_P60": {
-    "english": "AoE Damage Split 2 : AoE Damage Split {0}% (max)",
+    "english": "AoE Damage Split 2 : Battle Continuation with {0}% HP",
     "korean": "전투 속행 3 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_BEG_98_P80": {
-    "english": "AoE Damage Split 3 : AoE Damage Split {0}% (max)",
+    "english": "AoE Damage Split 3 : Battle Continuation with {0}% HP",
     "korean": "전투 속행 4 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_BEG_99_X": {
-    "english": "Remove All Enhancement Effects",
+    "english": "Buff Removal",
     "korean": "모든 강화 효과 해제"
   },
   "BuffDesc1_BEG_9_N10": {
@@ -3664,7 +3664,7 @@
     "korean": "놓치지 않아요! : 행동력{0}%"
   },
   "BuffDesc1_Effect_3P_BlackLilith_N_23": {
-    "english": "More~! Even More!: Continue Combat with {0}% HP",
+    "english": "More~! Even More!: Battle Continuation with {0}% HP",
     "korean": "더~! 좀 더! : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_3P_BlackLilith_N_3": {

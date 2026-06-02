@@ -1100,7 +1100,7 @@
     "korean": "확장 패시브 : 방어막 일정 피해 비율(%) 흡수"
   },
   "BuffName_Effect_ExtPassiveSkill_N_1212": {
-    "english": "Extended Passive: DEF penetration resistance based on current HP",
+    "english": "Extended Passive: Reduce Attacker DEF Penetration Based on HP",
     "korean": "확장 패시브 : 현재 HP 비례 방어 관통 저항"
   },
   "BuffName_Effect_ExtPassiveSkill_N_1213": {
@@ -1524,7 +1524,7 @@
     "korean": "바람! 4 : 회피 증가 / 경장 피해량 증가 / 기동 피해량 증가 / 중장 피해량 증가"
   },
   "BuffName_Effect_LC_Ephnel_N_4": {
-    "english": "Output Intensification: Continued Combat",
+    "english": "Output Intensification: Battle Continuation",
     "korean": "출력 격화 : 전투 속행"
   },
   "BuffName_Effect_LC_Ephnel_N_41": {
@@ -1600,7 +1600,7 @@
     "korean": "끝없는 투쟁 : 방어 관통 증가 / 받는 피해 감소"
   },
   "BuffName_Effect_LC_Haru_N_5": {
-    "english": "Continuing Struggle: Continued Battle",
+    "english": "Continuing Struggle: Battle Continuation",
     "korean": "계속되는 투쟁 : 전투 속행"
   },
   "BuffName_Effect_LC_Haru_N_51": {
@@ -1736,11 +1736,11 @@
     "korean": "보호? 2 : 방어력 증가 / 회피 증가"
   },
   "BuffName_Effect_LC_Lily_N_33": {
-    "english": "Protection? 3: Increased Defense / Increased EVA / Increased Resistance to Harmful Effects",
+    "english": "Protection? 3: DEF Increase / EVA Increase / Harmful Effect Resist Increase",
     "korean": "보호? 3 : 방어력 증가 / 회피 증가 / 해로운 효과 저항 증가"
   },
   "BuffName_Effect_LC_Lily_N_34": {
-    "english": "Protection? 4: Increased Defense / Increased EVA / Increased Resistance to Harmful Effects / Increased Skill Power",
+    "english": "Protection? 4: DEF Increase / EVA Increase / Harmful Effect Resist Increase / Skill Power Increase",
     "korean": "보호? 4 : 방어력 증가 / 회피 증가 / 해로운 효과 저항 증가 / 스킬 위력 증가"
   },
   "BuffName_Effect_LC_Lily_N_35": {
@@ -2032,7 +2032,7 @@
     "korean": "토즉참 : 전투 개시 시, 바니 속성 적 약화"
   },
   "BuffName_Effect_MP_BunnySlayer_N_5": {
-    "english": "Burning Bunny Soul: Battle continuation / EVA increase",
+    "english": "Burning Bunny Soul: Battle Continuation / EVA Increase",
     "korean": "타오르는 바니의 혼 : 전투 속행 / 회피 증가"
   },
   "BuffName_Effect_MP_Demolisher_BOSS_Challenge1_12": {
@@ -2088,7 +2088,7 @@
     "korean": "지능형 위협 측정 : 스킬 위력 감소"
   },
   "BuffName_Effect_MP_Demolisher_BOSS_Challenge3_5": {
-    "english": "Boiling Omen of Rampage: Elemental resistance floor",
+    "english": "Boiling Omen of Rampage: Minimum Elemental Resist",
     "korean": "들끓는 폭주의 전조 : 속성 저항 하한"
   },
   "BuffName_Effect_MP_Demolisher_BOSS_Challenge3_51": {
@@ -2148,7 +2148,7 @@
     "korean": "헤일로 오버로드 : 받는 피해 증가 / 방어력 감소"
   },
   "BuffName_Effect_MP_Demolisher_BOSS_TU_3": {
-    "english": "Unstoppable Advance: Battle continuation",
+    "english": "Unstoppable Advance: Battle Continuation",
     "korean": "멈출 수 없는 진격 : 전투 속행"
   },
   "BuffName_Effect_MP_Demolisher_BOSS_TU_32": {
@@ -2548,7 +2548,7 @@
     "korean": "시의 : 행동력 / 효과 저항 증가"
   },
   "BuffName_Effect_MP_JangHwa_TU4_512": {
-    "english": "Mutual Destruction: Battle continuation",
+    "english": "Mutual Destruction: Battle Continuation",
     "korean": "동귀어진 : 전투 속행"
   },
   "BuffName_Effect_MP_JangHwa_TU_1": {
@@ -2580,7 +2580,7 @@
     "korean": "기장닌자 카엔 3호기 : 방어막"
   },
   "BuffName_Effect_MP_Kaen_Challenge1_42": {
-    "english": "Captain Ninja Kaen Unit 3: Battle continuation",
+    "english": "Captain Ninja Kaen Unit 3: Battle Continuation",
     "korean": "기장닌자 카엔 3호기 : 전투 속행"
   },
   "BuffName_Effect_MP_Kaen_Challenge1_5": {
@@ -2936,15 +2936,15 @@
     "korean": "앰비벌런트 팔레트 : 피해 최소화"
   },
   "BuffName_Effect_MP_LemonadeBeta_Challenge1_31": {
-    "english": "Ambivalent Palette: Flame Resistance Floor",
+    "english": "Ambivalent Palette: Minimum Fire Resist",
     "korean": "앰비벌런트 팔레트 : 화염 저항 하한"
   },
   "BuffName_Effect_MP_LemonadeBeta_Challenge1_32": {
-    "english": "Ambivalent Palette: Frost Resistance Floor",
+    "english": "Ambivalent Palette: Minimum Cold Resist",
     "korean": "앰비벌런트 팔레트 : 냉기 저항 하한"
   },
   "BuffName_Effect_MP_LemonadeBeta_Challenge1_33": {
-    "english": "Ambivalent Palette: Electric Resistance Floor",
+    "english": "Ambivalent Palette: Minimum Electric Resist",
     "korean": "앰비벌런트 팔레트 : 전기 저항 하한"
   },
   "BuffName_Effect_MP_LemonadeBeta_Challenge1_4": {
@@ -3096,15 +3096,15 @@
     "korean": "심판의 벼락 : 받는 피해 감소 약화"
   },
   "BuffName_Effect_MP_LemonadeZeta2_C_3": {
-    "english": "Pursuit of Eternity: Under Certain Conditions, Combat Continues; If Enemy Has 3 or More Attackers/Supporters/Protectors, Damage Nullification",
+    "english": "Pursuit of Eternity: Under Certain Conditions, Battle Continuation; If Enemy Has 3 or More Attackers/Supporters/Protectors, Damage Nullification",
     "korean": "영원 추구: 특정 조건에서 전투 속행, 적이 공격기/지원기/보호기 중 하나라도 3기 이상이면 피해 무효화"
   },
   "BuffName_Effect_MP_LemonadeZeta2_C_31": {
-    "english": "Pursuit of Eternity: Under Certain Conditions, Combat Continues",
+    "english": "Pursuit of Eternity: Under Certain Conditions, Battle Continuation",
     "korean": "영원 추구: 특정 조건에서 전투 속행"
   },
   "BuffName_Effect_MP_LemonadeZeta2_C_32": {
-    "english": "Pursuit of Eternity: Combat Continues Upon Resurrection",
+    "english": "Pursuit of Eternity: Battle Continuation Upon Resurrection",
     "korean": "영원 추구: 부활시 전투 속행"
   },
   "BuffName_Effect_MP_LemonadeZeta2_C_33": {
@@ -3192,15 +3192,15 @@
     "korean": "발사아아!"
   },
   "BuffName_Effect_MP_Mammoth13_N_3": {
-    "english": "Protected!: Combat Continues and AP Increase",
+    "english": "Protected!: Battle Continuation and AP Increase",
     "korean": "보호를 받는다!: 전투 속행 및 행동 증가"
   },
   "BuffName_Effect_MP_Mammoth13_N_31": {
-    "english": "In the Arms of Allies: Combat Continues and SPD Increase",
+    "english": "In the Arms of Allies: Battle Continuation and SPD Increase",
     "korean": "아군의 품 속에서: 전투속행 및 행동력 증가"
   },
   "BuffName_Effect_MP_Mammoth13_N_32": {
-    "english": "Rise!: ACC / Effect Resistance Increase and Remove Harmful Effects",
+    "english": "Rise!: Battle Continuation",
     "korean": "아군의 품 속에서 : 전투 속행"
   },
   "BuffName_Effect_MP_Mammoth13_N_4": {
@@ -3224,7 +3224,7 @@
     "korean": "유독성 강화약 주입 : 해제 불가의 강화 효과"
   },
   "BuffName_Effect_MP_MarionnetteAR_BOSS_TU_33": {
-    "english": "Favoritism: Combat Continues",
+    "english": "Favoritism: Battle Continuation",
     "korean": "편애 : 전투 속행"
   },
   "BuffName_Effect_MP_MarionnetteAR_BOSS_TU_4": {
@@ -3372,7 +3372,7 @@
     "korean": "편애 : 받는 피해 감소"
   },
   "BuffName_Effect_MP_MarionnetteHA_BOSS_TU_41": {
-    "english": "Favoritism: Combat Continues",
+    "english": "Favoritism: Battle Continuation",
     "korean": "편애 : 전투 속행"
   },
   "BuffName_Effect_MP_MarionnetteHA_BOSS_TU_5": {
@@ -3440,15 +3440,15 @@
     "korean": "교차형 차폐 장갑 : 라운드 별 보호 기능 교차"
   },
   "BuffName_Effect_MP_MarionnetteHA_N_5": {
-    "english": "Retaliation Protocol: Counter Attack Power Proportional to Number of Allies",
+    "english": "Retaliation Protocol: Counter ATK Proportional to Number of Allies",
     "korean": "보복 프로토콜 : 아군 수에 비례한 위력의 반격"
   },
   "BuffName_Effect_MP_MarionnetteHA_N_51": {
-    "english": "Retaliation Protocol: Counter Attack Power Proportional to Number of Allies",
+    "english": "Retaliation Protocol: Counter ATK Proportional to Number of Allies",
     "korean": "보복 프로토콜 : 아군 수에 비례한 위력의 반격"
   },
   "BuffName_Effect_MP_MarionnetteHA_N_52": {
-    "english": "Retaliation Protocol: Counter Attack Power Proportional to Number of Allies",
+    "english": "Retaliation Protocol: Counter ATK Proportional to Number of Allies",
     "korean": "보복 프로토콜 : 아군 수에 비례한 위력의 반격"
   },
   "BuffName_Effect_MP_MarionnetteHA_V2_TU_1": {
@@ -3548,7 +3548,7 @@
     "korean": "덤벼덤벼덤벼! : 자신 HP 반비례 피해량 증가"
   },
   "BuffName_Effect_MP_Nereid_Challenge1_4": {
-    "english": "Battle Hyperfocus: Combat Continues / Effect Resistance Increase",
+    "english": "Battle Hyperfocus: Battle Continuation / Status Resist Increase",
     "korean": "전투 초집중 : 전투 속행 / 효과 저항 증가"
   },
   "BuffName_Effect_MP_Nereid_Challenge1_41": {
@@ -3632,11 +3632,11 @@
     "korean": "깊은 타락의 징조: 냉기 지속 피해(특정 조건)"
   },
   "BuffName_Effect_MP_Nidhogg_C_5": {
-    "english": "Unstoppable Tragedy: Combat Continues",
+    "english": "Unstoppable Tragedy: Battle Continuation",
     "korean": "멈추지 않는 비극: 전투 속행"
   },
   "BuffName_Effect_MP_Nidhogg_C_51": {
-    "english": "Unstoppable Tragedy: Combat Continues Upon Resurrection",
+    "english": "Unstoppable Tragedy: Battle Continuation Upon Resurrection",
     "korean": "멈추지 않는 비극: 부활시 전투 속행"
   },
   "BuffName_Effect_MP_Nidhogg_C_52": {
@@ -3824,7 +3824,7 @@
     "korean": "전투 적응 회로 : 명중 / 치명타 / 스킬 위력 / 행동력 증가"
   },
   "BuffName_Effect_MP_NightChickM_RV_41": {
-    "english": "Battle Adaptation Circuit: ATK Decrease / SPD Decrease / AP Decrease Immunity",
+    "english": "Battle Adaptation Circuit: ATK / SPD / AP Decrease Immunity",
     "korean": "전투 적응 회로 : 공격력 / 행동력 / AP 감소 효과 면역"
   },
   "BuffName_Effect_MP_NightChickM_RV_42": {
@@ -3860,7 +3860,7 @@
     "korean": "우회로 차단: 해로운 효과 제거 및 방어력 증가"
   },
   "BuffName_Effect_MP_NightChickS13_N_5": {
-    "english": "Get Up!: Combat Continues",
+    "english": "Get Up!: Battle Continuation",
     "korean": "일어나라: 전투 속행"
   },
   "BuffName_Effect_MP_NightChickSP13_N_1": {

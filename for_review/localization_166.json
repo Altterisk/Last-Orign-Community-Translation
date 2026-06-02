@@ -108,23 +108,23 @@
     "korean": "맹우 : 효과 저항 {0}% 증가"
   },
   "BuffDesc1_Effect_DS_Cloverace_N_32": {
-    "english": "Leave It to Me! : Continue Battle with {0}% HP",
+    "english": "Leave It to Me! : Battle Continuation with {0}% HP",
     "korean": "맡겨만 줘! : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_DS_Cloverace_N_33": {
-    "english": "When the Era Demands: Continue battle at {0}% HP",
+    "english": "When the Era Demands: Battle Continuation with {0}% HP",
     "korean": "시대가 원할 때 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_DS_Cloverace_N_34": {
-    "english": "When the Era Demands: Continue battle at {0}% HP",
+    "english": "When the Era Demands: Battle Continuation with {0}% HP",
     "korean": "시대가 원할 때 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_DS_Cloverace_N_35": {
-    "english": "When the Era Demands: Continue battle at {0}% HP",
+    "english": "When the Era Demands: Battle Continuation with {0}% HP",
     "korean": "시대가 원할 때 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_DS_Cloverace_N_36": {
-    "english": "When the Era Demands: Continue battle at {0}% HP",
+    "english": "When the Era Demands: Battle Continuation with {0}% HP",
     "korean": "시대가 원할 때 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_DS_Cloverace_N_37": {
@@ -408,7 +408,7 @@
     "korean": "구자의 술법 : 스킬 위력 {0}%"
   },
   "BuffDesc1_Effect_DS_Koyori_N_3": {
-    "english": "1UP : Continue Battle with {0}% HP",
+    "english": "1UP : Battle Continuation with {0}% HP",
     "korean": "1UP : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_DS_Koyori_N_31": {
@@ -668,7 +668,7 @@
     "korean": "속공 : {0}% 위력으로 반격"
   },
   "BuffDesc1_Effect_DS_KunoichiShiden_N_43": {
-    "english": "Time Sense Manipulation: Continue battle with {0}% HP",
+    "english": "Time Sense Manipulation: Battle Continuation with {0}% HP",
     "korean": "시간 감각 조작 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_DS_KunoichiShiden_N_51": {
@@ -788,7 +788,7 @@
     "korean": "성장형 마법소녀 : 공격력 {0}%"
   },
   "BuffDesc1_Effect_DS_MoMo_N_51": {
-    "english": "Growth-type Magical Girl: Continue Battle with {0} HP (cannot be removed)",
+    "english": "Growth-type Magical Girl: Battle Continuation with {0} HP (Unremovable)",
     "korean": "성장형 마법소녀 : {0} HP로 전투 속행 (해제 불가)"
   },
   "BuffDesc1_Effect_DS_MoMo_N_52": {
@@ -1368,7 +1368,7 @@
     "korean": "바람! : 회피 {0}%"
   },
   "BuffDesc1_Effect_LC_Ephnel_N_4": {
-    "english": "Output Intensification: Continue battle with {0}% HP",
+    "english": "Output Intensification: Battle Continuation with {0}% HP",
     "korean": "출력 격화 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_LC_Ephnel_N_41": {
@@ -1444,7 +1444,7 @@
     "korean": "끝없는 투쟁 : 방어 관통 {0}% (바르그)"
   },
   "BuffDesc1_Effect_LC_Haru_N_5": {
-    "english": "Continuing Struggle: Continue battle with {0}% HP",
+    "english": "Continuing Struggle: Battle Continuation with {0}% HP",
     "korean": "계속되는 투쟁 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_LC_Haru_N_51": {
@@ -1884,15 +1884,15 @@
     "korean": "견제 사격 : 회피 {0}%"
   },
   "BuffDesc1_Effect_MP_Brownie_N_11": {
-    "english": "It's a Charge!: AP {0}",
+    "english": "It's a Charge!: AP +{0}",
     "korean": "돌격이지말입니다! : AP+{0}"
   },
   "BuffDesc1_Effect_MP_Brownie_N_2": {
-    "english": "Concentrated Fire: Additional DMG {0}%",
+    "english": "Concentrated Fire: Additional DMG +{0}%",
     "korean": "집중 사격 : 피해량+{0}%"
   },
   "BuffDesc1_Effect_MP_Brownie_N_3": {
-    "english": "It's a Charge!: AP {0}",
+    "english": "It's a Charge!: AP +{0}",
     "korean": "돌격이지말입니다! : AP+{0}"
   },
   "BuffDesc1_Effect_MP_BunnySlayer_N_4": {
@@ -2000,11 +2000,11 @@
     "korean": "위협 프로토콜 : 스킬 위력 {0}%"
   },
   "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_5": {
-    "english": "Bubbling : Fire Resistance Floor {0}%",
+    "english": "Bubbling : Minimum Fire Resist {0}%",
     "korean": "부글부글 : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_51": {
-    "english": "Cold Water : Remove Attribute Resistance Floor",
+    "english": "Cold Water : Minimum Elemental Resist Removal",
     "korean": "찬물 : 속성 저항 하한 해제"
   },
   "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_1": {
@@ -2052,7 +2052,7 @@
     "korean": "일그러진 분노 : 공격력 {0}%"
   },
   "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_5": {
-    "english": "Eternal Sleep: Remove Combat Continuation",
+    "english": "Eternal Sleep: Battle Continuation Removal",
     "korean": "영면 : 전투 속행 해제"
   },
   "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_51": {
@@ -2080,11 +2080,11 @@
     "korean": "헤일로 오버로드 : 방어력 {0}%"
   },
   "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_3": {
-    "english": "Unstoppable Advance : Continue Battle with {0}% HP",
+    "english": "Unstoppable Advance : Battle Continuation with {0}% HP",
     "korean": "멈출 수 없는 진격 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_31": {
-    "english": "Unstoppable Advance : Continue Combat with {0}% HP",
+    "english": "Unstoppable Advance : Battle Continuation with {0}% HP",
     "korean": "멈출 수 없는 진격 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_32": {
@@ -2156,11 +2156,11 @@
     "korean": "충격 폭발 : AP {0}"
   },
   "BuffDesc1_Effect_MP_Efreeti_N_3": {
-    "english": "Flare Support: ACC {0}%",
+    "english": "Flare Support: ACC +{0}%",
     "korean": "조명탄 지원 : 적중+{0}%"
   },
   "BuffDesc1_Effect_MP_Efreeti_N_4": {
-    "english": "Rifled Mortar: ATK {0}%",
+    "english": "Rifled Mortar: ATK +{0}%",
     "korean": "강선형 박격포 : 공격력+{0}%"
   },
   "BuffDesc1_Effect_MP_Efreeti_N_5": {
@@ -2176,7 +2176,7 @@
     "korean": "테이저 니들 : AP{0}"
   },
   "BuffDesc1_Effect_MP_Ellie_N_11": {
-    "english": "Taser Needle : AP {0} Decrease (Reduction)",
+    "english": "Taser Needle : AP {0} (Reduction)",
     "korean": "테이저 니들 : AP{0} (감소)"
   },
   "BuffDesc1_Effect_MP_Ellie_N_2": {
@@ -2328,7 +2328,7 @@
     "korean": "포격 통제 장치 액2"
   },
   "BuffDesc1_Effect_MP_Fire_Controller_B09_900003": {
-    "english": "Effect Resistance {0}%",
+    "english": "Status Resist {0}%",
     "korean": "효과 저항 {0}%"
   },
   "BuffDesc1_Effect_MP_Fire_Controller_B09_900004": {
@@ -2376,7 +2376,7 @@
     "korean": "포격 : 모든 강화 효과 해제"
   },
   "BuffDesc1_Effect_MP_Fire_Controller_B09_900015": {
-    "english": "Minimize damage",
+    "english": "Minimize Damage",
     "korean": "피해 최소화"
   },
   "BuffDesc1_Effect_MP_Fire_Controller_B09_900016": {
@@ -2496,7 +2496,7 @@
     "korean": "원호 사격 : 표식 설정"
   },
   "BuffDesc1_Effect_MP_Gnome_N_11": {
-    "english": "Covering Fire: DMG Taken {0}%",
+    "english": "Covering Fire: DMG Taken +{0}%",
     "korean": "원호 사격 : 받는 피해+{0}%"
   },
   "BuffDesc1_Effect_MP_Gnome_N_2": {
@@ -2592,19 +2592,19 @@
     "korean": "고정형 참호 : 피해 최소화"
   },
   "BuffDesc1_Effect_MP_HauntedFortress_N_42": {
-    "english": "Fixed Trench : Fire Resist Lower Limit {0}%",
+    "english": "Fixed Trench : Minimum Fire Resist {0}%",
     "korean": "고정형 참호 : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_MP_HauntedFortress_N_43": {
-    "english": "Fixed Trench : Cold Resist Lower Limit {0}%",
+    "english": "Fixed Trench : Minimum Cold Resist {0}%",
     "korean": "고정형 참호 : 냉기 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_MP_HauntedFortress_N_44": {
-    "english": "Fixed Trench : Electric Resist Lower Limit {0}%",
+    "english": "Fixed Trench : Minimum Electric Resist {0}%",
     "korean": "고정형 참호 : 전기 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_MP_HauntedFortress_N_5": {
-    "english": "Unyielding Fortress : Continue Battle with {0}% HP",
+    "english": "Unyielding Fortress : Battle Continuation with {0}% HP",
     "korean": "쓰러지지 않는 성채 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_HauntedFortress_N_51": {
@@ -2624,11 +2624,11 @@
     "korean": "내 몸을 방패로 : AP {0}"
   },
   "BuffDesc1_Effect_MP_Impet_N_1": {
-    "english": "Armor Penetration {0}%",
+    "english": "DEF Penetration {0}%",
     "korean": "방어 관통 {0}%"
   },
   "BuffDesc1_Effect_MP_Impet_N_11": {
-    "english": "Prototype EFP Shell : ATK {0}%",
+    "english": "Prototype EFP Shell : ATK +{0}%",
     "korean": "시제 EFP탄 : 공격력+{0}%"
   },
   "BuffDesc1_Effect_MP_Impet_N_2": {
@@ -2636,11 +2636,11 @@
     "korean": "화염 속성 추가 피해 {0}%"
   },
   "BuffDesc1_Effect_MP_Impet_N_3": {
-    "english": "Prototype EFP Shell : Anti-Heavy DMG {0}%",
+    "english": "Prototype EFP Shell : Anti-Heavy DMG +{0}%",
     "korean": "시제 EFP탄 : 대 중장형 피해량+{0}%"
   },
   "BuffDesc1_Effect_MP_Impet_N_4": {
-    "english": "Steel Line Mindset: ACC {0}%",
+    "english": "Steel Line Mindset: ACC +{0}%",
     "korean": "스틸라인의 마음가짐 : 적중+{0}%"
   },
   "BuffDesc1_Effect_MP_IntercepterARS_N_2": {
@@ -2808,7 +2808,7 @@
     "korean": "동귀어진 : {0} 지속 물리 피해"
   },
   "BuffDesc1_Effect_MP_JangHwa_TU4_512": {
-    "english": "Companion : Continue Battle with {0}% HP",
+    "english": "Companion : Battle Continuation with {0}% HP",
     "korean": "길동무 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_JangHwa_TU_1": {
@@ -2864,7 +2864,7 @@
     "korean": "붉은 귀신 : 방어막 {0}"
   },
   "BuffDesc1_Effect_MP_Kaen_Challenge1_42": {
-    "english": "Red Demon : Continue Battle with {0} HP",
+    "english": "Red Demon : Battle Continuation with {0} HP",
     "korean": "붉은 귀신 : {0} HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_Kaen_Challenge1_44": {
@@ -2948,15 +2948,15 @@
     "korean": "가질 수 없다면 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc1_Effect_MP_Kidnapper_EV19_C_3": {
-    "english": "Sense… : Fire Resist Lower Limit {0}%",
+    "english": "Sense… : Minimum Fire Resist {0}%",
     "korean": "눈치… : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_MP_Kidnapper_EV19_C_31": {
-    "english": "Sense… : Fire Resist Lower Limit {0}%",
+    "english": "Sense… : Minimum Fire Resist {0}%",
     "korean": "눈치… : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_MP_Kidnapper_EV19_C_32": {
-    "english": "Sense… : Electric Resist Lower Limit {0}%",
+    "english": "Sense… : Minimum Electric Resist {0}%",
     "korean": "눈치… : 전기 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_MP_Kidnapper_EV19_C_33": {
@@ -3052,7 +3052,7 @@
     "korean": "위협 감지 : 회피 {0}%"
   },
   "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_41": {
-    "english": "Threat Detection : ATK {0}%",
+    "english": "Threat Detection : ATK -{0}%",
     "korean": "위협 감지 : 공격력-{0}%"
   },
   "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_42": {
@@ -3108,7 +3108,7 @@
     "korean": "위협 감지 : 회피 {0}%"
   },
   "BuffDesc1_Effect_MP_Kidnapper_EV19_TU_41": {
-    "english": "Threat Detection : ATK {0}%",
+    "english": "Threat Detection : ATK -{0}%",
     "korean": "위협 감지 : 공격력-{0}%"
   },
   "BuffDesc1_Effect_MP_Kidnapper_EV19_TU_42": {
@@ -3276,7 +3276,7 @@
     "korean": "팩트 조작 :{0}% 위력으로 반격(아군 피격)"
   },
   "BuffDesc1_Effect_MP_LemonadeBeta_C_56": {
-    "english": "New Physics Law : Continue battle with {0}% HP",
+    "english": "New Physics Law : Battle Continuation with {0}% HP",
     "korean": "신 물리법칙: 전투 속행 {0}%"
   },
   "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_1": {
@@ -3304,7 +3304,7 @@
     "korean": "찬란한 그림자 : {0}% 고정 전기 피해"
   },
   "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_3": {
-    "english": "Ambivalent Palette : Minimize damage below {0}",
+    "english": "Ambivalent Palette : Minimize Damage Below {0}",
     "korean": "앰비벌런트 팔레트 : {0} 이하 피해 최소화"
   },
   "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_31": {
@@ -3328,15 +3328,15 @@
     "korean": "알겠어요… : 전기 속성 인지"
   },
   "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_34": {
-    "english": "Ruminating: Fire Resistance Lower Bound {0}%",
+    "english": "Ruminating: Minimum Fire Resist {0}%",
     "korean": "곱씹음 : 화염 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_35": {
-    "english": "Reflection: Cold Resistance Lower Bound {0}%",
+    "english": "Reflection: Minimum Cold Resist {0}%",
     "korean": "곱씹음 : 냉기 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_36": {
-    "english": "Ruminating: Electrical Resistance Lower Bound {0}%",
+    "english": "Ruminating: Minimum Electric Resist {0}%",
     "korean": "곱씹음 : 전기 저항 하한 {0}%"
   },
   "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_41": {
@@ -3536,15 +3536,15 @@
     "korean": "심판의 벼락 : 받는 피해 감소 {0}%"
   },
   "BuffDesc1_Effect_MP_LemonadeZeta2_C_3": {
-    "english": "Pursuit of Eternity (Vigor) : Continue battle with {0}% HP",
+    "english": "Pursuit of Eternity (Vigor) : Battle Continuation with {0}% HP",
     "korean": "영원 추구(활기): {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_LemonadeZeta2_C_31": {
-    "english": "Pursuit of Eternity (Final Stage): Continue battle with {0}% HP",
+    "english": "Pursuit of Eternity (Final Stage): Battle Continuation with {0}% HP",
     "korean": "영원 추구(막바지): {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_LemonadeZeta2_C_32": {
-    "english": "Pursuit of Eternity: Continue battle with {0}% HP upon revival",
+    "english": "Pursuit of Eternity: Battle Continuation with {0}% HP upon revival",
     "korean": "영원 추구 :부활 시{0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_LemonadeZeta2_C_33": {
@@ -3652,11 +3652,11 @@
     "korean": "광기에 찬 진화 : 해로운 효과 해제"
   },
   "BuffDesc1_Effect_MP_Leprechaun_N_1": {
-    "english": "Focused Attack: Additional DMG {0}%",
+    "english": "Focused Attack: Additional DMG +{0}%",
     "korean": "집중 공격 : 피해량+{0}%"
   },
   "BuffDesc1_Effect_MP_Leprechaun_N_2": {
-    "english": "Focused Attack: Additional DMG {0}%",
+    "english": "Focused Attack: Additional DMG +{0}%",
     "korean": "집중 공격 : 피해량+{0}%"
   },
   "BuffDesc1_Effect_MP_Leprechaun_N_3": {
@@ -3664,7 +3664,7 @@
     "korean": "포메이션 재정비 : 공격력{0}%"
   },
   "BuffDesc1_Effect_MP_Leprechaun_N_4": {
-    "english": "Barrage Fire: ATK {0}%",
+    "english": "Barrage Fire: ATK +{0}%",
     "korean": "탄막 사격 : 공격력+{0}%"
   },
   "BuffDesc1_Effect_MP_Leprechaun_N_5": {
@@ -3688,11 +3688,11 @@
     "korean": "보호를 받는다!!: 행동력 {0}% 증가"
   },
   "BuffDesc1_Effect_MP_Mammoth13_N_31": {
-    "english": "Protected!!: Continue battle with {0}% HP",
+    "english": "Protected!!: Battle Continuation with {0}% HP",
     "korean": "보호를 받는다!! : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_Mammoth13_N_32": {
-    "english": "Protected!!: Continue battle with {0}% HP",
+    "english": "Protected!!: Battle Continuation with {0}% HP",
     "korean": "보호를 받는다!! : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_Mammoth13_N_4": {
@@ -3712,11 +3712,11 @@
     "korean": "대공 지휘 : 대 기동 공격+{0}%"
   },
   "BuffDesc1_Effect_MP_Marie_N_2": {
-    "english": "Marren’s Bombardment: Additional DMG {0}%",
+    "english": "Marren’s Bombardment: Additional DMG +{0}%",
     "korean": "마른의 포격 : 피해량+{0}%"
   },
   "BuffDesc1_Effect_MP_Marie_N_3": {
-    "english": "Élan Vital: DEF {0}%",
+    "english": "Élan Vital: DEF +{0}%",
     "korean": "엘랑비탈 : 방어력+{0}%"
   },
   "BuffDesc1_Effect_MP_Marie_N_4": {
@@ -3748,11 +3748,11 @@
     "korean": "유독성 강화약 주입 : 광역 피해 분산 {0}% (최대)"
   },
   "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_33": {
-    "english": "Favoritism: Continue battle with {0}% HP",
+    "english": "Favoritism: Battle Continuation with {0}% HP",
     "korean": "편애 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_34": {
-    "english": "Favoritism : Continue Combat with {0}% HP",
+    "english": "Favoritism : Battle Continuation with {0}% HP",
     "korean": "편애 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_4": {
@@ -3872,11 +3872,11 @@
     "korean": "유독성 강화약 주입 : 광역 피해 분산 {0}% (최대)"
   },
   "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_33": {
-    "english": "Favoritism : Continue Combat with {0}% HP",
+    "english": "Favoritism : Battle Continuation with {0}% HP",
     "korean": "편애 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_34": {
-    "english": "Favoritism : Continue Combat with {0}% HP",
+    "english": "Favoritism : Battle Continuation with {0}% HP",
     "korean": "편애 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_4": {

@@ -136,7 +136,7 @@
     "korean": "굿데이 투 다이 : 협동 공격"
   },
   "BuffDesc3_Effect_PECS_Shepherd_N_2": {
-    "english": "EMP SHOT!: Electric Resistance Inversion Removed",
+    "english": "EMP SHOT!: Reverse Electric Resist Debuff Removal",
     "korean": "EMP SHOT! : 전기 저항 반전 해제"
   },
   "BuffDesc3_Effect_PECS_Shepherd_N_3": {
@@ -200,7 +200,7 @@
     "korean": "작은 발걸음 : 행동력 {0}%"
   },
   "BuffDesc3_Effect_PECS_Stinger_N_2": {
-    "english": "Escape Velocity: EVA Decrease / SPD Debuff Removal",
+    "english": "Escape Velocity: EVA / SPD Debuff Removal",
     "korean": "탈출 속도 : 회피 / 행동력 감소 해제"
   },
   "BuffDesc3_Effect_PECS_Stinger_N_3": {
@@ -456,11 +456,11 @@
     "korean": "리플렉트 필드 전개 : 강화 해제 저항{0}%"
   },
   "BuffDesc3_Effect_TEST_Nest_N_31": {
-    "english": "Grace Bestowal Stage 2: ACC {0}%",
+    "english": "Grace Bestowal Stage 2: ACC +{0}%",
     "korean": "은총 하사 2단계 : 적중+{0}%"
   },
   "BuffDesc3_Effect_TEST_Nest_N_32": {
-    "english": "Grace Bestowal Stage 3: ACC {0}%",
+    "english": "Grace Bestowal Stage 3: ACC +{0}%",
     "korean": "은총 하사 3단계 : 적중+{0}%"
   },
   "BuffDesc4_Effect_3P_Ajax_N_2": {
@@ -520,7 +520,7 @@
     "korean": "요인 경호 : 적중{0}%"
   },
   "BuffDesc4_Effect_3P_BlackLilith_N_3": {
-    "english": "More~! A little more! : Continue battle with {0}% HP (Conditional)",
+    "english": "More~! A little more! : Battle Continuation with {0}% HP (Conditional)",
     "korean": "더~! 좀 더! : {0}% HP로 전투 속행 (조건부)"
   },
   "BuffDesc4_Effect_3P_BlackLilith_N_4": {
@@ -1356,7 +1356,7 @@
     "korean": "후퇴는 없다! : 받는 피해 {0}% 감소"
   },
   "BuffDesc4_Effect_BR_RedHood_N_5": {
-    "english": "Counterattack with {0}% power (3 reduction)",
+    "english": "Counter Attack with {0} Power {0}% (3 unit decrease)",
     "korean": "{0}% 위력으로 반격 (3인 감소)"
   },
   "BuffDesc4_Effect_BR_RoyalArsenal_N_5": {
@@ -1624,7 +1624,7 @@
     "korean": "특수전 : 회피 {0}%"
   },
   "BuffDesc4_Effect_BUFF_SuitabilityEW_N_1013": {
-    "english": "Special Operation: Continue battle with {0}% HP",
+    "english": "Special Operation: Battle Continuation with {0}% HP",
     "korean": "특수전 : {0}% HP로 전투 속행"
   },
   "BuffDesc4_Effect_BUFF_SuitabilityEW_N_1014": {
@@ -1676,7 +1676,7 @@
     "korean": "전장 적응 : 광역 피해 분산 {0}% (최대)"
   },
   "BuffDesc4_Effect_BUFF_SuitabilityEW_N_115": {
-    "english": "Defense is like a mountain: Continue battle with {0}% HP",
+    "english": "Defense is like a mountain: Battle Continuation with {0}% HP",
     "korean": "방어는 산과 같이 : {0}% HP로 전투 속행"
   },
   "BuffDesc4_Effect_BUFF_SuitabilityEW_N_116": {
@@ -1756,11 +1756,11 @@
     "korean": "전장 적응 : 회피 {0}%"
   },
   "BuffDesc4_Effect_BUFF_SuitabilityEW_N_138": {
-    "english": "Battlefield Adaptation: Continue battle with {0}% HP",
+    "english": "Battlefield Adaptation: Battle Continuation with {0}% HP",
     "korean": "전장 적응 : {0}% HP로 전투 속행"
   },
   "BuffDesc4_Effect_BUFF_SuitabilityEW_N_139": {
-    "english": "Battlefield Adaptation: Continue battle with {0}% HP",
+    "english": "Battlefield Adaptation: Battle Continuation with {0}% HP",
     "korean": "전장 적응 : {0}% HP로 전투 속행"
   },
   "BuffDesc4_Effect_BUFF_SuitabilityEW_N_14": {
@@ -2024,7 +2024,7 @@
     "korean": "바니 난무! : {0}% 위력으로 반격 (자신)"
   },
   "BuffDesc4_Effect_DS_BunnySlayer_N_3": {
-    "english": "Bunny Bunny! : Ignore Barrier / Damage Reduction (2 stacks)",
+    "english": "Bunny Bunny! : Ignore Barrier / DMG Reduction (2 stacks)",
     "korean": "바니바니! : 방어막/피해 감소 무시 (2중첩)"
   },
   "BuffDesc4_Effect_DS_BunnySlayer_N_4": {
@@ -2040,7 +2040,7 @@
     "korean": "피날레 : AP{0} (적 처치 시)"
   },
   "BuffDesc4_Effect_DS_Charlotte_N_3": {
-    "english": "Continue Dual! : Ignore Barrier / Damage Reduction (6 stacks)",
+    "english": "Continue Dual! : Ignore Barrier / DMG Reduction (6 stacks)",
     "korean": "듀얼 속행! : 방어막 / 피해 감소 무시 (6중첩)"
   },
   "BuffDesc4_Effect_DS_Charlotte_N_5": {
@@ -2280,11 +2280,11 @@
     "korean": "도움? : 받는 피해 감소 {0}%"
   },
   "BuffDesc4_Effect_MP_Brownie_N_11": {
-    "english": "It's a Charge!: DMG Taken {0}%",
+    "english": "It's a Charge!: DMG Taken +{0}%",
     "korean": "돌격이지말입니다! : 받는 피해+{0}%"
   },
   "BuffDesc4_Effect_MP_Brownie_N_3": {
-    "english": "It's a Charge!: DMG Taken {0}%",
+    "english": "It's a Charge!: DMG Taken +{0}%",
     "korean": "돌격이지말입니다! : 받는 피해+{0}%"
   },
   "BuffDesc4_Effect_MP_Demolisher_BOSS_Challenge2_2": {
@@ -2364,7 +2364,7 @@
     "korean": "일점 집중 사격 : 스킬 위력{0}%"
   },
   "BuffDesc4_Effect_MP_Marie_N_1": {
-    "english": "Counterattack Initiation: Additional DMG {0}%",
+    "english": "Counterattack Initiation: Additional DMG +{0}%",
     "korean": "역습 개시 : 피해량+{0}%"
   },
   "BuffDesc4_Effect_MP_Marie_N_15": {
@@ -2372,7 +2372,7 @@
     "korean": "스스로 불러온 재앙"
   },
   "BuffDesc4_Effect_MP_Marie_N_4": {
-    "english": "Anti-Air Command: SPD {0}%",
+    "english": "Anti-Air Command: SPD +{0}%",
     "korean": "대공 지휘 : 행동력+{0}%"
   },
   "BuffDesc4_Effect_MP_Marie_N_5": {
@@ -2576,7 +2576,7 @@
     "korean": "나랑 같이 게임할래? : 방어력 {0}% (1P)"
   },
   "BuffDesc4_Effect_PECS_Ireina_N_5": {
-    "english": "I'll be the tank, you be the damage dealer : Ignore Barrier / Damage Reduction (Lemonade Epsilon)",
+    "english": "I'll be the tank, you be the damage dealer : Ignore Barrier / DMG Reduction (Lemonade Epsilon)",
     "korean": "내가 탱커할게 넌 딜러해 : 방어막 / 피해 감소 무시 (레모네이드 엡실론)"
   },
   "BuffDesc4_Effect_PECS_Ireina_N_53": {
@@ -2980,11 +2980,11 @@
     "korean": "마왕님, 조심하십시오! : 전기 저항 {0}%"
   },
   "BuffDesc5_Effect_AGS_Goltarion_N_5": {
-    "english": "If it is the Demon Lord's command…! : Ignore Barrier / Damage Reduction (BaekTo)",
+    "english": "If it is the Demon Lord's command…! : Ignore Barrier / DMG Reduction (BaekTo)",
     "korean": "마왕님의 명이라면…! : 방어막 / 피해 감소 무시 (백토)"
   },
   "BuffDesc5_Effect_AGS_Goltarion_N_95": {
-    "english": "If it is the Demon Lord's command…! : Ignore Barrier / Damage Reduction (BaekTo)",
+    "english": "If it is the Demon Lord's command…! : Ignore Barrier / DMG Reduction (BaekTo)",
     "korean": "마왕님의 명이라면…! : 방어막 / 피해 감소 무시 (백토)"
   },
   "BuffDesc5_Effect_AGS_Watcher_N_4": {
@@ -3024,7 +3024,7 @@
     "korean": "EMP 미사일 : 이동 불가"
   },
   "BuffDesc5_Effect_BR_BloodyPanther_CH_3": {
-    "english": "Shock Switch: Increases Counter Attack Power by {0}% (per stack)",
+    "english": "Shock Switch: Increases Counter ATK by {0}% (per stack)",
     "korean": "충격 전환 : 반격 위력 {0}% 증가 (중첩당)"
   },
   "BuffDesc5_Effect_BR_BloodyPanther_N_4": {
@@ -3140,7 +3140,7 @@
     "korean": "제가 최고에요~! : AP {0} (처치 시)"
   },
   "BuffDesc5_Effect_BR_Marie_N_4": {
-    "english": "Anti-Air Command: Continue fighting at {0}% HP",
+    "english": "Anti-Air Command: Battle Continuation with {0}% HP",
     "korean": "대공 지휘 : {0}% HP로 전투 속행"
   },
   "BuffDesc5_Effect_BR_Miho_N_5": {
@@ -3148,7 +3148,7 @@
     "korean": "비장의 한 발 : 대상 HP 반비례 피해량 {0}%"
   },
   "BuffDesc5_Effect_BR_Nereid_N_3": {
-    "english": "Be prepared! : Ignore Barrier / Damage Reduction (Conditional)",
+    "english": "Be prepared! : Ignore Barrier / DMG Reduction (Conditional)",
     "korean": "각오하라고! : 방어막 / 받는 피해 감소 무시 (조건부)"
   },
   "BuffDesc5_Effect_BR_PA00EL_N_3": {
@@ -3340,7 +3340,7 @@
     "korean": "특수전 : 광역 피해 집중 {0}% (최대)"
   },
   "BuffDesc5_Effect_BUFF_SuitabilityEW_N_1007": {
-    "english": "Special Operation: Continue battle with {0}% HP",
+    "english": "Special Operation: Battle Continuation with {0}% HP",
     "korean": "특수전 : {0}% HP로 전투 속행"
   },
   "BuffDesc5_Effect_BUFF_SuitabilityEW_N_1008": {
@@ -3420,7 +3420,7 @@
     "korean": "전장 적응 : 화염 저항 {0}%"
   },
   "BuffDesc5_Effect_BUFF_SuitabilityEW_N_128": {
-    "english": "Battlefield Adaptation: Continue battle with {0}% HP",
+    "english": "Battlefield Adaptation: Battle Continuation with {0}% HP",
     "korean": "전장 적응 : {0}% HP로 전투 속행"
   },
   "BuffDesc5_Effect_BUFF_SuitabilityEW_N_13": {
@@ -3512,7 +3512,7 @@
     "korean": "현장 지휘 : 스킬 위력 증가 {0}% (회피 비례)"
   },
   "BuffDesc5_Effect_BUFF_SuitabilityEW_N_5": {
-    "english": "Field Command: Continue battle with {0}% HP",
+    "english": "Field Command: Battle Continuation with {0}% HP",
     "korean": "현장 지휘 : {0}% HP로 전투 속행"
   },
   "BuffDesc5_Effect_BUFF_SuitabilityEW_N_6": {
@@ -3532,7 +3532,7 @@
     "korean": "조용히 하세요! : 피해량 {0}%"
   },
   "BuffDesc5_Effect_DS_Baekto_N_3": {
-    "english": "Justice will not be defeated! : Ignore Barrier / Damage Reduction (When Hit)",
+    "english": "Justice will not be defeated! : Ignore Barrier / DMG Reduction (When Hit)",
     "korean": "정의는 지지 않아! : 방어막 / 피해 감소 무시 (피격 시)"
   },
   "BuffDesc5_Effect_DS_BunnySlayer_N_1": {
@@ -3732,11 +3732,11 @@
     "korean": "진법 차단 : 행 보호 해제"
   },
   "BuffDesc5_Effect_MP_RedHood_N_3": {
-    "english": "Charge! : AP {0}",
+    "english": "Charge! : AP +{0}",
     "korean": "어서 돌격해! : AP+{0}"
   },
   "BuffDesc5_Effect_MP_RedHood_N_4": {
-    "english": "Private Brownie!!! : SPD {0}%",
+    "english": "Private Brownie!!! : SPD +{0}%",
     "korean": "브라우니 일병!!! : 행동력+{0}%"
   },
   "BuffDesc5_Effect_MP_Ship_Controller_B09_4": {
@@ -3800,11 +3800,11 @@
     "korean": "어나이엘레이터 씨! 지금이에요~! : 받는 피해{0}%"
   },
   "BuffDesc5_Effect_PECS_Spartoia_CH_5": {
-    "english": "Great Leap: SPD Decrease / AP Decrease Immunity",
+    "english": "Great Leap: SPD / AP Decrease Immunity",
     "korean": "위대한 도약 : 행동력 / AP 감소 면역"
   },
   "BuffDesc5_Effect_PECS_Spartoia_N_5": {
-    "english": "Great Leap: SPD Decrease / AP Decrease Immunity",
+    "english": "Great Leap: SPD / AP Decrease Immunity",
     "korean": "위대한 도약 : 행동력 / AP 감소 면역"
   },
   "BuffDesc5_Effect_PECS_TaylorClothcut_N_1": {
@@ -3896,15 +3896,15 @@
     "korean": "모든 해로운 효과 해제"
   },
   "BuffName_BEG_101_11": {
-    "english": "Immunity",
+    "english": "EVA Decrease Immunity",
     "korean": "<회피 감소> 면역"
   },
   "BuffName_BEG_101_22": {
-    "english": "Immunity",
+    "english": "Stunned Immunity",
     "korean": "<행동 불가> 면역"
   },
   "BuffName_BEG_101_7": {
-    "english": "Immunity",
+    "english": "ACC Decrease Immunity",
     "korean": "<적중 감소> 면역"
   },
   "BuffName_BEG_106_N": {
@@ -3916,23 +3916,23 @@
     "korean": "스킬 위력 증가"
   },
   "BuffName_BEG_109_P": {
-    "english": "Area Damage Focus",
+    "english": "Area DMG Focus",
     "korean": "광역 피해 집중"
   },
   "BuffName_BEG_110_P": {
-    "english": "Area Damage Dispersion",
+    "english": "Area DMG Dispersion",
     "korean": "광역 피해 분산"
   },
   "BuffName_BEG_116_P": {
-    "english": "Fire Resistance Floor",
+    "english": "Minimum Fire Resist",
     "korean": "화염 저항 하한"
   },
   "BuffName_BEG_117_P": {
-    "english": "Cold Resistance Floor",
+    "english": "Minimum Cold Resist",
     "korean": "냉기 저항 하한"
   },
   "BuffName_BEG_118_P": {
-    "english": "Electric Resistance Floor",
+    "english": "Minimum Electric Resist",
     "korean": "전기 저항 하한"
   },
   "BuffName_BEG_11_N": {
@@ -3948,27 +3948,27 @@
     "korean": "회피 증가"
   },
   "BuffName_BEG_122_X": {
-    "english": "Fire Resistance Inversion: Fire Resistance Decrease Value Inverted",
+    "english": "Fire Resistance Inversion: Reverse Fire Resist Debuff",
     "korean": "화염 저항 반전 : 화염 저항 감소 수치 반전"
   },
   "BuffName_BEG_123_X": {
-    "english": "Cold Resistance Inversion: Cold Resistance Decrease Value Inverted",
+    "english": "Cold Resistance Inversion: Reverse Cold Resist Debuff",
     "korean": "냉기 저항 반전 : 냉기 저항 감소 수치 반전"
   },
   "BuffName_BEG_124_X": {
-    "english": "Electric Resistance Inversion: Electric Resistance Decrease Value Inverted",
+    "english": "Electric Resistance Inversion: Reverse Electric Resist Debuff",
     "korean": "전기 저항 반전 : 전기 저항 감소 수치 반전"
   },
   "BuffName_BEG_125_X": {
-    "english": "Buff Disabled: Buff Effects Cannot Be Applied",
+    "english": "Buff Disabled: Buff Prevention",
     "korean": "강화 불가 : 강화 효과 적용 불가"
   },
   "BuffName_BEG_126_P": {
-    "english": "Buff Removal Resistance",
+    "english": "Buff Removal Resist",
     "korean": "강화 해제 저항"
   },
   "BuffName_BEG_127_P": {
-    "english": "Max AP Increase",
+    "english": "Max Action Increase",
     "korean": "최대 행동 횟수 증가"
   },
   "BuffName_BEG_129_P": {
@@ -3976,11 +3976,11 @@
     "korean": "방어 관통 저항 증가"
   },
   "BuffName_BEG_130_X": {
-    "english": "Protection Ignore Activated",
+    "english": "Activate Ignore Protection",
     "korean": "보호 무시 활성화"
   },
   "BuffName_BEG_131_X": {
-    "english": "Protection Ignore Deactivated",
+    "english": "Deactivate Ignore Protection",
     "korean": "보호 무시 비활성화"
   },
   "BuffName_BEG_13_N": {
@@ -3992,11 +3992,11 @@
     "korean": "행동력 증가"
   },
   "BuffName_BEG_15_N": {
-    "english": "Fire Resistance Decrease",
+    "english": "Fire Resist Decrease",
     "korean": "화염 저항 감소"
   },
   "BuffName_BEG_15_P": {
-    "english": "Fire Resistance Increase",
+    "english": "Fire Resist Increase",
     "korean": "화염 저항 증가"
   }
 }

@@ -516,7 +516,7 @@
     "korean": "오비탈 플레이팅 : 냉기 저항 감소 면역"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_5": {
-    "english": "Vacuum Insulation: Cold Resistance Floor",
+    "english": "Vacuum Insulation: Minimum Cold Resist",
     "korean": "진공 단열 : 냉기 저항 하한"
   },
   "BuffName_Effect_PECS_CoCoWhiteShell_N_51": {
@@ -804,7 +804,7 @@
     "korean": "감미로운 멜로디 : AP 감소 면역"
   },
   "BuffName_Effect_PECS_Erato_N_34": {
-    "english": "Sweet Melody: ATK Decrease / DEF Decrease / AP Decrease Immunity",
+    "english": "Sweet Melody: ATK / DEF / AP Decrease Immunity",
     "korean": "감미로운 멜로디 : 공격력 / 방어력 / AP 감소 면역"
   },
   "BuffName_Effect_PECS_Erato_N_4": {
@@ -956,15 +956,15 @@
     "korean": "적대 환경 차폐 : 사거리 증가 / 반격"
   },
   "BuffName_Effect_PECS_Ignis_N_54": {
-    "english": "Hostile Environment Shielding: Fire Resistance Floor",
+    "english": "Hostile Environment Shielding: Minimum Fire Resist",
     "korean": "적대 환경 차폐 : 화염 저항 하한"
   },
   "BuffName_Effect_PECS_Ignis_N_55": {
-    "english": "Hostile Environment Shielding: Cold Resistance Floor",
+    "english": "Hostile Environment Shielding: Minimum Cold Resist",
     "korean": "적대 환경 차폐 : 냉기 저항 하한"
   },
   "BuffName_Effect_PECS_Ignis_N_56": {
-    "english": "Hostile Environment Shielding: Electric Resistance Floor",
+    "english": "Hostile Environment Shielding: Minimum Electric Resist",
     "korean": "적대 환경 차폐 : 전기 저항 하한"
   },
   "BuffName_Effect_PECS_Ireina_N_1": {
@@ -1036,7 +1036,7 @@
     "korean": "나랑 같이 게임할래? : 2P - 공격력 / 적중 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_43": {
-    "english": "Want to play with me? : DEF / EVA Increase / Damage Reduction",
+    "english": "Want to play with me? : DEF / EVA Increase / DMG Reduction",
     "korean": "나랑 같이 게임할래? : 1P - 방어력 / 회피 / 받는 피해 감소 증가"
   },
   "BuffName_Effect_PECS_Ireina_N_5": {
@@ -1128,7 +1128,7 @@
     "korean": "최대 출력: AP 감소/ 받는 피해 증가"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_21": {
-    "english": "Damage Received increase",
+    "english": "DMG Taken Increased",
     "korean": "받는 피해 증가"
   },
   "BuffName_Effect_PECS_LemonadeEpsilon_N_24": {
@@ -1888,7 +1888,7 @@
     "korean": "위대한 도약 : 공격력 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Spartoia_CH_51": {
-    "english": "Great Leap: SPD Decrease / AP Decrease Immunity",
+    "english": "Great Leap: SPD / AP Decrease Immunity",
     "korean": "위대한 도약 : 행동력 / AP 감소 면역"
   },
   "BuffName_Effect_PECS_Spartoia_N_1": {
@@ -1924,7 +1924,7 @@
     "korean": "작은 발걸음 : 공격력 / 치명타 증가"
   },
   "BuffName_Effect_PECS_Spartoia_N_51": {
-    "english": "Small Steps: SPD Decrease / AP Decrease Immunity",
+    "english": "Small Steps: SPD / AP Decrease Immunity",
     "korean": "작은 발걸음 : 행동력 / AP 감소 면역"
   },
   "BuffName_Effect_PECS_Stinger_N_1": {
@@ -2340,11 +2340,11 @@
     "korean": "확장패시브 테스트 : 전기 저항 수치 고정"
   },
   "BuffName_Effect_Passive_Tast_N_58": {
-    "english": "Extended Passive Test : Fire Resistance Reduction Inversion",
+    "english": "Extended Passive Test : Reverse Fire Resist Debuff",
     "korean": "확장패시브 테스트 : 화염 저항 감소 반전"
   },
   "BuffName_Effect_Passive_Tast_N_59": {
-    "english": "Extended Passive Test : Ice Resistance Reduction Inversion",
+    "english": "Extended Passive Test : Reverse Cold Resist Debuff",
     "korean": "확장패시브 테스트 : 냉기 저항 감소 반전"
   },
   "BuffName_Effect_Passive_Tast_N_6": {
@@ -2352,7 +2352,7 @@
     "korean": "확장패시브 테스트 : 회피율 비율(%) 증감"
   },
   "BuffName_Effect_Passive_Tast_N_60": {
-    "english": "Extended Passive Test : Electric Resistance Reduction Inversion",
+    "english": "Extended Passive Test : Reverse Electric Resist Debuff",
     "korean": "확장패시브 테스트 : 전기 저항 감소 반전"
   },
   "BuffName_Effect_Passive_Tast_N_61": {
@@ -2372,7 +2372,7 @@
     "korean": "확장패시브 테스트 : 공격자에게 도발 효과"
   },
   "BuffName_Effect_Passive_Tast_N_65": {
-    "english": "Extended Passive Test : Defense Penetration Resistance Proportional to Current HP",
+    "english": "Extended Passive Test : Reduce Attacker DEF Penetration Based on HP",
     "korean": "확장패시브 테스트 : 현재 HP 비례 방어 관통 저항"
   },
   "BuffName_Effect_Passive_Tast_N_66": {
@@ -2560,19 +2560,19 @@
     "korean": "분리불안증 : 적중 감소 / 적중 증가 효과 해제"
   },
   "BuffName_Effect_ST_Ullr_N_4": {
-    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / Damage Reduction",
+    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / DMG Reduction",
     "korean": "근거리 대응 모드 : 행동력 증가 / 방어막, 피해 감소 무시"
   },
   "BuffName_Effect_ST_Ullr_N_41": {
-    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / Damage Reduction",
+    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / DMG Reduction",
     "korean": "근거리 대응 모드 : 행동력 증가 / 방어막, 피해 감소 무시"
   },
   "BuffName_Effect_ST_Ullr_N_42": {
-    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / Damage Reduction",
+    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / DMG Reduction",
     "korean": "근거리 대응 모드 : 행동력 증가 / 방어막, 피해 감소 무시"
   },
   "BuffName_Effect_ST_Ullr_N_43": {
-    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / Damage Reduction",
+    "english": "Close-range Response Mode: SPD increase / Barrier, Ignore Barrier / DMG Reduction",
     "korean": "근거리 대응 모드 : 행동력 증가 / 방어막, 피해 감소 무시"
   },
   "BuffName_Effect_ST_Ullr_N_5": {
@@ -2632,7 +2632,7 @@
     "korean": "배리어 전개"
   },
   "BuffName_Effect_TEST_Nest_N_42": {
-    "english": "Harmful effect removal",
+    "english": "Debuff Removal",
     "korean": "해로운 효과 해제"
   },
   "BuffName_Effect_TEST_Nest_N_43": {
@@ -2696,11 +2696,11 @@
     "korean": "시전자 공격력 비례 대상 공격력 증가"
   },
   "Buff_Category_Name_BUFF_DISALLOW": {
-    "english": "Enhancement prevention applied",
+    "english": "Buff Prevention",
     "korean": "강화 불가 적용"
   },
   "Buff_Category_Name_CURRENT_HP_PIERCEDOWN": {
-    "english": "Current HP proportional defense penetration resistance",
+    "english": "Reduce Attacker DEF Penetration Based on HP",
     "korean": "현재 HP 비례 방어 관통 저항"
   },
   "Buff_Category_Name_Change": {
@@ -2708,15 +2708,15 @@
     "korean": "변신"
   },
   "Buff_Category_Name_Counter": {
-    "english": "Counterattack",
+    "english": "Counter Attack",
     "korean": "반격"
   },
   "Buff_Category_Name_Critical": {
-    "english": "Critical Rate",
+    "english": "CRIT",
     "korean": "치명타"
   },
   "Buff_Category_Name_Critical(%)": {
-    "english": "Critical Rate (%)",
+    "english": "CRIT (%)",
     "korean": "치명타(%)"
   },
   "Buff_Category_Name_DAMAGE_DISPERSE": {
@@ -2728,23 +2728,23 @@
     "korean": "이번 라운드 진행 중에 입은 피해 회복"
   },
   "Buff_Category_Name_DEF_CRTDOWN": {
-    "english": "Attacker's critical value decrease proportional to defense",
+    "english": "Reduce Attacker CRIT Based on DEF",
     "korean": "방어력 비례 공격자 치명타 수치 감소"
   },
   "Buff_Category_Name_DEF_SKILLDMGUP_ME": {
-    "english": "Skill power increase proportional to defense",
+    "english": "Skill Power Increase Based on DEF",
     "korean": "방어력 비례 스킬 위력 증가"
   },
   "Buff_Category_Name_Damage_Add": {
-    "english": "Additional Damage",
+    "english": "Additional DMG",
     "korean": "추가 피해"
   },
   "Buff_Category_Name_Damage_Dot": {
-    "english": "Damage over Time",
+    "english": "DoT DMG",
     "korean": "지속 피해"
   },
   "Buff_Category_Name_Damage_Increase": {
-    "english": "Damage Taken Increase",
+    "english": "DMG Taken Increased",
     "korean": "받는 피해 증가"
   },
   "Buff_Category_Name_Damage_Null": {
@@ -2752,27 +2752,27 @@
     "korean": "피해 무효"
   },
   "Buff_Category_Name_Damage_Redsuce": {
-    "english": "Damage Taken Decrease",
+    "english": "Damage Reduction",
     "korean": "받는 피해 감소"
   },
   "Buff_Category_Name_Defence": {
-    "english": "Defense Power",
+    "english": "DEF",
     "korean": "방어력"
   },
   "Buff_Category_Name_Defence(%)": {
-    "english": "Defense Power (%)",
+    "english": "DEF (%)",
     "korean": "방어력(%)"
   },
   "Buff_Category_Name_Defence_Pierce": {
-    "english": "Defense Penetration",
+    "english": "DEF Penetration",
     "korean": "방어 관통"
   },
   "Buff_Category_Name_EVADE_SKILLDMGDOWN": {
-    "english": "Attacker's skill power decrease proportional to evasion",
+    "english": "Reduce Attacker Skill Power Based on EVA",
     "korean": "회피 비례 공격자 스킬 위력 감소"
   },
   "Buff_Category_Name_EVADE_SKILLDMGUP_ME": {
-    "english": "Skill power increase proportional to evasion",
+    "english": "Skill Power Increase Based on EVA",
     "korean": "회피 비례 스킬 위력 증가"
   },
   "Buff_Category_Name_Effect_Rate": {
@@ -2780,11 +2780,11 @@
     "korean": "효과 적용 확률"
   },
   "Buff_Category_Name_Evade": {
-    "english": "Evasion Rate",
+    "english": "EVA",
     "korean": "회피율"
   },
   "Buff_Category_Name_Evade(%)": {
-    "english": "Evasion Rate (%)",
+    "english": "EVA (%)",
     "korean": "회피율(%)"
   },
   "Buff_Category_Name_Exp": {
@@ -2816,11 +2816,11 @@
     "korean": "체력(%)"
   },
   "Buff_Category_Name_Hit_Rate": {
-    "english": "Accuracy",
+    "english": "ACC",
     "korean": "적중"
   },
   "Buff_Category_Name_Hit_Rate(%)": {
-    "english": "Accuracy (%)",
+    "english": "ACC (%)",
     "korean": "적중(%)"
   },
   "Buff_Category_Name_Max_HP": {
@@ -2832,7 +2832,7 @@
     "korean": "최대 HP(%)"
   },
   "Buff_Category_Name_PROVOKE_ATTACKER": {
-    "english": "Taunt effect on attacker",
+    "english": "Provoke Effect on Attacker",
     "korean": "공격자에게 도발 효과"
   },
   "Buff_Category_Name_Proportion_Effect": {
@@ -2844,11 +2844,11 @@
     "korean": "보호 효과"
   },
   "Buff_Category_Name_Protect_Ignore": {
-    "english": "Ignore Protection Effect",
+    "english": "Ignore Protection",
     "korean": "보호 무시 효과"
   },
   "Buff_Category_Name_REMOVE_BUFF_RESIST": {
-    "english": "Enhancement removal resistance",
+    "english": "Buff Removal Resist",
     "korean": "강화 해제 저항"
   },
   "Buff_Category_Name_REMOVE_SUMMON_INSTENV": {
@@ -2856,39 +2856,39 @@
     "korean": "설치형_환경형 소환물 제거"
   },
   "Buff_Category_Name_RESFIRE_DEBUFF_REVERSE": {
-    "english": "Fire resistance decrease reversal",
+    "english": "Reverse Fire Resist Debuff",
     "korean": "화염 저항 감소 반전"
   },
   "Buff_Category_Name_RESFIRE_VALUE_FIX": {
-    "english": "Fixed fire resistance value",
+    "english": "Fixed Fire Resist",
     "korean": "화염 저항 수치 고정"
   },
   "Buff_Category_Name_RESFIRE_VALUE_MIN": {
-    "english": "Fire resistance value minimum limit",
+    "english": "Minimum Fire Resist",
     "korean": "화염 저항 수치 하한"
   },
   "Buff_Category_Name_RESICE_DEBUFF_REVERSE": {
-    "english": "Cold resistance decrease reversal",
+    "english": "Reverse Cold Resist Debuff",
     "korean": "냉기 저항 감소 반전"
   },
   "Buff_Category_Name_RESICE_VALUE_FIX": {
-    "english": "Fixed cold resistance value",
+    "english": "Fixed Cold Resist",
     "korean": "냉기 저항 수치 고정"
   },
   "Buff_Category_Name_RESICE_VALUE_MIN": {
-    "english": "Cold resistance value minimum limit",
+    "english": "Minimum Cold Resist",
     "korean": "냉기 저항 수치 하한"
   },
   "Buff_Category_Name_RESLIGHTNING_DEBUFF_REVERSE": {
-    "english": "Electric resistance decrease reversal",
+    "english": "Reverse Electric Resist Debuff",
     "korean": "전기 저항 감소 반전"
   },
   "Buff_Category_Name_RESLIGHTNING_VALUE_FIX": {
-    "english": "Fixed electric resistance value",
+    "english": "Fixed Electric Resist",
     "korean": "전기 저항 수치 고정"
   },
   "Buff_Category_Name_RESLIGHTNING_VALUE_MIN": {
-    "english": "Electric resistance value minimum limit",
+    "english": "Minimum Electric Resist",
     "korean": "전기 저항 수치 하한"
   },
   "Buff_Category_Name_Range": {
@@ -2896,11 +2896,11 @@
     "korean": "사거리"
   },
   "Buff_Category_Name_Resist": {
-    "english": "Elemental Resistance",
+    "english": "Elemental Resist",
     "korean": "속성 저항"
   },
   "Buff_Category_Name_Restart": {
-    "english": "Combat Continuation",
+    "english": "Battle Continuation",
     "korean": "전투 속행"
   },
   "Buff_Category_Name_SAME_SKILL_HIT_DAMAGE_REDUCE": {
@@ -2936,7 +2936,7 @@
     "korean": "행동력 수치 증감"
   },
   "Buff_Category_Name_STAGE_ARMOREDTYPEDMGBONUS_RATIO": {
-    "english": "Heavy armor additional damage",
+    "english": "Anti-Heavy DMG",
     "korean": "중장 추가데미지"
   },
   "Buff_Category_Name_STAGE_BLOCK_CHARACTER": {
@@ -3036,11 +3036,11 @@
     "korean": "해로운 효과 적용 확률 증가"
   },
   "Buff_Category_Name_STAGE_DEFPIERCE_RATIO": {
-    "english": "Defense penetration (%)",
+    "english": "DEF Penetration (%)",
     "korean": "방어력 관통(%)"
   },
   "Buff_Category_Name_STAGE_DEFPIERCE_VALUE": {
-    "english": "Defense penetration (+)",
+    "english": "DEF Penetration (+)",
     "korean": "방어력 관통 (+)"
   },
   "Buff_Category_Name_STAGE_EXP_UP": {
@@ -3068,11 +3068,11 @@
     "korean": "냉기 도트 데미지"
   },
   "Buff_Category_Name_STAGE_IMMUNESHIELD_TIME": {
-    "english": "Shield invincibility",
+    "english": "Barrier Invincibility",
     "korean": "방어막 무적"
   },
   "Buff_Category_Name_STAGE_IMMUNESHIELD_VALUE": {
-    "english": "Shield fixed damage absorption",
+    "english": "Barrier Fixed Damage Absorption",
     "korean": "방어막 일정 피해량 흡수"
   },
   "Buff_Category_Name_STAGE_IMMUNITY_DEBUFF": {
@@ -3092,11 +3092,11 @@
     "korean": "낙인 1"
   },
   "Buff_Category_Name_STAGE_MARKING": {
-    "english": "Mark",
+    "english": "Marked",
     "korean": "표식"
   },
   "Buff_Category_Name_STAGE_MOBILITYTYPEDMGBONUS_RATIO": {
-    "english": "Air additional damage",
+    "english": "Anti-Air DMG",
     "korean": "기동 추가데미지"
   },
   "Buff_Category_Name_STAGE_MOVE_BACK": {
@@ -3116,7 +3116,7 @@
     "korean": "물리 도트 데미지"
   },
   "Buff_Category_Name_STAGE_PROVOKE": {
-    "english": "Taunt",
+    "english": "Provokes",
     "korean": "도발"
   },
   "Buff_Category_Name_STAGE_REFLECTFIRE_RATIO_DEFENDER": {
@@ -3184,7 +3184,7 @@
     "korean": "근성(%)"
   },
   "Buff_Category_Name_STAGE_SEAL_SKILL": {
-    "english": "Cannot use skills",
+    "english": "Silenced",
     "korean": "스킬 사용 불가"
   },
   "Buff_Category_Name_STAGE_SEAL_SKILL_ACTIVE_1": {
@@ -3200,23 +3200,23 @@
     "korean": "패시브 스킬 발동 불가"
   },
   "Buff_Category_Name_STAGE_SHIELD_RATIO": {
-    "english": "Shield damage absorption ratio (%)",
+    "english": "Barrier Damage Absorption (%)",
     "korean": "방어막 일정 피해 비율(%) 흡수"
   },
   "Buff_Category_Name_STAGE_SHIELD_RATIO_LIMITED": {
-    "english": "Shield damage absorption ratio (%) (limited)",
+    "english": "Barrier Damage Absorption (%) (Limited)",
     "korean": "방어막 일정 피해 비율(%) 흡수(한정)"
   },
   "Buff_Category_Name_STAGE_SHIELD_VALUE": {
-    "english": "Shield value",
+    "english": "Barrier Value",
     "korean": "방어막 수치"
   },
   "Buff_Category_Name_STAGE_SHIELD_VALUE_LIMITED": {
-    "english": "Shield value (limited)",
+    "english": "Barrier Value (Limited)",
     "korean": "방어막 수치(한정)"
   },
   "Buff_Category_Name_STAGE_SNARE": {
-    "english": "Cannot move",
+    "english": "Rooted",
     "korean": "이동 불가"
   },
   "Buff_Category_Name_STAGE_SUPPORT_ATTACK": {
@@ -3228,15 +3228,15 @@
     "korean": "반사 피해 - 적 공격력 비율(%)"
   },
   "Buff_Category_Name_STAGE_TOGETHER_ATTACK_ACTIVE_SKILL_1": {
-    "english": "Cooperative attack (cooperator skill 1)",
+    "english": "Cooperative Attack (Cooperative Attacker Skill 1)",
     "korean": "협동 공격(협동 공격자 1번 스킬)"
   },
   "Buff_Category_Name_STAGE_TOGETHER_ATTACK_ACTIVE_SKILL_2": {
-    "english": "Cooperative attack (cooperator skill 2)",
+    "english": "Cooperative Attack (Cooperative Attacker Skill 2)",
     "korean": "협동 공격(협동 공격자 2번 스킬)"
   },
   "Buff_Category_Name_STAGE_TROOPERTYPEDMGBONUS_RATIO": {
-    "english": "Light armor additional damage",
+    "english": "Anti-Light DMG",
     "korean": "경장 추가데미지"
   },
   "Buff_Category_Name_STAT_ATK_RATIO": {
@@ -3300,11 +3300,11 @@
     "korean": "액티브 2스킬의 사거리 증감(+,-)"
   },
   "Buff_Category_Name_STAT_RATING_RATIO": {
-    "english": "Accuracy ratio (%) increase/decrease",
+    "english": "ACC Ratio (%) Increase/Decrease",
     "korean": "명중률 비율(%) 증감"
   },
   "Buff_Category_Name_STAT_RATING_VALUE": {
-    "english": "Accuracy value (+) increase/decrease",
+    "english": "ACC Value (+) Increase/Decrease",
     "korean": "명중률 수치(+) 증감"
   },
   "Buff_Category_Name_STAT_RESFIRE_RATIO": {
@@ -3344,7 +3344,7 @@
     "korean": "속도 수치(+) 증감"
   },
   "Buff_Category_Name_Shield": {
-    "english": "Shield",
+    "english": "Barrier",
     "korean": "방어막"
   },
   "Buff_Category_Name_Speed": {

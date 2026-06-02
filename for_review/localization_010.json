@@ -1024,7 +1024,7 @@
     "korean": "뱅가드 : 냉기 저항{0}%(자신)"
   },
   "1000109314": {
-    "english": "Cooling Water Emission: DEF Penetration {0}%",
+    "english": "Cooling Water Emission: DEF Penetration -{0}%",
     "korean": "냉각수 방사 : 방어 관통-{0}%"
   },
   "1000109315": {
@@ -1288,7 +1288,7 @@
     "korean": "전기 방사 : 방어 관통{0}%"
   },
   "1000109380": {
-    "english": "Electric Emission: DEF Penetration {0}%",
+    "english": "Electric Emission: DEF Penetration -{0}%",
     "korean": "전기 방사 : 방어 관통-{0}%"
   },
   "1000109381": {
@@ -1804,7 +1804,7 @@
     "korean": "관중 소환 : 회피{0}% (기동형)"
   },
   "1000109509": {
-    "english": "Arson: Increase AP / Continue fighting",
+    "english": "Arson: AP Increase / Battle Continuation",
     "korean": "방화 : AP 증가 / 전투 속행"
   },
   "1000109510": {
@@ -1812,7 +1812,7 @@
     "korean": "방화 : AP{0}"
   },
   "1000109511": {
-    "english": "Arson: Continue Battle with {0}% HP",
+    "english": "Arson: Battle Continuation with {0}% HP",
     "korean": "방화 : {0}% HP로 전투 속행"
   },
   "1000109512": {
@@ -1828,7 +1828,7 @@
     "korean": "교란 홀로그램 : 회피 증가"
   },
   "1000109515": {
-    "english": "Knockback {0} tiles",
+    "english": "Push Back {0}",
     "korean": "뒤로 {0}칸 밀기"
   },
   "1000109516": {
@@ -2676,7 +2676,7 @@
     "korean": "애정 갈구 : 대 중장 공격력 증가 / 회피 증가 / 자신 공격력 증가"
   },
   "1000109727": {
-    "english": "Ruthless Assassin: Self shield, Ignore Barrier / Damage Reduction / When killing enemy, increase AP for all allied light units except self",
+    "english": "Ruthless Assassin: Self shield, Ignore Barrier / DMG Reduction / When killing enemy, increase AP for all allied light units except self",
     "korean": "냉혹한 암살자 : 자신 방어막, 피해 감소 무시 / 적 처치 시 자신을 제외한 아군 경장 전체 AP 증가"
   },
   "1000109728": {
@@ -2884,7 +2884,7 @@
     "korean": "약점 공유 : 치명타{0}%(경장1)"
   },
   "1000109779": {
-    "english": "Ruthless Assassin: Ignore Barrier / Damage Reduction (Self)",
+    "english": "Ruthless Assassin: Ignore Barrier / DMG Reduction (Self)",
     "korean": "냉혹한 암살자 : 방어막/피해 감소 무시(자신)"
   },
   "1000109780": {
@@ -3048,7 +3048,7 @@
     "korean": "기동전술 지원 : 공격력{0}%(호드대원)"
   },
   "1000109820": {
-    "english": "Tactical Support: Ignore Barrier / Damage Reduction (Sortie Order!)",
+    "english": "Tactical Support: Ignore Barrier / DMG Reduction (Sortie Order!)",
     "korean": "기동전술 지원 : 방어막/피해 감소 무시(출격 명령!)"
   },
   "1000109821": {
@@ -3368,15 +3368,15 @@
     "korean": "행동력 증가/전투시작시 AP 증가"
   },
   "1000109900": {
-    "english": "Attack power {0}%",
+    "english": "ATK {0}%",
     "korean": "공격력{0}%"
   },
   "1000109901": {
-    "english": "Defense {0}%",
+    "english": "DEF {0}%",
     "korean": "방어력{0}%"
   },
   "1000109902": {
-    "english": "Evasion {0}%",
+    "english": "EVA {0}%",
     "korean": "회피{0}%"
   },
   "1000109903": {
@@ -3384,15 +3384,15 @@
     "korean": "행동력{0}%"
   },
   "1000109904": {
-    "english": "Accuracy {0}%",
+    "english": "ACC {0}%",
     "korean": "적중{0}%"
   },
   "1000109905": {
-    "english": "Critical {0}%",
+    "english": "CRIT {0}%",
     "korean": "치명타{0}%"
   },
   "1000109906": {
-    "english": "Damage taken reduction {0}%",
+    "english": "Damage Reduction {0}%",
     "korean": "받는 피해 감소 {0}%"
   },
   "1000109907": {
@@ -3948,7 +3948,7 @@
     "korean": "스카우트 무장 보급 : 행동력 / 대 중장 피해량 증가"
   },
   "1000110045": {
-    "english": "Row protection effect removed",
+    "english": "Row Protect Effect Removal",
     "korean": "행 보호 효과 해제"
   },
   "1000110046": {

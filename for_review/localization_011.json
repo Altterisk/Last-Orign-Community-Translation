@@ -144,7 +144,7 @@
     "korean": "급속용해식 장갑 : 치명타{0}%"
   },
   "1000110094": {
-    "english": "Damage reduction effect removed",
+    "english": "DMG Reduction Removal",
     "korean": "피해 감소 효과 해제"
   },
   "1000110095": {
@@ -400,7 +400,7 @@
     "korean": "편안한 선율 : 행동력{0}%"
   },
   "1000110158": {
-    "english": "Steps Chasing Dreams: Continue battle at {0}% HP",
+    "english": "Steps Chasing Dreams: Battle Continuation with {0}% HP",
     "korean": "꿈을 좇는 발걸음  : {0}%HP로 전투속행"
   },
   "1000110159": {
@@ -1020,11 +1020,11 @@
     "korean": "목표 견제 : 적중 {0}%"
   },
   "1000110313": {
-    "english": "Tactical Shift: Continue battle at {0}% HP (Defense Barrier)",
+    "english": "Tactical Shift: Battle Continuation at {0}% HP (Defense Barrier)",
     "korean": "전술 전환 : {0}%HP로 전투속행 (방어역장)"
   },
   "1000110314": {
-    "english": "Tactical Shift: Continue Battle at {0}% HP (Defender Area)",
+    "english": "Tactical Shift: Battle Continuation at {0}% HP (Defender Area)",
     "korean": "전술 전환 : {0}%HP로 전투속행 (방어역장)"
   },
   "1000110315": {
@@ -1248,11 +1248,11 @@
     "korean": "개량형 출력 제한 해제 : 행동력{0}% (로봇)"
   },
   "1000110370": {
-    "english": "Auto Recovery: Continue Battle Effect",
+    "english": "Auto Recovery: Battle Continuation",
     "korean": "자동 수복 : 전투 속행 효과"
   },
   "1000110371": {
-    "english": "Auto Recovery: Continue Battle at {0}% HP",
+    "english": "Auto Recovery: Battle Continuation with {0}% HP",
     "korean": "자동 수복 : {0}% HP 전투 속행"
   },
   "1000110372": {
@@ -1836,7 +1836,7 @@
     "korean": "척살 : 스킬 위력 감소"
   },
   "1000110517": {
-    "english": "Tissue Regeneration: Continue battle",
+    "english": "Tissue Regeneration: Battle Continuation",
     "korean": "조직 재생 : 전투 속행"
   },
   "1000110518": {
@@ -1848,7 +1848,7 @@
     "korean": "단독 행동 개체 : 방어막 / 피해 감소 무시"
   },
   "1000110520": {
-    "english": "Tissue Regeneration: Continue battle with {0}% HP",
+    "english": "Tissue Regeneration: Battle Continuation with {0}% HP",
     "korean": "조직 재생 : {0}% HP 전투 속행"
   },
   "1000110521": {
@@ -1876,11 +1876,11 @@
     "korean": "열기 흡수 사용"
   },
   "1000110527": {
-    "english": "Skills cannot be used",
+    "english": "Silenced",
     "korean": "스킬 사용 불가"
   },
   "1000110528": {
-    "english": "Counterattack with {0}% power",
+    "english": "Counter Attack with {0} Power {0}%",
     "korean": "{0}%위력으로 반격"
   },
   "1000110529": {
@@ -1892,7 +1892,7 @@
     "korean": "표식/피해 무효화 ({0}회)"
   },
   "1000110531": {
-    "english": "Reduces damage taken by {0}%",
+    "english": "Damage Reduction {0}%",
     "korean": "받는 피해 감소 {0}%"
   },
   "1000110532": {
@@ -1900,7 +1900,7 @@
     "korean": "부활 횟수"
   },
   "1000110533": {
-    "english": "Damage nullified {0} times",
+    "english": "Damage Nullification {0}x",
     "korean": "피해 무효화 {0}회"
   },
   "1000110534": {
@@ -1936,15 +1936,15 @@
     "korean": "액티브 2번 사용 시"
   },
   "1000110542": {
-    "english": "Heart of Element (Fire): Continue battle / Additional fire damage / Fire resistance decrease",
+    "english": "Heart of Element (Fire): Battle Continuation / Additional fire damage / Fire resistance decrease",
     "korean": "원소의 심장(화염) : 전투 속행 / 화염 추가 피해 / 화염 저항 감소"
   },
   "1000110543": {
-    "english": "Heart of Element (Cold): Continue battle / Additional cold damage / Cold resistance decrease",
+    "english": "Heart of Element (Cold): Battle Continuation / Additional cold damage / Cold resistance decrease",
     "korean": "원소의 심장(냉기) : 전투 속행 / 냉기 추가 피해 / 냉기 저항 감소"
   },
   "1000110544": {
-    "english": "Heart of Element (Electric): Continue battle / Additional electric damage / Electric resistance decrease",
+    "english": "Heart of Element (Electric): Battle Continuation / Additional electric damage / Electric resistance decrease",
     "korean": "원소의 심장(전기) : 전투 속행 / 전기 추가 피해 / 전기 저항 감소"
   },
   "1000110545": {
@@ -1976,15 +1976,15 @@
     "korean": "예측 불가능한 복수자 : 반격 / 반격 시 회피 증가 / 반격 시 효과 저항 증가 / 대상 HP% 낮을 수록 피해량 증가"
   },
   "1000110552": {
-    "english": "Heart of Element (Fire): Continue battle with {0}% HP",
+    "english": "Heart of Element (Fire): Battle Continuation with {0}% HP",
     "korean": "원소의 심장(화염) : {0}% HP로 전투 속행"
   },
   "1000110553": {
-    "english": "Heart of Element (Cold): Continue battle with {0}% HP",
+    "english": "Heart of Element (Cold): Battle Continuation with {0}% HP",
     "korean": "원소의 심장(냉기) : {0}% HP로 전투 속행"
   },
   "1000110554": {
-    "english": "Heart of Element (Electric): Continue battle with {0}% HP",
+    "english": "Heart of Element (Electric): Battle Continuation with {0}% HP",
     "korean": "원소의 심장(전기) : {0}% HP로 전투 속행"
   },
   "1000110555": {
@@ -2308,7 +2308,7 @@
     "korean": "지속 물리 피해 / 행동력 감소 / 공격력 감소"
   },
   "1000110635": {
-    "english": "Ignores protection",
+    "english": "Ignore Protection",
     "korean": "보호 무시"
   },
   "1000110636": {
@@ -2440,11 +2440,11 @@
     "korean": "검선 지정 : 공격력 / 치명타 / 적중 증가"
   },
   "1000110668": {
-    "english": "Perpetuation : Continue battle",
+    "english": "Perpetuation : Battle Continuation",
     "korean": "영속화 : 전투 속행"
   },
   "1000110669": {
-    "english": "Backup Recovery Device : Continue battle",
+    "english": "Backup Recovery Device : Battle Continuation",
     "korean": "예비 복구장치 : 전투 속행"
   },
   "1000110670": {
@@ -2464,11 +2464,11 @@
     "korean": "검선 지정 : 공격력{0}%"
   },
   "1000110674": {
-    "english": "Perpetuation : Continue battle with {0}% HP",
+    "english": "Perpetuation : Battle Continuation with {0}% HP",
     "korean": "영속화 : {0}% HP 전투 속행"
   },
   "1000110675": {
-    "english": "Backup Recovery Device : Continue battle with {0}% HP",
+    "english": "Backup Recovery Device : Battle Continuation with {0}% HP",
     "korean": "예비 복구장치 : {0}% HP 전투 속행"
   },
   "1000110676": {
@@ -2520,11 +2520,11 @@
     "korean": "흔들리지 않는 믿음 : 공격력{0}% (공격기)"
   },
   "1000110688": {
-    "english": "Salvation : Continue battle at {0}HP and nullify damage that round",
+    "english": "Salvation : Battle Continuation at {0}HP and nullify damage that round",
     "korean": "구원 : {0}HP로 전투 속행 및 해당 라운드 피해 무효화"
   },
   "1000110689": {
-    "english": "Salvation: Continue Battle with {0}HP",
+    "english": "Salvation: Battle Continuation with {0} HP",
     "korean": "구원 : {0}HP로 전투 속행"
   },
   "1000110690": {
@@ -2572,7 +2572,7 @@
     "korean": "구원 : 사거리{0} (5라운드 이후)"
   },
   "1000110701": {
-    "english": "Salvation: Effect Resistance {0}% (On Battle Continue)",
+    "english": "Salvation: Status Resist {0}% (On Battle Continue)",
     "korean": "구원 : 효과 저항{0}% (전투 속행)"
   },
   "1000110702": {
@@ -2920,11 +2920,11 @@
     "korean": "성흔 : 화염 저항{0}% (원죄의 굴레)"
   },
   "1000110788": {
-    "english": "Original Sin : Ignore Barrier / Damage Reduction (Shackle of Sin)",
+    "english": "Original Sin : Ignore Barrier / DMG Reduction (Shackle of Sin)",
     "korean": "원죄 : 방어막 / 피해 감소 무시 (원죄의 굴레)"
   },
   "1000110789": {
-    "english": "Eternal Flame of Ages : Ignore Barrier / Damage Reduction (Shackle of Sin)",
+    "english": "Eternal Flame of Ages : Ignore Barrier / DMG Reduction (Shackle of Sin)",
     "korean": "억겁의 성화 : 방어막 / 피해 감소 무시 (원죄의 굴레)"
   },
   "1000110790": {
@@ -2952,7 +2952,7 @@
     "korean": "정원사의 본성 : 방어 관통{0}%"
   },
   "1000110796": {
-    "english": "Weak Point Attack : Additional DMG {0}% Increase (Increased Damage Taken)",
+    "english": "Weak Point Attack : Additional DMG {0}% (Increased Damage Taken)",
     "korean": "약점 공격 : 피해량{0}% (받는 피해 증가)"
   },
   "1000110797": {

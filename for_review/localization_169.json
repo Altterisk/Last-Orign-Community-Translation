@@ -864,7 +864,7 @@
     "korean": "전장 적응 : 스킬 위력 {0}%"
   },
   "BuffDesc2_Effect_BUFF_SuitabilityEW_N_159": {
-    "english": "Battlefield Adaptation : Continue Battle with {0}% HP",
+    "english": "Battlefield Adaptation : Battle Continuation with {0}% HP",
     "korean": "전장 적응 : {0}% HP로 전투 속행"
   },
   "BuffDesc2_Effect_BUFF_SuitabilityEW_N_16": {
@@ -1240,7 +1240,7 @@
     "korean": "정의와 미모의 무녀 : 공격력 {0}%"
   },
   "BuffDesc2_Effect_DS_Koyori_N_4": {
-    "english": "1UP : Continue Battle with {0}% HP",
+    "english": "1UP : Battle Continuation with {0}% HP",
     "korean": "1UP : {0}% HP로 전투 속행"
   },
   "BuffDesc2_Effect_DS_Koyori_N_5": {
@@ -1760,11 +1760,11 @@
     "korean": "견제 사격 : 적중 {0}%"
   },
   "BuffDesc2_Effect_MP_Brownie_N_11": {
-    "english": "It's a Charge!: ATK {0}%",
+    "english": "It's a Charge!: ATK +{0}%",
     "korean": "돌격이지말입니다! : 공격력+{0}%"
   },
   "BuffDesc2_Effect_MP_Brownie_N_3": {
-    "english": "It's a Charge!: ATK {0}%",
+    "english": "It's a Charge!: ATK +{0}%",
     "korean": "돌격이지말입니다! : 공격력+{0}%"
   },
   "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge1_12": {
@@ -1812,7 +1812,7 @@
     "korean": "지능형 위협 측정 : 치명타 {0}%"
   },
   "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge3_5": {
-    "english": "Boiling : Lower Limit of Ice Resistance {0}%",
+    "english": "Boiling : Minimum Cold Resist {0}%",
     "korean": "부글부글 : 냉기 저항 하한 {0}%"
   },
   "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge3_51": {
@@ -1864,15 +1864,15 @@
     "korean": "고폭탄 폭발 : AP {0}"
   },
   "BuffDesc2_Effect_MP_Efreeti_N_2": {
-    "english": "Shock Blast: DMG Taken {0}%",
+    "english": "Shock Blast: DMG Taken +{0}%",
     "korean": "충격 폭발 : 받는 피해+{0}%"
   },
   "BuffDesc2_Effect_MP_Efreeti_N_3": {
-    "english": "Flare Support: CRIT {0}%",
+    "english": "Flare Support: CRIT +{0}%",
     "korean": "조명탄 지원 : 치명타+{0}%"
   },
   "BuffDesc2_Effect_MP_Efreeti_N_4": {
-    "english": "Rifled Mortar: ACC {0}%",
+    "english": "Rifled Mortar: ACC +{0}%",
     "korean": "강선형 박격포 : 적중+{0}%"
   },
   "BuffDesc2_Effect_MP_Efreeti_N_5": {
@@ -1984,15 +1984,15 @@
     "korean": "가로막는 강적 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_MP_Impet_N_11": {
-    "english": "Prototype EFP Shell : DEF Penetration {0}%",
+    "english": "Prototype EFP Shell : DEF Penetration +{0}%",
     "korean": "시제 EFP탄 : 방어 관통+{0}%"
   },
   "BuffDesc2_Effect_MP_Impet_N_3": {
-    "english": "Prototype EFP Shell : ATK {0}% (Front Row)",
+    "english": "Prototype EFP Shell : ATK +{0}% (Front Row)",
     "korean": "시제 EFP탄 : 공격력+{0}% (전열)"
   },
   "BuffDesc2_Effect_MP_Impet_N_4": {
-    "english": "Steel Line Mindset: ATK {0}%",
+    "english": "Steel Line Mindset: ATK +{0}%",
     "korean": "스틸라인의 마음가짐 : 공격력+{0}%"
   },
   "BuffDesc2_Effect_MP_IntercepterAR_N_4": {
@@ -2044,15 +2044,15 @@
     "korean": "부숴버리겠어 : 자신 HP 비례 피해량 {0}% (최대)"
   },
   "BuffDesc2_Effect_MP_Kidnapper_EV19_C_3": {
-    "english": "Suspicion… : Lower Limit of Ice Resistance {0}%",
+    "english": "Suspicion… : Minimum Cold Resist {0}%",
     "korean": "눈치… : 냉기 저항 하한 {0}%"
   },
   "BuffDesc2_Effect_MP_Kidnapper_EV19_C_31": {
-    "english": "Suspicion… : Lower Limit of Electric Resistance {0}%",
+    "english": "Suspicion… : Minimum Electric Resist {0}%",
     "korean": "눈치… : 전기 저항 하한 {0}%"
   },
   "BuffDesc2_Effect_MP_Kidnapper_EV19_C_32": {
-    "english": "Suspicion… : Lower Limit of Ice Resistance {0}%",
+    "english": "Suspicion… : Minimum Cold Resist {0}%",
     "korean": "눈치… : 냉기 저항 하한 {0}%"
   },
   "BuffDesc2_Effect_MP_Kidnapper_EV19_C_5": {
@@ -2184,7 +2184,7 @@
     "korean": "일점 집중 사격 : 공격력{0}%"
   },
   "BuffDesc2_Effect_MP_Mammoth13_N_3": {
-    "english": "Protected!! : Continue Battle with {0}% HP",
+    "english": "Protected!! : Battle Continuation with {0}% HP",
     "korean": "보호를 받는다!! : {0}% HP로 전투 속행"
   },
   "BuffDesc2_Effect_MP_Mammoth13_N_4": {
@@ -2196,7 +2196,7 @@
     "korean": "핀 레이저 : 공격력 {0}%"
   },
   "BuffDesc2_Effect_MP_Marie_N_15": {
-    "english": "AA Command : ACC {0}%",
+    "english": "AA Command : ACC +{0}%",
     "korean": "대공 지휘 : 적중+{0}%"
   },
   "BuffDesc2_Effect_MP_Marie_N_3": {
@@ -2536,15 +2536,15 @@
     "korean": "냉기 저항 수치 {0}% 하한선"
   },
   "BuffDesc2_Effect_MP_NightChickSpCH_B0208_32": {
-    "english": "Cold resistance value inversion",
+    "english": "Reverse Cold Resist Debuff",
     "korean": "냉기 저항 수치 반전"
   },
   "BuffDesc2_Effect_MP_NightChickSpCH_B0208_4": {
-    "english": "Maximum number of actions: 4",
+    "english": "Max Action 4x",
     "korean": "최대 행동 횟수 4회"
   },
   "BuffDesc2_Effect_MP_Predator_EW2_1": {
-    "english": "Unable to Act",
+    "english": "Stunned",
     "korean": "행동 불가"
   },
   "BuffDesc2_Effect_MP_Predator_EW2_2": {
@@ -2636,11 +2636,11 @@
     "korean": "점화 : 지속 화염 피해 {0}"
   },
   "BuffDesc2_Effect_MP_RedHood_N_3": {
-    "english": "Do Not Retreat! : Status Resist {0}%",
+    "english": "Do Not Retreat! : Status Resist +{0}%",
     "korean": "물러서지마라! : 효과 저항+{0}%"
   },
   "BuffDesc2_Effect_MP_RedHood_N_4": {
-    "english": "No Retreat! : CRIT {0}%",
+    "english": "No Retreat! : CRIT +{0}%",
     "korean": "후퇴는 없다! : 치명타+{0}%"
   },
   "BuffDesc2_Effect_MP_Ship_Controller_B09_3": {
@@ -2884,7 +2884,7 @@
     "korean": "오비탈 플레이팅 : 냉기 저항 {0}%"
   },
   "BuffDesc2_Effect_PECS_CoCoWhiteShell_N_5": {
-    "english": "Condense: Minimizes damage below {0}",
+    "english": "Condense: Minimize Damage Below {0}",
     "korean": "응축 : {0} 이하 피해 최소화"
   },
   "BuffDesc2_Effect_PECS_CyclopsePrincess_N_1": {
@@ -2992,7 +2992,7 @@
     "korean": "RWR : 적중 {0}%"
   },
   "BuffDesc2_Effect_PECS_Drone_N_5": {
-    "english": "Spare Frame: Continue combat with {0}% HP",
+    "english": "Spare Frame: Battle Continuation with {0}% HP",
     "korean": "예비 소체 : {0}% HP로 전투 속행"
   },
   "BuffDesc2_Effect_PECS_ElvenForestmaker_N_5": {
@@ -3456,7 +3456,7 @@
     "korean": "능력 강화 OS : 방어력{0}"
   },
   "BuffDesc2_Effect_PECS_Orangeade_N_5": {
-    "english": "Aim Correction OS: Range {0} (cannot be removed)",
+    "english": "Aim Correction OS: Range {0} (Unremovable)",
     "korean": "조준 보정 OS : 사거리 {0} (해제 불가)"
   },
   "BuffDesc2_Effect_PECS_Peregrinus_CH_1": {
@@ -3616,11 +3616,11 @@
     "korean": "굿데이 투 다이 : 강화 해제"
   },
   "BuffDesc2_Effect_PECS_Shepherd_N_2": {
-    "english": "EMP SHOT!: Electric resistance lower limit removed",
+    "english": "EMP SHOT!: Minimum Electric Resist Removal",
     "korean": "EMP SHOT! : 전기 저항 하한 해제"
   },
   "BuffDesc2_Effect_PECS_Shepherd_N_21": {
-    "english": "EMP SHOT!: Electric resistance inverted",
+    "english": "EMP SHOT!: Reverse Electric Resist Debuff Removal",
     "korean": "EMP SHOT! : 전기 저항 반전 해제"
   },
   "BuffDesc2_Effect_PECS_Shepherd_N_3": {

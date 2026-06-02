@@ -792,7 +792,7 @@
     "korean": "긴 설명 : 확장 스킬 액티브 : 치명타 시, 받는 피해 감소 해제"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1110": {
-    "english": "Effect Resistance",
+    "english": "Status Resist",
     "korean": "효과 저항"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1201": {
@@ -800,15 +800,15 @@
     "korean": "피해 분산"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1202": {
-    "english": "Increased Damage vs Light Armor",
+    "english": "Anti-Light DMG Increase",
     "korean": "대 경장 피해량 증가"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1203": {
-    "english": "Increased Damage vs Heavy Armor",
+    "english": "Anti-Heavy DMG Increase",
     "korean": "대 중장 피해량 증가"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1204": {
-    "english": "Increased Damage vs Mobile",
+    "english": "Anti-Air DMG Increase",
     "korean": "대 기동 피해량 증가"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1205": {
@@ -816,23 +816,23 @@
     "korean": "집속 공격"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1206": {
-    "english": "Skill Power increases proportional to Evasion",
+    "english": "Skill Power Increase Based on EVA",
     "korean": "회피 비례 스킬 위력 증가"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1207": {
-    "english": "Skill Power increases proportional to Defense",
+    "english": "Skill Power Increase Based on DEF",
     "korean": "방어력 비례 스킬 위력 증가"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1208": {
-    "english": "Critical Stat Reduction for Defense-Proportional Attackers",
+    "english": "Reduce Attacker CRIT Based on DEF",
     "korean": "방어력 비례 공격자 치명타 수치 감소"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1209": {
-    "english": "Defense Penetration",
+    "english": "DEF Penetration",
     "korean": "방어 관통"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1210": {
-    "english": "Dispel Resistance",
+    "english": "Buff Removal Resist",
     "korean": "강화 해제 저항"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1211": {
@@ -840,7 +840,7 @@
     "korean": "보호막"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1212": {
-    "english": "Defense Penetration Resistance proportional to Current HP",
+    "english": "Reduce Attacker DEF Penetration Based on HP",
     "korean": "현재 HP 비례 방어 관통 저항"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1213": {
@@ -852,7 +852,7 @@
     "korean": "적 처치 시, AP 증가"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1302": {
-    "english": "Damage Taken Decrease",
+    "english": "Damage Reduction",
     "korean": "받는 피해 감소"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1303": {
@@ -872,7 +872,7 @@
     "korean": "HP 50%이상, 사거리 증가"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1307": {
-    "english": "Reconnaissance",
+    "english": "Recon Effect",
     "korean": "정찰"
   },
   "SkillDescSimple_Skill_ExtPassiveSkill_N_1308": {
@@ -1236,7 +1236,7 @@
     "korean": "받는 피해량 감소 / 피해 무효화"
   },
   "SkillDescSimple_Skill_MP_Ellie_N_4": {
-    "english": "Harmful effect immunity",
+    "english": "Harmful Effect Immunity",
     "korean": "해로운 효과 면역"
   },
   "SkillDescSimple_Skill_MP_Ellie_N_5": {
@@ -1468,7 +1468,7 @@
     "korean": "화염 속성 피해 피격 시 자폭"
   },
   "SkillDescSimple_Skill_MP_TimeBomb_N_5": {
-    "english": "Counterattack",
+    "english": "Counter Attack",
     "korean": "반격"
   },
   "SkillDescSimple_Skill_MP_Triton_B09_1": {

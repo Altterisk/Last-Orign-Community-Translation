@@ -488,7 +488,7 @@
     "korean": "출력 제한 해제 : 최대 행동 횟수{0}"
   },
   "BuffDesc1_Effect_PECS_Veronica_N_5": {
-    "english": "Blessing of Light : Continue Battle with {0}% HP",
+    "english": "Blessing of Light : Battle Continuation with {0}% HP",
     "korean": "빛의 가호 : {0}% HP 전투 속행"
   },
   "BuffDesc1_Effect_PECS_Veronica_N_51": {
@@ -624,7 +624,7 @@
     "korean": "확장패시브 : 적 HP가 적을수록 피해량{0}%"
   },
   "BuffDesc1_Effect_Passive_Tast_N_36": {
-    "english": "Extended Passive : Continue Battle with {0} HP",
+    "english": "Extended Passive : Battle Continuation with {0} HP",
     "korean": "확장패시브 : {0} HP로 전투 속행"
   },
   "BuffDesc1_Effect_Passive_Tast_N_37": {
@@ -644,7 +644,7 @@
     "korean": "확장패시브 : 적중{0}% 증가"
   },
   "BuffDesc1_Effect_Passive_Tast_N_40": {
-    "english": "Extended Passive : Continue Battle with {0}% HP",
+    "english": "Extended Passive : Battle Continuation with {0}% HP",
     "korean": "확장패시브 : {0}% HP로 전투 속행"
   },
   "BuffDesc1_Effect_Passive_Tast_N_41": {
@@ -752,7 +752,7 @@
     "korean": "확장패시브 : 공격자에게 도발 효과"
   },
   "BuffDesc1_Effect_Passive_Tast_N_65": {
-    "english": "Extended Passive : Defense Penetration Resistance {0}% (Proportional to Current HP)",
+    "english": "Extended Passive : Reduce Attacker DEF Penetration Based on HP {0}%",
     "korean": "확장패시브 : 현재 HP 비례 방어 관통 저항{0}%"
   },
   "BuffDesc1_Effect_Passive_Tast_N_66": {
@@ -1068,15 +1068,15 @@
     "korean": "침식 : 공격력 {0}%"
   },
   "BuffDesc1_Effect_TEST_Nest_N_3": {
-    "english": "Grace Bestowal Stage 1 : ATK {0}%",
+    "english": "Grace Bestowal Stage 1 : ATK +{0}%",
     "korean": "은총 하사 1단계 : 공격력+{0}%"
   },
   "BuffDesc1_Effect_TEST_Nest_N_31": {
-    "english": "Grace Bestowal Stage 2 : ATK {0}%",
+    "english": "Grace Bestowal Stage 2 : ATK +{0}%",
     "korean": "은총 하사 2단계 : 공격력+{0}%"
   },
   "BuffDesc1_Effect_TEST_Nest_N_32": {
-    "english": "Grace Bestowal Stage 3 : ATK {0}%",
+    "english": "Grace Bestowal Stage 3 : ATK +{0}%",
     "korean": "은총 하사 3단계 : 공격력+{0}%"
   },
   "BuffDesc1_Effect_TEST_Nest_N_33": {
@@ -1096,7 +1096,7 @@
     "korean": "배리어 전개 : 해로운 효과 해제"
   },
   "BuffDesc1_Effect_TEST_Nest_N_43": {
-    "english": "Forced Barrier Release : DMG Taken Increased {0}",
+    "english": "Forced Barrier Release : DMG Taken Increased +{0}",
     "korean": "배리어 강제 해제 : 받는 피해+{0} 증가"
   },
   "BuffDesc1_Effect_TEST_Nest_N_5": {
@@ -1564,11 +1564,11 @@
     "korean": "형상기억 스커트 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_3P_Maria_N_3": {
-    "english": "Ready? : Rooted (cannot be removed)",
+    "english": "Ready? : Rooted (Unremovable)",
     "korean": "준비됐나요? : 이동 불가 (해제 불가)"
   },
   "BuffDesc2_Effect_3P_Maria_N_31": {
-    "english": "Are You Ready?: Rooted (cannot be removed)",
+    "english": "Are You Ready?: Rooted (Unremovable)",
     "korean": "준비됐나요? : 이동 불가 (해제 불가)"
   },
   "BuffDesc2_Effect_3P_Maria_N_4": {
@@ -3732,7 +3732,7 @@
     "korean": "후퇴는 없다! : 치명타 {0}%"
   },
   "BuffDesc2_Effect_BR_RedHood_N_5": {
-    "english": "SPD {0}% (1 unit reduced)",
+    "english": "SPD {0}% (1 unit decrease)",
     "korean": "행동력 {0}% (1인 감소)"
   },
   "BuffDesc2_Effect_BR_RoyalArsenal_N_1": {
@@ -3932,7 +3932,7 @@
     "korean": "요격 모드 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_BR_Sirene_N_5": {
-    "english": "Observation Fire: Ignore Barrier / Damage Reduction (Bombardment Mode)",
+    "english": "Observation Fire: Ignore Barrier / DMG Reduction (Bombardment Mode)",
     "korean": "관측 포격 : 방어막 / 피해 감소 무시 (포격 모드)"
   },
   "BuffDesc2_Effect_BR_Sleipnir_N_1": {
@@ -3956,7 +3956,7 @@
     "korean": "속도 승부야! : 치명타 {0}%"
   },
   "BuffDesc2_Effect_BR_Sleipnir_N_4": {
-    "english": "Leaving Me Behind? : SPD Decrease / EVA Debuff Removal",
+    "english": "Leaving Me Behind? : SPD / EVA Debuff Removal",
     "korean": "두고 간다? : 행동력 / 회피 감소 해제"
   },
   "BuffDesc2_Effect_BR_Sleipnir_N_41": {

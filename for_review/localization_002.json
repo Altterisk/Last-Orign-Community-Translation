@@ -16,7 +16,7 @@
     "korean": "무장 보급 : 자신 행동력 증가"
   },
   "1000101005": {
-    "english": "Electromagnetic Missile: Greatly reduces enemy Accuracy / Crit / Effect Accuracy",
+    "english": "Electromagnetic Missile: ACC Decrease / CRIT Decrease / Effect Activation Rate Greatly Decrease",
     "korean": "전자기장 미사일 : 적중 / 치명타 / 효과 적중 대폭 감소"
   },
   "1000101006": {
@@ -56,7 +56,7 @@
     "korean": "칙 머신캐논 : 무작위 방해 효과"
   },
   "1000101015": {
-    "english": "Chick Final Attack: Greatly increased damage",
+    "english": "Chick Final Attack: Additional DMG Greatly Increase",
     "korean": "칙 파이널 어택 : 피해량 대폭 증가"
   },
   "1000101016": {
@@ -144,7 +144,7 @@
     "korean": "표적 제거 : 표식 대상 피해 증가 / 행동 불가"
   },
   "1000101037": {
-    "english": "Shock Shell: Additional damage if Cold Resistance is reduced",
+    "english": "Shock Shell: If Cold Resist Decrease, Additional DMG",
     "korean": "쇼크탄 : 냉기 저항 감소 상태면 추가 피해"
   },
   "1000101038": {
@@ -164,7 +164,7 @@
     "korean": "파일 벙커 드라이브 : 보호 해제 / 뒤로 밀기 / 표식 대상 피해 증가"
   },
   "1000101042": {
-    "english": "Nozzle Enhancement: Anti-Light DMG / Ignore Barrier / Damage Reduction and shields",
+    "english": "Nozzle Enhancement: Anti-Light DMG / Ignore Barrier / Damage Reduction",
     "korean": "노즐 강화 : 대 경장 피해 증가 / 피해 감소와 방어막 무시"
   },
   "1000101043": {
@@ -256,7 +256,7 @@
     "korean": "격분 : AP / 공격력 / 치명타 증가 / 방어력 감소"
   },
   "1000101065": {
-    "english": "Regeneration Function: Continues combat",
+    "english": "Regeneration Function: Battle Continuation",
     "korean": "재생 기능 : 전투 속행"
   },
   "1000101066": {
@@ -304,7 +304,7 @@
     "korean": "출력 제한 해제 : 공격력 증가 / 적중 감소"
   },
   "1000101077": {
-    "english": "Outer Armor Reinforcement: Reduces damage taken / continues combat",
+    "english": "Outer Armor Reinforcement: Damage Reduction / Battle Continuation",
     "korean": "외피 강화 : 받는 피해 감소 / 전투 속행"
   },
   "1000101078": {
@@ -324,7 +324,7 @@
     "korean": "에너지 역류 : 아군 사망 시 HP 감소"
   },
   "1000101082": {
-    "english": "Execution Initiation: Greatly increases damage if target is Stunned",
+    "english": "Execution Initiation: If Stunned, Additional DMG Greatly Increase",
     "korean": "처형 개시 : 행동 불가 상태면 피해량 대폭 증가"
   },
   "1000101083": {
@@ -360,7 +360,7 @@
     "korean": "장갑 해제 : 방어력 감소 / 피해 감소 저하 / 받는 피해 증가"
   },
   "1000101091": {
-    "english": "Disarm: ATK large decrease / CRIT large decrease",
+    "english": "Disarm: ATK Decrease / CRIT Greatly Decrease",
     "korean": "무장 해제 : 공격력 / 치명타 대폭 감소"
   },
   "1000101092": {
@@ -408,11 +408,11 @@
     "korean": "확인 사살 : 공격력 / 치명타 증가"
   },
   "1000101103": {
-    "english": "Alert mode: EVA large increase / ACC large decrease",
+    "english": "Alert mode: EVA Greatly Increase / ACC Greatly Decrease",
     "korean": "경계 모드 : 회피 대폭 증가 / 적중 대폭 감소"
   },
   "1000101104": {
-    "english": "Confirmed kill: Defense penetration / Ignore defense shield and DMG Reduction",
+    "english": "Confirmed kill: DEF Penetration / Ignore Barrier / Damage Reduction",
     "korean": "확인 사살 : 방어 관통 / 방어막과 피해 감소 무시"
   },
   "1000101105": {
@@ -1104,7 +1104,7 @@
     "korean": "급가속 : 적중 / 사거리 증가"
   },
   "1000101277": {
-    "english": "Rapid Acceleration: Greatly increases EVA",
+    "english": "Rapid Acceleration: EVA Greatly Increase",
     "korean": "급가속 : 회피 대폭 증가"
   },
   "1000101278": {
@@ -1148,7 +1148,7 @@
     "korean": "강행 돌입 : 행 보호 / 효과 저항 증가"
   },
   "1000101288": {
-    "english": "Unyielding Firefighter : Received damage decrease and SPD increase and Continue battle and Fire and Ice resistance increase",
+    "english": "Unyielding Firefighter : Received damage decrease and SPD increase and Battle Continuation and Fire and Ice resistance increase",
     "korean": "불굴의 소방관 : 받는 피해 감소 / 행동력 증가 / 전투 속행 / 화염, 냉기 저항 증가"
   },
   "1000101289": {
@@ -1188,7 +1188,7 @@
     "korean": "요격 모드 : 포격 모드 변환 / 공격력 / 방어 관통 증가"
   },
   "1000101298": {
-    "english": "Observation Bombardment: Ignore Barrier / Damage Reduction (Bombardment Mode)",
+    "english": "Observation Bombardment: Ignore Barrier / DMG Reduction (Bombardment Mode)",
     "korean": "관측 포격 : 방어막 / 피해 감소 효과 무시 (포격 모드)"
   },
   "1000101299": {
@@ -1220,11 +1220,11 @@
     "korean": "신의 가호 : 방어막 / 받는 피해 감소 / 열 보호 효과"
   },
   "1000101306": {
-    "english": "Reincarnation : Continue battle once when incapacitated",
+    "english": "Reincarnation : Battle Continuation once when incapacitated",
     "korean": "재림 : 전투 불능 시, 전투 속행 (1회)"
   },
   "1000101307": {
-    "english": "Holy War : Allies gain continue battle and Damage nullification once effect",
+    "english": "Holy War : Allies gain Battle Continuation and Damage nullification once effect",
     "korean": "성전 : 아군에게 전투 속행 / 피해 무효화 (1회) 효과"
   },
   "1000101308": {
@@ -1372,11 +1372,11 @@
     "korean": "칙 근성 발동 : 행동력 증가"
   },
   "1000101344": {
-    "english": "Chic Guts Activation : Continue battle",
+    "english": "Chic Guts Activation : Battle Continuation",
     "korean": "칙 근성 발동 : 전투 속행"
   },
   "1000101345": {
-    "english": "Last Guts : Damage minimization and Ignore shield and DMG Reduction",
+    "english": "Last Guts : Minimize Damage / Ignore Barrier / Damage Reduction",
     "korean": "최후의 근성 : 피해 최소화 / 방어막&피해 감소 무시"
   },
   "1000101346": {
@@ -1532,7 +1532,7 @@
     "korean": "방어 대열 지원 : 아군 보호기 공격 지원 / AP 증가"
   },
   "1000101384": {
-    "english": "Pinpoint Bombardment : DEF penetration increase / Ignore shield and DMG Reduction",
+    "english": "Pinpoint Bombardment : DEF Penetration Increase / Ignore Barrier / Damage Reduction",
     "korean": "핀 포인트 폭격 : 방어 관통 증가 / 방어막&피해 감소 무시"
   },
   "1000101385": {
@@ -2232,7 +2232,7 @@
     "korean": "속도 승부야! : 아군 공격력 / 치명타 증가"
   },
   "1000101559": {
-    "english": "Speed ​​Race!: EVA Decrease / SPD Debuff Removal",
+    "english": "Speed ​​Race!: EVA / SPD Debuff Removal",
     "korean": "속도 승부야! : 회피 / 행동력 감소 해제"
   },
   "1000101560": {
@@ -2396,7 +2396,7 @@
     "korean": "집속 연장 미사일 : 표식 / 받는 피해 증가 / AP 감소"
   },
   "1000101600": {
-    "english": "Output Limit Removal: ATK / CRIT increase / ignores barrier and DMG Reduction",
+    "english": "Output Limit Removal: ATK Increase / CRIT Increase / Ignore Barrier / Damage Reduction",
     "korean": "출력 한도 해제 : 공격력 / 치명타 증가 / 방어막과 피해 감소 무시"
   },
   "1000101601": {
@@ -2460,7 +2460,7 @@
     "korean": "포격 보정 : 공격 시, 적중 / 치명타 증가"
   },
   "1000101616": {
-    "english": "Enhanced Armor: Greatly increases DEF",
+    "english": "Enhanced Armor: DEF Greatly Increase",
     "korean": "증가 장갑 : 방어력 대폭 증가"
   },
   "1000101617": {
@@ -2484,7 +2484,7 @@
     "korean": "거점 순찰 : 인접 보호기 제외 아군 보호 / 행동력 증가"
   },
   "1000101622": {
-    "english": "Knuckle Buster: If HP is 25% or less, applies barrier / Ignore Barrier / Damage Reduction",
+    "english": "Knuckle Buster: If HP is 25% or less, applies barrier / Ignore Barrier / DMG Reduction",
     "korean": "너클 버스터 : HP 25% 이하 시 방어막 / 피해 감소 무시"
   },
   "1000101623": {
@@ -2536,7 +2536,7 @@
     "korean": "실드 충전 : 방어막 적용"
   },
   "1000101635": {
-    "english": "Recovery System: Grants revive effect",
+    "english": "Recovery System: Battle Continuation",
     "korean": "복원 시스템 : 전투 속행 효과"
   },
   "1000101636": {
@@ -2792,7 +2792,7 @@
     "korean": "가학의 기쁨 : 적 공격 시, 행동력 증가 / 처치 시 일정 확률로 AP 회복"
   },
   "1000101699": {
-    "english": "Slaughter Instinct: Anti-Light DMG dealt -scale / Ignores shield and damage reduction effects",
+    "english": "Slaughter Instinct: Anti-Light DMG / Ignore Barrier / Damage Reduction",
     "korean": "학살 본능 : 대 경장형 피해량 증가 / 방어막&피해 감소 효과 무시"
   },
   "1000101700": {
@@ -2804,7 +2804,7 @@
     "korean": "가학의 기쁨 (강철의 비) : 일정 확률로 AP 회복"
   },
   "1000101702": {
-    "english": "Instinct to Kill: Ignores shield and damage reduction effects",
+    "english": "Instinct to Kill: Ignore Barrier / Damage Reduction",
     "korean": "학살 본능 : 방어막&피해 감소 효과 무시"
   },
   "1000101703": {
@@ -2972,7 +2972,7 @@
     "korean": "덤벼덤벼! : 자신의 HP% 비율이 낮을수록 피해량 증가 / 받는 피해 감소"
   },
   "1000101744": {
-    "english": "Combat Immersion: Continue battle at start",
+    "english": "Combat Immersion: Battle Continuation at start",
     "korean": "전투 과몰입 : 전투 개시 시, 전투 속행"
   },
   "1000101745": {
@@ -2992,7 +2992,7 @@
     "korean": "신난다! : 스킬로 적 처치 시 공격력 / AP 증가"
   },
   "1000101749": {
-    "english": "Combat Immersion: Continue battle / On continue, ATK / CRIT / SPD increase",
+    "english": "Combat Immersion: Battle Continuation / On continue, ATK / CRIT / SPD increase",
     "korean": "전투 과몰입 : 전투 속행 / 전투 속행 시, 공격력 / 치명타 / 행동력 증가"
   },
   "1000101750": {
@@ -3004,7 +3004,7 @@
     "korean": "기총 난사 : 회피 감소 대상 피해량 증가 / 강화 해제"
   },
   "1000101752": {
-    "english": "System Overload: Ignore barrier / Ignore Barrier / Damage Reduction / On break, Buff Removal from nearby allies",
+    "english": "System Overload: Ignore barrier / Ignore Barrier / DMG Reduction / On break, Buff Removal from nearby allies",
     "korean": "시스템 과부하 : 방어막 / 피해 감소 무시 / 파괴 시 주변 아군 효과 해제"
   },
   "1000101753": {
@@ -3192,7 +3192,7 @@
     "korean": "심해의 분노 : 고정 피해"
   },
   "1000101799": {
-    "english": "Tidal Assault: If target is marked, Buff Removal / Rooted",
+    "english": "Tidal Assault: If Marked, Buff Removal / Stunned",
     "korean": "타이달 어썰트 : 표식 상태면 강화 해제 / 행동 불가"
   },
   "1000101800": {
@@ -3300,7 +3300,7 @@
     "korean": "MOP 탄두 : 방어 관통 증가 / 방어막&피해 감소 무시"
   },
   "1000101826": {
-    "english": "Radar Malfunction: ACC greatly decreased",
+    "english": "Radar Malfunction: ACC Greatly Decrease",
     "korean": "레이더 오류 : 적중 대폭 감소"
   },
   "1000101827": {
@@ -3456,7 +3456,7 @@
     "korean": "과출력 버너 : 공격력 대폭 증가"
   },
   "1000101865": {
-    "english": "Overpowered Burner: Ignores shields and DMG Reduction",
+    "english": "Overpowered Burner: Ignore Barrier / Damage Reduction",
     "korean": "과출력 버너 : 방어막&피해 감소 무시"
   },
   "1000101866": {
@@ -3780,7 +3780,7 @@
     "korean": "파괴 본능 해제"
   },
   "1000101946": {
-    "english": "System Restore: Battle continuation effect",
+    "english": "System Restore: Battle Continuation",
     "korean": "시스템 복원 : 전투 속행 효과"
   },
   "1000101947": {
@@ -3908,7 +3908,7 @@
     "korean": "글레이프닐 해제 : 치명타 시, 피해량 증가"
   },
   "1000101978": {
-    "english": "Area Patrol: Row protection / Battle continuation",
+    "english": "Area Patrol: Column Protect / Battle Continuation",
     "korean": "영역 순찰 : 열 보호 / 전투 속행"
   },
   "1000101979": {
