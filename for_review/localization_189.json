@@ -56,7 +56,7 @@
     "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 입힙니다.&n적중 시 대상은 행동력 감소 및 침수 상태가 됩니다.&n침수 시 대상의 2라운드 동안 냉기 / 전기 저항 감소, 화염 저항 증가 상태가 됩니다."
   },
   "SkillDesc_Skill_PECS_Dione_N_3": {
-    "english": "At the start of the round, taunts all enemies.&nFor 2 rounds, reduces their SPD and increases damage taken (up to 3 stacks).",
+    "english": "At the start of the round, taunts all enemies.&nFor 2 rounds, reduces their SPD and increases damage taken (max 3 stacks).",
     "korean": "라운드 개시 시 모든 적을 도발합니다.&n2라운드 동안 적의 행동력을 감소시키고 받는 피해를 증가시킵니다(최대 3 중첩)."
   },
   "SkillDesc_Skill_PECS_Dione_N_4": {
@@ -76,7 +76,7 @@
     "korean": "단일 대상에게 {0} 피해를 줍니다.&n적중 대상의 HP가 100%인 경우, 4라운드 동안 <상흔>을 남겨 <권속>을 만들 준비를 합니다.&n적중 대상이 이미 <권속>인 경우, 대상을 해방하고 자신 공격력에 비례한 피해를 줍니다.&n스킬 레벨 당 +10%의 적중 보정이 적용됩니다."
   },
   "SkillDesc_Skill_PECS_Draculina_N_3": {
-    "english": "At the start of the round, increases own Defense Penetration.&nWhen using Night of the Blood Queen, enters the <Satiated> state, increasing ATK and CRIT for 4 rounds (does not stack).&nIf not in the <Satiated> state at the start of the round, becomes Hungry and increases own AP.",
+    "english": "At the start of the round, increases own Defense Penetration.&nWhen using Night of the Blood Queen, enters the <Satiated> state, increasing ATK and CRIT for 4 rounds (Cannot stack).&nIf not in the <Satiated> state at the start of the round, becomes Hungry and increases own AP.",
     "korean": "라운드 개시 시, 자신의 방어 관통이 증가합니다. &n<피의 여왕의 밤> 사용 시, 자신은 <충만함> 상태가 되어 4라운드 동안 공격력 / 치명타가 증가합니다. (중첩 불가)&n라운드 개시 시 자신이 <충만함> 상태가 아닌 경우, 굶주려 자신의 AP가 증가합니다."
   },
   "SkillDesc_Skill_PECS_Draculina_N_4": {
@@ -120,7 +120,7 @@
     "korean": "단일 대상에게 {0} 냉기 속성 피해를 줍니다. 치명타 시, 피해량이 증가합니다. &n대상이 <침수> 상태일 경우, 행동 불가 상태로 만들고 받는 피해가 증가하는 <빙결> 상태를 2라운드 동안 부여합니다."
   },
   "SkillDesc_Skill_PECS_Empress_N_3": {
-    "english": "At the start of battle, gains the Damage Mitigation (2 times) effect.&nAt the start of the round, if this effect is active, ATK and CRIT increase with stacking for 3 rounds.&nIf the Damage Mitigation effect has expired, it is regained when waiting.",
+    "english": "At the start of battle, gains the Damage Mitigation (2x) effect.&nAt the start of the round, if this effect is active, ATK and CRIT increase with stacking for 3 rounds.&nIf the Damage Mitigation effect has expired, it is regained when waiting.",
     "korean": "전투 개시 시, 피해 최소화 (2회) 효과를 획득합니다.&n라운드 개시 시 해당 효과가 활성화 된 상태인 경우, 3라운드 동안 공격력과 치명타가 중첩하여 증가합니다.&n피해 최소화 효과가 소멸된 상태에서 대기 시, 피해 최소화 효과를 다시 획득합니다."
   },
   "SkillDesc_Skill_PECS_Empress_N_4": {
@@ -164,7 +164,7 @@
     "korean": "라운드 개시 시, 자신의 효과 저항이 증가합니다.&n대기 시, 동력원 교체를 통해 신체를 강화하여 전투 종료 시까지 자신은 다음 효과를 획득합니다.&n- 공격 적중 시, 받는 피해 감소 효과를 해제하고 피해량이 증가하지만 부하가 발생하여 자신 공격력에 비례한 물리 피해를 입습니다.&n- 자신에게 <숲의 노래> 효과 적용 시, 모든 효과가 두 배로 증폭됩니다."
   },
   "SkillDesc_Skill_PECS_Hathor_N_4": {
-    "english": "At the start of battle, gains the Battle Continuation effect.&nUpon enemy kill, additionally gains the above effect. (Maximum 1 stack)&nWhen hit, increases own ATK for 3 rounds.",
+    "english": "At the start of battle, gains the Battle Continuation effect.&nUpon enemy kill, additionally gains the above effect. (max 1 stacks)&nWhen hit, increases own ATK for 3 rounds.",
     "korean": "전투 개시 시, 자신은 전투 속행 효과를 획득합니다.&n적 처치 시, 상기 효과를 추가로 획득합니다. (최대 1중첩)&n피격 시, 3라운드 동안 자신의 공격력이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Hathor_N_5": {
@@ -180,11 +180,11 @@
     "korean": "단일 대상에게 {0} 보호 무시 전기 피해를 주고 전기 저항 증가 효과를 해제합니다.&n적중 시, 2라운드 동안 대상의 전기 저항을 감소시킵니다.&n대상이 이동 불가 상태인 경우, 피해량이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Hussar_N_3": {
-    "english": "At the start of the round, increases own EVA and Effect Resistance.&nCounters when attacked. Upon countering, applies \"Chiara!\" effect for 2 rounds. (Stacks up to 3 times.)&nOwn attacks deal more damage the lower the target's HP.",
+    "english": "At the start of the round, increases own EVA and Effect Resistance.&nCounters when attacked. Upon countering, applies \"Chiara!\" effect for 2 rounds. (max 3 stacks)&nOwn attacks deal more damage the lower the target's HP.",
     "korean": "라운드 개시 시, 자신의 회피 / 효과 저항이 증가합니다.&n공격 받을 시, 반격합니다. 반격 시, 2라운드 동안 <치아라!> 효과가 추가로 적용됩니다. (최대 3중첩)&n자신의 공격은 대상의 HP가 낮을 수록 피해량이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Hussar_N_4": {
-    "english": "At the start of the round, supports attacks from Air-Type units or allies affiliated with Orbital Watcher.&nWhen performing Follow-Up Attacks or Support Attacks, increases the ATK of affected allies for 3 rounds. (Stacks up to 10 times.)&nIf under Designated Protection at the start of the round, increases own skill power.",
+    "english": "At the start of the round, supports attacks from Air-Type units or allies affiliated with Orbital Watcher.&nWhen performing Follow-Up Attacks or Support Attacks, increases the ATK of affected allies for 3 rounds. (max 10 stacks)&nIf under Designated Protection at the start of the round, increases own skill power.",
     "korean": "라운드 개시 시, 기동형 또는 <오비탈 와쳐> 소속 전투원의 공격을 지원합니다.&n재공격 / 공격 지원 시, 3라운드 동안 상기 효과의 대상이 되는 아군의 공격력을 증가시킵니다. (최대 10중첩)&n라운드 개시 시 자신이 지정 보호를 받고 있을 경우, 자신의 스킬 위력이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Hussar_N_5": {
@@ -304,7 +304,7 @@
     "korean": "지정 대상에게 1:1 대화를 시도하여 {0} 피해를 줍니다.&n적중 대상이 방어력 / 행동력 감소 상태인 경우 각각 피해량이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Lumberjane_N_3": {
-    "english": "At the start of the round, permanently increases your attack power / defense penetration. (Up to 4 stacks)&nOn attack hit, increases your AP based on the number of \"Let’s Go All Out!\" stacks.",
+    "english": "At the start of the round, permanently increases your attack power / defense penetration. (max 4 stacks)&nOn attack hit, increases your AP based on the number of \"Let’s Go All Out!\" stacks.",
     "korean": "라운드 개시 시, 자신의 공격력 / 방어 관통이 영구적으로 증가합니다. (최대 4중첩)&n공격 적중 시, <화끈하게 가보자고!> 중첩 수에 비례하여 자신의 AP가 증가합니다."
   },
   "SkillDesc_Skill_PECS_Lumberjane_N_4": {
@@ -344,7 +344,7 @@
     "korean": "스킬 사용 시, 무기고를 전개하여 범위 내 아군 공격기의 AP를 증가시키고, 3라운드 동안 방어 관통을 증가시킵니다.&n스쿼드 내에 보호기가 없을 경우, 위치와 관계 없이 모든 중장형 아군에게 2라운드 동안 반격 효과를 부여합니다."
   },
   "SkillDesc_Skill_PECS_Merlin_N_3": {
-    "english": "At the start of the round, permanently increase the ATK power of allied attackers within range. (Up to 5 stacks)&nIf an allied attacker has 2 or more at the start of the round, reduce the damage taken by allied attackers within range.&nIf an allied attacker has 4 or more at the start of the round, increase the SPD of allied attackers within range.&nThe effect value is doubled for Heavy attackers.",
+    "english": "At the start of the round, permanently increase the ATK power of allied attackers within range. (max 5 stacks)&nIf an allied attacker has 2 or more at the start of the round, reduce the damage taken by allied attackers within range.&nIf an allied attacker has 4 or more at the start of the round, increase the SPD of allied attackers within range.&nThe effect value is doubled for Heavy attackers.",
     "korean": "라운드 개시 시, 범위 내 아군 공격기의 공격력을 영구적으로 증가시킵니다. (최대 5중첩)&n라운드 개시 시 아군 공격기가 2 이상인 경우, 범위 내 아군 공격기의 받는 피해를 감소시킵니다.&n라운드 개시 시 아군 공격기가 4 이상인 경우, 범위 내 아군 공격기의 행동력을 증가시킵니다.&n중장형 공격기는 효과 수치가 두 배로 증폭됩니다."
   },
   "SkillDesc_Skill_PECS_Merlin_N_4": {
@@ -384,7 +384,7 @@
     "korean": "마하의 속도로 목표에 돌격하여 {0} 보호 무시 피해를 주고, 그 충격파로 주변에는 25% 감소한 피해를 입힙니다.&n적중 시, 대상의 AP를 감소시킵니다. 대상이 전열에 위치한 경우 2라운드 동안 행동 불능 상태를 부여합니다."
   },
   "SkillDesc_Skill_PECS_MightyR_CH_3": {
-    "english": "At the start of the round, enter <Super Pump Up> state, increasing your ATK / SPD.&nAt the start of the round, increases allied Bioroids' ATK / SPD.&nOn a successful hit, further increases allied Bioroids' ATK / SPD for 2 rounds. (Max 1 stack)",
+    "english": "At the start of the round, enter <Super Pump Up> state, increasing your ATK / SPD.&nAt the start of the round, increases allied Bioroids' ATK / SPD.&nOn a successful hit, further increases allied Bioroids' ATK / SPD for 2 rounds. (max 1 stacks)",
     "korean": "라운드 개시 시, <초 펌핑 업> 상태가 되어 자신의 공격력 / 행동력이 증가합니다.&n라운드 개시 시, 아군 바이오로이드의 공격력 / 행동력을 증가시킵니다.&n공격 적중 시, 2라운드 동안 아군 바이오로이드의 공격력 / 행동력을 추가로 증가시킵니다. (최대 1중첩)"
   },
   "SkillDesc_Skill_PECS_MightyR_CH_4": {
@@ -416,7 +416,7 @@
     "korean": "라운드 개시 시, 자신의 효과 저항이 증가합니다.&n라운드 개시 시, 자신에게 공격 지원 효과가 적용된 경우 <퍼스널 트레이너>의 방어 관통 / 방어력 증가 효과를 50% 증폭시킵니다.&n자신에게 적용된 공격 지원 효과는 발동하지 않습니다.&n<벌크 업> / <퍼스널 트레이너> 효과가 아군 AGS에도 영향을 미칩니다."
   },
   "SkillDesc_Skill_PECS_Nidhogg_N_1": {
-    "english": "Charges forward with blades drawn, dealing {0} damage to a single target. Ignores Protect.&nOn hit, reduces the target's skill power for 3 rounds and increases the user's skill power. (Does not stack)&nOn a CRIT, gains 1 stack of <Toxic Substance>.&nIf the target is under the effect of <Burst of Resentful Malice>, damage is increased.",
+    "english": "Charges forward with blades drawn, dealing {0} damage to a single target. Ignores Protect.&nOn hit, reduces the target's skill power for 3 rounds and increases the user's skill power. (Cannot stack)&nOn a CRIT, gains 1 stack of <Toxic Substance>.&nIf the target is under the effect of <Burst of Resentful Malice>, damage is increased.",
     "korean": "칼날을 세우고 돌진하여 단일 대상에게 {0} 보호 무시 피해를 줍니다.&n적중 시, 3라운드 동안 대상의 스킬 위력을 감소시키고 자신의 스킬 위력이 증가합니다. (중첩 불가)&n치명타 시, <유독 물질>을 1중첩 획득합니다.&n적중 대상이 <사무친 악의의 분출>에 의한 효과가 적용 중인 경우, 피해량이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Nidhogg_N_2": {
@@ -444,7 +444,7 @@
     "korean": "화려한 움직임으로 바늘을 춤추게하여 대상에게 {0} 피해를 줍니다.&n적중 대상의 <바늘땀> 중첩이 2 이상일 경우, 대상의 강화 효과를 해제합니다.&n적중 시, 자신에게 적용된 <실밥> 중첩 수에 따라 피해량이 증가합니다. (최대 5중첩)&n스킬을 사용한 다음 2라운드 동안 아군 전체의 행동력을 증가시킵니다."
   },
   "SkillDesc_Skill_PECS_Olivia_N_3": {
-    "english": "Upon follow-up attack / Attack Support, increases own ATK for 2 rounds. (Up to 2 stacks)&nAt the start of the round, increases own Maximum Action Count.&nIf there is only 1 enemy unit at the start of the round and Taylor is present, enter <Thimble> state, reducing the skill power of <Basting Stitch> and increasing the skill power of <Papillon Stitch>.",
+    "english": "Upon follow-up attack / Attack Support, increases own ATK for 2 rounds. (max 2 stacks)&nAt the start of the round, increases own Maximum Action Count.&nIf there is only 1 enemy unit at the start of the round and Taylor is present, enter <Thimble> state, reducing the skill power of <Basting Stitch> and increasing the skill power of <Papillon Stitch>.",
     "korean": "재공격 / 지원 공격 시, 2라운드 동안 자신의 공격력이 증가합니다. (최대 2중첩)&n라운드 개시 시, 자신의 최대 행동 횟수가 증가합니다. &n라운드 개시 시 적 개체 수가 1이고 테일러가 있을 경우, <골무>를 준비하여 <시침질>의 스킬 위력이 감소하고 <파피용 스티치>의 스킬 위력이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Olivia_N_4": {
@@ -452,7 +452,7 @@
     "korean": "라운드 개시 시, 아군 지원기의 공격을 지원하고 AP를 증가시킵니다.&n상기 효과가 적용된 아군이 있을 경우, 자신은 자신에 의한 효과 외의 공격 지원을 발동시킬 수 없습니다.&n자신 외의 <PECS> 의상 디자이너에 의한 효과가 자신에게 적용될 경우, 일부 효과가 증폭됩니다."
   },
   "SkillDesc_Skill_PECS_Olivia_N_5": {
-    "english": "At the start of the round, increases own ATK / Maximum Action Count.&nIf there are 3 or fewer enemy units, the effects of the user’s active skills are doubled.&nUpon follow-up / Attack Support, reduces ACU / EVA of enemies affected by the active skill of a <PECS> Designer for 2 rounds. (Up to 5 stacks)",
+    "english": "At the start of the round, increases own ATK / Maximum Action Count.&nIf there are 3 or fewer enemy units, the effects of the user’s active skills are doubled.&nUpon follow-up / Attack Support, reduces ACU / EVA of enemies affected by the active skill of a <PECS> Designer for 2 rounds. (max 5 stacks)",
     "korean": "라운드 개시 시, 자신의 공격력 / 최대 행동 횟수가 증가합니다.&n적 개체 수가 3 이하일 경우, 자신의 액티브 스킬 효과가 두 배로 증폭됩니다.&n재공격 / 지원 공격 시, 2라운드 동안 <PECS> 의상 디자이너의 액티브 스킬 효과를 받는 적의 적중 / 회피를 감소시킵니다. (최대 5중첩)"
   },
   "SkillDesc_Skill_PECS_Orangeade_N_1": {
@@ -604,7 +604,7 @@
     "korean": "양손으로 각각 MGL을 쥐고 지정 범위 내 적에게 열압력탄을 난사하여 보호 무시 {0} 화염 피해를 줍니다. 치명타 시, 피해량이 증가합니다.&n적중 여부에 관계없이 2라운드 동안 대상의 회피를 감소시키고, 적중 시 추가로 대상의 공격력을 감소시킵니다.&n스쿼드 내에 <징벌의 사디어스>가 있을 시, 지정 대상에게 <일렉트릭 펜스> 스킬 협동 공격을 합니다."
   },
   "SkillDesc_Skill_PECS_Sonia_N_3": {
-    "english": "When an enemy dies, grants ATK increase to allies within range for 3 rounds. Gains double the ATK increase effect for self (up to 3 stacks).&nAt the end of the wave, grants <Reconnaissance> to allies within range.&nAt the start of the round, grants ACU / CRIT increase for 1 round to allies within range who are under <Reconnaissance>.",
+    "english": "When an enemy dies, grants ATK increase to allies within range for 3 rounds. Gains double the ATK increase effect for self (max 3 stacks).&nAt the end of the wave, grants <Reconnaissance> to allies within range.&nAt the start of the round, grants ACU / CRIT increase for 1 round to allies within range who are under <Reconnaissance>.",
     "korean": "적 사망 시, 범위 내 아군에게 3라운드 동안 공격력 증가 효과를 부여합니다. 자신은 공격력 증가 효과가 두 배로 증가합니다. (최대 3중첩)&n웨이브 종료 시, 범위 내 아군에게 <정찰> 효과를 부여합니다.&n라운드 개시 시, <정찰> 상태인 범위 내 아군에게 1라운드 동안 적중 / 치명타 증가 효과를 부여합니다."
   },
   "SkillDesc_Skill_PECS_Sonia_N_4": {
@@ -672,7 +672,7 @@
     "korean": "라운드 개시 시, 자신은 회피 비례 스킬 위력 증가 효과를 획득합니다.&n<네이팜 버너> 사용 시, 초가속하여 3라운드 동안 방어막 / 피해 감소 무시 효과를 획득합니다.&n<초가속> 상태에서 적 처치 시, 사용한 AP의 50%를 돌려받습니다."
   },
   "SkillDesc_Skill_PECS_TaylorClothcut_N_1": {
-    "english": "Slice through the Iron Bug to deal {0} damage and reduce the target’s DEF for 2 rounds.&nOn CRIT, inflict Physical DoT for 2 rounds and double the DEF reduction effect. (Does not stack)&nApplies additional effects based on the current <Decadent Aesthetic> state.",
+    "english": "Slice through the Iron Bug to deal {0} damage and reduce the target’s DEF for 2 rounds.&nOn CRIT, inflict Physical DoT for 2 rounds and double the DEF reduction effect. (Cannot stack)&nApplies additional effects based on the current <Decadent Aesthetic> state.",
     "korean": "철충을 재단해 {0} 피해를 주고, 2라운드 동안 대상의 방어력을 감소시킵니다.&n치명타 시, 2라운드 동안 대상에게 지속 물리 피해를 입히고 방어력 감소 효과가 두 배로 증폭됩니다. (중첩 불가)&n현재 적용 중인 <탐미주의> 상태에 따라 추가 효과를 적용합니다."
   },
   "SkillDesc_Skill_PECS_TaylorClothcut_N_2": {
@@ -700,7 +700,7 @@
     "korean": "정권지르기로 {0} 방어 관통 피해를 줍니다. 대상이 전열에 가까울 수록 피해량이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Tiequan_N_3": {
-    "english": "At the start of the round, increases the user's ATK / ACU.&nEach time the user attacks an enemy, defeats an enemy, or is attacked, they permanently gain an additional 50% of the above ATK / ACU buff. (Up to 3 stacks for each condition)&nWhen attacking an enemy, the user's AP increases. On a CRIT, the user additionally gains AP equal to 50% of the above amount.&nAP gain scales with each active skill's level.",
+    "english": "At the start of the round, increases the user's ATK / ACU.&nEach time the user attacks an enemy, defeats an enemy, or is attacked, they permanently gain an additional 50% of the above ATK / ACU buff. (up to 3 stacks each)&nWhen attacking an enemy, the user's AP increases. On a CRIT, the user additionally gains AP equal to 50% of the above amount.&nAP gain scales with each active skill's level.",
     "korean": "라운드 개시 시, 자신의 공격력 / 적중이 증가합니다.&n적 공격 시, 적 처치 시, 공격 당할 시마다 해당 수치의 50% 만큼의 공격력 / 적중 증가 효과를 영구 획득합니다. (각 최대 3중첩)&n적 공격 시, 자신의 AP가 증가합니다. 치명타 시, 추가로 해당 수치의 50% 만큼 자신의 AP가 증가합니다. &nAP 증가 효과는 각 액티브 스킬 레벨에 비례합니다."
   },
   "SkillDesc_Skill_PECS_Tiequan_N_4": {
@@ -1152,19 +1152,19 @@
     "korean": "스탬피드"
   },
   "SkillName_Skill_3P_Ajax_N_2": {
-    "english": "Irresistible Force",
+    "english": "Hammer and Anvil",
     "korean": "기각지세"
   },
   "SkillName_Skill_3P_Ajax_N_3": {
-    "english": "Bridle Handling",
+    "english": "Rein Handling",
     "korean": "고삐 다루기"
   },
   "SkillName_Skill_3P_Ajax_N_4": {
-    "english": "Bound Duty",
+    "english": "Given duty",
     "korean": "주어진 의무"
   },
   "SkillName_Skill_3P_Ajax_N_5": {
-    "english": "Strength in Numbers",
+    "english": "Strength of Unity",
     "korean": "뭉치면 산다"
   },
   "SkillName_Skill_3P_Alcyone_N_1": {
@@ -1172,7 +1172,7 @@
     "korean": "스키터링 브리니클"
   },
   "SkillName_Skill_3P_Alcyone_N_2": {
-    "english": "Weigh Anchor!",
+    "english": "Raise the anchor!",
     "korean": "닻을 올려라!"
   },
   "SkillName_Skill_3P_Alcyone_N_3": {
@@ -1192,7 +1192,7 @@
     "korean": "찌르는 강철"
   },
   "SkillName_Skill_3P_Alice_N_2": {
-    "english": "Rain of Steel",
+    "english": "Steel Rain",
     "korean": "강철의 비"
   },
   "SkillName_Skill_3P_Alice_N_3": {
@@ -1224,7 +1224,7 @@
     "korean": "지휘 전파"
   },
   "SkillName_Skill_3P_Amphitrite_N_5": {
-    "english": "Radar Lock",
+    "english": "Radar Detection",
     "korean": "레이더 포착"
   },
   "SkillName_Skill_3P_Aurora_N_1": {
@@ -1232,7 +1232,7 @@
     "korean": "밑준비"
   },
   "SkillName_Skill_3P_Aurora_N_2": {
-    "english": "Finishing Touch Dessert",
+    "english": "Best Piece of Dessert",
     "korean": "회심의 디저트"
   },
   "SkillName_Skill_3P_Aurora_N_3": {
@@ -3744,7 +3744,7 @@
     "korean": "◆1 회피 증가"
   },
   "SkillName_Skill_ExtPassiveSkill_N_1106": {
-    "english": "◆1 SPD Increase",
+    "english": "◆1 Increase SPD",
     "korean": "◆1 행동력 증가"
   },
   "SkillName_Skill_ExtPassiveSkill_N_1107": {

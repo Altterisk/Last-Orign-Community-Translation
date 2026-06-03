@@ -28,7 +28,7 @@
     "korean": "칙 보호 개시 : 지정 대상 보호 / AP 증가"
   },
   "1000102008": {
-    "english": "Chic Defense Formation: Damage Reduction / Elemental Resist Increase",
+    "english": "Chic Defense Formation: DMG Reduction / Elemental Resist Increase",
     "korean": "칙 방어 대형 : 받는 피해 감소 / 속성 저항 증가"
   },
   "1000102009": {
@@ -68,7 +68,7 @@
     "korean": "히트 머신건 : 화염 저항 감소 / 치명타 시, 피해 감소 해제"
   },
   "1000102018": {
-    "english": "Self-Destruct Initiate: Ignore Barrier / Damage Reduction",
+    "english": "Self-Destruct Initiate: Ignore Barrier / DMG Reduction",
     "korean": "자폭 개시 : 방어막 / 피해 감소 무시"
   },
   "1000102019": {
@@ -420,7 +420,7 @@
     "korean": "에너지 추출(받는 피해)"
   },
   "1000102106": {
-    "english": "Energy Extraction (DEF Reduction)",
+    "english": "Energy Extraction (DEF Decrease)",
     "korean": "에너지 추출(방어력 감소)"
   },
   "1000102107": {
@@ -516,7 +516,7 @@
     "korean": "최후의 힘(방)"
   },
   "1000102130": {
-    "english": "Final Power (ACU)",
+    "english": "Final Power (ACC)",
     "korean": "최후의 힘(적중)"
   },
   "1000102131": {
@@ -524,7 +524,7 @@
     "korean": "최후의 힘(관통)"
   },
   "1000102132": {
-    "english": "Final Power (Attribute Resistance)",
+    "english": "Final Power (Elemental Resist)",
     "korean": "최후의 힘(속성 저항)"
   },
   "1000102133": {
@@ -532,7 +532,7 @@
     "korean": "불멸의 대가"
   },
   "1000102134": {
-    "english": "Final Power (Temporary Invulnerability)",
+    "english": "Final Power (Temporary Invincibility)",
     "korean": "최후의 힘(일시 무적)"
   },
   "1000102135": {
@@ -644,7 +644,7 @@
     "korean": "포식 : 방어력 증가"
   },
   "1000102162": {
-    "english": "Embrace of the Serpent: Damage Reduction",
+    "english": "Embrace of the Serpent: DMG Reduction",
     "korean": "뱀의 포옹 : 받는 피해 감소"
   },
   "1000102163": {
@@ -696,7 +696,7 @@
     "korean": "잔해 재활용 : 적이 처치되면 공격력 / 방어력 / 경험치 증가"
   },
   "1000102175": {
-    "english": "Steel Line Formation: Damage Reduction",
+    "english": "Steel Line Formation: DMG Reduction",
     "korean": "스틸라인 포메이션 : 받는 피해 감소"
   },
   "1000102176": {
@@ -780,7 +780,7 @@
     "korean": "손 빌려주기 : 적 HP% 낮을수록 피해량 증가"
   },
   "1000102196": {
-    "english": "Precision Sniping: Ignore Barrier / Damage Reduction",
+    "english": "Precision Sniping: Ignore Barrier / DMG Reduction",
     "korean": "정밀 저격 : 방어막 / 피해 감소 무시"
   },
   "1000102197": {
@@ -864,7 +864,7 @@
     "korean": "정체 불명의 발명품 : 행동력 증가"
   },
   "1000102217": {
-    "english": "Mysterious Invention: Damage Reduction",
+    "english": "Mysterious Invention: DMG Reduction",
     "korean": "정체 불명의 발명품 : 받는 피해 감소"
   },
   "1000102218": {
@@ -900,7 +900,7 @@
     "korean": "강화 빙결 코팅 : 방어력 대폭 증가"
   },
   "1000102226": {
-    "english": "Shatter Shell Shot: Ignore Barrier / Damage Reduction",
+    "english": "Shatter Shell Shot: Ignore Barrier / DMG Reduction",
     "korean": "파쇄탄 발사 : 방어막 / 피해 감소 무시"
   },
   "1000102227": {
@@ -972,7 +972,7 @@
     "korean": "저격 목표 포착 : 표식 / 받는 피해 증가 / 회피 감소"
   },
   "1000102244": {
-    "english": "Snowfield Ambush: EVA Increase / Damage Reduction",
+    "english": "Snowfield Ambush: EVA Increase / DMG Reduction",
     "korean": "설원 매복 : 회피 증가 / 받는 피해 감소"
   },
   "1000102245": {
@@ -980,7 +980,7 @@
     "korean": "역공 : 회피 시, 반격 / 치명타 증가"
   },
   "1000102246": {
-    "english": "Weak Point Snipe: Ignore Barrier / Damage Reduction",
+    "english": "Weak Point Snipe: Ignore Barrier / DMG Reduction",
     "korean": "약점 저격 : 방어막 / 피해 감소 무시"
   },
   "1000102247": {
@@ -1176,7 +1176,7 @@
     "korean": "회심의 일격 : 피해량 증가"
   },
   "1000102295": {
-    "english": "Generator Activation: DEF Penetration Increase / Ignore Barrier / Damage Reduction",
+    "english": "Generator Activation: DEF Penetration Increase / Ignore Barrier / DMG Reduction",
     "korean": "제네레이터 활성화 : 방어 관통 증가 / 방어막 피해 감소 무시"
   },
   "1000102296": {
@@ -1184,7 +1184,7 @@
     "korean": "나를 따르라! :점화 효과"
   },
   "1000102297": {
-    "english": "Masochism: Damage Reduction / Battle Continuation",
+    "english": "Masochism: DMG Reduction / Battle Continuation",
     "korean": "피학성향 : 받는 피해 감소 / 전투 속행 효과"
   },
   "1000102298": {
@@ -1244,7 +1244,7 @@
     "korean": "공격 견제 : 공격력 / 치명타 / 행동력 감소"
   },
   "1000102312": {
-    "english": "Shape Memory Skirt: Barrier / Damage Reduction",
+    "english": "Shape Memory Skirt: Barrier / DMG Reduction",
     "korean": "형상기억 스커트 : 방어막 / 받는 피해 감소"
   },
   "1000102313": {
@@ -1252,7 +1252,7 @@
     "korean": "준비물 확인 : 공격력 / 치명타 / 적중 / 행동력 증가"
   },
   "1000102314": {
-    "english": "Shape Memory Skirt: Damage Reduction",
+    "english": "Shape Memory Skirt: DMG Reduction",
     "korean": "형상기억 스커트 : 받는 피해 감소"
   },
   "1000102315": {
@@ -1392,7 +1392,7 @@
     "korean": "관측 데이터 수신 : 치명타 / 적중 증가."
   },
   "1000102349": {
-    "english": "Space Combat Armor: DEF Increase / All Resist Increase / Damage Reduction",
+    "english": "Space Combat Armor: DEF Increase / All Resist Increase / DMG Reduction",
     "korean": "우주용 컴뱃 아머 : 방어력 / 모든 저항 증가 / 받는 피해 감소"
   },
   "1000102350": {
@@ -1528,7 +1528,7 @@
     "korean": "공격 명령"
   },
   "1000102383": {
-    "english": "Attack Command: Ignore Barrier / Damage Reduction / DEF Penetration",
+    "english": "Attack Command: Ignore Barrier / DMG Reduction / DEF Penetration",
     "korean": "공격 명령 : 방어막 무시 / 피해 감소 무시 / 방어 관통"
   },
   "1000102384": {
@@ -1536,7 +1536,7 @@
     "korean": "칙 복원 시스템 오류 : 전투 속행 해제 / 효과 저항 해제"
   },
   "1000102385": {
-    "english": "Chik Full Upgrade: DEF / Ignore Barrier / Damage Reduction",
+    "english": "Chik Full Upgrade: DEF / Ignore Barrier / DMG Reduction",
     "korean": "칙 풀 업그레이드 : 방어력 / 방어막 / 피해 감소 무시"
   },
   "1000102386": {
@@ -1548,7 +1548,7 @@
     "korean": "카운티 가드 : 방어막 (자신) / 공격력 / 행동력 증가. 지정 대상 보호"
   },
   "1000102388": {
-    "english": "Bold Drift: Column Protect / EVA Increase / Status Resist Increase / Damage Reduction",
+    "english": "Bold Drift: Column Protect / EVA Increase / Status Resist Increase / DMG Reduction",
     "korean": "과감한 드리프트 : 열 보호 / 회피 / 효과 저항 증가 / 받는 피해 감소"
   },
   "1000102389": {
@@ -1600,7 +1600,7 @@
     "korean": "숙련된 철거 기술 : 적 처치 시, AP 증가"
   },
   "1000102401": {
-    "english": "Demolition Preparation: Damage Reduction / Status Resist Increase",
+    "english": "Demolition Preparation: DMG Reduction / Status Resist Increase",
     "korean": "철거 준비 : 받는 피해 감소 / 효과 저항 증가"
   },
   "1000102402": {
@@ -1612,7 +1612,7 @@
     "korean": "전사의 창 : 치명타 시, 받는 피해 증가"
   },
   "1000102404": {
-    "english": "Howitzer Bombardment: Ignore Barrier / Damage Reduction",
+    "english": "Howitzer Bombardment: Ignore Barrier / DMG Reduction",
     "korean": "곡사 포격 : 방어막 / 피해 감소 무시"
   },
   "1000102405": {
@@ -1756,7 +1756,7 @@
     "korean": "슈퍼 이터널 빔! : 공격력 / 치명타 강화 효과 해제"
   },
   "1000102440": {
-    "english": "Super Lucky Hit: DEF / Ignore Barrier / Damage Reduction",
+    "english": "Super Lucky Hit: DEF / Ignore Barrier / DMG Reduction",
     "korean": "슈퍼 럭키 히트! : 방어력 / 방어막 / 피해 감소 무시"
   },
   "1000102441": {
@@ -1780,7 +1780,7 @@
     "korean": "충격 폭발 : 받는 피해 증가"
   },
   "1000102446": {
-    "english": "Precision Mortar: Damage Reduction Removal",
+    "english": "Precision Mortar: DMG Reduction Removal",
     "korean": "정밀 박격포 : 받는 피해 감소 효과 해제"
   },
   "1000102447": {
@@ -1924,7 +1924,7 @@
     "korean": "탄막 사격 : 공격력 / 행동력 증가"
   },
   "1000102482": {
-    "english": "Barrage: EVA Increase / Damage Reduction Removal",
+    "english": "Barrage: EVA Increase / DMG Reduction Removal",
     "korean": "탄막 사격 : 회피 증가 / 받는 피해 감소 해제"
   },
   "1000102483": {
@@ -2020,7 +2020,7 @@
     "korean": "리액터 폭발 : {0}% 물리 피해"
   },
   "1000102506": {
-    "english": "Damage Reduction {0}%",
+    "english": "DMG Reduction {0}%",
     "korean": "받는 피해 감소 {0}%"
   },
   "1000102507": {
@@ -2168,7 +2168,7 @@
     "korean": "민감한 눈 : 치명타{0}%"
   },
   "1000102543": {
-    "english": "Alert Mode: Damage Reduction {0}%",
+    "english": "Alert Mode: DMG Reduction {0}%",
     "korean": "경계 모드 : 받는 피해 감소 {0}%"
   },
   "1000102544": {
@@ -2264,7 +2264,7 @@
     "korean": "다리! : 행동력 {0}%"
   },
   "1000102567": {
-    "english": "Large Shield Deployment: Damage Reduction {0}%",
+    "english": "Large Shield Deployment: DMG Reduction {0}%",
     "korean": "대형 방패 전개 : 받는 피해 감소 {0}%"
   },
   "1000102568": {
@@ -2328,7 +2328,7 @@
     "korean": "호위 지정 : 지정 대상 보호"
   },
   "1000102583": {
-    "english": "Flexibility: Damage Reduction {0}%",
+    "english": "Flexibility: DMG Reduction {0}%",
     "korean": "유연성 : 받는 피해 감소 {0}%"
   },
   "1000102584": {
@@ -2352,7 +2352,7 @@
     "korean": "보호 기동 : 지정 대상 보호"
   },
   "1000102589": {
-    "english": "Defensive Maneuver: Damage Reduction {0}%",
+    "english": "Defensive Maneuver: DMG Reduction {0}%",
     "korean": "방어 기동 : 받는 피해 감소 {0}%"
   },
   "1000102590": {
@@ -2392,7 +2392,7 @@
     "korean": "사냥 개시 : 공격력{0}%"
   },
   "1000102599": {
-    "english": "Suppressive Barrage: Ignore Barrier / Damage Reduction",
+    "english": "Suppressive Barrage: Ignore Barrier / DMG Reduction",
     "korean": "제압 포격 : 방어막 / 피해 감소 무시"
   },
   "1000102600": {
@@ -2604,7 +2604,7 @@
     "korean": "공격 지휘 : 공격력{0}%"
   },
   "1000102652": {
-    "english": "Attack Command (Defense): Damage Reduction {0}%",
+    "english": "Attack Command (Defense): DMG Reduction {0}%",
     "korean": "공격 지휘 (방어) : 받는 피해 감소 {0}%"
   },
   "1000102653": {
@@ -2720,7 +2720,7 @@
     "korean": "장갑 전개 모드 : 지정 대상 보호 (경장/중장)"
   },
   "1000102681": {
-    "english": "Reactive Armor: Damage Reduction {0}%",
+    "english": "Reactive Armor: DMG Reduction {0}%",
     "korean": "반응 장갑 : 받는 피해 감소 {0}%"
   },
   "1000102682": {
@@ -2728,7 +2728,7 @@
     "korean": "마무리 공격 : 방어 관통 {0}%"
   },
   "1000102683": {
-    "english": "Reinforced Shield: Damage Reduction {0}%",
+    "english": "Reinforced Shield: DMG Reduction {0}%",
     "korean": "강화 방패 : 받는 피해 감소 {0}%"
   },
   "1000102684": {
@@ -2744,7 +2744,7 @@
     "korean": "대공 사격 : 대 기동형 피해량{0}%"
   },
   "1000102687": {
-    "english": "Civilian Escort: Damage Reduction {0}%",
+    "english": "Civilian Escort: DMG Reduction {0}%",
     "korean": "시민 호위 : 받는 피해 감소 {0}%"
   },
   "1000102688": {
@@ -2860,7 +2860,7 @@
     "korean": "현장 보급 : AP{0}"
   },
   "1000102716": {
-    "english": "Crouch: Damage Reduction {0}%",
+    "english": "Crouch: DMG Reduction {0}%",
     "korean": "웅크리기 : 받는 피해 감소 {0}%"
   },
   "1000102717": {
@@ -2948,7 +2948,7 @@
     "korean": "잔해 부착 : 방어력{0}%"
   },
   "1000102738": {
-    "english": "Magnetic Field: Damage Reduction {0}%",
+    "english": "Magnetic Field: DMG Reduction {0}%",
     "korean": "마그넷 필드 : 받는 피해 감소 {0}%"
   },
   "1000102739": {
@@ -2976,7 +2976,7 @@
     "korean": "택배 왔나? : AP{0} (바이오)"
   },
   "1000102745": {
-    "english": "Workaholic: Damage Reduction {0}%",
+    "english": "Workaholic: DMG Reduction {0}%",
     "korean": "워커 홀릭 : 받는 피해 감소 {0}%"
   },
   "1000102746": {
@@ -3040,7 +3040,7 @@
     "korean": "불굴의 의지 : 전투 불능 시, {0}HP로 전투 속행"
   },
   "1000102761": {
-    "english": "Not Getting Through!: Damage Reduction {0}%",
+    "english": "Not Getting Through!: DMG Reduction {0}%",
     "korean": "안 통해요! : 받는 피해 감소 {0}%"
   },
   "1000102762": {
@@ -3084,7 +3084,7 @@
     "korean": "전의 고양 : 행동력{0}%"
   },
   "1000102772": {
-    "english": "Critical Strike: Ignore Barrier / Damage Reduction",
+    "english": "Critical Strike: Ignore Barrier / DMG Reduction",
     "korean": "회심의 일격 : 방어막 / 피해 감소 무시"
   },
   "1000102773": {
@@ -3208,7 +3208,7 @@
     "korean": "공격 포메이션 : AP{0}"
   },
   "1000102803": {
-    "english": "Perimeter Alert: Damage Reduction {0}%",
+    "english": "Perimeter Alert: DMG Reduction {0}%",
     "korean": "사주 경계 : 받는 피해 감소 {0}%"
   },
   "1000102804": {
@@ -3228,7 +3228,7 @@
     "korean": "부대 재 정비 : 행동력{0}%"
   },
   "1000102808": {
-    "english": "Tight Formation: Damage Reduction {0}%",
+    "english": "Tight Formation: DMG Reduction {0}%",
     "korean": "밀집 대형 : 받는 피해 감소 {0}%"
   },
   "1000102809": {
@@ -3240,11 +3240,11 @@
     "korean": "호위 기동 : 지정 대상 보호"
   },
   "1000102811": {
-    "english": "Defense Maneuver: Damage Reduction {0}%",
+    "english": "Defense Maneuver: DMG Reduction {0}%",
     "korean": "경계 기동 : 받는 피해 감소 {0}%"
   },
   "1000102812": {
-    "english": "High-Explosive Shock Round: Ignore Barrier / Damage Reduction",
+    "english": "High-Explosive Shock Round: Ignore Barrier / DMG Reduction",
     "korean": "고폭 충격탄 : 방어막 / 피해 감소 무시"
   },
   "1000102813": {
@@ -3252,7 +3252,7 @@
     "korean": "목표 호위 : 지정 대상 보호"
   },
   "1000102814": {
-    "english": "Escort Target: Damage Reduction {0}%",
+    "english": "Escort Target: DMG Reduction {0}%",
     "korean": "목표 호위 : 받는 피해 감소 {0}%"
   },
   "1000102815": {
@@ -3276,7 +3276,7 @@
     "korean": "특수 합금 : 방어력{0}%"
   },
   "1000102820": {
-    "english": "Ignore Barrier / Damage Reduction",
+    "english": "Ignore Barrier / DMG Reduction",
     "korean": "방어막 / 피해 감소 효과 무시"
   },
   "1000102821": {
@@ -3472,19 +3472,19 @@
     "korean": "관측 장비 : 사거리{0}"
   },
   "1000102869": {
-    "english": "Spatial Armor: Damage Reduction {0}% (1x)",
+    "english": "Spatial Armor: DMG Reduction {0}% (1x)",
     "korean": "공간 장갑 : 받는 피해 감소 {0}% (1회)"
   },
   "1000102870": {
-    "english": "Spatial Armor: Damage Reduction {0}% (2x)",
+    "english": "Spatial Armor: DMG Reduction {0}% (2x)",
     "korean": "공간 장갑 : 받는 피해 감소 {0}% (2회)"
   },
   "1000102871": {
-    "english": "Spatial Armor: Damage Reduction {0}% (3x)",
+    "english": "Spatial Armor: DMG Reduction {0}% (3x)",
     "korean": "공간 장갑 : 받는 피해 감소 {0}% (3회)"
   },
   "1000102872": {
-    "english": "Spatial Armor: Damage Reduction {0}% (4x)",
+    "english": "Spatial Armor: DMG Reduction {0}% (4x)",
     "korean": "공간 장갑 : 받는 피해 감소 {0}% (4회)"
   },
   "1000102873": {
@@ -3752,7 +3752,7 @@
     "korean": "용살자의 징표 : 효과 발동{0}%"
   },
   "1000102939": {
-    "english": "Defense Command: Damage Reduction {0}%",
+    "english": "Defense Command: DMG Reduction {0}%",
     "korean": "방어 지휘 : 받는 피해 감소 {0}%"
   },
   "1000102940": {
@@ -3792,7 +3792,7 @@
     "korean": "급속 기동 : 회피{0}%"
   },
   "1000102949": {
-    "english": "Chaff Missile: Damage Reduction {0}%",
+    "english": "Chaff Missile: DMG Reduction {0}%",
     "korean": "채프 미사일 : 받는 피해 감소 {0}%"
   },
   "1000102950": {
@@ -3828,7 +3828,7 @@
     "korean": "피해 감소 효과 무효"
   },
   "1000102958": {
-    "english": "Survival Instinct: Damage Reduction {0}%",
+    "english": "Survival Instinct: DMG Reduction {0}%",
     "korean": "생존 본능 : 받는 피해 감소 {0}%"
   },
   "1000102959": {
@@ -3872,7 +3872,7 @@
     "korean": "곡예 비행 : 회피{0}%"
   },
   "1000102969": {
-    "english": "Aerobatics: Damage Reduction {0}%",
+    "english": "Aerobatics: DMG Reduction {0}%",
     "korean": "곡예 비행 : 받는 피해 감소 {0}%"
   },
   "1000102970": {
@@ -3884,7 +3884,7 @@
     "korean": "레이더 재밍 : 적중 강화 해제"
   },
   "1000102972": {
-    "english": "Hell’s Sentinel: Damage Reduction {0}%",
+    "english": "Hell’s Sentinel: DMG Reduction {0}%",
     "korean": "지옥의 파수꾼 : 받는 피해 감소 {0}%"
   },
   "1000102973": {
@@ -3976,7 +3976,7 @@
     "korean": "제네레이터 파괴 : 강화 효과 해제"
   },
   "1000102995": {
-    "english": "Masochism: Damage Reduction {0}%",
+    "english": "Masochism: DMG Reduction {0}%",
     "korean": "피학성향 : 받는 피해 감소 {0}%"
   },
   "1000102996": {

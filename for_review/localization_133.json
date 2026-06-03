@@ -388,7 +388,7 @@
     "korean": "목표 지점 {0} 피해. 표식 / 받는 피해 증가 / 회피 감소"
   },
   "1002706483": {
-    "english": "Target area {0} damage ignoring protection. Applies SPD reduction (self / unremovable)",
+    "english": "Target area {0} damage ignoring protection. Applies SPD reduction (Self/Unremovable)",
     "korean": "목표 지점 {0} 보호 무시 피해. 행동력 감소 (자신 / 해제 불가)"
   },
   "1002706484": {
@@ -472,7 +472,7 @@
     "korean": "단일 대상 {0} 피해. 기동형 / 치명타 시, 피해량 증가"
   },
   "1002706504": {
-    "english": "Increased damage to Air-type enemies. On hit: ATK / ACU / EVA (removed when hit)",
+    "english": "Increased damage to Air-type enemies. On hit: ATK / ACU / EVA (When Hit)",
     "korean": "대 기동형 피해량 증가. 공격 적중 시, 공격력 / 적중 / 회피 증가 (피격 시 해제)"
   },
   "1002706505": {
@@ -592,7 +592,7 @@
     "korean": "전열에 가까울수록 행동력 / 회피 증가. 후열에 가까울수록 적중 증가"
   },
   "1002706534": {
-    "english": "Battle Continuation (1 time). Reduces incoming damage, increases SPD / Fire Resistance / Cold Resistance",
+    "english": "Battle Continuation (1x). Reduces incoming damage, increases SPD / Fire Resistance / Cold Resistance",
     "korean": "전투 속행 (1회). 받는 피해 감소, 행동력/화염저항/냉기저항 증가"
   },
   "1002706535": {
@@ -736,11 +736,11 @@
     "korean": "지정 범위 {0} 피해. 공격력 / 적중 / 치명타 감소 / 피해 증폭"
   },
   "1002706570": {
-    "english": "Single target {0} damage. Provoke / AP decrease. On critical hit, damage increases. When using a skill, Reduce Damage Taken (self)",
+    "english": "Single target {0} damage. Provoke / AP decrease. On critical hit, damage increases. When using a skill, Reduce Damage Taken (Self)",
     "korean": "단일 대상 {0} 피해. 도발 / AP 감소. 치명타 시, 피해량 증가. 스킬 사용 시, 받는 피해 감소 (자신)"
   },
   "1002706571": {
-    "english": "Fire protection / DEF increase (self). At the start of battle, increases AP for self and allies on the same column. When hit, Effect Resistance increases (self)",
+    "english": "Fire protection / DEF increase (Self). At the start of battle, increases AP for self and allies on the same column. When hit, Effect Resistance increases (Self)",
     "korean": "열 보호 / 방어력 증가 (자신). 전투 개시 시, 자신과 양 옆의 아군 AP 증가. 피격 시, 효과 저항 증가 (자신)."
   },
   "1002706572": {
@@ -912,7 +912,7 @@
     "korean": "목표 대상 {0} 보호 무시, 방어막 / 피해 감소 무시 피해. 방어력 / 사거리 감소, 치명타 시 추가 피해"
   },
   "1002706614": {
-    "english": "Receives minimum damage (limited hits). ACU increases.",
+    "english": "Receives minimum damage (certain times). ACU increases.",
     "korean": "받는 피해 최소화 (일정 횟수). 적중 증가"
   },
   "1002706615": {
@@ -992,7 +992,7 @@
     "korean": "공격기 공격/치명, 보호기 방어/회피, 지원기 행동/적중 증가, 특정 대상 버프 효과 2배/냉기 저항 증가"
   },
   "1002706634": {
-    "english": "At round start, removes Ironblood Leona's attack / defense command effect reduction, grants up to 50% effect increase (skill level 10)",
+    "english": "At round start, removes Ironblood Leona's attack / defense command effect reduction, grants up to 50% effect increase (Skill Lv.10)",
     "korean": "라운드 개시 시 철혈의 레오나 공격/방어 지휘 효과 감소 제거, 최대 50% 효과 증가 부여(스킬 레벨 10)"
   },
   "1002706635": {
@@ -1032,7 +1032,7 @@
     "korean": "목표 대상 {0} 피해. 벌크 업 2 중첩 이상 시, 피해량 증가 / AP 감소, 5 이상 시 행동 불능 부여"
   },
   "1002706644": {
-    "english": "Supports attacks of light support / Sisters of Valhalla members (level 10), increases ATK / DEF penetration when in stealth",
+    "english": "Supports attacks of light support / Sisters of Valhalla members (Lv.10), increases ATK / DEF penetration when in stealth",
     "korean": "경장 지원기/시스터즈 오브 발할라 소속 캐릭터(10레벨) 공격 지원, 위장 상태 시 공격력 / 방어 관통 증가"
   },
   "1002706645": {
@@ -1064,7 +1064,7 @@
     "korean": "자신에게 표식 지정, 방어력 / 모든 속성 저항 증가, 받는 피해 감소"
   },
   "1002706652": {
-    "english": "Battle continuation (once), increases SPD / reduces damage taken, effect increases as HP% decreases",
+    "english": "Battle continuation (1x), increases SPD / reduces damage taken, effect increases as HP% decreases",
     "korean": "전투 속행 (1회), 행동력 증가 / 받는 피해 감소, HP%가 낮아질수록 효과 증가"
   },
   "1002706653": {
@@ -1148,19 +1148,19 @@
     "korean": "오의 [화신강림](일격필살 시)"
   },
   "1002706673": {
-    "english": "Dance of Flames (Round 1)",
+    "english": "Dance of Flames (1 rounds)",
     "korean": "불꽃의 춤(1라운드)"
   },
   "1002706674": {
-    "english": "Dance of Flames (Round 2)",
+    "english": "Dance of Flames (2 rounds)",
     "korean": "불꽃의 춤(2라운드)"
   },
   "1002706675": {
-    "english": "Dance of Flames (Round 3)",
+    "english": "Dance of Flames (3 rounds)",
     "korean": "불꽃의 춤(3라운드)"
   },
   "1002706676": {
-    "english": "Dance of Flames (Round 4)",
+    "english": "Dance of Flames (4 rounds)",
     "korean": "불꽃의 춤(4라운드)"
   },
   "1002706677": {
@@ -1184,7 +1184,7 @@
     "korean": "브림스톤"
   },
   "1002706682": {
-    "english": "Paveway (EVA Reduction)",
+    "english": "Paveway (EVA Decrease)",
     "korean": "페이브웨이(회피 감소)"
   },
   "1002706683": {
@@ -1288,7 +1288,7 @@
     "korean": "간섭 대응 유닛"
   },
   "1002706708": {
-    "english": "Diffusion Beam Port (Heavy Armor)",
+    "english": "Diffusion Beam Port (Heavy)",
     "korean": "확산 빔 포트(중장형)"
   },
   "1002706709": {
@@ -1324,15 +1324,15 @@
     "korean": "정밀 타격 지원"
   },
   "1002706717": {
-    "english": "Airborne Sniper (DEF Reduction)",
+    "english": "Airborne Sniper (DEF Decrease)",
     "korean": "공중 저격(방어력 감소)"
   },
   "1002706718": {
-    "english": "Airborne Sniper (EVA Reduction)",
+    "english": "Airborne Sniper (EVA Decrease)",
     "korean": "공중 저격(회피 감소)"
   },
   "1002706719": {
-    "english": "Aimed Bombardment (Damage Taken Increase)",
+    "english": "Aimed Bombardment (DMG Taken Increased)",
     "korean": "조준 폭격(받는 피해 증가)"
   },
   "1002706720": {
@@ -1792,11 +1792,11 @@
     "korean": "수확의 낫"
   },
   "1002706834": {
-    "english": "White Wing [Rapid Cooling] (SPD Reduction)",
+    "english": "White Wing [Rapid Cooling] (SPD Decrease)",
     "korean": "하얀 날개 [급속 냉각](행동력 감소)"
   },
   "1002706835": {
-    "english": "White Wing [Rapid Cooling] (ACU Reduction)",
+    "english": "White Wing [Rapid Cooling] (ACC Decrease)",
     "korean": "하얀 날개 [급속 냉각](적중 감소)"
   },
   "1002706836": {
@@ -1832,323 +1832,323 @@
     "korean": "범위 내 아군 지정 보호 / 방어력 증가"
   },
   "1002706844": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.1",
+    "english": "Anti Light-Air Buff Dummy Lv.1",
     "korean": "대 경장기동 버프 더미 Lv.1"
   },
   "1002706845": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.2",
+    "english": "Anti Light-Air Buff Dummy Lv.2",
     "korean": "대 경장기동 버프 더미 Lv.2"
   },
   "1002706846": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.3",
+    "english": "Anti Light-Air Buff Dummy Lv.3",
     "korean": "대 경장기동 버프 더미 Lv.3"
   },
   "1002706847": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.4",
+    "english": "Anti Light-Air Buff Dummy Lv.4",
     "korean": "대 경장기동 버프 더미 Lv.4"
   },
   "1002706848": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.5",
+    "english": "Anti Light-Air Buff Dummy Lv.5",
     "korean": "대 경장기동 버프 더미 Lv.5"
   },
   "1002706849": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.6",
+    "english": "Anti Light-Air Buff Dummy Lv.6",
     "korean": "대 경장기동 버프 더미 Lv.6"
   },
   "1002706850": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.7",
+    "english": "Anti Light-Air Buff Dummy Lv.7",
     "korean": "대 경장기동 버프 더미 Lv.7"
   },
   "1002706851": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.8",
+    "english": "Anti Light-Air Buff Dummy Lv.8",
     "korean": "대 경장기동 버프 더미 Lv.8"
   },
   "1002706852": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.9",
+    "english": "Anti Light-Air Buff Dummy Lv.9",
     "korean": "대 경장기동 버프 더미 Lv.9"
   },
   "1002706853": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.10",
+    "english": "Anti Light-Air Buff Dummy Lv.10",
     "korean": "대 경장기동 버프 더미 Lv.10"
   },
   "1002706854": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.11",
+    "english": "Anti Light-Air Buff Dummy Lv.11",
     "korean": "대 경장기동 버프 더미 Lv.11"
   },
   "1002706855": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.12",
+    "english": "Anti Light-Air Buff Dummy Lv.12",
     "korean": "대 경장기동 버프 더미 Lv.12"
   },
   "1002706856": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.13",
+    "english": "Anti Light-Air Buff Dummy Lv.13",
     "korean": "대 경장기동 버프 더미 Lv.13"
   },
   "1002706857": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.14",
+    "english": "Anti Light-Air Buff Dummy Lv.14",
     "korean": "대 경장기동 버프 더미 Lv.14"
   },
   "1002706858": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.15",
+    "english": "Anti Light-Air Buff Dummy Lv.15",
     "korean": "대 경장기동 버프 더미 Lv.15"
   },
   "1002706859": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.16",
+    "english": "Anti Light-Air Buff Dummy Lv.16",
     "korean": "대 경장기동 버프 더미 Lv.16"
   },
   "1002706860": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.17",
+    "english": "Anti Light-Air Buff Dummy Lv.17",
     "korean": "대 경장기동 버프 더미 Lv.17"
   },
   "1002706861": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.18",
+    "english": "Anti Light-Air Buff Dummy Lv.18",
     "korean": "대 경장기동 버프 더미 Lv.18"
   },
   "1002706862": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.19",
+    "english": "Anti Light-Air Buff Dummy Lv.19",
     "korean": "대 경장기동 버프 더미 Lv.19"
   },
   "1002706863": {
-    "english": "Great Light Armored Mobility Buff Dummy Lv.20",
+    "english": "Anti Light-Air Buff Dummy Lv.20",
     "korean": "대 경장기동 버프 더미 Lv.20"
   },
   "1002706864": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.1",
+    "english": "Anti Air-Heavy Buff Dummy Lv.1",
     "korean": "대 기동중장 버프 더미 Lv.1"
   },
   "1002706865": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.2",
+    "english": "Anti Air-Heavy Buff Dummy Lv.2",
     "korean": "대 기동중장 버프 더미 Lv.2"
   },
   "1002706866": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.3",
+    "english": "Anti Air-Heavy Buff Dummy Lv.3",
     "korean": "대 기동중장 버프 더미 Lv.3"
   },
   "1002706867": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.4",
+    "english": "Anti Air-Heavy Buff Dummy Lv.4",
     "korean": "대 기동중장 버프 더미 Lv.4"
   },
   "1002706868": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.5",
+    "english": "Anti Air-Heavy Buff Dummy Lv.5",
     "korean": "대 기동중장 버프 더미 Lv.5"
   },
   "1002706869": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.6",
+    "english": "Anti Air-Heavy Buff Dummy Dummy Lv.6",
     "korean": "대 기동중장 버프 더미 Lv.6"
   },
   "1002706870": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.7",
+    "english": "Anti Air-Heavy Buff Dummy Lv.7",
     "korean": "대 기동중장 버프 더미 Lv.7"
   },
   "1002706871": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.8",
+    "english": "Anti Air-Heavy Buff Dummy Lv.8",
     "korean": "대 기동중장 버프 더미 Lv.8"
   },
   "1002706872": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.9",
+    "english": "Anti Air-Heavy Buff Dummy Lv.9",
     "korean": "대 기동중장 버프 더미 Lv.9"
   },
   "1002706873": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.10",
+    "english": "Anti Air-Heavy Buff Dummy Lv.10",
     "korean": "대 기동중장 버프 더미 Lv.10"
   },
   "1002706874": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.11",
+    "english": "Anti Air-Heavy Buff Dummy Lv.11",
     "korean": "대 기동중장 버프 더미 Lv.11"
   },
   "1002706875": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.12",
+    "english": "Anti Air-Heavy Buff Dummy Lv.12",
     "korean": "대 기동중장 버프 더미 Lv.12"
   },
   "1002706876": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.13",
+    "english": "Anti Air-Heavy Buff Dummy Lv.13",
     "korean": "대 기동중장 버프 더미 Lv.13"
   },
   "1002706877": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.14",
+    "english": "Anti Air-Heavy Buff Dummy Lv.14",
     "korean": "대 기동중장 버프 더미 Lv.14"
   },
   "1002706878": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.15",
+    "english": "Anti Air-Heavy Buff Dummy Lv.15",
     "korean": "대 기동중장 버프 더미 Lv.15"
   },
   "1002706879": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.16",
+    "english": "Anti Air-Heavy Buff Dummy Lv.16",
     "korean": "대 기동중장 버프 더미 Lv.16"
   },
   "1002706880": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.17",
+    "english": "Anti Air-Heavy Buff Dummy Lv.17",
     "korean": "대 기동중장 버프 더미 Lv.17"
   },
   "1002706881": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.18",
+    "english": "Anti Air-Heavy Buff Dummy Lv.18",
     "korean": "대 기동중장 버프 더미 Lv.18"
   },
   "1002706882": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.19",
+    "english": "Anti Air-Heavy Buff Dummy Lv.19",
     "korean": "대 기동중장 버프 더미 Lv.19"
   },
   "1002706883": {
-    "english": "Great Air Heavy Armor Buff Dummy Lv.20",
+    "english": "Anti Air-Heavy Buff Dummy Lv.20",
     "korean": "대 기동중장 버프 더미 Lv.20"
   },
   "1002706884": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.1",
+    "english": "Anti Heavy-Light Buff Dummy Lv.1",
     "korean": "대 중장경장 버프 더미 Lv.1"
   },
   "1002706885": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.2",
+    "english": "Anti Heavy-Light Buff Dummy Lv.2",
     "korean": "대 중장경장 버프 더미 Lv.2"
   },
   "1002706886": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.3",
+    "english": "Anti Heavy-Light Buff Dummy Lv.3",
     "korean": "대 중장경장 버프 더미 Lv.3"
   },
   "1002706887": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.4",
+    "english": "Anti Heavy-Light Buff Dummy Lv.4",
     "korean": "대 중장경장 버프 더미 Lv.4"
   },
   "1002706888": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.5",
+    "english": "Anti Heavy-Light Buff Dummy Lv.5",
     "korean": "대 중장경장 버프 더미 Lv.5"
   },
   "1002706889": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.6",
+    "english": "Anti Heavy-Light Buff Dummy Lv.6",
     "korean": "대 중장경장 버프 더미 Lv.6"
   },
   "1002706890": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.7",
+    "english": "Anti Heavy-Light Buff Dummy Lv.7",
     "korean": "대 중장경장 버프 더미 Lv.7"
   },
   "1002706891": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.8",
+    "english": "Anti Heavy-Light Buff Dummy Lv.8",
     "korean": "대 중장경장 버프 더미 Lv.8"
   },
   "1002706892": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.9",
+    "english": "Anti Heavy-Light Buff Dummy Lv.9",
     "korean": "대 중장경장 버프 더미 Lv.9"
   },
   "1002706893": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.10",
+    "english": "Anti Heavy-Light Buff Dummy Lv.10",
     "korean": "대 중장경장 버프 더미 Lv.10"
   },
   "1002706894": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.11",
+    "english": "Anti Heavy-Light Buff Dummy Lv.11",
     "korean": "대 중장경장 버프 더미 Lv.11"
   },
   "1002706895": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.12",
+    "english": "Anti Heavy-Light Buff Dummy Lv.12",
     "korean": "대 중장경장 버프 더미 Lv.12"
   },
   "1002706896": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.13",
+    "english": "Anti Heavy-Light Buff Dummy Lv.13",
     "korean": "대 중장경장 버프 더미 Lv.13"
   },
   "1002706897": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.14",
+    "english": "Anti Heavy-Light Buff Dummy Lv.14",
     "korean": "대 중장경장 버프 더미 Lv.14"
   },
   "1002706898": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.15",
+    "english": "Anti Heavy-Light Buff Dummy Lv.15",
     "korean": "대 중장경장 버프 더미 Lv.15"
   },
   "1002706899": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.16",
+    "english": "Anti Heavy-Light Buff Dummy Lv.16",
     "korean": "대 중장경장 버프 더미 Lv.16"
   },
   "1002706900": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.17",
+    "english": "Anti Heavy-Light Buff Dummy Lv.17",
     "korean": "대 중장경장 버프 더미 Lv.17"
   },
   "1002706901": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.18",
+    "english": "Anti Heavy-Light Buff Dummy Lv.18",
     "korean": "대 중장경장 버프 더미 Lv.18"
   },
   "1002706902": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.19",
+    "english": "Anti Heavy-Light Buff Dummy Lv.19",
     "korean": "대 중장경장 버프 더미 Lv.19"
   },
   "1002706903": {
-    "english": "Great Heavy Armor Light Armor Buff Dummy Lv.20",
+    "english": "Anti Heavy-Light Buff Dummy Lv.20",
     "korean": "대 중장경장 버프 더미 Lv.20"
   },
   "1002706904": {
-    "english": "Improved Rapid Learning Buff Stack Lv.1",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.1",
     "korean": "개량형 고속 학습 버프 더미 Lv.1"
   },
   "1002706905": {
-    "english": "Improved Rapid Learning Buff Stack Lv.2",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.2",
     "korean": "개량형 고속 학습 버프 더미 Lv.2"
   },
   "1002706906": {
-    "english": "Improved Rapid Learning Buff Stack Lv.3",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.3",
     "korean": "개량형 고속 학습 버프 더미 Lv.3"
   },
   "1002706907": {
-    "english": "Improved Rapid Learning Buff Stack Lv.4",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.4",
     "korean": "개량형 고속 학습 버프 더미 Lv.4"
   },
   "1002706908": {
-    "english": "Improved Rapid Learning Buff Stack Lv.5",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.5",
     "korean": "개량형 고속 학습 버프 더미 Lv.5"
   },
   "1002706909": {
-    "english": "Improved Rapid Learning Buff Stack Lv.6",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.6",
     "korean": "개량형 고속 학습 버프 더미 Lv.6"
   },
   "1002706910": {
-    "english": "Improved Rapid Learning Buff Stack Lv.7",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.7",
     "korean": "개량형 고속 학습 버프 더미 Lv.7"
   },
   "1002706911": {
-    "english": "Improved Rapid Learning Buff Stack Lv.8",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.8",
     "korean": "개량형 고속 학습 버프 더미 Lv.8"
   },
   "1002706912": {
-    "english": "Improved Rapid Learning Buff Stack Lv.9",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.9",
     "korean": "개량형 고속 학습 버프 더미 Lv.9"
   },
   "1002706913": {
-    "english": "Improved Rapid Learning Buff Stack Lv.10",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.10",
     "korean": "개량형 고속 학습 버프 더미 Lv.10"
   },
   "1002706914": {
-    "english": "Improved Rapid Learning Buff Stack Lv.11",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.11",
     "korean": "개량형 고속 학습 버프 더미 Lv.11"
   },
   "1002706915": {
-    "english": "Improved Rapid Learning Buff Stack Lv.12",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.12",
     "korean": "개량형 고속 학습 버프 더미 Lv.12"
   },
   "1002706916": {
-    "english": "Improved Rapid Learning Buff Stack Lv.13",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.13",
     "korean": "개량형 고속 학습 버프 더미 Lv.13"
   },
   "1002706917": {
-    "english": "Improved Rapid Learning Buff Stack Lv.14",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.14",
     "korean": "개량형 고속 학습 버프 더미 Lv.14"
   },
   "1002706918": {
-    "english": "Improved Rapid Learning Buff Stack Lv.15",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.15",
     "korean": "개량형 고속 학습 버프 더미 Lv.15"
   },
   "1002706919": {
-    "english": "Improved Rapid Learning Buff Stack Lv.16",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.16",
     "korean": "개량형 고속 학습 버프 더미 Lv.16"
   },
   "1002706920": {
-    "english": "Improved Rapid Learning Buff Stack Lv.17",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.17",
     "korean": "개량형 고속 학습 버프 더미 Lv.17"
   },
   "1002706921": {
-    "english": "Improved Rapid Learning Buff Stack Lv.18",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.18",
     "korean": "개량형 고속 학습 버프 더미 Lv.18"
   },
   "1002706922": {
-    "english": "Improved Rapid Learning Buff Stack Lv.19",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.19",
     "korean": "개량형 고속 학습 버프 더미 Lv.19"
   },
   "1002706923": {
-    "english": "Improved Rapid Learning Buff Stack Lv.20",
+    "english": "Improved High-Speed Learning Buff Dummy Lv.20",
     "korean": "개량형 고속 학습 버프 더미 Lv.20"
   },
   "1002706924": {
@@ -2300,11 +2300,11 @@
     "korean": "9개의 목숨"
   },
   "1002706961": {
-    "english": "Monomer Chloro Proto (Extra Damage)",
+    "english": "Monomolecular Chloro Proto (Additional Damage)",
     "korean": "단분자 클로 프로토(추가 피해)"
   },
   "1002706962": {
-    "english": "Ruthless Cat (ACU)",
+    "english": "Ruthless Cat (ACC)",
     "korean": "무자비한 고양이(적중)"
   },
   "1002706963": {
@@ -2368,15 +2368,15 @@
     "korean": "정의 집행"
   },
   "1002706978": {
-    "english": "Threat Shot (ATK Down)",
+    "english": "Threat Shot (ATK Decrease)",
     "korean": "위협사격(공격력 감소)"
   },
   "1002706979": {
-    "english": "Threat Shot (EVA Down)",
+    "english": "Threat Shot (EVA Decrease)",
     "korean": "위협사격(회피 감소)"
   },
   "1002706980": {
-    "english": "HQ Support Request (ATK Down)",
+    "english": "HQ Support Request (ATK Decrease)",
     "korean": "본부 지원 요청(공격력 감소)"
   },
   "1002706981": {
@@ -2396,7 +2396,7 @@
     "korean": "본부 지원 요청(효과 저항 감소)"
   },
   "1002706985": {
-    "english": "HQ Support Request (Damage Taken Up)",
+    "english": "HQ Support Request (DMG Taken Increased)",
     "korean": "본부 지원 요청(받는 피해 증가)"
   },
   "1002706986": {
@@ -2404,7 +2404,7 @@
     "korean": "열혈 형사(AP)"
   },
   "1002706987": {
-    "english": "Hot-Blooded Detective (Shield)",
+    "english": "Hot-Blooded Detective (Barrier)",
     "korean": "열혈 형사 (방어막)"
   },
   "1002706988": {
@@ -2420,7 +2420,7 @@
     "korean": "열혈 형사 (전속)"
   },
   "1002706991": {
-    "english": "Hot-Blooded Detective (Effect Resist)",
+    "english": "Hot-Blooded Detective (Effect Resistance)",
     "korean": "열혈 형사 (효과 저항)"
   },
   "1002706992": {
@@ -2444,7 +2444,7 @@
     "korean": "외부 정보망(전기 속성 저항)"
   },
   "1002706997": {
-    "english": "External Info Network (Damage Taken Down)",
+    "english": "External Info Network (DMG Reduction)",
     "korean": "외부 정보망(받는 피해 감소)"
   },
   "1002706998": {
@@ -3352,7 +3352,7 @@
     "korean": "광범위 행동력 증가"
   },
   "1002707224": {
-    "english": "Deals {0} damage to the target.&nIf the battle starts while Recon is active, the [Gathering Intel] buff is applied.&nIf the unit waits while [Gathering Intel] is active, it will be replaced with the [Intel Acquired] buff.&nWhen [Intel Acquired] is active, any enemy hit will be inflicted with an irresistible incapacitated status (once per battle).",
+    "english": "Deals {0} damage to the target.&nIf the battle starts while Recon is active, the [Gathering Intel] buff is applied.&nIf the unit waits while [Gathering Intel] is active, it will be replaced with the [Intel Acquired] buff.&nWhen [Intel Acquired] is active, any enemy hit will be inflicted with an irresistible incapacitated status (limited to 1 per battle).",
     "korean": "대상에게 {0} 피해를 줍니다. 정찰 활성화 상태에서 전투 시작 시 [정보 수집 중] 버프가 활성화 되고 이 상태로 대기시 [정보 획득 완료] 버프가 활성화 되며, [정보 획득 완료] 버프 활성화 시 피격된 적은 저항 불가한 행동 불능 상태(전투 1회 한정)가 됩니다."
   },
   "1002707225": {
@@ -3456,7 +3456,7 @@
     "korean": "3라운드 동안 공격기, 보호기인 아군 모두의 행동력을 증가 시킵니다."
   },
   "1002707250": {
-    "english": "Deals {0} damage to a single target. Inflicts Incapacitated (once per battle).",
+    "english": "Deals {0} damage to a single target. Inflicts Incapacitated (limited to 1 per battle).",
     "korean": "단일 대상 {0} 피해. 행동 불능(전투 1회 한정)"
   },
   "1002707251": {
@@ -3640,15 +3640,15 @@
     "korean": "자세 제어장치(받는 피해 감소3라운드)"
   },
   "1002707296": {
-    "english": "Angel's Breath (With fire-resistant coating equipped)",
+    "english": "Angel's Breath (Fire Spray equipped)",
     "korean": "천사의 숨결(내열코팅장착시)"
   },
   "1002707297": {
-    "english": "Angel's Breath (With cold-resistant coating equipped)",
+    "english": "Angel's Breath (Frost Spray equipped)",
     "korean": "천사의 숨결(내한코팅장착시)"
   },
   "1002707298": {
-    "english": "Angel's Breath (With electric-resistant coating equipped)",
+    "english": "Angel's Breath (Shock Spray equipped)",
     "korean": "천사의 숨결(내전코팅장착시)"
   },
   "1002707299": {
@@ -3728,7 +3728,7 @@
     "korean": "아군 전체 모든 속성 저항 상승/해로운 효과 해제"
   },
   "1002707318": {
-    "english": "Self EVA increase / EVA further increases when hit (up to 3 stacks) / Damage received reduction",
+    "english": "Self EVA increase / EVA further increases when hit (3 stacks) / Damage received reduction",
     "korean": "자신 회피 상승/피격 시 회피 추가로 증가(3중첩)/받는 피해 감소"
   },
   "1002707319": {
@@ -3740,19 +3740,19 @@
     "korean": "자신 행동력 상승/천사의 포옹 버프 적용된 아군 공격력/적중/회피/AP/효과저항 증가"
   },
   "1002707321": {
-    "english": "Increases own EVA / further increases EVA on hit (up to 3 stacks) / reduces damage received.",
+    "english": "Increases own EVA / further increases EVA on hit (3 stacks) / reduces damage received.",
     "korean": "자신 회피 상승/피격 시 회피 추가로 증가(3중첩)/받는 피해 감소"
   },
   "1002707322": {
-    "english": "Increases own EVA / further increases EVA on hit (up to 3 stacks) / reduces damage received.",
+    "english": "Increases own EVA / further increases EVA on hit (3 stacks) / reduces damage received.",
     "korean": "자신 회피 상승/피격 시 회피 추가로 증가(3중첩)/받는 피해 감소"
   },
   "1002707323": {
-    "english": "Increases own EVA / further increases EVA on hit (up to 3 stacks) / reduces damage received.",
+    "english": "Increases own EVA / further increases EVA on hit (3 stacks) / reduces damage received.",
     "korean": "자신 회피 상승/피격 시 회피 추가로 증가(3중첩)/받는 피해 감소"
   },
   "1002707324": {
-    "english": "Increases own EVA / further increases EVA on hit (up to 3 stacks) / reduces damage received.",
+    "english": "Increases own EVA / further increases EVA on hit (3 stacks) / reduces damage received.",
     "korean": "자신 회피 상승/피격 시 회피 추가로 증가(3중첩)/받는 피해 감소"
   },
   "1002707325": {
@@ -3992,7 +3992,7 @@
     "korean": "라운드 개시 시, 자신의 행동력과 치명타를 증가시키고 공격 적중 시, 범위 내 아군의 공격력과 냉기 저항을 증가시키며 최대 3중첩까지 가능합니다."
   },
   "1002707384": {
-    "english": "Increases cold  resistance (for attackers/supporters), reduces incoming damage (for Airtypes), and increases ATK power (for self).",
+    "english": "Increases cold  resistance (Attacker/Supporter), reduces incoming damage (Air), and increases ATK power (Self).",
     "korean": "냉기 저항 증가(공격기/지원기) / 받는 피해 감소(기동형) / 공격력 증가(자신)"
   },
   "1002707385": {

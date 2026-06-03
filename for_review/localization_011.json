@@ -664,23 +664,23 @@
     "korean": "연계 돌파 : 화염 저항{0}% (불가사리)"
   },
   "1000110224": {
-    "english": "Linked Breakthrough: Damage Reduction {0}% (Hongryeon)",
+    "english": "Linked Breakthrough: DMG Reduction {0}% (Hongryeon)",
     "korean": "연계 돌파 : 받는 피해 {0}%감소 (홍련)"
   },
   "1000110225": {
-    "english": "Linked Breakthrough: Damage Reduction {0}% (Steel Draco)",
+    "english": "Linked Breakthrough: DMG Reduction {0}% (Steel Draco)",
     "korean": "연계 돌파 : 받는 피해 {0}%감소 (스틸드라코)"
   },
   "1000110226": {
-    "english": "Linked Breakthrough: Damage Reduction {0}% (Miho)",
+    "english": "Linked Breakthrough: DMG Reduction {0}% (Miho)",
     "korean": "연계 돌파 : 받는 피해 {0}%감소 (미호)"
   },
   "1000110227": {
-    "english": "Linked Breakthrough: Damage Reduction {0}% (Pinto)",
+    "english": "Linked Breakthrough: DMG Reduction {0}% (Pinto)",
     "korean": "연계 돌파 : 받는 피해 {0}%감소 (핀토)"
   },
   "1000110228": {
-    "english": "Linked Breakthrough: Damage Reduction {0}% (Bulgasari)",
+    "english": "Linked Breakthrough: DMG Reduction {0}% (Bulgasari)",
     "korean": "연계 돌파 : 받는 피해 {0}%감소 (불가사리)"
   },
   "1000110229": {
@@ -900,7 +900,7 @@
     "korean": "빙결 볼트 중첩 버프 제거"
   },
   "1000110283": {
-    "english": "Bunker Buster (Electric-type Pile Bunker)",
+    "english": "Bunker Buster (Electrified Pile Bunker)",
     "korean": "벙커 버스터(전격형 파일벙커)"
   },
   "1000110284": {
@@ -992,7 +992,7 @@
     "korean": "전술 전환 : 방어력{0}% (프로스트 서펀트)"
   },
   "1000110306": {
-    "english": "Tactical Shift: DEF {0}% (Missafety)",
+    "english": "Tactical Shift: DEF {0}% (Miss Safety)",
     "korean": "전술 전환 : 방어력{0}% (미스세이프티)"
   },
   "1000110307": {
@@ -1032,7 +1032,7 @@
     "korean": "전술 전환 : 방어 관통{0}% (프로스트 서펀트)"
   },
   "1000110316": {
-    "english": "Tactical Shift: DEF Penetration {0}% (Missafety)",
+    "english": "Tactical Shift: DEF Penetration {0}% (Miss Safety)",
     "korean": "전술 전환 : 방어 관통{0}% (미스세이프티)"
   },
   "1000110317": {
@@ -1476,7 +1476,7 @@
     "korean": "HQ1 커맨더 시스템 : 스킬 사용 불가 (1회)"
   },
   "1000110427": {
-    "english": "HQ1 Commander System: Damage Reduction {0}%",
+    "english": "HQ1 Commander System: DMG Reduction {0}%",
     "korean": "HQ1 커맨더 시스템 : 받는 피해 감소 {0}%"
   },
   "1000110428": {
@@ -1560,7 +1560,7 @@
     "korean": "압도하는 한기 : 행동력{0}%"
   },
   "1000110448": {
-    "english": "Exclude Intruder: Damage Reduction {0}%",
+    "english": "Exclude Intruder: DMG Reduction {0}%",
     "korean": "침입자 배제 : 받는 피해 {0}%감소"
   },
   "1000110449": {
@@ -1844,7 +1844,7 @@
     "korean": "충격 흡입 : AP 증가"
   },
   "1000110519": {
-    "english": "Solo Action Unit: Ignore Barrier / Damage Reduction",
+    "english": "Solo Action Unit: Ignore Barrier / DMG Reduction",
     "korean": "단독 행동 개체 : 방어막 / 피해 감소 무시"
   },
   "1000110520": {
@@ -1856,7 +1856,7 @@
     "korean": "충격 흡입 : AP{0}"
   },
   "1000110522": {
-    "english": "Solo Action Unit: Ignore Barrier / Damage Reduction",
+    "english": "Solo Action Unit: Ignore Barrier / DMG Reduction",
     "korean": "단독 행동 개체 : 방어막 / 피해 감소 무시"
   },
   "1000110523": {
@@ -1892,7 +1892,7 @@
     "korean": "표식/피해 무효화 ({0}회)"
   },
   "1000110531": {
-    "english": "Damage Reduction {0}%",
+    "english": "DMG Reduction {0}%",
     "korean": "받는 피해 감소 {0}%"
   },
   "1000110532": {
@@ -2144,15 +2144,15 @@
     "korean": "원소마법의 대가 : 전기 저항{0}%"
   },
   "1000110594": {
-    "english": "Heart of the Element (Fire): Damage Reduction {0}%",
+    "english": "Heart of the Element (Fire): DMG Reduction {0}%",
     "korean": "원소의 심장(화염) : 받는 피해 {0}%감소"
   },
   "1000110595": {
-    "english": "Heart of the Element (Cold): Damage Reduction {0}%",
+    "english": "Heart of the Element (Cold): DMG Reduction {0}%",
     "korean": "원소의 심장(냉기) : 받는 피해 {0}%감소"
   },
   "1000110596": {
-    "english": "Heart of the Element (Electric): Damage Reduction {0}%",
+    "english": "Heart of the Element (Electric): DMG Reduction {0}%",
     "korean": "원소의 심장(전기) : 받는 피해 {0}%감소"
   },
   "1000110597": {
@@ -2228,11 +2228,11 @@
     "korean": "전자기 유도 : 추가 전기 피해{0}%"
   },
   "1000110615": {
-    "english": "<Blitz Storm> additional damage {0}% (Maximum)",
+    "english": "<Blitz Storm> additional damage {0}% (Max)",
     "korean": "<블리츠 스톰> 추가 피해{0}% (최대)"
   },
   "1000110616": {
-    "english": "<Jupiter Strike> additional damage {0}% (Maximum)",
+    "english": "<Jupiter Strike> additional damage {0}% (Max)",
     "korean": "<유피텔 스트라이크> 추가 피해{0}% (최대)"
   },
   "1000110617": {
@@ -2272,15 +2272,15 @@
     "korean": "빙결 : 행동 불가 (침수)"
   },
   "1000110626": {
-    "english": "Class (light), 1 or 2 people per day",
+    "english": "Class (Light), 1 or 2 people per day",
     "korean": "클래스 (경장형), 1 or 2명 일 시"
   },
   "1000110627": {
-    "english": "Class (Heavy-long), 1 or 2 people per day",
+    "english": "Class (Heavy), 1 or 2 people per day",
     "korean": "클래스 (중장형), 1 or 2명 일 시"
   },
   "1000110628": {
-    "english": "Class (mobile), 1 or 2 people",
+    "english": "Class (Air), 1 or 2 people",
     "korean": "클래스 (기동형), 1 or 2명 일 시"
   },
   "1000110629": {
@@ -2288,11 +2288,11 @@
     "korean": "롤 (보호기), 1 or 2명 일 시"
   },
   "1000110630": {
-    "english": "Roll (Attack), 1 or 2 people",
+    "english": "Roll (Attacker), 1 or 2 people",
     "korean": "롤 (공격기), 1 or 2명 일 시"
   },
   "1000110631": {
-    "english": "Roll (support), 1 or 2 people",
+    "english": "Roll (Supporter), 1 or 2 people",
     "korean": "롤 (지원기), 1 or 2명 일 시"
   },
   "1000110632": {
@@ -2552,7 +2552,7 @@
     "korean": "교화 : 받는 피해{0}% 증가"
   },
   "1000110696": {
-    "english": "United Heart : Damage Reduction {0}% (Attacker)",
+    "english": "United Heart : DMG Reduction {0}% (Attacker)",
     "korean": "하나된 마음 : 받는 피해{0}% 감소 (공격기)"
   },
   "1000110697": {
@@ -2952,7 +2952,7 @@
     "korean": "정원사의 본성 : 방어 관통{0}%"
   },
   "1000110796": {
-    "english": "Weak Point Attack : Additional DMG {0}% (Increased Damage Taken)",
+    "english": "Weak Point Attack : Additional DMG {0}% (DMG Taken Increased)",
     "korean": "약점 공격 : 피해량{0}% (받는 피해 증가)"
   },
   "1000110797": {
@@ -3188,7 +3188,7 @@
     "korean": "심판의 날개 : 지정 보호 / 전기 저항 증가"
   },
   "1000110855": {
-    "english": "Deepening Faith : Damage Reduction",
+    "english": "Deepening Faith : DMG Reduction",
     "korean": "깊어지는 신앙 : 받는 피해 감소"
   },
   "1000110856": {
@@ -3220,11 +3220,11 @@
     "korean": "심판의 날개 : 적 처치 시 효과"
   },
   "1000110863": {
-    "english": "Deepening Faith : Damage Reduction Lv.2",
+    "english": "Deepening Faith : DMG Reduction Lv.2",
     "korean": "깊어지는 신앙 : 받는 피해 감소 Lv.2"
   },
   "1000110864": {
-    "english": "Deepening Faith : Damage Reduction Lv.3",
+    "english": "Deepening Faith : DMG Reduction Lv.3",
     "korean": "깊어지는 신앙 : 받는 피해 감소 Lv.3"
   },
   "1000110865": {
@@ -3284,7 +3284,7 @@
     "korean": "심판의 날개 : 지정 보호(공격기/지원기)"
   },
   "1000110879": {
-    "english": "Deepening Faith: Damage Reduction {0}%",
+    "english": "Deepening Faith: DMG Reduction {0}%",
     "korean": "깊어지는 신앙 : 받는 피해 감소 {0}%"
   },
   "1000110880": {
@@ -3316,11 +3316,11 @@
     "korean": "이단 심판 : 공격력{0}%"
   },
   "1000110887": {
-    "english": "Unshakable Faith: Damage Reduction {0}%",
+    "english": "Unshakable Faith: DMG Reduction {0}%",
     "korean": "흔들리지 않는 신앙 : 받는 피해 감소 {0}%"
   },
   "1000110888": {
-    "english": "Fanaticism: Damage Reduction {0}%",
+    "english": "Fanaticism: DMG Reduction {0}%",
     "korean": "광신 : 받는 피해 감소 {0}%"
   },
   "1000110889": {
@@ -3388,7 +3388,7 @@
     "korean": "표식 상태에서 피격 시 AP{0}"
   },
   "1000110905": {
-    "english": "Judgment of Heresy: Damage Reduction {0}%",
+    "english": "Judgment of Heresy: DMG Reduction {0}%",
     "korean": "이단 심판 : 받는 피해 감소 {0}%"
   },
   "1000110906": {
@@ -3484,7 +3484,7 @@
     "korean": "전자전 방호망 구축 : 정찰 활성화"
   },
   "1000110929": {
-    "english": "Defense Algorithm Improvement: Damage Reduction {0}%",
+    "english": "Defense Algorithm Improvement: DMG Reduction {0}%",
     "korean": "방어 알고리즘 개선 : 받는 피해 {0}%감소"
   },
   "1000110930": {
@@ -3496,7 +3496,7 @@
     "korean": "전자전 방호망 구축 : 적중{0}%"
   },
   "1000110932": {
-    "english": "Defense Algorithm Improvement: Damage Reduction {0}% (Defender)",
+    "english": "Defense Algorithm Improvement: DMG Reduction {0}% (Defender)",
     "korean": "방어 알고리즘 개선 : 받는 피해 {0}%감소 (보호기)"
   },
   "1000110933": {
@@ -3868,7 +3868,7 @@
     "korean": "철혈의 레오나"
   },
   "1000200039": {
-    "english": "Khan of Speed",
+    "english": "Swift Khan",
     "korean": "신속의 칸"
   },
   "1000200040": {

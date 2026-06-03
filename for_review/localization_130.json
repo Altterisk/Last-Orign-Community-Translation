@@ -240,7 +240,7 @@
     "korean": "단일 대상 {0} 보호 무시 전기 피해. AP / 회피 감소. 기동형이거나 치명타 시, 피해량 증가"
   },
   "1002703412": {
-    "english": "Increases EVA and counters when attacked. Grants counterattack and EVA buff (1 time) to self and adjacent allies",
+    "english": "Increases EVA and counters when attacked. Grants counterattack and EVA buff (1x) to self and adjacent allies",
     "korean": "회피 증가 / 공격 받을 시, 반격. 자신과 인접 아군에게 반격 / 회피 증가 부여 (1회)"
   },
   "1002703413": {
@@ -284,7 +284,7 @@
     "korean": "화염 저항 / 속성 저항 / 방어력 증가. 속성 공격 피격 시, 해당 속성 저항 추가 증가"
   },
   "1002703423": {
-    "english": "Protect target behind self (excluding defenders) / fire protection",
+    "english": "Protect target behind self (Defender excluded) / fire protection",
     "korean": "자신 뒤의 대상 보호 (보호기 제외) / 열 보호"
   },
   "1002703425": {
@@ -408,7 +408,7 @@
     "korean": "단일 대상 {0} 피해. 방어력 감소. 치명타 시, 피해량 증가 / 방어력 강화 해제"
   },
   "1002703455": {
-    "english": "EVA increase / damage received reduction (1 time). EVA triggers ATK / CRIT increase (1 time)",
+    "english": "EVA increase / damage received reduction (1x). EVA triggers ATK / CRIT increase (1x)",
     "korean": "회피 증가 / 받는 피해 감소 (1회). 회피 시, 공격력 / 치명타 증가 (1회)"
   },
   "1002703456": {
@@ -1012,7 +1012,7 @@
     "korean": "아군 공격력 / 치명타 증가 / 사거리 감소"
   },
   "1002703606": {
-    "english": "Increases user's EVA. Protects targets affected by May's (except Defenders)",
+    "english": "Increases user's EVA. Protects targets affected by May's (Defender excluded)",
     "korean": "자신 회피 증가. 메이의 <폭격 편대 지휘>를 받는 대상 보호 (보호기 제외)"
   },
   "1002703607": {
@@ -3180,7 +3180,7 @@
     "korean": "전투 개시 시, 전투 속행 효과가 적용됩니다. 전투 속행 발동 시, 행동력 / 효과 저항이 증가하며 <심판>과 <신의 가호> 효과가 50% 증가합니다. 전투 속행이 발동한 라운드에는 최소 피해만 입으며, 모든 아군을 지정 보호합니다."
   },
   "1002704149": {
-    "english": "At the start of battle, grants adjacent allies Battle Continuation and Damage Nullification (1 time).&nAt the start of the round, provides Designated Protection to an ally whose HP is 50% or lower.&nAt skill level 10, the range increases.",
+    "english": "At the start of battle, grants adjacent allies Battle Continuation and Damage Nullification (1x).&nAt the start of the round, provides Designated Protection to an ally whose HP is 50% or lower.&nAt skill level 10, the range increases.",
     "korean": "전투 개시 시, 인접한 아군에게 전투 속행 / 피해 무효화 (1회) 효과를 부여합니다. 라운드 개시 시, HP가 50% 이하인 대상을 지정 보호합니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002704150": {
@@ -3528,7 +3528,7 @@
     "korean": "처치될 경우, 주변에 괴멸적인 고정 피해를 줍니다."
   },
   "1002704236": {
-    "english": "Charge energy to Roc (Max Charge) to increase Attack Power and AP.",
+    "english": "Charge energy to Roc (Fully Charged) to increase Attack Power and AP.",
     "korean": "로크 (최대 충전)에게 에너지를 충전해 공격력과 AP를 높입니다."
   },
   "1002704237": {

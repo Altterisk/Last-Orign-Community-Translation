@@ -104,7 +104,7 @@
     "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가하며 받는 피해가 감소합니다. &n라운드 개시 시, 아군 인원 수에 비례하여 자신의 행동력이 증가합니다. &n스쿼드 내에 자신을 제외한 <앵거 오브 호드> 소속 전투원이 있을 경우, 행동력 증가 효과가 50% 증폭됩니다.&n자신을 제외한 <앵거 오브 호드> 소속 전투원의 단일 대상 스킬 적중 시, <180mm 로켓포> 협동 공격을 실행합니다."
   },
   "SkillDesc_Skill_BR_QuickCamel_N_5": {
-    "english": "At the start of the round, gains Armor Penetration / Anti-Heavy Armor damage increase effects from <180mm Rocket Launcher>.&nSkill effects scale with the level of <Mobile Tactical Support>.&nIf <Khan the Swift> is in the squad at the start of the round, grants shield/damage reduction ignore effects to nearby <Anger of Horde> units.",
+    "english": "At the start of the round, gains Armor Penetration / Anti-Heavy Armor damage increase effects from <180mm Rocket Launcher>.&nSkill effects scale with the level of <Mobile Tactical Support>.&nIf <Swift Khan> is in the squad at the start of the round, grants shield/damage reduction ignore effects to nearby <Anger of Horde> units.",
     "korean": "라운드 개시 시, <180mm 로켓포>의 방어 관통 / 대 중장형 피해량 증가 효과를 획득합니다.&n스킬 효과는 <기동 전술 지원> 스킬 레벨에 비례합니다.&n라운드 개시 시 스쿼드 내에 <신속의 칸>이 있을 경우, 범위 내 <앵거 오브 호드> 소속 전투원에게 방어막/피해 감소 무시 효과를 부여합니다."
   },
   "SkillDesc_Skill_BR_Raven_N_1": {
@@ -116,7 +116,7 @@
     "korean": "대상에게 {0} 보호 무시 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 상태로 만듭니다. &n치명타 시, 회피 강화 / 피해 감소 효과를 해제합니다. &n스킬 레벨 당 +30%의 적중 보정이 적용됩니다."
   },
   "SkillDesc_Skill_BR_Raven_N_3": {
-    "english": "When an attack hits, increases AP of Heavy-type Attackers within range and boosts their ATK and ACU for 3 rounds. (Stacks up to 2 times)&nThe user gains the same amount of EVA and ACU increase.&nAt skill level 10, the effect applies globally, regardless of the user’s position.",
+    "english": "When an attack hits, increases AP of Heavy-type Attackers within range and boosts their ATK and ACU for 3 rounds. (max 2 stacks)&nThe user gains the same amount of EVA and ACU increase.&nAt skill level 10, the effect applies globally, regardless of the user’s position.",
     "korean": "공격 적중 시, 범위 내 중장형 공격기의 AP를 증가시키고, 3라운드 동안 공격력 / 적중을 증가시킵니다. (최대 2중첩)&n자신은 동일한 수치의 회피 / 적중 증가 효과를 획득합니다.&n스킬 레벨 10에서 자신의 위치와 관계없이 전체 적용됩니다."
   },
   "SkillDesc_Skill_BR_Raven_N_4": {
@@ -180,7 +180,7 @@
     "korean": "전투 개시 시, 적 수에 비례하여 자신의 공격력이 증가합니다. &n라운드 개시 시, 아군 수에 비례하여 자신의 치명타가 증가합니다.&n라운드 개시 시, 중장형 아군의 공격을 지원합니다.&n<퀵 카멜>이 없을 경우, 추가로 <앵거 오브 호드> 소속 전투원의 공격을 지원합니다."
   },
   "SkillDesc_Skill_BR_Salamander_N_4": {
-    "english": "On enemy death / Attack Support / on Hit, reduces all enemies' Fire Resistance for 3 rounds. (Max 6 stacks)&nOn enemy kill, deals continuous Fire damage to all enemies for 3 rounds.",
+    "english": "On enemy death / Attack Support / on Hit, reduces all enemies' Fire Resistance for 3 rounds. (max 6 stacks)&nOn enemy kill, deals continuous Fire damage to all enemies for 3 rounds.",
     "korean": "적 사망 / 공격 지원 / 적중 시, 3라운드 동안 모든 적의 화염 저항을 감소시킵니다. (최대 6중첩)&n적 처치 시, 3라운드 동안 모든 적에게 지속 화염 피해를 입힙니다."
   },
   "SkillDesc_Skill_BR_Salamander_N_5": {
@@ -200,7 +200,7 @@
     "korean": "라운드 개시 시, 자신은 방어막을 획득하고 받는 피해가 감소합니다.&n공격 시, 3라운드 동안 자신이 받는 피해가 추가로 감소합니다. (중첩 불가)&n라운드 개시 시, 범위 내 보호기를 제외한 경장 / 중장형 아군을 지정 보호하며 AP를 증가시킵니다."
   },
   "SkillDesc_Skill_BR_SandMan_N_4": {
-    "english": "At the start of battle, you gain the combat continuation effect.&nAt the start of each round, your CRIT chance increases and you gain a counterattack effect.&nWhen hit, your ATK increases for 2 rounds. (Up to 5 stacks)",
+    "english": "At the start of battle, you gain the combat continuation effect.&nAt the start of each round, your CRIT chance increases and you gain a counterattack effect.&nWhen hit, your ATK increases for 2 rounds. (max 5 stacks)",
     "korean": "전투 개시 시, 자신은 전투 속행 효과를 획득합니다.&n라운드 개시 시, 자신의 치명타가 증가하고 반격 효과를 획득합니다.&n피격 시, 2라운드 동안 자신의 공격력이 증가합니다. (최대 5중첩)"
   },
   "SkillDesc_Skill_BR_SandMan_N_5": {
@@ -240,7 +240,7 @@
     "korean": "웨이브 종료 시, 정보를 분석해 다음에 출현할 적의 정보를 입수합니다.&n정찰 활성화 상태로 라운드 개시 시, 적을 물리적으로 해킹할 의욕에 가득 차, 자신의 적중과 AP가 증가합니다."
   },
   "SkillDesc_Skill_BR_Scathy_N_4": {
-    "english": "At the start of the round, increases own SPD.&nOn attack hit, increases all allies' ATK / DEF / ACU for 2 rounds. (Up to 2 stacks)&nOn <Final Hack> critical hit, removes the target's buffs and grants self Damage Minimization (1 time).&nIf the attack target is not under Effect Resistance Up or is under Effect Resistance Down, inflicts Buff Block for 2 rounds.",
+    "english": "At the start of the round, increases own SPD.&nOn attack hit, increases all allies' ATK / DEF / ACU for 2 rounds. (max 2 stacks)&nOn <Final Hack> critical hit, removes the target's buffs and grants self Damage Minimization (1x).&nIf the attack target is not under Effect Resistance Up or is under Effect Resistance Down, inflicts Buff Block for 2 rounds.",
     "korean": "라운드 개시 시, 자신의 행동력이 증가합니다.&n공격 적중 시, 아군 전체의 공격력 / 방어력 / 적중을 2라운드 동안 증가시킵니다. (최대 2중첩)&n<최후의 해킹> 치명타 시, 대상의 강화 효과를 해제하고, 자신은 피해 최소화(1회) 효과를 획득합니다.&n공격 대상이 효과 저항 증가 상태가 아니거나 효과 저항 감소 상태인 경우, 적중 대상에게 2라운드 동안 강화 불가 상태를 부여합니다."
   },
   "SkillDesc_Skill_BR_Scathy_N_5": {
@@ -292,7 +292,7 @@
     "korean": "라운드 개시 시, 자신을 제외한 <호라이즌> 부대원 또는 지원기 1기 당 스킬 위력이 증가합니다. 공격 지원을 받는 상태면 <요격 모드 : 자신이 공격 지원 시 AP 증가> <포격 모드 : 액티브 스킬 적중 시 방어막 / 피해 감소 무시> 효과가 적용됩니다."
   },
   "SkillDesc_Skill_BR_Sleipnir_N_1": {
-    "english": "Fires a beam to deal {0} damage to the target.&nOn hit, Taunts the target for 2 rounds and reduces their ACU / CRIT / SPD (not stackable).&nIf <P-22 Harpyia> is in the squad, triggers [Full Burst] cooperative attack.",
+    "english": "Fires a beam to deal {0} damage to the target.&nOn hit, Taunts the target for 2 rounds and reduces their ACU / CRIT / SPD (Cannot stack).&nIf <P-22 Harpyia> is in the squad, triggers [Full Burst] cooperative attack.",
     "korean": "빔 사격으로 대상에게 {0} 피해를 줍니다. &n적중 시, 2라운드 동안 대상을 도발하며 적중 / 치명타 / 행동력을 감소시킵니다. (중첩 불가)&n스쿼드 내 <P-22 하르페이아>가 있을 경우, [풀 버스트] 스킬 협동 공격을 유도합니다."
   },
   "SkillDesc_Skill_BR_Sleipnir_N_2": {
@@ -304,11 +304,11 @@
     "korean": "라운드 개시 시, 범위 내 아군의 공격력 / 치명타 / 행동력을 증가시키고 보호기를 제외한 기동형 아군을 보호합니다. &n스킬 레벨 10에서 자신의 위치와 관계없이 전체 적용됩니다.&n자신은 스킬 레벨 당 +9%의 적중 보정이 적용됩니다."
   },
   "SkillDesc_Skill_BR_Sleipnir_N_4": {
-    "english": "On evade, permanently increases own SPD (up to 3 stacks).&nIf <Where Are You Looking?> is at max stacks at the start of the round, removes SPD / Evasion Reduction effects from all allies.&nAlso, if at max stacks, increases the damage of <Limit Break>.",
+    "english": "On evade, permanently increases own SPD (max 3 stacks).&nIf <Where Are You Looking?> is at max stacks at the start of the round, removes SPD / Evasion Reduction effects from all allies.&nAlso, if at max stacks, increases the damage of <Limit Break>.",
     "korean": "회피 시, 자신의 행동력이 영구히 증가합니다. (최대 3중첩)&n라운드 개시 시 <어딜 보는거야?> 중첩이 최대치인경우, 아군 전체의 행동력 / 회피 감소 효과를 해제합니다. &n<어딜 보는거야?> 중첩이 최대치인경우, <한계돌파>의 피해량이 증가합니다."
   },
   "SkillDesc_Skill_BR_Sleipnir_N_5": {
-    "english": "At the start of the round, increases own EVA.&nWhen attacking, removes EVA / SPD Reduction effects from self and increases own EVA for 2 rounds (up to 3 stacks).&nWhen attacked, increases own EVA for 2 rounds (up to 2 stacks).",
+    "english": "At the start of the round, increases own EVA.&nWhen attacking, removes EVA / SPD Reduction effects from self and increases own EVA for 2 rounds (max 3 stacks).&nWhen attacked, increases own EVA for 2 rounds (max 2 stacks).",
     "korean": "라운드 개시 시, 자신의 회피가 증가합니다. &n공격 시, 자신에게 적용된 회피 / 행동력 감소 효과를 해제하며 2라운드 동안 자신의 회피가 증가합니다. (최대 3중첩)&n공격 받을 시, 2라운드 동안 자신의 회피가 증가합니다. (최대 2중첩)"
   },
   "SkillDesc_Skill_BR_Spriggan_N_1": {
@@ -348,11 +348,11 @@
     "korean": "전투 개시시 아군 전원의 AP를 증가시킵니다. &n라운드 개시시 둠 브링어 구성원과 파프니르의 AP를 증가시킵니다.&n자신을 제외한 아군이 공격을 성공시키거나 아군에게 스킬을 사용하면 모든 아군에게 1라운드 동안 공격력 증가 버프를 줍니다.(5중첩) 이 수치는 둠 브링어 구성원은 2배, 파프니르는 3배로 적용되며 추가로 스킬위력이 증가합니다. (5중첩)&n협동 공격, 공격 지원, 반격은 이 효과를 발동시키지 않습니다."
   },
   "SkillDesc_Skill_BR_Sterling_N_5": {
-    "english": "At the start of a round, grants a Defense/Effect Resistance increase buff to allies within range for 1 round. Additionally, grants Fafnir a Damage Nullification buff (fixed) once for 1 round. If any ally is hit, removes existing shield effects from all allies and grants a shield buff for 1 round (1 stack).",
+    "english": "At the start of a round, grants a Defense/Effect Resistance increase buff to allies within range for 1 round. Additionally, grants Fafnir a Damage Nullification buff (fixed) once for 1 round. If any ally is hit, removes existing shield effects from all allies and grants a shield buff for 1 round (1 stacks).",
     "korean": "라운드 개시시 1라운드 동안 범위내 아군에게 방어력/ 효과 저항 증가 버프를 줍니다. &n추가로 파프니르에게 1라운드 동안 피해 무효화 1회(고정)버프를 줍니다.&n어떤 아군이든 피격 당하면 모든 아군에게 기존 방어막 효과를 제거시키고 1라운드동안 방어막 버프를 줍니다.(1중첩)"
   },
   "SkillDesc_Skill_BR_TalonFeather_N_1": {
-    "english": "Deals {0} damage to a single target with the auto turret.&nOn hit, applies Marked / Increased Damage Taken to the target for 2 rounds (cannot stack).&nOn critical hit, removes the target's row/column protection effects.",
+    "english": "Deals {0} damage to a single target with the auto turret.&nOn hit, applies Marked / Increased Damage Taken to the target for 2 rounds (Cannot stack).&nOn critical hit, removes the target's row/column protection effects.",
     "korean": "오토 터렛으로 단일 대상에게 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상을 표식 / 받는 피해 증가 상태로 만듭니다. (중첩 불가)&n치명타 시, 대상의 행 / 열 보호 효과를 해제합니다."
   },
   "SkillDesc_Skill_BR_TalonFeather_N_2": {
@@ -416,7 +416,7 @@
     "korean": "조준 사격을 통해 단일 대상에게 {0} 보호 무시 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 표식 / 받는 피해 증가 효과를 부여합니다.&n적중 대상이 지원기인 경우, 해당 라운드 동안 스킬 사용 불가 상태로 만듭니다."
   },
   "SkillDesc_Skill_BR_Uroborus_N_2": {
-    "english": "When using a skill, orders sortie for allied Air-Type Bioroids, increasing their ATK / DEF Penetration for 3 rounds. (Up to 3 stacks)&nIf the target is a member of <Sky Knights>, additionally grants a damage boost that scales with the target’s missing HP.",
+    "english": "When using a skill, orders sortie for allied Air-Type Bioroids, increasing their ATK / DEF Penetration for 3 rounds. (max 3 stacks)&nIf the target is a member of <Sky Knights>, additionally grants a damage boost that scales with the target’s missing HP.",
     "korean": "스킬 사용 시, 기동형 바이오로이드 아군에게 출격 지시를 내려 3라운드 동안 공격력 / 방어 관통을 증가시킵니다. (최대 3중첩)&n<스카이 나이츠> 소속 전투원인 경우, 추가로 대상 HP에 반비례하여 피해량이 증가하는 효과를 부여합니다."
   },
   "SkillDesc_Skill_BR_Uroborus_N_3": {
@@ -548,7 +548,7 @@
     "korean": "근접 공격으로 {0} 피해를 주고, 대상이 도발 상태인 경우 받는 피해 감소 효과를 해제합니다.&n적중 대상의 HP가 50% 이하인 경우, 피해량이 증가합니다.&n<멧돼지 몰이>를 통해 적 처치 시, 전리품을 분배하여 다음 2라운드 동안 아군 전체의 AP를 증가시킵니다."
   },
   "SkillDesc_Skill_DS_Atalanta_N_3": {
-    "english": "At the start of the round, reduces damage taken due to seasoned combat techniques.&nWhen an attack hits, further reduces damage taken for 3 rounds. (Stacks up to 3 times)&nValor stacks cannot be removed by buff removal effects.&nWhen hit, gains a Counterattack effect.",
+    "english": "At the start of the round, reduces damage taken due to seasoned combat techniques.&nWhen an attack hits, further reduces damage taken for 3 rounds. (max 3 stacks)&nValor stacks cannot be removed by buff removal effects.&nWhen hit, gains a Counterattack effect.",
     "korean": "라운드 개시 시, 자신은 숙련된 전투 기술로 인해 받는 피해가 감소합니다.&n공격 적중 시, 3라운드 동안 자신이 받는 피해가 추가로 감소합니다. (최대 3중첩)&n<용맹> 중첩 효과는 강화 효과 해제로 해제되지 않습니다.&n피격 시, 자신은 반격 효과를 획득합니다."
   },
   "SkillDesc_Skill_DS_Atalanta_N_4": {
@@ -556,7 +556,7 @@
     "korean": "라운드 개시 시, 자신은 행 보호가 활성화되고, 같은 열에 위치한 공격기/지원기를 지정 보호합니다.&n라운드 개시 시, 아군 전체의 대 중장형 피해량을 증가시킵니다.&n<용맹> 중첩 단계에 따라 상기 효과가 증폭됩니다."
   },
   "SkillDesc_Skill_DS_Atalanta_N_5": {
-    "english": "At the start of the round, if Valor stacks are at maximum, nullifies incoming damage once with flawless shield technique.&nWhen hit, increases own SPD and CRIT for 3 rounds. (Up to 3 stacks)&nIf holding the Golden Apple, damage dealt increases the closer the target is to the back row.",
+    "english": "At the start of the round, if Valor stacks are at maximum, nullifies incoming damage once with flawless shield technique.&nWhen hit, increases own SPD and CRIT for 3 rounds. (max 3 stacks)&nIf holding the Golden Apple, damage dealt increases the closer the target is to the back row.",
     "korean": "라운드 개시 시 <용맹> 중첩이 최대치인 경우, 완벽한 방패술로 피해를 1회 무효화합니다.&n피격 시, 3라운드 동안 자신의 행동력 / 치명타가 증가합니다. (최대 3중첩)&n<황금사과>를 보유한 경우, 자신의 공격은 대상이 후열에 가까울 수록 피해량이 증가합니다."
   },
   "SkillDesc_Skill_DS_Baekto_N_1": {
@@ -620,7 +620,7 @@
     "korean": "라운드 개시 시, 회피 증가 / 받는 피해 감소 / 반격 효과가 발동합니다. <앙 가르드> 사용 시, 2라운드 동안 받는 피해 감소 효과가 기본 수치의 50%만큼 추가 적용되는 <반격 준비> 상태가 됩니다. <반격 준비> 상태에선 액티브 스킬에 방어 관통 증가가 적용됩니다."
   },
   "SkillDesc_Skill_DS_Cloverace_N_1": {
-    "english": "Swings the Mace of Friendship to deal {0} damage to a single target and taunts the target for 2 rounds on hit.&nIf the target is already taunted, reduces their damage taken from Light-type units for 2 rounds (up to 2 stacks).&nIf <Au> is present among allies, gains barrier and ignores damage reduction effects for the duration of the round.",
+    "english": "Swings the Mace of Friendship to deal {0} damage to a single target and taunts the target for 2 rounds on hit.&nIf the target is already taunted, reduces their damage taken from Light-type units for 2 rounds (max 2 stacks).&nIf <Au> is present among allies, gains barrier and ignores damage reduction effects for the duration of the round.",
     "korean": "우정의 철퇴를 휘둘러 단일 대상에게 {0} 피해를 입히고, 적중 시 2라운드 동안 대상을 도발합니다.&n적중 대상이 도발 상태인 경우, 2라운드 동안 대상의 대 경장형 피해량을 감소시킵니다. (최대 2중첩)&n아군 중 <아우>가 존재하는 경우, 해당 라운드 동안 방어막 / 피해 감소 무시 효과를 획득합니다."
   },
   "SkillDesc_Skill_DS_Cloverace_N_2": {
@@ -636,7 +636,7 @@
     "korean": "라운드 개시 시, 자신의 공격력이 증가하고, HP 25% 이상인 아군을 <아우>로 지목하여 2라운드 동안 대상의 공격력을 증가시킵니다.&n라운드 개시 시, 자신을 제외한 <D-엔터테인먼트> 전투원이 존재하는 경우 자신의 방어 관통이 증가합니다.&n공격 적중 시, 2라운드 동안 자신과 <아우>의 행동력을 증가시킵니다. (최대 3중첩)"
   },
   "SkillDesc_Skill_DS_Cloverace_N_5": {
-    "english": "At the start of the round, designates an enemy with equal or higher HP percentage than self as <Villain> and taunts them for 2 rounds.&nThe <Villain> designation ignores the target’s Effect Resistance but can be removed by dispelling harmful effects.&nWhen an enemy dies, all <Villain> targets become intimidated, reducing their Effect Resistance for 3 rounds (up to 3 stacks).&nWhen attacked, taunted enemies receive increased damage taken for 3 rounds (up to 3 stacks).",
+    "english": "At the start of the round, designates an enemy with equal or higher HP percentage than self as <Villain> and taunts them for 2 rounds.&nThe <Villain> designation ignores the target’s Effect Resistance but can be removed by dispelling harmful effects.&nWhen an enemy dies, all <Villain> targets become intimidated, reducing their Effect Resistance for 3 rounds (max 3 stacks).&nWhen attacked, taunted enemies receive increased damage taken for 3 rounds (max 3 stacks).",
     "korean": "라운드 개시 시, HP 비율이 같거나 자신보다 높은 적을 <악당>으로 지목하여 2라운드 동안 대상을 도발합니다.&n<악당> 지목은 대상의 효과 저항에 영향을 받지 않지만, 해로운 효과 해제로 해제할 수 있습니다.&n적 사망 시, 모든 <악당>은 기세에 눌려 3라운드 동안 효과 저항이 감소합니다. (최대 3중첩)&n공격 받을 시, 도발 상태인 적에게 3라운드 동안 받는 피해 증가 효과를 부여합니다. (최대 3중첩)"
   },
   "SkillDesc_Skill_DS_Faucre_N_1": {
@@ -648,7 +648,7 @@
     "korean": "채찍 연타로 범위 내 적에게 {0} 보호 무시 화염 피해를 줍니다.&n적중 시, 대상의 AP를 감소시키고 2라운드 동안 표식으로 지정하여 지속 화염 피해를 부여합니다.&n치명타 시, 피해량이 증가하며 대상의 강화 효과를 해제합니다."
   },
   "SkillDesc_Skill_DS_Faucre_N_3": {
-    "english": "At the start of the round, brainwashes nearby bioroids, unlocking power beyond their limits.&nWhile waiting, the same effect is reapplied for 2 additional rounds but inflicts fixed physical damage (cannot stack).&nWhen equipped with <Horns of the Evil Overlord>, side effects are suppressed and the duration of the continuous effect is doubled. Additionally, fixed physical damage from <Brainwashing Wave> while waiting is removed.&nThough not a bioroid, the subordinate <Legion Commander> is also personally bestowed with this magical power.",
+    "english": "At the start of the round, brainwashes nearby bioroids, unlocking power beyond their limits.&nWhile waiting, the same effect is reapplied for 2 additional rounds but inflicts fixed physical damage (Cannot stack).&nWhen equipped with <Horns of the Evil Overlord>, side effects are suppressed and the duration of the continuous effect is doubled. Additionally, fixed physical damage from <Brainwashing Wave> while waiting is removed.&nThough not a bioroid, the subordinate <Legion Commander> is also personally bestowed with this magical power.",
     "korean": "라운드 개시 시, 주변에 있는 바이오로이드들을 세뇌해 능력 이상의 힘을 끌어냅니다. &n대기 시, 동일한 효과가 2라운드 동안 추가 적용되지만 고정 물리 피해를 줍니다. (중첩 불가)&n<뽀끄루 대마왕의 뿔> 장착 시 부작용 발생을 억제하고, 지속 효과를 두 배로 증폭시킵니다. 또한 대기 시 발생하는 <세뇌의 파동>에 의한 고정 물리 피해를 제거합니다.&n비록 바이오로이드가 아닐지언정, 배하의 <군단장>에게도 친히 마력을 하사합니다."
   },
   "SkillDesc_Skill_DS_Faucre_N_4": {
@@ -696,7 +696,7 @@
     "korean": "라운드 개시 시, 자신의 효과 저항이 증가하고 방어막을 획득합니다.&n스쿼드 내에 <코요리>가 있을 경우, 상기 효과 수치가 두 배로 증폭됩니다."
   },
   "SkillDesc_Skill_DS_Kaen_N_5": {
-    "english": "Upon being hit, you gain the effects of counterattack and increased damage against large units for 2 rounds (cannot be stacked).&nUpon counterattack, your AP increases and your shield, based on your effects, is fully refreshed.",
+    "english": "Upon being hit, you gain the effects of counterattack and increased damage against large units for 2 rounds (Cannot stack).&nUpon counterattack, your AP increases and your shield, based on your effects, is fully refreshed.",
     "korean": "피격 시, 자신은 2라운드 동안 반격 / 대 기동형 피해량 증가 효과를 획득합니다. (중첩 불가)&n반격 시, 자신의 AP가 증가하고 자신의 효과에 의한 방어막을 최대 상태로 갱신합니다."
   },
   "SkillDesc_Skill_DS_Koyori_N_1": {
@@ -716,7 +716,7 @@
     "korean": "라운드 개시 시, 자신은 재공격 효과를 획득합니다.&n전투 속행 시 자신에게 전투 속행 효과가 없을 경우, <식신 바사로>의 효과를 다음 2라운드 동안 봉인하고 전투 속행 효과를 획득합니다."
   },
   "SkillDesc_Skill_DS_Koyori_N_5": {
-    "english": "At the start of the round, your AP increases.&nWhen an enemy dies, your SPD increases for 3 rounds. (Max 4 stacks)&nAt the start of the round, your skill power increases based on the number of SPD stacks from <Immediate Order>.",
+    "english": "At the start of the round, your AP increases.&nWhen an enemy dies, your SPD increases for 3 rounds. (max 4 stacks)&nAt the start of the round, your skill power increases based on the number of SPD stacks from <Immediate Order>.",
     "korean": "라운드 개시 시, 자신의 AP가 증가합니다.&n적 사망 시, 3라운드 동안 자신의 행동력이 증가합니다. (최대 4중첩)&n라운드 개시 시, <급급여율령>에 의한 행동력 중첩 수에 따라 자신의 스킬 위력이 증가합니다."
   },
   "SkillDesc_Skill_DS_KunoichiEnrai_N_1": {
@@ -732,7 +732,7 @@
     "korean": "라운드 개시 시 자신 외에 <쿠노이치>가 있을 경우, 자신은 방어막/피해 감소 무시 효과를 획득합니다. &n라운드 개시 시 자신 외의 <쿠노이치>가 없을 경우, 아군 공격기의 공격을 지원합니다.&n공격 적중 시, 대상이 지속 화염 피해 / 회피 감소 상태일 경우 피해량이 증가합니다."
   },
   "SkillDesc_Skill_DS_KunoichiEnrai_N_4": {
-    "english": "At the start of battle, increases own AP by 3.&nAfter the first round, at the start of each round, changes own AP. The effect does not activate until the round after the skill is used.&nDuring support/cooperative attacks, the skill power of the next direct attack is increased for 1 time. (Maximum 1 stack)",
+    "english": "At the start of battle, increases own AP by 3.&nAfter the first round, at the start of each round, changes own AP. The effect does not activate until the round after the skill is used.&nDuring support/cooperative attacks, the skill power of the next direct attack is increased for 1 time. (max 1 stacks)",
     "korean": "전투 개시 시, 자신의 AP가 3 증가합니다.&n첫 라운드 이후 라운드 개시 시, 자신의 AP를 변경합니다. 자신이 스킬을 사용한 다음 라운드까지는 효과가 발동하지 않습니다.&n지원/협동 공격 시, 다음 자신의 직접 공격 1회에 한하여 스킬 위력이 증가합니다. (최대 1중첩)"
   },
   "SkillDesc_Skill_DS_KunoichiEnrai_N_5": {
@@ -760,7 +760,7 @@
     "korean": "전투 개시 시, 자신의 대 경장형 피해량이 증가합니다.&n<불꽃의 춤> 효과 중 라운드 경과에 따른 공격력 점감이 발생하지 않습니다.&n<시라누이> 사용 시, 스쿼드 내에 <쿠노이치 엔라이>가 있을 경우 <호무라> 협동공격을 유도합니다."
   },
   "SkillDesc_Skill_DS_KunoichiShiden_N_1": {
-    "english": "Deals {0} adaptive elemental damage to a single target.&nThe adaptive element is based on the lower of the target's electric resistance and fire resistance.&n(If the resistance values are the same, fire damage is dealt.)&nOn hit, inflicts [Electrocution] and [Burn] debuffs on the target for 2 rounds. (Up to 3 stacks)&nIf <Kunoichi Enrai>, <Kunoichi Kaen>, or <Kunoichi Zero> is in the squad, a cooperative attack is triggered with [Homura], [Shiranui], or [Stealth] skills at 100% chance.&nIf multiple combatants can perform a cooperative attack, priority is given in the following order: (Kunoichi Enrai -> Kunoichi Kaen -> Kunoichi Zero).&nIf there are multiple enemies, the closest enemy within range is selected first. If cooperative attack is not possible due to range, the next available combatant will perform the cooperative attack.&nIf no cooperative attack targets are available, Kunoichi Shiden performs a cooperative attack with [Thunderous Dance].",
+    "english": "Deals {0} adaptive elemental damage to a single target.&nThe adaptive element is based on the lower of the target's electric resistance and fire resistance.&n(If the resistance values are the same, fire damage is dealt.)&nOn hit, inflicts [Electrocution] and [Burn] debuffs on the target for 2 rounds. (max 3 stacks)&nIf <Kunoichi Enrai>, <Kunoichi Kaen>, or <Kunoichi Zero> is in the squad, a cooperative attack is triggered with [Homura], [Shiranui], or [Stealth] skills at 100% chance.&nIf multiple combatants can perform a cooperative attack, priority is given in the following order: (Kunoichi Enrai -> Kunoichi Kaen -> Kunoichi Zero).&nIf there are multiple enemies, the closest enemy within range is selected first. If cooperative attack is not possible due to range, the next available combatant will perform the cooperative attack.&nIf no cooperative attack targets are available, Kunoichi Shiden performs a cooperative attack with [Thunderous Dance].",
     "korean": "단일 대상에게 {0} 적응형 속성 피해를 입힙니다.&n&n적응형 속성은 피격 당한 적의 전기 저항과 화염 저항 중 더 낮은 쪽의 속성 데미지를 입힙니다. &n(저항 수치가 같을 경우 화염 속성 데미지) &n적중 시, 적에게 2라운드 동안 [감전], [화상] 디버프를 입힙니다. (최대 3중첩)&n&n스쿼드에 쿠노이치 엔라이, 쿠노이치 카엔, 쿠노이치 제로가 있을 시, 100%로 [호무라], [시라누이], [은밀] 스킬로 협동 공격이 유도됩니다. &n&n협동 공격이 가능한 전투원이 여럿인 경우, 위 표기된 순으로 우선권을 가집니다. (쿠노이치 엔라이 -> 쿠노이치 카엔 -> 쿠노이치 제로 순)&n&n다수의 적이 대상인 경우, 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다. &n&n협동 공격이 가능한 대상이 없을 경우, 쿠노이치 시덴이 [뇌화난무] 로 협동 공격합니다."
   },
   "SkillDesc_Skill_DS_KunoichiShiden_N_2": {
@@ -788,11 +788,11 @@
     "korean": "지정 범위에 {0} 보호 무시 전기 피해를 주고, 대상의 행동력 / 회피 / 전기 속성 저항을 감소시킵니다. &n대상이 화염/냉기 속성 저항 감소 상태일 경우, 피해량이 증가합니다."
   },
   "SkillDesc_Skill_DS_KunoichiZero_N_3": {
-    "english": "At the start of the round, increases EVA , ACU, and CRIT  of self and designated area allies, and SPD increases with stacking (up to 3 stacks).",
+    "english": "At the start of the round, increases EVA , ACU, and CRIT  of self and designated area allies, and SPD increases with stacking (max 3 stacks).",
     "korean": "라운드 개시 시, 자신과 지정 범위 아군의 회피 / 적중 / 치명타가 증가하고, 행동력이 중첩 증가합니다. (최대 3중첩)"
   },
   "SkillDesc_Skill_DS_KunoichiZero_N_4": {
-    "english": "At the start of the round, increases own electric resistance.&nUpon defeating an enemy, increases own AP and stacks attack power (up to 3 stacks).",
+    "english": "At the start of the round, increases own electric resistance.&nUpon defeating an enemy, increases own AP and stacks attack power (max 3 stacks).",
     "korean": "라운드 개시 시, 자신의 전기 저항이 증가합니다.&n적 처치 시, 자신의 AP가 증가하고 공격력이 중첩되어 증가합니다. (최대 3중첩)"
   },
   "SkillDesc_Skill_DS_KunoichiZero_N_5": {
@@ -1076,35 +1076,35 @@
     "korean": "공격이 적중 시, 대상에게 보호무시 비활성 효과를 적용합니다. (스킬 레벨이 올라갈 수록 발동확률이 증가하며 10 레벨에서 100%확률로 발동합니다.)"
   },
   "SkillDesc_Skill_ExtPassiveSkill_N_2319": {
-    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at level 10 activates with 100% chance.)",
+    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at Level 10 it activates with 100% chance.)",
     "korean": "공격이 적중 시, 대상에게 보호무시 비활성 효과를 적용합니다. (스킬 레벨이 올라갈 수록 발동확률이 증가하며 10 레벨에서 100%확률로 발동합니다.)"
   },
   "SkillDesc_Skill_ExtPassiveSkill_N_2320": {
-    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at level 10 activates with 100% chance.)",
+    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at Level 10 it activates with 100% chance.)",
     "korean": "공격이 적중 시, 대상에게 보호무시 비활성 효과를 적용합니다. (스킬 레벨이 올라갈 수록 발동확률이 증가하며 10 레벨에서 100%확률로 발동합니다.)"
   },
   "SkillDesc_Skill_ExtPassiveSkill_N_2321": {
-    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at level 10 activates with 100% chance.)",
+    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at Level 10 it activates with 100% chance.)",
     "korean": "공격이 적중 시, 대상에게 보호무시 비활성 효과를 적용합니다. (스킬 레벨이 올라갈 수록 발동확률이 증가하며 10 레벨에서 100%확률로 발동합니다.)"
   },
   "SkillDesc_Skill_ExtPassiveSkill_N_2322": {
-    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at level 10 activates with 100% chance.)",
+    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at Level 10 it activates with 100% chance.)",
     "korean": "공격이 적중 시, 대상에게 보호무시 비활성 효과를 적용합니다. (스킬 레벨이 올라갈 수록 발동확률이 증가하며 10 레벨에서 100%확률로 발동합니다.)"
   },
   "SkillDesc_Skill_ExtPassiveSkill_N_2323": {
-    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at level 10 activates with 100% chance.)",
+    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at Level 10 it activates with 100% chance.)",
     "korean": "공격이 적중 시, 대상에게 보호무시 비활성 효과를 적용합니다. (스킬 레벨이 올라갈 수록 발동확률이 증가하며 10 레벨에서 100%확률로 발동합니다.)"
   },
   "SkillDesc_Skill_ExtPassiveSkill_N_2324": {
-    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at level 10 activates with 100% chance.)",
+    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at Level 10 it activates with 100% chance.)",
     "korean": "공격이 적중 시, 대상에게 보호무시 비활성 효과를 적용합니다. (스킬 레벨이 올라갈 수록 발동확률이 증가하며 10 레벨에서 100%확률로 발동합니다.)"
   },
   "SkillDesc_Skill_ExtPassiveSkill_N_2325": {
-    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at level 10 activates with 100% chance.)",
+    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at Level 10 it activates with 100% chance.)",
     "korean": "공격이 적중 시, 대상에게 보호무시 비활성 효과를 적용합니다. (스킬 레벨이 올라갈 수록 발동확률이 증가하며 10 레벨에서 100%확률로 발동합니다.)"
   },
   "SkillDesc_Skill_ExtPassiveSkill_N_2326": {
-    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at level 10 activates with 100% chance.)",
+    "english": "On hit, applies Ignore Protection Disable effect to the target. (Activation chance increases as skill level rises, and at Level 10 it activates with 100% chance.)",
     "korean": "공격이 적중 시, 대상에게 보호무시 비활성 효과를 적용합니다. (스킬 레벨이 올라갈 수록 발동확률이 증가하며 10 레벨에서 100%확률로 발동합니다.)"
   },
   "SkillDesc_Skill_LC_Chii_N_1": {
@@ -1872,7 +1872,7 @@
     "korean": "라운드 개시 시, 자신은 행 보호 효과를 획득합니다.&n라운드 개시 시, 3라운드 동안 자신의 사거리가 증가하고 사거리 감소 효과 면역 상태가 됩니다.&n<아틀란티스의 거신>에 의한 사거리 증가 효과가 3중첩 이상인 경우, [큰 파도]를 사용합니다.&n상기 효과는 효과 해제로 해제되지 않습니다."
   },
   "SkillDesc_Skill_MP_GigantesDagon_Challenge1_4": {
-    "english": "At the start of the round, grant Damage Nullification (2 times) to Bio-Roids within range. If there is at least one allied Bioroid at the start of the round, you gain Damage Nullification (1 time) effect. The above effect cannot be removed by effect removal.",
+    "english": "At the start of the round, grant Damage Nullification (2x) to Bio-Roids within range. If there is at least one allied Bioroid at the start of the round, you gain Damage Nullification (1x) effect. The above effect cannot be removed by effect removal.",
     "korean": "라운드 개시 시, 범위 내 바이오로이드에게 피해 무효화 (2회) 효과를 부여합니다.&n라운드 개시 시 아군 바이오로이드가 1기 이상 있을 경우, 자신은 피해 무효화 (1회) 효과를 획득합니다.&n상기 효과는 효과 해제로 해제되지 않습니다."
   },
   "SkillDesc_Skill_MP_GigantesDagon_Challenge1_5": {
@@ -1948,7 +1948,7 @@
     "korean": "라운드 개시 시, 방어력이 증가하고 받는 피해가 감소하며 열 보호를 활성화합니다.&n피격 시, 자신의 현재 HP에 비례하여 공격자의 방어 관통을 감소시켜 대미지를 계산합니다."
   },
   "SkillDesc_Skill_MP_HauntedFortress_N_4": {
-    "english": "At the start of a round, designate an ally, excluding protectors placed behind you in the same row. (Cannot be removed) Allies under designate protection gain Damage Minimization once and gain a Lower Limit of Attribute Resistance. If you die without being designated protected, increase the enemy's Attack Power / SPD and decrease the ally's Attack Power / SPD. If an ally dies while under designate protection, decrease the enemy's AP.",
+    "english": "At the start of a round, designate an ally, excluding protectors placed behind you in the same row. (Unremovable) Allies under designate protection gain Damage Minimization once and gain a Lower Limit of Attribute Resistance. If you die without being designated protected, increase the enemy's Attack Power / SPD and decrease the ally's Attack Power / SPD. If an ally dies while under designate protection, decrease the enemy's AP.",
     "korean": "라운드 개시 시, 자신과 같은 행 뒤쪽에 배치된 보호기를 제외한 아군을 지정 보호합니다. (해제 불가) 지정 보호 중인 아군은 피해 최소화를 1회 획득하며 속성 저항 하한이 생성됩니다.&n자신에 의한 지정 보호가 없는 상태에서 자신 사망 시, 적의 공격력 / 행동력을 증가시키고, 아군의 공격력 / 행동력을 감소시킵니다.&n자신에 의한 지정 보호가 있는 상태에서 아군 사망 시, 적의 AP를 감소시킵니다."
   },
   "SkillDesc_Skill_MP_HauntedFortress_N_5": {
@@ -2064,7 +2064,7 @@
     "korean": "지정 범위의 적에게 {0}의 보호 무시 피해를 줍니다.&n적중 시 자신이 <피해망상> 상태인 경우, 재공격 효과를 획득합니다."
   },
   "SkillDesc_Skill_MP_JangHwa_TU3_3": {
-    "english": "At the start of battle, gains Damage Mitigation (2 times). At the start of the round, if <C-77 HongRyeon> is present, applies an unremovable mark to the target. If <C-77 HongRyeon> is absent, gains AoE damage focus effect.",
+    "english": "At the start of battle, gains Damage Mitigation (2x). At the start of the round, if <C-77 HongRyeon> is present, applies an unremovable mark to the target. If <C-77 HongRyeon> is absent, gains AoE damage focus effect.",
     "korean": "전투 개시 시, 자신은 피해 최소화 (2회) 효과를 획득합니다.&n라운드 개시 시 <C-77 홍련>이 있을 경우, 대상에게 해제 불가한 표식을 부여합니다.&n라운드 개시 시 <C-77 홍련>이 없을 경우, 자신은 광역 피해 집중 효과를 획득합니다."
   },
   "SkillDesc_Skill_MP_JangHwa_TU3_4": {
@@ -2180,19 +2180,19 @@
     "korean": "순식간에 대상에게 접근해 피해를 줍니다. &n방어막 / 피해 감소 / 보호 효과를 무시하며, 대상의 HP가 낮을수록 피해량이 증가합니다.&n해당 공격으로 적을 처치 시, AP가 증가합니다."
   },
   "SkillDesc_Skill_MP_Kidnapper_EV19_TU2_3": {
-    "english": "On Attack Hit, increases ATK for 5 rounds (up to 5 stacks).&nIf an attack misses, increases ACU (up to 5 stacks).&nACU increase is removed when an attack hits.&nDamage increases the closer the target is to the front row.",
+    "english": "On Attack Hit, increases ATK for 5 rounds (max 5 stacks).&nIf an attack misses, increases ACU (max 5 stacks).&nACU increase is removed when an attack hits.&nDamage increases the closer the target is to the front row.",
     "korean": "공격 적중 시, 5라운드 동안 공격력이 증가합니다. (최대 5중첩)&n공격이 적중하지 않을 시, 적중률이 증가합니다. (최대 5중첩) &n적중 증가 효과는 공격이 적중 시 사라집니다. &n적이 전열에 가까울 수록 피해량이 증가합니다."
   },
   "SkillDesc_Skill_MP_Kidnapper_EV19_TU2_4": {
-    "english": "When hit, senses threat and gains EVA while decreasing DEF for the current round (up to 4 stacks).&nWhen hit, senses threat and increases all Attribute Resistances and SPD for 2 rounds (up to 4 stacks).&nAt the start of each round, gains \"Counterattack at 75% Power.\"&nCounterattack is removed when triggered.",
+    "english": "When hit, senses threat and gains EVA while decreasing DEF for the current round (max 4 stacks).&nWhen hit, senses threat and increases all Attribute Resistances and SPD for 2 rounds (max 4 stacks).&nAt the start of each round, gains \"Counterattack at 75% Power.\"&nCounterattack is removed when triggered.",
     "korean": "피격 시, 위협을 감지해 해당 라운드 동안 회피가 증가하며 공격력이 감소합니다. (최대 4중첩)&n피격 시, 위협을 감지해 2라운드 동안 모든 속성 저항력 및 행동력이 증가합니다. (최대 4중첩) &n매 라운드 시작 시, '75%의 위력으로 반격' 효과를 획득합니다. &n반격 효과는 반격 시 사라집니다."
   },
   "SkillDesc_Skill_MP_Kidnapper_EV19_TU2_5": {
-    "english": "When an enemy dies, increases SPD and CRIT of self and allies in the designated area for 3 rounds (up to 3 stacks).",
+    "english": "When an enemy dies, increases SPD and CRIT of self and allies in the designated area for 3 rounds (max 3 stacks).",
     "korean": "적이 사망 시, 자신 및 지정 범위의 아군들의 행동력과 치명타를 3라운드 간 증가시킵니다. (최대 3중첩)"
   },
   "SkillDesc_Skill_MP_Kidnapper_EV19_TU_1": {
-    "english": "Charges with claws to deal damage to the target and the enemy directly behind (up to 5 stacks).&nReduces the target's DEF for 5 rounds (up to 5 stacks).",
+    "english": "Charges with claws to deal damage to the target and the enemy directly behind (max 5 stacks).&nReduces the target's DEF for 5 rounds (max 5 stacks).",
     "korean": "클로 돌진으로 목표와 바로 뒤의 대상에게 피해를 줍니다. (최대 5중첩)&n5라운드 동안 공격 대상의 방어력을 감소시킵니다. (최대 5중첩)"
   },
   "SkillDesc_Skill_MP_Kidnapper_EV19_TU_2": {
@@ -2200,15 +2200,15 @@
     "korean": "순식간에 대상에게 접근해 피해를 줍니다. &n방어막 / 피해 감소 / 보호 효과를 무시하며, 대상의 HP가 낮을수록 피해량이 증가합니다. &n해당 공격으로 적을 처치 시, AP가 증가합니다."
   },
   "SkillDesc_Skill_MP_Kidnapper_EV19_TU_3": {
-    "english": "On Attack Hit, increases ATK for 5 rounds (up to 5 stacks).&nIf an attack misses, increases ACU for 5 rounds (up to 5 stacks).&nACU increase is removed when an attack hits.",
+    "english": "On Attack Hit, increases ATK for 5 rounds (max 5 stacks).&nIf an attack misses, increases ACU for 5 rounds (max 5 stacks).&nACU increase is removed when an attack hits.",
     "korean": "공격 적중 시, 5라운드 동안 공격력이 증가합니다. (최대 5중첩)&n공격이 적중하지 않을 시, 5라운드 동안 적중률이 증가합니다. (최대 5중첩) &n적중 증가 효과는 공격이 적중 시 사라집니다."
   },
   "SkillDesc_Skill_MP_Kidnapper_EV19_TU_4": {
-    "english": "When hit, senses threat and gains EVA while decreasing ATK for the current round (up to 4 stacks).&nWhen hit, senses threat and increases all Attribute Resistances for 2 rounds (up to 4 stacks).",
+    "english": "When hit, senses threat and gains EVA while decreasing ATK for the current round (max 4 stacks).&nWhen hit, senses threat and increases all Attribute Resistances for 2 rounds (max 4 stacks).",
     "korean": "피격 시, 위협을 감지해 해당 라운드 동안 회피가 증가하며 공격력이 감소합니다. (최대 4중첩)&n피격 시, 위협을 감지해 2라운드 동안 모든 속성 저항력이 증가합니다.(최대 4중첩)"
   },
   "SkillDesc_Skill_MP_Kidnapper_EV19_TU_5": {
-    "english": "When an enemy dies, increases SPD and CRIT for 3 rounds (up to 3 stacks).",
+    "english": "When an enemy dies, increases SPD and CRIT for 3 rounds (max 3 stacks).",
     "korean": "적이 사망 시, 3라운드 동안 행동력과 치명타가 증가합니다.(최대 3중첩)"
   },
   "SkillDesc_Skill_MP_Kidnapper_EW_1": {
@@ -2264,7 +2264,7 @@
     "korean": "전투 개시시 피해 무효화 6회를 얻습니다.&n라운드 개시시 필드에 레모네이드 베타가 있으면 화염 저항/전기 저항/ 냉기 저항이 대폭 증가합니다.&n화염 공격 피격시, 1라운드 동안 화염 저항이 증가하는 [화염 적응] 일반 효과를 3중첩까지 얻습니다. [화염 적응]이 3중첩이상인 상태에서 추가로 화염 공격 피격시 추가로 화염 저항 증가 일반 효과를 얻습니다.&n전기 공격 피격시, 1라운드 동안 전기 저항이 증가하는 [전기 적응] 일반 효과를 3중첩까지 얻습니다. [전기 적응]이 3중첩이상인 상태에서 추가로 전기 공격 피격시 추가로 전기 저항 증가 일반 효과를 얻습니다.&n냉기 공격 피격시, 1라운드 동안 냉기 저항이 증가하는 [냉기 적응] 일반 효과를 3중첩까지 얻습니다. [냉기 적응]이 3중첩이상인 상태에서 추가로 냉기 공격 피격시 추가로 냉기 저항 증가 일반 효과를 얻습니다."
   },
   "SkillDesc_Skill_MP_LemonadeBeta_C_4": {
-    "english": "At the start of a round, permanently applies a damage reduction debuff to all enemies and a general effect that reduces Fire, Cold, and Electric resistance (maximum 10 stacks). If hit while unable to use skills, unable to act, or under a range increase or decrease status, deals Physical damage over time to all enemies for 1 round. If hit by a Fire attack 3 or more times per round, applies a general effect of Fire damage over time for 1 round and a harmful effect that reduces Fire resistance for 2 rounds. If hit by an Electric attack 3 or more times per round, applies a general effect of Electric damage over time for 1 round and a harmful effect that reduces Electric resistance for 2 rounds. If hit by a Cold attack 3 or more times per round, applies a general effect of Cold damage over time for 1 round and a harmful effect that reduces Cold resistance for 2 rounds. If my attack misses, applies a harmful effect that reduces Evasion to all enemies for 2 rounds.",
+    "english": "At the start of a round, permanently applies a damage reduction debuff to all enemies and a general effect that reduces Fire, Cold, and Electric resistance (max 10 stacks). If hit while unable to use skills, unable to act, or under a range increase or decrease status, deals Physical damage over time to all enemies for 1 round. If hit by a Fire attack 3 or more times per round, applies a general effect of Fire damage over time for 1 round and a harmful effect that reduces Fire resistance for 2 rounds. If hit by an Electric attack 3 or more times per round, applies a general effect of Electric damage over time for 1 round and a harmful effect that reduces Electric resistance for 2 rounds. If hit by a Cold attack 3 or more times per round, applies a general effect of Cold damage over time for 1 round and a harmful effect that reduces Cold resistance for 2 rounds. If my attack misses, applies a harmful effect that reduces Evasion to all enemies for 2 rounds.",
     "korean": "라운드 개시시, 영구적으로 적 전체에게 받는 피해 감소 약화 및 화염 저항/ 냉기 저항/ 전기 저항 감소 일반 효과를 줍니다.(최대 10중첩)&n피격시 스킬 사용 불가/ 행동 불가/ 사거리 증가 or 감소 상태라면 1라운드 동안 적 전체에게 물리 지속 피해를 줍니다.&n매 라운드 3회 이상 화염 공격 피격시 , 1라운드 동안 화염 지속 피해 일반 효과 및 2라운드동안 화염 저항 감소 해로운 효과를 줍니다.&n매 라운드 3회 이상 전기 공격 피격시,  1라운드 동안 전기 지속 피해 일반 효과 및 2라운드동안 전기 저항 감소 해로운 효과를 줍니다.&n매 라운드 3회 이상 냉기 공격 피격시,, 1라운드 동안 냉기 지속 피해 일반 효과 및 2라운드동안 냉기 저항 감소 해로운 효과를 줍니다.&n내 공격이 적중하지 않으면 2라운드 동안 적 전체에게 회피 감소 해로운 효과를 줍니다."
   },
   "SkillDesc_Skill_MP_LemonadeBeta_C_5": {
@@ -2508,7 +2508,7 @@
     "korean": "라운드 개시 시, 아군이 전장에 다수 존재할 수록 추가 효과를 받습니다.&n1단계 (3개체 이상) : 행동력 15% 증가"
   },
   "SkillDesc_Skill_MP_MarionnetteAR_N_4": {
-    "english": "Upon death, spread the news to allies to increase their AP and apply Attack Damage / Critical Hit / Damage Taken Reduction effects for 2 rounds. (Max 4 stacks)",
+    "english": "Upon death, spread the news to allies to increase their AP and apply Attack Damage / Critical Hit / Damage Taken Reduction effects for 2 rounds. (max 4 stacks)",
     "korean": "자신 사망 시, 아군에게 상황을 전파해 AP를 상승시키고, 2라운드 동안 공격력 / 치명타 / 받는 피해 감소 효과를 적용합니다. (최대 4중첩)"
   },
   "SkillDesc_Skill_MP_MarionnetteAR_V2_TU_1": {
@@ -2524,7 +2524,7 @@
     "korean": "라운드 개시 시, 아군이 전장에 다수 존재할 수록 추가 효과를 받습니다.&n1단계 (3개체 이상) : 행동력 15% 증가&n2단계 (5개체 이상) : 광역 피해 분산 15%"
   },
   "SkillDesc_Skill_MP_MarionnetteAR_V2_TU_4": {
-    "english": "Upon death, spread the news to allies to increase their AP and apply Attack Power / Critical Hit / Damage Taken Reduction effects for 2 rounds (maximum 4 stacks). Additionally, reduce the Attack Power / Critical Hit of all enemies for 2 rounds.",
+    "english": "Upon death, spread the news to allies to increase their AP and apply Attack Power / Critical Hit / Damage Taken Reduction effects for 2 rounds (max 4 stacks). Additionally, reduce the Attack Power / Critical Hit of all enemies for 2 rounds.",
     "korean": "자신 사망 시, 아군에게 상황을 전파해 AP를 상승시키고, 2라운드 동안 공격력 / 치명타 / 받는 피해 감소 효과를 적용합니다. (최대 4중첩)&n또한 2라운드 동안 모든 적의 공격력 / 치명타를 감소시킵니다."
   },
   "SkillDesc_Skill_MP_MarionnetteDM_BOSS_TU_1": {
@@ -2540,7 +2540,7 @@
     "korean": "전투 개시 시, 유독성 강화약을 주입해 신체를 강화하여 이하의 해제 불가 효과를 획득합니다.&n자신이 받는 피해가 감소하고, 방어 관통이 증가하며, 광역 피해 분산이 적용됩니다.&n또한 행동 불능 / 스킬 사용 불가 / 사거리 감소 / AP 감소 / AP 변경 효과에 면역 상태가 됩니다."
   },
   "SkillDesc_Skill_MP_MarionnetteDM_BOSS_TU_4": {
-    "english": "At the start of a round, supports the attacks of allies within a designated range. This effect cannot be removed by buff removal. When your attack hits, the Defense and Evasion of allies within the range are permanently increased. (Maximum 5 stacks)",
+    "english": "At the start of a round, supports the attacks of allies within a designated range. This effect cannot be removed by buff removal. When your attack hits, the Defense and Evasion of allies within the range are permanently increased. (max 5 stacks)",
     "korean": "라운드 개시 시, 지정 범위의 아군의 공격을 지원합니다. 해당 효과는 강화 해제로 해제할 수 없습니다.&n자신의 공격이 적중하면, 영구적으로 범위 내 아군의 방어력 / 회피가 증가합니다. (최대 5중첩)"
   },
   "SkillDesc_Skill_MP_MarionnetteDM_BOSS_TU_5": {
@@ -2560,7 +2560,7 @@
     "korean": "라운드 개시 시, 아군이 전장에 다수 존재할 수록 추가 효과를 받습니다.&n1단계 (3개체 이상) : 행동력 15% 증가"
   },
   "SkillDesc_Skill_MP_MarionnetteDM_N_4": {
-    "english": "At the start of a round, support attacks for allies within a designated range. If your attack hits, the Defense and Evasion of allies within the range increase for 3 rounds. (Max. 5 stacks)",
+    "english": "At the start of a round, support attacks for allies within a designated range. If your attack hits, the Defense and Evasion of allies within the range increase for 3 rounds. (max 5 stacks)",
     "korean": "라운드 개시 시, 지정 범위의 아군의 공격을 지원합니다.&n자신의 공격이 적중하면, 3라운드 동안 범위 내 아군의 방어력 / 회피가 증가합니다. (최대 5중첩)"
   },
   "SkillDesc_Skill_MP_MarionnetteDM_N_5": {
@@ -2580,7 +2580,7 @@
     "korean": "라운드 개시 시, 아군이 전장에 다수 존재할 수록 추가 효과를 받습니다.&n1단계 (3개체 이상) : 행동력 +15%&n2단계 (7개체 이상) : 광역 스킬 위력 -15%"
   },
   "SkillDesc_Skill_MP_MarionnetteDM_V2_TU_4": {
-    "english": "At the start of a round, support attacks for allies within a designated range. If your attack hits, the Defense and Evasion of allies within the range increase for 3 rounds. (Max. 5 stacks)",
+    "english": "At the start of a round, support attacks for allies within a designated range. If your attack hits, the Defense and Evasion of allies within the range increase for 3 rounds. (max 5 stacks)",
     "korean": "라운드 개시 시, 지정 범위의 아군의 공격을 지원합니다.&n자신의 공격이 적중하면, 3라운드 동안 범위 내 아군의 방어력 / 회피가 증가합니다. (최대 5중첩)"
   },
   "SkillDesc_Skill_MP_MarionnetteDM_V2_TU_5": {
@@ -2620,7 +2620,7 @@
     "korean": "라운드 개시 시, 아군이 전장에 다수 존재할 수록 추가 효과를 받습니다.&n1단계 (3개체 이상) : 행동력 15% 증가"
   },
   "SkillDesc_Skill_MP_MarionnetteHA_N_4": {
-    "english": "Row protection is activated at the start of odd rounds, and column protection is activated at the start of even rounds. (Cannot be removed) At the start of a round, grants damage reduction to allies within a designated range for 1 round.",
+    "english": "Row protection is activated at the start of odd rounds, and column protection is activated at the start of even rounds. (Unremovable) At the start of a round, grants damage reduction to allies within a designated range for 1 round.",
     "korean": "홀수 라운드 개시 시, 행 보호가, 짝수 라운드 개시 시, 열 보호가 활성화 됩니다. (해제 불가)&n라운드 개시 시, 1라운드 동안 지정 범위의 아군에게 받는 피해 감소 효과를 부여합니다."
   },
   "SkillDesc_Skill_MP_MarionnetteHA_N_5": {
@@ -2944,7 +2944,7 @@
     "korean": "라운드 개시시, 5라운드동안 행동력과 공격력이 증가하는 [타락] 버프를 획득합니다. [타락], [타락 중첩], [희생 제의]를 합쳐 3중첩 이상이면 반격합니다."
   },
   "SkillDesc_Skill_MP_Nidhogg_N_5": {
-    "english": "At the start of a round, if there are 2 or more allies, you gain 2 stacks of Damage Nullification. An additional stack is added for every additional ally (maximum 4 stacks). If you are the only one remaining, your AP increases.",
+    "english": "At the start of a round, if there are 2 or more allies, you gain 2 stacks of Damage Nullification. An additional stack is added for every additional ally (up to 4 stacks). If you are the only one remaining, your AP increases.",
     "korean": "라운드 개시시, 아군 인원이 2명 이상이면 피해 무효화를 2회 얻습니다. 아군이 1명 늘어날때마다 1회 추가됩니다. (최대 4회) 혼자 남을 경우 AP가 증가합니다"
   },
   "SkillDesc_Skill_MP_NightChick13_N_1": {
@@ -3544,7 +3544,7 @@
     "korean": "레일건을 준비해,  다음 공격은 치명타로 명중하고 일정 라운드 동안 적중/행동력이 증가합니다."
   },
   "SkillDesc_Skill_MP_Stalker13_N_3": {
-    "english": "At the start of battle, deals persistent Cold damage to all enemies and reduces their Cold Resistance each round (up to 10 stacks).&nThese effects cannot be removed and are permanent.",
+    "english": "At the start of battle, deals persistent Cold damage to all enemies and reduces their Cold Resistance each round (max 10 stacks).&nThese effects cannot be removed and are permanent.",
     "korean": "전투 개시 시, 모든 적에게 지속 냉기 데미지를 입히고 라운드마다 냉기저항을 감소시킵니다. (최대 10 중첩)&n이 효과들은 해제되지 않으며 영구적입니다."
   },
   "SkillDesc_Skill_MP_Stalker13_N_4": {
@@ -3652,7 +3652,7 @@
     "korean": "전투 개시 시, 공격력 / 적중 / 행동력 증가하고 효과 저항이 적용됩니다. 해당 효과들은 강화 효과 해제로 해제할 수 없습니다."
   },
   "SkillDesc_Skill_MP_Tracker_EV1_4": {
-    "english": "After combat starts, takes minimum damage for a certain number of hits (2 times).",
+    "english": "After combat starts, takes minimum damage for a certain number of hits (2x).",
     "korean": "전투 개시 후, 피격 시 일정 횟수(2회)에 한해 최소 피해만 받습니다."
   },
   "SkillDesc_Skill_MP_Tracker_N_1": {
@@ -3700,7 +3700,7 @@
     "korean": "플라즈마 커터로 {0} 피해를 줍니다. &n적중 시, 대상의 <방어 강화>를 해제하고 2라운드 동안 <방어 약화 3>을 부여합니다."
   },
   "SkillDesc_Skill_MP_UnderWatcherArm_EW_2": {
-    "english": "Fires a pulse beam dealing {0} damage to the designated area. Upon hitting, you gain <Strategy Formulation (Mobility) 5>. +300% Hit Correction applied.",
+    "english": "Fires a pulse beam dealing {0} damage to the designated area. Upon hitting, you gain <Strategy Formulation (Air) 5>. +300% Hit Correction applied.",
     "korean": "펄스 빔을 발사하여 지정 범위에 {0} 피해를 줍니다. &n적중 시, 자신은 <전략 수립 (기동) 5>를 획득합니다.&n+300% 적중 보정이 적용됩니다."
   },
   "SkillDesc_Skill_MP_UnderWatcherArm_EW_3": {
@@ -3720,7 +3720,7 @@
     "korean": "플라즈마 커터로 {0} 피해를 줍니다. &n적중 시, 대상의 <방어 강화>를 해제합니다."
   },
   "SkillDesc_Skill_MP_UnderWatcherArm_N_2": {
-    "english": "Fires a pulse beam dealing {0} damage to the designated area. Upon hitting, you gain <Strategy Formulation (Mobility) 5>. +200% Hit Correction applied.",
+    "english": "Fires a pulse beam dealing {0} damage to the designated area. Upon hitting, you gain <Strategy Formulation (Air) 5>. +200% Hit Correction applied.",
     "korean": "펄스 빔을 발사하여 지정 범위에 {0} 피해를 줍니다. &n적중 시, 자신은 <전략 수립 (기동) 5>를 획득합니다.&n+200% 적중 보정이 적용됩니다."
   },
   "SkillDesc_Skill_MP_UnderWatcherArm_N_3": {
@@ -3732,7 +3732,7 @@
     "korean": "라운드 개시 시 자신이 <공격 강화> 상태인 경우, <가속 1>을 획득합니다."
   },
   "SkillDesc_Skill_MP_UnderWatcherArm_TU2_2": {
-    "english": "Fires a pulse beam dealing {0} damage to the designated area. Upon hitting, you gain <Strategy Formulation (Mobility) 5>. +250% Hit Correction applied.",
+    "english": "Fires a pulse beam dealing {0} damage to the designated area. Upon hitting, you gain <Strategy Formulation (Air) 5>. +250% Hit Correction applied.",
     "korean": "펄스 빔을 발사하여 지정 범위에 {0} 피해를 줍니다. &n적중 시, 자신은 <전략 수립 (기동) 5>를 획득합니다.&n+250% 적중 보정이 적용됩니다."
   },
   "SkillDesc_Skill_MP_UnderWatcherArm_TU2_3": {

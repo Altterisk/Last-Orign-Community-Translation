@@ -56,15 +56,15 @@
     "korean": "분리불안증 : 적중{0}%"
   },
   "BuffDesc2_Effect_ST_Ullr_N_4": {
-    "english": "Close-Range Response Mode: Ignore Barrier / Damage Reduction",
+    "english": "Close-Range Response Mode: Ignore Barrier / DMG Reduction",
     "korean": "근거리 대응 모드 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc2_Effect_ST_Ullr_N_41": {
-    "english": "Close-Range Response Mode: Ignore Barrier / Damage Reduction",
+    "english": "Close-Range Response Mode: Ignore Barrier / DMG Reduction",
     "korean": "근거리 대응 모드 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc2_Effect_ST_Ullr_N_43": {
-    "english": "Close-Range Response Mode: Ignore Barrier / Damage Reduction",
+    "english": "Close-Range Response Mode: Ignore Barrier / DMG Reduction",
     "korean": "근거리 대응 모드 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc2_Effect_ST_Ullr_N_5": {
@@ -152,7 +152,7 @@
     "korean": "함대 전술 지휘 : 방어 관통{0}%"
   },
   "BuffDesc3_Effect_3P_Amphitrite_N_4": {
-    "english": "Command Transmission: Damage Reduction {0}% (Defender)",
+    "english": "Command Transmission: DMG Reduction {0}% (Defender)",
     "korean": "지휘 전파 : 받는 피해{0}% 감소 (보호기)"
   },
   "BuffDesc3_Effect_3P_Amphitrite_N_5": {
@@ -236,7 +236,7 @@
     "korean": "사냥감 몰이 : 치명타 {0}%"
   },
   "BuffDesc3_Effect_3P_Fotia_N_2": {
-    "english": "Fire Rain: Damage Reduction Removal",
+    "english": "Fire Rain: DMG Reduction Removal",
     "korean": "파이어레인 : 받는 피해 감소 해제"
   },
   "BuffDesc3_Effect_3P_Fotia_N_3": {
@@ -296,7 +296,7 @@
     "korean": "영웅의 기상 : AP {0} (피격 시)"
   },
   "BuffDesc3_Effect_3P_Hachiko_N_1": {
-    "english": "Revolver Cannon: Damage Reduction Removal",
+    "english": "Revolver Cannon: DMG Reduction Removal",
     "korean": "리볼버 캐논 : 받는 피해 감소 효과 해제"
   },
   "BuffDesc3_Effect_3P_Hachiko_N_2": {
@@ -336,7 +336,7 @@
     "korean": "창조신의 왼쪽 눈 : 피해 무효화 {0}회"
   },
   "BuffDesc3_Effect_3P_Labiata_N_3": {
-    "english": "Raging Wind and Grass : Damage Reduction {0}%",
+    "english": "Raging Wind and Grass : DMG Reduction {0}%",
     "korean": "질풍경초 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_3P_Labiata_N_5": {
@@ -520,11 +520,11 @@
     "korean": "대 장갑 진동탄 : 방어력 증가 해제"
   },
   "BuffDesc3_Effect_AGS_Fallen_N_3": {
-    "english": "Tactical Assist Function : Damage Reduction {0}% (Front Row)",
+    "english": "Tactical Assist Function : DMG Reduction {0}% (Front Row)",
     "korean": "전술 보조 기능 : 받는 피해 감소{0}% (전열)"
   },
   "BuffDesc3_Effect_AGS_Fallen_N_4": {
-    "english": "Cover Optimization : Status Resist {0}% (Per AGS Unit)",
+    "english": "Cover Optimization : Status Resist {0}% (AGS per unit)",
     "korean": "엄폐 최적화 : 효과 저항{0}% (AGS 1기당)"
   },
   "BuffDesc3_Effect_AGS_Fallen_N_411": {
@@ -576,7 +576,7 @@
     "korean": "엄호 사격 : 치명타 {0}%"
   },
   "BuffDesc3_Effect_AGS_Fortress_N_2": {
-    "english": "Target Elimination : Damage Reduction Removal",
+    "english": "Target Elimination : DMG Reduction Removal",
     "korean": "목표물 처리 : 받는 피해 감소 해제"
   },
   "BuffDesc3_Effect_AGS_Fortress_N_3": {
@@ -672,7 +672,7 @@
     "korean": "알비스 출동! : 행동력 {0}% (증폭)"
   },
   "BuffDesc3_Effect_BR_Alvis_N_13": {
-    "english": "Can't pass?: Damage Reduction {0}%",
+    "english": "Can't pass?: DMG Reduction {0}%",
     "korean": "못 지나갈걸? : 받는 피해 감소 {0}%"
   },
   "BuffDesc3_Effect_BR_Alvis_N_3": {
@@ -680,7 +680,7 @@
     "korean": "못 지나갈걸? : 방어력 {0}%"
   },
   "BuffDesc3_Effect_BR_Alvis_N_32": {
-    "english": "You Shall Not Pass! : Damage Reduction {0}%",
+    "english": "You Shall Not Pass! : DMG Reduction {0}%",
     "korean": "못 지나갈걸? : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BR_Alvis_N_4": {
@@ -1216,7 +1216,7 @@
     "korean": "DAGAIE MK-III : 해로운 표식 제거"
   },
   "BuffDesc3_Effect_BR_Habetrot_N_3": {
-    "english": "Leading by Example : Damage Reduction {0}%",
+    "english": "Leading by Example : DMG Reduction {0}%",
     "korean": "솔선수범 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BR_Habetrot_N_4": {
@@ -1376,15 +1376,15 @@
     "korean": "전술 배치 : 행동력 {0}%"
   },
   "BuffDesc3_Effect_BR_Kheshig_N_22": {
-    "english": "Tactical deployment: Damage Reduction {0}%",
+    "english": "Tactical deployment: DMG Reduction {0}%",
     "korean": "전술 배치 : 받는 피해 감소 {0}%"
   },
   "BuffDesc3_Effect_BR_Kheshig_N_23": {
-    "english": "Tactical deployment: Damage Reduction {0}%",
+    "english": "Tactical deployment: DMG Reduction {0}%",
     "korean": "전술 배치 : 받는 피해 감소 {0}%"
   },
   "BuffDesc3_Effect_BR_Kheshig_N_24": {
-    "english": "Tactical deployment: Damage Reduction {0}%",
+    "english": "Tactical deployment: DMG Reduction {0}%",
     "korean": "전술 배치 : 받는 피해 감소 {0}%"
   },
   "BuffDesc3_Effect_BR_Kheshig_N_3": {
@@ -1404,11 +1404,11 @@
     "korean": "돌격 명령 : <방어 지휘> 효과 추가 부여"
   },
   "BuffDesc3_Effect_BR_Leona_CH_3": {
-    "english": "Defense Command : Damage Reduction {0}% (Defender)",
+    "english": "Defense Command : DMG Reduction {0}% (Defender)",
     "korean": "방어 지휘 : 받는 피해 {0}% 감소 (보호기)"
   },
   "BuffDesc3_Effect_BR_Leona_CH_4": {
-    "english": "Switch to Attack Command (While Idle)",
+    "english": "Switch to Attack Command (On Standby)",
     "korean": "공격 지휘 전환 (대기 시)"
   },
   "BuffDesc3_Effect_BR_Leona_N_1": {
@@ -1424,7 +1424,7 @@
     "korean": "공격 지휘 : 스킬 위력 {0}% (공격기)"
   },
   "BuffDesc3_Effect_BR_Leona_N_4": {
-    "english": "Switch to Defense Command (While Idle)",
+    "english": "Switch to Defense Command (On Standby)",
     "korean": "방어 지휘 전환 (대기 시)"
   },
   "BuffDesc3_Effect_BR_Leona_N_5": {
@@ -1484,7 +1484,7 @@
     "korean": "화망 구축 Lv.3 : 받는 피해 {0}% 증가"
   },
   "BuffDesc3_Effect_BR_Miho_N_2": {
-    "english": "Determined Resolve: DEF Penetration {0}% (C-77 Crimson)",
+    "english": "Determined Resolve: DEF Penetration {0}% (C-77 Hongryeon)",
     "korean": "심기일전 : 방어 관통 {0}% (C-77 홍련)"
   },
   "BuffDesc3_Effect_BR_Miho_N_3": {
@@ -1652,7 +1652,7 @@
     "korean": "연계 폭격 : 치명타 {0}%"
   },
   "BuffDesc3_Effect_BR_PA00EL_N_5": {
-    "english": "Inferno Missile: Damage Reduction Removal",
+    "english": "Inferno Missile: DMG Reduction Removal",
     "korean": "인페르노 미사일 : 받는 피해 감소 해제"
   },
   "BuffDesc3_Effect_BR_PXSilky_N_1": {
@@ -1744,11 +1744,11 @@
     "korean": "보병 지원 : AP {0}"
   },
   "BuffDesc3_Effect_BR_QuickCamel_N_4": {
-    "english": "Fire on the Move: Damage Reduction {0}%",
+    "english": "Fire on the Move: DMG Reduction {0}%",
     "korean": "기동간 사격 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BR_QuickCamel_N_5": {
-    "english": "Mobile Tactical Support: Ignore Barrier / Damage Reduction",
+    "english": "Mobile Tactical Support: Ignore Barrier / DMG Reduction",
     "korean": "기동 전술 지원 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc3_Effect_BR_Raven_N_1": {
@@ -1796,7 +1796,7 @@
     "korean": "후퇴는 없다! : 방어 관통 {0}%"
   },
   "BuffDesc3_Effect_BR_RedHood_N_5": {
-    "english": "Damage Reduction {0}% (2 unit decrease)",
+    "english": "DMG Reduction {0}% (2 unit decrease)",
     "korean": "받는 피해 {0}% 감소 (2인 감소)"
   },
   "BuffDesc3_Effect_BR_RoyalArsenal_N_2": {
@@ -1804,11 +1804,11 @@
     "korean": "F.아머리 전개 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc3_Effect_BR_RoyalArsenal_N_3": {
-    "english": "Heavy Unit Command: Damage Reduction {0}%",
+    "english": "Heavy Unit Command: DMG Reduction {0}%",
     "korean": "중장부대 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BR_RoyalArsenal_N_4": {
-    "english": "Immune to Attack / Critical reduction (F. Armory Deployed)",
+    "english": "Immune to Attack / Critical reduction (F.Armory Deployment)",
     "korean": "공격력 / 치명타 감소 면역 (F.아머리 전개)"
   },
   "BuffDesc3_Effect_BR_RoyalArsenal_N_5": {
@@ -1816,7 +1816,7 @@
     "korean": "CTCS : 방어 관통 {0}%"
   },
   "BuffDesc3_Effect_BR_Salamander_N_2": {
-    "english": "Straight Flush: Damage Reduction Removal",
+    "english": "Straight Flush: DMG Reduction Removal",
     "korean": "스트레이트 플러시 : 받는 피해 감소 해제"
   },
   "BuffDesc3_Effect_BR_Salamander_N_3": {
@@ -1900,7 +1900,7 @@
     "korean": "포신 냉각 : AP {0} (재장전 2중첩 시)"
   },
   "BuffDesc3_Effect_BR_Sirene_CH_4": {
-    "english": "Bombardment Mode: Damage Reduction {0}%",
+    "english": "Bombardment Mode: DMG Reduction {0}%",
     "korean": "포격 모드 : 받는 피해 감소 {0}%"
   },
   "BuffDesc3_Effect_BR_Sirene_N_1": {
@@ -1920,7 +1920,7 @@
     "korean": "협차 사격 : 방어 관통 {0}%"
   },
   "BuffDesc3_Effect_BR_Sirene_N_4": {
-    "english": "Interception Mode: Damage Reduction {0}%",
+    "english": "Interception Mode: DMG Reduction {0}%",
     "korean": "요격 모드 : 받는 피해 감소 {0}%"
   },
   "BuffDesc3_Effect_BR_Sirene_N_5": {
@@ -2104,7 +2104,7 @@
     "korean": "핀 포인트 저격 : 치명타 {0}%"
   },
   "BuffDesc3_Effect_BR_Valkyrie_N_4": {
-    "english": "White Reaper: Damage Reduction {0}%",
+    "english": "White Reaper: DMG Reduction {0}%",
     "korean": "하얀 사신 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BR_Valkyrie_N_5": {
@@ -2264,11 +2264,11 @@
     "korean": "수상한 보조제 : 정찰 활성화"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_10": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1001": {
@@ -2276,7 +2276,7 @@
     "korean": "특수전 : 치명타 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1002": {
-    "english": "Special Operations: Damage Reduction {0}%",
+    "english": "Special Operations: DMG Reduction {0}%",
     "korean": "특수전 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1003": {
@@ -2284,43 +2284,43 @@
     "korean": "특수전 : 방어 관통 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1004": {
-    "english": "Special Operations: Damage Reduction {0}%",
+    "english": "Special Operations: DMG Reduction {0}%",
     "korean": "특수전 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1005": {
-    "english": "Special Operations: Damage Reduction {0}%",
+    "english": "Special Operations: DMG Reduction {0}%",
     "korean": "특수전 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1006": {
-    "english": "Special Operations: Damage Reduction {0}%",
+    "english": "Special Operations: DMG Reduction {0}%",
     "korean": "특수전 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1007": {
-    "english": "Special Operations: Damage Reduction {0}%",
+    "english": "Special Operations: DMG Reduction {0}%",
     "korean": "특수전 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1008": {
-    "english": "Special Operations: Damage Reduction {0}%",
+    "english": "Special Operations: DMG Reduction {0}%",
     "korean": "특수전 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1009": {
-    "english": "Special Operations: Damage Reduction {0}%",
+    "english": "Special Operations: DMG Reduction {0}%",
     "korean": "특수전 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_101": {
-    "english": "Battlefield Adaptation: Damage Reduction {0}%",
+    "english": "Battlefield Adaptation: DMG Reduction {0}%",
     "korean": "전장 적응 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1010": {
-    "english": "Special Operations: Damage Reduction {0}%",
+    "english": "Special Operations: DMG Reduction {0}%",
     "korean": "특수전 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1011": {
-    "english": "Special Operations: Damage Reduction {0}%",
+    "english": "Special Operations: DMG Reduction {0}%",
     "korean": "특수전 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1012": {
-    "english": "Special Operations: Damage Reduction {0}%",
+    "english": "Special Operations: DMG Reduction {0}%",
     "korean": "특수전 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_1013": {
@@ -2352,7 +2352,7 @@
     "korean": "전장 적응 : 방어 관통 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_106": {
-    "english": "Battlefield Adaptation: Damage Reduction {0}%",
+    "english": "Battlefield Adaptation: DMG Reduction {0}%",
     "korean": "전장 적응 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_107": {
@@ -2368,7 +2368,7 @@
     "korean": "전장 적응 : {0}% HP로 전투 속행"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_11": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_110": {
@@ -2380,7 +2380,7 @@
     "korean": "전장 적응 : 행동력 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_112": {
-    "english": "Battlefield Adaptation: Damage Reduction {0}%",
+    "english": "Battlefield Adaptation: DMG Reduction {0}%",
     "korean": "전장 적응 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_113": {
@@ -2400,7 +2400,7 @@
     "korean": "전장 적응 : {0}% HP로 전투 속행"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_117": {
-    "english": "Battlefield Adaptation: Damage Reduction {0}%",
+    "english": "Battlefield Adaptation: DMG Reduction {0}%",
     "korean": "전장 적응 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_118": {
@@ -2412,11 +2412,11 @@
     "korean": "전장 적응 : 최대 행동 횟수 {0}"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_12": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_120": {
-    "english": "Battlefield Adaptation: Damage Reduction {0}%",
+    "english": "Battlefield Adaptation: DMG Reduction {0}%",
     "korean": "전장 적응 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_121": {
@@ -2456,7 +2456,7 @@
     "korean": "전장 적응 : 효과 저항 {0}% 증가"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_13": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_130": {
@@ -2492,7 +2492,7 @@
     "korean": "전장 적응 : 방어 관통 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_138": {
-    "english": "Battlefield Adaptation: Damage Reduction {0}%",
+    "english": "Battlefield Adaptation: DMG Reduction {0}%",
     "korean": "전장 적응 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_139": {
@@ -2500,7 +2500,7 @@
     "korean": "전장 적응 : 적중 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_14": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_140": {
@@ -2524,7 +2524,7 @@
     "korean": "전장 적응 : 방어력 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_145": {
-    "english": "Battlefield Adaptation: Damage Reduction {0}%",
+    "english": "Battlefield Adaptation: DMG Reduction {0}%",
     "korean": "전장 적응 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_146": {
@@ -2536,7 +2536,7 @@
     "korean": "전장 적응 : 최대 행동 횟수 {0}"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_15": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_150": {
@@ -2572,15 +2572,15 @@
     "korean": "전장 적응 : AP {0}"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_158": {
-    "english": "Battlefield Adaptation: Damage Reduction {0}%",
+    "english": "Battlefield Adaptation: DMG Reduction {0}%",
     "korean": "전장 적응 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_159": {
-    "english": "Battlefield Adaptation: Damage Reduction {0}%",
+    "english": "Battlefield Adaptation: DMG Reduction {0}%",
     "korean": "전장 적응 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_16": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_160": {
@@ -2620,11 +2620,11 @@
     "korean": "전장 적응 : 회피 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_17": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_18": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_184": {
@@ -2640,35 +2640,35 @@
     "korean": "몇 층입니까? : 행동력 {0}%"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_2": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_3": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_4": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_5": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_6": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_7": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_8": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_SuitabilityEW_N_9": {
-    "english": "Field Command: Damage Reduction {0}%",
+    "english": "Field Command: DMG Reduction {0}%",
     "korean": "현장 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_BUFF_ThreeAuthority_N_1": {
@@ -2724,7 +2724,7 @@
     "korean": "달의 가호 : 마왕군과의 '임시'동맹"
   },
   "BuffDesc3_Effect_DS_Baekto_N_52": {
-    "english": "Perfect Moon's Blessing: Damage Reduction {0}%",
+    "english": "Perfect Moon's Blessing: DMG Reduction {0}%",
     "korean": "완전한 달의 가호 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_DS_BunnySlayer_N_1": {
@@ -2760,11 +2760,11 @@
     "korean": "오베르튜레 : 공격 지원 (D-엔터 보호기/지원기)"
   },
   "BuffDesc3_Effect_DS_Charlotte_N_5": {
-    "english": "Riposte: Damage Reduction {0}%",
+    "english": "Riposte: DMG Reduction {0}%",
     "korean": "리포스트 : 받는 피해 감소 {0}%"
   },
   "BuffDesc3_Effect_DS_Cloverace_N_1": {
-    "english": "Power of Friendship: Ignore Barrier / Damage Reduction",
+    "english": "Power of Friendship: Ignore Barrier / DMG Reduction",
     "korean": "우정의 힘 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc3_Effect_DS_Cloverace_N_2": {
@@ -2832,7 +2832,7 @@
     "korean": "기사도 : 열 보호"
   },
   "BuffDesc3_Effect_DS_Johanna_N_3": {
-    "english": "Cleave: Damage Reduction Removal",
+    "english": "Cleave: DMG Reduction Removal",
     "korean": "갈파 : 받는 피해 감소 해제"
   },
   "BuffDesc3_Effect_DS_Johanna_N_4": {
@@ -2900,7 +2900,7 @@
     "korean": "속공 : {0}% 위력으로 반격"
   },
   "BuffDesc3_Effect_DS_KunoichiShiden_N_5": {
-    "english": "Art of Change <Ultimate>: Damage Reduction {0}%",
+    "english": "Art of Change <Ultimate>: DMG Reduction {0}%",
     "korean": "변화의 술법 <극> : 받는 피해 감소 {0}%"
   },
   "BuffDesc3_Effect_DS_KunoichiZero_N_2": {
@@ -2972,7 +2972,7 @@
     "korean": "열망의 도신 : 행동력 {0}%"
   },
   "BuffDesc3_Effect_LC_Chii_N_4": {
-    "english": "Cat's Flexibility: EVA {0}% (CS Perrault / Poi)",
+    "english": "Cat's Flexibility: EVA {0}% (CS Perrault/Poi)",
     "korean": "고양이의 유연성 : 회피 {0}% (CS 페로 / 포이)"
   },
   "BuffDesc3_Effect_LC_Chii_N_5": {
@@ -3008,7 +3008,7 @@
     "korean": "거짓의 난무 : 치명타 {0}% (메로페)"
   },
   "BuffDesc3_Effect_LC_Dhana_N_33": {
-    "english": "Dance of Lies: CRIT {0}% (Caesars Reje)",
+    "english": "Dance of Lies: CRIT {0}% (Scissors Lise)",
     "korean": "거짓의 난무 : 치명타 {0}% (시저스 리제)"
   },
   "BuffDesc3_Effect_LC_Dhana_N_4": {
@@ -3292,7 +3292,7 @@
     "korean": "날 혼자 내버려둬... : 행동력{0}% (스틸라인 계통X)"
   },
   "BuffDesc3_Effect_MP_Fallen13_N_3": {
-    "english": "Coordinated Tactics: Damage Reduction {0}% (Front Row)",
+    "english": "Coordinated Tactics: DMG Reduction {0}% (Front Row)",
     "korean": "연계 전술 : 받는 피해 감소{0}% (전열)"
   },
   "BuffDesc3_Effect_MP_Gnome_N_1": {
@@ -3456,11 +3456,11 @@
     "korean": "단말마 : 냉기 저항 {0}%"
   },
   "BuffDesc3_Effect_MP_MarionnetteAR_N_4": {
-    "english": "Contingency Plan: Damage Reduction {0}%",
+    "english": "Contingency Plan: DMG Reduction {0}%",
     "korean": "컨틴전시 플랜 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_MP_MarionnetteAR_V2_TU_4": {
-    "english": "Plan B: Damage Reduction {0}%",
+    "english": "Plan B: DMG Reduction {0}%",
     "korean": "플랜 B : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_MP_MarionnetteDM_BOSS_TU_31": {
@@ -3688,7 +3688,7 @@
     "korean": "레킹볼 : 방어력 증가 해제"
   },
   "BuffDesc3_Effect_PECS_Babariana_N_21": {
-    "english": "Wrecking Ball: Damage Reduction Removal",
+    "english": "Wrecking Ball: DMG Reduction Removal",
     "korean": "레킹볼 : 받는 피해 감소 해제"
   },
   "BuffDesc3_Effect_PECS_Babariana_N_3": {
@@ -3700,7 +3700,7 @@
     "korean": "철거 준비 : 방어 관통 {0}% (후열)"
   },
   "BuffDesc3_Effect_PECS_Babariana_N_5": {
-    "english": "Critical {0}% (per Attack Unit)",
+    "english": "Critical {0}% (Per Offensive Unit)",
     "korean": "치명타 {0}% (공격기 1기당)"
   },
   "BuffDesc3_Effect_PECS_BlindPrincess_N_1": {
@@ -3716,7 +3716,7 @@
     "korean": "구가 : 피해 무효화 {0}회"
   },
   "BuffDesc3_Effect_PECS_BlindPrincess_N_5": {
-    "english": "An Eye for an Eye: Ignore Barrier / Damage Reduction Removal",
+    "english": "An Eye for an Eye: Ignore Barrier / DMG Reduction Removal",
     "korean": "이에는 이 : 방어막 / 피해 감소 무시 해제"
   },
   "BuffDesc3_Effect_PECS_Boryeon_N_3": {
@@ -3848,7 +3848,7 @@
     "korean": "신성한 징벌 : 사거리 {0}"
   },
   "BuffDesc3_Effect_PECS_Hathor_N_3": {
-    "english": "Physical Overload: Damage Reduction Removal",
+    "english": "Physical Overload: DMG Reduction Removal",
     "korean": "신체 과부하 : 받는 피해 감소 해제"
   },
   "BuffDesc3_Effect_PECS_Hathor_N_5": {
@@ -3876,7 +3876,7 @@
     "korean": "적응형 방호복 : 효과 저항 {0}% 증가"
   },
   "BuffDesc3_Effect_PECS_Ignis_N_4": {
-    "english": "Agent Cover: Damage Reduction {0}%",
+    "english": "Agent Cover: DMG Reduction {0}%",
     "korean": "요원 엄폐 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_PECS_Ignis_N_5": {
@@ -3908,7 +3908,7 @@
     "korean": "나랑 같이 게임할래? : 치명타 {0}% (2P)"
   },
   "BuffDesc3_Effect_PECS_Ireina_N_43": {
-    "english": "Want to play a game with me? : Damage Reduction {0}% (1P)",
+    "english": "Want to play a game with me? : DMG Reduction {0}% (1P)",
     "korean": "나랑 같이 게임할래? : 받는 피해 감소 {0}% (1P)"
   },
   "BuffDesc3_Effect_PECS_Ireina_N_5": {
@@ -3980,7 +3980,7 @@
     "korean": "헤로인 나이트 메어 : 행동 불가"
   },
   "BuffDesc3_Effect_PECS_Melt_N_2": {
-    "english": "Look Over Here, Please: Damage Reduction {0}% (Defender)",
+    "english": "Look Over Here, Please: DMG Reduction {0}% (Defender)",
     "korean": "자, 여기를 봐주세요 : 받는 피해 감소 {0}% (보호기)"
   },
   "BuffDesc3_Effect_PECS_Melt_N_3": {
@@ -3988,11 +3988,11 @@
     "korean": "긴장 돼…. : 행동력 {0}%"
   },
   "BuffDesc3_Effect_PECS_Melt_N_4": {
-    "english": "Therapy: Damage Reduction {0}%",
+    "english": "Therapy: DMG Reduction {0}%",
     "korean": "테라피 : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_PECS_Melt_N_41": {
-    "english": "So Sleepy, Meow…: Damage Reduction {0}%",
+    "english": "So Sleepy, Meow…: DMG Reduction {0}%",
     "korean": "졸리다 냥…. : 받는 피해 {0}% 감소"
   },
   "BuffDesc3_Effect_PECS_Melt_N_5": {

@@ -88,7 +88,7 @@
     "korean": "그랜드 피날레 : 스킬 위력 {0}% (회피 비례)"
   },
   "BuffDesc1_Effect_PECS_Stinger_N_51": {
-    "english": "Overdrive : Ignore Barrier / Damage Reduction",
+    "english": "Overdrive : Ignore Barrier / DMG Reduction",
     "korean": "초가속 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc1_Effect_PECS_Stinger_N_52": {
@@ -304,7 +304,7 @@
     "korean": "발산개세 : 대 중장형 피해량 증가 {0}%"
   },
   "BuffDesc1_Effect_PECS_TommyWalker_N_1": {
-    "english": "Crushing Blow : Damage Reduction Removal",
+    "english": "Crushing Blow : DMG Reduction Removal",
     "korean": "분쇄 강타 : 받는 피해 감소 해제"
   },
   "BuffDesc1_Effect_PECS_TommyWalker_N_11": {
@@ -436,7 +436,7 @@
     "korean": "프런티어 리더 : 행동력 {0}%"
   },
   "BuffDesc1_Effect_PECS_Triaina_N_4": {
-    "english": "Abyss Walker : Damage Reduction {0}%",
+    "english": "Abyss Walker : DMG Reduction {0}%",
     "korean": "어비스 워커 : 받는 피해 {0}% 감소"
   },
   "BuffDesc1_Effect_PECS_Triaina_N_41": {
@@ -456,7 +456,7 @@
     "korean": "기관포 사격 : 공격력{0}%"
   },
   "BuffDesc1_Effect_PECS_Triton_N_11": {
-    "english": "Autocannon Fire : Ignore Barrier / Damage Reduction",
+    "english": "Autocannon Fire : Ignore Barrier / DMG Reduction",
     "korean": "기관포 사격 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc1_Effect_PECS_Triton_N_12": {
@@ -632,7 +632,7 @@
     "korean": "확장패시브 : 표식 지정"
   },
   "BuffDesc1_Effect_Passive_Tast_N_38": {
-    "english": "Extended Passive : Ignore Barrier / Damage Reduction",
+    "english": "Extended Passive : Ignore Barrier / DMG Reduction",
     "korean": "확장패시브 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc1_Effect_Passive_Tast_N_39": {
@@ -1208,7 +1208,7 @@
     "korean": "어디 도망쳐 보세요 : 피해량 {0}%"
   },
   "BuffDesc2_Effect_3P_Alice_N_5": {
-    "english": "Instinct to Massacre : Ignore Barrier / Damage Reduction",
+    "english": "Instinct to Massacre : Ignore Barrier / DMG Reduction",
     "korean": "학살 본능 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc2_Effect_3P_Amphitrite_N_1": {
@@ -1272,7 +1272,7 @@
     "korean": "회심의 디저트 : 공격력{0}%"
   },
   "BuffDesc2_Effect_3P_Aurora_N_3": {
-    "english": "Telekinetic Field : Damage Reduction {0}%",
+    "english": "Telekinetic Field : DMG Reduction {0}%",
     "korean": "염동 역장 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_3P_Aurora_N_4": {
@@ -1316,7 +1316,7 @@
     "korean": "놓치지 않아요! : 공격력{0}%"
   },
   "BuffDesc2_Effect_3P_BlackLilith_N_3": {
-    "english": "Masochistic Tendency : Damage Reduction {0}%",
+    "english": "Masochistic Tendency : DMG Reduction {0}%",
     "korean": "피학성향 : 받는 피해 감소 {0}%"
   },
   "BuffDesc2_Effect_3P_BlackLilith_N_4": {
@@ -1516,7 +1516,7 @@
     "korean": "퇴마의 술법 : 방어막 {0}"
   },
   "BuffDesc2_Effect_3P_Hirume_N_3": {
-    "english": "Body Repelling the Wicked: Damage Reduction {0}%",
+    "english": "Body Repelling the Wicked: DMG Reduction {0}%",
     "korean": "마를 물리는 신체 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_3P_Hirume_N_4": {
@@ -1536,7 +1536,7 @@
     "korean": "질풍경초 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_3P_Labiata_N_31": {
-    "english": "Whirlwind Step: Damage Reduction {0}%",
+    "english": "Whirlwind Step: DMG Reduction {0}%",
     "korean": "질풍경초 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_3P_Labiata_N_4": {
@@ -1560,7 +1560,7 @@
     "korean": "공격 견제 : 행동력 {0}%"
   },
   "BuffDesc2_Effect_3P_Maria_N_2": {
-    "english": "Shape Memory Skirt: Damage Reduction {0}%",
+    "english": "Shape Memory Skirt: DMG Reduction {0}%",
     "korean": "형상기억 스커트 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_3P_Maria_N_3": {
@@ -1576,7 +1576,7 @@
     "korean": "뒷바라지 : AP {0} (인접 1기당)"
   },
   "BuffDesc2_Effect_3P_Maria_N_41": {
-    "english": "Support from Behind: Damage Reduction {0}%",
+    "english": "Support from Behind: DMG Reduction {0}%",
     "korean": "뒷바라지 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_3P_Maria_N_5": {
@@ -1624,19 +1624,19 @@
     "korean": "보호 본능! : 열 보호 해제"
   },
   "BuffDesc2_Effect_3P_Merope_N_4": {
-    "english": "Guardian Series Assemble! : Damage Reduction {0}%",
+    "english": "Guardian Series Assemble! : DMG Reduction {0}%",
     "korean": "가디언 시리즈 집결! : 받는 피해 감소 {0}%"
   },
   "BuffDesc2_Effect_3P_Merope_N_42": {
-    "english": "Guardian Series Assemble!: Damage Reduction {0}%",
+    "english": "Guardian Series Assemble!: DMG Reduction {0}%",
     "korean": "가디언 시리즈 집결! : 받는 피해 감소 {0}%"
   },
   "BuffDesc2_Effect_3P_Merope_N_43": {
-    "english": "Guardian Series Assemble!: Damage Reduction {0}%",
+    "english": "Guardian Series Assemble!: DMG Reduction {0}%",
     "korean": "가디언 시리즈 집결! : 받는 피해 감소 {0}%"
   },
   "BuffDesc2_Effect_3P_Merope_N_44": {
-    "english": "Guardian Series Assemble!: Damage Reduction {0}%",
+    "english": "Guardian Series Assemble!: DMG Reduction {0}%",
     "korean": "가디언 시리즈 집결! : 받는 피해 감소 {0}%"
   },
   "BuffDesc2_Effect_3P_Merope_N_47": {
@@ -1924,7 +1924,7 @@
     "korean": "헐 다운 모드 : 적중 {0}%"
   },
   "BuffDesc2_Effect_AGS_Fortress_CH_32": {
-    "english": "Turret Down Mode: Damage Reduction {0}%",
+    "english": "Turret Down Mode: DMG Reduction {0}%",
     "korean": "터렛 다운 모드 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_AGS_Fortress_CH_5": {
@@ -1968,7 +1968,7 @@
     "korean": "헐 다운 모드 : 적중 {0}%"
   },
   "BuffDesc2_Effect_AGS_Fortress_N_32": {
-    "english": "Turret Down Mode: Damage Reduction {0}%",
+    "english": "Turret Down Mode: DMG Reduction {0}%",
     "korean": "터렛 다운 모드 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_AGS_Fortress_N_4": {
@@ -1984,7 +1984,7 @@
     "korean": "공격 지점 역산 : 회피 {0}%"
   },
   "BuffDesc2_Effect_AGS_Fortress_N_5": {
-    "english": "Emergency Mode Switch (Upon Battle Continuation)",
+    "english": "Emergency Mode Switch (On Battle Continue)",
     "korean": "긴급 모드 전환 (전투 속행 시)"
   },
   "BuffDesc2_Effect_AGS_Fortress_N_53": {
@@ -2000,7 +2000,7 @@
     "korean": "터렛 다운 모드 : 행 보호"
   },
   "BuffDesc2_Effect_AGS_Fortress_N_56": {
-    "english": "Turret Down Mode : Damage Reduction {0}% (Amplify)",
+    "english": "Turret Down Mode : DMG Reduction {0}% (Amplify)",
     "korean": "터렛 다운 모드 : 받는 피해 {0}% 감소 (증폭)"
   },
   "BuffDesc2_Effect_AGS_Goltarion_N_1": {
@@ -2060,7 +2060,7 @@
     "korean": "리퍼급 기체 개수 : 치명타 {0}%"
   },
   "BuffDesc2_Effect_AGS_Watcher_N_5": {
-    "english": "Eye of the Sky: Ignore Barrier / Damage Reduction",
+    "english": "Eye of the Sky: Ignore Barrier / DMG Reduction",
     "korean": "창공의 눈 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc2_Effect_BR_AS12TurtleDragon_N_1": {
@@ -2072,7 +2072,7 @@
     "korean": "대형 방패 전개 : 강화 해제 저항 {0}%"
   },
   "BuffDesc2_Effect_BR_AS12TurtleDragon_N_3": {
-    "english": "Commence Suppression: Damage Reduction {0}%",
+    "english": "Commence Suppression: DMG Reduction {0}%",
     "korean": "진압 개시 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_AS12TurtleDragon_N_32": {
@@ -2376,7 +2376,7 @@
     "korean": "변형 : 순항 모드"
   },
   "BuffDesc2_Effect_BR_BloodyPanther_CH_3": {
-    "english": "Armor Deployment: Damage Reduction {0}%",
+    "english": "Armor Deployment: DMG Reduction {0}%",
     "korean": "장갑 전개 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_BloodyPanther_CH_5": {
@@ -2396,7 +2396,7 @@
     "korean": "주포 발사 : 대 경장 피해량 {0}%"
   },
   "BuffDesc2_Effect_BR_BloodyPanther_N_3": {
-    "english": "Armor Deployment: Damage Reduction {0}%",
+    "english": "Armor Deployment: DMG Reduction {0}%",
     "korean": "장갑 전개 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_BloodyPanther_N_4": {
@@ -2532,7 +2532,7 @@
     "korean": "후방 연계 : 치명타 {0}%"
   },
   "BuffDesc2_Effect_BR_Bulgasari_N_59": {
-    "english": "Front Link: Damage Reduction {0}%",
+    "english": "Front Link: DMG Reduction {0}%",
     "korean": "전방 연계 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Calista_N_1": {
@@ -2596,7 +2596,7 @@
     "korean": "포식 : 피해 감소 약화 {0}%"
   },
   "BuffDesc2_Effect_BR_Echidna_N_2": {
-    "english": "Embrace of the Serpent: Damage Reduction {0}%",
+    "english": "Embrace of the Serpent: DMG Reduction {0}%",
     "korean": "뱀의 포옹 : 받는 피해{0}% 감소"
   },
   "BuffDesc2_Effect_BR_Echidna_N_3": {
@@ -2688,11 +2688,11 @@
     "korean": "방호 모드 : 피해 무효화 {0}회"
   },
   "BuffDesc2_Effect_BR_Ellie_N_3": {
-    "english": "Noblesse Oblige : Damage Reduction {0}%",
+    "english": "Noblesse Oblige : DMG Reduction {0}%",
     "korean": "노블레스 오블리주 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Ellie_N_32": {
-    "english": "Noblesse Oblige : Damage Reduction Removal",
+    "english": "Noblesse Oblige : DMG Reduction Removal",
     "korean": "노블레스 오블리주 : 받는 피해 감소 해제"
   },
   "BuffDesc2_Effect_BR_Ellie_N_4": {
@@ -2712,7 +2712,7 @@
     "korean": "끌어안는 자 : AP {0} (2라운드)"
   },
   "BuffDesc2_Effect_BR_Fafnir_N_4": {
-    "english": "Ilryong : Damage Reduction {0}%",
+    "english": "Ilryong : DMG Reduction {0}%",
     "korean": "일룡 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Fafnir_N_41": {
@@ -2816,7 +2816,7 @@
     "korean": "솔선수범 : 회피 {0}%"
   },
   "BuffDesc2_Effect_BR_Habetrot_N_31": {
-    "english": "Lead by Example : Damage Reduction {0}%",
+    "english": "Lead by Example : DMG Reduction {0}%",
     "korean": "솔선수범 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Habetrot_N_4": {
@@ -2828,7 +2828,7 @@
     "korean": "엘랑…? : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Habetrot_N_51": {
-    "english": "Elang…?: Damage Reduction {0}%",
+    "english": "Elang…?: DMG Reduction {0}%",
     "korean": "엘랑…? : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Harpy_N_1": {
@@ -3076,7 +3076,7 @@
     "korean": "강화 와이어 : 원격 폭탄 설치"
   },
   "BuffDesc2_Effect_BR_JangHwa_N_3": {
-    "english": "Sabotage Specialist : Ignore Barrier / Damage Reduction",
+    "english": "Sabotage Specialist : Ignore Barrier / DMG Reduction",
     "korean": "사보타주 스페셜리스트 : 방어막 / 피해 감소 무시"
   },
   "BuffDesc2_Effect_BR_JangHwa_N_4": {
@@ -3164,11 +3164,11 @@
     "korean": "돌격 명령 : 해로운 효과 해제"
   },
   "BuffDesc2_Effect_BR_Leona_CH_21": {
-    "english": "Charge Order : Damage Reduction {0}%",
+    "english": "Charge Order : DMG Reduction {0}%",
     "korean": "돌격 명령 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Leona_CH_3": {
-    "english": "Defense Command : Damage Reduction {0}%",
+    "english": "Defense Command : DMG Reduction {0}%",
     "korean": "방어 지휘 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Leona_CH_4": {
@@ -3192,7 +3192,7 @@
     "korean": "공격 지휘 : 적중 {0}%"
   },
   "BuffDesc2_Effect_BR_Leona_N_4": {
-    "english": "Defense Readiness : Damage Reduction {0}%",
+    "english": "Defense Readiness : DMG Reduction {0}%",
     "korean": "방어 준비 태세 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Leona_N_5": {
@@ -3244,11 +3244,11 @@
     "korean": "핀 레이저 : 공격력 {0}%"
   },
   "BuffDesc2_Effect_BR_Marie_N_13": {
-    "english": "Élan Vital : Damage Reduction {0}%",
+    "english": "Élan Vital : DMG Reduction {0}%",
     "korean": "엘랑비탈 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Marie_N_14": {
-    "english": "Elan Vital: Damage Reduction {0}%",
+    "english": "Elan Vital: DMG Reduction {0}%",
     "korean": "엘랑비탈 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Marie_N_15": {
@@ -3256,7 +3256,7 @@
     "korean": "대공 지휘 : 적중 {0}%"
   },
   "BuffDesc2_Effect_BR_Marie_N_3": {
-    "english": "Elan Vital: Damage Reduction {0}%",
+    "english": "Elan Vital: DMG Reduction {0}%",
     "korean": "엘랑비탈 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Marie_N_4": {
@@ -3332,7 +3332,7 @@
     "korean": "업무 자동화(수동) : 치명타 {0}%"
   },
   "BuffDesc2_Effect_BR_Nashorn_N_4": {
-    "english": "Main Gun Assembly (while waiting)",
+    "english": "Main Gun Assembly (On Standby)",
     "korean": "주포 조립 (대기 시)"
   },
   "BuffDesc2_Effect_BR_Nashorn_N_42": {
@@ -3460,11 +3460,11 @@
     "korean": "화력 지원 : 치명타 {0}% (증폭)"
   },
   "BuffDesc2_Effect_BR_Nymph_N_4": {
-    "english": "Ambush Support : Damage Reduction {0}%",
+    "english": "Ambush Support : DMG Reduction {0}%",
     "korean": "매복 지원 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_Nymph_N_41": {
-    "english": "Ambush Support: Damage Reduction {0}% (Amplify)",
+    "english": "Ambush Support: DMG Reduction {0}% (Amplify)",
     "korean": "매복 지원 : 받는 피해 {0}% 감소 (증폭)"
   },
   "BuffDesc2_Effect_BR_Nymph_N_5": {
@@ -3524,7 +3524,7 @@
     "korean": "웅크리기 : 효과 저항{0}%"
   },
   "BuffDesc2_Effect_BR_PXSilky_N_4": {
-    "english": "Huge Backpack : Damage Reduction {0}% (Air excluded)",
+    "english": "Huge Backpack : DMG Reduction {0}% (Air excluded)",
     "korean": "거대 배낭 : 받는 피해 {0}% 감소 (기동 제외)"
   },
   "BuffDesc2_Effect_BR_PXSilky_N_5": {
@@ -3540,7 +3540,7 @@
     "korean": "안돼요! : 치명타{0}% (행동력)"
   },
   "BuffDesc2_Effect_BR_Pani_N_1": {
-    "english": "Weak Point Fire: Damage Reduction Removal",
+    "english": "Weak Point Fire: DMG Reduction Removal",
     "korean": "약점 포격 : 받는 피해 감소 해제"
   },
   "BuffDesc2_Effect_BR_Pani_N_2": {
@@ -3612,7 +3612,7 @@
     "korean": "위협 사격 : 적중 {0}%"
   },
   "BuffDesc2_Effect_BR_PoniesAnger_N_2": {
-    "english": "Aerial Acrobatics : Damage Reduction {0}%",
+    "english": "Aerial Acrobatics : DMG Reduction {0}%",
     "korean": "곡예 비행 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_PoniesAnger_N_3": {
@@ -3640,7 +3640,7 @@
     "korean": "영웅 출현 : 보호 무시 활성화"
   },
   "BuffDesc2_Effect_BR_PoniesAnger_N_51": {
-    "english": "Hero Appears: Damage Reduction {0}%",
+    "english": "Hero Appears: DMG Reduction {0}%",
     "korean": "영웅 출현 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_QuickCamel_N_2": {
@@ -3680,11 +3680,11 @@
     "korean": "표적 스캔 : 받는 피해 {0}% 증가"
   },
   "BuffDesc2_Effect_BR_Raven_N_22": {
-    "english": "Target Scan: Damage Reduction Removal",
+    "english": "Target Scan: DMG Reduction Removal",
     "korean": "표적 스캔 : 받는 피해 감소 해제"
   },
   "BuffDesc2_Effect_BR_Raven_N_23": {
-    "english": "Target Scan: Damage Reduction Removal",
+    "english": "Target Scan: DMG Reduction Removal",
     "korean": "표적 스캔 : 받는 피해 감소 해제"
   },
   "BuffDesc2_Effect_BR_Raven_N_3": {
@@ -3804,7 +3804,7 @@
     "korean": "A.T.W : 대 중장형 피해량 {0}%"
   },
   "BuffDesc2_Effect_BR_SandMan_N_3": {
-    "english": "Ground Force Escort : Damage Reduction {0}%",
+    "english": "Ground Force Escort : DMG Reduction {0}%",
     "korean": "지상군 호위 : 받는 피해 {0}% 감소"
   },
   "BuffDesc2_Effect_BR_SandMan_N_32": {
