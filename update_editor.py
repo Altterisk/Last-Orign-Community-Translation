@@ -482,6 +482,7 @@ class UpdateEditor(tk.Tk):
             self._set_text(self._txt_res, "", editable=True)
             return
 
+        self._idx = max(0, min(self._idx, len(vis) - 1))
         d = vis[self._idx]
         sel = list(self._listbox.curselection())
         safe_tag = "  [safe]" if d.is_safe else ""
@@ -509,7 +510,9 @@ class UpdateEditor(tk.Tk):
     # ── per-entry actions ─────────────────────────────────────────────────
 
     def _current_diff(self) -> Diff:
-        return self._visible()[self._idx]
+        vis = self._visible()
+        self._idx = max(0, min(self._idx, len(vis) - 1))
+        return vis[self._idx]
 
     def _selected_indices(self) -> list[int]:
         return list(self._listbox.curselection())
@@ -605,7 +608,8 @@ class UpdateEditor(tk.Tk):
         )
         # Keep _idx pointing at the same code if still visible
         vis_before = self._visible()
-        cur_code = vis_before[self._idx].code if vis_before else None
+        cur_code = (vis_before[self._idx].code
+                    if 0 <= self._idx < len(vis_before) else None)
         self._rebuild_list()
         vis_after = self._visible()
         if cur_code:
