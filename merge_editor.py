@@ -67,10 +67,17 @@ def collect_diffs(source_dir: Path) -> list[tuple]:
         rev_data  = load_json(rev_path)
         orig_data = load_json(orig_path) if orig_path.exists() else {}
         for eid, src_entry in src_data.items():
-            src_en  = src_entry.get("english", "")
+            # merge_review values are plain english strings ({eid: english}); tolerate
+            # the legacy {eid: {english, korean}} dict format too.
+            if isinstance(src_entry, dict):
+                src_en  = src_entry.get("english", "")
+                src_kor = src_entry.get("korean", "")
+            else:
+                src_en  = src_entry or ""
+                src_kor = ""
             rev_en  = rev_data.get(eid,  {}).get("english", "")
             orig_en = orig_data.get(eid, {}).get("english", "")
-            korean  = src_entry.get("korean", rev_data.get(eid, {}).get("korean", ""))
+            korean  = src_kor or rev_data.get(eid, {}).get("korean", "")
             if not src_en or not rev_en:
                 continue
             # Apply corrections to both sides before comparing
