@@ -5,6 +5,24 @@ The goal is to improve the machine-translated English text by reviewing and corr
 
 ---
 
+## Examples
+
+Before → after, in-game:
+
+**Dialogue**
+
+![Dialogue comparison](images/Comparison%20-%20Dialogue.png)
+
+**Equipment**
+
+![Equipment comparison](images/Comparison%20-%20Equipment.png)
+
+**Name**
+
+![Name comparison](images/Comparison%20-%20Name.png)
+
+---
+
 ## Workflow
 
 ### 1 — Edit translations
