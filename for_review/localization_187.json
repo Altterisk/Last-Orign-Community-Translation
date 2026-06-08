@@ -1284,7 +1284,7 @@
     "korean": "필요 없음"
   },
   "SkillDescSimple_Skill_MP_GoblinT-1AR_N_3": {
-    "english": "At the start of the round, Attack/SPD increases based on the number of allied Bio-Roids (Max. 5)",
+    "english": "At the start of the round, Attack/SPD increases based on the number of allied Bioroids (Max. 5)",
     "korean": "라운드 개시시, 아군 바이오로이드 수에 따라 공격력/행동력 증가 (최대 5)"
   },
   "SkillDescSimple_Skill_MP_GoblinT-1AR_N_4": {
@@ -3484,7 +3484,7 @@
     "korean": "라운드 개시 시, 공격력 / 방어 관통 / 행동력이 증가합니다. 아군에 의한 냉기 저항 증가 효과를 받고 있는 경우, <따뜻해서 좋네~> 효과가 2배로 적용됩니다."
   },
   "SkillDesc_Skill_BR_Echidna_N_1": {
-    "english": "Ignores {0} protection damage within the specified range, and causes the target to be unable to move / weakened damage reduction / SPD / reduced DEF for 2 rounds. The effect is reduced by 50% on air types. (max 2 stacks)&nWhen an enemy is defeated with this skill, <Swamp of Desire> is activated.",
+    "english": "Ignores {0} protection damage within the specified range, and causes the target to be unable to SPD / weakened damage reduction / SPD / reduced DEF for 2 rounds. The effect is reduced by 50% on air types. (max 2 stacks)&nWhen an enemy is defeated with this skill, <Swamp of Desire> is activated.",
     "korean": "지정 범위에 {0} 보호 무시 피해를 주고, 2라운드 동안 이동 불가 / 피해 감소 약화 / 행동력 / 방어력 감소 상태로 만듭니다. 기동형에게는 효과가 50% 감소합니다. (최대 2중첩)&n해당 스킬로 적을 처치 시, <욕망의 늪>이 발동합니다."
   },
   "SkillDesc_Skill_BR_Echidna_N_2": {
@@ -3500,7 +3500,7 @@
     "korean": "라운드 개시 시, 아군에 중장이 2기 이하일 경우 범위 내의 경장 / 기동형 아군들의 공격력 / 적중 / 행동력을 증가시키며 효과를 받는 대상이 보호기가 아닐 경우, 대상을 지정 보호 합니다. 아군에 경장형 아군이 2기 이상일 경우, 자신에게 행보호가 적용되고 아군에 기동형 아군이 2기 이상일 경우, 자신에게 열 보호가 적용됩니다."
   },
   "SkillDesc_Skill_BR_Echidna_N_5": {
-    "english": "At the start of battle, inflicts provoke / cannot move / reduced skill power / reduced SPD / increased damage taken for 2 rounds on light- and heavy-type enemies within range. If the target is a heavy type, the effects are increased by 100%. These effects are not affected by the target's effect resistance, and except for cannot move, the remaining effects cannot be removed by harmful effect removal. At skill level 10, the range increases.",
+    "english": "At the start of battle, inflicts provoke / cannot SPD / reduced skill power / reduced SPD / increased damage taken for 2 rounds on light- and heavy-type enemies within range. If the target is a heavy type, the effects are increased by 100%. These effects are not affected by the target's effect resistance, and except for cannot SPD, the remaining effects cannot be removed by harmful effect removal. At skill level 10, the range increases.",
     "korean": "전투 개시 시, 범위 내 경장형, 중장형 적에게 2라운드 동안 도발 / 이동 불가 / 스킬 위력 감소 / 행동력 감소 / 받는 피해 증가 상태로 만듭니다. 대상이 중장형일 경우, 효과가 100% 증가합니다. 해당 효과들은 대상의 효과 저항에 영향을 받지 않고 적용되며 이동 불가를 제외한 나머지 효과들은 해로운 효과 해제로 해제할 수 없습니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "SkillDesc_Skill_BR_Efreeti_N_1": {

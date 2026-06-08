@@ -1,6 +1,33 @@
 [
     {
         "original": "바이오로이드",
+        "correctTranslation": "Bioroids",
+        "mistranslation": [
+            "Bar IoLoids",
+            "Bioloids",
+            "IoLoids",
+            "bar Io-loyd",
+            "bar Ioroids",
+            "ba Ioroids",
+            "bar Io-loids",
+            "B.I.O.L.O.S",
+            "B.I.O.L.S",
+            "B.I.oids",
+            "BaIoroids",
+            "bar Ioids",
+            "bio-loids",
+            "bio-roids",
+            "bar Io loids",
+            "bar Io loyds",
+            "Bio-roids",
+            "Bio-androids",
+            "bio-droids",
+            "bio‑roids",
+            "biroids"
+        ]
+    },
+    {
+        "original": "바이오로이드",
         "correctTranslation": "Bioroid",
         "mistranslation": [
             "Bar IoLoid",
@@ -21,7 +48,63 @@
             "bar Io loyd",
             "Bio-roid",
             "Bio-android",
-            "bio-droid"
+            "bio-droid",
+            "bio‑roid",
+            "biroid"
+        ]
+    },
+    {
+        "original": "바이오 로이드",
+        "correctTranslation": "Bioroids",
+        "mistranslation": [
+            "Bar IoLoids",
+            "Bioloids",
+            "IoLoids",
+            "bar Io-loyd",
+            "bar Ioroids",
+            "ba Ioroids",
+            "bar Io-loids",
+            "B.I.O.L.O.S",
+            "B.I.O.L.S",
+            "B.I.oids",
+            "BaIoroids",
+            "bar Ioids",
+            "bio-loids",
+            "bio-roids",
+            "bar Io loids",
+            "bar Io loyds",
+            "Bio-roids",
+            "Bio-androids",
+            "bio-droids",
+            "bio‑roids",
+            "biroids"
+        ]
+    },
+    {
+        "original": "바이오 로이드",
+        "correctTranslation": "Bioroid",
+        "mistranslation": [
+            "Bar IoLoid",
+            "Bioloid",
+            "IoLoid",
+            "bar Io-loyd",
+            "bar Ioroid",
+            "ba Ioroid",
+            "bar Io-loid",
+            "B.I.O.L.O.",
+            "B.I.O.L.",
+            "B.I.oid",
+            "BaIoroid",
+            "bar Ioid",
+            "bio-loid",
+            "bio-roid",
+            "bar Io loid",
+            "bar Io loyd",
+            "Bio-roid",
+            "Bio-android",
+            "bio-droid",
+            "bio‑roid",
+            "biroid"
         ]
     },
     {
@@ -82,7 +165,8 @@
             "Iron Beast",
             "Ironclad",
             "Iron Blooded One",
-            "the Iron Blooded"
+            "the Iron Blooded",
+            "Iron蟲"
         ]
     },
     {
@@ -92,7 +176,10 @@
             "Listcut",
             "Tris-cut",
             "list cut",
-            "Rise Cut"
+            "Rise Cut",
+            "wrist cut",
+            "wrist-cut",
+            "Wrist cut"
         ]
     },
     {
@@ -107,16 +194,6 @@
         "correctTranslation": "Coordinated",
         "mistranslation": [
             "japanese"
-        ]
-    },
-    {
-        "original": "행동력",
-        "correctTranslation": "SPD",
-        "mistranslation": [
-            "AP recovery",
-            "Action Power",
-            "MOVE",
-            "Action Points"
         ]
     },
     {
@@ -295,7 +372,8 @@
         "correctTranslation": "Kheshig",
         "mistranslation": [
             "Kesik",
-            "Kheshik"
+            "Kheshik",
+            "Khesig"
         ]
     },
     {
@@ -604,7 +682,8 @@
         "original": "드라큐리나",
         "correctTranslation": "Draculina",
         "mistranslation": [
-            "Dracurina"
+            "Dracurina",
+            "Dracula"
         ]
     },
     {
@@ -732,7 +811,8 @@
         "mistranslation": [
             "Bavariana",
             "Bavarian",
-            "Driade"
+            "Driade",
+            "Babariana"
         ]
     },
     {
@@ -829,7 +909,9 @@
         "original": "하베트롯",
         "correctTranslation": "Habetrot",
         "mistranslation": [
-            "Habertrot"
+            "Habertrot",
+            "Harvetrot",
+            "Harbetrot"
         ]
     },
     {
@@ -942,6 +1024,78 @@
         "correctTranslation": "Yumi",
         "mistranslation": [
             "chyle"
+        ]
+    },
+    {
+        "original": "나스호른",
+        "correctTranslation": "Nashorn",
+        "mistranslation": [
+            "NasHorn"
+        ]
+    },
+    {
+        "original": "블룸메르헨",
+        "correctTranslation": "Bloommerchen",
+        "mistranslation": [
+            "Blümmerchen",
+            "Blummerchen",
+            "Blümmerhen"
+        ]
+    },
+    {
+        "original": "브륀힐드",
+        "correctTranslation": "Brunhild",
+        "mistranslation": [
+            "Bruhild",
+            "Brünhild"
+        ]
+    },
+    {
+        "original": "유니벨",
+        "correctTranslation": "Unibell",
+        "mistranslation": [
+            "Unibel"
+        ]
+    },
+    {
+        "original": "테일러 리스트컷",
+        "correctTranslation": "Taylor Wristcut",
+        "mistranslation": [
+            "Taylor's wrist cut",
+            "Taylor's Wrist Cut",
+            "Taylor wrist cut",
+            "Taylor Wrist Cut",
+            "Taylor wrist-cut"
+        ]
+    },
+    {
+        "original": "테일러 클로스컷",
+        "correctTranslation": "Taylor Clothcut",
+        "mistranslation": [
+            "Taylor's cloth cut",
+            "Taylor cloth cut",
+            "Taylor Cloth Cut"
+        ]
+    },
+    {
+        "original": "콰트로",
+        "correctTranslation": "Cuatro",
+        "mistranslation": [
+            "Quattro"
+        ]
+    },
+    {
+        "original": "시에테",
+        "correctTranslation": "Siete",
+        "mistranslation": [
+            "Seven"
+        ]
+    },
+    {
+        "original": "도스",
+        "correctTranslation": "Dos",
+        "mistranslation": [
+            "DOS"
         ]
     }
 ]
