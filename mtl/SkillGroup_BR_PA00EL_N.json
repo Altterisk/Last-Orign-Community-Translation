@@ -1,0 +1,178 @@
+{
+  "SkillName_Skill_BR_PA00EL_N_1": {
+    "korean": "인페르노 미사일",
+    "english": "Inferno Missile"
+  },
+  "SkillDesc_Skill_BR_PA00EL_N_1": {
+    "korean": "미사일을 발사해 {0} 피해를 줍니다. &n적중 대상이 표식 / 이동 불가 상태인 경우, 피해량이 증가합니다.&n스쿼드 내 <P-29 린트블룸>이 있을 경우, [X-25 대 장갑 미사일] 스킬 협동 공격을 유도합니다.",
+    "english": "Fires a missile dealing {0} Additional DMG. If the target is Marked or Rooted, damage is increased. If a <P-29 Lindwurm> is in the squad, triggers a [X-25 Anti-Armor Missile] Cooperative Attack."
+  },
+  "SkillDescSimple_Skill_BR_PA00EL_N_1": {
+    "korean": "단일 대상 {0} 피해. 표식 / 이동 불가 대상 피해량 증가. [X-25 대 장갑 미사일] 협동 공격.",
+    "english": "Single target {0} Additional DMG. Increased damage to Marked / Rooted targets. [X-25 Anti-Armor Missile] Cooperative Attack."
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_1": {
+    "korean": "정밀 사격 : 피해량 {0}%",
+    "english": "Precision Fire : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_PA00EL_N_1": {
+    "korean": "[X-25 대 장갑 미사일] 협동 공격",
+    "english": "[X-25 Anti-Armor Missile] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_11": {
+    "korean": "정밀 사격 : [X-25 대 장갑 미사일] 협동 공격",
+    "english": "Precision Fire: [X-25 Anti-Armor Missile] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_53": {
+    "korean": "인페르노 미사일 : 받는 피해 감소 해제",
+    "english": "Inferno Missile : DMG Reduction Removal"
+  },
+  "SkillName_Skill_BR_PA00EL_N_2": {
+    "korean": "화염 폭격",
+    "english": "Flame Bombardment"
+  },
+  "SkillDesc_Skill_BR_PA00EL_N_2": {
+    "korean": "네이팜 미사일로 목표 지점에 {0} 보호 무시 피해를 줍니다. 목표 지점 주변은 피해가 25% 감소합니다. &n스킬 레벨 10에서 위치에 관계 없이 온전한 피해를 입힙니다.&n적중 시, 대상에게 2라운드 동안 표식을 부여하고 지속 화염 피해를 입힙니다.&n치명타 시, 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to the target location with a napalm missile. Damage around the target area is reduced by 25%. At Skill Level 10, deals full damage regardless of position. On hit, applies a Mark and deals Fire DoT DMG for 2 rounds. On CRIT, damage is increased."
+  },
+  "SkillDescSimple_Skill_BR_PA00EL_N_2": {
+    "korean": "목표 지점 {0} 보호 무시 피해. 치명타 시, 피해량 증가. 대상 표식 / 지속 화염 피해.",
+    "english": "{0} Ignore Protection damage to target location. Increased damage on CRIT. Applies Mark / Fire DoT DMG."
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_2": {
+    "korean": "화염 폭격 : 피해량 {0}%",
+    "english": "Flame Bombardment : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_PA00EL_N_2": {
+    "korean": "화염 폭격 : 표식",
+    "english": "Flame Bombardment : Marked"
+  },
+  "BuffDesc3_Effect_BR_PA00EL_N_2": {
+    "korean": "화염 폭격 : {0} 지속 화염 피해",
+    "english": "Flame Bombardment : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_21": {
+    "korean": "화염 폭격 : 표식",
+    "english": "Flame Bombardment : Marked"
+  },
+  "BuffDesc2_Effect_BR_PA00EL_N_21": {
+    "korean": "화염 폭격 : {0} 지속 화염 피해",
+    "english": "Flame Bombardment : Fire DoT DMG {0}"
+  },
+  "SkillName_Skill_BR_PA00EL_N_3": {
+    "korean": "정찰 비행",
+    "english": "Recon Flight"
+  },
+  "SkillDesc_Skill_BR_PA00EL_N_3": {
+    "korean": "라운드 개시 시, 적의 진형과 상태를 정찰해 자신의 적중 / 회피 / 방어 관통이 증가합니다. &n전투 종료 시, 다음에 출현할 적 정보를 획득합니다. &n전투 개시 시 자신이 정찰 활성화 상태인 경우, AP가 증가합니다.",
+    "english": "At the start of the round, scouts enemy formation and status, increasing own ACC, EVA, and DEF Penetration. After battle ends, gains information about the next incoming enemies. At the start of battle, if in Recon Flight state, AP is increased."
+  },
+  "SkillDescSimple_Skill_BR_PA00EL_N_3": {
+    "korean": "자신 적중 / 회피 / 방어 관통 증가. 웨이브 종료 시, 정찰 활성화. 정찰 활성화 시, 자신 AP 증가.",
+    "english": "Increases own ACC, EVA, and DEF Penetration. Recon Flight at end of wave. When Recon Flight is active, own AP increases."
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_3": {
+    "korean": "정찰 비행 : 정찰 활성화",
+    "english": "Recon Flight : Activate Recon Effect"
+  },
+  "BuffDesc2_Effect_BR_PA00EL_N_3": {
+    "korean": "정찰 비행 : 적중 {0}%",
+    "english": "Recon Flight : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_PA00EL_N_3": {
+    "korean": "정찰 비행 : 회피 {0}%",
+    "english": "Recon Flight : EVA {0}%"
+  },
+  "BuffDesc4_Effect_BR_PA00EL_N_3": {
+    "korean": "정찰 비행 : 방어 관통 {0}%",
+    "english": "Recon Flight : DEF Penetration {0}%"
+  },
+  "BuffDesc5_Effect_BR_PA00EL_N_3": {
+    "korean": "선제 폭격 : AP {0} (정찰 시)",
+    "english": "Preemptive Strike: AP {0} (On Recon)"
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_31": {
+    "korean": "정찰 비행 : 적중 {0}%",
+    "english": "Recon Flight : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_PA00EL_N_31": {
+    "korean": "정찰 비행 : 회피 {0}%",
+    "english": "Recon Flight : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_PA00EL_N_31": {
+    "korean": "정찰 비행 : 방어 관통 {0}%",
+    "english": "Recon Flight : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_32": {
+    "korean": "선제 폭격 : AP {0}",
+    "english": "Preemptive Bombing : AP {0}"
+  },
+  "SkillName_Skill_BR_PA00EL_N_4": {
+    "korean": "연계 폭격",
+    "english": "Coordinated Bombing"
+  },
+  "SkillDesc_Skill_BR_PA00EL_N_4": {
+    "korean": "라운드 개시 시, 범위 내 기동형 아군의 공격을 지원합니다.&n라운드 개시 시, 범위 내 <스카이 나이츠> 소속 전투원의 공격력 / 치명타를 증가시킵니다.&n자신은 효과가 두 배로 증폭됩니다.",
+    "english": "At the start of the round, supports the attacks of Air allies within range. At the start of the round, increases ATK and CRIT of <Sky Knights> members within range. The effect is doubled for the unit herself."
+  },
+  "SkillDescSimple_Skill_BR_PA00EL_N_4": {
+    "korean": "범위 내 기동형 공격 지원. <스카이 나이츠> 소속 전투원 공격력 / 치명타 증가.",
+    "english": "Attack Support for Air allies within range. Increases ATK and CRIT of <Sky Knights> members."
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_4": {
+    "korean": "연계 폭격 : 공격 지원",
+    "english": "Coordinated Bombing : Follow-Up Attack"
+  },
+  "BuffDesc2_Effect_BR_PA00EL_N_4": {
+    "korean": "연계 폭격 : 공격력 {0}%",
+    "english": "Coordinated Bombing : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_PA00EL_N_4": {
+    "korean": "연계 폭격 : 치명타 {0}%",
+    "english": "Coordinated Bombing : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_41": {
+    "korean": "연계 폭격 : 공격력 {0}%",
+    "english": "Coordinated Bombing : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_PA00EL_N_41": {
+    "korean": "연계 폭격 : 치명타 {0}%",
+    "english": "Coordinated Bombing : CRIT {0}%"
+  },
+  "SkillName_Skill_BR_PA00EL_N_5": {
+    "korean": "하늘을 달리는 기사",
+    "english": "Sky Knight"
+  },
+  "SkillDesc_Skill_BR_PA00EL_N_5": {
+    "korean": "라운드 개시 시, 자신의 사거리가 증가합니다. 스킬 레벨 10에서 추가로 증가합니다.&n재공격 / 공격 지원 시, 자신의 AP가 증가합니다.&n<인페르노 미사일> 적중 시, 대상의 받는 피해 감소 효과를 해제합니다.&n<화염 폭격> 적중 시, 대상이 적을 수록 피해량이 증가합니다.",
+    "english": "At the start of the round, increases her Range. At Skill Level 10, increases further. When performing Reattack or Follow-Up Attack, her AP increases. When <Inferno Missile> hits, removes DMG Reduction effects from the target. When <Flame Bombardment> hits, the fewer enemies there are, the more damage is dealt."
+  },
+  "SkillDescSimple_Skill_BR_PA00EL_N_5": {
+    "korean": "자신 사거리 증가. 재공격 / 공격 지원 시, 자신 AP 증가. 액티브 스킬 강화.",
+    "english": "Increases own Range. On Reattack / Follow-Up Attack, own AP increases. Strengthens active skills."
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_5": {
+    "korean": "하늘을 달리는 기사 : 사거리 {0}",
+    "english": "Sky Knight : Range {0}"
+  },
+  "BuffDesc2_Effect_BR_PA00EL_N_5": {
+    "korean": "하늘을 달리다 : AP {0} (지원 공격 시)",
+    "english": "Running Through the Sky: AP {0} (on Follow-Up Attack)"
+  },
+  "BuffDesc3_Effect_BR_PA00EL_N_5": {
+    "korean": "인페르노 미사일 : 받는 피해 감소 해제",
+    "english": "Inferno Missile: DMG Reduction Removal"
+  },
+  "BuffDesc4_Effect_BR_PA00EL_N_5": {
+    "korean": "화염 폭격 : 광역 피해량 집중 {0}%",
+    "english": "Flame Bombardment: Area damage concentration {0}%"
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_52": {
+    "korean": "하늘을 달리다 : AP {0}",
+    "english": "Run Across the Sky : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_PA00EL_N_54": {
+    "korean": "화염 폭격 : 광역 피해량 집중 {0}%",
+    "english": "Flame Bombardment: Area damage concentration {0}%"
+  }
+}

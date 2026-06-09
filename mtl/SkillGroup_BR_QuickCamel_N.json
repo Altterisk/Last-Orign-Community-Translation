@@ -1,0 +1,138 @@
+{
+  "SkillName_Skill_BR_QuickCamel_N_1": {
+    "korean": "듀얼 머신건",
+    "english": "Dual Machine Guns"
+  },
+  "SkillDesc_Skill_BR_QuickCamel_N_1": {
+    "korean": "기관총을 발사해 단일 대상에게 {0} 피해를 줍니다. &n대상이 회피 / 방어력 감소 상태인 경우, 피해량이 증가합니다.",
+    "english": "Fires a machine gun to deal {0} damage to a single target.&nIf the target is under EVA / Defense Reduction status, damage is increased."
+  },
+  "SkillDescSimple_Skill_BR_QuickCamel_N_1": {
+    "korean": "단일 대상 {0} 피해. 조건부 피해량 증가.",
+    "english": "Single target {0} damage. Conditional damage increase."
+  },
+  "BuffDesc1_Effect_BR_QuickCamel_N_1": {
+    "korean": "듀얼 머신건 : 피해량 {0}%",
+    "english": "Dual Machine Guns : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_QuickCamel_N_2": {
+    "korean": "180mm 로켓포",
+    "english": "180mm Rocket Launcher"
+  },
+  "SkillDesc_Skill_BR_QuickCamel_N_2": {
+    "korean": "대 장갑 로켓포를 발사해 단일 대상에게 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.&n적중 시, 자신의 대 중장형 피해량이 증가합니다.&n대상이 표식 / 이동 불가 상태인 경우, 피해량이 증가합니다.",
+    "english": "Fires an anti-armor rocket launcher to deal {0} damage to a single target. Ignores a portion of the target's DEF.&nOn hit, increases own Anti-Heavy DMG.&nIf the target is under Marked / Rooted status, damage is increased."
+  },
+  "SkillDescSimple_Skill_BR_QuickCamel_N_2": {
+    "korean": "단일 대상 {0} 피해. 자신 방어 관통 / 대 중장형 피해량 증가. 조건부 피해량 증가.",
+    "english": "Single target {0} damage. Self DEF Penetration / Anti-Heavy DMG increase. Conditional damage increase."
+  },
+  "BuffDesc1_Effect_BR_QuickCamel_N_2": {
+    "korean": "180mm 로켓포 : 방어 관통 {0}%",
+    "english": "180mm Rocket Launcher : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_QuickCamel_N_2": {
+    "korean": "180mm 로켓포 : 대 중장형 피해량 {0}%",
+    "english": "180mm Rocket Launcher : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_QuickCamel_N_2": {
+    "korean": "180mm 로켓포 : 피해량 {0}%",
+    "english": "180mm Rocket Launcher : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_QuickCamel_N_21": {
+    "korean": "180mm 로켓포 : 피해량 {0}%",
+    "english": "180mm Rocket Launcher : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_QuickCamel_N_3": {
+    "korean": "보병 지원",
+    "english": "Infantry Support"
+  },
+  "SkillDesc_Skill_BR_QuickCamel_N_3": {
+    "korean": "라운드 개시 시, 자신과 같은 열에 위치한 경장 / 중장형 아군의 공격을 지원하고 공격력을 증가시킵니다.&n<앵거 오브 호드> 소속 전투원은 상기 효과의 역할군 및 위치 조건을 무시합니다.&n전투 개시 시, 자신과 같은 열에 위치한 경장 / 중장형 아군의 AP가 증가합니다.",
+    "english": "At the start of the round, increases ATK of Light / Heavy allies in the same row and provides Follow-Up Attack.&n<Anger of Horde> units ignore the role and position conditions of this effect.&nAt the start of battle, increases AP of Light / Heavy allies in the same row."
+  },
+  "SkillDescSimple_Skill_BR_QuickCamel_N_3": {
+    "korean": "조건부 아군 공격 지원 / 공격력 / AP 증가.",
+    "english": "Conditional ally Attack Support / ATK / AP increase."
+  },
+  "BuffDesc1_Effect_BR_QuickCamel_N_3": {
+    "korean": "보병 지원 : 공격 지원",
+    "english": "Infantry Support : Follow-Up Attack"
+  },
+  "BuffDesc2_Effect_BR_QuickCamel_N_3": {
+    "korean": "보병 지원 : 공격력 {0}%",
+    "english": "Infantry Support : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_QuickCamel_N_3": {
+    "korean": "보병 지원 : AP {0}",
+    "english": "Infantry Support : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_QuickCamel_N_34": {
+    "korean": "보병 지원 : AP {0}",
+    "english": "Infantry Support : AP {0}"
+  },
+  "SkillName_Skill_BR_QuickCamel_N_4": {
+    "korean": "기동간 사격",
+    "english": "Mobile Fire"
+  },
+  "SkillDesc_Skill_BR_QuickCamel_N_4": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가하며 받는 피해가 감소합니다. &n라운드 개시 시, 아군 인원 수에 비례하여 자신의 행동력이 증가합니다. &n스쿼드 내에 자신을 제외한 <앵거 오브 호드> 소속 전투원이 있을 경우, 행동력 증가 효과가 50% 증폭됩니다.&n자신을 제외한 <앵거 오브 호드> 소속 전투원의 단일 대상 스킬 적중 시, <180mm 로켓포> 협동 공격을 실행합니다.",
+    "english": "At the start of the round, increases own ATK / CRIT and reduces DMG taken.&nAt the start of the round, increases own SPD based on the number of allies.&nIf there are other <Anger of Horde> units in the squad besides self, SPD increase is amplified by 50%.&nWhen another <Anger of Horde> unit hits with a single-target skill, triggers a [180mm Rocket Launcher] Cooperative Attack."
+  },
+  "SkillDescSimple_Skill_BR_QuickCamel_N_4": {
+    "korean": "자신 공격력 / 치명타 / 행동력 증가 / 받는 피해 감소.",
+    "english": "Self ATK / CRIT / SPD increase / DMG Reduction."
+  },
+  "BuffDesc1_Effect_BR_QuickCamel_N_4": {
+    "korean": "기동간 사격 : 공격력 {0}%",
+    "english": "Mobile Fire : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_QuickCamel_N_4": {
+    "korean": "기동간 사격 : 치명타 {0}%",
+    "english": "Mobile Fire : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_QuickCamel_N_4": {
+    "korean": "기동간 사격 : 받는 피해 {0}% 감소",
+    "english": "Mobile Fire : DMG Reduction {0}%"
+  },
+  "BuffDesc4_Effect_BR_QuickCamel_N_4": {
+    "korean": "연계 기동 : 행동력 {0}% (아군 1기당)",
+    "english": "Linked Maneuver: SPD {0}% (per ally)"
+  },
+  "BuffDesc5_Effect_BR_QuickCamel_N_4": {
+    "korean": "연계 기동 : [180mm 로켓포] 협동 공격",
+    "english": "Linked Maneuver: [180mm Rocket Launcher] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_QuickCamel_N_41": {
+    "korean": "연계 기동 : 행동력 {0}%",
+    "english": "Coordinated Maneuver : SPD {0}%"
+  },
+  "SkillName_Skill_BR_QuickCamel_N_5": {
+    "korean": "기동 전술 지원",
+    "english": "Mobile Tactical Support"
+  },
+  "SkillDesc_Skill_BR_QuickCamel_N_5": {
+    "korean": "라운드 개시 시, <180mm 로켓포>의 방어 관통 / 대 중장형 피해량 증가 효과를 획득합니다.&n스킬 효과는 <기동 전술 지원> 스킬 레벨에 비례합니다.&n라운드 개시 시 스쿼드 내에 <신속의 칸>이 있을 경우, 범위 내 <앵거 오브 호드> 소속 전투원에게 방어막/피해 감소 무시 효과를 부여합니다.",
+    "english": "At the start of the round, gains DEF Penetration / Anti-Heavy DMG increase from [180mm Rocket Launcher].&nSkill effects scale with the level of Mobile Tactical Support.&nIf <Swift Khan> is in the squad at the start of the round, grants Ignore Barrier / Ignore DMG Reduction to nearby <Anger of Horde> units."
+  },
+  "SkillDescSimple_Skill_BR_QuickCamel_N_5": {
+    "korean": "자신 방어 관통 / 대 중장형 피해량 증가. <앵거 오브 호드> 소속 방어막 / 피해 감소 무시.",
+    "english": "Self DEF Penetration / Anti-Heavy DMG increase. Ignores shield / DMG Reduction from <Anger of Horde> units."
+  },
+  "BuffDesc1_Effect_BR_QuickCamel_N_5": {
+    "korean": "기동 전술 지원 : 방어 관통 {0}%",
+    "english": "Mobile Tactical Support : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_QuickCamel_N_5": {
+    "korean": "기동 전술 지원 : 대 중장형 피해량 {0}%",
+    "english": "Mobile Tactical Support : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_QuickCamel_N_5": {
+    "korean": "기동 전술 지원 : 방어막 / 피해 감소 무시",
+    "english": "Mobile Tactical Support : Barrier / Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_BR_QuickCamel_N_51": {
+    "korean": "기동 전술 지원 : 방어막 / 피해 감소 무시",
+    "english": "Mobile Tactical Support : Barrier / Ignore Barrier / DMG Reduction"
+  }
+}

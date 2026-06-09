@@ -1,0 +1,158 @@
+{
+  "SkillName_Skill_BR_Spriggan_N_1": {
+    "korean": "2연장 대 장갑 미사일",
+    "english": "Twin-Launcher Heavy Armor Missile"
+  },
+  "SkillDesc_Skill_BR_Spriggan_N_1": {
+    "korean": "대 장갑 미사일로 {0} 방어 관통 피해를 줍니다. 대상이 중장형인 경우, 피해량이 증가합니다. 치명타 시, 피해량이 증가합니다.",
+    "english": "Deals {0} DEF Penetration damage with a Heavy Armor Missile. If the target is Heavy, damage is increased. On CRIT, damage is increased."
+  },
+  "SkillDescSimple_Skill_BR_Spriggan_N_1": {
+    "korean": "단일 대상 {0} 방어 관통 피해. 치명타 시, 피해량 증가. 대 중장형 피해량 증가",
+    "english": "Single target {0} DEF Penetration DMG / CRIT increased DMG / Heavy increased DMG"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_1": {
+    "korean": "회심의 일격 : 피해량{0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Spriggan_N_1": {
+    "korean": "대 장갑 미사일 : 방어 관통{0}%",
+    "english": "Heavy Armor Missile : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_BR_Spriggan_N_1": {
+    "korean": "대 장갑 미사일 : 대 중장 피해량{0}%",
+    "english": "Heavy Armor Missile : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_11": {
+    "korean": "대 장갑 미사일 : 방어 관통{0}%",
+    "english": "Heavy Armor Missile : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_Spriggan_N_11": {
+    "korean": "대 장갑 미사일 : 대 중장 피해량{0}%",
+    "english": "Heavy Armor Missile : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_51": {
+    "korean": "특종 발견? : 받는 피해 감소 해제",
+    "english": "Scoop Discovery? : DMG Reduction Removal"
+  },
+  "SkillName_Skill_BR_Spriggan_N_2": {
+    "korean": "BFG1000 저격용 캐논포",
+    "english": "BFG1000 Sniper Cannon"
+  },
+  "SkillDesc_Skill_BR_Spriggan_N_2": {
+    "korean": "저격으로 {0} 보호 무시 피해를 줍니다. 대상이 표식 / 이동 불가 상태일 경우, 각각 피해량이 증가합니다. 스킬 레벨당 +6%의 적중 보정이 적용됩니다.",
+    "english": "Deals {0} Ignore Protection damage by sniping. If the target is Marked or Rooted, damage is increased accordingly. +6% ACC correction per skill level is applied."
+  },
+  "SkillDescSimple_Skill_BR_Spriggan_N_2": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 표식 / 이동 불가 대상 피해량 증가",
+    "english": "Single target {0} Ignore Protection DMG / Marked increased DMG / Rooted increased DMG"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_2": {
+    "korean": "정밀 저격 : 피해량{0}%",
+    "english": "Precision Sniping : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Spriggan_N_2": {
+    "korean": "정밀 사격 : 적중 보정{0}%",
+    "english": "Precision Shooting : ACC Adjustment{0}%"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_21": {
+    "korean": "정밀 저격 : 피해량{0}%",
+    "english": "Precision Sniping : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_Spriggan_N_3": {
+    "korean": "루머 콜렉터",
+    "english": "Rumor Collector"
+  },
+  "SkillDesc_Skill_BR_Spriggan_N_3": {
+    "korean": "전투에서 일어난 일과 오간 대화를 퍼뜨릴 생각에 들떠, 라운드 시작시 공격력 / 치명타가 증가하고 2웨이브 후 행동력이 증가합니다.",
+    "english": "At the start of the round, ATK and CRIT increase, and after 2 waves, SPD increases."
+  },
+  "SkillDescSimple_Skill_BR_Spriggan_N_3": {
+    "korean": "공격력 / 치명타 증가. 전투 종료 시, 다음 전투 행동력 증가",
+    "english": "ATK / CRIT increase / Next battle SPD increase at battle end"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_3": {
+    "korean": "루머 콜렉터 : 공격력{0}%",
+    "english": "Rumor Collector : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Spriggan_N_3": {
+    "korean": "루머 콜렉터 : 치명타{0}%",
+    "english": "Rumor Collector : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Spriggan_N_3": {
+    "korean": "루머 배포 준비 : 행동력{0}% (2웨이브 이후)",
+    "english": "Rumor Distribution Prep : SPD{0}% (after 2nd Wave)"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_31": {
+    "korean": "루머 배포 준비 : 행동력{0}%",
+    "english": "Rumor Distribution Prep : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_32": {
+    "korean": "루머 배포 준비 : 행동력{0}%",
+    "english": "Rumor Distribution Prep : SPD {0}%"
+  },
+  "SkillName_Skill_BR_Spriggan_N_4": {
+    "korean": "전투용 촬영 장비",
+    "english": "Combat Filming Equipment"
+  },
+  "SkillDesc_Skill_BR_Spriggan_N_4": {
+    "korean": "라운드 개시 시, 방어 관통, 적중, 사거리가 증가합니다. 전투 개시 시, 1회에 한하여 공격 시, 적중이 추가적으로 적용되고 스킬 레벨 10에서 횟수가 2회로 증가합니다.",
+    "english": "At the start of the round, DEF Penetration, ACC, and Range increase. At combat start, once per battle, an additional ACC is applied on attack. At skill level 10, the number of applications increases to 2."
+  },
+  "SkillDescSimple_Skill_BR_Spriggan_N_4": {
+    "korean": "방어 관통 / 적중 / 사거리 증가",
+    "english": "DEF Penetration / ACC / Range increase"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_4": {
+    "korean": "전투용 촬영 장비 : 방어 관통{0}%",
+    "english": "Combat Filming Equipment : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_Spriggan_N_4": {
+    "korean": "전투용 촬영 장비 : 적중{0}%",
+    "english": "Combat Filming Equipment : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Spriggan_N_4": {
+    "korean": "전투용 촬영 장비 : 사거리{0}",
+    "english": "Combat Filming Equipment : Range {0}"
+  },
+  "BuffDesc4_Effect_BR_Spriggan_N_4": {
+    "korean": "전투용 촬영 장비 : 적중{0}% (1회) (Lv.1~9)",
+    "english": "Combat Filming Equipment : ACC {0}% (1x)"
+  },
+  "BuffDesc5_Effect_BR_Spriggan_N_4": {
+    "korean": "전투용 촬영 장비 : 적중{0}% (2회) (Lv.10)",
+    "english": "Combat Filming Equipment : ACC {0}% (2x)"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_41": {
+    "korean": "전투용 촬영 장비 : 적중{0}% (1회)",
+    "english": "Combat Filming Equipment : ACC {0}% (1x)"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_42": {
+    "korean": "전투용 촬영 장비 : 적중{0}% (2회)",
+    "english": "Combat Filming Equipment : ACC {0}% (2x)"
+  },
+  "SkillName_Skill_BR_Spriggan_N_5": {
+    "korean": "특종 발견?",
+    "english": "Scoop Discovery?"
+  },
+  "SkillDesc_Skill_BR_Spriggan_N_5": {
+    "korean": "<루머 콜렉터>의 행동력 증가 효과가 라운드 개시 시 추가 발동하며, 인접한 아군이 2명 이상이면 재공격 효과가 추가됩니다. 라운드 개시 시, 공격력이 증가하며 해당 효과가 적용 중일 시, 각 액티브 스킬이 강화됩니다. <액티브 스킬 강화> : 치명타 시, 받는 피해 감소 효과 해제",
+    "english": "<Rumor Collector> At the start of the round, gains additional SPD. If two or more adjacent allies, gains an additional Reattack. Also increases ATK at the start of the round. While this effect is active, all active skills are enhanced. <Active Skill Enhancement>: On CRIT, removes DMG Reduction effect."
+  },
+  "SkillDescSimple_Skill_BR_Spriggan_N_5": {
+    "korean": "공격력 / 재공격",
+    "english": "ATK / Reattack"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_5": {
+    "korean": "특종 발견? : 공격력{0}%",
+    "english": "Scoop Discovery? : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Spriggan_N_5": {
+    "korean": "특종 발견? : 재공격",
+    "english": "Scoop Discovery? : Reattack"
+  },
+  "BuffDesc1_Effect_BR_Spriggan_N_52": {
+    "korean": "특종 발견? : 재공격",
+    "english": "Scoop Discovery? : Reattack"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "SkillName_Skill_BR_Leona_N_1": {
+    "korean": "공격 목표 지정",
+    "english": "Designate Attack Target"
+  },
+  "SkillDesc_Skill_BR_Leona_N_1": {
+    "korean": "권총을 발사해 {0} 피해를 주고, 적중 여부에 관계 없이 회피 관련 '강화 효과'를 해제합니다.&n적중 시, 2라운드 동안 대상에게 표식을 부여하고 받는 피해를 증가시킵니다. (중첩 불가)",
+    "english": "Fires a pistol dealing {0} damage and removes any EVA‑related enhancement regardless of hit. On hit, applies Marked to the target for 2 rounds and increases DMG Taken Increased. (Cannot stack)"
+  },
+  "SkillDescSimple_Skill_BR_Leona_N_1": {
+    "korean": "단일 대상 {0} 피해. 회피 강화 효과 해제 / 표식 / 받는 피해 증가.",
+    "english": "Single target {0} damage. Removes EVA enhancement / applies Marked / increases DMG Taken Increased."
+  },
+  "BuffDesc1_Effect_BR_Leona_N_1": {
+    "korean": "공격 목표 지정 : 회피 강화 해제",
+    "english": "Designate Attack Target : EVA Buff Removal"
+  },
+  "BuffDesc2_Effect_BR_Leona_N_1": {
+    "korean": "공격 목표 지정 : 표식",
+    "english": "Designate Attack Target : Marked"
+  },
+  "BuffDesc3_Effect_BR_Leona_N_1": {
+    "korean": "공격 목표 지정 : 받는 피해 {0}% 증가",
+    "english": "Designate Attack Target : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_Leona_N_11": {
+    "korean": "공격 목표 지정 : 표식",
+    "english": "Designate Attack Target : Marked"
+  },
+  "BuffDesc1_Effect_BR_Leona_N_12": {
+    "korean": "공격 목표 지정 : 받는 피해 {0}% 증가",
+    "english": "Designate Attack Target : DMG Taken Increased {0}%"
+  },
+  "SkillName_Skill_BR_Leona_N_2": {
+    "korean": "돌격 명령",
+    "english": "Charge Command"
+  },
+  "SkillDesc_Skill_BR_Leona_N_2": {
+    "korean": "지정한 아군의 현재 AP를 변경시키며, 해로운 효과를 해제합니다. &n현재 활성화된 자신의 <지휘> 스킬에 따라, 2라운드 동안 해당 <지휘> 효과를 추가로 부여합니다.&n스킬 레벨에 따라 소모 AP가 감소합니다.",
+    "english": "Alters the designated ally’s current AP and removes harmful effects. Depending on the active <Command> skill, grants an additional <Command> effect for 2 rounds. AP cost decreases with skill level."
+  },
+  "SkillDescSimple_Skill_BR_Leona_N_2": {
+    "korean": "대상 아군 AP 변경 / 해로운 효과 해제. 자신의 <지휘> 효과 증폭.",
+    "english": "Changes target ally’s AP / removes harmful effects. Amplifies your <Command> effect."
+  },
+  "BuffDesc1_Effect_BR_Leona_N_2": {
+    "korean": "돌격 명령 : AP {0}으로 변경",
+    "english": "Charge Command: AP changed to {0}"
+  },
+  "BuffDesc2_Effect_BR_Leona_N_2": {
+    "korean": "돌격 명령 : 해로운 효과 해제",
+    "english": "Charge Command : Debuff Removal"
+  },
+  "BuffDesc3_Effect_BR_Leona_N_2": {
+    "korean": "돌격 명령 : <공격 지휘> 효과 추가 부여",
+    "english": "Charge Command: Grants <Attack Command> effect"
+  },
+  "BuffDesc1_Effect_BR_Leona_N_21": {
+    "korean": "돌격 명령 : 공격력 {0}%",
+    "english": "Charge Command : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Leona_N_21": {
+    "korean": "돌격 명령 : 적중 {0}%",
+    "english": "Charge Command : ACC {0}%"
+  },
+  "SkillName_Skill_BR_Leona_CH_3": {
+    "korean": "방어 지휘",
+    "english": "Defensive Command"
+  },
+  "SkillDesc_Skill_BR_Leona_CH_3": {
+    "korean": "라운드 개시 시, 3라운드 동안 범위 내 아군의 방어력이 증가하며 받는 피해가 감소합니다.&n라운드 개시 시, 범위 내 아군 보호기의 받는 피해가 추가로 감소합니다. 해당 효과는 피격 시 해제됩니다.",
+    "english": "At round start, allies in range gain increased DEF and reduced DMG Taken for 3 rounds. At round start, the DMG Reduction of allied Defenders in range is further increased. Effect ends when hit."
+  },
+  "SkillDescSimple_Skill_BR_Leona_CH_3": {
+    "korean": "아군 방어력 증가 / 받는 피해 감소. 아군 보호기 받는 피해 감소.",
+    "english": "Increases ally DEF / reduces DMG Taken. Reduces DMG Taken for allied Defenders."
+  },
+  "BuffDesc1_Effect_BR_Leona_CH_3": {
+    "korean": "방어 지휘 : 방어력 {0}%",
+    "english": "Defensive Command : DEF {0}%"
+  },
+  "BuffDesc2_Effect_BR_Leona_CH_3": {
+    "korean": "방어 지휘 : 받는 피해 {0}% 감소",
+    "english": "Defensive Command : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_BR_Leona_CH_3": {
+    "korean": "방어 지휘 : 받는 피해 {0}% 감소 (보호기)",
+    "english": "Defensive Command : DMG Reduction {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_BR_Leona_CH_31": {
+    "korean": "추가 방어 지휘 : 받는 피해 {0}% 감소",
+    "english": "Additional Defense Command : DMG Reduction {0}%"
+  },
+  "SkillName_Skill_BR_Leona_CH_4": {
+    "korean": "공격 준비 태세",
+    "english": "Prepare for Attack"
+  },
+  "SkillDesc_Skill_BR_Leona_CH_4": {
+    "korean": "라운드 개시 시, 범위 내 아군의 공격력 / 적중이 증가합니다. &n대기 시, <공격 지휘>로 전환하며 자신에게 적용된 해로운 효과를 해제합니다.&n<전투 관측 프레임> 장착 시, <공격 지휘> 상태로 취급하여 <시스터즈 오브 발할라> 소속 전투원의 스킬 효과를 발동시킬 수 있습니다.",
+    "english": "At round start, allies in range gain increased ATK and ACC. While on standby, switches to <Attack Command> and removes harmful effects from self. When equipped with <Combat Observation Frame>, is treated as in <Attack Command> state, allowing activation of skill effects of <Sisters of Valhalla> units."
+  },
+  "SkillDescSimple_Skill_BR_Leona_CH_4": {
+    "korean": "아군 공격력 / 적중 증가. 대기 시, <공격 지휘>로 전환.",
+    "english": "Increases ally ATK / ACC. When on standby, switches to <Attack Command>."
+  },
+  "BuffDesc1_Effect_BR_Leona_CH_4": {
+    "korean": "공격 준비 태세 : 공격력 {0}%",
+    "english": "Prepare for Attack : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Leona_CH_4": {
+    "korean": "공격 준비 태세 : 적중 {0}%",
+    "english": "Prepare for Attack : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Leona_CH_4": {
+    "korean": "공격 지휘 전환 (대기 시)",
+    "english": "Switch to Attack Command (On Standby)"
+  },
+  "BuffDesc1_Effect_BR_Leona_CH_41": {
+    "korean": "공격 지휘 전환",
+    "english": "Switch to Attack Command"
+  },
+  "BuffDesc1_Effect_BR_Leona_N_42": {
+    "korean": "지휘 전환 : 해로운 효과 해제",
+    "english": "Command Shift: Debuff Removal"
+  }
+}

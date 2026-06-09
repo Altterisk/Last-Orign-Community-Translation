@@ -1,0 +1,122 @@
+{
+  "1002707443": {
+    "korean": "화염 방사",
+    "english": "Flame Spray"
+  },
+  "1002707452": {
+    "korean": "단일 대상에게 {0} 화염 피해를 주고 3라운드 동안 지속 화염 피해를 입는 점화 상태로 만듭니다.",
+    "english": "Deals {0} fire damage to a single target and applies Ignited, dealing Fire DoT DMG for 3 rounds."
+  },
+  "1002707461": {
+    "korean": "단일 대상 {0} 화염 피해 / 화염 속성 지속 피해",
+    "english": "Deals {0} fire damage to a single target / Fire DoT DMG."
+  },
+  "1000109490": {
+    "korean": "화염 방사 : 지속 화염 피해 {0}",
+    "english": "Flame Spray : Fire DoT DMG {0}"
+  },
+  "1000109818": {
+    "korean": "화염 방사 : [180mm로켓포] 협동 공격",
+    "english": "Flame Spray: [180mm Rocket Launcher] Cooperative Attack"
+  },
+  "1000106699": {
+    "korean": "연계 공격 : 피해량{0}%",
+    "english": "Cooperative Attack : Additional DMG {0}%"
+  },
+  "1002707444": {
+    "korean": "전술 기동: 스트레이트 플러시",
+    "english": "Tactical Maneuver: Straight Flush"
+  },
+  "1002707453": {
+    "korean": "지정 범위 적에게 {0} 화염 피해를 주고 대상의 화염 저항을 감소시킵니다.",
+    "english": "Deals {0} fire damage to designated enemies and reduces their Fire Resist."
+  },
+  "1002707462": {
+    "korean": "범위 내 대상 {0} 화염 피해 / 화염 저항 감소",
+    "english": "Deals {0} fire damage to targets within range / reduces Fire Resist."
+  },
+  "1000109491": {
+    "korean": "전술 기동 - 스트레이트 플러시 : 화염 저항{0}%",
+    "english": "Tactical Maneuver - Straight Flush: Fire Resist {0}%"
+  },
+  "1002707445": {
+    "korean": "도박광",
+    "english": "Gambler"
+  },
+  "1002707454": {
+    "korean": "라운드 개시 시, 자신의 냉기 저항이 증가하고 적 수에 비례하여 자신의 공격력을 증가시킵니다. 스쿼드 내 자신을 제외한 앵거 오브 호드 소속 전투원의 공격을 지원합니다.",
+    "english": "At the start of the round, increases your Cold Resist and raises your ATK proportionally to the number of enemies. Provides Follow-Up Attack for Anger of Horde allies in the squad, excluding yourself."
+  },
+  "1002707463": {
+    "korean": "라운드 개시 시 자신의 냉기 저항 증가 / 적군 수에 비례하여 자신의 공격력 증가 / 앵거 오브 호드 공격 지원",
+    "english": "At the start of the round, increases your Cold Resist / raises your ATK based on enemy count / provides Follow-Up Attack for Anger of Horde members."
+  },
+  "1000109492": {
+    "korean": "도박광 : 냉기 저항{0}%",
+    "english": "High Roller : Cold Resist {0}%"
+  },
+  "1000109507": {
+    "korean": "도박광 : 공격력{0}% (적군 1)",
+    "english": "High Roller : ATK {0}% (Enemy 1)"
+  },
+  "1000109523": {
+    "korean": "도박광 : 공격 지원 (앵거 오브 호드)",
+    "english": "High Roller : Follow-Up Attack (Anger Of The Horde)"
+  },
+  "1000109494": {
+    "korean": "도박광 : 공격력{0}% (적군 1)",
+    "english": "High Roller : ATK {0}% (Enemy 1)"
+  },
+  "1000109495": {
+    "korean": "도박광 : 공격력{0}% (적군 2)",
+    "english": "High Roller : ATK {0}% (Enemy 2)"
+  },
+  "1000109496": {
+    "korean": "도박광 : 공격력{0}% (적군 3)",
+    "english": "High Roller : ATK {0}% (Enemy 3)"
+  },
+  "1000109497": {
+    "korean": "도박광 : 공격력{0}% (적군 4)",
+    "english": "High Roller : ATK {0}% (Enemy 4)"
+  },
+  "1000109498": {
+    "korean": "도박광 : 공격력{0}% (적군 5)",
+    "english": "High Roller : ATK {0}% (Enemy 5)"
+  },
+  "1000109499": {
+    "korean": "도박광 : 공격력{0}% (적군 6)",
+    "english": "High Roller : ATK {0}% (Enemy 6)"
+  },
+  "1000109500": {
+    "korean": "도박광 : 공격력{0}% (적군 7)",
+    "english": "High Roller : ATK {0}% (Enemy 7)"
+  },
+  "1000109501": {
+    "korean": "도박광 : 공격력{0}% (적군 8)",
+    "english": "High Roller : ATK {0}% (Enemy 8)"
+  },
+  "1000109502": {
+    "korean": "도박광 : 공격력{0}% (적군 9)",
+    "english": "High Roller : ATK {0}% (Enemy 9)"
+  },
+  "1002707446": {
+    "korean": "연쇄 화염",
+    "english": "Chain Flame"
+  },
+  "1002707455": {
+    "korean": "적 사망 시, 모든 적의 화염 저항을 감소시킵니다. (최대 6중첩)",
+    "english": "Whenever an enemy dies, reduces all enemies' Fire Resist (up to 6 stacks)."
+  },
+  "1002707464": {
+    "korean": "적 사망 시 적군 전체 화염 저항 감소",
+    "english": "When an enemy dies, reduces Fire Resist of all enemies."
+  },
+  "1000109493": {
+    "korean": "연쇄 화염 : 화염 저항{0}%(적 사망 시 / 중첩)",
+    "english": "Chain Flame: Fire Resist {0}% (on enemy death per stack)"
+  },
+  "1000109521": {
+    "korean": "도박광 : 공격 지원",
+    "english": "High Roller : Follow-Up Attack"
+  }
+}

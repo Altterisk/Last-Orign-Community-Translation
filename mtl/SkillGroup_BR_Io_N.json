@@ -1,0 +1,134 @@
+{
+  "SkillName_Skill_BR_Io_N_1": {
+    "korean": "중 기관포 사격",
+    "english": "Medium Machine Gun Fire"
+  },
+  "SkillDesc_Skill_BR_Io_N_1": {
+    "korean": "중 기관포를 발사해 {0} 피해를 줍니다. &n적중 시, 자신의 대 경장형 피해량이 증가합니다.&n적중 대상이 표식 또는 방어력 감소 상태인 경우, 피해량이 증가합니다.",
+    "english": "Fires a Medium Machine Gun to deal {0} damage. On hit, increases the user's Anti-Light DMG. If the target is Marked or under DEF Reduction, damage is increased."
+  },
+  "SkillDescSimple_Skill_BR_Io_N_1": {
+    "korean": "단일 대상 {0} 피해. 자신 대 경장형 피해량 증가. 표식 / 방어력 감소 대상 피해량 증가.",
+    "english": "Single target {0} damage. Increases the user's Anti-Light DMG. Increased damage to Marked or DEF-reduced targets."
+  },
+  "BuffDesc1_Effect_BR_Io_N_1": {
+    "korean": "집중 공격 : 피해량 {0}%",
+    "english": "Concentrated Attack : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Io_N_1": {
+    "korean": "중 기관포 : 대 경장형 피해량 {0}%",
+    "english": "Heavy Machine Gun : Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Io_N_11": {
+    "korean": "중 기관포 : 대 경장형 피해량 {0}%",
+    "english": "Heavy Machine Gun : Anti-Light DMG {0}%"
+  },
+  "SkillName_Skill_BR_Io_N_2": {
+    "korean": "전탄 방출",
+    "english": "Full Salvo"
+  },
+  "SkillDesc_Skill_BR_Io_N_2": {
+    "korean": "모든 무장을 발사해 지정 위치에 {0} 보호 무시 피해를 줍니다. &n적중 시, 대상의 AP를 감소시킵니다. 해당 효과는 대상의 효과 저항을 무시합니다.&n치명타 시, 피해량이 증가합니다.",
+    "english": "Fires all weapons to deal {0} Ignore Protection damage at the designated location. On hit, reduces the target's AP. This effect ignores the target's Status Resist. CRIT increases the damage."
+  },
+  "SkillDescSimple_Skill_BR_Io_N_2": {
+    "korean": "목표 지점 {0} 보호 무시 피해. 적중 대상 AP 감소. 치명타 시, 피해량 증가.",
+    "english": "Deals {0} Ignore Protection damage at the targeted location. Reduces the AP of hit targets. Increased damage on CRIT."
+  },
+  "BuffDesc1_Effect_BR_Io_N_2": {
+    "korean": "럭키 샷 : AP {0}",
+    "english": "Lucky Shot : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Io_N_2": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Io_N_21": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_Io_N_3": {
+    "korean": "안도감",
+    "english": "Sense of Relief"
+  },
+  "SkillDesc_Skill_BR_Io_N_3": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 적중 / 치명타 / 행동력이 증가합니다.&n라운드 개시 시 자신이 지정 보호를 받고 있을 경우, 효과가 두 배로 증폭됩니다.",
+    "english": "At the start of the round, increases the unit's ATK / ACC / CRIT / SPD. If the unit is under Target Protect, the effect is doubled."
+  },
+  "SkillDescSimple_Skill_BR_Io_N_3": {
+    "korean": "자신 공격력 / 적중 / 치명타 / 행동력 증가.",
+    "english": "Increases user's ATK / ACC / CRIT / SPD."
+  },
+  "BuffDesc1_Effect_BR_Io_N_3": {
+    "korean": "안도감 : 공격력 {0}%",
+    "english": "Sense of Relief : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Io_N_3": {
+    "korean": "안도감 : 적중 {0}%",
+    "english": "Sense of Relief : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Io_N_3": {
+    "korean": "안도감 : 치명타 {0}%",
+    "english": "Sense of Relief : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_BR_Io_N_3": {
+    "korean": "안도감 : 행동력 {0}%",
+    "english": "Sense of Relief : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Io_N_31": {
+    "korean": "안도감 : 공격력 {0}% (증폭)",
+    "english": "Sense of Relief : ATK {0}% (Amplified)"
+  },
+  "BuffDesc2_Effect_BR_Io_N_31": {
+    "korean": "안도감 : 적중 {0}% (증폭)",
+    "english": "Sense of Relief : ACC {0}% (Amplified)"
+  },
+  "BuffDesc3_Effect_BR_Io_N_31": {
+    "korean": "안도감 : 치명타 {0}% (증폭)",
+    "english": "Sense of Relief : CRIT {0}% (Amplified)"
+  },
+  "BuffDesc4_Effect_BR_Io_N_31": {
+    "korean": "안도감 : 행동력 {0}% (증폭)",
+    "english": "Sense of Relief : SPD {0}% (Amplified)"
+  },
+  "SkillName_Skill_BR_Io_N_4": {
+    "korean": "경장갑 파괴",
+    "english": "Light Armor Break"
+  },
+  "SkillDesc_Skill_BR_Io_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군 공격기 / 보호기의 대 경장형 피해량이 증가합니다. &n대상이 중장형인 경우, 효과가 50% 증폭됩니다.",
+    "english": "At the start of the round, increases Anti-Light DMG of ally Attacker / Defender units within range. If the target is Heavy-type, the effect is amplified by 50%."
+  },
+  "SkillDescSimple_Skill_BR_Io_N_4": {
+    "korean": "범위 내 아군 공격기 / 보호기 대 경장형 피해량 증가.",
+    "english": "Increases Anti-Light DMG for all Attacker / Defender allies within range."
+  },
+  "BuffDesc1_Effect_BR_Io_N_4": {
+    "korean": "경장갑 파괴 : 대 경장형 피해량 {0}%",
+    "english": "Light Armor Break : Anti-Light DMG {0}%"
+  },
+  "SkillName_Skill_BR_Io_N_5": {
+    "korean": "여기라면 괜찮겠지?",
+    "english": "It Should Be Safe Here"
+  },
+  "SkillDesc_Skill_BR_Io_N_5": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 방어 관통 / 적중이 증가합니다. &n자신이 후열에 가까울 수록 효과가 최대 두 배로 증폭됩니다.",
+    "english": "At the start of the round, increases the unit's ATK / DEF Penetration / ACC. The effect is amplified up to 2x the closer the unit is to the back row."
+  },
+  "SkillDescSimple_Skill_BR_Io_N_5": {
+    "korean": "자신 공격력 / 방어 관통 / 적중 증가.",
+    "english": "Increases user's ATK / DEF Penetration / ACC."
+  },
+  "BuffDesc1_Effect_BR_Io_N_5": {
+    "korean": "여기라면 괜찮겠지? : 공격력 {0}%",
+    "english": "It Should Be Safe Here : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Io_N_5": {
+    "korean": "여기라면 괜찮겠지? : 방어 관통 {0}%",
+    "english": "It Should Be Safe Here : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_BR_Io_N_5": {
+    "korean": "여기라면 괜찮겠지? : 적중 {0}%",
+    "english": "It Should Be Safe Here : ACC {0}%"
+  }
+}

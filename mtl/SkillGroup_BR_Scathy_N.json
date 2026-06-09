@@ -1,0 +1,186 @@
+{
+  "SkillName_Skill_BR_Scathy_N_1": {
+    "korean": "회로 과부하",
+    "english": "Circuit Overload"
+  },
+  "SkillDesc_Skill_BR_Scathy_N_1": {
+    "korean": "대상의 회로를 과부하 상태로 만들어 {0} 피해와 2라운드 동안 지속 고정 피해를 주며, 받는 피해를 증가시킵니다. 과부하 상태인 대상은 공격력이 증가하며 적중이 감소합니다.",
+    "english": "Puts the target into Circuit Overload state, dealing {0} Additional DMG and applying Fixed DoT DMG for 2 rounds while increasing DMG Taken. Overloaded targets gain increased ATK but reduced ACC."
+  },
+  "SkillDescSimple_Skill_BR_Scathy_N_1": {
+    "korean": "단일 대상 {0} 피해. 해킹 과부하 효과.",
+    "english": "Single target {0} Additional DMG. Inflicts Circuit Overload."
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_1": {
+    "korean": "과부하 : 지속 고정 피해 {0}",
+    "english": "Overload : Fixed DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_BR_Scathy_N_1": {
+    "korean": "과부하 : 공격력 {0}%",
+    "english": "Overload : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_Scathy_N_1": {
+    "korean": "과부하 : 적중 {0}%",
+    "english": "Overload : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Scathy_N_1": {
+    "korean": "과부하 : 받는 피해 {0}% 증가",
+    "english": "Overload : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_42": {
+    "korean": "Trojan : 강화 불가 상태",
+    "english": "Trojan : Buff Prevention"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_43": {
+    "korean": "Trojan : 강화 불가 상태",
+    "english": "Trojan : Buff Prevention"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_51": {
+    "korean": "과부하 : 지속 고정 피해 {0}",
+    "english": "Overload : Fixed DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_BR_Scathy_N_51": {
+    "korean": "과부하 : 효과 저항 {0}% 감소",
+    "english": "Overload : Status Resist {0}% Decrease"
+  },
+  "BuffDesc3_Effect_BR_Scathy_N_51": {
+    "korean": "과부하 : 적중 {0}%",
+    "english": "Overload : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Scathy_N_51": {
+    "korean": "과부하 : 받는 피해 {0}% 증가",
+    "english": "Overload : DMG Taken Increased {0}%"
+  },
+  "SkillName_Skill_BR_Scathy_N_2": {
+    "korean": "최후의 해킹",
+    "english": "Final Hack"
+  },
+  "SkillDesc_Skill_BR_Scathy_N_2": {
+    "korean": "고전적인 방법으로 대상을 해킹해 {0} 피해를 주고, 일정 확률로 행동 불능으로 만듭니다. 대상이 과부하 상태면 100% 확률로 행동 불능이 됩니다.",
+    "english": "Hack the target by classic means, dealing {0} Additional DMG and having a chance to Stun. If the target is in Circuit Overload, the Stun chance becomes 100%."
+  },
+  "SkillDescSimple_Skill_BR_Scathy_N_2": {
+    "korean": "단일 대상 {0} 피해. 일정 확률 행동 불능. 과부하 대상에겐 100% 확률.",
+    "english": "Single target {0} Additional DMG. Chance to Stun. 100% if target is in Circuit Overload."
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_2": {
+    "korean": "고전적 해킹 : 행동 불능",
+    "english": "Classic Hack : Stunned"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_21": {
+    "korean": "고전적 해킹 : 행동 불능",
+    "english": "Classic Hack : Stunned"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_41": {
+    "korean": "Cracking : 강화 효과 해제 (최후의 해킹)",
+    "english": "Cracking : Buff Removal (Final Hack)"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_47": {
+    "korean": "Cracker : 피해 최소화",
+    "english": "Cracker : Minimize Damage"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_52": {
+    "korean": "브루트 포스 : 행동 불능",
+    "english": "Brute Force : Stunned"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_53": {
+    "korean": "브루트 포스 : 피해량 {0}%",
+    "english": "Brute Force : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_Scathy_N_3": {
+    "korean": "정보 분석",
+    "english": "Recon Analysis"
+  },
+  "SkillDesc_Skill_BR_Scathy_N_3": {
+    "korean": "웨이브 종료 시, 정보를 분석해 다음에 출현할 적의 정보를 입수합니다.&n정찰 활성화 상태로 라운드 개시 시, 적을 물리적으로 해킹할 의욕에 가득 차, 자신의 적중과 AP가 증가합니다.",
+    "english": "At wave end, analyze data to obtain information on the next enemies.&nWhen Recon Effect is active at round start, become eager to physically hack enemies, increasing own ACC and AP."
+  },
+  "SkillDescSimple_Skill_BR_Scathy_N_3": {
+    "korean": "전투 종료 시, 다음 적 정보 획득. 정보 획득 시, 적중 / AP 증가",
+    "english": "At battle end, acquire next enemy info. When info is obtained, increase ACC and AP."
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_3": {
+    "korean": "정보 분석 : 다음 적 정보 획득",
+    "english": "Recon Analysis : Recon"
+  },
+  "BuffDesc2_Effect_BR_Scathy_N_3": {
+    "korean": "정보 분석 : 적중 {0}%",
+    "english": "Recon Analysis : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Scathy_N_3": {
+    "korean": "정보 분석 : AP {0}",
+    "english": "Recon Analysis : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_31": {
+    "korean": "정보 분석 : 적중 {0}%",
+    "english": "Recon Analysis : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Scathy_N_31": {
+    "korean": "정보 분석 : AP {0}",
+    "english": "Recon Analysis : AP {0}"
+  },
+  "SkillName_Skill_BR_Scathy_N_4": {
+    "korean": "인필트레이션",
+    "english": "Infiltration"
+  },
+  "SkillDesc_Skill_BR_Scathy_N_4": {
+    "korean": "라운드 개시 시, 자신의 행동력이 증가합니다.&n공격 적중 시, 아군 전체의 공격력 / 방어력 / 적중을 2라운드 동안 증가시킵니다. (최대 2중첩)&n<최후의 해킹> 치명타 시, 대상의 강화 효과를 해제하고, 자신은 피해 최소화(1회) 효과를 획득합니다.&n공격 대상이 효과 저항 증가 상태가 아니거나 효과 저항 감소 상태인 경우, 적중 대상에게 2라운드 동안 강화 불가 상태를 부여합니다.",
+    "english": "At round start, increase own SPD.&nWhen an attack hits, increase all allies' ATK / DEF / ACC for 2 rounds (max 2 stacks).&nOn a CRIT with <Final Hack>, remove the target's buff effects and grant self Damage Minimization (once).&nIf the attack target is not under Status Resist Up or is under Status Resist Down, apply Buff Prevention to the hit target for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Scathy_N_4": {
+    "korean": "자신 행동력 증가. 공격 적중 시, 아군 공격력 / 방어력 / 적중 증가. 각 액티브 스킬 강화.",
+    "english": "Increase own SPD. On hit, increase ally ATK / DEF / ACC. Enhance active skills."
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_4": {
+    "korean": "손풀기 : 행동력 {0}%",
+    "english": "Warm-Up : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Scathy_N_4": {
+    "korean": "Cracking : 강화 효과 해제 (최후의 해킹)",
+    "english": "Cracking : Buff Removal (Final Hack)"
+  },
+  "BuffDesc3_Effect_BR_Scathy_N_4": {
+    "korean": "Cracker : 피해 최소화 (자신)",
+    "english": "Cracker : Minimize Damage (Self)"
+  },
+  "BuffDesc4_Effect_BR_Scathy_N_4": {
+    "korean": "Trojan : 강화 불가 상태",
+    "english": "Trojan : Buff Prevention"
+  },
+  "BuffDesc5_Effect_BR_Scathy_N_4": {
+    "korean": "Cache : 공격력/방어력/적중 {0}%",
+    "english": "Cache : ATK / DEF / ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_44": {
+    "korean": "Cache : 공격력 {0}%",
+    "english": "Cache : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_45": {
+    "korean": "Cache : 방어력 {0}%",
+    "english": "Cache : DEF {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_46": {
+    "korean": "Cache : 적중 {0}%",
+    "english": "Cache : ACC {0}%"
+  },
+  "SkillName_Skill_BR_Scathy_N_5": {
+    "korean": "브루트 포스",
+    "english": "Brute Force"
+  },
+  "SkillDesc_Skill_BR_Scathy_N_5": {
+    "korean": "전투 개시 시, 자신은 보호 무시 효과를 획득합니다.&n<회로 과부하>의 지속 고정 피해 / 적중 감소 수치가 2배로 증가하고 대상의 공격력 증가 효과가 제거되며, 추가로 2라운드 동안 대상의 효과 저항을 감소시킵니다.&n<최후의 해킹>의 행동 불능 확률이 항상 100%로 증가합니다. 대상이 과부하 상태인 경우, <최후의 해킹> 피해량이 크게 증가합니다.",
+    "english": "At battle start, gain Ignore Protection.&n<Circuit Overload>'s Fixed DoT DMG and ACC reduction are doubled, the target's ATK Up effect is removed, and additionally reduce the target's Status Resist for 2 rounds.&n<Final Hack>'s Stun chance is increased to 100% at all times. If the target is in <Circuit Overload>, <Final Hack> damage is greatly increased."
+  },
+  "SkillDescSimple_Skill_BR_Scathy_N_5": {
+    "korean": "보호 무시 활성화. 각 액티브 스킬 추가 강화.",
+    "english": "Gain Ignore Protection. Further enhances active skills."
+  },
+  "BuffDesc1_Effect_BR_Scathy_N_5": {
+    "korean": "브루트 포스 : 보호 무시 활성화",
+    "english": "Brute Force : Activate Ignore Protection"
+  },
+  "BuffDesc2_Effect_BR_Scathy_N_5": {
+    "korean": "브루트 포스 : 피해량 {0}%",
+    "english": "Brute Force : Additional DMG {0}%"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "SkillName_Skill_BR_BloodyPanther_N_1": {
+    "korean": "기관포 사격",
+    "english": "Machine Gun Fire"
+  },
+  "SkillDesc_Skill_BR_BloodyPanther_N_1": {
+    "korean": "기관포로 {0} 피해를 주고, 2라운드 동안 공격력 / 치명타를 감소시킵니다. 대상이 방어 감소 상태인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} damage with a machine gun and reduces ATK/CRIT for 2 rounds. If the target has a DEF debuff, the damage is increased."
+  },
+  "SkillDescSimple_Skill_BR_BloodyPanther_N_1": {
+    "korean": "단일 대상 {0} 피해. 공격력 / 치명타 감소. 방어 감소 대상 피해량 증가.",
+    "english": "Single target {0} damage. ATK/CRIT Reduction. Increased damage to targets with reduced DEF."
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_1": {
+    "korean": "약점 공격 : 피해량 {0}%",
+    "english": "Weak Point Attack : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_BloodyPanther_N_1": {
+    "korean": "기관포 견제 : 공격력 {0}%",
+    "english": "Autocannon Suppression: ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_BloodyPanther_N_1": {
+    "korean": "기관포 견제 : 치명타 {0}%",
+    "english": "Machine Gun Suppression : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_11": {
+    "korean": "기관포 견제 : 공격력 {0}%",
+    "english": "Machine Gun Suppression: ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_12": {
+    "korean": "기관포 견제 : 치명타 {0}%",
+    "english": "Machine Gun Suppression: CRIT {0}%"
+  },
+  "SkillName_Skill_BR_BloodyPanther_N_2": {
+    "korean": "주포 발사",
+    "english": "Main Cannon Fire"
+  },
+  "SkillDesc_Skill_BR_BloodyPanther_N_2": {
+    "korean": "주포를 발사해 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시하며, 경장형이거나 중장형인 경우 피해량이 증가합니다.",
+    "english": "Fires the Main Cannon, dealing {0} damage. Ignores a percentage of the target's DEF, and damage is increased against Light or Heavy targets."
+  },
+  "SkillDescSimple_Skill_BR_BloodyPanther_N_2": {
+    "korean": "단일 대상 {0} 피해. 방어 관통 증가. 경장 / 중장형 피해량 증가.",
+    "english": "Single target {0} damage. Increased DEF Penetration. Increased Anti-Light DMG / Anti-Heavy DMG."
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_2": {
+    "korean": "주포 발사 : 방어 관통 {0}%",
+    "english": "Main Cannon Fire : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_BloodyPanther_N_2": {
+    "korean": "주포 발사 : 대 경장 피해량 {0}%",
+    "english": "Main Cannon Fire : Anti-Light DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_BloodyPanther_N_2": {
+    "korean": "주포 발사 : 대 중장 피해량 {0}%",
+    "english": "Main Cannon Fire : Anti-Heavy DMG {0}%"
+  },
+  "SkillName_Skill_BR_BloodyPanther_N_3": {
+    "korean": "장갑 전개",
+    "english": "Deploy Armor Plates"
+  },
+  "SkillDesc_Skill_BR_BloodyPanther_N_3": {
+    "korean": "라운드 개시 시, 받는 피해 감소 효과를 획득합니다.&n대기 시, <장갑 전개 모드>로 변형해 <기관포 사격> 스킬이 없어지고 <주포 발사> 스킬이 강화됩니다. &n<장갑 전개 모드>로 라운드 개시 시, 받는 피해 감소 효과가 2배로 증폭되고 행 보호 효과가 활성화됩니다.&n자신이 <장갑 전개 모드>가 아닌 경우, 최초 2라운드 개시 시까지 자신의 AP가 증가합니다.",
+    "english": "When starting a round, gain DMG Reduction.&nWhen idle, transforms into <Armor Deploy Mode>, and the <Machine Gun Fire> skill disappears while the <Main Cannon Fire> skill is strengthened.&nWhen starting a round in <Armor Deploy Mode>, DMG Reduction is doubled and Row Protect is activated.&nIf you are not in <Armor Deploy Mode>, your AP increases until the start of the first 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_BloodyPanther_N_3": {
+    "korean": "대기 시, 장갑 전개 모드로 변형. 받는 피해 감소. 최초 2라운드 개시 시까지 AP 증가.",
+    "english": "When idle, transform into Armor Deploy Mode. DMG Reduction. AP increase until the start of the second round."
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_3": {
+    "korean": "변형 : 장갑 전개 모드",
+    "english": "Transformation : Armor Deployment Mode"
+  },
+  "BuffDesc2_Effect_BR_BloodyPanther_N_3": {
+    "korean": "장갑 전개 : 받는 피해 {0}% 감소",
+    "english": "Deploy Armor Plates : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_BR_BloodyPanther_N_3": {
+    "korean": "장갑 전개 : 행 보호",
+    "english": "Deploy Armor Plates : Row Protect"
+  },
+  "BuffDesc4_Effect_BR_BloodyPanther_N_3": {
+    "korean": "선수필승 : AP {0}",
+    "english": "Player Victory : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_31": {
+    "korean": "선수필승 : AP {0}",
+    "english": "Player Victory: AP {0}"
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_32": {
+    "korean": "순항용 경량 장갑 : 받는 피해 {0}% 감소",
+    "english": "Lightweight Cruise Armor: DMG Reduction {0}%"
+  },
+  "SkillName_Skill_BR_BloodyPanther_N_4": {
+    "korean": "특수 코팅 장갑",
+    "english": "Special Coating Armor"
+  },
+  "SkillDesc_Skill_BR_BloodyPanther_N_4": {
+    "korean": "라운드 개시 시, 특수 코팅 장갑으로 인해 방어력 / 효과 저항 / 모든 속성 저항이 증가합니다. &n<장갑 전개 모드>에서는 저항 증가 효과가 두 배로 증가하며, 자신이 지정 보호중인 아군에게도 증가한 만큼의 동일한 효과를 부여합니다.",
+    "english": "At the start of a round, Special Coating Armor increases DEF, Status Resist, and All Elemental Resist. In <Armor Deployment Mode>, the resistance increase is doubled, and the same increased effect is granted to allies you are protecting."
+  },
+  "SkillDescSimple_Skill_BR_BloodyPanther_N_4": {
+    "korean": "방어력 / 효과 저항 / 모든 속성 저항 증가.",
+    "english": "Increase DEF / Status Resist / All Elemental Resist"
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_4": {
+    "korean": "특수 코팅 장갑 : 화염 저항 {0}%",
+    "english": "Special Coating Armor : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_BloodyPanther_N_4": {
+    "korean": "특수 코팅 장갑 : 냉기 저항 {0}%",
+    "english": "Special Coating Armor : Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_BloodyPanther_N_4": {
+    "korean": "특수 코팅 장갑 : 전기 저항 {0}%",
+    "english": "Special Coating Armor : Electric Resist {0}%"
+  },
+  "BuffDesc4_Effect_BR_BloodyPanther_N_4": {
+    "korean": "특수 코팅 장갑 : 효과 저항 {0}%",
+    "english": "Special Coating Armor : Status Resist {0}%"
+  },
+  "BuffDesc5_Effect_BR_BloodyPanther_N_4": {
+    "korean": "특수 코팅 장갑 : 방어력 {0}%",
+    "english": "Special Coating Armor : DEF {0}%"
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_41": {
+    "korean": "장갑 전개 : 화염 저항 {0}%",
+    "english": "Deploy Armor Plates : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_BloodyPanther_N_41": {
+    "korean": "장갑 전개 : 냉기 저항 {0}%",
+    "english": "Deploy Armor Plates : Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_BloodyPanther_N_41": {
+    "korean": "장갑 전개 : 전기 저항 {0}%",
+    "english": "Deploy Armor Plates : Electric Resist {0}%"
+  },
+  "BuffDesc4_Effect_BR_BloodyPanther_N_41": {
+    "korean": "장갑 전개 : 효과 저항 {0}%",
+    "english": "Deploy Armor Plates : Status Resist {0}%"
+  },
+  "BuffDesc5_Effect_BR_BloodyPanther_N_41": {
+    "korean": "장갑 전개 : 방어력 {0}%",
+    "english": "Deploy Armor Plates : DEF {0}%"
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_42": {
+    "korean": "장갑 전개 : 화염 저항 {0}%",
+    "english": "Deploy Armor Plates : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_BloodyPanther_N_42": {
+    "korean": "장갑 전개 : 냉기 저항 {0}%",
+    "english": "Deploy Armor Plates : Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_BloodyPanther_N_42": {
+    "korean": "장갑 전개 : 전기 저항 {0}%",
+    "english": "Deploy Armor Plates : Electric Resist {0}%"
+  },
+  "BuffDesc4_Effect_BR_BloodyPanther_N_42": {
+    "korean": "장갑 전개 : 효과 저항 {0}%",
+    "english": "Deploy Armor Plates : Status Resist {0}%"
+  },
+  "SkillName_Skill_BR_BloodyPanther_N_5": {
+    "korean": "순항 모드",
+    "english": "Cruiser Mode"
+  },
+  "SkillDesc_Skill_BR_BloodyPanther_N_5": {
+    "korean": "라운드 개시 시, 범위 내 보호기를 제외한 경장형 / 중장형 아군을 지정 대상 보호합니다. &n라운드 개시 시, 범위 내 중장형 아군에게 공격력 / 행동력 증가 효과를 부여합니다.&n<장갑 전개 모드>에서는 행동력 대신 공격력이 추가로 증가합니다.",
+    "english": "At the start of a round, protects designated Light/Heavy allies within range, excluding Defenders.&nAt the start of a round, grants ATK/SPD increase to Heavy allies within range.&nIn <Armor Deploy Mode>, ATK is additionally increased instead of SPD."
+  },
+  "SkillDescSimple_Skill_BR_BloodyPanther_N_5": {
+    "korean": "경장형 / 중장형 아군 보호. 중장형 아군 공격력 / 행동력 증가.",
+    "english": "Target Protect Light/Heavy allies. Increase ATK/SPD of Heavy allies."
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_5": {
+    "korean": "순항 모드 : 지정 대상 보호 (경장/중장)",
+    "english": "Cruising Mode : Designated Protection (Light/Heavy)"
+  },
+  "BuffDesc2_Effect_BR_BloodyPanther_N_5": {
+    "korean": "순항 모드 : 공격력 {0}% (중장)",
+    "english": "Cruiser Mode : ATK {0}% (Heavy)"
+  },
+  "BuffDesc3_Effect_BR_BloodyPanther_N_5": {
+    "korean": "순항 모드 : 행동력 {0}% (중장)",
+    "english": "Cruiser Mode : SPD {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_BR_BloodyPanther_N_51": {
+    "korean": "순항 모드 : 공격력 {0}% (중장)",
+    "english": "Cruiser Mode : ATK {0}% (Heavy)"
+  },
+  "BuffDesc2_Effect_BR_BloodyPanther_N_51": {
+    "korean": "순항 모드 : 행동력 {0}% (중장)",
+    "english": "Cruiser Mode : SPD {0}% (Heavy)"
+  }
+}

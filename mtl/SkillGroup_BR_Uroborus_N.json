@@ -1,0 +1,182 @@
+{
+  "SkillName_Skill_BR_Uroborus_N_1": {
+    "korean": "타이니 개틀링",
+    "english": "Tiny Gatling"
+  },
+  "SkillDesc_Skill_BR_Uroborus_N_1": {
+    "korean": "조준 사격을 통해 단일 대상에게 {0} 보호 무시 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 표식 / 받는 피해 증가 효과를 부여합니다.&n적중 대상이 지원기인 경우, 해당 라운드 동안 스킬 사용 불가 상태로 만듭니다.",
+    "english": "Deals {0} Ignore Protection damage to a single target with Aimed Shot. On hit, applies Marked and DMG Taken Increased for 2 rounds. If the target is a Supporter, applies Silenced for the rest of the round."
+  },
+  "SkillDescSimple_Skill_BR_Uroborus_N_1": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 표식 / 받는 피해 증가. 지원기 대상 스킬 사용 불가.",
+    "english": "Single target {0} Ignore Protection DMG. Marked / DMG Taken Increased. Supporter target Silenced."
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_1": {
+    "korean": "타이니 개틀링 : 표식",
+    "english": "Tiny Gatling : Marked"
+  },
+  "BuffDesc2_Effect_BR_Uroborus_N_1": {
+    "korean": "타이니 개틀링 : 받는 피해 {0}% 증가",
+    "english": "Tiny Gatling : DMG Taken Increased"
+  },
+  "BuffDesc3_Effect_BR_Uroborus_N_1": {
+    "korean": "입 좀 다물게 : 스킬 사용 불가",
+    "english": "Shut Your Mouth : Silenced"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_11": {
+    "korean": "입 좀 다물게 : 스킬 사용 불가",
+    "english": "Shut Your Mouth : Silenced"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_41": {
+    "korean": "표적 지시 : [X-25 대 장갑 미사일] 협동 공격",
+    "english": "Target Designation: [X-25 Anti-Armor Missile] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_42": {
+    "korean": "표적 지시 : [풀 버스트] 협동 공격",
+    "english": "Target Designation: [Full Burst] Cooperative Attack"
+  },
+  "SkillName_Skill_BR_Uroborus_N_2": {
+    "korean": "편대 출격!",
+    "english": "Squad Sortie!"
+  },
+  "SkillDesc_Skill_BR_Uroborus_N_2": {
+    "korean": "스킬 사용 시, 기동형 바이오로이드 아군에게 출격 지시를 내려 3라운드 동안 공격력 / 방어 관통을 증가시킵니다. (최대 3중첩)&n<스카이 나이츠> 소속 전투원인 경우, 추가로 대상 HP에 반비례하여 피해량이 증가하는 효과를 부여합니다.",
+    "english": "When using a skill, orders Air-type Bioroid allies to sortie, increasing their ATK / DEF Penetration for 3 rounds (up to 3 stacks). If the target is a member of <Sky Knights>, additionally grants damage that scales proportionally with the target’s missing HP."
+  },
+  "SkillDescSimple_Skill_BR_Uroborus_N_2": {
+    "korean": "기동형 바이오로이드 공격력 / 방어 관통 증가. <스카이 나이츠> 대상 HP 반비례 피해량 증가.",
+    "english": "Air-type Bioroid ATK / DEF Penetration increase. <Sky Knights> target damage increases proportionally with missing HP."
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_2": {
+    "korean": "편대 출격! : 공격력 {0}%",
+    "english": "Squad Sortie! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Uroborus_N_2": {
+    "korean": "편대 출격! : 방어 관통 {0}%",
+    "english": "Squad Sortie! : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_BR_Uroborus_N_2": {
+    "korean": "편대 출격! : 대상 HP 반비례 피해량 {0}%",
+    "english": "Squad Sortie! : Damage proportional to target HP {0}%"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_21": {
+    "korean": "편대 출격! : 방어 관통 {0}%",
+    "english": "Squad Sortie! : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_22": {
+    "korean": "편대 출격! : 대상 HP 반비례 피해량 {0}%",
+    "english": "Squad Sortie! : Damage proportional to target HP {0}%"
+  },
+  "SkillName_Skill_BR_Uroborus_N_3": {
+    "korean": "단장의 전선",
+    "english": "Commander’s Frontline"
+  },
+  "SkillDesc_Skill_BR_Uroborus_N_3": {
+    "korean": "라운드 개시 시, 범위 내 기동형 바이오로이드 아군의 적중 / 행동력을 증가시킵니다.&n스킬 사용 시, 범위 내 기동형 바이오로이드 아군의 AP를 증가시킵니다.&n<스카이 나이츠> 소속 전투원에게는 효과가 두 배로 증폭됩니다.",
+    "english": "At round start, increase ACC and SPD of allied Air-type Bioroids within range. When using a skill, increase AP of allied Air-type Bioroids within range. Effects are doubled for <Sky Knights> members."
+  },
+  "SkillDescSimple_Skill_BR_Uroborus_N_3": {
+    "korean": "기동형 바이오로이드 적중 / 행동력 증가. 스킬 사용 시, 기동형 바이오로이드 AP 증가. <스카이 나이츠> 효과 증폭.",
+    "english": "Air-type Bioroid ACC / SPD increase. When using a skill, Air-type Bioroid AP increase. Effects amplified for <Sky Knights> members."
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_3": {
+    "korean": "단장의 전선 : 적중 {0}%",
+    "english": "Commander’s Frontline : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Uroborus_N_3": {
+    "korean": "단장의 전선 : 행동력 {0}%",
+    "english": "Commander’s Frontline : SPD {0}%"
+  },
+  "BuffDesc3_Effect_BR_Uroborus_N_3": {
+    "korean": "시범을 잘 보도록! : AP {0}",
+    "english": "Watch the Demonstration! : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_31": {
+    "korean": "비행단장의 전선 : 적중 {0}%",
+    "english": "Wing Commander's Front : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Uroborus_N_31": {
+    "korean": "비행단장의 전선 : 행동력 {0}%",
+    "english": "Wing Commander's Front : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_32": {
+    "korean": "시범을 잘 보도록! : AP {0}",
+    "english": "Watch the Demonstration! : AP {0}"
+  },
+  "SkillName_Skill_BR_Uroborus_N_4": {
+    "korean": "최적의 공격 경로",
+    "english": "Optimal Attack Route"
+  },
+  "SkillDesc_Skill_BR_Uroborus_N_4": {
+    "korean": "라운드 개시 시, 2라운드 동안 자신의 적중 / 회피가 증가합니다.&n공격 적중 시 자신이 전/후열에 위치하고 스쿼드 내 <P-29 린트블룸>이 있을 경우, [X-25 대 장갑 미사일] 스킬 협동 공격을 유도합니다. &n공격 적중 시 자신이 중열에 위치하고 스쿼드 내 <P-22 하르페이아>가 있을 경우, [풀 버스트] 스킬 협동 공격을 유도합니다.",
+    "english": "At round start, increase your ACC / EVA for 2 rounds. When your ATK hits and you are in the front or rear row and <P-29 Lindwurm> is in the squad, trigger a Cooperative Attack with [X-25 Anti-Armor Missile]. When your ATK hits and you are in the middle row and <P-22 Harpyia> is in the squad, trigger a Cooperative Attack with [Full Burst]."
+  },
+  "SkillDescSimple_Skill_BR_Uroborus_N_4": {
+    "korean": "자신 적중 / 회피 증가. 공격 적중 시, [X-25 대 장갑 미사일] / [풀 버스트] 협동 공격.",
+    "english": "ACC / EVA increase. On hit, trigger [X-25 Anti-Armor Missile] / [Full Burst] Cooperative Attack."
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_4": {
+    "korean": "최적의 공격 경로 : 적중 {0}%",
+    "english": "Optimal Attack Route : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Uroborus_N_4": {
+    "korean": "최적의 공격 경로 : 회피 {0}%",
+    "english": "Optimal Attack Route : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_Uroborus_N_4": {
+    "korean": "[X-25 대 장갑 미사일] 협동 공격 (전/후열)",
+    "english": "[X-25 Anti-Armor Missile] Cooperative Attack (Front/Rear Row)"
+  },
+  "BuffDesc4_Effect_BR_Uroborus_N_4": {
+    "korean": "[풀 버스트] 협동 공격 (중열)",
+    "english": "[Full Burst] Cooperative Attack (Middle Row)"
+  },
+  "SkillName_Skill_BR_Uroborus_N_5": {
+    "korean": "후학의 귀감",
+    "english": "Model for Successors"
+  },
+  "SkillDesc_Skill_BR_Uroborus_N_5": {
+    "korean": "전투 개시 시, 스쿼드 내 기동형 아군 수에 따라 바이오로이드 아군의 AP를 증가시킵니다.&n라운드 개시 시, <편대 출격!>의 효과가 적용된 아군의 해로운 효과를 해제합니다.&n전투 개시 시, 기동형 바이오로이드 아군의 획득 경험치를 증가시킵니다.",
+    "english": "At battle start, increase AP of Air-type Bioroid allies based on the number of Air-type allies in the squad. At round start, remove harmful effects from allies affected by <Squad Sortie!>. At battle start, increase EXP gain for Air-type Bioroid allies."
+  },
+  "SkillDescSimple_Skill_BR_Uroborus_N_5": {
+    "korean": "기동형 수에 따라 바이오로이드 AP 증가. <편대 출격!> 적용 대상 해로운 효과 해제. 기동형 바이오로이드 획득 경험치 증가.",
+    "english": "AP increase based on number of Air-type units. Remove harmful effects from allies affected by <Squad Sortie!>. Increase EXP gain for Air-type Bioroids."
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_5": {
+    "korean": "후학의 귀감 : AP {0} (1인)",
+    "english": "Model for Successors : AP {0} (1 Unit)"
+  },
+  "BuffDesc2_Effect_BR_Uroborus_N_5": {
+    "korean": "후학의 귀감 : 해로운 효과 해제",
+    "english": "Model for Successors : Debuff Removal"
+  },
+  "BuffDesc3_Effect_BR_Uroborus_N_5": {
+    "korean": "경험의 윤회 : 획득 경험치 {0}%",
+    "english": "Cycle of Experience : EXP {0}%"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_51": {
+    "korean": "후학의 귀감 : AP {0} (2인)",
+    "english": "Model for Successors : AP {0} (2 Units)"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_52": {
+    "korean": "후학의 귀감 : AP {0} (3인)",
+    "english": "Model for Successors : AP {0} (3 Units)"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_53": {
+    "korean": "후학의 귀감 : AP {0} (4인)",
+    "english": "Model for Successors : AP {0} (4 Units)"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_54": {
+    "korean": "후학의 귀감 : AP {0} (5인)",
+    "english": "Model for Successors : AP {0} (5 Units)"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_55": {
+    "korean": "후학의 귀감 : 해로운 효과 해제",
+    "english": "Model for Successors : Debuff Removal"
+  },
+  "BuffDesc1_Effect_BR_Uroborus_N_56": {
+    "korean": "경험의 윤회 : 획득 경험치 {0}%",
+    "english": "Cycle of Experience : EXP {0}%"
+  }
+}

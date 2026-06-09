@@ -1,0 +1,110 @@
+{
+  "SkillName_Skill_BR_JangHwa_CH_1": {
+    "korean": "원격 폭탄 격발",
+    "english": "Remote Bomb Detonation"
+  },
+  "SkillDesc_Skill_BR_JangHwa_CH_1": {
+    "korean": "지정 범위의 적에게 {0} 보호 무시 피해를 주고, 1스킬과 2스킬이 기본 형태로 변경됩니다. 지원 공격 또는 재공격 시, 2라운드 동안 스킬 위력이 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to enemies within the designated area, and Skill 1 and Skill 2 revert to their basic forms. When performing a Supporter attack or a Reattack, Skill Power is increased for 2 rounds."
+  },
+  "BuffDesc1_Effect_BR_JangHwa_CH_1": {
+    "korean": "원격 폭탄 격발 : 스킬 위력 {0}%",
+    "english": "Remote Bomb Trigger : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_JangHwa_CH_11": {
+    "korean": "원격 폭탄 격발",
+    "english": "Remote Bomb Detonation"
+  },
+  "BuffDesc1_Effect_BR_JangHwa_CH_2": {
+    "korean": "원격 폭탄 격발 : 스킬 위력 {0}%",
+    "english": "Remote Bomb Detonation: Skill Power {0}%"
+  },
+  "SkillName_Skill_BR_JangHwa_N_3": {
+    "korean": "사보타주 스페셜리스트",
+    "english": "Sabotage Specialist"
+  },
+  "SkillDesc_Skill_BR_JangHwa_N_3": {
+    "korean": "라운드 개시 시, 방어 관통이 증가합니다. &n공격기가 자신 뿐이거나, 자신 외에 <엠프레시스 하운드> 전투원이 있는 경우 방어막 / 피해 감소 무시 효과를 획득합니다.",
+    "english": "At the start of the round, DEF Penetration increases. If the attack skill targets only yourself, or if there is a <Empress Hound> combatant other than yourself, you gain Ignore Barrier / DMG Reduction."
+  },
+  "SkillDescSimple_Skill_BR_JangHwa_N_3": {
+    "korean": "방어 관통 증가 / 방어막, 피해 감소 무시",
+    "english": "Increases DEF Penetration / Ignore Barrier, DMG Reduction"
+  },
+  "BuffDesc1_Effect_BR_JangHwa_N_3": {
+    "korean": "사보타주 스페셜리스트 : 방어 관통 {0}%",
+    "english": "Sabotage Specialist : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_JangHwa_N_3": {
+    "korean": "사보타주 스페셜리스트 : 방어막 / 피해 감소 무시",
+    "english": "Sabotage Specialist : Barrier / Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_BR_JangHwa_N_31": {
+    "korean": "사보타주 스페셜리스트 : 방어막 / 피해 감소 무시",
+    "english": "Sabotage Specialist : Barrier / Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_BR_JangHwa_N_32": {
+    "korean": "사보타주 스페셜리스트 : 방어막 / 피해 감소 무시",
+    "english": "Sabotage Specialist : Barrier / Ignore Barrier / DMG Reduction"
+  },
+  "SkillName_Skill_BR_JangHwa_N_4": {
+    "korean": "광적인 집착",
+    "english": "Manic Obsession"
+  },
+  "SkillDesc_Skill_BR_JangHwa_N_4": {
+    "korean": "병적인 집착과 광폭함으로 인해 기본 150%의 치명타 수치를 갖습니다. &n적 사망 시, 해로운 치명타 감소 효과를 영구 획득합니다.&n자신이 지정 보호를 받고 있을 때, 라운드 개시 시 자신에게 적용된 해로운 치명타 감소 효과를 해제합니다.",
+    "english": "Due to pathological obsession and fury, has a base CRIT rate of 150%. When an enemy dies, permanently gains a detrimental CRIT reduction effect. When under Target Protect, at the start of the round, removes the detrimental CRIT reduction effect from self."
+  },
+  "SkillDescSimple_Skill_BR_JangHwa_N_4": {
+    "korean": "적 사망 시 치명타 감소. 지정 보호 상태로 라운드 개시 시, 치명타 감소 해제.",
+    "english": "CRIT is reduced upon enemy death. At the start of the round, if under Target Protect, the CRIT reduction is removed."
+  },
+  "BuffDesc1_Effect_BR_JangHwa_N_4": {
+    "korean": "광적인 집착 : 치명타 {0}%",
+    "english": "Manic Obsession : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_BR_JangHwa_N_4": {
+    "korean": "광적인 집착 : 치명타 감소 해제",
+    "english": "Manic Obsession : CRIT Debuff Removal"
+  },
+  "BuffDesc1_Effect_BR_JangHwa_N_41": {
+    "korean": "광적인 집착 : 치명타 감소 해제",
+    "english": "Manic Obsession : CRIT Debuff Removal"
+  },
+  "BuffDesc1_Effect_BR_JangHwa_N_43": {
+    "korean": "원격 폭탄 격발 : 스킬 위력 {0}%",
+    "english": "Remote bomb detonation : Skill Power {0}%"
+  },
+  "SkillName_Skill_BR_JangHwa_N_5": {
+    "korean": "사냥의 희열",
+    "english": "Joy of the Hunt"
+  },
+  "SkillDesc_Skill_BR_JangHwa_N_5": {
+    "korean": "라운드 개시 시, 범위 내 보호기 / 지원기 아군의 공격을 지원합니다.&n자신과 인접한 아군이 2 이상일 때, 라운드 개시 시 자신은 방어 관통 증가 효과를 획득합니다.&n자신과 인접한 아군이 4 이상일 때, 라운드 개시 시 자신은 광역 피해 집중 효과를 획득합니다.",
+    "english": "At the start of the round, supports the attacks of Defender/Supporter allies within range. If there are 2 or more adjacent allies, you gain increased DEF Penetration at the start of the round. If there are 4 or more adjacent allies, you gain Area DMG Focus at the start of the round."
+  },
+  "SkillDescSimple_Skill_BR_JangHwa_N_5": {
+    "korean": "범위 내 보호기 / 지원기 공격 지원. 자신과 인접한 아군 수에 따라 방어 관통 증가 / 광역 피해 집중 효과 획득.",
+    "english": "Supports the attacks of Defender/Supporter allies within range. Increases DEF Penetration / gains Area DMG Focus based on the number of adjacent allies."
+  },
+  "BuffDesc1_Effect_BR_JangHwa_N_5": {
+    "korean": "사냥의 희열 : 공격 지원 (보호기/지원기)",
+    "english": "Joy of the Hunt: Follow-Up Attack (Defender/Supporter)"
+  },
+  "BuffDesc2_Effect_BR_JangHwa_N_5": {
+    "korean": "사냥의 희열 : 방어 관통 {0}%",
+    "english": "Joy of the Hunt : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_BR_JangHwa_N_5": {
+    "korean": "사냥의 희열 : 광역 피해 집중 {0}% (최대)",
+    "english": "Joy of the Hunt : Area DMG Focus {0}% (Max)"
+  },
+  "BuffDesc1_Effect_BR_JangHwa_N_51": {
+    "korean": "사냥의 희열 : 방어 관통 {0}%",
+    "english": "Joy of the Hunt : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_BR_JangHwa_N_52": {
+    "korean": "사냥의 희열 : 광역 피해 집중 {0}% (최대)",
+    "english": "Joy of the Hunt : Area DMG Focus {0}% (Max)"
+  }
+}

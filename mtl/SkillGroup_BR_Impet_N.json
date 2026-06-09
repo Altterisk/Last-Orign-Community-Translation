@@ -1,0 +1,222 @@
+{
+  "SkillName_Skill_BR_Impet_N_1": {
+    "korean": "대 장갑 로켓",
+    "english": "Heavy Armor-Piercing Rocket"
+  },
+  "SkillDesc_Skill_BR_Impet_N_1": {
+    "korean": "대 장갑 로켓을 발사해 {0} 피해를 줍니다. 적중 시, 2라운드 동안 대상의 방어력을 감소시킵니다.",
+    "english": "Fires a Heavy Armor-Piercing Rocket to deal {0} damage. On hit, reduces the target's DEF for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Impet_N_1": {
+    "korean": "단일 대상 {0} 피해. 적중 시, 방어력 감소.",
+    "english": "Single target {0} damage. Reduces target's DEF on hit."
+  },
+  "BuffDesc1_Effect_BR_Impet_N_1": {
+    "korean": "대 장갑 로켓 : 방어력 {0}%",
+    "english": "Heavy Armor-Piercing Rocket : DEF {0}%"
+  },
+  "SkillName_Skill_BR_Impet_N_2": {
+    "korean": "MK08. 열압력탄",
+    "english": "MK08 Thermobaric Shell"
+  },
+  "SkillDesc_Skill_BR_Impet_N_2": {
+    "korean": "열압력탄을 발사해 대상에게 {0} 피해를 줍니다. 치명타 시, 피해량이 증가합니다.&n또한 대상이 방어력 / 회피 감소 상태인 경우 각각 피해량이 증가합니다.",
+    "english": "Fires a Thermobaric Shell to deal {0} damage to the target. Damage increases on CRIT. Additionally, if the target is under DEF or EVA reduction, damage is further increased for each effect."
+  },
+  "SkillDescSimple_Skill_BR_Impet_N_2": {
+    "korean": "목표 지점 {0} 피해. 치명타 시, 피해량 증가. 방어력 / 회피 감소 대상 피해량 증가.",
+    "english": "Designated location {0} damage. Damage increases on CRIT. Increased damage against targets with reduced DEF / EVA."
+  },
+  "BuffDesc1_Effect_BR_Impet_N_2": {
+    "korean": "열압력탄 : 피해량 {0}% (치명타)",
+    "english": "Thermal Pressure Round: Additional DMG {0}% (CRIT)"
+  },
+  "BuffDesc2_Effect_BR_Impet_N_2": {
+    "korean": "열압력탄 : 피해량 {0}% (방어력)",
+    "english": "Thermal Pressure Shell: Additional DMG {0}% (DEF)"
+  },
+  "BuffDesc3_Effect_BR_Impet_N_2": {
+    "korean": "열압력탄 : 피해량 {0}% (회피)",
+    "english": "Thermal Pressure Round: Additional DMG {0}% (EVA)"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_21": {
+    "korean": "열압력탄 : 피해량 {0}% (방어력)",
+    "english": "Thermal Pressure Round: DMG {0}% (DEF)"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_22": {
+    "korean": "열압력탄 : 피해량 {0}% (회피)",
+    "english": "Thermal Pressure Round: Damage {0}% (vs. EVA)"
+  },
+  "SkillName_Skill_BR_Impet_N_3": {
+    "korean": "시제 EFP탄",
+    "english": "Prototype EFP Round"
+  },
+  "SkillDesc_Skill_BR_Impet_N_3": {
+    "korean": "라운드 개시 시, 자신은 대 경장형 / 중장형 피해량이 증가합니다.&n라운드 개시 시, 자신의 공격력 / 방어 관통이 증가합니다. 해당 효과는 전열에 가까울 수록 최대 2배까지 증가합니다.",
+    "english": "At the start of the round, the unit's Anti-Light DMG and Anti-Heavy DMG are increased. Also at the start of the round, its ATK and DEF Penetration are increased. These effects scale up to 2x the closer the unit is to the frontline."
+  },
+  "SkillDescSimple_Skill_BR_Impet_N_3": {
+    "korean": "대 경장형 / 중장형 피해량 증가. 자신 공격력 / 방어 관통 증가.",
+    "english": "Anti-Light DMG and Anti-Heavy DMG increase. Own ATK and DEF Penetration increase."
+  },
+  "BuffDesc1_Effect_BR_Impet_N_3": {
+    "korean": "시제 EFP탄 : 대 경장형 피해량 {0}%",
+    "english": "Prototype EFP Round : Anti-Light DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Impet_N_3": {
+    "korean": "시제 EFP탄 : 대 중장형 피해량 {0}%",
+    "english": "Prototype EFP Round : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_Impet_N_3": {
+    "korean": "시제 EFP탄 : 공격력 {0}%",
+    "english": "Prototype EFP Round : ATK {0}%"
+  },
+  "BuffDesc4_Effect_BR_Impet_N_3": {
+    "korean": "시제 EFP탄 : 방어 관통 {0}%",
+    "english": "Prototype EFP Round : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_31": {
+    "korean": "시제 EFP탄 : 공격력 {0}%",
+    "english": "Prototype EFP Round : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Impet_N_31": {
+    "korean": "시제 EFP탄 : 방어 관통 {0}%",
+    "english": "Prototype EFP Round : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_32": {
+    "korean": "시제 EFP탄 : 공격력 {0}%",
+    "english": "Prototype EFP Round : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Impet_N_32": {
+    "korean": "시제 EFP탄 : 방어 관통 {0}%",
+    "english": "Prototype EFP Round : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_33": {
+    "korean": "시제 EFP탄 : 공격력 {0}%",
+    "english": "Prototype EFP Round : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Impet_N_33": {
+    "korean": "시제 EFP탄 : 방어 관통 {0}%",
+    "english": "Prototype EFP Round : DEF Penetration {0}%"
+  },
+  "SkillName_Skill_BR_Impet_N_4": {
+    "korean": "야전교범",
+    "english": "Field Manual"
+  },
+  "SkillDesc_Skill_BR_Impet_N_4": {
+    "korean": "스쿼드 구성에 따라 맡은 바 임무를 달성할 수 있도록, 라운드 개시 시 자신과 해당 역할군의 전투원은 다음 효과를 획득합니다.&n공격기 2기 이상 : 치명타 증가 / 보호기 2기 이상 : 모든 해로운 효과 제거 / 지원기 2기 이상 : 행동력 증가&n라운드 개시 시, 만족된 상기 조건 1종 당 자신의 사거리가 1씩 증가합니다.",
+    "english": "To ensure mission success based on squad composition, at the start of the round, the unit and allies of the corresponding role gain the following effects:\n- 2 or more Attackers: CRIT increase\n- 2 or more Defenders: Remove all harmful effects\n- 2 or more Supporters: SPD increase\nAt the start of the round, for each fulfilled condition above, the unit's Range increases by 1."
+  },
+  "SkillDescSimple_Skill_BR_Impet_N_4": {
+    "korean": "스쿼드 구성에 따라 자신과 아군 강화.",
+    "english": "Enhances self and allies based on squad composition."
+  },
+  "BuffDesc1_Effect_BR_Impet_N_4": {
+    "korean": "치명타 {0}% (공격기 2 이상)",
+    "english": "CRIT {0}% (2 or more Attackers)"
+  },
+  "BuffDesc2_Effect_BR_Impet_N_4": {
+    "korean": "해로운 효과 해제 (보호기 2 이상)",
+    "english": "Remove harmful effects (2 or more Defenders)"
+  },
+  "BuffDesc3_Effect_BR_Impet_N_4": {
+    "korean": "행동력 {0}% (지원기 2 이상)",
+    "english": "SPD {0}% (2 or more Supporters)"
+  },
+  "BuffDesc4_Effect_BR_Impet_N_4": {
+    "korean": "사거리 {0} (충족 조건당)",
+    "english": "Range {0} (per condition)"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_41": {
+    "korean": "야전교범 : 치명타 {0}%",
+    "english": "Field Manual : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_42": {
+    "korean": "야전교범 : 해로운 효과 해제",
+    "english": "Field Manual : Debuff Removal"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_43": {
+    "korean": "야전교범 : 행동력 {0}%",
+    "english": "Field Manual : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_44": {
+    "korean": "야전교범 : 사거리 {0}",
+    "english": "Field Manual : Range {0}"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_45": {
+    "korean": "야전교범 : 사거리 {0}",
+    "english": "Field Manual : Range {0}"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_46": {
+    "korean": "야전교범 : 사거리 {0}",
+    "english": "Field Manual : Range {0}"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_47": {
+    "korean": "야전교범 : 해로운 효과 해제",
+    "english": "Field Manual : Debuff Removal"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_48": {
+    "korean": "야전교범 : 행동력 {0}%",
+    "english": "Field Manual : SPD {0}%"
+  },
+  "SkillName_Skill_BR_Impet_N_5": {
+    "korean": "JTAC 임명 승인",
+    "english": "JTAC Designation Approval"
+  },
+  "SkillDesc_Skill_BR_Impet_N_5": {
+    "korean": "라운드 개시 시, 자신은 재공격 효과를 획득합니다.&n라운드 개시 시, 재공격 / 공격 지원 효과가 적용 중인 모든 아군에게 공격력 / 적중 증가 효과를 부여합니다.&n대상이 기동형이거나 스틸라인 계열 전투원인 경우, 효과가 50% 증가하고 스킬 위력 증가 효과가 추가됩니다.",
+    "english": "At the start of the round, the unit gains the Reattack effect. Also at the start of the round, all allies with Reattack or Follow-Up Attack effects active gain increased ATK and ACC. If the target is an Air Type or a Steel Line series combatant, the effects are increased by 50% and additionally grant Skill Power Up."
+  },
+  "SkillDescSimple_Skill_BR_Impet_N_5": {
+    "korean": "조건부 재공격. 재공격 / 공격 지원 효과 아군 강화.",
+    "english": "Conditional Reattack. Enhances allies with Reattack / Follow-Up Attack effects."
+  },
+  "BuffDesc1_Effect_BR_Impet_N_5": {
+    "korean": "JTAC 임명 승인 : 재공격",
+    "english": "JTAC Designation Approval : Reattack"
+  },
+  "BuffDesc2_Effect_BR_Impet_N_5": {
+    "korean": "JTAC 임명 승인 : 공격력 {0}%",
+    "english": "JTAC Designation Approval : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_Impet_N_5": {
+    "korean": "JTAC 임명 승인 : 적중 {0}%",
+    "english": "JTAC Designation Approval : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Impet_N_5": {
+    "korean": "JTAC 임명 승인 : 스킬 위력 {0}%",
+    "english": "JTAC Designation Approval : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_51": {
+    "korean": "JTAC 임명 승인 : 공격력 {0}%",
+    "english": "JTAC Designation Approval : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Impet_N_51": {
+    "korean": "JTAC 임명 승인 : 적중 {0}%",
+    "english": "JTAC Designation Approval : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_52": {
+    "korean": "JTAC 임명 승인 : 공격력 {0}% (스틸라인)",
+    "english": "JTAC Designation Approval : ATK {0}% (Steel Line)"
+  },
+  "BuffDesc2_Effect_BR_Impet_N_52": {
+    "korean": "JTAC 임명 승인 : 적중 {0}% (스틸라인)",
+    "english": "JTAC Designation Approval : ACC {0}% (Steel Line)"
+  },
+  "BuffDesc3_Effect_BR_Impet_N_52": {
+    "korean": "JTAC 임명 승인 : 스킬 위력 {0}% (스틸라인)",
+    "english": "JTAC Designation Approval : Skill Power {0}% (Steel Line)"
+  },
+  "BuffDesc1_Effect_BR_Impet_N_53": {
+    "korean": "JTAC 임명 승인 : 공격력 {0}% (기동형)",
+    "english": "JTAC Designation Approval : ATK {0}% (Air)"
+  },
+  "BuffDesc2_Effect_BR_Impet_N_53": {
+    "korean": "JTAC 임명 승인 : 적중 {0}% (기동형)",
+    "english": "JTAC Designation Approval : ACC {0}% (Air)"
+  },
+  "BuffDesc3_Effect_BR_Impet_N_53": {
+    "korean": "JTAC 임명 승인 : 스킬 위력 {0}% (기동형)",
+    "english": "JTAC Designation Approval : Skill Power {0}% (Air)"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "SkillName_Skill_BR_Vargr_N_1": {
+    "korean": "흐로드비트니르",
+    "english": "Hrodvitnir"
+  },
+  "SkillDesc_Skill_BR_Vargr_N_1": {
+    "korean": "단일 대상에게 {0} 피해를 입힙니다.&n적중 시, 자신의 <영휴> 효과에 따라 3라운드 동안 자신에게 추가 효과를 부여합니다.&n스콜 : 공격력 증가 / 하티 : 스킬 위력 증가 (각 최대 3중첩)",
+    "english": "Deals {0} damage to a single target. On hit, grants yourself an additional effect for 3 rounds based on your <Eternal Rest> status. Skol: Increases ATK / Harty: Increases Skill Power (up to 3 stacks each)."
+  },
+  "SkillDescSimple_Skill_BR_Vargr_N_1": {
+    "korean": "지정 대상 {0} 피해. <영휴> 효과에 따라 자신 강화.",
+    "english": "Deals {0} damage to the designated target. Strengthens yourself based on <Eternal Rest> effects."
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_1": {
+    "korean": "스콜 : 공격력 {0}%",
+    "english": "Sköll : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Vargr_N_1": {
+    "korean": "하티 : 스킬 위력 {0}%",
+    "english": "Hati : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_11": {
+    "korean": "하티 : 스킬 위력 {0}%",
+    "english": "Hati : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_12": {
+    "korean": "흐로드비트니르 : 피해량 {0}%",
+    "english": "Hrodvitnir : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_51": {
+    "korean": "효율적 변수 차단 : 방어력 {0}%",
+    "english": "Efficient Variable Blocking : DEF {0}%"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_52": {
+    "korean": "효율적 변수 차단 : 방어력 {0}%",
+    "english": "Efficient Variable Blocking : DEF {0}%"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_54": {
+    "korean": "효율적 변수 차단 : AP {0}",
+    "english": "Efficient Variable Blocking : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_55": {
+    "korean": "효율적 변수 차단 : AP {0}",
+    "english": "Efficient Variable Blocking : AP {0}"
+  },
+  "SkillName_Skill_BR_Vargr_N_2": {
+    "korean": "라그나로크",
+    "english": "Ragnarok"
+  },
+  "SkillDesc_Skill_BR_Vargr_N_2": {
+    "korean": "스콜과 하티를 교차시켜 지정 범위 대상에게 {0} 보호 무시 피해를 입힙니다. &n적중 시, 자신의 <영휴> 효과에 따라 3라운드 동안 대상에게 추가 효과를 부여합니다.&n스콜 : 공격력 감소 / 하티 : 스킬 위력 감소 (각 최대 3중첩)",
+    "english": "Deals {0} Ignore Protection damage to targets in the designated area. On hit, applies an additional effect to the targets for 3 rounds based on your <Eternal Rest> status. Skol: Reduces ATK / Harty: Reduces Skill Power (up to 3 stacks each)."
+  },
+  "SkillDescSimple_Skill_BR_Vargr_N_2": {
+    "korean": "지정 대상 {0} 보호 무시 피해. <영휴> 효과에 따라 대상 약화.",
+    "english": "Deals {0} Ignore Protection damage to the designated target. Applies debuffs to the target based on <Eternal Rest> effects."
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_2": {
+    "korean": "스콜 : 공격력 {0}%",
+    "english": "Sköll : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Vargr_N_2": {
+    "korean": "하티 : 스킬 위력 {0}%",
+    "english": "Hati : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_21": {
+    "korean": "하티 : 스킬 위력 {0}%",
+    "english": "Hati : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_22": {
+    "korean": "라그나로크 : 피해량 {0}%",
+    "english": "Ragnarok : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_Vargr_N_3": {
+    "korean": "충실한 번견",
+    "english": "Loyal Thunder Hound"
+  },
+  "SkillDesc_Skill_BR_Vargr_N_3": {
+    "korean": "전투 개시 시, 자신은 2라운드 동안 반격 / 방어막 효과를 획득합니다. <라그나로크> 사용 시, 3라운드 동안 반격 / 방어막 효과를 다시 획득합니다.&n라운드 개시 시, 자신이 방어막 효과를 보유한 경우, 자신은 표식 강화 효과를 획득합니다.&n피격 시, 자신이 방어막 효과를 보유하지 않은 경우, 자신의 모든 표식 효과를 해제합니다.",
+    "english": "At the start of battle, you gain Counter Attack and Barrier effects for 2 rounds. When using <Ragnarok>, you regain Counter Attack and Barrier effects for 3 rounds. At the start of each round, if you have a Barrier effect, you gain a Mark Strengthening effect. When hit, if you do not have a Barrier effect, all your Mark effects are removed."
+  },
+  "SkillDescSimple_Skill_BR_Vargr_N_3": {
+    "korean": "반격 / 방어막 획득. 조건부 표식 획득 / 제거.",
+    "english": "Gain Counter Attack / Barrier. Conditionally gain / remove Marks."
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_3": {
+    "korean": "충실한 번견 : {0}% 위력으로 반격",
+    "english": "Loyal Thunder Hound : Counter Attack with {0}% Power"
+  },
+  "BuffDesc2_Effect_BR_Vargr_N_3": {
+    "korean": "충실한 번견 : 방어막 {0}",
+    "english": "Loyal Thunder Hound : Barrier {0}"
+  },
+  "BuffDesc3_Effect_BR_Vargr_N_3": {
+    "korean": "충실한 번견 : 표식 (자신)",
+    "english": "Loyal Thunder Hound: Mark (Self)"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_31": {
+    "korean": "충실한 번견 : {0}% 위력으로 반격",
+    "english": "Loyal Thunder Hound : Counter Attack with {0}% Power"
+  },
+  "BuffDesc2_Effect_BR_Vargr_N_31": {
+    "korean": "충실한 번견 : 방어막 {0}",
+    "english": "Loyal Thunder Hound : Barrier {0}"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_32": {
+    "korean": "충실한 번견 : 표식",
+    "english": "Loyal Thunder Hound : Marked"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_33": {
+    "korean": "충실한 번견 : 표식 해제",
+    "english": "Loyal Thunder Hound : Marked Removal"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_34": {
+    "korean": "맛있…군 : 공격력 {0}%",
+    "english": "Tasty... : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Vargr_N_34": {
+    "korean": "맛있…군 : 행동력 {0}%",
+    "english": "Tasty... : SPD {0}%"
+  },
+  "SkillName_Skill_BR_Vargr_N_4": {
+    "korean": "영휴",
+    "english": "Eternal Rest"
+  },
+  "SkillDesc_Skill_BR_Vargr_N_4": {
+    "korean": "홀수 라운드 개시 시, 스콜의 힘이 차올라 자신은 재공격 효과를 획득합니다.&n짝수 라운드 개시 시, 하티의 힘이 차올라 자신은 보호 무시 효과를 획득합니다.&n적 처치 시, 2라운드 동안 스콜과 하티의 힘이 동시에 발현됩니다.&n스콜과 하티의 힘이 동시에 발현될 때, 액티브 스킬의 피해량이 증가합니다.",
+    "english": "At the start of odd-numbered rounds, Skol's power surges, granting you a Reattack effect. At the start of even-numbered rounds, Harty's power surges, granting you an Ignore Protection effect. When you defeat an enemy, you gain both Skol and Harty's powers simultaneously for 2 rounds. While both Skol and Harty's powers are active, damage from your active skills is increased."
+  },
+  "SkillDescSimple_Skill_BR_Vargr_N_4": {
+    "korean": "라운드에 따라 재공격 / 보호 무시 활성화. 적 처치 시, 효과 동시 발현.",
+    "english": "Reattack / Ignore Protection activate based on the round. When defeating an enemy, both effects activate simultaneously."
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_4": {
+    "korean": "스콜 : 재공격",
+    "english": "Sköll : Reattack"
+  },
+  "BuffDesc2_Effect_BR_Vargr_N_4": {
+    "korean": "하티 : 보호 무시 활성화",
+    "english": "Hati : Activate Ignore Protection"
+  },
+  "BuffDesc3_Effect_BR_Vargr_N_4": {
+    "korean": "영휴 : 피해량 {0}%",
+    "english": "Eternal Rest : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_41": {
+    "korean": "하티 : 보호 무시 활성화",
+    "english": "Hati : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_42": {
+    "korean": "솔라가름 : 재공격",
+    "english": "Solagarm : Reattack"
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_43": {
+    "korean": "마나가름 : 보호 무시 활성화",
+    "english": "Managarm : Activate Ignore Protection"
+  },
+  "SkillName_Skill_BR_Vargr_N_5": {
+    "korean": "효율적 변수 차단",
+    "english": "Efficient Variable Blocking"
+  },
+  "SkillDesc_Skill_BR_Vargr_N_5": {
+    "korean": "라운드 개시 시, 자신의 치명타 / 효과 저항이 증가합니다.&n공격 적중 시, 대상의 방어력을 감소시킵니다. 대상의 방어력이 자신보다 높을 경우, 방어력을 추가로 감소시킵니다.&n공격 적중 시, 대상의 AP를 감소시킵니다. 대상의 행동력이 자신보다 높을 경우, AP를 추가로 감소시킵니다.",
+    "english": "At the start of the round, your CRIT and Effect Resistance increase. On attack hit, reduces the target's DEF. If the target's DEF is higher than yours, reduces DEF further. On attack hit, reduces the target's AP. If the target's SPD is higher than yours, reduces SPD further."
+  },
+  "SkillDescSimple_Skill_BR_Vargr_N_5": {
+    "korean": "치명타 / 효과 저항 증가. 조건부 적 방어력 / AP 감소.",
+    "english": "CRIT / Effect Resistance increase. Conditionally enemy DEF / AP reduction."
+  },
+  "BuffDesc1_Effect_BR_Vargr_N_5": {
+    "korean": "효율적 변수 차단 : 치명타 {0}%",
+    "english": "Efficient Variable Blocking : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_BR_Vargr_N_5": {
+    "korean": "효율적 변수 차단 : 효과 저항 {0}%",
+    "english": "Efficient Variable Blocking : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_Vargr_N_5": {
+    "korean": "효율적 변수 차단 : 방어력 {0}%",
+    "english": "Efficient Variable Blocking : DEF {0}%"
+  },
+  "BuffDesc4_Effect_BR_Vargr_N_5": {
+    "korean": "효율적 변수 차단 : AP {0}",
+    "english": "Efficient Variable Blocking : AP {0}"
+  }
+}

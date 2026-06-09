@@ -1,0 +1,230 @@
+{
+  "SkillName_Skill_BR_AS12TurtleDragon_N_1": {
+    "korean": "제압 사격",
+    "english": "Suppressive Shot"
+  },
+  "SkillDesc_Skill_BR_AS12TurtleDragon_N_1": {
+    "korean": "샷건을 발사해 {0} 피해를 주고, 2라운드 동안 대상의 행동력 / 공격력을 감소시킵니다. &n적중 시, 25% 확률로 해당 라운드 동안 대상을 행동 불가 상태로 만듭니다.&n스쿼드 내 <C-77 홍련>이 있을 경우, 확률이 75%로 증가합니다.&n스쿼드 내 <T-60 불가사리>가 있을 경우, [배터링 램] / [벙커 버스터] 스킬 협동 공격을 유도합니다.",
+    "english": "Fires a shotgun dealing {0} damage and reduces the target's SPD and ATK for 2 rounds. On hit, has a 25% chance to inflict Stunned for the remainder of the round. If <C-77 HongRyeon> is in the squad, the chance increases to 75%. If <T-60 Bulgasari> is in the squad, triggers a Cooperative Attack with [Battering Ram] or [Bunker Buster]."
+  },
+  "SkillDescSimple_Skill_BR_AS12TurtleDragon_N_1": {
+    "korean": "단일 대상 {0} 피해. 행동력 / 공격력 감소. 일정 확률로 대상 행동 불가. [배터링 램] / [벙커 버스터] 협동 공격.",
+    "english": "Single target {0} damage. SPD / ATK reduction. Chance to inflict Stunned. Triggers [Battering Ram] / [Bunker Buster] Cooperative Attack."
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_1": {
+    "korean": "다리! : 행동력 {0}%",
+    "english": "Legs! : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_AS12TurtleDragon_N_1": {
+    "korean": "팔! : 공격력 {0}%",
+    "english": "Arm!: ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_AS12TurtleDragon_N_1": {
+    "korean": "머리! : 행동 불가",
+    "english": "Head! : Stunned"
+  },
+  "BuffDesc4_Effect_BR_AS12TurtleDragon_N_1": {
+    "korean": "[배터링 램] / [벙커 버스터] 협동 공격",
+    "english": "[Battering Ram] / [Bunker Buster] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_11": {
+    "korean": "머리! : 행동 불가",
+    "english": "Head!: Stunned"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_13": {
+    "korean": "제압 사격 : [배터링 램] / [벙커 버스터] 협동 공격",
+    "english": "Suppressive Shot : [Battering Ram] / [Bunker Buster] Cooperative Attack"
+  },
+  "SkillName_Skill_BR_AS12TurtleDragon_N_2": {
+    "korean": "대형 방패 전개",
+    "english": "Deploy Large Shield"
+  },
+  "SkillDesc_Skill_BR_AS12TurtleDragon_N_2": {
+    "korean": "대형 방패를 세워 3라운드 동안 자신의 효과 저항 / 강화 해제 저항이 증가합니다.&n스킬 사용 시 반격 활성화 상태인 경우, 추가로 적중이 증가합니다.",
+    "english": "Raises a large shield, increasing the user's Status Resist and Buff Removal Resist for 3 rounds. If used while Counter Attack is active, additionally increases ACC."
+  },
+  "SkillDescSimple_Skill_BR_AS12TurtleDragon_N_2": {
+    "korean": "효과 저항 / 강화 해제 저항 증가. 반격 활성화 상태인 경우, 적중 증가.",
+    "english": "Increases Status Resist / Buff Removal Resist. If Counter Attack is active, ACC increased."
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_2": {
+    "korean": "대형 방패 전개 : 효과 저항 {0}% 증가",
+    "english": "Deploy Large Shield : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_BR_AS12TurtleDragon_N_2": {
+    "korean": "대형 방패 전개 : 강화 해제 저항 {0}%",
+    "english": "Deploy Large Shield : Buff Removal Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_AS12TurtleDragon_N_2": {
+    "korean": "대형 방패 전개 : 적중 {0}%",
+    "english": "Deploy Large Shield : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_21": {
+    "korean": "대형 방패 전개 : 강화 해제 저항 {0}%",
+    "english": "Deploy Large Shield : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_22": {
+    "korean": "대형 방패 전개 : 적중 {0}%",
+    "english": "Deploy Large Shield : ACC {0}%"
+  },
+  "SkillName_Skill_BR_AS12TurtleDragon_N_3": {
+    "korean": "진압 개시",
+    "english": "Initiate Suppression"
+  },
+  "SkillDesc_Skill_BR_AS12TurtleDragon_N_3": {
+    "korean": "라운드 개시 시, 자신의 방어력이 증가하고 받는 피해가 감소하며 행 보호가 활성화됩니다.&n라운드 개시 시 자신이 전열에 위치한 경우, 반격이 활성화됩니다.&n피격 시, 자신의 AP가 증가하고 해당 라운드 동안 사거리가 증가합니다.",
+    "english": "At the start of the round, increases the user's DEF, reduces DMG Taken, and activates Row Protect. If the user is positioned in the front row at the start of the round, Counter Attack is activated. When hit, the user's AP increases and Range is increased for the rest of the round."
+  },
+  "SkillDescSimple_Skill_BR_AS12TurtleDragon_N_3": {
+    "korean": "방어력 증가 / 받는 피해 감소 / 행 보호. 전열에 위치한 경우, 반격 활성화. 피격 시, AP / 사거리 증가.",
+    "english": "Increases your DEF / DMG Reduction / Row Protect. If positioned in the front row, Counter Attack is activated. When hit, AP increased / Range increased."
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_3": {
+    "korean": "진압 개시 : 방어력 {0}%",
+    "english": "Initiate Suppression : DEF {0}%"
+  },
+  "BuffDesc2_Effect_BR_AS12TurtleDragon_N_3": {
+    "korean": "진압 개시 : 받는 피해 {0}% 감소",
+    "english": "Initiate Suppression : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_BR_AS12TurtleDragon_N_3": {
+    "korean": "진압 개시 : 행 보호",
+    "english": "Initiate Suppression : Row Protect"
+  },
+  "BuffDesc4_Effect_BR_AS12TurtleDragon_N_3": {
+    "korean": "진압 개시 : AP {0}",
+    "english": "Initiate Suppression : AP {0}"
+  },
+  "BuffDesc5_Effect_BR_AS12TurtleDragon_N_3": {
+    "korean": "진압 개시 : 사거리 {0}",
+    "english": "Initiate Suppression : Range {0}"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_31": {
+    "korean": "다 덤벼! : {0}% 위력으로 반격",
+    "english": "Bring it all!: Counter Attack with {0} Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_32": {
+    "korean": "진압 개시 : AP {0}",
+    "english": "Initiate Suppression : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_AS12TurtleDragon_N_32": {
+    "korean": "진압 개시 : 사거리 {0}",
+    "english": "Initiate Suppression : Range {0}"
+  },
+  "SkillName_Skill_BR_AS12TurtleDragon_N_4": {
+    "korean": "전원 돌격!",
+    "english": "Full Assault!"
+  },
+  "SkillDesc_Skill_BR_AS12TurtleDragon_N_4": {
+    "korean": "라운드 개시 시, 전열에 위치한 아군 공격기/지원기를 지정 보호합니다.&n라운드 개시 시, 범위 내 아군의 공격력 / 치명타 / 행동력이 증가합니다.&n대상 또는 자신이 전열에 위치한 경우, 각각 효과가 50% 증폭됩니다.",
+    "english": "At the start of the round, grants Target Protect to allied Attacker and Supporter units in the front row. Also increases ATK, CRIT, and SPD of allies within range. If the target or the user is in the front row, each effect is amplified by 50%."
+  },
+  "SkillDescSimple_Skill_BR_AS12TurtleDragon_N_4": {
+    "korean": "전열 아군 지정 보호. 범위 내 아군 공격력 / 치명타 / 행동력 증가. 조건부 효과 증폭.",
+    "english": "Target Protect front row allies. Increases allies’ ATK / CRIT / SPD within range. Conditional effect amplification."
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_4": {
+    "korean": "전원 돌격! : 지정 보호 (전열)",
+    "english": "Full Assault! : Target Protect (Front Row)"
+  },
+  "BuffDesc2_Effect_BR_AS12TurtleDragon_N_4": {
+    "korean": "전원 돌격! : 공격력 {0}%",
+    "english": "Full Assault! : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_AS12TurtleDragon_N_4": {
+    "korean": "전원 돌격! : 치명타 {0}%",
+    "english": "Full Assault! : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_BR_AS12TurtleDragon_N_4": {
+    "korean": "전원 돌격! : 행동력 {0}%",
+    "english": "Full Assault! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_41": {
+    "korean": "전원 돌격! : 공격력 {0}%",
+    "english": "Full Assault! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_AS12TurtleDragon_N_41": {
+    "korean": "전원 돌격! : 치명타 {0}%",
+    "english": "Full Assault! : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_AS12TurtleDragon_N_41": {
+    "korean": "전원 돌격! : 행동력 {0}%",
+    "english": "Full Assault! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_42": {
+    "korean": "뭘 좀 아는구나? : 공격력 {0}%",
+    "english": "Know something?: ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_AS12TurtleDragon_N_42": {
+    "korean": "뭘 좀 아는구나? : 치명타 {0}%",
+    "english": "Know something?: CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_AS12TurtleDragon_N_42": {
+    "korean": "뭘 좀 아는구나? : 행동력 {0}%",
+    "english": "Know something?: SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_43": {
+    "korean": "나도! 나도! : 공격력 {0}%",
+    "english": "Me too! Me too! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_AS12TurtleDragon_N_43": {
+    "korean": "나도! 나도! : 치명타 {0}%",
+    "english": "Me too! Me too! : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_AS12TurtleDragon_N_43": {
+    "korean": "나도! 나도! : 행동력 {0}%",
+    "english": "Me too! Me too! : SPD {0}%"
+  },
+  "SkillName_Skill_BR_AS12TurtleDragon_N_5": {
+    "korean": "팃포탯",
+    "english": "Tit for Tat"
+  },
+  "SkillDesc_Skill_BR_AS12TurtleDragon_N_5": {
+    "korean": "라운드 개시 시, 모든 적 보호기를 도발하고 보호 무시를 비활성화합니다.&n피격 시, 도발 상태인 적의 AP를 감소시키고 2라운드 동안 받는 피해를 증가시킵니다. (최대 3중첩)&n자신에게 공격 지원 효과가 적용된 경우, <대형 방패 전개>의 사용 효과가 아군 전체에 적용됩니다.&n스킬 효과는 <팃포탯>의 스킬 레벨에 비례합니다.",
+    "english": "At the start of the round, Provokes all enemy Defenders and disables Ignore Protection. When hit, reduces the AP of Provoked enemies and inflicts Increased DMG Taken for 2 rounds (max 3 stacks). If the user is under a Follow-Up Attack effect, the effect of Deploy Large Shield also applies to all allies. Skill strength scales with the skill level of Tit for Tat."
+  },
+  "SkillDescSimple_Skill_BR_AS12TurtleDragon_N_5": {
+    "korean": "적 보호기 도발 / 보호 무시 비활성화. 피격 시, 도발 상태 적 AP 감소 / 받는 피해 증가. 조건부 <대형 방패 전개> 범위 확장.",
+    "english": "Provokes enemy Defenders / disables Ignore Protection. When hit, reduces AP of Provoked enemies and inflicts Increased DMG Taken. If under Follow-Up Attack, expands Deploy Large Shield effect to all allies."
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_5": {
+    "korean": "팃포탯 : 도발 (스틸 드라코)",
+    "english": "Tit for Tat : Provoke (Steel Draco)"
+  },
+  "BuffDesc2_Effect_BR_AS12TurtleDragon_N_5": {
+    "korean": "팃포탯 : 보호 무시 비활성화",
+    "english": "Tit for Tat : Deactivate Ignore Protection"
+  },
+  "BuffDesc3_Effect_BR_AS12TurtleDragon_N_5": {
+    "korean": "어? 열받네? : AP {0}",
+    "english": "Huh? I’m Getting Mad? : AP {0}"
+  },
+  "BuffDesc4_Effect_BR_AS12TurtleDragon_N_5": {
+    "korean": "어? 열받네? : 받는 피해 {0}% 증가",
+    "english": "Huh? This is annoying? : DMG Taken Increased {0}%"
+  },
+  "BuffDesc5_Effect_BR_AS12TurtleDragon_N_5": {
+    "korean": "고마워! : <대형 방패 전개> 범위 확장",
+    "english": "Thanks! : <Deploy Large Shield> Range Expansion"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_51": {
+    "korean": "어? 열받네? : AP {0}",
+    "english": "Huh? So mad?: AP {0}"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_52": {
+    "korean": "어? 열받네? : 받는 피해 {0}% 증가",
+    "english": "Huh? That Pisses Me Off? : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_53": {
+    "korean": "고마워! : 효과 저항 {0}% 증가",
+    "english": "Thanks!: Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_54": {
+    "korean": "고마워! : 강화 해제 저항 {0}%",
+    "english": "Thanks!: Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_AS12TurtleDragon_N_55": {
+    "korean": "고마워! : 적중 {0}%",
+    "english": "Thanks!: ACC {0}%"
+  }
+}

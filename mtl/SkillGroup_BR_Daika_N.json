@@ -1,0 +1,130 @@
+{
+  "1002700507": {
+    "korean": "대 레이더 미사일",
+    "english": "Heavy Radar Missile"
+  },
+  "1002703940": {
+    "korean": "대상 지점에 대 레이더 미사일을 발사해 {0} 피해를 줍니다. 공격 적중 시, 대상에게 걸려있는 적중 강화 효과를 해제하고 2라운드 동안 혼란 상태로 만듭니다. 혼란 상태가 되면 적중 / 치명타 / 행동력이 감소합니다.",
+    "english": "Fires a Heavy Radar Missile at the target location, dealing {0} damage. On hit, removes any ACC boost effects from the target and inflicts Confused for 2 rounds. While Confused, the target's ACC, CRIT, and SPD are reduced."
+  },
+  "1002703194": {
+    "korean": "목표 지점 {0} 피해. 적중 강화 해제 / 혼란 효과",
+    "english": "Deals {0} damage to the target location. Removes ACC boost / applies Confused effect."
+  },
+  "1000100830": {
+    "korean": "적중 강화 해제",
+    "english": "ACC Buff Removal"
+  },
+  "1000102943": {
+    "korean": "혼란 : 적중 {0}%",
+    "english": "Confusion: ACC {0}%"
+  },
+  "1000102944": {
+    "korean": "혼란 : 치명타 {0}%",
+    "english": "Confusion: CRIT {0}%"
+  },
+  "1000105379": {
+    "korean": "혼란 : 행동 속도 {0}%",
+    "english": "Confusion : SPD {0}%"
+  },
+  "1000102945": {
+    "korean": "혼란 : 행동력 {0}%",
+    "english": "Confusion: SPD {0}%"
+  },
+  "1002700508": {
+    "korean": "관측 보고",
+    "english": "Observation"
+  },
+  "1002703941": {
+    "korean": "인접한 아군들에게 전황을 전달해 대상들의 AP를 증가시키며, 2라운드 동안 사거리 / 치명타 / 적중을 올려줍니다.",
+    "english": "Conveys battlefield intel to adjacent allies, increasing their AP and raising Range, CRIT, and ACC for 2 rounds."
+  },
+  "1002703195": {
+    "korean": "인접 아군 AP / 사거리 / 치명타 / 적중 증가",
+    "english": "Adjacent allies gain increased AP, Range, CRIT, and ACC."
+  },
+  "1000102774": {
+    "korean": "관측 보고 : AP{0}",
+    "english": "Observation : AP {0}"
+  },
+  "1000104354": {
+    "korean": "관측 보고 : 치명타{0}%",
+    "english": "Observation : CRIT {0}%"
+  },
+  "1000105012": {
+    "korean": "관측 보고 : 적중{0}%",
+    "english": "Observation : ACC {0}%"
+  },
+  "1000105380": {
+    "korean": "관측 보고 : 사거리{0}",
+    "english": "Observation : Range {0}"
+  },
+  "1002700509": {
+    "korean": "고성능 레이더",
+    "english": "High-Performance Radar"
+  },
+  "1002703942": {
+    "korean": "다음에 출현할 적 정보를 얻을 수 있으며, 적 진영과 가까울수록 회피가 증가합니다.",
+    "english": "Gain Recon on the next appearing enemy; EVA increases the closer you are to the enemy camp."
+  },
+  "1002703196": {
+    "korean": "전투 종료 시, 다음 적 정보 획득. 적 진영과 가까울수록 회피 증가",
+    "english": "At battle end, obtain Recon on the next enemy. EVA increases the closer you are to the enemy camp."
+  },
+  "1000102775": {
+    "korean": "고 성능 레이더 : 다음 적 정보 획득",
+    "english": "High-Performance Radar: Recon"
+  },
+  "1000104355": {
+    "korean": "고성능 레이더 : 회피{0}% (최대)",
+    "english": "High-Performance Radar : EVA {0}% (Max)"
+  },
+  "1000102776": {
+    "korean": "고성능 레이더 : 회피{0}%",
+    "english": "High-Performance Radar : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Daika_N_16": {
+    "korean": "고성능 레이더(스털링): 회피 {0}%",
+    "english": "High-Performance Radar (Sterling): EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Daika_N_17": {
+    "korean": "고성능 레이더(스털링) : 회피 {0}%",
+    "english": "High-Performance Radar (Sterling) : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Daika_N_18": {
+    "korean": "고성능 레이더(스털링) : 회피 {0}%",
+    "english": "High-Performance Radar (Sterling) : EVA {0}%"
+  },
+  "1002702153": {
+    "korean": "조기 경보 개시",
+    "english": "Early Warning Initiated"
+  },
+  "1002704337": {
+    "korean": "스쿼드 내 아군의 적중 / 회피를 증가시키고 받는 피해를 감소시킵니다. 해당 효과 적용 시, 대상에게 걸린 적중 / 회피 감소 효과를 해제합니다. 대상이 기동형인 경우, 효과가 20% 증가합니다.",
+    "english": "Increases allies' ACC and EVA in the squad and provides DMG Reduction. When applied, removes ACC and EVA reduction effects from the target. If the target is mobile, the effect is increased by 20%."
+  },
+  "1002703461": {
+    "korean": "아군 적중 / 회피 증가. 받는 피해 감소. 적중 / 회피 감소 효과 해제",
+    "english": "Increases allies' ACC and EVA. Provides DMG Reduction. Removes ACC and EVA reduction effects."
+  },
+  "1000103754": {
+    "korean": "조기 경보 : 적중{0}%",
+    "english": "Early Warning : ACC {0}%"
+  },
+  "1000104761": {
+    "korean": "조기 경보 : 회피{0}%",
+    "english": "Early Warning: EVA {0}%"
+  },
+  "1000105235": {
+    "korean": "조기 경보 : 받는 피해 감소 {0}%",
+    "english": "Early Warning : DMG Reduction {0}%"
+  },
+  "1000105480": {
+    "korean": "조기 경보 : 적중 감소 해제",
+    "english": "Early Warning: ACC Debuff Removal"
+  },
+  "1000105590": {
+    "korean": "조기 경보 : 회피 감소 해제",
+    "english": "Early Warning: EVA Debuff Removal"
+  }
+}

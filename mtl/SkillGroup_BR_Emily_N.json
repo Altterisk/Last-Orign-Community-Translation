@@ -1,0 +1,142 @@
+{
+  "1002700300": {
+    "korean": "레일건 사격",
+    "english": "Railgun Fire"
+  },
+  "1002703826": {
+    "korean": "레일건을 발사해 대상에게 {0} 피해를 줍니다. 표식 상태인 대상에게는 피해량이 증가합니다.",
+    "english": "Fires a railgun to deal {0} damage to the target. Damage is increased against Marked targets."
+  },
+  "1002703077": {
+    "korean": "단일 대상 {0} 피해. 표식 대상 피해량 증가",
+    "english": "Deals {0} damage to a single target. Increased damage to Marked targets."
+  },
+  "1000102509": {
+    "korean": "포착 : 피해량{0}%",
+    "english": "Target Acquisition: Additional DMG {0}%"
+  },
+  "1000102953": {
+    "korean": "과부하 : 고정 피해 {0}",
+    "english": "Overload: Fixed Damage {0}"
+  },
+  "1002700301": {
+    "korean": "버스터 캐논",
+    "english": "Buster Cannon"
+  },
+  "1002703827": {
+    "korean": "고출력 빔을 발사해, 보호 효과를 무시하고 {0} 피해를 줍니다. 치명타 시, 피해량이 증가합니다. <출력 강화> 상태인 경우, 대상에게 적용 중인 방어막 / 피해 감소 효과를 해제합니다.",
+    "english": "Fires a high-output beam that ignores protection and deals {0} damage. Damage increases on CRIT. While in <Output Boost> state, removes the target's active Barrier and DMG Reduction effects."
+  },
+  "1002703078": {
+    "korean": "목표 지점 보호 무시 {0} 피해. 치명타 시 피해량 증가",
+    "english": "Deals {0} damage to the target area, ignoring protection. Damage increases on CRIT."
+  },
+  "1000102645": {
+    "korean": "버스터 캐논 : 방어막 해제",
+    "english": "Buster Cannon : Barrier Removal"
+  },
+  "1000104275": {
+    "korean": "버스터 캐논 : 피해 감소 해제",
+    "english": "Buster Cannon : DMG Reduction Removal"
+  },
+  "1000102609": {
+    "korean": "회심의 일격 : 피해량{0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "1002700302": {
+    "korean": "출력 강화",
+    "english": "Output Boost"
+  },
+  "1002706153": {
+    "korean": "대기 시, 레일건 출력을 강화해 2라운드 동안 공격력 / 치명타 / 방어 관통이 증가하며 방어막 / 피해 감소 무시 효과를 얻습니다. 스킬 레벨 10에서 지속 라운드가 증가합니다.",
+    "english": "When idle, charges the railgun, gaining increased ATK / CRIT / DEF Penetration for 2 turns, along with Ignore Barrier and Ignore DMG Reduction effects. At skill level 10, the duration increases."
+  },
+  "1002703079": {
+    "korean": "대기 시, 공격력 / 치명타 / 방어 관통 증가. 방어막 / 피해 감소 무시",
+    "english": "When idle, increases ATK / CRIT / DEF Penetration. Ignores Barrier / DMG Reduction."
+  },
+  "1000102646": {
+    "korean": "출력 강화 : 치명타{0}%",
+    "english": "Output Boost: CRIT {0}%"
+  },
+  "1000104276": {
+    "korean": "출력 강화 : 방어 관통 {0}%",
+    "english": "Output Enhancement: DEF Penetration {0}%"
+  },
+  "1000104971": {
+    "korean": "출력 강화 : 방어막 / 피해 감소 무시",
+    "english": "Output Enhancement: Ignore Barrier / DMG Reduction"
+  },
+  "1000103087": {
+    "korean": "출력 강화 : 공격력{0}%",
+    "english": "Output Enhancement: ATK {0}%"
+  },
+  "1002700303": {
+    "korean": "급속 충전",
+    "english": "Rapid Recharge"
+  },
+  "1002703829": {
+    "korean": "적 공격 시, 공격 지원 또는 지정 대상 보호를 받고 있는 상태면 급속 충전을 개시해 AP가 증가합니다. 각 효과는 중첩 적용됩니다.",
+    "english": "When attacked by an enemy, if under Follow-Up Attack or Target Protect, begins rapid charging and gains AP. Each effect stacks."
+  },
+  "1002703080": {
+    "korean": "공격 지원 또는 지정 보호를 받는 상태면 AP 증가",
+    "english": "If under Follow-Up Attack or Target Protect, increases AP."
+  },
+  "1000102647": {
+    "korean": "급속 충전 : AP{0} (공격 지원)",
+    "english": "Rapid Recharge: AP {0} (Follow-Up Attack)"
+  },
+  "1000103253": {
+    "korean": "급속 충전 : AP{0} (지정 보호)",
+    "english": "Rapid Recharge: AP {0} (Target Protect)"
+  },
+  "1002700304": {
+    "korean": "리미터 해제",
+    "english": "Limiter Release"
+  },
+  "1002706154": {
+    "korean": "자신의 HP가 33% 이하인 경우 리미터를 해제해 공격력 / 회피 / 행동력이 크게 증가하며 버스터 캐논의 위력이 증가합니다. 해당 상태에서 공격 시, 라운드 종료 시점에 과부하로 인한 고정 지속 피해가 적용됩니다. 과부하 효과는 중첩됩니다.",
+    "english": "When HP falls to 33% or lower, releases the limiter, greatly increasing ATK / EVA / SPD and boosting Buster Cannon power. While in this state, attacks cause fixed Additional DMG from Overload at round end. Overload can stack."
+  },
+  "1002703081": {
+    "korean": "HP 33% 이하 시, 공격력 / 회피 / 행동력 증가 / 스킬 강화 /과부하",
+    "english": "When HP is 33% or lower, increases ATK / EVA / SPD, enhances skills, and triggers Overload."
+  },
+  "1000102648": {
+    "korean": "리미터 해제 : 스킬 강화",
+    "english": "Limiter Release: Skill Enhancement"
+  },
+  "1000102950": {
+    "korean": "리미터 해제 : 공격력{0}%",
+    "english": "Limiter Release : ATK {0}%"
+  },
+  "1000102951": {
+    "korean": "리미터 해제 : 행동력{0}%",
+    "english": "Limiter Release : SPD {0}%"
+  },
+  "1000102952": {
+    "korean": "리미터 해제 : 회피{0}%",
+    "english": "Limiter Release : EVA {0}%"
+  },
+  "1000106980": {
+    "korean": "과부하 : 지속 고정 피해 {0} (공격 시)",
+    "english": "Overload : Fixed DoT {0} (On Attack)"
+  },
+  "1002700306": {
+    "korean": "레일건 사격 (빔) (발사)",
+    "english": "Railgun Fire (Beam) (Firing)"
+  },
+  "1002703832": {
+    "korean": "고출력 빔을 발사해 {0} 피해를 줍니다. 보호 효과와, 대상의 방어막과 피해 감소 효과를 무시합니다.",
+    "english": "Fire a high-output beam dealing {0} damage. Ignores protection, Barrier and DMG Reduction."
+  },
+  "1002703083": {
+    "korean": "목표 지점 {0} 피해. 보호 / 특수 방어 효과 무시",
+    "english": "Target Point deals {0} damage. Ignores protection and special DEF effects."
+  },
+  "1000102689": {
+    "korean": "버스터 캐논 (최대출력) : 방어막 해제",
+    "english": "Buster Cannon (Max Output): Barrier Removal"
+  }
+}

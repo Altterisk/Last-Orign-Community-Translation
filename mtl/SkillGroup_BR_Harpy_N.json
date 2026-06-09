@@ -1,0 +1,178 @@
+{
+  "SkillName_Skill_BR_Harpy_N_1": {
+    "korean": "NARAAK 미사일",
+    "english": "NARAAK Missile"
+  },
+  "SkillDesc_Skill_BR_Harpy_N_1": {
+    "korean": "미사일을 발사하여 지정 범위에 {0} 피해를 줍니다.&n적중 대상이 표식 / 이동 불가 상태인 경우, 피해량이 증가합니다.&n적중 여부에 관계 없이 2라운드 동안 대상의 회피를 감소시킵니다.",
+    "english": "Fires a missile dealing {0} damage to the designated area. If the target is Marked or Rooted, damage is increased. Reduces the target's EVA for 2 rounds regardless of hit."
+  },
+  "SkillDescSimple_Skill_BR_Harpy_N_1": {
+    "korean": "지정 범위 {0} 피해. 회피 감소. 표식 / 이동 불가 대상 피해량 증가.",
+    "english": "Designated area {0} damage. EVA Reduction. Increased damage to Marked / Rooted targets."
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_1": {
+    "korean": "정밀 폭격 : 피해량 {0}%",
+    "english": "Precision Bombing : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Harpy_N_1": {
+    "korean": "NARAAK : 회피 {0}%",
+    "english": "NARAAK : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_11": {
+    "korean": "정밀 폭격 : 피해량 {0}%",
+    "english": "Precision Bombardment : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_Harpy_N_2": {
+    "korean": "풀 버스트",
+    "english": "Full Burst"
+  },
+  "SkillDesc_Skill_BR_Harpy_N_2": {
+    "korean": "전탄발사를 통해 단일 대상에게 {0} 보호 무시 피해를 줍니다. &n치명타 시, 피해량이 증가합니다.&n적중 시, 2라운드 동안 대상을 표식 / 이동 불가 상태로 만듭니다.&n스킬 레벨 당 +9%의 적중 보정이 적용됩니다.",
+    "english": "Deals {0} Ignore Protection damage to a single target via full salvo. CRIT increases damage. On hit, applies Marked and Rooted for 2 rounds. Gains +9% ACC per skill level."
+  },
+  "SkillDescSimple_Skill_BR_Harpy_N_2": {
+    "korean": "지정 대상 {0} 보호 무시 피해. 치명타 시, 피해량 증가. 적중 시, 표식 / 이동 불가 부여.",
+    "english": "Deals {0} Ignore Protection damage to the designated target. Damage increased on CRIT. On hit, applies Marked and Rooted."
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_2": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Harpy_N_2": {
+    "korean": "풀 버스트 : 이동 불가",
+    "english": "Full Burst : Rooted"
+  },
+  "BuffDesc3_Effect_BR_Harpy_N_2": {
+    "korean": "풀 버스트 : 표식",
+    "english": "Full Burst : Marked"
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_21": {
+    "korean": "풀 버스트 : 이동 불가",
+    "english": "Full Burst : Rooted"
+  },
+  "BuffDesc2_Effect_BR_Harpy_N_21": {
+    "korean": "풀 버스트 : 표식",
+    "english": "Full Burst : Marked"
+  },
+  "SkillName_Skill_BR_Harpy_N_3": {
+    "korean": "스텔스 기동",
+    "english": "Stealth Maneuver"
+  },
+  "SkillDesc_Skill_BR_Harpy_N_3": {
+    "korean": "라운드 개시 시, 자신의 회피 / 대 기동형 피해량이 증가합니다.&n전투 개시 시, <스텔스 위장> 상태가 되어 피해 최소화(2회) 효과를 획득합니다. 대기 시, 재활성화할 수 있습니다.&n라운드 개시 시 자신이 <스텔스 위장> 상태인 경우, 2라운드 동안 자신의 공격력이 증가합니다.",
+    "english": "At the start of the round, increases own EVA and Anti-Air DMG. At the start of battle, becomes <Stealth Camouflage> and gains Damage Mitigation (2×) effect. Can be reactivated while idle. If you are in <Stealth Camouflage> at the start of the round, ATK is increased for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Harpy_N_3": {
+    "korean": "자신 회피 / 대 기동형 피해량 증가. 피해 최소화 / 공격력 증가.",
+    "english": "EVA up / Anti-Air DMG increase. Damage Mitigation / ATK increase"
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_3": {
+    "korean": "스텔스 기동 : 회피 {0}%",
+    "english": "Stealth Maneuver : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Harpy_N_3": {
+    "korean": "스텔스 기동 : 대 기동형 피해량 {0}%",
+    "english": "Stealth Maneuver : Anti-Air DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_Harpy_N_3": {
+    "korean": "스텔스 위장 : 피해 최소화",
+    "english": "Stealth Camouflage : Minimize Damage"
+  },
+  "BuffDesc4_Effect_BR_Harpy_N_3": {
+    "korean": "위장 공격 : 공격력 {0}%",
+    "english": "Camouflage Attack : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_31": {
+    "korean": "스텔스 위장 : 피해 최소화",
+    "english": "Stealth Camouflage : Minimize Damage"
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_33": {
+    "korean": "위장 공격 : 공격력 {0}%",
+    "english": "Camouflage Attack : ATK {0}%"
+  },
+  "SkillName_Skill_BR_Harpy_N_4": {
+    "korean": "통합 항전 정보처리",
+    "english": "Integrated Air Combat Information Processing"
+  },
+  "SkillDesc_Skill_BR_Harpy_N_4": {
+    "korean": "전투 개시 시, 범위 내 기동형 아군의 AP를 증가시킵니다. &n라운드 개시 시, 범위 내 아군의 치명타 / 적중 / 회피를 증가시킵니다.&n대상이 기동형이 아닐 경우, 지속 효과가 50% 감소합니다.",
+    "english": "At the start of battle, increases AP of Air allies within range. At the start of the round, increases CRIT, ACC and EVA of allies within range. If the target is not Air, the effect duration is reduced by 50%."
+  },
+  "SkillDescSimple_Skill_BR_Harpy_N_4": {
+    "korean": "기동형 아군 AP 증가. 아군 치명타 / 적중 / 회피 증가.",
+    "english": "Air allies' AP increase. Allies' CRIT / ACC / EVA increase."
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_4": {
+    "korean": "통합 항전 정보처리 : AP {0} (기동형)",
+    "english": "Integrated Air Combat Information Processing : AP {0} (Air)"
+  },
+  "BuffDesc2_Effect_BR_Harpy_N_4": {
+    "korean": "통합 항전 정보처리 : 치명타 {0}%",
+    "english": "Integrated Air Combat Information Processing : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Harpy_N_4": {
+    "korean": "통합 항전 정보처리 : 적중 {0}%",
+    "english": "Integrated Air Combat Information Processing : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Harpy_N_4": {
+    "korean": "통합 항전 정보처리 : 회피 {0}%",
+    "english": "Integrated Air Combat Information Processing : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_41": {
+    "korean": "통합 항전 정보처리 : 치명타 {0}%",
+    "english": "Integrated Air Combat Information Processing : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_BR_Harpy_N_41": {
+    "korean": "통합 항전 정보처리 : 적중 {0}%",
+    "english": "Integrated Air Combat Information Processing : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Harpy_N_41": {
+    "korean": "통합 항전 정보처리 : 회피 {0}%",
+    "english": "Integrated Air Combat Information Processing : EVA {0}%"
+  },
+  "SkillName_Skill_BR_Harpy_N_5": {
+    "korean": "NVEL 시스템",
+    "english": "NVEL System"
+  },
+  "SkillDesc_Skill_BR_Harpy_N_5": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 행동력 / 방어 관통이 증가하며 사거리 감소 효과를 해제합니다.&n공격 적중 / 협동 공격 시, 해당 라운드 동안 자신이 장착한 대 타입 피해량 증가 장비 효과가 증폭됩니다.",
+    "english": "At the start of the round, increases own ATK, SPD and DEF Penetration and removes Range Reduction. When an attack hits or during a Cooperative Attack, the effect of equipped large-type damage gear is amplified for that round."
+  },
+  "SkillDescSimple_Skill_BR_Harpy_N_5": {
+    "korean": "자신 공격력 / 행동력 / 방어 관통 증가 / 사거리 감소 해제. 조건부 대 타입 피해량 증가.",
+    "english": "ATK / SPD / DEF Penetration increase / Range Reduction removed. Conditional large-type DMG increase."
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_5": {
+    "korean": "NVEL 시스템 : 공격력 {0}%",
+    "english": "NVEL System : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Harpy_N_5": {
+    "korean": "NVEL 시스템 : 행동력 {0}%",
+    "english": "NVEL System : SPD {0}%"
+  },
+  "BuffDesc3_Effect_BR_Harpy_N_5": {
+    "korean": "NVEL 시스템 : 방어 관통 {0}%",
+    "english": "NVEL System : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_BR_Harpy_N_5": {
+    "korean": "NVEL 시스템 : 사거리 감소 해제",
+    "english": "NVEL System : Range Debuff Removal"
+  },
+  "BuffDesc5_Effect_BR_Harpy_N_5": {
+    "korean": "NVEL 시스템 : 대 타입 피해량 증가 {0}%",
+    "english": "NVEL System: Increased damage against large types {0}%"
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_51": {
+    "korean": "Lock on : 대 경장형 피해량 {0}%",
+    "english": "Lock on : Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_52": {
+    "korean": "Lock on : 대 중장형 피해량 {0}%",
+    "english": "Lock on : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Harpy_N_53": {
+    "korean": "Lock on : 대 기동형 피해량{0}%",
+    "english": "Lock on : Anti-Air DMG {0}%"
+  }
+}

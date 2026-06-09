@@ -1,0 +1,178 @@
+{
+  "SkillName_Skill_3P_Salacia_N_1": {
+    "korean": "‘펑펑 터지는 탄’ 발사~",
+    "english": "Fire 'Boom-Boom Bullet'"
+  },
+  "SkillDesc_Skill_3P_Salacia_N_1": {
+    "korean": "지정 범위 적에게 {0} 보호 무시 피해를 줍니다. 대상에게 <엠피트리테 : 레이더 포착> 효과가 적용 중이면 피해량이 증가합니다. 대상이 행동력 증가 상태가 아니면 피해량이 추가로 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to enemies in the designated area. Damage is increased if the target is affected by <Amphitrite: Radar Lock-On>. Damage is further increased if the target is not under an SPD Increase effect."
+  },
+  "SkillDescSimple_Skill_3P_Salacia_N_1": {
+    "korean": "목표 지점 {0} 보호 무시 피해. 추가 피해",
+    "english": "Deal {0} Ignore Protection damage to target location. Additional DMG."
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_1": {
+    "korean": "펑펑 터지는 탄~ : 피해량{0}%",
+    "english": "Boom Boom Bullet~ : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_11": {
+    "korean": "펑펑 터지는 탄~ : 피해량{0}%",
+    "english": "Boom Boom Bullet~ : Additional DMG {0}%"
+  },
+  "SkillName_Skill_3P_Salacia_N_2": {
+    "korean": "‘전부 뚫는 탄’ 발사~",
+    "english": "Fire 'Piercing Bullet'"
+  },
+  "SkillDesc_Skill_3P_Salacia_N_2": {
+    "korean": "지정 범위 적에게 {0} 피해를 줍니다. 치명타 시, 피해량이 증가합니다. 대상이 피해 감소 상태가 아니면 피해량이 추가로 증가합니다.",
+    "english": "Deals {0} damage to enemies in the designated area. Damage is increased on CRIT. Damage is further increased if the target is not under a DMG Reduction effect."
+  },
+  "SkillDescSimple_Skill_3P_Salacia_N_2": {
+    "korean": "목표 지점 {0} 피해. 추가 피해",
+    "english": "Deal {0} damage to target location. Additional DMG."
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_2": {
+    "korean": "전부 뚫는 탄~ : 피해량{0}%",
+    "english": "Piercing Bullet~ : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_21": {
+    "korean": "전부 뚫는 탄~ : 피해량{0}%",
+    "english": "Piercing Bullet~ : Additional DMG {0}%"
+  },
+  "SkillName_Skill_3P_Salacia_N_3": {
+    "korean": "빵~ 빵~!",
+    "english": "Bang~ Bang~!"
+  },
+  "SkillDesc_Skill_3P_Salacia_N_3": {
+    "korean": "라운드 개시 시, 방어 관통 / 치명타가 증가합니다. <엠피트리테 : 지휘전파> 효과를 받는 상태로 라운드 개시 시, 공격력 / 방어 관통이 증가합니다.",
+    "english": "At the start of the round, DEF Penetration and CRIT increase. If the round starts while under <Amphitrite: Command Signal>, ATK and DEF Penetration increase."
+  },
+  "SkillDescSimple_Skill_3P_Salacia_N_3": {
+    "korean": "방어 관통 / 치명타 증가",
+    "english": "DEF Penetration / CRIT increase"
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_3": {
+    "korean": "빵~ 빵~! : 방어 관통{0}%",
+    "english": "Bang~ Bang~! : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_3P_Salacia_N_3": {
+    "korean": "빵~ 빵~! : 치명타{0}%",
+    "english": "Bang~ Bang~! : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_3P_Salacia_N_3": {
+    "korean": "빵~ 빵~! : 공격력{0}% (지휘전파)",
+    "english": "Bang~ Bang~! : ATK {0}% (Command Signal)"
+  },
+  "BuffDesc4_Effect_3P_Salacia_N_3": {
+    "korean": "빵~ 빵~! : 방어 관통{0}% (지휘전파)",
+    "english": "Bang~ Bang~! : DEF Penetration {0}% (Command Signal)"
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_31": {
+    "korean": "빵~ 빵~! : 공격력{0}%",
+    "english": "Bang~ Bang~! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Salacia_N_31": {
+    "korean": "빵~ 빵~! : 방어 관통{0}%",
+    "english": "Bang~ Bang~! : DEF Penetration {0}%"
+  },
+  "SkillName_Skill_3P_Salacia_N_4": {
+    "korean": "언니, 얼른 가자!",
+    "english": "Sis, let’s go already!"
+  },
+  "SkillDesc_Skill_3P_Salacia_N_4": {
+    "korean": "라운드 개시 시, 행동력 증가 상태면 스킬 위력이 증가합니다. 스쿼드에 엠피트리테가 있으면 행동력이 증가하고, 보호 무시 효과가 활성화됩니다. <엠피트리테 : 돌격 진형> 또는 <엠피트리테 : 우회 진형> 효과를 받는 상태면 스킬 위력이 추가로 증가합니다.",
+    "english": "At the start of the round, Skill Power increases if under an SPD Increase effect. If Amphitrite is in the squad, SPD increases and Ignore Protection is activated. Skill Power is further increased while under <Amphitrite: Assault Formation> or <Amphitrite: Flanking Formation>."
+  },
+  "SkillDescSimple_Skill_3P_Salacia_N_4": {
+    "korean": "스킬 위력 증가. 엠피트리테가 있으면 행동력 증가 / 보호 무시 활성화",
+    "english": "Skill Power increase. If Amphitrite is present, SPD increase / Activate Ignore Protection."
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_4": {
+    "korean": "언니, 얼른 가자! : 스킬 위력{0}%",
+    "english": "Sis, let’s go already! : Skill Power {0}%"
+  },
+  "BuffDesc2_Effect_3P_Salacia_N_4": {
+    "korean": "언니, 얼른 가자! : 행동력{0}%",
+    "english": "Sis, let’s go already! : SPD {0}%"
+  },
+  "BuffDesc3_Effect_3P_Salacia_N_4": {
+    "korean": "언니, 얼른 가자! : 보호 무시 활성화",
+    "english": "Sis, let’s go already! : Activate Ignore Protection"
+  },
+  "BuffDesc4_Effect_3P_Salacia_N_4": {
+    "korean": "언니, 얼른 가자! : 스킬 위력{0}% (돌격/우회 진형)",
+    "english": "Sis, let’s go already! : Skill Power {0}% (Assault/Flanking Formation)"
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_41": {
+    "korean": "언니, 얼른 가자! : 행동력{0}%",
+    "english": "Sis, let’s go already! : SPD {0}%"
+  },
+  "BuffDesc2_Effect_3P_Salacia_N_41": {
+    "korean": "언니, 얼른 가자! : 보호 무시 활성화",
+    "english": "Sis, let’s go already! : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_42": {
+    "korean": "언니, 얼른 가자! : 스킬 위력{0}%",
+    "english": "Sis, let’s go already! : Skill Power {0}%"
+  },
+  "SkillName_Skill_3P_Salacia_N_5": {
+    "korean": "시아, 엄~청 세!",
+    "english": "Cia, super strong!"
+  },
+  "SkillDesc_Skill_3P_Salacia_N_5": {
+    "korean": "라운드 개시 시, 공격력 / 적중이 증가합니다. 스쿼드 내 자신을 제외한 공격기 1기마다 효과가 50%씩 증가합니다.",
+    "english": "At the start of the round, ATK and ACC increase. The effect increases by 50% for each Attacker unit in the squad other than self."
+  },
+  "SkillDescSimple_Skill_3P_Salacia_N_5": {
+    "korean": "공격력 / 적중 증가",
+    "english": "ATK / ACC increase."
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_5": {
+    "korean": "시아, 엄~청 세! : 공격력{0}%",
+    "english": "Cia, super strong! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Salacia_N_5": {
+    "korean": "시아, 엄~청 세! : 적중{0}%",
+    "english": "Cia, super strong! : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_51": {
+    "korean": "시아, 엄~청 세! : 공격력{0}%",
+    "english": "Cia, super strong! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Salacia_N_51": {
+    "korean": "시아, 엄~청 세! : 적중{0}%",
+    "english": "Cia, super strong! : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_52": {
+    "korean": "시아, 엄~청 세! : 공격력{0}%",
+    "english": "Cia, super strong! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Salacia_N_52": {
+    "korean": "시아, 엄~청 세! : 적중{0}%",
+    "english": "Cia, super strong! : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_53": {
+    "korean": "시아, 엄~청 세! : 공격력{0}%",
+    "english": "Cia, super strong! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Salacia_N_53": {
+    "korean": "시아, 엄~청 세! : 적중{0}%",
+    "english": "Cia, super strong! : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_54": {
+    "korean": "시아, 엄~청 세! : 공격력{0}%",
+    "english": "Cia, super strong! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Salacia_N_54": {
+    "korean": "시아, 엄~청 세! : 적중{0}%",
+    "english": "Cia, super strong! : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Salacia_N_55": {
+    "korean": "시아, 무~지 세! : 공격력{0}%",
+    "english": "Sia is Super~ Strong! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Salacia_N_55": {
+    "korean": "시아, 무~지 세! : 적중{0}%",
+    "english": "Sia, Mega Strong!: ACC {0}%"
+  }
+}

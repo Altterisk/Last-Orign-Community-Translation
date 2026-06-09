@@ -1,0 +1,186 @@
+{
+  "SkillName_Skill_BR_Andvari_N_1": {
+    "korean": "해결책 제시",
+    "english": "Solution Presentation"
+  },
+  "SkillDesc_Skill_BR_Andvari_N_1": {
+    "korean": "단일 적에게 개조된 폭발탄을 발사하여 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 표식을 부여합니다.",
+    "english": "Fires a modified explosive round at a single enemy, dealing {0} damage.&nOn hit, applies a Mark to the target for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Andvari_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상 표식 부여.",
+    "english": "Deals {0} damage to a single target. Applies Mark."
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_1": {
+    "korean": "해결책 제시 : 표식",
+    "english": "Solution Presentation : Marked"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_53": {
+    "korean": "아껴 쓰라고 했잖아요! : 공격력 {0}% 고정 피해",
+    "english": "I told you to use it sparingly! : ATK {0}% Fixed DMG"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_54": {
+    "korean": "아껴 써야 한다니까요! : 강화 효과 해제",
+    "english": "I told you to use it sparingly! : Enhancement effect removed."
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_55": {
+    "korean": "이젠 저도 몰라요! : 강화 불가",
+    "english": "I Don’t Know Anymore! : Buff Prevention"
+  },
+  "SkillName_Skill_BR_Andvari_N_2": {
+    "korean": "아껴 써야 해요!",
+    "english": "Conserve Usage"
+  },
+  "SkillDesc_Skill_BR_Andvari_N_2": {
+    "korean": "스킬 사용 시, 3라운드 동안 공격기의 공격력/치명타, 보호기의 방어력/회피, 지원기의 행동력/적중이 증가합니다. &n<시스터즈 오브 발할라> 소속 전투원은 효과가 두 배로 증폭됩니다.",
+    "english": "When this skill is used, for 3 rounds:&nAttackers gain increased ATK/CRIT, Defenders gain increased DEF/EVA, Supporters gain increased SPD/ACC.&n<Sisters of Valhalla> members receive double the effect."
+  },
+  "SkillDescSimple_Skill_BR_Andvari_N_2": {
+    "korean": "공격기 공격력 / 치명타 증가. 보호기 방어력 / 회피 증가. 지원기 행동력 / 적중 증가.",
+    "english": "Increases ATK/CRIT for Attackers. Increases DEF/EVA for Defenders. Increases SPD/ACC for Supporters."
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_2": {
+    "korean": "아껴 써야 해요! : 공격력 / 치명타 {0}% (공격기)",
+    "english": "Conserve Usage : ATK / CRIT {0}% (Attacker)"
+  },
+  "BuffDesc2_Effect_BR_Andvari_N_2": {
+    "korean": "아껴 써야 해요! : 방어력 / 회피 {0}% (보호기)",
+    "english": "Conserve Usage : DEF / EVA {0}% (Defender)"
+  },
+  "BuffDesc3_Effect_BR_Andvari_N_2": {
+    "korean": "아껴 써야 해요! : 행동력 / 적중 {0}% (지원기)",
+    "english": "Conserve Usage : SPD / ACC {0}% (Supporter)"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_21": {
+    "korean": "아껴 써야 해요! : 공격력 {0}%",
+    "english": "Conserve Usage : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Andvari_N_21": {
+    "korean": "아껴 써야 해요! : 치명타 {0}%",
+    "english": "Conserve Usage : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_22": {
+    "korean": "아껴 써야 해요! : 방어력 {0}%",
+    "english": "Conserve Usage : DEF {0}%"
+  },
+  "BuffDesc2_Effect_BR_Andvari_N_22": {
+    "korean": "아껴 써야 해요! : 회피 {0}%",
+    "english": "Conserve Usage : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_23": {
+    "korean": "아껴 써야 해요! : 행동력 {0}%",
+    "english": "Conserve Usage : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Andvari_N_23": {
+    "korean": "아껴 써야 해요! : 적중 {0}%",
+    "english": "Conserve Usage : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_24": {
+    "korean": "아껴 써야 해요! (증폭) : 공격력 {0}%",
+    "english": "You need to use it sparingly! (Amplified): ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Andvari_N_24": {
+    "korean": "아껴 써야 해요! (증폭) : 치명타 {0}%",
+    "english": "You need to use it sparingly! (Amplified): CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_25": {
+    "korean": "아껴 써야 해요! (증폭) : 방어력 {0}%",
+    "english": "You have to use it sparingly! (Amplified): DEF {0}%"
+  },
+  "BuffDesc2_Effect_BR_Andvari_N_25": {
+    "korean": "아껴 써야 해요! (증폭) : 회피 {0}%",
+    "english": "You have to use it sparingly! (Amplified): EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_26": {
+    "korean": "아껴 써야 해요! (증폭) : 행동력 {0}%",
+    "english": "You have to use it sparingly! (Amplification): SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Andvari_N_26": {
+    "korean": "아껴 써야 해요! (증폭) : 적중 {0}%",
+    "english": "You have to use it sparingly! (Amplification): ACC {0}%"
+  },
+  "SkillName_Skill_BR_Andvari_N_3": {
+    "korean": "의젓한 여동생",
+    "english": "Mature Little Sister"
+  },
+  "SkillDesc_Skill_BR_Andvari_N_3": {
+    "korean": "라운드 개시 시, <시스터즈 오브 발할라> 소속 전투원의 냉기 저항이 증가합니다.&n<철혈의 레오나> 스킬 중 특정 역할군 조건 효과를, <시스터즈 오브 발할라> 소속 전투원에게는 역할군 조건을 무시하고 부여할 수 있도록 합니다.",
+    "english": "At the start of the round, increases Cold Resist for <Sisters of Valhalla> members.&nAllows certain role-specific effects from <Leona the Ironblood>'s skills to be granted to <Sisters of Valhalla> members regardless of their role."
+  },
+  "SkillDescSimple_Skill_BR_Andvari_N_3": {
+    "korean": "<시스터즈 오브 발할라> 냉기 저항 증가.",
+    "english": "Increases Cold Resist for <Sisters of Valhalla>"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_3": {
+    "korean": "의젓한 여동생 : 냉기 저항 {0}%",
+    "english": "Mature Little Sister : Cold Resist {0}%"
+  },
+  "SkillName_Skill_BR_Andvari_N_4": {
+    "korean": "개량형 다목적 보급고",
+    "english": "Refined Multipurpose Supply Pod"
+  },
+  "SkillDesc_Skill_BR_Andvari_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군에게 방어막을 부여하고 방어력을 증가시킵니다.&n대기 시, 범위 내 <시스터즈 오브 발할라> 소속 전투원의 해로운 효과를 해제합니다.",
+    "english": "At the start of the round, grants a Barrier and increases DEF for allies within range.&nWhen on Standby, removes harmful effects from <Sisters of Valhalla> members within range."
+  },
+  "SkillDescSimple_Skill_BR_Andvari_N_4": {
+    "korean": "아군 방어막 / 방어력 증가. 대기 시, <시스터즈 오브 발할라> 대상 해로운 효과 해제.",
+    "english": "Grants Barrier and increases DEF for allies. When idle, removes harmful effects from <Sisters of Valhalla> allies."
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_4": {
+    "korean": "보급고 엄폐 : 방어막 {0}",
+    "english": "Supply Depot Cover : Barrier {0}"
+  },
+  "BuffDesc2_Effect_BR_Andvari_N_4": {
+    "korean": "보급고 엄폐 : 방어력 {0}",
+    "english": "Supply Depot Cover: DEF {0}"
+  },
+  "BuffDesc3_Effect_BR_Andvari_N_4": {
+    "korean": "차례대로 받아가세요! : 해로운 효과 해제",
+    "english": "Line Up and Receive! : Debuff Removal"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_41": {
+    "korean": "차례대로 받아가세요! : 해로운 효과 해제",
+    "english": "Please take them in order! : Debuff Removal"
+  },
+  "SkillName_Skill_BR_Andvari_N_5": {
+    "korean": "특수 개조형 개머리판",
+    "english": "Specially Modified Stock"
+  },
+  "SkillDesc_Skill_BR_Andvari_N_5": {
+    "korean": "<해결책 제시> 사용 시, 자신의 효과 저항이 증가합니다. 해당 효과는 피격 시 사라집니다.&n매 라운드 자신의 첫 번째 공격은 반드시 치명타가 발생합니다.&n자신에게 적용된 <아껴 써야 해요!> 중첩 수에 따라 <해결책 제시> 치명타 시, 대상에게 다음 효과가 적용됩니다.&n- 1중첩 이상 : 고정 물리 피해 / 2중첩 이상 : 강화 효과 해제 / 3중첩 이상 : 2라운드 동안 강화 불가",
+    "english": "When using <Solution Presentation>, increases own Status Resist. This effect is removed upon taking damage.&nEach round, the user’s first attack is guaranteed to be a critical hit.&nDepending on the number of <Conserve Usage> stacks applied to self, the following effects are triggered on critical hit with <Solution Presentation>:&n- 1 stack or more: Deals Fixed Physical DMG&n- 2 stacks or more: Removes buffs from the target&n- 3 stacks or more: Prevents buffing for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Andvari_N_5": {
+    "korean": "<해결책 제시> 효과 강화. 매 라운드 첫 공격 치명타.",
+    "english": "Enhances <Solution Presentation> effect. First attack each round is a guaranteed CRIT."
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_5": {
+    "korean": "특수 개조형 개머리판 : 효과 저항 {0}% 증가",
+    "english": "Specially Modified Stock : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_BR_Andvari_N_5": {
+    "korean": "특수 개조형 개머리판 : 확정 치명타",
+    "english": "Specially Modified Stock: Guaranteed CRIT"
+  },
+  "BuffDesc3_Effect_BR_Andvari_N_5": {
+    "korean": "아껴 쓰라고 했잖아요! : 공격력 {0}% 고정 피해",
+    "english": "I Told You to Use It Wisely! : ATK {0}% Fixed DMG"
+  },
+  "BuffDesc4_Effect_BR_Andvari_N_5": {
+    "korean": "아껴 써야 한다니까요! : 강화 효과 해제",
+    "english": "I told you, you have to use it sparingly! : Buff Removal"
+  },
+  "BuffDesc5_Effect_BR_Andvari_N_5": {
+    "korean": "이젠 저도 몰라요! : 강화 불가",
+    "english": "I don't know anymore! : Buff Prevention"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_51": {
+    "korean": "특수 개조형 개머리판 : 확정 치명타",
+    "english": "Specially Modified Stock: Guaranteed CRIT"
+  },
+  "BuffDesc1_Effect_BR_Andvari_N_52": {
+    "korean": "초코바가… 하나 부족하네요…?",
+    "english": "The chocolate bars are... one short...?"
+  }
+}

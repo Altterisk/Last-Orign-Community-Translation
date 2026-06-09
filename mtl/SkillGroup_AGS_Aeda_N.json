@@ -1,0 +1,234 @@
+{
+  "SkillName_Skill_AGS_Aeda_N_1": {
+    "korean": "호밍 레이저",
+    "english": "Homing Laser"
+  },
+  "SkillDesc_Skill_AGS_Aeda_N_1": {
+    "korean": "호밍 레이저를 발사해 {0} 피해를 줍니다.&n적중 시, 대상에게 2라운드 동안 표식 / 받는 피해 증가 / 회피 감소 효과를 부여합니다. &n스킬 레벨 당 +6%의 적중 보정이 적용됩니다.",
+    "english": "Fires a homing laser dealing {0} Additional DMG. On hit, applies Marked, DMG Taken Increased, and Reduced EVA to the target for 2 rounds. Grants +6% ACC per skill level."
+  },
+  "SkillDescSimple_Skill_AGS_Aeda_N_1": {
+    "korean": "목표 지점 {0} 피해. 표식 / 받는 피해 증가 / 회피 감소.",
+    "english": "Target location {0} Additional DMG. Marked / DMG Taken Increased / Reduced EVA."
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_1": {
+    "korean": "호밍 레이저 : 표식",
+    "english": "Homing Laser : Marked"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_1": {
+    "korean": "호밍 레이저 : 받는 피해 {0}% 증가",
+    "english": "Homing Laser : DMG Taken Increased"
+  },
+  "BuffDesc3_Effect_AGS_Aeda_N_1": {
+    "korean": "호밍 레이저 : 회피 {0}%",
+    "english": "Homing Laser : EVA {0}%"
+  },
+  "SkillName_Skill_AGS_Aeda_N_2": {
+    "korean": "위성 포격",
+    "english": "Satellite Strike"
+  },
+  "SkillDesc_Skill_AGS_Aeda_N_2": {
+    "korean": "위성 포격을 요청해 목표 지점에 {0} 보호 무시 피해를 줍니다. 목표 지점에서 멀수록 피해량이 최대 50%까지 감소합니다.&n적중 시 자신이 정찰 활성화 상태인 경우, 피해량이 증가하고 대상의 행 / 열 / 지정 보호 효과를 해제합니다.&n스킬 사용 시, <연산 과부하> 상태가 되어 다음 2라운드 동안 <고고도 스캐닝>에 의한 정찰 활성화가 발동하지 않습니다.",
+    "english": "Calls in a satellite strike dealing {0} Ignore Protection Additional DMG at the target location. Damage decreases up to 50% the farther from the center. On hit, if you have Recon Effect active, damage is increased and the target's Row, Column, and Target Protect effects are removed. Using the skill applies <Computation Overload>, preventing Recon Effect from <High-Altitude Scanning> for the next 2 rounds."
+  },
+  "SkillDescSimple_Skill_AGS_Aeda_N_2": {
+    "korean": "목표 지점 {0} 보호 무시 피해. 조건부 피해량 증가 / 행 / 열 / 지정 보호 해제.",
+    "english": "Target location {0} Ignore Protection Additional DMG. Conditional damage increase / Row / Column / Target Protect removal."
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_2": {
+    "korean": "연산 과부하 : <고고도 스캐닝> 정지",
+    "english": "Computation Overload : <High-Altitude Scanning> Disabled"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_2": {
+    "korean": "정밀 궤도 폭격 : 피해량 {0}%",
+    "english": "Precision Orbital Bombardment : Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_AGS_Aeda_N_2": {
+    "korean": "좌표 추적 : 보호 효과 해제",
+    "english": "Coordinate Tracking : Target Protect Removal"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_21": {
+    "korean": "정밀 궤도 폭격 : 피해량 {0}%",
+    "english": "Precision Orbital Bombardment : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_21": {
+    "korean": "좌표 추적 : 행 보호 해제",
+    "english": "Coordinate Tracking : Row Protect Removal"
+  },
+  "BuffDesc3_Effect_AGS_Aeda_N_21": {
+    "korean": "좌표 추적 : 열 보호 해제",
+    "english": "Coordinate Tracking : Column Protect Removal"
+  },
+  "BuffDesc4_Effect_AGS_Aeda_N_21": {
+    "korean": "좌표 추적 : 지정 보호 해제",
+    "english": "Coordinate Tracking : Target Protect Removal"
+  },
+  "SkillName_Skill_AGS_Aeda_N_3": {
+    "korean": "정밀 분석",
+    "english": "Precision Analysis"
+  },
+  "SkillDesc_Skill_AGS_Aeda_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군의 공격력 / 치명타 / 방어 관통을 증가시킵니다. &n대상이 AGS 또는 <오비탈 와쳐> 소속일 경우, 효과가 두 배로 증폭됩니다.&n스쿼드 내에 자신 외의 <오비탈 와쳐> 소속 전투원이 있을 경우, 자신의 위치에 관계 없이 전체 적용됩니다.",
+    "english": "At the start of the round, increases allies within range ATK, CRIT, and DEF Penetration. If the target is an AGS unit or affiliated with <Orbital Watcher>, the effect is doubled. If there is another <Orbital Watcher> unit in the squad besides the user, the effect applies to all allies regardless of position."
+  },
+  "SkillDescSimple_Skill_AGS_Aeda_N_3": {
+    "korean": "아군 공격력 / 치명타 / 방어 관통 증가. 조건부 효과 증폭 / 범위 변경.",
+    "english": "Allies ATK / CRIT / DEF Penetration increased. Conditional effect amplification / Range change."
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_3": {
+    "korean": "정밀 분석 : 공격력 {0}%",
+    "english": "Precision Analysis : ATK {0}%"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_3": {
+    "korean": "정밀 분석 : 치명타 {0}%",
+    "english": "Precision Analysis : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_AGS_Aeda_N_3": {
+    "korean": "정밀 분석 : 방어 관통 {0}%",
+    "english": "Precision Analysis : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_31": {
+    "korean": "정밀 분석 : 공격력 {0}% (AGS)",
+    "english": "Precision Analysis : ATK {0}% (AGS)"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_31": {
+    "korean": "정밀 분석 : 치명타 {0}% (AGS)",
+    "english": "Precision Analysis : CRIT {0}% (AGS)"
+  },
+  "BuffDesc3_Effect_AGS_Aeda_N_31": {
+    "korean": "정밀 분석 : 방어 관통 {0}% (AGS)",
+    "english": "Precision Analysis : DEF Penetration {0}% (AGS)"
+  },
+  "SkillName_Skill_AGS_Aeda_N_4": {
+    "korean": "연산 최적화",
+    "english": "Computation Optimization"
+  },
+  "SkillDesc_Skill_AGS_Aeda_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군의 연산을 보조해 행동력 / AP를 증가시킵니다.&n대상이 AGS 또는 <오비탈 와쳐> 소속일 경우, 효과가 두 배로 증폭됩니다.&n스쿼드 내에 자신 외의 AGS가 있을 경우, 병렬 연산을 통해 자신의 위치에 관계 없이 전체 적용됩니다.",
+    "english": "At the start of the round, assists allies within range with computation, increasing their SPD and AP. If the target is an AGS unit or affiliated with <Orbital Watcher>, the effect is doubled. If there is another AGS unit in the squad besides the user, the effect applies globally via parallel computation regardless of position."
+  },
+  "SkillDescSimple_Skill_AGS_Aeda_N_4": {
+    "korean": "아군 행동력 / AP 증가. 조건부 효과 증폭 / 범위 변경.",
+    "english": "Allies SPD / AP increased. Conditional effect amplification / Range change."
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_4": {
+    "korean": "연산 최적화 : 행동력 {0}%",
+    "english": "Computation Optimization : SPD {0}%"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_4": {
+    "korean": "연산 최적화 : AP {0}",
+    "english": "Computation Optimization : AP {0}"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_41": {
+    "korean": "연산 최적화 : 행동력 {0}% (AGS)",
+    "english": "Computation Optimization : SPD {0}% (AGS)"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_41": {
+    "korean": "연산 최적화 : AP {0} (AGS)",
+    "english": "Computation Optimization : AP {0} (AGS)"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_42": {
+    "korean": "연산 최적화 : 행동력 {0}% (오비탈 와쳐)",
+    "english": "Computation Optimization : SPD {0}% (Orbital Watcher)"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_42": {
+    "korean": "연산 최적화 : AP {0} (오비탈 와쳐)",
+    "english": "Computation Optimization : AP {0} (Orbital Watcher)"
+  },
+  "SkillName_Skill_AGS_Aeda_N_5": {
+    "korean": "고고도 스캐닝",
+    "english": "High-Altitude Scanning"
+  },
+  "SkillDesc_Skill_AGS_Aeda_N_5": {
+    "korean": "라운드 개시 시, 자신은 정찰 활성화 상태가 됩니다.&n라운드 개시 시 자신이 정찰 활성화 상태인 경우, 적의 행동을 포착하여 행동력을 감소시키고 이동 불가 상태로 만듭니다.&n각 액티브 스킬 레벨에 따라 소모 AP가 감소합니다.",
+    "english": "At the start of the round, you become Recon Effect active. If you are Recon Effect active at the start of the round, you capture enemy actions, reducing their SPD and rooting them. AP cost decreases with each active skill level."
+  },
+  "SkillDescSimple_Skill_AGS_Aeda_N_5": {
+    "korean": "정찰 활성화. 조건부 적 행동력 감소 / 이동 불가.",
+    "english": "Recon Effect active. Conditional enemy SPD reduction / Rooted."
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_5": {
+    "korean": "고고도 스캐닝 : 정찰 활성화",
+    "english": "High-Altitude Scanning : Recon Effect"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_5": {
+    "korean": "위치 포착 : 행동력 {0}%",
+    "english": "Target Lock : SPD {0}%"
+  },
+  "BuffDesc3_Effect_AGS_Aeda_N_5": {
+    "korean": "위치 포착 : 이동 불가",
+    "english": "Target Lock : Rooted"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_51": {
+    "korean": "위치 포착 : 행동력 {0}%",
+    "english": "Target Lock : SPD {0}%"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_51": {
+    "korean": "위치 포착 : 이동 불가",
+    "english": "Target Lock : Rooted"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_52": {
+    "korean": "1010011100100110001111001000 : 행동력 {0}%",
+    "english": "1010011100100110001111001000 : SPD {0}%"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_32": {
+    "korean": "정밀 분석 : 공격력 {0}% (오비탈 와쳐)",
+    "english": "Precision Analysis : ATK {0}% (Orbital Watcher)"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_32": {
+    "korean": "정밀 분석 : 치명타 {0}% (오비탈 와쳐)",
+    "english": "Precision Analysis : CRIT {0}% (Orbital Watcher)"
+  },
+  "BuffDesc3_Effect_AGS_Aeda_N_32": {
+    "korean": "정밀 분석 : 방어 관통 {0}% (오비탈 와쳐)",
+    "english": "Precision Analysis : DEF Penetration {0}% (Orbital Watcher)"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_33": {
+    "korean": "정밀 분석 : 공격력 {0}%",
+    "english": "Precision Analysis : ATK {0}%"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_33": {
+    "korean": "정밀 분석 : 치명타 {0}%",
+    "english": "Precision Analysis : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_AGS_Aeda_N_33": {
+    "korean": "정밀 분석 : 방어 관통 {0}%",
+    "english": "Precision Analysis : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_34": {
+    "korean": "정밀 분석 : 공격력 {0}% (AGS)",
+    "english": "Precision Analysis : ATK {0}% (AGS)"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_34": {
+    "korean": "정밀 분석 : 치명타 {0}% (AGS)",
+    "english": "Precision Analysis : CRIT {0}% (AGS)"
+  },
+  "BuffDesc3_Effect_AGS_Aeda_N_34": {
+    "korean": "정밀 분석 : 방어 관통 {0}% (AGS)",
+    "english": "Precision Analysis : DEF Penetration {0}% (AGS)"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_43": {
+    "korean": "연산 최적화 : 행동력 {0}%",
+    "english": "Computation Optimization : SPD {0}%"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_43": {
+    "korean": "연산 최적화 : AP {0}",
+    "english": "Computation Optimization : AP {0}"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_44": {
+    "korean": "연산 최적화 : 행동력 {0}% (AGS)",
+    "english": "Computation Optimization : SPD {0}% (AGS)"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_44": {
+    "korean": "연산 최적화 : AP {0} (AGS)",
+    "english": "Computation Optimization : AP {0} (AGS)"
+  },
+  "BuffDesc1_Effect_AGS_Aeda_N_45": {
+    "korean": "연산 최적화 : 행동력 {0}% (오비탈 와쳐)",
+    "english": "Computation Optimization : SPD {0}% (Orbital Watcher)"
+  },
+  "BuffDesc2_Effect_AGS_Aeda_N_45": {
+    "korean": "연산 최적화 : AP {0} (오비탈 와쳐)",
+    "english": "Computation Optimization : AP {0} (Orbital Watcher)"
+  }
+}

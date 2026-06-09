@@ -1,0 +1,266 @@
+{
+  "SkillName_Skill_BR_Bulgasari_N_1": {
+    "korean": "파일 드라이버",
+    "english": "File Driver"
+  },
+  "SkillDesc_Skill_BR_Bulgasari_N_1": {
+    "korean": "통로개척용 착암기로 대상을 찔러 {0} 피해를 줍니다.&n적중 시, 순간적으로 전류를 흘려넣어 AP를 감소시키고 2라운드 동안 방어력을 감소시킵니다.&n치명타 시, 방어력을 추가로 감소시킵니다.",
+    "english": "Stabs the target with a passage‑clearing rock drill, dealing {0} damage. On hit, momentarily injects electric current to reduce AP and reduce DEF for 2 rounds. On critical hit, reduces DEF further."
+  },
+  "SkillDescSimple_Skill_BR_Bulgasari_N_1": {
+    "korean": "단일 대상 {0} 피해. AP / 방어력 감소.",
+    "english": "Single target {0} damage. AP Reduction / DEF Reduction."
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_1": {
+    "korean": "감전 : AP {0}",
+    "english": "Electrocution : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_1": {
+    "korean": "파일 드라이버 : 방어력 {0}%",
+    "english": "File Driver : DEF {0}%"
+  },
+  "BuffDesc3_Effect_BR_Bulgasari_N_1": {
+    "korean": "파일 드라이버 : 방어력 {0}% (치명타)",
+    "english": "File Driver : DEF {0}% (CRIT)"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_11": {
+    "korean": "파일 드라이버 : 방어력 {0}% (치명타)",
+    "english": "File Driver : DEF {0}% (CRIT)"
+  },
+  "SkillName_Skill_BR_Bulgasari_N_2": {
+    "korean": "배터링 램",
+    "english": "Battering Ram"
+  },
+  "SkillDesc_Skill_BR_Bulgasari_N_2": {
+    "korean": "특수개조 배터링 램으로 가격해 {0} 보호 무시 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.&n적중 대상이 방어력 감소 상태인 경우, 피해량이 증가합니다.&n적중 시, 대상을 뒤로 밀어내고 행 / 열 / 지정 보호 / 받는 피해 감소 효과를 해제합니다.",
+    "english": "Strikes with a specially modified Battering Ram, dealing {0} damage that ignores protection. Ignores a certain percentage of the target's DEF. If the target is in a defense reduction state, damage is increased. On hit, pushes the target back and removes row/column/target protection and DMG Reduction effects."
+  },
+  "SkillDescSimple_Skill_BR_Bulgasari_N_2": {
+    "korean": "단일 대상 {0} 보호 무시 방어 관통 피해. 뒤로 밀기 / 피해 감소 / 보호 효과 해제. 조건부 피해량 증가.",
+    "english": "Single target {0} ignores protection and penetrates DEF. Push Back / removes DMG Reduction / removes protection. Conditional damage increase."
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_2": {
+    "korean": "배터링 램 : 뒤로 {0}칸 밀기",
+    "english": "Battering Ram : Push Back {0}"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_2": {
+    "korean": "배터링 램 : 방어 관통 {0}%",
+    "english": "Battering Ram : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_BR_Bulgasari_N_2": {
+    "korean": "배터링 램 : 피해량 {0}%",
+    "english": "Battering Ram : Additional DMG {0}%"
+  },
+  "BuffDesc4_Effect_BR_Bulgasari_N_2": {
+    "korean": "배터링 램 : 피해 감소 / 보호 효과 해제",
+    "english": "Battering Ram : DMG Reduction / Target Protect Removal"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_21": {
+    "korean": "배터링 램 : 받는 피해 감소 해제",
+    "english": "Battering Ram : DMG Reduction Removal"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_21": {
+    "korean": "배터링 램 : 지정 보호 해제",
+    "english": "Battering Ram : Target Protect Removal"
+  },
+  "BuffDesc3_Effect_BR_Bulgasari_N_21": {
+    "korean": "배터링 램 : 열 보호 해제",
+    "english": "Battering Ram : Column Protect Removal"
+  },
+  "BuffDesc4_Effect_BR_Bulgasari_N_21": {
+    "korean": "배터링 램 : 행 보호 해제",
+    "english": "Battering Ram : Row Protect Removal"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_22": {
+    "korean": "배터링 램 : 피해량 {0}%",
+    "english": "Battering Ram : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_23": {
+    "korean": "배터링 램 : 방어 관통 {0}%",
+    "english": "Battering Ram : DEF Penetration {0}%"
+  },
+  "SkillName_Skill_BR_Bulgasari_N_3": {
+    "korean": "유압 축압기",
+    "english": "Hydraulic Accumulator"
+  },
+  "SkillDesc_Skill_BR_Bulgasari_N_3": {
+    "korean": "라운드 개시 시, 자신의 대 경장형 / 중장형 피해량이 증가합니다. <C-77 홍련>의 <진압 대형 편성> / <정밀 저격 지시> 효과를 받는 자신 외의 아군은 50%의 효과가 적용됩니다.&n<테러진압용 외장아머> 장착 시, 자신을 보호기로 취급하여 <몽구스 팀> 소속 전투원의 스킬 효과를 발동시킬 수 있습니다.&n<전격형 파일벙커> 장착 시, 액티브 스킬이 전기 피해로 변경되고 사거리 / 피해량이 증가합니다.",
+    "english": "At the start of a round, your Anti-Light DMG and Anti-Heavy DMG increase. Allies other than yourself who receive <C-77 Hongryeon>'s <Suppression Formation> / <Precision Sniper Order> effects get 50% of the effect. When equipped with <Suppression Exterior Armor>, you are treated as a Defender, allowing you to trigger skill effects of combatants belonging to <Mongoose Team>. When equipped with <Electric Pile Bunker>, your active skill changes to electric damage, and its range and damage increase."
+  },
+  "SkillDescSimple_Skill_BR_Bulgasari_N_3": {
+    "korean": "대 경장형 / 중장형 피해량 증가. 조건부 아군에게 추가 적용.",
+    "english": "Anti-Light DMG / Anti-Heavy DMG increase. Additional effect applies to conditional allies."
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_3": {
+    "korean": "유압 축압기 : 대 경장형 피해량 {0}%",
+    "english": "Hydraulic Accumulator : Anti-Light DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_3": {
+    "korean": "유압 축압기 : 대 중장형 피해량 {0}%",
+    "english": "Hydraulic Accumulator : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_31": {
+    "korean": "오퍼레이션 몽구스 : 대 경장형 피해량 {0}%",
+    "english": "Operation Mongoose: Anti-Light DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_31": {
+    "korean": "오퍼레이션 몽구스 : 대 중장형 피해량 {0}%",
+    "english": "Operation Mongoose: Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_32": {
+    "korean": "<전격형 파일벙커> 장착",
+    "english": "<Electric Pile Bunker> Equipped"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_41": {
+    "korean": "몽구스 브리치 모드 : 공격력 {0}%",
+    "english": "Mongoose Breach Mode: ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_41": {
+    "korean": "몽구스 브리치 모드 : 치명타 {0}%",
+    "english": "Mongoose Breach Mode: CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Bulgasari_N_41": {
+    "korean": "몽구스 브리치 모드 : 행동력 {0}%",
+    "english": "Mongoose Breach Mode: SPD {0}%"
+  },
+  "SkillName_Skill_BR_Bulgasari_N_4": {
+    "korean": "월 브리칭",
+    "english": "Wall Breaching"
+  },
+  "SkillDesc_Skill_BR_Bulgasari_N_4": {
+    "korean": "라운드 개시 시, 범위 내 공격기 / 보호기의 공격력 / 치명타 / 행동력을 증가시킵니다.&n<몽구스 팀> 소속 전투원은 효과가 두 배로 증폭되고 역할군 조건 및 위치에 관계 없이 적용됩니다.&n라운드 개시 시 <T-14 미호>가 없을 경우, 범위 내 공격기 / 보호기의 공격을 지원합니다.",
+    "english": "At the start of the round, increases the ATK, CRIT, and SPD of Attacker and Defender units within range. For combatants belonging to the <Mongoose Team>, the effect is doubled and applies regardless of role or position. If <T-14 Miho> is not present at the start of the round, it provides Follow-Up Attack to Attacker and Defender units within range."
+  },
+  "SkillDescSimple_Skill_BR_Bulgasari_N_4": {
+    "korean": "아군 공격기 / 보호기 공격력 / 치명타 / 행동력 증가 / 공격 지원. <몽구스 팀> 효과 증폭.",
+    "english": "Ally Attacker / Defender ATK / CRIT / SPD increase / Follow-Up Attack. <Mongoose Team> effect amplified."
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_4": {
+    "korean": "브리치 모드 : 공격력 {0}%",
+    "english": "Breach Mode : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_4": {
+    "korean": "브리치 모드 : 치명타 {0}%",
+    "english": "Breach Mode: CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Bulgasari_N_4": {
+    "korean": "브리치 모드 : 행동력 {0}%",
+    "english": "Breach Mode : SPD {0}%"
+  },
+  "BuffDesc4_Effect_BR_Bulgasari_N_4": {
+    "korean": "브리치 모드 : 공격 지원",
+    "english": "Breach Mode: Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_42": {
+    "korean": "브리치 모드 : 공격 지원",
+    "english": "Breach Mode : Follow-Up Attack"
+  },
+  "SkillName_Skill_BR_Bulgasari_N_5": {
+    "korean": "연계 돌파",
+    "english": "Linkage Breakthrough"
+  },
+  "SkillDesc_Skill_BR_Bulgasari_N_5": {
+    "korean": "라운드 개시 시, 아군 인원 수에 비례하여 자신의 공격력 / 치명타 / 효과 저항이 증가하고 받는 피해가 감소합니다.&n<C-77 홍련> / <T-14 미호>가 있을 경우, 공격력 / 치명타 증가 효과의 50%를 아군 전체에 적용합니다.&n<AS-12 스틸 드라코> / <P-24 핀토>가 있을 경우, 효과 저항 증가 / 받는 피해 감소 효과의 50%를 아군 전체에 적용합니다.",
+    "english": "At the start of the round, your ATK, CRIT, and Status Resist increase and DMG Reduction increase proportionally to the number of allies. If <C-77 Hongryeon> / <T-14 Miho> are present, 50% of the ATK / CRIT increase is applied to all allies. If <AS-12 Steel Draco> / <P-24 Pinto> are present, 50% of the Status Resist increase and DMG Reduction are applied to all allies."
+  },
+  "SkillDescSimple_Skill_BR_Bulgasari_N_5": {
+    "korean": "자신 공격력 / 치명타 / 효과 저항 증가 / 받는 피해 감소. 조건부 아군에게 추가 적용.",
+    "english": "Self ATK / CRIT / Status Resist increase / DMG Reduction. Additional effect applies to conditional allies."
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_5": {
+    "korean": "연계 돌파 : 공격력 {0}% (1인)",
+    "english": "Linkage Breakthrough : ATK {0}% (1 Unit)"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_5": {
+    "korean": "연계 돌파 : 치명타 {0}% (1인)",
+    "english": "Linkage Breakthrough : CRIT {0}% (1 Unit)"
+  },
+  "BuffDesc3_Effect_BR_Bulgasari_N_5": {
+    "korean": "연계 돌파 : 효과 저항 {0}% 증가 (1인)",
+    "english": "Linkage Breakthrough : Status Resist {0}% Increase (1 Unit)"
+  },
+  "BuffDesc4_Effect_BR_Bulgasari_N_5": {
+    "korean": "연계 돌파 : 받는 피해 {0}% 감소 (1인)",
+    "english": "Linkage Breakthrough : DMG Reduction {0}% (1 Unit)"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_51": {
+    "korean": "연계 돌파 : 공격력 {0}% (2인)",
+    "english": "Linkage Breakthrough : ATK {0}% (2 Units)"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_51": {
+    "korean": "연계 돌파 : 치명타 {0}% (2인)",
+    "english": "Linkage Breakthrough : CRIT {0}% (2 Units)"
+  },
+  "BuffDesc3_Effect_BR_Bulgasari_N_51": {
+    "korean": "연계 돌파 : 효과 저항 {0}% 증가 (2인)",
+    "english": "Linkage Breakthrough : Status Resist {0}% Increase (2 Units)"
+  },
+  "BuffDesc4_Effect_BR_Bulgasari_N_51": {
+    "korean": "연계 돌파 : 받는 피해 {0}% 감소 (2인)",
+    "english": "Linkage Breakthrough : DMG Reduction {0}% (2 Units)"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_52": {
+    "korean": "연계 돌파 : 공격력 {0}% (3인)",
+    "english": "Linkage Breakthrough : ATK {0}% (3 Units)"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_52": {
+    "korean": "연계 돌파 : 치명타 {0}% (3인)",
+    "english": "Linkage Breakthrough : CRIT {0}% (3 Units)"
+  },
+  "BuffDesc3_Effect_BR_Bulgasari_N_52": {
+    "korean": "연계 돌파 : 효과 저항 {0}% 증가 (3인)",
+    "english": "Linkage Breakthrough : Status Resist {0}% Increase (3 Units)"
+  },
+  "BuffDesc4_Effect_BR_Bulgasari_N_52": {
+    "korean": "연계 돌파 : 받는 피해 {0}% 감소 (3인)",
+    "english": "Linkage Breakthrough : DMG Reduction {0}% (3 Units)"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_53": {
+    "korean": "연계 돌파 : 공격력 {0}% (4인)",
+    "english": "Linkage Breakthrough : ATK {0}% (4 Units)"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_53": {
+    "korean": "연계 돌파 : 치명타 {0}% (4인)",
+    "english": "Linkage Breakthrough : CRIT {0}% (4 Units)"
+  },
+  "BuffDesc3_Effect_BR_Bulgasari_N_53": {
+    "korean": "연계 돌파 : 효과 저항 {0}% 증가 (4인)",
+    "english": "Linkage Breakthrough : Status Resist {0}% Increase (4 Units)"
+  },
+  "BuffDesc4_Effect_BR_Bulgasari_N_53": {
+    "korean": "연계 돌파 : 받는 피해 {0}% 감소 (4인)",
+    "english": "Linkage Breakthrough : DMG Reduction {0}% (4 Units)"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_54": {
+    "korean": "연계 돌파 : 공격력 {0}% (5인)",
+    "english": "Linkage Breakthrough : ATK {0}% (5 Units)"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_54": {
+    "korean": "연계 돌파 : 치명타 {0}% (5인)",
+    "english": "Linkage Breakthrough : CRIT {0}% (5 Units)"
+  },
+  "BuffDesc3_Effect_BR_Bulgasari_N_54": {
+    "korean": "연계 돌파 : 효과 저항 {0}% 증가 (5인)",
+    "english": "Linkage Breakthrough : Status Resist {0}% Increase (5 Units)"
+  },
+  "BuffDesc4_Effect_BR_Bulgasari_N_54": {
+    "korean": "연계 돌파 : 받는 피해 {0}% 감소 (5인)",
+    "english": "Linkage Breakthrough : DMG Reduction {0}% (5 Units)"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_55": {
+    "korean": "후방 연계 : 공격력 {0}%",
+    "english": "Rear Link: ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_55": {
+    "korean": "후방 연계 : 치명타 {0}%",
+    "english": "Rear Link: CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Bulgasari_N_59": {
+    "korean": "전방 연계 : 효과 저항 {0}% 증가",
+    "english": "Forward Link: Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_BR_Bulgasari_N_59": {
+    "korean": "전방 연계 : 받는 피해 {0}% 감소",
+    "english": "Front Link: DMG Reduction {0}%"
+  }
+}

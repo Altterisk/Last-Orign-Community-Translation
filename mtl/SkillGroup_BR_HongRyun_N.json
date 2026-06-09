@@ -1,0 +1,234 @@
+{
+  "SkillName_Skill_BR_HongRyun_N_1": {
+    "korean": "빙결 볼트",
+    "english": "Frost Bolt"
+  },
+  "SkillDesc_Skill_BR_HongRyun_N_1": {
+    "korean": "빙결 볼트로 대상에게 {0} 냉기 피해를 주고, 2라운드 동안 <침수> / 표식 / 행동력 감소 / 받는 피해 증가 효과를 부여합니다.&n스쿼드 내 <T-60 불가사리>가 있을 경우, [배터링 램] / [벙커 버스터] 스킬 협동 공격을 유도합니다.",
+    "english": "Deals {0} Cold Damage to the target with Frost Bolt and applies for 2 rounds: <Soaked>, Marked, SPD Reduction, and DMG Taken Increased. If a <T-60 Bulgasari> is in the squad, triggers a coordinated attack with [Battering Ram] / [Bunker Buster] skills."
+  },
+  "SkillDescSimple_Skill_BR_HongRyun_N_1": {
+    "korean": "단일 대상 {0} 냉기 피해. 침수 / 표식 / 행동력 감소 / 받는 피해 증가. [배터링 램] / [벙커 버스터] 협동 공격.",
+    "english": "Single target {0} Cold Damage. Applies Soaked, Marked, SPD Reduction, and DMG Taken Increased. Triggers cooperative attack with [Battering Ram] / [Bunker Buster]."
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_1": {
+    "korean": "빙결 볼트 : 표식 / 침수",
+    "english": "Frost Bolt : Marked / Soaked"
+  },
+  "BuffDesc2_Effect_BR_HongRyun_N_1": {
+    "korean": "빙결 볼트 : 행동력 {0}%",
+    "english": "Frost Bolt : SPD {0}%"
+  },
+  "BuffDesc3_Effect_BR_HongRyun_N_1": {
+    "korean": "빙결 볼트 : 받는 피해 {0}% 증가",
+    "english": "Frost Bolt : DMG Taken Increased {0}%"
+  },
+  "BuffDesc4_Effect_BR_HongRyun_N_1": {
+    "korean": "[배터링 램] / [벙커 버스터] 협동 공격",
+    "english": "[Battering Ram] / [Bunker Buster] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_11": {
+    "korean": "빙결 볼트 : 표식",
+    "english": "Frost Bolt : Marked"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_12": {
+    "korean": "빙결 볼트 : [배터링 램] / [벙커 버스터] 협동 공격",
+    "english": "Frost Bolt: [Battering Ram] / [Bunker Buster] Cooperative Attack"
+  },
+  "1000102976": {
+    "korean": "침수 : 화염 저항{0}%",
+    "english": "Flooded: Fire Resist {0}%"
+  },
+  "1000102660": {
+    "korean": "침수 : 냉기 저항{0}%",
+    "english": "Submerged: Cold Resist {0}%"
+  },
+  "1000102977": {
+    "korean": "침수 : 전기 저항{0}%",
+    "english": "Flooded: Electric Resist {0}%"
+  },
+  "SkillName_Skill_BR_HongRyun_N_2": {
+    "korean": "전장 장악",
+    "english": "Battlefield Control"
+  },
+  "SkillDesc_Skill_BR_HongRyun_N_2": {
+    "korean": "면밀한 전황 예측을 통해 스킬 사용 시, 아군 전체의 AP를 증가시키고 2라운드 동안 공격력 / 적중 / 방어 관통을 증가시킵니다.&n스쿼드 내 보호기 1기 당, 지속 라운드가 1 증가하고 지속 효과가 50% 증폭됩니다.&n<몽구스 팀> 소속 보호기가 있을 경우, 추가로 아군 전체의 해로운 효과를 해제합니다.",
+    "english": "When using a skill with careful battlefield prediction, increases AP of all allies and boosts ATK, ACC, and DEF Penetration for 2 rounds. For each Defender in the squad, the duration is extended by 1 round and the effect is amplified by 50%. If a Defender belonging to the <Mongoose Team> is present, additionally removes harmful effects from all allies."
+  },
+  "SkillDescSimple_Skill_BR_HongRyun_N_2": {
+    "korean": "아군 AP / 공격력 / 적중 / 방어 관통 증가. 조건부 효과 증폭 / 해로운 효과 해제.",
+    "english": "Increases allies’ AP, ATK, ACC, and DEF Penetration. Conditional effect amplification and harmful effect removal."
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_2": {
+    "korean": "전장 장악 : AP {0}",
+    "english": "Battlefield Control : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_HongRyun_N_2": {
+    "korean": "전장 장악 : 공격력 {0}%",
+    "english": "Battlefield Control : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_HongRyun_N_2": {
+    "korean": "전장 장악 : 적중 {0}%",
+    "english": "Battlefield Control : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_HongRyun_N_2": {
+    "korean": "전장 장악 : 방어 관통 {0}%",
+    "english": "Battlefield Control : DEF Penetration {0}%"
+  },
+  "BuffDesc5_Effect_BR_HongRyun_N_2": {
+    "korean": "아군 보호기 수에 따라 효과 증폭",
+    "english": "Effect amplified based on number of allied Defenders"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_21": {
+    "korean": "전장 장악 : 공격력 {0}%",
+    "english": "Battlefield Control : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_22": {
+    "korean": "전장 장악 : 적중 {0}%",
+    "english": "Battlefield Control : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_23": {
+    "korean": "전장 장악 : 방어 관통 {0}%",
+    "english": "Battlefield Control : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_228": {
+    "korean": "안전 확보 : 해로운 효과 해제",
+    "english": "Safety Secured: Debuff Removal"
+  },
+  "SkillName_Skill_BR_HongRyun_N_3": {
+    "korean": "대 테러 지휘",
+    "english": "Anti-Terrorism Command"
+  },
+  "SkillDesc_Skill_BR_HongRyun_N_3": {
+    "korean": "라운드 개시 시, 아군 전체의 공격력 / 행동력을 증가시킵니다.&n라운드 개시 시, 적 전체의 스킬 위력 / 적중을 감소시킵니다.&n상기 효과의 대상이 자신을 제외한 <몽구스 팀> 소속 전투원의 스킬 효과를 받고 있을 경우, 효과가 두 배로 증폭됩니다.",
+    "english": "At the start of the round, increases ATK and SPD of all allies. At the start of the round, decreases Skill Power and ACC of all enemies. If the effect targets any <Mongoose Team> members excluding yourself, the effect is doubled."
+  },
+  "SkillDescSimple_Skill_BR_HongRyun_N_3": {
+    "korean": "아군 공격력 / 행동력 증가. 적 스킬 위력 / 적중 감소. 조건부 효과 증폭.",
+    "english": "Increases allies’ ATK and SPD. Decreases enemies’ Skill Power and ACC. Conditional effect amplification."
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_3": {
+    "korean": "대 테러 지휘 : 공격력 {0}%",
+    "english": "Anti-Terrorism Command : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_HongRyun_N_3": {
+    "korean": "대 테러 지휘 : 행동력 {0}%",
+    "english": "Anti-Terrorism Command : SPD {0}%"
+  },
+  "BuffDesc3_Effect_BR_HongRyun_N_3": {
+    "korean": "대 테러 지휘 : 스킬 위력 {0}%",
+    "english": "Anti-Terrorism Command : Skill Power {0}%"
+  },
+  "BuffDesc4_Effect_BR_HongRyun_N_3": {
+    "korean": "대 테러 지휘 : 적중 {0}%",
+    "english": "Anti-Terrorism Command : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_31": {
+    "korean": "대 테러 지휘 : 공격력 {0}% (증폭)",
+    "english": "Anti-Terrorism Command : ATK {0}% (Amplified)"
+  },
+  "BuffDesc2_Effect_BR_HongRyun_N_31": {
+    "korean": "대 테러 지휘 : 행동력 {0}% (증폭)",
+    "english": "Anti-Terrorism Command : SPD {0}% (Amplified)"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_32": {
+    "korean": "대 테러 지휘 : 스킬 위력 {0}%",
+    "english": "Anti-Terrorism Command : Skill Power {0}%"
+  },
+  "BuffDesc2_Effect_BR_HongRyun_N_32": {
+    "korean": "대 테러 지휘 : 적중 {0}%",
+    "english": "Anti-Terrorism Command : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_33": {
+    "korean": "대 테러 지휘 : 스킬 위력 {0}% (증폭)",
+    "english": "Anti-Terrorism Command : Skill Power {0}% (Amplified)"
+  },
+  "BuffDesc2_Effect_BR_HongRyun_N_33": {
+    "korean": "대 테러 지휘 : 적중 {0}% (증폭)",
+    "english": "Anti-Terrorism Command : ACC {0}% (Amplified)"
+  },
+  "SkillName_Skill_BR_HongRyun_N_4": {
+    "korean": "진압 대형 편성",
+    "english": "Pacification Formation"
+  },
+  "SkillDesc_Skill_BR_HongRyun_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군 보호기에게 행 보호 / 받는 피해 감소 / 회피 증가 효과를 부여합니다.&n상기 효과의 대상이 <몽구스 팀> 소속 보호기인 경우, 효과가 50% 증폭됩니다.&n전투 개시 시, 범위 내 아군 보호기의 AP를 증가시킵니다.&n스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of the round, grants allies classified as Defender within range Row Protect, DMG Reduction, and EVA Increase effects. If the target Defender belongs to the <Mongoose Team>, the effects are increased by 50%. At the start of combat, increases AP of Defender within range. Range increases at skill level 10."
+  },
+  "SkillDescSimple_Skill_BR_HongRyun_N_4": {
+    "korean": "아군 보호기 행 보호 / 받는 피해 감소 / 회피 / AP 증가.",
+    "english": "Defender Row Protect, DMG Reduction, EVA Increase, and AP increase."
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_4": {
+    "korean": "진압 대형 편성 : 받는 피해 {0}% 감소",
+    "english": "Pacification Formation : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_BR_HongRyun_N_4": {
+    "korean": "진압 대형 편성 : 회피 {0}%",
+    "english": "Pacification Formation : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_HongRyun_N_4": {
+    "korean": "진압 대형 편성 : 행 보호",
+    "english": "Pacification Formation : Row Protect"
+  },
+  "BuffDesc4_Effect_BR_HongRyun_N_4": {
+    "korean": "진압 대형 편성 : AP {0}",
+    "english": "Pacification Formation : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_41": {
+    "korean": "진압 대형 편성 : 받는 피해 {0}% 감소 (몽구스)",
+    "english": "Suppression Formation Deployment : DMG Reduction {0}% (Mongoose)"
+  },
+  "BuffDesc2_Effect_BR_HongRyun_N_41": {
+    "korean": "진압 대형 편성 : 회피 {0}% (몽구스)",
+    "english": "Suppression Formation : EVA {0}% (Mongoose)"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_42": {
+    "korean": "진압 대형 편성 : 받는 피해 {0}% 감소 (불가사리)",
+    "english": "Pacification Formation : DMG Reduction {0}% (Bulgasari)"
+  },
+  "BuffDesc2_Effect_BR_HongRyun_N_42": {
+    "korean": "진압 대형 편성 : 회피 {0}% (불가사리)",
+    "english": "Pacification Formation : EVA {0}% (Bulgasari)"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_43": {
+    "korean": "진압 대형 편성 : AP {0}",
+    "english": "Pacification Formation : AP {0}"
+  },
+  "SkillName_Skill_BR_HongRyun_N_5": {
+    "korean": "정밀 저격 지시",
+    "english": "Precision Sniper Command"
+  },
+  "SkillDesc_Skill_BR_HongRyun_N_5": {
+    "korean": "라운드 개시 시, 범위 내 아군 경장형 공격기 / 지원기의 공격력 / 적중 / 치명타 / 방어 관통을 증가시킵니다.&n<몽구스 팀> 소속 전투원은 역할군 조건을 무시하고 적용되며, 추가로 사거리가 증가합니다.&n스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of the round, increases ATK, ACC, CRIT, and DEF Penetration of allied Light Attackers and Supporters within range. <Mongoose Team> members ignore role restrictions and also receive increased Range. Range is further increased at skill level 10."
+  },
+  "SkillDescSimple_Skill_BR_HongRyun_N_5": {
+    "korean": "아군 경장형 공격/지원기 공격력 / 적중 / 치명타 / 방어 관통 증가. 조건부 사거리 증가.",
+    "english": "Light Attacker/Supporter ATK, ACC, CRIT, and DEF Penetration increase. Conditional Range increase."
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_5": {
+    "korean": "정밀 저격 지시 : 공격력 {0}%",
+    "english": "Precision Sniper Command : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_HongRyun_N_5": {
+    "korean": "정밀 저격 지시 : 적중 {0}%",
+    "english": "Precision Sniper Command : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_HongRyun_N_5": {
+    "korean": "정밀 저격 지시 : 치명타 {0}%",
+    "english": "Precision Sniper Command : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_BR_HongRyun_N_5": {
+    "korean": "정밀 저격 지시 : 방어 관통 {0}%",
+    "english": "Precision Sniper Command : DEF Penetration {0}%"
+  },
+  "BuffDesc5_Effect_BR_HongRyun_N_5": {
+    "korean": "오퍼레이션 몽구스 : 사거리 {0}",
+    "english": "Operation Mongoose : Range {0}"
+  },
+  "BuffDesc1_Effect_BR_HongRyun_N_52": {
+    "korean": "오퍼레이션 몽구스 : 사거리 {0}",
+    "english": "Operation Mongoose : Range {0}"
+  }
+}

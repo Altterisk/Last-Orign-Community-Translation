@@ -1,0 +1,150 @@
+{
+  "SkillName_Skill_BR_Cheona_N_1": {
+    "korean": "단검 투척",
+    "english": "Dagger Throw"
+  },
+  "SkillDesc_Skill_BR_Cheona_N_1": {
+    "korean": "대상에게 {0} 피해를 줍니다. 치명타 시, 대상의 반격 효과를 해제합니다.",
+    "english": "Deals {0} damage to the target. On CRIT, removes the target's Counter Attack effect."
+  },
+  "SkillDescSimple_Skill_BR_Cheona_N_1": {
+    "korean": "{0} 피해. 치명타 시, 반격 효과 해제",
+    "english": "{0} damage. On CRIT, Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_BR_Cheona_N_1": {
+    "korean": "단검 투척 : 반격 효과 해제",
+    "english": "Dagger Throw : Counter Attack Effect Removal"
+  },
+  "BuffDesc1_Effect_BR_Cheona_N_11": {
+    "korean": "쌍두사 : [뱀 송곳니] 협동공격",
+    "english": "Twin Heads: [Serpent Fang] Cooperative Attack"
+  },
+  "SkillName_Skill_BR_Cheona_N_2": {
+    "korean": "뱀 송곳니",
+    "english": "Serpent Fang"
+  },
+  "SkillDesc_Skill_BR_Cheona_N_2": {
+    "korean": "대상에게 {0} 피해를 줍니다. 치명타 시, 대상의 피해 감소 효과를 해제합니다.",
+    "english": "Deals {0} damage to the target. On CRIT, removes the target's DMG Reduction effect."
+  },
+  "SkillDescSimple_Skill_BR_Cheona_N_2": {
+    "korean": "{0} 피해. 치명타 시, 피해 감소 효과 해제",
+    "english": "{0} damage. On CRIT, DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_BR_Cheona_N_2": {
+    "korean": "뱀 송곳니 : 피해 감소 효과 해제",
+    "english": "Serpent Fang : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_BR_Cheona_N_21": {
+    "korean": "쌍두사 : [단검 투척] 협동공격",
+    "english": "Twin Heads: [Dagger Throw] Cooperative Attack"
+  },
+  "SkillName_Skill_BR_Cheona_N_3": {
+    "korean": "은밀 행동",
+    "english": "Stealth Action"
+  },
+  "SkillDesc_Skill_BR_Cheona_N_3": {
+    "korean": "라운드 개시 시, 공격력 / 적중이 증가합니다. 인접한 아군이 없을 경우, 재공격 효과를 얻고 최대 행동 횟수가 1회 증가합니다. 스쿼드에 자신을 제외한 <엠프레시스 하운드> 소속 전투원이 있는 경우, 보호 무시 효과를 얻습니다.",
+    "english": "At the start of the round, ATK / ACC increase. If no adjacent allies, gain Reattack and +1 Max Action. If another <Empress Hound> unit is in the squad (excluding self), gain Ignore Protection."
+  },
+  "SkillDescSimple_Skill_BR_Cheona_N_3": {
+    "korean": "공격력 / 적중 증가. 최대 행동 횟수 증가 / 재공격 / 보호 무시",
+    "english": "ATK/ACC increase. Max Action increase / Reattack / Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Cheona_N_3": {
+    "korean": "은밀 행동 : 공격력{0}%",
+    "english": "Stealth Action : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Cheona_N_3": {
+    "korean": "은밀 행동 : 적중{0}%",
+    "english": "Stealth Action : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Cheona_N_3": {
+    "korean": "은밀 행동 : 재공격 (조건부)",
+    "english": "Stealth Action : Reattack (Conditional)"
+  },
+  "BuffDesc4_Effect_BR_Cheona_N_3": {
+    "korean": "은밀 행동 : 최대 행동 횟수{0} (조건부)",
+    "english": "Stealth Action : Max Action {0} (Conditional)"
+  },
+  "BuffDesc5_Effect_BR_Cheona_N_3": {
+    "korean": "은밀 행동 : 보호 무시 활성화 (조건부)",
+    "english": "Stealth Action: Activate Ignore Protection (Conditional)"
+  },
+  "BuffDesc1_Effect_BR_Cheona_N_31": {
+    "korean": "은밀 행동 : 재공격",
+    "english": "Stealth Action : Reattack"
+  },
+  "BuffDesc2_Effect_BR_Cheona_N_31": {
+    "korean": "은밀 행동 : 최대 행동 횟수{0}",
+    "english": "Stealth Action : Max Action {0}"
+  },
+  "BuffDesc1_Effect_BR_Cheona_N_32": {
+    "korean": "은밀 행동 : 보호 무시 활성화",
+    "english": "Stealth Action : Activate Ignore Protection"
+  },
+  "SkillName_Skill_BR_Cheona_N_4": {
+    "korean": "쌍두사",
+    "english": "Twin Heads"
+  },
+  "SkillDesc_Skill_BR_Cheona_N_4": {
+    "korean": "홀수 라운드일 경우, <단검 투척> 스킬 사용 시 대상에게 <뱀 송곳니> 스킬 협동 공격을 합니다. 짝수 라운드일 경우, <뱀 송곳니> 스킬 사용 시 대상에게 <단검 투척> 스킬 협동 공격을 합니다.",
+    "english": "On odd rounds, when <Dagger Throw> is used, performs a [Serpent Fang] Cooperative Attack on the target. On even rounds, when <Serpent Fang> is used, performs a [Dagger Throw] Cooperative Attack on the target."
+  },
+  "SkillDescSimple_Skill_BR_Cheona_N_4": {
+    "korean": "1스킬 사용 시 2스킬 협동 공격 / 2스킬 사용 시 1스킬 협동 공격",
+    "english": "When using Skill 1, performs a Cooperative Attack with Skill 2. When using Skill 2, performs a Cooperative Attack with Skill 1."
+  },
+  "BuffDesc1_Effect_BR_Cheona_N_4": {
+    "korean": "쌍두사 : [뱀 송곳니] 협동공격",
+    "english": "Twin Heads: [Serpent Fang] Cooperative Attack"
+  },
+  "BuffDesc2_Effect_BR_Cheona_N_4": {
+    "korean": "쌍두사 : [단검 투척] 협동공격",
+    "english": "Twin Heads: [Dagger Throw] Cooperative Attack"
+  },
+  "SkillName_Skill_BR_Cheona_N_5": {
+    "korean": "따뜻해서 좋네~",
+    "english": "So Warm~"
+  },
+  "SkillDesc_Skill_BR_Cheona_N_5": {
+    "korean": "라운드 개시 시, 공격력 / 방어 관통 / 행동력이 증가합니다. 아군에 의한 냉기 저항 증가 효과를 받고 있는 경우, <따뜻해서 좋네~> 효과가 2배로 적용됩니다.",
+    "english": "At the start of the round, ATK / DEF Penetration / SPD increase. If receiving an Ice Resist increase from an ally, the <So Warm~> effect is applied at double strength."
+  },
+  "SkillDescSimple_Skill_BR_Cheona_N_5": {
+    "korean": "공격력 / 방어 관통 / 행동력 증가",
+    "english": "ATK/DEF Penetration/SPD increase"
+  },
+  "BuffDesc1_Effect_BR_Cheona_N_5": {
+    "korean": "따뜻해서 좋네~ : 공격력{0}%",
+    "english": "So Warm~ : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Cheona_N_5": {
+    "korean": "따뜻해서 좋네~ : 방어 관통{0}%",
+    "english": "So Warm~ : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_BR_Cheona_N_5": {
+    "korean": "따뜻해서 좋네~ : 행동력{0}%",
+    "english": "So Warm~ : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Cheona_N_51": {
+    "korean": "따뜻해서 좋네~ : 공격력{0}%",
+    "english": "So Warm~ : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Cheona_N_51": {
+    "korean": "따뜻해서 좋네~ : 방어 관통{0}%",
+    "english": "So Warm~ : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_BR_Cheona_N_51": {
+    "korean": "따뜻해서 좋네~ : 행동력{0}%",
+    "english": "So Warm~ : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Cheona_N_52": {
+    "korean": "따뜻해... : 공격력{0}%",
+    "english": "Warm... : Attack Power {0}%"
+  },
+  "BuffDesc2_Effect_BR_Cheona_N_52": {
+    "korean": "따뜻해... : 행동력{0}%",
+    "english": "So Warm...: SPD {0}%"
+  }
+}

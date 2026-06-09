@@ -1,0 +1,170 @@
+{
+  "SkillName_Skill_3P_Satgat_N_1": {
+    "korean": "월영검",
+    "english": "Moonshadow Blade"
+  },
+  "SkillDesc_Skill_3P_Satgat_N_1": {
+    "korean": "초진동 블레이드로 단일 대상에게 {0} 피해를 줍니다.&n치명타 시, 대상에게 2라운드 동안 방어력 감소 / 지속 물리 피해 효과를 부여합니다.&n공격 지원 / 재공격 시, 방어력 감소 효과가 적용된 모든 적에게 추가로 지속 물리 피해 효과를 부여합니다.",
+    "english": "Deals {0} damage to a single target with a High-Frequency Blade.\nOn a critical hit, applies Defense Down and Physical DoT DMG for 2 rounds.\nWhen performing Follow-Up Attack or Reattack, additionally applies Physical DoT DMG to all enemies affected by Defense Down."
+  },
+  "SkillDescSimple_Skill_3P_Satgat_N_1": {
+    "korean": "단일 대상 {0} 피해. 치명타 시, 방어력 감소 / 지속 물리 피해. 조건부 추가 지속 물리 피해.",
+    "english": "Deals {0} damage to a single target.\nOn critical hit, applies Defense Down and Physical DoT DMG.\nApplies conditional additional Physical DoT DMG."
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_1": {
+    "korean": "월영검 : 방어력 {0}%",
+    "english": "Moonshadow Blade : DEF {0}%"
+  },
+  "BuffDesc2_Effect_3P_Satgat_N_1": {
+    "korean": "월영검 : 지속 물리 피해 {0}",
+    "english": "Moonshadow Blade : Physical DoT DMG {0}"
+  },
+  "SkillName_Skill_3P_Satgat_N_2": {
+    "korean": "절명오의 : 고자과학",
+    "english": "Fatal Secret Technique: High-Frequency Science"
+  },
+  "SkillDesc_Skill_3P_Satgat_N_2": {
+    "korean": "적이 스스로 베인 것조차 모르도록 찰나의 순간을 베어냅니다.&n적중 시, 대상에게 1라운드 동안 스킬 사용 불가 / 지속 물리 피해 효과를 부여합니다.&n자신에게 <현월지세> 효과가 적용중인 경우, 지속 물리 피해 효과가 증폭되며 효과 저항을 무시합니다.",
+    "english": "Slices through a fleeting moment so swiftly the enemy doesn’t even realize they’ve been cut.\nOn hit, inflicts Silenced and Physical DoT DMG on the target for 1 round.\nIf the <Brilliant Moon Stance> effect is active on the user, the Physical DoT DMG is amplified and ignores Status Resist."
+  },
+  "SkillDescSimple_Skill_3P_Satgat_N_2": {
+    "korean": "적중 대상 스킬 사용 불가 / 지속 물리 피해. 조건부 추가 지속 물리 피해.",
+    "english": "Silences the target and deals Physical DoT DMG.\nConditional additional Physical DoT DMG."
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_2": {
+    "korean": "고자과학 : 스킬 사용 불가",
+    "english": "Goja Science: Silenced"
+  },
+  "BuffDesc2_Effect_3P_Satgat_N_2": {
+    "korean": "고자과학 : 지속 물리 피해 {0}",
+    "english": "Goja Science: Physical DoT DMG {0}"
+  },
+  "BuffDesc3_Effect_3P_Satgat_N_2": {
+    "korean": "고자과학 : 지속 물리 피해 {0} (증폭)",
+    "english": "Goja Science: Physical DoT DMG {0} (Amplify)"
+  },
+  "SkillName_Skill_3P_Satgat_N_3": {
+    "korean": "소식영허지세",
+    "english": "Graceful Void Stance"
+  },
+  "SkillDesc_Skill_3P_Satgat_N_3": {
+    "korean": "공격 적중 시, 2라운드 동안 자신의 공격력 / 치명타가 증가합니다.&n적 사망 시, 3라운드 동안 자신의 공격력 / 적중이 증가합니다.&n상기 효과 중 하나 이상을 보유한 상태에서 대기 시, 2라운드 동안 보호 무시가 활성화되고 사거리가 3 증가합니다.",
+    "english": "On a successful hit, increases own ATK and CRIT for 2 rounds.\nWhen an enemy is defeated, increases own ATK and ACC for 3 rounds.\nIf at least one of the above effects is active while waiting, Ignore Protection is active and range is increased by 3 for 2 rounds."
+  },
+  "SkillDescSimple_Skill_3P_Satgat_N_3": {
+    "korean": "공격 적중 시, 자신 공격력 / 치명타 증가. 적 사망 시, 자신 공격력 / 적중 증가.",
+    "english": "On a successful hit, increases own ATK and CRIT.\nWhen an enemy is defeated, increases own ATK and ACC."
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_3": {
+    "korean": "여월지항 : 공격력 {0}% (적중 시)",
+    "english": "Lunar Glide : ATK {0}% (On Hit)"
+  },
+  "BuffDesc2_Effect_3P_Satgat_N_3": {
+    "korean": "여월지항 : 치명타 {0}% (적중 시)",
+    "english": "Moonlit Voyage : CRIT {0}% (On Hit)"
+  },
+  "BuffDesc3_Effect_3P_Satgat_N_3": {
+    "korean": "월영즉식 : 공격력 {0}% (적 사망 시)",
+    "english": "Moonlight Consumption : ATK {0}% (On Enemy Death)"
+  },
+  "BuffDesc4_Effect_3P_Satgat_N_3": {
+    "korean": "월영즉식 : 적중 {0}% (적 사망 시)",
+    "english": "Moon Shadow Instant Strike : ACC {0}% (On Enemy Death)"
+  },
+  "BuffDesc5_Effect_3P_Satgat_N_3": {
+    "korean": "현월지세 : 보호 무시 활성화 / 사거리 {0}",
+    "english": "Crescent Moon Stance: Activate Ignore Protection / Range {0}"
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_31": {
+    "korean": "월영즉식 : 공격력 {0}% (적 사망 시)",
+    "english": "Moon Shadow Feast : ATK {0}% (On Enemy Death)"
+  },
+  "BuffDesc2_Effect_3P_Satgat_N_31": {
+    "korean": "월영즉식 : 적중 {0}% (적 사망 시)",
+    "english": "Moon Shadow Feast : ACC {0}% (On Enemy Death)"
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_32": {
+    "korean": "현월지세 : 보호 무시 활성화",
+    "english": "Power of the Crescent Moon : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_33": {
+    "korean": "현월지세 : 사거리 {0}",
+    "english": "Power of the Crescent Moon : Range {0}"
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_34": {
+    "korean": "월영검 : 지속 물리 피해 {0}",
+    "english": "Moon Shadow Blade : Physical DoT DMG {0}"
+  },
+  "SkillName_Skill_3P_Satgat_N_4": {
+    "korean": "현하지변",
+    "english": "Everlasting Current"
+  },
+  "SkillDesc_Skill_3P_Satgat_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군을 <짝>으로 지정합니다. <짝>이 AGS인 경우, 대상의 공격을 지원합니다.&n라운드 개시 시, <짝>의 역할군에 따라 <짝>은 다음 효과를 획득합니다. <짝>이 바이오로이드인 경우, 효과가 50% 감소합니다.&n- 공격기 : 공격력 증가 / 보호기 : 방어막 / 지원기 : 행동력 증가",
+    "english": "At the start of the round, designates an ally within range as a <Partner>.\nIf the <Partner> is an AGS unit, their attacks are supported.\nAt the start of the round, the <Partner> gains an effect based on their role group. If the <Partner> is a Bioroid, the effect is reduced by 50%.\n- Attacker: ATK Up\n- Defender: Barrier\n- Supporter: SPD Up"
+  },
+  "SkillDescSimple_Skill_3P_Satgat_N_4": {
+    "korean": "범위 내 아군 <짝> 지정. 조건부 <짝> 공격 지원 / 강화 효과 부여.",
+    "english": "Designates an ally within range as a <Partner>.\nGrants conditional Follow-Up Attack and Buff to the <Partner>."
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_4": {
+    "korean": "짝 : 공격력 {0}% (공격기)",
+    "english": "Pair : ATK {0}% (Attacker)"
+  },
+  "BuffDesc2_Effect_3P_Satgat_N_4": {
+    "korean": "짝 : 방어막 {0} (보호기)",
+    "english": "Partner: Barrier {0} (Defender)"
+  },
+  "BuffDesc3_Effect_3P_Satgat_N_4": {
+    "korean": "짝 : 행동력 {0}% (지원기)",
+    "english": "Pair : SPD {0}% (Supporter)"
+  },
+  "BuffDesc4_Effect_3P_Satgat_N_4": {
+    "korean": "현하지변 : 공격 지원 (AGS)",
+    "english": "Everlasting Current : Follow-Up Attack (AGS)"
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_41": {
+    "korean": "짝 : 방어막 {0} (보호기)",
+    "english": "Pair : Barrier {0} (Defender)"
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_42": {
+    "korean": "짝 : 행동력 {0}% (지원기)",
+    "english": "Pair : SPD {0}% (Supporter)"
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_46": {
+    "korean": "고분지탄 : 공격력 {0}",
+    "english": "Gobunjitan: ATK {0}"
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_47": {
+    "korean": "색즉시공 공즉시색 : 공격력 {0}",
+    "english": "Form Is Emptiness, Emptiness Is Form: ATK {0}"
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_48": {
+    "korean": "현하지변 : 공격 지원 (AGS)",
+    "english": "Everlasting Current : Follow-Up Attack (AGS)"
+  },
+  "SkillName_Skill_3P_Satgat_N_5": {
+    "korean": "소요유",
+    "english": "Free Roaming"
+  },
+  "SkillDesc_Skill_3P_Satgat_N_5": {
+    "korean": "전투 개시 시, 자신은 재공격 일반 효과를 획득합니다.&n<현하지변>에 의한 <짝> 지정이 자신 또는 상대의 위치가 변경되어도 영구히 유지되며, <짝>을 여럿 거느릴 수 있습니다.&n이동 시, 자신과 <짝>의 AP가 증가합니다.&n<소식영허지세>의 공격력 / 치명타 / 적중 증가 효과를 <짝>에게도 부여합니다. 스킬 효과는 <소요유> 스킬 레벨에 비례합니다.",
+    "english": "At the start of battle, you gain the standard Reattack Normal Effect.\n<Everlasting Current>-designated <Partner>s remain permanently linked even if either party changes position, and multiple <Partner>s can be maintained.\nWhen moving, both you and your <Partner>s gain increased AP.\nThe ATK / CRIT / ACC increase effects of <Graceful Void Stance> are also granted to <Partner>s. Skill effects scale with the level of the <Free Roaming> skill."
+  },
+  "SkillDescSimple_Skill_3P_Satgat_N_5": {
+    "korean": "재공격 획득. <소식영허지세> / <현하지변> 효과 강화.",
+    "english": "Gains Reattack.\nEnhances the effects of <Graceful Void Stance> and <Everlasting Current>."
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_5": {
+    "korean": "소요유 : 재공격",
+    "english": "Free Roaming : Reattack"
+  },
+  "BuffDesc2_Effect_3P_Satgat_N_5": {
+    "korean": "산려소요 : AP {0}",
+    "english": "Mountain Wander: AP {0}"
+  },
+  "BuffDesc1_Effect_3P_Satgat_N_51": {
+    "korean": "산려소요 : AP {0}",
+    "english": "Sanryeosoyo: AP {0}"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "1002707978": {
+    "korean": "대화수단",
+    "english": "Means of Communication"
+  },
+  "1002707983": {
+    "korean": "단일 대상 {0} 전기 속성 피해를 입히고 AP를 감소시키며 2라운드 동안 전기 저항을 감소시킵니다. 공격 적중 시, 자신은 [충전]상태가 됩니다.",
+    "english": "Deals {0} Electric attribute damage to a single target, reduces AP, and reduces Electric Resist for 2 rounds. When the attack hits, the user gains [Charged] state."
+  },
+  "1002707988": {
+    "korean": "{0} 전기 속성 피해 / 전기 저항 감소 / AP 감소 / 자신 충전",
+    "english": "{0} Electric attribute damage / Electric Resist reduction / AP reduction / Self [Charged]"
+  },
+  "1000110333": {
+    "korean": "대화수단 : 전기 저항{0}%",
+    "english": "Means of Communication : Electric Resist {0}%"
+  },
+  "1000110345": {
+    "korean": "대화수단 : AP{0}",
+    "english": "Means of Communication : AP {0}"
+  },
+  "1000110349": {
+    "korean": "대화수단 : 충전",
+    "english": "Means of Communication: Charge"
+  },
+  "1000110338": {
+    "korean": "충전",
+    "english": "Charge"
+  },
+  "1002707979": {
+    "korean": "펄스 임펙트",
+    "english": "Pulse Impact"
+  },
+  "1002707984": {
+    "korean": "범위 내 대상 보호 무시 {0} 전기 속성 피해를 입히고 AP를 감소시키며 2라운드 동안 전기 저항을 감소시킵니다. 자신은 2라운드 동안 지속 전기 속성 피해를 받으면서 공격 적중 시, [충전]상태가 됩니다. (지속 전기 속성 피해는 전기 저항을 높여 피해를 줄일 수 있습니다.)",
+    "english": "Ignores Target Protect of targets within range, deals {0} Electric attribute damage, reduces AP, and reduces Electric Resist for 2 rounds. The user takes continuous Electric attribute damage for 2 rounds and gains [Charged] state when the attack hits. (The continuous Electric attribute damage can be mitigated by increasing Electric Resist.)"
+  },
+  "1002707989": {
+    "korean": "보호 무시 {0} 전기 속성 피해 / 전기 저항 감소 / AP 감소 / 자신 충전 / 자신 지속 전기 속성 피해",
+    "english": "Ignores Target Protect {0} Electric attribute damage / Electric Resist reduction / AP reduction / Self [Charged] / Self continuous Electric attribute damage"
+  },
+  "1000110334": {
+    "korean": "펄스 임펙트 : 전기 저항{0}%",
+    "english": "Pulse Impact : Electric Resist {0}%"
+  },
+  "1000110346": {
+    "korean": "펄스 임펙트 : AP{0}",
+    "english": "Pulse Impact : AP {0}"
+  },
+  "1000110339": {
+    "korean": "펄스 임펙트 : 충전",
+    "english": "Pulse Impact: Charge"
+  },
+  "1000110351": {
+    "korean": "펄스 임펙트 : 지속 전기 속성 피해 {0} (자신)",
+    "english": "Pulse Impact: continuous Electric attribute damage {0} (Self)"
+  },
+  "1002707980": {
+    "korean": "타고난 육체",
+    "english": "Natural Body"
+  },
+  "1002707985": {
+    "korean": "라운드 개시 시, 자신의 전기 저항 / 공격력 / 행동력이 증가합니다.",
+    "english": "At the start of the round, increases user's Electric Resist, ATK, and SPD."
+  },
+  "1002707990": {
+    "korean": "전기 저항 증가 / 공격력 증가 / 행동력 증가",
+    "english": "Electric Resist increase / ATK increase / SPD increase"
+  },
+  "1000110335": {
+    "korean": "타고난 육체 : 전기 저항{0}%",
+    "english": "Natural Body : Electric Resist {0}%"
+  },
+  "1000110353": {
+    "korean": "타고난 육체 : 공격력{0}%",
+    "english": "Natural Body : ATK {0}%"
+  },
+  "1000110354": {
+    "korean": "타고난 육체 : 행동력{0}%",
+    "english": "Natural Body : SPD {0}%"
+  },
+  "1002707981": {
+    "korean": "전자기방출",
+    "english": "Electromagnetic Emission"
+  },
+  "1002707986": {
+    "korean": "공격 적중 시, 자신의 [충전]상태의 중첩 횟수에 따라 적군 전체에게 지속 전기 속성 피해 효과를 적용시킵니다.&n[충전] 2중첩 이상부터 7중첩 이상까지 지속 전기 속성 피해는 단계별로 증가합니다.",
+    "english": "When the attack hits, applies continuous Electric attribute damage to all enemies based on the number of [Charged] stacks. From 2 stacks up to 7 stacks or more, the continuous Electric attribute damage increases in stages."
+  },
+  "1002707991": {
+    "korean": "적 전체 지속 전기 속성 피해 (충전 2중첩 이상)",
+    "english": "Continuous Electric attribute damage to all enemies (with 2 or more [Charged] stacks)"
+  },
+  "1000110336": {
+    "korean": "전자기방출 : 지속 전기 속성 피해 {0} (충전2이상)",
+    "english": "Electromagnetic Emission: continuous Electric attribute damage {0} (2+ Charges)"
+  },
+  "1000110357": {
+    "korean": "전자기방출 : 지속 전기 속성 피해 {0}씩 증가 (충전3-7)",
+    "english": "Electromagnetic Emission: continuous Electric attribute damage increases by {0} per stack (3–7 Charges)"
+  },
+  "1000110340": {
+    "korean": "전자기방출 : 지속 전기 속성 피해 {0} (충전3이상)",
+    "english": "Electromagnetic Emission: continuous Electric attribute damage {0} (Charge ≥3)"
+  },
+  "1000110341": {
+    "korean": "전자기방출 : 지속 전기 속성 피해 {0} (충전4이상)",
+    "english": "Electromagnetic Emission: continuous Electric attribute damage {0} (Charge ≥4)"
+  },
+  "1000110342": {
+    "korean": "전자기방출 : 지속 전기 속성 피해 {0} (충전5이상)",
+    "english": "Electromagnetic Emission: continuous Electric attribute damage {0} (Charge ≥5)"
+  },
+  "1000110343": {
+    "korean": "전자기방출 : 지속 전기 속성 피해 {0} (충전6이상)",
+    "english": "Electromagnetic Emission: continuous Electric attribute damage {0} (Charge ≥6)"
+  },
+  "1000110352": {
+    "korean": "전자기방출 : 지속 전기 속성 피해 {0} (충전7이상)",
+    "english": "Electromagnetic Emission: continuous Electric attribute damage {0} (Charge ≥7)"
+  },
+  "1002707982": {
+    "korean": "추리의 대가",
+    "english": "Master of Deduction"
+  },
+  "1002707987": {
+    "korean": "라운드 개시 시, 아군의 적중 / 치명타를 감소시키는 대신 적들의 받는 피해량을 증가시킵니다.",
+    "english": "At the start of the round, reduces allies' ACC and CRIT, but increases enemies' DMG Taken."
+  },
+  "1002707992": {
+    "korean": "아군 적중 / 치명타 감소 / 적군 받는 피해 증가",
+    "english": "Ally ACC / CRIT decrease / Enemy DMG Taken increase"
+  },
+  "1000110337": {
+    "korean": "추리의 대가 : 적중{0}%",
+    "english": "Master of Deduction : ACC {0}%"
+  },
+  "1000110347": {
+    "korean": "추리의 대가 : 치명타{0}%",
+    "english": "Master of Deduction : CRIT {0}%"
+  },
+  "1000110350": {
+    "korean": "추리의 대가 : 받는 피해{0}% (적군)",
+    "english": "Master of Deduction : DMG Taken {0}% (Enemy)"
+  },
+  "1000110344": {
+    "korean": "추리의 대가 : 적중{0}%",
+    "english": "Master of Deduction : ACC {0}%"
+  }
+}

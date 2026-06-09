@@ -1,0 +1,294 @@
+{
+  "SkillName_Skill_BR_RedHood_N_1": {
+    "korean": "4연장 기관포",
+    "english": "Quadruple Cannon"
+  },
+  "SkillDesc_Skill_BR_RedHood_N_1": {
+    "korean": "대상에게 {0} 피해를 주고, 2라운드 동안 대상의 공격력 / 치명타를 낮춥니다. 방어력 / 회피 감소 대상에게 피해량이 증가합니다.&n스쿼드 내에 <M-5 이프리트>가 있을 시, 지정 타겟 대상으로 <곡사 포격> 스킬 협동 공격을 합니다.",
+    "english": "Deals {0} damage to the target and reduces the target's ATK / CRIT for 2 rounds.&nIncreases damage dealt to targets with reduced DEF / EVA.&nIf a <M-5 Efreet> is in the squad, performs a coordinated attack with the <Arcing Barrage> skill on the designated target."
+  },
+  "SkillDescSimple_Skill_BR_RedHood_N_1": {
+    "korean": "단일 대상 {0} 피해. 공격력 / 치명타 감소. 방어력 / 회피 감소 대상 피해량 증가. [곡사 포격] 협동 공격.",
+    "english": "Single target {0} damage. Reduces ATK / CRIT.&nIncreases damage dealt to targets with reduced DEF / EVA.&nCoordinated attack with [Arcing Barrage]."
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_1": {
+    "korean": "4연장 기관포 : 공격력 {0}%",
+    "english": "Quadruple Cannon : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_RedHood_N_1": {
+    "korean": "4연장 기관포 : 치명타 {0}%",
+    "english": "Quadruple Cannon : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_RedHood_N_1": {
+    "korean": "집중 공격 : 피해량 {0}%",
+    "english": "Focused Attack : Additional DMG {0}%"
+  },
+  "BuffDesc4_Effect_BR_RedHood_N_1": {
+    "korean": "C4I : [곡사 포격] 협동 공격",
+    "english": "C4I : Arcing Barrage Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_11": {
+    "korean": "집중 공격 : 피해량 {0}%",
+    "english": "Focused Attack : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_19": {
+    "korean": "C4I : [곡사 포격] 협동 공격",
+    "english": "C4I : Arcing Barrage Cooperative Attack"
+  },
+  "SkillName_Skill_BR_RedHood_N_2": {
+    "korean": "나를 따르라!",
+    "english": "Follow Me!"
+  },
+  "SkillDesc_Skill_BR_RedHood_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 화염 속성 피해를 주고, 3라운드 동안 지속 화염 피해를 입는 점화 상태로 만듭니다. &n적중 시, 대상에게 3라운드 동안 표식을 부여합니다.&n치명타 시, 피해량이 증가합니다.",
+    "english": "Deals {0} Fire damage that ignores protection to the designated area and applies Ignited for 3 rounds, dealing Fire DoT DMG.&nOn hit, applies Mark for 3 rounds.&nDamage is increased on critical hit."
+  },
+  "SkillDescSimple_Skill_BR_RedHood_N_2": {
+    "korean": "지정 범위 {0} 화염 속성 피해. 표식 / 점화 효과. 치명타 시, 피해량 증가",
+    "english": "{0} Fire damage to the designated area.&nApplies Mark and Ignited.&nDamage is increased on critical hit."
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_2": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_RedHood_N_2": {
+    "korean": "점화 : 지속 화염 피해 {0}",
+    "english": "Ignited : Fire DoT DMG {0}"
+  },
+  "BuffDesc3_Effect_BR_RedHood_N_2": {
+    "korean": "나를 따르라! : 표식",
+    "english": "Follow Me! : Marked"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_18": {
+    "korean": "점화 : 지속 화염 피해 {0}",
+    "english": "Ignited : Fire DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_BR_RedHood_N_18": {
+    "korean": "나를 따르라! : 표식",
+    "english": "Follow Me! : Marked"
+  },
+  "SkillName_Skill_BR_RedHood_N_3": {
+    "korean": "물러서지마라!",
+    "english": "Hold the Line!"
+  },
+  "SkillDesc_Skill_BR_RedHood_N_3": {
+    "korean": "라운드 개시 시, 아군 전체의 행동력을 증가시킵니다. 대상이 전열에 위치하거나, 스틸라인 계열 전투원인 경우 추가로 공격력 / 효과 저항을 증가시킵니다.&n스쿼드 내 스틸라인 계열 전투원에게 해로운 뒤로 밀기 효과 면역 효과를 부여합니다.&n대기 시, 대상의 HP가 25% 이상이면 고정 피해를 입히며 AP를 증가시킵니다. 자신 사망 시, 고정 피해 없이 AP 증가 효과의 2배가 대상들에게 적용됩니다.",
+    "english": "At the start of the round, increases SPD for all allies.&nIf the target is in the frontline or is a Steel Line unit, additionally increases ATK and Status Resist.&nGrants immunity to Push Back effects to Steel Line units in the squad.&nWhen on Standby, if the target’s HP is above 25%, deals Fixed DMG and increases their SPD.&nIf the user dies, applies double the SPD increase effect to targets without dealing Fixed DMG."
+  },
+  "SkillDescSimple_Skill_BR_RedHood_N_3": {
+    "korean": "아군 공격력 / 효과 저항 / 행동력 증가. 대기 시, HP 25% 이상 대상이면 고정 피해 / AP 증가",
+    "english": "Increases allies' ATK, Status Resist, and SPD. When on Standby, if the target's HP is above 25%, deals Fixed DMG and increases their AP."
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_3": {
+    "korean": "물러서지마라! : 행동력 {0}%",
+    "english": "Hold the Line! : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_RedHood_N_3": {
+    "korean": "물러서지마라! : 공격력 {0}%",
+    "english": "Hold the Line! : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_RedHood_N_3": {
+    "korean": "물러서지마라! : 효과 저항 {0}%",
+    "english": "Hold the Line! : Status Resist {0}%"
+  },
+  "BuffDesc4_Effect_BR_RedHood_N_3": {
+    "korean": "어서 돌격해! : {0} 고정 피해",
+    "english": "Charge Now! : {0} Fixed DMG"
+  },
+  "BuffDesc5_Effect_BR_RedHood_N_3": {
+    "korean": "어서 돌격해! : AP {0}",
+    "english": "Charge Now! : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_12": {
+    "korean": "어서 돌격해! : {0} 고정 피해",
+    "english": "Charge Now! : {0} Fixed DMG"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_13": {
+    "korean": "뒤는 맡긴다… : AP {0}",
+    "english": "I'll Cover the Rear… : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_17": {
+    "korean": "어서 돌격해! : AP {0}",
+    "english": "Charge Now! : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_31": {
+    "korean": "물러서지마라! : 공격력 {0}%",
+    "english": "Hold the Line! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_RedHood_N_31": {
+    "korean": "물러서지마라! : 효과 저항 {0}%",
+    "english": "Hold the Line! : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_32": {
+    "korean": "물러서지마라! : 공격력 {0}%",
+    "english": "Hold the Line! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_RedHood_N_32": {
+    "korean": "물러서지마라! : 효과 저항 {0}%",
+    "english": "Hold the Line! : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_33": {
+    "korean": "물러서지마라! : 뒤로 밀기 면역",
+    "english": "Hold the Line! : Push Back Immunity"
+  },
+  "SkillName_Skill_BR_RedHood_N_4": {
+    "korean": "후퇴는 없다!",
+    "english": "No Retreat!"
+  },
+  "SkillDesc_Skill_BR_RedHood_N_4": {
+    "korean": "라운드 개시 시, 공격력 / 치명타 / 방어 관통이 증가하며 받는 피해가 감소합니다.&n스쿼드 내에 자신을 제외한 장교 계급 스틸라인 계열 전투원이 있을 경우 효과가 50% 증가합니다.&n스쿼드 내에 부사관 / 병사 계급 스틸라인 전투원이 있을 경우, 자신의 행동력이 증가합니다.",
+    "english": "At the start of the round, increases ATK, CRIT, and DEF Penetration, and reduces DMG Taken.&nIf there is another officer‑grade Steel Line unit in the squad (excluding self), the effect is increased by 50%.&nIf there are any non‑commissioned officer or soldier‑grade Steel Line units in the squad, increases own SPD."
+  },
+  "SkillDescSimple_Skill_BR_RedHood_N_4": {
+    "korean": "공격력 / 치명타 / 방어 관통 증가. 받는 피해 감소. 스쿼드 내에 특정 전투원이 있으면 추가 능력치 획득.",
+    "english": "Increases ATK, CRIT, and DEF Penetration. Reduces DMG Taken.&nGrants additional stats if certain units are in the squad."
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_4": {
+    "korean": "후퇴는 없다! : 공격력 {0}%",
+    "english": "No Retreat! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_RedHood_N_4": {
+    "korean": "후퇴는 없다! : 치명타 {0}%",
+    "english": "No Retreat! : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_RedHood_N_4": {
+    "korean": "후퇴는 없다! : 방어 관통 {0}%",
+    "english": "No Retreat! : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_BR_RedHood_N_4": {
+    "korean": "후퇴는 없다! : 받는 피해 {0}% 감소",
+    "english": "No Retreat! : DMG Reduction {0}%"
+  },
+  "BuffDesc5_Effect_BR_RedHood_N_4": {
+    "korean": "소리가 작다! : 행동력 {0}%",
+    "english": "Too Quiet! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_14": {
+    "korean": "승리! : 공격력 {0}%",
+    "english": "Victory! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_RedHood_N_14": {
+    "korean": "승리! : 치명타 {0}%",
+    "english": "Victory! : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_RedHood_N_14": {
+    "korean": "승리! : 방어 관통 {0}%",
+    "english": "Victory! : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_BR_RedHood_N_14": {
+    "korean": "승리! : 받는 피해 {0}% 감소",
+    "english": "Victory! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_15": {
+    "korean": "소리가 작다! : 행동력 {0}%",
+    "english": "Too Quiet! : SPD {0}%"
+  },
+  "SkillName_Skill_BR_RedHood_N_5": {
+    "korean": "최후의 한 명까지",
+    "english": "To the Last"
+  },
+  "SkillDesc_Skill_BR_RedHood_N_5": {
+    "korean": "전투 개시 시, 영구적으로 아군 전체의 공격력을 증가시킵니다. 해당 효과는 스쿼드 내 전투원 수에 따라 증폭됩니다. 자신은 효과가 2배로 적용됩니다.&n자신이 생존한 동안 전투 불능으로 인해 전투 개시 시점보다 아군 인원 수가 줄어들 때마다, 라운드 개시 시 아군 전체에게 다음 일반 효과를 부여합니다.&n1인 감소 : 행동력 증가 / 2인 감소 : 받는 피해 감소 / 3인 감소 : 반격 / 4인 감소 : 매 라운드 1회 전투 속행",
+    "english": "At the start of battle, permanently increases ATK for all allies. The effect scales with the number of units in the squad, and the user receives double the effect.&nAs long as the user remains alive, whenever the number of allies drops below the starting count due to incapacitation, the following general effects are granted to all allies at the start of each round:&n1 ally: Increases SPD / 2 allies: Reduces DMG Taken / 3 allies: Grants Counter Attack / 4 allies: Grants one Continue Battle per round."
+  },
+  "SkillDescSimple_Skill_BR_RedHood_N_5": {
+    "korean": "아군 공격력 증가. 아군 전투 불능 시 추가 효과 부여.",
+    "english": "Increases allies' ATK. Grants additional effects when allies are incapacitated."
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_5": {
+    "korean": "최후의 한 명까지 : 공격력 {0}% (1인)",
+    "english": "To the Last : ATK {0}% (1 Unit)"
+  },
+  "BuffDesc2_Effect_BR_RedHood_N_5": {
+    "korean": "행동력 {0}% (1인 감소)",
+    "english": "SPD {0}% (1 unit decrease)"
+  },
+  "BuffDesc3_Effect_BR_RedHood_N_5": {
+    "korean": "받는 피해 {0}% 감소 (2인 감소)",
+    "english": "DMG Reduction {0}% (2 unit decrease)"
+  },
+  "BuffDesc4_Effect_BR_RedHood_N_5": {
+    "korean": "{0}% 위력으로 반격 (3인 감소)",
+    "english": "Counter Attack : {0}% Power (3 unit decrease)"
+  },
+  "BuffDesc5_Effect_BR_RedHood_N_5": {
+    "korean": "{0} HP로 전투 속행 (4인 감소)",
+    "english": "Continue Battle : {0} HP (4 unit decrease)"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_51": {
+    "korean": "최후의 한 명까지 : 공격력 {0}% (2인)",
+    "english": "To the Last : ATK {0}% (2 Units)"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_52": {
+    "korean": "최후의 한 명까지 : 공격력 {0}% (3인)",
+    "english": "To the Last : ATK {0}% (3 Units)"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_53": {
+    "korean": "최후의 한 명까지 : 공격력 {0}% (4인)",
+    "english": "To the Last : ATK {0}% (4 Units)"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_54": {
+    "korean": "최후의 한 명까지 : 공격력 {0}% (5인)",
+    "english": "To the Last : ATK {0}% (5 Units)"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_55": {
+    "korean": "최후의 한 명까지 : 공격력 {0}% (1인)",
+    "english": "To the Last : ATK {0}% (1 Unit)"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_56": {
+    "korean": "최후의 한 명까지 : 공격력 {0}% (2인)",
+    "english": "To the Last : ATK {0}% (2 Units)"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_57": {
+    "korean": "최후의 한 명까지 : 공격력 {0}% (3인)",
+    "english": "To the Last : ATK {0}% (3 Units)"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_58": {
+    "korean": "최후의 한 명까지 : 공격력 {0}% (4인)",
+    "english": "To the Last : ATK {0}% (4 Units)"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_59": {
+    "korean": "최후의 한 명까지 : 공격력 {0}% (5인)",
+    "english": "To the Last : ATK {0}% (5 Units)"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_510": {
+    "korean": "최후의 한 명까지 : 행동력 {0}%",
+    "english": "To the Last : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_511": {
+    "korean": "최후의 한 명까지 : 행동력 {0}%",
+    "english": "To the Last : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_512": {
+    "korean": "최후의 한 명까지 : 행동력 {0}%",
+    "english": "To the Last : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_513": {
+    "korean": "최후의 한 명까지 : 행동력 {0}%",
+    "english": "To the Last : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_514": {
+    "korean": "최후의 한 명까지 : 받는 피해 {0}% 감소",
+    "english": "To the Last : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_515": {
+    "korean": "최후의 한 명까지 : 받는 피해 {0}% 감소",
+    "english": "To the Last : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_516": {
+    "korean": "최후의 한 명까지 : 받는 피해 {0}% 감소",
+    "english": "To the Last : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_517": {
+    "korean": "최후의 한 명까지 : {0}% 위력으로 반격",
+    "english": "To the Last : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_518": {
+    "korean": "최후의 한 명까지 : {0}% 위력으로 반격",
+    "english": "To the Last : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_BR_RedHood_N_519": {
+    "korean": "최후의 한 명까지 : {0} HP로 전투 속행",
+    "english": "To the Last : Battle Continuation with {0} HP"
+  }
+}

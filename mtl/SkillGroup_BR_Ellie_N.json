@@ -1,0 +1,190 @@
+{
+  "SkillName_Skill_BR_Ellie_N_1": {
+    "korean": "테이저 니들",
+    "english": "Taser Needle"
+  },
+  "SkillDesc_Skill_BR_Ellie_N_1": {
+    "korean": "{0} 보호 무시 전기 속성 피해를 주고, 대상을 마비시켜 2라운드 동안 이동 불가 상태를 부여합니다.&n적중 시, 대상의 AP를 감소시킵니다. 대상의 행동력이 자신보다 높을 경우 AP를 추가로 감소시킵니다.",
+    "english": "Deals {0} Ignore Protection electric attribute damage and Paralyzes the target, Rooting them for 2 rounds.&nOn hit, reduces the target’s AP. If the target’s SPD is higher than yours, reduces SPD further."
+  },
+  "SkillDescSimple_Skill_BR_Ellie_N_1": {
+    "korean": "{0} 보호 무시 전기 피해. 대상 이동 불가 / AP 감소.",
+    "english": "{0} Ignore Protection electric damage. Target Rooted / AP Reduction."
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_1": {
+    "korean": "테이저 니들 : AP {0}",
+    "english": "Taser Needle : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Ellie_N_1": {
+    "korean": "테이저 니들 : AP {0} (추가)",
+    "english": "Taser Needle : AP {0} (Additional)"
+  },
+  "BuffDesc3_Effect_BR_Ellie_N_1": {
+    "korean": "테이저 니들 : 이동 불가",
+    "english": "Taser Needle : Rooted"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_11": {
+    "korean": "테이저 니들 : AP {0} (추가)",
+    "english": "Taser Needle : AP {0} (Additional)"
+  },
+  "SkillName_Skill_BR_Ellie_N_2": {
+    "korean": "방호 모드",
+    "english": "Defense Mode"
+  },
+  "SkillDesc_Skill_BR_Ellie_N_2": {
+    "korean": "스킬 사용 시, 자신은 3라운드 동안 반격 / 피해 무효화(1회)를 획득합니다. &n스킬 사용 시, 아군에게 3라운드 동안 방어막을 부여하고 효과 저항을 증가시킵니다.",
+    "english": "When using the skill, you gain Counter Attack and one instance of Damage Nullification for 3 rounds.&nWhen using the skill, allies receive a Barrier and their Status Resist is increased for 3 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Ellie_N_2": {
+    "korean": "자신 반격 / 피해 무효화 1회. 아군 방어막 / 효과 저항 증가.",
+    "english": "Self Counter Attack / Damage Nullification (once). Allies Barrier / Status Resist increase."
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_2": {
+    "korean": "방호 모드 : {0}% 위력으로 반격",
+    "english": "Defense Mode : Counter Attack with {0} Power {0}%"
+  },
+  "BuffDesc2_Effect_BR_Ellie_N_2": {
+    "korean": "방호 모드 : 피해 무효화 {0}회",
+    "english": "Defense Mode : Damage Nullification {0}x"
+  },
+  "BuffDesc3_Effect_BR_Ellie_N_2": {
+    "korean": "방호 모드 : 방어막 {0}",
+    "english": "Defense Mode : Barrier {0}"
+  },
+  "BuffDesc4_Effect_BR_Ellie_N_2": {
+    "korean": "방호 모드 : 효과 저항 {0}% 증가",
+    "english": "Protection Mode: Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_21": {
+    "korean": "방호 모드 : 방어막 {0}",
+    "english": "Defense Mode : Barrier {0}"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_22": {
+    "korean": "방호 모드 : 효과 저항 {0}% 증가",
+    "english": "Defense Mode: Status Resist {0}% Increase"
+  },
+  "SkillName_Skill_BR_Ellie_N_3": {
+    "korean": "노블레스 오블리주",
+    "english": "Noblesse Oblige"
+  },
+  "SkillDesc_Skill_BR_Ellie_N_3": {
+    "korean": "라운드 개시 시, 열 보호가 활성화되고, 받는 피해 감소 일반 효과를 획득합니다.&n라운드 개시 시 자신이 받는 피해 감소 강화 효과가 적용된 경우, 해당 효과를 강화 해제 저항으로 전환합니다.&n라운드 개시 시 자신이 정찰 활성화 상태인 경우, 적중이 크게 증가합니다.",
+    "english": "At the start of the round, Column Protect is activated and you gain a Damage Reduction Normal Effect.&nIf at the start of the round you have a Damage Reduction enhancement effect, it is converted into resistance to enhancement removal.&nIf at the start of the round you are under Recon Effect, ACC is greatly increased."
+  },
+  "SkillDescSimple_Skill_BR_Ellie_N_3": {
+    "korean": "열 보호 / 받는 피해 감소. 조건부 강화 해제 저항 / 적중 증가.",
+    "english": "Column Protect / Damage Reduction. Conditional Buff Removal Resist / ACC increase."
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_3": {
+    "korean": "노블레스 오블리주 : 열 보호",
+    "english": "Noblesse Oblige : Column Protect"
+  },
+  "BuffDesc2_Effect_BR_Ellie_N_3": {
+    "korean": "노블레스 오블리주 : 받는 피해 {0}% 감소",
+    "english": "Noblesse Oblige : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_BR_Ellie_N_3": {
+    "korean": "노블레스 오블리주 : 강화 해제 저항 {0}%",
+    "english": "Noblesse Oblige : Buff Removal Resist {0}%"
+  },
+  "BuffDesc4_Effect_BR_Ellie_N_3": {
+    "korean": "노블레스 오블리주 : 적중 {0}%",
+    "english": "Noblesse Oblige : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_31": {
+    "korean": "노블레스 오블리주 : 받는 피해 {0}% 감소",
+    "english": "Noblesse Oblige : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_32": {
+    "korean": "노블레스 오블리주 : 강화 해제 저항 {0}%",
+    "english": "Noblesse Oblige : Buff Removal Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Ellie_N_32": {
+    "korean": "노블레스 오블리주 : 받는 피해 감소 해제",
+    "english": "Noblesse Oblige : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_33": {
+    "korean": "노블레스 오블리주 : 적중 {0}%",
+    "english": "Noblesse Oblige : ACC {0}%"
+  },
+  "SkillName_Skill_BR_Ellie_N_4": {
+    "korean": "편안한 티타임",
+    "english": "Comfortable Tea Time"
+  },
+  "SkillDesc_Skill_BR_Ellie_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군에게 광역 피해 분산 효과를 부여하고 보호기를 제외한 아군을 지정 보호합니다.&n<방호 모드> 사용 시, 다음 1회 피격 시까지 광역 피해 분산 효과가 두 배로 증폭됩니다.&n정찰 활성화 상태인 경우, 다음 2회 피격 시까지 증폭된 효과가 유지됩니다.&n피격 시, 티타임을 방해한 적을 단죄하기 위해 2라운드 동안 범위 내 아군의 공격력을 증가시킵니다. (최대 3중첩)",
+    "english": "At the start of the round, grants Area DMG Dispersion to allies within range and designates protection for allies excluding the Defender.&nWhen <Defense Mode> is used, the Area DMG Dispersion effect is doubled until the next hit received.&nIf Recon Effect is active, the amplified effect persists for the next two hits received.&nWhen hit, to punish enemies that disrupted tea time, increases allies' ATK within range for 2 rounds. (max 3 stacks)"
+  },
+  "SkillDescSimple_Skill_BR_Ellie_N_4": {
+    "korean": "광역 피해 분산. 피격 시 아군 공격력 증가.",
+    "english": "Area DMG Dispersion. When hit, increase allies' ATK."
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_4": {
+    "korean": "편안한 티타임 : 광역 피해 분산 {0}% (기본)",
+    "english": "Comfortable Tea Time : Area DMG Dispersion {0}% (Base)"
+  },
+  "BuffDesc2_Effect_BR_Ellie_N_4": {
+    "korean": "편안한 티타임 : 지정 보호 (공격기/지원기)",
+    "english": "Comfortable Tea Time : Designated protection (Attacker/Supporter)"
+  },
+  "BuffDesc3_Effect_BR_Ellie_N_4": {
+    "korean": "따끔한 단죄 : 공격력 {0}%",
+    "english": "Sharp Judgment : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_41": {
+    "korean": "편안한 티타임 : 지정 보호",
+    "english": "Comfortable Tea Time : Target Protect"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_42": {
+    "korean": "편안한 티타임 : 광역 피해 분산 {0}% (추가)",
+    "english": "Comfortable Tea Time : Area DMG Dispersion {0}% (Additional)"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_43": {
+    "korean": "편안한 티타임 : 광역 피해 분산 {0}% (추가)",
+    "english": "Comfortable Tea Time : Area DMG Dispersion {0}% (Additional)"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_44": {
+    "korean": "따끔한 단죄 : 공격력 {0}%",
+    "english": "Sharp Judgment : ATK {0}%"
+  },
+  "SkillName_Skill_BR_Ellie_N_5": {
+    "korean": "애프터눈 티",
+    "english": "Afternoon Tea"
+  },
+  "SkillDesc_Skill_BR_Ellie_N_5": {
+    "korean": "5인 스쿼드로 전투 개시 시, 정보를 공유 받아 자신은 정찰 활성화 상태가 됩니다.&n라운드 개시 시, 자신과 인접한 아군이 2기 이상일 경우 강화 표식을 획득하고, 4기 이상일 경우 일반 표식을 획득합니다.&n라운드 개시 시, 자신은 일정 이하의 피해를 최소화하는 효과를 획득합니다.&n자신의 HP가 50% 이하인 경우 최소화 가능한 피해량이 50% 증폭됩니다.",
+    "english": "When combat begins with a 5-unit squad, you gain Recon Effect by sharing information.&nAt the start of the round, if you have 2 or more adjacent allies, you gain an enhanced Mark; if 4 or more, you gain a normal Mark.&nAt the start of the round, you gain an effect that Minimize Damage below a certain threshold.&nIf your HP is 50% or less, the amount of damage that can be minimized is increased by 50%."
+  },
+  "SkillDescSimple_Skill_BR_Ellie_N_5": {
+    "korean": "5인 스쿼드 시, 정찰 활성화. 인접한 아군 2 이상일 경우, 자신 표식 획득. 일정 이하 피해 최소화.",
+    "english": "With 5-unit squad, Recon Effect activated.&nIf 2 or more adjacent allies, self gains Mark.&nMinimizes damage below a certain threshold."
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_5": {
+    "korean": "정보 공유 : 정찰 활성화",
+    "english": "Information Sharing : Activate Recon Effect"
+  },
+  "BuffDesc2_Effect_BR_Ellie_N_5": {
+    "korean": "un pour tous : 표식",
+    "english": "un pour tous : Marked"
+  },
+  "BuffDesc3_Effect_BR_Ellie_N_5": {
+    "korean": "차분한 한 모금 : {0} 이하 피해 최소화",
+    "english": "A Calm Sip : Minimize Damage Below {0}"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_51": {
+    "korean": "un pour tous : 표식",
+    "english": "un pour tous : Marked"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_52": {
+    "korean": "tous pour un : 표식",
+    "english": "tous pour un : Marked"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_53": {
+    "korean": "차분한 한 모금 : {0} 이하 피해 최소화",
+    "english": "Calm Sip : Minimize Damage Below {0}"
+  },
+  "BuffDesc1_Effect_BR_Ellie_N_54": {
+    "korean": "차분한 한 모금 : {0} 이하 피해 최소화",
+    "english": "A Calm Sip : Minimize Damage Below {0}"
+  }
+}

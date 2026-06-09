@@ -1,0 +1,198 @@
+{
+  "SkillName_Skill_BR_Hela_N_1": {
+    "korean": "강령",
+    "english": "Necromancy"
+  },
+  "SkillDesc_Skill_BR_Hela_N_1": {
+    "korean": "나노 입자-신호 증폭으로 폐기 부품을 형상화하여 대상을 붙잡고 {0} 보호 무시 피해를 줍니다.&n적중 시, 3라운드 동안 대상의 행동력을 감소시키고 자신의 행동력이 증가합니다. 자신의 <손톱> 중첩 수에 따라 효과가 증폭됩니다.&n치명타 시, 대상의 모든 광역 피해 분산 효과를 해제합니다.",
+    "english": "Using nano particle-signal amplification, shapes discarded parts to immobilize the target and deal {0} Ignore Protection damage.\nOn hit, reduces the target’s SPD and increases own SPD for 3 rounds. The effect is amplified by the number of own <Claw> stacks.\nOn CRIT, removes all Area DMG Dispersion effects from the target."
+  },
+  "SkillDescSimple_Skill_BR_Hela_N_1": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 대상 행동력 감소 / 자신 행동력 증가. 치명타 시, 광역 피해 분산 효과 해제.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. Reduces target SPD and increases own SPD. On CRIT, removes Area DMG Dispersion effect."
+  },
+  "BuffDesc1_Effect_BR_Hela_N_1": {
+    "korean": "강령 : 행동력 {0}% (대상)",
+    "english": "Necromancy : SPD {0}% (Target)"
+  },
+  "BuffDesc2_Effect_BR_Hela_N_1": {
+    "korean": "강령 : 행동력 {0}% (자신)",
+    "english": "Necromancy : SPD {0}% (Self)"
+  },
+  "BuffDesc3_Effect_BR_Hela_N_1": {
+    "korean": "메탈릭 본 프리즌 : 광역 피해 분산 해제",
+    "english": "Metallic Bone Prison : Area DMG Dispersion Removal"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_11": {
+    "korean": "강령 : 행동력 {0}% (손톱 하나)",
+    "english": "Necromancy: SPD {0}% (one claw)"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_12": {
+    "korean": "강령 : 행동력 {0}% (손톱 둘)",
+    "english": "Necromancy: SPD {0}% (two claws)"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_13": {
+    "korean": "강령 : 행동력 {0}% (손톱 셋)",
+    "english": "Necromancy: SPD {0}% (three claws)"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_14": {
+    "korean": "강령 : 행동력 {0}% (자신)",
+    "english": "Necromancy : SPD {0}% (Self)"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_15": {
+    "korean": "강령 : 행동력 {0}% (손톱 하나)",
+    "english": "Necromancy: SPD {0}% (one claw)"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_16": {
+    "korean": "강령 : 행동력 {0}% (손톱 둘)",
+    "english": "Necromancy: SPD {0}% (two claws)"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_17": {
+    "korean": "강령 : 행동력 {0}% (손톱 셋)",
+    "english": "Necromancy: SPD {0}% (three claws)"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_18": {
+    "korean": "메탈릭 본 프리즌 : 광역 피해 분산 해제",
+    "english": "Metallic Bone Prison: Area DMG Dispersion Removal"
+  },
+  "SkillName_Skill_BR_Hela_N_2": {
+    "korean": "나노 입자 증폭",
+    "english": "Nano Particle Amplification"
+  },
+  "SkillDesc_Skill_BR_Hela_N_2": {
+    "korean": "폐기 처리된 부품을 재활용하여 대상 아군의 방호 능력을 강화합니다. 효과는 헬라가 생존한 동안 유지됩니다.&n라운드 개시 시, 대상은 무거운 부품으로 인해 모든 회피 증감 효과가 해제되지만, 방어력이 증가하고 방어력 비례 치명타 저항이 증가합니다.&n이미 <나노 입자 증폭> 상태인 대상으로 재사용 시, 3라운드 동안 강화 해제 저항 효과를 부여합니다.&n<나노 입자 증폭>에 의한 지속 효과를 가진 아군이 존재할 경우, 라운드 개시 시 자신의 AP가 증가합니다.",
+    "english": "Recycles discarded parts to enhance the DEF of the target ally. The effect lasts while Helheim is alive.\nAt the start of the round, the target’s EVA increase and decrease effects are removed due to heavy parts, but DEF and DEF-based CRIT Resist are increased.\nWhen reused on a target already under <Nano Particle Amplification>, grants Reinforcement Removal Resist for 3 rounds.\nIf an ally with a continuous effect from <Nano Particle Amplification> exists, increases own AP at the start of the round."
+  },
+  "SkillDescSimple_Skill_BR_Hela_N_2": {
+    "korean": "지정 대상 방어력 / 방어력 비례 치명타 저항 증가. 재사용 시, 강화 해제 저항 부여.",
+    "english": "Target DEF and DEF-based CRIT Resist increase. On reuse, grants Reinforcement Removal Resist."
+  },
+  "BuffDesc1_Effect_BR_Hela_N_2": {
+    "korean": "강화 외골격 : 방어력 {0}",
+    "english": "Enhanced Exoskeleton : DEF {0}"
+  },
+  "BuffDesc2_Effect_BR_Hela_N_2": {
+    "korean": "강화 외골격 : 방어력 1%만큼 공격자 치명타 감소",
+    "english": "Reinforced Exoskeleton: Reduces attacker CRIT by an amount equal to 1% of DEF"
+  },
+  "BuffDesc3_Effect_BR_Hela_N_2": {
+    "korean": "강화 외골격 : 회피 증감 해제",
+    "english": "Reinforced Exoskeleton: Removes EVA modifiers"
+  },
+  "BuffDesc4_Effect_BR_Hela_N_2": {
+    "korean": "강화 외골격 : 강화 해제 저항 {0}% (중첩 시)",
+    "english": "Reinforced Exoskeleton: Reinforcement Removal Resist {0}% (when stacked)"
+  },
+  "BuffDesc5_Effect_BR_Hela_N_2": {
+    "korean": "뿌듯함 : AP {0}",
+    "english": "Satisfaction : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_22": {
+    "korean": "강화 외골격 : 치명타 저항 {0}% (방어력 비례)",
+    "english": "Reinforced Exoskeleton: CRIT Resist {0}% (DEF-based)"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_24": {
+    "korean": "강화 외골격 : 강화 해제 저항 {0}%",
+    "english": "Enhanced Exoskeleton : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_25": {
+    "korean": "강화 외골격 장착",
+    "english": "Reinforced Exoskeleton Equipped"
+  },
+  "SkillName_Skill_BR_Hela_N_3": {
+    "korean": "죽은 자들의 여신",
+    "english": "Goddess of the Dead"
+  },
+  "SkillDesc_Skill_BR_Hela_N_3": {
+    "korean": "적 사망 시, 잔해를 그러모아 자신의 치명타를 증가시킵니다. (최대 3중첩)&n적 사망 시, 아군 AGS에게 <손톱>을 부착시켜 3라운드 동안 공격력을 증가시킵니다.&n라운드 개시 시, <나노 입자 증폭>이 적용된 대상의 적중을 크게 증가시킵니다.",
+    "english": "Upon enemy death, gathers debris to increase own CRIT (max 3 stacks).\nUpon enemy death, attaches <Claw> to allied AGS, increasing their ATK for 3 rounds.\nAt the start of the round, greatly increases ACC of targets affected by <Nano Particle Amplification>."
+  },
+  "SkillDescSimple_Skill_BR_Hela_N_3": {
+    "korean": "적 사망 시, 자신 치명타 증가 / 아군 AGS 공격력 증가. <나노 입자 증폭> 적용 대상 적중 증가.",
+    "english": "Upon enemy death, increases own CRIT and allied AGS ATK. Increases ACC of targets affected by <Nano Particle Amplification>."
+  },
+  "BuffDesc1_Effect_BR_Hela_N_3": {
+    "korean": "손톱 : 치명타 {0}%",
+    "english": "Claw : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_BR_Hela_N_3": {
+    "korean": "손톱 : 공격력 {0}% (AGS)",
+    "english": "Claws : ATK {0}% (AGS)"
+  },
+  "BuffDesc3_Effect_BR_Hela_N_3": {
+    "korean": "손톱 : 적중 {0}% (나노 입자 증폭)",
+    "english": "Claw: ACC {0}% (Nano Particle Amplification)"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_31": {
+    "korean": "손톱 : 공격력 {0}%",
+    "english": "Claw : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Hela_N_32": {
+    "korean": "강화 외골격 : 치명타 저항 {0}% (방어력 비례)",
+    "english": "Reinforced Exoskeleton: CRIT Resist {0}% (DEF-based)"
+  },
+  "BuffDesc3_Effect_BR_Hela_N_32": {
+    "korean": "손톱 : 적중 {0}%",
+    "english": "Claw: ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_33": {
+    "korean": "뿌듯함 : AP {0}",
+    "english": "Satisfaction: AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_34": {
+    "korean": "강화 외골격 해제",
+    "english": "Reinforced Exoskeleton Removed"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_35": {
+    "korean": "강화 외골격 : 회피 증감 해제",
+    "english": "Reinforced Exoskeleton: Cancel EVA modifiers"
+  },
+  "SkillName_Skill_BR_Hela_N_4": {
+    "korean": "나글파르",
+    "english": "Naglfar"
+  },
+  "SkillDesc_Skill_BR_Hela_N_4": {
+    "korean": "라운드 개시 시, 자신이 받는 피해가 감소하고 <손톱> 중첩 수에 따라 추가로 감소합니다.&n대기 시, 아군 AGS의 AP를 증가시킵니다. 자신이 <손톱> 중첩을 보유한 경우, 중첩을 소모하여 그 수만큼 AP를 추가로 증가시킵니다.",
+    "english": "At the start of the round, Damage Taken is reduced, with additional reduction based on the number of <Claw> stacks.\nWhile waiting, increases AP of allied AGS. If self has <Claw> stacks, consumes them to further increase AP by that amount."
+  },
+  "SkillDescSimple_Skill_BR_Hela_N_4": {
+    "korean": "자신 받는 피해 감소. 대기 시, 아군 AGS AP 증가. <손톱> 중첩 수에 따라 효과 증폭.",
+    "english": "Damage Taken reduction. While waiting, increases allied AGS AP. Effect is amplified by the number of <Claw> stacks."
+  },
+  "BuffDesc1_Effect_BR_Hela_N_4": {
+    "korean": "나글파르 : 받는 피해 {0}% 감소",
+    "english": "Naglfar : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_BR_Hela_N_4": {
+    "korean": "종말을 향해 나아가리 : AP {0} (AGS)",
+    "english": "March Toward the End : AP {0} (AGS)"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_44": {
+    "korean": "종말을 향해 나아가리 : AP {0}",
+    "english": "March Toward the End: AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Hela_N_48": {
+    "korean": "깎인 손톱",
+    "english": "Chipped Claw"
+  },
+  "SkillName_Skill_BR_Hela_N_5": {
+    "korean": "헬헤임",
+    "english": "Helheim"
+  },
+  "SkillDesc_Skill_BR_Hela_N_5": {
+    "korean": "라운드 개시 시, 적 전체를 침식시켜 방어력을 점진적으로 감소시킵니다. (최대 5중첩)&n라운드 개시 시, 자신이 <손톱>을 보유한 경우 적 전체의 방어력 강화 효과를 해제합니다.&n방어력 감소 효과는 효과 저항에 영향을 받지 않지만, 해로운 효과 해제로 해제할 수 있습니다.",
+    "english": "At the start of the round, corrodes all enemies, gradually reducing their DEF (max 5 stacks).\nAt the start of the round, if self has <Claw>, removes all DEF buff effects from all enemies.\nThe DEF reduction effect is unaffected by Effect Resist but can be removed by dispelling harmful effects."
+  },
+  "SkillDescSimple_Skill_BR_Hela_N_5": {
+    "korean": "매 라운드 마다 적 전체 방어력 감소. 자신 <손톱> 보유 시, 방어력 강화 효과 해제.",
+    "english": "Reduces DEF of all enemies each round. If self has <Claw>, removes DEF buff effects."
+  },
+  "BuffDesc1_Effect_BR_Hela_N_5": {
+    "korean": "고요한 종말의 세상 : 방어력 {0}%",
+    "english": "Silent End World : DEF {0}%"
+  },
+  "BuffDesc2_Effect_BR_Hela_N_5": {
+    "korean": "손톱 자국 : 방어력 강화 해제",
+    "english": "Claw Marks : DEF Buff Removal"
+  }
+}

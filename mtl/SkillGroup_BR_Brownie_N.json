@@ -1,0 +1,110 @@
+{
+  "1002700058": {
+    "korean": "견제 사격",
+    "english": "Suppressive Shot"
+  },
+  "1002703699": {
+    "korean": "돌격 소총을 발사해 {0} 피해를 줍니다. 2라운드 동안 대상의 적중과 회피를 낮추고 받는 피해를 증가시킵니다.",
+    "english": "Fires an assault rifle to deal {0} damage. Reduces the target's ACC and EVA and increases DMG Taken for 2 rounds."
+  },
+  "1002702905": {
+    "korean": "단일 대상 {0} 피해. 적중 / 회피 감소 / 피해 증폭",
+    "english": "Deals {0} damage to a single target. Reduces target's ACC, EVA, and increases DMG Taken."
+  },
+  "1000102523": {
+    "korean": "견제 사격 : 회피 {0}%",
+    "english": "Suppressive Fire: EVA {0}%"
+  },
+  "1000104212": {
+    "korean": "견제 사격 : 적중 {0}%",
+    "english": "Suppressive Fire: ACC {0}%"
+  },
+  "1000104937": {
+    "korean": "견제 사격 : 받는 피해{0}%",
+    "english": "Suppression Fire: DMG Taken {0}%"
+  },
+  "1000102585": {
+    "korean": "적중 {0}%",
+    "english": "ACC {0}%"
+  },
+  "1002700059": {
+    "korean": "조준 사격",
+    "english": "Aimed Shot"
+  },
+  "1002703700": {
+    "korean": "돌격 소총 조준 사격으로 {0} 피해를 줍니다. 목표가 회피 / 방어력 감소 상태인 경우, 피해량이 증가합니다.",
+    "english": "Fires a focused shot from the assault rifle to deal {0} damage. Damage is increased if the target is under EVA or DEF reduction."
+  },
+  "1002702906": {
+    "korean": "단일 대상 {0} 피해. 회피 / 방어력 감소 대상 피해량 증가",
+    "english": "Deals {0} damage to a single target. Increased damage to targets with reduced EVA or DEF."
+  },
+  "1000102489": {
+    "korean": "집중사격 : 피해량{0}%",
+    "english": "Focused Fire: Additional DMG {0}%"
+  },
+  "1002701506": {
+    "korean": "돌격이지말입니다!",
+    "english": "No Retreat, Sir!"
+  },
+  "1002704122": {
+    "korean": "전투 개시 시, 자신이 전열에 있으면 전열에 있는 모든 아군의 AP / 공격력 / 치명타가 증가하지만 받는 피해도 증가합니다. 해당 효과들은 모두 강화 효과로 취급됩니다.",
+    "english": "At the start of battle, if this unit is in the front row, all allies in the front row gain increased AP, ATK, and CRIT, but also take increased DMG Taken. All of these effects are treated as buffs."
+  },
+  "1002703374": {
+    "korean": "전열인 경우, 전열의 모든 아군 AP/공격력/치명타/받는 피해 증가",
+    "english": "If in the front row, all allies in the front row gain increased AP, ATK, CRIT, and DMG Taken."
+  },
+  "1000103306": {
+    "korean": "돌격이지말입니다! : AP{0}",
+    "english": "No Retreat, Sir! : AP {0}"
+  },
+  "1000104567": {
+    "korean": "돌격이지말입니다! : 공격력{0}%",
+    "english": "No Retreat, Sir! : ATK {0}%"
+  },
+  "1000105108": {
+    "korean": "돌격이지말입니다! : 치명타{0}%",
+    "english": "No Retreat, Sir! : CRIT {0}%"
+  },
+  "1000105429": {
+    "korean": "돌격이지말입니다! : 받는 피해{0}%",
+    "english": "No Retreat, Sir! : DMG Taken {0}%"
+  },
+  "1002701556": {
+    "korean": "맡겨주시지말입니다!",
+    "english": "Leave It to Me, Sir!"
+  },
+  "1002704132": {
+    "korean": "라운드 개시 시, 자신이 공격 지원 또는 지정 대상 보호를 받는 상태면 공격력 / 적중 / 행동력이 증가합니다. 공격 지원을 해주는 대상이 레프리콘인 경우, 효과가 50% 증가합니다.",
+    "english": "At the start of the round, if this unit is under Attack Support or Designated Protection, its ATK, ACC, and SPD increase. If the unit providing Attack Support is a Leprechaun, the effect is increased by 50%."
+  },
+  "1002703388": {
+    "korean": "공격 지원 / 지정 보호를 받는 상태면 공격력 / 적중 / 행동력 증가",
+    "english": "When receiving Attack Support or Designated Protection, increase ATK, ACC, and SPD"
+  },
+  "1000103353": {
+    "korean": "맡겨주시지말입니다! : 공격력{0}%",
+    "english": "Leave It to Me, Sir! : ATK {0}%"
+  },
+  "1000104588": {
+    "korean": "맡겨주시지말입니다! : 적중{0}%",
+    "english": "Leave It to Me, Sir! : ACC {0}%"
+  },
+  "1000105121": {
+    "korean": "맡겨주시지말입니다! : 행동력{0}%",
+    "english": "Leave It to Me, Sir! : SPD {0}%"
+  },
+  "1000103354": {
+    "korean": "절믿으시지말입니다! : 공격력{0}%",
+    "english": "Don’t Trust It! : ATK {0}%"
+  },
+  "1000104589": {
+    "korean": "절믿으시지말입니다! : 적중{0}%",
+    "english": "Don’t Trust That!: ACC {0}%"
+  },
+  "1000105122": {
+    "korean": "절믿으시지말입니다! : 행동력{0}%",
+    "english": "Don't Trust!: SPD {0}%"
+  }
+}

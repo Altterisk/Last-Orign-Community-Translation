@@ -1,0 +1,210 @@
+{
+  "SkillName_Skill_BR_SandMan_N_1": {
+    "korean": "기관포 연사",
+    "english": "Machine Gun Burst"
+  },
+  "SkillDesc_Skill_BR_SandMan_N_1": {
+    "korean": "기관포를 발사해 {0} 피해를 주고, 대상의 공격력 관련 '강화 효과'를 해제합니다.&n적중 시, 2라운드 동안 대상을 도발하며 공격력 / 치명타를 감소시킵니다.&n대상이 표식 상태인 경우, 피해량이 증가합니다.",
+    "english": "Fires a machine gun burst dealing {0} damage and dispels the target’s ATK-related buffs.&nOn hit, Provokes the target for 2 rounds while reducing its ATK and CRIT.&nIf the target is Marked, damage dealt is increased."
+  },
+  "SkillDescSimple_Skill_BR_SandMan_N_1": {
+    "korean": "단일 대상 {0} 피해. 공격력 강화 효과 해제. 도발 / 공격력 / 치명타 감소. 표식 대상 피해량 증가.",
+    "english": "Single target {0} damage. Removes ATK buffs. Provokes / reduces ATK / CRIT. Increased damage to Marked targets."
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_1": {
+    "korean": "기관포 연사 : 공격력 강화 해제",
+    "english": "Machine Gun Burst : ATK Buff Removal"
+  },
+  "BuffDesc2_Effect_BR_SandMan_N_1": {
+    "korean": "기관포 연사 : 도발 (샌드걸)",
+    "english": "Machine Gun Burst : Provoked (Sandgirl)"
+  },
+  "BuffDesc3_Effect_BR_SandMan_N_1": {
+    "korean": "기관포 연사 : 공격력 {0}%",
+    "english": "Machine Gun Burst : ATK {0}%"
+  },
+  "BuffDesc4_Effect_BR_SandMan_N_1": {
+    "korean": "기관포 연사 : 치명타 {0}%",
+    "english": "Machine Gun Burst : CRIT {0}%"
+  },
+  "BuffDesc5_Effect_BR_SandMan_N_1": {
+    "korean": "기관포 연사 : 피해량 {0}%",
+    "english": "Machine Gun Burst : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_12": {
+    "korean": "기관포 연사 : 도발 (샌드걸)",
+    "english": "Machine Gun Burst : Provoked (Sandgirl)"
+  },
+  "BuffDesc2_Effect_BR_SandMan_N_12": {
+    "korean": "기관포 연사 : 공격력 {0}%",
+    "english": "Machine Gun Burst : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_SandMan_N_12": {
+    "korean": "기관포 연사 : 치명타 {0}%",
+    "english": "Machine Gun Burst : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_13": {
+    "korean": "목표 포착 : 피해량 {0}%",
+    "english": "Target Acquired : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_52": {
+    "korean": "슬리드룩타니 : 피해량 {0}%",
+    "english": "Slidrugtani : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_SandMan_N_2": {
+    "korean": "AT 미사일",
+    "english": "AT Missile"
+  },
+  "SkillDesc_Skill_BR_SandMan_N_2": {
+    "korean": "기관포와 AT 미사일을 발사해 {0} 피해를 주고, 대상의 방어력 관련 '강화 효과'를 해제합니다.&n적중 시, 자신의 방어 관통 / 대 중장형 피해량이 증가합니다.&n대상의 공격력이 자신보다 낮은 경우, 피해량이 증가합니다.",
+    "english": "Fires a machine gun and AT missile dealing {0} damage and dispels the target’s DEF-related buffs.&nOn hit, increases your DEF Penetration and Anti-Heavy DMG.&nIf the target’s ATK is lower than yours, damage dealt is increased."
+  },
+  "SkillDescSimple_Skill_BR_SandMan_N_2": {
+    "korean": "단일 대상 {0} 피해. 방어력 강화 효과 해제. 자신 방어 관통 / 대 중장형 피해량 증가.",
+    "english": "Single target {0} damage. Removes DEF buffs. Increases own DEF Penetration / Anti-Heavy DMG."
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_2": {
+    "korean": "AT 미사일 : 방어력 강화 해제",
+    "english": "AT Missile : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_BR_SandMan_N_2": {
+    "korean": "A.T.W : 방어 관통 {0}%",
+    "english": "A.T.W : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_BR_SandMan_N_2": {
+    "korean": "A.T.W : 대 중장형 피해량 {0}%",
+    "english": "A.T.W : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc4_Effect_BR_SandMan_N_2": {
+    "korean": "목표 포착 : 피해량 {0}%",
+    "english": "Target Acquired : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_22": {
+    "korean": "A.T.W : 방어 관통 {0}%",
+    "english": "A.T.W : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_SandMan_N_22": {
+    "korean": "A.T.W : 대 중장형 피해량 {0}%",
+    "english": "A.T.W : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_23": {
+    "korean": "목표 포착 : 피해량 {0}%",
+    "english": "Target Acquired : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_SandMan_N_3": {
+    "korean": "지상군 호위",
+    "english": "Infantry Escort"
+  },
+  "SkillDesc_Skill_BR_SandMan_N_3": {
+    "korean": "라운드 개시 시, 자신은 방어막을 획득하고 받는 피해가 감소합니다.&n공격 시, 3라운드 동안 자신이 받는 피해가 추가로 감소합니다. (중첩 불가)&n라운드 개시 시, 범위 내 보호기를 제외한 경장 / 중장형 아군을 지정 보호하며 AP를 증가시킵니다.",
+    "english": "At the start of the round, you gain a Barrier and DMG Reduction.&nWhen attacking, your DMG Reduction is increased for 3 rounds. (Cannot stack)&nAt the start of the round, designate protection for Light and Heavy allies within range, excluding defenders, and increase their AP."
+  },
+  "SkillDescSimple_Skill_BR_SandMan_N_3": {
+    "korean": "자신 방어막 획득 / 받는 피해 감소. 아군 경장/중장형 지정 보호 / AP 증가.",
+    "english": "Gain Barrier / DMG Reduction. Designate protection for allied Light/Heavy units / increase AP."
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_3": {
+    "korean": "지상군 호위 : 방어막 {0}",
+    "english": "Infantry Escort : Barrier {0}"
+  },
+  "BuffDesc2_Effect_BR_SandMan_N_3": {
+    "korean": "지상군 호위 : 받는 피해 {0}% 감소",
+    "english": "Infantry Escort : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_BR_SandMan_N_3": {
+    "korean": "지상군 호위 : 받는 피해 {0}% 감소 (공격 시)",
+    "english": "Infantry Escort : DMG Reduction {0}% (On Attack)"
+  },
+  "BuffDesc4_Effect_BR_SandMan_N_3": {
+    "korean": "지상군 호위 : 지정 보호",
+    "english": "Infantry Escort : Target Protect"
+  },
+  "BuffDesc5_Effect_BR_SandMan_N_3": {
+    "korean": "지상군 호위 : AP {0}",
+    "english": "Infantry Escort : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_31": {
+    "korean": "지상군 호위 : 받는 피해 {0}% 감소",
+    "english": "Infantry Escort : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_32": {
+    "korean": "지상군 호위 : 지정 보호",
+    "english": "Infantry Escort : Target Protect"
+  },
+  "BuffDesc2_Effect_BR_SandMan_N_32": {
+    "korean": "지상군 호위 : AP {0}",
+    "english": "Infantry Escort : AP {0}"
+  },
+  "SkillName_Skill_BR_SandMan_N_4": {
+    "korean": "강화형 하드포인트 탑재",
+    "english": "Reinforced Hardpoint Retrofit"
+  },
+  "SkillDesc_Skill_BR_SandMan_N_4": {
+    "korean": "전투 개시 시, 자신은 전투 속행 효과를 획득합니다.&n라운드 개시 시, 자신의 치명타가 증가하고 반격 효과를 획득합니다.&n피격 시, 2라운드 동안 자신의 공격력이 증가합니다. (최대 5중첩)",
+    "english": "At the start of battle, you gain Combat Continuation.&nAt the start of each round, your CRIT chance increases and you gain a Counter Attack effect.&nWhen hit, your ATK increases for 2 rounds. (max 5 stacks)"
+  },
+  "SkillDescSimple_Skill_BR_SandMan_N_4": {
+    "korean": "전투 속행 / 치명타 증가 / 반격. 피격 시, 공격력 증가.",
+    "english": "Combat Continuation / CRIT increase / Counter Attack. When hit, ATK increase."
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_4": {
+    "korean": "티타늄 장갑 : {0}% HP로 전투 속행",
+    "english": "Titanium Armor : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc2_Effect_BR_SandMan_N_4": {
+    "korean": "하드포인트 : 치명타 {0}%",
+    "english": "Hardpoint : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_SandMan_N_4": {
+    "korean": "하드포인트 : {0}% 위력으로 반격",
+    "english": "Hardpoint : Counter Attack with {0}% Power"
+  },
+  "BuffDesc4_Effect_BR_SandMan_N_4": {
+    "korean": "하드포인트 : 공격력 {0}% (피격 시)",
+    "english": "Hardpoint : ATK {0}% (When Hit)"
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_41": {
+    "korean": "하드포인트 : 치명타 {0}%",
+    "english": "Hardpoint : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_BR_SandMan_N_41": {
+    "korean": "하드포인트 : {0}% 위력으로 반격",
+    "english": "Hardpoint : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_42": {
+    "korean": "하드포인트 : 공격력 {0}%",
+    "english": "Hardpoint : ATK {0}%"
+  },
+  "SkillName_Skill_BR_SandMan_N_5": {
+    "korean": "슬리드룩타니급 추진 시스템",
+    "english": "Slidrugtani-Class Propulsion System"
+  },
+  "SkillDesc_Skill_BR_SandMan_N_5": {
+    "korean": "라운드 개시 시, 자신의 강화 해제 저항이 증가합니다.&n<철혈의 레오나>의 <공격 지휘>가 활성화된 경우, 액티브 스킬의 피해량 증가 효과가 두 배로 증폭되고 발동 조건을 무시합니다.&n<철혈의 레오나>의 <방어 지휘>가 활성화된 경우, 라운드 개시 시 전투 속행 효과를 획득합니다.",
+    "english": "At the start of the round, your Dispel Resistance increases.&nIf <Ironblood Leona>’s <Attack Command> is active, the damage boost from your active skills is doubled and activation conditions are ignored.&nIf <Ironblood Leona>’s <Defense Command> is active, you gain Combat Continuation at the start of the round."
+  },
+  "SkillDescSimple_Skill_BR_SandMan_N_5": {
+    "korean": "강화 해제 저항 증가. <철혈의 레오나>의 <지휘> 효과에 따라 자신 강화.",
+    "english": "Increases Dispel Resistance.&nStrengthens self according to <Ironblood Leona>’s <Command> effect."
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_5": {
+    "korean": "저돌맹진 : 강화 해제 저항 {0}%",
+    "english": "Headlong Rush : Buff Removal Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_SandMan_N_5": {
+    "korean": "슬리드룩타니 : 피해량 {0}% (공격 지휘)",
+    "english": "Slidrugtani : Additional DMG {0}% (Attack Command)"
+  },
+  "BuffDesc3_Effect_BR_SandMan_N_5": {
+    "korean": "굴린부르스티 : {0} HP로 전투 속행 (방어 지휘)",
+    "english": "Gullinbursti: Combat Continuation with {0} HP (Defense Command)"
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_51": {
+    "korean": "슬리드룩타니급 무장",
+    "english": "Slidrugtani-Class Armament"
+  },
+  "BuffDesc1_Effect_BR_SandMan_N_53": {
+    "korean": "굴린부르스티 : {0} HP로 전투 속행",
+    "english": "Gullinbursti : Battle Continuation with {0} HP"
+  }
+}

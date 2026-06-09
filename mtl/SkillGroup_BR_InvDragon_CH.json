@@ -1,0 +1,206 @@
+{
+  "1002705575": {
+    "korean": "함대 포격 개시",
+    "english": "Fleet Bombardment Initiate"
+  },
+  "1002706335": {
+    "korean": "함대 포격을 개시해 지정 범위에 {0} 방어 관통 / 보호 무시 피해를 줍니다. 치명타 시, 적중 대상의 방어막 효과를 해제합니다. 자신이 정찰 활성화 상태일 경우, 피해량이 증가합니다. 해당 스킬 사용 시, 기본 모드로 자동 변경되며 <포격 대기> 상태가 해제됩니다. 반격 시에도 <함대 포격 모드>는 해제됩니다.",
+    "english": "Initiates fleet bombardment, dealing {0} DEF Penetration / Ignore Protection damage to the target area. On CRIT, removes the shield effect from affected targets. Damage is increased while you are in <Recon> state. Using this skill automatically switches to Default mode and deactivates <Bombardment Ready>. <Fleet Bombardment Mode> is also cleared when you perform a Counter Attack."
+  },
+  "1002706593": {
+    "korean": "지정 범위 {0} 방어 관통 / 보호 무시 피해. 치명타 시, 방어막 효과 해제. 정찰 상태면 피해량 증가",
+    "english": "Deals {0} DEF Penetration / Ignore Protection damage in the designated area. Removes shield effect on CRIT. Damage increased while in Recon."
+  },
+  "1000106681": {
+    "korean": "함대 포격 모드 해제",
+    "english": "Deactivate Fleet Bombardment Mode"
+  },
+  "1000106843": {
+    "korean": "함대 은밀 기동 개시",
+    "english": "Fleet Stealth Maneuver Initiate"
+  },
+  "1000106932": {
+    "korean": "정밀 조준 포격 : 피해량{0}% (정찰 시)",
+    "english": "Precision Aimed Bombardment: Damage {0}% (when Recon)"
+  },
+  "1000106974": {
+    "korean": "회심의 포격 : 방어막 해제 (치명타 시)",
+    "english": "Critical Bombardment: Barrier Removal (on CRIT)"
+  },
+  "1000106713": {
+    "korean": "철갑탄 포격 : 방어 관통{0}%",
+    "english": "Armor-Piercing Shelling : DEF Penetration {0}%"
+  },
+  "1000106692": {
+    "korean": "정밀 조준 포격 : 피해량{0}%",
+    "english": "Precision Aiming Bombardment : Additional DMG {0}%"
+  },
+  "1000106714": {
+    "korean": "회심의 포격 : 방어막 해제",
+    "english": "Decisive Bombardment : Barrier Removal"
+  },
+  "1002705576": {
+    "korean": "함대 대기 명령",
+    "english": "Fleet Standby Command"
+  },
+  "1002706336": {
+    "korean": "스킬 사용 시, 기본 모드로 변경되며 해로운 효과가 해제됩니다. <포격 대기>는 해제되지 않습니다.",
+    "english": "When the skill is used, it switches to Default mode and removes harmful effects. <Bombardment Ready> is not deactivated."
+  },
+  "1002706594": {
+    "korean": "기본 모드로 변환. 해로운 효과 해제",
+    "english": "Switches to Default mode. Removes harmful effects."
+  },
+  "1000106682": {
+    "korean": "함대 대기 명령 : 함대 포격 모드 해제",
+    "english": "Fleet Standby Command: Deactivate Fleet Bombardment Mode"
+  },
+  "1000106844": {
+    "korean": "함대 대기 명령 : 해로운 효과 해제",
+    "english": "Fleet Standby Command : Debuff Removal"
+  },
+  "1002705572": {
+    "korean": "불굴",
+    "english": "Unyielding"
+  },
+  "1002706332": {
+    "korean": "라운드 개시 시, 범위 내 아군의 회피 / 효과 저항이 증가하고 받는 피해가 감소합니다. 자신이 전투 불능이 될 경우, 2라운드 동안 각 효과가 추가 적용되며 반격 효과가 추가됩니다. 스킬 레벨 10에서 자신의 위치와 상관없이 적용됩니다.",
+    "english": "At the start of the round, allies within range gain increased EVA, Status Resist, and reduced DMG Taken. If you become incapacitated, each effect is applied additionally for 2 rounds and a Counter Attack effect is granted. At skill level 10, the effects apply regardless of your position."
+  },
+  "1002706590": {
+    "korean": "범위 내 아군 회피 / 효과 저항 증가 / 받는 피해 감소. 자신 전투 불능 시, 효과 추가 적용 / 반격",
+    "english": "Allies within range gain increased EVA, Status Resist, and reduced DMG Taken. When you are incapacitated, the effects are applied again and a Counter Attack is triggered."
+  },
+  "1000106678": {
+    "korean": "불굴 : 회피{0}%",
+    "english": "Unyielding : EVA {0}%"
+  },
+  "1000106840": {
+    "korean": "불굴 : 받는 피해 감소 {0}%",
+    "english": "Unyielding : DMG Reduction {0}%"
+  },
+  "1000106929": {
+    "korean": "불굴 : 효과 저항{0}%",
+    "english": "Unyielding : Status Resist {0}%"
+  },
+  "1000106972": {
+    "korean": "사기 진작 : {0}% 위력으로 반격 (자신 전투 불능 시)",
+    "english": "Morale Boost: Counter Attack with {0}% Power (when incapacitated)"
+  },
+  "1000106685": {
+    "korean": "사기 진작 : 회피{0}%",
+    "english": "Morale Boost : EVA {0}%"
+  },
+  "1000106847": {
+    "korean": "사기 진작 : 받는 피해 감소 {0}%",
+    "english": "Morale Boost : DMG Reduction {0}%"
+  },
+  "1000106933": {
+    "korean": "사기 진작 : 효과 저항{0}%",
+    "english": "Morale Boost : Status Resist {0}%"
+  },
+  "1000106975": {
+    "korean": "사기 진작 : {0}% 위력으로 반격",
+    "english": "Morale Boost: Counter Attack with {0} Power {0}%"
+  },
+  "1002705573": {
+    "korean": "군사 전략 통달",
+    "english": "Master of Military Strategy"
+  },
+  "1002706333": {
+    "korean": "라운드 개시 시, 범위 내 아군의 공격력 / 적중 / 치명타 / 행동력이 증가합니다. 대상이 공격 지원을 받는 상태면 효과가 50% 증가합니다. 대상이 <정찰> 활성화 상태면 효과가 50% 증가합니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of the round, allies within range gain increased ATK, ACC, CRIT, and SPD. Effects are increased by 50% if the target is receiving Follow-Up Attack, and increased by 50% if the target has <Recon> active. At skill level 10, the range is increased."
+  },
+  "1002706591": {
+    "korean": "범위 내 아군 공격력 / 적중 / 치명타 / 행동력 증가. 공격 지원 / 정찰 상태면 효과 증가",
+    "english": "Allies within range gain increased ATK, ACC, CRIT, and SPD. Effects are increased when the target is under Follow-Up Attack or has Recon active."
+  },
+  "1000106679": {
+    "korean": "군사 전략 통달 : 공격력{0}%",
+    "english": "Master of Military Strategy : ATK {0}%"
+  },
+  "1000106841": {
+    "korean": "군사 전략 통달 : 적중{0}%",
+    "english": "Master of Military Strategy : ACC {0}%"
+  },
+  "1000106930": {
+    "korean": "군사 전략 통달 : 치명타{0}%",
+    "english": "Master of Military Strategy : CRIT {0}%"
+  },
+  "1000106973": {
+    "korean": "군사 전략 통달 : 행동력{0}%",
+    "english": "Master of Military Strategy : SPD {0}%"
+  },
+  "1000106686": {
+    "korean": "일제 공격 : 공격력{0}%",
+    "english": "Concentrated Attack : ATK {0}%"
+  },
+  "1000106848": {
+    "korean": "일제 공격 : 적중{0}%",
+    "english": "Concentrated Attack : ACC {0}%"
+  },
+  "1000106934": {
+    "korean": "일제 공격 : 치명타{0}%",
+    "english": "Concentrated Attack : CRIT {0}%"
+  },
+  "1000106976": {
+    "korean": "일제 공격 : 행동력{0}%",
+    "english": "Volley Attack : SPD {0}%"
+  },
+  "1000106687": {
+    "korean": "통솔 대응 : 공격력{0}%",
+    "english": "Command Response : ATK {0}%"
+  },
+  "1000106849": {
+    "korean": "통솔 대응 : 적중{0}%",
+    "english": "Command Response : ACC {0}%"
+  },
+  "1000106935": {
+    "korean": "통솔 대응 : 치명타{0}%",
+    "english": "Command Response : CRIT {0}%"
+  },
+  "1002705574": {
+    "korean": "포격 좌표 송신",
+    "english": "Transmit Bombardment Coordinates"
+  },
+  "1002706334": {
+    "korean": "<포격 대기> 활성화 상태에서 대기 시, <함대 포격 모드>로 변환됩니다. <착탄형 액티브 스킬>을 보유한 아군의 전투 개시 AP를 올려주고, 공격력 / 적중 / 치명타를 증가시킵니다. 전투 종료 시, 정찰이 활성화됩니다. 정찰 활성화 시, 자신에게도 공격력 / 적중 / 치명타 증가 효과가 적용됩니다.",
+    "english": "While in <Bombardment Ready> and on standby, you transform into <Fleet Bombardment Mode>. Increases the combat start AP of allies with <Impact-Active Skill> and boosts ATK, ACC, and CRIT. At the end of combat, <Recon> is activated. When <Recon> is active, you also receive increased ATK, ACC, and CRIT."
+  },
+  "1002706592": {
+    "korean": "정찰 기능. <착탄형 액티브> 스킬을 보유한 아군 AP / 공격력 / 적중 / 치명타 증가",
+    "english": "Recon function. Increases AP, ATK, ACC, and CRIT of allies with <Impact-Active> skills."
+  },
+  "1000106680": {
+    "korean": "포격 대기 : 함대 포격 모드 전환 가능",
+    "english": "Bombardment Standby: Fleet Bombardment Mode can be switched"
+  },
+  "1000106842": {
+    "korean": "포격 좌표 송신 : 공격력{0}%",
+    "english": "Transmit Bombardment Coordinates : ATK {0}%"
+  },
+  "1000106931": {
+    "korean": "포격 좌표 송신 : 적중{0}%",
+    "english": "Transmit Bombardment Coordinates : ACC {0}%"
+  },
+  "1000106689": {
+    "korean": "포격 좌표 송신 : 치명타{0}%",
+    "english": "Transmit Bombardment Coordinates : CRIT {0}%"
+  },
+  "1000106992": {
+    "korean": "포격 좌표 송신 : AP{0} (전투 개시 시)",
+    "english": "Transmit shelling coordinates: AP{0} (on battle start)"
+  },
+  "1000106688": {
+    "korean": "포격 좌표 송신 : AP{0}",
+    "english": "Transmit Bombardment Coordinates : AP {0}"
+  },
+  "1000106690": {
+    "korean": "포격 좌표 검색 : 정찰 활성화",
+    "english": "Bombardment Coordinate Search : Activate Recon Effect"
+  },
+  "1000106691": {
+    "korean": "함대 포격 모드 : 모드 변환",
+    "english": "Fleet Bombardment Mode: Mode change"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "SkillName_Skill_3P_Aurora_N_1": {
+    "korean": "밑준비",
+    "english": "Mise en Place"
+  },
+  "SkillDesc_Skill_3P_Aurora_N_1": {
+    "korean": "지정 대상에게 {0} 피해를 주고 AP를 감소시킵니다. 적중 대상은 2라운드 동안 회피가 감소하며 받는 피해가 증가합니다.",
+    "english": "Deals {0} damage to a target and reduces their AP.&nThe hit target suffers reduced EVA and increased damage taken for 2 rounds."
+  },
+  "SkillDescSimple_Skill_3P_Aurora_N_1": {
+    "korean": "단일 대상 {0} 피해. AP / 회피 감소 / 피해 증폭",
+    "english": "Deals {0} damage to a single target. Reduces AP and EVA, and DMG Taken Increased."
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_1": {
+    "korean": "밑준비 : AP{0}",
+    "english": "Preparation: AP {0}"
+  },
+  "BuffDesc2_Effect_3P_Aurora_N_1": {
+    "korean": "밑준비 : 회피 {0}%",
+    "english": "Preparation : EVA {0}%"
+  },
+  "BuffDesc3_Effect_3P_Aurora_N_1": {
+    "korean": "밑준비 : 받는 피해{0}%",
+    "english": "Preparation: DMG Taken {0}%"
+  },
+  "SkillName_Skill_3P_Aurora_N_2": {
+    "korean": "회심의 디저트",
+    "english": "Best Piece of Dessert"
+  },
+  "SkillDesc_Skill_3P_Aurora_N_2": {
+    "korean": "지정 바이오로이드 아군의 AP를 상승시키고, 2라운드 동안 공격력 / 적중을 높이며 해로운 효과를 해제합니다. 해당 효과가 적용된 바이오로이드 아군은 1라운드 동안 효과 저항이 증가합니다.",
+    "english": "Increases the AP of a designated Bioroid ally, boosts their ATK and ACU for 2 rounds, and removes harmful effects.&nThe affected Bioroid ally also gains increased Effect Resistance for 1 round."
+  },
+  "SkillDescSimple_Skill_3P_Aurora_N_2": {
+    "korean": "바이오로이드 아군 AP / 공격력 / 적중 증가 / 해로운 효과 해제 / 효과 저항 증가",
+    "english": "Increases AP, ATK, and ACC of allied Bioroids. Removes harmful effects and increases All Resist."
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_2": {
+    "korean": "회심의 디저트 : AP{0}",
+    "english": "Finishing Dessert: AP {0}"
+  },
+  "BuffDesc2_Effect_3P_Aurora_N_2": {
+    "korean": "회심의 디저트 : 공격력{0}%",
+    "english": "Finishing Dessert : ATK {0}%"
+  },
+  "BuffDesc3_Effect_3P_Aurora_N_2": {
+    "korean": "회심의 디저트 : 적중{0}%",
+    "english": "Decisive Dessert: ACC {0}%"
+  },
+  "BuffDesc4_Effect_3P_Aurora_N_2": {
+    "korean": "회심의 디저트 : 해로운 효과 해제",
+    "english": "Decisive Dessert: Debuff Removal"
+  },
+  "BuffDesc5_Effect_3P_Aurora_N_2": {
+    "korean": "회심의 디저트 : 효과 저항{0}%",
+    "english": "Decisive Dessert: Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_21": {
+    "korean": "회심의 디저트 : 공격력{0}%",
+    "english": "Critical Dessert: ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_22": {
+    "korean": "회심의 디저트 : 적중{0}%",
+    "english": "Critical Dessert: ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_23": {
+    "korean": "회심의 디저트 : 해로운 효과 해제",
+    "english": "Critical Dessert: Debuff Removal"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_24": {
+    "korean": "회심의 디저트 : 효과 저항{0}%",
+    "english": "Critical Dessert: Status Resist {0}%"
+  },
+  "SkillName_Skill_3P_Aurora_N_3": {
+    "korean": "염동 역장",
+    "english": "Psychokinetic Field"
+  },
+  "SkillDesc_Skill_3P_Aurora_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군과 자신에게 방어막 부여 / 회피 증가 / 받는 피해 감소 효과를 부여합니다.",
+    "english": "At the start of the round, grants a Barrier, increased EVA, and reduced damage taken to allies within range and the user."
+  },
+  "SkillDescSimple_Skill_3P_Aurora_N_3": {
+    "korean": "범위 내 아군 방어막 / 회피 증가 / 받는 피해 감소",
+    "english": "Grants Barrier to allies within range, increases EVA, and grants Damage Reduction."
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_3": {
+    "korean": "염동 역장 : 방어막{0}",
+    "english": "Telekinetic Field: Barrier {0}"
+  },
+  "BuffDesc2_Effect_3P_Aurora_N_3": {
+    "korean": "염동 역장 : 받는 피해 {0}% 감소",
+    "english": "Telekinetic Field : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_3P_Aurora_N_3": {
+    "korean": "염동 역장 : 회피{0}%",
+    "english": "Psychokinetic Field: EVA {0}%"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_31": {
+    "korean": "염동 역장 : 받는 피해 {0}% 감소",
+    "english": "Psychokinetic Barrier: DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_32": {
+    "korean": "염동 역장 : 회피{0}%",
+    "english": "Psychokinetic Barrier: EVA {0}%"
+  },
+  "SkillName_Skill_3P_Aurora_N_4": {
+    "korean": "달콤한 향기",
+    "english": "Sweet Aroma"
+  },
+  "SkillDesc_Skill_3P_Aurora_N_4": {
+    "korean": "범위 내 바이오로이드 아군의 치명타 / 행동력이 증가합니다. 아우로라와 인접한 대상은 효과가 100% 추가 적용되며, 대상의 HP가 50% 이하인 경우에도 100% 추가 적용됩니다.",
+    "english": "Increases CRIT and SPD of Bioroid allies within range.&nTargets adjacent to Aurora receive 100% additional effect.&nAn additional 100% effect is also applied if the target's HP is 50% or lower."
+  },
+  "SkillDescSimple_Skill_3P_Aurora_N_4": {
+    "korean": "범위 내 아군 치명타 / 행동력 증가. 인접 아군은 효과 추가",
+    "english": "Increases CRIT and SPD of allies within range. Effects are enhanced for adjacent allies."
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_4": {
+    "korean": "달콤한 향기 : 치명타{0}%",
+    "english": "Sweet Aroma: CRIT {0}%"
+  },
+  "BuffDesc2_Effect_3P_Aurora_N_4": {
+    "korean": "달콤한 향기 : 행동력{0}%",
+    "english": "Sweet Aroma : SPD {0}%"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_41": {
+    "korean": "달콤한 향기 : 치명타{0}% (인접)",
+    "english": "Sweet Scent: CRIT {0}% (Adjacent)"
+  },
+  "BuffDesc2_Effect_3P_Aurora_N_41": {
+    "korean": "달콤한 향기 : 행동력{0}% (인접)",
+    "english": "Sweet Scent: SPD {0}% (Adjacent)"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_42": {
+    "korean": "달콤한 향기 : 치명타{0}% (일정 체력 이하)",
+    "english": "Sweet Scent: CRIT {0}% (Below certain HP)"
+  },
+  "BuffDesc2_Effect_3P_Aurora_N_42": {
+    "korean": "달콤한 향기 : 행동력{0}% (일정 체력 이하)",
+    "english": "Sweet Scent: SPD {0}% (Below certain HP)"
+  },
+  "SkillName_Skill_3P_Aurora_N_5": {
+    "korean": "드림 파티시에르",
+    "english": "Dream Pâtissière"
+  },
+  "SkillDesc_Skill_3P_Aurora_N_5": {
+    "korean": "전투 개시 시, 스쿼드 내 자신을 제외한 아군 바이오로이드 1기당 자신의 AP를 증가 시키고 라운드 개시 시, <회심의 디저트> 효과가 적용 중인 아군에게 효과 저항 / 강화 효과 해제 저항을 부여하고 보호 무시를 활성화 시킵니다. <밑준비> 효과가 적용 중인 적군의 강화 효과를 해제하고 강화 불가 상태를 부여합니다. (일반 효과)",
+    "english": "At the start of battle, increases own AP for each allied Bioroid in the squad, excluding the user.&nAt the start of the round, grants allies under the effect of Signature Dessert increased Effect Resistance, resistance to Buff Removal, and activates Protection Ignore.&nRemoves buffs from enemies under the effect of Preparation and inflicts Buff Block. (Normal Effect)"
+  },
+  "SkillDescSimple_Skill_3P_Aurora_N_5": {
+    "korean": "아군 AP 증가 / 효과 저항 / 강화 효과 해제 저항 / 보호 무시 활성화. 적군 강화 효과 해제 / 강화 불가 상태",
+    "english": "Increases allies' AP, All Resist, and Buff Removal Resist. Activates Ignore Protection. Removes buffs from enemies and inflicts Buff Prevention."
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_5": {
+    "korean": "드림 파티시에르 : AP{0} (자신 제외 바이오 1기당)",
+    "english": "Dream Patissier: AP {0} (Per Ally Bio Unit Except Self)"
+  },
+  "BuffDesc2_Effect_3P_Aurora_N_5": {
+    "korean": "드림 파티시에르 : 효과 저항{0}% (아군)",
+    "english": "Dream Patissier : Effect Resistance {0}% (Ally)"
+  },
+  "BuffDesc3_Effect_3P_Aurora_N_5": {
+    "korean": "드림 파티시에르 : 강화 해제 저항{0}% (아군)",
+    "english": "Dream Patissier: Buff removal resistance {0}% (Ally)"
+  },
+  "BuffDesc4_Effect_3P_Aurora_N_5": {
+    "korean": "드림 파티시에르 : 강화 효과 해제 (적군)",
+    "english": "Dream Pâtissière: Remove Enhancement Effect (Enemy)"
+  },
+  "BuffDesc5_Effect_3P_Aurora_N_5": {
+    "korean": "드림 파티시에르 : 강화 불가 상태 (적군)",
+    "english": "Dream Pâtissière: Cannot be enhanced (Enemy)"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_51": {
+    "korean": "드림 파티시에르 : AP{0} (자신 제외 바이오 2기)",
+    "english": "Dream Patissier: AP {0} (Excluding self, Bio 2 units)"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_52": {
+    "korean": "드림 파티시에르 : AP{0} (자신 제외 바이오 3기)",
+    "english": "Dream Patissier: AP {0} (Excluding self, Bio 3 units)"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_53": {
+    "korean": "드림 파티시에르 : AP{0} (자신 제외 바이오 4기)",
+    "english": "Dream Patissier: AP {0} (Excluding self, Bio 4 units)"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_54": {
+    "korean": "드림 파티시에르 : 강화 효과 해제",
+    "english": "Dream Patissier: Buff Removal"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_55": {
+    "korean": "드림 파티시에르 : 강화 불가 상태",
+    "english": "Dream Patissier: Cannot be buffed status"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_56": {
+    "korean": "드림 파티시에르 : 효과 저항{0}%",
+    "english": "Dream Patissier: Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_57": {
+    "korean": "드림 파티시에르 : 강화 해제 저항{0}%",
+    "english": "Dream Patissier: Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Aurora_N_58": {
+    "korean": "드림 파티시에르 : 보호 무시 활성화",
+    "english": "Dream Patissier: Activate Ignore Protection"
+  }
+}

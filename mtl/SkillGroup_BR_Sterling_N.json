@@ -1,0 +1,234 @@
+{
+  "SkillName_Skill_BR_Sterling_N_1": {
+    "korean": "창고 안에 쓰레기가",
+    "english": "Trash Inside the Warehouse"
+  },
+  "SkillDesc_Skill_BR_Sterling_N_1": {
+    "korean": "지정 범위의 적들에게 {0} 피해를 입히고 적중시 2라운드 동안 지속되는 공격력 감소/ 회피 감소/ 받는 피해 증가/ 효과 저항 감소 해로운 효과를 각각 33%확률로 부여합니다.&n각 효과는 모두 적용되거나 그렇지 않을 수 있으며 중첩 제한이 없습니다.&n스쿼드에 파프니르, 멸망의 메이, B-11 나이트 앤젤, P-18 실피드, A-87 밴시, B-7 스트라토 엔젤, AL 레이스가 있을 시, 100%로 [뇌정벽력], [융단 폭격], [ATS미사일], [60형 LMG], [기관포 소사], [미사일 난사], [공중 저격] 스킬로 협동 공격을 유도됩니다. &n협동 공격이 가능한 전투원이 여렷인 경우, 위 표기된 순으로 우선권을 가집니다. (파프니르->AL 레이스 순)&n다수의 적이 대상인 경우, 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다.",
+    "english": "Deals {0} damage to enemies within the designated range and, on hit, has a 33% chance to apply each of the following harmful effects for 2 rounds: ATK Reduction, EVA Reduction, DMG Taken Increase, Status Resist Reduction. Each effect may be applied independently, and there is no stacking limit. If Fafnir, May of Destruction, B‑11 Night Angel, P‑18 Sylphid, A‑87 Banshee, B‑7 Strato Angel, and AL Wraith are in the squad, a Cooperative Attack is triggered with 100% chance using the skills [Thunderbolt], [Carpet Bombing], [ATS Missile], [Type 60 LMG], [Machine Gun Slash], [Missile Barrage], and [Aerial Sniper]. When multiple combatants can perform a Cooperative Attack, priority follows the order listed (Fafnir → AL Wraith). If multiple enemies are targeted, the enemy within range is chosen first; if a Cooperative Attack is impossible due to range, the next combatant in the sequence executes it."
+  },
+  "SkillDescSimple_Skill_BR_Sterling_N_1": {
+    "korean": "지정 범위에 {0} 피해, 적중시 2라운드  공격력 감소/ 회피 감소/ 받는 피해 증가/ 효과 저항 감소 해로운 효과를 각각 33%로 부여&n스쿼드 구성원에 따라 협동 공격 유도",
+    "english": "{0} DMG to designated area / ATK Reduction / EVA Reduction / DMG Taken Increase / Status Resist Reduction each 33% chance / induces Cooperative Attack depending on squad members"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_1": {
+    "korean": "뭔가 무거운 쓰레기: 공격력 {0}%",
+    "english": "Heavy Junk : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sterling_N_1": {
+    "korean": "냄새나는 쓰레기: 회피 {0}%",
+    "english": "Stinky Junk : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sterling_N_1": {
+    "korean": "재활용 불가 쓰레기: 받는 피해 증가 {0}%",
+    "english": "Unrecyclable Junk : DMG Taken Increased {0}%"
+  },
+  "BuffDesc4_Effect_BR_Sterling_N_1": {
+    "korean": "씨끄러운 쓰레기: 효과 저항 감소 {0}%",
+    "english": "Grimy Junk : Status Resist {0}% Decrease"
+  },
+  "BuffDesc5_Effect_BR_Sterling_N_1": {
+    "korean": "창고안에…: 협동 공격",
+    "english": "Warehouse Cache… : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_11": {
+    "korean": "냄새나는 쓰레기: 회피 {0}%",
+    "english": "Stinky Junk : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_12": {
+    "korean": "재활용 불가 쓰레기: 받는 피해 증가 {0}%",
+    "english": "Unrecyclable Junk : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_13": {
+    "korean": "시끄러운 쓰레기: 효과 저항 감소 {0}%",
+    "english": "Clamorous Junk : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_111": {
+    "korean": "창고안에…: 협동 공격(파프니르)",
+    "english": "Warehouse Cache… : Cooperative Attack (Fafnir)"
+  },
+  "SkillName_Skill_BR_Sterling_N_2": {
+    "korean": "창고 안에 이런 보물이",
+    "english": "Such a Treasure Inside the Warehouse"
+  },
+  "SkillDesc_Skill_BR_Sterling_N_2": {
+    "korean": "지정 범위 아군에게 2라운드 동안 공격력/ 스킬 위력 증가 버프를 줍니다. (중첩 무제한)&n대상이 둠 브링어 구성원이라면 2배 수치로 적용됩니다. 파프니르라면 3배 수치로 적용되고 AP가 증가합니다.",
+    "english": "Grants allies within the designated range a 2‑round buff of ATK and Skill Power (unlimited stacking). If the target is a Doom Bringer member, the values are doubled. If the target is Fafnir, the values are tripled and AP is increased."
+  },
+  "SkillDescSimple_Skill_BR_Sterling_N_2": {
+    "korean": "지정 범위 아군 2라운드동안 공격력/ 스킬 위력 버프. &n둠 브링어 2배/ 파프니르라면 3배 수치 적용 및 AP 증가",
+    "english": "ATK / Skill Power buff to allies within the designated area for 2 rounds / Doom Bringer 2× / Fafnir 3× and AP increase"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_2": {
+    "korean": "창고안에 이런 보물이: 공격력 {0}%",
+    "english": "Warehouse Treasure : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sterling_N_2": {
+    "korean": "창고안에 이런 보물이: 스킬 위력 {0}%",
+    "english": "Warehouse Treasure : Skill Power {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sterling_N_2": {
+    "korean": "창고안에 이런 보물이(파프니르): AP {0}",
+    "english": "Warehouse Treasure (Fafnir) : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_21": {
+    "korean": "창고안에 이런 보물이(둠 브링어): 공격력 {0}%",
+    "english": "Warehouse Treasure (Doom Bringer) : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sterling_N_21": {
+    "korean": "창고안에 이런 보물이(둠 브링어): 스킬 위력 {0}%",
+    "english": "Warehouse Treasure (Doom Bringer) : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_22": {
+    "korean": "창고안에 이런 보물이(파프니르): 공격력 {0}%",
+    "english": "Warehouse Treasure (Fafnir) : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sterling_N_22": {
+    "korean": "창고안에 이런 보물이(파프니르): 스킬 위력 {0}%",
+    "english": "Warehouse Treasure (Fafnir) : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_23": {
+    "korean": "창고안에 이런 보물이(파프니르): AP {0}",
+    "english": "Warehouse Treasure (Fafnir) : AP {0}"
+  },
+  "SkillName_Skill_BR_Sterling_N_3": {
+    "korean": "이걸 빠뜨렸네요",
+    "english": "I Missed This."
+  },
+  "SkillDesc_Skill_BR_Sterling_N_3": {
+    "korean": "라운드 개시시 1라운드 동안 범위내 아군에게 적중/ 치명타/ 행동력 증가 버프를 줍니다.&n대상이 둠 브링어 구성원이라면 2배 수치로 적용됩니다. 파프니르라면 3배 수치로 적용되고 1라운드 동안 방어막 및 받는 피해 감소 무시 버프를 얻습니다.",
+    "english": "At the start of a round, grants allies within range a 1‑round buff of ACC, CRIT, and SPD. If the target is a Doom Bringer member, the values are doubled. If the target is Fafnir, the values are tripled and they receive a Barrier and Ignore Barrier / DMG Reduction for 1 round."
+  },
+  "SkillDescSimple_Skill_BR_Sterling_N_3": {
+    "korean": "라운드 개시 시 1라운드 동안 아군에게 적중/ 치명타/ 공격력 버프. 특정 구성원에게는 추가 효과",
+    "english": "At the start of a round, grants allies ACC, CRIT, and ATK buffs for 1 round. Additional effects apply to specific members."
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_3": {
+    "korean": "이걸 빠뜨렸네요: 적중 {0}%",
+    "english": "Missed Item : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sterling_N_3": {
+    "korean": "이걸 빠뜨렸네요: 치명타 {0}%",
+    "english": "Missed Item : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sterling_N_3": {
+    "korean": "이걸 빠뜨렸네요: 행동력 {0}%",
+    "english": "Missed Item : SPD {0}%"
+  },
+  "BuffDesc4_Effect_BR_Sterling_N_3": {
+    "korean": "이걸 빠뜨렸네요(파프니르): 방어막 및 받는 피해 감소 무시",
+    "english": "I missed this (Fafnir) : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_31": {
+    "korean": "이걸 빠뜨렸네요(둠 브링어): 적중 {0}%",
+    "english": "Missed Item (Doom Bringer) : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sterling_N_31": {
+    "korean": "이걸 빠뜨렸네요(둠 브링어): 치명타 {0}%",
+    "english": "Missed Item (Doom Bringer) : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sterling_N_31": {
+    "korean": "이걸 빠뜨렸네요(둠 브링어): 행동력 {0}%",
+    "english": "Missed Item (Doom Bringer) : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_32": {
+    "korean": "이걸 빠뜨렸네요(파프니르): 적중 {0}%",
+    "english": "Missed Item (Fafnir) : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sterling_N_32": {
+    "korean": "이걸 빠뜨렸네요(파프니르): 치명타 {0}%",
+    "english": "Missed Item (Fafnir) : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sterling_N_32": {
+    "korean": "이걸 빠뜨렸네요(파프니르): 행동력 {0}%",
+    "english": "Missed Item (Fafnir) : SPD {0}%"
+  },
+  "BuffDesc4_Effect_BR_Sterling_N_32": {
+    "korean": "이걸 빠뜨렸네요(파프니르): 방어막 및 받는 피해 감소 무시",
+    "english": "I missed this (Fafnir) : Ignore Barrier / DMG Reduction"
+  },
+  "SkillName_Skill_BR_Sterling_N_4": {
+    "korean": "계획? 아니면 임기응변?",
+    "english": "A Plan? Or Improvisation?"
+  },
+  "SkillDesc_Skill_BR_Sterling_N_4": {
+    "korean": "전투 개시시 아군 전원의 AP를 증가시킵니다. &n라운드 개시시 둠 브링어 구성원과 파프니르의 AP를 증가시킵니다.&n자신을 제외한 아군이 공격을 성공시키거나 아군에게 스킬을 사용하면 모든 아군에게 1라운드 동안 공격력 증가 버프를 줍니다.(5중첩) 이 수치는 둠 브링어 구성원은 2배, 파프니르는 3배로 적용되며 추가로 스킬위력이 증가합니다. (5중첩)&n협동 공격, 공격 지원, 반격은 이 효과를 발동시키지 않습니다.",
+    "english": "Increases AP of all allies at combat start. At round start, increases AP of Doom Bringer members and Fafnir. When any ally (except self) lands a successful attack or uses a skill on an ally, all allies gain an ATK buff for 1 round (up to 5 stacks). The buff value is doubled for Doom Bringer members and tripled for Fafnir, and also raises Skill Power (up to 5 stacks). Cooperative Attacks, Follow‑Up Attack, and Counter‑Attack do not trigger this effect."
+  },
+  "SkillDescSimple_Skill_BR_Sterling_N_4": {
+    "korean": "전투 개시시, 아군 AP 증가&n라운드 개시시, 특정 아군 AP 증가, 아군 공격 성공시 전체 공격력 증가, 특정 전투원 추가 효과",
+    "english": "Increase ally AP at combat start / increase specific ally AP at round start / increase overall ATK when an ally attack succeeds / additional effect for specific combatants"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_4": {
+    "korean": "계획? 아니면 임기응변?: AP {0}",
+    "english": "Plan? Or Improvisation? : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Sterling_N_4": {
+    "korean": "계획? 아니면 임기응변?(둠 브링어/파프니르): AP {0}",
+    "english": "Plan? Or Improvisation? (Doom Bringer/Fafnir) : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Sterling_N_4": {
+    "korean": "계획? 아니면 임기응변?: 아군 공격 성공시 공격력 {0}%",
+    "english": "A Plan? Or Improvisation? : ATK {0}%"
+  },
+  "BuffDesc4_Effect_BR_Sterling_N_4": {
+    "korean": "계획? 아니면 임기응변?(파프니르): 아군 공격 성공시 스킬 위력 {0}%",
+    "english": "A Plan? Or Improvisation? (Fafnir) : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_41": {
+    "korean": "계획? 아니면 임기응변?(둠 브링어/파프니르) : AP {0}",
+    "english": "Plan? Or Improvisation? (Doom Bringer/Fafnir) : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_42": {
+    "korean": "계획? 아니면 임기응변?: 아군 공격 성공시 공격력 {0}%",
+    "english": "A Plan? Or Improvisation? : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_43": {
+    "korean": "계획? 아니면 임기응변?(둠 브링어):아군 공격 성공시 공격력 {0}%",
+    "english": "A Plan? Or Improvisation? (Doom Bringer) : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_44": {
+    "korean": "계획? 아니면 임기응변?(파프니르):아군 공격 성공시 공격력 {0}%",
+    "english": "A Plan? Or Improvisation? (Fafnir) : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_45": {
+    "korean": "계획? 아니면 임기응변?(파프니르):아군 공격 성공시 스킬위력 {0}%",
+    "english": "A Plan? Or Improvisation? (Fafnir) : Skill Power {0}%"
+  },
+  "SkillName_Skill_BR_Sterling_N_5": {
+    "korean": "하카 never die!",
+    "english": "Haka Never Die!"
+  },
+  "SkillDesc_Skill_BR_Sterling_N_5": {
+    "korean": "라운드 개시시 1라운드 동안 범위내 아군에게 방어력/ 효과 저항 증가 버프를 줍니다. &n추가로 파프니르에게 1라운드 동안 피해 무효화 1회(고정)버프를 줍니다.&n어떤 아군이든 피격 당하면 모든 아군에게 기존 방어막 효과를 제거시키고 1라운드동안 방어막 버프를 줍니다.(1중첩)",
+    "english": "At round start, grants allies within range a 1‑round buff of DEF and Status Resist. Additionally, grants Fafnir a one‑time Damage Nullification buff for 1 round. When any ally is hit, all allies lose existing Barrier effects and receive a Barrier buff for 1 round (1 stack)."
+  },
+  "SkillDescSimple_Skill_BR_Sterling_N_5": {
+    "korean": "라운드 개시시, 1라운드 동안 아군에게 방어력/ 효과 저항 증가&n특정 구성원에게 추가 효과. &n아군 피격시 모든 아군에게 방어막",
+    "english": "At round start, increase DEF and Status Resist for allies for 1 round / additional effect for specific members / when an ally is hit, grant Barrier to all allies"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_5": {
+    "korean": "하카 never die!: 방어력 {0}%",
+    "english": "Haka Never Die! : DEF {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sterling_N_5": {
+    "korean": "하카 never die!: 효과 저항 {0}%",
+    "english": "Haka Never Die! : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sterling_N_5": {
+    "korean": "하카 Never Die!(파프니르): 피해무효화 {0}",
+    "english": "Haka Never Die! (Fafnir) : Damage Nullification {0}"
+  },
+  "BuffDesc4_Effect_BR_Sterling_N_5": {
+    "korean": "하카 never die!: 아군 피격시 보호막 {0}",
+    "english": "Haka Never Die! : Barrier {0}"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_51": {
+    "korean": "하카 never die!:아군 피격시 방어막 {0}",
+    "english": "Haka Never Die! : Barrier {0}"
+  },
+  "BuffDesc1_Effect_BR_Sterling_N_52": {
+    "korean": "하카 never die!(파프니르): 피해무효화 {0}회",
+    "english": "Haka Never Die! (Fafnir) : Damage Nullification {0} Times"
+  }
+}

@@ -1,0 +1,614 @@
+{
+  "SkillName_Skill_BR_Alvis_N_1": {
+    "korean": "알비스 출동!",
+    "english": "Alvis Deploy!"
+  },
+  "SkillDesc_Skill_BR_Alvis_N_1": {
+    "korean": "기관단총으로 단일 대상에게 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상을 도발 / 공격력 / 치명타 / 행동력 감소 상태로 만듭니다.&n<철혈의 레오나>의 <방어 지휘>가 활성화된 경우, 상기 효과의 수치가 50% 증폭됩니다.",
+    "english": "Deals {0} damage to a single target with a submachine gun.\\nOn hit, applies Provoked, ATK Reduction, CRIT Reduction, and SPD Reduction for 2 rounds.\\nIf <Iron-Blooded Leona>'s <DEF Command> is active, the effect values are increased by 50%."
+  },
+  "SkillDescSimple_Skill_BR_Alvis_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상 도발 / 공격력 / 치명타 / 행동력 감소.",
+    "english": "Deals {0} damage to a single target. Applies Provoked, ATK Reduction, CRIT Reduction, and SPD Reduction."
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_1": {
+    "korean": "알비스 출동! : 도발 (알비스)",
+    "english": "Alvis Deploy! : Provoked (Alvis)"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_1": {
+    "korean": "알비스 출동! : 공격력 {0}%",
+    "english": "Alvis Deploy! : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_1": {
+    "korean": "알비스 출동! : 치명타 {0}%",
+    "english": "Alvis Deploy! : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_1": {
+    "korean": "알비스 출동! : 행동력 {0}%",
+    "english": "Alvis Deploy! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_11": {
+    "korean": "알비스 출동! : 공격력 {0}% (증폭)",
+    "english": "Alvis Deploy! : ATK {0}% (Amplified)"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_11": {
+    "korean": "알비스 출동! : 치명타 {0}% (증폭)",
+    "english": "Alvis Deploy! : CRIT {0}% (Amplified)"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_11": {
+    "korean": "알비스 출동! : 행동력 {0}% (증폭)",
+    "english": "Alvis Deploy! : SPD {0}% (Amplified)"
+  },
+  "SkillName_Skill_BR_Alvis_N_2": {
+    "korean": "뭉게뭉게!",
+    "english": "Smoky!"
+  },
+  "SkillDesc_Skill_BR_Alvis_N_2": {
+    "korean": "연막을 퍼트려 3라운드 동안 범위 내 아군에게 광역 피해 분산 / 받는 피해 감소 효과를 부여합니다. (중첩 불가)&n광역 피해량 분산은 적의 공격 범위에 포함된 아군이 많을수록 받는 광역 공격의 최종 피해량이 감소하며, 광역 공격 범위 그리드와 공격을 받는 아군 수가 같을 때 최대로 적용됩니다. &n스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "Deploys a smoke screen that grants Area DMG Dispersion and DMG Reduction to allies within range for 3 rounds. (Cannot stack)\\nArea DMG Dispersion reduces the final damage of AoE attacks based on the number of allies within the enemy's attack range—the more allies, the greater the reduction, reaching maximum when the number of affected allies equals the number of AoE grid tiles.\\nAt skill level 10, the skill's range increases."
+  },
+  "SkillDescSimple_Skill_BR_Alvis_N_2": {
+    "korean": "범위 내 아군 광역 피해 분산 / 받는 피해 감소.",
+    "english": "Grants Area DMG Dispersion and DMG Reduction to allies within range."
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_2": {
+    "korean": "뭉게뭉게! : 받는 피해 {0}% 감소",
+    "english": "Smoky! : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_2": {
+    "korean": "뭉게뭉게! : 광역 피해 분산 {0}% (최대)",
+    "english": "Smoky! : Area DMG Dispersion {0}% (Max)"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_21": {
+    "korean": "뭉게뭉게! : 광역 피해 분산 {0}% (최대)",
+    "english": "Smoky! : Area DMG Dispersion {0}% (Max)"
+  },
+  "SkillName_Skill_BR_Alvis_N_3": {
+    "korean": "못 지나갈걸?",
+    "english": "You Won't Get Through!"
+  },
+  "SkillDesc_Skill_BR_Alvis_N_3": {
+    "korean": "전투 개시 시, 범위 내 경장형 공격기 / 지원기의 AP가 증가합니다.&n라운드 개시 시, 범위 내 경장형 공격기 / 지원기를 지정 보호합니다.&n라운드 개시 시, 자신의 방어력과 냉기 저항이 증가하고 받는 피해가 감소합니다.",
+    "english": "At the start of battle, increases the AP of Light-type Attacker and Supporter allies within range.\\nAt the start of each round, grants Designated Protection to Light-type Attacker and Supporter allies within range.\\nAt the start of each round, increases own DEF and Cold Resist, and reduces DMG taken."
+  },
+  "SkillDescSimple_Skill_BR_Alvis_N_3": {
+    "korean": "범위 내 아군 AP 증가 / 지정 보호. 자신 방어력 / 냉기 저항 증가 / 받는 피해 감소.",
+    "english": "Increases AP and grants Designated Protection to allies within range.\\nIncreases own DEF and Cold Resist, and reduces DMG taken."
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_3": {
+    "korean": "지켜줄게! : AP {0}",
+    "english": "I’ll Protect You! : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_3": {
+    "korean": "지켜줄게! : 지정 보호",
+    "english": "I’ll Protect You!: Target Protect"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_3": {
+    "korean": "못 지나갈걸? : 방어력 {0}%",
+    "english": "You Won't Get Through! : DEF {0}%"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_3": {
+    "korean": "못 지나갈걸? : 냉기 저항 {0}%",
+    "english": "You Won't Get Through! : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_BR_Alvis_N_3": {
+    "korean": "못 지나갈걸? : 받는 피해 {0}% 감소",
+    "english": "You Won't Get Through! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_31": {
+    "korean": "지켜줄게! : 지정 보호",
+    "english": "I’ll Protect You! : Target Protect"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_32": {
+    "korean": "못 지나갈걸? : 방어력 {0}%",
+    "english": "You Won't Get Through! : DEF {0}%"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_32": {
+    "korean": "못 지나갈걸? : 냉기 저항 {0}%",
+    "english": "You Won't Get Through! : Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_32": {
+    "korean": "못 지나갈걸? : 받는 피해 {0}% 감소",
+    "english": "You Won't Get Through! : DMG Reduction {0}%"
+  },
+  "SkillName_Skill_BR_Alvis_N_4": {
+    "korean": "한 개 먹을래?",
+    "english": "Want a Bite?"
+  },
+  "SkillDesc_Skill_BR_Alvis_N_4": {
+    "korean": "라운드 개시 시, 자신보다 행동력이 낮은 적을 도발하며 회피를 감소시킵니다.&n라운드 개시 시, 도발 상태인 모든 적의 받는 피해를 증가시킵니다. 해당 효과는 대상이 피격 시 해제됩니다.&n<철혈의 레오나>의 <공격 지휘>가 활성화된 경우, 상기 효과의 수치가 50% 증폭됩니다.",
+    "english": "At the start of the round, Provokes enemies with lower SPD than you and reduces their EVA.\\nAt the start of the round, increases DMG Taken for all Provoked enemies. This effect is removed when the target is hit.\\nIf <Iron-Blooded Leona>'s <ATK Command> is active, the effect values are increased by 50%."
+  },
+  "SkillDescSimple_Skill_BR_Alvis_N_4": {
+    "korean": "조건부 적 도발 / 회피 감소 / 받는 피해 증가.",
+    "english": "Conditionally Provokes, EVA Reduction, and DMG Taken Increased on enemies."
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_4": {
+    "korean": "한 개 먹을래? : 도발 (알비스)",
+    "english": "Want a Bite? : Provoked (Alvis)"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_4": {
+    "korean": "한 개 먹을래? : 회피 {0}%",
+    "english": "Want a Bite? : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_4": {
+    "korean": "한 개 먹을래? : 받는 피해 {0}% 증가",
+    "english": "Want a Bite? : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_41": {
+    "korean": "한 개 먹을래? : 받는 피해 {0}% 증가",
+    "english": "Want a Bite? : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_42": {
+    "korean": "한 개 먹을래? : 회피 {0}% (증폭)",
+    "english": "Want a Bite? : EVA {0}% (Amplified)"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_43": {
+    "korean": "한 개 먹을래? : 받는 피해 {0}% 증가 (증폭)",
+    "english": "Want a Bite? : DMG Taken Increased {0}% (Amplified)"
+  },
+  "SkillName_Skill_BR_Alvis_N_5": {
+    "korean": "초코 포메이션!",
+    "english": "Choco Formation!"
+  },
+  "SkillDesc_Skill_BR_Alvis_N_5": {
+    "korean": "라운드 개시 시, 범위 내 보호기를 제외한 아군을 지정 보호합니다. &n라운드 개시 시, 다음 조건을 만족하는 전투원 1기당 범위 내 아군의 공격력 / 방어력 / 회피 / AP를 증가시킵니다.&n- 신장 145cm 이하의 바이오로이드 또는 <시스터즈 오브 발할라> 소속",
+    "english": "At the start of the round, grants Designated Protection to all allies within range, excluding Defenders.\\nAt the start of the round, for each combatant that meets the following conditions, increases the ATK, DEF, EVA, and AP of allies within range:\\n- Bioroid with a height of 145 cm or less, or affiliated with <Sisters of Valhalla>."
+  },
+  "SkillDescSimple_Skill_BR_Alvis_N_5": {
+    "korean": "범위 내 아군 지정 보호. 조건부 공격력 / 방어력 / 회피 / AP 증가.",
+    "english": "Designated Protection to allies within range. Conditional ATK, DEF, EVA, and AP increase."
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_5": {
+    "korean": "초코 포메이션! : 지정 보호 (공격/지원)",
+    "english": "Choco Formation! : Designated Protection (Attack/Support)"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_5": {
+    "korean": "초코 포메이션! : 공격력 {0}",
+    "english": "Choco Formation! : ATK {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_5": {
+    "korean": "초코 포메이션! : 방어력 {0}",
+    "english": "Choco Formation! : DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_5": {
+    "korean": "초코 포메이션! : 회피 {0}%",
+    "english": "Choco Formation! : EVA {0}%"
+  },
+  "BuffDesc5_Effect_BR_Alvis_N_5": {
+    "korean": "초코 포메이션! : AP {0}",
+    "english": "Choco Formation! : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_51": {
+    "korean": "코코! : 공격력 {0}",
+    "english": "Coco!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_51": {
+    "korean": "코코! : AP {0}",
+    "english": "Coco! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_51": {
+    "korean": "코코! : 방어력 {0}",
+    "english": "Coco!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_51": {
+    "korean": "코코! : 회피 {0}%",
+    "english": "Coco!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_52": {
+    "korean": "LRL! : 공격력 {0}",
+    "english": "LRL!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_52": {
+    "korean": "LRL! : AP {0}",
+    "english": "LRL! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_52": {
+    "korean": "LRL! : 방어력 {0}",
+    "english": "LRL!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_52": {
+    "korean": "LRL! : 회피 {0}%",
+    "english": "LRL!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_53": {
+    "korean": "더치걸... 언니! : 공격력 {0}",
+    "english": "Dutch Girl... Sister!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_53": {
+    "korean": "더치걸... 언니! : AP {0}",
+    "english": "Dutch Girl... Sister! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_53": {
+    "korean": "더치걸... 언니! : 방어력 {0}",
+    "english": "Dutch Girl... Sister! : Def {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_53": {
+    "korean": "더치걸... 언니! : 회피 {0}%",
+    "english": "Dutch Girl... Sister!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_54": {
+    "korean": "초코바 빼먹어서 미안해, 안드바리! : 공격력 {0}",
+    "english": "Sorry for taking the chocolate bar, Andvari!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_54": {
+    "korean": "초코바 빼먹어서 미안해, 안드바리! : AP {0}",
+    "english": "Sorry I forgot the chocolate bar, Andvari! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_54": {
+    "korean": "초코바 빼먹어서 미안해, 안드바리! : 방어력 {0}",
+    "english": "Sorry I forgot the chocolate bar, Andvari! : DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_54": {
+    "korean": "초코바 빼먹어서 미안해, 안드바리! : 회피 {0}%",
+    "english": "Sorry I ate the chocolate bar, Andvari!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_55": {
+    "korean": "탓치! : 공격력 {0}",
+    "english": "Tatchi!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_55": {
+    "korean": "탓치! : AP {0}",
+    "english": "Touch! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_55": {
+    "korean": "탓치! : 방어력 {0}",
+    "english": "Tatchi!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_55": {
+    "korean": "탓치! : 회피 {0}%",
+    "english": "Tatchi!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_56": {
+    "korean": "이프리트 병장님! : 공격력 {0}",
+    "english": "Sergeant Efreeti! : ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_56": {
+    "korean": "이프리트 병장님! : AP {0}",
+    "english": "Sergeant Efreeti! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_56": {
+    "korean": "이프리트 병장님! : 방어력 {0}",
+    "english": "Sergeant Efreeti! : DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_56": {
+    "korean": "이프리트 병장님! : 회피 {0}%",
+    "english": "Sergeant Efreeti! : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_57": {
+    "korean": "아쿠아! : 공격력 {0}",
+    "english": "Aqua!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_57": {
+    "korean": "아쿠아! : AP {0}",
+    "english": "Aqua! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_57": {
+    "korean": "아쿠아! : 방어력 {0}",
+    "english": "Aqua!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_57": {
+    "korean": "아쿠아! : 회피 {0}%",
+    "english": "Aqua!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_58": {
+    "korean": "엘라 언니! : 공격력 {0}",
+    "english": "Sister Ella!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_58": {
+    "korean": "엘라 언니! : AP {0}",
+    "english": "Sister Ella! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_58": {
+    "korean": "엘라 언니! : 방어력 {0}",
+    "english": "Sister Ella!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_58": {
+    "korean": "엘라 언니! : 회피 {0}%",
+    "english": "Sister Ella!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_59": {
+    "korean": "메이 대장님! : 공격력 {0}",
+    "english": "Captain May!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_59": {
+    "korean": "메이 대장님! : AP {0}",
+    "english": "Captain May! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_59": {
+    "korean": "메이 대장님! : 방어력 {0}",
+    "english": "Captain May!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_59": {
+    "korean": "메이 대장님! : 회피 {0}%",
+    "english": "Captain May!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_510": {
+    "korean": "닥터 언니! : 공격력 {0}",
+    "english": "Doctor Sister!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_510": {
+    "korean": "닥터 언니! : AP {0}",
+    "english": "Doctor Unnie! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_510": {
+    "korean": "닥터 언니! : 방어력 {0}",
+    "english": "Doctor Sister!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_510": {
+    "korean": "닥터 언니! : 회피 {0}%",
+    "english": "Doctor Sister!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_511": {
+    "korean": "실키 언니! : 공격력 {0}",
+    "english": "Sister Silky!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_511": {
+    "korean": "실키 언니! : AP {0}",
+    "english": "Silky Sister! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_511": {
+    "korean": "실키 언니! : 방어력 {0}",
+    "english": "Sister Silky!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_511": {
+    "korean": "실키 언니! : 회피 {0}%",
+    "english": "Sister Silky!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_512": {
+    "korean": "드라큐리나 언니! : 공격력 {0}",
+    "english": "Sister Draculina!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_512": {
+    "korean": "드라큐리나 언니! : AP {0}",
+    "english": "Sister Draculina! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_512": {
+    "korean": "드라큐리나 언니! : 방어력 {0}",
+    "english": "Sister Draculina!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_512": {
+    "korean": "드라큐리나 언니! : 회피 {0}%",
+    "english": "Sister Draculina!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_513": {
+    "korean": "모모 언니! : 공격력 {0}",
+    "english": "Sister Momo!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_513": {
+    "korean": "모모 언니! : AP {0}",
+    "english": "Sister Momo! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_513": {
+    "korean": "모모 언니! : 방어력 {0}",
+    "english": "Sister Momo!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_513": {
+    "korean": "모모 언니! : 회피 {0}%",
+    "english": "Sister Momo!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_514": {
+    "korean": "불가사리 언니! : 공격력 {0}",
+    "english": "Sister Bulgasari!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_514": {
+    "korean": "불가사리 언니! : AP {0}",
+    "english": "Sister Bulgasari! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_514": {
+    "korean": "불가사리 언니! : 방어력 {0}",
+    "english": "Sister Bulgasari!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_514": {
+    "korean": "불가사리 언니! : 회피 {0}%",
+    "english": "Sister Bulgasari!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_515": {
+    "korean": "실피드 언니! : 공격력 {0}",
+    "english": "Sister Sylphid!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_515": {
+    "korean": "실피드 언니! : AP {0}",
+    "english": "Sister Sylphid! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_515": {
+    "korean": "실피드 언니! : 방어력 {0}",
+    "english": "Sister Sylphid!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_515": {
+    "korean": "실피드 언니! : 회피 {0}%",
+    "english": "Sister Sylphid!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_516": {
+    "korean": "엠프리스! : 공격력 {0}",
+    "english": "Empress!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_516": {
+    "korean": "엠프리스! : AP {0}",
+    "english": "Empress! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_516": {
+    "korean": "엠프리스! : 방어력 {0}",
+    "english": "Empress!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_516": {
+    "korean": "엠프리스! : 회피 {0}%",
+    "english": "Empress!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_517": {
+    "korean": "초코 대마왕 등장!!! : 공격력 {0}",
+    "english": "Chocolate Demon King Appears!!!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_517": {
+    "korean": "초코 대마왕 등장!!! : AP {0}",
+    "english": "The Chocolate Demon King Appears!!! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_517": {
+    "korean": "초코 대마왕 등장!!! : 방어력 {0}",
+    "english": "Chocolate Demon King Appears!!!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_517": {
+    "korean": "초코 대마왕 등장!!! : 회피 {0}%",
+    "english": "Chocolate Demon King Appears!!!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_518": {
+    "korean": "테티스! : 공격력 {0}",
+    "english": "Thetis!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_518": {
+    "korean": "테티스! : AP {0}",
+    "english": "Thetis! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_518": {
+    "korean": "테티스! : 방어력 {0}",
+    "english": "Thetis!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_518": {
+    "korean": "테티스! : 회피 {0}%",
+    "english": "Thetis!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_519": {
+    "korean": "가끔 혼내지만 많이 안아주는 베라 언니! : 공격력 {0}",
+    "english": "Sister Bheur, who scolds sometimes but hugs a lot!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_519": {
+    "korean": "가끔 혼내지만 많이 안아주는 베라 언니! : AP {0}",
+    "english": "Sister Bheur, who sometimes scolds me but hugs me a lot! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_519": {
+    "korean": "가끔 혼내지만 많이 안아주는 베라 언니! : 방어력 {0}",
+    "english": "Sister Bheur, who scolds sometimes but hugs a lot!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_519": {
+    "korean": "가끔 혼내지만 많이 안아주는 베라 언니! : 회피 {0}%",
+    "english": "Sister Bheur, who scolds sometimes but hugs a lot!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_520": {
+    "korean": "정말 좋아하는 레오나 대장님! : 공격력 {0}",
+    "english": "Captain Leona, whom I really like!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_520": {
+    "korean": "정말 좋아하는 레오나 대장님! : AP {0}",
+    "english": "I really like Captain Leona! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_520": {
+    "korean": "정말 좋아하는 레오나 대장님! : 방어력 {0}",
+    "english": "Captain Leona, whom I really like!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_520": {
+    "korean": "정말 좋아하는 레오나 대장님! : 회피 {0}%",
+    "english": "Captain Leona, whom I really like!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_521": {
+    "korean": "부둥부둥 자주 해주는 발키리 언니! : 공격력 {0}",
+    "english": "Sister Valkyrie, who hugs often!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_521": {
+    "korean": "부둥부둥 자주 해주는 발키리 언니! : AP {0}",
+    "english": "Valkyrie sister who often does bouncy dances! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_521": {
+    "korean": "부둥부둥 자주 해주는 발키리 언니! : 방어력 {0}",
+    "english": "Sister Valkyrie, who hugs often!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_521": {
+    "korean": "부둥부둥 자주 해주는 발키리 언니! : 회피 {0}%",
+    "english": "Sister Valkyrie, who hugs often!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_522": {
+    "korean": "초코 친구 님프 언니! : 공격력 {0}",
+    "english": "Chocolate Friend Nymph Sister!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_522": {
+    "korean": "초코 친구 님프 언니! : AP {0}",
+    "english": "Choco Friend Nymph Sister! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_522": {
+    "korean": "초코 친구 님프 언니! : 방어력 {0}",
+    "english": "Chocolate Friend Nymph Sister!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_522": {
+    "korean": "초코 친구 님프 언니! : 회피 {0}%",
+    "english": "Chocolate Friend Nymph Sister!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_523": {
+    "korean": "장난감 만들어줘서 고마워, 그렘린 언니! : 공격력 {0}",
+    "english": "Thanks for making toys, Sister Gremlin!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_523": {
+    "korean": "장난감 만들어줘서 고마워, 그렘린 언니! : AP {0}",
+    "english": "Thanks for making the toy, Gremlin! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_523": {
+    "korean": "장난감 만들어줘서 고마워, 그렘린 언니! : 방어력 {0}",
+    "english": "Thanks for making toys, Sister Gremlin!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_523": {
+    "korean": "장난감 만들어줘서 고마워, 그렘린 언니! : 회피 {0}%",
+    "english": "Thanks for making toys, Sister Gremlin!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_524": {
+    "korean": "무섭지만 상냥한 샌드걸 언니! : 공격력 {0}",
+    "english": "Sister Sand Girl, scary but gentle!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_524": {
+    "korean": "무섭지만 상냥한 샌드걸 언니! : AP {0}",
+    "english": "Scary but kind Sand Girl! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_524": {
+    "korean": "무섭지만 상냥한 샌드걸 언니! : 방어력 {0}",
+    "english": "Sister Sand Girl, scary but gentle!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_524": {
+    "korean": "무섭지만 상냥한 샌드걸 언니! : 회피 {0}%",
+    "english": "Sister Sand Girl, scary but gentle!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_525": {
+    "korean": "엘리 선생님! : 공격력 {0}",
+    "english": "Teacher Elli!: ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_525": {
+    "korean": "엘리 선생님! : AP {0}",
+    "english": "Teacher Elli!: AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_525": {
+    "korean": "엘리 선생님! : 방어력 {0}",
+    "english": "Teacher Elli!: DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_525": {
+    "korean": "엘리 선생님! : 회피 {0}%",
+    "english": "Teacher Elli!: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_526": {
+    "korean": "픽시 언니! : 공격력 {0}",
+    "english": "Pixie Sister! : ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_526": {
+    "korean": "픽시 언니! : AP {0}",
+    "english": "Pixie Unnie! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_526": {
+    "korean": "라이언도 안녕! : 방어력 {0}",
+    "english": "Goodbye, Ryan too! : DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_526": {
+    "korean": "크아앙! : 회피 {0}%",
+    "english": "Roar! : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Alvis_N_527": {
+    "korean": "이~레~이~나~ 찾았다~! : 공격력 {0}",
+    "english": "He~re~ I~ fo~und it~! : ATK {0}"
+  },
+  "BuffDesc2_Effect_BR_Alvis_N_527": {
+    "korean": "이~레~이~나~ 찾았다~! : AP {0}",
+    "english": "He~re~ I~ fo~und it~! : AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Alvis_N_527": {
+    "korean": "이~레~이~나~ 찾았다~! : 방어력 {0}",
+    "english": "He~re~ I~ fo~und it~! : DEF {0}"
+  },
+  "BuffDesc4_Effect_BR_Alvis_N_527": {
+    "korean": "이~레~이~나~ 찾았다~! : 회피 {0}%",
+    "english": "He~re~ I~ fo~und it~! : EVA {0}%"
+  }
+}

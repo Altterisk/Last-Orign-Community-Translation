@@ -1,0 +1,202 @@
+{
+  "SkillName_Skill_BR_Sirene_N_1": {
+    "korean": "57mm 대공포",
+    "english": "57mm Anti-Air Cannon"
+  },
+  "SkillDesc_Skill_BR_Sirene_N_1": {
+    "korean": "대공포를 발사해 {0} 피해를 주고, 2라운드 동안 대상을 표식으로 지정해 받는 피해 증가 상태로 만듭니다. 받는 피해 증가는 중첩되지 않으며, 대상이 기동형인 경우에는 피해량이 증가합니다.",
+    "english": "Fires an anti-air cannon dealing {0} damage and marks the target for 2 rounds, applying DMG Taken Increased. The increased damage does not stack, and damage is increased if the target is an Air unit."
+  },
+  "SkillDescSimple_Skill_BR_Sirene_N_1": {
+    "korean": "단일 대상 {0} 피해. 대 기동형 피해 증가 / 표식 / 피해 증폭",
+    "english": "Single Target {0} DMG / Anti-Air DMG Increased / Marked / Damage Amplified"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_1": {
+    "korean": "57mm 대공포 : 표식 지정",
+    "english": "57mm Anti-Air Cannon : Marks target"
+  },
+  "BuffDesc2_Effect_BR_Sirene_N_1": {
+    "korean": "57mm 대공포 : 받는 피해 {0}%",
+    "english": "57mm Anti-Air Cannon : DMG Taken {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sirene_N_1": {
+    "korean": "57mm 대공포 : 대 기동형 피해량 {0}%",
+    "english": "57mm Anti-Air Cannon : Anti-Air DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_11": {
+    "korean": "57mm 대공포 : 받는 피해 {0}%",
+    "english": "57mm Anti-Air Cannon : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_12": {
+    "korean": "57mm 대공포 : 대 기동형 피해량 {0}%",
+    "english": "57mm Anti-Air Cannon : Anti-Air DMG {0}%"
+  },
+  "SkillName_Skill_BR_Sirene_N_2": {
+    "korean": "포격 지휘",
+    "english": "Bombardment Command"
+  },
+  "SkillDesc_Skill_BR_Sirene_N_2": {
+    "korean": "범위 내 아군의 AP를 증가시키고, 2라운드 동안 대상의 공격력을 상승시킵니다. 대상이 중장형 또는 <호라이즌 부대원>인 경우, 효과가 2배로 증가하며 대상의 공격을 지원합니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "Increases allies' AP within range and raises their ATK for 2 rounds. If the target is a Heavy unit or a <Horizon Squad> member, the effect is doubled and their attacks are supported. Range increases at skill level 10."
+  },
+  "SkillDescSimple_Skill_BR_Sirene_N_2": {
+    "korean": "범위 내 아군 AP / 공격력 증가. 중장형 / 호라이즌 부대인 경우, 효과 증가 / 공격 지원",
+    "english": "Allies within range AP / ATK increase. Heavy / Horizon Squad: effect increased / Attack Support"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_2": {
+    "korean": "포격 지휘 : AP {0}",
+    "english": "Bombardment Command : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Sirene_N_2": {
+    "korean": "포격 지휘 : 공격력 {0}%",
+    "english": "Bombardment Command : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sirene_N_2": {
+    "korean": "지원 포격 : 공격 지원 (중장형/호라이즌)",
+    "english": "Support Fire : Follow-Up Attack (Heavy/Horizon)"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_16": {
+    "korean": "포격 지휘 : 공격력 {0}% (호라이즌)",
+    "english": "Bombardment Command : ATK {0}% (Horizon)"
+  },
+  "BuffDesc2_Effect_BR_Sirene_N_16": {
+    "korean": "지원 포격 : 공격 지원 (호라이즌)",
+    "english": "Support Fire : Follow-Up Attack (Horizon)"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_17": {
+    "korean": "포격 지휘 : AP {0} (호라이즌)",
+    "english": "Bombardment Command : AP {0} (Horizon)"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_18": {
+    "korean": "포격 지휘 : 공격력 {0}% (중장)",
+    "english": "Bombardment Command : ATK {0}% (Heavy)"
+  },
+  "BuffDesc2_Effect_BR_Sirene_N_18": {
+    "korean": "지원 포격 : 공격 지원 (중장)",
+    "english": "Support Fire : Follow-Up Attack (Heavy)"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_19": {
+    "korean": "포격 지휘 : AP {0} (중장)",
+    "english": "Bombardment Command : AP {0} (Heavy)"
+  },
+  "SkillName_Skill_BR_Sirene_N_3": {
+    "korean": "협차 사격",
+    "english": "Coordinated Fire"
+  },
+  "SkillDesc_Skill_BR_Sirene_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군들의 적중 / 치명타 / 방어 관통이 증가합니다. 대상에게 <포격 지휘>가 적용된 상태면 효과가 50% 증가합니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of the round, allies within the area gain increased ACC, CRIT, and DEF Penetration. If the target has <Bombardment Command> applied, the effect is increased by 50%. Range increases at skill level 10."
+  },
+  "SkillDescSimple_Skill_BR_Sirene_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군 적중 / 치명타 / 방어 관통 증가",
+    "english": "Round start allies ACC / CRIT / DEF Penetration increase"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_3": {
+    "korean": "협차 사격 : 적중 {0}%",
+    "english": "Coordinated Fire : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sirene_N_3": {
+    "korean": "협차 사격 : 치명타 {0}%",
+    "english": "Coordinated Fire : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sirene_N_3": {
+    "korean": "협차 사격 : 방어 관통 {0}%",
+    "english": "Coordinated Fire : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_13": {
+    "korean": "협차 사격 : 적중 {0}% (포격 지휘)",
+    "english": "Coordinated Fire : ACC {0}% (Bombardment Command)"
+  },
+  "BuffDesc2_Effect_BR_Sirene_N_13": {
+    "korean": "협차 사격 : 치명타 {0}% (포격 지휘)",
+    "english": "Coordinated Fire : CRIT {0}% (Bombardment Command)"
+  },
+  "BuffDesc3_Effect_BR_Sirene_N_13": {
+    "korean": "협차 사격 : 방어 관통 {0}% (포격 지휘)",
+    "english": "Coordinated Fire : DEF Penetration {0}% (Bombardment Command)"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_51": {
+    "korean": "관측 포격 : 스킬 위력 {0}% (네레이드)",
+    "english": "Observation Fire : Skill Power {0}% (Nereid)"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_52": {
+    "korean": "관측 포격 : 스킬 위력 {0}% (운디네)",
+    "english": "Observation Fire : Skill Power {0}% (Undine)"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_53": {
+    "korean": "관측 포격 지원 I : 스킬 위력 {0}%",
+    "english": "Observation Fire Support I : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_54": {
+    "korean": "관측 포격 지원 II : 스킬 위력 {0}%",
+    "english": "Observation Fire Support II : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_55": {
+    "korean": "관측 포격 지원 III : 스킬 위력 {0}%",
+    "english": "Observation Fire Support III : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_56": {
+    "korean": "관측 포격 지원 IV : 스킬 위력 {0}%",
+    "english": "Observation Fire Support IV : Skill Power {0}%"
+  },
+  "SkillName_Skill_BR_Sirene_N_4": {
+    "korean": "요격 모드",
+    "english": "Interception Mode"
+  },
+  "SkillDesc_Skill_BR_Sirene_N_4": {
+    "korean": "공격력 / 적중 / 행동력 / 방어 관통이 증가하며 받는 피해가 감소합니다. 대기 시 포격 모드로 변환되어 다음 라운드 부터 공격력 증가 / 방어 관통 증가 효과가 2배로 적용되지만, 적중 / 행동력 증가 효과가 사라집니다.",
+    "english": "Increases ATK, ACC, SPD, and DEF Penetration, and reduces DMG Taken. While on standby, switches to Bombardment Mode, causing ATK and DEF Penetration effects to be doubled from the next round, but ACC and SPD bonuses are lost."
+  },
+  "SkillDescSimple_Skill_BR_Sirene_N_4": {
+    "korean": "공격력 / 적중 / 방어 관통 / 행동력 증가 / 받는 피해 감소. 대기 시, 포격 모드 변환",
+    "english": "ATK / ACC / DEF Penetration / SPD increase / DMG Reduction. Standby: switch to Bombardment Mode"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_4": {
+    "korean": "요격 모드 : 적중 {0}%",
+    "english": "Interception Mode : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sirene_N_4": {
+    "korean": "요격 모드 : 행동력 {0}%",
+    "english": "Interception Mode : SPD {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sirene_N_4": {
+    "korean": "요격 모드 : 받는 피해 감소 {0}%",
+    "english": "Interception Mode : DMG Reduction {0}%"
+  },
+  "BuffDesc4_Effect_BR_Sirene_N_4": {
+    "korean": "요격 모드 : 공격력 {0}%",
+    "english": "Interception Mode : ATK {0}%"
+  },
+  "BuffDesc5_Effect_BR_Sirene_N_4": {
+    "korean": "요격 모드 : 방어 관통 {0}%",
+    "english": "Interception Mode : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_14": {
+    "korean": "모드 변환 : 포격 모드",
+    "english": "Mode Shift : Bombardment Mode"
+  },
+  "SkillName_Skill_BR_Sirene_N_5": {
+    "korean": "관측 포격",
+    "english": "Observation Fire"
+  },
+  "SkillDesc_Skill_BR_Sirene_N_5": {
+    "korean": "라운드 개시 시, 자신을 제외한 <호라이즌> 부대원 또는 지원기 1기 당 스킬 위력이 증가합니다. 공격 지원을 받는 상태면 <요격 모드 : 자신이 공격 지원 시 AP 증가> <포격 모드 : 액티브 스킬 적중 시 방어막 / 피해 감소 무시> 효과가 적용됩니다.",
+    "english": "At the start of the round, skill power increases for each <Horizon> squad member or Supporter unit, excluding yourself. While receiving Attack Support, the following apply: Interception Mode: AP increased when providing Attack Support; Bombardment Mode: active skill hits ignore Barrier and DMG Reduction."
+  },
+  "SkillDescSimple_Skill_BR_Sirene_N_5": {
+    "korean": "<호라이즌> 부대원 / 지원기 1기 당 스킬 위력 증가. 공격 지원 받는 상태면 모드에 따른 효과",
+    "english": "<Horizon> squad member / Supporter unit per skill power increase. If receiving Attack Support, mode-specific effects"
+  },
+  "BuffDesc1_Effect_BR_Sirene_N_5": {
+    "korean": "관측 포격 : AP {0} (요격 모드/공격 지원 시)",
+    "english": "Observation Fire : AP {0} (Interception Mode / Follow-Up Attack)"
+  },
+  "BuffDesc2_Effect_BR_Sirene_N_5": {
+    "korean": "관측 포격 : 방어막 / 피해 감소 무시 (포격 모드)",
+    "english": "Observation Fire : Ignore Barrier / DMG Reduction (Bombardment Mode)"
+  },
+  "BuffDesc3_Effect_BR_Sirene_N_5": {
+    "korean": "관측 포격 : 스킬 위력{0}% (호라이즌/지원기 1기 당)",
+    "english": "Observation Fire : Skill Power {0}% (Horizon / per Supporter unit)"
+  }
+}

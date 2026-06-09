@@ -1,0 +1,170 @@
+{
+  "1002701382": {
+    "korean": "재료 손질",
+    "english": "Ingredient Prep"
+  },
+  "1002704081": {
+    "korean": "목표 대상을 손질해 {0} 피해를 주고, 3라운드 동안 대상의 방어력을 낮춥니다. 대상이 방어력 감소 상태면 2라운드 동안 받는 피해가 증가하는 상태로 만듭니다.",
+    "english": "Prepares the target, dealing {0} damage and reducing the target's DEF for 3 rounds. If the target is already affected by DEF reduction, applies a DMG Taken Increased state for 2 rounds."
+  },
+  "1002703356": {
+    "korean": "단일 대상 {0} 피해. 방어력 감소 / 방어력 감소 대상 피해 증폭",
+    "english": "Single target {0} damage. Lowers DEF / increases Additional DMG to DEF-reduced targets."
+  },
+  "1000103209": {
+    "korean": "재료 손질 : 방어력 {0}%",
+    "english": "Ingredient Prep : DEF {0}%"
+  },
+  "1000103214": {
+    "korean": "재료 손질 : 받는 피해{0}%",
+    "english": "Ingredient Prep : DMG Taken {0}%"
+  },
+  "1002701383": {
+    "korean": "게이트 오브 키친",
+    "english": "Gate of the Kitchen"
+  },
+  "1002704082": {
+    "korean": "지정 범위에 있는 대상들을 요리해 {0} 피해를 주고, 2라운드 동안 대상의 방어력을 낮춥니다. 공격 전에 대상이 방어력 감소 상태면 피해량이 증가합니다.",
+    "english": "Cooks targets within the designated area, dealing {0} damage and reducing their DEF for 2 rounds. If a target is already under DEF reduction before the attack, damage is increased."
+  },
+  "1002703357": {
+    "korean": "지정 범위 {0} 피해. 방어력 감소 대상 피해량 증가 / 방어력 감소",
+    "english": "Designated area {0} damage. Increases Additional DMG to DEF-reduced targets / lowers DEF."
+  },
+  "1000103210": {
+    "korean": "요리 개시 : 피해량{0}%",
+    "english": "Cooking Start : Additional DMG {0}%"
+  },
+  "1000109562": {
+    "korean": "요리 개시 : 방어력 {0}%",
+    "english": "Cooking Start: DEF {0}%"
+  },
+  "1002701384": {
+    "korean": "가학적인 요리사",
+    "english": "Sadistic Chef"
+  },
+  "1002704083": {
+    "korean": "공격이 적중하면 2라운드 동안 공격력 / 적중 / 치명타 / 행동력이 증가합니다. 라운드 개시 시, 아군 인원 수에 따라 공격력이 증가합니다.",
+    "english": "On hit, increases own ATK, ACC, CRIT and SPD for 2 rounds. At the start of the round, ATK is increased based on the number of allies."
+  },
+  "1002703358": {
+    "korean": "공격 적중 시, 공격력 / 적중 / 치명타 / 행동력 증가",
+    "english": "On hit, increases own ATK, ACC, CRIT, SPD."
+  },
+  "1000103211": {
+    "korean": "가학적인 요리사 : 공격력{0}%",
+    "english": "Sadistic Chef : ATK {0}%"
+  },
+  "1000104528": {
+    "korean": "가학적인 요리사 : 적중{0}%",
+    "english": "Sadistic Chef : ACC {0}%"
+  },
+  "1000105089": {
+    "korean": "가학적인 요리사 : 치명타{0}%",
+    "english": "Sadistic Chef : CRIT {0}%"
+  },
+  "1000105421": {
+    "korean": "가학적인 요리사 : 행동력{0}%",
+    "english": "Sadistic Chef : SPD {0}%"
+  },
+  "1000109567": {
+    "korean": "가학적인 요리사 : 공격력{0}%(아군 1)",
+    "english": "Sadistic Chef : ATK {0}% (Ally 1)"
+  },
+  "1000109564": {
+    "korean": "가학적인 요리사 : 적중{0}%",
+    "english": "Sadistic Chef : ACC {0}%"
+  },
+  "1000109565": {
+    "korean": "가학적인 요리사 : 치명타{0}%",
+    "english": "Sadistic Chef : CRIT {0}%"
+  },
+  "1000109566": {
+    "korean": "가학적인 요리사 : 행동력{0}%",
+    "english": "Sadistic Chef : SPD {0}%"
+  },
+  "1000109568": {
+    "korean": "가학적인 요리사 : 공격력{0}%(아군 2)",
+    "english": "Sadistic Chef : ATK {0}% (Ally 2)"
+  },
+  "1000109569": {
+    "korean": "가학적인 요리사 : 공격력{0}%(아군 3)",
+    "english": "Sadistic Chef : ATK {0}% (Ally 3)"
+  },
+  "1000109570": {
+    "korean": "가학적인 요리사 : 공격력{0}%(아군 4)",
+    "english": "Sadistic Chef : ATK {0}% (Ally 4)"
+  },
+  "1000109571": {
+    "korean": "가학적인 요리사 : 공격력{0}%(아군 5)",
+    "english": "Sadistic Chef : ATK {0}% (Ally 5)"
+  },
+  "1002701385": {
+    "korean": "주방의 마녀",
+    "english": "Witch of the Kitchen"
+  },
+  "1002704084": {
+    "korean": "라운드 개시 시, 자신과 주변에 있는 경장형 아군의 공격을 지원하며 공격력 / 적중 / 치명타를 증가시킵니다. <가학적인 요리사> 활성화 상태면 공격력 / 적중 / 치명타 증가 효과가 2배로 적용됩니다.",
+    "english": "At the start of the round, supports Light-type allies nearby, increasing their ATK, ACC and CRIT. If <Sadistic Chef> is active, the ATK, ACC and CRIT increase effects are doubled."
+  },
+  "1002703359": {
+    "korean": "자신과 경장형 아군 공격 지원 / 공격력 / 적중 / 치명타 증가",
+    "english": "Supports attacks of self and Light-type allies, increasing ATK, ACC, CRIT."
+  },
+  "1000103212": {
+    "korean": "주방의 마녀 : 공격 지원 (경장)",
+    "english": "Witch of the Kitchen : Follow-Up Attack (Light)"
+  },
+  "1000104529": {
+    "korean": "주방의 마녀 : 공격력{0}% (경장)",
+    "english": "Witch of the Kitchen : ATK {0}% (Light)"
+  },
+  "1000105090": {
+    "korean": "주방의 마녀 : 적중{0}% (경장)",
+    "english": "Witch of the Kitchen : ACC {0}% (Light)"
+  },
+  "1000105422": {
+    "korean": "주방의 마녀 : 치명타{0}% (경장)",
+    "english": "Witch of the Kitchen : CRIT {0}% (Light)"
+  },
+  "1000103215": {
+    "korean": "주방의 마녀 : 공격 지원 (경장형)",
+    "english": "Witch of the Kitchen : Follow-Up Attack (Light)"
+  },
+  "1000104531": {
+    "korean": "실습 개시 : 공격력{0}% (경장)",
+    "english": "Practice Start: ATK {0}% (Light)"
+  },
+  "1000105091": {
+    "korean": "실습 개시 : 적중{0}% (경장)",
+    "english": "Practice Start: ACC {0}% (Light)"
+  },
+  "1000105423": {
+    "korean": "실습 개시 : 치명타{0}% (경장)",
+    "english": "Practice Start : CRIT {0}% (Light)"
+  },
+  "1002701386": {
+    "korean": "빠른 처리",
+    "english": "Quick Processing"
+  },
+  "1002704085": {
+    "korean": "자신과 공격당하는 적의 잔여 HP 비율이 낮을수록 적에게 주는 피해량이 증가합니다. 라운드 개시 시, 자신의 행동력을 증가시킵니다.",
+    "english": "Damage to the enemy increases the lower the remaining HP% of both self and the target. At the start of the round, SPD is increased."
+  },
+  "1002703360": {
+    "korean": "자신의 HP %가 낮을수록 / 적 HP %가 낮을수록 피해량 증가 / 행동력 증가",
+    "english": "Damage and SPD increase based on how low the user's HP% is and how low the enemy's HP% is."
+  },
+  "1000103213": {
+    "korean": "내 HP% 낮을수록 피해량{0}%",
+    "english": "Lower HP% = Higher Damage {0}%"
+  },
+  "1000104530": {
+    "korean": "적 HP% 낮을수록 피해량{0}%",
+    "english": "Lower Target HP%, Damage {0}%"
+  },
+  "1000109563": {
+    "korean": "빠른 처리 : 행동력{0}%",
+    "english": "Quick Processing : SPD {0}%"
+  }
+}

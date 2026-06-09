@@ -1,0 +1,182 @@
+{
+  "1002701846": {
+    "korean": "호우 주의보",
+    "english": "Heavy Rain Warning"
+  },
+  "1002704201": {
+    "korean": "지정 범위에 있는 대상들을 침수 상태로 만들며 {0} 보호 무시 전기 피해를 줍니다. 선택 지점 주변에는 25% 피해만 적용됩니다. 치명타 시, 2라운드 동안 적중 / 회피가 감소하며, 부식 상태면 피해량이 증가합니다.",
+    "english": "Inflicts Soaked on targets within the designated area and deals {0} Electric damage, ignoring protection. Only 25% damage is applied around the selected point. On a critical hit, ACC and EVA are reduced for 2 rounds. Damage is increased against Corroded targets."
+  },
+  "1002703415": {
+    "korean": "지정 범위 {0} 보호 무시 전기 피해. 대상 침수. 치명타 시, 적중 / 회피 감소",
+    "english": "Designated area {0} Electric damage, ignoring protection. Inflicts Soaked. On crit, reduces target's ACC and EVA."
+  },
+  "1000102660": {
+    "korean": "침수 : 냉기 저항{0}%",
+    "english": "Submerged: Cold Resist {0}%"
+  },
+  "1000102977": {
+    "korean": "침수 : 전기 저항{0}%",
+    "english": "Flooded: Electric Resist {0}%"
+  },
+  "1000103485": {
+    "korean": "침수 : 화염 저항{0}%",
+    "english": "Submersion : Fire Resist {0}%"
+  },
+  "1000105454": {
+    "korean": "기능 오류 : 적중 / 회피 {0}% (치명타 시)",
+    "english": "Function Error: ACC {0}% / EVA {0}% (On CRIT)"
+  },
+  "1000105575": {
+    "korean": "급속 부식 : 피해량{0}% (부식 시)",
+    "english": "Rapid Corrosion: Damage {0}% (on Corroded)"
+  },
+  "1000102976": {
+    "korean": "침수 : 화염 저항{0}%",
+    "english": "Flooded: Fire Resist {0}%"
+  },
+  "1000103501": {
+    "korean": "급속 부식 : 피해량{0}%",
+    "english": "Rapid Corrosion : Additional DMG {0}%"
+  },
+  "1000103502": {
+    "korean": "기능 오류 : 적중 {0}%",
+    "english": "Function Error : ACC {0}%"
+  },
+  "1000103600": {
+    "korean": "기능 오류 : 회피 {0}%",
+    "english": "Function Error : EVA {0}%"
+  },
+  "1002701847": {
+    "korean": "해저드 스톰",
+    "english": "Hazard Storm"
+  },
+  "1002704202": {
+    "korean": "지정 범위에 {0} 보호 무시 냉기 피해와 추가 화염 피해를 주며, 2라운드 동안 방어력이 감소하고 받는 피해가 증가합니다. 치명타 시, 대상의 피해 감소 효과를 해제하며 부식 상태면 추가 고정 피해를 줍니다.",
+    "english": "Deals {0} Cold damage, ignoring protection, and additional Fire damage to targets in the designated area. Reduces DEF and increases DMG Taken for 2 rounds. On a critical hit, removes the target's Damage Reduction. Deals additional Fixed DMG if the target is Corroded."
+  },
+  "1002703416": {
+    "korean": "지정 범위 {0} 보호 무시 냉기 피해. 추가 화염 피해 / 방어력 감소 / 받는 피해 증가. 치명타 시, 피해 감소 효과 해제",
+    "english": "Designated area {0} Cold damage, ignoring protection. Deals additional Fire damage, reduces DEF, and increases DMG Taken. On crit, removes Damage Reduction."
+  },
+  "1000103497": {
+    "korean": "금속 열피로 : 방어력 {0}%",
+    "english": "Metal Heat Fatigue : DEF {0}%"
+  },
+  "1000104657": {
+    "korean": "금속 열피로 : 받는 피해{0}%",
+    "english": "Metal Fatigue: DMG Taken {0}%"
+  },
+  "1000105171": {
+    "korean": "해저드 스톰 : 추가 화염 피해{0}%",
+    "english": "Hazard Storm: Additional Fire Damage {0}%"
+  },
+  "1000105455": {
+    "korean": "금속 열피로 : 피해 감소 해제 (치명타 시)",
+    "english": "Metal Thermal Fatigue: Damage Reduction removed (On CRIT)"
+  },
+  "1000105576": {
+    "korean": "내부 파괴 : 공격력 {0}% 고정 피해 (부식 시)",
+    "english": "Internal Destruction: {0}% Fixed DMG (on Corroded)"
+  },
+  "1000103503": {
+    "korean": "금속 열피로 : 피해 감소 해제",
+    "english": "Metal Heat Fatigue : DMG Reduction Removal"
+  },
+  "1000103504": {
+    "korean": "내부 파괴 : 공격력 {0}% 고정 피해",
+    "english": "Internal Destruction : ATK {0}% Fixed DMG"
+  },
+  "1002701848": {
+    "korean": "느긋함",
+    "english": "Relaxation"
+  },
+  "1002704203": {
+    "korean": "라운드 개시 시, 자신에게 행동력 증가 효과가 걸려있으면 해당 효과를 해제하고 공격력 / 적중 / 치명타가 증가합니다.",
+    "english": "At the start of the round, if this unit has an SPD increase effect, remove it and increase ATK, ACC, and CRIT."
+  },
+  "1002703417": {
+    "korean": "행동력 증가 효과 시, 해당 효과 해제. 공격력 / 적중 / 치명타 증가",
+    "english": "If affected by an SPD buff, remove the buff and increase ATK, ACC, and CRIT."
+  },
+  "1000103498": {
+    "korean": "느긋함 : 공격력{0}%",
+    "english": "Relaxation : ATK {0}%"
+  },
+  "1000104658": {
+    "korean": "느긋함 : 치명타{0}%",
+    "english": "Relaxation : CRIT {0}%"
+  },
+  "1000105172": {
+    "korean": "느긋함 : 적중{0}%",
+    "english": "Relaxation : ACC {0}%"
+  },
+  "1000105456": {
+    "korean": "느긋함 : 행동력 강화 해제",
+    "english": "Relaxation : SPD Buff Removal"
+  },
+  "1002701849": {
+    "korean": "기상 최적화",
+    "english": "Weather Optimization"
+  },
+  "1002704204": {
+    "korean": "전투 개시 시, 인접한 기동형 아군의 AP / 행동력 / 모든 저항이 증가합니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of battle, increases the AP, SPD, and All Resist of adjacent Air allies. Range increases at skill level 10."
+  },
+  "1002703418": {
+    "korean": "인접 기동형 아군 AP / 행동력 / 모든 저항 증가",
+    "english": "Adjacent Air allies gain increased AP, SPD, and All Resist."
+  },
+  "1000103499": {
+    "korean": "기상 최적화 : AP{0} (기동)",
+    "english": "Weather Optimization : AP {0} (Air)"
+  },
+  "1000103505": {
+    "korean": "기상 최적화 : 행동력{0}% (기동)",
+    "english": "Weather Optimization : SPD {0}% (Air)"
+  },
+  "1000105173": {
+    "korean": "기상 최적화 : 모든 저항{0}% (기동)",
+    "english": "Weather Optimization : All Resist {0}% (Air)"
+  },
+  "1000104660": {
+    "korean": "기상 최적화 : 화염 저항{0}% (기동)",
+    "english": "Weather Optimization : Fire Resist {0}% (Air)"
+  },
+  "1000105174": {
+    "korean": "기상 최적화 : 냉기 저항{0}% (기동)",
+    "english": "Weather Optimization : Cold Resist {0}% (Air)"
+  },
+  "1000105457": {
+    "korean": "기상 최적화 : 전기 저항{0}% (기동)",
+    "english": "Weather Optimization : Electric Resist {0}% (Air)"
+  },
+  "1000105577": {
+    "korean": "기상 최적화 : 효과 저항{0}% (기동)",
+    "english": "Weather Optimization : Status Resist {0}% (Air)"
+  },
+  "1002701850": {
+    "korean": "강운",
+    "english": "Fortune of Rain"
+  },
+  "1002704205": {
+    "korean": "공격할 때 가끔 공격력이 대폭 증가하며, 공격 받을 땐 드물게 최소 피해만 받습니다. 스킬 레벨이 오를수록 발동 확률이 증가합니다.",
+    "english": "Occasionally, attacks deal greatly increased ATK, and when taking damage there is a small chance to receive only minimal damage. Activation chance increases with skill level."
+  },
+  "1002703419": {
+    "korean": "공격 시, 일정 확률로 공격력 증가 / 공격 받을 시, 일정 확률로 최소 피해",
+    "english": "When attacking, has a chance to increase ATK. When attacked, has a chance to minimize damage."
+  },
+  "1000103500": {
+    "korean": "강운 : 공격력{0}% (확률 발동)",
+    "english": "Strong Luck: ATK {0}% (Chance to Activate)"
+  },
+  "1000104659": {
+    "korean": "강운 : 피해 최소화 (확률 발동)",
+    "english": "Fortune: Minimize Damage (Chance Activation)"
+  },
+  "1000103506": {
+    "korean": "강운 : 피해 최소화",
+    "english": "Fortune of Rain : Minimize Damage"
+  }
+}

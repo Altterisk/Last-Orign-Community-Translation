@@ -1,0 +1,98 @@
+{
+  "1002700341": {
+    "korean": "60형 LMG",
+    "english": "Type-60 LMG"
+  },
+  "1002706165": {
+    "korean": "머신건으로 {0} 피해를 주고, 적중 여부와 상관없이 2라운드 동안 대상의 회피를 감소시킵니다. 대상이 기동형인 경우, 회피 감소 효과가 2배로 적용됩니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다.",
+    "english": "Deals {0} damage with a machine gun and reduces the target’s EVA for 2 rounds regardless of hit. If the target is Air, the EVA Reduction effect is doubled. If the target is Marked or Rooted, damage is increased."
+  },
+  "1002706502": {
+    "korean": "단일 대상 {0} 피해. 회피 감소 (기동형에게 2배). 표식 / 이동 불가 대상 피해량 증가",
+    "english": "Single target {0} damage. EVA Reduction (2× for Air). Increased damage to Marked / Rooted targets"
+  },
+  "1000102663": {
+    "korean": "60형 LMG : 회피 {0}%",
+    "english": "Type‑60 LMG : EVA {0}%"
+  },
+  "1000102484": {
+    "korean": "정밀 사격 : 피해량{0}%",
+    "english": "Precision Shot: Additional DMG {0}%"
+  },
+  "1002700342": {
+    "korean": "열 추적 로크 미사일",
+    "english": "Heat-Seeking LOCK Missile"
+  },
+  "1002706166": {
+    "korean": "공대공 미사일을 발사해 {0} 피해를 줍니다. 대상이 기동형이거나 치명타 시, 피해량이 증가합니다. 스킬 레벨 당 +10%의 적중 보정이 적용됩니다.",
+    "english": "Fires an air-to-air missile to deal {0} damage. If the target is Air or a CRIT occurs, damage is increased. Gains +10% ACC Correction per skill level."
+  },
+  "1002706503": {
+    "korean": "단일 대상 {0} 피해. 기동형 / 치명타 시, 피해량 증가",
+    "english": "Single target {0} damage. Increased damage to Air / on CRIT"
+  },
+  "1000102664": {
+    "korean": "대공 미사일 : 대 기동형 피해량{0}%",
+    "english": "Anti‑Air Missile : Anti-Air DMG {0}%"
+  },
+  "1000102609": {
+    "korean": "회심의 일격 : 피해량{0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "1002700343": {
+    "korean": "의기양양",
+    "english": "Confident Poise"
+  },
+  "1002706167": {
+    "korean": "대 기동형 피해량이 증가합니다. 공격 적중 시, 공격력 / 적중 / 회피가 최대 3회까지 증가합니다. 공격력 / 적중 / 회피 증가 효과는 피격 시 해제됩니다.",
+    "english": "Increases Anti-Air DMG. On hit, ATK / ACC / EVA increase up to 3 times. The ATK / ACC / EVA increase is removed when hit."
+  },
+  "1002706504": {
+    "korean": "대 기동형 피해량 증가. 공격 적중 시, 공격력 / 적중 / 회피 증가 (피격 시 해제)",
+    "english": "Increases Anti-Air DMG. On hit, ATK / ACC / EVA increase (removed when hit)"
+  },
+  "1000102665": {
+    "korean": "의기양양 : 공격력{0}%",
+    "english": "High Spirits : ATK {0}%"
+  },
+  "1000102787": {
+    "korean": "의기양양 : 회피{0}%",
+    "english": "High Spirits : EVA {0}%"
+  },
+  "1000102786": {
+    "korean": "의기양양 : 적중{0}%",
+    "english": "High Spirits : ACC {0}%"
+  },
+  "1000106705": {
+    "korean": "공대공 요격 : 대 기동형 피해량{0}%",
+    "english": "Air‑to‑Air Intercept : Anti-Air DMG {0}%"
+  },
+  "1002702151": {
+    "korean": "폭격 편대 지원",
+    "english": "Bombing Squadron Support"
+  },
+  "1002706237": {
+    "korean": "라운드 개시 시, 치명타가 증가합니다. 범위 내의 아군이 메이의 <폭격 편대 지휘> 효과를 받는 경우, 대상의 공격을 지원하고 적중 / 행동력을 증가시킵니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At round start, CRIT is increased. Allies within range who receive <Bombing Squadron Command> gain Follow-Up Attack and increased ACC / SPD. Range increases at Skill Level 10."
+  },
+  "1002706541": {
+    "korean": "치명타 증가. 메이의 <폭격 편대 지휘> 효과 대상 공격 지원 / 적중 / 행동력 증가",
+    "english": "CRIT Up. Allies affected by <Bombing Squadron Command> gain Follow-Up Attack and increased ACC / SPD."
+  },
+  "1000103752": {
+    "korean": "폭격 편대 지원 : 공격 지원 (편대 지휘 대상)",
+    "english": "Bombing Squadron Support: Follow-Up Attack"
+  },
+  "1000104760": {
+    "korean": "폭격 편대 지원 : 적중{0}% (편대 지휘 대상)",
+    "english": "Bombing Squadron Support: ACC {0}%"
+  },
+  "1000105234": {
+    "korean": "폭격 편대 지원 : 행동력{0}% (편대 지휘 대상)",
+    "english": "Bombing Squadron Support: SPD {0}%"
+  },
+  "1000106505": {
+    "korean": "편대 비행 : 치명타{0}% (자신)",
+    "english": "Squadron Flight : CRIT {0}% (Self)"
+  }
+}

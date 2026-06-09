@@ -1,0 +1,182 @@
+{
+  "1002700292": {
+    "korean": "ATS 미사일",
+    "english": "ATS Missile"
+  },
+  "SkillDesc_Skill_BR_NightAngel_N_1": {
+    "korean": "공대지 미사일을 발사해 {0} 피해를 줍니다. 대상이 회피 / 행동력 감소 상태면 피해량이 증가합니다. 대 경장 / 중장형 피해량 증가가 적용됩니다.",
+    "english": "Fires an air-to-ground missile dealing {0} damage. Damage increases if the target is affected by Evasion or SPD reduction. Applies Anti-Light DMG and Anti-Heavy DMG."
+  },
+  "SkillDescSimple_Skill_BR_NightAngel_N_1": {
+    "korean": "단일 대상 {0} 피해. 회피 / 행동력 감소 대상 피해량 증가. 대 경장 / 중장 피해량 증가.",
+    "english": "Deals {0} damage to a single target. Damage increases against targets with reduced EVA or SPD. Applies Anti-Light DMG and Anti-Heavy DMG."
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_1": {
+    "korean": "직격 : 피해량{0}%",
+    "english": "Direct Hit : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_NightAngel_N_1": {
+    "korean": "ATS 미사일 : 대 경장 피해량{0}%",
+    "english": "ATS Missile : Anti-Light DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_NightAngel_N_1": {
+    "korean": "ATS 미사일 : 대 중장 피해량{0}%",
+    "english": "ATS Missile : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_14": {
+    "korean": "ATS 미사일 : 대 경장 피해량{0}%",
+    "english": "ATS Missile : Anti-Light DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_NightAngel_N_14": {
+    "korean": "ATS 미사일 : 대 중장 피해량{0}%",
+    "english": "ATS Missile : Anti-Heavy DMG {0}%"
+  },
+  "1002700293": {
+    "korean": "고공 폭격",
+    "english": "High-Altitude Bombing"
+  },
+  "SkillDesc_Skill_BR_NightAngel_N_2": {
+    "korean": "미사일 폭격으로 대상 지점에 {0} 보호 무시 피해를 줍니다. 표식 / 이동 불가 상태면 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to the target area with a missile bombardment. Damage increases if the targets are Marked or Rooted."
+  },
+  "SkillDescSimple_Skill_BR_NightAngel_N_2": {
+    "korean": "목표 지점 {0} 보호 무시 피해. 표식 / 이동 불가 대상 피해량 증가",
+    "english": "Deals {0} Ignore Protection damage to a target area. Damage increases against Marked or Rooted targets."
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_2": {
+    "korean": "정밀 폭격 : 피해량{0}%",
+    "english": "Precision Bombing : Additional DMG {0}%"
+  },
+  "1002700294": {
+    "korean": "레이더 드론",
+    "english": "Radar Drone"
+  },
+  "SkillDesc_Skill_BR_NightAngel_N_3": {
+    "korean": "라운드 개시 시, 방어 관통이 증가합니다. 중열 또는 후열에 있는 경우, 레이더 드론으로 주변을 감지하며 스텔스 기능을 발동합니다. 해당 상태에선 회피 / 적중 / 사거리가 증가합니다.",
+    "english": "At the start of the round, DEF Penetration is increased. If positioned in the middle or back row, radar drones detect the surroundings and activate Stealth Mode. While in this state, EVA, ACC, and Range are increased."
+  },
+  "SkillDescSimple_Skill_BR_NightAngel_N_3": {
+    "korean": "방어 관통 증가. 중열 또는 후열인 경우, 회피 / 적중 / 사거리 증가",
+    "english": "Increases DEF Penetration. If in the middle or back row, gains increased EVA, ACC, and Range."
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_3": {
+    "korean": "요철 없음 : 회피{0}%",
+    "english": "No Uneven Surface : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_NightAngel_N_3": {
+    "korean": "레이더 드론 : 사거리{0}",
+    "english": "Radar Drone : Range {0}"
+  },
+  "BuffDesc3_Effect_BR_NightAngel_N_3": {
+    "korean": "레이더 드론 : 적중{0}%",
+    "english": "Radar Drone : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_NightAngel_N_3": {
+    "korean": "대 장갑 미사일 : 방어 관통 {0}%",
+    "english": "Anti-Armor Missile : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_11": {
+    "korean": "요철 없음 : 회피{0}%",
+    "english": "No Rough Surfaces : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_NightAngel_N_11": {
+    "korean": "레이더 드론 : 사거리{0}",
+    "english": "Radar Drone : Range {0}"
+  },
+  "BuffDesc3_Effect_BR_NightAngel_N_11": {
+    "korean": "레이더 드론 : 적중{0}%",
+    "english": "Radar Drone : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_13": {
+    "korean": "대 장갑 미사일 : 방어 관통{0}%",
+    "english": "Anti-Armor Missile : DEF Penetration {0}%"
+  },
+  "1002700295": {
+    "korean": "극도의 불편함",
+    "english": "Extreme Discomfort"
+  },
+  "SkillDesc_Skill_BR_NightAngel_N_4": {
+    "korean": "특정 사실 때문에 언제나 불편한 상태라 공격력 / 치명타 / 행동력이 증가합니다. 스쿼드에 메이가 있으면 더 크게 불편해져, 해당 효과가 추가 적용됩니다.",
+    "english": "Due to a certain fact, always remains in a state of discomfort, increasing ATK, CRIT, and SPD. If May is in the squad, the discomfort intensifies, granting the effect again with additional potency."
+  },
+  "SkillDescSimple_Skill_BR_NightAngel_N_4": {
+    "korean": "공격력 / 치명타 / 행동력 증가. 스쿼드에 메이가 있으면 추가 증가",
+    "english": "Increases ATK, CRIT, and SPD due to a constant state of discomfort. If May is in the squad, the effect is further enhanced."
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_4": {
+    "korean": "극도의 불편함 : 공격력{0}%",
+    "english": "Extreme Discomfort : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_NightAngel_N_4": {
+    "korean": "극도의 불편함 : 치명타{0}%",
+    "english": "Extreme Discomfort : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_NightAngel_N_4": {
+    "korean": "극도의 불편함 : 행동력{0}%",
+    "english": "Extreme Discomfort : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_12": {
+    "korean": "압도적 불편함 : 공격력{0}%",
+    "english": "Overwhelming Discomfort : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_NightAngel_N_12": {
+    "korean": "압도적 불편함 : 치명타{0}%",
+    "english": "Overwhelming Discomfort : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_NightAngel_N_12": {
+    "korean": "압도적 불편함 : 행동력{0}%",
+    "english": "Overwhelming Discomfort: SPD {0}%"
+  },
+  "1002708263": {
+    "korean": "스텔스 모드",
+    "english": "Stealth Mode"
+  },
+  "SkillDesc_Skill_BR_NightAngel_N_5": {
+    "korean": "전투 개시 시, 일정 횟수 받는 피해 최소화가 적용됩니다. 라운드 개시 시, 자신의 회피 수치에 비례하여 스킬 위력이 증가하며 <스텔스 모드 : 피해 최소화> 적용 중이면 공격력이 증가합니다.",
+    "english": "At battle start, a limited number of Damage Minimization applications are granted. At round start, skill power increases proportionally to own EVA, and if <Stealth Mode: Damage Minimization> is active, ATK is increased."
+  },
+  "SkillDescSimple_Skill_BR_NightAngel_N_5": {
+    "korean": "피해 최소화. 회피 수치 비례 스킬 위력 증가. <스텔스 모드> 시, 공격력 증가",
+    "english": "Gains Damage Minimization. Skill power scales with EVA. If <Stealth Mode> is active, ATK increases."
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_5": {
+    "korean": "스텔스 모드 : 회피 수치의 {0}%만큼 스킬 위력 증가",
+    "english": "Stealth Mode : Increase Skill Power by {0}% of EVA"
+  },
+  "BuffDesc2_Effect_BR_NightAngel_N_5": {
+    "korean": "스텔스 모드 : 피해 최소화 (1회)",
+    "english": "Stealth Mode : Minimize Damage (1x)"
+  },
+  "BuffDesc3_Effect_BR_NightAngel_N_5": {
+    "korean": "기습 폭격 : 공격력{0}% (스텔스 모드 시)",
+    "english": "Surprise Bombardment : ATK {0}% (while in Stealth Mode)"
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_51": {
+    "korean": "스텔스 모드 : 스킬 위력{0}%",
+    "english": "Stealth Mode : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_53": {
+    "korean": "스텔스 모드 : 피해 최소화 (1회)",
+    "english": "Stealth Mode : Minimize Damage (1x)"
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_55": {
+    "korean": "기습 폭격 : 공격력{0}% (스텔스 모드 시)",
+    "english": "Surprise Bombardment : ATK {0}% (while in Stealth Mode)"
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_52": {
+    "korean": "스텔스 모드 : 회피 수치의 {0}%만큼 스킬 위력 증가",
+    "english": "Stealth Mode : Increase Skill Power by {0}% of EVA"
+  },
+  "BuffDesc2_Effect_BR_NightAngel_N_52": {
+    "korean": "스텔스 모드 : 피해 최소화 (2회)",
+    "english": "Stealth Mode : Minimize Damage (2x)"
+  },
+  "BuffDesc3_Effect_BR_NightAngel_N_52": {
+    "korean": "기습 폭격 : 공격력{0}% (스텔스 모드 시)",
+    "english": "Surprise Bombardment : ATK {0}% (while in Stealth Mode)"
+  },
+  "BuffDesc1_Effect_BR_NightAngel_N_54": {
+    "korean": "스텔스 모드 : 피해 최소화 (2회)",
+    "english": "Stealth Mode : Minimize Damage (2x)"
+  }
+}

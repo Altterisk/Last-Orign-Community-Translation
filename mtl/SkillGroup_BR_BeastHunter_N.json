@@ -1,0 +1,242 @@
+{
+  "SkillName_Skill_BR_BeastHunter_N_1": {
+    "korean": "157mm HEAT탄",
+    "english": "157mm HEAT Round"
+  },
+  "SkillDesc_Skill_BR_BeastHunter_N_1": {
+    "korean": "성형 작약탄을 발사해 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.&n대상이 중장형 또는 보호기인 경우 각각 피해량이 증가합니다.&n스쿼드 내에 <AT-4 파니>가 있을 경우 <183mm HESH탄> 협동 공격을 유도합니다.",
+    "english": "Fires a shaped charge round to deal {0} damage, ignoring a portion of the target’s DEF. If the target is Heavy or a Defender, damage is increased. If a <AT-4 Pani> is in the squad, triggers a <183mm HESH Round> Coordinated Attack."
+  },
+  "SkillDescSimple_Skill_BR_BeastHunter_N_1": {
+    "korean": "단일 대상 {0} 방어 관통 피해. 중장형 / 보호기인 경우 피해량 증가. [183mm HESH탄] 협동 공격.",
+    "english": "Deals {0} DEF-piercing damage to a single target. Damage is increased against Heavy or Defender units. Triggers [183mm HESH Round] Coordinated Attack."
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_1": {
+    "korean": "고폭탄 : 피해량 {0}% (중장형/보호기)",
+    "english": "High-Explosive Shell: Damage {0}% (Heavy/Defender)"
+  },
+  "BuffDesc2_Effect_BR_BeastHunter_N_1": {
+    "korean": "157mm HEAT탄 : 방어 관통 {0}%",
+    "english": "157mm HEAT Round : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_BR_BeastHunter_N_1": {
+    "korean": "초탄 명중 : [183mm HESH탄] 협동 공격",
+    "english": "First Shot Hit: [183mm HESH Round] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_11": {
+    "korean": "고폭탄 : 피해량 {0}% (중장형)",
+    "english": "High-Explosive Shell: Additional DMG {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_12": {
+    "korean": "고폭탄 : 피해량 {0}% (보호기)",
+    "english": "High-Explosive Shell: Additional DMG {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_13": {
+    "korean": "초탄 명중 : [183mm HESH탄] 협동 공격",
+    "english": "First Shot Hit: [183mm HESH Round] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_32": {
+    "korean": "피비린내 : 대상 HP 반비례 피해량 {0}%",
+    "english": "Blood Scent: Damage proportional to target HP {0}%"
+  },
+  "SkillName_Skill_BR_BeastHunter_N_2": {
+    "korean": "유산탄 포격",
+    "english": "Cluster Bombardment"
+  },
+  "SkillDesc_Skill_BR_BeastHunter_N_2": {
+    "korean": "유산탄을 발사해 목표 범위 대상에게 {0} 보호 무시 피해를 줍니다. &n대상이 전열에 위치한 경우 대상의 받는 피해 감소 효과를 해제합니다.&n대상이 경장형인 경우 위치에 관계 없이 대상의 받는 피해 감소 효과를 해제하고, 피해량이 증가합니다.",
+    "english": "Fires a cluster shell to deal {0} Ignore Protection damage to targets in the area. If a target is in the front row, removes its Damage Reduction effect. If the target is Light, removes its Damage Reduction regardless of position and increases damage dealt."
+  },
+  "SkillDescSimple_Skill_BR_BeastHunter_N_2": {
+    "korean": "목표 범위 {0} 보호 무시 피해. 조건부 받는 피해 감소 해제 / 피해량 증가.",
+    "english": "Deals {0} Ignore Protection damage to targets in the area. Conditionally removes Damage Reduction and increases damage."
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_2": {
+    "korean": "유산탄 : 받는 피해 감소 해제",
+    "english": "Legacy Shell: DMG Reduction Removal"
+  },
+  "BuffDesc2_Effect_BR_BeastHunter_N_2": {
+    "korean": "확산탄 : 대 경장형 피해량 증가 {0}%",
+    "english": "Scatter Shell: Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_21": {
+    "korean": "확산탄 : 받는 피해 감소 해제",
+    "english": "Scatter Shell: DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_22": {
+    "korean": "확산탄 : 대 경장형 피해량 증가 {0}%",
+    "english": "Scatter Shell: Anti-Light DMG {0}%"
+  },
+  "SkillName_Skill_BR_BeastHunter_N_3": {
+    "korean": "사냥 개시",
+    "english": "Hunt Initiated"
+  },
+  "SkillDesc_Skill_BR_BeastHunter_N_3": {
+    "korean": "라운드 개시 시, 자신의 대 중장형 피해량이 증가합니다.&n적 처치 시, 자신의 대 중장형 피해량이 영구 증가합니다. (최대 3중첩)&n적 공격 시, 대상의 HP에 반비례하여 가하는 피해량이 증가합니다.",
+    "english": "At round start, increases your Anti-Heavy DMG. When you defeat an enemy, permanently increase your Anti-Heavy DMG (up to 3 stacks). When attacking, damage increases proportionally to the target’s missing HP."
+  },
+  "SkillDescSimple_Skill_BR_BeastHunter_N_3": {
+    "korean": "대 중장형 피해량 증가. 대상 HP 반비례 피해량 증가.",
+    "english": "Increases Anti-Heavy DMG. Damage scales with target’s missing HP."
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_3": {
+    "korean": "사냥의 전율 : 대 중장형 피해량 증가 {0}%",
+    "english": "Thrill of the Hunt : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_BeastHunter_N_3": {
+    "korean": "사냥의 희열 : 대 중장형 피해량 증가 {0}% (추가)",
+    "english": "Thrill of the Hunt: Anti-Heavy DMG increased {0}% (additional)"
+  },
+  "BuffDesc3_Effect_BR_BeastHunter_N_3": {
+    "korean": "피비린내 : 대상 HP 반비례 피해량 {0}%",
+    "english": "Blood Scent: Damage proportional to target HP {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_31": {
+    "korean": "사냥의 희열 : 대 중장형 피해량 증가 {0}%",
+    "english": "Joy of the Hunt : Anti-Heavy DMG {0}% Increase"
+  },
+  "SkillName_Skill_BR_BeastHunter_N_4": {
+    "korean": "제압 포격",
+    "english": "Suppressive Bombardment"
+  },
+  "SkillDesc_Skill_BR_BeastHunter_N_4": {
+    "korean": "라운드 개시 시, 자신은 공격력 / 치명타 증가 효과를 획득합니다.&n스쿼드 내에 <AA 캐노니어> 소속 지원기가 있을 경우, 상기 효과가 50% 증폭됩니다.&n라운드 개시 시, 자신은 방어막/피해 감소 무시 효과를 획득합니다.",
+    "english": "At round start, you gain ATK Up and CRIT Up. If a <AA Cannoneer> Supporter is in the squad, these effects are amplified by 50%. Also at round start, you gain Ignore Barrier and DMG Reduction bypass."
+  },
+  "SkillDescSimple_Skill_BR_BeastHunter_N_4": {
+    "korean": "방어막 / 받는 피해 감소 무시. 공격력 / 치명타 증가.",
+    "english": "Ignore Barrier and Damage Reduction. ATK and CRIT increased."
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_4": {
+    "korean": "제압 포격 : 방어막 / 피해 감소 무시",
+    "english": "Suppressive Bombardment : Barrier / Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc2_Effect_BR_BeastHunter_N_4": {
+    "korean": "제압 포격 : 공격력 {0}%",
+    "english": "Suppressive Bombardment : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_BeastHunter_N_4": {
+    "korean": "제압 포격 : 치명타 {0}%",
+    "english": "Suppressive Bombardment : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_41": {
+    "korean": "제압 포격 : 공격력 {0}%",
+    "english": "Suppressive Bombardment : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_BeastHunter_N_41": {
+    "korean": "제압 포격 : 치명타 {0}%",
+    "english": "Suppressive Bombardment : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_42": {
+    "korean": "지원 확보 : 공격력 {0}%",
+    "english": "Support Secured: ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_BeastHunter_N_42": {
+    "korean": "지원 확보 : 치명타 {0}%",
+    "english": "Support Secured: CRIT {0}%"
+  },
+  "SkillName_Skill_BR_BeastHunter_N_5": {
+    "korean": "살상지대",
+    "english": "Kill Zone"
+  },
+  "SkillDesc_Skill_BR_BeastHunter_N_5": {
+    "korean": "라운드 개시 시, 스쿼드 내 중장형 전투원 수에 따라 적 전체의 받는 피해를 증가시킵니다. 해당 효과는 피격 시 해제됩니다.&n라운드 개시 시, 스쿼드 내 공격기 전투원 수에 따라 적 전체의 행동력을 감소시킵니다.&n스쿼드 내에 <AA 캐노니어> 소속 지원기가 있을 경우, 상기 효과가 50% 증폭됩니다.&n라운드 개시 시, <AA 캐노니어> 소속 공격기를 공격 지원합니다.",
+    "english": "At round start, increase all enemies' DMG Taken based on the number of Heavy units in the squad. This effect is removed when you are hit. Also at round start, reduce all enemies' SPD based on the number of Attacker units in the squad. If a <AA Cannoneer> Supporter is in the squad, these effects are amplified by 50%. At round start, provide Support Fire to <AA Cannoneer> Attackers."
+  },
+  "SkillDescSimple_Skill_BR_BeastHunter_N_5": {
+    "korean": "조건부 적 받는 피해 증가 / 행동력 감소. <AA 캐노니어> 공격기 공격 지원.",
+    "english": "Conditionally increase enemy DMG Taken and reduce SPD. Provide Support Fire to <AA Cannoneer> Attackers."
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_5": {
+    "korean": "킬 존 : 공격 지원 (AA 캐노니어)",
+    "english": "Kill Zone: Follow-Up Attack (AA Cannoneer)"
+  },
+  "BuffDesc2_Effect_BR_BeastHunter_N_5": {
+    "korean": "킬 존 : 받는 피해 {0}% 증가 (중장형 1기당)",
+    "english": "Kill Zone: DMG Taken Increased {0}% (per Heavy unit)"
+  },
+  "BuffDesc3_Effect_BR_BeastHunter_N_5": {
+    "korean": "킬 존 : 행동력 {0}% (공격기 1기당)",
+    "english": "Kill Zone: SPD {0}% (per Attacker)"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_51": {
+    "korean": "킬 존 : 받는 피해 {0}% 증가",
+    "english": "Kill Zone: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_52": {
+    "korean": "킬 존 : 받는 피해 {0}% 증가",
+    "english": "Kill Zone: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_53": {
+    "korean": "킬 존 : 받는 피해 {0}% 증가",
+    "english": "Kill Zone: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_54": {
+    "korean": "킬 존 : 받는 피해 {0}% 증가",
+    "english": "Kill Zone: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_55": {
+    "korean": "킬 존 : 받는 피해 {0}% 증가",
+    "english": "Kill Zone: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_56": {
+    "korean": "킬 박스 : 받는 피해 {0}% 증가",
+    "english": "Kill Box: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_57": {
+    "korean": "킬 박스 : 받는 피해 {0}% 증가",
+    "english": "Kill Box: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_58": {
+    "korean": "킬 박스 : 받는 피해 {0}% 증가",
+    "english": "Kill Box: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_59": {
+    "korean": "킬 박스 : 받는 피해 {0}% 증가",
+    "english": "Kill Box: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_510": {
+    "korean": "킬 박스 : 받는 피해 {0}% 증가",
+    "english": "Kill Box: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_511": {
+    "korean": "킬 존 : 행동력 {0}%",
+    "english": "Kill Zone: SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_512": {
+    "korean": "킬 존 : 행동력 {0}%",
+    "english": "Kill Zone: SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_513": {
+    "korean": "킬 존 : 행동력 {0}%",
+    "english": "Kill Zone: SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_514": {
+    "korean": "킬 존 : 행동력 {0}%",
+    "english": "Kill Zone: SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_515": {
+    "korean": "킬 존 : 행동력 {0}%",
+    "english": "Kill Zone: SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_516": {
+    "korean": "킬 박스 : 행동력 {0}%",
+    "english": "Kill Box: SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_517": {
+    "korean": "킬 박스 : 행동력 {0}%",
+    "english": "Kill Box: SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_518": {
+    "korean": "킬 박스 : 행동력 {0}%",
+    "english": "Kill Box: SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_519": {
+    "korean": "킬 박스 : 행동력 {0}%",
+    "english": "Kill Box: SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_BeastHunter_N_520": {
+    "korean": "킬 박스 : 행동력 {0}%",
+    "english": "Kill Box: SPD {0}%"
+  }
+}

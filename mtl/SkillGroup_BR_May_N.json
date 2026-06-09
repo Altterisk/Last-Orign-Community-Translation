@@ -1,0 +1,122 @@
+{
+  "1002700279": {
+    "korean": "융단 폭격",
+    "english": "Carpet Bombing"
+  },
+  "1002706146": {
+    "korean": "융단 폭격으로 대상 지점에 {0} 보호 무시 피해를 줍니다. 대상이 이동 불가이거나 표식 상태면 정밀 폭격으로 피해량이 증가합니다.",
+    "english": "Delivers {0} damage ignoring protection to the target area with Carpet Bombing. If the target is Rooted or Marked, damage is increased with Precision Strike."
+  },
+  "1002706488": {
+    "korean": "목표 지점 {0} 보호 무시 피해. 이동 불가 / 표식 대상 피해량 증가",
+    "english": "Deal {0} damage ignoring protection to the target area. Damage increases for Rooted or Marked targets."
+  },
+  "1000102636": {
+    "korean": "정밀 폭격 : 피해량{0}%",
+    "english": "Precision Bombing: Additional DMG {0}%"
+  },
+  "1002700280": {
+    "korean": "석기 시대로!",
+    "english": "Back to the Stone Age!"
+  },
+  "1002706147": {
+    "korean": "1라운드 후 착탄해, {0} 보호 무시 피해를 주는 ALCM을 발사합니다. 목표 지점 주변은 피해량이 감소하며, 이동 불가 / 표식 상태면 피해량이 증가합니다. 적중 대상은 3라운드 동안 지속 화염 피해를 입습니다. 착탄 시, 대상의 반격 효과를 해제합니다.",
+    "english": "After 1 round, fires an ALCM that deals {0} damage ignoring protection. Damage decreases around the target area, but increases if the target is Rooted or Marked. The hit target takes Fire DoT DMG for 3 rounds. Upon impact, removes the target's Counter Attack Effect."
+  },
+  "1002706489": {
+    "korean": "목표 지점 {0} 보호 무시 피해. 이동 불가 / 표식 대상 피해량 증가 (1r 후 착탄)",
+    "english": "Deal {0} damage ignoring protection to the target area after 1 round. Damage increases for Rooted or Marked targets."
+  },
+  "1000102596": {
+    "korean": "지속 화염 피해 {0}",
+    "english": "Fire DoT DMG {0}"
+  },
+  "1000106223": {
+    "korean": "시간차 공격 : 반격 효과 해제",
+    "english": "Time-Lag Attack : Counter Attack Effect Removal"
+  },
+  "1002700281": {
+    "korean": "폭격 편대 지휘",
+    "english": "Bomber Squadron Command"
+  },
+  "1002703814": {
+    "korean": "라운드 개시 시, 범위 내 기동형 아군을 지휘해 자신과 대상의 공격력과 치명타가 증가합니다. 스킬 레벨 10에서 자신의 위치와 상관없이 효과가 적용됩니다.",
+    "english": "At the start of the round, commands Air-type allies within range, increasing both their and the user's ATK and CRIT. At skill level 10, the effect applies regardless of the user's position."
+  },
+  "1002703065": {
+    "korean": "범위 내 기동형 아군 공격력 / 치명타 증가",
+    "english": "Increases ATK / CRIT of Air-type allies within range."
+  },
+  "1000102637": {
+    "korean": "폭격 편대 지휘 : 공격력{0}% (기동)",
+    "english": "Bomber Squadron Command : ATK {0}% (Air)"
+  },
+  "1000104267": {
+    "korean": "폭격 편대 지휘 : 치명타{0}% (기동)",
+    "english": "Bomber Squadron Command : CRIT {0}% (Air)"
+  },
+  "1002700282": {
+    "korean": "불꽃놀이광",
+    "english": "Pyrotechnic Maniac"
+  },
+  "1002706148": {
+    "korean": "방어 관통이 증가하며 적이 처치될 경우, 폭발하는 모습에 영감을 얻어 공격력과 행동력이 증가합니다. 공격력 / 행동력 증가 효과는 중첩됩니다.",
+    "english": "DEF Penetration increases, and when an enemy is defeated, inspired by the explosion, ATK and SPD rise. The ATK and SPD increase effects can stack."
+  },
+  "1002706490": {
+    "korean": "방어 관통 증가. 적이 처치될 때마다 공격력 / 행동력 증가",
+    "english": "Increases DEF Penetration. Each time an enemy is defeated, ATK and SPD increase."
+  },
+  "1000102638": {
+    "korean": "불꽃놀이광 : 공격력{0}%",
+    "english": "Pyrotechnic Maniac : ATK {0}%"
+  },
+  "1000104268": {
+    "korean": "불꽃놀이광 : 행동력{0}%",
+    "english": "Pyrotechnic Maniac : SPD {0}%"
+  },
+  "1000106561": {
+    "korean": "대 장갑 폭탄 : 방어 관통{0}%",
+    "english": "Anti-Armor Bomb : DEF Penetration {0}%"
+  },
+  "1002700283": {
+    "korean": "길동무 모집?!",
+    "english": "Looking for Companions?!"
+  },
+  "1002706149": {
+    "korean": "자신이 전투 불능이 될 경우, ALCM이 유폭해 주변 아군에게 막대한 피해를 줍니다. 라운드 개시 시 자신의 HP가 50% 이하면 유폭 범위 내 아군들의 행동력이, 25% 이하면 AP가 추가로 증가합니다. 스킬 레벨이 높을수록 유폭 확률이 감소합니다.",
+    "english": "When the user becomes incapacitated, the ALCM explodes, dealing massive damage to nearby allies. At the start of the round, if the user's HP is below 50%, allies within the explosion range gain SPD, and if below 25% HP, they gain additional AP. Higher skill levels reduce the explosion chance."
+  },
+  "1002703067": {
+    "korean": "사망 시, 아군에게 강력한 피해. HP에 따라 주변 아군 행동력 / AP 증가",
+    "english": "Upon death, deals significant damage to allies. Increases SPD / AP of nearby allies based on HP."
+  },
+  "1000102639": {
+    "korean": "길동무 모집?! : {0}% 물리 피해",
+    "english": "Recruiting Companions?!: {0}% Physical Damage"
+  },
+  "1000103030": {
+    "korean": "싸늘한 분위기 : 행동력{0}%",
+    "english": "Chilly Atmosphere: SPD {0}%"
+  },
+  "1000103031": {
+    "korean": "모집 거절 : AP{0}",
+    "english": "Recruitment rejected: AP {0}"
+  },
+  "1002700284": {
+    "korean": "ALCM 착탄",
+    "english": "ALCM Impact"
+  },
+  "1002703817": {
+    "korean": "{0} 피해를 주는 ALCM을 발사합니다. 보호 효과를 무시하며, 목표 주변에는 피해량이 감소합니다. 적중한 대상은 3라운드 동안 점화 상태가 되어 지속 화염 피해를 입습니다.",
+    "english": "Fires an ALCM dealing {0} damage, ignoring protection, with damage decreasing around the target. Hit targets become Ignited for 3 rounds, taking Fire DoT DMG."
+  },
+  "1002703068": {
+    "korean": "목표 지점 {0} 피해. 1라운드 후 착탄. 보호 무시. 방어 관통. 점화",
+    "english": "Target Point {0} Damage. Hits After 1 Round. Ignoring protection. DEF Penetration. Ignited"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_99": {
+    "korean": "시간차 공격 : 반격 효과 해제",
+    "english": "Delayed Attack : Counter Attack Effect Removal"
+  }
+}

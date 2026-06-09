@@ -1,0 +1,98 @@
+{
+  "1002300032": {
+    "korean": "해충 박멸",
+    "english": "Pest Extermination"
+  },
+  "1002703938": {
+    "korean": "부식 용액을 분사해 {0} 피해를 주고, 3라운드 동안 방어력 / 행동력 감소 / 지속 고정 피해를 입는 상태로 만듭니다 (최대 3 중첩). 해당 효과 중첩 적용 시, 기본 공격력에 비례한 고정 피해를 입으며 받는 피해가 증가합니다.",
+    "english": "Sprays a corrosive solution to deal {0} damage and inflict a debuff for 3 rounds that reduces DEF / SPD and applies stacking fixed DoT (max 3 stacks). When stacked, the fixed damage scales with base ATK and further increases damage taken."
+  },
+  "1002702930": {
+    "korean": "단일 대상 {0} 피해. 부식 효과",
+    "english": "Deals {0} damage to a single target. Inflicts Corrosion."
+  },
+  "1000102541": {
+    "korean": "부식 : 행동력 {0}%",
+    "english": "Corrosion: SPD {0}%"
+  },
+  "1000102534": {
+    "korean": "부식 : 방어력 {0}%",
+    "english": "Corrosion: DEF {0}%"
+  },
+  "1000102788": {
+    "korean": "부식 : 지속 물리 피해 {0}",
+    "english": "Corrosion: Physical DoT DMG {0}"
+  },
+  "1000103360": {
+    "korean": "내부 파괴 : 기본 공격력 {0}% 고정 피해",
+    "english": "Internal Destruction: Base ATK {0}% Fixed Damage"
+  },
+  "1000103361": {
+    "korean": "내부 파괴 : 받는 피해{0}%",
+    "english": "Internal Destruction: DMG Taken {0}%"
+  },
+  "1002700506": {
+    "korean": "소독 개시!",
+    "english": "Commencing Disinfection!"
+  },
+  "1002706190": {
+    "korean": "대상 지점에 소독 용액을 분사해 해로운 효과를 해제하고, 2라운드 동안 효과 저항을 높혀주며 침수 상태로 만듭니다. 침수 상태가 되면 화염 저항이 증가하며, 냉기 / 전기 저항이 감소합니다. 스킬 레벨 5에서 범위가 증가합니다.",
+    "english": "Sprays a disinfectant solution at the target area, removing debuffs and granting increased Effect Resistance for 2 turns.&nAlso inflicts Soaked status: increases Fire resistance, but reduces Cold and Electric resistance.&nArea of effect increases at skill level 5."
+  },
+  "1002703193": {
+    "korean": "목표 지점 아군 효과 저항 증가 / 방해 효과 해제 / 침수 상태 적용",
+    "english": "At a targeted location, increases ally Effect Resist, removes debuffs, and applies Drenched status."
+  },
+  "1000102711": {
+    "korean": "해로운 효과 해제",
+    "english": "Debuff Removal"
+  },
+  "1000104353": {
+    "korean": "효과 저항{0}%",
+    "english": "Status Resist {0}%"
+  },
+  "1000103485": {
+    "korean": "침수 : 화염 저항{0}%",
+    "english": "Submersion : Fire Resist {0}%"
+  },
+  "1000102977": {
+    "korean": "침수 : 전기 저항{0}%",
+    "english": "Flooded: Electric Resist {0}%"
+  },
+  "1000102660": {
+    "korean": "침수 : 냉기 저항{0}%",
+    "english": "Submerged: Cold Resist {0}%"
+  },
+  "1000102976": {
+    "korean": "침수 : 화염 저항{0}%",
+    "english": "Flooded: Fire Resist {0}%"
+  },
+  "1002702057": {
+    "korean": "상쾌함!",
+    "english": "Refreshing!"
+  },
+  "1002704306": {
+    "korean": "라운드 개시 시, <소독 개시!>가 적용된 아군들의 공격력 / 적중 / 회피 / AP가 증가합니다.",
+    "english": "At the start of the round, allies affected by <Sterilization Initiated!> gain increased ATK, ACU, EVA, and AP."
+  },
+  "1002703445": {
+    "korean": "<소독 개시!> 효과를 받는 아군 공격력 / 적중 / 회피 / AP 증가",
+    "english": "Allies affected by <Disinfection Protocol!> gain increased ATK, ACU, EVA, and AP"
+  },
+  "1000103684": {
+    "korean": "상쾌함! : 공격력{0}%",
+    "english": "Refreshing! : ATK {0}%"
+  },
+  "1000104728": {
+    "korean": "상쾌함! : 적중{0}%",
+    "english": "Refreshing!: ACC {0}%"
+  },
+  "1000105213": {
+    "korean": "상쾌함! : 회피{0}%",
+    "english": "Refreshing! : EVA {0}%"
+  },
+  "1000103685": {
+    "korean": "상쾌함! : AP{0}",
+    "english": "Refreshing! : AP {0}"
+  }
+}

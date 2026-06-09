@@ -1,0 +1,202 @@
+{
+  "SkillName_Skill_3P_Hachiko_N_1": {
+    "korean": "리볼버 캐논",
+    "english": "Revolver Cannon"
+  },
+  "SkillDesc_Skill_3P_Hachiko_N_1": {
+    "korean": "대상에게 유탄포를 발사해 {0} 피해를 주고 대상을 도발합니다. 대상이 방어력 감소 또는 받는 피해 증가 상태일 시 각각 추가 피해를 줍니다. 대상이 경장 / 중장 일 경우 받는 피해 감소 효과를 해제 합니다.",
+    "english": "Fires a grenade launcher at the target, dealing {0} damage and Provoking the target. If the target is under DEF Down or DMG Taken Increased, deals additional damage for each. If the target is Light or Heavy, removes their DMG Reduction effect."
+  },
+  "SkillDescSimple_Skill_3P_Hachiko_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상 도발 / 방어력, 받는 피해 증가일 시 피해량 증가",
+    "english": "Single target {0} damage. Provokes the target; damage increased if the target has DEF Down or DMG Taken Increased."
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_1": {
+    "korean": "정밀 공격 : 피해량{0}%",
+    "english": "Precision Attack : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_3P_Hachiko_N_1": {
+    "korean": "못 지나가요! : 대상 도발 (하치코)",
+    "english": "You Shall Not Pass!: Provoke (Hachiko)"
+  },
+  "BuffDesc3_Effect_3P_Hachiko_N_1": {
+    "korean": "리볼버 캐논 : 받는 피해 감소 효과 해제",
+    "english": "Revolver Cannon : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_11": {
+    "korean": "못 지나가요! : 대상 도발 (하치코)",
+    "english": "You Shall Not Pass!: Provoke target (Hachiko)"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_12": {
+    "korean": "리볼버 캐논 : 받는 피해 감소 효과 해제",
+    "english": "Revolver Cannon : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_13": {
+    "korean": "경비 모드! : 행동력{0}%",
+    "english": "Guard Mode! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_14": {
+    "korean": "정밀 공격 : 피해량{0}%",
+    "english": "Precision Strike: Additional DMG {0}%"
+  },
+  "SkillName_Skill_3P_Hachiko_N_2": {
+    "korean": "은혜 갚기",
+    "english": "Return the Favor"
+  },
+  "SkillDesc_Skill_3P_Hachiko_N_2": {
+    "korean": "<경비 모드!>로 보호받는 아군들의 AP와 행동력을 증가시킵니다. 자신을 제외 한 컴페니언 부대원들에게는 <경비 모드!>의 보호 효과 적용 여부와 상관 없이 효과가 50% 추가됩니다.",
+    "english": "Increases the AP and SPD of allies protected by <Guard Mode!>. Companion squad members, excluding yourself, receive the effect at 150% regardless of whether they are protected by <Guard Mode!>."
+  },
+  "SkillDescSimple_Skill_3P_Hachiko_N_2": {
+    "korean": "AP / 행동력 증가",
+    "english": "AP / SPD increase"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_2": {
+    "korean": "은혜 갚기 : AP{0}",
+    "english": "Return the Favor : AP {0}"
+  },
+  "BuffDesc2_Effect_3P_Hachiko_N_2": {
+    "korean": "놀아줘요! : 행동력{0}%",
+    "english": "Play with Me!: SPD {0}%"
+  },
+  "BuffDesc3_Effect_3P_Hachiko_N_2": {
+    "korean": "은혜 갚기 : AP{0} (컴페니언)",
+    "english": "Return the Favor: AP {0} (Companion)"
+  },
+  "BuffDesc4_Effect_3P_Hachiko_N_2": {
+    "korean": "놀아줘요! : 행동력{0}% (컴페니언)",
+    "english": "Play with Me!: SPD {0}% (Companion)"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_21": {
+    "korean": "놀아줘요! : 행동력{0}%",
+    "english": "Play With Me!: SPD {0}%"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_22": {
+    "korean": "은혜 갚기 : AP{0} (컴페니언)",
+    "english": "Return the Favor: AP {0} (Companion)"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_23": {
+    "korean": "놀아줘요! : 행동력{0}% (컴페니언)",
+    "english": "Play with Me!: SPD {0}% (Companion)"
+  },
+  "SkillName_Skill_3P_Hachiko_N_3": {
+    "korean": "경비 모드!",
+    "english": "Guard Mode!"
+  },
+  "SkillDesc_Skill_3P_Hachiko_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군들을 지정보호하고 자신에게 반격 / 받는 피해 감소를 부여합니다. 액티브 스킬 사용 시, 자신의 행동력을 증가시킵니다.",
+    "english": "At the start of the round, grants Target Protect to allies within range and gives self Counter Attack and DMG Reduction. When using an active skill, increases own SPD."
+  },
+  "SkillDescSimple_Skill_3P_Hachiko_N_3": {
+    "korean": "범위 내 아군 지정 보호 / 반격 / 받는 피해 감소 / 스킬 사용 시 행동력 증가",
+    "english": "Target Protect allies within range / Counter Attack / DMG Reduction / SPD increase when using a skill"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_3": {
+    "korean": "경비 모드! : 지정 대상 보호",
+    "english": "Guard Mode! : Target Protect"
+  },
+  "BuffDesc2_Effect_3P_Hachiko_N_3": {
+    "korean": "경비 모드! : {0}% 위력으로 반격 (자신)",
+    "english": "Guard Mode! : Counter Attack with {0}% Power (Self)"
+  },
+  "BuffDesc3_Effect_3P_Hachiko_N_3": {
+    "korean": "경비 모드! : 행동력{0}% (자신)",
+    "english": "Guard Mode! : SPD {0}% (Self)"
+  },
+  "BuffDesc4_Effect_3P_Hachiko_N_3": {
+    "korean": "경비 모드! : 받는 피해 감소 {0}% (자신)",
+    "english": "Guard Mode! : DMG Reduction {0}% (Self)"
+  },
+  "SkillName_Skill_3P_Hachiko_N_4": {
+    "korean": "불굴의 의지",
+    "english": "Unyielding Will"
+  },
+  "SkillDesc_Skill_3P_Hachiko_N_4": {
+    "korean": "전투 개시 시, 전투 속행 효과를 얻습니다. 라운드 개시 시, 방어력이 증가하며 HP가 50% 이하인 경우에는 AP 증가 / 해로운 효과 해제 효과가 발동합니다. <불굴의 의지> 전투 속행 효과가 비활성화 상태에서 피격 시, 10% 확률로 전투 속행 효과가 적용됩니다.",
+    "english": "At the start of wave, gains Continue battle effect. At the start of round, DEF increases and if HP is 50% or below, AP increases and harmful effects are removed. When <Unyielding Will> Continue battle effect is inactive, being hit has a 10% chance to apply Continue battle effect."
+  },
+  "SkillDescSimple_Skill_3P_Hachiko_N_4": {
+    "korean": "전투 속행 / 방어력 증가",
+    "english": "Continue battle / DEF increase"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_4": {
+    "korean": "불굴의 의지 : {0}% HP 전투 속행",
+    "english": "Unyielding Will : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc2_Effect_3P_Hachiko_N_4": {
+    "korean": "불굴의 의지 : AP{0} (HP 50% 이하)",
+    "english": "Unyielding Will: AP {0} (HP 50% or below)"
+  },
+  "BuffDesc3_Effect_3P_Hachiko_N_4": {
+    "korean": "불굴의 의지 : 해로운 효과 해제 (HP 50% 이하)",
+    "english": "Unyielding Will: Remove harmful effects (HP 50% or below)"
+  },
+  "BuffDesc4_Effect_3P_Hachiko_N_4": {
+    "korean": "불굴의 의지 : 방어력{0}%",
+    "english": "Unyielding Will : DEF {0}%"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_41": {
+    "korean": "불굴의 의지 : 방어력{0}%",
+    "english": "Unyielding Will : DEF {0}%"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_42": {
+    "korean": "불굴의 의지 : AP{0} (HP 50% 이하)",
+    "english": "Unyielding Will: AP {0} (HP 50% or below)"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_43": {
+    "korean": "불굴의 의지 : 해로운 효과 해제 (HP 50% 이하)",
+    "english": "Unyielding Will: Remove harmful effects (HP 50% or below)"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_44": {
+    "korean": "불굴의 의지 : {0}% HP 전투 속행",
+    "english": "Unyielding Will : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_431": {
+    "korean": "경비 모드! : {0}% 위력으로 반격 (자신)",
+    "english": "Guard Mode! : Counter Attack with {0}% Power (Self)"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_432": {
+    "korean": "경비 모드! : 받는 피해 감소 {0}% (자신)",
+    "english": "Guard Mode! : DMG Reduction {0}% (Self)"
+  },
+  "SkillName_Skill_3P_Hachiko_N_5": {
+    "korean": "물러서지 않아요!",
+    "english": "I Won't Back Down!"
+  },
+  "SkillDesc_Skill_3P_Hachiko_N_5": {
+    "korean": "라운드 개시 시, 효과 저항 / 강화 해제 저항 효과가 적용 되고 자신의 방어력 만큼 공격자의 치명타를 감소시킵니다. 자신에게 공격 지원 효과가 적용 중일 시, 행/열 보호가 활성화 됩니다.",
+    "english": "At the start of the round, applies Status Resist and Buff Removal Resist, and reduces the attacker’s CRIT by an amount equal to own DEF. If Attack Support is applied to self, Row Protect and Column Protect are activated."
+  },
+  "SkillDescSimple_Skill_3P_Hachiko_N_5": {
+    "korean": "효과 저항 / 강화 해제 저항 / 행, 열 보호 / 방어력 비례 치명타 감소",
+    "english": "Status Resist / Buff Removal Resist / Row Protect / Column Protect / CRIT reduction based on DEF"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_5": {
+    "korean": "물러서지 않아요! : 효과 저항{0}%",
+    "english": "I Won't Back Down! : Status Resist {0}%"
+  },
+  "BuffDesc2_Effect_3P_Hachiko_N_5": {
+    "korean": "물러시지 않아요! : 치명타 저항 {0}% (방어력 비례)",
+    "english": "I Won't Back Down!: CRIT Resistance {0}% (DEF-based)"
+  },
+  "BuffDesc3_Effect_3P_Hachiko_N_5": {
+    "korean": "물러서지 않아요! : 행/열 보호 (공격 지원 상태일 시)",
+    "english": "I Won't Back Down!: Row/Column Protect"
+  },
+  "BuffDesc4_Effect_3P_Hachiko_N_5": {
+    "korean": "물러서지 않아요! : 강화 해제 저항{0}%",
+    "english": "I Won't Back Down! : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_51": {
+    "korean": "물러시지 않아요! : 치명타 저항 {0}% (방어력 비례)",
+    "english": "I Won't Back Down!: CRIT Resistance {0}% (DEF-based)"
+  },
+  "BuffDesc1_Effect_3P_Hachiko_N_52": {
+    "korean": "물러서지 않아요! : 행 보호 (공격 지원 상태일 시)",
+    "english": "I Won't Back Down!: Row Protect"
+  },
+  "BuffDesc2_Effect_3P_Hachiko_N_52": {
+    "korean": "물러서지 않아요! : 열 보호 (공격 지원 상태일 시)",
+    "english": "I Won't Back Down!: Column Protect"
+  }
+}

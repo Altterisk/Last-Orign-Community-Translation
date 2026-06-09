@@ -1,0 +1,218 @@
+{
+  "SkillName_Skill_BR_Wraithy_N_1": {
+    "korean": "라이트닝 샷",
+    "english": "Lightning Shot"
+  },
+  "SkillDesc_Skill_BR_Wraithy_N_1": {
+    "korean": "대상에게 전격을 발사해 {0} 전기 피해를 주고 AP를 감소시킵니다. &n적중에 관계 없이 3라운드 동안 대상의 회피를 감소시킵니다. &n대상이 표식 / 이동 불가 상태인 경우 각각 피해량이 증가합니다.",
+    "english": "Fires an electric shock at the target, dealing {0} Electric damage and reducing their AP. &nRegardless of hit, reduces the target’s EVA for 3 rounds. &nDamage is increased against Marked / Rooted targets."
+  },
+  "SkillDescSimple_Skill_BR_Wraithy_N_1": {
+    "korean": "단일 대상 {0} 피해. AP / 회피 감소. 표식 / 이동 불가 대상 피해량 증가.",
+    "english": "Single target {0} Damage / AP Reduction / EVA Reduction / Damage increased against Marked / Rooted targets."
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_1": {
+    "korean": "감전 : AP {0}",
+    "english": "Electrocution : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Wraithy_N_1": {
+    "korean": "감전 : 회피 {0}%",
+    "english": "Electrocution : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_Wraithy_N_1": {
+    "korean": "정밀 공격 : 피해량 {0}%",
+    "english": "Precision Attack : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_11": {
+    "korean": "감전 : 회피 {0}%",
+    "english": "Electrocution : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_12": {
+    "korean": "정밀 공격 : 피해량 {0}%",
+    "english": "Precision Attack : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_13": {
+    "korean": "정밀 공격 : 피해량 {0}%",
+    "english": "Precision Attack : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_Wraithy_N_2": {
+    "korean": "스톰 볼트",
+    "english": "Storm Bolt"
+  },
+  "SkillDesc_Skill_BR_Wraithy_N_2": {
+    "korean": "지정 범위에 전격을 방사해 {0} 보호 무시 전기 피해를 주고, AP를 감소시킵니다. &n적중에 관계 없이 3라운드 동안 대상의 회피를 감소시킵니다. &n대상이 표식 / 이동 불가 상태인 경우 각각 피해량이 증가합니다.",
+    "english": "Emits an electric shock in the designated area, dealing {0} Ignore Protection Electric damage and reducing AP. &nRegardless of hit, reduces targets’ EVA for 3 rounds. &nDamage is increased against Marked / Rooted targets."
+  },
+  "SkillDescSimple_Skill_BR_Wraithy_N_2": {
+    "korean": "목표 지점 {0} 피해. AP / 회피 감소. 표식 / 이동 불가 대상 피해량 증가.",
+    "english": "Target area {0} Damage / AP Reduction / EVA Reduction / Damage increased against Marked / Rooted targets."
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_2": {
+    "korean": "감전 : AP {0}",
+    "english": "Electrocution : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Wraithy_N_2": {
+    "korean": "감전 : 회피 {0}%",
+    "english": "Electrocution : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_Wraithy_N_2": {
+    "korean": "정밀 공격 : 피해량 {0}%",
+    "english": "Precision Attack : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_Wraithy_N_3": {
+    "korean": "전자기 공명",
+    "english": "Electromagnetic Resonance"
+  },
+  "SkillDesc_Skill_BR_Wraithy_N_3": {
+    "korean": "라운드 개시 시, 자신을 제외한 아군 수에 따라 자신의 공격력이 증가합니다.&n자신을 제외한 아군 수가 2 이상이면 치명타, 4 이상이면 행동력이 추가로 증가합니다.",
+    "english": "At the start of the round, increases your ATK based on the number of allies excluding yourself. &nIf there are 2 or more such allies, increases CRIT; if 4 or more, additionally increases SPD."
+  },
+  "SkillDescSimple_Skill_BR_Wraithy_N_3": {
+    "korean": "아군 1기 당 자신 공격력 증가. 조건부 자신 치명타 / 행동력 증가.",
+    "english": "Increase your ATK per allied unit. Conditionally increase your CRIT / SPD."
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_3": {
+    "korean": "전자기 공명 : 공격력 {0}% (1기당)",
+    "english": "Electromagnetic Resonance : ATK {0}% (per unit)"
+  },
+  "BuffDesc2_Effect_BR_Wraithy_N_3": {
+    "korean": "전자기 공명 : 치명타 {0}% (2기 이상)",
+    "english": "Electromagnetic Resonance : CRIT {0}% (2 units or more)"
+  },
+  "BuffDesc3_Effect_BR_Wraithy_N_3": {
+    "korean": "전자기 공명 : 행동력 {0}% (4기 이상)",
+    "english": "Electromagnetic Resonance : SPD {0}% (4 units or more)"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_31": {
+    "korean": "전자기 공명 : 공격력 {0}%",
+    "english": "Electromagnetic Resonance : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_32": {
+    "korean": "전자기 공명 : 공격력 {0}%",
+    "english": "Electromagnetic Resonance : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_33": {
+    "korean": "전자기 공명 : 공격력 {0}%",
+    "english": "Electromagnetic Resonance : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_34": {
+    "korean": "전자기 공명 : 공격력 {0}%",
+    "english": "Electromagnetic Resonance : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_35": {
+    "korean": "전자기 공명 : 치명타 {0}%",
+    "english": "Electromagnetic Resonance : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_36": {
+    "korean": "전자기 공명 : 행동력 {0}%",
+    "english": "Electromagnetic Resonance : SPD {0}%"
+  },
+  "SkillName_Skill_BR_Wraithy_N_4": {
+    "korean": "신경 자극",
+    "english": "Neural Stimulation"
+  },
+  "SkillDesc_Skill_BR_Wraithy_N_4": {
+    "korean": "라운드 개시 시, 자신의 전기 저항이 증가합니다.&n라운드 개시 시, 전기 저항 증가 효과가 적용된 아군의 공격력 / 행동력이 증가합니다.&n자신과 같은 열에 위치한 아군은 상기 조건에 관계 없이 50%의 효과가 별도로 적용됩니다.",
+    "english": "At the start of the round, increases your Electric Resist. &nAt the start of the round, increases ATK / SPD of allies with Electric Resist increase. &nAllies positioned in the same column as you receive 50% of these effects regardless of the above conditions."
+  },
+  "SkillDescSimple_Skill_BR_Wraithy_N_4": {
+    "korean": "자신 전기 저항 증가. 조건부 아군 공격력 / 행동력 증가.",
+    "english": "Increase your Electric Resist. Conditionally increase allies’ ATK / SPD."
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_4": {
+    "korean": "신경 자극 : 전기 저항 {0}%",
+    "english": "Neural Stimulation : Electric Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Wraithy_N_4": {
+    "korean": "신경 자극 : 공격력 {0}%",
+    "english": "Neural Stimulation : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_Wraithy_N_4": {
+    "korean": "신경 자극 : 행동력 {0}%",
+    "english": "Neural Stimulation : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_41": {
+    "korean": "신경 자극 : 공격력 {0}%",
+    "english": "Neural Stimulation : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Wraithy_N_41": {
+    "korean": "신경 자극 : 행동력 {0}%",
+    "english": "Neural Stimulation : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_42": {
+    "korean": "병렬연결 : 공격력 {0}%",
+    "english": "Parallel Connection : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Wraithy_N_42": {
+    "korean": "병렬연결 : 행동력 {0}%",
+    "english": "Parallel Connection : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_43": {
+    "korean": "병렬연결 : 공격력 {0}%",
+    "english": "Parallel Connection : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Wraithy_N_43": {
+    "korean": "병렬연결 : 행동력 {0}%",
+    "english": "Parallel Connection : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_44": {
+    "korean": "병렬연결 : 공격력 {0}%",
+    "english": "Parallel Connection : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Wraithy_N_44": {
+    "korean": "병렬연결 : 행동력 {0}%",
+    "english": "Parallel Connection : SPD {0}%"
+  },
+  "SkillName_Skill_BR_Wraithy_N_5": {
+    "korean": "연쇄 전류",
+    "english": "Chain Current"
+  },
+  "SkillDesc_Skill_BR_Wraithy_N_5": {
+    "korean": "라운드 개시 시, 적 전체의 전기 저항 / 회피 / 적중을 감소시킵니다.&n<침수> 상태인 적에게는 효과 저항을 무시하고 적용되며, 추가로 이동 불가 효과를 부여합니다.&n공격 적중 시, 전류가 <침수> 상태인 모든 적에게 퍼져 나가 자신의 공격력에 비례한 고정 전기 피해를 가합니다.",
+    "english": "At the start of the round, reduces Electric Resist / EVA / ACC of all enemies. &nApplies regardless of Status Resist to enemies in <Soaked> state and additionally inflicts Rooted. &nWhen an attack hits, the current spreads to all enemies in <Soaked> state, dealing Fixed Electric DMG proportional to your ATK."
+  },
+  "SkillDescSimple_Skill_BR_Wraithy_N_5": {
+    "korean": "적 전체 전기 저항 / 회피 / 적중 감소. <침수> 대상 이동 불가 / 고정 전기 피해.",
+    "english": "Reduces Electric Resist / EVA / ACC of all enemies. &nImmobilizes <Soaked> targets / deals Fixed Electric DMG."
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_5": {
+    "korean": "연쇄 전류 : 전기 저항 {0}%",
+    "english": "Chain Current : Electric Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Wraithy_N_5": {
+    "korean": "연쇄 전류 : 회피 {0}%",
+    "english": "Chain Current : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_Wraithy_N_5": {
+    "korean": "연쇄 전류 : 적중 {0}%",
+    "english": "Chain Current : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Wraithy_N_5": {
+    "korean": "워터 브리지 : 이동 불가 (침수)",
+    "english": "Water Bridge: Rooted (Soaked)"
+  },
+  "BuffDesc5_Effect_BR_Wraithy_N_5": {
+    "korean": "연쇄 전류 : {0}% 고정 전기 피해 (침수)",
+    "english": "Chain Current: {0}% Fixed Electric DMG (Soaked)"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_51": {
+    "korean": "절연 파괴 : 전기 저항 {0}%",
+    "english": "Insulation Break : Electric Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Wraithy_N_51": {
+    "korean": "절연 파괴 : 회피 {0}%",
+    "english": "Insulation Break : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_Wraithy_N_51": {
+    "korean": "절연 파괴 : 적중 {0}%",
+    "english": "Insulation Break : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Wraithy_N_51": {
+    "korean": "워터 브리지 : 이동 불가",
+    "english": "Water Bridge : Rooted"
+  },
+  "BuffDesc1_Effect_BR_Wraithy_N_52": {
+    "korean": "연쇄 전류 : {0}% 고정 전기 피해",
+    "english": "Chain Current : {0}% Fixed Electric DMG"
+  }
+}

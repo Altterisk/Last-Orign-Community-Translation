@@ -1,0 +1,166 @@
+{
+  "1002705036": {
+    "korean": "화시",
+    "english": "Flame Vision"
+  },
+  "1002706262": {
+    "korean": "대상에게 {0} 화염 속성 피해를 주고, 2라운드 동안 화염 저항 / 방어력 감소 효과를 줍니다. 대상이 표식 / 이동 불가 상태면 추가 화염 피해를 줍니다.",
+    "english": "Deals {0} Fire damage to the target and inflicts Fire Resist Reduction and DEF Reduction for 2 turns. If the target is Marked or Rooted, deals Additional DMG."
+  },
+  "1002706555": {
+    "korean": "대상 {0} 화염 속성 피해, 화염 저항 / 방어력 감소. 표식 / 이동 불가 시 추가 화염 피해",
+    "english": "Deals {0} Fire damage to the target. Damage is increased if the target’s Fire Resist or DEF is reduced. Deals Additional DMG if the target is Marked or Rooted."
+  },
+  "1000105817": {
+    "korean": "화시 : 화염 저항 {0}%",
+    "english": "Flame Mark : Fire Resist {0}%"
+  },
+  "1000105882": {
+    "korean": "화시 : 방어력 {0}%",
+    "english": "Flame Mark : DEF {0}%"
+  },
+  "1000105821": {
+    "korean": "화시 : 화염 피해량{0}%",
+    "english": "Flame Mark: Fire Damage {0}%"
+  },
+  "1002705037": {
+    "korean": "개화",
+    "english": "Bloom"
+  },
+  "SkillDesc_Skill_BR_Shirayuri_N_2": {
+    "korean": "지정 범위 적에게 {0} 보호 / 방어력 무시 피해를 주고, 주변 대상에는 75% 감소한 피해를 줍니다. 적중한 대상은 AP가 감소하며, 2라운드 동안 이동 불가 상태가 됩니다. 치명타 시, 피해량이 증가합니다.",
+    "english": "Deals {0} Protection / ignores DEF damage to enemies in the target area, and deals 75% reduced damage to surrounding targets. Affected enemies have their AP reduced and are Rooted for 2 turns. Critical hits increase damage."
+  },
+  "SkillDescSimple_Skill_BR_Shirayuri_N_2": {
+    "korean": "지정 범위 {0} 보호, 방어력 무시 피해 / AP 감소 / 이동 불가 / 치명타 시 추가 피해",
+    "english": "{0} Protection / ignores DEF / AP Reduction / Rooted / additional damage on CRIT"
+  },
+  "1000102495": {
+    "korean": "감전 : AP {0}",
+    "english": "Shock : AP {0}"
+  },
+  "1000105883": {
+    "korean": "개화 : 이동 불가",
+    "english": "Blooming : Rooted"
+  },
+  "1000102609": {
+    "korean": "회심의 일격 : 피해량{0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "1000105823": {
+    "korean": "개화 : 방어력 무시",
+    "english": "Bloom: Ignores DEF"
+  },
+  "1000105822": {
+    "korean": "감전 : 이동 불가",
+    "english": "Shock : Rooted"
+  },
+  "1002705038": {
+    "korean": "첩보망 구축",
+    "english": "Intelligence Network Setup"
+  },
+  "SkillDesc_Skill_BR_Shirayuri_N_3": {
+    "korean": "라운드 개시 시, 공격력/ 치명타 / 적중 / 회피가 증가합니다. 전투 종료 시, 다음에 출현할 적 정보를 얻습니다. 정찰 활성화 상태면 공격력이 추가로 증가합니다.",
+    "english": "At the start of the round, ATK, CRIT, ACC, and EVA are increased. At the end of battle, information on the next appearing enemy is obtained. If Recon Effect is active, ATK is further increased."
+  },
+  "SkillDescSimple_Skill_BR_Shirayuri_N_3": {
+    "korean": "공격력, 치명타, 적중, 회피 증가 / 정찰 활성화",
+    "english": "ATK, CRIT, ACC, EVA increase / Recon Effect active"
+  },
+  "1000105818": {
+    "korean": "첩보망 구축 : 공격력{0}%",
+    "english": "Intelligence Network Setup : ATK {0}%"
+  },
+  "1000105884": {
+    "korean": "첩보망 구축 : 치명타{0}%",
+    "english": "Intelligence Network Setup : CRIT {0}%"
+  },
+  "1000105907": {
+    "korean": "첩보망 구축 : 적중{0}%",
+    "english": "Intelligence Network Setup : ACC {0}%"
+  },
+  "1000105920": {
+    "korean": "첩보망 구축 : 회피{0}%",
+    "english": "Intelligence Network Setup : EVA {0}%"
+  },
+  "1000105824": {
+    "korean": "첩보망 구축 : 정찰 활성화",
+    "english": "Intelligence Network Setup : Recon Effect"
+  },
+  "BuffDesc1_Effect_BR_Shirayuri_N_31": {
+    "korean": "첩보망 구축 : 공격력{0}% (정찰 활성화)",
+    "english": "Intelligence Network Setup : ATK {0}% (Recon Effect)"
+  },
+  "1002705039": {
+    "korean": "첩보망 공유",
+    "english": "Intelligence Network Sharing"
+  },
+  "SkillDesc_Skill_BR_Shirayuri_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군의 적중 / 회피 / 행동력이 증가합니다. 범위 내 정찰 활성화 상태인 아군의 공격을 지원합니다. 3라운드 이후부터 아군의 행동을 기록하여, 적중 / 회피 / 행동력을 추가로 증가시킵니다.",
+    "english": "At the start of the round, ACC, EVA, and SPD of allies within range are increased. Supports the attacks of allies with Recon Effect active within range. Starting from round 3, records allies’ actions to further increase ACC, EVA, and SPD."
+  },
+  "SkillDescSimple_Skill_BR_Shirayuri_N_4": {
+    "korean": "적중, 회피, 행동력 증가 / 정찰 활성화 아군 공격 지원",
+    "english": "ACC, EVA, SPD increase / Supports attacks of allies with Recon Effect active"
+  },
+  "1000105819": {
+    "korean": "첩보망 공유 : 행동력{0}%",
+    "english": "Intelligence Network Sharing : SPD {0}%"
+  },
+  "1000105825": {
+    "korean": "첩보망 공유 : 적중{0}%",
+    "english": "Intelligence Network Sharing : ACC {0}%"
+  },
+  "1000105886": {
+    "korean": "첩보망 공유 : 회피{0}%",
+    "english": "Intelligence Network Sharing : EVA {0}%"
+  },
+  "1000105921": {
+    "korean": "첩보망 공유 : 공격 지원 (정찰 활성화 대상)",
+    "english": "Intelligence Network Sharing : Follow-Up Attack (Recon Effect target)"
+  },
+  "1000105826": {
+    "korean": "첩보 지원 : 공격 지원",
+    "english": "Intelligence Support : Follow-Up Attack"
+  },
+  "1002705040": {
+    "korean": "정보 공유",
+    "english": "Information Sharing"
+  },
+  "1002705089": {
+    "korean": "라운드 개시 시, 범위 내 적에게 공격력 증감 / 회피 증감 / 속성 저항 증감 / 받는 피해 증가 효과가 적용된 상태면 관련 정보를 공유해 능력치를 낮추거나 받는 피해를 증가시킵니다.",
+    "english": "At the start of the round, if enemies within range have ATK Increase/Decrease, EVA Increase/Decrease, Elemental Resist Increase/Decrease, or DMG Taken Increased effects, this unit shares related information to lower their stats or increase damage taken."
+  },
+  "1002706559": {
+    "korean": "적 공격력/회피/속성 저항 증감, 받는 피해 증가 효과 적용 시 능력치 낮추거나 받는 피해 증가",
+    "english": "Reduces the target’s ATK, EVA, or Elemental Resist, or increases the DMG they receive when such effects are applied."
+  },
+  "1000105820": {
+    "korean": "정보 공유 : 공격력 {0}%",
+    "english": "Information Sharing : ATK {0}%"
+  },
+  "1000105828": {
+    "korean": "정보 공유 : 회피 {0}%",
+    "english": "Information Sharing : EVA {0}%"
+  },
+  "1000105909": {
+    "korean": "정보 공유 : 속성 저항 {0}%",
+    "english": "Information Sharing : Elemental Resist {0}%"
+  },
+  "1000105832": {
+    "korean": "정보 공유 : 받는 피해{0}%",
+    "english": "Information Sharing : DMG Taken {0}%"
+  },
+  "1000105829": {
+    "korean": "화염 속성 정보 공유 : 화염 속성 저항 {0}%",
+    "english": "Fire Attribute Info Share : Fire Resist {0}%"
+  },
+  "1000105830": {
+    "korean": "냉기 속성 정보 공유 : 냉기 속성 저항 {0}%",
+    "english": "Cold Attribute Info Share : Cold Resist {0}%"
+  },
+  "1000105831": {
+    "korean": "전기 속성 정보 공유 : 전기 속성 저항 {0}%",
+    "english": "Electric Attribute Info Share : Electric Resist {0}%"
+  }
+}

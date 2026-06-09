@@ -1,0 +1,170 @@
+{
+  "SkillName_Skill_BR_Nymph_N_1": {
+    "korean": "집속 사격",
+    "english": "Focused Shot"
+  },
+  "SkillDesc_Skill_BR_Nymph_N_1": {
+    "korean": "기관총을 발사해 단일 대상에게 {0} 피해를 줍니다. &n대상이 표식 / 방어력 감소 / 회피 감소 상태인 경우, 각각 피해량이 증가합니다.",
+    "english": "Fires a machine gun to deal {0} damage to a single target.&nIf the target is Marked, has DEF Reduction, or EVA Reduction, damage is increased for each condition."
+  },
+  "SkillDescSimple_Skill_BR_Nymph_N_1": {
+    "korean": "단일 대상 {0} 피해. 조건부 피해량 증가.",
+    "english": "Deals {0} damage to a single target. Damage is increased conditionally."
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_1": {
+    "korean": "집속 사격 : 피해량 {0}%",
+    "english": "Focused Shot : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_Nymph_N_2": {
+    "korean": "제압 난사",
+    "english": "Suppressive Barrage"
+  },
+  "SkillDesc_Skill_BR_Nymph_N_2": {
+    "korean": "기관총을 난사해 지정 범위에 {0} 보호 무시 피해를 줍니다. &n적중 여부에 관계 없이, 제압 사격을 통해 2라운드 동안 대상의 적중 / 회피를 감소시킵니다.&n대상이 받는 피해 증가 또는 도발 상태인 경우, 피해량이 증가합니다.",
+    "english": "Unleashes a machine gun barrage to deal {0} Ignore Protection damage to the designated area.&nRegardless of hit or miss, suppressive fire reduces the targets' ACC and EVA for 2 rounds.&nIf the target is DMG Taken Increased or Provoked, damage is increased."
+  },
+  "SkillDescSimple_Skill_BR_Nymph_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 대상 적중 / 회피 감소. 조건부 피해량 증가.",
+    "english": "Deals {0} Ignore Protection damage to the designated area.&nReduces the targets’ ACC and EVA.&nDamage is increased conditionally."
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_2": {
+    "korean": "제압 난사 : 적중 {0}%",
+    "english": "Suppressive Barrage : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Nymph_N_2": {
+    "korean": "제압 난사 : 회피 {0}%",
+    "english": "Suppressive Barrage : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_Nymph_N_2": {
+    "korean": "제압 난사 : 피해량 {0}%",
+    "english": "Suppressive Barrage : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_21": {
+    "korean": "제압 난사 : 피해량 {0}%",
+    "english": "Suppressive Barrage : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_52": {
+    "korean": "영광스러운 전투를 위하여 : 방어력 {0}%",
+    "english": "For Glorious Battle : DEF {0}%"
+  },
+  "SkillName_Skill_BR_Nymph_N_3": {
+    "korean": "화력 지원",
+    "english": "Fire Support"
+  },
+  "SkillDesc_Skill_BR_Nymph_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군의 공격력 / 치명타 / 대 경장형 피해량이 증가하며 대상의 공격을 지원합니다.&n<철혈의 레오나>의 <공격 지휘>가 활성화된 경우, 상기 효과가 50% 증폭됩니다.&n전투 개시 시, 범위 내 아군의 AP를 증가시킵니다.",
+    "english": "At the start of the round, allies within range gain increased ATK, CRIT, and Anti-Light DMG, and their attacks are supported.&nIf <Iron-Blooded Leona>'s <Attack Command> is active, the above effects are amplified by 50%.&nAt the start of battle, allies within range gain increased AP."
+  },
+  "SkillDescSimple_Skill_BR_Nymph_N_3": {
+    "korean": "범위 내 아군 공격 지원 / 공격력 / 치명타 / 대 경장형 피해량 / AP 증가.",
+    "english": "Allies within range receive attack support, increased ATK, CRIT, Anti-Light DMG, and AP."
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_3": {
+    "korean": "화력 지원 : 공격력 {0}%",
+    "english": "Fire Support : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Nymph_N_3": {
+    "korean": "화력 지원 : 치명타 {0}%",
+    "english": "Fire Support : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Nymph_N_3": {
+    "korean": "화력 지원 : 대 경장형 피해량 {0}%",
+    "english": "Fire Support : Anti-Light DMG {0}%"
+  },
+  "BuffDesc4_Effect_BR_Nymph_N_3": {
+    "korean": "화력 지원 : 공격 지원",
+    "english": "Fire Support : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_32": {
+    "korean": "화력 지원 : AP {0}",
+    "english": "Fire Support : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_31": {
+    "korean": "화력 지원 : 공격력 {0}% (증폭)",
+    "english": "Fire Support : ATK {0}% (Amplified)"
+  },
+  "BuffDesc2_Effect_BR_Nymph_N_31": {
+    "korean": "화력 지원 : 치명타 {0}% (증폭)",
+    "english": "Fire Support : CRIT {0}% (Amplified)"
+  },
+  "BuffDesc3_Effect_BR_Nymph_N_31": {
+    "korean": "화력 지원 : 대 경장형 피해량 {0}% (증폭)",
+    "english": "Fire Support : Anti-Light DMG {0}% (Amplified)"
+  },
+  "SkillName_Skill_BR_Nymph_N_4": {
+    "korean": "매복 지원",
+    "english": "Ambush Support"
+  },
+  "SkillDesc_Skill_BR_Nymph_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군에게 회피 증가 / 받는 피해 감소 / 반격 효과를 부여합니다.&n<철혈의 레오나>의 <방어 지휘>가 활성화된 경우, 상기 효과가 50% 증폭됩니다.&n자신의 기본 냉기 저항이 50%로 증가합니다.",
+    "english": "At the start of the round, allies within range gain increased EVA, DMG Reduction, and Counter Attack.&nIf <Iron-Blooded Leona>'s <DEF Command> is active, the above effects are amplified by 50%.&nYour base Cold Resist is increased to 50%."
+  },
+  "SkillDescSimple_Skill_BR_Nymph_N_4": {
+    "korean": "범위 내 아군 회피 증가 / 받는 피해 감소 / 반격.",
+    "english": "Allies within range gain increased EVA, DMG Reduction, and Counter Attack."
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_4": {
+    "korean": "매복 지원 : 회피 {0}%",
+    "english": "Ambush Support : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Nymph_N_4": {
+    "korean": "매복 지원 : 받는 피해 {0}% 감소",
+    "english": "Ambush Support : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_BR_Nymph_N_4": {
+    "korean": "매복 지원 : {0}% 위력으로 반격",
+    "english": "Ambush Support : Counter Attack with {0}% Power"
+  },
+  "BuffDesc4_Effect_BR_Nymph_N_4": {
+    "korean": "방한 주머니 : 기본 냉기 저항 {0}%",
+    "english": "Cold Pouch: Base Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_41": {
+    "korean": "매복 지원 : 회피 {0}% (증폭)",
+    "english": "Ambush Support : EVA {0}% (Amplified)"
+  },
+  "BuffDesc2_Effect_BR_Nymph_N_41": {
+    "korean": "매복 지원 : 받는 피해 {0}% 감소 (증폭)",
+    "english": "Ambush Support : DMG Reduction {0}% (Amplified)"
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_42": {
+    "korean": "매복 지원 : {0}% 위력으로 반격",
+    "english": "Ambush Support : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_43": {
+    "korean": "매복 지원 : {0}% 위력으로 반격 (증폭)",
+    "english": "Ambush Support : Counter Attack with {0}% Power (Amplified)"
+  },
+  "SkillName_Skill_BR_Nymph_N_5": {
+    "korean": "영광스러운 전투를 위하여",
+    "english": "For Glorious Battle"
+  },
+  "SkillDesc_Skill_BR_Nymph_N_5": {
+    "korean": "라운드 개시 시, 자신은 대상 HP 반비례 피해량 증가 효과를 획득합니다.&n<MG80용 개조키트>를 장착 중인 경우, 상기 효과가 50% 증폭되고 <제압 난사>에 대상의 방어력을 감소시키는 효과가 추가됩니다.&n스쿼드 내에 <T-8W 발키리>가 없을 경우, 아군 지원기 / 보호기의 공격을 지원합니다.",
+    "english": "At the start of the round, you gain an effect that increases damage proportionally to the target’s missing HP.&nIf equipped with <MG80 Modification Kit>, the above effect is amplified by 50% and <Suppressive Barrage> also applies DEF Reduction to the target.&nIf <T-8W Valkyrie> is not in the squad, you support attacks from allied Supporters and Defenders."
+  },
+  "SkillDescSimple_Skill_BR_Nymph_N_5": {
+    "korean": "대상 HP 반비례 피해량 증가. 아군 지원기 / 보호기 공격 지원.",
+    "english": "Increases damage proportionally to the target’s missing HP. Supports attacks from allied Supporters and Defenders."
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_5": {
+    "korean": "영예 : 대상 HP 반비례 피해량 {0}% (최대)",
+    "english": "Honor: Damage proportional to Target HP {0}% (Max)"
+  },
+  "BuffDesc2_Effect_BR_Nymph_N_5": {
+    "korean": "영광스러운 전투를 위하여 : 방어력 {0}%",
+    "english": "For Glorious Battle : DEF {0}%"
+  },
+  "BuffDesc3_Effect_BR_Nymph_N_5": {
+    "korean": "영광스러운 전투를 위하여 : 공격 지원",
+    "english": "For Glorious Battle : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_51": {
+    "korean": "영예 : 대상 HP 반비례 피해량 {0}% (증폭)",
+    "english": "Honor: Target takes damage equal to {0}% of their HP (Amplify)"
+  },
+  "BuffDesc1_Effect_BR_Nymph_N_53": {
+    "korean": "영광스러운 전투를 위하여 : 공격 지원",
+    "english": "For Glorious Battle : Follow-Up Attack"
+  }
+}

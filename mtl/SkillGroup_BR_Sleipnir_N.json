@@ -1,0 +1,218 @@
+{
+  "SkillName_Skill_BR_Sleipnir_N_1": {
+    "korean": "레이저 빔 사격",
+    "english": "Laser Beam"
+  },
+  "SkillDesc_Skill_BR_Sleipnir_N_1": {
+    "korean": "빔 사격으로 대상에게 {0} 피해를 줍니다. &n적중 시, 2라운드 동안 대상을 도발하며 적중 / 치명타 / 행동력을 감소시킵니다. (중첩 불가)&n스쿼드 내 <P-22 하르페이아>가 있을 경우, [풀 버스트] 스킬 협동 공격을 유도합니다.",
+    "english": "Fires a beam that deals {0} damage to the target. On hit, Provokes the target for 2 rounds and reduces its ACC / CRIT / SPD (Cannot stack). If <P-22 Harpyia> is in the squad, triggers a [Full Burst] Cooperative Attack."
+  },
+  "SkillDescSimple_Skill_BR_Sleipnir_N_1": {
+    "korean": "단일 대상 {0} 피해. 도발 / 적중 / 치명타 / 행동력 감소. [풀 버스트] 협동 공격.",
+    "english": "Single target {0} damage. Provoked / ACC reduction / CRIT reduction / SPD reduction. [Full Burst] Cooperative Attack."
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_1": {
+    "korean": "레이저 빔 사격 : 대상 도발 (슬레이프니르)",
+    "english": "Laser Beam : Provoked (Sleipnir)"
+  },
+  "BuffDesc2_Effect_BR_Sleipnir_N_1": {
+    "korean": "레이저 빔 사격 : 적중 {0}%",
+    "english": "Laser Beam : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sleipnir_N_1": {
+    "korean": "레이저 빔 사격 : 치명타 {0}%",
+    "english": "Laser Beam : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_BR_Sleipnir_N_1": {
+    "korean": "레이저 빔 사격 : 행동력 {0}%",
+    "english": "Laser Beam : SPD {0}%"
+  },
+  "BuffDesc5_Effect_BR_Sleipnir_N_1": {
+    "korean": "[풀 버스트] 협동 공격",
+    "english": "[Full Burst] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_11": {
+    "korean": "레이저 빔 사격 : 적중 {0}%",
+    "english": "Laser Beam : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_12": {
+    "korean": "레이저 빔 사격 : 치명타 {0}%",
+    "english": "Laser Beam : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_13": {
+    "korean": "레이저 빔 사격 : 행동력 {0}%",
+    "english": "Laser Beam : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_14": {
+    "korean": "레이저 빔 사격 : [풀 버스트] 협동 공격",
+    "english": "Laser Beam : [Full Burst] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_52": {
+    "korean": "잡을 수 있겠어? : 회피 {0}%",
+    "english": "Can You Catch Me? : EVA {0}%"
+  },
+  "SkillName_Skill_BR_Sleipnir_N_2": {
+    "korean": "한계돌파",
+    "english": "Limit Break"
+  },
+  "SkillDesc_Skill_BR_Sleipnir_N_2": {
+    "korean": "목표 지점에 돌진해 {0} 보호 무시 피해를 주고 반격 효과를 해제합니다. 대상의 방어력을 일정 비율 무시합니다.&n적중 시, 2라운드 동안 대상의 적중을 감소시키고 표식 / 이동 불가 상태로 만듭니다.&n공격 시, 자신의 회피에 비례하여 스킬 위력이 증가합니다.",
+    "english": "Charges to the target location, dealing {0} damage that ignores Protection and removes Counter Attack. Ignores a portion of the target's DEF. On hit, reduces the target's ACC and applies Marked and Rooted for 2 rounds. When attacking, Skill Power increases proportionally to own EVA."
+  },
+  "SkillDescSimple_Skill_BR_Sleipnir_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 자신 방어 관통 / 회피 비례 스킬 위력 증가. 대상 표식 / 이동 불가 / 적중 감소 / 반격 해제.",
+    "english": "Designated area {0} damage. Ignore Protection. Own DEF Penetration / EVA proportional Skill Power increase. Marked / Rooted / ACC reduction / Counter Attack removal."
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_2": {
+    "korean": "한계 돌파 : 방어 관통 {0}%",
+    "english": "Limit Break : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sleipnir_N_2": {
+    "korean": "한계 돌파 : 스킬 위력 {0}% (회피 비례)",
+    "english": "Limit Break : Skill Power {0}% (EVA-based)"
+  },
+  "BuffDesc3_Effect_BR_Sleipnir_N_2": {
+    "korean": "초고속 돌진 : 적중 {0}%",
+    "english": "Hyper Speed Charge : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Sleipnir_N_2": {
+    "korean": "초고속 돌진 : 이동 불가 / 표식",
+    "english": "Hyper Speed Charge : Rooted / Marked"
+  },
+  "BuffDesc5_Effect_BR_Sleipnir_N_2": {
+    "korean": "소닉붐 : 반격 효과 해제",
+    "english": "Sonic Boom : Counter Attack Effect Removal"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_21": {
+    "korean": "소닉붐 : 반격 효과 해제",
+    "english": "Sonic Boom : Counter Attack Effect Removal"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_22": {
+    "korean": "초고속 돌진 : 이동 불가",
+    "english": "Hyper Speed Charge : Rooted"
+  },
+  "BuffDesc2_Effect_BR_Sleipnir_N_22": {
+    "korean": "초고속 돌진 : 표식",
+    "english": "Hyper Speed Charge : Marked"
+  },
+  "BuffDesc3_Effect_BR_Sleipnir_N_22": {
+    "korean": "초고속 돌진 : 적중 {0}%",
+    "english": "Hyper Speed Charge : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_42": {
+    "korean": "초음속 돌진 : 피해량 {0}%",
+    "english": "Supersonic Charge : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_Sleipnir_N_3": {
+    "korean": "속도 승부야!",
+    "english": "Speed Race!"
+  },
+  "SkillDesc_Skill_BR_Sleipnir_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군의 공격력 / 치명타 / 행동력을 증가시키고 보호기를 제외한 기동형 아군을 보호합니다. &n스킬 레벨 10에서 자신의 위치와 관계없이 전체 적용됩니다.&n자신은 스킬 레벨 당 +9%의 적중 보정이 적용됩니다.",
+    "english": "At the start of the round, increases ATK / CRIT / SPD of allies within range and protects Air-type allies (excluding Defenders). At skill level 10, the effect applies to the entire field regardless of position. The user gains +9% ACC per skill level."
+  },
+  "SkillDescSimple_Skill_BR_Sleipnir_N_3": {
+    "korean": "아군 공격력 / 치명타 / 행동력 증가. 범위 내 보호기 제외 기동형 지정 보호.",
+    "english": "Allies' ATK / CRIT / SPD increase. Protect Air-type allies within range (excluding Defenders)."
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_3": {
+    "korean": "속도 승부야! : 지정 보호",
+    "english": "Speed Race! : Target Protect"
+  },
+  "BuffDesc2_Effect_BR_Sleipnir_N_3": {
+    "korean": "속도 승부야! : 공격력 {0}%",
+    "english": "Speed Race! : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sleipnir_N_3": {
+    "korean": "속도 승부야! : 치명타 {0}%",
+    "english": "Speed Race! : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_BR_Sleipnir_N_3": {
+    "korean": "속도 승부야! : 행동력 {0}%",
+    "english": "Speed Race! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_31": {
+    "korean": "속도 승부야! : 공격력 {0}%",
+    "english": "Speed Race! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sleipnir_N_31": {
+    "korean": "속도 승부야! : 치명타 {0}%",
+    "english": "Speed Race! : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Sleipnir_N_31": {
+    "korean": "속도 승부야! : 행동력 {0}%",
+    "english": "Speed Race! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_41": {
+    "korean": "두고 간다? : 회피 감소 해제",
+    "english": "Leaving Me Behind? : EVA Debuff Removal"
+  },
+  "BuffDesc2_Effect_BR_Sleipnir_N_41": {
+    "korean": "두고 간다? : 행동력 감소 해제",
+    "english": "Leaving Me Behind? : SPD Debuff Removal"
+  },
+  "SkillName_Skill_BR_Sleipnir_N_4": {
+    "korean": "어딜 보는거야?",
+    "english": "Where Are You Looking?"
+  },
+  "SkillDesc_Skill_BR_Sleipnir_N_4": {
+    "korean": "회피 시, 자신의 행동력이 영구히 증가합니다. (최대 3중첩)&n라운드 개시 시 <어딜 보는거야?> 중첩이 최대치인경우, 아군 전체의 행동력 / 회피 감소 효과를 해제합니다. &n<어딜 보는거야?> 중첩이 최대치인경우, <한계돌파>의 피해량이 증가합니다.",
+    "english": "When evading, permanently increase own SPD (up to 3 stacks). At the start of the round, if <Where Are You Looking?> is at max stacks, remove SPD and EVA reduction effects from all allies. When at max stacks, increase the damage of <Limit Break>."
+  },
+  "SkillDescSimple_Skill_BR_Sleipnir_N_4": {
+    "korean": "회피 시, 자신 행동력 증가. <어딜 보는거야?> 중첩 최대 시, 추가 효과.",
+    "english": "When evading, increase own SPD. If <Where Are You Looking?> is at max stacks, grant additional effect."
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_4": {
+    "korean": "어딜 보는거야? : 행동력 {0}%",
+    "english": "Where Are You Looking? : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Sleipnir_N_4": {
+    "korean": "두고 간다? : 행동력 / 회피 감소 해제",
+    "english": "Leaving Me Behind? : SPD / EVA Debuff Removal"
+  },
+  "BuffDesc3_Effect_BR_Sleipnir_N_4": {
+    "korean": "느려 느려~! : <한계돌파> 피해량 {0}%",
+    "english": "Slow Down~! : <Limit Break> Damage {0}%"
+  },
+  "SkillName_Skill_BR_Sleipnir_N_5": {
+    "korean": "멈출 수 없는 질주",
+    "english": "Unstoppable Dash"
+  },
+  "SkillDesc_Skill_BR_Sleipnir_N_5": {
+    "korean": "라운드 개시 시, 자신의 회피가 증가합니다. &n공격 시, 자신에게 적용된 회피 / 행동력 감소 효과를 해제하며 2라운드 동안 자신의 회피가 증가합니다. (최대 3중첩)&n공격 받을 시, 2라운드 동안 자신의 회피가 증가합니다. (최대 2중첩)",
+    "english": "At the start of the round, increase own EVA. When attacking, remove EVA / SPD reduction effects from self and increase own EVA for 2 rounds (max 3 stacks). When attacked, increase own EVA for 2 rounds (max 2 stacks)."
+  },
+  "SkillDescSimple_Skill_BR_Sleipnir_N_5": {
+    "korean": "라운드 개시 시 / 공격 시 / 공격 받을 시, 자신 회피 증가.",
+    "english": "At round start / on attack / when attacked, increase own EVA."
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_5": {
+    "korean": "멈출 수 없는 질주 : 회피 감소 해제",
+    "english": "Unstoppable Dash : EVA Debuff Removal"
+  },
+  "BuffDesc2_Effect_BR_Sleipnir_N_5": {
+    "korean": "멈출 수 없는 질주 : 행동력 감소 해제",
+    "english": "Unstoppable Dash : SPD Debuff Removal"
+  },
+  "BuffDesc3_Effect_BR_Sleipnir_N_5": {
+    "korean": "멈출 수 없는 질주 : 회피 {0}%",
+    "english": "Unstoppable Dash : EVA {0}%"
+  },
+  "BuffDesc4_Effect_BR_Sleipnir_N_5": {
+    "korean": "잡을 수 있겠어? : 회피 {0}% (공격 시)",
+    "english": "Can You Catch Me? : EVA {0}% (On Attack)"
+  },
+  "BuffDesc5_Effect_BR_Sleipnir_N_5": {
+    "korean": "여기야 여기! : 회피 {0}% (공격 받을 시)",
+    "english": "Over here, over here! : EVA {0}% (when attacked)"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_51": {
+    "korean": "멈출 수 없는 질주 : 회피 {0}%",
+    "english": "Unstoppable Dash : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Sleipnir_N_53": {
+    "korean": "여기야 여기! : 회피 {0}%",
+    "english": "Over here, over here! : EVA {0}%"
+  }
+}

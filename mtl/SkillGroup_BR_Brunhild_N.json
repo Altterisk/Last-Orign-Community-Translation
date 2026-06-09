@@ -1,0 +1,246 @@
+{
+  "SkillName_Skill_BR_Brunhild_N_1": {
+    "korean": "불길",
+    "english": "Flames"
+  },
+  "SkillDesc_Skill_BR_Brunhild_N_1": {
+    "korean": "적에게 불길을 쏟아내어 대상에게 {0} 화염 피해를 입힙니다.&n2라운드 동안 적중 대상에게 표식 상태를 부여하고, 자신은 화염 지속 피해 일반 효과를 획득합니다.&n적중 대상이 지속 화염 피해 효과가 적용 중인 경우, 해당 효과를 해제하고 추가로 고정 화염 피해를 입힙니다.&n적중 대상이 <바프로기> 효과가 적용 중인 경우, 고정 화염 피해량이 증가하고 추가로 받는 피해 증가 효과를 부여합니다.",
+    "english": "Unleash flames onto the enemy, dealing {0} Fire DoT DMG. Applies Marked for 2 rounds to the hit target, and you gain a Fire DoT DMG Normal Effect. If the hit target is affected by Fire DoT DMG, remove that effect and deal additional Fixed Fire DMG. If the hit target has the <Vaprogi> effect, the Fixed Fire DMG is increased and the target also receives a DMG Taken Increased effect."
+  },
+  "SkillDescSimple_Skill_BR_Brunhild_N_1": {
+    "korean": "지정 대상 {0} 화염 피해. 표식 부여. 자신 지속 화염 피해. 대상이 지속 화염 피해 상태인 경우 추가 효과.",
+    "english": "Deals {0} Fire DoT DMG to the designated target and applies Marked. Grants self a Fire DoT DMG Normal Effect. If the target is under Fire DoT DMG, additional effects apply."
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_1": {
+    "korean": "불길 : 표식",
+    "english": "Flames : Marked"
+  },
+  "BuffDesc2_Effect_BR_Brunhild_N_1": {
+    "korean": "불길 : {0} 지속 화염 피해",
+    "english": "Flames : Fire DoT DMG {0}"
+  },
+  "BuffDesc3_Effect_BR_Brunhild_N_1": {
+    "korean": "불길 : {0}% 고정 화염 피해",
+    "english": "Flames : {0}% Fixed Fire DMG"
+  },
+  "BuffDesc4_Effect_BR_Brunhild_N_1": {
+    "korean": "불길 : 받는 피해 {0}% 증가 (바프로기)",
+    "english": "Flames: DMG Taken Increased {0}% (Vaprogi)"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_11": {
+    "korean": "불길 : {0} 지속 화염 피해",
+    "english": "Flames : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_12": {
+    "korean": "불길 : {0}% 고정 화염 피해",
+    "english": "Flames : {0}% Fixed Fire DMG"
+  },
+  "BuffDesc2_Effect_BR_Brunhild_N_12": {
+    "korean": "불길 : 받는 피해 {0}% 증가",
+    "english": "Flames : DMG Taken Increased {0}%"
+  },
+  "BuffDesc3_Effect_BR_Brunhild_N_12": {
+    "korean": "불길 : 지속 화염 피해 해제",
+    "english": "Flames : Fire DoT DMG Removal"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_13": {
+    "korean": "불길 : {0}% 고정 화염 피해",
+    "english": "Flames : {0}% Fixed Fire DMG"
+  },
+  "BuffDesc2_Effect_BR_Brunhild_N_13": {
+    "korean": "불길 : 지속 화염 피해 해제",
+    "english": "Flames : Fire DoT DMG Removal"
+  },
+  "SkillName_Skill_BR_Brunhild_N_2": {
+    "korean": "핏빛 효후",
+    "english": "Crimson Afterglow"
+  },
+  "SkillDesc_Skill_BR_Brunhild_N_2": {
+    "korean": "곁에 있는 늑대를 보내 지정 범위의 적에게 {0} 화염 피해를 입힙니다.&n2라운드 동안 적중 대상의 화염 저항을 감소시키고, 대상이 표식 상태인 경우 피해량이 증가합니다.&n적중 대상이 지속 화염 피해 효과가 적용 중인 경우, 화염 저항 증가 효과를 해제합니다.&n적중 대상이 <바프로기> 효과가 적용 중인 경우, 추가로 효과 저항을 감소시킵니다.",
+    "english": "Send nearby wolves to deal {0} Fire DoT DMG to enemies in the designated area. Reduces Fire Resist of hit targets for 2 rounds; damage is increased if the target is Marked. If the hit target is under Fire DoT DMG, remove their Fire Resist increase effect. If the hit target has the <Vaprogi> effect, additionally reduce their Status Resist."
+  },
+  "SkillDescSimple_Skill_BR_Brunhild_N_2": {
+    "korean": "지정 범위 대상 {0} 화염 피해. 화염 저항 감소. 표식 상태인 경우 추가 피해. 대상이 지속 화염 피해 상태인 경우 추가 효과.",
+    "english": "Deals {0} Fire DoT DMG to targets in the designated area and reduces their Fire Resist. Deals additional damage if the targets are Marked. If the targets are under Fire DoT DMG, additional effects apply."
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_2": {
+    "korean": "핏빛 효후 : 화염 저항 {0}%",
+    "english": "Crimson Afterglow : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Brunhild_N_2": {
+    "korean": "핏빛 효후 :  {0}% 추가 화염 피해",
+    "english": "Crimson Afterglow: Additional Fire DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_Brunhild_N_2": {
+    "korean": "핏빛 효후 : 화염 저항 증가 해제",
+    "english": "Crimson Afterglow : Fire Resist Buff Removal"
+  },
+  "BuffDesc4_Effect_BR_Brunhild_N_2": {
+    "korean": "핏빛 효후 : 효과 저항 감소 {0}% (바프로기)",
+    "english": "Crimson Afterglow: Status Resist {0}% Decrease (Vaprogi)"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_21": {
+    "korean": "핏빛 효후 : {0}% 추가 화염 피해",
+    "english": "Crimson Afterglow: Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_23": {
+    "korean": "핏빛 효후 : 효과 저항 감소 {0}%",
+    "english": "Crimson Afterglow : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_22": {
+    "korean": "핏빛 효후 : 화염 저항 증가 해제",
+    "english": "Crimson Afterglow : Fire Resist Buff Removal"
+  },
+  "SkillName_Skill_BR_Brunhild_N_3": {
+    "korean": "스캴드메르",
+    "english": "Skaldmer"
+  },
+  "SkillDesc_Skill_BR_Brunhild_N_3": {
+    "korean": "라운드 개시 시, 자신이 화염 지속 피해 상태인 경우 자신의 공격력이 크게 증가합니다.&n공격 시 및 라운드 개시 시마다, 자신에게 적용된 화염을 제외한 해로운 지속 피해 효과를 해제합니다.",
+    "english": "At the start of the round, if you are under Fire DoT DMG, your ATK is greatly increased. Each time you attack and at the start of the round, remove harmful DoT DMG effects except Fire DoT DMG from yourself."
+  },
+  "SkillDescSimple_Skill_BR_Brunhild_N_3": {
+    "korean": "지속 화염 피해인 경우 자신 공격력 증가. 화염 제외 지속 피해 효과 해제.",
+    "english": "If under Fire DoT DMG, increase own ATK. Remove DoT DMG effects except Fire DoT DMG."
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_3": {
+    "korean": "스캴드메르 : 공격력 {0}%",
+    "english": "Skaldmer : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Brunhild_N_3": {
+    "korean": "스캴드메르 : 지속 피해 해제",
+    "english": "Skaldmer : DoT DMG Removal"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_31": {
+    "korean": "스캴드메르 : 지속 물리 피해 해제",
+    "english": "Skaldmer : Physical DoT DMG Removal"
+  },
+  "BuffDesc2_Effect_BR_Brunhild_N_31": {
+    "korean": "스캴드메르 : 지속 냉기 피해 해제",
+    "english": "Skaldmer : Cold DoT DMG Removal"
+  },
+  "BuffDesc3_Effect_BR_Brunhild_N_31": {
+    "korean": "스캴드메르 : 지속 전기 피해 해제",
+    "english": "Skaldmer : Electric DoT DMG Removal"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_32": {
+    "korean": "스캴드메르 : 지속 물리 피해 해제",
+    "english": "Skaldmer : Physical DoT DMG Removal"
+  },
+  "BuffDesc2_Effect_BR_Brunhild_N_32": {
+    "korean": "스캴드메르 : 지속 냉기 피해 해제",
+    "english": "Skaldmer : Cold DoT DMG Removal"
+  },
+  "BuffDesc3_Effect_BR_Brunhild_N_32": {
+    "korean": "스캴드메르 : 지속 전기 피해 해제",
+    "english": "Skaldmer : Electric DoT DMG Removal"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_33": {
+    "korean": "가까이 오지마 : AP {0}",
+    "english": "Don’t Come Closer : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Brunhild_N_33": {
+    "korean": "가까이 오지마 : 보호 무시 활성화",
+    "english": "Don’t Come Closer: Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_34": {
+    "korean": "가까이 오지마 : 행동력 {0}%",
+    "english": "Don’t Come Closer : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Brunhild_N_34": {
+    "korean": "가까이 오지마 : 스킬 위력 {0}%",
+    "english": "Don’t Come Closer: Skill Power {0}%"
+  },
+  "SkillName_Skill_BR_Brunhild_N_4": {
+    "korean": "가까이 오지마",
+    "english": "Stay Back"
+  },
+  "SkillDesc_Skill_BR_Brunhild_N_4": {
+    "korean": "라운드 개시 시, 주위 아군에게 미약한 화염 지속 피해를 입히고, 방어 관통을 증가시킵니다.&n라운드 개시 시, 인접한 아군이 없을 경우 자신의 AP가 증가하고 보호 무시 효과를 획득합니다.&n라운드 개시 시, 인접한 아군이 있을 경우 자신의 행동력이 감소하고 스킬 위력이 증가합니다.",
+    "english": "At the start of the round, deal minor Fire DoT DMG to nearby allies and increase DEF Penetration. If there are no adjacent allies at the start of the round, increase your AP and gain Ignore Protection. If there are adjacent allies at the start of the round, decrease your SPD and increase Skill Power."
+  },
+  "SkillDescSimple_Skill_BR_Brunhild_N_4": {
+    "korean": "주위 아군 방어 관통 증가, 지속 화염 피해. 자신과 인접한 아군 유무에 따라 다른 효과 획득.",
+    "english": "Increase DEF Penetration of nearby allies and apply minor Fire DoT DMG. Grants different effects depending on whether there are adjacent allies."
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_4": {
+    "korean": "가까이 오지마 : 방어 관통 {0}%",
+    "english": "Stay Back : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_Brunhild_N_4": {
+    "korean": "내적 안정감 : AP {0}",
+    "english": "Inner Stability: AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Brunhild_N_4": {
+    "korean": "내적 안정감 : 보호 무시 활성화",
+    "english": "Inner Stability : Activate Ignore Protection"
+  },
+  "BuffDesc4_Effect_BR_Brunhild_N_4": {
+    "korean": "공격성 표출 : 행동력 {0}%",
+    "english": "Display of Aggression: SPD {0}%"
+  },
+  "BuffDesc5_Effect_BR_Brunhild_N_4": {
+    "korean": "공격성 표출 : 스킬 위력 {0}%",
+    "english": "Display of Aggression: Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_41": {
+    "korean": "가까이 오지마 : {0} 지속 화염 피해",
+    "english": "Stay Back : Fire DoT DMG {0}"
+  },
+  "SkillName_Skill_BR_Brunhild_N_5": {
+    "korean": "바프로기",
+    "english": "Vaprogi"
+  },
+  "SkillDesc_Skill_BR_Brunhild_N_5": {
+    "korean": "자신은 선천적인 화염 저항 및 화염 저항 하한 일반 효과를 획득합니다.&n라운드 개시 시, 자신과 아군의 냉기 저항을 증가시키고, 해로운 냉기 저항 감소 효과를 해제합니다.&n라운드 개시 시, 적 전체에 지속 화염 피해 일반 효과를 적용합니다. &n지속 화염 피해는 매 라운드 더욱 맹렬해지며, 최대 5회까지 중첩됩니다.",
+    "english": "Gain innate Fire Resist and Minimum Fire Resist Normal Effect. At the start of the round, increase Cold Resist for yourself and allies, and remove harmful Cold Resist reduction effects. At the start of the round, apply Fire DoT DMG Normal Effect to all enemies. Fire DoT DMG intensifies each round and can stack up to 5 times."
+  },
+  "SkillDescSimple_Skill_BR_Brunhild_N_5": {
+    "korean": "자신 화염 저항 및 화염 저항 하한 획득. 자신과 아군 냉기 저항 증가. 적 전체 지속 화염 피해 적용.",
+    "english": "Gain Fire Resist and Minimum Fire Resist. Increase Cold Resist for self and allies. Apply continuous Fire DoT DMG to all enemies."
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_5": {
+    "korean": "바프로기 : 화염 저항 하한 {0}%",
+    "english": "Vaprogi : Minimum Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Brunhild_N_5": {
+    "korean": "바프로기 : 냉기 저항 {0}%",
+    "english": "Vaprogi : Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_Brunhild_N_5": {
+    "korean": "바프로기 : 냉기 저항 감소 해제",
+    "english": "Vaprogi : Cold Resist Debuff Removal"
+  },
+  "BuffDesc4_Effect_BR_Brunhild_N_5": {
+    "korean": "바프로기 : {0} 지속 화염 피해 (중첩당)",
+    "english": "Vaprogi : Fire DoT DMG {0} (Per Stack)"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_51": {
+    "korean": "바프로기 : 냉기 저항 {0}%",
+    "english": "Vaprogi : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_52": {
+    "korean": "바프로기 : 냉기 저항 감소 해제",
+    "english": "Vaprogi : Cold Resist Debuff Removal"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_53": {
+    "korean": "바프로기 : {0} 지속 화염 피해",
+    "english": "Vaprogi : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_54": {
+    "korean": "바프로기 : {0} 지속 화염 피해",
+    "english": "Vaprogi : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_55": {
+    "korean": "바프로기 : {0} 지속 화염 피해",
+    "english": "Vaprogi : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_56": {
+    "korean": "바프로기 : {0} 지속 화염 피해",
+    "english": "Vaprogi : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_BR_Brunhild_N_57": {
+    "korean": "바프로기 : {0} 지속 화염 피해",
+    "english": "Vaprogi : Fire DoT DMG {0}"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "SkillName_Skill_BR_Calista_N_1": {
+    "korean": "조준 포격",
+    "english": "Aimed Bombardment"
+  },
+  "SkillDesc_Skill_BR_Calista_N_1": {
+    "korean": "조준 포격으로 {0} 피해를 줍니다. &n적중 대상이 전열에 가까울수록 피해량이 증가합니다. &n스킬 레벨 당 +4%의 적중 보정이 적용됩니다.",
+    "english": "Deals {0} damage with Aimed Bombardment.&nDamage increases the closer the target is to the frontline.&nGrants +4% ACC scaling per skill level."
+  },
+  "SkillDescSimple_Skill_BR_Calista_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상이 전열에 가까울 수록 피해량 증가.",
+    "english": "Deal {0} damage to a single target. Damage increases the closer the target is to the frontline."
+  },
+  "BuffDesc1_Effect_BR_Calista_N_1": {
+    "korean": "정밀 포격 : 피해량 {0}% (전열)",
+    "english": "Precision Bombardment : Additional DMG {0}% (Front Row)"
+  },
+  "BuffDesc2_Effect_BR_Calista_N_1": {
+    "korean": "정밀 포격 : 피해량 {0}% (중열)",
+    "english": "Precision Bombardment : Additional DMG {0}% (Middle Row)"
+  },
+  "BuffDesc3_Effect_BR_Calista_N_1": {
+    "korean": "정밀 포격 : 피해량 {0}% (후열)",
+    "english": "Precision Bombardment : Additional DMG {0}% (Back Row)"
+  },
+  "BuffDesc1_Effect_BR_Calista_N_11": {
+    "korean": "정밀 포격 : 피해량 {0}% (중열)",
+    "english": "Precision Bombardment : Additional DMG {0}% (Middle Row)"
+  },
+  "BuffDesc1_Effect_BR_Calista_N_12": {
+    "korean": "정밀 포격 : 피해량 {0}% (후열)",
+    "english": "Precision Bombardment : Additional DMG {0}% (Back Row)"
+  },
+  "SkillName_Skill_BR_Calista_N_2": {
+    "korean": "90mm HEAT탄 연사",
+    "english": "90mm HEAT Round Volley"
+  },
+  "SkillDesc_Skill_BR_Calista_N_2": {
+    "korean": "HEAT탄을 연사해 목표 범위에 {0} 피해를 줍니다. &n적중 대상이 보호기인 경우, 피해량이 증가합니다.&n적중 대상이 적을수록 피해량이 증가합니다.",
+    "english": "Fires a burst of HEAT rounds, dealing {0} damage to the target area.&nDamage increases if the hit targets are Defender.&nDamage also increases with Area DMG Focus."
+  },
+  "SkillDescSimple_Skill_BR_Calista_N_2": {
+    "korean": "목표 지점 {0} 피해. 보호기 대상 피해량 증가. 적중 대상이 적을 수록 피해량 증가.",
+    "english": "Deal {0} damage to the targeted area. Damage increases against Defender targets. Damage also increases with Area DMG Focus."
+  },
+  "BuffDesc1_Effect_BR_Calista_N_2": {
+    "korean": "HEAT탄 : 피해량 {0}% (보호기)",
+    "english": "HEAT Round : Additional DMG {0}% (Defender)"
+  },
+  "BuffDesc2_Effect_BR_Calista_N_2": {
+    "korean": "일점사 : 광역 피해 집중 {0}%",
+    "english": "Focused Fire : Area DMG Focus {0}%"
+  },
+  "BuffDesc1_Effect_BR_Calista_N_21": {
+    "korean": "일점사 : 광역 피해 집중 {0}%",
+    "english": "Focused Fire : Area DMG Focus {0}%"
+  },
+  "SkillName_Skill_BR_Calista_N_3": {
+    "korean": "자동 장전 장치",
+    "english": "Auto-Reload Device"
+  },
+  "SkillDesc_Skill_BR_Calista_N_3": {
+    "korean": "라운드 개시 시, 자신의 행동력이 증가합니다.&n전투 개시 시, 2라운드 동안 재공격이 활성화됩니다. &n적 사망 시, 재공격 효과가 2라운드 동안 재활성화됩니다.",
+    "english": "At the start of the round, increases own SPD.&nAt the start of battle, activates Follow-Up Attack for 2 rounds.&nWhen an enemy is defeated, reactivates Follow-Up Attack for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Calista_N_3": {
+    "korean": "자신 행동력 증가 / 재공격.",
+    "english": "Self SPD increase / Follow-Up Attack."
+  },
+  "BuffDesc1_Effect_BR_Calista_N_3": {
+    "korean": "자동 장전 : 행동력 {0}%",
+    "english": "Auto Reload : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Calista_N_3": {
+    "korean": "자동 장전 : 재공격",
+    "english": "Auto Reload: Reattack"
+  },
+  "BuffDesc1_Effect_BR_Calista_N_31": {
+    "korean": "재장전 : 재공격",
+    "english": "Reload : Reattack"
+  },
+  "BuffDesc1_Effect_BR_Calista_N_33": {
+    "korean": "재장전 : AP {0}",
+    "english": "Reload : AP {0}"
+  },
+  "SkillName_Skill_BR_Calista_N_4": {
+    "korean": "오기 부리기",
+    "english": "Taunting Provocation"
+  },
+  "SkillDesc_Skill_BR_Calista_N_4": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타 / 방어 관통이 증가합니다.&n라운드 개시 시 자신이 지정 보호 상태인 경우, 받는 피해가 감소하고 지정 보호를 해제합니다.",
+    "english": "At the start of the round, increases own ATK / CRIT / DEF Penetration.&nIf at the start of the round you are under Target Protect, reduces DMG Taken and removes Target Protect."
+  },
+  "SkillDescSimple_Skill_BR_Calista_N_4": {
+    "korean": "자신 공격력 / 치명타 / 방어 관통 증가. 지정 보호 해제 및 자신 받는 피해 감소.",
+    "english": "Increases own ATK / CRIT / DEF Penetration. Reduces DMG Taken and cancels Target Protect if active."
+  },
+  "BuffDesc1_Effect_BR_Calista_N_4": {
+    "korean": "오기 부리기 : 공격력 {0}%",
+    "english": "Taunting Provocation : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Calista_N_4": {
+    "korean": "오기 부리기 : 치명타 {0}%",
+    "english": "Taunting Provocation : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Calista_N_4": {
+    "korean": "오기 부리기 : 방어 관통 {0}%",
+    "english": "Taunting Provocation : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_BR_Calista_N_4": {
+    "korean": "오기 부리기 : 받는 피해 {0}% 감소",
+    "english": "Taunting Provocation : DMG Reduction {0}%"
+  },
+  "BuffDesc5_Effect_BR_Calista_N_4": {
+    "korean": "오기 부리기 : 지정 보호 해제",
+    "english": "Taunting Provocation : Target Protect Removal"
+  },
+  "BuffDesc1_Effect_BR_Calista_N_41": {
+    "korean": "오기 부리기 : 받는 피해 {0}% 감소",
+    "english": "Taunting Provocation : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_BR_Calista_N_41": {
+    "korean": "오기 부리기 : 지정 보호 해제",
+    "english": "Taunting Provocation : Target Protect Removal"
+  },
+  "SkillName_Skill_BR_Calista_N_5": {
+    "korean": "리볼버 패닝",
+    "english": "Revolver Fanning"
+  },
+  "SkillDesc_Skill_BR_Calista_N_5": {
+    "korean": "라운드 개시 시, <아머드 메이든> 소속 전투원의 공격을 지원합니다.&n<자동 장전 장치>의 재공격 효과가 AP 증가 효과로 변경됩니다.&n라운드 개시 시, 자신의 스킬 위력이 증가합니다. 자신이 전열에 가까울 수록 효과가 최대 두 배까지 증폭됩니다.",
+    "english": "At the start of the round, supports attacks of allied <Armored Maiden> units.&nThe Follow-Up Attack effect of <Auto-Reload Device> is changed to an AP increase effect.&nAt the start of the round, increases the user's Skill Power. This effect is amplified up to 2x the closer the user is to the frontline."
+  },
+  "SkillDescSimple_Skill_BR_Calista_N_5": {
+    "korean": "<아머드 메이든> 공격 지원. 자신 스킬 위력 증가.",
+    "english": "<Armored Maiden> attack support. Self Skill Power increase."
+  },
+  "BuffDesc1_Effect_BR_Calista_N_5": {
+    "korean": "리볼버 패닝 : 공격 지원",
+    "english": "Revolver Fanning : Follow-Up Attack"
+  },
+  "BuffDesc2_Effect_BR_Calista_N_5": {
+    "korean": "리볼버 패닝 : 스킬 위력 {0}%",
+    "english": "Revolver Fanning : Skill Power {0}%"
+  },
+  "BuffDesc3_Effect_BR_Calista_N_5": {
+    "korean": "재장전 : AP {0}",
+    "english": "Reload : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Calista_N_51": {
+    "korean": "슬램파이어",
+    "english": "Slam Fire"
+  },
+  "BuffDesc1_Effect_BR_Calista_N_52": {
+    "korean": "리볼버 패닝 : 스킬 위력 {0}%",
+    "english": "Revolver Fanning : Skill Power {0}%"
+  }
+}

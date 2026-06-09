@@ -1,0 +1,298 @@
+{
+  "SkillName_Skill_BR_Echidna_N_1": {
+    "korean": "포식",
+    "english": "Devour"
+  },
+  "SkillDesc_Skill_BR_Echidna_N_1": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 주고, 2라운드 동안 이동 불가 / 피해 감소 약화 / 행동력 / 방어력 감소 상태로 만듭니다. 기동형에게는 효과가 50% 감소합니다. (최대 2중첩)&n해당 스킬로 적을 처치 시, <욕망의 늪>이 발동합니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area, and applies Rooted, DMG Reduction Weakening, SPD reduction, and DEF reduction for 2 rounds. Effects are reduced by 50% on Air units. (Maximum 2 stacks)&nWhen an enemy is defeated with this skill, <Swamp of Desire> is triggered."
+  },
+  "SkillDescSimple_Skill_BR_Echidna_N_1": {
+    "korean": "지정 범위에 {0} 보호 무시 피해. 이동 불가 / 피해 감소 약화 / 행동력 / 방어력 감소",
+    "english": "Deals {0} Ignore Protection damage in the designated area. Applies Rooted, DMG Reduction Weakening, SPD reduction, and DEF reduction."
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_1": {
+    "korean": "포식 : 행동력{0}%",
+    "english": "Devour : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Echidna_N_1": {
+    "korean": "포식 : 이동 불가",
+    "english": "Devour : Rooted"
+  },
+  "BuffDesc3_Effect_BR_Echidna_N_1": {
+    "korean": "포식 : 피해 감소 약화 {0}%",
+    "english": "Devour : DMG Reduction Weakening {0}%"
+  },
+  "BuffDesc4_Effect_BR_Echidna_N_1": {
+    "korean": "포식 : 방어력{0}%",
+    "english": "Devour : DEF {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_11": {
+    "korean": "포식 : 행동력{0}%",
+    "english": "Devour : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_12": {
+    "korean": "포식 : 이동 불가",
+    "english": "Devour : Rooted"
+  },
+  "BuffDesc2_Effect_BR_Echidna_N_12": {
+    "korean": "포식 : 피해 감소 약화 {0}%",
+    "english": "Devour : DMG Reduction Weakening {0}%"
+  },
+  "BuffDesc3_Effect_BR_Echidna_N_12": {
+    "korean": "포식 : 방어력{0}%",
+    "english": "Devour : DEF {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_13": {
+    "korean": "포식 : 이동 불가",
+    "english": "Devour : Rooted"
+  },
+  "BuffDesc2_Effect_BR_Echidna_N_13": {
+    "korean": "포식 : 피해 감소 약화 {0}%",
+    "english": "Devour : DMG Reduction Weakening {0}%"
+  },
+  "BuffDesc3_Effect_BR_Echidna_N_13": {
+    "korean": "포식 : 방어력{0}%",
+    "english": "Devour : DEF {0}%"
+  },
+  "SkillName_Skill_BR_Echidna_N_2": {
+    "korean": "뱀의 포옹",
+    "english": "Serpent’s Embrace"
+  },
+  "SkillDesc_Skill_BR_Echidna_N_2": {
+    "korean": "3라운드 동안 자신과 주변 아군에게 방어막 / 받는 피해 감소 / 모든 속성 / 효과 저항 / 효과 해제 저항 증가 효과를 줍니다.",
+    "english": "For 3 rounds, grants yourself and nearby allies a Barrier, DMG Reduction, all Elemental Resist, Status Resist, and Effect Removal Resist increase."
+  },
+  "SkillDescSimple_Skill_BR_Echidna_N_2": {
+    "korean": "자신과 주변에 방어막 / 받는 피해 감소 / 모든 속성 / 효과 / 해제 저항 증가",
+    "english": "Grants Barrier, DMG Reduction, all Elemental Resist, Status Resist, and Effect Removal Resist increase to yourself and nearby allies."
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_2": {
+    "korean": "뱀의 포옹 : 방어막{0}",
+    "english": "Serpent’s Embrace : Barrier {0}"
+  },
+  "BuffDesc2_Effect_BR_Echidna_N_2": {
+    "korean": "뱀의 포옹 : 받는 피해{0}% 감소",
+    "english": "Serpent’s Embrace : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_BR_Echidna_N_2": {
+    "korean": "뱀의 포옹 : 효과 저항{0}%",
+    "english": "Serpent’s Embrace : Status Resist {0}%"
+  },
+  "BuffDesc4_Effect_BR_Echidna_N_2": {
+    "korean": "뱀의 포옹 : 모든 속성 저항{0}%",
+    "english": "Serpent’s Embrace : Elemental Resist {0}%"
+  },
+  "BuffDesc5_Effect_BR_Echidna_N_2": {
+    "korean": "뱀의 포옹 : 강화 해제 저항{0}%",
+    "english": "Serpent’s Embrace : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_21": {
+    "korean": "뱀의 포옹 : 받는 피해{0}% 감소",
+    "english": "Serpent’s Embrace : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_22": {
+    "korean": "뱀의 포옹 : 효과 저항{0}%",
+    "english": "Serpent’s Embrace : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_23": {
+    "korean": "뱀의 포옹 : 전기 저항{0}%",
+    "english": "Serpent’s Embrace : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_24": {
+    "korean": "뱀의 포옹 : 냉기 저항{0}%",
+    "english": "Serpent’s Embrace : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_25": {
+    "korean": "뱀의 포옹 : 화염 저항{0}%",
+    "english": "Serpent’s Embrace : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_26": {
+    "korean": "뱀의 포옹 : 강화 해제 저항{0}%",
+    "english": "Serpent’s Embrace : Buff Removal Resist {0}%"
+  },
+  "SkillName_Skill_BR_Echidna_N_3": {
+    "korean": "부정형 합금 비늘",
+    "english": "Corrupted Alloy Scales"
+  },
+  "SkillDesc_Skill_BR_Echidna_N_3": {
+    "korean": "라운드 개시 시, 방어력 / 전기 저항 / 받는 피해 감소 / 효과 저항이 증가하고 전기 속성에 피격 시, AP가 증가합니다.",
+    "english": "At the start of the round, increases DEF, Electric Resist, DMG Reduction, and Status Resist, and when hit by electric attribute attacks, AP increases."
+  },
+  "SkillDescSimple_Skill_BR_Echidna_N_3": {
+    "korean": "라운드 개시 시, 방어력 / 전기 속성 저항 / 받는 피해 감소 / 효과 저항 증가",
+    "english": "At the start of the round, increase DEF, Electric Resist, DMG Reduction, and Status Resist."
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_3": {
+    "korean": "부정형 합금 비늘 : 받는 피해{0}% 감소",
+    "english": "Corrupted Alloy Scales : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_BR_Echidna_N_3": {
+    "korean": "부정형 합금 비늘 : 방어력{0}%",
+    "english": "Corrupted Alloy Scales : DEF {0}%"
+  },
+  "BuffDesc3_Effect_BR_Echidna_N_3": {
+    "korean": "부정형 합금 비늘 : 전기 저항{0}%",
+    "english": "Corrupted Alloy Scales : Electric Resist {0}%"
+  },
+  "BuffDesc4_Effect_BR_Echidna_N_3": {
+    "korean": "부정형 합금 비늘 : 효과 저항{0}%",
+    "english": "Corrupted Alloy Scales : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_14": {
+    "korean": "포식 : 방어력{0}%",
+    "english": "Devour : DEF {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_31": {
+    "korean": "부정형 합금 비늘 : AP{0}",
+    "english": "Corrupted Alloy Scales : AP {0}"
+  },
+  "SkillName_Skill_BR_Echidna_N_4": {
+    "korean": "여왕의 존재감",
+    "english": "Queen’s Presence"
+  },
+  "SkillDesc_Skill_BR_Echidna_N_4": {
+    "korean": "라운드 개시 시, 아군에 중장이 2기 이하일 경우 범위 내의 경장 / 기동형 아군들의 공격력 / 적중 / 행동력을 증가시키며 효과를 받는 대상이 보호기가 아닐 경우, 대상을 지정 보호 합니다. 아군에 경장형 아군이 2기 이상일 경우, 자신에게 행보호가 적용되고 아군에 기동형 아군이 2기 이상일 경우, 자신에게 열 보호가 적용됩니다.",
+    "english": "At the start of the round, if there are 2 or fewer Heavy allies, increases the ATK, ACC, and SPD of Light and Air allies within range. If the affected target is not a protector, applies Target Protect to them. If there are 2 or more Light allies, applies Row Protect to yourself. If there are 2 or more Air allies, applies Column Protect to yourself."
+  },
+  "SkillDescSimple_Skill_BR_Echidna_N_4": {
+    "korean": "전투 개시 시, 지정 보호 / 공격력 / 적중 / 행동력 증가",
+    "english": "At the start of battle, grants Target Protect, ATK, ACC, and SPD increase."
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_4": {
+    "korean": "여왕의 존재감 : 공격력{0}% (경장/기동)",
+    "english": "Queen’s Presence : ATK {0}% (Light/Air)"
+  },
+  "BuffDesc2_Effect_BR_Echidna_N_4": {
+    "korean": "여왕의 존재감 : 적중{0}% (경장/기동)",
+    "english": "Queen’s Presence : ACC {0}% (Light/Air)"
+  },
+  "BuffDesc3_Effect_BR_Echidna_N_4": {
+    "korean": "여왕의 존재감 : 행동력{0}% (경장/기동)",
+    "english": "Queen’s Presence : SPD {0}% (Light/Air)"
+  },
+  "BuffDesc4_Effect_BR_Echidna_N_4": {
+    "korean": "여왕의 존재감 : 지정 대상 보호 (경장/기동)",
+    "english": "Queen’s Presence : Target Protect (Light/Air)"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_41": {
+    "korean": "여왕의 존재감 : 지정 대상 보호 (경장/기동)",
+    "english": "Queen’s Presence : Target Protect (Light/Air)"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_42": {
+    "korean": "여왕의 존재감 : 행 보호",
+    "english": "Queen’s Presence : Row Protect"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_43": {
+    "korean": "여왕의 존재감 : 열 보호",
+    "english": "Queen’s Presence : Column Protect"
+  },
+  "SkillName_Skill_BR_Echidna_N_5": {
+    "korean": "욕망의 늪",
+    "english": "Swamp of Desire"
+  },
+  "SkillDesc_Skill_BR_Echidna_N_5": {
+    "korean": "전투 개시 시, 범위 내 경장형, 중장형 적에게 2라운드 동안 도발 / 이동 불가 / 스킬 위력 감소 / 행동력 감소 / 받는 피해 증가 상태로 만듭니다. 대상이 중장형일 경우, 효과가 100% 증가합니다. 해당 효과들은 대상의 효과 저항에 영향을 받지 않고 적용되며 이동 불가를 제외한 나머지 효과들은 해로운 효과 해제로 해제할 수 없습니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of battle, inflicts Provoked, Rooted, Skill Power Reduction, SPD Reduction, and DMG Taken Increased on Light and Heavy enemies within range for 2 rounds. If the target is Heavy, the effects are increased by 100%. These effects ignore the target's Status Resist, and except for Rooted, the other effects cannot be removed by harmful effect removal. Range increases at skill level 10."
+  },
+  "SkillDescSimple_Skill_BR_Echidna_N_5": {
+    "korean": "욕망의 늪 : 적 행동력 감소 / 이동 불가 / 도발 / 받는 피해 증가 / 스킬 위력 감소",
+    "english": "Swamp of Desire: SPD Reduction / Rooted / Provoked / DMG Taken Increased / Skill Power Reduction"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_5": {
+    "korean": "욕망의 늪 : 행동력{0}%",
+    "english": "Swamp of Desire : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Echidna_N_5": {
+    "korean": "욕망의 늪 : 이동 불가",
+    "english": "Swamp of Desire : Rooted"
+  },
+  "BuffDesc3_Effect_BR_Echidna_N_5": {
+    "korean": "욕망의 늪 : 받는 피해{0}%",
+    "english": "Swamp of Desire : DMG Taken {0}%"
+  },
+  "BuffDesc4_Effect_BR_Echidna_N_5": {
+    "korean": "욕망의 늪 : 대상 도발 (에키드나)",
+    "english": "Swamp of Desire : Provoked (Echidna)"
+  },
+  "BuffDesc5_Effect_BR_Echidna_N_5": {
+    "korean": "욕망의 늪 : 스킬 위력{0}%",
+    "english": "Swamp of Desire : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_51": {
+    "korean": "욕망의 늪 : 행동력{0}% (중장)",
+    "english": "Swamp of Desire : SPD {0}% (Heavy)"
+  },
+  "BuffDesc2_Effect_BR_Echidna_N_51": {
+    "korean": "욕망의 늪 : 이동 불가",
+    "english": "Swamp of Desire : Rooted"
+  },
+  "BuffDesc3_Effect_BR_Echidna_N_51": {
+    "korean": "욕망의 늪 : 받는 피해{0}% (중장)",
+    "english": "Swamp of Desire : DMG Taken {0}% (Heavy)"
+  },
+  "BuffDesc4_Effect_BR_Echidna_N_51": {
+    "korean": "욕망의 늪 : 대상 도발 (에키드나)",
+    "english": "Swamp of Desire : Provoked (Echidna)"
+  },
+  "BuffDesc5_Effect_BR_Echidna_N_51": {
+    "korean": "욕망의 늪 : 스킬 위력{0}%",
+    "english": "Swamp of Desire : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_52": {
+    "korean": "욕망의 늪 : 행동력{0}%",
+    "english": "Swamp of Desire : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Echidna_N_52": {
+    "korean": "욕망의 늪 : 이동 불가",
+    "english": "Swamp of Desire : Rooted"
+  },
+  "BuffDesc3_Effect_BR_Echidna_N_52": {
+    "korean": "욕망의 늪 : 받는 피해{0}%",
+    "english": "Swamp of Desire : DMG Taken {0}%"
+  },
+  "BuffDesc4_Effect_BR_Echidna_N_52": {
+    "korean": "욕망의 늪 : 대상 도발 (에키드나)",
+    "english": "Swamp of Desire : Provoked (Echidna)"
+  },
+  "BuffDesc5_Effect_BR_Echidna_N_52": {
+    "korean": "욕망의 늪 : 스킬 위력{0}%",
+    "english": "Swamp of Desire : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_53": {
+    "korean": "욕망의 늪 : 행동력{0}% (중장)",
+    "english": "Swamp of Desire : SPD {0}% (Heavy)"
+  },
+  "BuffDesc2_Effect_BR_Echidna_N_53": {
+    "korean": "욕망의 늪 : 이동 불가",
+    "english": "Swamp of Desire : Rooted"
+  },
+  "BuffDesc3_Effect_BR_Echidna_N_53": {
+    "korean": "욕망의 늪 : 받는 피해{0}% (중장)",
+    "english": "Swamp of Desire : DMG Taken {0}% (Heavy)"
+  },
+  "BuffDesc4_Effect_BR_Echidna_N_53": {
+    "korean": "욕망의 늪 : 대상 도발 (에키드나)",
+    "english": "Swamp of Desire : Provoked (Echidna)"
+  },
+  "BuffDesc5_Effect_BR_Echidna_N_53": {
+    "korean": "욕망의 늪 : 스킬 위력{0}%",
+    "english": "Swamp of Desire : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_54": {
+    "korean": "욕망의 늪 : 이동 불가",
+    "english": "Swamp of Desire : Rooted"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_55": {
+    "korean": "욕망의 늪 : 이동 불가",
+    "english": "Swamp of Desire : Rooted"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_56": {
+    "korean": "욕망의 늪 : 이동 불가",
+    "english": "Swamp of Desire : Rooted"
+  },
+  "BuffDesc1_Effect_BR_Echidna_N_57": {
+    "korean": "욕망의 늪 : 이동 불가",
+    "english": "Swamp of Desire : Rooted"
+  }
+}

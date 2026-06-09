@@ -1,0 +1,118 @@
+{
+  "1002702626": {
+    "korean": "XV-5 오토 터렛",
+    "english": "XV-5 Auto Turret"
+  },
+  "1002704435": {
+    "korean": "대상에게 {0} 피해를 주고, 2라운드 동안 대상을 표식으로 지정해 받는 피해 증가 상태로 만듭니다. 방어력 / 회피 감소 대상에게 피해량이 증가합니다.",
+    "english": "Deal {0} damage to the target and Mark the target for 2 rounds, causing increased DMG Taken. Damage is increased against targets with reduced DEF / EVA."
+  },
+  "1002703608": {
+    "korean": "단일 대상 {0} 피해. 표식 / 피해 증폭. 방어력 / 회피 감소 대상 피해량 증가",
+    "english": "Deal {0} damage to a single target. Mark / Damage Amplification. Damage increased against targets with reduced DEF / EVA."
+  },
+  "1000104051": {
+    "korean": "XV-5 오토 터렛 : 표식 지정",
+    "english": "XV-5 Auto Turret : Marks target"
+  },
+  "1000104056": {
+    "korean": "XV-5 오토 터렛 : 받는 피해{0}%",
+    "english": "XV-5 Auto Turret : DMG Taken {0}%"
+  },
+  "1000102524": {
+    "korean": "집중 공격 : 피해량{0}%",
+    "english": "Concentrated Attack : Additional DMG {0}%"
+  },
+  "1000109817": {
+    "korean": "XV-5 오토 터렛 : [180mm로켓포] 협동 공격",
+    "english": "XV-5 Auto Turret: [180mm Rocket Launcher] Cooperative Attack"
+  },
+  "1000106699": {
+    "korean": "연계 공격 : 피해량{0}%",
+    "english": "Cooperative Attack : Additional DMG {0}%"
+  },
+  "1002702627": {
+    "korean": "레이더 재머",
+    "english": "Radar Jammer"
+  },
+  "1002704436": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 주고, 2라운드 동안 대상들의 치명타 / 적중 / 회피 / 사거리를 감소시킵니다. 스킬 레벨 당 +30%의 적중 보정이 적용됩니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "Deal {0} Ignore Protection damage to the designated area and reduce targets' CRIT / ACC / EVA / Range for 2 rounds. +30% ACC correction per skill level. Range increases at skill level 10."
+  },
+  "1002703609": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 치명타 / 적중 / 회피 / 사거리 감소",
+    "english": "Deal {0} Ignore Protection damage to the designated area. Reduce CRIT / ACC / EVA / Range."
+  },
+  "1000104052": {
+    "korean": "레이더 재머 : 치명타 {0}%",
+    "english": "Radar Jammer : CRIT {0}%"
+  },
+  "1000104860": {
+    "korean": "레이더 재머 : 적중 {0}%",
+    "english": "Radar Jammer : ACC {0}%"
+  },
+  "1000105304": {
+    "korean": "레이더 재머 : 회피 {0}%",
+    "english": "Radar Jammer : EVA {0}%"
+  },
+  "1000104057": {
+    "korean": "레이더 재머 : 사거리 {0}",
+    "english": "Radar Jammer : Range {0}"
+  },
+  "1002702628": {
+    "korean": "지상 공격대 지원",
+    "english": "Ground Attack Support"
+  },
+  "1002704437": {
+    "korean": "전투 개시 시, 전열에 배치된 경장 / 중장형 아군의 AP가 증가합니다. 정찰 활성화 시, 해당 효과의 50%가 매 라운드 적용됩니다.",
+    "english": "At battle start, increase AP of Light / Heavy allies positioned in the front row. When Recon Effect is active, 50% of this effect is applied each round."
+  },
+  "1002703610": {
+    "korean": "전투 개시 시, 전열 경장 / 중장형 아군 AP 증가",
+    "english": "At battle start, increase AP of front row Light / Heavy allies."
+  },
+  "1000104053": {
+    "korean": "지상 공격대 지원 : AP{0} (경장/중장)",
+    "english": "Ground Assault Support: AP{0} (Light/Heavy)"
+  },
+  "1000104058": {
+    "korean": "현장 지원 : AP{0} (경장/중장)",
+    "english": "Field Support: AP{0} (Light/Heavy)"
+  },
+  "1002702629": {
+    "korean": "고고도 정찰",
+    "english": "High Altitude Recon"
+  },
+  "1002704438": {
+    "korean": "라운드 개시 시, 범위 내 경장 / 중장형 아군의 공격력 / 치명타 / 행동력이 증가합니다. 정찰로 다음에 출현할 적을 확인할 수 있으며, 적 진영과 멀수록 자신의 회피가 증가합니다.",
+    "english": "At round start, increase ATK / CRIT / SPD of Light / Heavy allies within range. Recon Effect reveals the next enemy to appear, and EVA increases the farther from the enemy formation."
+  },
+  "1002703611": {
+    "korean": "경장 / 중장형 아군 공격력 / 치명타 / 행동력 증가. 자신 회피 증가 / 정찰 기능",
+    "english": "Increase ATK / CRIT / SPD of Light / Heavy allies. Increase own EVA / Grants Recon Effect."
+  },
+  "1000104054": {
+    "korean": "고고도 정찰 : 공격력{0}% (경장/중장)",
+    "english": "High Altitude Recon: ATK {0}% (Light/Heavy)"
+  },
+  "1000104861": {
+    "korean": "고고도 정찰 : 치명타{0}% (경장/중장)",
+    "english": "High Altitude Recon: CRIT {0}% (Light/Heavy)"
+  },
+  "1000105305": {
+    "korean": "고고도 정찰 : 행동력{0}% (경장/중장)",
+    "english": "High Altitude Recon: SPD {0}% (Light/Heavy)"
+  },
+  "1000105509": {
+    "korean": "고고도 정찰 : 회피{0}% (최대 / 자신)",
+    "english": "High Altitude Recon: EVA {0}% (Max/Self)"
+  },
+  "1000104060": {
+    "korean": "고고도 정찰 : 다음 적 정보 획득",
+    "english": "High Altitude Reconnaissance : Recon"
+  },
+  "1000104059": {
+    "korean": "고고도 정찰 : 회피{0}%",
+    "english": "High Altitude Reconnaissance : EVA {0}%"
+  }
+}

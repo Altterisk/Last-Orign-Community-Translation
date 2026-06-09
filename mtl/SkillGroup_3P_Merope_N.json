@@ -1,0 +1,310 @@
+{
+  "SkillName_Skill_3P_Merope_N_1": {
+    "korean": "립타이드 헤드샷",
+    "english": "Riptide Headshot"
+  },
+  "SkillDesc_Skill_3P_Merope_N_1": {
+    "korean": "거대한 닻을 쏘아 단일 대상에게 {0} 피해를 줍니다.&n스킬 적중 시 대상은 2라운드 동안 스킬 위력 및 방어력이 감소되고 <침수> 상태가 됩니다.&n홀수 라운드에서 스킬 적중 시 스쿼드에 알키오네가 있을 경우 2라운드 동안 자신에게 <언니~!>를 부여합니다.&n홀수 라운드에서 스킬 적중 시 스쿼드에 알키오네가 \"스키터링 브리니클\"을 사용하여 협동 공격 합니다.&n※ <언니~!> : 피해 감소 증가",
+    "english": "Shoots a giant anchor to deal {0} damage to a single target. Upon hitting, the target's Skill Power and DEF are reduced for 2 rounds, and they become <Soaked>. If <Alcyone> is in the squad and the hit occurs on an odd round, you gain <Big Sister~!> for 2 rounds. If <Alcyone> in the squad uses “Skittering Brinicle” to perform a Cooperative Attack on an odd round. ※ <Big Sister~!>: Increased Damage Reduction"
+  },
+  "SkillDescSimple_Skill_3P_Merope_N_1": {
+    "korean": "단일 대상 {0} 피해. 적중 대상 스킬 위력 / 방어력 감소. 침수 적용. 조건부 자신 강화. 알키오네 협동 공격.",
+    "english": "Single target {0} damage. Reduces target's Skill Power and DEF. Applies Soaked. Conditional self buff. Alcyone Cooperative Attack."
+  },
+  "BuffDesc1_Effect_3P_Merope_N_1": {
+    "korean": "립타이드 헤드샷 : 스킬 위력 {0}%",
+    "english": "Riptide Headshot : Skill Power {0}%"
+  },
+  "BuffDesc2_Effect_3P_Merope_N_1": {
+    "korean": "립타이드 헤드샷 : 방어력 {0}%",
+    "english": "Riptide Headshot : DEF {0}%"
+  },
+  "BuffDesc3_Effect_3P_Merope_N_1": {
+    "korean": "침수 : 냉기 저항 {0}%",
+    "english": "Submersion : Cold Resist {0}%"
+  },
+  "BuffDesc4_Effect_3P_Merope_N_1": {
+    "korean": "침수 : 전기 저항 {0}%",
+    "english": "Immersion: Electric Resist {0}%"
+  },
+  "BuffDesc5_Effect_3P_Merope_N_1": {
+    "korean": "침수 : 화염 저항 {0}%",
+    "english": "Flooding: Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_11": {
+    "korean": "립타이드 헤드샷 : 스킬 위력 {0}%",
+    "english": "Riptide Headshot : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_12": {
+    "korean": "립타이드 헤드샷 : 방어력 {0}%",
+    "english": "Riptide Headshot : DEF {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_13": {
+    "korean": "언니~! : 받는 피해 감소 {0}%",
+    "english": "Sis~! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_14": {
+    "korean": "언니~! : 협동 공격",
+    "english": "Sis~! : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_15": {
+    "korean": "대장~! : 공격력 {0}%",
+    "english": "Captain~! : ATK {0}%"
+  },
+  "1000102660": {
+    "korean": "침수 : 냉기 저항{0}%",
+    "english": "Submerged: Cold Resist {0}%"
+  },
+  "1000102977": {
+    "korean": "침수 : 전기 저항{0}%",
+    "english": "Flooded: Electric Resist {0}%"
+  },
+  "1000102976": {
+    "korean": "침수 : 화염 저항{0}%",
+    "english": "Flooded: Fire Resist {0}%"
+  },
+  "SkillName_Skill_3P_Merope_N_2": {
+    "korean": "병약 미소녀 총공격!",
+    "english": "Sickly Beauty's All-Out Attack!"
+  },
+  "SkillDesc_Skill_3P_Merope_N_2": {
+    "korean": "지정 범위에 {0} 피해를 줍니다.&n스킬 적중에 따른 치명타 발생 시 대상의 강화 효과를 해제합니다.&n<언니~!> 적용 상태로 스킬 적중 시 적중 대상을 1 라운드 동안 행동 불가 상태로 만들고,&n자신에게 냉기 저항 / 피해 감소가 증가합니다.&n1 라운드 동안 적중 대상을 스킬 사용 불가 상태로 만들고 피해량이 증가합니다.&n※ <언니~!> 효과는 립타이드 헤드샷 사용 시 획득할 수 있습니다.",
+    "english": "Deals {0} damage to the designated area. If a CRIT occurs on skill hit, the target's buffs are removed. While <Big Sister~!> is active, hitting a target Stuns it for 1 round and increases your Cold Resistance and Damage Reduction. The hit target is Silenced for 1 round and takes increased damage. ※ <Big Sister~!> can be obtained by using Riptide Headshot."
+  },
+  "SkillDescSimple_Skill_3P_Merope_N_2": {
+    "korean": "지정 범위 {0} 피해. 치명타 시 강화 효과 해제. 조건부 자신에게 냉기 저항 / 피해 감소 전기 저항 증가. 조건부 적중 대상에게 조건부 행동 / 스킬 사용 불가 / 피해량 증가.",
+    "english": "Damage to a designated area {0}. Removes buffs on CRIT. Conditionally increases self Cold Resistance, Damage Reduction, and Electric Resistance. Conditionally Stuns, Silences, or increases damage dealt to the hit target."
+  },
+  "BuffDesc1_Effect_3P_Merope_N_2": {
+    "korean": "병약 미소녀 총공격! : 강화 해제",
+    "english": "Sickly Beauty's All-Out Attack! : Buff Removal"
+  },
+  "BuffDesc2_Effect_3P_Merope_N_2": {
+    "korean": "병약 미소녀 총공격! : 냉기 저항 {0}% (조건부)",
+    "english": "Sickly Beauty's All-Out Attack! : Cold Resist {0}% (Conditional)"
+  },
+  "BuffDesc3_Effect_3P_Merope_N_2": {
+    "korean": "병약 미소녀 총공격! : 전기 저항 {0}% (조건부)",
+    "english": "Sickly Beauty's All-Out Attack! : Electric Resist {0}% (Conditional)"
+  },
+  "BuffDesc4_Effect_3P_Merope_N_2": {
+    "korean": "병약 미소녀 총공격! : 받는 피해 감소 {0}% (조건부)",
+    "english": "Sickly Beauty's All-Out Attack! : DMG Reduction {0}% (Conditional)"
+  },
+  "BuffDesc5_Effect_3P_Merope_N_2": {
+    "korean": "병약 미소녀 총공격! : 피해량 {0}% (조건부)",
+    "english": "Sickly Beauty's All-Out Attack! : Additional DMG {0}% (Conditional)"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_21": {
+    "korean": "병약 미소녀 총공격! : 냉기 저항 {0}%",
+    "english": "Sickly Beauty's All-Out Attack! : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_22": {
+    "korean": "병약 미소녀 총공격! : 행동 불가",
+    "english": "Sickly Beauty's All-Out Attack! : Stunned"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_23": {
+    "korean": "병약 미소녀 총공격! : 받는 피해 감소 {0}%",
+    "english": "Sickly Beauty's All-Out Attack! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_24": {
+    "korean": "병약 미소녀 총공격! : 전기 저항 {0}%",
+    "english": "Sickly Beauty's All-Out Attack! : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_25": {
+    "korean": "병약 미소녀 총공격! : 스킬 사용 불가",
+    "english": "Sickly Beauty's All-Out Attack! : Silenced"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_26": {
+    "korean": "병약 미소녀 총공격! : 피해량 {0}%",
+    "english": "Sickly Beauty's All-Out Attack! : Additional DMG {0}%"
+  },
+  "SkillName_Skill_3P_Merope_N_3": {
+    "korean": "보호 본능!",
+    "english": "Protective Instinct!"
+  },
+  "SkillDesc_Skill_3P_Merope_N_3": {
+    "korean": "라운드 개시 시 자신에게 적용된 행 / 열 보호 효과를 해제합니다.&n라운드 개시 시 자신은 일반 표식을 획득하고, 스쿼드 내에 <알키오네>가 존재할 경우, 자신을 대신하여 표식을 이전합니다.&n라운드 개시 시 홀수 라운드일 경우 스쿼드 내에 알키오네가 있을 경우 2라운드 동안 아군에게 <언니?!>를 부여합니다.&n※ <언니?!> : 받는 피해 감소",
+    "english": "At the start of the round, removes any Column Protect effects on yourself. At the start of the round, you gain a normal Mark, and if <Alcyone> is in the squad, she transfers the Mark to you. At the start of an odd round, if <Alcyone> is in the squad, you grant <Sister?!> to an ally for 2 rounds. ※ <Sister?!>: Damage Reduction"
+  },
+  "SkillDescSimple_Skill_3P_Merope_N_3": {
+    "korean": "자신 행 / 열 보호 효과 해제. 조건부 자신 표식 획득 / 받은 피해 감소 / AP 증가",
+    "english": "Removes self Column Protect effects. Conditional self Mark gain / Damage Reduction / AP increase"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_3": {
+    "korean": "보호 본능! : 행 보호 해제",
+    "english": "Protective Instinct! : Row Protect Removal"
+  },
+  "BuffDesc2_Effect_3P_Merope_N_3": {
+    "korean": "보호 본능! : 열 보호 해제",
+    "english": "Protective Instinct! : Column Protect Removal"
+  },
+  "BuffDesc3_Effect_3P_Merope_N_3": {
+    "korean": "보호 본능! : 표식 (조건부)",
+    "english": "Protective Instinct! : Mark (Conditional)"
+  },
+  "BuffDesc4_Effect_3P_Merope_N_3": {
+    "korean": "언니?! : 받는 피해 감소 {0}%",
+    "english": "Sister?! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_31": {
+    "korean": "보호 본능! : 표식",
+    "english": "Protective Instinct! : Marked"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_32": {
+    "korean": "보호 본능! : 표식",
+    "english": "Protective Instinct! : Marked"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_33": {
+    "korean": "언니?! : 받는 피해 감소 {0}%",
+    "english": "Sis?! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_34": {
+    "korean": "대장?! : AP {0}",
+    "english": "Captain?! : AP {0}"
+  },
+  "SkillName_Skill_3P_Merope_N_4": {
+    "korean": "최선의 방어는 공격이다!",
+    "english": "The Best Defense Is Attack!"
+  },
+  "SkillDesc_Skill_3P_Merope_N_4": {
+    "korean": "피격 시 자신에게 적용된 해로운 효과를 해제합니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <가디언 시리즈> 소속 전투원이 있을 경우 인원수에 따라 아군에게 버프효과를 줍니다.&n라운드 개시 시 스쿼드에 <포세이돈> 소속 전투원이 있을 경우 인원수에 따라 아군에게 버프효과를 줍니다.&n가디언 시리즈 집결 1 : 방어력 증가&n가디언 시리즈 집결 2 : 방어력 증가 / 피해 감소 증가&n가디언 시리즈 집결 3 : 방어력 증가 / 피해 감소 / 화염 저항 증가 / 냉기 저항 증가 / 전기 저항 증가 &n가디언 시리즈 집결 4 : 방어력 증가 / 피해 감소 / 화염 저항 증가 / 냉기 저항 증가 / 전기 저항 증가 / 홀수 라운드 시 피해 무효화 1회 적용 &n포세이돈 집결 1 : 공격력 증가&n포세이돈 집결 2 : 공격력 증가 / 치명타 증가&n포세이돈 집결 3 : 공격력 증가 / 치명타 증가 / 적중 증가&n포세이돈 집결 4 : 공격력 증가 / 치명타 증가 / 적중 증가 / 짝수 라운드 시 피해 무효화 1회 적용",
+    "english": "Removes harmful effects applied to you when hit. At the start of a round, if there are <Guardian Series> allies in the squad excluding yourself, allies receive buffs based on their number: Guardian Series Rally 1 – Increased DEF; Rally 2 – Increased DEF / Damage Reduction; Rally 3 – Increased DEF / Damage Reduction / Fire Resist / Cold Resist / Electric Resist; Rally 4 – Increased DEF / Damage Reduction / Fire Resist / Cold Resist / Electric Resist and one Damage Nullification on odd rounds. At the start of a round, if there are <Poseidon> allies in the squad, allies receive buffs based on their number: Poseidon Rally 1 – Increased ATK; Rally 2 – Increased ATK / CRIT; Rally 3 – Increased ATK / CRIT / ACC; Rally 4 – Increased ATK / CRIT / ACC and one Damage Nullification on even rounds."
+  },
+  "SkillDescSimple_Skill_3P_Merope_N_4": {
+    "korean": "피격 시 해로운 효과 해제 / AP 증가. 조건부 방어력 / 받는 피해 감소 / 화염 저항 / 냉기 저항 / 전기 저항 / 공격력 / 치명타 / 적중 증가. 조건부 피해 무효화 1회 적용",
+    "english": "Removes harmful effects upon being hit / AP increase. Conditional DEF / Damage Reduction / Fire Resist / Cold Resist / Electric Resist / ATK / CRIT / ACC increase. Applies one Damage Nullification conditionally."
+  },
+  "BuffDesc1_Effect_3P_Merope_N_4": {
+    "korean": "최선의 방어는 공격이다! : 해로운 효과 해제",
+    "english": "The Best Defense Is Attack! : Debuff Removal"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_41": {
+    "korean": "가디언 시리즈 집결! : 방어력 {0}",
+    "english": "Guardian Series Assemble! : DEF {0}"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_42": {
+    "korean": "가디언 시리즈 집결! : 방어력 {0}",
+    "english": "Guardian Series Assemble! : DEF {0}"
+  },
+  "BuffDesc2_Effect_3P_Merope_N_42": {
+    "korean": "가디언 시리즈 집결! : 받는 피해 감소 {0}%",
+    "english": "Guardian Series Assemble!: DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_43": {
+    "korean": "가디언 시리즈 집결! : 방어력 {0}",
+    "english": "Guardian Series Assemble! : DEF {0}"
+  },
+  "BuffDesc2_Effect_3P_Merope_N_43": {
+    "korean": "가디언 시리즈 집결! : 받는 피해 감소 {0}%",
+    "english": "Guardian Series Assemble!: DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_3P_Merope_N_43": {
+    "korean": "가디언 시리즈 집결! : 화염 저항 {0}%",
+    "english": "Guardian Series, Assemble! : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_3P_Merope_N_43": {
+    "korean": "가디언 시리즈 집결! : 냉기 저항 {0}%",
+    "english": "Guardian Series Assemble! : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_3P_Merope_N_43": {
+    "korean": "가디언 시리즈 집결! : 전기 저항 {0}%",
+    "english": "Guardian Series Assemble! : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_44": {
+    "korean": "가디언 시리즈 집결! : 방어력 {0}",
+    "english": "Guardian Series Assemble! : DEF {0}"
+  },
+  "BuffDesc2_Effect_3P_Merope_N_44": {
+    "korean": "가디언 시리즈 집결! : 받는 피해 감소 {0}%",
+    "english": "Guardian Series Assemble!: DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_3P_Merope_N_44": {
+    "korean": "가디언 시리즈 집결! : 화염 저항 {0}%",
+    "english": "Guardian Series, Assemble! : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_3P_Merope_N_44": {
+    "korean": "가디언 시리즈 집결! : 냉기 저항 {0}%",
+    "english": "Guardian Series Assemble! : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_3P_Merope_N_44": {
+    "korean": "가디언 시리즈 집결! : 전기 저항 {0}%",
+    "english": "Guardian Series Assemble! : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_45": {
+    "korean": "가디언 시리즈 집결! : 피해 무효화 {0}회 (홀수 턴)",
+    "english": "Guardian Series Assemble! : Damage Nullification {0} Times (odd rounds)"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_46": {
+    "korean": "포세이돈 집결! : 공격력 {0}%",
+    "english": "Poseidon Assemble! : ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_47": {
+    "korean": "포세이돈 집결! : 공격력 {0}%",
+    "english": "Poseidon Assemble! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Merope_N_47": {
+    "korean": "포세이돈 집결! : 치명타 {0}%",
+    "english": "Poseidon Assemble!: CRIT {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_48": {
+    "korean": "포세이돈 집결! : 공격력 {0}%",
+    "english": "Poseidon Assemble! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Merope_N_48": {
+    "korean": "포세이돈 집결! : 치명타 {0}%",
+    "english": "Poseidon Assemble!: CRIT {0}%"
+  },
+  "BuffDesc3_Effect_3P_Merope_N_48": {
+    "korean": "포세이돈 집결! : 적중 {0}%",
+    "english": "Poseidon, Assemble! : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_49": {
+    "korean": "포세이돈 집결! : 공격력 {0}%",
+    "english": "Poseidon Assemble! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Merope_N_49": {
+    "korean": "포세이돈 집결! : 치명타 {0}%",
+    "english": "Poseidon Assemble!: CRIT {0}%"
+  },
+  "BuffDesc3_Effect_3P_Merope_N_49": {
+    "korean": "포세이돈 집결! : 적중 {0}%",
+    "english": "Poseidon, Assemble! : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_410": {
+    "korean": "포세이돈 집결! : 피해 무효화 {0}회 (짝수 턴)",
+    "english": "Poseidon Assemble! : Damage Nullification {0} Times (even rounds)"
+  },
+  "SkillName_Skill_3P_Merope_N_5": {
+    "korean": "몰아치는 노도",
+    "english": "Raging Storm"
+  },
+  "SkillDesc_Skill_3P_Merope_N_5": {
+    "korean": "라운드 개시 시 자신에게 AP를 증가시킵니다.&n피격 시 아군에게 AP를 증가시킵니다.&n적 처치 시 아군에게 AP를 증가시킵니다.",
+    "english": "Increases your AP at the start of the round. Increases allies' AP when you are hit. Increases allies' AP when you defeat an enemy."
+  },
+  "SkillDescSimple_Skill_3P_Merope_N_5": {
+    "korean": "AP 증가. 조건부 AP 증가",
+    "english": "AP increase. Conditional AP increase."
+  },
+  "BuffDesc1_Effect_3P_Merope_N_5": {
+    "korean": "몰아치는 노도 : AP {0}",
+    "english": "Raging Storm : AP {0}"
+  },
+  "BuffDesc2_Effect_3P_Merope_N_5": {
+    "korean": "몰아치는 노도 : AP {0} (피격)",
+    "english": "Raging Wave: AP {0} (When Hit)"
+  },
+  "BuffDesc3_Effect_3P_Merope_N_5": {
+    "korean": "몰아치는 노도 : AP {0} (처치)",
+    "english": "Raging Storm : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_51": {
+    "korean": "몰아치는 노도 : AP {0} (피격)",
+    "english": "Surging Tide: AP {0} (When Hit)"
+  },
+  "BuffDesc1_Effect_3P_Merope_N_52": {
+    "korean": "몰아치는 노도 : AP {0} (처치)",
+    "english": "Raging Storm : AP {0} (On Kill)"
+  }
+}
