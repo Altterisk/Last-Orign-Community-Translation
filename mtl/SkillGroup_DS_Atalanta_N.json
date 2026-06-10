@@ -1,0 +1,202 @@
+{
+  "SkillName_Skill_DS_Atalanta_N_1": {
+    "korean": "전사의 창",
+    "english": "Warrior's Spear"
+  },
+  "SkillName_Skill_DS_Atalanta_N_2": {
+    "korean": "멧돼지 몰이",
+    "english": "Boar Drive"
+  },
+  "SkillName_Skill_DS_Atalanta_N_3": {
+    "korean": "빛나는 용맹",
+    "english": "Radiant Valor"
+  },
+  "SkillName_Skill_DS_Atalanta_N_4": {
+    "korean": "펠타스트 숙련",
+    "english": "Peltast Mastery"
+  },
+  "SkillName_Skill_DS_Atalanta_N_5": {
+    "korean": "오르카 호 원정대",
+    "english": "Orca Expeditionary Force"
+  },
+  "SkillDesc_Skill_DS_Atalanta_N_1": {
+    "korean": "투창으로 {0} 보호 무시 피해를 줍니다.&n적중 시, 2라운드 동안 대상을 도발하고 공격력을 감소시킵니다.&n치명타 시, 대상의 반격 효과를 해제하고 공격력 감소 효과가 50% 증폭됩니다.",
+    "english": "Throws a javelin to deal {0} Ignore Protection DMG. On hit, Provokes the target and applies ATK Reduction for 2 rounds. On critical hit, removes the target's Counter Attack effect and amplifies the ATK Reduction by 50%."
+  },
+  "SkillDescSimple_Skill_DS_Atalanta_N_1": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 도발 / 공격력 감소. 치명타 시, 반격 해제 / 공격력 추가 감소.",
+    "english": "Single target {0} Ignore Protection DMG. Provokes / ATK Reduction. On CRIT, Counter Attack removed / Additional ATK Reduction."
+  },
+  "SkillDesc_Skill_DS_Atalanta_N_2": {
+    "korean": "근접 공격으로 {0} 피해를 주고, 대상이 도발 상태인 경우 받는 피해 감소 효과를 해제합니다.&n적중 대상의 HP가 50% 이하인 경우, 피해량이 증가합니다.&n<멧돼지 몰이>를 통해 적 처치 시, 전리품을 분배하여 다음 2라운드 동안 아군 전체의 AP를 증가시킵니다.",
+    "english": "Performs a melee attack that deals {0} Ignore Protection DMG, and if the target is Provoked, removes its DMG Reduction effect. If the target's HP is 50% or lower, damage is increased. When an enemy is defeated through <Boar Drive>, distributes loot to increase all allies' AP for 2 rounds."
+  },
+  "SkillDescSimple_Skill_DS_Atalanta_N_2": {
+    "korean": "단일 대상 {0} 피해. 도발 대상 피해 감소 효과 해제. 적 처치 시, 아군 AP 증가.",
+    "english": "Single target {0} DMG. Provoked target DMG Reduction removed. On kill, allies' AP increased."
+  },
+  "SkillDesc_Skill_DS_Atalanta_N_3": {
+    "korean": "라운드 개시 시, 자신은 숙련된 전투 기술로 인해 받는 피해가 감소합니다.&n공격 적중 시, 3라운드 동안 자신이 받는 피해가 추가로 감소합니다. (최대 3중첩)&n<용맹> 중첩 효과는 강화 효과 해제로 해제되지 않습니다.&n피격 시, 자신은 반격 효과를 획득합니다.",
+    "english": "At the start of the round, DMG Reduction is applied due to seasoned combat techniques. When an attack hits, further DMG Reduction is granted for 3 rounds (max 3 stacks). <Valor> stacks are not removed by buff removal effects. When hit, gains a Counter Attack effect."
+  },
+  "SkillDescSimple_Skill_DS_Atalanta_N_3": {
+    "korean": "받는 피해 감소. 공격 적중 시, 받는 피해 추가 감소. 피격 시, 반격.",
+    "english": "DMG Reduction. On attack hit, further DMG Reduction. On hit, Counter Attack."
+  },
+  "SkillDesc_Skill_DS_Atalanta_N_4": {
+    "korean": "라운드 개시 시, 자신은 행 보호가 활성화되고, 같은 열에 위치한 공격기/지원기를 지정 보호합니다.&n라운드 개시 시, 아군 전체의 대 중장형 피해량을 증가시킵니다.&n<용맹> 중첩 단계에 따라 상기 효과가 증폭됩니다.",
+    "english": "At the start of the round, Row Protect is activated and allies Attacker/Supporter in the same column are Target Protected. At the start of the round, all allies' Anti-Heavy DMG is increased. The above effects are amplified based on <Valor> stack count."
+  },
+  "SkillDescSimple_Skill_DS_Atalanta_N_4": {
+    "korean": "행 보호 활성화. 같은 열 아군 공격기/지원기 지정 보호. 아군 전체 대 중장형 피해량 증가.",
+    "english": "Row Protect activated. Allies Attacker/Supporter in same column Target Protected. Allies' Anti-Heavy DMG increased."
+  },
+  "SkillDesc_Skill_DS_Atalanta_N_5": {
+    "korean": "라운드 개시 시 <용맹> 중첩이 최대치인 경우, 완벽한 방패술로 피해를 1회 무효화합니다.&n피격 시, 3라운드 동안 자신의 행동력 / 치명타가 증가합니다. (최대 3중첩)&n<황금사과>를 보유한 경우, 자신의 공격은 대상이 후열에 가까울 수록 피해량이 증가합니다.",
+    "english": "At the start of the round, if <Valor> stacks are at maximum, Damage Nullification occurs once with flawless shield technique. When hit, increases own SPD and CRIT for 3 rounds (max 3 stacks). If holding the <Golden Apple>, damage dealt increases the closer the target is to the back row."
+  },
+  "SkillDescSimple_Skill_DS_Atalanta_N_5": {
+    "korean": "<용맹> 3중첩 시, 피해 무효화. 피격 시, 행동력 / 치명타 증가. 조건부 액티브 스킬 피해량 증가.",
+    "english": "Damage Nullification. On hit, SPD / CRIT increase. Conditional active skill damage increase."
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_1": {
+    "korean": "전사의 창 : 대상 도발 (아탈란테)",
+    "english": "Warrior’s Spear : Target Provoke (Atalanta)"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_22": {
+    "korean": "멧돼지 가죽",
+    "english": "Boar Hide"
+  },
+  "BuffDesc2_Effect_DS_Atalanta_N_1": {
+    "korean": "전사의 창 : 공격력 {0}%",
+    "english": "Warrior's Spear : ATK {0}%"
+  },
+  "BuffDesc3_Effect_DS_Atalanta_N_1": {
+    "korean": "눈부신 창끝 : 반격 해제",
+    "english": "Blinding Spearpoint : Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_11": {
+    "korean": "눈부신 창끝 : 반격 해제",
+    "english": "Blinding Spearpoint : Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_12": {
+    "korean": "눈부신 창끝 : 공격력 {0}%",
+    "english": "Blinding Spearpoint : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_53": {
+    "korean": "아스트라페 : 피해량 {0}%",
+    "english": "Astraphe : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_54": {
+    "korean": "아스트라페 : 피해량 {0}%",
+    "english": "Astraphe : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_2": {
+    "korean": "멧돼지 몰이 : 받는 피해 감소 해제",
+    "english": "Boar Drive : DMG Reduction Removal"
+  },
+  "BuffDesc2_Effect_DS_Atalanta_N_2": {
+    "korean": "회심의 일격 : 피해량 {0}% (HP 50% 이하)",
+    "english": "Strike of Resolve : Additional DMG {0}% (HP 50% or below)"
+  },
+  "BuffDesc3_Effect_DS_Atalanta_N_2": {
+    "korean": "멧돼지 가죽 : AP {0}",
+    "english": "Boar Hide : AP {0}"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_21": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Strike of Resolve : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_3": {
+    "korean": "투레오스 방패 : 받는 피해 {0}% 감소",
+    "english": "Thureos Shield : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_DS_Atalanta_N_3": {
+    "korean": "용맹 : 받는 피해 {0}% 감소",
+    "english": "Valor : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_DS_Atalanta_N_3": {
+    "korean": "빛나는 용맹 : {0}% 위력으로 반격",
+    "english": "Radiant Valor : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_31": {
+    "korean": "용맹 : 받는 피해 {0}% 감소",
+    "english": "Valor : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_32": {
+    "korean": "빛나는 용맹 : {0}% 위력으로 반격",
+    "english": "Radiant Valor : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_4": {
+    "korean": "펠타스트 숙련 : 행 보호",
+    "english": "Peltast Mastery : Row Protect"
+  },
+  "BuffDesc2_Effect_DS_Atalanta_N_4": {
+    "korean": "펠타스트 숙련 : 지정 보호 (공격기/지원기)",
+    "english": "Peltast Mastery : Target Protect (Attacker/Supporter)"
+  },
+  "BuffDesc3_Effect_DS_Atalanta_N_4": {
+    "korean": "밀집대형 : 대 중장형 피해량 {0}%",
+    "english": "Tight Formation : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc4_Effect_DS_Atalanta_N_4": {
+    "korean": "용맹 : 대 중장형 피해량 {0}% (중첩당)",
+    "english": "Valor : Anti-Heavy DMG {0}% (Per Stack)"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_41": {
+    "korean": "펠타스트 숙련 : 지정 보호",
+    "english": "Peltast Mastery : Target Protect"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_42": {
+    "korean": "펠타스트 숙련 : 지정 보호",
+    "english": "Peltast Mastery : Target Protect"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_43": {
+    "korean": "펠타스트 숙련 : 지정 보호",
+    "english": "Peltast Mastery : Target Protect"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_44": {
+    "korean": "밀집대형 : 대 중장형 피해량 {0}%",
+    "english": "Tight Formation : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_45": {
+    "korean": "용맹 : 대 중장형 피해량 {0}%",
+    "english": "Valor : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_48": {
+    "korean": "전리품 분배 : AP {0}",
+    "english": "Loot Distribution : AP {0}"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_46": {
+    "korean": "동적 불균형 : 행동력 {0}%",
+    "english": "Dynamic Imbalance : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_5": {
+    "korean": "팔라스 아테나 : 피해 무효화 {0}회",
+    "english": "Pallas Athena : Damage Nullification {0}x"
+  },
+  "BuffDesc2_Effect_DS_Atalanta_N_5": {
+    "korean": "황금사과 : 행동력 {0}%",
+    "english": "Golden Apple : SPD {0}%"
+  },
+  "BuffDesc3_Effect_DS_Atalanta_N_5": {
+    "korean": "황금사과 : 치명타 {0}%",
+    "english": "Golden Apple : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_DS_Atalanta_N_5": {
+    "korean": "아스트라페 : 피해량 {0}% (중열)",
+    "english": "Astraphe : Additional DMG {0}% (Mid Row)"
+  },
+  "BuffDesc5_Effect_DS_Atalanta_N_5": {
+    "korean": "아스트라페 : 피해량 {0}% (후열)",
+    "english": "Astraphe : Additional DMG {0}% (Back Row)"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_51": {
+    "korean": "황금사과 : 행동력 {0}%",
+    "english": "Golden Apple : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Atalanta_N_52": {
+    "korean": "황금사과 : 치명타 {0}%",
+    "english": "Golden Apple : CRIT {0}%"
+  }
+}

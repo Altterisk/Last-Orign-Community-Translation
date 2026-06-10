@@ -1,0 +1,98 @@
+{
+  "1002701404": {
+    "korean": "목표 지시",
+    "english": "Target Designation"
+  },
+  "1002707101": {
+    "korean": "전술 데이터 링크",
+    "english": "Tactical Data Link"
+  },
+  "1002704091": {
+    "korean": "돌격 소총으로 {0} 피해를 주고, 2라운드 동안 대상을 표식으로 설정합니다. 표식 상태인 대상은 받는 피해가 증가하며 회피가 감소합니다. 치명타 시 S승급 패시브:<전술 데이터 링크> 중첩에 따라 추가 효과를 얻습니다.&n<데이터 링크> 2중첩 : 적 적중 감소&n<데이터 링크> 3중첩 : 적 강화 효과 해제",
+    "english": "Fires an assault rifle to deal {0} damage and applies Marked to the target for 2 rounds. Marked targets take increased DMG Taken and have reduced EVA. On a CRIT, gains additional effects based on S‑Rank Passive: <Tactical Data Link> stacks. <Data Link> 2 stacks: Reduces target's ACC. <Data Link> 3 stacks: Removes target's Buffs."
+  },
+  "1002704092": {
+    "korean": "2라운드 동안 지정 아군의 공격력 / 치명타 / 행동력을 증가시킵니다. 대상이 로봇인 경우, 효과가 1.5배 증가합니다.",
+    "english": "Increases the designated ally's ATK, CRIT, and SPD for 2 rounds. If the target is a Robot, the effect is increased by 1.5×."
+  },
+  "1002703365": {
+    "korean": "지정 아군 공격력 / 치명타 / 행동력 증가. 로봇인 경우 효과 증가.",
+    "english": "Increases the designated ally's ATK, CRIT, and SPD. Effect is stronger on Robots."
+  },
+  "1002704093": {
+    "korean": "스쿼드에 다른 스파르탄 타입 기체가 있는 경우, 대상들을 지휘하며 공격을 지원해줍니다. 지휘를 받는 스파르탄들은 해제 불가한 공격력 증가 효과를 획득하고, 행동력이 증가하며 받는 피해가 감소합니다.",
+    "english": "If other Spartan-type units are in the squad, this unit commands them and supports their attacks. Commanded Spartans gain a non‑removable ATK increase, increased SPD, and reduced DMG Taken."
+  },
+  "1002703366": {
+    "korean": "다른 스파르탄 시리즈 공격 지원. 공격력 / 행동력 증가 / 받는 피해 감소",
+    "english": "Supports attacks of other Spartan series units. Increases ATK / SPD / reduces DMG Taken."
+  },
+  "1002707104": {
+    "korean": "라운드 개시 시, 데이터 링크를 통해 범위 내 아군의 치명타 확률을 증가시킵니다. <데이터 링크>는 최대 3중첩까지 가능합니다. 아군이 <어썰트 라이플> 스킬 사용 시 모든 <데이터 링크> 중첩을 소모하며, 치명타 시 중첩 수에 따라 추가 효과를 얻습니다. 단, 스파르탄 캡틴은 중첩을 소모하지 않습니다.",
+    "english": "At the start of the round, increases allies' CRIT chance within range via <Data Link>. <Data Link> can stack up to 3 times. When an ally uses the <Assault Rifle> skill, all <Data Link> stacks are consumed, and on a CRIT grants additional effects based on the number of stacks. Spartan Captain does not consume the stacks."
+  },
+  "1002707107": {
+    "korean": "매 라운드 지정 범위 아군 데이터 링크, 링크 수에 따라 치명타 증가 / 스킬 강화",
+    "english": "Each round, applies Data Link to allies within the designated range; CRIT increase and Skill Power boost based on the number of links."
+  },
+  "1000103220": {
+    "korean": "타겟 설정 : 표식",
+    "english": "Targeting : Marked"
+  },
+  "1000104535": {
+    "korean": "타겟 설정 : 회피 {0}%",
+    "english": "Targeting : EVA {0}%"
+  },
+  "1000103223": {
+    "korean": "타겟 설정 : 받는 피해{0}%",
+    "english": "Targeting : DMG Taken {0}%"
+  },
+  "1000108779": {
+    "korean": "데이터 링크 : 적중 {0}%",
+    "english": "Data Link : ACC {0}%"
+  },
+  "1000108782": {
+    "korean": "데이터 링크 : 강화 효과 해제",
+    "english": "Data Link : Buff Removal"
+  },
+  "1000103221": {
+    "korean": "목표 지시 : 공격력{0}%",
+    "english": "Target Directive : ATK {0}%"
+  },
+  "1000104536": {
+    "korean": "목표 지시 : 치명타{0}%",
+    "english": "Target Directive : CRIT {0}%"
+  },
+  "1000105094": {
+    "korean": "목표 지시 : 행동력{0}%",
+    "english": "Target Directive : SPD {0}%"
+  },
+  "1000103224": {
+    "korean": "목표 지시 : 공격력{0}% (로봇)",
+    "english": "Target Directive : ATK {0}% (Robot)"
+  },
+  "1000104537": {
+    "korean": "목표 지시 : 치명타{0}% (로봇)",
+    "english": "Target Directive : CRIT {0}% (Robot)"
+  },
+  "1000105095": {
+    "korean": "목표 지시 : 행동력{0}% (로봇)",
+    "english": "Target Directive : SPD {0}% (Robot)"
+  },
+  "1000103222": {
+    "korean": "스파르탄 포메이션 : 공격 지원",
+    "english": "Spartan Formation : Follow-Up Attack"
+  },
+  "1000103225": {
+    "korean": "스파르탄 포메이션 : 받는 피해 감소 {0}%",
+    "english": "Spartan Formation : DMG Reduction {0}%"
+  },
+  "1000103226": {
+    "korean": "스파르탄 포메이션 : 행동력{0}%",
+    "english": "Spartan Formation : SPD {0}%"
+  },
+  "1000108762": {
+    "korean": "데이터 링크 : 치명타{0}%",
+    "english": "Data Link : CRIT {0}%"
+  }
+}

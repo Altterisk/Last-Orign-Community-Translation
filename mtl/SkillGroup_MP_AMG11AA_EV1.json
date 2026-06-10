@@ -1,0 +1,98 @@
+{
+  "1002701652": {
+    "korean": "회피 견제 사격",
+    "english": "Evasion Suppressive Fire"
+  },
+  "1002701653": {
+    "korean": "대공 기총 난사",
+    "english": "Anti-Air Machine Gun Barrage"
+  },
+  "1002701654": {
+    "korean": "대공 레이더 시스템",
+    "english": "Anti-Air Radar System"
+  },
+  "1002705367": {
+    "korean": "대공망 감시",
+    "english": "Anti-Air Network Surveillance"
+  },
+  "1002700052": {
+    "korean": "화망 구축",
+    "english": "Fire Network Establishment"
+  },
+  "1002704179": {
+    "korean": "기총 사격으로 {0} 피해를 주고, 대상을 표식으로 설정해 회피를 낮추고 받는 피해를 증가시킵니다. 회피 감소 효과는 기동형에게 2배로 적용됩니다.",
+    "english": "Deals {0} damage with machine gun fire, marks the target to lower its EVA and increase DMG Taken. The EVA reduction effect is applied at 2× against Air units."
+  },
+  "1002704180": {
+    "korean": "기총을 난사해 {0} 피해를 주고, 대상들의 회피를 낮춥니다. 대상이 기동형인 경우 피해량이 증가하고, 회피 감소 효과가 2배로 적용되며 회피 증가 효과를 해제합니다.",
+    "english": "Fires a barrage of machine guns to deal {0} damage and lowers the targets' EVA. If the target is an Air unit, damage is increased, the EVA reduction effect is applied at 2×, and any EVA increase effect is removed."
+  },
+  "1002704181": {
+    "korean": "라운드 개시 시, 인접 아군의 적중 / 치명타 / 대 기동형 피해량을 증가시킵니다.",
+    "english": "At the start of the round, increases adjacent allies' ACC / CRIT / Anti-Air DMG."
+  },
+  "1002706226": {
+    "korean": "라운드 개시 시, 80%의 확률로 모든 기동형 적들의 회피율을 감소 시킵니다.",
+    "english": "At the start of the round, has an 80% chance to reduce the EVA of all Air enemies."
+  },
+  "1002706265": {
+    "korean": "아군이 사망 시, 더욱 견고히 화망을 구축하여 인접 아군의 공격력은 감소하지만 적중을 증가시킵니다.",
+    "english": "When an ally dies, fortify the Fire Network, reducing adjacent allies' ATK but increasing their ACC."
+  },
+  "1000106493": {
+    "korean": "대공망 감시 : 회피율 {0}% (기동형)",
+    "english": "Anti-Air Network Surveillance : EVA Rate {0}% (Air)"
+  },
+  "1000103443": {
+    "korean": "회피 견제 사격 : 표식 설정",
+    "english": "Evasive suppressive fire : Marks target"
+  },
+  "1000104631": {
+    "korean": "회피 견제 사격 : 받는 피해{0}%",
+    "english": "Evasive suppressive fire : DMG Taken {0}%"
+  },
+  "1000103447": {
+    "korean": "회피 견제 사격 : 회피 {0}%",
+    "english": "Evasive suppressive fire : EVA {0}%"
+  },
+  "1000106494": {
+    "korean": "회피 견제 사격 : 회피 {0}% (기동형)",
+    "english": "Evasive suppressive fire : EVA {0}% (Air)"
+  },
+  "1000106492": {
+    "korean": "대공 기총 난사 : 회피 {0}%",
+    "english": "Anti-aircraft machine gun fire : EVA {0}%"
+  },
+  "1000103449": {
+    "korean": "대공 기총 난사 : 피해량{0}% (기동형)",
+    "english": "Anti-aircraft machine gun fire : Additional DMG {0}% (Air)"
+  },
+  "1000107668": {
+    "korean": "대공 기총 난사 : 회피 증가 효과 해제 (기동형)",
+    "english": "Anti-aircraft machine gun fire : EVA Buff Removal (Air)"
+  },
+  "BuffDesc3_Effect_MP_AMG11AA_N_13": {
+    "korean": "대공 기총 난사 : 회피 {0}% (기동형)",
+    "english": "Anti-aircraft machine gun fire : EVA {0}% (Air)"
+  },
+  "1000103445": {
+    "korean": "대공 레이더 시스템 : 치명타{0}%",
+    "english": "Air defense radar system : CRIT {0}%"
+  },
+  "1000104632": {
+    "korean": "대공 레이더 시스템 : 적중{0}%",
+    "english": "Air defense radar system : ACC {0}%"
+  },
+  "1000105152": {
+    "korean": "대공 레이더 시스템 : 대 기동형 피해량{0}%",
+    "english": "Air defense radar system : Anti-Air DMG {0}%"
+  },
+  "1000106537": {
+    "korean": "화망 구축 : 공격력 {0}%",
+    "english": "Firenet Establishment : ATK {0}%"
+  },
+  "1000106560": {
+    "korean": "화망 구축 : 적중{0}%",
+    "english": "Firenet Establishment : ACC {0}%"
+  }
+}

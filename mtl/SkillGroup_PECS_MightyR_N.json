@@ -1,0 +1,178 @@
+{
+  "SkillName_Skill_PECS_MightyR_N_1": {
+    "korean": "바벨 강타",
+    "english": "Barbell Slam"
+  },
+  "SkillName_Skill_PECS_MightyR_N_2": {
+    "korean": "스프린트",
+    "english": "Sprint"
+  },
+  "SkillName_Skill_PECS_MightyR_N_3": {
+    "korean": "벌크 업",
+    "english": "Bulk Up"
+  },
+  "SkillName_Skill_PECS_MightyR_N_4": {
+    "korean": "퍼스널 트레이너",
+    "english": "Personal Trainer"
+  },
+  "SkillName_Skill_PECS_MightyR_N_5": {
+    "korean": "미스 올림피아",
+    "english": "Miss Olympia"
+  },
+  "SkillDesc_Skill_PECS_MightyR_N_1": {
+    "korean": "바벨로 강타해 {0} 피해를 줍니다. 벌크 업 상태면 피해량이 증가합니다.",
+    "english": "Strike with the barbell, dealing {0} damage. Damage is increased while in Bulk Up state."
+  },
+  "SkillDescSimple_Skill_PECS_MightyR_N_1": {
+    "korean": "단일 대상 {0} 피해. <벌크 업> 상태인 경,우 피해량 증가.",
+    "english": "Single target {0} damage. Damage increased while in <Bulk Up> state."
+  },
+  "SkillDesc_Skill_PECS_MightyR_N_2": {
+    "korean": "목표에 돌격하여 {0} 보호 무시 피해를 주고 대상 뒷 열에 25% 감소한 피해를 줍니다. &n<벌크 업> 상태인 경우 피해량이 증가하고 대상의 AP를 감소시킵니다.",
+    "english": "Charge the target, dealing {0} Ignore Protection damage, and deal damage to enemies in the back row at 25% reduced damage. If in <Bulk Up> state, damage is increased and the target's AP is reduced."
+  },
+  "SkillDescSimple_Skill_PECS_MightyR_N_2": {
+    "korean": "목표 대상 {0} 보호 무시 피해. <벌크 업> 상태인 경우, 피해량 증가 / AP 감소",
+    "english": "Target {0} Ignore Protection damage. If in <Bulk Up> state, damage increased / AP reduced"
+  },
+  "SkillDesc_Skill_PECS_MightyR_N_3": {
+    "korean": "공격 시, 영구적으로 <벌크 업> 상태가 되어 자신의 공격력 / 행동력이 증가합니다. (최대 3스택)&n라운드 개시 시, <벌크 업> 스택이 최대치인 경우, <초 펌핑 업> 상태가 되어 각 스킬이 강화되고 <벌크 업> 기본 효과를 아군 바이오로이드에게도 적용합니다.&n5인 스쿼드로 전투 개시 시, 즉시 <초 펌핑 업> 상태를 획득합니다.",
+    "english": "When attacking, permanently gain <Bulk Up> state, increasing your ATK and SPD (up to 3 stacks). At the start of the round, if <Bulk Up> stacks are at maximum, become <Super Pumping Up>, enhancing each skill and applying the basic effects of <Bulk Up> to allied Bioroids. When combat starts with a 5‑member squad, immediately gain <Super Pumping Up>."
+  },
+  "SkillDescSimple_Skill_PECS_MightyR_N_3": {
+    "korean": "공격 시 자신 공격력 / 행동력 증가. 스택 최대치 도달 시, 스킬 강화.",
+    "english": "Increase own ATK / SPD when attacking. When stacks reach maximum, skill is enhanced."
+  },
+  "SkillDesc_Skill_PECS_MightyR_N_4": {
+    "korean": "라운드 개시 시, 아군 바이오로이드의 경험치 획득량이 증가합니다. 자신의 <벌크 업> 스택에 비례하여 경험치 획득량이 추가로 증가합니다.&n라운드 개시 시, <벌크 업> 효과를 받는 아군에게 방어 관통 / 방어력 증가 효과를 부여합니다.",
+    "english": "At the start of the round, increase allied Bioroids' EXP gain. EXP gain further increases proportionally to your <Bulk Up> stacks. At the start of the round, grant allies affected by <Bulk Up> DEF Penetration / DEF increase effects."
+  },
+  "SkillDescSimple_Skill_PECS_MightyR_N_4": {
+    "korean": "아군 획득 경험치 증가. 아군 방어 관통 / 방어력 증가.",
+    "english": "Increase allied EXP gained. Increase allied DEF Penetration / DEF."
+  },
+  "SkillDesc_Skill_PECS_MightyR_N_5": {
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가합니다.&n라운드 개시 시, 자신에게 공격 지원 효과가 적용된 경우 <퍼스널 트레이너>의 방어 관통 / 방어력 증가 효과를 50% 증폭시킵니다.&n자신에게 적용된 공격 지원 효과는 발동하지 않습니다.&n<벌크 업> / <퍼스널 트레이너> 효과가 아군 AGS에도 영향을 미칩니다.",
+    "english": "At the start of the round, increase your Status Resist. At the start of the round, if you have a Follow-Up Attack effect applied, amplify <Personal Trainer>'s DEF Penetration / DEF increase effects by 50%. The Follow-Up Attack effect applied to you does not activate. <Bulk Up> / <Personal Trainer> effects also affect allied AGS units."
+  },
+  "SkillDescSimple_Skill_PECS_MightyR_N_5": {
+    "korean": "자신 효과 저항 증가. 아군 AGS에게도 자신의 패시브 효과 부여.",
+    "english": "Increase own Status Resist. Grant your passive effect to allied AGS units as well."
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_32": {
+    "korean": "드라이 아웃 : 스킬 강화",
+    "english": "Dry Out : Skill Enhancement"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_34": {
+    "korean": "워밍 업 종료",
+    "english": "Warming Up Complete"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_CH_34": {
+    "korean": "워밍 업 종료",
+    "english": "Warming Up Complete"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_33": {
+    "korean": "드라이 아웃 : 스킬 강화",
+    "english": "Dry Out : Skill Enhancement"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_N_5": {
+    "korean": "인공근육도 근육 : AGS 트레이닝",
+    "english": "Even Artificial Muscles Need Training: AGS Training"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_52": {
+    "korean": "여러분 덕이에요!",
+    "english": "Thanks to You All!"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_1": {
+    "korean": "바벨 강타 : 피해량 {0}%",
+    "english": "Babel Slam : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_2": {
+    "korean": "스프린트 : AP {0}",
+    "english": "Sprint : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_N_2": {
+    "korean": "스프린트 : 피해량 {0}%",
+    "english": "Sprint : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_3": {
+    "korean": "벌크 업 : 공격력 {0}%",
+    "english": "Bulk Up : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_N_3": {
+    "korean": "벌크 업 : 행동력 {0}%",
+    "english": "Bulk Up : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_31": {
+    "korean": "벌크 업 : 행동력 {0}%",
+    "english": "Bulk Up : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_34": {
+    "korean": "기를 모으는 중… : 공격력 {0}%",
+    "english": "Gathering Energy… : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_N_34": {
+    "korean": "기를 모으는 중... : 행동력 {0}%",
+    "english": "Gathering Energy… : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_4": {
+    "korean": "PT : 획득 경험치 {0}% 증가",
+    "english": "PT : EXP {0}% Increase"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_N_4": {
+    "korean": "PT : 획득 경험치 {0}% 증가 (스택당)",
+    "english": "PT : EXP {0}% Increase (per stack)"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_41": {
+    "korean": "PT : 획득 경험치 {0}% 증가",
+    "english": "PT : EXP {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_42": {
+    "korean": "PT : 획득 경험치 {0}% 증가",
+    "english": "PT : EXP {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_43": {
+    "korean": "PT : 획득 경험치 {0}% 증가",
+    "english": "PT : EXP {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_44": {
+    "korean": "PT : 방어 관통 {0}%",
+    "english": "PT : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_N_44": {
+    "korean": "PT : 방어력 {0}%",
+    "english": "PT : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_5": {
+    "korean": "미스 올림피아 : 효과 저항 {0}% 증가",
+    "english": "Miss Olympia : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_51": {
+    "korean": "한 세트 더 : 방어 관통 {0}%",
+    "english": "One More Set : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_N_51": {
+    "korean": "한 세트 더 : 방어력 {0}%",
+    "english": "One More Set : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_53": {
+    "korean": "PT : 획득 경험치 {0}% 증가",
+    "english": "PT : EXP {0}% Increase"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_N_53": {
+    "korean": "PT : 획득 경험치 {0}% 증가 (스택당)",
+    "english": "PT : EXP {0}% Increase (per stack)"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_54": {
+    "korean": "PT : 획득 경험치 {0}% 증가",
+    "english": "PT : EXP {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_55": {
+    "korean": "PT : 획득 경험치 {0}% 증가",
+    "english": "PT : EXP {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_N_56": {
+    "korean": "PT : 획득 경험치 {0}% 증가",
+    "english": "PT : EXP {0}% Increase"
+  }
+}

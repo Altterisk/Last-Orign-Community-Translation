@@ -1,0 +1,242 @@
+{
+  "SkillName_Skill_PECS_Sonia_N_1": {
+    "korean": "HEDP",
+    "english": "HEDP"
+  },
+  "SkillName_Skill_PECS_Sonia_N_2": {
+    "korean": "빗발치는 정의",
+    "english": "Rain of Justice"
+  },
+  "SkillName_Skill_PECS_Sonia_N_3": {
+    "korean": "서늘한 감각",
+    "english": "Chilling Sensation"
+  },
+  "SkillName_Skill_PECS_Sonia_N_4": {
+    "korean": "게으른 완벽주의자",
+    "english": "Lazy Perfectionist"
+  },
+  "SkillName_Skill_PECS_Sonia_N_5": {
+    "korean": "체포하겠어!",
+    "english": "You're Under Arrest!"
+  },
+  "SkillDesc_Skill_PECS_Sonia_N_1": {
+    "korean": "지정 범위 내 적에게 유탄을 발사하여 {0} 피해를 줍니다. 대상의 방어력 일부를 무시합니다.&n적중 시, 대상이 침수 상태인 경우 침수로 인한 화염 저항 증가 효과를 해제하고 3라운드 동안 효과 저항을 감소시킵니다.&n대상이 경장형일 경우 피해량이 증가합니다.",
+    "english": "Fires a grenade at enemies within the designated area, dealing {0} Additional DMG and ignoring Protection. On hit, if the target is Soaked, removes the Fire Resist increase from Soaking and reduces Status Resist for 3 rounds. Damage is increased against Light targets."
+  },
+  "SkillDescSimple_Skill_PECS_Sonia_N_1": {
+    "korean": "지정 범위 {0} 피해. 침수에 의한 화염 저항 증가 해제, 효과 저항 감소. 경장형 대상 피해량 증가.",
+    "english": "{0} Additional DMG / Removes Fire Resist increase from Soaked / Reduces Status Resist / Increased damage to Light targets"
+  },
+  "SkillDesc_Skill_PECS_Sonia_N_2": {
+    "korean": "양손으로 각각 MGL을 쥐고 지정 범위 내 적에게 열압력탄을 난사하여 보호 무시 {0} 화염 피해를 줍니다. 치명타 시, 피해량이 증가합니다.&n적중 여부에 관계없이 2라운드 동안 대상의 회피를 감소시키고, 적중 시 추가로 대상의 공격력을 감소시킵니다.&n스쿼드 내에 <징벌의 사디어스>가 있을 시, 지정 대상에게 <일렉트릭 펜스> 스킬 협동 공격을 합니다.",
+    "english": "Wields an MGL in each hand and sprays thermobaric rounds at enemies within the designated area, dealing {0} Fire Damage that ignores Protection. Damage is increased on CRIT. Reduces the target's EVA for 2 rounds regardless of hit, and additionally reduces the target's ATK on hit. If <Sadius of Retribution> is in the squad, performs a cooperative <Electric Fence> attack on the designated target."
+  },
+  "SkillDescSimple_Skill_PECS_Sonia_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 화염 피해. 회피 / 공격력 감소. <일렉트릭 펜스> 협동 공격.",
+    "english": "{0} Fire Damage / Ignore Protection / Reduces EVA / Reduces ATK / <Electric Fence> Cooperative Attack"
+  },
+  "SkillDesc_Skill_PECS_Sonia_N_3": {
+    "korean": "적 사망 시, 범위 내 아군에게 3라운드 동안 공격력 증가 효과를 부여합니다. 자신은 공격력 증가 효과가 두 배로 증가합니다. (최대 3중첩)&n웨이브 종료 시, 범위 내 아군에게 <정찰> 효과를 부여합니다.&n라운드 개시 시, <정찰> 상태인 범위 내 아군에게 1라운드 동안 적중 / 치명타 증가 효과를 부여합니다.",
+    "english": "When an enemy dies, grants ATK increase to allies within the range for 3 rounds. The self receives double the ATK increase (up to 3 stacks). At the end of the wave, grants <Recon> to allies within the range. At the start of the round, allies in <Recon> gain increased ACC and CRIT for 1 round."
+  },
+  "SkillDescSimple_Skill_PECS_Sonia_N_3": {
+    "korean": "적 사망 시, 자신과 아군 공격력 증가. 웨이브 종료 시, 정찰 활성화. 정찰 활성화 아군 적중 / 치명타 증가.",
+    "english": "On enemy death, ATK increase for self and allies. Wave end: Recon activation. Recon allies gain ACC / CRIT increase."
+  },
+  "SkillDesc_Skill_PECS_Sonia_N_4": {
+    "korean": "전투 개시 시, 적 개체 수가 6 이상일 경우 자신의 AP가 증가하고 영구적으로 공격력이 증가합니다.&n라운드 개시 시, 적 개체 수에 비례하여 자신의 행동력이 증가합니다.",
+    "english": "At battle start, if the number of enemy units is 6 or more, increases own AP and permanently increases ATK. At round start, increases own SPD proportionally to the number of enemies."
+  },
+  "SkillDescSimple_Skill_PECS_Sonia_N_4": {
+    "korean": "적 개체 수가 6 이상인 경우 자신 AP / 공격력 증가. 적 개체 수 비례 자신 행동력 증가.",
+    "english": "AP increase / ATK increase. SPD increase proportional to enemy count."
+  },
+  "SkillDesc_Skill_PECS_Sonia_N_5": {
+    "korean": "라운드 개시 시, 반격 상태인 적의 공격력 / 치명타를 감소시킵니다.&n라운드 개시 시, 이동 불가 상태인 적의 효과 저항을 감소시킵니다.&n라운드 개시 시, 행동 불능 상태인 적의 받는 피해를 증가시킵니다.",
+    "english": "At the start of the round, reduces ATK and CRIT of enemies in Counter Attack status. At the start of the round, reduces Status Resist of Rooted enemies. At the start of the round, increases DMG Taken of Stunned enemies."
+  },
+  "SkillDescSimple_Skill_PECS_Sonia_N_5": {
+    "korean": "조건부 적 공격력 / 치명타 / 효과 저항 감소, 받는 피해 증가.",
+    "english": "Conditional enemy ATK / CRIT / Status Resist reduction, DMG Taken increase."
+  },
+  "BuffDesc4_Effect_PECS_Sonia_N_1": {
+    "korean": "HEDP : 침수로 인한 화염 저항 증가 해제",
+    "english": "HEDP : Removes increased Fire Resist from Soaked"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_12": {
+    "korean": "HEDP : 침수로 인한 화염 저항 증가 해제",
+    "english": "HEDP : Removes increased Fire Resist from Soaked"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_13": {
+    "korean": "HEDP : 침수로 인한 화염 저항 증가 해제",
+    "english": "HEDP : Removes increased Fire Resist from Soaked"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_14": {
+    "korean": "HEDP : 침수로 인한 화염 저항 증가 해제",
+    "english": "HEDP : Removes increased Fire Resist from Soaked"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_15": {
+    "korean": "HEDP : 침수로 인한 화염 저항 증가 해제",
+    "english": "HEDP : Removes increased Fire Resist from Soaked"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_16": {
+    "korean": "HEDP : 침수로 인한 화염 저항 증가 해제",
+    "english": "HEDP : Removes increased Fire Resist from Soaked"
+  },
+  "BuffDesc4_Effect_PECS_Sonia_N_2": {
+    "korean": "빗발치는 정의 : <일렉트릭 펜스> 협동 공격",
+    "english": "Rain of Justice : <Electric Fence> Cooperative Attack"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_1": {
+    "korean": "HEDP : 방어 관통 {0}%",
+    "english": "HEDP : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Sonia_N_1": {
+    "korean": "HEDP : 대 경장형 피해량 {0}%",
+    "english": "HEDP : Anti-Light DMG {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Sonia_N_1": {
+    "korean": "HEDP : 효과 저항 {0}% 감소",
+    "english": "HEDP : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_11": {
+    "korean": "HEDP : 효과 저항 {0}% 감소",
+    "english": "HEDP : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_2": {
+    "korean": "빗발치는 정의 : 피해량 {0}% (화염)",
+    "english": "Torrential Justice : Additional DMG {0}% (Fire)"
+  },
+  "BuffDesc2_Effect_PECS_Sonia_N_2": {
+    "korean": "빗발치는 정의 : 회피 {0}%",
+    "english": "Torrential Justice : EVA {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Sonia_N_2": {
+    "korean": "빗발치는 정의 : 공격력 {0}%",
+    "english": "Torrential Justice : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_21": {
+    "korean": "빗발치는 정의 : 회피 {0}%",
+    "english": "Torrential Justice : EVA {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_22": {
+    "korean": "빗발치는 정의 : 공격력 {0}%",
+    "english": "Torrential Justice : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_23": {
+    "korean": "빗발치는 정의 : 협동 공격",
+    "english": "Torrential Justice : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_3": {
+    "korean": "서늘한 감각 : 공격력 {0}",
+    "english": "Chilling Sensation : ATK {0}"
+  },
+  "BuffDesc2_Effect_PECS_Sonia_N_3": {
+    "korean": "서늘한 감각 : 정찰 활성화",
+    "english": "Chilling Sensation : Activate Recon Effect"
+  },
+  "BuffDesc3_Effect_PECS_Sonia_N_3": {
+    "korean": "서늘한 감각 : 적중 {0}%",
+    "english": "Chilling Sensation : ACC {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Sonia_N_3": {
+    "korean": "서늘한 감각 : 치명타 {0}%",
+    "english": "Chilling Sensation : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_31": {
+    "korean": "서늘한 감각 : 공격력 {0}",
+    "english": "Chilling Sensation : ATK {0}"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_32": {
+    "korean": "서늘한 감각 : 정찰 활성화",
+    "english": "Chilling Sensation : Activate Recon Effect"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_33": {
+    "korean": "서늘한 감각 : 적중 {0}%",
+    "english": "Chilling Sensation : ACC {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Sonia_N_33": {
+    "korean": "서늘한 감각 : 치명타 {0}%",
+    "english": "Chilling Sensation : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_4": {
+    "korean": "게으른 완벽주의자 : AP {0}",
+    "english": "Lazy Perfectionist : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_Sonia_N_4": {
+    "korean": "게으른 완벽주의자 : 공격력 {0}%",
+    "english": "Lazy Perfectionist : ATK {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Sonia_N_4": {
+    "korean": "게으른 완벽주의자 : 행동력 {0}% (최소)",
+    "english": "Lazy Perfectionist : SPD {0}% (Min)"
+  },
+  "BuffDesc4_Effect_PECS_Sonia_N_4": {
+    "korean": "게으른 완벽주의자 : 행동력 {0}% (최대)",
+    "english": "Lazy Perfectionist : SPD {0}% (Max)"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_41": {
+    "korean": "게으른 완벽주의자 : 공격력 {0}%",
+    "english": "Lazy Perfectionist : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_42": {
+    "korean": "게으른 완벽주의자 : 행동력 {0}%",
+    "english": "Lazy Perfectionist : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_43": {
+    "korean": "게으른 완벽주의자 : 행동력 {0}%",
+    "english": "Lazy Perfectionist : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_44": {
+    "korean": "게으른 완벽주의자 : 행동력 {0}%",
+    "english": "Lazy Perfectionist : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_45": {
+    "korean": "게으른 완벽주의자 : 행동력 {0}%",
+    "english": "Lazy Perfectionist : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_46": {
+    "korean": "게으른 완벽주의자 : 행동력 {0}%",
+    "english": "Lazy Perfectionist : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_47": {
+    "korean": "게으른 완벽주의자 : 행동력 {0}%",
+    "english": "Lazy Perfectionist : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_48": {
+    "korean": "게으른 완벽주의자 : 행동력 {0}%",
+    "english": "Lazy Perfectionist : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_49": {
+    "korean": "게으른 완벽주의자 : 행동력 {0}%",
+    "english": "Lazy Perfectionist : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_410": {
+    "korean": "게으른 완벽주의자 : 행동력 {0}%",
+    "english": "Lazy Perfectionist : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_5": {
+    "korean": "저항은 무의미하다 : 공격력 {0}%",
+    "english": "Resistance Is Futile : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Sonia_N_5": {
+    "korean": "날뛰어도 소용없다 : 치명타 {0}%",
+    "english": "Struggling Is Futile : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Sonia_N_5": {
+    "korean": "순순히 투항하라 : 효과 저항 {0}% 감소",
+    "english": "Surrender Peacefully : Status Resist {0}% Decrease"
+  },
+  "BuffDesc4_Effect_PECS_Sonia_N_5": {
+    "korean": "변호사 선임은 없다 : 받는 피해 {0}% 증가",
+    "english": "No Attorney Will Be Appointed : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_51": {
+    "korean": "순순히 투항하라 : 효과 저항 {0}% 감소",
+    "english": "Surrender Peacefully : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_PECS_Sonia_N_52": {
+    "korean": "변호사 선임은 없다 : 받는 피해 {0}% 증가",
+    "english": "No Attorney Will Be Appointed : DMG Taken Increased {0}%"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "SkillName_Skill_DS_BunnySlayer_N_1": {
+    "korean": "바니 난무!",
+    "english": "Bunny Rampage!"
+  },
+  "SkillName_Skill_DS_BunnySlayer_N_2": {
+    "korean": "바니 파멸킥!",
+    "english": "Bunny Annihilation Kick!"
+  },
+  "SkillName_Skill_DS_BunnySlayer_N_3": {
+    "korean": "바니바니!",
+    "english": "Bunny Bunny!"
+  },
+  "SkillName_Skill_DS_BunnySlayer_N_4": {
+    "korean": "바니-살해술",
+    "english": "Bunny Execution"
+  },
+  "SkillName_Skill_DS_BunnySlayer_N_5": {
+    "korean": "타오르는 바니의 혼",
+    "english": "Burning Bunny Spirit"
+  },
+  "SkillDesc_Skill_DS_BunnySlayer_N_1": {
+    "korean": "당근 칼리버를 휘둘러 적에게 {0} 보호 무시 피해를 줍니다. 적중 대상을 도발하고, 받는 피해 증가 / 공격력 감소 효과를 적용합니다.&n적중 여부와 관계 없이 자신과 대상에게 반격 / 사거리 증가 효과를 적용합니다. 해당 효과는 반격 후 사라집니다.",
+    "english": "Swing the Carrot Caliber, dealing {0} damage that ignores Protection to the target. Provokes the hit target and applies DMG Taken Increased / ATK Reduction. Regardless of hit, applies Counter Attack / Range Increase to yourself and the target. These effects disappear after the Counter Attack."
+  },
+  "SkillDescSimple_Skill_DS_BunnySlayer_N_1": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 도발 / 받는 피해 증가 / 공격력 감소. 자신과 대상에게 반격 / 사거리 증가 부여.",
+    "english": "Single target {0} damage that ignores Protection. Provokes / DMG Taken Increased / ATK Reduction. Grants Counter Attack / Range Increase to self and target."
+  },
+  "SkillDesc_Skill_DS_BunnySlayer_N_2": {
+    "korean": "혼신의 힘을 담은 발차기로 지정 범위의 적에게 {0} 피해를 줍니다. 바니! 중첩당 <바니 파멸킥!>의 사거리 / 피해량이 증가합니다. 바니! 스택이 3중첩인 경우, 적중 대상의 강화 효과를 해제합니다.",
+    "english": "Kick infused with all your might deals {0} damage to enemies in the designated range. For each Bunny! stack, <Bunny Annihilation Kick!>'s Range and damage increase. When Bunny! reaches 3 stacks, removes the target's buff effects."
+  },
+  "SkillDescSimple_Skill_DS_BunnySlayer_N_2": {
+    "korean": "지정 범위 {0} 피해. 바니! 스택 수에 따라 사거리 / 피해량 증가. 최대 중첩 시 적중 대상 강화 효과 해제.",
+    "english": "Designated range {0} damage. Range / damage increase based on Bunny! stack count. At maximum stacks, removes the target's buff effects."
+  },
+  "SkillDesc_Skill_DS_BunnySlayer_N_3": {
+    "korean": "라운드 개시 시, 바니! 스택이 없는 경우 AP가 증가합니다. 또한 바니! 스택이 3중첩이 아닌 경우, 행동 횟수가 1회 증가합니다.&n공격 적중 시, 바니! 스택이 최대 3중첩까지 쌓입니다. 중첩별 자신은 공격력이 증가하고 추가로 라운드 개시 시 다음 효과를 획득합니다.&n1중첩 : 공격력 증가&n2중첩 : 방어막/피해 감소 무시&n3중첩 : 강화 해제 저항",
+    "english": "At round start, if you have no Bunny! stacks, AP increases. Also, if Bunny! is not at 3 stacks, action count increases by 1. When an attack hits, Bunny! stacks up to 3. For each stack, you gain increased ATK, and additionally at round start you gain the following effects: 1 stack: ATK Increase; 2 stacks: Ignore Barrier / DMG Reduction; 3 stacks: Buff Removal Resistance."
+  },
+  "SkillDescSimple_Skill_DS_BunnySlayer_N_3": {
+    "korean": "공격 적중 시, 바니! 스택 누적. 스택에 따른 자신 강화.",
+    "english": "When an attack hits, Bunny! stacks accumulate. Self-buffs based on stacks."
+  },
+  "SkillDesc_Skill_DS_BunnySlayer_N_4": {
+    "korean": "피격 시, 반격 / 공격지원 / 도발 효과가 적용된 적 개체가 존재할 경우, 대상의 행 / 열 / 지정 보호 효과를 해제합니다.&n라운드 개시 시, 자신은 해제 불가의 받는 피해 감소 효과를 획득합니다. 해당 효과는 적이 많을수록 효과가 증가합니다.",
+    "english": "When hit, if there is an enemy entity with Counter Attack / Attack Support / Provoked effect applied, remove the target's Row Protect / Column Protect / Target Protect effects. At round start, you gain an irreversible DMG Reduction effect. This effect scales with the number of enemies."
+  },
+  "SkillDescSimple_Skill_DS_BunnySlayer_N_4": {
+    "korean": "피격 시, 특정 조건 적 보호 효과 해제. 적 개체 수 비례하여 자신 받는 피해 감소.",
+    "english": "When hit, removes certain conditional protection effects. DMG Reduction scales with enemy count."
+  },
+  "SkillDesc_Skill_DS_BunnySlayer_N_5": {
+    "korean": "공격 받을 시, 2라운드 동안 적중 / 행동력 증가 효과를 획득합니다.&n라운드 개시 시, 자신이 해당 효과를 획득한 상태인 경우 범위 내 아군에게 1라운드 동안 적중 / 행동력 증가 효과를 부여합니다.&n스킬 레벨 10에서 자신의 위치와 관계없이 아군 전체 적용됩니다.",
+    "english": "When attacked, gain ACC Increase / SPD Increase for 2 rounds. At round start, if you have this effect, grant ACC Increase / SPD Increase to allies within range for 1 round. At skill level 10, applies to all allies regardless of position."
+  },
+  "SkillDescSimple_Skill_DS_BunnySlayer_N_5": {
+    "korean": "공격 받을 시, 자신 / 아군 강화.",
+    "english": "When attacked, strengthens self / allies."
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_1": {
+    "korean": "바니 난무! : 대상 도발 (니바)",
+    "english": "Bunny Rampage! : Provokes target (NiBA)"
+  },
+  "BuffDesc2_Effect_DS_BunnySlayer_N_11": {
+    "korean": "바니 난무! 사거리 {0} 증가",
+    "english": "Bunny Rampage! : Range +{0}"
+  },
+  "BuffDesc2_Effect_DS_BunnySlayer_N_12": {
+    "korean": "바니 난무! 사거리 {0} 증가",
+    "english": "Bunny Rampage! : Range +{0}"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_37": {
+    "korean": "바니 파멸킥! 사거리 {0} 증가 (1중첩)",
+    "english": "Bunny Annihilation Kick! : Range +{0} (1 stack)"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_38": {
+    "korean": "바니 파멸킥! 사거리 {0} 증가 (2중첩)",
+    "english": "Bunny Annihilation Kick! : Range +{0} (2 stacks)"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_39": {
+    "korean": "바니 파멸킥! 사거리 {0} 증가 (3중첩)",
+    "english": "Bunny Annihilation Kick! : Range +{0} (3 stacks)"
+  },
+  "BuffDesc2_Effect_DS_BunnySlayer_N_1": {
+    "korean": "바니 난무! : 받는 피해 증가 {0}%",
+    "english": "Bunny Slam! : DMG Taken Increased {0}%"
+  },
+  "BuffDesc3_Effect_DS_BunnySlayer_N_1": {
+    "korean": "바니 난무! : 공격력 {0}%",
+    "english": "Bunny Slam! : ATK {0}%"
+  },
+  "BuffDesc4_Effect_DS_BunnySlayer_N_1": {
+    "korean": "바니 난무! : {0}% 위력으로 반격 (자신)",
+    "english": "Bunny Slam! : Counter Attack with {0}% Power (Self)"
+  },
+  "BuffDesc5_Effect_DS_BunnySlayer_N_1": {
+    "korean": "바니 난무! : {0}% 위력으로 반격 (적)",
+    "english": "Bunny Slam! : Counter Attack with {0}% Power (Enemy)"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_11": {
+    "korean": "바니 난무! : {0}% 위력으로 반격",
+    "english": "Bunny Slam! : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_12": {
+    "korean": "바니 난무! : {0}% 위력으로 반격",
+    "english": "Bunny Slam! : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_2": {
+    "korean": "바니 파멸킥! : 강화 효과 해제",
+    "english": "Bunny Destruction Kick! : Buff Removal"
+  },
+  "BuffDesc2_Effect_DS_BunnySlayer_N_2": {
+    "korean": "바니 파멸킥! : 피해량 {0}% (중첩당)",
+    "english": "Bunny Destruction Kick! : Additional DMG {0}% (Per Stack)"
+  },
+  "BuffDesc3_Effect_DS_BunnySlayer_N_2": {
+    "korean": "바니 파멸킥! : 사거리 {0} 증가 (중첩당)",
+    "english": "Bunny Destruction Kick! : Range {0} Increase (Per Stack)"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_21": {
+    "korean": "바니 파멸킥! : 피해량 {0}%",
+    "english": "Bunny Destruction Kick! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_22": {
+    "korean": "바니 파멸킥! : 피해량 {0}%",
+    "english": "Bunny Destruction Kick! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_23": {
+    "korean": "바니 파멸킥! : 피해량 {0}%",
+    "english": "Bunny Destruction Kick! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_3": {
+    "korean": "바니! : AP {0}",
+    "english": "Bunny! : AP {0}"
+  },
+  "BuffDesc2_Effect_DS_BunnySlayer_N_3": {
+    "korean": "바니! : 최대 행동 횟수 {0}",
+    "english": "Bunny! : Max Action {0}"
+  },
+  "BuffDesc3_Effect_DS_BunnySlayer_N_3": {
+    "korean": "바니바니! : 공격력 {0}% (최대)",
+    "english": "Bunny bunny! : ATK {0}% (Max)"
+  },
+  "BuffDesc4_Effect_DS_BunnySlayer_N_3": {
+    "korean": "바니바니! : 방어막/피해 감소 무시 (2중첩)",
+    "english": "Bunny bunny! : Barrier / Ignore Barrier / DMG Reduction (2 stacks)"
+  },
+  "BuffDesc5_Effect_DS_BunnySlayer_N_3": {
+    "korean": "바니바니바니! : 강화 해제 저항 {0}% (3중첩)",
+    "english": "Bunny Bunny Bunny! : Buff Removal Resist {0}% (3 stacks)"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_31": {
+    "korean": "바니! : 공격력 {0}%",
+    "english": "Bunny! : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_41": {
+    "korean": "바니-살해술 : 받는 피해 {0}% 감소",
+    "english": "Bunny-murder technique : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_42": {
+    "korean": "바니-살해술 : 받는 피해 {0}% 감소",
+    "english": "Bunny-murder technique : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_43": {
+    "korean": "바니-살해술 : 받는 피해 {0}% 감소",
+    "english": "Bunny-murder technique : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_44": {
+    "korean": "바니-살해술 : 받는 피해 {0}% 감소",
+    "english": "Bunny-murder technique : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_45": {
+    "korean": "바니-살해술 : 받는 피해 {0}% 감소",
+    "english": "Bunny-murder technique : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_46": {
+    "korean": "바니-살해술 : 받는 피해 {0}% 감소",
+    "english": "Bunny-murder technique : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_47": {
+    "korean": "바니-살해술 : 받는 피해 {0}% 감소",
+    "english": "Bunny-murder technique : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_48": {
+    "korean": "바니-살해술 : 받는 피해 {0}% 감소",
+    "english": "Bunny-murder technique : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_49": {
+    "korean": "바니-살해술 : 받는 피해 {0}% 감소",
+    "english": "Bunny-murder technique : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_4": {
+    "korean": "바니-살해술 : 행 보호 해제",
+    "english": "Bunny-murder technique : Row Protect Removal"
+  },
+  "BuffDesc2_Effect_DS_BunnySlayer_N_4": {
+    "korean": "바니-살해술 : 열 보호 해제",
+    "english": "Bunny-murder technique : Column Protect Removal"
+  },
+  "BuffDesc3_Effect_DS_BunnySlayer_N_4": {
+    "korean": "바니-살해술 : 지정 보호 해제",
+    "english": "Bunny-murder technique : Target Protect Removal"
+  },
+  "BuffDesc4_Effect_DS_BunnySlayer_N_4": {
+    "korean": "바니-살해술 : 받는 피해 {0}% 감소 (최소)",
+    "english": "Bunny-murder technique : DMG Reduction (Min)"
+  },
+  "BuffDesc5_Effect_DS_BunnySlayer_N_4": {
+    "korean": "바니-살해술 : 받는 피해 {0}% 감소 (최대)",
+    "english": "Bunny-murder technique : DMG Reduction {0}% (Max)"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_5": {
+    "korean": "타오르는 바니의 혼 : 적중 {0}%",
+    "english": "Burning Spirit of Bunny : ACC {0}%"
+  },
+  "BuffDesc2_Effect_DS_BunnySlayer_N_5": {
+    "korean": "타오르는 바니의 혼 : 행동력 {0}%",
+    "english": "Burning Spirit of Bunny : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_51": {
+    "korean": "타오르는 바니의 혼 : 적중 {0}%",
+    "english": "Burning Spirit of Bunny : ACC {0}%"
+  },
+  "BuffDesc2_Effect_DS_BunnySlayer_N_51": {
+    "korean": "타오르는 바니의 혼 : 행동력 {0}%",
+    "english": "Burning Spirit of Bunny : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_32": {
+    "korean": "바니! : 공격력 {0}% (1중첩)",
+    "english": "Bunny! : ATK {0}% (1 stacks)"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_33": {
+    "korean": "바니바니! : 방어막/피해 감소 무시 (2중첩)",
+    "english": "Bunny bunny! : Barrier / Ignore Barrier / DMG Reduction (2 stacks)"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_35": {
+    "korean": "바니바니바니! : 강화 해제 저항 {0}% (3중첩)",
+    "english": "Bunny Bunny Bunny! : Buff Removal Resist {0}% (3 stacks)"
+  },
+  "BuffDesc1_Effect_DS_BunnySlayer_N_36": {
+    "korean": "바니! : 최대 행동 횟수 {0}",
+    "english": "Bunny! : Max Action {0}"
+  }
+}

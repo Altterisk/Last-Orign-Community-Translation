@@ -1,0 +1,250 @@
+{
+  "SkillName_Skill_ST_Mercury_N_1": {
+    "korean": "아르고스의 눈",
+    "english": "Eye of Argos"
+  },
+  "SkillName_Skill_ST_Mercury_N_2": {
+    "korean": "최상의 시간",
+    "english": "Prime Time"
+  },
+  "SkillName_Skill_ST_Mercury_N_3": {
+    "korean": "탈라리아",
+    "english": "Talaria"
+  },
+  "SkillName_Skill_ST_Mercury_N_4": {
+    "korean": "택틱 링크스",
+    "english": "Tactical Links"
+  },
+  "SkillName_Skill_ST_Mercury_N_5": {
+    "korean": "콧대 꺾기",
+    "english": "Snub Nose"
+  },
+  "SkillDesc_Skill_ST_Mercury_N_1": {
+    "korean": "지정 범위의 적에게 MAV를 사출하여 {0} 보호 무시 피해를 주고, 적중 여부와 관계없이 대상의 이로운 회피 증가 효과를 해제합니다.&n적중 시, 2라운드 동안 대상의 적중 / 회피를 감소시키고, 대상이 <콧대 꺾기> 효과가 적용중인 경우 추가로 받는 피해 감소 효과를 해제합니다.&n스쿼드 내에 <X-02 우르>가 있는 경우, <전방위 사격> 또는 <리플렉트 샷> 협동 공격을 유도합니다.&nMAV 사출량을 엄격하게 제한하는 머큐리는 어떠한 상황에서도 반격을 하지 않습니다.",
+    "english": "Fires MAVs at enemies in the designated area, dealing {0} Ignore Protection Damage and removing any beneficial EVA increase effects regardless of hit. On hit, reduces the target's ACC and EVA for 2 rounds, and if the target is under the <Snub Nose> effect, also removes its DMG Reduction effect. If an <X-02 Ullr> is in the squad, triggers a <Omni Shot> or <Reflect Shot> Cooperative Attack. Mercury, who strictly limits MAV usage, never performs a Counter Attack."
+  },
+  "SkillDescSimple_Skill_ST_Mercury_N_1": {
+    "korean": "지정 범위 대상 {0} 보호 무시 피해. 회피 강화 효과 해제. 적중 / 회피 감소. 조건부 받는 피해 감소 효과 해제.",
+    "english": "{0} Ignore Protection Damage / Removes EVA Buff / Reduces ACC / EVA / Conditionally removes DMG Reduction"
+  },
+  "SkillDesc_Skill_ST_Mercury_N_2": {
+    "korean": "모든 아군에게 MAV를 사출하여 대상의 AP를 증가시키고 해로운 효과를 해제합니다.&n또한 대상에게 2라운드 동안 방어 관통 / 회피 비례 스킬 위력 증가 효과를 부여합니다.&n대상이 자신을 제외한 <스트라이커즈> 부대원의 패시브 스킬 효과를 받는 상태인 경우, 각 효과가 50% 증가합니다.",
+    "english": "Fires MAVs at all allies, increasing their AP and removing harmful effects. Also grants a 2‑round effect that increases Skill Power proportionally to DEF Penetration and EVA. If the target is under a passive skill effect from a <Strikers> squad member other than self, each effect is increased by 50%."
+  },
+  "SkillDescSimple_Skill_ST_Mercury_N_2": {
+    "korean": "모든 아군 AP 증가 / 해로운 효과 해제. 방어 관통 / 회피 비례 스킬 위력 증가.",
+    "english": "All allies AP Increase / Removes Harmful Effects / Skill Power Increase proportional to DEF Penetration / EVA"
+  },
+  "SkillDesc_Skill_ST_Mercury_N_3": {
+    "korean": "전투 개시 시, 자신이 최초로 공격 받기 전까지 해제 불가의 회피 / 행동력 증가 효과를 획득합니다.&n<정찰>로 다음에 출현할 적을 확인할 수 있습니다. <정찰> 상태로 라운드 개시 시, 자신의 회피가 크게 증가합니다.&n라운드 개시 시, <정찰> 상태인 아군에게 해로운 회피 감소 면역 효과를 부여합니다.&n공격 받을 시, 자신이 반격 상태인 경우 자신에게 적용된 반격 효과를 해제합니다.",
+    "english": "At battle start, gains an unremovable EVA / SPD increase until being hit for the first time. <Recon> reveals the next enemy wave. When the round starts while in <Recon>, own EVA is greatly increased. At round start, grants allies in <Recon> immunity to harmful EVA reduction effects. When attacked, if in Counter Attack state, removes the Counter Attack effect applied to self."
+  },
+  "SkillDescSimple_Skill_ST_Mercury_N_3": {
+    "korean": "자신 회피 / 행동력 증가. 정찰 가능. 정찰 시 회피 증가 / 회피 감소 효과 면역.",
+    "english": "EVA / SPD Increase. Enables Recon. While in Recon, EVA Increase / Immunity to EVA Reduction."
+  },
+  "SkillDesc_Skill_ST_Mercury_N_4": {
+    "korean": "라운드 개시 시, 스쿼드 내 공격기 수에 비례하여 아군 전체에게 공격력 / 치명타 증가 효과를 부여합니다.&n라운드 개시 시, 스쿼드 내 <스트라이커즈> 부대원의 역할군에 따라 다음 효과를 아군 전체에게 부여합니다.&n공격기 : 스킬 위력 증가 / 보호기 : 효과 저항 증가 / 지원기 : 적중 증가",
+    "english": "At round start, grants all allies ATK / CRIT increase proportional to the number of Attacker units in the squad. At round start, grants all allies the following effects based on the role of <Strikers> squad members: Attacker: Skill Power increase / Defender: Effect Resistance increase / Supporter: ACC increase."
+  },
+  "SkillDescSimple_Skill_ST_Mercury_N_4": {
+    "korean": "공격기 수에 비례하여 아군 공격력 / 치명타 증가. <스트라이커즈> 전투원에 따라 아군 스킬 위력 / 효과 저항 / 적중 증가.",
+    "english": "ATK / CRIT Increase proportional to number of Attacker units. <Strikers> members determine allies' Skill Power / Effect Resistance / ACC increase."
+  },
+  "SkillDesc_Skill_ST_Mercury_N_5": {
+    "korean": "전투 개시 시, 자신보다 공격력이 높은 적의 행동력을 영구적으로 감소시킵니다.&n라운드 개시 시, 공격력 / 치명타 / 적중 / 스킬 위력 증감 효과가 적용된 적의 AP를 감소시키고 받는 피해 증가 효과를 부여합니다.&n각 효과들은 효과 저항의 영향을 받지는 않지만, 해로운 효과 해제로는 해제 가능합니다.",
+    "english": "At battle start, permanently reduces SPD of enemies whose ATK is higher than self. At round start, reduces AP of enemies that have ATK / CRIT / ACC / Skill Power increase or decrease effects and applies DMG Taken Increased to them. These effects are not affected by Effect Resistance, but can be removed by harmful effect removal."
+  },
+  "SkillDescSimple_Skill_ST_Mercury_N_5": {
+    "korean": "조건부 적 행동력 / AP 감소 / 받는 피해 증가.",
+    "english": "Conditional Enemy SPD / AP Reduction / DMG Taken Increased"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_1": {
+    "korean": "아르고스의 눈 : 회피 강화 효과 해제",
+    "english": "Eye of Argos : EVA Buff Removal"
+  },
+  "BuffDesc2_Effect_ST_Mercury_N_1": {
+    "korean": "아르고스의 눈 : 적중 {0}%",
+    "english": "Eye of Argos : ACC {0}%"
+  },
+  "BuffDesc3_Effect_ST_Mercury_N_1": {
+    "korean": "아르고스의 눈 : 회피 {0}%",
+    "english": "Eye of Argos : EVA {0}%"
+  },
+  "BuffDesc4_Effect_ST_Mercury_N_1": {
+    "korean": "아르고스의 눈 : 받는 피해 감소 효과 해제",
+    "english": "Eye of Argos : DMG Reduction Removal"
+  },
+  "BuffDesc5_Effect_ST_Mercury_N_1": {
+    "korean": "우'르고스의 눈 : 협동 공격 (X-02 우르)",
+    "english": "Eye of Urgos : Cooperative Attack (Ullr)"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_11": {
+    "korean": "아르고스의 눈 : 적중 {0}%",
+    "english": "Eye of Argos : ACC {0}%"
+  },
+  "BuffDesc2_Effect_ST_Mercury_N_11": {
+    "korean": "아르고스의 눈 : 회피 {0}%",
+    "english": "Eye of Argos : EVA {0}%"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_12": {
+    "korean": "아르고스의 눈 : 피해 감소 효과 해제",
+    "english": "Eye of Argos : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_13": {
+    "korean": "우'르고스의 눈 : 협동 공격 (X-02 우르)",
+    "english": "“Woo”rgos’s Eye : Cooperative Attack (Ullr)"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_2": {
+    "korean": "최상의 시간 : AP {0}",
+    "english": "Prime Time : AP {0}"
+  },
+  "BuffDesc2_Effect_ST_Mercury_N_2": {
+    "korean": "최상의 시간 : 해로운 효과 해제",
+    "english": "Prime Time : Debuff Removal"
+  },
+  "BuffDesc3_Effect_ST_Mercury_N_2": {
+    "korean": "최상의 시간 : 방어 관통 {0}%",
+    "english": "Prime Time : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_ST_Mercury_N_2": {
+    "korean": "최상의 시간 : 스킬 위력 증가 {0}% (회피 비례)",
+    "english": "Prime Time : Skill Power {0}% Increase (EVA-based)"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_21": {
+    "korean": "최상의 시간 : AP {0}",
+    "english": "Prime Time : AP {0}"
+  },
+  "BuffDesc2_Effect_ST_Mercury_N_21": {
+    "korean": "최상의 시간 : 해로운 효과 해제",
+    "english": "Prime Time : Debuff Removal"
+  },
+  "BuffDesc3_Effect_ST_Mercury_N_21": {
+    "korean": "최상의 시간 : 방어 관통 {0}%",
+    "english": "Prime Time : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_ST_Mercury_N_21": {
+    "korean": "최상의 시간 : 스킬 위력 증가 {0}% (회피 비례)",
+    "english": "Prime Time : Skill Power {0}% Increase (EVA-based)"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_3": {
+    "korean": "탈라리아 : 회피 {0}% (전투 개시)",
+    "english": "Talaria : EVA {0}% (On Battle Start)"
+  },
+  "BuffDesc2_Effect_ST_Mercury_N_3": {
+    "korean": "탈라리아 : 행동력 {0}%",
+    "english": "Talaria : SPD {0}%"
+  },
+  "BuffDesc3_Effect_ST_Mercury_N_3": {
+    "korean": "탈라리아 : 정찰 활성화",
+    "english": "Talaria : Activate Recon Effect"
+  },
+  "BuffDesc4_Effect_ST_Mercury_N_3": {
+    "korean": "탈라리아 : 회피 {0}% (정찰 활성화)",
+    "english": "Talaria : EVA {0}% (Activate Recon Effect)"
+  },
+  "BuffDesc5_Effect_ST_Mercury_N_3": {
+    "korean": "탈라리아 : 회피 감소 효과 면역",
+    "english": "Talaria : EVA Decrease Immunity"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_31": {
+    "korean": "탈라리아 : 정찰 활성화",
+    "english": "Talaria : Activate Recon Effect"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_32": {
+    "korean": "탈라리아 : 회피 {0}% (정찰 활성화)",
+    "english": "Talaria : EVA {0}% (Activate Recon Effect)"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_33": {
+    "korean": "아르고스의 눈 : 반격 해제",
+    "english": "Eye of Argos : Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_4": {
+    "korean": "택틱 링크스 : 공격력 {0}% (중첩당)",
+    "english": "Tactical Links : ATK {0}% (Per Stack)"
+  },
+  "BuffDesc2_Effect_ST_Mercury_N_4": {
+    "korean": "택틱 링크스 : 치명타 {0}% (중첩당)",
+    "english": "Tactical Links : CRIT {0}% (Per Stack)"
+  },
+  "BuffDesc3_Effect_ST_Mercury_N_4": {
+    "korean": "택틱 링크스 : 스킬 위력 {0}% (공격기)",
+    "english": "Tactical Links : Skill Power {0}% (Attacker)"
+  },
+  "BuffDesc4_Effect_ST_Mercury_N_4": {
+    "korean": "택틱 링크스 : 효과 저항 {0}% (보호기)",
+    "english": "Tactical Links : Status Resist {0}% (Defender)"
+  },
+  "BuffDesc5_Effect_ST_Mercury_N_4": {
+    "korean": "택틱 링크스 : 적중 {0}% (지원기)",
+    "english": "Tactical Links : ACC {0}% (Supporter)"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_41": {
+    "korean": "택틱 링크스 : 공격력 {0}%",
+    "english": "Tactical Links : ATK {0}%"
+  },
+  "BuffDesc2_Effect_ST_Mercury_N_41": {
+    "korean": "택틱 링크스 : 치명타 {0}%",
+    "english": "Tactical Links : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_42": {
+    "korean": "택틱 링크스 : 공격력 {0}%",
+    "english": "Tactical Links : ATK {0}%"
+  },
+  "BuffDesc2_Effect_ST_Mercury_N_42": {
+    "korean": "택틱 링크스 : 치명타 {0}%",
+    "english": "Tactical Links : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_43": {
+    "korean": "택틱 링크스 : 공격력 {0}%",
+    "english": "Tactical Links : ATK {0}%"
+  },
+  "BuffDesc2_Effect_ST_Mercury_N_43": {
+    "korean": "택틱 링크스 : 치명타 {0}%",
+    "english": "Tactical Links : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_44": {
+    "korean": "택틱 링크스 : 공격력 {0}%",
+    "english": "Tactical Links : ATK {0}%"
+  },
+  "BuffDesc2_Effect_ST_Mercury_N_44": {
+    "korean": "택틱 링크스 : 치명타 {0}%",
+    "english": "Tactical Links : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_45": {
+    "korean": "택틱 링크스 : 스킬 위력 {0}% (공격기)",
+    "english": "Tactical Links : Skill Power {0}% (Attacker)"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_46": {
+    "korean": "택틱 링크스 : 효과 저항 {0}% (보호기)",
+    "english": "Tactical Links : Status Resist {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_47": {
+    "korean": "택틱 링크스 : 적중 {0}% (지원기)",
+    "english": "Tactical Links : ACC {0}% (Supporter)"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_48": {
+    "korean": "탈라리아 : 회피 감소 효과 면역",
+    "english": "Talaria : EVA Decrease Immunity"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_5": {
+    "korean": "콧대 꺾기 : 행동력 {0}%",
+    "english": "Taking down a peg : SPD {0}%"
+  },
+  "BuffDesc2_Effect_ST_Mercury_N_5": {
+    "korean": "콧대 꺾기 : AP {0}",
+    "english": "Taking down a peg : AP {0}"
+  },
+  "BuffDesc3_Effect_ST_Mercury_N_5": {
+    "korean": "콧대 꺾기 : 받는 피해 {0}% 증가",
+    "english": "Taking down a peg : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_51": {
+    "korean": "콧대 꺾기 : AP {0}",
+    "english": "Taking down a peg : AP {0}"
+  },
+  "BuffDesc1_Effect_ST_Mercury_N_52": {
+    "korean": "콧대 꺾기 : 받는 피해 {0}% 증가",
+    "english": "Taking down a peg : DMG Taken Increased {0}%"
+  }
+}

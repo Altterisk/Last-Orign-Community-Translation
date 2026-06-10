@@ -1,0 +1,182 @@
+{
+  "SkillName_Skill_DS_MoMo_N_1": {
+    "korean": "마법신의 요술봉",
+    "english": "Magic God's Wand"
+  },
+  "SkillName_Skill_DS_MoMo_N_2": {
+    "korean": "모모찬바라",
+    "english": "Momo-chan Blade"
+  },
+  "SkillName_Skill_DS_MoMo_N_3": {
+    "korean": "세기말 마법소녀",
+    "english": "End-of-the-century Magical Girl"
+  },
+  "SkillName_Skill_DS_MoMo_N_4": {
+    "korean": "나를 기억해주세요!",
+    "english": "Remember Me!"
+  },
+  "SkillName_Skill_DS_MoMo_N_5": {
+    "korean": "성장형 마법소녀",
+    "english": "Evolutionary Magical Girl"
+  },
+  "SkillDesc_Skill_DS_MoMo_N_1": {
+    "korean": "마법신의 요술봉으로 지정 범위에 {0} 보호 무시 피해를 줍니다. &n치명타 시 피해량이 증가하며, 대상의 강화 효과를 해제합니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. &nIf a CRIT occurs, damage is increased and the target's enhancement effects are removed."
+  },
+  "SkillDescSimple_Skill_DS_MoMo_N_1": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 치명타 시 피해량 증가 / 대상 강화 효과 해제.",
+    "english": "Designated area {0} Ignore Protection damage. CRIT damage increase / Target enhancement removal."
+  },
+  "SkillDesc_Skill_DS_MoMo_N_2": {
+    "korean": "마법의 티타늄 합금 카타나로 대상에게 {0} 피해를 줍니다. &n치명타 시 피해량이 증가하며, 낮은 확률로 급소를 찌릅니다.&n대상의 HP가 25% 이하인 경우, 매지컬 파워로 대상의 강화 효과를 해제하고 반드시 급소를 찌를 수 있습니다.",
+    "english": "Deals {0} damage to the target with a magical titanium alloy katana. &nIf a CRIT occurs, damage is increased and there is a low chance to pierce a weak point. &nIf the target's HP is 25% or less, removes the target's enhancement effects with magical power and guarantees a weak point pierce."
+  },
+  "SkillDescSimple_Skill_DS_MoMo_N_2": {
+    "korean": "단일 대상 {0} 피해. 치명타 시 피해량 증가. 조건부 대상 강화 효과 해제.",
+    "english": "Single target {0} damage. CRIT damage increase / Conditional target enhancement removal."
+  },
+  "SkillDesc_Skill_DS_MoMo_N_3": {
+    "korean": "라운드 개시 시, 마법신의 가호를 받아 무작위 강화 효과를 얻습니다.&n스쿼드 내에 다른 <마법소녀>가 존재할 경우 공격력 / 치명타 / 적중 증가 효과는 항상 획득할 수 있습니다.",
+    "english": "At the start of the round, receives the blessing of the Magic God and gains a random enhancement effect. &nIf another <Magical Girl> exists in the squad, ATK / CRIT / ACC increase effects are always granted."
+  },
+  "SkillDescSimple_Skill_DS_MoMo_N_3": {
+    "korean": "라운드 개시 시, 무작위 강화 효과.",
+    "english": "At round start, random enhancement effect."
+  },
+  "SkillDesc_Skill_DS_MoMo_N_4": {
+    "korean": "전투 불능 시, 주변 아군을 분기시켜 해로운 효과를 해제하고 2라운드 동안 능력치를 대폭 증가시킵니다. &n스킬 레벨 10에서 효과 라운드가 증가합니다.",
+    "english": "When incapacitated, splits nearby allies to remove harmful effects and greatly increases their stats for 2 rounds. &nAt skill level 10, the effect duration is increased."
+  },
+  "SkillDescSimple_Skill_DS_MoMo_N_4": {
+    "korean": "전투 불능 시, 주변 아군 능력치 대폭 증가",
+    "english": "When incapacitated, nearby allies' stats greatly increased."
+  },
+  "SkillDesc_Skill_DS_MoMo_N_5": {
+    "korean": "라운드 개시 시, <세기말 마법소녀> 확률 발동 효과를 <성장형 마법소녀> 스킬 레벨에 비례하는 수치로 모두 획득합니다. &n<모모 찬바라> 효과 중, 급소를 반드시 찌를 수 있는 HP 비율이 50%로 완화됩니다.&n전투 개시 시, HP 300으로 전투 속행 효과를 획득합니다.",
+    "english": "At the start of the round, obtains all probability-based effects of <End-of-the-century Magical Girl> at values proportional to the skill level of <Evolutionary Magical Girl>. &nAmong <Momo-chan Blade> effects, the HP ratio required to guarantee a weak point pierce is relaxed to 50%. &nAt battle start, gains the Fight On effect with 300 HP."
+  },
+  "SkillDescSimple_Skill_DS_MoMo_N_5": {
+    "korean": "<세기말 마법소녀> 효과 확정 발동. <모모찬바라> 급소 찌르기 조건 완화. 전투 속행.",
+    "english": "<End-of-the-century Magical Girl> effect guaranteed activation. <Momo-chan Blade> weak point pierce condition relaxed. Fight continues."
+  },
+  "BuffDesc1_Effect_DS_MoMo_N_52": {
+    "korean": "성장 완료!",
+    "english": "Growth Complete! :"
+  },
+  "BuffDesc1_Effect_DS_MoMo_N_1": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_DS_MoMo_N_1": {
+    "korean": "회심의 일격 : 강화 효과 해제",
+    "english": "Critical Strike : Buff Removal"
+  },
+  "BuffDesc1_Effect_DS_MoMo_N_2": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_DS_MoMo_N_2": {
+    "korean": "급소 찌르기! : 피해량 {0}%",
+    "english": "Weak Point Stab! : Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_DS_MoMo_N_2": {
+    "korean": "절명오의 : 강화 효과 해제",
+    "english": "Ultimate Finisher : Buff Removal"
+  },
+  "BuffDesc1_Effect_DS_MoMo_N_21": {
+    "korean": "급소 찌르기! : 피해량 {0}%",
+    "english": "Weak Point Stab! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_MoMo_N_22": {
+    "korean": "절명오의 : 피해량 {0}%",
+    "english": "Ultimate Finisher : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_DS_MoMo_N_22": {
+    "korean": "절명오의 : 강화 효과 해제",
+    "english": "Ultimate Finisher : Buff Removal"
+  },
+  "BuffDesc1_Effect_DS_MoMo_N_23": {
+    "korean": "절명오의! : 피해량 {0}%",
+    "english": "Ultimate Finisher! : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_DS_MoMo_N_23": {
+    "korean": "절명오의! : 강화 효과 해제",
+    "english": "Ultimate Finisher! : Buff Removal"
+  },
+  "BuffDesc1_Effect_DS_MoMo_N_3": {
+    "korean": "마법신의 가호 : 공격력 {0}%",
+    "english": "Magic God's Blessing : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_MoMo_N_3": {
+    "korean": "마법신의 가호 : 치명타 {0}%",
+    "english": "Magic God's Blessing : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_DS_MoMo_N_3": {
+    "korean": "마법신의 가호 : 적중 {0}%",
+    "english": "Magic God's Blessing : ACC {0}%"
+  },
+  "BuffDesc4_Effect_DS_MoMo_N_3": {
+    "korean": "마법신의 가호 : 회피 {0}%",
+    "english": "Magic God's Blessing : EVA {0}%"
+  },
+  "BuffDesc5_Effect_DS_MoMo_N_3": {
+    "korean": "마법신의 가호 : 받는 피해 {0}% 감소",
+    "english": "Magic God's Blessing : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_MoMo_N_31": {
+    "korean": "꿈과 희망 : 공격력 {0}%",
+    "english": "Dreams and Hope : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_MoMo_N_31": {
+    "korean": "꿈과 희망 : 치명타 {0}%",
+    "english": "Dreams and Hope : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_DS_MoMo_N_31": {
+    "korean": "꿈과 희망 : 적중 {0}%",
+    "english": "Dreams and Hope : ACC {0}%"
+  },
+  "BuffDesc1_Effect_DS_MoMo_N_4": {
+    "korean": "기억할게! : 해로운 효과 해제",
+    "english": "I'll Remember! : Debuff Removal"
+  },
+  "BuffDesc2_Effect_DS_MoMo_N_4": {
+    "korean": "기억할게! : 공격력 {0}%",
+    "english": "I'll Remember! : ATK {0}%"
+  },
+  "BuffDesc3_Effect_DS_MoMo_N_4": {
+    "korean": "기억할게! : 치명타 {0}%",
+    "english": "I'll Remember! : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_DS_MoMo_N_4": {
+    "korean": "기억할게! : 행동력 {0}%",
+    "english": "I'll Remember! : SPD {0}%"
+  },
+  "BuffDesc5_Effect_DS_MoMo_N_4": {
+    "korean": "기억할게! : 받는 피해 {0}% 감소",
+    "english": "I'll Remember! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_MoMo_N_5": {
+    "korean": "성장형 마법소녀 : 공격력 {0}%",
+    "english": "Evolutionary Magical Girl : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_MoMo_N_5": {
+    "korean": "성장형 마법소녀 : 치명타 {0}%",
+    "english": "Evolutionary Magical Girl : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_DS_MoMo_N_5": {
+    "korean": "성장형 마법소녀 : 적중 {0}%",
+    "english": "Evolutionary Magical Girl : ACC {0}%"
+  },
+  "BuffDesc4_Effect_DS_MoMo_N_5": {
+    "korean": "성장형 마법소녀 : 회피 {0}%",
+    "english": "Evolutionary Magical Girl : EVA {0}%"
+  },
+  "BuffDesc5_Effect_DS_MoMo_N_5": {
+    "korean": "성장형 마법소녀 : 받는 피해 {0}% 감소",
+    "english": "Evolutionary Magical Girl : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_MoMo_N_51": {
+    "korean": "성장형 마법소녀 : {0} HP로 전투 속행 (해제 불가)",
+    "english": "Evolutionary Magical Girl : Battle Continuation with {0} HP (Unremovable)"
+  }
+}

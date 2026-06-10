@@ -1,0 +1,122 @@
+{
+  "1002702160": {
+    "korean": "더블배럴 샷건",
+    "english": "Double-Barrel Shotgun"
+  },
+  "1002702161": {
+    "korean": "이글 어썰트",
+    "english": "Eagle Assault"
+  },
+  "1002702162": {
+    "korean": "선봉 요격대",
+    "english": "Vanguard Interceptor Unit"
+  },
+  "1002705827": {
+    "korean": "숲의 도움",
+    "english": "Forest Aid"
+  },
+  "SkillName_Skill_PECS_DarkElf_N_5": {
+    "korean": "자연의 기운",
+    "english": "Spirit of Nature"
+  },
+  "1002706238": {
+    "korean": "더블배럴 샷건으로 지정 대상에게 {0} 피해를 줍니다. 대상이 경장형 / 방어력 / 회피 감소 상태면 피해량이 증가합니다.",
+    "english": "Deals {0} damage to the designated target with Double-Barrel Shotgun. Damage is increased if the target is Light-type or affected by DEF Reduction or EVA Reduction."
+  },
+  "1002706542": {
+    "korean": "지정 대상 {0} 피해. 경장형이거나 방어력 / 회피 감소 대상 피해량 증가",
+    "english": "Deals {0} damage to a designated target. Damage is increased if the target is Light-type or has reduced DEF or EVA."
+  },
+  "1002706239": {
+    "korean": "독수리와 협공해 대상에게 {0} 피해를 주고, 2라운드 동안 대상의 적중 / 치명타를 감소시킵니다. 감소 효과는 적용 라운드에는 2배로 적용됩니다. 치명타 시, 피해량이 증가하며 적중 강화 효과를 해제합니다.",
+    "english": "Jointly attacks with an eagle, dealing {0} damage to the target and reducing the target's ACC / CRIT for 2 rounds. The reduction is doubled on the turn it is applied. On a critical hit, damage is increased and any ACC buffs are removed."
+  },
+  "1002706543": {
+    "korean": "지정 대상 {0} 피해. 적중 / 치명타 감소. 치명타 시, 피해량 증가 / 적중 강화 해제",
+    "english": "Deals {0} damage to a designated target. Reduces ACC / CRIT. On a critical hit, damage is increased and ACC buffs are removed."
+  },
+  "1002706240": {
+    "korean": "자신과 같은 행 뒤쪽에 배치된 아군의 공격을 지원하며, 대상의 전투 개시 시 AP를 올려줍니다.",
+    "english": "Supports the attacks of allies positioned behind you in the same row, and raises their AP at the start of combat."
+  },
+  "1002706544": {
+    "korean": "지정 범위 내 아군 공격 지원. 전투 개시 시, 대상 AP 증가",
+    "english": "Supports allies' attacks within the designated area. Increases target's AP at the start of combat."
+  },
+  "1002706368": {
+    "korean": "라운드 개시 시, 자신의 공격력과 치명타가 증가하며, 엘븐 포레스트메이커의 패시브 효과를 받는 대상과 <엘븐형 바이오로이드>의 공격을 지원하고 전투 개시 시 AP를 증가시킵니다.",
+    "english": "At the start of the round, increases own ATK and CRIT, supports the attacks of targets affected by Elven Forestmaker's passive and <Elven-type Bioroid>, and raises AP at the start of combat."
+  },
+  "1002706611": {
+    "korean": "자신 공격력 / 치명타 증가 / 범위 내 아군 공격 지원 / AP 증가",
+    "english": "Increases own ATK and CRIT. Supports attacks of allies within range. Increases AP."
+  },
+  "SkillDesc_Skill_PECS_DarkElf_N_5": {
+    "korean": "라운드 개시 시, 공격력이 증가합니다. 공격이 적중하지 않을 시, 1라운드 동안 적중이 크게 증가합니다.",
+    "english": "At the start of the round, ATK is increased. If the attack does not hit, ACC is greatly increased for 1 round."
+  },
+  "SkillDescSimple_Skill_PECS_DarkElf_N_5": {
+    "korean": "공격력 증가 / 적중하지 않을 시, 적중 증가",
+    "english": "ATK Increase / If Missed, ACC Increase"
+  },
+  "1000103759": {
+    "korean": "더블배럴 샷건 : 대 경장형 피해량{0}%",
+    "english": "Double-Barrel Shotgun : Anti-Light DMG {0}%"
+  },
+  "1000106576": {
+    "korean": "약점 사격 : 피해량{0}%",
+    "english": "Weak Spot Shot : Additional DMG {0}%"
+  },
+  "1000103760": {
+    "korean": "이글 어썰트 : 적중 {0}%",
+    "english": "Eagle Assault : ACC {0}%"
+  },
+  "1000104765": {
+    "korean": "이글 어썰트 : 치명타 {0}%",
+    "english": "Eagle Assault : CRIT {0}%"
+  },
+  "1000105239": {
+    "korean": "이글 어썰트 : 적중 강화 해제 (치명타 시)",
+    "english": "Eagle Assault : ACC Buff Removal (on CRIT)"
+  },
+  "1000104766": {
+    "korean": "이글 어썰트 : 적중 강화 해제",
+    "english": "Eagle Assault : ACC Buff Removal"
+  },
+  "1000106506": {
+    "korean": "선봉 요격대 : 공격 지원",
+    "english": "Vanguard Interceptor Unit : Follow-Up Attack"
+  },
+  "1000106507": {
+    "korean": "선봉 요격대 : AP{0}",
+    "english": "Vanguard Interceptor Unit : AP {0}"
+  },
+  "1000107073": {
+    "korean": "숲의 도움 : 공격력{0}%",
+    "english": "Forest Aid : ATK {0}%"
+  },
+  "1000107072": {
+    "korean": "숲의 도움 : 공격 지원",
+    "english": "Forest Aid : Follow-Up Attack"
+  },
+  "1000107071": {
+    "korean": "숲의 도움 : AP{0}",
+    "english": "Forest Aid : AP {0}"
+  },
+  "1000107260": {
+    "korean": "숲의 도움 : 치명타{0}%",
+    "english": "Forest Aid : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_PECS_DarkElf_N_5": {
+    "korean": "자연의 기운 : 공격력{0}",
+    "english": "Spirit of Nature : ATK {0}"
+  },
+  "BuffDesc2_Effect_PECS_DarkElf_N_5": {
+    "korean": "자연의 기운 : 적중{0}%",
+    "english": "Spirit of Nature : ACC {0}%"
+  },
+  "BuffDesc1_Effect_PECS_DarkElf_N_51": {
+    "korean": "자연의 기운 : 적중{0}%",
+    "english": "Spirit of Nature : ACC {0}%"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "SkillName_Skill_DS_Cloverace_N_1": {
+    "korean": "우정의 철퇴",
+    "english": "Mace of Friendship"
+  },
+  "SkillName_Skill_DS_Cloverace_N_2": {
+    "korean": "프렌드 스톰 킥",
+    "english": "Friend Storm Kick"
+  },
+  "SkillName_Skill_DS_Cloverace_N_3": {
+    "korean": "우정의 여배우",
+    "english": "Actress of Friendship"
+  },
+  "SkillName_Skill_DS_Cloverace_N_4": {
+    "korean": "형제자매의 이름으로",
+    "english": "In the Name of Siblings"
+  },
+  "SkillName_Skill_DS_Cloverace_N_5": {
+    "korean": "악당퇴산",
+    "english": "Villain’s Reckoning"
+  },
+  "SkillDesc_Skill_DS_Cloverace_N_1": {
+    "korean": "우정의 철퇴를 휘둘러 단일 대상에게 {0} 피해를 입히고, 적중 시 2라운드 동안 대상을 도발합니다.&n적중 대상이 도발 상태인 경우, 2라운드 동안 대상의 대 경장형 피해량을 감소시킵니다. (최대 2중첩)&n아군 중 <아우>가 존재하는 경우, 해당 라운드 동안 방어막 / 피해 감소 무시 효과를 획득합니다.",
+    "english": "Swing the Mace of Friendship to deal {0} damage to a single target and Provokes the target for 2 rounds on hit. If the hit target is Provoked, reduces the target's Anti-Light DMG for 2 rounds (max 2 stacks). If an ally with <Au> is present, gains Barrier / Ignore Damage Reduction for that round."
+  },
+  "SkillDescSimple_Skill_DS_Cloverace_N_1": {
+    "korean": "지정 대상 {0} 피해. 대상 도발 / 대 경장형 피해량 감소. <아우>가 존재할 경우, 방어막 / 피해 감소 무시.",
+    "english": "{0} DMG. Provoked / Anti-Light DMG Reduction. If <Au> present, Barrier / Ignore Damage Reduction."
+  },
+  "SkillDesc_Skill_DS_Cloverace_N_2": {
+    "korean": "부츠의 분사 장치를 가동하여 온 몸을 날리며 지정 범위 대상에게 {0} 보호 무시 피해를 입힙니다.&n적중 대상이 도발 상태인 경우, 피해량이 증가합니다. &n아군 중 <아우>가 존재하는 경우, 광역 피해량 집중 효과가 적용됩니다.&n두 조건을 모두 만족하는 경우 대상은 2라운드 동안 행동 불능 상태가 됩니다.",
+    "english": "Activate the boot's thruster, launching the body and dealing {0} Ignore Protection damage to targets in the designated area. If the hit target is Provoked, damage is increased. If an ally with <Au> is present, the Area Damage Focus effect is applied. If both conditions are met, targets become Stunned for 2 rounds."
+  },
+  "SkillDescSimple_Skill_DS_Cloverace_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. <아우> / <악당> 존재 유무에 따라 피해량 증가 / 행동 불능.",
+    "english": "{0} Ignore Protection DMG. <Au> / <Villain> presence determines damage increase / Stunned."
+  },
+  "SkillDesc_Skill_DS_Cloverace_N_3": {
+    "korean": "전투 개시 시, 효과 저항이 증가합니다. 5인 스쿼드인 경우, 효과가 증폭됩니다.&n전투 개시 시, 자신이 혼자가 아닌 경우 전투 속행 효과를 획득합니다. 아군이 수적 열세일 때, 효과가 추가로 적용됩니다.&n전투 속행 시, 자신에게 적용된 모든 해로운 효과를 해제하고, <악당>의 모든 강화 효과를 해제합니다.",
+    "english": "At battle start, Effect Resistance is increased. In a 5‑person squad, the effect is amplified. At battle start, if you are not alone, you gain the Continue Battle effect; the effect is further applied when allies are outnumbered. When Continue Battle activates, all harmful effects on self are removed and all enhancement effects on <Villain> are removed."
+  },
+  "SkillDescSimple_Skill_DS_Cloverace_N_3": {
+    "korean": "효과 저항 증가. 조건부 전투 속행. 전투 속행 시, 자신 해로운 효과 해제 / <악당> 강화 효과 해제.",
+    "english": "Effect Resistance increased. Conditional Continue Battle. Upon Continue Battle activation, removes harmful effects from self / removes enhancement effects from <Villain>."
+  },
+  "SkillDesc_Skill_DS_Cloverace_N_4": {
+    "korean": "라운드 개시 시, 자신의 공격력이 증가하고, HP 25% 이상인 아군을 <아우>로 지목하여 2라운드 동안 대상의 공격력을 증가시킵니다.&n라운드 개시 시, 자신을 제외한 <D-엔터테인먼트> 전투원이 존재하는 경우 자신의 방어 관통이 증가합니다.&n공격 적중 시, 2라운드 동안 자신과 <아우>의 행동력을 증가시킵니다. (최대 3중첩)",
+    "english": "At round start, ATK is increased and an ally with HP ≥25% is designated as <Au>, boosting that ally’s ATK for 2 rounds. At round start, if a <D-Entertainment> combatant other than self is present, DEF Penetration is increased. On attack hit, SPD is increased for self and <Au> for 2 rounds (max 3 stacks)."
+  },
+  "SkillDescSimple_Skill_DS_Cloverace_N_4": {
+    "korean": "자신과 <아우> 공격력 / 행동력 증가. <D-엔터테인먼트> 전투원 존재 시, 방어 관통 증가.",
+    "english": "ATK / SPD increase for self and <Au>. If a <D-Entertainment> combatant is present, DEF Penetration increased."
+  },
+  "SkillDesc_Skill_DS_Cloverace_N_5": {
+    "korean": "라운드 개시 시, HP 비율이 같거나 자신보다 높은 적을 <악당>으로 지목하여 2라운드 동안 대상을 도발합니다.&n<악당> 지목은 대상의 효과 저항에 영향을 받지 않지만, 해로운 효과 해제로 해제할 수 있습니다.&n적 사망 시, 모든 <악당>은 기세에 눌려 3라운드 동안 효과 저항이 감소합니다. (최대 3중첩)&n공격 받을 시, 도발 상태인 적에게 3라운드 동안 받는 피해 증가 효과를 부여합니다. (최대 3중첩)",
+    "english": "At round start, designate an enemy with HP percentage equal to or higher than self as <Villain> and Provokes them for 2 rounds. The <Villain> designation ignores the target’s Effect Resistance but can be removed by dispelling harmful effects. When an enemy dies, all <Villain> are intimidated, reducing Effect Resistance for 3 rounds (max 3 stacks). When attacked, enemies that are Provoked gain increased DMG Taken for 3 rounds (max 3 stacks)."
+  },
+  "SkillDescSimple_Skill_DS_Cloverace_N_5": {
+    "korean": "자신보다 HP 비율이 높은 적 전체 도발. 적 사망 시, <악당>의 효과 저항 감소. 공격 받을 시, 도발 상태 적 받는 피해 증가.",
+    "english": "Provokes all enemies with higher HP percentage than self. When an enemy dies, reduces Effect Resistance of all <Villain>. When attacked, Provoked enemies receive increased DMG Taken."
+  },
+  "BuffDesc2_Effect_DS_Cloverace_N_2": {
+    "korean": "아우의 몫 : 광역 피해량 집중 {0}%",
+    "english": "Brother's Share : Area Damage Focus {0}%"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_21": {
+    "korean": "아우의 몫 : 광역 피해량 집중 {0}%",
+    "english": "Brother's Share : Area Damage Focus {0}%"
+  },
+  "BuffDesc4_Effect_DS_Cloverace_N_3": {
+    "korean": "OPEN UP : 해로운 효과 제거",
+    "english": "OPEN UP : Remove harmful effects"
+  },
+  "BuffDesc5_Effect_DS_Cloverace_N_3": {
+    "korean": "OPEN UP : 강화 효과 제거",
+    "english": "OPEN UP : Remove enhancement effects"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_1": {
+    "korean": "우정의 철퇴 : 도발 (클로버 에이스)",
+    "english": "Mace of Friendship : Provokes (Clover Ace)"
+  },
+  "BuffDesc2_Effect_DS_Cloverace_N_1": {
+    "korean": "우정의 힘 : 대 경장형 피해량 {0}%",
+    "english": "Friendship Power : Anti-Light DMG {0}%"
+  },
+  "BuffDesc3_Effect_DS_Cloverace_N_1": {
+    "korean": "우정의 힘 : 방어막 / 피해 감소 무시",
+    "english": "Friendship Power : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_11": {
+    "korean": "우정의 힘 : 대 경장형 피해량 {0}%",
+    "english": "Friendship Power : Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_12": {
+    "korean": "우정의 힘 : 방어막 / 피해 감소 무시",
+    "english": "Friendship Power : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_2": {
+    "korean": "악행의 몫 : 피해량 {0}%",
+    "english": "Sin's Share : Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_DS_Cloverace_N_2": {
+    "korean": "뉘우침 : 행동 불능",
+    "english": "Remorse : Stunned"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_22": {
+    "korean": "뉘우침 : 행동 불능",
+    "english": "Remorse : Stunned"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_3": {
+    "korean": "맹우 : 효과 저항 {0}% 증가",
+    "english": "Fierce Ally : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_DS_Cloverace_N_3": {
+    "korean": "맹우 : 효과 저항 {0}% 증가 (증폭)",
+    "english": "Fierce Ally : Status Resist {0}% Increase (Amplified)"
+  },
+  "BuffDesc3_Effect_DS_Cloverace_N_3": {
+    "korean": "맡겨만 줘! : {0}% HP로 전투 속행",
+    "english": "Leave It to Me! : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_31": {
+    "korean": "맹우 : 효과 저항 {0}% 증가",
+    "english": "Fierce Ally : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_32": {
+    "korean": "맡겨만 줘! : {0}% HP로 전투 속행",
+    "english": "Leave It to Me! : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_33": {
+    "korean": "시대가 원할 때 : {0}% HP로 전투 속행",
+    "english": "When the Era Demands : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_34": {
+    "korean": "시대가 원할 때 : {0}% HP로 전투 속행",
+    "english": "When the Era Demands : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_35": {
+    "korean": "시대가 원할 때 : {0}% HP로 전투 속행",
+    "english": "When the Era Demands : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_36": {
+    "korean": "시대가 원할 때 : {0}% HP로 전투 속행",
+    "english": "When the Era Demands : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_37": {
+    "korean": "OPEN UP : 해로운 효과 해제",
+    "english": "OPEN UP : Debuff Removal"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_4": {
+    "korean": "자매들이여! : 공격력 {0}% (아우)",
+    "english": "Sisters, Unite! : ATK {0}% (Au)"
+  },
+  "BuffDesc2_Effect_DS_Cloverace_N_4": {
+    "korean": "자매들이여! : 공격력 {0}% (자신)",
+    "english": "Sisters, Unite! : ATK {0}% (Self)"
+  },
+  "BuffDesc3_Effect_DS_Cloverace_N_4": {
+    "korean": "단결의 힘 : 방어 관통 {0}% (D-엔터)",
+    "english": "Unity Power : DEF Penetration {0}% (D-Enter)"
+  },
+  "BuffDesc4_Effect_DS_Cloverace_N_4": {
+    "korean": "슈퍼 히어로 타임 : 행동력 {0}%",
+    "english": "Superhero Time : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_41": {
+    "korean": "자매들이여! : 공격력 {0}% (자신)",
+    "english": "Sisters, Unite! : ATK {0}% (Self)"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_42": {
+    "korean": "든든한 친우 : 방어 관통 {0}%",
+    "english": "Reliable Comrade : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_43": {
+    "korean": "슈퍼 히어로 타임 : 행동력 {0}%",
+    "english": "Superhero Time : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_5": {
+    "korean": "이 악당! : 도발 (클로버 에이스)",
+    "english": "You Villain! : Provokes (Clover Ace)"
+  },
+  "BuffDesc2_Effect_DS_Cloverace_N_5": {
+    "korean": "각오해라! : 효과 저항 {0}% 감소",
+    "english": "Prepare Yourself! : Status Resist {0}% Decrease"
+  },
+  "BuffDesc3_Effect_DS_Cloverace_N_5": {
+    "korean": "어딜 감히! : 받는 피해 {0}% 증가",
+    "english": "How Dare You! : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_51": {
+    "korean": "각오해라! : 효과 저항 {0}% 감소",
+    "english": "Prepare Yourself! : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_52": {
+    "korean": "어딜 감히! : 받는 피해 {0}% 증가",
+    "english": "How Dare You! : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_38": {
+    "korean": "OPEN UP : 강화 효과 해제",
+    "english": "OPEN UP : Buff Removal"
+  },
+  "BuffDesc1_Effect_DS_Cloverace_N_13": {
+    "korean": "이 악당! : 도발 (클로버 에이스)",
+    "english": "You Villain! : Provokes (Clover Ace)"
+  }
+}

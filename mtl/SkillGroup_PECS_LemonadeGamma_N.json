@@ -1,0 +1,134 @@
+{
+  "SkillName_Skill_PECS_LemonadeGamma_N_1": {
+    "korean": "타입 컴뱃: 소닉 피스트",
+    "english": "Type Combat: Sonic Fist"
+  },
+  "SkillName_Skill_PECS_LemonadeGamma_N_2": {
+    "korean": "타입 컴뱃: 인피니티 레이지",
+    "english": "Type Combat: Infinity Rage"
+  },
+  "SkillName_Skill_PECS_LemonadeGamma_N_3": {
+    "korean": "타입 컴뱃: 무스펠헤임",
+    "english": "Type Combat: Muspelheim"
+  },
+  "SkillName_Skill_PECS_LemonadeGamma_N_4": {
+    "korean": "타입 컴뱃: 버서커",
+    "english": "Type Combat: Berserker"
+  },
+  "SkillName_Skill_PECS_LemonadeGamma_N_5": {
+    "korean": "타입 컴뱃: 어벤저",
+    "english": "Type Combat: Avenger"
+  },
+  "SkillDesc_Skill_PECS_LemonadeGamma_N_1": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점 뒷 칸에는 피해가 25% 감소합니다. &n스킬 적중 시 2라운드 동안 대상의 방어력을 낮추고 받는 피해를 증가시킵니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. Damage is reduced by 25% on the tile behind the target point. &nWhen the skill hits, for 2 rounds it lowers the target's DEF and increases DMG Taken."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeGamma_N_1": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 방어력 감소 및 받는 피해 증가",
+    "english": "Ignore Protection damage {0}. DEF reduction and DMG Taken increase"
+  },
+  "SkillDesc_Skill_PECS_LemonadeGamma_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다.&n적중 시 대상의 반격 효과를 해제하며 대상의 hp가 70% 이상인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area.&nWhen it hits, it removes the target's Counter Attack effect, and if the target's HP is 70% or higher, damage is increased."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeGamma_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 반격 효과 해제. 적 hp조건에 따라 피해량 증가",
+    "english": "Ignore Protection damage {0} in the designated range. Counter Attack effect removed. Damage increased based on enemy HP condition."
+  },
+  "SkillDesc_Skill_PECS_LemonadeGamma_N_3": {
+    "korean": "라운드 개시 시, 방어 관통을 획득합니다. 로데/ 멀린/ 트리톤/ 메로페 중 한명이 있으면 공격력이 상승합니다.",
+    "english": "At the start of the round, gain DEF Penetration. If one of Rhode, Merlin, Triton, or Merope is present, ATK is increased."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeGamma_N_3": {
+    "korean": "라운드 개시 시, 방어관통 획득, 특정 구성원이 있으면 공격력 증가",
+    "english": "At the start of the round, gain DEF Penetration, and if a specific member is present, ATK increase."
+  },
+  "SkillDesc_Skill_PECS_LemonadeGamma_N_4": {
+    "korean": "라운드 개시 시, 자신에게 걸린 해로운 효과를 해제합니다. HP가 25%이하인 경우 스킬 위력을 1라운드 증가시킵니다.",
+    "english": "At the start of the round, removes harmful effects from yourself. If HP is 25% or lower, increases Skill Power for 1 round."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeGamma_N_4": {
+    "korean": "라운드 개시 시, 해로운 효과 해제, HP 25%이하: 스킬 위력 증가",
+    "english": "At the start of the round, harmful effects are removed, and when HP is 25% or below: Skill Power increases"
+  },
+  "SkillDesc_Skill_PECS_LemonadeGamma_N_5": {
+    "korean": "라운드 개시 시 자신에게 전투 속행 효과를 얻습니다.&n라운드 개시 시 자신에게 효과 저항 / 강화 해제 저항을 부여합니다.&n피격시, 1라운드 동안 반격효과를 얻습니다.",
+    "english": "At the start of the round, gain the Continue Battle effect on yourself.&nAt the start of the round, grant yourself Effect Resist / Debuff Removal Resist.&nWhen hit, gain Counter Attack for 1 round."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeGamma_N_5": {
+    "korean": "전투 속행. 효과 저항 / 강화 해제 저항 증가/ 피격시 1라운드 반격",
+    "english": "Continue Battle. Effect Resist / Debuff Removal Resist increase / Counter Attack for 1 round when hit"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_1": {
+    "korean": "소닉 피스트 : 방어력 {0}%",
+    "english": "Sonic Fist : DEF {0}%"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeGamma_N_1": {
+    "korean": "소닉 피스트 : 받는 피해 {0}%",
+    "english": "Sonic Fist : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_2": {
+    "korean": "인피니티 레이지 : 반격 효과 해제",
+    "english": "Infinity Rage : Counter Attack Effect Removal"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeGamma_N_2": {
+    "korean": "인피니티 레이지 : 피해량 {0}%",
+    "english": "Infinity Rage : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_21": {
+    "korean": "인피니티 레이지 : 피해량 {0}%",
+    "english": "Infinity Rage : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_3": {
+    "korean": "무스펠헤임 : 방어 관통 {0}%",
+    "english": "Muspelheim : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeGamma_N_3": {
+    "korean": "대장을 위해! : 공격력 {0}%",
+    "english": "For the Captain! : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_31": {
+    "korean": "대장을 위해! : 공격력 {0}%",
+    "english": "For the Captain! : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_4": {
+    "korean": "버서커 : 해로운 효과 해제",
+    "english": "Berserker : Debuff Removal"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeGamma_N_4": {
+    "korean": "버서커 : 스킬 위력 {0}%",
+    "english": "Berserker : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_41": {
+    "korean": "버서커 : 스킬 위력 {0}%",
+    "english": "Berserker : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_5": {
+    "korean": "어벤저 : {0} HP 전투 속행",
+    "english": "Avenger : Battle Continuation with {0} HP"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeGamma_N_5": {
+    "korean": "어벤저 : 효과 저항 {0}%",
+    "english": "Avenger : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_LemonadeGamma_N_5": {
+    "korean": "어벤저 : 강화 해제 저항 {0}%",
+    "english": "Avenger : Buff Removal Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_LemonadeGamma_N_5": {
+    "korean": "어벤저 : {0}% 위력으로 반격",
+    "english": "Avenger : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_51": {
+    "korean": "어벤저 : 효과 저항 {0}%",
+    "english": "Avenger : Status Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeGamma_N_51": {
+    "korean": "어벤저 : 강화 해제 저항 {0}%",
+    "english": "Avenger : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeGamma_N_52": {
+    "korean": "어벤저 : {0}% 위력으로 반격",
+    "english": "Avenger : Counter Attack with {0}% Power"
+  }
+}

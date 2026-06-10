@@ -1,0 +1,122 @@
+{
+  "SkillName_Skill_PECS_Triton_N_1": {
+    "korean": "기관포 사격",
+    "english": "Gatling Fire"
+  },
+  "SkillName_Skill_PECS_Triton_N_2": {
+    "korean": "초토화",
+    "english": "Scorched Earth"
+  },
+  "SkillName_Skill_PECS_Triton_N_3": {
+    "korean": "능동 대응 알고리즘",
+    "english": "Active Response Algorithm"
+  },
+  "SkillName_Skill_PECS_Triton_N_4": {
+    "korean": "출력 상승",
+    "english": "Output Surge"
+  },
+  "SkillName_Skill_PECS_Triton_N_5": {
+    "korean": "출력 제한 해제",
+    "english": "Output Limit Release"
+  },
+  "SkillDesc_Skill_PECS_Triton_N_1": {
+    "korean": "목표 지점에 {0} 피해를 주고 양 옆에 50% 감소한 피해를 줍니다. 2라운드 동안 대상의 공격력 / 방어력을 감소시키고, <출력 제한 해제> 패시브가 활성화된 경우, 방어막 / 피해 감소 효과를 무시합니다.",
+    "english": "Deals {0} damage to the target location and 50% reduced damage to the tiles on either side. Reduces the target’s ATK / DEF for 2 rounds, and if the <Output Limit Release> passive is active, ignores Barrier / DMG Reduction effects."
+  },
+  "SkillDescSimple_Skill_PECS_Triton_N_1": {
+    "korean": "{0} 피해. 공격력 / 방어력 감소",
+    "english": "{0} damage. ATK / DEF Reduction"
+  },
+  "SkillDesc_Skill_PECS_Triton_N_2": {
+    "korean": "목표 지점에 {0} 보호 무시 피해를 줍니다. 목표 지점에서 멀어질수록 피해량이 25%씩 감소하며, 대상의 공격력보다 트리톤의 공격력이 높을 시, 추가 피해를 줍니다.",
+    "english": "Deals {0} Ignore Protection damage to the target location. Damage decreases by 25% for each tile away from the target point, and if Triton’s ATK is higher than the target’s ATK, deals additional damage."
+  },
+  "SkillDescSimple_Skill_PECS_Triton_N_2": {
+    "korean": "{0} 보호 무시 피해. 대상의 공격력보다 높을 시 추가 피해",
+    "english": "{0} Ignore Protection damage. Deals additional damage if your ATK is higher than the target’s."
+  },
+  "SkillDesc_Skill_PECS_Triton_N_3": {
+    "korean": "전투 시작 시, 해제 불가의 AP 감소 효과 면역, 도발 효과 면역 효과가 영구히 적용됩니다. 공격 적중 시, 3라운드 동안 자신의 공격력과 방어 관통이 증가합니다.",
+    "english": "At the start of battle, you permanently gain immunity to non-removable AP reduction effects and Provoked effects. When an attack hits, your ATK and DEF Penetration increase for 3 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Triton_N_3": {
+    "korean": "AP 감소 효과, 도발 효과 면역. 공격력 / 방어 관통 증가",
+    "english": "Immune to AP reduction effects, Provoked effects. ATK / DEF Penetration increase"
+  },
+  "SkillDesc_Skill_PECS_Triton_N_4": {
+    "korean": "라운드 개시 시, 행동력 증가 효과가 영구히 적용됩니다. <출력 상승>의 행동력 증가 효과가 3중첩 이상일 경우, <출력 제한 해제> 패시브가 활성화됩니다.",
+    "english": "At the start of each round, a permanent SPD increase is applied. If the SPD boost from <Output Surge> reaches 3 stacks or more, the <Output Limit Release> passive is activated."
+  },
+  "SkillDescSimple_Skill_PECS_Triton_N_4": {
+    "korean": "행동력 증가 / <출력 제한 해제> 활성화",
+    "english": "SPD increase / <Output Limit Release> activation"
+  },
+  "SkillDesc_Skill_PECS_Triton_N_5": {
+    "korean": "라운드 개시 시 최대 행동 횟수가 1회 증가하고, <기관포 사격> 스킬 사용 시 대상에게 <초토화> 스킬 협동 공격을 합니다.",
+    "english": "At the start of the round, Max Action increases by 1, and when using the <Gatling Fire> skill, performs a coordinated attack with the <Scorched Earth> skill on the target."
+  },
+  "SkillDescSimple_Skill_PECS_Triton_N_5": {
+    "korean": "최대 행동 횟수 증가 / <초토화> 협동 공격",
+    "english": "Max Action increase / <Scorched Earth> coordinated attack"
+  },
+  "BuffDesc1_Effect_PECS_Triton_N_12": {
+    "korean": "출력 제한 해제 : [초토화] 협동 공격",
+    "english": "Output Limit Release : [Scorched Earth] Cooperative Attack"
+  },
+  "BuffDesc2_Effect_PECS_Triton_N_5": {
+    "korean": "출력 제한 해제 : [초토화] 협동 공격",
+    "english": "Output Limit Release : [Scorched Earth] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_PECS_Triton_N_1": {
+    "korean": "기관포 사격 : 공격력{0}%",
+    "english": "Gatling Fire : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triton_N_1": {
+    "korean": "기관포 사격 : 방어력{0}%",
+    "english": "Gatling Fire : DEF {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triton_N_1": {
+    "korean": "출력 제한 해제 : 방어막 / 피해 감소 무시",
+    "english": "Output Limit Release : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_PECS_Triton_N_11": {
+    "korean": "기관포 사격 : 방어막 / 피해 감소 무시",
+    "english": "Gatling Fire : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_PECS_Triton_N_2": {
+    "korean": "초토화 : 피해량{0}%",
+    "english": "Scorched Earth : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triton_N_3": {
+    "korean": "능동 대응 알고리즘 : AP 감소 효과 면역",
+    "english": "Active Response Algorithm : AP Decrease Immunity"
+  },
+  "BuffDesc2_Effect_PECS_Triton_N_3": {
+    "korean": "능동 대응 알고리즘 : 도발 효과 면역",
+    "english": "Active Response Algorithm : Provokes Immunity"
+  },
+  "BuffDesc3_Effect_PECS_Triton_N_3": {
+    "korean": "능동 대응 알고리즘 : 공격력{0}%",
+    "english": "Active Response Algorithm : ATK {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Triton_N_3": {
+    "korean": "능동 대응 알고리즘 : 방어 관통{0}%",
+    "english": "Active Response Algorithm : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triton_N_31": {
+    "korean": "능동 대응 알고리즘 : 공격력{0}%",
+    "english": "Active Response Algorithm : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triton_N_32": {
+    "korean": "능동 대응 알고리즘 : 방어 관통{0}%",
+    "english": "Active Response Algorithm : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triton_N_4": {
+    "korean": "출력 상승 : 행동력{0}%",
+    "english": "Output Surge : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triton_N_5": {
+    "korean": "출력 제한 해제 : 최대 행동 횟수{0}",
+    "english": "Output Limit Release : Max Action {0}"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "SkillName_Skill_ST_Ullr_CH_1": {
+    "korean": "포커스 샷",
+    "english": "Focus Shot"
+  },
+  "SkillName_Skill_ST_Ullr_CH_2": {
+    "korean": "리플렉트 샷",
+    "english": "Reflect Shot"
+  },
+  "SkillName_Skill_ST_Ullr_N_3": {
+    "korean": "분리불안증",
+    "english": "Separation Anxiety"
+  },
+  "SkillName_Skill_ST_Ullr_CH_4": {
+    "korean": "장거리 저격 모드",
+    "english": "Long-range Sniper Mode"
+  },
+  "SkillName_Skill_ST_Ullr_N_5": {
+    "korean": "리플렉트 필드 전개",
+    "english": "Deploy Reflect Field"
+  },
+  "SkillDesc_Skill_ST_Ullr_CH_1": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점의 뒤에는 50% / 25% 피해만 적용됩니다. 대상의 방어력을 일정 비율 무시하며, 치명타 시 대상의 반격 효과를 해제하고 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. Only 50% / 25% damage is applied behind the target point. Ignores a portion of the target's DEF, and on CRIT cancels the target's Counter Attack effect and increases damage."
+  },
+  "SkillDescSimple_Skill_ST_Ullr_CH_1": {
+    "korean": "{0} 방어 관통 보호 무시 피해. 치명타 시 반격 효과 해제 / 추가 피해",
+    "english": "{0} DEF Penetration Ignore Protection damage. On CRIT, cancels Counter Attack effect / deals additional damage"
+  },
+  "SkillDesc_Skill_ST_Ullr_CH_2": {
+    "korean": "대상에게 {0} 보호 무시 피해를 줍니다. 치명타 시, 피해량이 증가하고 대상의 반격 / 받는 피해 감소 효과를 해제합니다. 대상이 표식 / 회피 감소 상태면 피해량이 추가로 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to the target. On CRIT, damage is increased and the target's Counter Attack / ACC Reduction effects are canceled. If the target is Marked or has EVA reduced, damage is further increased."
+  },
+  "SkillDescSimple_Skill_ST_Ullr_CH_2": {
+    "korean": "{0} 보호 무시 피해. 치명타시 반격 / 받는 피해 감소 효과 해제. 표식 / 회피 감소 상태 대상 추가 피해",
+    "english": "{0} Ignore Protection damage. On CRIT, cancels Counter Attack / ACC Reduction effects. Deals additional damage to targets that are Marked or have reduced EVA"
+  },
+  "SkillDesc_Skill_ST_Ullr_N_3": {
+    "korean": "라운드 개시 시, 인접한 아군 수에 비례하여 공격력 / 치명타 / 방어 관통이 증가합니다. 인접한 아군이 없을 경우, AP가 증가하지만 해제 및 저항 불가의 적중 증가 효과 해제 / 적중 감소 효과가 적용됩니다. 인접한 아군이 <스트라이커즈> 부대원 또는 <X-계열 시험기> 전투원인 경우, 해당 라운드에 첫 행동하는 전투원의 공격을 1회 지원합니다.",
+    "english": "At the start of the round, ATK / CRIT / DEF Penetration increase proportionally to the number of adjacent allies. If no adjacent allies are present, AP increases, but an unremovable and unresistable effect that removes ACC increase and applies ACC reduction is applied. If adjacent allies are <Strikers> squad members or <X-Series Prototype> units, supports the first acting unit’s attack once during that round."
+  },
+  "SkillDescSimple_Skill_ST_Ullr_N_3": {
+    "korean": "공격력 / 치명타 / 방어 관통 증가. 인접 <스트라이커즈>, <X-계열 시험기> 공격 지원",
+    "english": "ATK / CRIT / DEF Penetration increase. Supports attacks of adjacent <Strikers> and <X-Series Prototype> units"
+  },
+  "SkillDesc_Skill_ST_Ullr_CH_4": {
+    "korean": "라운드 개시 시, 후열인 경우 <장거리 저격 모드>가 되어 적중이 영구적으로 증가합니다. 해당 효과는 최대 5중첩까지 가능합니다. 라운드 개시 시, 방어 관통이 증가하고 적중 / 치명타 감소 효과가 해제됩니다. 전열 또는 중열에서 라운드 개시 시, <근거리 대응 모드>로 변환됩니다.",
+    "english": "At the start of the round, if in the back row, enters <Long-range Sniper Mode>, permanently increasing ACC. This effect can stack up to 5 times. At the start of the round, DEF Penetration increases and ACC / CRIT reduction effects are canceled. If in the front or middle row at the start of the round, transforms into <Close-range Response Mode>."
+  },
+  "SkillDescSimple_Skill_ST_Ullr_CH_4": {
+    "korean": "적중 / 방어 관통 증가. 적중 / 치명타 감소 효과 해제",
+    "english": "ACC / DEF Penetration increase. ACC / CRIT reduction effects canceled"
+  },
+  "SkillDesc_Skill_ST_Ullr_N_5": {
+    "korean": "전투 개시 시, 자신을 제외한 <스트라이커즈> 부대원 또는 <X-계열 시험기> 전투원에게 해제 불가의 피해 무효화 1회를 부여합니다. 라운드 개시 시, 자신에게 일정 위력 미만 공격 피해 최소화와 효과 저항 / 강화 해제 저항 증가 효과를 부여합니다. 피격 시, <에너지 집속> 상태가 되며, 중첩 수에 비례하여 다음 공격의 스킬 위력이 증가합니다. <에너지 집속> 상태는 최대 3중첩까지 가능하며, 공격 적중 시 모든 중첩을 소모합니다.",
+    "english": "At the start of battle, grants all <Strikers> squad members or <X-Series Prototype> units except yourself one unremovable Damage Nullification. At the start of each round, grants yourself damage mitigation against attacks below a certain power threshold, increased Effect Resist and increased Buff Removal Resist. When hit, enters <Energy Accumulation> state, increasing the next attack's Skill Power proportionally to the number of stacks. <Energy Accumulation> can stack up to 3 times, and all stacks are consumed upon a successful attack."
+  },
+  "SkillDescSimple_Skill_ST_Ullr_N_5": {
+    "korean": "일정 위력 미만 공격 피해 최소화. 효과 저항 / 강화 해제 저항 증가. 스킬 위력 증가",
+    "english": "Damage mitigation against attacks below a certain power threshold. Effect Resist / Buff Removal Resist increase. Skill Power increase"
+  },
+  "BuffDesc1_Effect_ST_Ullr_CH_42": {
+    "korean": "모드 변환 : 근거리 대응 모드",
+    "english": "Mode Change : Close-range Response Mode"
+  },
+  "BuffDesc1_Effect_ST_Ullr_CH_43": {
+    "korean": "모드 변환 : 근거리 대응 모드",
+    "english": "Mode Change : Close-range Response Mode"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_5": {
+    "korean": "리플렉트 필드 전개 : 위력{0} 미만 피해 최소화",
+    "english": "Deploy Reflect Field : Minimize Damage Below {0} Power"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_51": {
+    "korean": "리플렉트 필드 전개 : 위력{0} 미만 피해 최소화",
+    "english": "Deploy Reflect Field : Minimize Damage Below {0} Power"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_54": {
+    "korean": "분리불안증 : 공격 지원 1회 완료",
+    "english": "Separation Anxiety : One Attack Support Complete"
+  },
+  "BuffDesc1_Effect_ST_Ullr_CH_1": {
+    "korean": "포커스 샷 : 방어 관통{0}%",
+    "english": "Focus Shot : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_CH_1": {
+    "korean": "포커스 샷 : 반격 효과 해제 (치명타 시)",
+    "english": "Focus Shot : Counter Attack Effect Removal (on CRIT)"
+  },
+  "BuffDesc3_Effect_ST_Ullr_CH_1": {
+    "korean": "포커스 샷 : 피해량{0}% (치명타 시)",
+    "english": "Focus Shot : Additional DMG {0}% (On CRIT)"
+  },
+  "BuffDesc1_Effect_ST_Ullr_CH_11": {
+    "korean": "포커스 샷 : 반격 효과 해제",
+    "english": "Focus Shot : Counter Attack Effect Removal"
+  },
+  "BuffDesc2_Effect_ST_Ullr_CH_11": {
+    "korean": "포커스 샷 : 피해량{0}%",
+    "english": "Focus Shot : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_CH_2": {
+    "korean": "리플렉트 샷 : 피해량{0}% (치명타 시)",
+    "english": "Reflect Shot : Additional DMG {0}% (On CRIT)"
+  },
+  "BuffDesc2_Effect_ST_Ullr_CH_2": {
+    "korean": "리플렉트 샷 : 반격 효과 해제 (치명타 시)",
+    "english": "Reflect Shot : Counter Attack Effect Removal (on CRIT)"
+  },
+  "BuffDesc3_Effect_ST_Ullr_CH_2": {
+    "korean": "리플렉트 샷 : 받는 피해 감소 효과 해제 (치명타 시)",
+    "english": "Reflect Shot : DMG Reduction Removal (on CRIT)"
+  },
+  "BuffDesc4_Effect_ST_Ullr_CH_2": {
+    "korean": "리플렉트 샷 : 피해량{0}% (표식/회피 감소)",
+    "english": "Reflect Shot : Additional DMG {0}% (Marked / EVA Decrease)"
+  },
+  "BuffDesc1_Effect_ST_Ullr_CH_21": {
+    "korean": "리플렉트 샷 : 피해량{0}%",
+    "english": "Reflect Shot : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_3": {
+    "korean": "분리불안증 : 공격력{0}%",
+    "english": "Separation Anxiety : ATK {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_3": {
+    "korean": "분리불안증 : 치명타{0}%",
+    "english": "Separation Anxiety : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_ST_Ullr_N_3": {
+    "korean": "분리불안증 : 방어 관통{0}%",
+    "english": "Separation Anxiety : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_ST_Ullr_N_3": {
+    "korean": "분리불안증 : AP{0} (인접 아군 없을 시)",
+    "english": "Separation Anxiety : AP {0} (when there are no adjacent allies)"
+  },
+  "BuffDesc5_Effect_ST_Ullr_N_3": {
+    "korean": "분리불안증 : 적중{0}% (인접 아군 없을 시)",
+    "english": "Separation Anxiety : ACC {0}% (when no adjacent allies)"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_31": {
+    "korean": "분리불안증 : 공격력{0}%",
+    "english": "Separation Anxiety : ATK {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_31": {
+    "korean": "분리불안증 : 치명타{0}%",
+    "english": "Separation Anxiety : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_ST_Ullr_N_31": {
+    "korean": "분리불안증 : 방어 관통{0}%",
+    "english": "Separation Anxiety : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_32": {
+    "korean": "분리불안증 : 공격력{0}%",
+    "english": "Separation Anxiety : ATK {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_32": {
+    "korean": "분리불안증 : 치명타{0}%",
+    "english": "Separation Anxiety : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_ST_Ullr_N_32": {
+    "korean": "분리불안증 : 방어 관통{0}%",
+    "english": "Separation Anxiety : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_33": {
+    "korean": "분리불안증 : 공격력{0}%",
+    "english": "Separation Anxiety : ATK {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_33": {
+    "korean": "분리불안증 : 치명타{0}%",
+    "english": "Separation Anxiety : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_ST_Ullr_N_33": {
+    "korean": "분리불안증 : 방어 관통{0}%",
+    "english": "Separation Anxiety : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_34": {
+    "korean": "분리불안증 : AP{0}",
+    "english": "Separation Anxiety : AP {0}"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_34": {
+    "korean": "분리불안증 : 적중{0}%",
+    "english": "Separation Anxiety : ACC {0}%"
+  },
+  "BuffDesc3_Effect_ST_Ullr_N_34": {
+    "korean": "분리불안증 : 적중 증가 해제",
+    "english": "Separation Anxiety : ACC Buff Removal"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_41": {
+    "korean": "근거리 대응 모드 : 행동력{0}%",
+    "english": "Close-range Response Mode : SPD {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_41": {
+    "korean": "근거리 대응 모드 : 방어막 / 피해 감소 무시",
+    "english": "Close-range Response Mode : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_43": {
+    "korean": "근거리 대응 모드 : 행동력{0}%",
+    "english": "Close-range Response Mode : SPD {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_43": {
+    "korean": "근거리 대응 모드 : 방어막 / 피해 감소 무시",
+    "english": "Close-range Response Mode : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_ST_Ullr_CH_41": {
+    "korean": "장거리 저격 모드 : 방어 관통{0}%",
+    "english": "Long-range Sniper Mode : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_CH_41": {
+    "korean": "장거리 저격 모드 : 적중 감소 효과 해제",
+    "english": "Long-range Sniper Mode : ACC Debuff Removal"
+  },
+  "BuffDesc3_Effect_ST_Ullr_CH_41": {
+    "korean": "장거리 저격 모드 : 치명타 감소 효과 해제",
+    "english": "Long-range Sniper Mode : CRIT Debuff Removal"
+  },
+  "BuffDesc1_Effect_ST_Ullr_CH_44": {
+    "korean": "장거리 저격 모드 : 적중{0}%",
+    "english": "Long-range Sniper Mode : ACC {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_CH_4": {
+    "korean": "장거리 저격 모드 : 적중{0}%",
+    "english": "Long-range Sniper Mode : ACC {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_CH_4": {
+    "korean": "장거리 저격 모드 : 방어 관통{0}%",
+    "english": "Long-range Sniper Mode : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_ST_Ullr_CH_4": {
+    "korean": "장거리 저격 모드 : 적중 감소 효과 해제",
+    "english": "Long-range Sniper Mode : ACC Debuff Removal"
+  },
+  "BuffDesc4_Effect_ST_Ullr_CH_4": {
+    "korean": "장거리 저격 모드 : 치명타 감소 효과 해제",
+    "english": "Long-range Sniper Mode : CRIT Debuff Removal"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_5": {
+    "korean": "리플렉트 필드 전개 : 피해 무효화 1회 (특정 아군)",
+    "english": "Deploy Reflect Field : Damage Nullification 1x (Specific Ally)"
+  },
+  "BuffDesc3_Effect_ST_Ullr_N_5": {
+    "korean": "리플렉트 필드 전개 : 효과 저항{0}%",
+    "english": "Deploy Reflect Field : Status Resist {0}%"
+  },
+  "BuffDesc4_Effect_ST_Ullr_N_5": {
+    "korean": "리플렉트 필드 전개 : 강화 해제 저항{0}%",
+    "english": "Deploy Reflect Field : Buff Removal Resist {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_51": {
+    "korean": "리플렉트 필드 전개 : 효과 저항{0}%",
+    "english": "Deploy Reflect Field : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_ST_Ullr_N_51": {
+    "korean": "리플렉트 필드 전개 : 강화 해제 저항{0}%",
+    "english": "Deploy Reflect Field : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_52": {
+    "korean": "에너지 집속 : 스킬 위력{0}%",
+    "english": "Energy Focus : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_53": {
+    "korean": "분리불안증 : 공격 지원",
+    "english": "Separation Anxiety : Follow-Up Attack"
+  }
+}

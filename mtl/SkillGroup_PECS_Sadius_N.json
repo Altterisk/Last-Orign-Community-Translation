@@ -1,0 +1,234 @@
+{
+  "1002706060": {
+    "korean": "테이져 캐논",
+    "english": "Taser Cannon"
+  },
+  "1002706061": {
+    "korean": "일렉트릭 펜스",
+    "english": "Electric Fence"
+  },
+  "1002706062": {
+    "korean": "출동 지원",
+    "english": "Dispatch Support"
+  },
+  "1002706063": {
+    "korean": "가학성",
+    "english": "Sadism"
+  },
+  "1002706064": {
+    "korean": "가드 오브 시티즌",
+    "english": "Guard of Citizen"
+  },
+  "1002706442": {
+    "korean": "지정 범위에 {0} 전기 속성 피해를 주고 전기 속성 저항을 감소시킵니다. <고전압> 상태에서는 대상의 전기 속성 저항을 크게 감소시키고 1라운드 동안 행동 불가 상태로 만듭니다. 스킬 사용 후 <고전압> 상태는 해제됩니다.",
+    "english": "Deals {0} Electric damage to the designated area and reduces the target’s Electric Resist. While in <High Voltage> state, greatly reduces the target’s Electric Resist and inflicts Stunned for 1 round. After using the skill, the <High Voltage> state is removed."
+  },
+  "1002706645": {
+    "korean": "지정 범위 {0} 전기 피해. 전기 저항 감소 / 행동 불능",
+    "english": "Deals {0} Electric damage to the designated area. Electric Resist Reduction / Stunned"
+  },
+  "1002706443": {
+    "korean": "지정 범위에 {0} 전기 속성 보호 무시 피해를 주고 적 전기 속성 저항 감소 상태일 시 적 행동력을 감소시킵니다. 치명타 시, 피해량이 증가합니다.",
+    "english": "Deals {0} Electric damage that ignores Protect to the designated area, and if the enemy is affected by reduced Electric Resist, reduces their SPD. Damage is increased on a CRIT hit."
+  },
+  "1002706646": {
+    "korean": "지정 범위 {0} 보호 무시 전기 피해. 적 전기 저항 감소 상태 시 행동력 감소, 치명타 시 추가 피해",
+    "english": "Deals {0} Electric damage that ignores Protect to the designated area. If the enemy is affected by reduced Electric Resist, SPD is reduced; on a CRIT, deals additional damage."
+  },
+  "1002706444": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가하며, 아군 인원 3명일 시 공격력, 5명일 시 치명타가 추가 증가합니다. 지정 범위 시티가드 소속 / 경장 보호기를 공격 지원하며, 전투 시작 시 <충전> 상태가 되고 <충전> 상태에서 대기 시 <고전압> 상태로 전환합니다.",
+    "english": "At the start of the round, increases own ATK / CRIT, and when there are 3 allies, ATK is further increased; with 5 allies, CRIT is further increased. Attack Support for City Guard-affiliated / Light Defender units in the designated area, and at the start of battle enters <Charged> state; while waiting in <Charged> state, switches to <High Voltage> state."
+  },
+  "1002706647": {
+    "korean": "자신 공격력 / 치명타 증가, 특정 조건 버프 중첩, 시티가드 소속 / 경장 보호기 공격 지원, 대기시 완충 상태에서 고전압 상태로 전환",
+    "english": "Increases own ATK / CRIT, buffs can stack under certain conditions, provides Attack Support for City Guard-affiliated / Light Defender units, and when waiting, switches from Charged state to High Voltage state."
+  },
+  "1002706445": {
+    "korean": "공격 적중 시 지정 범위 아군 공격력 / 행동력이 최대 3중첩하여 증가합니다.",
+    "english": "When an attack hits, increases ATK / SPD of allies in the designated area, stacking up to 3 times."
+  },
+  "1002706648": {
+    "korean": "행동력 / 공격력 최대 3중첩 증가",
+    "english": "SPD / ATK increase up to 3 stacks."
+  },
+  "1002706446": {
+    "korean": "스쿼드 내 시티가드 소속 전투원 수에 따라 자신의 공격력 / 치명타가 추가로 증가합니다. 지정 범위 아군 전기 속성 저항이 증가합니다.",
+    "english": "Increases own ATK / CRIT further based on the number of City Guard-affiliated units in the squad. Increases Electric Resist of allies in the designated area."
+  },
+  "1002706649": {
+    "korean": "지정 범위 아군 전기 저항 증가, 시티가드 소속 스쿼드 시 자신 공격력 / 치명타 중첩 증가",
+    "english": "Increases Electric Resist of allies in the designated area, and if in a City Guard-affiliated squad, own ATK / CRIT stacking is further increased."
+  },
+  "1000108043": {
+    "korean": "테이져 캐논 : 전기 속성 저항력 {0}%",
+    "english": "Taser Cannon : Electric Resist {0}%"
+  },
+  "1000108073": {
+    "korean": "테이져 캐논 : 전기 속성 저항력 {0}%",
+    "english": "Taser Cannon : Electric Resist {0}%"
+  },
+  "1000108049": {
+    "korean": "테이져 캐논 : 고전압 해제",
+    "english": "Taser Cannon : High Voltage Released"
+  },
+  "1000108087": {
+    "korean": "출동 지원 : 충전",
+    "english": "Dispatch Support : Charged"
+  },
+  "1000108089": {
+    "korean": "출동 지원 : 고전압",
+    "english": "Dispatch Support : High Voltage"
+  },
+  "1000108054": {
+    "korean": "출동 지원 : 충전",
+    "english": "Dispatch Support : Charged"
+  },
+  "1000108055": {
+    "korean": "출동 지원 : 고전압",
+    "english": "Dispatch Support : High Voltage"
+  },
+  "1000108092": {
+    "korean": "테이져 캐논 : 충전 해제",
+    "english": "Taser Cannon : Charge Released"
+  },
+  "1000108047": {
+    "korean": "가드 오브 시티즌 : 전기 속성 저항력{0}%",
+    "english": "Guard of Citizen : Electric Resist {0}%"
+  },
+  "1000108069": {
+    "korean": "테이져 캐논 : 행동 불가(고전압)",
+    "english": "Taser Cannon : Stunned (High Voltage)"
+  },
+  "1000108048": {
+    "korean": "테이져 캐논 : 행동 불가(고전압)",
+    "english": "Taser Cannon : Stunned (High Voltage)"
+  },
+  "1000108044": {
+    "korean": "일렉트릭 펜스 : 행동력 {0}%",
+    "english": "Electric Fence : SPD {0}%"
+  },
+  "1000109115": {
+    "korean": "일렉트릭 펜스 : 피해량{0}%(전기)",
+    "english": "Electric Fence : Additional DMG {0}% (Electric)"
+  },
+  "1000108045": {
+    "korean": "출동 지원 : 공격력{0}%",
+    "english": "Deployment Support : ATK {0}%"
+  },
+  "1000108070": {
+    "korean": "출동 지원 : 치명타{0}%",
+    "english": "Deployment Support : CRIT {0}%"
+  },
+  "1000108082": {
+    "korean": "출동 지원 : 공격 지원(특정)",
+    "english": "Deployment Support : Follow-Up Attack (Conditional)"
+  },
+  "1000108050": {
+    "korean": "출동 지원 : 공격력{0}%(아군 3인)",
+    "english": "Deployment Support : ATK {0}% (Ally 3 Units)"
+  },
+  "1000108051": {
+    "korean": "출동 지원 : 치명타{0}%(아군 5인)",
+    "english": "Deployment Support : CRIT {0}% (Ally 5 Units)"
+  },
+  "1000108052": {
+    "korean": "출동 지원 : 공격 지원(시티가드)",
+    "english": "Deployment Support : Follow-Up Attack (City Guard)"
+  },
+  "1000108053": {
+    "korean": "출동 지원 : 공격 지원(경장 보호기)",
+    "english": "Deployment Support : Follow-Up Attack (Light Defender)"
+  },
+  "1000108046": {
+    "korean": "가학성 : 행동력{0}%",
+    "english": "Sadism : SPD {0}%"
+  },
+  "1000108071": {
+    "korean": "가학성 : 공격력{0}%",
+    "english": "Sadism : ATK {0}%"
+  },
+  "1000108056": {
+    "korean": "가학성 : 공격력{0}%",
+    "english": "Sadism : ATK {0}%"
+  },
+  "1000108072": {
+    "korean": "가드 오브 시티즌: 공격력{0}%",
+    "english": "Guard of Citizen : ATK {0}%"
+  },
+  "1000108083": {
+    "korean": "가드 오브 시티즌 : 치명타{0}%",
+    "english": "Guard of Citizen : CRIT {0}%"
+  },
+  "1000108057": {
+    "korean": "가드 오브 시티즌: 공격력{0}%(프로스트 서펀트)",
+    "english": "Guard of Citizen : ATK {0}% (Frost Serpent)"
+  },
+  "1000108074": {
+    "korean": "가드 오브 시티즌 : 치명타{0}%(프로스트 서펀트)",
+    "english": "Guard of Citizen : CRIT {0}% (Frost Serpent)"
+  },
+  "1000108058": {
+    "korean": "가드 오브 시티즌: 공격력{0}%(미스세이프티)",
+    "english": "Guard of Citizen : ATK {0}% (Miss Safety)"
+  },
+  "1000108075": {
+    "korean": "가드 오브 시티즌 : 치명타{0}%(미스세이프티)",
+    "english": "Guard of Citizen : CRIT {0}% (Miss Safety)"
+  },
+  "1000108059": {
+    "korean": "가드 오브 시티즌: 공격력{0}%(켈베로스)",
+    "english": "Guard of Citizen : ATK {0}% (Cerberus)"
+  },
+  "1000108076": {
+    "korean": "가드 오브 시티즌 : 치명타{0}%(켈베로스)",
+    "english": "Guard of Citizen : CRIT {0}% (Cerberus)"
+  },
+  "1000108060": {
+    "korean": "가드 오브 시티즌: 공격력{0}%(램파트)",
+    "english": "Guard of Citizen : ATK {0}% (Rampart)"
+  },
+  "1000108077": {
+    "korean": "가드 오브 시티즌 : 치명타{0}%(램파트)",
+    "english": "Guard of Citizen : CRIT {0}% (Rampart)"
+  },
+  "1000108061": {
+    "korean": "가드 오브 시티즌: 공격력{0}%(펍 헤드)",
+    "english": "Guard of Citizen : ATK {0}% (Pupp Head)"
+  },
+  "1000108078": {
+    "korean": "가드 오브 시티즌 : 치명타{0}%(펍 헤드)",
+    "english": "Guard of Citizen : CRIT {0}% (Pupp Head)"
+  },
+  "1000108096": {
+    "korean": "가드 오브 시티즌 : 공격력{0}%(징벌의 사디어스)",
+    "english": "Guard of Citizen : ATK {0}% (Sadius)"
+  },
+  "1000108097": {
+    "korean": "가드 오브 시티즌 : 치명타{0}%(징벌의 사디어스)",
+    "english": "Guard of Citizen : CRIT {0}% (Sadius)"
+  },
+  "1000108800": {
+    "korean": "가드 오브 시티즌: 공격력{0}%(자비로운 리앤)",
+    "english": "Guard of Citizen : ATK {0}% (Merciful Leanne)"
+  },
+  "1000108801": {
+    "korean": "가드 오브 시티즌 : 치명타{0}%(자비로운 리앤)",
+    "english": "Guard of Citizen : CRIT {0}% (Merciful Leanne)"
+  },
+  "BuffDesc1_Effect_PECS_Sadius_N_58": {
+    "korean": "가드 오브 시티즌: 공격력 {0}%(유린의 소니아)",
+    "english": "Guard of Citizen : ATK {0}% (Sonia)"
+  },
+  "BuffDesc2_Effect_PECS_Sadius_N_58": {
+    "korean": "가드 오브 시티즌 : 치명타 {0}%(유린의 소니아)",
+    "english": "Guard of Citizen : CRIT {0}% (Sonia)"
+  },
+  "BuffDesc1_Effect_PECS_Sadius_N_59": {
+    "korean": "가드 오브 시티즌: 공격력 {0}%(잉글리쉬 셰퍼드)",
+    "english": "Guard of Citizen : ATK {0}% (English Shepherd)"
+  },
+  "BuffDesc2_Effect_PECS_Sadius_N_59": {
+    "korean": "가드 오브 시티즌 : 치명타 {0}%(잉글리쉬 셰퍼드)",
+    "english": "Guard of Citizen : CRIT {0}% (English Shepherd)"
+  }
+}

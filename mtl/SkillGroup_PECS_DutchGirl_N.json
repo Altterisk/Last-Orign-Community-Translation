@@ -1,0 +1,94 @@
+{
+  "1002700082": {
+    "korean": "스크류 벙커 샷",
+    "english": "Screw Bunker Shot"
+  },
+  "1002700083": {
+    "korean": "다이너마이트 웜",
+    "english": "Dynamite Worm"
+  },
+  "1002701929": {
+    "korean": "숙련된 채굴",
+    "english": "Skilled Mining"
+  },
+  "1002702846": {
+    "korean": "신형 채굴 장비",
+    "english": "Advanced Mining Equipment"
+  },
+  "1002703707": {
+    "korean": "드릴을 발사해 {0} 피해를 주며, 3라운드 동안 대상의 방어력을 낮춥니다. 치명타 시, 피해량이 증가합니다.",
+    "english": "Fires a drill to deal {0} damage and reduces the target's DEF for 3 rounds. On CRIT, damage is increased."
+  },
+  "1002702928": {
+    "korean": "단일 대상 {0} 피해. 방어력 감소 / 치명타 시, 피해량 증가",
+    "english": "Single target {0} damage. DEF reduction / damage increased on CRIT"
+  },
+  "1002706119": {
+    "korean": "굴착용 폭탄으로 대상과 대상 주변에 {0} 피해를 줍니다. 보호 효과를 무시하며, 적이 처치된 경우 연쇄 폭발로 범위 내 적에게 고정 물리 피해를 줍니다. 스킬 레벨 5부터 범위가 증가합니다.",
+    "english": "Deals {0} damage to the target and surrounding enemies with a drilling bomb. Ignores protection effects, and if the enemy is defeated, causes a chain explosion that deals Fixed Physical DMG to enemies within range. From skill level 5, the range increases."
+  },
+  "1002702929": {
+    "korean": "목표 지점 {0} 피해. 적 처치 시, 추가 고정 피해",
+    "english": "Target point {0} damage. Additional Fixed DMG on enemy kill."
+  },
+  "1002706232": {
+    "korean": "채굴 레벨이 늘어, 공격력 / 치명타 / 방어 관통이 증가합니다.",
+    "english": "Mining level increases, increasing ATK / CRIT / DEF Penetration."
+  },
+  "1002703425": {
+    "korean": "공격력 / 치명타 / 방어 관통 증가",
+    "english": "ATK / CRIT / DEF Penetration increase"
+  },
+  "1002706260": {
+    "korean": "라운드 개시 시, 효과 저항 / 대 경장형 & 중장형 피해량이 증가하며 받는 피해가 감소합니다. 해당 효과가 활성화 된 상태에서 경장 / 중장형 적에게 <다이너마이트 웜> 치명타 적중 시, 2라운드 동안 대상이 받는 피해가 증가합니다.",
+    "english": "At the start of the round, Status Resist and Anti-Light DMG and Anti-Heavy DMG increase, and DMG Reduction applies. While this effect is active, if a CRIT from <Dynamite Worm> hits a Light or Heavy enemy, the target's DMG Taken is increased for 2 rounds."
+  },
+  "1002706553": {
+    "korean": "받는 피해 감소. 효과 저항 / 대 경장&중장형 피해량 증가. <다이너마이트 웜> 강화",
+    "english": "DMG Reduction. Status Resist / Anti-Light DMG and Anti-Heavy DMG increase. <Dynamite Worm> enhanced."
+  },
+  "1000102539": {
+    "korean": "스크류 벙커 샷 : 방어력 {0}%",
+    "english": "Screw Bunker Shot : DEF {0}%"
+  },
+  "1000102540": {
+    "korean": "연쇄 폭파 : 공격력 {0}% 고정 피해",
+    "english": "Chain Detonation : ATK {0}% Fixed DMG"
+  },
+  "1000106529": {
+    "korean": "지반 파쇄 : 받는 피해{0}%",
+    "english": "Ground Shatter : DMG Taken {0}%"
+  },
+  "1000103576": {
+    "korean": "숙련된 채굴 : 공격력{0}%",
+    "english": "Skilled Mining : ATK {0}%"
+  },
+  "1000104683": {
+    "korean": "숙련된 채굴 : 치명타{0}%",
+    "english": "Skilled Mining : CRIT {0}%"
+  },
+  "1000105186": {
+    "korean": "숙련된 채굴 : 방어 관통{0}%",
+    "english": "Skilled Mining : DEF Penetration {0}%"
+  },
+  "1000104187": {
+    "korean": "신형 안전 장비 : 받는 피해 감소 {0}%",
+    "english": "Advanced Safety Gear : DMG Reduction {0}%"
+  },
+  "1000104921": {
+    "korean": "신형 안전 장비 : 효과 저항{0}%",
+    "english": "Advanced Safety Gear : Status Resist {0}%"
+  },
+  "1000105344": {
+    "korean": "신형 발파 장비 : 대 경장 피해량{0}%",
+    "english": "Advanced Demolition Gear : Anti-Light DMG {0}%"
+  },
+  "1000105531": {
+    "korean": "신형 발파 장비 : 대 중장 피해량{0}%",
+    "english": "Advanced Demolition Gear : Anti-Heavy DMG {0}%"
+  },
+  "1000106988": {
+    "korean": "지반 파쇄 : 받는 피해{0}% (경장/중장)",
+    "english": "Ground Shatter : DMG Taken {0}% (Light/Heavy)"
+  }
+}

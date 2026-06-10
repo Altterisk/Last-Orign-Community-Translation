@@ -1,0 +1,186 @@
+{
+  "1002701586": {
+    "korean": "심판",
+    "english": "Judgment"
+  },
+  "1002701587": {
+    "korean": "수호 천사",
+    "english": "Guardian Angel"
+  },
+  "1002701588": {
+    "korean": "신의 가호",
+    "english": "Divine Blessing"
+  },
+  "1002701589": {
+    "korean": "재림",
+    "english": "Rebirth"
+  },
+  "1001700195": {
+    "korean": "성전",
+    "english": "Holy War"
+  },
+  "1002704145": {
+    "korean": "지정 범위에 {0} 피해를 주고, 2라운드 동안 대상에게 표식 / 받는 피해 증가 / 공격력 / 치명타 감소 효과를 줍니다.",
+    "english": "Deals {0} damage to a designated area and grants the target Mark / DMG Taken Increased / ATK Reduction / CRIT Reduction for 2 rounds."
+  },
+  "1002703401": {
+    "korean": "지정 범위 {0} 피해. 표식 / 피해 증폭 / 공격력 / 치명타 감소",
+    "english": "Designated area {0} DMG. Mark / Damage Amplification / ATK Reduction / CRIT Reduction"
+  },
+  "1002704146": {
+    "korean": "2라운드 동안 주변 아군에게 방어막을 부여하며, 공격력 / 방어력 / 적중 / 회피를 증가시킵니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "Grants nearby allies a Barrier for 2 rounds and increases their ATK, DEF, ACC, and EVA. At skill level 10, the range increases."
+  },
+  "1002703402": {
+    "korean": "인접 아군 공격력 / 방어력 / 적중 / 회피 증가 / 방어막 부여",
+    "english": "Adjacent allies gain increased ATK, DEF, ACC, EVA, and a Barrier"
+  },
+  "1002704147": {
+    "korean": "라운드 개시 시, 방어막 / 받는 피해 감소 / 열 보호 효과가 적용됩니다. <재림> 상태인 경우, 효과가 50% 증가합니다. 자신의 HP%가 낮을수록 적에게 주는 피해량이 증가합니다.",
+    "english": "At the start of the round, Barrier / DMG Reduction / Column Protect are applied. If in the <Rebirth> state, the effects are increased by 50%. The lower this unit's HP%, the more damage it deals to enemies."
+  },
+  "1002703403": {
+    "korean": "라운드 개시 시, 방어막 / 받는 피해 감소 / 열 보호. 자신 HP% 적을수록 피해량 증가",
+    "english": "At the start of the round, Barrier / DMG Reduction / Column Protect. Damage dealt increases as own HP% decreases"
+  },
+  "1002704148": {
+    "korean": "전투 개시 시, 전투 속행 효과가 적용됩니다. 전투 속행 발동 시, 행동력 / 효과 저항이 증가하며 <심판>과 <신의 가호> 효과가 50% 증가합니다. 전투 속행이 발동한 라운드에는 최소 피해만 입으며, 모든 아군을 지정 보호합니다.",
+    "english": "At the start of battle, gains the Combat Continuation effect. When Combat Continuation activates, this unit's SPD and Status Resist increase, and the effects of <Judgment> and <Divine Blessing> are increased by 50%. During the round in which Combat Continuation activates, this unit only takes minimal damage and provides Target Protect to all allies."
+  },
+  "1002703404": {
+    "korean": "전투 속행 / 전투 속행 발동 라운드 입는 피해 최소화, 모든 아군 지정 보호",
+    "english": "Grants Combat Continuation. In the activation round, damage received is minimized and all allies are protected via Target Protect"
+  },
+  "1002704149": {
+    "korean": "전투 개시 시, 인접한 아군에게 전투 속행 / 피해 무효화 (1회) 효과를 부여합니다. 라운드 개시 시, HP가 50% 이하인 대상을 지정 보호합니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of battle, grants adjacent allies Combat Continuation and Damage Nullification (1x). At the start of the round, provides Target Protect to an ally whose HP is 50% or lower. At skill level 10, the range increases."
+  },
+  "1002703405": {
+    "korean": "인접 아군에게 전투 속행 / 피해 무효화 (1회) / HP 50% 이하 아군 지정 보호",
+    "english": "Grants adjacent allies Combat Continuation, 1-time Damage Nullification, and Target Protect for allies with 50% HP or less"
+  },
+  "1000105437": {
+    "korean": "신의 가호 : 내 HP% 적을수록 피해량{0}%",
+    "english": "Divine Blessing : Damage increases as my HP% decreases by {0}%"
+  },
+  "1000104604": {
+    "korean": "재림 : 전투 속행 라운드 피해 최소화",
+    "english": "Rebirth : Minimize Damage During Combat Continuation Rounds"
+  },
+  "1000105566": {
+    "korean": "재림 : 모든 아군 보호 (전투 속행 시)",
+    "english": "Rebirth : Protect all allies (On Combat Continuation)"
+  },
+  "1000103974": {
+    "korean": "재림 : 모든 아군 지정 보호",
+    "english": "Rebirth : Protect all designated allies"
+  },
+  "1000103383": {
+    "korean": "심판 : 표식 설정",
+    "english": "judgment : Marks target"
+  },
+  "1000104601": {
+    "korean": "심판 : 받는 피해{0}%",
+    "english": "judgment : DMG Taken {0}%"
+  },
+  "1000105132": {
+    "korean": "심판 : 공격력 {0}%",
+    "english": "judgment : ATK {0}%"
+  },
+  "1000105435": {
+    "korean": "심판 : 치명타 {0}%",
+    "english": "judgment : CRIT {0}%"
+  },
+  "1000103388": {
+    "korean": "심판 (재림) : 받는 피해{0}%",
+    "english": "Judgment <Rebirth> : DMG Taken {0}%"
+  },
+  "1000104605": {
+    "korean": "심판 (재림) : 공격력 {0}%",
+    "english": "Judgment <Rebirth> : ATK {0}%"
+  },
+  "1000105137": {
+    "korean": "심판 (재림) : 치명타 {0}%",
+    "english": "Judgment <Rebirth> : CRIT {0}%"
+  },
+  "1000103384": {
+    "korean": "수호 천사 : 방어막{0}",
+    "english": "Guardian Angel : Barrier {0}"
+  },
+  "1000104602": {
+    "korean": "수호 천사 : 공격력{0}%",
+    "english": "Guardian Angel : ATK {0}%"
+  },
+  "1000105133": {
+    "korean": "수호 천사 : 방어력{0}%",
+    "english": "Guardian Angel : DEF {0}%"
+  },
+  "1000105436": {
+    "korean": "수호 천사 : 적중{0}%",
+    "english": "Guardian Angel : ACC {0}%"
+  },
+  "1000105565": {
+    "korean": "수호 천사 : 회피{0}%",
+    "english": "Guardian Angel : EVA {0}%"
+  },
+  "1000103385": {
+    "korean": "신의 가호 : 방어막{0}",
+    "english": "God's protection : Barrier {0}"
+  },
+  "1000104603": {
+    "korean": "신의 가호 : 받는 피해 감소 {0}%",
+    "english": "God's protection : DMG Reduction {0}%"
+  },
+  "1000105134": {
+    "korean": "신의 가호 : 열 보호",
+    "english": "God's protection : Column Protect"
+  },
+  "1000103389": {
+    "korean": "신의 가호 (재림) : 방어막{0}",
+    "english": "Divine Blessing <Rebirth> : Barrier {0}"
+  },
+  "1000104606": {
+    "korean": "신의 가호 (재림) : 받는 피해 감소 {0}%",
+    "english": "Divine Blessing <Rebirth> : DMG Reduction {0}%"
+  },
+  "1000103386": {
+    "korean": "재림 : {0} HP 전투 속행",
+    "english": "Second Coming : Battle Continuation with {0} HP"
+  },
+  "1000105135": {
+    "korean": "재림 : 행동력{0}% (전투 속행 시)",
+    "english": "Second Coming : SPD {0}% (On Battle Continue)"
+  },
+  "1000105438": {
+    "korean": "재림 : 효과 저항{0}% (전투 속행 시)",
+    "english": "Second Coming : Status Resist {0}% (On Battle Continue)"
+  },
+  "1000101310": {
+    "korean": "재림 : 피해 최소화",
+    "english": "Second Coming : Minimize Damage"
+  },
+  "1000103390": {
+    "korean": "재림 : 행동력{0}%",
+    "english": "Second Coming : SPD {0}%"
+  },
+  "1000104607": {
+    "korean": "재림 : 효과 저항{0}%",
+    "english": "Second Coming : Status Resist {0}%"
+  },
+  "1000103387": {
+    "korean": "성전 : {0} HP 전투 속행 (1회)",
+    "english": "Holy War : Battle Continuation with {0} HP (1x)"
+  },
+  "1000103394": {
+    "korean": "성전 : 피해 무효화 {0}회",
+    "english": "Holy War : Damage Nullification {0}x"
+  },
+  "1000105136": {
+    "korean": "성전 : 지정 대상 보호 (HP 50% 이하)",
+    "english": "Holy War : Target Protect (HP 50% or below)"
+  },
+  "1000103978": {
+    "korean": "성전 : 지정 대상 보호",
+    "english": "Holy War : Target Protect"
+  }
+}

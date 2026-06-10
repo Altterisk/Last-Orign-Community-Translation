@@ -1,0 +1,102 @@
+{
+  "SkillName_Skill_ST_Ullr_N_1": {
+    "korean": "확산 사격",
+    "english": "Spread Shot"
+  },
+  "SkillName_Skill_ST_Ullr_N_2": {
+    "korean": "전방위 사격",
+    "english": "All-Around Fire"
+  },
+  "SkillName_Skill_ST_Ullr_N_4": {
+    "korean": "근거리 대응 모드",
+    "english": "Close-Range Response Mode"
+  },
+  "SkillDesc_Skill_ST_Ullr_N_1": {
+    "korean": "지정 범위에 {0} 피해를 줍니다. 대상이 경장형 / 기동형이거나 이동 불가 / 회피 감소 상태면 피해량이 증가합니다.",
+    "english": "Deals {0} damage to the designated area. Damage is increased against Light or Air targets, or those that are Rooted or have EVA Reduction."
+  },
+  "SkillDescSimple_Skill_ST_Ullr_N_1": {
+    "korean": "{0} 피해. 대 경장형 / 기동형 피해량 증가. 이동 불가 / 회피 감소 상태 대상 피해량 증가",
+    "english": "{0} damage. Anti-Light DMG / Air DMG increase. Rooted / EVA Reduction target damage increase"
+  },
+  "SkillDesc_Skill_ST_Ullr_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점에는 50%, 가장 바깥쪽은 75% 피해만 적용됩니다. 공격 시, 대상의 회피 증가 효과를 해제하고, 치명타 시 피해량이 증가합니다. 대상이 이동 불가 / 회피 감소 상태면 2라운드 동안 받는 피해가 증가합니다. 해당 효과는 중첩되지 않습니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. 50% damage is applied at the target point, and 75% at the outermost area. When attacking, removes the target’s EVA increase effect, and damage is increased on CRIT. If the target is Rooted or has EVA Reduction, DMG Taken is increased for 2 rounds. This effect does not stack."
+  },
+  "SkillDescSimple_Skill_ST_Ullr_N_2": {
+    "korean": "{0} 보호 무시 피해. 회피 증가 효과 해제. 치명타 시 추가 피해. 이동 불가 / 회피 감소 상태 대상 받는 피해 증가",
+    "english": "{0} Ignore Protection damage. Removes EVA increase effect. Additional damage on CRIT. Rooted / EVA Reduction target DMG Taken increase"
+  },
+  "SkillDesc_Skill_ST_Ullr_N_4": {
+    "korean": "라운드 개시 시, 전열 또는 중열인 경우 <근거리 대응 모드>가 되어 행동력이 증가하고 방어막 / 피해 감소 무시 효과를 얻습니다. 후열에서 라운드 개시 시, <장거리 저격 모드>로 변환됩니다.",
+    "english": "At the start of the round, if positioned in the front or middle row, enters <Close-Range Response Mode>, increasing SPD and gaining Ignore Barrier / DMG Reduction. If positioned in the back row at the start of the round, switches to <Long-Range Sniper Mode>."
+  },
+  "SkillDescSimple_Skill_ST_Ullr_N_4": {
+    "korean": "전열 또는 중열인 경우 행동력 증가, 방어막 / 피해 감소 무시",
+    "english": "SPD increase, Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_42": {
+    "korean": "모드 변환 : 장거리 저격 모드",
+    "english": "Mode Change : Long-Range Sniper Mode"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_5": {
+    "korean": "리플렉트 필드 전개 : 위력{0} 미만 피해 최소화",
+    "english": "Deploy Reflect Field : Minimize Damage below {0} Power"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_51": {
+    "korean": "리플렉트 필드 전개 : 위력{0} 미만 피해 최소화",
+    "english": "Deploy Reflect Field : Minimize Damage below {0} Power"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_54": {
+    "korean": "분리불안증 : 공격 지원 1회 완료",
+    "english": "Separation Anxiety : One Attack Support Complete"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_1": {
+    "korean": "확산 사격 : 피해량{0}%",
+    "english": "Spread Shot : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_1": {
+    "korean": "확산 사격 : 대 경장형 피해량{0}%",
+    "english": "Spread Shot : Anti-Light DMG {0}%"
+  },
+  "BuffDesc3_Effect_ST_Ullr_N_1": {
+    "korean": "확산 사격 : 대 기동형 피해량{0}%",
+    "english": "Spread Shot : Anti-Air DMG {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_11": {
+    "korean": "확산 사격 : 대 경장형 피해량{0}%",
+    "english": "Spread Shot : Anti-Light DMG {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_11": {
+    "korean": "확산 사격 : 대 기동형 피해량{0}%",
+    "english": "Spread Shot : Anti-Air DMG {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_2": {
+    "korean": "전방위 사격 : 회피 증가 해제",
+    "english": "All-Around Fire : EVA Buff Removal"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_2": {
+    "korean": "전방위 사격 : 피해량{0}% (치명타 시)",
+    "english": "All-Around Fire : Additional DMG {0}% (On CRIT)"
+  },
+  "BuffDesc3_Effect_ST_Ullr_N_2": {
+    "korean": "전방위 사격 : 받는 피해{0}%",
+    "english": "All-Around Fire : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_21": {
+    "korean": "전방위 사격 : 피해량{0}%",
+    "english": "All-Around Fire : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_22": {
+    "korean": "전방위 사격 : 받는 피해{0}%",
+    "english": "All-Around Fire : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_ST_Ullr_N_4": {
+    "korean": "근거리 대응 모드 : 행동력{0}%",
+    "english": "Close-Range Response Mode : SPD {0}%"
+  },
+  "BuffDesc2_Effect_ST_Ullr_N_4": {
+    "korean": "근거리 대응 모드 : 방어막 / 피해 감소 무시",
+    "english": "Close-Range Response Mode : Ignore Barrier / DMG Reduction"
+  }
+}

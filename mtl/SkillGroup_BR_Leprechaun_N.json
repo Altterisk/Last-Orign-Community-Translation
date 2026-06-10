@@ -53,11 +53,11 @@
   },
   "SkillDesc_Skill_BR_Leprechaun_N_3": {
     "korean": "라운드 개시 시, 공격력 / 적중 / 행동력이 증가합니다. 범위 내에 자신을 제외한 <스틸라인 계통> 부대원 또는 지원기에게 공격 지원 효과를 부여합니다. 라운드 개시 시, 스쿼드 내에 브라우니가 있으면 받는 피해 증가 효과를 제거합니다.",
-    "english": "At the start of the round, ATK, ACC, and SPD increase. Grants Attack Support to <Steel Line> units or Supporters within range, excluding self. At the start of the round, if Brownie is in the squad, removes any DMG Taken Increased effect."
+    "english": "At the start of the round, ATK, ACC, and SPD increase. Grants Follow-Up Attack to <Steel Line> units or Supporters within range, excluding self. At the start of the round, if Brownie is in the squad, removes any DMG Taken Increased effect."
   },
   "SkillDescSimple_Skill_BR_Leprechaun_N_3": {
     "korean": "공격력 / 적중 / 행동력 증가 / 스틸라인 계통 공격 지원",
-    "english": "ATK, ACC, SPD increase / Steel Line Attack Support"
+    "english": "ATK, ACC, SPD increase / Steel Line Follow-Up Attack"
   },
   "BuffDesc1_Effect_BR_Leprechaun_N_3": {
     "korean": "포메이션 재정비 : 공격력{0}%",
@@ -73,7 +73,7 @@
   },
   "BuffDesc4_Effect_BR_Leprechaun_N_3": {
     "korean": "포메이션 재정비 : 공격 지원 (스틸라인,지원기)",
-    "english": "Formation Reorganization: Attack Support (Steel Line, Supporter)"
+    "english": "Formation Reorganization : Follow-Up Attack (Steel Line, Supporter)"
   },
   "BuffDesc1_Effect_BR_Leprechaun_N_31": {
     "korean": "포메이션 재정비 : 공격 지원 (스틸라인)",
@@ -129,7 +129,7 @@
   },
   "SkillDesc_Skill_BR_Leprechaun_N_5": {
     "korean": "라운드 개시 시, 치명타가 증가하고 스쿼드 내에 <스틸라인 계통 지원기>가 있는 경우 기본 효과가 추가 적용됩니다. 라운드 개시 시,  자신에게 스킬 위력 증가 효과가 적용 중인 경우 공격력 증가 / 재공격이 부여됩니다.  공격 지원 시, 최대 5회까지 방어 관통 / 스킬 위력이 증가합니다.",
-    "english": "At the start of the round, CRIT increases. If a <Steel Line Supporter> is in the squad, the base effect is applied additionally. At the start of the round, if a Skill Power increase effect is active on self, gains ATK increase and Reattack. When providing Attack Support, DEF Penetration and Skill Power increase up to 5 times."
+    "english": "At the start of the round, CRIT increases. If a <Steel Line Supporter> is in the squad, the base effect is applied additionally. At the start of the round, if a Skill Power increase effect is active on self, gains ATK increase and Reattack. When providing Follow-Up Attack, DEF Penetration and Skill Power increase up to 5 times."
   },
   "SkillDescSimple_Skill_BR_Leprechaun_N_5": {
     "korean": "치명타 / 조건부로 공격력, 방어 관통, 스킬 위력 증가",

@@ -1,0 +1,186 @@
+{
+  "SkillName_Skill_PECS_Babariana_N_1": {
+    "korean": "불청객 제압",
+    "english": "Uninvited Guest Suppression"
+  },
+  "SkillName_Skill_PECS_Babariana_N_2": {
+    "korean": "철거 개시",
+    "english": "Demolition Start"
+  },
+  "SkillName_Skill_PECS_Babariana_N_3": {
+    "korean": "숙련된 철거 기술",
+    "english": "Skilled Demolition"
+  },
+  "SkillName_Skill_PECS_Babariana_N_4": {
+    "korean": "철거 준비",
+    "english": "Demolition Preparation"
+  },
+  "SkillName_Skill_PECS_Babariana_N_5": {
+    "korean": "Tool Box Meeting",
+    "english": "Tool Box Meeting"
+  },
+  "SkillDesc_Skill_PECS_Babariana_N_1": {
+    "korean": "지정 범위에 {0} 피해를 주고, 2라운드 동안 대상을 도발하며 공격력 / 치명타를 감소시킵니다.&n치명타 시, 해당 라운드 동안 대상을 스킬 사용 불가 상태로 만듭니다.",
+    "english": "Deals {0} damage to the designated area and Provokes the target for 2 rounds, reducing ATK and CRIT. On a critical hit, the target is Silenced for the rest of the round."
+  },
+  "SkillDescSimple_Skill_PECS_Babariana_N_1": {
+    "korean": "지정 범위 {0} 피해. 도발 / 공격력 / 치명타 감소. 치명타 시, 스킬 사용 불가.",
+    "english": "Deals {0} damage to designated area. Provokes / ATK / CRIT reduced. On critical, Silenced."
+  },
+  "SkillDesc_Skill_PECS_Babariana_N_2": {
+    "korean": "지정 대상에게 {0} 피해를 주고, 2라운드 동안 대상의 방어력을 감소시키며 받는 피해를 증가시킵니다.&n치명타 시, 대상의 방어력 증가 / 받는 피해 감소 효과를 해제합니다.",
+    "english": "Deals {0} damage to the designated target, reducing DEF and increasing DMG Taken for 2 rounds. On a critical hit, removes the target’s DEF increase and DMG Reduction effects."
+  },
+  "SkillDescSimple_Skill_PECS_Babariana_N_2": {
+    "korean": "지정 대상 {0} 피해. 방어력 감소 / 받는 피해 증가. 치명타 시, 방어력 증가 / 받는 피해 감소 해제.",
+    "english": "Deals {0} damage to designated target. DEF reduced / DMG Taken Increased. On critical, DEF Up / DMG Reduction removed."
+  },
+  "SkillDesc_Skill_PECS_Babariana_N_3": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타 / 방어 관통이 증가합니다.&n라운드 개시 시, 자신은 받는 피해가 감소하며 효과 저항이 증가합니다.",
+    "english": "At the start of the round, increases own ATK, CRIT and DEF Penetration. Also reduces DMG Taken and increases Status Resist."
+  },
+  "SkillDescSimple_Skill_PECS_Babariana_N_3": {
+    "korean": "공격력 / 치명타 / 방어 관통 / 효과 저항 증가. 받는 피해 감소.",
+    "english": "ATK / CRIT / DEF Penetration / Status Resist increased. DMG Reduction."
+  },
+  "SkillDesc_Skill_PECS_Babariana_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군 공격기 / 지원기를 지정 보호합니다.&n라운드 개시 시, 범위 내 아군의 방어 관통을 증가시킵니다. 대상이 후열에 가까울 수록 효과가 증폭됩니다.&n전투 개시 시, 범위 내 아군에게 방어 관통 감소 면역 효과를 부여합니다.",
+    "english": "At the start of the round, grants Target Protect to allied Attacker and Supporter units within range. At the start of the round, increases allies' DEF Penetration; the effect is stronger the closer the target is to the back row. At the start of battle, grants allies within range immunity to DEF Penetration reduction."
+  },
+  "SkillDescSimple_Skill_PECS_Babariana_N_4": {
+    "korean": "범위 내 아군 방어 관통 증가 / 방어 관통 감소 면역. 공격기 / 지원기 지정 보호.",
+    "english": "Allies within range gain DEF Penetration increased / immunity to DEF Penetration reduction. Attacker / Supporter Target Protect."
+  },
+  "SkillDesc_Skill_PECS_Babariana_N_5": {
+    "korean": "물리 공격 피격 시, 자신에게 적용된 해로운 효과를 해제하고 AP가 증가합니다.&n라운드 개시 시, 스쿼드 내 아군 공격기 수에 비례하여 자신의 치명타가 증가합니다.&n라운드 개시 시, 스쿼드 내 아군 지원기 수에 비례하여 자신의 방어력이 증가합니다.",
+    "english": "When hit by a physical attack, removes harmful effects from self and increases AP. At the start of the round, increases own CRIT proportionally to the number of allied Attacker units in the squad. At the start of the round, increases own DEF proportionally to the number of allied Supporter units in the squad."
+  },
+  "SkillDescSimple_Skill_PECS_Babariana_N_5": {
+    "korean": "물리 공격 피격 시, 해로운 효과 해제 / AP 증가. 조건부 자신 치명타 / 방어력 증가.",
+    "english": "When hit by a physical attack, removes harmful effects / AP increased. Conditional self CRIT / DEF increase."
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_1": {
+    "korean": "불청객 제압 : 대상 도발 (바바리아나)",
+    "english": "Uninvited Guest Suppression : Provokes target (Barbariana)"
+  },
+  "BuffDesc3_Effect_PECS_Babariana_N_5": {
+    "korean": "치명타 {0}% (공격기 1기당)",
+    "english": "Critical {0}% (Per Attacker)"
+  },
+  "BuffDesc4_Effect_PECS_Babariana_N_5": {
+    "korean": "방어력 {0}% (지원기 1기당)",
+    "english": "Defense : {0}% (per Supporter)"
+  },
+  "BuffDesc2_Effect_PECS_Babariana_N_1": {
+    "korean": "불청객 제압 : 공격력 {0}%",
+    "english": "Suppressing Intruders : ATK {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Babariana_N_1": {
+    "korean": "불청객 제압 : 치명타 {0}%",
+    "english": "Suppressing Intruders : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Babariana_N_1": {
+    "korean": "관계자 외 출입금지 : 스킬 사용 불가",
+    "english": "No Entry for Unauthorized Personnel : Silenced"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_11": {
+    "korean": "관계자 외 출입금지 : 스킬 사용 불가",
+    "english": "No Entry for Unauthorized Personnel : Silenced"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_2": {
+    "korean": "철거 개시 : 방어력 {0}%",
+    "english": "Demolition Commenced : DEF {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Babariana_N_2": {
+    "korean": "철거 개시 : 받는 피해 {0}% 증가",
+    "english": "Demolition Commenced : DMG Taken Increased {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Babariana_N_2": {
+    "korean": "레킹볼 : 방어력 증가 해제",
+    "english": "Wrecking Ball : DEF Buff Removal"
+  },
+  "BuffDesc4_Effect_PECS_Babariana_N_2": {
+    "korean": "레킹볼 : 받는 피해 감소 해제",
+    "english": "Wrecking Ball : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_21": {
+    "korean": "레킹볼 : 방어력 증가 해제",
+    "english": "Wrecking Ball : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_PECS_Babariana_N_21": {
+    "korean": "레킹볼 : 방어력 증가 해제",
+    "english": "Wrecking Ball : DEF Buff Removal"
+  },
+  "BuffDesc3_Effect_PECS_Babariana_N_21": {
+    "korean": "레킹볼 : 받는 피해 감소 해제",
+    "english": "Wrecking Ball : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_22": {
+    "korean": "철거 개시 : 받는 피해 {0}% 증가",
+    "english": "Demolition Commenced : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_3": {
+    "korean": "숙련된 철거 기술 : 공격력 {0}%",
+    "english": "Skilled Demolition Techniques : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Babariana_N_3": {
+    "korean": "숙련된 철거 기술 : 치명타 {0}%",
+    "english": "Skilled Demolition Techniques : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Babariana_N_3": {
+    "korean": "숙련된 철거 기술 : 방어 관통 {0}%",
+    "english": "Skilled Demolition Techniques : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Babariana_N_3": {
+    "korean": "숙련된 철거 기술 : 받는 피해 {0}% 감소",
+    "english": "Skilled Demolition Techniques : DMG Reduction {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Babariana_N_3": {
+    "korean": "숙련된 철거 기술 : 효과 저항 {0}% 증가",
+    "english": "Skilled Demolition Techniques : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_4": {
+    "korean": "철거 준비 : 지정 보호 (보호기 제외)",
+    "english": "Demolition Preparations : Target Protect (Defender excluded)"
+  },
+  "BuffDesc2_Effect_PECS_Babariana_N_4": {
+    "korean": "철거 준비 : 방어 관통 {0}% (중열)",
+    "english": "Demolition Preparations : DEF Penetration {0}% (Mid Row)"
+  },
+  "BuffDesc3_Effect_PECS_Babariana_N_4": {
+    "korean": "철거 준비 : 방어 관통 {0}% (후열)",
+    "english": "Demolition Preparations : DEF Penetration {0}% (Back Row)"
+  },
+  "BuffDesc4_Effect_PECS_Babariana_N_4": {
+    "korean": "안전 장구 확인 : 방어 관통 감소 면역",
+    "english": "Check Safety Gear : DEF Penetration Decrease Immunity"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_41": {
+    "korean": "철거 준비 : 방어 관통 {0}%",
+    "english": "Demolition Preparations : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_42": {
+    "korean": "철거 준비 : 방어 관통 {0}%",
+    "english": "Demolition Preparations : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_43": {
+    "korean": "안전 장구 확인 : 방어 관통 감소 면역",
+    "english": "Check Safety Gear : DEF Penetration Decrease Immunity"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_5": {
+    "korean": "타고난 저항 : 해로운 효과 해제",
+    "english": "Innate Resistance : Debuff Removal"
+  },
+  "BuffDesc2_Effect_PECS_Babariana_N_5": {
+    "korean": "지구력 증가 : AP {0}",
+    "english": "Endurance Boost : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_51": {
+    "korean": "작업 계획 주지 : 치명타 {0}%",
+    "english": "Work Plan Briefing : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Babariana_N_55": {
+    "korean": "위험 예지 실시 :  방어력 {0}%",
+    "english": "Hazard Prediction Activated : DEF {0}%"
+  }
+}

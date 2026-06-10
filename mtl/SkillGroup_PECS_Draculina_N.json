@@ -1,0 +1,134 @@
+{
+  "SkillName_Skill_PECS_Draculina_N_1": {
+    "korean": "음파 방출",
+    "english": "Sonic Emission"
+  },
+  "SkillName_Skill_PECS_Draculina_N_2": {
+    "korean": "피의 여왕의 밤",
+    "english": "Blood Queen's Night"
+  },
+  "SkillName_Skill_PECS_Draculina_N_3": {
+    "korean": "멸시",
+    "english": "Contempt"
+  },
+  "SkillName_Skill_PECS_Draculina_N_4": {
+    "korean": "권속의 지배자",
+    "english": "Master of Thralls"
+  },
+  "SkillName_Skill_PECS_Draculina_N_5": {
+    "korean": "음파 탐지",
+    "english": "Sonic Detection"
+  },
+  "SkillDesc_Skill_PECS_Draculina_N_1": {
+    "korean": "목표 지점의 적에게 {0} 보호 무시 피해를 줍니다.&n적중 대상이 전열에 위치한 경우, 강화 효과를 해제하고 피해량이 증가합니다.&n적중 대상이 <권속>인 경우, 상기 효과의 위치 조건을 무시하며 대상을 해방하고 피해량이 추가로 증가합니다.",
+    "english": "Deals {0} damage that ignores Protection to enemies at the target location. If the target is positioned in the front row, removes buffs and increases damage dealt. If the target is a <Thrall>, the positional condition is ignored, the target is released, and damage is further increased."
+  },
+  "SkillDescSimple_Skill_PECS_Draculina_N_1": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 조건부 대상 강화 해제 / 피해량 증가.",
+    "english": "Designated area {0} Ignore Protection damage. Conditional target buff removal / damage increase."
+  },
+  "SkillDesc_Skill_PECS_Draculina_N_2": {
+    "korean": "단일 대상에게 {0} 피해를 줍니다.&n적중 대상의 HP가 100%인 경우, 4라운드 동안 <상흔>을 남겨 <권속>을 만들 준비를 합니다.&n적중 대상이 이미 <권속>인 경우, 대상을 해방하고 자신 공격력에 비례한 피해를 줍니다.&n스킬 레벨 당 +10%의 적중 보정이 적용됩니다.",
+    "english": "Deals {0} damage to a single target. If the target’s HP is 100%, applies <Scar> for 4 rounds to prepare them to become a <Thrall>. If the target is already a <Thrall>, releases them and deals damage based on the user’s ATK. Each skill level grants +10% ACC."
+  },
+  "SkillDescSimple_Skill_PECS_Draculina_N_2": {
+    "korean": "단일 대상 {0} 피해. <상흔> 부여.",
+    "english": "Single target {0} damage. Applies <Scar>."
+  },
+  "SkillDesc_Skill_PECS_Draculina_N_3": {
+    "korean": "라운드 개시 시, 자신의 방어 관통이 증가합니다. &n<피의 여왕의 밤> 사용 시, 자신은 <충만함> 상태가 되어 4라운드 동안 공격력 / 치명타가 증가합니다. (중첩 불가)&n라운드 개시 시 자신이 <충만함> 상태가 아닌 경우, 굶주려 자신의 AP가 증가합니다.",
+    "english": "At the start of the round, increases own Defense Penetration. When using Blood Queen's Night, becomes <Satiated> and increases ATK and CRIT for 4 rounds (cannot stack). At the start of the round, if not in <Satiated> state, becomes Hungry and increases own AP."
+  },
+  "SkillDescSimple_Skill_PECS_Draculina_N_3": {
+    "korean": "자신 방어 관통 증가. 조건부 자신 공격력 / 치명타 / AP 증가.",
+    "english": "Self Defense Penetration increase. Conditional self ATK / CRIT / AP increase."
+  },
+  "SkillDesc_Skill_PECS_Draculina_N_4": {
+    "korean": "라운드 개시 시, <상흔>을 가진 대상을 자신의 <권속>으로 삼습니다.&n<권속>은 스킬 사용 불가 상태가 되며 받는 피해가 증가합니다.&n상기 효과는 효과 저항의 영향을 받지 않지만 해로운 효과 해제로 해제할 수 있습니다.",
+    "english": "At the start of the round, turns targets with <Scar> into <Thralls>. <Thralls> are inflicted with Silenced and take increased DMG Taken. This effect is not affected by Status Resist but can be removed by cleansing debuffs."
+  },
+  "SkillDescSimple_Skill_PECS_Draculina_N_4": {
+    "korean": "<권속> 생성. <권속> 대상 스킬 사용 불가 / 받는 피해 증가.",
+    "english": "Creates a <Thrall>. <Thrall> targets cannot use skills and take increased DMG Taken."
+  },
+  "SkillDesc_Skill_PECS_Draculina_N_5": {
+    "korean": "전투 개시 시, 아군 전체에게 <정찰 활성화>를 부여합니다.&n라운드 개시 시, 자신은 대상의 HP가 낮을 수록 피해량이 증가하는 효과를 획득합니다.",
+    "english": "At the start of battle, grants <Recon Activation> to all allies. At the start of each round, gains an effect that increases damage dealt based on the target’s remaining HP—the lower the HP, the higher the damage."
+  },
+  "SkillDescSimple_Skill_PECS_Draculina_N_5": {
+    "korean": "아군 정찰 활성화. 대상 HP 반비례 피해량 증가.",
+    "english": "Grants Recon Activation to all allies. Damage increases proportionally to the target’s missing HP."
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_22": {
+    "korean": "권속 해방",
+    "english": "Thrall Release"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_2": {
+    "korean": "상흔 : 예속의 징표",
+    "english": "Scar : Mark of Subjugation"
+  },
+  "BuffDesc2_Effect_PECS_Draculina_N_5": {
+    "korean": "음파 탐지 : 대상 HP 반비례 피해량 {0}% (최대)",
+    "english": "Sonic Detection: Damage {0}% proportional to target HP (Max)"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_51": {
+    "korean": "음파 탐지 : 대상 HP 반비례 피해량 {0}% (최대)",
+    "english": "Sonic Detection: Damage {0}% proportional to target HP (Max)"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_1": {
+    "korean": "음파 방출 : 강화 효과 해제",
+    "english": "Sonic Emission : Buff Removal"
+  },
+  "BuffDesc2_Effect_PECS_Draculina_N_1": {
+    "korean": "음파 방출 : 피해량 {0}%",
+    "english": "Sonic Emission : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Draculina_N_2": {
+    "korean": "피의 여왕의 밤 : 공격력 {0}% 고정 피해",
+    "english": "Night of the Blood Queen : ATK {0}% Fixed DMG"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_21": {
+    "korean": "피의 여왕의 밤 : 공격력 {0}% 고정 피해",
+    "english": "Night of the Blood Queen : ATK {0}% Fixed DMG"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_3": {
+    "korean": "멸시 : 방어 관통 {0}%",
+    "english": "Contempt : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Draculina_N_3": {
+    "korean": "충만함 : 공격력 {0}%",
+    "english": "Fullness : ATK {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Draculina_N_3": {
+    "korean": "충만함 : 치명타 {0}%",
+    "english": "Fullness : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Draculina_N_3": {
+    "korean": "굶주림 : AP {0}",
+    "english": "Hunger : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_31": {
+    "korean": "굶주림 : AP {0}",
+    "english": "Hunger : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_32": {
+    "korean": "충만함 : 공격력 {0}%",
+    "english": "Fullness : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_33": {
+    "korean": "충만함 : 치명타 {0}%",
+    "english": "Fullness : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_4": {
+    "korean": "권속 : 스킬 사용 불가",
+    "english": "Thrall : Silenced"
+  },
+  "BuffDesc2_Effect_PECS_Draculina_N_4": {
+    "korean": "권속 : 받는 피해 {0}% 증가",
+    "english": "Thrall : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Draculina_N_5": {
+    "korean": "음파 탐지 : 정찰 활성화",
+    "english": "Sonic Detection : Activate Recon Effect"
+  }
+}

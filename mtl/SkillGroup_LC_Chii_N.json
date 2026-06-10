@@ -1,0 +1,258 @@
+{
+  "SkillName_Skill_LC_Chii_N_1": {
+    "korean": "묘도 0식 - 칼바람 폭풍",
+    "english": "Myodo 0-Style - Gale Storm"
+  },
+  "SkillName_Skill_LC_Chii_N_2": {
+    "korean": "포식자가 부르는 종말",
+    "english": "Apocalypse of the Predator"
+  },
+  "SkillName_Skill_LC_Chii_N_3": {
+    "korean": "열망의 도신",
+    "english": "Aspiration's Vessel"
+  },
+  "SkillName_Skill_LC_Chii_N_4": {
+    "korean": "고양이의 유연성",
+    "english": "Cat's Flexibility"
+  },
+  "SkillName_Skill_LC_Chii_N_5": {
+    "korean": "야생의 본능",
+    "english": "Wild Instinct"
+  },
+  "SkillDesc_Skill_LC_Chii_N_1": {
+    "korean": "전방의 적들을 빠르게 베어 밀어내며 광속베기로 지정 범위에 {0} 보호 무시 화염 피해를 발생시킵니다.&n스킬 적중 시 2라운드 동안 대상의 적중을 감소시키고 [합선] 상태로 만듭니다.&n치명타 시 대상의 모든 강화 효과를 해제하고 화염 피해량이 증가합니다.",
+    "english": "Rapidly slash and push back enemies in front, dealing {0} Ignore Protection Fire DoT DMG in a designated area with a Lightning Slash. On hit, reduces the target's ACC for 2 rounds and applies the [Short Circuit] state. On CRIT, removes all buffs from the target and increases Fire DoT DMG."
+  },
+  "SkillDescSimple_Skill_LC_Chii_N_1": {
+    "korean": "지정 범위 보호 무시 {0} 화염 피해. 2라운드 적중 감소 / 합선 부여. 치명타 시 모든 강화 효과 해제 / 화염 피해량 증가.",
+    "english": "Ignore Protection {0} Fire DoT DMG. 2 rounds ACC Reduction / Short Circuit. On CRIT removes all buffs / Increases Fire DoT DMG."
+  },
+  "SkillDesc_Skill_LC_Chii_N_2": {
+    "korean": "오른손을 귀수로 변화 후 무기를 뽑아 소울 정크화시켜 지정 범위에 {0} 화염 피해를 발생시킵니다.&n스킬 적중 시 자신에게 광역 피해 집중 효과를 부여합니다.&n치명타 시 대상의 방어막을 해제하고 2라운드 동안 지속 확염 피해를 발생시킵니다.&n스쿼드에 <에프넬>, <이나비>, <다나 오피니>가 있는 경우 100%로 [슈퍼 노바], [택티컬 에어스트라이크], [래쉬 임페일] 스킬로 협동 공격을 유도합니다.&n협동 공격이 가능한 전투원이 여렷인 경우 위 표기된 순으로 우선권을 가집니다. (에프넬 > 다나 오피니 순)&n다수의 적이 대상인 경우 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다.",
+    "english": "Transform right hand into a demon claw, draw weapon and Soul‑Junk it to deal {0} Fire DoT DMG in a designated area. On hit, grant self Area DMG Focus. On CRIT, removes the target's Barrier and applies Fire DoT DMG for 2 rounds. If squad contains <Ephnel>, <Inabi>, <Dana Opini>, triggers a 100% chance Cooperative Attack using [Super Nova], [Tactical Airstrike], and [Lash Impale] skills. When multiple allies can perform Cooperative Attacks, priority follows the order listed (Ephnel > Dana Opini). When multiple enemies are targeted, prioritize those within range; if Cooperative Attack is impossible due to range, the next ally in order executes it."
+  },
+  "SkillDescSimple_Skill_LC_Chii_N_2": {
+    "korean": "지정 범위 {0} 화염 피해. 자신에게 광역 피해 집중 부여. 치명타 시 방어막 해제 / 2라운드 지속 화염 피해 부여. 조건부 협동 공격.",
+    "english": "Designated area {0} Fire DoT DMG. Grants self Area DMG Focus. On CRIT removes Barrier / 2 rounds Fire DoT DMG. Conditional Cooperative Attack."
+  },
+  "SkillDesc_Skill_LC_Chii_N_3": {
+    "korean": "라운드 개시 시 자신의 방어력 및 회피, 행동력을 증가시킵니다.&n공격 적중 시 자신의 AP를 증가시킵니다.&n적 처치 시 자신의 AP를 추가로 증가시킵니다.",
+    "english": "At round start, increase own DEF, EVA, and SPD. Increase own AP on successful hit. Increase own AP additionally on enemy kill."
+  },
+  "SkillDescSimple_Skill_LC_Chii_N_3": {
+    "korean": "방어력 / 회피 / 행동력 증가. 조건부 AP 증가.",
+    "english": "DEF / EVA / SPD Increase. Conditional AP Increase."
+  },
+  "SkillDesc_Skill_LC_Chii_N_4": {
+    "korean": "라운드 개시 시 아군 전체의 회피 및 스킬 위력을 증가시킵니다.&n라운드 개시 시 스쿼드에 <CS 페로>, <포이>가 있는 경우 CS 페로 및 포이는 2배로 효과를 받습니다.&n라운드 개시 시 스쿼드에 <CS 페로>, <포이>가 있는 경우 CS 페로 및 포이를 공격 지원합니다.",
+    "english": "At round start, increase all allies' EVA and Skill Power. If squad includes <CS Perrault> and <Poi> at round start, they receive double effect. Also provides Follow-Up Attack to <CS Perrault> and <Poi>."
+  },
+  "SkillDescSimple_Skill_LC_Chii_N_4": {
+    "korean": "아군 전체 회피 / 스킬 위력 증가. 조건부 효과 2배 적용. 조건부 공격 지원.",
+    "english": "All allies EVA / Skill Power Increase. Conditional double effect. Conditional Follow-Up Attack."
+  },
+  "SkillDesc_Skill_LC_Chii_N_5": {
+    "korean": "피격 시 2라운드 동안 자신의 공격력과 회피가 증가합니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 [야옹~]을 부여합니다.&n야옹~ 1 : 공격력 증가&n야옹~ 2 : 공격력 증가 / 회피 증가&n야옹~ 3 : 공격력 증가 / 회피 증가 / 치명타 증가&n야옹~ 4 : 공격력 증가 / 회피 증가 / 치명타 증가 / 적중 증가",
+    "english": "When hit, increase own ATK and EVA for 2 rounds. At round start, if there are <Lion Corporation> allies other than self, grant [Meow~] to all allies based on number present: Meow~ 1: ATK Increase; Meow~ 2: ATK Increase / EVA Increase; Meow~ 3: ATK Increase / EVA Increase / CRIT Increase; Meow~ 4: ATK Increase / EVA Increase / CRIT Increase / ACC Increase."
+  },
+  "SkillDescSimple_Skill_LC_Chii_N_5": {
+    "korean": "피격 시 2라운드 공격력 / 회피 증가. 조건부 공격력 / 회피 / 치명타 / 적중 증가.",
+    "english": "When hit, increase ATK / EVA for 2 rounds. Conditional ATK / EVA / CRIT / ACC Increase."
+  },
+  "BuffDesc2_Effect_LC_Chii_N_1": {
+    "korean": "묘도 0식 - 칼바람 폭풍 : {0}% 화염 추가 피해",
+    "english": "Myodo 0-Style - Gale Storm : {0}% additional Fire DoT DMG"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_11": {
+    "korean": "묘도 0식 - 칼바람 폭풍 : {0}% 화염 추가 피해",
+    "english": "Myodo 0-Style - Gale Storm : {0}% additional Fire DoT DMG"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_1": {
+    "korean": "묘도 0식 - 칼바람 폭풍 : 적중 {0}%",
+    "english": "Myodo 0-Sik - Kalbaram Storm : ACC {0}%"
+  },
+  "BuffDesc3_Effect_LC_Chii_N_1": {
+    "korean": "묘도 0식 - 칼바람 폭풍 : 강화 효과 해제",
+    "english": "Myodo 0-Sik - Kalbaram Storm : Buff Removal"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_12": {
+    "korean": "묘도 0식 - 칼바람 폭풍 : 강화 효과 해제",
+    "english": "Myodo 0-Sik - Kalbaram Storm : Buff Removal"
+  },
+  "BuffDesc1_Effect_BUFF_ShortCircuit_N_1": {
+    "korean": "합선 : 화염 저항 {0}%",
+    "english": "Short circuit : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_BUFF_ShortCircuit_N_2": {
+    "korean": "합선 : 냉기 저항 {0}%",
+    "english": "Short circuit : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_BUFF_ShortCircuit_N_3": {
+    "korean": "합선 : 전기 저항 {0}%",
+    "english": "Short circuit : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_2": {
+    "korean": "포식자가 부르는 종말 : 광역 피해 집중{0}% (최대)",
+    "english": "The End Called by Predators : Area DMG Focus {0}% (Max)"
+  },
+  "BuffDesc2_Effect_LC_Chii_N_2": {
+    "korean": "포식자가 부르는 종말 : 방어막 해제 (치명타 시)",
+    "english": "The End Called by Predators : Barrier Removal (on CRIT)"
+  },
+  "BuffDesc3_Effect_LC_Chii_N_2": {
+    "korean": "포식자가 부르는 종말 : 지속 화염 피해 {0} (치명타 시)",
+    "english": "The End Called by Predators : Fire DoT DMG {0} (on CRIT)"
+  },
+  "BuffDesc4_Effect_LC_Chii_N_2": {
+    "korean": "포식자가 부르는 종말 : 협동 공격",
+    "english": "The End Called by Predators : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_21": {
+    "korean": "포식자가 부르는 종말 : 방어막 해제 (치명타 시)",
+    "english": "The End Called by Predators : Barrier Removal (on CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_22": {
+    "korean": "포식자가 부르는 종말 : 지속 화염 피해 {0} (치명타 시)",
+    "english": "The End Called by Predators : Fire DoT DMG {0} (on CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_23": {
+    "korean": "포식자가 부르는 종말 : 협동 공격 (스텔라 유니벨)",
+    "english": "The End Called by Predators : Cooperative Attack (Stella Unibell)"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_24": {
+    "korean": "포식자가 부르는 종말 : 협동 공격 (하루 에스티아)",
+    "english": "The End Called by Predators : Cooperative Attack (Haru Estia)"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_25": {
+    "korean": "포식자가 부르는 종말 : 협동 공격 (릴리 블룸메르헨)",
+    "english": "The End Called by Predators : Cooperative Attack (Lily Bloommerchen)"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_3": {
+    "korean": "열망의 도신 : 방어력 {0}%",
+    "english": "God of Aspiration : DEF {0}%"
+  },
+  "BuffDesc2_Effect_LC_Chii_N_3": {
+    "korean": "열망의 도신 : 회피 {0}%",
+    "english": "God of Aspiration : EVA {0}%"
+  },
+  "BuffDesc3_Effect_LC_Chii_N_3": {
+    "korean": "열망의 도신 : 행동력 {0}%",
+    "english": "God of Aspiration : SPD {0}%"
+  },
+  "BuffDesc4_Effect_LC_Chii_N_3": {
+    "korean": "열망의 도신 : AP {0} (적중)",
+    "english": "God of Aspiration : AP {0} (ACC)"
+  },
+  "BuffDesc5_Effect_LC_Chii_N_3": {
+    "korean": "열망의 도신 : AP {0} (처치)",
+    "english": "God of Aspiration : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_31": {
+    "korean": "열망의 도신 : AP {0} (적중)",
+    "english": "God of Aspiration : AP {0} (ACC)"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_32": {
+    "korean": "열망의 도신 : AP {0} (처치)",
+    "english": "God of Aspiration : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_4": {
+    "korean": "고양이의 유연성 : 회피 {0}%",
+    "english": "cat's flexibility : EVA {0}%"
+  },
+  "BuffDesc2_Effect_LC_Chii_N_4": {
+    "korean": "고양이의 유연성 : 스킬 위력 {0}%",
+    "english": "cat's flexibility : Skill Power {0}%"
+  },
+  "BuffDesc3_Effect_LC_Chii_N_4": {
+    "korean": "고양이의 유연성 : 회피 {0}% (CS 페로 / 포이)",
+    "english": "cat's flexibility : EVA {0}% (Perrault/Poi)"
+  },
+  "BuffDesc4_Effect_LC_Chii_N_4": {
+    "korean": "고양이의 유연성 : 회피 {0}% (CS 페로 / 포이)",
+    "english": "cat's flexibility : EVA {0}% (Perrault/Poi)"
+  },
+  "BuffDesc5_Effect_LC_Chii_N_4": {
+    "korean": "고양이의 유연성 : 공격 지원",
+    "english": "cat's flexibility : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_41": {
+    "korean": "고양이의 유연성 : 회피 {0}% (CS 페로)",
+    "english": "cat's flexibility : EVA {0}% (Perrault)"
+  },
+  "BuffDesc2_Effect_LC_Chii_N_41": {
+    "korean": "고양이의 유연성 : 스킬 위력 {0}% (CS 페로)",
+    "english": "cat's flexibility : Skill Power {0}% (Perrault)"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_42": {
+    "korean": "고양이의 유연성 : 회피 {0}% (포이)",
+    "english": "cat's flexibility : EVA {0}% (Poi)"
+  },
+  "BuffDesc2_Effect_LC_Chii_N_42": {
+    "korean": "고양이의 유연성 : 스킬 위력 {0}% (포이)",
+    "english": "cat's flexibility : Skill Power {0}% (Poi)"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_43": {
+    "korean": "고양이의 유연성 : 공격 지원",
+    "english": "cat's flexibility : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_5": {
+    "korean": "야생의 본능 : 공격력 {0}%",
+    "english": "Wild instinct : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Chii_N_5": {
+    "korean": "야생의 본능 : 회피 {0}%",
+    "english": "Wild instinct : EVA {0}%"
+  },
+  "BuffDesc3_Effect_LC_Chii_N_5": {
+    "korean": "야옹~ : 공격력 {0}% (최대)",
+    "english": "Meow~ : ATK {0}% (Max)"
+  },
+  "BuffDesc4_Effect_LC_Chii_N_5": {
+    "korean": "야옹~ : 회피 {0}% (최대)",
+    "english": "Meow~ : EVA {0}% (Max)"
+  },
+  "BuffDesc5_Effect_LC_Chii_N_5": {
+    "korean": "야옹~ : 치명타 {0}% (최대)",
+    "english": "Meow~ : CRIT {0}% (Max)"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_51": {
+    "korean": "야옹~ : 공격력 {0}%",
+    "english": "Meow~ : ATK {0}%"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_52": {
+    "korean": "야옹~ : 공격력 {0}%",
+    "english": "Meow~ : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Chii_N_52": {
+    "korean": "야옹~ : 회피 {0}%",
+    "english": "Meow~ : EVA {0}%"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_53": {
+    "korean": "야옹~ : 공격력 {0}%",
+    "english": "Meow~ : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Chii_N_53": {
+    "korean": "야옹~ : 회피 {0}%",
+    "english": "Meow~ : EVA {0}%"
+  },
+  "BuffDesc3_Effect_LC_Chii_N_53": {
+    "korean": "야옹~ : 치명타 {0}%",
+    "english": "Meow~ : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_LC_Chii_N_54": {
+    "korean": "야옹~ : 공격력 {0}%",
+    "english": "Meow~ : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Chii_N_54": {
+    "korean": "야옹~ : 회피 {0}%",
+    "english": "Meow~ : EVA {0}%"
+  },
+  "BuffDesc3_Effect_LC_Chii_N_54": {
+    "korean": "야옹~ : 치명타 {0}%",
+    "english": "Meow~ : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_LC_Chii_N_54": {
+    "korean": "야옹~ : 적중 {0}%",
+    "english": "Meow~ : ACC {0}%"
+  }
+}

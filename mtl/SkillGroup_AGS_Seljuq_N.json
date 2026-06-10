@@ -1,0 +1,70 @@
+{
+  "1002700475": {
+    "korean": "175mm 직사포",
+    "english": "175mm Direct-Fire Cannon"
+  },
+  "1002700476": {
+    "korean": "175mm 곡사포",
+    "english": "175mm Howitzer"
+  },
+  "1002700477": {
+    "korean": "대 보병 고폭탄",
+    "english": "Anti-Infantry HE Shell"
+  },
+  "1002705917": {
+    "korean": "속전 준비",
+    "english": "Swift Preparation"
+  },
+  "1002700478": {
+    "korean": "203mm 곡사포 착탄",
+    "english": "203mm Howitzer Impact"
+  },
+  "1002703923": {
+    "korean": "직사 포격으로 목표 대상이 있는 열에 {0} 피해를 줍니다. 대상이 표식 / 이동 불가 상태인 경우, 피해량이 증가합니다.",
+    "english": "Fires a direct artillery barrage at the target's row, dealing {0} damage. Damage increases if the target is Marked or Rooted."
+  },
+  "1002703176": {
+    "korean": "목표 지점 {0} 피해. 표식 / 이동 불가 대상 피해량 증가",
+    "english": "Deals {0} damage to a targeted area. Increased damage to Marked or Rooted targets"
+  },
+  "1002706188": {
+    "korean": "다음 라운드에 착탄하는 곡사 포격으로 목표 지점에 {0} 보호 무시 피해를 줍니다. 목표 지점 주변에는 피해가 25% 감소합니다. 표식 / 이동 불가 상태인 대상에게는 피해량이 증가하며, 대상의 방어막 / 피해 감소 효과를 무시합니다. 착탄 시, 대상의 반격 효과를 해제합니다.",
+    "english": "Fires an indirect artillery strike that lands next round, dealing {0} piercing damage to the target point.&nDamage is reduced by 25% in the surrounding area.&nIf the target is Marked or Rooted, damage increases and ignores the target's Barrier and DMG Reduction effects.&nUpon impact, removes any Counter Attack effects from the target."
+  },
+  "1002703177": {
+    "korean": "목표 지점 {0} 보호 무시 피해. 표식 / 이동 불가 대상 피해량 증가. 방어막 / 피해 감소 무시",
+    "english": "Deals {0} piercing damage to a targeted area. Increased damage to Marked or Rooted targets. Ignores Barrier and DMG Reduction"
+  },
+  "1002703277": {
+    "korean": "대 보병 고폭탄을 장전해, 경장형에게 주는 피해가 증가합니다.",
+    "english": "Loads an Anti-Infantry HE Shell, increasing damage to Light enemies."
+  },
+  "1002703178": {
+    "korean": "대 경장형 피해량 증가",
+    "english": "Anti-Light DMG Increase"
+  },
+  "1002706386": {
+    "korean": "초반 압도를 목적으로 전투 개시 시 AP가 증가하며 라운드 개시 시 치명타가 증가합니다.",
+    "english": "AP increases at the start of combat for early dominance, and CRIT increases at the start of each round."
+  },
+  "1002706620": {
+    "korean": "전투 개시 시, AP 증가 / 라운드 시작 시 치명타 증가",
+    "english": "Increase AP at the start of combat / Increase CRIT at the start of a round"
+  },
+  "1000102404": {
+    "korean": "곡사 포격 : 방어막 / 피해 감소 무시",
+    "english": "Howitzer Barrage : Ignore Barrier / DMG Reduction"
+  },
+  "1000102752": {
+    "korean": "대 보병 고폭탄 : 대 경장형 피해량{0}%",
+    "english": "Anti-Infantry HE Shell : Anti-Light DMG {0}%"
+  },
+  "1000107272": {
+    "korean": "속전 준비 : AP{0}",
+    "english": "Rapid Assault Prep : AP {0}"
+  },
+  "1000107273": {
+    "korean": "속전 준비 : 치명타{0}%",
+    "english": "Rapid Assault Prep : CRIT {0}%"
+  }
+}

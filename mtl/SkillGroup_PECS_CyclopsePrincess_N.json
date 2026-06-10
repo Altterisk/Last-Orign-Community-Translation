@@ -1,0 +1,230 @@
+{
+  "SkillName_Skill_PECS_CyclopsePrincess_N_1": {
+    "korean": "마검 : 어둠의 서약",
+    "english": "Demon Sword: Oath of Darkness"
+  },
+  "SkillName_Skill_PECS_CyclopsePrincess_N_2": {
+    "korean": "영원한 진조의 섬광",
+    "english": "Eternal Primordial Flare"
+  },
+  "SkillName_Skill_PECS_CyclopsePrincess_N_3": {
+    "korean": "진조의 권능",
+    "english": "Primordial Power"
+  },
+  "SkillName_Skill_PECS_CyclopsePrincess_N_4": {
+    "korean": "힘이 넘쳐 흐르는구나!",
+    "english": "Power Overflows!"
+  },
+  "SkillName_Skill_PECS_CyclopsePrincess_N_5": {
+    "korean": "피의 저주",
+    "english": "Curse of Blood"
+  },
+  "SkillDesc_Skill_PECS_CyclopsePrincess_N_1": {
+    "korean": "<마검 : 어둠의 서약>을 휘둘러 {0} 피해를 줍니다. 적중 대상의 방어력 / 효과 저항을 2라운드 동안 감소시키며, 자신에게 적용된 <진조의 권능> 종류 수에 따라 효과가 증폭됩니다.&n자신의 HP가 40% 이상일 때, 공격 적중 시 대상의 반격 / 피해 최소화 효과를 해제하며 피해량이 증가합니다.&n각 효과는 효과 저항의 영향을 받지 않습니다.",
+    "english": "Swing <Demon Sword: Oath of Darkness> to deal {0} Damage. Reduces the target’s DEF and Status Resist for 2 rounds, with effect amplified by the number of Primordial Power types applied to the user. If the user’s HP is 40% or higher, the attack removes the target’s Counter Attack and Minimize Damage effects on hit and deals Additional DMG. These effects are not affected by Status Resist."
+  },
+  "SkillDescSimple_Skill_PECS_CyclopsePrincess_N_1": {
+    "korean": "단일 대상 {0} 피해. 방어력 / 효과 저항 감소. 자신의 HP에 따라 반격 / 피해 최소화 해제 / 피해량 증가.",
+    "english": "Single Target {0} Damage / DEF Reduction / Status Resist Reduction / Counter Attack Removal / Minimize Damage Removal / Additional DMG"
+  },
+  "SkillDesc_Skill_PECS_CyclopsePrincess_N_2": {
+    "korean": "안대의 봉인을 해제한 후, 진홍빛 섬광을 발사해 목표 지점에 {0} 피해를 주고 적중 대상의 반격 효과를 해제합니다.&n또한 자신에게 적용된 <진조의 권능> 종류 수에 따라 2라운드 동안 적중 대상의 받는 피해 감소 효과를 약화시킵니다.&n스킬 레벨 10에서 효과 범위가 크게 증가합니다.",
+    "english": "After releasing the seal on the eyepatch, fire a crimson flash at the target area to deal {0} Damage and remove Counter Attack from hit targets. Additionally, based on the number of Primordial Power types applied to the user, weaken the targets’ DMG Reduction for 2 rounds. At skill level 10, the skill’s area of effect greatly increases."
+  },
+  "SkillDescSimple_Skill_PECS_CyclopsePrincess_N_2": {
+    "korean": "지정 범위 {0} 피해. 반격 해제. <진조의 권능> 수 비례 피해 감소 약화.",
+    "english": "Designated Area {0} Damage / Counter Attack Removal / Primordial Power count proportional DMG Reduction weakening"
+  },
+  "SkillDesc_Skill_PECS_CyclopsePrincess_N_3": {
+    "korean": "<진조의 권능 : 사안> : 라운드 개시 시, 자신이 공격 지원 효과를 받고 있지 않은 경우, 1라운드 동안 치명타가 증가합니다.&n<진조의 권능 : 운명조작> : 라운드 개시 시, 자신이 공격 지원 및 지정 보호 효과를 받고 있지 않은 경우, 1라운드 동안 보호 무시 효과를 획득합니다.&n<진조의 권능 : 불사> : 적 처치 시, 해제 불가 전투 속행 효과를 획득합니다. (최대 3중첩)",
+    "english": "<Primordial Power : Issue>: At the start of the round, if not receiving Follow-Up Attack, gain CRIT Up for 1 round.\n<Primordial Power : Fate Weaving>: At the start of the round, if not receiving Follow-Up Attack or Target Protect, gain Activate Ignore Protection for 1 round.\n<Primordial Power : Undying>: Upon defeating an enemy, gain an Undispellable Guts effect. (Up to 3 stacks)"
+  },
+  "SkillDescSimple_Skill_PECS_CyclopsePrincess_N_3": {
+    "korean": "자신에게 적용된 효과에 따라, 치명타 증가 / 보호 무시 활성화 / 전투 속행.",
+    "english": "CRIT Up / Activate Ignore Protection / Guts"
+  },
+  "SkillDesc_Skill_PECS_CyclopsePrincess_N_4": {
+    "korean": "라운드 개시 시, 자신에게 적용된 <진조의 권능> 종류 수에 따라 1라운드 동안 범위 내 아군의 공격력 / 행동력을 증가시킵니다. 범위 내 아군에게 <LRL : 진조의 힘?>이 적용된 상태인 경우, 기본 효과가 추가 적용되며 방어 관통이 증가합니다.&n자신이 전투 속행 시, 범위 내 아군의 AP가 증가합니다.",
+    "english": "At the start of the round, increase the ATK and SPD of allies within range for 1 round based on the number of Primordial Power types applied to the user. If allies within range are affected by <LRL : Primordial Power?>, the base effect is enhanced and their DEF Penetration increases. While the user has Guts, allies’ AP is increased."
+  },
+  "SkillDescSimple_Skill_PECS_CyclopsePrincess_N_4": {
+    "korean": "<진조의 권능> 수 비례 아군 강화. 전투 속행 시 AP 증가.",
+    "english": "Primordial Power count proportional ally boost. Guts grants AP increase."
+  },
+  "SkillDesc_Skill_PECS_CyclopsePrincess_N_5": {
+    "korean": "공격 적중 시, 자신에게 <진조의 권능>이 2종류 이상 적용된 경우, 대상의 공격 지원 / 지정 보호 효과를 해제하며 받는 피해를 증가시킵니다.&n라운드 개시 시, <영원한 진조의 섬광> 및 <LRL : 사이클롭스 이터널 빔> 효과가 모두 적용 중인 적군은 최대 행동 횟수가 감소합니다.&n각 효과들은 효과 저항의 영향을 받지 않습니다.",
+    "english": "When an attack hits, if the user has 2 or more Primordial Power types applied, remove the target’s Follow-Up Attack and Target Protect effects and increase the DMG Taken. At the start of the round, enemies affected by both Eternal Primordial Flare and <LRL : Cyclops Eternal Beam> have their Max Action reduced. These effects are not affected by Status Resist."
+  },
+  "SkillDescSimple_Skill_PECS_CyclopsePrincess_N_5": {
+    "korean": "<진조의 권능> 수 비례 적군 약화. 특정 효과 적용 적군 최대 행동 횟수 감소.",
+    "english": "Primordial Power count proportional enemy weakening. Enemies affected by both Eternal Primordial Flare and <LRL : Cyclops Eternal Beam> have their Max Action reduced."
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_1": {
+    "korean": "<마검 : 어둠의 서약> : 피해량 {0}%",
+    "english": "<Demon Sword: Oath of Darkness> : Damage {0}%"
+  },
+  "BuffDesc2_Effect_PECS_CyclopsePrincess_N_1": {
+    "korean": "<마검 : 어둠의 서약> : 반격 해제",
+    "english": "<Demon Sword: Oath of Darkness> : Counter Attack disabled"
+  },
+  "BuffDesc3_Effect_PECS_CyclopsePrincess_N_1": {
+    "korean": "<마검 : 어둠의 서약> : 피해 최소화 해제",
+    "english": "<Demon Sword: Oath of Darkness> : Minimize Damage removed"
+  },
+  "BuffDesc4_Effect_PECS_CyclopsePrincess_N_1": {
+    "korean": "<마검 : 어둠의 서약> : 방어력 {0}% (중첩당)",
+    "english": "<Demon Sword: Oath of Darkness> : Defense {0}% (per stack)"
+  },
+  "BuffDesc5_Effect_PECS_CyclopsePrincess_N_1": {
+    "korean": "<마검 : 어둠의 서약> : 효과 저항 {0}% 감소 (중첩당)",
+    "english": "<Demon Sword: Oath of Darkness> : Status Resist {0}% reduced (per stack)"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_11": {
+    "korean": "<마검 : 어둠의 서약> : 방어력 {0}%",
+    "english": "<Demon Sword: Oath of Darkness> : Defense {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_12": {
+    "korean": "<마검 : 어둠의 서약> : 방어력 {0}%",
+    "english": "<Demon Sword: Oath of Darkness> : Defense {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_13": {
+    "korean": "<마검 : 어둠의 서약> : 방어력 {0}%",
+    "english": "<Demon Sword: Oath of Darkness> : Defense {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_14": {
+    "korean": "<마검 : 어둠의 서약> : 방어력 {0}%",
+    "english": "<Demon Sword: Oath of Darkness> : Defense {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_15": {
+    "korean": "<마검 : 어둠의 서약> : 효과 저항 {0}% 감소",
+    "english": "<Demon Sword: Oath of Darkness> : Status Resist {0}% reduced"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_16": {
+    "korean": "<마검 : 어둠의 서약> : 효과 저항 {0}% 감소",
+    "english": "<Demon Sword: Oath of Darkness> : Status Resist {0}% reduced"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_17": {
+    "korean": "<마검 : 어둠의 서약> : 효과 저항 {0}% 감소",
+    "english": "<Demon Sword: Oath of Darkness> : Status Resist {0}% reduced"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_18": {
+    "korean": "<마검 : 어둠의 서약> : 효과 저항 {0}% 감소",
+    "english": "<Demon Sword: Oath of Darkness> : Status Resist {0}% reduced"
+  },
+  "BuffDesc2_Effect_PECS_CyclopsePrincess_N_2": {
+    "korean": "영원한 진조의 섬광 : 피해 감소 약화 {0}% (중첩당)",
+    "english": "Eternal Primordial Flare : DMG Reduction weakened {0}% (per stack)"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_21": {
+    "korean": "영원한 진조의 섬광 : 피해 감소 약화 {0}%",
+    "english": "Eternal Primordial Flare : DMG Reduction weakened {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_22": {
+    "korean": "영원한 진조의 섬광 : 피해 감소 약화 {0}%",
+    "english": "Eternal Primordial Flare : DMG Reduction weakened {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_23": {
+    "korean": "영원한 진조의 섬광 : 피해 감소 약화 {0}%",
+    "english": "Eternal Primordial Flare : DMG Reduction weakened {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_3": {
+    "korean": "<진조의 권능 : 사안> : 치명타 {0}%",
+    "english": "<Primordial Power: Insight> : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_PECS_CyclopsePrincess_N_3": {
+    "korean": "<진조의 권능 : 운명조작> : 보호 무시 활성화",
+    "english": "<Primordial Power: Fate Manipulation> : Activate Ignore Protection"
+  },
+  "BuffDesc3_Effect_PECS_CyclopsePrincess_N_3": {
+    "korean": "<진조의 권능 : 불사> : {0}% HP로 전투 속행",
+    "english": "<Primordial Power: Immortality> : Battle Continuation at {0}% HP"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_31": {
+    "korean": "<진조의 권능 : 운명조작> : 보호 무시 활성화",
+    "english": "<Primordial Power: Fate Manipulation> : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_32": {
+    "korean": "<진조의 권능 : 불사> : {0}% HP로 전투 속행",
+    "english": "<Primordial Power: Immortality> : Battle Continuation at {0}% HP"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_5": {
+    "korean": "피의 저주 : 공격 지원 해제",
+    "english": "Curse of Blood : Follow-Up Attack Removal"
+  },
+  "BuffDesc2_Effect_PECS_CyclopsePrincess_N_5": {
+    "korean": "피의 저주 : 지정 보호 해제",
+    "english": "Curse of Blood : Target Protect Removal"
+  },
+  "BuffDesc3_Effect_PECS_CyclopsePrincess_N_5": {
+    "korean": "피의 저주 : 받는 피해 {0}%",
+    "english": "Curse of Blood : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_2": {
+    "korean": "영원한 진조의 섬광 : 반격 해제",
+    "english": "Eternal Radiance of the True Blood : Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_4": {
+    "korean": "힘이 넘쳐 흐르는구나! : AP {0} (전투 속행 시)",
+    "english": "Power Overflows! : AP {0} (On Battle Continue)"
+  },
+  "BuffDesc2_Effect_PECS_CyclopsePrincess_N_4": {
+    "korean": "힘이 넘쳐 흐르는구나! : 공격력 {0}% (중첩당)",
+    "english": "Power Overflows! : ATK {0}% (Per Stack)"
+  },
+  "BuffDesc3_Effect_PECS_CyclopsePrincess_N_4": {
+    "korean": "힘이 넘쳐 흐르는구나! : 행동력 {0}% (중첩당)",
+    "english": "Power Overflows! : SPD {0}% (Per Stack)"
+  },
+  "BuffDesc4_Effect_PECS_CyclopsePrincess_N_4": {
+    "korean": "힘이 넘쳐 흐르는구나! : 방어 관통 {0}% (진조의 힘?)",
+    "english": "Power Overflows! : DEF Penetration {0}% (Power of the True Ancestor?)"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_41": {
+    "korean": "힘이 넘쳐 흐르는구나! : 공격력 {0}%",
+    "english": "Power Overflows! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_CyclopsePrincess_N_41": {
+    "korean": "힘이 넘쳐 흐르는구나! : 행동력 {0}%",
+    "english": "Power Overflows! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_42": {
+    "korean": "힘이 넘쳐 흐르는구나! : 공격력 {0}%",
+    "english": "Power Overflows! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_CyclopsePrincess_N_42": {
+    "korean": "힘이 넘쳐 흐르는구나! : 행동력 {0}%",
+    "english": "Power Overflows! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_43": {
+    "korean": "힘이 넘쳐 흐르는구나! : 공격력 {0}%",
+    "english": "Power Overflows! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_CyclopsePrincess_N_43": {
+    "korean": "힘이 넘쳐 흐르는구나! : 행동력 {0}%",
+    "english": "Power Overflows! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_44": {
+    "korean": "힘이 넘쳐 흐르는구나! : 공격력 {0}%",
+    "english": "Power Overflows! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_CyclopsePrincess_N_44": {
+    "korean": "힘이 넘쳐 흐르는구나! : 행동력 {0}%",
+    "english": "Power Overflows! : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_CyclopsePrincess_N_44": {
+    "korean": "힘이 넘쳐 흐르는구나! : 방어 관통 {0}%",
+    "english": "Power Overflows! : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_PECS_CyclopsePrincess_N_5": {
+    "korean": "피의 저주 : 최대 행동 횟수 {0} (진조의 섬광)",
+    "english": "Curse of Blood : Max Action {0} (True Ancestor's Flash)"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_51": {
+    "korean": "피의 저주 : 받는 피해 {0}%",
+    "english": "Curse of Blood : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CyclopsePrincess_N_52": {
+    "korean": "피의 저주 : 최대 행동 횟수 {0}",
+    "english": "Curse of Blood : Max Action {0}"
+  }
+}

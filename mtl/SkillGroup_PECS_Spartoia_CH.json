@@ -1,0 +1,158 @@
+{
+  "SkillName_Skill_PECS_Spartoia_CH_1": {
+    "korean": "타키온 랜스",
+    "english": "Tachyon Lance"
+  },
+  "SkillName_Skill_PECS_Spartoia_CH_2": {
+    "korean": "미티어릭 CQB",
+    "english": "Meteoric CQB"
+  },
+  "SkillName_Skill_PECS_Spartoia_N_3": {
+    "korean": "관측 데이터 수신",
+    "english": "Observation Data Incoming"
+  },
+  "SkillName_Skill_PECS_Spartoia_CH_4": {
+    "korean": "S.P.A.C.E",
+    "english": "S.P.A.C.E"
+  },
+  "SkillName_Skill_PECS_Spartoia_CH_5": {
+    "korean": "위대한 도약",
+    "english": "The Great Leap"
+  },
+  "SkillDesc_Skill_PECS_Spartoia_CH_1": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. &n적중 시, 대상의 방어력 증가 효과를 해제합니다.&n치명타 시, 2라운드 동안 대상의 받는 피해 감소 효과를 약화시킵니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. On hit, removes the target's DEF increase effect. On crit, weakens the target's DMG Reduction effect for 2 rounds."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_CH_2": {
+    "korean": "지정 대상에게 {0} 피해를 줍니다. 대상의 현재 HP%가 낮을수록 피해량이 증가합니다.&n적중 시, 2라운드 동안 대상의 공격력을 감소시키고, 받는 피해를 증가시킵니다.&n적중 대상이 방어력 증가 상태가 아닌 경우, 효과가 증폭되어 증감 수치가 두 배로 적용됩니다.&n증폭된 효과는 효과 저항의 영향을 받지 않으며, 해로운 효과 해제로 해제할 수 없습니다.",
+    "english": "Deals {0} damage to the designated target. Damage increases as the target's current HP% decreases. On hit, reduces the target's ATK and increases DMG Taken for 2 rounds. If the target is not under a DEF increase effect, the effect is amplified, doubling the values. Amplified effect ignores Status Resist and cannot be removed by debuff removal."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_N_3": {
+    "korean": "라운드 개시 시, 최대 3회까지 공격력이 증가합니다.&n<수신중…> 버프 중첩이 2 이상인 경우, 자신의 사거리가 2 증가합니다.&n<수신중…> 버프 중첩이 최대치인 경우, 적중이 크게 증가합니다.",
+    "english": "At the start of the round, ATK increases up to 3 stacks. If <Receiving> buff stacks are 2 or more, Range increases by 2. If <Receiving> buff is at maximum stacks, ACC greatly increases."
+  },
+  "SkillDescSimple_Skill_PECS_Spartoia_N_3": {
+    "korean": "매 라운드 공격력 증가. 중첩 수에 따라 사거리 / 적중 증가.",
+    "english": "ATK increases each round. Range / ACC increase based on stack count."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_CH_4": {
+    "korean": "라운드 개시 시, 방어 관통이 증가하고 방어막 / 피해 감소 무시 효과를 획득합니다.&n각 액티브 스킬 레벨에 따라 소모 AP가 감소합니다.",
+    "english": "At the start of the round, gains DEF Penetration and Ignore Barrier / DMG Reduction. AP cost decreases based on each Active Skill level."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_CH_5": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가합니다.&n전투 개시 시, 방어력 감소 일반 효과를 영구 획득합니다.&n대신 전투 개시 시 AP가 증가하고, 해로운 행동력 감소 / AP 감소 효과에 영구 면역이 됩니다.",
+    "english": "At the start of the round, ATK / CRIT increase. At battle start, permanently gains DEF reduction Normal Effect. In exchange, AP increases at battle start and gains permanent immunity to harmful SPD reduction / AP reduction effects."
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_1": {
+    "korean": "회심의 일격 : 피해 감소 약화 {0}%",
+    "english": "Resolute Strike : DMG Reduction Weakening {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_2": {
+    "korean": "CQB 돌입 : 대상 HP 반비례 피해량 {0}%",
+    "english": "CQB Entry : Damage Proportional to Target HP {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_33": {
+    "korean": "S.P.A.C.E 장착",
+    "english": "S.P.A.C.E Equipped"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_CH_1": {
+    "korean": "회심의 일격 : 방어력 증가 해제",
+    "english": "Resolute Strike : DEF Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_11": {
+    "korean": "회심의 일격 : 방어력 증가 해제",
+    "english": "Resolute Strike : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_N_11": {
+    "korean": "회심의 일격 : 방어력 증가 해제",
+    "english": "Resolute Strike : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_CH_2": {
+    "korean": "무장 파괴 : 공격력 {0}%",
+    "english": "Armament Break : ATK {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Spartoia_CH_2": {
+    "korean": "무장 파괴 : 받는 피해 {0}% 증가",
+    "english": "Armament Break : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_21": {
+    "korean": "무장 파괴 : 공격력 {0}%",
+    "english": "Armament Break : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_CH_21": {
+    "korean": "무장 파괴 : 받는 피해 {0}% 증가",
+    "english": "Armament Break : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_22": {
+    "korean": "무장 대파괴 : 공격력 {0}%",
+    "english": "Armament Destruction : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_CH_22": {
+    "korean": "무장 대파괴 : 받는 피해 {0}% 증가",
+    "english": "Armament Destruction : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_3": {
+    "korean": "수신중... : 공격력 {0}%",
+    "english": "Receiving... : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_N_3": {
+    "korean": "컴파일링... : 사거리 {0}",
+    "english": "Compiling... : Range {0}"
+  },
+  "BuffDesc3_Effect_PECS_Spartoia_N_3": {
+    "korean": "수신완료 : 적중 {0}%",
+    "english": "Signal Received : ACC {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_31": {
+    "korean": "컴파일링... : 사거리 {0}",
+    "english": "Compiling... : Range {0}"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_32": {
+    "korean": "수신완료 : 적중 {0}%",
+    "english": "Signal Received : ACC {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_4": {
+    "korean": "S.P.A.C.E : 방어 관통 {0}%",
+    "english": "S.P.A.C.E : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_CH_4": {
+    "korean": "S.P.A.C.E : 방어막 / 피해 감소 무시",
+    "english": "S.P.A.C.E : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_5": {
+    "korean": "위대한 도약 : 공격력 {0}%",
+    "english": "The Great Leap : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_CH_5": {
+    "korean": "위대한 도약 : 치명타 {0}%",
+    "english": "The Great Leap : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Spartoia_CH_5": {
+    "korean": "위대한 도약 : 방어력 {0}%",
+    "english": "The Great Leap : DEF {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Spartoia_CH_5": {
+    "korean": "위대한 도약 : AP {0}",
+    "english": "The Great Leap : AP {0}"
+  },
+  "BuffDesc5_Effect_PECS_Spartoia_CH_5": {
+    "korean": "위대한 도약 : 행동력 / AP 감소 면역",
+    "english": "The Great Leap : SPD / AP Decrease Immunity"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_CH_51": {
+    "korean": "위대한 도약 : 방어력 {0}%",
+    "english": "The Great Leap : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_52": {
+    "korean": "위대한 도약 : AP {0}",
+    "english": "The Great Leap : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_53": {
+    "korean": "위대한 도약 : 행동력 감소 면역",
+    "english": "The Great Leap : SPD Decrease Immunity"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_N_53": {
+    "korean": "위대한 도약 : AP 감소 면역",
+    "english": "The Great Leap : AP Decrease Immunity"
+  }
+}

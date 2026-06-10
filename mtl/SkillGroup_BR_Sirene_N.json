@@ -41,7 +41,7 @@
   },
   "SkillDescSimple_Skill_BR_Sirene_N_2": {
     "korean": "범위 내 아군 AP / 공격력 증가. 중장형 / 호라이즌 부대인 경우, 효과 증가 / 공격 지원",
-    "english": "Allies within range AP / ATK increase. Heavy / Horizon Squad: effect increased / Attack Support"
+    "english": "Allies within range AP / ATK increase. Heavy / Horizon Squad: effect increased / Follow-Up Attack"
   },
   "BuffDesc1_Effect_BR_Sirene_N_2": {
     "korean": "포격 지휘 : AP {0}",
@@ -181,11 +181,11 @@
   },
   "SkillDesc_Skill_BR_Sirene_N_5": {
     "korean": "라운드 개시 시, 자신을 제외한 <호라이즌> 부대원 또는 지원기 1기 당 스킬 위력이 증가합니다. 공격 지원을 받는 상태면 <요격 모드 : 자신이 공격 지원 시 AP 증가> <포격 모드 : 액티브 스킬 적중 시 방어막 / 피해 감소 무시> 효과가 적용됩니다.",
-    "english": "At the start of the round, skill power increases for each <Horizon> squad member or Supporter unit, excluding yourself. While receiving Attack Support, the following apply: Interception Mode: AP increased when providing Attack Support; Bombardment Mode: active skill hits ignore Barrier and DMG Reduction."
+    "english": "At the start of the round, skill power increases for each <Horizon> squad member or Supporter unit, excluding yourself. While receiving Follow-Up Attack, the following apply: Interception Mode: AP increased when providing Follow-Up Attack; Bombardment Mode: active skill hits ignore Barrier and DMG Reduction."
   },
   "SkillDescSimple_Skill_BR_Sirene_N_5": {
     "korean": "<호라이즌> 부대원 / 지원기 1기 당 스킬 위력 증가. 공격 지원 받는 상태면 모드에 따른 효과",
-    "english": "<Horizon> squad member / Supporter unit per skill power increase. If receiving Attack Support, mode-specific effects"
+    "english": "<Horizon> squad member / Supporter unit per skill power increase. If receiving Follow-Up Attack, mode-specific effects"
   },
   "BuffDesc1_Effect_BR_Sirene_N_5": {
     "korean": "관측 포격 : AP {0} (요격 모드/공격 지원 시)",

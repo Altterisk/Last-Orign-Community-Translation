@@ -1,0 +1,90 @@
+{
+  "SkillName_Skill_PECS_Peregrinus_N_1": {
+    "korean": "꿰뚫는 깃털",
+    "english": "Piercing Feather"
+  },
+  "SkillName_Skill_PECS_Peregrinus_N_2": {
+    "korean": "질풍격",
+    "english": "Gale Strike"
+  },
+  "SkillName_Skill_PECS_Peregrinus_N_3": {
+    "korean": "팔콘 폼",
+    "english": "Falcon Form"
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_N_1": {
+    "korean": "지정 범위 적에게 {0} 피해를 주고 3라운드 동안 대상의 방어력을 감소시킵니다. 치명타 시, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to enemies in the designated area and reduces their DEF for 3 turns. Damage increases on CRIT."
+  },
+  "SkillDescSimple_Skill_PECS_Peregrinus_N_1": {
+    "korean": "목표 지점 {0} 피해. 방어력 감소 / 치명타 시 피해량 증가",
+    "english": "{0} damage. DEF Reduction / Damage increases on CRIT"
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_N_2": {
+    "korean": "대상에게 {0} 피해를 줍니다. 대상의 방어막 / 피해 감소 효과를 무시하며, 자신 회피에 비례하여 스킬 위력이 증가합니다.",
+    "english": "Deals {0} damage to the target. Ignores Barrier / DMG Reduction, and Skill Power increases based on own EVA."
+  },
+  "SkillDescSimple_Skill_PECS_Peregrinus_N_2": {
+    "korean": "{0} 피해. 방어막 / 피해 감소 효과 무시. 자신 회피 비례 스킬 위력 증가",
+    "english": "{0} damage. Ignore Barrier / DMG Reduction. Skill Power increases based on own EVA."
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_N_3": {
+    "korean": "라운드 개시 시, 치명타 / 회피 증가 효과가 영구히 적용됩니다. 최대 5중첩까지 가능합니다. 전투 시작 시 <모드 전환 준비> 활성화 상태가 되며, 해당 상태에서 대기 시 <휴먼 폼>으로 변환됩니다.",
+    "english": "At the start of each round, permanent CRIT / EVA increase is applied (up to 5 stacks). At battle start, <Mode Change Preparation> is active, and while in this state, waiting transforms into <Human Form>."
+  },
+  "SkillDescSimple_Skill_PECS_Peregrinus_N_3": {
+    "korean": "치명타 / 회피 증가. 대기 시 <휴먼 폼> 변환",
+    "english": "CRIT / EVA increase. Transforms into <Human Form> when waiting."
+  },
+  "BuffDesc2_Effect_PECS_Peregrinus_N_2": {
+    "korean": "질풍격 : 회피의 {0}%만큼 스킬 위력 증가",
+    "english": "Gale Strike: Skill Power increased by {0}% of EVA"
+  },
+  "BuffDesc3_Effect_PECS_Peregrinus_N_3": {
+    "korean": "팔콘 폼 : 모드 변환",
+    "english": "Falcon Form: Mode Shift"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_32": {
+    "korean": "휴먼 폼 : 모드 변환",
+    "english": "Human Form : Mode Change"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_33": {
+    "korean": "모드 전환 준비",
+    "english": "Mode Change Preparation"
+  },
+  "BuffDesc3_Effect_PECS_Peregrinus_N_4": {
+    "korean": "위대한 하피의 왕 : 회피의 {0}%만큼 스킬 위력 증가",
+    "english": "Great Harpy King: Skill Power increased by {0}% of EVA"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_1": {
+    "korean": "꿰뚫는 깃털 : 피해량{0}%",
+    "english": "Piercing Feather : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Peregrinus_N_1": {
+    "korean": "꿰뚫는 깃털 : 방어력{0}%",
+    "english": "Piercing Feather : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_11": {
+    "korean": "꿰뚫는 깃털 : 방어력{0}%",
+    "english": "Piercing Feather : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_2": {
+    "korean": "질풍격 : 방어막 / 피해 감소 무시",
+    "english": "Gale Strike : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_21": {
+    "korean": "질풍격 : 스킬 위력{0}%",
+    "english": "Gale Strike : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_3": {
+    "korean": "팔콘 폼 : 치명타{0}%",
+    "english": "Falcon Form : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Peregrinus_N_3": {
+    "korean": "팔콘 폼 : 회피{0}%",
+    "english": "Falcon Form : EVA {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_31": {
+    "korean": "팔콘 폼 : 회피{0}%",
+    "english": "Falcon Form : EVA {0}%"
+  }
+}

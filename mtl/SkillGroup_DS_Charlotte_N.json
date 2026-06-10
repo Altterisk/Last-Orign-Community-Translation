@@ -1,0 +1,274 @@
+{
+  "1002701516": {
+    "korean": "앙 가르드",
+    "english": "En Garde"
+  },
+  "1002701517": {
+    "korean": "피날레",
+    "english": "Finale"
+  },
+  "1002701518": {
+    "korean": "듀얼리스트",
+    "english": "Duelist"
+  },
+  "1002701519": {
+    "korean": "오베르튜레",
+    "english": "Overture"
+  },
+  "1002701520": {
+    "korean": "리포스트",
+    "english": "Riposte"
+  },
+  "SkillDesc_Skill_DS_Charlotte_N_1": {
+    "korean": "찌르기로 {0} 보호 무시 피해를 주고, 2라운드 동안 대상에게 표식 / 도발 / 적중 / 행동력 감소 효과를 줍니다. 대상의 행동력 또는 회피가 자신보다 낮을 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage with a thrust, and for 2 rounds applies Marked, Provoked, ACC Down, and SPD Down to the target. If the target's SPD or EVA is lower than the user's, damage is increased."
+  },
+  "SkillDescSimple_Skill_DS_Charlotte_N_1": {
+    "korean": "{0} 보호 무시 피해. 표식 / 도발 / 적중 / 행동력 감소. 조건부 피해량 증가",
+    "english": "{0} Ignore Protection damage. Marked / Provoked / ACC Down / SPD Down. Conditional Damage Increase"
+  },
+  "SkillDesc_Skill_DS_Charlotte_N_2": {
+    "korean": "연속 공격으로 {0} 피해를 주며, 치명타 시 피해량이 증가합니다. 대상이 표식 / 도발 상태면 대상의 강화 효과를 해제하며, 피해량이 추가로 증가합니다. 해당 스킬로 적 처치 시, 자신의 AP가 증가합니다.",
+    "english": "Deals {0} damage through consecutive attacks, and damage is increased on CRIT hits. If the target is Marked or Provoked, removes its buffs and deals additional damage. When this skill defeats an enemy, increases the user's AP."
+  },
+  "SkillDescSimple_Skill_DS_Charlotte_N_2": {
+    "korean": "{0} 피해. 대상이 표식 / 도발 상태면 강화 해제 / 피해량 증가. 적 처치 시 AP 증가",
+    "english": "buffs removed / damage increased. AP increase on enemy defeat"
+  },
+  "SkillDesc_Skill_DS_Charlotte_N_3": {
+    "korean": "전투 시작 시, 치명타가 증가하고 아군 / 적 수에 비례하여 공격력이 증가합니다. <듀얼리스트>의 치명타 / 공격력 증가 효과는 강화 해제 효과의 영향을 받지 않습니다. <듀얼리스트> 공격력 중첩 수에 비례해 라운드 개시 시 추가 효과를 얻습니다.",
+    "english": "At battle start, CRIT is increased and ATK is boosted proportionally to the number of allies and enemies. <Duelist>'s CRIT and ATK increase effects are not affected by buff removal. At round start, gains additional effects based on the number of <Duelist> ATK stacks."
+  },
+  "SkillDescSimple_Skill_DS_Charlotte_N_3": {
+    "korean": "치명타 증가. 아군/적 수 비례 공격력 증가. 공격력 중첩에 따라 추가 효과",
+    "english": "CRIT increase. ATK increase proportional to ally/enemy count. Additional effects based on ATK stacks"
+  },
+  "SkillDesc_Skill_DS_Charlotte_N_4": {
+    "korean": "공격 적중 시, 아군의 AP를 증가시킵니다. 적 처치 시, 아군의 AP를 추가로 증가시킵니다. 대상이 D-엔터 소속이면 효과가 25% 추가 적용되며, D-엔터 보호기 / 지원기인 경우 대상의 공격을 지원합니다.",
+    "english": "When an attack hits, increases allies' AP. When an enemy is defeated, further increases allies' AP. If the target belongs to D-Enter, the effect is increased by 25%. If the target is a D-Enter Defender or Supporter, provides Follow-Up Attack to its attacks."
+  },
+  "SkillDescSimple_Skill_DS_Charlotte_N_4": {
+    "korean": "적중 시 또는 적 처치 시, 아군 AP 증가 / D-엔터 보호기, 지원기 공격 지원",
+    "english": "On hit or when defeating an enemy, allies' AP increase / Follow-Up Attack for D-Enter Defender and Supporter"
+  },
+  "SkillDesc_Skill_DS_Charlotte_N_5": {
+    "korean": "라운드 개시 시, 회피 증가 / 받는 피해 감소 / 반격 효과가 발동합니다. <앙 가르드> 사용 시, 2라운드 동안 받는 피해 감소 효과가 기본 수치의 50%만큼 추가 적용되는 <반격 준비> 상태가 됩니다. <반격 준비> 상태에선 액티브 스킬에 방어 관통 증가가 적용됩니다.",
+    "english": "At round start, EVA Up, DMG Reduction, and Counterattack are activated. When using <En Garde>, for 2 rounds you enter <Counter Prep> state, gaining an additional DMG Reduction equal to 50% of the base value. While in <Counter Prep>, active skills gain increased DEF Penetration."
+  },
+  "SkillDescSimple_Skill_DS_Charlotte_N_5": {
+    "korean": "회피 증가 / 받는 피해 감소 / 반격",
+    "english": "EVA Up / DMG Reduction / Counterattack"
+  },
+  "BuffDesc3_Effect_DS_Charlotte_N_1": {
+    "korean": "듀얼 개시 : 대상 도발 (샬럿)",
+    "english": "Duel Start : Target Provoked (Charlotte)"
+  },
+  "BuffDesc2_Effect_DS_Charlotte_N_11": {
+    "korean": "듀얼 개시 : 대상 도발 (샬럿)",
+    "english": "Duel Start : Target Provoked (Charlotte)"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_1": {
+    "korean": "앙 가르드 : 피해량{0}%",
+    "english": "En Garde : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_DS_Charlotte_N_1": {
+    "korean": "듀얼 개시 : 표식 설정",
+    "english": "Duel Start : Marks target"
+  },
+  "BuffDesc4_Effect_DS_Charlotte_N_1": {
+    "korean": "듀얼 개시 : 적중 {0}%",
+    "english": "Duel Start : ACC {0}%"
+  },
+  "BuffDesc5_Effect_DS_Charlotte_N_1": {
+    "korean": "듀얼 개시 : 행동력 {0}%",
+    "english": "Duel Start : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_11": {
+    "korean": "듀얼 개시 : 표식 설정",
+    "english": "Duel Start : Marks target"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_12": {
+    "korean": "듀얼 개시 : 적중 {0}%",
+    "english": "Duel Start : ACC {0}%"
+  },
+  "BuffDesc2_Effect_DS_Charlotte_N_12": {
+    "korean": "듀얼 개시 : 행동력 {0}%",
+    "english": "Duel Start : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_13": {
+    "korean": "앙 가르드 : 피해량{0}% (행동력)",
+    "english": "En Garde : Additional DMG {0}% (SPD)"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_14": {
+    "korean": "앙 가르드 : 피해량{0}% (회피)",
+    "english": "En Garde : Additional DMG {0}% (EVA)"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_52": {
+    "korean": "<반격 준비> : 받는 피해 감소 {0}%",
+    "english": "<Counter Stance> : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_53": {
+    "korean": "리포스트 : 방어 관통 {0}%",
+    "english": "Riposte : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_2": {
+    "korean": "피날레 : 강화 효과 해제 (듀얼 개시/징벌)",
+    "english": "Finale : Buff Removal (Duel Start/Punishment)"
+  },
+  "BuffDesc2_Effect_DS_Charlotte_N_2": {
+    "korean": "피날레 : 피해량 {0}% (표식/도발 대상)",
+    "english": "Finale : Additional DMG {0}% (Marked/Provoked Target)"
+  },
+  "BuffDesc3_Effect_DS_Charlotte_N_2": {
+    "korean": "피날레 : 피해량{0}% (치명타)",
+    "english": "Finale : Additional DMG {0}% (CRIT)"
+  },
+  "BuffDesc4_Effect_DS_Charlotte_N_2": {
+    "korean": "피날레 : AP{0} (적 처치 시)",
+    "english": "Finale : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_21": {
+    "korean": "피날레 : 피해량{0}% (치명타)",
+    "english": "Finale : Additional DMG {0}% (CRIT)"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_22": {
+    "korean": "피날레 : AP{0} (적 처치)",
+    "english": "Finale : AP {0} (Enemy On Kill)"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_23": {
+    "korean": "피날레 : 강화 효과 해제 (표식/도발 대상)",
+    "english": "Finale : Buff Removal (Marked/Provoked Target)"
+  },
+  "BuffDesc2_Effect_DS_Charlotte_N_23": {
+    "korean": "피날레 : 피해량 {0}% (표식/도발 대상)",
+    "english": "Finale : Additional DMG {0}% (mark/Provoke target)"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_3": {
+    "korean": "듀얼리스트 : 치명타{0}%",
+    "english": "Duelist : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_DS_Charlotte_N_3": {
+    "korean": "듀얼 준비 : 공격력{0}% (아군/적 1인 당)",
+    "english": "Duel Preparation : ATK {0}% (per Ally/Enemy)"
+  },
+  "BuffDesc3_Effect_DS_Charlotte_N_3": {
+    "korean": "듀얼 속행? : 행동력{0}% (3중첩)",
+    "english": "Duel Continuation? : SPD {0}% (3 stacks)"
+  },
+  "BuffDesc4_Effect_DS_Charlotte_N_3": {
+    "korean": "듀얼 속행! : 방어막 / 피해 감소 무시 (6중첩)",
+    "english": "Continue Duel! : Barrier / Ignore Barrier / DMG Reduction (6 stacks)"
+  },
+  "BuffDesc5_Effect_DS_Charlotte_N_3": {
+    "korean": "듀얼리스트! : 재공격 (9중첩)",
+    "english": "Duelist! : Reattack (9 stacks)"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_31": {
+    "korean": "듀얼 준비 II : 공격력{0}%",
+    "english": "Duel Preparation II : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_32": {
+    "korean": "듀얼 준비 III : 공격력{0}%",
+    "english": "Duel Preparation III : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_33": {
+    "korean": "듀얼 준비 IV : 공격력{0}%",
+    "english": "Duel Preparation IV : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_34": {
+    "korean": "듀얼 준비 V : 공격력{0}%",
+    "english": "Duel Preparation V : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_35": {
+    "korean": "듀얼 준비 VI : 공격력{0}%",
+    "english": "Duel Preparation VI : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_36": {
+    "korean": "듀얼 준비 VII : 공격력{0}%",
+    "english": "Duel Preparation VII : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_37": {
+    "korean": "듀얼 준비 VIII : 공격력{0}%",
+    "english": "Duel Preparation VIII : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_38": {
+    "korean": "듀얼 준비 IX : 공격력{0}%",
+    "english": "Duel Preparation IX : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_39": {
+    "korean": "듀얼 준비 X : 공격력{0}%",
+    "english": "Duel Preparation X : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_310": {
+    "korean": "듀얼 준비 XI : 공격력{0}%",
+    "english": "Duel Preparation XI : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_311": {
+    "korean": "듀얼 준비 XII : 공격력{0}%",
+    "english": "Duel Preparation XII : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_312": {
+    "korean": "듀얼 준비 XIII : 공격력{0}%",
+    "english": "Duel Preparation XIII : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_313": {
+    "korean": "듀얼 준비 XIV : 공격력{0}%",
+    "english": "Duel Preparation XIV : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_314": {
+    "korean": "듀얼 속행? : 행동력{0}%",
+    "english": "Duel Continuation? : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_315": {
+    "korean": "듀얼 속행! : 방어막 / 피해 감소 무시",
+    "english": "Continue Duel! : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_316": {
+    "korean": "듀얼리스트! : 재공격",
+    "english": "Duelist! : Reattack"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_4": {
+    "korean": "오베르튜레 : AP{0}",
+    "english": "Overture : AP {0}"
+  },
+  "BuffDesc2_Effect_DS_Charlotte_N_4": {
+    "korean": "클라이맥스 : AP{0} (적 처치 시)",
+    "english": "Climax : AP {0} (On Kill)"
+  },
+  "BuffDesc3_Effect_DS_Charlotte_N_4": {
+    "korean": "오베르튜레 : 공격 지원 (D-엔터 보호기/지원기)",
+    "english": "Overture : Follow-Up Attack (D-Enter Tank/Support)"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_41": {
+    "korean": "클라이맥스 : AP{0}",
+    "english": "Climax : AP {0}"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_42": {
+    "korean": "오베르튜레 : AP{0}",
+    "english": "Overture : AP {0}"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_43": {
+    "korean": "클라이맥스 : AP{0}",
+    "english": "Climax : AP {0}"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_44": {
+    "korean": "오베르튜레 : 공격 지원",
+    "english": "Overture : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_DS_Charlotte_N_5": {
+    "korean": "리포스트 : {0}% 위력으로 반격",
+    "english": "Riposte : Counter Attack with {0}% Power"
+  },
+  "BuffDesc2_Effect_DS_Charlotte_N_5": {
+    "korean": "리포스트 : 회피 {0}%",
+    "english": "Riposte : EVA {0}%"
+  },
+  "BuffDesc3_Effect_DS_Charlotte_N_5": {
+    "korean": "리포스트 : 받는 피해 감소 {0}%",
+    "english": "Riposte : DMG Reduction {0}%"
+  },
+  "BuffDesc4_Effect_DS_Charlotte_N_5": {
+    "korean": "<앙 가르드> 적중 시 : 방어 관통 {0}%",
+    "english": "<En Garde> On Hit : DEF Penetration {0}%"
+  }
+}

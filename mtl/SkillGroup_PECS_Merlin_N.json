@@ -1,0 +1,166 @@
+{
+  "SkillName_Skill_PECS_Merlin_N_1": {
+    "korean": "빅 건",
+    "english": "Big Gun"
+  },
+  "SkillName_Skill_PECS_Merlin_N_2": {
+    "korean": "UNREP",
+    "english": "UNREP"
+  },
+  "SkillName_Skill_PECS_Merlin_N_3": {
+    "korean": "휴대용 무기고 <Caladbolg>",
+    "english": "Portable Armory <Caladbolg>"
+  },
+  "SkillName_Skill_PECS_Merlin_N_4": {
+    "korean": "아발로닉 필드",
+    "english": "Avalonic Field"
+  },
+  "SkillName_Skill_PECS_Merlin_N_5": {
+    "korean": "포세이돈 오버클럭",
+    "english": "Poseidon Overclock"
+  },
+  "SkillDesc_Skill_PECS_Merlin_N_1": {
+    "korean": "가방 속에서 자그마한 중화기를 꺼내 단일 대상에게 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상의 받는 피해를 증가시킵니다.&n대상이 공격기일 경우, 피해량이 증가하고 강화 효과를 해제합니다.",
+    "english": "Take a small firearm from the bag and deal {0} damage to a single target. On hit, increase the target's DMG Taken for 2 rounds. If the target is an Attacker, damage is increased and any enhancement effect is removed."
+  },
+  "SkillDescSimple_Skill_PECS_Merlin_N_1": {
+    "korean": "단일 대상 {0} 피해. 적중 대상 받는 피해 증가. 공격기일 경우, 피해량 증가 / 강화 효과 해제.",
+    "english": "Single target {0} DMG. Increase DMG Taken on hit target. If Attacker, damage increased / enhancement effect removed."
+  },
+  "SkillDesc_Skill_PECS_Merlin_N_2": {
+    "korean": "스킬 사용 시, 무기고를 전개하여 범위 내 아군 공격기의 AP를 증가시키고, 3라운드 동안 방어 관통을 증가시킵니다.&n스쿼드 내에 보호기가 없을 경우, 위치와 관계 없이 모든 중장형 아군에게 2라운드 동안 반격 효과를 부여합니다.",
+    "english": "When the skill is used, deploy the armory to increase the AP of allied Attacker units within range and increase DEF Penetration for 3 rounds. If there are no defenders in the squad, grant Counter Attack to all Heavy allies for 2 rounds regardless of position."
+  },
+  "SkillDescSimple_Skill_PECS_Merlin_N_2": {
+    "korean": "아군 공격기 AP / 방어 관통 증가. 보호기가 없을 경우, 반격 부여.",
+    "english": "Allied Attacker AP / DEF Penetration increased. If no defenders, Counter Attack granted."
+  },
+  "SkillDesc_Skill_PECS_Merlin_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군 공격기의 공격력을 영구적으로 증가시킵니다. (최대 5중첩)&n라운드 개시 시 아군 공격기가 2 이상인 경우, 범위 내 아군 공격기의 받는 피해를 감소시킵니다.&n라운드 개시 시 아군 공격기가 4 이상인 경우, 범위 내 아군 공격기의 행동력을 증가시킵니다.&n중장형 공격기는 효과 수치가 두 배로 증폭됩니다.",
+    "english": "At the start of the round, permanently increase the ATK of allied Attacker units within range (up to 5 stacks). At the start of the round, if there are 2 or more allied Attacker units, reduce DMG Taken of allied Attacker units within range. At the start of the round, if there are 4 or more allied Attacker units, increase SPD of allied Attacker units within range. Effects are doubled for Heavy Attacker units."
+  },
+  "SkillDescSimple_Skill_PECS_Merlin_N_3": {
+    "korean": "아군 공격기 공격력 증가. 아군 공격기 수에 따라 받는 피해 감소 / 행동력 증가. 중장형인 경우 효과 증폭.",
+    "english": "Allied Attacker ATK increased. Based on number of allied Attacker units, DMG Reduction / SPD increase. Effect amplified for Heavy."
+  },
+  "SkillDesc_Skill_PECS_Merlin_N_4": {
+    "korean": "라운드 개시 시, 아군 공격기 수에 따라 중장형 아군의 효과 저항 / 적중을 증가시킵니다.&n전투 개시 시 아군 공격기가 5기일 경우, 반격을 제외한 <UNREP> 효과가 아군 전체에 적용됩니다.",
+    "english": "At the start of the round, increase Status Resist / ACC of Heavy allies based on the number of allied Attacker units. At the start of combat, if there are 5 allied Attacker units, apply the <UNREP> effect to all allies, excluding Counter Attack."
+  },
+  "SkillDescSimple_Skill_PECS_Merlin_N_4": {
+    "korean": "아군 공격기 수에 따라 중장형 아군 효과 저항 / 적중 증가. 공격기 5기일 경우, <UNREP> 효과 발동.",
+    "english": "Heavy allies' Status Resist / ACC increase based on number of allied Attacker units. If 5 Attacker units, activate <UNREP> effect."
+  },
+  "SkillDesc_Skill_PECS_Merlin_N_5": {
+    "korean": "라운드 개시 시 자신 외의 <포세이돈> 소속 공격기가 1기 이상 존재할 경우, 자신은 보호 무시가 활성화되고 치명타가 증가합니다.&n<포세이돈> 소속 공격기가 보유한 <출력 제한 해제> 스킬의 발동 조건을 무시하고 즉시 발동할 수 있도록 합니다.",
+    "english": "At the start of the round, if there is at least one other <Poseidon> affiliated Attacker besides yourself, Activate Ignore Protection and increase CRIT. Also ignore the activation conditions of the <Output Limit Release> skill owned by <Poseidon> affiliated Attacker units, allowing it to trigger immediately."
+  },
+  "SkillDescSimple_Skill_PECS_Merlin_N_5": {
+    "korean": "조건부 자신 보호 무시 활성화 / 치명타 증가. <포세이돈> 소속 <출력 제한 해제> 강제 발동.",
+    "english": "Conditional self Activate Ignore Protection / CRIT increase. Force activate <Output Limit Release> for <Poseidon> affiliated units."
+  },
+  "BuffDesc3_Effect_PECS_Merlin_N_5": {
+    "korean": "<출력 제한 해제> 강제 발동",
+    "english": "<Output Limit Release> Forced Activation : Force activation of the <Output Limit Release> skill."
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_1": {
+    "korean": "빅 건 : 받는 피해 {0}% 증가",
+    "english": "Big Gun : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Merlin_N_1": {
+    "korean": "우선 처리 대상 : 피해량 {0}%",
+    "english": "Priority Target : Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Merlin_N_1": {
+    "korean": "우선 처리 대상 : 강화 효과 해제",
+    "english": "Priority Target : Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_11": {
+    "korean": "우선 처리 대상 : 피해량 {0}%",
+    "english": "Priority Target : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Merlin_N_11": {
+    "korean": "우선 처리 대상 : 강화 효과 해제",
+    "english": "Priority Target : Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_2": {
+    "korean": "UNREP : AP {0}",
+    "english": "UNREP : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_Merlin_N_2": {
+    "korean": "UNREP : 방어 관통 {0}%",
+    "english": "UNREP : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Merlin_N_2": {
+    "korean": "원탁의 기사 : {0}% 위력으로 반격",
+    "english": "Knight of the Round Table : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_3": {
+    "korean": "Caladbolg : 공격력 {0}%",
+    "english": "Caladbolg : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Merlin_N_3": {
+    "korean": "칼집 : 받는 피해 {0}% 감소 (2기 이상)",
+    "english": "Sheath : DMG Reduction (when 2 or more units)"
+  },
+  "BuffDesc3_Effect_PECS_Merlin_N_3": {
+    "korean": "벼락 : 행동력 {0}% (4기 이상)",
+    "english": "Lightning Strike : SPD {0}% (If 4 or more units)"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_32": {
+    "korean": "칼집 : 받는 피해 {0}% 감소",
+    "english": "Sheath : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_34": {
+    "korean": "벼락 : 행동력 {0}%",
+    "english": "Lightning Strike : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_4": {
+    "korean": "Avalon : 효과 저항 / 적중 {0}% (1기)",
+    "english": "Avalon : Status Resist / ACC {0}% (1 units)"
+  },
+  "BuffDesc2_Effect_PECS_Merlin_N_4": {
+    "korean": "Avalon : 효과 저항 / 적중 {0}% (2기)",
+    "english": "Avalon : Status Resist / ACC {0}% (2 units)"
+  },
+  "BuffDesc3_Effect_PECS_Merlin_N_4": {
+    "korean": "Avalon : 효과 저항 / 적중 {0}% (3기)",
+    "english": "Avalon : Status Resist / ACC {0}% (3 units)"
+  },
+  "BuffDesc4_Effect_PECS_Merlin_N_4": {
+    "korean": "Avalon : 효과 저항 / 적중 {0}% (4기)",
+    "english": "Avalon : Status Resist / ACC {0}% (4 units)"
+  },
+  "BuffDesc5_Effect_PECS_Merlin_N_4": {
+    "korean": "Avalon : 효과 저항 / 적중 {0}% (5기)",
+    "english": "Avalon : Status Resist / ACC {0}% (5 units)"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_41": {
+    "korean": "Avalon : 효과 저항 {0}% 증가",
+    "english": "Avalon : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_PECS_Merlin_N_41": {
+    "korean": "Avalon : 적중 {0}%",
+    "english": "Avalon : ACC {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_46": {
+    "korean": "UNREP : AP {0}",
+    "english": "UNREP : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_Merlin_N_46": {
+    "korean": "UNREP : 방어 관통 {0}%",
+    "english": "UNREP : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_21": {
+    "korean": "원탁의 기사 : {0}% 위력으로 반격",
+    "english": "Knight of the Round Table : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_PECS_Merlin_N_5": {
+    "korean": "출력 제한 '일부' 해제 : 보호 무시 활성화",
+    "english": "Partial Output Limit Release : Activate Ignore Protection"
+  },
+  "BuffDesc2_Effect_PECS_Merlin_N_5": {
+    "korean": "출력 제한 '일부' 해제 : 치명타 {0}%",
+    "english": "Partial Output Limit Release : CRIT {0}%"
+  }
+}

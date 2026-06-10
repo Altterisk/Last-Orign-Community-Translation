@@ -1,0 +1,222 @@
+{
+  "SkillName_Skill_PECS_Peregrinus_CH_1": {
+    "korean": "페레그린 킥",
+    "english": "Peregrine Kick"
+  },
+  "SkillName_Skill_PECS_Peregrinus_CH_2": {
+    "korean": "하피 왕의 숨결",
+    "english": "Breath of the Harpy King"
+  },
+  "SkillName_Skill_PECS_Peregrinus_CH_3": {
+    "korean": "휴먼 폼",
+    "english": "Human Form"
+  },
+  "SkillName_Skill_PECS_Peregrinus_N_4": {
+    "korean": "위대한 하피의 왕",
+    "english": "Great Harpy King"
+  },
+  "SkillName_Skill_PECS_Peregrinus_N_5": {
+    "korean": "뛰어난 적응력",
+    "english": "Exceptional Adaptability"
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_CH_1": {
+    "korean": "목표 지점에 {0} 피해를 주고 주위에 50% 감소한 피해를 줍니다. 3라운드 동안 대상의 회피를 감소시키고, 대상이 행 보호 또는 열 보호 활성화 상태면 피해량이 증가합니다.",
+    "english": "Deals {0} damage to the target point and deals damage to the surrounding area at 50% reduced damage. Reduces the target's EVA for 3 rounds, and damage is increased against targets that have Row Protect or Column Protect active."
+  },
+  "SkillDescSimple_Skill_PECS_Peregrinus_CH_1": {
+    "korean": "목표 지점 {0} 피해. 회피 감소 / 행 보호, 열 보호 활성화 대상 피해량 증가",
+    "english": "Target point {0} DMG. EVA Reduction / Damage increased against targets with Row Protect or Column Protect active"
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_CH_2": {
+    "korean": "지정 범위 적에게 {0} 방어 관통 / 보호 무시 피해를 줍니다. 적중 대상의 방어막 효과를 해제하고 적 수에 비례하여 광역 피해 분산 효과를 감소시킵니다. 해당 스킬 사용 시, <팔콘 폼> 모드로 변환됩니다.",
+    "english": "Deals {0} DEF Penetration / Ignore Protection damage to enemies in the designated area. Removes the Barrier effect from hit targets and reduces Area DMG Dispersion based on the number of enemies. Using this skill switches to <Falcon Form> mode."
+  },
+  "SkillDescSimple_Skill_PECS_Peregrinus_CH_2": {
+    "korean": "목표 지점 {0} 방어 관통, 보호 무시 피해. 방어막 해제. 광역 피해 분산 감소",
+    "english": "Target point {0} DEF Penetration, Ignore Protection DMG. Barrier Removal. Area DMG Dispersion Reduction"
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_CH_3": {
+    "korean": "라운드 개시 시, 광역 피해량 집중 효과가 영구히 적용됩니다. 최대 5중첩까지 가능합니다. 2스킬 사용 시, <팔콘 폼>으로 변환됩니다.",
+    "english": "At the start of the round, the Area DMG Concentration effect is applied permanently. Stacks up to 5 times. Using Skill 2 switches to <Falcon Form>."
+  },
+  "SkillDescSimple_Skill_PECS_Peregrinus_CH_3": {
+    "korean": "광역 피해량 집중. 2스킬 사용 시 <팔콘 폼> 변환",
+    "english": "Area DMG Concentration. Using Skill 2 switches to <Falcon Form>."
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_N_4": {
+    "korean": "라운드 개시 시, 공격력 / 행동력이 증가하고 자신의 회피 수치에 비례하여 스킬 위력이 증가합니다.",
+    "english": "At the start of the round, ATK and SPD increase, and Skill Power increases proportionally to own EVA."
+  },
+  "SkillDescSimple_Skill_PECS_Peregrinus_N_4": {
+    "korean": "공격력 / 행동력 증가. 자신 회피 비례 스킬 위력 증가",
+    "english": "ATK / SPD Increase. Skill Power increases proportionally to own EVA."
+  },
+  "SkillDesc_Skill_PECS_Peregrinus_N_5": {
+    "korean": "라운드 개시 시, <팔콘 폼>의 회피 증가 중첩 수에 비례하여 AP가 증가합니다. 라운드 개시 시, <휴먼 폼>의 광역 피해량 집중 중첩 수에 비례하여 공격력이 증가합니다.",
+    "english": "At the start of the round, AP increases proportionally to the number of EVA increase stacks from <Falcon Form>. Also at round start, ATK increases proportionally to the number of Area DMG Concentration stacks from <Human Form>."
+  },
+  "SkillDescSimple_Skill_PECS_Peregrinus_N_5": {
+    "korean": "AP / 공격력 증가",
+    "english": "AP / ATK Increase"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_2": {
+    "korean": "휴먼 폼 모드 해제",
+    "english": "Human Form Mode Released"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_212": {
+    "korean": "모드 전환 종료",
+    "english": "Mode Change End"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_3": {
+    "korean": "휴먼 폼 : 광역 피해량 집중{0}%",
+    "english": "Human Form : Focused Area Damage {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Peregrinus_CH_3": {
+    "korean": "휴먼 폼 모드 해제",
+    "english": "Human Form Mode Disabled"
+  },
+  "BuffDesc3_Effect_PECS_Peregrinus_N_4": {
+    "korean": "위대한 하피의 왕 : 회피의 {0}%만큼 스킬 위력 증가",
+    "english": "Great Harpy King : Skill Power increased by {0}% of EVA"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_1": {
+    "korean": "페레그린 킥 : 회피{0}%",
+    "english": "Peregrine Kick : EVA {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Peregrinus_CH_1": {
+    "korean": "페레그린 킥 : 피해량{0}%",
+    "english": "Peregrine Kick : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_11": {
+    "korean": "페레그린 킥 : 피해량{0}%",
+    "english": "Peregrine Kick : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_12": {
+    "korean": "페레그린 킥 : 피해량{0}%",
+    "english": "Peregrine Kick : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_13": {
+    "korean": "페레그린 킥 : 피해량{0}%",
+    "english": "Peregrine Kick : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_14": {
+    "korean": "페레그린 킥 : 피해량{0}%",
+    "english": "Peregrine Kick : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Peregrinus_CH_2": {
+    "korean": "하피 왕의 숨결 : 방어막 해제",
+    "english": "Breath of the Harpy King : Barrier Removal"
+  },
+  "BuffDesc3_Effect_PECS_Peregrinus_CH_2": {
+    "korean": "하피 왕의 숨결 : 방어 관통{0}%",
+    "english": "Breath of the Harpy King : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Peregrinus_CH_2": {
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}% (적1기)",
+    "english": "Breath of the Harpy King : Area DMG Dispersion {0}% (1 enemy)"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_21": {
+    "korean": "하피 왕의 숨결 : 방어막 해제",
+    "english": "Breath of the Harpy King : Barrier Removal"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_22": {
+    "korean": "하피 왕의 숨결 : 방어 관통{0}%",
+    "english": "Breath of the Harpy King : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_23": {
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%",
+    "english": "Breath of the Harpy King : Area DMG Dispersion {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_24": {
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%",
+    "english": "Breath of the Harpy King : Area DMG Dispersion {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_25": {
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%",
+    "english": "Breath of the Harpy King : Area DMG Dispersion {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_26": {
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%",
+    "english": "Breath of the Harpy King : Area DMG Dispersion {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_27": {
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%",
+    "english": "Breath of the Harpy King : Area DMG Dispersion {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_28": {
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%",
+    "english": "Breath of the Harpy King : Area DMG Dispersion {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_29": {
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%",
+    "english": "Breath of the Harpy King : Area DMG Dispersion {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_210": {
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%",
+    "english": "Breath of the Harpy King : Area DMG Dispersion {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_CH_211": {
+    "korean": "하피 왕의 숨결 : 광역 피해 분산{0}%",
+    "english": "Breath of the Harpy King : Area DMG Dispersion {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_4": {
+    "korean": "위대한 하피의 왕 : 공격력{0}%",
+    "english": "King of the Great Harpies : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Peregrinus_N_4": {
+    "korean": "위대한 하피의 왕 : 행동력{0}%",
+    "english": "King of the Great Harpies : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_41": {
+    "korean": "위대한 하피의 왕 : 스킬 위력{0}%",
+    "english": "King of the Great Harpies : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_5": {
+    "korean": "뛰어난 적응력 : AP{0} (1중첩)",
+    "english": "Exceptional Adaptability : AP {0} (1 stacks)"
+  },
+  "BuffDesc2_Effect_PECS_Peregrinus_N_5": {
+    "korean": "뛰어난 적응력 : 공격력{0}% (1중첩)",
+    "english": "Exceptional Adaptability : ATK {0}% (1 stacks)"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_51": {
+    "korean": "뛰어난 적응력 : AP{0}",
+    "english": "Exceptional Adaptability : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_52": {
+    "korean": "뛰어난 적응력 : AP{0}",
+    "english": "Exceptional Adaptability : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_53": {
+    "korean": "뛰어난 적응력 : AP{0}",
+    "english": "Exceptional Adaptability : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_54": {
+    "korean": "뛰어난 적응력 : AP{0}",
+    "english": "Exceptional Adaptability : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_55": {
+    "korean": "뛰어난 적응력 : AP{0}",
+    "english": "Exceptional Adaptability : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_56": {
+    "korean": "뛰어난 적응력 : 공격력{0}%",
+    "english": "Exceptional Adaptability : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_57": {
+    "korean": "뛰어난 적응력 : 공격력{0}%",
+    "english": "Exceptional Adaptability : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_58": {
+    "korean": "뛰어난 적응력 : 공격력{0}%",
+    "english": "Exceptional Adaptability : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_59": {
+    "korean": "뛰어난 적응력 : 공격력{0}%",
+    "english": "Exceptional Adaptability : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Peregrinus_N_510": {
+    "korean": "뛰어난 적응력 : 공격력{0}%",
+    "english": "Exceptional Adaptability : ATK {0}%"
+  }
+}

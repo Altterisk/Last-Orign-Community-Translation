@@ -1,0 +1,262 @@
+{
+  "SkillName_Skill_DS_Faucre_N_1": {
+    "korean": "헬 인페르노",
+    "english": "Hell Inferno"
+  },
+  "SkillName_Skill_DS_Faucre_N_2": {
+    "korean": "크림슨 익스큐션",
+    "english": "Crimson Execution"
+  },
+  "SkillName_Skill_DS_Faucre_N_3": {
+    "korean": "세뇌의 파동",
+    "english": "Brainwashing Wave"
+  },
+  "SkillName_Skill_DS_Faucre_N_4": {
+    "korean": "대마왕 강림!",
+    "english": "Evil Lord's Advent!"
+  },
+  "SkillName_Skill_DS_Faucre_N_5": {
+    "korean": "마의 장막",
+    "english": "Shadow of Evil"
+  },
+  "SkillDesc_Skill_DS_Faucre_N_1": {
+    "korean": "마계의 화염을 던져 {0} 화염 피해를 줍니다.&n적중 시, 대상을 2라운드 동안 표식으로 지정하여, 받는 피해 증가 / 화염 저항 감소 / 지속 화염 피해를 부여합니다.&n대상이 지속 화염 피해 상태인 경우, 해당 라운드 동안 동일 효과가 추가 적용됩니다.",
+    "english": "Throws flames of the demon realm to deal {0} fire damage.\nOn hit, marks the target for 2 rounds, causing DMG Taken Increased / Fire Resist Reduced / Fire DoT DMG.\nIf the target is already suffering Fire DoT DMG, the same effects are applied again for that round."
+  },
+  "SkillDescSimple_Skill_DS_Faucre_N_1": {
+    "korean": "단일 대상 {0} 화염 피해. 표식 / 받는 피해 증가 / 화염 저항 감소 / 지속 화염 피해.",
+    "english": "Single target {0} fire damage. Marks target / DMG Taken Increased / Fire Resist Reduced / Fire DoT DMG."
+  },
+  "SkillDesc_Skill_DS_Faucre_N_2": {
+    "korean": "채찍 연타로 범위 내 적에게 {0} 보호 무시 화염 피해를 줍니다.&n적중 시, 대상의 AP를 감소시키고 2라운드 동안 표식으로 지정하여 지속 화염 피해를 부여합니다.&n치명타 시, 피해량이 증가하며 대상의 강화 효과를 해제합니다.",
+    "english": "Deals {0} fire damage that ignores protection to enemies within range with rapid whip strikes.\nOn hit, reduces the target’s AP and marks them for 2 rounds, inflicting Fire DoT DMG.\nOn critical hit, damage is increased and the target’s buffs are removed."
+  },
+  "SkillDescSimple_Skill_DS_Faucre_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 화염 피해. AP 감소 / 표식 / 지속 화염 피해. 치명타 시, 피해량 증가 / 강화 해제.",
+    "english": "Designated area {0} fire damage ignoring protection. AP Reduction / Marks target / Fire DoT DMG. On critical hit, damage increased / buffs removed."
+  },
+  "SkillDesc_Skill_DS_Faucre_N_3": {
+    "korean": "라운드 개시 시, 주변에 있는 바이오로이드들을 세뇌해 능력 이상의 힘을 끌어냅니다. &n대기 시, 동일한 효과가 2라운드 동안 추가 적용되지만 고정 물리 피해를 줍니다. (중첩 불가)&n<뽀끄루 대마왕의 뿔> 장착 시 부작용 발생을 억제하고, 지속 효과를 두 배로 증폭시킵니다. 또한 대기 시 발생하는 <세뇌의 파동>에 의한 고정 물리 피해를 제거합니다.&n비록 바이오로이드가 아닐지언정, 배하의 <군단장>에게도 친히 마력을 하사합니다.",
+    "english": "At the start of the round, brainwashes nearby bioroids, drawing power beyond their limits.\nWhile waiting, the same effect is applied for an additional 2 rounds but deals Fixed Physical DMG. (Cannot stack)\nWhen equipped with <Horns of the Evil Overlord>, side effects are suppressed and the continuous effect's duration is doubled. It also removes Fixed Physical DMG from <Brainwashing Wave> that occurs while waiting.\nEven if not a bioroid, the subordinate <Legion Commander> is personally granted magical power."
+  },
+  "SkillDescSimple_Skill_DS_Faucre_N_3": {
+    "korean": "범위 내 바이오로이드 강화. 대기 시 추가 강화.",
+    "english": "Enhances bioroids within range. Additional enhancement while waiting."
+  },
+  "SkillDesc_Skill_DS_Faucre_N_4": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 적중 / 행동력이 증가합니다.&n자신의 HP가 50% 이상인 경우, 기세등등해져 효과가 50% 증폭됩니다.&n자신의 HP가 50% 이하인 경우, 회피가 증가하며 받는 피해가 감소합니다.",
+    "english": "At the start of the round, increases own ATK / ACC / SPD.\nIf own HP is 50% or higher, becomes energized and the effects are increased by 50%.\nIf own HP is 50% or lower, EVA is increased and DMG Taken is reduced."
+  },
+  "SkillDescSimple_Skill_DS_Faucre_N_4": {
+    "korean": "공격력 / 적중 / 행동력 증가. HP 50% 이상인 경우 효과 증폭. HP 50% 이하인 경우 회피 증가 / 받는 피해 감소.",
+    "english": "ATK / ACC / SPD increased. Effect amplified when HP is 50% or higher. When HP is 50% or lower, EVA increased / DMG Taken Reduced."
+  },
+  "SkillDesc_Skill_DS_Faucre_N_5": {
+    "korean": "라운드 개시 시, 아군 전체에 해로운 표식 지정 면역 효과를 부여합니다.&n라운드 개시 시, 아군 전체의 받는 피해를 증가시키지만 대신 스킬 위력을 증가시킵니다.&n배하의 <군단장>은 받는 피해가 더욱 가혹하게 증가하며, 스킬 위력 또한 더욱 증가합니다. &n해당 효과는 강화 효과로 분류됩니다.",
+    "english": "At the start of the round, grants all allies immunity to harmful Marks.\nAt the start of the round, increases DMG Taken for all allies but boosts their Skill Power instead.\nThe subordinate <Legion Commander> takes even greater DMG Taken increase and also receives a higher boost to Skill Power.\nThis effect is classified as a buff."
+  },
+  "SkillDescSimple_Skill_DS_Faucre_N_5": {
+    "korean": "아군 전체 해로운 표식 지정 면역 / 받는 피해 증가 / 스킬 위력 증가.",
+    "english": "Immunity to harmful Marks / DMG Taken Increased / Skill Power Increased."
+  },
+  "BuffDesc3_Effect_DS_Faucre_N_37": {
+    "korean": "피휘 : 부작용 극복",
+    "english": "Evasion : Overcome Side Effect"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_1": {
+    "korean": "헬 인페르노 : 받는 피해 {0}% 증가",
+    "english": "Hell Inferno : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_1": {
+    "korean": "헬 인페르노 : {0} 지속 화염 피해",
+    "english": "Hell Inferno : Fire DoT DMG {0}"
+  },
+  "BuffDesc3_Effect_DS_Faucre_N_1": {
+    "korean": "헬 인페르노 : 화염 저항 {0}%",
+    "english": "Hell Inferno : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_DS_Faucre_N_1": {
+    "korean": "헬 인페르노 : 표식 지정",
+    "english": "Hell Inferno : Marks target"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_11": {
+    "korean": "헬 인페르노 : 받는 피해 {0}% 증가",
+    "english": "Hell Inferno : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_12": {
+    "korean": "헬 인페르노 : {0} 지속 화염 피해",
+    "english": "Hell Inferno : Fire DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_12": {
+    "korean": "헬 인페르노 : 화염 저항 {0}%",
+    "english": "Hell Inferno : Fire Resist {0}%"
+  },
+  "BuffDesc3_Effect_DS_Faucre_N_12": {
+    "korean": "헬 인페르노 : 표식 지정",
+    "english": "Hell Inferno : Marks target"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_2": {
+    "korean": "크림슨 익스큐션 : 강화 효과 해제",
+    "english": "Crimson Execution : Buff Removal"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_2": {
+    "korean": "크림슨 익스큐션 : 피해량 {0}%",
+    "english": "Crimson Execution : Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_DS_Faucre_N_2": {
+    "korean": "크림슨 익스큐션 : AP {0}",
+    "english": "Crimson Execution : AP {0}"
+  },
+  "BuffDesc4_Effect_DS_Faucre_N_2": {
+    "korean": "크림슨 익스큐션 : {0} 지속 화염 피해",
+    "english": "Crimson Execution : Fire DoT DMG {0}"
+  },
+  "BuffDesc5_Effect_DS_Faucre_N_2": {
+    "korean": "크림슨 익스큐션 : 표식 지정",
+    "english": "Crimson Execution : Marks target"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_21": {
+    "korean": "크림슨 익스큐션 : AP {0}",
+    "english": "Crimson Execution : AP {0}"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_21": {
+    "korean": "크림슨 익스큐션 : {0} 지속 화염 피해",
+    "english": "Crimson Execution : Fire DoT DMG {0}"
+  },
+  "BuffDesc3_Effect_DS_Faucre_N_21": {
+    "korean": "크림슨 익스큐션 : 표식 지정",
+    "english": "Crimson Execution : Marks target"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_3": {
+    "korean": "세뇌의 파동 : 공격력 {0}%",
+    "english": "Brainwashing Wave : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_3": {
+    "korean": "세뇌의 파동 : 적중 {0}%",
+    "english": "Brainwashing Wave : ACC {0}%"
+  },
+  "BuffDesc3_Effect_DS_Faucre_N_3": {
+    "korean": "세뇌의 파동 : 치명타 {0}%",
+    "english": "Brainwashing Wave : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_DS_Faucre_N_3": {
+    "korean": "세뇌의 파동 : 방어 관통 {0}%",
+    "english": "Brainwashing Wave : DEF Penetration {0}%"
+  },
+  "BuffDesc5_Effect_DS_Faucre_N_3": {
+    "korean": "세뇌의 파동 : {0} 지속 물리 피해 (대기 시)",
+    "english": "Brainwashing Wave : Physical DoT DMG {0} (On Standby)"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_31": {
+    "korean": "세뇌의 파동! : 공격력 {0}%",
+    "english": "Brainwashing Wave! : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_32": {
+    "korean": "세뇌의 파동! : 적중 {0}%",
+    "english": "Brainwashing Wave! : ACC {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_33": {
+    "korean": "세뇌의 파동! : 치명타 {0}%",
+    "english": "Brainwashing Wave! : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_34": {
+    "korean": "세뇌의 파동! : 방어 관통 {0}%",
+    "english": "Brainwashing Wave! : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_35": {
+    "korean": "세뇌의 파동! : {0} 지속 물리 피해",
+    "english": "Brainwashing Wave! : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_4": {
+    "korean": "마왕 강림 : 공격력 {0}%",
+    "english": "Demon Lord's Descent : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_4": {
+    "korean": "마왕 강림 : 적중 {0}%",
+    "english": "Demon Lord's Descent : ACC {0}%"
+  },
+  "BuffDesc3_Effect_DS_Faucre_N_4": {
+    "korean": "마왕 강림 : 행동력 {0}%",
+    "english": "Demon Lord's Descent : SPD {0}%"
+  },
+  "BuffDesc4_Effect_DS_Faucre_N_4": {
+    "korean": "컷…컷트! : 회피 {0}%",
+    "english": "Cut... Cut! : EVA {0}%"
+  },
+  "BuffDesc5_Effect_DS_Faucre_N_4": {
+    "korean": "아픈 건 싫어! : 받는 피해 {0}% 감소",
+    "english": "I Hate Getting Hurt! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_41": {
+    "korean": "대마왕 강림! : 공격력 {0}%",
+    "english": "Evil Lord's Advent! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_41": {
+    "korean": "대마왕 강림! : 적중 {0}%",
+    "english": "Evil Lord's Advent! : ACC {0}%"
+  },
+  "BuffDesc3_Effect_DS_Faucre_N_41": {
+    "korean": "대마왕 강림! : 행동력 {0}%",
+    "english": "Evil Lord's Advent! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_42": {
+    "korean": "컷…컷트! : 회피 {0}%",
+    "english": "Cut... Cut! : EVA {0}%"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_42": {
+    "korean": "아픈 건 싫어! : 받는 피해 {0}% 감소",
+    "english": "I Hate Getting Hurt! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_37": {
+    "korean": "피휘 : 치명타 {0}%",
+    "english": "Evasion : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_37": {
+    "korean": "피휘 : 행동력 {0}%",
+    "english": "Evasion : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_5": {
+    "korean": "마의 장막 : 표식 지정 면역",
+    "english": "Shadow of Evil : Marks target Immunity"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_5": {
+    "korean": "마의 장막 : 받는 피해 {0}% 증가",
+    "english": "Shadow of Evil : DMG Taken Increased {0}%"
+  },
+  "BuffDesc3_Effect_DS_Faucre_N_5": {
+    "korean": "마의 장막 : 스킬 위력 {0}%",
+    "english": "Shadow of Evil : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_51": {
+    "korean": "마의 장막 : 받는 피해 {0}% 증가",
+    "english": "Shadow of Evil : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_51": {
+    "korean": "마의 장막 : 스킬 위력 {0}%",
+    "english": "Shadow of Evil : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_52": {
+    "korean": "마의 장막 : 받는 피해 {0}% 증가",
+    "english": "Shadow of Evil : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_52": {
+    "korean": "마의 장막 : 스킬 위력 {0}%",
+    "english": "Shadow of Evil : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_DS_Faucre_N_53": {
+    "korean": "세뇌의 파동 : 공격력 {0}%",
+    "english": "Brainwashing Wave : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_Faucre_N_53": {
+    "korean": "세뇌의 파동 : 적중 {0}%",
+    "english": "Brainwashing Wave : ACC {0}%"
+  },
+  "BuffDesc3_Effect_DS_Faucre_N_53": {
+    "korean": "세뇌의 파동 : 치명타 {0}%",
+    "english": "Brainwashing Wave : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_DS_Faucre_N_53": {
+    "korean": "세뇌의 파동 : 방어 관통 {0}%",
+    "english": "Brainwashing Wave : DEF Penetration {0}%"
+  }
+}

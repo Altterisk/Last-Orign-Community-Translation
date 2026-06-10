@@ -1,0 +1,138 @@
+{
+  "SkillName_Skill_PECS_Boryeon_N_1": {
+    "korean": "풀 코스",
+    "english": "Full Course"
+  },
+  "SkillName_Skill_PECS_Boryeon_N_2": {
+    "korean": "부식액 발사",
+    "english": "Corrosive Spray"
+  },
+  "SkillName_Skill_PECS_Boryeon_N_3": {
+    "korean": "뛰어난 손재주",
+    "english": "Exceptional Dexterity"
+  },
+  "SkillName_Skill_PECS_Boryeon_N_4": {
+    "korean": "발랄한 미용사",
+    "english": "Cheerful Stylist"
+  },
+  "SkillName_Skill_PECS_Boryeon_N_5": {
+    "korean": "아쿠아 랜드 미용장",
+    "english": "Aqualand Stylist"
+  },
+  "SkillDesc_Skill_PECS_Boryeon_N_1": {
+    "korean": "지정 범위에 {0} 피해를 입힙니다.&n적중 시, 3라운드 동안 대상을 [싹둑싹둑~] 상태로 만들어 공격력을 감소시킵니다. (중첩 불가)&n적중 대상이 [매끈매끈~] 상태인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to targets in the designated area.\\nOn hit, inflicts the [Snip Snip~] state on targets for 3 rounds, reducing their ATK. (Cannot stack)\\nIf the hit target is in the [Smooth Smooth~] state, damage dealt is increased."
+  },
+  "SkillDescSimple_Skill_PECS_Boryeon_N_1": {
+    "korean": "지정 범위 {0} 피해. 대상 공격력 감소.",
+    "english": "Deals {0} damage to targets in the designated area. Reduces target's ATK."
+  },
+  "SkillDesc_Skill_PECS_Boryeon_N_2": {
+    "korean": "지정 범위에 {0} 피해를 입힙니다.&n적중 시, 3라운드 동안 대상을 [매끈매끈~] 상태로 만들어 방어력을 감소시킵니다. (중첩 불가)&n적중 대상이 [싹둑싹둑~] 상태인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to targets in the designated area.\\nOn hit, inflicts the [Smooth Smooth~] state on targets for 3 rounds, reducing their DEF. (Cannot stack)\\nIf the hit target is in the [Snip Snip~] state, damage dealt is increased."
+  },
+  "SkillDescSimple_Skill_PECS_Boryeon_N_2": {
+    "korean": "지정 범위 {0} 피해. 대상 방어력 감소.",
+    "english": "Deals {0} damage to targets in the designated area. Reduces target's DEF."
+  },
+  "SkillDesc_Skill_PECS_Boryeon_N_3": {
+    "korean": "라운드 개시 시, 자신의 적중 / 치명타가 증가합니다.&n액티브 스킬 치명타 시, 대상의 받는 피해 감소 효과를 해제하고 피해량이 증가합니다.",
+    "english": "At the start of the round, increases own ACC and CRIT.\\nOn active skill CRIT, removes the target’s DMG Reduction effect and increases damage dealt."
+  },
+  "SkillDescSimple_Skill_PECS_Boryeon_N_3": {
+    "korean": "자신 적중 / 치명타 증가. 액티브 스킬 치명타 시, 대상 받는 피해 감소 해제 / 피해량 증가.",
+    "english": "Increases own ACC / CRIT. On active skill CRIT, removes target's DMG Reduction / increases damage dealt."
+  },
+  "SkillDesc_Skill_PECS_Boryeon_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군 바이오로이드의 공격력 / 행동력이 증가합니다.&n자신은 상기 효과가 두 배로 증폭됩니다.",
+    "english": "At the start of the round, increases the ATK and SPD of allied bioroids within range.\\nThe effect on self is doubled."
+  },
+  "SkillDescSimple_Skill_PECS_Boryeon_N_4": {
+    "korean": "범위 내 아군 바이오로이드 공격력 / 행동력 증가.",
+    "english": "Allied bioroids within range gain ATK / SPD."
+  },
+  "SkillDesc_Skill_PECS_Boryeon_N_5": {
+    "korean": "라운드 개시 시, 자신은 보호 무시가 활성화됩니다.&n라운드 개시 시, 범위 내 아군의 AP가 증가합니다.&n자신의 액티브 스킬의 피해량 증가 효과가 두 배로 증폭됩니다.",
+    "english": "At the start of the round, Activate Ignore Protection for self.\\nAt the start of the round, increases AP of allies within range.\\nDamage increase effects of own active skills are doubled."
+  },
+  "SkillDescSimple_Skill_PECS_Boryeon_N_5": {
+    "korean": "자신 보호 무시 활성화. 범위 내 아군 AP 증가.",
+    "english": "Activate Ignore Protection for self. Allies within range gain AP."
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_1": {
+    "korean": "싹둑싹둑~ : 공격력 {0}%",
+    "english": "Snip Snip~ : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Boryeon_N_1": {
+    "korean": "풀 코스 : 피해량 {0}%",
+    "english": "Full Course : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_11": {
+    "korean": "풀 코스 : 피해량 {0}%",
+    "english": "Full Course : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_12": {
+    "korean": "디럭스 풀 코스 : 피해량 {0}%",
+    "english": "Deluxe Full Course : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_31": {
+    "korean": "뛰어난 손재주 : 받는 피해 감소 해제",
+    "english": "Exceptional Dexterity : DMG Reduction Removal"
+  },
+  "BuffDesc2_Effect_PECS_Boryeon_N_31": {
+    "korean": "뛰어난 손재주 : 피해량 {0}%",
+    "english": "Exceptional Dexterity : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_2": {
+    "korean": "매끈매끈~ : 방어력 {0}%",
+    "english": "Silky Smooth~ : DEF {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Boryeon_N_2": {
+    "korean": "부식액 발사 : 피해량 {0}%",
+    "english": "Corrosive Spray : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_21": {
+    "korean": "부식액 발사 : 피해량 {0}%",
+    "english": "Corrosive Spray : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_22": {
+    "korean": "특제 부식액 발사 : 피해량 {0}%",
+    "english": "Special Corrosive Spray : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_3": {
+    "korean": "뛰어난 손재주 : 적중 {0}%",
+    "english": "Exceptional Dexterity : ACC {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Boryeon_N_3": {
+    "korean": "뛰어난 손재주 : 치명타 {0}%",
+    "english": "Exceptional Dexterity : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Boryeon_N_3": {
+    "korean": "뛰어난 손재주 : 받는 피해 감소 해제 (치명타 시)",
+    "english": "Exceptional Dexterity : DMG Reduction Removal (on CRIT)"
+  },
+  "BuffDesc4_Effect_PECS_Boryeon_N_3": {
+    "korean": "뛰어난 손재주 : 피해량 {0}% (치명타 시)",
+    "english": "Exceptional Dexterity : Additional DMG {0}% (On CRIT)"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_4": {
+    "korean": "발랄한 미용사 : 공격력 {0}%",
+    "english": "Cheerful Stylist : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Boryeon_N_4": {
+    "korean": "발랄한 미용사 : 행동력 {0}%",
+    "english": "Cheerful Stylist : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_5": {
+    "korean": "아쿠아 랜드 미용장 : 보호 무시 활성화",
+    "english": "Aqualand Stylist : Activate Ignore Protection"
+  },
+  "BuffDesc2_Effect_PECS_Boryeon_N_5": {
+    "korean": "손님 머리 많이 상하셨네~ : AP {0}",
+    "english": "Your hair’s really damaged~ : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Boryeon_N_51": {
+    "korean": "손님 머리 많이 상하셨네~ : AP {0}",
+    "english": "Your hair’s really damaged~ : AP {0}"
+  }
+}

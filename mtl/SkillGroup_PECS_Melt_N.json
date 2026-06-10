@@ -1,0 +1,186 @@
+{
+  "SkillName_Skill_PECS_Melt_N_1": {
+    "korean": "헤로인 나이트 메어",
+    "english": "Heroine Nightmare"
+  },
+  "SkillName_Skill_PECS_Melt_N_2": {
+    "korean": "자, 여기 봐주세요",
+    "english": "Hey, Look Here"
+  },
+  "SkillName_Skill_PECS_Melt_N_3": {
+    "korean": "다한증",
+    "english": "Hyperhidrosis"
+  },
+  "SkillName_Skill_PECS_Melt_N_4": {
+    "korean": "몽마",
+    "english": "Nightmare"
+  },
+  "SkillName_Skill_PECS_Melt_N_5": {
+    "korean": "긴장이 풀렸어요!",
+    "english": "I Feel Relieved!"
+  },
+  "SkillDesc_Skill_PECS_Melt_N_1": {
+    "korean": "목표 지점에 {0} 보호 무시 피해를 입힙니다.&n적중 대상들에 4가지 추가 효과 중 1개가 랜덤으로 발생합니다.&n[추가 효과]&n이동 불가 / 행동 불가 / 스킬 사용 불가 / 강화 효과 해제",
+    "english": "Deals {0} Ignore Protection damage to the target location.\\nRandomly triggers one of four additional effects on hit targets.\\n[Additional Effect]\\nRooted / Stunned / Silenced / Remove Enhancement"
+  },
+  "SkillDescSimple_Skill_PECS_Melt_N_1": {
+    "korean": "{0} 보호 무시 피해 / 랜덤 추가 효과 적용",
+    "english": "{0} Ignore Protection Damage / Apply Random Additional Effect"
+  },
+  "SkillDesc_Skill_PECS_Melt_N_2": {
+    "korean": "아군을 세뇌하여 사용한 스킬을 한번 더 사용하게 만든다.&n대상의 역할군에 따라 추가 효과를 받습니다.&n공격기 : 치명타 증가&n보호기 : 받는 피해 감소&n지원기 : AP 증가",
+    "english": "Brainwashes an ally to force them to use their skill again.\\nThe target receives an additional effect based on its role.\\nAttacker: CRIT increase\\nDefender: DMG Reduction\\nSupporter: AP increase"
+  },
+  "SkillDescSimple_Skill_PECS_Melt_N_2": {
+    "korean": "대상 스킬 2번 사용. 역할군에 따른 추가 효과.",
+    "english": "Target skill used twice. Additional effect based on role."
+  },
+  "SkillDesc_Skill_PECS_Melt_N_3": {
+    "korean": "전투 개시 시 자신의 AP가 증가합니다.&n자신의 HP가 25% 이하면 라운드 시작 시 공격력과 행동력이 증가합니다.",
+    "english": "At the start of battle, your AP increases.\\nIf your HP is below 25%, ATK and SPD increase at the start of the round."
+  },
+  "SkillDescSimple_Skill_PECS_Melt_N_3": {
+    "korean": "자신의 AP 증가. HP에 따라 공격력 / 행동력 증가",
+    "english": "AP increase. ATK / SPD increase based on HP"
+  },
+  "SkillDesc_Skill_PECS_Melt_N_4": {
+    "korean": "라운드 개시 시, 아군의 공격력 / 방어 관통이 증가하고 받는 피해 감소합니다.&n스쿼드 내에 <포이>가 존재할 경우, 포이는 적용 효과를 2배로 받습니다.",
+    "english": "At the start of the round, allies' ATK / DEF Penetration increase and DMG Reduction is applied.\\nIf <Poi> is present in the squad, <Poi> receives double the effect."
+  },
+  "SkillDescSimple_Skill_PECS_Melt_N_4": {
+    "korean": "아군의 공격력 / 방어 관통 증가, 받는 피해 감소, 포이는 효과 2배 적용",
+    "english": "Allies' ATK / DEF Penetration increase, DMG Reduction, Poi receives double effect"
+  },
+  "SkillDesc_Skill_PECS_Melt_N_5": {
+    "korean": "라운드 개시 시, 아군의 적중 / 치명타 / 스킬 위력이 증가합니다.",
+    "english": "At the start of the round, allies' ACC / CRIT / Skill Power increase."
+  },
+  "SkillDescSimple_Skill_PECS_Melt_N_5": {
+    "korean": "아군의 적중 / 치명타 / 스킬 위력 증가",
+    "english": "Allies' ACC / CRIT / Skill Power increase"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_2": {
+    "korean": "자, 여기를 봐주세요 : 세뇌",
+    "english": "Hey, Look Here : Brainwash"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_1": {
+    "korean": "헤로인 나이트 메어 : 피해량 {0}%",
+    "english": "Heroine Nightmare : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Melt_N_1": {
+    "korean": "헤로인 나이트 메어 : 이동 불가",
+    "english": "Heroine Nightmare : Rooted"
+  },
+  "BuffDesc3_Effect_PECS_Melt_N_1": {
+    "korean": "헤로인 나이트 메어 : 행동 불가",
+    "english": "Heroine Nightmare : Stunned"
+  },
+  "BuffDesc4_Effect_PECS_Melt_N_1": {
+    "korean": "헤로인 나이트 메어 : 스킬 사용 불가",
+    "english": "Heroine Nightmare : Silenced"
+  },
+  "BuffDesc5_Effect_PECS_Melt_N_1": {
+    "korean": "헤로인 나이트 메어 : 강화 해제",
+    "english": "Heroine Nightmare : Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_11": {
+    "korean": "헤로인 나이트 메어 : 이동 불가",
+    "english": "Heroine Nightmare : Rooted"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_12": {
+    "korean": "헤로인 나이트 메어 : 행동 불가",
+    "english": "Heroine Nightmare : Stunned"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_13": {
+    "korean": "헤로인 나이트 메어 : 스킬 사용 불가",
+    "english": "Heroine Nightmare : Silenced"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_14": {
+    "korean": "헤로인 나이트 메어 : 강화 해제",
+    "english": "Heroine Nightmare : Buff Removal"
+  },
+  "BuffDesc2_Effect_PECS_Melt_N_2": {
+    "korean": "자, 여기를 봐주세요 : 치명타 {0}% (공격기)",
+    "english": "Hey, Look Here : CRIT {0}% (Attacker)"
+  },
+  "BuffDesc3_Effect_PECS_Melt_N_2": {
+    "korean": "자, 여기를 봐주세요 : 받는 피해 감소 {0}% (보호기)",
+    "english": "Hey, Look Here : DMG Reduction {0}% (Defender)"
+  },
+  "BuffDesc4_Effect_PECS_Melt_N_2": {
+    "korean": "자, 여기를 봐주세요 : AP {0} (지원기)",
+    "english": "Hey, Look Here : AP {0} (Supporter)"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_21": {
+    "korean": "자, 여기를 봐주세요 : 치명타 {0}% (공격기)",
+    "english": "Hey, Look Here : CRIT {0}% (Attacker)"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_22": {
+    "korean": "자, 여기를 봐주세요 : 받는 피해 감소 {0}% (보호기)",
+    "english": "Hey, Look Here : DMG Reduction {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_23": {
+    "korean": "자, 여기를 봐주세요 : AP {0} (지원기)",
+    "english": "Hey, Look Here : AP {0} (Supporter)"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_3": {
+    "korean": "심호흡 : AP {0}",
+    "english": "Deep Breath : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_Melt_N_3": {
+    "korean": "긴장 돼…. : 공격력 {0}%",
+    "english": "I’m So Nervous… : ATK {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Melt_N_3": {
+    "korean": "긴장 돼…. : 행동력 {0}%",
+    "english": "I’m So Nervous… : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_31": {
+    "korean": "긴장 돼…. : 공격력 {0}%",
+    "english": "I’m So Nervous… : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Melt_N_31": {
+    "korean": "긴장 돼…. : 행동력 {0}%",
+    "english": "I’m So Nervous… : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_4": {
+    "korean": "테라피 : 공격력 {0}%",
+    "english": "Therapy : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Melt_N_4": {
+    "korean": "테라피 : 방어 관통 {0}%",
+    "english": "Therapy : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Melt_N_4": {
+    "korean": "테라피 : 받는 피해 {0}% 감소",
+    "english": "Therapy : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_41": {
+    "korean": "졸리다 냥…. : 공격력 {0}%",
+    "english": "I’m Sleepy Meow… : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Melt_N_41": {
+    "korean": "졸리다 냥…. : 방어 관통 {0}%",
+    "english": "I’m Sleepy Meow… : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Melt_N_41": {
+    "korean": "졸리다 냥…. : 받는 피해 {0}% 감소",
+    "english": "I’m Sleepy Meow… : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_5": {
+    "korean": "긴장이 풀렸어요! : 적중 {0}%",
+    "english": "I feel relieved! : ACC {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Melt_N_5": {
+    "korean": "긴장이 풀렸어요! : 치명타 {0}%",
+    "english": "I feel relieved! : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Melt_N_5": {
+    "korean": "긴장이 풀렸어요! : 스킬 위력 {0}%",
+    "english": "I feel relieved! : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Melt_N_51": {
+    "korean": "긴장이 풀렸어요! : 스킬 위력 {0}%",
+    "english": "I feel relieved! : Skill Power {0}%"
+  }
+}

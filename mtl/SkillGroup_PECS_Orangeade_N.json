@@ -1,0 +1,106 @@
+{
+  "SkillName_Skill_PECS_Orangeade_N_1": {
+    "korean": "카두세우스 : 회로 간섭",
+    "english": "Caduceus: Circuit Interference"
+  },
+  "SkillName_Skill_PECS_Orangeade_N_2": {
+    "korean": "카두세우스 : 정보 공유",
+    "english": "Caduceus: Information Sharing"
+  },
+  "SkillName_Skill_PECS_Orangeade_N_3": {
+    "korean": "카두세우스 : 화력 지원 OS",
+    "english": "Caduceus: Fire Support OS"
+  },
+  "SkillName_Skill_PECS_Orangeade_N_4": {
+    "korean": "카두세우스 : 능력 강화 OS",
+    "english": "Caduceus: Ability Enhancement OS"
+  },
+  "SkillName_Skill_PECS_Orangeade_N_5": {
+    "korean": "카두세우스 : 조준 보정 OS",
+    "english": "Caduceus: Aim Adjustment OS"
+  },
+  "SkillDesc_Skill_PECS_Orangeade_N_1": {
+    "korean": "대상에게 {0} 보호 무시 피해와 고정 피해를 입힙니다. 대상은 2라운드 동안 새로운 강화 효과를 얻을 수 없게 됩니다.",
+    "english": "Deals {0} Ignore Protection damage and Fixed DMG to the target. The target is afflicted with Buff Prevention for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Orangeade_N_1": {
+    "korean": "보호무시 고정피해, 강화 불가 상태 부여",
+    "english": "Ignore Protection Fixed DMG, Buff Prevention"
+  },
+  "SkillDesc_Skill_PECS_Orangeade_N_2": {
+    "korean": "2라운드 동안 자신을 제외한 아군에게 오렌지에이드의 공격력에 비례한 공격력 강화 효과를 부여합니다.",
+    "english": "Grants an ATK Buff proportional to Orangeade's ATK to all allies except herself for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Orangeade_N_2": {
+    "korean": "오렌지에이드 공격력 비례 공격력 증가",
+    "english": "ATK increase proportional to Orangeade’s ATK"
+  },
+  "SkillDesc_Skill_PECS_Orangeade_N_3": {
+    "korean": "전투 개시 시 스쿼드에 기동형 아군 수가 2 이하일 경우, 모든 아군의 스킬 위력 / 치명타를 증가시킵니다. 해당 효과는 해제할 수 없습니다.",
+    "english": "At battle start, if the squad has 2 or fewer Air allies, increase all allies' Skill Power / CRIT. This effect cannot be removed."
+  },
+  "SkillDescSimple_Skill_PECS_Orangeade_N_3": {
+    "korean": "스킬 위력 / 치명타 증가",
+    "english": "Skill Power / CRIT increase"
+  },
+  "SkillDesc_Skill_PECS_Orangeade_N_4": {
+    "korean": "전투 개시 시 스쿼드에 중장형 아군 수가 2 이하일 경우, 모든 아군의 공격력 / 방어력을 증가시킵니다. 해당 효과는 해제할 수 없습니다.",
+    "english": "At battle start, if the squad has 2 or fewer Heavy allies, increase all allies' ATK / DEF. This effect cannot be removed."
+  },
+  "SkillDescSimple_Skill_PECS_Orangeade_N_4": {
+    "korean": "공격력 / 방어력 증가",
+    "english": "ATK / DEF increase"
+  },
+  "SkillDesc_Skill_PECS_Orangeade_N_5": {
+    "korean": "전투 개시 시 스쿼드에 경장형 아군 수가 2 이하일 경우, 모든 아군의 사거리 / 적중을 증가시킵니다. 해당 효과는 해제할 수 없습니다.&n스킬 레벨 10에서 사거리가 추가로 증가합니다.",
+    "english": "At battle start, if the squad has 2 or fewer Light allies, increase all allies' Range / ACC. This effect cannot be removed.&nAt Skill Level 10, Range is further increased."
+  },
+  "SkillDescSimple_Skill_PECS_Orangeade_N_5": {
+    "korean": "적중 / 사거리 증가",
+    "english": "ACC / Range increase"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_1": {
+    "korean": "회로 간섭 : {0}% 물리 피해",
+    "english": "Circuit Interference : {0}% Physical Damage"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_2": {
+    "korean": "정보 공유 : 자신 공격력 {0}%만큼 아군 공격력 증가",
+    "english": "Information Sharing : Increases ally ATK by {0}% of own ATK"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_21": {
+    "korean": "정보 공유 : 오렌지 공격력 비례 공격력 증가",
+    "english": "Information Sharing : Increases ATK based on Orange’s ATK"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_31": {
+    "korean": "카두세우스 전개",
+    "english": "Caduceus Deployment"
+  },
+  "BuffDesc2_Effect_PECS_Orangeade_N_1": {
+    "korean": "회로 간섭 : 강화 불가 상태",
+    "english": "Circuit Interference : Buff Prevention"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_3": {
+    "korean": "화력 지원 OS : 스킬 위력{0}%",
+    "english": "Fire Support OS : Skill Power {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Orangeade_N_3": {
+    "korean": "화력 지원 OS : 치명타{0}%",
+    "english": "Fire Support OS : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_4": {
+    "korean": "능력 강화 OS : 공격력{0}",
+    "english": "Ability Enhancement OS : ATK {0}"
+  },
+  "BuffDesc2_Effect_PECS_Orangeade_N_4": {
+    "korean": "능력 강화 OS : 방어력{0}",
+    "english": "Ability Enhancement OS : DEF {0}"
+  },
+  "BuffDesc1_Effect_PECS_Orangeade_N_5": {
+    "korean": "조준 보정 OS : 적중 {0}% (해제 불가)",
+    "english": "Aim Adjustment OS : ACC {0}% (Unremovable)"
+  },
+  "BuffDesc2_Effect_PECS_Orangeade_N_5": {
+    "korean": "조준 보정 OS : 사거리 {0} (해제 불가)",
+    "english": "Aim Adjustment OS : Range {0} (Unremovable)"
+  }
+}

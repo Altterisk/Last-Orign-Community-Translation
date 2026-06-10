@@ -1,0 +1,186 @@
+{
+  "SkillName_Skill_PECS_MightyR_CH_1": {
+    "korean": "바벨 분쇄",
+    "english": "Barbell Smash"
+  },
+  "SkillName_Skill_PECS_MightyR_CH_2": {
+    "korean": "마하 스프린트",
+    "english": "Mach Sprint"
+  },
+  "SkillName_Skill_PECS_MightyR_CH_3": {
+    "korean": "초 펌핑 업",
+    "english": "Super Pump Up"
+  },
+  "SkillName_Skill_PECS_MightyR_CH_4": {
+    "korean": "퍼스널 트레이너",
+    "english": "Personal Trainer"
+  },
+  "SkillName_Skill_PECS_MightyR_CH_5": {
+    "korean": "미스 올림피아",
+    "english": "Miss Olympia"
+  },
+  "SkillDesc_Skill_PECS_MightyR_CH_1": {
+    "korean": "바벨로 적을 분쇄하여 {0} 피해를 줍니다. 적중 시, 2라운드 동안 대상의 받는 피해를 증가시킵니다.",
+    "english": "Smash the enemy with a barbell to deal {0} damage. On hit, increases the target's DMG Taken for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_MightyR_CH_1": {
+    "korean": "단일 대상 {0} 피해. 대상 받는 피해 증가.",
+    "english": "Single target {0} damage. Target DMG Taken increased."
+  },
+  "SkillDesc_Skill_PECS_MightyR_CH_2": {
+    "korean": "마하의 속도로 목표에 돌격하여 {0} 보호 무시 피해를 주고, 그 충격파로 주변에는 25% 감소한 피해를 입힙니다.&n적중 시, 대상의 AP를 감소시킵니다. 대상이 전열에 위치한 경우 2라운드 동안 행동 불능 상태를 부여합니다.",
+    "english": "Charge at the target at Mach speed to deal {0} Ignore Protection damage, and the shockwave deals damage to nearby enemies at 25% reduced damage. On hit, reduces the target's AP. If the target is positioned in the front row, applies Stunned for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_MightyR_CH_2": {
+    "korean": "목표 대상 {0} 보호 무시 피해. 대상 AP 감소 / 행동 불능.",
+    "english": "Target {0} Ignore Protection damage. Target AP reduction / Stunned."
+  },
+  "SkillDesc_Skill_PECS_MightyR_CH_3": {
+    "korean": "라운드 개시 시, <초 펌핑 업> 상태가 되어 자신의 공격력 / 행동력이 증가합니다.&n라운드 개시 시, 아군 바이오로이드의 공격력 / 행동력을 증가시킵니다.&n공격 적중 시, 2라운드 동안 아군 바이오로이드의 공격력 / 행동력을 추가로 증가시킵니다. (최대 1중첩)",
+    "english": "At the start of the round, enter <Super Pump Up> state, increasing your ATK / SPD. At the start of the round, increases allied Bioroids' ATK / SPD. On a successful hit, further increases allied Bioroids' ATK / SPD for 2 rounds. (max 1 stack)"
+  },
+  "SkillDescSimple_Skill_PECS_MightyR_CH_3": {
+    "korean": "자신 및 아군 공격력 / 행동력 증가. 공격 적중 시, 추가로 공격력 / 행동력 증가.",
+    "english": "Self and allies' ATK / SPD increased. On hit, further increase ATK / SPD."
+  },
+  "SkillDesc_Skill_PECS_MightyR_CH_4": {
+    "korean": "라운드 개시 시, 아군 바이오로이드의 경험치 획득량이 증가합니다.&n라운드 개시 시, <초 펌핑 업> 효과를 받는 아군에게 방어 관통 / 방어력 증가 효과를 부여합니다.",
+    "english": "At the start of the round, increases allied Bioroids' EXP gain. At the start of the round, grants defense penetration / DEF increase effects to allies under <Super Pump Up>."
+  },
+  "SkillDescSimple_Skill_PECS_MightyR_CH_4": {
+    "korean": "아군 획득 경험치 증가. 아군 방어 관통 / 방어력 증가.",
+    "english": "Allies' EXP gain increased. Allies' defense penetration / DEF increase."
+  },
+  "SkillDesc_Skill_PECS_MightyR_CH_5": {
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가합니다.&n라운드 개시 시, 자신에게 공격 지원 효과가 적용된 경우 <퍼스널 트레이너>의 방어 관통 / 방어력 증가 효과를 50% 증폭시킵니다.&n자신에게 적용된 공격 지원 효과는 발동하지 않습니다.&n<초 펌핑 업> / <퍼스널 트레이너> 효과가 아군 AGS에도 영향을 미칩니다.",
+    "english": "At the start of the round, increases your Status Resist. At the start of the round, if you have Follow-Up Attack applied, amplifies <Personal Trainer>'s defense penetration / DEF increase effects by 50%. Follow-Up Attack effects applied to yourself will not activate. <Super Pump Up> / <Personal Trainer> effects also affect allied AGS."
+  },
+  "SkillDescSimple_Skill_PECS_MightyR_CH_5": {
+    "korean": "자신 효과 저항 증가. 아군 AGS에게도 자신의 패시브 효과 부여.",
+    "english": "Self Status Resist increased. Grant passive effects to allied AGS as well."
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_34": {
+    "korean": "워밍 업 종료",
+    "english": "Warming Up Complete"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_CH_34": {
+    "korean": "워밍 업 종료",
+    "english": "Warming Up Complete"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_CH_5": {
+    "korean": "인공근육도 근육 : AGS 트레이닝",
+    "english": "Even Artificial Muscles Need Training: AGS Training"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_52": {
+    "korean": "여러분 덕이에요!",
+    "english": "Thanks to You All!"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_1": {
+    "korean": "바벨 분쇄 : 받는 피해 {0}% 증가",
+    "english": "Barbell Smash : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_2": {
+    "korean": "마하 스프린트 : AP {0}",
+    "english": "Mach Sprint : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_CH_2": {
+    "korean": "마하 스프린트 : 행동 불능",
+    "english": "Mach Sprint : Stunned"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_21": {
+    "korean": "마하 스프린트 : 행동 불능",
+    "english": "Mach Sprint : Stunned"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_3": {
+    "korean": "초 펌핑 업 : 공격력 {0}%",
+    "english": "Super Pump Up : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_CH_3": {
+    "korean": "초 펌핑 업 : 행동력 {0}%",
+    "english": "Super Pump Up : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_MightyR_CH_3": {
+    "korean": "따라해 보세요 : 공격력 {0}% (아군)",
+    "english": "Copycat : ATK {0}% (Ally)"
+  },
+  "BuffDesc4_Effect_PECS_MightyR_CH_3": {
+    "korean": "따라해 보세요 : 행동력 {0}% (아군)",
+    "english": "Copycat : SPD {0}% (Ally)"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_31": {
+    "korean": "따라해 보세요 : 공격력 {0}%",
+    "english": "Copycat : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_CH_31": {
+    "korean": "따라해 보세요 : 행동력 {0}%",
+    "english": "Copycat : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_32": {
+    "korean": "펌핑 : 공격력 {0}%",
+    "english": "Pumping : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_33": {
+    "korean": "펌핑 : 행동력 {0}%",
+    "english": "Pumping : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_35": {
+    "korean": "따라해 보세요 : 공격력 {0}%",
+    "english": "Copycat : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_CH_35": {
+    "korean": "따라해 보세요 : 행동력 {0}%",
+    "english": "Copycat : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_36": {
+    "korean": "펌핑 : 공격력 {0}%",
+    "english": "Pumping : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_37": {
+    "korean": "펌핑 : 행동력 {0}%",
+    "english": "Pumping : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_4": {
+    "korean": "PT : 획득 경험치 {0}% 증가",
+    "english": "PT : EXP {0}% Increase"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_CH_4": {
+    "korean": "PT : 방어 관통 {0}%",
+    "english": "PT : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_PECS_MightyR_CH_4": {
+    "korean": "PT : 방어력 {0}%",
+    "english": "PT : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_41": {
+    "korean": "PT : 획득 경험치 {0}% 증가",
+    "english": "PT : EXP {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_42": {
+    "korean": "PT : 방어 관통 {0}%",
+    "english": "PT : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_CH_42": {
+    "korean": "PT : 방어력 {0}%",
+    "english": "PT : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_43": {
+    "korean": "PT : 방어 관통 {0}%",
+    "english": "PT : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_CH_43": {
+    "korean": "PT : 방어력 {0}%",
+    "english": "PT : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_5": {
+    "korean": "미스 올림피아 : 효과 저항 {0}% 증가",
+    "english": "Miss Olympia : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_MightyR_CH_51": {
+    "korean": "한 세트 더 : 방어 관통 {0}%",
+    "english": "One More Set : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_PECS_MightyR_CH_51": {
+    "korean": "한 세트 더 : 방어력 {0}%",
+    "english": "One More Set : DEF {0}%"
+  }
+}

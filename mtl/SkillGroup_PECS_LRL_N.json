@@ -1,0 +1,166 @@
+{
+  "1002700044": {
+    "korean": "액스 오브 다크니스",
+    "english": "Axe of Darkness"
+  },
+  "1002700045": {
+    "korean": "사이클롭스 이터널 빔",
+    "english": "Cyclops Eternal Beam"
+  },
+  "1002700046": {
+    "korean": "부끄러움은 우리 몫",
+    "english": "Shame Is Our Burden"
+  },
+  "1002700047": {
+    "korean": "진조의 힘?",
+    "english": "Power of the True Ancestor?"
+  },
+  "SkillName_Skill_PECS_LRL_N_5": {
+    "korean": "진조를 계승한 자",
+    "english": "Heir of Jinzo"
+  },
+  "1002706105": {
+    "korean": "드래곤 슬레이어로 {0} 피해를 줍니다. 낮은 확률로 우연히 약점을 맞춰 피해량이 크게 증가합니다. 스킬 레벨이 높아질수록 운이 좋아져 약점을 맞출 확률이 증가합니다.",
+    "english": "Deals {0} damage as a Dragon Slayer. Low chance to randomly hit a weakness, greatly increasing damage. The chance to hit a weakness rises as the skill level increases."
+  },
+  "1002702892": {
+    "korean": "단일 대상 {0} 피해. 낮은 확률로 피해량 증가",
+    "english": "Deals {0} damage to a single target. Low chance to increase damage."
+  },
+  "1002706106": {
+    "korean": "안대의 봉인을 해제한 후, 빔을 발사해 목표 지점에 {0} 피해를 줍니다. 적중 여부와 상관 없이 공격 대상의 적중 강화 효과를 해제하고, 적중 / AP를 감소시킵니다. 스킬 레벨 10에서 효과 범위가 크게 증가합니다.",
+    "english": "After unsealing the eyepatch, fires a beam dealing {0} damage at the target location. Regardless of hit, it removes the target's ACC boost effect and reduces ACC and AP. At skill level 10, the effect range greatly increases."
+  },
+  "1002702893": {
+    "korean": "지정 범위 {0} 피해. AP / 적중 감소 / 적중 강화 효과 해제",
+    "english": "Deals {0} damage to the designated area. Reduces AP and ACC, and removes ACC boost effects."
+  },
+  "1002706107": {
+    "korean": "LRL이 적을 공격할 때마다 2라운드 동안 주변에 있는 바이오로이드들의 공격력 / 회피 / 행동력이 증가합니다. 스킬 레벨 5 / 10에서 범위가 증가합니다.",
+    "english": "Whenever LRL attacks an enemy, nearby Bioroids gain increased ATK, EVA, and SPD for 2 rounds. The range increases at skill levels 5 and 10."
+  },
+  "1002702894": {
+    "korean": "적 공격 시, 인접 아군 바이오로이드 공격력 / 회피 / 행동력 증가",
+    "english": "When an enemy attacks, adjacent allied Bioroids gain increased ATK, EVA, and SPD."
+  },
+  "1002706108": {
+    "korean": "라운드 개시 시, 범위 내 아군들의 치명타 / 적중 / 효과 발동 확률이 증가합니다. 자신이 해당 효과 적용 상태면 <액스 오브 다크니스 : 럭키 히트!> 발동 시, 대상의 방어막 / 피해 감소 / 방어력을 무시합니다. <사이클롭스 이터널 빔> 적중 시, 공격력 / 치명타 강화를 해제합니다.",
+    "english": "At the start of the round, allies within range gain increased CRIT, ACC, and Effect Activation Rate. If you are under this effect, when <Axe of Darkness: Lucky Hit!> triggers, it ignores the target's Barrier, DMG Reduction, and DEF. When <Cyclops Eternal Beam> hits, it removes ATK and CRIT enhancements."
+  },
+  "1002706467": {
+    "korean": "범위 내 아군 치명타 / 적중 / 효과 발동 증가. 액티브 스킬 강화",
+    "english": "Allies within range gain increased CRIT, ACC, and Effect Activation Rate. Active skills are enhanced."
+  },
+  "SkillDesc_Skill_PECS_LRL_N_5": {
+    "korean": "전투 개시 시, 범위 내 아군의 스킬 위력이 증가하고 라운드 개시 시, 사이클롭스 프린세스의 <힘이 넘쳐 흐르는구나!> 효과를 받는 아군에게 추가적으로 스킬 위력을 증가시킵니다. 액티브 스킬 사용으로 치명타 적중 시, 각 액티브 스킬이 강화됩니다. <액스 오브 다크니스> 강화 : 2라운드 동안 받는 피해 증가 및 강화 불가 효과 적용 <사이클롭스 이터널 빔> 강화 : 방어막 / 피해 감소 무시 효과 해제",
+    "english": "At the start of battle, allies within range have increased Skill Power, and at the start of the round, allies who have the <Overflowing Strength!> effect from Cyclops Princess gain additional Skill Power. When a critical hit lands with an active skill, each active skill is enhanced. <Axe of Darkness> Enhancement: Increases damage taken and applies Buff Prevention for 2 rounds. <Cyclops Eternal Beam> Enhancement: Removes the Ignore Barrier / DMG Reduction effect."
+  },
+  "SkillDescSimple_Skill_PECS_LRL_N_5": {
+    "korean": "스킬 위력 증가 / 액티브 스킬 강화",
+    "english": "Skill Power Increase / Active Skill Enhancement"
+  },
+  "1000104159": {
+    "korean": "슈퍼 럭키 히트! : 방어력 무시",
+    "english": "Super Lucky Hit! : Ignore DEF"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_201": {
+    "korean": "진조를 계승하는 자 : 방어막 / 받는 피해 감소 무시 효과 해제",
+    "english": "Heir of Jinzo : Remove Ignore Barrier / DMG Reduction effect"
+  },
+  "1000106947": {
+    "korean": "진조의 힘? : 액티브 스킬 강화 (자신)",
+    "english": "Power of the True Ancestor? : Active Skill Enhancement (Self)"
+  },
+  "BuffDesc3_Effect_PECS_LRL_N_5": {
+    "korean": "진조를 계승하는 자 : 방어막 / 받는 피해 감소 무시 효과 해제",
+    "english": "Heir of Jinzo : Remove Ignore Barrier / DMG Reduction effect"
+  },
+  "1000102511": {
+    "korean": "럭키 히트! : 피해량{0}%",
+    "english": "Lucky Hit : Additional DMG {0}%"
+  },
+  "1000104908": {
+    "korean": "슈퍼 럭키 히트! : 방어막 / 피해 감소 무시",
+    "english": "Super Lucky Hit! : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_101": {
+    "korean": "진조를 계승하는 자 : 받는 피해{0}%",
+    "english": "Heir of Jinzo : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_102": {
+    "korean": "진조를 계승하는 자 : 강화 불가 상태",
+    "english": "Heir of Jinzo : Buff Prevention"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_103": {
+    "korean": "진조를 계승하는 자 : 협동 공격",
+    "english": "Heir of Jinzo : Cooperative Attack"
+  },
+  "1000102512": {
+    "korean": "이터널 빔! : 적중 {0}%",
+    "english": "Eternal Beam : ACC {0}%"
+  },
+  "1000104055": {
+    "korean": "이터널 빔! : AP {0}",
+    "english": "Eternal Beam : AP {0}"
+  },
+  "1000104160": {
+    "korean": "이터널 빔! : 적중 강화 해제",
+    "english": "Eternal Beam : ACC Buff Removal"
+  },
+  "1000106522": {
+    "korean": "진! 이터널 빔! : 공격력 강화 해제",
+    "english": "True! Eternal Beam! : ATK Buff Removal"
+  },
+  "1000106783": {
+    "korean": "진! 이터널 빔! : 치명타 강화 해제",
+    "english": "True! Eternal Beam! : CRIT Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_202": {
+    "korean": "진조를 계승하는 자 : 방어막 해제",
+    "english": "Heir of Jinzo : Barrier Removal"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_203": {
+    "korean": "진조를 계승하는 자 : 협동 공격",
+    "english": "Heir of Jinzo : Cooperative Attack"
+  },
+  "1000102513": {
+    "korean": "부끄러움은 우리 몫 : 회피{0}%",
+    "english": "Shame is Ours to Bear : EVA {0}%"
+  },
+  "1000104206": {
+    "korean": "어서 빠져나가고 싶다… : 행동력{0}%",
+    "english": "I want to get out quickly… : SPD {0}%"
+  },
+  "1000104931": {
+    "korean": "여기서 벗어나야겠어… : 공격력{0}%",
+    "english": "Need to Get Out of Here… : ATK {0}%"
+  },
+  "1000102514": {
+    "korean": "진조의 힘? : 치명타{0}%",
+    "english": "The power of the True Ancestor? : CRIT {0}%"
+  },
+  "1000104207": {
+    "korean": "진조의 힘? : 적중{0}%",
+    "english": "The power of the True Ancestor? : ACC {0}%"
+  },
+  "1000104932": {
+    "korean": "진조의 힘? : 효과 발동{0}%",
+    "english": "The power of the True Ancestor? : Effect Activation Rate {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_5": {
+    "korean": "진조를 계승하는 자 : 스킬 위력{0}%",
+    "english": "Heir of Jinzo : Skill Power {0}%"
+  },
+  "BuffDesc2_Effect_PECS_LRL_N_5": {
+    "korean": "진조를 계승하는 자 : 스킬 위력{0}% (사이클롭스)",
+    "english": "Heir of Jinzo : Skill Power {0}% (Cyclops)"
+  },
+  "BuffDesc4_Effect_PECS_LRL_N_5": {
+    "korean": "진조를 계승하는 자 : 협동 공격",
+    "english": "Heir of Jinzo : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_PECS_LRL_N_51": {
+    "korean": "진조를 계승하는 자 : 스킬 위력{0}%",
+    "english": "Heir of Jinzo : Skill Power {0}%"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "SkillName_Skill_LC_Iris_N_1": {
+    "korean": "래피드 벌컨",
+    "english": "Rapid Vulcan"
+  },
+  "SkillName_Skill_LC_Iris_N_2": {
+    "korean": "익시드 드라이버",
+    "english": "Exceed Driver"
+  },
+  "SkillName_Skill_LC_Iris_N_3": {
+    "korean": "분노의 일격",
+    "english": "Furious Strike"
+  },
+  "SkillName_Skill_LC_Iris_N_4": {
+    "korean": "쾌속",
+    "english": "Rapid"
+  },
+  "SkillName_Skill_LC_Iris_N_5": {
+    "korean": "극쇄",
+    "english": "Extreme heat"
+  },
+  "SkillDesc_Skill_LC_Iris_N_1": {
+    "korean": "해머를 개틀링건으로 변형시켜 지정된 범위에 {0} 화염 피해를 입힙니다.&n스킬 적중 시 대상은 2라운드 동안 지속 화염 피해를 부여하고 받는 피해를 증가시키며 [합선] 상태로 만듭니다.&n치명타 시 자신에게 해로운 효과를 해제합니다.",
+    "english": "Transform the hammer into a Gatling gun, dealing {0} fire damage to the designated area. On hit, the target receives Fire DoT DMG for 2 rounds, suffers DMG Taken Increased, and is afflicted with [Short circuit]. On CRIT, removes harmful effects from yourself."
+  },
+  "SkillDescSimple_Skill_LC_Iris_N_1": {
+    "korean": "지정 범위 {0} 화염 피해. 2라운드 지속 화염 피해 부여 / 받는 피해 증가 / 합선 부여. 치명타 시 자신의 해로운 효과 해제.",
+    "english": "Designated range {0} fire damage. 2 rounds Fire DoT DMG / DMG Taken Increased / Short circuit. On CRIT, removes harmful effects from yourself."
+  },
+  "SkillDesc_Skill_LC_Iris_N_2": {
+    "korean": "주변에 다수의 에너지 포탈을 소환하고 강력한 에너지를 발사하여 지정 범위에 {0} 보호 무시 화염 피해 발생시킵니다.&n중행 제외 전열 기준 멀 수록 피해량이 최대 50%까지 감소합니다.&n스킬 적중 시 자신에게 2라운드 동안 공격력 및 치명타를 증가시킵니다.&n치명타 시 화염 추가 피해가 발생합니다.&n스쿼드에 <스텔라 유니벨>, <하루 에스티아>, <릴리 블룸메르헨>이 있는 경우 100%로 [베이스 어택], [블레이드 샤워], [데스 길로틴] 스킬로 협동 공격을 유도합니다. &n협동 공격이 가능한 전투원이 여렷인 경우 위 표기된 순으로 우선권을 가집니다. (스텔라 유니벨 > 릴리 블룸메르헨 순)&n다수의 적이 대상인 경우 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다.",
+    "english": "Summon multiple energy portals around and fire powerful energy, dealing {0} Ignore Protection fire damage within the designated range. Damage decreases up to 50% the farther the target is from the front row (excluding the middle row). On hit, increase ATK and CRIT for 2 rounds. On CRIT, deals additional fire damage. If <Stella Unibell>, <Haru Estia>, <Lily Bloommerchen> are in the squad, triggers a cooperative attack with [Base Attack], [Blade Shower], [Death Guillotine] at 100% chance. Priority follows the order shown (Stella Unibell > Lily Bloommerchen). When multiple enemies are targeted, prioritize those within range; if cooperative attack is impossible due to range, the next combatant executes it."
+  },
+  "SkillDescSimple_Skill_LC_Iris_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 화염 피해. 2라운드 자신에게 공격력 / 치명타 증가 부여. 치명타 시 화염 추가 피해. 조건부 협동 공격.",
+    "english": "Designated range {0} Ignore Protection fire damage. 2 rounds ATK / CRIT increase to self. On CRIT, additional fire damage. Conditional cooperative attack."
+  },
+  "SkillDesc_Skill_LC_Iris_N_3": {
+    "korean": "라운드 개시 시 자신의 적중 및 대 중장 피해량을 증가시킵니다.&n공격 적중 시 자신의 AP를 증가시킵니다.&n적 처치 시 자신의 AP를 추가로 증가시킵니다.",
+    "english": "At the start of the round, increase your ACC and Anti-Heavy DMG. Increase your AP when you hit an enemy. Increase your AP further when you defeat an enemy."
+  },
+  "SkillDescSimple_Skill_LC_Iris_N_3": {
+    "korean": "적중 / 대 중장 피해량 증가. 조건부 AP 증가.",
+    "english": "ACC / Anti-Heavy DMG increase. Conditional AP increase."
+  },
+  "SkillDesc_Skill_LC_Iris_N_4": {
+    "korean": "라운드 개시 시 아군 전체의 치명타 및 회피를 증가 시킵니다.&n라운드 개시 시 스쿼드에 <시라유리>가 있는 경우 시라유리는 2배로 효과를 받습니다.&n라운드 개시 시 스쿼드에 <시라유리>가 있는 경우 시라유리를 공격 지원합니다.",
+    "english": "At the start of the round, increase all allies' CRIT and EVA. At the start of the round, if <Shirayuri> is in the squad, Shirayuri receives double effect. At the start of the round, if <Shirayuri> is in the squad, provides attack support to Shirayuri."
+  },
+  "SkillDescSimple_Skill_LC_Iris_N_4": {
+    "korean": "아군 전체 치명타 / 회피 증가. 조건부 효과 2배 적용 / 지원 공격.",
+    "english": "All allies CRIT / EVA increase. Conditional effect doubled / Support attack."
+  },
+  "SkillDesc_Skill_LC_Iris_N_5": {
+    "korean": "피격 시 100% 확률로 반격하며 2라운드 동안 자신의 공격력 및 치명타가 증가합니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 [분노!]을 부여합니다.&n분노! 1 : 방어 관통 증가&n분노! 2 : 방어 관통 증가 / 치명타 증가&n분노! 3 : 방어 관통 증가 / 치명타 증가 / 공격력 증가&n분노! 4 : 방어 관통 증가 / 치명타 증가 / 공격력 증가 / 적중 증가",
+    "english": "When hit, Counter Attack with 100% chance and increase your ATK and CRIT for 2 rounds. At the start of the round, if there are <Lion Corporation> combatants in the squad excluding yourself, grant [Rage!] to all allies based on their number.\nRage! 1: DEF Penetration increase\nRage! 2: DEF Penetration increase / CRIT increase\nRage! 3: DEF Penetration increase / CRIT increase / ATK increase\nRage! 4: DEF Penetration increase / CRIT increase / ATK increase / ACC increase"
+  },
+  "SkillDescSimple_Skill_LC_Iris_N_5": {
+    "korean": "피격 시 반격. 피격 시 공격력 증가 / 치명타 증가. 조건부 방어 관통 증가 / 치명타 증가 / 공격력 증가 / 적중 증가.",
+    "english": "Counter Attack on being hit. On being hit, ATK increase / CRIT increase. Conditional DEF Penetration increase / CRIT increase / ATK increase / ACC increase."
+  },
+  "BuffDesc3_Effect_LC_Iris_N_2": {
+    "korean": "익시드 드라이버 : {0}% 화염 추가 피해 (치명타 시)",
+    "english": "Exceed Driver: {0}% additional fire damage (On CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_21": {
+    "korean": "익시드 드라이버 : {0}% 화염 추가 피해 (치명타 시)",
+    "english": "Exceed Driver: {0}% additional fire damage (On CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_1": {
+    "korean": "래피드 벌컨 : 지속 화염 피해 {0}",
+    "english": "Rapid Vulcan : Fire DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_LC_Iris_N_1": {
+    "korean": "래피드 벌컨 : 받는 피해 {0}%",
+    "english": "Rapid Vulcan : DMG Taken {0}%"
+  },
+  "BuffDesc3_Effect_LC_Iris_N_1": {
+    "korean": "래피드 벌컨 : 해로운 효과 해제 (치명타 시)",
+    "english": "Rapid Vulcan : Debuff Removal (on CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_11": {
+    "korean": "래피드 벌컨 : 받는 피해 {0}%",
+    "english": "Rapid Vulcan : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_12": {
+    "korean": "래피드 벌컨 : 해로운 효과 해제 (치명타 시)",
+    "english": "Rapid Vulcan : Debuff Removal (on CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_2": {
+    "korean": "익시드 드라이버 : 공격력 {0}%",
+    "english": "Exceed Driver : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Iris_N_2": {
+    "korean": "익시드 드라이버 : 치명타 {0}%",
+    "english": "Exceed Driver : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_LC_Iris_N_2": {
+    "korean": "익시드 드라이버 : 협동 공격",
+    "english": "Exceed Driver : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_22": {
+    "korean": "익시드 드라이버 : 협동 공격 (스텔라 유니벨)",
+    "english": "Exceed Driver : Cooperative Attack (Stella Unibell)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_23": {
+    "korean": "익시드 드라이버 : 협동 공격 (하루 에스티아)",
+    "english": "Exceed Driver : Cooperative Attack (Haru Estia)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_24": {
+    "korean": "익시드 드라이버 : 협동 공격 (릴리 블룸메르헨)",
+    "english": "Exceed Driver : Cooperative Attack (Lily Bloommerchen)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_3": {
+    "korean": "분노의 일격 : 적중 {0}%",
+    "english": "Furious Strike : ACC {0}%"
+  },
+  "BuffDesc2_Effect_LC_Iris_N_3": {
+    "korean": "분노의 일격 : 대 중장형 피해량 {0}%",
+    "english": "Furious Strike : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc3_Effect_LC_Iris_N_3": {
+    "korean": "분노의 일격 : AP {0} (적중)",
+    "english": "Furious Strike : AP {0} (ACC)"
+  },
+  "BuffDesc4_Effect_LC_Iris_N_3": {
+    "korean": "분노의 일격 : AP {0} (처치)",
+    "english": "Furious Strike : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_31": {
+    "korean": "분노의 일격 : AP {0} (적중)",
+    "english": "Furious Strike : AP {0} (ACC)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_32": {
+    "korean": "분노의 일격 : AP {0} (처치)",
+    "english": "Furious Strike : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_4": {
+    "korean": "쾌속 : 치명타 {0}%",
+    "english": "Rapid : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_LC_Iris_N_4": {
+    "korean": "쾌속 : 회피 {0}%",
+    "english": "Rapid : EVA {0}%"
+  },
+  "BuffDesc3_Effect_LC_Iris_N_4": {
+    "korean": "쾌속 : 치명타 {0}% (시라유리)",
+    "english": "Rapid : CRIT {0}% (Shirayuri)"
+  },
+  "BuffDesc4_Effect_LC_Iris_N_4": {
+    "korean": "쾌속 : 회피 {0}% (시라유리)",
+    "english": "Rapid : EVA {0}% (Shirayuri)"
+  },
+  "BuffDesc5_Effect_LC_Iris_N_4": {
+    "korean": "쾌속 : 공격 지원 (시라유리)",
+    "english": "Rapid : Follow-Up Attack (Shirayuri)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_41": {
+    "korean": "쾌속 : 치명타 {0}% (시라유리)",
+    "english": "Rapid : CRIT {0}% (Shirayuri)"
+  },
+  "BuffDesc2_Effect_LC_Iris_N_41": {
+    "korean": "쾌속 : 회피 {0}% (시라유리)",
+    "english": "Rapid : EVA {0}% (Shirayuri)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_42": {
+    "korean": "쾌속 : 공격 지원",
+    "english": "Rapid : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_5": {
+    "korean": "극쇄 : {0}% 위력으로 반격",
+    "english": "Extreme heat : Counter Attack with {0}% Power"
+  },
+  "BuffDesc2_Effect_LC_Iris_N_5": {
+    "korean": "극쇄 : 공격력 {0}%",
+    "english": "Extreme heat : ATK {0}%"
+  },
+  "BuffDesc3_Effect_LC_Iris_N_5": {
+    "korean": "극쇄 : 치명타 {0}%",
+    "english": "Extreme heat : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_LC_Iris_N_5": {
+    "korean": "분노! : 방어 관통 {0}% (최대)",
+    "english": "Fury! : DEF Penetration {0}% (Max)"
+  },
+  "BuffDesc5_Effect_LC_Iris_N_5": {
+    "korean": "분노! : 회피 {0}% (최대)",
+    "english": "Fury! : EVA {0}% (Max)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_51": {
+    "korean": "극쇄 : 공격력 {0}%",
+    "english": "Extreme heat : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Iris_N_51": {
+    "korean": "극쇄 : 치명타 {0}%",
+    "english": "Extreme heat : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_52": {
+    "korean": "분노! : 방어 관통 {0}%",
+    "english": "Fury! : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_53": {
+    "korean": "분노! : 방어 관통 {0}%",
+    "english": "Fury! : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_LC_Iris_N_53": {
+    "korean": "분노! : 회피 {0}%",
+    "english": "Fury! : EVA {0}%"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_54": {
+    "korean": "분노! : 방어 관통 {0}%",
+    "english": "Fury! : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_LC_Iris_N_54": {
+    "korean": "분노! : 회피 {0}%",
+    "english": "Fury! : EVA {0}%"
+  },
+  "BuffDesc3_Effect_LC_Iris_N_54": {
+    "korean": "분노! : 공격력 {0}%",
+    "english": "Fury! : ATK {0}%"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_55": {
+    "korean": "분노! : 방어 관통 {0}%",
+    "english": "Fury! : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_LC_Iris_N_55": {
+    "korean": "분노! : 회피 {0}%",
+    "english": "Fury! : EVA {0}%"
+  },
+  "BuffDesc3_Effect_LC_Iris_N_55": {
+    "korean": "분노! : 공격력 {0}%",
+    "english": "Fury! : ATK {0}%"
+  },
+  "BuffDesc4_Effect_LC_Iris_N_55": {
+    "korean": "분노! : 적중 {0}%",
+    "english": "Fury! : ACC {0}%"
+  }
+}

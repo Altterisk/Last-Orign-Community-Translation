@@ -1,0 +1,214 @@
+{
+  "SkillName_Skill_DS_KunoichiShiden_N_1": {
+    "korean": "뇌화난무",
+    "english": "Neural Blaze"
+  },
+  "SkillName_Skill_DS_KunoichiShiden_N_2": {
+    "korean": "무라사키류 오의: 춘뢰",
+    "english": "Murasaki-ryu Secret Art: Chunroe"
+  },
+  "SkillName_Skill_DS_KunoichiShiden_N_3": {
+    "korean": "스승",
+    "english": "Master"
+  },
+  "SkillName_Skill_DS_KunoichiShiden_N_4": {
+    "korean": "시간질주의 술법",
+    "english": "Time Sensory Manipulation"
+  },
+  "SkillName_Skill_DS_KunoichiShiden_N_5": {
+    "korean": "변화의 술법 <극>",
+    "english": "Transformation Technique <Extreme>"
+  },
+  "SkillDesc_Skill_DS_KunoichiShiden_N_1": {
+    "korean": "단일 대상에게 {0} 적응형 속성 피해를 입힙니다.&n&n적응형 속성은 피격 당한 적의 전기 저항과 화염 저항 중 더 낮은 쪽의 속성 데미지를 입힙니다. &n(저항 수치가 같을 경우 화염 속성 데미지) &n적중 시, 적에게 2라운드 동안 [감전], [화상] 디버프를 입힙니다. (최대 3중첩)&n&n스쿼드에 쿠노이치 엔라이, 쿠노이치 카엔, 쿠노이치 제로가 있을 시, 100%로 [호무라], [시라누이], [은밀] 스킬로 협동 공격이 유도됩니다. &n&n협동 공격이 가능한 전투원이 여럿인 경우, 위 표기된 순으로 우선권을 가집니다. (쿠노이치 엔라이 -> 쿠노이치 카엔 -> 쿠노이치 제로 순)&n&n다수의 적이 대상인 경우, 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다. &n&n협동 공격이 가능한 대상이 없을 경우, 쿠노이치 시덴이 [뇌화난무] 로 협동 공격합니다.",
+    "english": "Deals {0} adaptive elemental damage to a single target. The adaptive element is based on the lower of the target's Electric Resist and Fire Resist (if equal, Fire damage is dealt). On hit, applies [Electrocution] and [Burn] debuffs for 2 rounds (max 3 stacks). If the squad contains Kunoichi Enrai, Kunoichi Kaen, or Kunoichi Zero, a cooperative attack is triggered at 100% chance with [Homura], [Shiranui], or [Stealth] skills respectively, in that priority order. When multiple enemies are present, the nearest target within range is chosen; if range prevents a cooperative attack, the next eligible combatant performs it. If no cooperative attack target is available, Kunoichi Shiden performs a cooperative attack with [Neural Blaze]."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiShiden_N_1": {
+    "korean": "단일 대상에게 {0} 피해. 피격 당한 적의 번개 저항과 화염 저항 중 더 낮은 쪽의 속성 데미지.  감전, 화상 디버프. 협공.",
+    "english": "Deals {0} damage to a single target. Attribute damage is based on the lower of the target's Electric Resist and Fire Resist. Applies [Electrocution] and [Burn] debuffs. Cooperative attack."
+  },
+  "SkillDesc_Skill_DS_KunoichiShiden_N_2": {
+    "korean": "지정 범위 내 {0} 적응형 속성 피해를 입힙니다. &n&n적응형 속성은 피격 당한 적의 전기 저항과 화염 저항 중 더 낮은 쪽의 속성 데미지를 입힙니다.&n(저항 수치가 같을 경우 화염 속성 데미지)&n적중 시, 적에게 부여된 [감전], [화상] 디버프 중첩 수에 따라 [번개, 화염 추가 피해] 를 입힙니다. (최대 3중첩)&n&n스쿼드에 쿠노이치 엔라이, 쿠노이치 카엔, 쿠노이치 제로가 있을 시, 100%로 [이카즈치], [오의 [화신강림]], [뇌신 일섬] 스킬로 협동 공격이 유도됩니다. &n&n협동 공격이 가능한 전투원이 여럿인 경우, 위 표기된 순으로 우선권을 가집니다. (쿠노이치 엔라이 -> 쿠노이치 카엔 -> 쿠노이치 제로 순)&n&n다수의 적이 대상인 경우, 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다. &n&n협동 공격이 가능한 대상이 없을 경우, 쿠노이치 시덴이 [무라사키류 오의: 춘뢰] 로 협동 공격합니다.",
+    "english": "Deals {0} adaptive elemental damage to targets within the designated range. The adaptive element is based on the lower of the target's Electric Resist and Fire Resist (if equal, Fire damage is dealt). On hit, deals additional lightning and flame damage based on the number of [Electrocution] and [Burn] debuff stacks on the target (up to 3 stacks). If the squad contains Kunoichi Enrai, Kunoichi Kaen, or Kunoichi Zero, a cooperative attack is triggered at 100% chance with [Ikazuchi], [Ultimate Skill Avatar Manifestation], and [Thunder God Single Slash] respectively, in that priority order. When multiple enemies are present, the nearest target within range is chosen; if range prevents a cooperative attack, the next eligible combatant performs it. If no cooperative attack target is available, Kunoichi Shiden performs a cooperative attack with [Murasaki-ryu Secret Art: Chunroe]."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiShiden_N_2": {
+    "korean": "지정 범위 내 대상에게 {0} 피해. 피격 당한 적의 번개 저항과 화염 저항 중 더 낮은 쪽의 속성 데미지.  감전, 화상 디버프 중첩 수에에 따라 번개, 화염 추가 데미지. 협공.",
+    "english": "Deals {0} damage to targets within the designated range. Attribute damage is based on the lower of the target's Electric Resist and Fire Resist. Additional lightning and flame damage scale with [Electrocution] and [Burn] debuff stacks. Cooperative attack."
+  },
+  "SkillDesc_Skill_DS_KunoichiShiden_N_3": {
+    "korean": "라운드 개시 시, 자신과 범위 내에 아군에게 [훈련]을 부여합니다.&n&n대상이 [쿠노이치] 일 경우 쿠노이치 시덴을 제외한 [쿠노이치]가 받는 증가 수치가 2배가 되며 보호 무시를 부여합니다.&n[쿠노이치]가 스퀴드 내 없는 경우 쿠노이치 시덴의 수치가 2배가 됩니다.",
+    "english": "At the start of the round, grants [Training] to self and allies within range. If the target is a [Kunoichi], the increase granted to all [Kunoichi] except Kunoichi Shiden is doubled and [Ignore Protection] is applied. If no [Kunoichi] are in the squad, Kunoichi Shiden's values are doubled."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiShiden_N_3": {
+    "korean": "라운드 개시 시, 자신 및 아군 공격력 증가, 방어 관통, 행동력 증가. 보호 무시.",
+    "english": "At the start of the round, increases ATK, DEF Penetration, and SPD of self and allies. Ignores Protection."
+  },
+  "SkillDesc_Skill_DS_KunoichiShiden_N_4": {
+    "korean": "전투 개시 시, 자신에게 해제 불가능한 전투 속행을 부여합니다.&n&n라운드 개시 시, 자신에게 해제 불가능한 [시간 감각 조작]과 [반격] 버프를 부여합니다.&n&n회피 시, [시간 감각 조작] 상태라면  [시간 감각 조작]를 제거하고 [반동] 효과를 얻습니다.",
+    "english": "At the start of combat, grants an unremovable combat continuation to self. At the start of each round, grants unremovable [Time Sensory Manipulation] and [Counter Attack] buffs to self. When evading, if under [Time Sensory Manipulation], removes that state and gains the [Recoil] effect."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiShiden_N_4": {
+    "korean": "전투 개시 시, 해제불가능한 전투속행 &n라운드 개시 시, 회피 증가 (1회용) 및 회피 후 자신에게 물리 도트 데미지 / 반격",
+    "english": "At the start of combat, grants an unremovable combat continuation. At the start of the round, grants a one‑time EVA increase; after evasion, applies physical DoT DMG and [Counter Attack] to self."
+  },
+  "SkillDesc_Skill_DS_KunoichiShiden_N_5": {
+    "korean": "라운드 개시 시, 보호기가 없을 경우 회피가 상승하며, 자신에게 표식 을 부여합니다.&n&n라운드 개시 시, 범위 내 자신을 제외한 [쿠노이치]가 하나 이상일 경우 받는 피해 감소가 부여됩니다.&n&n라운드 개시 시, 자신을 제외한 [쿠노이치]가 한명도 없을 경우 스킬 위력이 증가하고 방어막 및 받는 피해 감소 무시를 부여합니다.&n",
+    "english": "At the start of the round, if there is no Barrier, EVA increases and Marked is applied to self. If at least one other [Kunoichi] is within range, DMG Reduction is granted. If no other [Kunoichi] are present, Skill Power increases and Ignore Barrier / DMG Reduction is applied."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiShiden_N_5": {
+    "korean": "라운드 개시 시, 보호기가 없을 경우 회피 상승, 표식 부여  &n라운드 개시 시, 쿠노이치의 여부에 따라 능력 부여",
+    "english": "At the start of the round, if there is no Barrier, EVA increases and Marked is granted. At the start of the round, abilities are granted depending on the presence of a [Kunoichi]."
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_1": {
+    "korean": "적응형 속성 공격 (화염)",
+    "english": "Adaptive Elemental Attack (Fire) :"
+  },
+  "BuffDesc2_Effect_DS_KunoichiShiden_N_1": {
+    "korean": "적응형 속성 공격 (전기)",
+    "english": "Adaptive Elemental Attack (Electric) :"
+  },
+  "BuffDesc5_Effect_DS_KunoichiShiden_N_1": {
+    "korean": "자, 따라해 보거라 : 특정 전투원 협동 공격 유도 (쿠노이치 엔라이)",
+    "english": "Now, repeat after me : Induce cooperative attack of specific combatant (Kunoichi Enrai)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_15": {
+    "korean": "자, 따라해 보거라 : 특정 전투원 협동 공격 유도 (쿠노이치 엔라이)",
+    "english": "Now, repeat after me : Induce cooperative attack of specific combatant (Kunoichi Enrai)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_16": {
+    "korean": "자, 따라해 보거라 : 특정 전투원 협동 공격 유도 (쿠노이치 카엔)",
+    "english": "Alright, follow along : Induce cooperative attack of specific combatant (Kunoichi Kaen)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_17": {
+    "korean": "자, 따라해 보거라 : 특정 전투원 협동 공격 유도 (쿠노이치 제로)",
+    "english": "Alright, follow along : Induce cooperative attack of specific combatant (Kunoichi Zero)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_18": {
+    "korean": "자, 따라해 보거라 : 특정 전투원 협동 공격 유도 (쿠노이치 시덴)",
+    "english": "Alright, follow along : Induce cooperative attack of specific combatant (Kunoichi Shiden)"
+  },
+  "BuffDesc3_Effect_DS_KunoichiShiden_N_2": {
+    "korean": "상처확산 : 화염 {0}% 추가 피해",
+    "english": "Wound Spread : Flame {0}% additional damage"
+  },
+  "BuffDesc4_Effect_DS_KunoichiShiden_N_2": {
+    "korean": "상처확산 : 전기 {0}% 추가 피해",
+    "english": "Wound Spread : Electric {0}% additional damage"
+  },
+  "BuffDesc5_Effect_DS_KunoichiShiden_N_2": {
+    "korean": "이렇게 하는거다 : 특정 전투원 협동 공격 유도 (쿠노이치 엔라이)",
+    "english": "Here's how to do it : Induce cooperative attack of specific combatant (Kunoichi Enrai)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_201": {
+    "korean": "상처확산 : 화염 {0}% 추가 데미지",
+    "english": "Wound Spread : Flame {0}% additional damage"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_202": {
+    "korean": "상처확산 : 전기 {0}% 추가 데미지",
+    "english": "Wound Spread : Electric {0}% additional damage"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_22": {
+    "korean": "이렇게 하는거다 : 특정 전투원 협동 공격 유도 (쿠노이치 엔라이)",
+    "english": "This Is How It’s Done : Induce cooperative attack of specific combatant (Kunoichi Enrai)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_23": {
+    "korean": "이렇게 하는거다 : 특정 전투원 협동 공격 유도 (쿠노이치 카엔)",
+    "english": "This is how it's done : Induce cooperative attack of specific combatant (Kunoichi Kaen)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_24": {
+    "korean": "이렇게 하는거다 : 특정 전투원 협동 공격 유도 (쿠노이치 제로)",
+    "english": "This is how it's done : Induce cooperative attack of specific combatant (Kunoichi Zero)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_25": {
+    "korean": "이렇게 하는거다 : 특정 전투원 협동 공격 유도 (쿠노이치 시덴)",
+    "english": "Here's how to do it : Induce cooperative attack of specific combatant (Kunoichi Shiden)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_4": {
+    "korean": "시간 감각 조작 : 회피율 {0}%",
+    "english": "Temporal Sense Manipulation : EVA Rate {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiShiden_N_31": {
+    "korean": "반동 : 자신에게 물리 지속 피해 {0}",
+    "english": "Recoil : Physical DoT DMG {0} to Self"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_41": {
+    "korean": "반동 : 자신에게 물리 지속 피해 {0}",
+    "english": "Recoil : Deals {0} physical damage over time to yourself."
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_51": {
+    "korean": "변화의 술법 <극> : 회피율 {0}%",
+    "english": "Transformation Technique <Extreme> : EVA Rate {0}%"
+  },
+  "BuffDesc3_Effect_DS_KunoichiShiden_N_1": {
+    "korean": "화상 : 화염 저항 {0}%",
+    "english": "Burn : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_DS_KunoichiShiden_N_1": {
+    "korean": "감전 : 전기 저항 {0}%",
+    "english": "Electric Shock : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_11": {
+    "korean": "화상 : 화염 저항 {0}%",
+    "english": "Burn : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_12": {
+    "korean": "감전 : 전기 저항 {0}%",
+    "english": "Electric Shock : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_3": {
+    "korean": "훈련 : 공격력 {0}%",
+    "english": "Training : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiShiden_N_3": {
+    "korean": "훈련 : 적중 {0}%",
+    "english": "Training : ACC {0}%"
+  },
+  "BuffDesc3_Effect_DS_KunoichiShiden_N_3": {
+    "korean": "훈련 : 행동력 {0}%",
+    "english": "Training : SPD {0}%"
+  },
+  "BuffDesc4_Effect_DS_KunoichiShiden_N_33": {
+    "korean": "훈련 : 보호 무시",
+    "english": "Training : Ignore Protection"
+  },
+  "BuffDesc3_Effect_DS_KunoichiShiden_N_33": {
+    "korean": "속공 : {0}% 위력으로 반격",
+    "english": "Quick Strike : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_43": {
+    "korean": "시간 감각 조작 : {0}% HP로 전투 속행",
+    "english": "Temporal Sense Manipulation : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_42": {
+    "korean": "속공 : {0}% 위력으로 반격",
+    "english": "Quick Strike : Counter Attack with {0}% Power"
+  },
+  "BuffDesc2_Effect_DS_KunoichiShiden_N_5": {
+    "korean": "변화의 술법 <극> : 표식",
+    "english": "Transformation Technique <Extreme> : Marked"
+  },
+  "BuffDesc3_Effect_DS_KunoichiShiden_N_5": {
+    "korean": "변화의 술법 <극> : 받는 피해 감소 {0}%",
+    "english": "Transformation Technique <Extreme> : DMG Reduction {0}%"
+  },
+  "BuffDesc4_Effect_DS_KunoichiShiden_N_5": {
+    "korean": "변화의 술법 <극> : 스킬 위력 {0}%",
+    "english": "Transformation Technique <Extreme> : Skill Power {0}%"
+  },
+  "BuffDesc5_Effect_DS_KunoichiShiden_N_5": {
+    "korean": "변화의 술법 <극> : 방어막 / 피해 감소 무시",
+    "english": "Transformation Technique <Extreme> : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_52": {
+    "korean": "변화의 술법 <극> : 받는 피해 감소 {0}%",
+    "english": "Transformation Technique <Extreme> : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiShiden_N_53": {
+    "korean": "변화의 술법 <극> : 스킬 위력 {0}%",
+    "english": "Transformation Technique <Extreme> : Skill Power {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiShiden_N_52": {
+    "korean": "변화의 술법 <극> : 방어막 / 피해 감소 무시",
+    "english": "Transformation Technique <Extreme> : Ignore Barrier / DMG Reduction"
+  }
+}

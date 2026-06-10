@@ -1,0 +1,50 @@
+{
+  "SkillName_Skill_MP_AMG1113_N_1": {
+    "korean": "데들리 샷",
+    "english": "Deadly Shot"
+  },
+  "SkillName_Skill_MP_AMG1113_N_2": {
+    "korean": "데들리 어시스트",
+    "english": "Deadly Assist"
+  },
+  "SkillName_Skill_MP_AMG1113_N_3": {
+    "korean": "데들리 서바이벌",
+    "english": "Deadly Survival"
+  },
+  "SkillDesc_Skill_MP_AMG1113_N_1": {
+    "korean": "단일 대상에게 {0} 피해,  받는 피해 증가/받는 피해 감소 약화",
+    "english": "Deal {0} damage to a single target, and inflict DMG Taken Increased / Weaken DMG Reduction."
+  },
+  "SkillDesc_Skill_MP_AMG1113_N_2": {
+    "korean": "3라운드 대상의 행동력 증가, 공격 지원",
+    "english": "Increase target's SPD for 3 rounds and grant Follow-Up Attack."
+  },
+  "SkillDesc_Skill_MP_AMG1113_N_3": {
+    "korean": "매 라운드 자신의 행동력이 증가하고 피해 무효 1회를 얻습니다",
+    "english": "At the start of each round, increase own SPD and gain 1 stack of Damage Nullification."
+  },
+  "BuffDesc1_Effect_MP_AMG1113_N_1": {
+    "korean": "데들리 샷: 받는 피해 감소 약화 {0}%",
+    "english": "Deadly Shot : Weaken DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_MP_AMG1113_N_1": {
+    "korean": "데들리샷: 받는 피해 {0}%",
+    "english": "Deadly Shot : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_MP_AMG1113_N_2": {
+    "korean": "데들리 어시스트 : 공격 지원",
+    "english": "Deadly Assist : Follow-Up Attack"
+  },
+  "BuffDesc2_Effect_MP_AMG1113_N_2": {
+    "korean": "데들리 어시스트: 행동력 {0}%",
+    "english": "Deadly Assist : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_AMG1113_N_3": {
+    "korean": "데들리 서바이벌 : 행동력 {0}%",
+    "english": "Deadly Survival : SPD {0}%"
+  },
+  "BuffDesc2_Effect_MP_AMG1113_N_3": {
+    "korean": "데들리 서바이벌 : 피해 무효화 {0}",
+    "english": "Deadly Survival : Damage Nullification {0}"
+  }
+}

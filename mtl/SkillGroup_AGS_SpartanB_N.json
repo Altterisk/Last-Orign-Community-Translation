@@ -1,0 +1,74 @@
+{
+  "1002701403": {
+    "korean": "다연장 미사일",
+    "english": "Extended Missile"
+  },
+  "1002707100": {
+    "korean": "지령 유도",
+    "english": "Command Guidance"
+  },
+  "1002704089": {
+    "korean": "돌격 소총으로 {0} 피해를 줍니다. 대상이 회피 감소 상태인 경우, 피해량이 증가합니다. 치명타 시 스파르탄 캡틴:<전술 데이터 링크> 중첩에 따라 추가 효과를 얻습니다.&n<데이터 링크> 1중첩 : 적 행동력 감소&n<데이터 링크> 2중첩 : 적 행동 불가",
+    "english": "Fires an assault rifle to deal {0} damage. If the target is under EVA reduction, damage is increased. On a CRIT, gains additional effects based on Spartan Captain: <Tactical Data Link> stacks:\n<Data Link> 1 stack: Reduces the target's SPD\n<Data Link> 2 stacks: Inflicts Stunned on the target"
+  },
+  "1002702860": {
+    "korean": "단일 대상 {0} 피해. 회피 감소 대상 피해량 증가",
+    "english": "Single target {0} damage. Increased damage to targets with reduced EVA."
+  },
+  "1002704090": {
+    "korean": "다연장 미사일을 발사해 지정 범위에 {0} 피해를 줍니다. 대상이 표식 상태인 경우, 피해량이 증가합니다.",
+    "english": "Fires an Extended Missile to deal {0} damage to the designated area. Damage is increased if the target is Marked."
+  },
+  "1002703364": {
+    "korean": "지정 범위 {0} 피해. 표식 대상 피해량 증가",
+    "english": "Designated area {0} damage. Increases damage taken by Marked targets."
+  },
+  "1002707103": {
+    "korean": "라운드 개시 시, 공격 지원을 받는 상태면 공격력 / 치명타 / 적중이 증가하며, 스쿼드에 스파르탄 캡틴이 있는 경우 효과가 두 배로 적용됩니다. <다연장 미사일> 스킬 사용 시 방어 관통이 증가하며, 지정 타깃 대상으로 <플래시 뱅> 스킬 협동 공격을 합니다.",
+    "english": "At the start of the round, if under Follow-Up Attack, ATK / CRIT / ACC are increased, and the effect is doubled when Spartan Captain is in the squad. When using the <Extended Missile> skill, DEF Penetration is increased, and a Cooperative Attack with the <Flash Bang> skill is performed on the designated target."
+  },
+  "1002707106": {
+    "korean": "라운드 개시 시 공격력 / 치명타 / 적중 증가, 스킬 사용 시 방어 관통 증가, 스파르탄 어썰트 협동 공격",
+    "english": "At the start of the round, ATK / CRIT / ACC are increased; when using a skill, DEF Penetration is increased, and a Cooperative Attack with Spartan Assault is triggered."
+  },
+  "1000108763": {
+    "korean": "다연장 미사일 : [섬광탄] 협동 공격",
+    "english": "Extended Missile : [Flash Bomb] Cooperative Attack"
+  },
+  "1000108778": {
+    "korean": "데이터 링크 : 행동력 {0}%",
+    "english": "Data Link : SPD {0}%"
+  },
+  "1000108781": {
+    "korean": "데이터 링크 : 행동 불가",
+    "english": "Data Link : Stunned"
+  },
+  "1000108769": {
+    "korean": "지령 유도 : 방어 관통{0}%",
+    "english": "Command Guidance : DEF Penetration {0}%"
+  },
+  "1000108767": {
+    "korean": "지령 유도 : 치명타{0}%",
+    "english": "Command Guidance : CRIT {0}%"
+  },
+  "1000108772": {
+    "korean": "지령 유도 : 적중{0}%",
+    "english": "Command Guidance : ACC {0}%"
+  },
+  "1000108775": {
+    "korean": "지령 유도 : 공격력{0}%",
+    "english": "Command Guidance : ATK {0}%"
+  },
+  "1000108768": {
+    "korean": "지령 유도 : 치명타{0}%(공격 지원)",
+    "english": "Command Guidance : CRIT {0}% (Follow-Up Attack)"
+  },
+  "1000108773": {
+    "korean": "지령 유도 : 적중{0}%(공격 지원)",
+    "english": "Command Guidance : ACC {0}% (Follow-Up Attack)"
+  },
+  "1000108776": {
+    "korean": "지령 유도 : 공격력{0}%(공격 지원)",
+    "english": "Command Guidance : ATK {0}% (Follow-Up Attack)"
+  }
+}

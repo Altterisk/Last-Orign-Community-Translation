@@ -1,0 +1,242 @@
+{
+  "SkillName_Skill_PECS_Erato_N_1": {
+    "korean": "넌 이미☆나의 FAN",
+    "english": "You're Already☆My FAN"
+  },
+  "SkillName_Skill_PECS_Erato_N_2": {
+    "korean": "With You",
+    "english": "With You"
+  },
+  "SkillName_Skill_PECS_Erato_N_3": {
+    "korean": "감미로운 멜로디",
+    "english": "Sweet Melody"
+  },
+  "SkillName_Skill_PECS_Erato_N_4": {
+    "korean": "꿈을 묶는 여로",
+    "english": "Dream‑Binding Journey"
+  },
+  "SkillName_Skill_PECS_Erato_N_5": {
+    "korean": "현장 팬미팅",
+    "english": "Live Fan Meeting"
+  },
+  "SkillDesc_Skill_PECS_Erato_N_1": {
+    "korean": "특별한 파장을 담은 자신의 목소리로 대상을 매혹합니다.&n적중에 관계 없이 대상의 회피 강화 효과를 해제하고, 3라운드 동안 회피 감소 효과를 부여합니다.&n적중 시, {0} 보호 무시 피해를 가하고 대상의 반격 강화 효과를 해제합니다.&n매혹 상태의 적은 피격 시마다 가능한 경우 전열 쪽으로 끌려오게 됩니다.",
+    "english": "Charms the target with a special wavelength in your voice. Regardless of hit, removes the target’s EVA Buff and applies EVA Reduction for 3 rounds. On hit, deals {0} damage that ignores Protection and removes the target’s Counter Attack Buff. Enchanted enemies are pulled toward the front row each time they are hit, if possible."
+  },
+  "SkillDescSimple_Skill_PECS_Erato_N_1": {
+    "korean": "지정 대상 {0} 피해. 회피 증가 해제, 회피 감소. 적중 시, 반격 해제, 전열 이동 효과 부여.",
+    "english": "Deals {0} damage to the designated target. Removes EVA Increase, applies EVA Reduction. On hit, removes Counter Attack, applies forward movement effect."
+  },
+  "SkillDesc_Skill_PECS_Erato_N_2": {
+    "korean": "지정 범위 내 아군에게 2라운드 동안 자신의 공격력에 비례한 공격력 증가 효과를 부여합니다.&n스킬 사용 시, 자신은 공격력 감소 일반 효과를 획득합니다.&n라운드 개시 및 스킬 사용 시, 자신에게 적용된 타 전투원의 공격력 비례 공격력 증가 효과를 해제합니다.",
+    "english": "Grants allies within the designated area an ATK increase proportional to your ATK for 2 rounds. When you use the skill, you gain a normal ATK reduction effect. At the start of the round and when you use the skill, removes ATK increase effects proportional to other combatants’ ATK that are applied to you."
+  },
+  "SkillDescSimple_Skill_PECS_Erato_N_2": {
+    "korean": "자신 공격력 비례 아군 공격력 증가. 자신 공격력 감소. 타 전투원에 의한 공격력 비례 공격력 증가 무효.",
+    "english": "ATK‑proportional ally ATK increase. ATK reduction. Nullifies ATK increase proportional to other combatants’ ATK."
+  },
+  "SkillDesc_Skill_PECS_Erato_N_3": {
+    "korean": "전투 개시 시, 자신보다 행동력이 낮은 주변 아군에게 AP 증가 효과를 부여합니다.&n라운드 개시 시, 자신 주변 아군에게 역할군에 따라 1라운드 동안 해로운 효과 면역 상태를 부여합니다. 자신은 모든 면역 상태를 획득합니다. &n공격기 : 공격력 감소 면역&n보호기 : 방어력 감소 면역&n지원기 : AP 감소 면역",
+    "english": "At battle start, grants nearby allies with lower SPD than you an AP increase effect. At round start, grants nearby allies immunity to harmful effects for 1 round according to their role. You gain immunity to all harmful effects. Attacker: Immune to ATK reduction. Defender: Immune to DEF reduction. Supporter: Immune to AP reduction."
+  },
+  "SkillDescSimple_Skill_PECS_Erato_N_3": {
+    "korean": "자신보다 행동력이 낮은 아군 AP 증가. 각 역할군에게 특정 해로운 효과 면역 부여. 자신은 모든 면역 효과 획득.",
+    "english": "AP increase for allies with lower SPD than you. Grants each role immunity to specific harmful effects. You gain all immunity effects."
+  },
+  "SkillDesc_Skill_PECS_Erato_N_4": {
+    "korean": "라운드 개시 시, 자신은 1라운드 동안 공격력 증가 일반 효과를 획득합니다.&n적 사망 시, <With You>에 의한 자신의 공격력 감소 효과를 해제합니다.&n라운드 개시 시, <With You>에 의한 자신의 공격력 감소 효과가 적용되지 않은 상태인 경우, 자신의 행동력이 증가합니다.",
+    "english": "At the start of the round, you gain a normal ATK increase effect for 1 round. When an enemy dies, removes your ATK reduction effect caused by <With You>. At the start of the round, if you are not affected by the ATK reduction from <With You>, your SPD increases."
+  },
+  "SkillDescSimple_Skill_PECS_Erato_N_4": {
+    "korean": "자신 공격력 증가. 적 사망 시, <With You>에 의한 공격력 감소 해제. 조건부 행동력 증가.",
+    "english": "ATK increase. When an enemy dies, removes ATK reduction from <With You>. Conditional SPD increase."
+  },
+  "SkillDesc_Skill_PECS_Erato_N_5": {
+    "korean": "라운드 개시 시, <넌 이미☆나의 FAN> 효과 중첩 수에 따라 대상에게 1라운드 동안 추가 효과를 부여합니다. &n모든 효과는 효과 저항에 영향을 받지 않으며, 대상이 전열에 가까울 수록 효과가 증폭됩니다.&n<팬> (1중첩) : 행동력 감소&n<광팬> (2중첩) : 받는 피해 증가&n<형광팬> (3중첩) : 강화 불가, 행동 불가(전열)",
+    "english": "At the start of the round, grants the target additional effects for 1 round based on the number of <You're Already☆My FAN> stacks. All effects ignore Status Resist and are amplified the closer the target is to the front row. <Fan> (1 stack): SPD reduction. <Superfan> (2 stacks): DMG Taken Increased. <Fluorescent Fan> (3 stacks): Buff Prevention, Stunned (front row)."
+  },
+  "SkillDescSimple_Skill_PECS_Erato_N_5": {
+    "korean": "<넌 이미☆나의 FAN> 중첩 수에 따라 적에게 추가 효과. 전열에 가까울 수록 효과 증폭.",
+    "english": "Applies additional effects to enemies based on the number of <You're Already☆My FAN> stacks. Effects are amplified the closer the enemy is to the front row."
+  },
+  "BuffDesc4_Effect_PECS_Erato_N_1": {
+    "korean": "넌 이미☆나의 FAN : 매혹",
+    "english": "You're Already☆My FAN : Enchantment"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_13": {
+    "korean": "넌 이미☆나의 FAN : 매혹",
+    "english": "You're Already☆My FAN : Charm"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_2": {
+    "korean": "자신 공격력 {0}%만큼 아군 공격력 증가 (인원당)",
+    "english": "Increase ally ATK by {0}% of your ATK per ally"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_21": {
+    "korean": "With You : 에라토 공격력 비례 공격력 증가 (1인)",
+    "english": "With You: Erato ATK proportional ATK increase (1 unit)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_22": {
+    "korean": "With You : 에라토 공격력 비례 공격력 증가 (2인)",
+    "english": "With You: Erato ATK proportional ATK increase (2 units)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_23": {
+    "korean": "With You : 에라토 공격력 비례 공격력 증가 (3인)",
+    "english": "With You: Erato ATK proportional ATK increase (3 units)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_24": {
+    "korean": "With You : 에라토 공격력 비례 공격력 증가 (4인)",
+    "english": "With You: Erato ATK proportional ATK increase (4 units)"
+  },
+  "BuffDesc2_Effect_PECS_Erato_N_4": {
+    "korean": "<With You> 공격력 감소 해제",
+    "english": "<With You>: ATK reduction removed"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_41": {
+    "korean": "<With You> 공격력 감소 해제",
+    "english": "<With You>: ATK reduction removed"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_1": {
+    "korean": "넌 이미☆나의 FAN : 회피 증가 해제",
+    "english": "You’re Already☆My FAN : EVA Buff Removal"
+  },
+  "BuffDesc2_Effect_PECS_Erato_N_1": {
+    "korean": "넌 이미☆나의 FAN : 회피 {0}%",
+    "english": "You’re Already☆My FAN : EVA {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Erato_N_1": {
+    "korean": "넌 이미☆나의 FAN : 반격 해제",
+    "english": "You’re Already☆My FAN : Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_11": {
+    "korean": "넌 이미☆나의 FAN : 회피 {0}%",
+    "english": "You’re Already☆My FAN : EVA {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_12": {
+    "korean": "넌 이미☆나의 FAN : 반격 해제",
+    "english": "You’re Already☆My FAN : Counter Attack Removal"
+  },
+  "BuffDesc2_Effect_PECS_Erato_N_2": {
+    "korean": "성대 결절 : 공격력 {0}% (자신)",
+    "english": "Vocal Nodule : ATK {0}% (Self)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_3": {
+    "korean": "감미로운 멜로디 : AP {0}",
+    "english": "Sweet Melody : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_Erato_N_3": {
+    "korean": "감미로운 멜로디 : 공격력 감소 면역 (공격기)",
+    "english": "Sweet Melody : ATK Decrease Immunity (Attacker)"
+  },
+  "BuffDesc3_Effect_PECS_Erato_N_3": {
+    "korean": "감미로운 멜로디 : 방어력 감소 면역 (보호기)",
+    "english": "Sweet Melody : DEF Decrease Immunity (Defender)"
+  },
+  "BuffDesc4_Effect_PECS_Erato_N_3": {
+    "korean": "감미로운 멜로디 : AP 감소 면역 (지원기)",
+    "english": "Sweet Melody : AP Decrease Immunity (Supporter)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_31": {
+    "korean": "감미로운 멜로디 : 공격력 감소 면역 (공격기)",
+    "english": "Sweet Melody : ATK Decrease Immunity (Attacker)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_32": {
+    "korean": "감미로운 멜로디 : 방어력 감소 면역 (보호기)",
+    "english": "Sweet Melody : DEF Decrease Immunity (Defender)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_33": {
+    "korean": "감미로운 멜로디 : AP 감소 면역 (지원기)",
+    "english": "Sweet Melody : AP Decrease Immunity (Supporter)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_4": {
+    "korean": "꿈을 묶는 여로 : 공격력 {0}%",
+    "english": "Journey That Binds Dreams : ATK {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Erato_N_4": {
+    "korean": "성대 준비 완료! : 행동력 {0}%",
+    "english": "Vocals Ready! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_42": {
+    "korean": "성대 준비 완료! : 행동력 {0}%",
+    "english": "Vocals Ready! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_43": {
+    "korean": "작곡가님…! : {0}% HP로 전투 속행",
+    "english": "Composer : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_44": {
+    "korean": "성대 결절 : 공격력 {0}% (자신)",
+    "english": "Vocal Nodule : ATK {0}% (Self)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_34": {
+    "korean": "감미로운 멜로디 : 공격력 감소 면역",
+    "english": "Sweet Melody : ATK Decrease Immunity"
+  },
+  "BuffDesc2_Effect_PECS_Erato_N_34": {
+    "korean": "감미로운 멜로디 : 방어력 감소 면역",
+    "english": "Sweet Melody : DEF Decrease Immunity"
+  },
+  "BuffDesc3_Effect_PECS_Erato_N_34": {
+    "korean": "감미로운 멜로디 : AP 감소 면역",
+    "english": "Sweet Melody : AP Decrease Immunity"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_45": {
+    "korean": "솔로 라이브! : 공격력 비례 공격력 증가 해제",
+    "english": "Solo Live! : ATK Increase Based on ATK Removal"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_46": {
+    "korean": "솔로 라이브! : 공격력 비례 공격력 증가 해제",
+    "english": "Solo Live! : ATK Increase Based on ATK Removal"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_5": {
+    "korean": "팬 : 행동력 {0}% (전열)",
+    "english": "Fan : SPD {0}% (Front Row)"
+  },
+  "BuffDesc2_Effect_PECS_Erato_N_5": {
+    "korean": "광팬 : 받는 피해 {0}% 증가 (전열)",
+    "english": "Super Fan : DMG Taken Increased {0}% (Front Row)"
+  },
+  "BuffDesc3_Effect_PECS_Erato_N_5": {
+    "korean": "형광팬 : 강화 불가 (전열)",
+    "english": "Glowstick Fan : Buff Prevention (Front Row)"
+  },
+  "BuffDesc4_Effect_PECS_Erato_N_5": {
+    "korean": "형광팬 : 행동 불가 (전열)",
+    "english": "Glowstick Fan : Stunned (Front Row)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_51": {
+    "korean": "팬 : 행동력 {0}% (중열)",
+    "english": "Fan : SPD {0}% (Mid Row)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_52": {
+    "korean": "팬 : 행동력 {0}% (후열)",
+    "english": "Fan : SPD {0}% (Back Row)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_53": {
+    "korean": "광팬 : 받는 피해 {0}% 증가 (전열)",
+    "english": "Super Fan : DMG Taken Increased {0}% (Front Row)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_54": {
+    "korean": "광팬 : 받는 피해 {0}% 증가 (중열)",
+    "english": "Super Fan : DMG Taken Increased {0}% (Mid Row)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_55": {
+    "korean": "광팬 : 받는 피해 {0}% 증가 (후열)",
+    "english": "Super Fan : DMG Taken Increased {0}% (Back Row)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_56": {
+    "korean": "형광팬 : 강화 불가 (후열)",
+    "english": "Glowstick Fan : Buff Prevention (Back Row)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_57": {
+    "korean": "형광팬 : 강화 불가 (중열)",
+    "english": "Glowstick Fan : Buff Prevention (Mid Row)"
+  },
+  "BuffDesc1_Effect_PECS_Erato_N_58": {
+    "korean": "형광팬 : 강화 불가 (전열)",
+    "english": "Glowstick Fan : Buff Prevention (Front Row)"
+  },
+  "BuffDesc2_Effect_PECS_Erato_N_58": {
+    "korean": "형광팬 : 행동 불가 (전열)",
+    "english": "Glowstick Fan : Stunned (Front Row)"
+  }
+}

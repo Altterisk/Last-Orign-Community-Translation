@@ -1,0 +1,334 @@
+{
+  "SkillName_Skill_PECS_Triaina_N_1": {
+    "korean": "수중용 절단기",
+    "english": "Underwater Cutter"
+  },
+  "SkillName_Skill_PECS_Triaina_N_2": {
+    "korean": "사이클론 스트림",
+    "english": "Cyclone Stream"
+  },
+  "SkillName_Skill_PECS_Triaina_N_3": {
+    "korean": "프런티어 리더",
+    "english": "Frontier Leader"
+  },
+  "SkillName_Skill_PECS_Triaina_N_4": {
+    "korean": "어비스 워커",
+    "english": "Abyss Walker"
+  },
+  "SkillName_Skill_PECS_Triaina_N_5": {
+    "korean": "딥 오션 챌린저",
+    "english": "Deep Ocean Challenger"
+  },
+  "SkillDesc_Skill_PECS_Triaina_N_1": {
+    "korean": "수중용 절단기로 {0} 피해를 주고, 방어력 강화 효과를 해제합니다. &n적중 시, 2라운드 동안 대상의 방어력을 감소시킵니다.&n치명타 시, 피해량이 증가하며 대상의 피해 감소 효과를 해제합니다.",
+    "english": "Deals {0} damage with an underwater cutter and removes DEF-enhancing effects. On hit, reduces the target's DEF for 2 rounds. On CRIT, damage is increased and removes the target’s DMG Reduction effects."
+  },
+  "SkillDescSimple_Skill_PECS_Triaina_N_1": {
+    "korean": "단일 대상 {0} 피해. 방어력 감소 / 방어력 강화 해제. 치명타 시, 피해 감소 해제 / 피해량 증가.",
+    "english": "Single target {0} DMG. DEF Reduction / DEF-Enhancing Removal. On CRIT, DMG Reduction Removal / Damage Increased."
+  },
+  "SkillDesc_Skill_PECS_Triaina_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 주며 대상을 뒤로 밉니다. &n적중 시, 대상에게 2라운드 동안 받는 피해 증가 효과를 부여합니다. &n대상이 <침수> 상태인 경우, 강화 효과를 해제하고 50% 확률로 행동 불가 상태로 만듭니다.",
+    "english": "Deals {0} Cold DMG that Ignores Protection to a designated area and Pushes targets back. On hit, grants the target DMG Taken Increased for 2 rounds. If the target is in <Soaked> state, removes buffs and has a 50% chance to Stun."
+  },
+  "SkillDescSimple_Skill_PECS_Triaina_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 냉기 피해. 뒤로 밀기 / 받는 피해 증가. 침수 시, 행동 불가 / 강화 해제.",
+    "english": "Designated area {0} Cold DMG that Ignores Protection. Push Back / DMG Taken Increased. If Soaked, Stunned / Buff Removal."
+  },
+  "SkillDesc_Skill_PECS_Triaina_N_3": {
+    "korean": "라운드 개시 시, 범위 내 바이오로이드 아군의 행동력 / 효과 저항 / 속성 저항을 증가시킵니다. &n대상이 배치된 위치에 따라 다음 효과가 두 배 증폭됩니다.&n- 전열 : 효과 저항 / 중열 : 속성 저항 / 후열 : 행동력&n스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of the round, increases SPD / Status Resist / Elemental Resist of Bioroid allies within range. Depending on the target’s position, the following effect is doubled: Front Row: Status Resist / Middle Row: Elemental Resist / Back Row: SPD. At skill level 10, the range increases."
+  },
+  "SkillDescSimple_Skill_PECS_Triaina_N_3": {
+    "korean": "자신과 인접 바이오로이드 행동력 / 효과 저항 / 속성 저항 증가.",
+    "english": "SPD / Status Resist / Elemental Resist increase for yourself and adjacent Bioroids."
+  },
+  "SkillDesc_Skill_PECS_Triaina_N_4": {
+    "korean": "자신의 기본 냉기 저항이 80%로 증가합니다.&n라운드 개시 시, 자신이 받는 피해가 감소합니다. &n라운드 개시 시 자신이 <침수> 상태인 경우, 공격력 / 치명타 / 행동력이 증가합니다.&n<프런티어 리더> 효과를 받는 아군도 <침수> 상태가 되면 해당 효과의 50%가 적용됩니다.",
+    "english": "Increases your base Cold Resist to 80%. At the start of the round, your DMG Taken is reduced. At the start of the round, if you are in <Soaked> state, your ATK / CRIT / SPD are increased. Allies affected by <Frontier Leader> also receive 50% of this effect when they are in <Soaked> state."
+  },
+  "SkillDescSimple_Skill_PECS_Triaina_N_4": {
+    "korean": "자신 받는 피해 감소. 자신과 범위 내 아군 <침수> 시, 공격력 / 치명타 / 행동력 증가.",
+    "english": "DMG Reduction. When you and allied units within range are in <Soaked> state, ATK / CRIT / SPD increase."
+  },
+  "SkillDesc_Skill_PECS_Triaina_N_5": {
+    "korean": "자신의 기본 전기 저항이 80%로 증가합니다.&n전투 개시 시, 자신은 영구적으로 <침수> 상태가 되고, 2라운드 동안 적 전체를 <침수> 상태로 만듭니다.&n대기 시, 적 전체를 2라운드 동안 <침수> 상태로 만듭니다.",
+    "english": "Increases your base Electric Resist to 80%. At the start of battle, you become permanently <Soaked> and inflict <Soaked> on all enemies for 2 rounds. When Idle, inflicts <Soaked> on all enemies for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Triaina_N_5": {
+    "korean": "자신 영구 <침수> 적용. 전투 개시 / 대기 시, 적 전체 <침수> 적용.",
+    "english": "Applies permanent <Soaked> to yourself. At the start of battle and when Idle, applies <Soaked> to all enemies."
+  },
+  "BuffDesc4_Effect_PECS_Triaina_N_2": {
+    "korean": "빙결 : 50% 확률 행동 불가 (침수 시)",
+    "english": "Freeze : 50% chance Stunned (When Soaked)"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_1": {
+    "korean": "수중용 절단기 : 방어력 {0}%",
+    "english": "Underwater Cutter : DEF {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_1": {
+    "korean": "수중용 절단기 : 방어력 강화 해제",
+    "english": "Underwater Cutter : DEF Buff Removal"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_1": {
+    "korean": "수중용 절단기 : 피해 감소 해제 (치명타 시)",
+    "english": "Underwater Cutter : DMG Reduction Removal (on CRIT)"
+  },
+  "BuffDesc4_Effect_PECS_Triaina_N_1": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_11": {
+    "korean": "수중용 절단기 : 피해 감소 해제",
+    "english": "Underwater Cutter : DMG Reduction Removal"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_11": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_12": {
+    "korean": "수중용 절단기 : 방어력 강화 해제",
+    "english": "Underwater Cutter : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_12": {
+    "korean": "수중용 절단기 : 방어력 강화 해제",
+    "english": "Underwater Cutter : DEF Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_2": {
+    "korean": "사이클론 스트림 : 뒤로 {0}칸 밀기",
+    "english": "Cyclone Stream : Push Back {0}"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_2": {
+    "korean": "사이클론 스트림 : 받는 피해 {0}% 증가",
+    "english": "Cyclone Stream : DMG Taken Increased {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_2": {
+    "korean": "빙결 : 강화 효과 해제 (침수 시)",
+    "english": "Freeze : Buff Removal (When Soaked)"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_21": {
+    "korean": "빙결 : 행동 불가",
+    "english": "Freeze : Stunned"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_22": {
+    "korean": "사이클론 스트림 : 받는 피해 {0}%",
+    "english": "Cyclone Stream : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_23": {
+    "korean": "빙결 : 강화 효과 해제",
+    "english": "Freeze : Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_3": {
+    "korean": "프런티어 리더 : 행동력 {0}%",
+    "english": "Frontier Leader : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_3": {
+    "korean": "프런티어 리더 : 효과 저항 {0}%",
+    "english": "Frontier Leader : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_3": {
+    "korean": "프런티어 리더 : 화염 저항 {0}%",
+    "english": "Frontier Leader : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Triaina_N_3": {
+    "korean": "프런티어 리더 : 냉기 저항 {0}%",
+    "english": "Frontier Leader : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Triaina_N_3": {
+    "korean": "프런티어 리더 : 전기 저항 {0}%",
+    "english": "Frontier Leader : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_31": {
+    "korean": "프런티어 리더 : 행동력 {0}%",
+    "english": "Frontier Leader : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_31": {
+    "korean": "프런티어 리더 : 효과 저항 {0}%",
+    "english": "Frontier Leader : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_31": {
+    "korean": "프런티어 리더 : 화염 저항 {0}%",
+    "english": "Frontier Leader : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Triaina_N_31": {
+    "korean": "프런티어 리더 : 냉기 저항 {0}%",
+    "english": "Frontier Leader : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Triaina_N_31": {
+    "korean": "프런티어 리더 : 전기 저항 {0}%",
+    "english": "Frontier Leader : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_32": {
+    "korean": "프런티어 리더 : 행동력 {0}%",
+    "english": "Frontier Leader : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_32": {
+    "korean": "프런티어 리더 : 효과 저항 {0}%",
+    "english": "Frontier Leader : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_32": {
+    "korean": "프런티어 리더 : 화염 저항 {0}%",
+    "english": "Frontier Leader : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Triaina_N_32": {
+    "korean": "프런티어 리더 : 냉기 저항 {0}%",
+    "english": "Frontier Leader : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Triaina_N_32": {
+    "korean": "프런티어 리더 : 전기 저항 {0}%",
+    "english": "Frontier Leader : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_33": {
+    "korean": "프런티어 리더 : 행동력 {0}%",
+    "english": "Frontier Leader : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_33": {
+    "korean": "프런티어 리더 : 효과 저항 {0}%",
+    "english": "Frontier Leader : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_33": {
+    "korean": "프런티어 리더 : 화염 저항 {0}%",
+    "english": "Frontier Leader : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Triaina_N_33": {
+    "korean": "프런티어 리더 : 냉기 저항 {0}%",
+    "english": "Frontier Leader : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Triaina_N_33": {
+    "korean": "프런티어 리더 : 전기 저항 {0}%",
+    "english": "Frontier Leader : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_34": {
+    "korean": "프런티어 리더 : 행동력 {0}%",
+    "english": "Frontier Leader : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_34": {
+    "korean": "프런티어 리더 : 효과 저항 {0}%",
+    "english": "Frontier Leader : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_34": {
+    "korean": "프런티어 리더 : 화염 저항 {0}%",
+    "english": "Frontier Leader : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Triaina_N_34": {
+    "korean": "프런티어 리더 : 냉기 저항 {0}%",
+    "english": "Frontier Leader : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Triaina_N_34": {
+    "korean": "프런티어 리더 : 전기 저항 {0}%",
+    "english": "Frontier Leader : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_35": {
+    "korean": "프런티어 리더 : 행동력 {0}%",
+    "english": "Frontier Leader : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_35": {
+    "korean": "프런티어 리더 : 효과 저항 {0}%",
+    "english": "Frontier Leader : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_35": {
+    "korean": "프런티어 리더 : 화염 저항 {0}%",
+    "english": "Frontier Leader : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Triaina_N_35": {
+    "korean": "프런티어 리더 : 냉기 저항 {0}%",
+    "english": "Frontier Leader : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Triaina_N_35": {
+    "korean": "프런티어 리더 : 전기 저항 {0}%",
+    "english": "Frontier Leader : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_36": {
+    "korean": "프런티어 리더 : 행동력 {0}%",
+    "english": "Frontier Leader : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_36": {
+    "korean": "프런티어 리더 : 효과 저항 {0}%",
+    "english": "Frontier Leader : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_36": {
+    "korean": "프런티어 리더 : 화염 저항 {0}%",
+    "english": "Frontier Leader : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Triaina_N_36": {
+    "korean": "프런티어 리더 : 냉기 저항 {0}%",
+    "english": "Frontier Leader : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Triaina_N_36": {
+    "korean": "프런티어 리더 : 전기 저항 {0}%",
+    "english": "Frontier Leader : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_37": {
+    "korean": "프런티어 리더 : 행동력 {0}%",
+    "english": "Frontier Leader : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_37": {
+    "korean": "프런티어 리더 : 효과 저항 {0}%",
+    "english": "Frontier Leader : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_37": {
+    "korean": "프런티어 리더 : 화염 저항 {0}%",
+    "english": "Frontier Leader : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Triaina_N_37": {
+    "korean": "프런티어 리더 : 냉기 저항 {0}%",
+    "english": "Frontier Leader : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Triaina_N_37": {
+    "korean": "프런티어 리더 : 전기 저항 {0}%",
+    "english": "Frontier Leader : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_4": {
+    "korean": "어비스 워커 : 받는 피해 {0}% 감소",
+    "english": "Abyss Walker : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_4": {
+    "korean": "어비스 워커 : 공격력 {0}% (침수 시)",
+    "english": "Abyss Walker : ATK {0}% (When Soaked)"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_4": {
+    "korean": "어비스 워커 : 치명타 {0}% (침수 시)",
+    "english": "Abyss Walker : CRIT {0}% (When Soaked)"
+  },
+  "BuffDesc4_Effect_PECS_Triaina_N_4": {
+    "korean": "어비스 워커 : 행동력 {0}% (침수 시)",
+    "english": "Abyss Walker : SPD {0}% (When Soaked)"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_41": {
+    "korean": "홈 그라운드 : 공격력 {0}%",
+    "english": "Home Ground : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_41": {
+    "korean": "홈 그라운드 : 치명타 {0}%",
+    "english": "Home Ground : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_41": {
+    "korean": "홈 그라운드 : 행동력 {0}%",
+    "english": "Home Ground : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_42": {
+    "korean": "어비스 워커 : 공격력 {0}%",
+    "english": "Abyss Walker : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_42": {
+    "korean": "어비스 워커 : 치명타 {0}%",
+    "english": "Abyss Walker : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_42": {
+    "korean": "어비스 워커 : 행동력 {0}%",
+    "english": "Abyss Walker : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Triaina_N_5": {
+    "korean": "침수 : 화염 저항 {0}%",
+    "english": "Soaked : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Triaina_N_5": {
+    "korean": "침수 : 냉기 저항 {0}%",
+    "english": "Soaked : Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Triaina_N_5": {
+    "korean": "침수 : 전기 저항 {0}%",
+    "english": "Soaked : Electric Resist {0}%"
+  }
+}

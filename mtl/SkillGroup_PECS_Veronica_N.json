@@ -1,0 +1,250 @@
+{
+  "1002702467": {
+    "korean": "이단 지정",
+    "english": "Heresy Designation"
+  },
+  "1002702468": {
+    "korean": "집행 개시",
+    "english": "Commence Execution"
+  },
+  "1002702469": {
+    "korean": "그림자 대리인",
+    "english": "Shadow Agent"
+  },
+  "1002702470": {
+    "korean": "최후의 성전",
+    "english": "Final Crusade"
+  },
+  "SkillName_Skill_PECS_Veronica_N_5": {
+    "korean": "빛의 가호",
+    "english": "Blessing of Light"
+  },
+  "1002704389": {
+    "korean": "사격으로 대상에게 {0} 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 / 회피 감소 상태로 만듭니다.",
+    "english": "Fires a shot that deals {0} damage to the target, and for 2 rounds inflicts Marked, DMG Taken Increased, and EVA Down."
+  },
+  "1002706545": {
+    "korean": "단일 대상 {0} 피해. 표식 / 피해 증폭 / 회피 감소.",
+    "english": "Deals {0} damage to a single target. Inflicts Marked, Damage Amplification, and EVA Down."
+  },
+  "1002704390": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 대상이 표식 / 받는 피해 증가 상태면, 피해 감소 효과를 해제하며 피해량이 증가합니다.",
+    "english": "Deals {0} damage to the designated area, ignoring protection. If targets are Marked or under DMG Taken Increased, removes their DMG Reduction effects and increases damage dealt."
+  },
+  "1002706546": {
+    "korean": "지정 범위 {0} 피해. 표식 / 받는 피해 증가 대상 피해 감소 효과 해제 / 피해량 증가",
+    "english": "Deals {0} damage to a designated area. Inflicts Marked, DMG Taken Increased. Removes damage reduction effects from affected targets and increases damage dealt."
+  },
+  "1002708233": {
+    "korean": "행 보호 시전자와 자신을 제외한 <코헤이 교단> 아군의 공격을 지원하며, 자신의 액티브 스킬이 적중하면 대상들의 AP가 증가합니다. <아자젤><사라카엘><라미엘>인 경우, 매 라운드 AP를 증가시키며 반격 효과를 부여합니다. 스쿼드 내의 <코헤이 교단> 아군 수에 비례하여 방어 관통이 증가합니다.",
+    "english": "Supports attacks of <Kohei Cult> allies in the same row, excluding the caster and yourself, and when your active skill hits, increases the targets’ AP. If the targets are <Azazel>, <Sarakhael>, or <Ramiel>, increases their AP each round and grants Counter Attack. DEF Penetration increases proportionally to the number of <Kohei Cult> allies in the squad."
+  },
+  "1002708235": {
+    "korean": "행 보호 / <코헤이 교단> 아군 공격 지원. 액티브 스킬 공격 적중 시, 대상들의 AP 증가. <코헤이 교단>에게 추가 효과",
+    "english": "Supports Row Protect and attacks of <Kohei Cult> allies. When active skill attacks hit, increases the targets’ AP. Grants additional effects to <Kohei Cult> allies."
+  },
+  "1002708234": {
+    "korean": "전투 개시 시, 적 수가 (1/3/5/7) 이상이면 공격력 / 적중 / 행동력이 최대 4회까지 증가합니다.(해제 불가) 라운드 개시 시, 자신의 HP%가 낮을수록 피해량이 증가합니다. 자신이 전투 불능이 될 경우, 표식 상태인 적에게 공격력에 비례한 고정 피해를 줍니다.",
+    "english": "At the start of battle, if the number of enemies is (1/3/5/7) or more, increases ATK / ACC / SPD up to 4 times. (Unremovable) At the start of the round, damage dealt increases the lower your HP%. If you become incapacitated, deals Fixed DMG proportional to your ATK to Marked enemies."
+  },
+  "1002708236": {
+    "korean": "자신 HP% 낮을수록 피해량 증가. 적 수에 비례해 공격 능력 증가 (최대 4회). 전투 불능 시, 표식 대상에게 고정 피해",
+    "english": "Damage increases the lower your HP%. ATK abilities increase proportionally with the number of enemies (up to 4 stacks). Upon incapacitation, deals Fixed DMG to Marked targets."
+  },
+  "SkillDesc_Skill_PECS_Veronica_N_5": {
+    "korean": "전투 개시 시, 일정 HP %로 해제 불가한 전투 속행 효과가 적용됩니다. 스쿼드 내 자신을 제외한 <코헤이> 소속 전투원이 있는 경우 전투 속행 효과가 추가로 적용됩니다. 전투 속행 발동 시, 해제 불가능한 공격력 / 행동력 증가 효과가 적용됩니다. 라운드 개시 시, 치명타와 사거리가 증가합니다.",
+    "english": "At the start of battle, a non-removable Battle Continuation effect is applied at a certain HP%. If there are other <Kohei> units in the squad excluding yourself, an additional Battle Continuation effect is applied. When Battle Continuation activates, non-removable ATK / SPD increases are applied. At the start of the round, CRIT and Range are increased."
+  },
+  "SkillDescSimple_Skill_PECS_Veronica_N_5": {
+    "korean": "치명타, 사거리 증가 / 전투속행. 전투속행 시, 공격력 / 행동력 증가",
+    "english": "CRIT, Range increase / Battle Continuation. During Battle Continuation, ATK / SPD increase"
+  },
+  "1000110818": {
+    "korean": "최후의 성전 : 자신 HP% 낮을수록 피해량{0}%",
+    "english": "Final Crusade: Damage {0}% higher the lower your HP%"
+  },
+  "1000110822": {
+    "korean": "최후의 성전 : 자신 HP% 낮을수록 피해량{0}%",
+    "english": "Final Crusade: Damage {0}% higher the lower your HP%"
+  },
+  "1000110815": {
+    "korean": "이단 지정 : 표식 지정",
+    "english": "Heresy Declaration : Marks target"
+  },
+  "1000110834": {
+    "korean": "이단 지정 : 받는 피해{0}%",
+    "english": "Heresy Declaration : DMG Taken {0}%"
+  },
+  "1000110842": {
+    "korean": "이단 지정 : 회피 {0}%",
+    "english": "Heresy Declaration : EVA {0}%"
+  },
+  "1000110824": {
+    "korean": "이단 지정 : 받는 피해{0}%",
+    "english": "Heresy Declaration : DMG Taken {0}%"
+  },
+  "1000110816": {
+    "korean": "이단 집행 : 피해 감소 해제",
+    "english": "Heretic's Execution : DMG Reduction Removal"
+  },
+  "1000110835": {
+    "korean": "처형 개시 : 피해량{0}%",
+    "english": "Execution Initiated : Additional DMG {0}%"
+  },
+  "1000110817": {
+    "korean": "그림자 대리인 : 공격 지원 (행보호 시전자)",
+    "english": "Shadow Agent : Follow-Up Attack (Row Protection Caster)"
+  },
+  "1000110836": {
+    "korean": "그림자 대리인 : AP{0}  (행보호 시전자)",
+    "english": "Shadow Agent : AP {0} (Row Protection Caster)"
+  },
+  "1000110843": {
+    "korean": "빛의 대리인 : {0}% 위력으로 반격 (조건부)",
+    "english": "Agent of Light : Counter Attack with {0}% Power (Conditional)"
+  },
+  "1000110849": {
+    "korean": "그림자 대리인 : 방어 관통{0}% (자신/조건부)",
+    "english": "Shadow Agent : DEF Penetration {0}% (Self/conditional)"
+  },
+  "1000110819": {
+    "korean": "그림자 대리인 : AP{0}",
+    "english": "Shadow Agent : AP {0}"
+  },
+  "1000110820": {
+    "korean": "빛의 대리인 : AP{0}",
+    "english": "Agent of Light : AP {0}"
+  },
+  "1000110821": {
+    "korean": "빛의 대리인 : {0}% 위력으로 반격",
+    "english": "Agent of Light : Counter Attack with {0}% Power"
+  },
+  "1000110828": {
+    "korean": "그림자 대리인 : AP{0}",
+    "english": "Shadow Agent : AP {0}"
+  },
+  "1000110829": {
+    "korean": "그림자 대리인 : 공격 지원 (코헤이)",
+    "english": "Shadow Agent : Follow-Up Attack (Kohei)"
+  },
+  "1000110830": {
+    "korean": "아자젤의 대리인 : 방어 관통{0}%",
+    "english": "Agent of Azazel : DEF Penetration {0}%"
+  },
+  "1000110831": {
+    "korean": "사라카엘의 대리인 : 방어 관통{0}%",
+    "english": "Agent of Saraqael : DEF Penetration {0}%"
+  },
+  "1000110832": {
+    "korean": "라미엘의 대리인 : 방어 관통{0}%",
+    "english": "Agent of Ramiel : DEF Penetration {0}%"
+  },
+  "1000110833": {
+    "korean": "엔젤의 대리인 : 방어 관통{0}%",
+    "english": "Agent of Angel : DEF Penetration {0}%"
+  },
+  "1000110837": {
+    "korean": "최후의 성전 : 공격력{0}%",
+    "english": "Final Crusade : ATK {0}%"
+  },
+  "1000110844": {
+    "korean": "최후의 성전 : 적중{0}%",
+    "english": "Final Crusade : ACC {0}%"
+  },
+  "1000110850": {
+    "korean": "최후의 성전 : 행동력{0}%",
+    "english": "Final Crusade : SPD {0}%"
+  },
+  "1000110851": {
+    "korean": "최후의 성전 : 공격력 {0}% 고정 피해 (전투 불능 시)",
+    "english": "Final Crusade : ATK {0}% Fixed DMG (When Incapacitated)"
+  },
+  "1000110823": {
+    "korean": "제1 성전 : 공격력{0}%",
+    "english": "First Crusade : ATK {0}%"
+  },
+  "1000110838": {
+    "korean": "제1 성전 : 적중{0}%",
+    "english": "First Crusade : ACC {0}%"
+  },
+  "1000110845": {
+    "korean": "제1 성전 : 행동력{0}%",
+    "english": "First Crusade : SPD {0}%"
+  },
+  "1000110825": {
+    "korean": "제2 성전 : 공격력{0}%",
+    "english": "Second Crusade : ATK {0}%"
+  },
+  "1000110839": {
+    "korean": "제2 성전 : 적중{0}%",
+    "english": "Second Crusade : ACC {0}%"
+  },
+  "1000110846": {
+    "korean": "제2 성전 : 행동력{0}%",
+    "english": "Second Crusade : SPD {0}%"
+  },
+  "1000110826": {
+    "korean": "제3 성전 : 공격력{0}%",
+    "english": "Third Crusade : ATK {0}%"
+  },
+  "1000110840": {
+    "korean": "제3 성전 : 적중{0}%",
+    "english": "Third Crusade : ACC {0}%"
+  },
+  "1000110847": {
+    "korean": "제3 성전 : 행동력{0}%",
+    "english": "Third Crusade : SPD {0}%"
+  },
+  "1000110827": {
+    "korean": "최후의 성전 : 공격력{0}%",
+    "english": "Final Crusade : ATK {0}%"
+  },
+  "1000110841": {
+    "korean": "최후의 성전 : 적중{0}%",
+    "english": "Final Crusade : ACC {0}%"
+  },
+  "1000110848": {
+    "korean": "최후의 성전 : 행동력{0}%",
+    "english": "Final Crusade : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Veronica_N_5": {
+    "korean": "빛의 가호 : {0}% HP 전투 속행",
+    "english": "Blessing of Light : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc2_Effect_PECS_Veronica_N_5": {
+    "korean": "빛의 가호 : 치명타{0}%",
+    "english": "Blessing of Light : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Veronica_N_5": {
+    "korean": "빛의 가호 : 사거리{0}",
+    "english": "Blessing of Light : Range {0}"
+  },
+  "BuffDesc4_Effect_PECS_Veronica_N_5": {
+    "korean": "빛의 가호 : 공격력{0}%",
+    "english": "Blessing of Light : ATK {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Veronica_N_5": {
+    "korean": "빛의 가호 : 행동력{0}%",
+    "english": "Blessing of Light : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Veronica_N_51": {
+    "korean": "빛의 가호 : 사거리{0}",
+    "english": "Blessing of Light : Range {0}"
+  },
+  "BuffDesc1_Effect_PECS_Veronica_N_52": {
+    "korean": "빛의 가호 : 공격력{0}%",
+    "english": "Blessing of Light : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Veronica_N_52": {
+    "korean": "빛의 가호 : 행동력{0}%",
+    "english": "Blessing of Light : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Veronica_N_53": {
+    "korean": "빛의 가호 : {0}% HP 전투 속행 (코헤이)",
+    "english": "Blessing of Light : Battle Continuation with {0}% HP (Kohei)"
+  },
+  "BuffDesc1_Effect_PECS_Veronica_N_54": {
+    "korean": "빛의 가호 : 치명타{0}%",
+    "english": "Blessing of Light : CRIT {0}%"
+  }
+}

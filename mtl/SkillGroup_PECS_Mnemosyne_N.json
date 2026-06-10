@@ -1,0 +1,150 @@
+{
+  "1002708044": {
+    "korean": "열기 흡수",
+    "english": "Heat Absorption"
+  },
+  "1002708045": {
+    "korean": "냉혹한 겨울의 바람",
+    "english": "Ruthless Winter Wind"
+  },
+  "1002708046": {
+    "korean": "압도하는 한기",
+    "english": "Overwhelming Cold"
+  },
+  "1002708047": {
+    "korean": "침입자 배제",
+    "english": "Intruder Exclusion"
+  },
+  "1002708048": {
+    "korean": "기억의 방주",
+    "english": "Ark of Memories"
+  },
+  "1002708049": {
+    "korean": "대상에게 보호 무시 {0} 냉기 속성 피해를 입힙니다.&n공격 적중 시, <열기 흡수> 버프를 획득하고 적의 냉기 속성 저항 / 공격력을 감소시킵니다.",
+    "english": "Deals {0} Cold attribute damage to the target, ignoring protection. On hit, gains the <Heat Absorption> buff and reduces the enemy’s Cold Resist / ATK."
+  },
+  "1002708054": {
+    "korean": "{0} 보호 무시 냉기 피해 / 냉기 저항 / 공격력 감소 / 자신 <열기 흡수>",
+    "english": "{0} Cold damage ignoring protection / Cold Resist / ATK reduction / self <Heat Absorption>"
+  },
+  "1002708050": {
+    "korean": "행 범위 대상에게 {0} 냉기 피해를 입힙니다.&n<열기 흡수> 상태일 경우, <열기 흡수>를 소모하여 추가 피해를 입히고 적중한 적을 침수 상태로 만듭니다.",
+    "english": "Deals {0} Cold damage to row-target(s). If in <Heat Absorption> state, consumes <Heat Absorption> to deal additional damage and inflicts Soaked on hit enemies."
+  },
+  "1002708055": {
+    "korean": "범위 내 {0} 냉기 피해 / <열기 흡수>상태 시 추가 피해 / 침수",
+    "english": "{0} Cold damage within range / additional damage if in <Heat Absorption> state / Soaked"
+  },
+  "1002708051": {
+    "korean": "라운드 개시 시, 적 전체의 행동력 / 냉기 속성 저항 / 공격력을 감소시킵니다.&n냉기 속성 저항 / 공격력 감소 효과는 라운드 진행에 따라 약화됩니다.",
+    "english": "At the start of the round, reduces all enemies’ SPD / Cold Resist / ATK. The Cold Resist / ATK reduction effects weaken as the round progresses."
+  },
+  "1002708056": {
+    "korean": "행동력 / 라운드 초반에 강력한 효과의 냉기 저항 / 공격력 감소",
+    "english": "SPD / strong early-round Cold Resist effect / ATK reduction"
+  },
+  "1002708052": {
+    "korean": "라운드 개시 시, 자신의 받는 피해가 감소하고 화염 저항이 증가합니다. <열기 흡수>상태일 경우, 해제 불가한 사거리 감소 효과를 획득합니다.&n피격 시, 강한 위력으로 반격하고 반격 시 화염 저항이 추가로 증가합니다.",
+    "english": "At the start of the round, reduces your DMG Taken and increases Fire Resist. If in <Heat Absorption> state, gains an unremovable Range Reduction effect. When hit, Counter Attacks with high power, and upon Counter Attack, Fire Resist increases further."
+  },
+  "1002708057": {
+    "korean": "받는 피해 감소 / 피격 시 반격 / 화염 저항 증가 / <열기 흡수> 상태 시 사거리 감소",
+    "english": "DMG Reduction / Counter Attack when hit / Fire Resist increase / Range Reduction when in <Heat Absorption> state"
+  },
+  "1002708053": {
+    "korean": "범위 내 아군을 지정 보호하고 화염 저항 / 효과 저항을 증가시킵니다.",
+    "english": "Designates allies within range for protection and increases Fire Resist / Status Resist."
+  },
+  "1002708058": {
+    "korean": "범위 내 아군 지정 보호 / 화염 저항 / 효과 저항 증가",
+    "english": "Designate allies within range for protection / Fire Resist / Status Resist increase"
+  },
+  "1000110445": {
+    "korean": "열기 흡수 : 열기 흡수 상태 (자신)",
+    "english": "Heat Absorption : Heat Absorption state (Self)"
+  },
+  "1000110450": {
+    "korean": "열기 흡수",
+    "english": "Heat Absorption"
+  },
+  "1000110446": {
+    "korean": "냉혹한 겨울의 바람 : {0}% 추가 냉기 피해 (열기 흡수)",
+    "english": "Ruthless Winter Wind : {0}% additional Cold damage (Heat Absorption)"
+  },
+  "1000110526": {
+    "korean": "열기 흡수 사용",
+    "english": "Use Heat Absorption"
+  },
+  "1000110451": {
+    "korean": "열기 흡수 : 냉기 저항{0}%",
+    "english": "Heat Absorption : Cold Resist {0}%"
+  },
+  "1000110456": {
+    "korean": "열기 흡수 : 공격력{0}%",
+    "english": "Heat Absorption : ATK {0}%"
+  },
+  "1000110515": {
+    "korean": "침입자 배제 : 화염 저항{0}%",
+    "english": "Intruder Exclusion : Fire Resist {0}%"
+  },
+  "1000110454": {
+    "korean": "침입자 배제 : {0}%위력으로 반격 (피격)",
+    "english": "Intruder Exclusion : Counter Attack with {0}% Power (When Hit)"
+  },
+  "1000110458": {
+    "korean": "침입자 배제 : 화염 저항{0}% (반격) (3중첩)",
+    "english": "Intruder Exclusion : Fire Resist {0}% (Counter Attack)"
+  },
+  "1000110462": {
+    "korean": "침입자 배제 : 사거리{0} (열기 흡수)",
+    "english": "Intruder Exclusion : Range {0} (Heat Absorption)"
+  },
+  "1000110452": {
+    "korean": "냉혹한 겨울의 바람 : 침수 (열기 흡수)",
+    "english": "Ruthless Winter Wind : Soaked (Heat Absorption)"
+  },
+  "1000110447": {
+    "korean": "압도하는 한기 : 행동력{0}%",
+    "english": "Overwhelming Cold : SPD {0}%"
+  },
+  "1000110453": {
+    "korean": "압도하는 한기 : 냉기 저항 / 공격력{0}% (1라운드)",
+    "english": "Overwhelming Cold : Cold Resist / ATK {0}% (1 rounds)"
+  },
+  "1000110457": {
+    "korean": "압도하는 한기 : 냉기 저항 / 공격력{0}% (2라운드)",
+    "english": "Overwhelming Cold : Cold Resist / ATK {0}% (2 rounds)"
+  },
+  "1000110461": {
+    "korean": "압도하는 한기 : 냉기 저항{0}% (3라운드 이후)",
+    "english": "Overwhelming Cold : Cold Resist {0}% (after 3 rounds)"
+  },
+  "1000110463": {
+    "korean": "압도하는 한기 : 공격력{0}% (3라운드 이후)",
+    "english": "Overwhelming Cold : ATK {0}% (After Round 3)"
+  },
+  "1000110525": {
+    "korean": "압도하는 한기 : 냉기 저항{0}%",
+    "english": "Overwhelming Cold : Cold Resist {0}%"
+  },
+  "1000110460": {
+    "korean": "압도하는 한기 : 공격력{0}%",
+    "english": "Overwhelming Cold : ATK {0}%"
+  },
+  "1000110448": {
+    "korean": "침입자 배제 : 받는 피해 {0}%감소",
+    "english": "Intruder Exclusion : DMG Reduction {0}%"
+  },
+  "1000110449": {
+    "korean": "기억의 방주 : 지정 보호",
+    "english": "Ark of Memories : Target Protect"
+  },
+  "1000110455": {
+    "korean": "기억의 방주 : 화염 저항{0}%",
+    "english": "Ark of Memories : Fire Resist {0}%"
+  },
+  "1000110459": {
+    "korean": "기억의 방주 : 효과 저항{0}%",
+    "english": "Ark of Memories : Status Resist {0}%"
+  }
+}

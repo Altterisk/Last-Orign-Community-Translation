@@ -1,0 +1,150 @@
+{
+  "SkillName_Skill_DS_Koyori_N_1": {
+    "korean": "천주의 호부",
+    "english": "Heaven's Blessing"
+  },
+  "SkillName_Skill_DS_Koyori_N_2": {
+    "korean": "구자의 술법",
+    "english": "Spiritual Magic"
+  },
+  "SkillName_Skill_DS_Koyori_N_3": {
+    "korean": "정의와 미모의 무녀",
+    "english": "Priestess of Justice and Beauty"
+  },
+  "SkillName_Skill_DS_Koyori_N_4": {
+    "korean": "식신 바사로",
+    "english": "Shikigami Basaro"
+  },
+  "SkillName_Skill_DS_Koyori_N_5": {
+    "korean": "급급여율령",
+    "english": "Immediate Order"
+  },
+  "SkillDesc_Skill_DS_Koyori_N_1": {
+    "korean": "부적을 던져 지정 범위에 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.&n적중 시, 2라운드 동안 대상을 도발하고 받는 피해 증가 상태로 만듭니다.",
+    "english": "Throws a talisman that deals {0} damage to the designated area. Ignores a portion of the target's DEF. On hit, Provokes the target for 2 rounds and applies DMG Taken Increased."
+  },
+  "SkillDescSimple_Skill_DS_Koyori_N_1": {
+    "korean": "단일 대상 {0} 피해. 도발 / 받는 피해 증가 부여.",
+    "english": "Single target {0} DMG. Provoked / DMG Taken Increased."
+  },
+  "SkillDesc_Skill_DS_Koyori_N_2": {
+    "korean": "수인을 맺고 구자진언을 외며 지정 범위에 {0} 보호 무시 피해를 줍니다. &n목표 지점에서 멀 수록 피해량이 최대 50%까지 감소합니다.&n적중 대상이 도발 상태인 경우, 피해량이 증가합니다.&n치명타 시, 대상은 해당 라운드 동안 스킬 위력이 크게 감소합니다.",
+    "english": "Forms a seal and chants a shamanic incantation that deals {0} damage ignoring protection to the designated area. Damage decreases with distance from the target point, up to 50% reduction. If the hit target is Provoked, damage is increased. On CRIT, the target's Skill Power is greatly reduced for that round."
+  },
+  "SkillDescSimple_Skill_DS_Koyori_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 조건부 피해량 증가 / 스킬 위력 감소.",
+    "english": "Area {0} Ignore Protection DMG. Conditional DMG increase / Skill Power reduction."
+  },
+  "SkillDesc_Skill_DS_Koyori_N_3": {
+    "korean": "전투 개시 시, 자신은 전투 속행 효과를 획득합니다.&n라운드 개시 시, 자신의 공격력이 증가합니다.&n스쿼드 내에 <카엔>이 있을 경우, 공격력 증가 효과가 50% 증폭됩니다.",
+    "english": "When battle starts, you gain Fight Continuation. At the start of each round, your ATK increases. If <Kaen> is present in the squad, the ATK increase is amplified by 50%."
+  },
+  "SkillDescSimple_Skill_DS_Koyori_N_3": {
+    "korean": "자신 전투 속행 획득 / 공격력 증가.",
+    "english": "Gain Fight Continuation / ATK increase."
+  },
+  "SkillDesc_Skill_DS_Koyori_N_4": {
+    "korean": "라운드 개시 시, 자신은 재공격 효과를 획득합니다.&n전투 속행 시 자신에게 전투 속행 효과가 없을 경우, <식신 바사로>의 효과를 다음 2라운드 동안 봉인하고 전투 속행 효과를 획득합니다.",
+    "english": "At the start of each round, you gain Reattack. If you lack Fight Continuation during Fight Continuation, you seal the effect of <Shikigami Basaro> for the next 2 rounds and gain Fight Continuation."
+  },
+  "SkillDescSimple_Skill_DS_Koyori_N_4": {
+    "korean": "자신 재공격 획득. 조건부 전투 속행 획득.",
+    "english": "Gain Reattack. Conditional Fight Continuation gained."
+  },
+  "SkillDesc_Skill_DS_Koyori_N_5": {
+    "korean": "라운드 개시 시, 자신의 AP가 증가합니다.&n적 사망 시, 3라운드 동안 자신의 행동력이 증가합니다. (최대 4중첩)&n라운드 개시 시, <급급여율령>에 의한 행동력 중첩 수에 따라 자신의 스킬 위력이 증가합니다.",
+    "english": "At the start of each round, your AP increases. When an enemy dies, your SPD increases for 3 rounds (up to 4 stacks). At the start of each round, your Skill Power increases based on the number of SPD stacks from <Immediate Order>."
+  },
+  "SkillDescSimple_Skill_DS_Koyori_N_5": {
+    "korean": "자신 AP 증가. 조건부 자신 행동력 / 스킬 위력 증가.",
+    "english": "Increase own AP. Conditional own SPD / Skill Power increase."
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_42": {
+    "korean": "바사로 봉인 중…",
+    "english": "Basaro Sealed :"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_1": {
+    "korean": "천주의 호부 : 방어 관통 {0}%",
+    "english": "Heaven's Blessing : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_DS_Koyori_N_1": {
+    "korean": "천주의 호부 : 도발",
+    "english": "Heaven's Blessing : Provokes"
+  },
+  "BuffDesc3_Effect_DS_Koyori_N_1": {
+    "korean": "천주의 호부 : 받는 피해 {0}% 증가",
+    "english": "Heaven's Blessing : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_11": {
+    "korean": "천주의 호부 : 도발",
+    "english": "Heaven's Blessing : Provokes"
+  },
+  "BuffDesc2_Effect_DS_Koyori_N_11": {
+    "korean": "천주의 호부 : 받는 피해 {0}% 증가",
+    "english": "Heaven's Blessing : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_2": {
+    "korean": "구자의 술법 : 피해량 {0}%",
+    "english": "Spiritual Magic : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_DS_Koyori_N_2": {
+    "korean": "구자의 술법 : 스킬 위력 {0}%",
+    "english": "Spiritual Magic : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_21": {
+    "korean": "구자의 술법 : 스킬 위력 {0}%",
+    "english": "Spiritual Magic : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_3": {
+    "korean": "1UP : {0}% HP로 전투 속행",
+    "english": "1UP : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc2_Effect_DS_Koyori_N_3": {
+    "korean": "정의와 미모의 무녀 : 공격력 {0}%",
+    "english": "Serene Priestess of Justice : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_31": {
+    "korean": "정의와 미모의 무녀 : 공격력 {0}%",
+    "english": "Serene Priestess of Justice : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_32": {
+    "korean": "이번에도 낙승이야! : 공격력 {0}%",
+    "english": "It's an easy win again! : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_33": {
+    "korean": "일단은 쿠노이치에 카엔이니까… : 공격력 {0}%",
+    "english": "For now, since it's a kunoichi and Kaen... : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_34": {
+    "korean": "카엔…! : 공격력 {0}%",
+    "english": "Kaen...! : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_4": {
+    "korean": "바사로! : 재공격",
+    "english": "Basaro! : Reattack"
+  },
+  "BuffDesc2_Effect_DS_Koyori_N_4": {
+    "korean": "1UP : {0}% HP로 전투 속행",
+    "english": "1UP : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_5": {
+    "korean": "급급여율령 : AP {0}",
+    "english": "Immediate Order : AP {0}"
+  },
+  "BuffDesc2_Effect_DS_Koyori_N_5": {
+    "korean": "급급여율령 : 행동력 {0}%",
+    "english": "Immediate Order : SPD {0}%"
+  },
+  "BuffDesc3_Effect_DS_Koyori_N_5": {
+    "korean": "POWER UP : 스킬 위력 {0}% (중첩당)",
+    "english": "POWER UP : Skill Power {0}% (Per Stack)"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_51": {
+    "korean": "급급여율령 : 행동력 {0}%",
+    "english": "Immediate Order : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Koyori_N_52": {
+    "korean": "POWER UP : 스킬 위력 {0}%",
+    "english": "POWER UP : Skill Power {0}%"
+  }
+}

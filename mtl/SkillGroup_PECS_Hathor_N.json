@@ -1,0 +1,174 @@
+{
+  "SkillName_Skill_PECS_Hathor_N_1": {
+    "korean": "휘어진 쇠뿔",
+    "english": "Twisted Horn"
+  },
+  "SkillName_Skill_PECS_Hathor_N_2": {
+    "korean": "찬란한 태양의 강림",
+    "english": "Brilliant Sun Ascension"
+  },
+  "SkillName_Skill_PECS_Hathor_N_3": {
+    "korean": "강화외골격 YOROI",
+    "english": "Reinforced Exoskeleton YOROI"
+  },
+  "SkillName_Skill_PECS_Hathor_N_4": {
+    "korean": "여신의 또 다른 얼굴",
+    "english": "Another Face of the Goddess"
+  },
+  "SkillName_Skill_PECS_Hathor_N_5": {
+    "korean": "천우서",
+    "english": "Book of the Heavenly Cow"
+  },
+  "SkillDesc_Skill_PECS_Hathor_N_1": {
+    "korean": "거대한 황금빛 무기를 휘둘러 단일 대상에게 {0} 피해를 입힙니다.&n적중 시, 2라운드 동안 대상의 방어력을 감소시킵니다.&n자신의 HP가 낮을 수록 피해량이 증가합니다.",
+    "english": "Swing a massive golden weapon to deal {0} damage to a single target. On hit, reduces the target's DEF for 2 rounds. Damage increases as your HP decreases."
+  },
+  "SkillDescSimple_Skill_PECS_Hathor_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상 방어력 감소. 자신 HP 반비례 피해량 증가.",
+    "english": "Single target {0} damage / target DEF reduced / damage increases proportionally to own HP"
+  },
+  "SkillDesc_Skill_PECS_Hathor_N_2": {
+    "korean": "신성한 징벌이 도래했음을 알리며 지정 범위에 {0} 보호 무시 피해를 입힙니다.&n치명타 시, 대상의 모든 광역 피해 분산 효과를 해제하고 2라운드 동안 대상이 받는 피해를 증가시킵니다.&n적중 시 스쿼드 내에 <사멸의 세크메트>가 있을 경우, 해당 라운드 동안 대상의 사거리를 감소시키고 [순환하는 생명의 굴레] 협동 공격을 유도합니다.",
+    "english": "Announce divine punishment, dealing {0} Ignore Protection damage to the designated area. On CRIT, removes all Area DMG Dispersion effects from the target and increases the target's DMG Taken for 2 rounds. On hit, if a squad member has <Sekhmet of Annihilation>, reduces the target's Range for that round and triggers the [Circular Cycle of Life] Cooperative Attack."
+  },
+  "SkillDescSimple_Skill_PECS_Hathor_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 치명타 시, 광역 피해 분산 해제 / 받는 피해 증가.",
+    "english": "Designated area {0} Ignore Protection damage. On CRIT, removes Area DMG Dispersion / Increases DMG Taken."
+  },
+  "SkillDesc_Skill_PECS_Hathor_N_3": {
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가합니다.&n대기 시, 동력원 교체를 통해 신체를 강화하여 전투 종료 시까지 자신은 다음 효과를 획득합니다.&n- 공격 적중 시, 받는 피해 감소 효과를 해제하고 피해량이 증가하지만 부하가 발생하여 자신 공격력에 비례한 물리 피해를 입습니다.&n- 자신에게 <숲의 노래> 효과 적용 시, 모든 효과가 두 배로 증폭됩니다.",
+    "english": "At the start of the round, increase your Status Resist. While on standby, replace your power source to strengthen your body, granting the following effects until the end of battle: - When your attack hits, remove DMG Reduction effects and increase damage dealt, but cause overload, dealing physical damage equal to a proportion of your ATK. - When you have the <Song of the Forest> effect, all effects are doubled."
+  },
+  "SkillDescSimple_Skill_PECS_Hathor_N_3": {
+    "korean": "자신 효과 저항 증가. 대기 시, 동력원 교체. 액티브 스킬 강화.",
+    "english": "Self Status Resist increased / On standby, replace power source / Active skill enhanced"
+  },
+  "SkillDesc_Skill_PECS_Hathor_N_4": {
+    "korean": "전투 개시 시, 자신은 전투 속행 효과를 획득합니다.&n적 처치 시, 상기 효과를 추가로 획득합니다. (최대 1중첩)&n피격 시, 3라운드 동안 자신의 공격력이 증가합니다.",
+    "english": "At battle start, gain the Battle Continuation effect. When you defeat an enemy, gain the above effect again (max 1 stack). When hit, increase your ATK for 3 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Hathor_N_4": {
+    "korean": "자신 전투 속행 획득. 피격 시, 자신 공격력 증가.",
+    "english": "Gain Battle Continuation / When hit, increase own ATK"
+  },
+  "SkillDesc_Skill_PECS_Hathor_N_5": {
+    "korean": "라운드 개시 시, <모성> 효과가 적용중인 아군에게 방어막 / 피해 감소 무시 효과를 부여하고 사거리를 증가시킵니다.&n전투 개시 시, 스쿼드 내 <엘븐형 바이오로이드> 수에 따라 자신의 AP가 증가합니다.&n자신 사망 시, 2라운드 동안 아군 전체의 행동력을 증가시킵니다.",
+    "english": "At round start, grant allies with the <Maternity> effect a Shield / Ignore Damage Reduction and increase their Range. At battle start, increase your AP based on the number of <Elven-type Bioroid> in the squad. Upon your death, increase all allies' SPD for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Hathor_N_5": {
+    "korean": "<모성> 효과 적용 대상 방어막 / 피해 감소 무시. 자신 AP 증가. 자신 사망 시, 아군 행동력 증가.",
+    "english": "<Maternity> targets Shield / Ignore Damage Reduction. Increase own AP. On death, allies' SPD increased."
+  },
+  "BuffDesc2_Effect_PECS_Hathor_N_1": {
+    "korean": "자신 HP 반비례 피해량 {0}% (최대)",
+    "english": "HP-proportional Damage : {0}% (Max)"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_11": {
+    "korean": "휘어진 쇠뿔 : 자신 HP 반비례 피해량 {0}% (최대)",
+    "english": "Twisted Horn : Self HP-proportional Damage {0}% (Max)"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_34": {
+    "korean": "신체 과부하 : 자신 공격력 {0}% 물리 피해",
+    "english": "Body Overload : Self ATK {0}% Physical Damage"
+  },
+  "BuffDesc4_Effect_PECS_Hathor_N_2": {
+    "korean": "[순환하는 생명의 굴레] 협동 공격",
+    "english": "[Circular Cycle of Life] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_23": {
+    "korean": "신성한 징벌 : [순환하는 생명의 굴레] 협동 공격",
+    "english": "Divine Punishment : [Circular Cycle of Life] Cooperative Attack"
+  },
+  "BuffDesc2_Effect_PECS_Hathor_N_3": {
+    "korean": "동력원 교체 (대기 시)",
+    "english": "Power Source Replacement (On Standby)"
+  },
+  "BuffDesc5_Effect_PECS_Hathor_N_3": {
+    "korean": "신체 과부하 : 자신 공격력 {0}% 물리 피해",
+    "english": "Body Overload : Deals {0}% of your ATK as physical damage"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_31": {
+    "korean": "동력원 교체",
+    "english": "Power Source Replacement"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_1": {
+    "korean": "휘어진 쇠뿔 : 방어력 {0}%",
+    "english": "Curved Bullhorn : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_32": {
+    "korean": "신체 과부하 : 받는 피해 감소 해제",
+    "english": "Body Overload : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_33": {
+    "korean": "신체 과부하 : 피해량 {0}%",
+    "english": "Body Overload : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_2": {
+    "korean": "찬란한 태양의 강림 : 받는 피해 {0}% 증가",
+    "english": "Ascension of Brilliant Sun : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Hathor_N_2": {
+    "korean": "찬란한 태양의 강림 : 광역 피해 분산 해제",
+    "english": "Ascension of Brilliant Sun : Area DMG Dispersion Removal"
+  },
+  "BuffDesc3_Effect_PECS_Hathor_N_2": {
+    "korean": "신성한 징벌 : 사거리 {0}",
+    "english": "Divine Punishment : Range {0}"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_21": {
+    "korean": "찬란한 태양의 강림 : 광역 피해 분산 해제",
+    "english": "Ascension of Brilliant Sun : Area DMG Dispersion Removal"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_22": {
+    "korean": "신성한 징벌 : 사거리 {0}",
+    "english": "Divine Punishment : Range {0}"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_3": {
+    "korean": "강화외골격 YOROI : 효과 저항 {0}% 증가",
+    "english": "Reinforced Exoskeleton YOROI : Status Resist {0}% Increase"
+  },
+  "BuffDesc3_Effect_PECS_Hathor_N_3": {
+    "korean": "신체 과부하 : 받는 피해 감소 해제",
+    "english": "Body Overload : DMG Reduction Removal"
+  },
+  "BuffDesc4_Effect_PECS_Hathor_N_3": {
+    "korean": "신체 과부하 : 피해량 {0}%",
+    "english": "Body Overload : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_4": {
+    "korean": "짊어진 자의 숙명 : {0}% HP로 전투 속행",
+    "english": "Bearer’s Fate : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc2_Effect_PECS_Hathor_N_4": {
+    "korean": "순환하는 생명의 멍에 : 공격력 {0}",
+    "english": "Yoke of Circulating Life : ATK {0}"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_42": {
+    "korean": "순환하는 생명의 멍에 : 공격력 {0}",
+    "english": "Yoke of Circulating Life : ATK {0}"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_5": {
+    "korean": "천우서 : 방어막 / 피해 감소 무시",
+    "english": "Book of the Heavenly Cow : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc2_Effect_PECS_Hathor_N_5": {
+    "korean": "천우서 : 사거리 {0}",
+    "english": "Book of the Heavenly Cow : Range {0}"
+  },
+  "BuffDesc3_Effect_PECS_Hathor_N_5": {
+    "korean": "천우서 : AP {0} (1기당)",
+    "english": "Book of the Heavenly Cow : AP {0} (per unit)"
+  },
+  "BuffDesc4_Effect_PECS_Hathor_N_5": {
+    "korean": "핏빛 맥주 : 행동력 {0}%",
+    "english": "Bloody Beer : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_51": {
+    "korean": "천우서 : AP {0}",
+    "english": "Book of the Heavenly Cow : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Hathor_N_56": {
+    "korean": "핏빛 맥주 : 행동력 {0}%",
+    "english": "Bloody Beer : SPD {0}%"
+  }
+}

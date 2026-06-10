@@ -1,0 +1,82 @@
+{
+  "SkillName_Skill_MP_AMG11AA_Challenge1_1": {
+    "korean": "기총 공격 개시",
+    "english": "Machine Gun Attack"
+  },
+  "SkillName_Skill_MP_AMG11AA_Challenge1_2": {
+    "korean": "대공 기총 발포",
+    "english": "Anti-aircraft Machine Gun Fire"
+  },
+  "SkillName_Skill_MP_AMG11AA_Challenge1_3": {
+    "korean": "절친한 친구",
+    "english": "Close Friend"
+  },
+  "SkillName_Skill_MP_AMG11AA_Challenge1_4": {
+    "korean": "우정의 이해",
+    "english": "Friendship Insight"
+  },
+  "SkillName_Skill_MP_AMG11AA_Challenge1_5": {
+    "korean": "오토 트래킹 시스템",
+    "english": "Auto Tracking System"
+  },
+  "SkillDesc_Skill_MP_AMG11AA_Challenge1_1": {
+    "korean": "기총 사격으로 단일 대상에게 {0} 피해를 줍니다.&n적중 대상이 표식 상태인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to a single target with machine gun fire. If the target is Marked, the damage increases."
+  },
+  "SkillDesc_Skill_MP_AMG11AA_Challenge1_2": {
+    "korean": "기총을 난사해 지정 범위에 {0} 보호 무시 피해를 줍니다.&n치명타 시, 대상의 강화 효과를 해제합니다.",
+    "english": "Fires a barrage of machine gun fire, dealing {0} Ignore Protection damage to a designated area. On CRIT, removes the target's buffs."
+  },
+  "SkillDesc_Skill_MP_AMG11AA_Challenge1_3": {
+    "korean": "라운드 개시 시, 범위 내 아군의 적중 / 치명타가 증가합니다.&n라운드 개시 시, 범위 내 아군 바이오로이드의 공격을 지원합니다.",
+    "english": "At the start of a round, allies within range gain increased ACC / CRIT. At the start of a round, provides Follow-Up Attack for allied Bioroids within range."
+  },
+  "SkillDesc_Skill_MP_AMG11AA_Challenge1_4": {
+    "korean": "<슈퍼 울트라 네리> 사망 시, 폭주하여 3라운드 동안 자신의 치명타 / 행동력 / 방어 관통이 증가합니다.&n상기 효과는 효과 해제로 해제되지 않으며, 유지되는 동안 [대공 기총 발포]를 사용합니다.",
+    "english": "When <Super Ultra Neri> dies, she goes berserk, increasing her CRIT / SPD / DEF Penetration for 3 rounds. This effect cannot be removed by effect removal, and while active she uses [Anti-aircraft Machine Gun Fire]."
+  },
+  "SkillDesc_Skill_MP_AMG11AA_Challenge1_5": {
+    "korean": "라운드 개시 시, 모든 적에게 표식을 부여합니다.&n라운드 개시 시, 모든 아군에게 적용된 도발 효과를 해제합니다.&n공격 지원 시, 아군 바이오로이드의 AP가 증가합니다.",
+    "english": "At the start of the round, apply Marked to all enemies. At the start of the round, remove Provoked effects from all allies. When providing Follow-Up Attack, increase the AP of allied Bioroids."
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_56": {
+    "korean": "미안해, 윌슨!",
+    "english": "I'm Sorry, Wilson! :"
+  },
+  "BuffDesc1_Effect_MP_AMG11AA_Challenge1_1": {
+    "korean": "기총 공격 개시 : 피해량 {0}%",
+    "english": "Open machine gun fire : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_AMG11AA_Challenge1_2": {
+    "korean": "대공 기총 발포 : 강화 효과 해제",
+    "english": "Anti-aircraft machine gun fire : Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_AMG11AA_Challenge1_3": {
+    "korean": "절친한 친구 : 적중 {0}%",
+    "english": "Confidant : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_AMG11AA_Challenge1_3": {
+    "korean": "절친한 친구 : 치명타 {0}%",
+    "english": "Confidant : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_AMG11AA_Challenge1_31": {
+    "korean": "절친한 친구 : 공격 지원",
+    "english": "Confidant : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_MP_AMG11AA_Challenge1_5": {
+    "korean": "오토 트래킹 시스템 : 표식",
+    "english": "Auto tracking system : Marked"
+  },
+  "BuffDesc1_Effect_MP_AMG11AA_Challenge1_51": {
+    "korean": "오토 트래킹 시스템 : 도발 해제",
+    "english": "Auto tracking system : Provokes Removal"
+  },
+  "BuffDesc1_Effect_MP_AMG11AA_Challenge1_52": {
+    "korean": "오토 트래킹 시스템 : AP {0}",
+    "english": "Auto tracking system : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_GigantesDagon_Challenge1_5": {
+    "korean": "샐비지 : AP {0}",
+    "english": "Salvage : AP {0}"
+  }
+}

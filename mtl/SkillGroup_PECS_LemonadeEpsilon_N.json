@@ -1,0 +1,202 @@
+{
+  "SkillName_Skill_PECS_LemonadeEpsilon_N_1": {
+    "korean": "벨페고르: 인셉션",
+    "english": "Belphegor: Inception"
+  },
+  "SkillName_Skill_PECS_LemonadeEpsilon_N_2": {
+    "korean": "벨페고르: 라이카 최대 출력",
+    "english": "Belphegor: Lyca Maximum Output"
+  },
+  "SkillName_Skill_PECS_LemonadeEpsilon_N_3": {
+    "korean": "피그리티아: 레비스",
+    "english": "Pigratia: Levis"
+  },
+  "SkillName_Skill_PECS_LemonadeEpsilon_N_4": {
+    "korean": "피그리티아: 펜나",
+    "english": "Pigratia: Penna"
+  },
+  "SkillName_Skill_PECS_LemonadeEpsilon_N_5": {
+    "korean": "피그리티아: 그라비스",
+    "english": "Pigratia: Gravis"
+  },
+  "SkillDesc_Skill_PECS_LemonadeEpsilon_N_1": {
+    "korean": "대상에게 {0} 보호 무시 피해를 줍니다. 치명타 시, 대상에게 강화 효과를 해제합니다.",
+    "english": "Deals {0} Ignore Protection Damage to the target. On CRIT, removes buffs from the target."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeEpsilon_N_1": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 치명타 시, 강화 해제",
+    "english": "Single target {0} Ignore Protection Damage. On CRIT, removes buffs."
+  },
+  "SkillDesc_Skill_PECS_LemonadeEpsilon_N_2": {
+    "korean": "목표 지점에 {0} 피해를 줍니다., 적중한 적의 AP를 감소시키고 스쿼드 내 자신외의 <오비탈 와쳐>소속 전투원 혹은 <레모네이드 감마>, <레모네이드 베타>, <레모네이드 알파>가 있다면 전투원 수에 비례하여 받는 피해 증가를 줍니다.",
+    "english": "Deals {0} DMG to the target point, reduces the AP of hit enemies, and if there are other <Orbital Watcher> members in the squad or <Lemonade Gamma>, <Lemonade Beta>, <Lemonade Alpha>, applies DMG Taken Increased proportional to the number of such units."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeEpsilon_N_2": {
+    "korean": "목표 지점에 {0} 피해, 적중한 적의 AP 감소, 스쿼드 구성원에 따라  받는 피해 증가 디버프.",
+    "english": "{0} DMG to target point, AP reduction on hit enemies, DMG Taken Increased debuff based on squad composition."
+  },
+  "SkillDesc_Skill_PECS_LemonadeEpsilon_N_3": {
+    "korean": "라운드 개시시 2라운드 동안 모든 아군의 적중을 증가시킵니다. &n아군의 타입에 따라 아래 효과를 부여하고 오비탈 와쳐(자신 제외)라면 일부 효과가 증가합니다. &n공격기 : 공격력 증가 (오비탈 와쳐 효과 2배)&n보호기 : 받는 피해 감소 획득 (오비탈 와쳐 효과 2배) , 1라운드 동안 100%위력 반격 (수치 고정)&n[벨페고르: 인셉션] 사용시 1라운드 동안 피해 무효화 1회 (최대 1중첩, 수치 고정)&n지원기 : 행동력 증가 (오비탈 와쳐 효과 2배)&n모두 일반 효과입니다.",
+    "english": "At round start, for 2 rounds all allies gain increased ACC. Effects vary by ally type; Orbital Watcher allies (excluding self) receive doubled effects. Attacker: ATK increased (Orbital Watcher effect 2×). Defender: DMG Reduction gained (Orbital Watcher effect 2×), 100% Counter Attack for 1 round (fixed value). When [Belphegor: Inception] is used: Damage Nullification once for 1 round (max 1 stack, fixed value). Supporter: SPD increased (Orbital Watcher effect 2×). All are Normal Effect."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeEpsilon_N_3": {
+    "korean": "라운드 개시시 2라운드 동안 모든 아군 적중 증가, 타입에 따른 효과 얻음 (자신 제외 오비탈 와쳐에게 추가 효과)",
+    "english": "At round start, all allies gain increased ACC for 2 rounds and receive type‑specific effects (additional effects for Orbital Watchers excluding self)."
+  },
+  "SkillDesc_Skill_PECS_LemonadeEpsilon_N_4": {
+    "korean": "라운드 개시시 2라운드 동안 모든 적의 방어력, 전기 저항, 화염 저항, 냉기 저항을 감소시킵니다.  &n추가로 아래의 효과를 줍니다.&n[벨페고르: 인셉션] 사용: 2라운드 동안 모든 적 효과 저항 감소&n[벨페고르: 라이카 최대 출력] 사용: 2라운드 동안  모든 적 방어력, 전기 저항, 화염 저항, 냉기 저항 추가 감소&n모두 일반 효과 입니다.",
+    "english": "At round start, for 2 rounds all enemies have DEF, Electric Resist, Fire Resist, and Cold Resist reduced. Additionally: Using [Belphegor: Inception] grants all enemies Effect Resist reduction for 2 rounds. Using [Belphegor: Lyca Maximum Output] grants further DEF, Electric Resist, Fire Resist, and Cold Resist reduction for 2 rounds. All are Normal Effect."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeEpsilon_N_4": {
+    "korean": "라운드 개시시 2라운드 동안 모든 적의 방어력 및 전기/ 화염/ 냉기저항 감소, 사용 엑티브 스킬에 따라 추가 효과",
+    "english": "At round start, all enemies have DEF and Electric/Fire/Cold Resist reduced for 2 rounds, with additional effects depending on the active skill used."
+  },
+  "SkillDesc_Skill_PECS_LemonadeEpsilon_N_5": {
+    "korean": "라운드 개시시 2라운드 동안  모든 적의 적중과 공격력을 감소시킵니다. 추가로 아래 효과를 가집니다.&n[벨페고르: 인셉션] 사용 시: 2라운드 동안 모든 적 적중 추가 감소 &n[벨페고르: 라이카 최대 출력] 사용 시: 2라운드 동안 모든 적 행동력 감소&n모두 일반 효과 입니다.",
+    "english": "At round start, for 2 rounds all enemies have ACC and ATK reduced. Additional effects: When [Belphegor: Inception] is used, ACC is further reduced for 2 rounds. When [Belphegor: Lyca Maximum Output] is used, SPD is reduced for 2 rounds. All are Normal Effect."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeEpsilon_N_5": {
+    "korean": "라운드 개시시 2라운드 동안 모든 적 명중 공격력 감소, 사용 엑티브 스킬에 따라 추가 효과",
+    "english": "At round start, all enemies have ACC and ATK reduced for 2 rounds, with additional effects depending on the active skill used."
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_1": {
+    "korean": "인셉션 : 치명타 시 강화 효과 해제",
+    "english": "Inception : Buff Removal on CRIT"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeEpsilon_N_2": {
+    "korean": "최대 출력 : 조건에 맞는 전투원 당 받는 피해 증가 {0}%",
+    "english": "Maximum Output: DMG Taken Increased {0}% per qualifying ally"
+  },
+  "BuffDesc3_Effect_PECS_LemonadeEpsilon_N_3": {
+    "korean": "레비스: 100% 위력으로 반격/받는 피해 감소 {0}% (보호기)",
+    "english": "Levis: Counter Attack with 100% Power / DMG Taken Reduced {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_2": {
+    "korean": "최대 출력 : AP {0}",
+    "english": "Maximum Output : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_21": {
+    "korean": "최대 출력 : 받는 피해 증가 {0}% (전투원 1)",
+    "english": "Maximum Output : DMG Taken Increased {0}% (Unit 1)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_22": {
+    "korean": "최대 출력 : 받는 피해 증가 {0}% (전투원 2)",
+    "english": "Maximum Output : DMG Taken Increased {0}% (Unit 2)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_23": {
+    "korean": "최대 출력 : 받는 피해 증가 {0}% (전투원 3)",
+    "english": "Maximum Output : DMG Taken Increased {0}% (Unit 3)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_24": {
+    "korean": "최대 출력 : 받는 피해 증가 {0}% (전투원 4)",
+    "english": "Maximum Output : DMG Taken Increased {0}% (Unit 4)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_3": {
+    "korean": "레비스: 적중 {0}%",
+    "english": "Levis : ACC {0}%"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeEpsilon_N_3": {
+    "korean": "레비스: 공격력 {0}% (공격기)",
+    "english": "Levis : ATK {0}% (Attacker)"
+  },
+  "BuffDesc4_Effect_PECS_LemonadeEpsilon_N_3": {
+    "korean": "레비스: 행동력 {0}% (지원기)",
+    "english": "Levis : SPD {0}% (Supporter)"
+  },
+  "BuffDesc5_Effect_PECS_LemonadeEpsilon_N_3": {
+    "korean": "대신 해줘 : 피해 무효화 {0}회 (인셉션)",
+    "english": "Do It for Me : Damage Nullification {0}x (Inception)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_31": {
+    "korean": "레비스(공격기): 공격력 {0}%",
+    "english": "Levis (Attacker) : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_32": {
+    "korean": "레비스(공격기): 공격력 {0}% (오비탈 와쳐)",
+    "english": "Levis (Attacker) : ATK {0}% (Orbital Watcher)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_33": {
+    "korean": "레비스(보호기): 받는 피해 감소 {0}%",
+    "english": "Levis (Defender) : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_34": {
+    "korean": "레비스(보호기): 받는 피해 감소 {0}% (오비탈 와쳐)",
+    "english": "Levis (Defender) : DMG Reduction {0}% (Orbital Watcher)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_35": {
+    "korean": "레비스 : {0}% 위력으로 반격",
+    "english": "Levis : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_36": {
+    "korean": "레비스(지원기): 행동력 {0}%",
+    "english": "Levis (Supporter) : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_37": {
+    "korean": "레비스(지원기): 행동력 {0}% (오비탈 와쳐)",
+    "english": "Levis (Supporter) : SPD {0}% (Orbital Watcher)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_38": {
+    "korean": "대신 해줘 : 피해 무효화 {0}회",
+    "english": "Do It for Me : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_4": {
+    "korean": "펜나: 방어력 {0}%",
+    "english": "Penna : DEF {0}%"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeEpsilon_N_4": {
+    "korean": "펜나: 전기 저항 {0}%",
+    "english": "Penna : Electric Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_LemonadeEpsilon_N_4": {
+    "korean": "펜나: 화염 저항 {0}%",
+    "english": "Penna : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_LemonadeEpsilon_N_4": {
+    "korean": "펜나: 냉기 저항 {0}%",
+    "english": "Penna : Cold Resist {0}%"
+  },
+  "BuffDesc5_Effect_PECS_LemonadeEpsilon_N_4": {
+    "korean": "펜나: 효과 저항 {0}% 감소 (인셉션)",
+    "english": "Penna : Status Resist {0}% Decrease (Inception)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_41": {
+    "korean": "펜나 : 효과 저항 {0}% 감소 (인셉션)",
+    "english": "Penna : Status Resist {0}% Decrease (Inception)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_42": {
+    "korean": "펜나: 방어력 {0}% (최대 출력)",
+    "english": "Penna : DEF {0}% (max output)"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeEpsilon_N_42": {
+    "korean": "펜나: 전기 저항 {0}% (최대 출력)",
+    "english": "Penna : Electric Resist {0}% (max output)"
+  },
+  "BuffDesc3_Effect_PECS_LemonadeEpsilon_N_42": {
+    "korean": "펜나: 화염 저항 {0}% (최대 출력)",
+    "english": "Penna : Fire Resist {0}% (max output)"
+  },
+  "BuffDesc4_Effect_PECS_LemonadeEpsilon_N_42": {
+    "korean": "펜나: 냉기 저항 {0}% (최대 출력)",
+    "english": "Penna : Cold Resist {0}% (max output)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_5": {
+    "korean": "그라비스: 적중 {0}%",
+    "english": "Gravis : ACC {0}%"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeEpsilon_N_5": {
+    "korean": "그라비스: 공격력 {0}%",
+    "english": "Gravis : ATK {0}%"
+  },
+  "BuffDesc3_Effect_PECS_LemonadeEpsilon_N_5": {
+    "korean": "그라비스: 행동력 {0}% (최대출력)",
+    "english": "Gravis : SPD {0}% (max output)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_51": {
+    "korean": "그라비스: 적중 {0}% (인셉션)",
+    "english": "Gravis : ACC {0}% (Inception)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeEpsilon_N_52": {
+    "korean": "그라비스: 행동력 {0}% (최대 출력)",
+    "english": "Gravis : SPD {0}% (max output)"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "SkillName_Skill_PECS_Shepherd_N_1": {
+    "korean": "굿데이 투 다이",
+    "english": "Good Day to Die"
+  },
+  "SkillName_Skill_PECS_Shepherd_N_2": {
+    "korean": "EMP SHOT!",
+    "english": "EMP SHOT!"
+  },
+  "SkillName_Skill_PECS_Shepherd_N_3": {
+    "korean": "시티가드의 리더",
+    "english": "Leader of the City Guard"
+  },
+  "SkillName_Skill_PECS_Shepherd_N_4": {
+    "korean": "클러치 히터",
+    "english": "Clutch Heater"
+  },
+  "SkillName_Skill_PECS_Shepherd_N_5": {
+    "korean": "카라카스의 파수견",
+    "english": "The Watchdog of Caracas"
+  },
+  "SkillDesc_Skill_PECS_Shepherd_N_1": {
+    "korean": "단일 대상에게 {0} 보호 무시 전기 피해를 줍니다.&n스킬 적중에 따른 치명타 발생 시 대상의 강화 효과를 해제합니다.&n스킬 적중 시 징벌의 사디어스가 테이져 캐논으로 공격 지원합니다.",
+    "english": "Deals {0} Ignore Protection Electric damage to a single target.\\nIf a CRIT occurs from a skill hit, removes the target's buffs.\\nWhen the skill hits, Punishment Sadirus provides attack support with Taser Cannon."
+  },
+  "SkillDescSimple_Skill_PECS_Shepherd_N_1": {
+    "korean": "단일 대상 {0} 보호 무시 전기 피해. 치명타 시 강화 효과 해제. 징벌의 사디어스 협동 공격",
+    "english": "Single target {0} Ignore Protection Electric damage. Removes buffs on CRIT. Punishment Sadirus Cooperative Attack"
+  },
+  "SkillDesc_Skill_PECS_Shepherd_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 전기 피해를 줍니다.&n스킬 적중에 따른 치명타 발생 시 대상의 전기 속성 저항 하한 및 반전 효과를 해제합니다.&n스킬 적중 시 유린의 소니아가 HEDP로 공격 지원합니다.",
+    "english": "Deals {0} Ignore Protection Electric damage to the designated area.\\nIf a CRIT occurs from the skill hit, removes the target's Minimum Elemental Resist and reversal effects.\\nWhen the skill hits, Erosion Sonia provides attack support with HEDP."
+  },
+  "SkillDescSimple_Skill_PECS_Shepherd_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 전기 피해. 치명타 시 전기 속성 저항 하한 / 반전 해제. 유린의 소니아 협동 공격",
+    "english": "Designated area {0} Ignore Protection Electric damage / Removes Minimum Elemental Resist and reversal on CRIT / Erosion Sonia Cooperative Attack"
+  },
+  "SkillDesc_Skill_PECS_Shepherd_N_3": {
+    "korean": "공격 적중 시 아군의 AP를 증가시킵니다.&n적 처치 시 아군의 AP를 추가로 증가시킵니다.&n<시티 가드> 소속 전투원은 AP를 추가로 증가시킵니다.",
+    "english": "Increases allies' AP when an attack hits.\\nIncreases allies' AP further when an enemy is defeated.\\nAllies belonging to <City Guard> gain additional AP."
+  },
+  "SkillDescSimple_Skill_PECS_Shepherd_N_3": {
+    "korean": "조건부 아군 AP 증가",
+    "english": "Conditional ally AP increase"
+  },
+  "SkillDesc_Skill_PECS_Shepherd_N_4": {
+    "korean": "공격 적중 시 아군의 공격력을 증가시킵니다.&n적 처치 시 아군의 치명타를 추가로 증가 시킵니다.&n<시티 가드> 소속 전투원은 행동력를 추가로 증가시킵니다.",
+    "english": "Increases allies' ATK when an attack hits.\\nIncreases allies' CRIT further when an enemy is defeated.\\nAllies belonging to <City Guard> gain additional SPD."
+  },
+  "SkillDescSimple_Skill_PECS_Shepherd_N_4": {
+    "korean": "조건부 아군 공격력, 치명타, 행동력 증가",
+    "english": "Conditional ally ATK, CRIT, SPD increase"
+  },
+  "SkillDesc_Skill_PECS_Shepherd_N_5": {
+    "korean": "라운드 개시 시 적대 대상 전체의 전기 저항력을 감소시킵니다.&n라운드 개시 시 스쿼드에 <시티 가드> 소속 전투원이 있을 경우 적대 대상 전체의 전기 저항력을 추가로 감소시킵니다.",
+    "english": "At the start of the round, reduces Electric Resist of all hostile targets.\\nIf a <City Guard> unit is in the squad at round start, further reduces Electric Resist of all hostile targets."
+  },
+  "SkillDescSimple_Skill_PECS_Shepherd_N_5": {
+    "korean": "조건부 적대 대상 전체 전기 저항력 감소",
+    "english": "Conditional all-hostile Electric Resist reduction"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_1": {
+    "korean": "굿데이 투 다이 : 피해량 {0}%(전기)",
+    "english": "Good day to die : Additional DMG {0}% (Electric)"
+  },
+  "BuffDesc2_Effect_PECS_Shepherd_N_1": {
+    "korean": "굿데이 투 다이 : 강화 해제",
+    "english": "Good day to die : Buff Removal"
+  },
+  "BuffDesc3_Effect_PECS_Shepherd_N_1": {
+    "korean": "굿데이 투 다이 : 협동 공격",
+    "english": "Good day to die : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_11": {
+    "korean": "굿데이 투 다이 : 강화 해제",
+    "english": "Good day to die : Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_12": {
+    "korean": "굿데이 투 다이 : 협동 공격",
+    "english": "Good day to die : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_2": {
+    "korean": "EMP SHOT! : 피해량 {0}%(전기)",
+    "english": "EMP SHOT! : Additional DMG {0}% (Electric)"
+  },
+  "BuffDesc2_Effect_PECS_Shepherd_N_2": {
+    "korean": "EMP SHOT! : 전기 저항 하한 해제",
+    "english": "EMP SHOT! : Minimum Electric Resist Removal"
+  },
+  "BuffDesc3_Effect_PECS_Shepherd_N_2": {
+    "korean": "EMP SHOT! : 전기 저항 반전 해제",
+    "english": "EMP SHOT! : Reverse Electric Resist Debuff Removal"
+  },
+  "BuffDesc4_Effect_PECS_Shepherd_N_2": {
+    "korean": "EMP SHOT! : 협동 공격",
+    "english": "EMP SHOT! : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_21": {
+    "korean": "EMP SHOT! : 전기 저항 하한 해제",
+    "english": "EMP SHOT! : Minimum Electric Resist Removal"
+  },
+  "BuffDesc2_Effect_PECS_Shepherd_N_21": {
+    "korean": "EMP SHOT! : 전기 저항 반전 해제",
+    "english": "EMP SHOT! : Reverse Electric Resist Debuff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_22": {
+    "korean": "EMP SHOT! : 협동 공격",
+    "english": "EMP SHOT! : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_3": {
+    "korean": "시티가드의 리더 : AP {0} (적중)",
+    "english": "Leader of the City Guard : AP {0} (ACC)"
+  },
+  "BuffDesc2_Effect_PECS_Shepherd_N_3": {
+    "korean": "시티가드의 리더 : AP {0} (처치)",
+    "english": "Leader of the City Guard : AP {0} (On Kill)"
+  },
+  "BuffDesc3_Effect_PECS_Shepherd_N_3": {
+    "korean": "진압 준비! : AP {0} (적중)",
+    "english": "Suppression Ready! : AP {0} (ACC)"
+  },
+  "BuffDesc4_Effect_PECS_Shepherd_N_3": {
+    "korean": "진압 준비! : AP {0} (처치)",
+    "english": "Suppression Ready! : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_31": {
+    "korean": "시티가드의 리더 : AP {0} (처치)",
+    "english": "Leader of the City Guard : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_32": {
+    "korean": "진압 준비! : AP {0} (적중)",
+    "english": "Suppression Ready! : AP {0} (ACC)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_33": {
+    "korean": "진압 준비! : AP {0} (처치)",
+    "english": "Suppression Ready! : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_4": {
+    "korean": "클러치 히터 : 공격력 {0}% (적중)",
+    "english": "Clutch heater : ATK {0}% (ACC)"
+  },
+  "BuffDesc2_Effect_PECS_Shepherd_N_4": {
+    "korean": "클러치 히터 : 치명타 {0}% (처치)",
+    "english": "Clutch heater : CRIT {0}% (On Kill)"
+  },
+  "BuffDesc3_Effect_PECS_Shepherd_N_4": {
+    "korean": "벤치 클리어링 : 행동력 {0}% (적중)",
+    "english": "Bench Clearing : SPD {0}% (ACC)"
+  },
+  "BuffDesc4_Effect_PECS_Shepherd_N_4": {
+    "korean": "벤치 클리어링 : 행동력 {0}% (처치)",
+    "english": "Bench Clearing : SPD {0}% (On Kill)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_41": {
+    "korean": "클러치 히터 : 치명타 {0}% (처치)",
+    "english": "Clutch heater : CRIT {0}% (On Kill)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_42": {
+    "korean": "벤치 클리어링 : 행동력 {0}% (적중)",
+    "english": "Bench Clearing : SPD {0}% (ACC)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_43": {
+    "korean": "벤치 클리어링 : 행동력 {0}% (처치)",
+    "english": "Bench Clearing : SPD {0}% (On Kill)"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_5": {
+    "korean": "카라카스의 파수견 : 전기 저항 {0}%",
+    "english": "The Watchdog of Caracas : Electric Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Shepherd_N_5": {
+    "korean": "C.G.P.D : 전기 저항 {0}%",
+    "english": "C.G.P.D : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Shepherd_N_51": {
+    "korean": "C.G.P.D : 전기 저항 {0}%",
+    "english": "C.G.P.D : Electric Resist {0}%"
+  }
+}

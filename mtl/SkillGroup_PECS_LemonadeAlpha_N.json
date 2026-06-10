@@ -1,0 +1,190 @@
+{
+  "1002707183": {
+    "korean": "케스토스 히마스: 회로 침식",
+    "english": "Cestus Hymas: Circuit Corrosion"
+  },
+  "1002707184": {
+    "korean": "케스토스 히마스: 출력전개",
+    "english": "Cestus Hymas: Power Deployment"
+  },
+  "1002707135": {
+    "korean": "케스토스 히마스: 경장갑 OS",
+    "english": "Light Armor OS"
+  },
+  "1002707136": {
+    "korean": "케스토스 히마스: 사거리 OS",
+    "english": "Range OS"
+  },
+  "1002707137": {
+    "korean": "케스토스 히마스: 중장갑 OS",
+    "english": "Heavy Armor OS"
+  },
+  "1002707188": {
+    "korean": "대상 HP가 100%일 경우 5라운드 동안 대상의 효과 저항을 감소시킵니다. 대상에게 {0} 보호 무시 피해와 고정 피해를 입히며, 대상은 50% 확률로 추가 피해를 입고, 40% 확률로 2라운드 동안 받는 피해가 증가하고, 30% 확률로 해당 라운드 동안 스킬을 사용할 수 없습니다. 해당 효과 적용 확률은 효과 저항의 영향을 받습니다.",
+    "english": "If the target's HP is 100%, reduces the target's Effect Resist for 5 rounds. Deals {0} Ignore Protection damage and Fixed DMG to the target, and the target has a 50% chance to take Additional DMG, a 40% chance to have DMG Taken increased for 2 rounds, and a 30% chance to be Silenced for that round. The application chance is affected by Effect Resist."
+  },
+  "1002707193": {
+    "korean": "보호무시 고정피해, 효과 저항 감소/추가 피해/받는 피해 증가/스킬 사용 불가",
+    "english": "Ignore Protection Fixed DMG, Effect Resist Reduction / Additional DMG / DMG Taken Increased / Silenced"
+  },
+  "1002707189": {
+    "korean": "지정 범위에 {0} 보호 무시 피해와 고정 피해를 주고 대상을 뒤로 밀어냅니다. 적중 시, 대상에게 걸려있는 모든 보호 효과를 해제하고 2라운드 동안 회피 / 사거리를 감소시킵니다.",
+    "english": "Deals {0} Ignore Protection damage and Fixed DMG to the specified area and pushes the target back. On hit, removes all protection effects from the target and reduces their EVA and Range for 2 rounds."
+  },
+  "1002707194": {
+    "korean": "보호무시 고정피해, 밀치기/모든 보호효과 해제/회피 및 사거리 감소",
+    "english": "Ignore Protection Fixed DMG, Knockback / Remove All Protection Effects / Decrease EVA and Range"
+  },
+  "1002707190": {
+    "korean": "전투 개시 시 스쿼드에 경장형 아군 수가 2 이상일 경우, 경장형 아군의 방어 관통을 증가시키고, 기동 / 중장형 적의 받는 피해를 증가시킵니다. 해당 효과는 해제할 수 없습니다.",
+    "english": "At the start of battle, if the squad has 2 or more Light allies, increases Light allies' DEF Penetration and increases DMG Taken of Air and Heavy enemies. This effect cannot be removed."
+  },
+  "1002707195": {
+    "korean": "경장형 아군 방어관통 증가 / 기동, 중장형 적 받는 피해 증가",
+    "english": "Increase Light Allies' DEF Penetration / Increase DMG Taken of Air and Heavy Enemies"
+  },
+  "1002707191": {
+    "korean": "전투 개시 시 스쿼드에 기동형 아군 수가 2 이상일 경우, 기동형 아군의 사거리 / 적중을 증가시키고, 경장 / 중장형 적의 사거리 / 적중을 감소시킵니다. 해당 효과는 해제할 수 없습니다.",
+    "english": "At the start of battle, if the squad has 2 or more Air allies, increases Air allies' Range and ACC and decreases the Range and ACC of Light and Heavy enemies. This effect cannot be removed."
+  },
+  "1002707196": {
+    "korean": "기동형 아군 사거리, 적중 증가 / 경장, 중장형 적 사거리, 적중 감소",
+    "english": "Increase Air Allies' Range and ACC / Decrease Range and ACC of Light and Heavy Enemies"
+  },
+  "1002707192": {
+    "korean": "전투 개시 시 스쿼드에 중장형 아군 수가 2 이상일 경우, 중장형 아군의 AP / 행동력을 증가시키고, 경장 / 기동형 적의 모든 속성 저항 / 행동력을 감소시킵니다. 해당 효과는 해제할 수 없습니다.",
+    "english": "At the start of battle, if the squad has 2 or more Heavy allies, increases Heavy allies' AP and SPD and decreases all Attribute Resist and SPD of Light and Air enemies. This effect cannot be removed."
+  },
+  "1002707197": {
+    "korean": "중장형 아군 AP, 행동력 증가 / 경장, 기동형 적 모든 속성 저항, 행동력 감소",
+    "english": "Increase Heavy Allies' AP and SPD / Decrease All Attribute Resist and SPD of Light and Air Enemies"
+  },
+  "1000108999": {
+    "korean": "회로 침식 : {0}% 물리 피해",
+    "english": "Circuit Corrosion : {0}% Physical Damage"
+  },
+  "1000109000": {
+    "korean": "회로 침식 : {0}% 추가 물리 피해",
+    "english": "Circuit Corrosion : {0}% Additional Physical Damage"
+  },
+  "1000109004": {
+    "korean": "출력전개 : {0}% 물리 피해",
+    "english": "Power Deployment : {0}% Physical Damage"
+  },
+  "1000109001": {
+    "korean": "회로 침식 : 받는 피해{0}%",
+    "english": "Circuit Corrosion : DMG Taken {0}%"
+  },
+  "1000109002": {
+    "korean": "회로 침식 : 스킬 사용 불가",
+    "english": "Circuit Erosion : Silenced"
+  },
+  "1000109003": {
+    "korean": "회로 침식 : 효과 저항 감소 {0}%",
+    "english": "Circuit Erosion : Status Resist {0}% Decrease"
+  },
+  "1000109005": {
+    "korean": "출력전개 : 뒤로 {0}칸 밀기",
+    "english": "Power Deployment : Push Back {0}"
+  },
+  "1000109013": {
+    "korean": "출력전개 : 보호 효과 해제",
+    "english": "Power Deployment : Target Protect Removal"
+  },
+  "1000109009": {
+    "korean": "출력전개 : 회피{0}%",
+    "english": "Output Deployment : EVA {0}%"
+  },
+  "1000109010": {
+    "korean": "출력전개 : 사거리 {0}",
+    "english": "Output expansion : Range {0}"
+  },
+  "1000109006": {
+    "korean": "출력전개 : 행 보호 해제",
+    "english": "Output Deployment : Row Protect Removal"
+  },
+  "1000109007": {
+    "korean": "출력전개 : 열 보호 해제",
+    "english": "Output Deployment : Column Protect Removal"
+  },
+  "1000109008": {
+    "korean": "출력전개 : 지정 보호 해제",
+    "english": "Output Deployment : Target Protect Removal"
+  },
+  "1000108986": {
+    "korean": "경장갑 OS : 방어 관통{0}%",
+    "english": "Light Armor OS : DEF Penetration {0}%"
+  },
+  "1000108987": {
+    "korean": "경장갑 OS : 받는 피해{0}%",
+    "english": "Light Armor OS : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeAlpha_N_4": {
+    "korean": "사거리 OS : 사거리 {0} (아군)",
+    "english": "Range OS : Range {0} (Ally)"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeAlpha_N_4": {
+    "korean": "사거리 OS : 사거리 {0} (적군)",
+    "english": "Range OS : Range {0} (Enemy)"
+  },
+  "BuffDesc3_Effect_PECS_LemonadeAlpha_N_4": {
+    "korean": "사거리 OS : 적중 {0}% (아군)",
+    "english": "Range OS : ACC {0}% (Ally)"
+  },
+  "BuffDesc4_Effect_PECS_LemonadeAlpha_N_4": {
+    "korean": "사거리 OS : 적중 {0}% (적군)",
+    "english": "Range OS : ACC {0}% (Enemy)"
+  },
+  "1000108989": {
+    "korean": "사거리 OS : 사거리{0}",
+    "english": "Range OS : Range {0}"
+  },
+  "1000108990": {
+    "korean": "사거리 OS : 적중{0}%",
+    "english": "Range OS : ACC {0}%"
+  },
+  "1000108991": {
+    "korean": "사거리 OS : 사거리{0}",
+    "english": "Range OS : Range {0}"
+  },
+  "1000108992": {
+    "korean": "사거리 OS : 적중{0}%",
+    "english": "Range OS : ACC {0}%"
+  },
+  "1000108993": {
+    "korean": "중장갑 OS : AP{0}",
+    "english": "Heavy Armor OS : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeAlpha_N_5": {
+    "korean": "중장갑 OS : 행동력 {0}% (아군)",
+    "english": "Heavy Armor OS : SPD {0}% (Ally)"
+  },
+  "BuffDesc3_Effect_PECS_LemonadeAlpha_N_5": {
+    "korean": "중장갑 OS : 행동력 {0}% (적군)",
+    "english": "Heavy Armor OS : SPD {0}% (Enemy)"
+  },
+  "BuffDesc4_Effect_PECS_LemonadeAlpha_N_5": {
+    "korean": "중장갑 OS : 모든 속성 저항 {0}%",
+    "english": "Heavy Armor OS : Elemental Resist {0}%"
+  },
+  "1000108994": {
+    "korean": "중장갑 OS : 행동력{0}%",
+    "english": "Heavy Armor OS : SPD {0}%"
+  },
+  "1000108995": {
+    "korean": "중장갑 OS : 화염 저항{0}%",
+    "english": "Heavy Armor OS : Fire Resist {0}%"
+  },
+  "1000108996": {
+    "korean": "중장갑 OS : 냉기 저항{0}%",
+    "english": "Heavy Armor OS : Cold Resist {0}%"
+  },
+  "1000108997": {
+    "korean": "중장갑 OS : 전기 저항{0}%",
+    "english": "Heavy Armor OS : Electric Resist {0}%"
+  },
+  "1000108998": {
+    "korean": "중장갑 OS : 행동력{0}%",
+    "english": "Heavy Armor OS : SPD {0}%"
+  }
+}
