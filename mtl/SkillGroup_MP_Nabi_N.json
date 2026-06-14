@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_Nabi_N_1": {
+    "korean": "라스트 스트라이크(이벤트)",
+    "english": "Last Strike (Event)"
+  },
+  "SkillName_Skill_MP_Nabi_N_2": {
+    "korean": "택티컬 에어스트라이크(이벤트)",
+    "english": "Tactical Airstrike (Event)"
+  },
+  "SkillName_Skill_MP_Nabi_N_3": {
+    "korean": "확장 탄창(이벤트)",
+    "english": "Extended Magazine (Event)"
+  },
+  "SkillName_Skill_MP_Nabi_N_4": {
+    "korean": "개량된 노리쇠(이벤트)",
+    "english": "Improved Bolt (Event)"
+  },
+  "SkillName_Skill_MP_Nabi_N_5": {
+    "korean": "충심의 조준경(이벤트)",
+    "english": "Loyalty's Scope (Event)"
+  },
+  "SkillDesc_Skill_MP_Nabi_N_1": {
+    "korean": "소울에너지 탄을 장전 한 뒤 전방에 발사하여 지정 범위에 {0} 보호 무시 냉기 피해를 발생시킵니다.&n스킬 적중 시 2라운드 동안 자신에게 대 중장 공격력을 증가시키고 대상을 [침수] 상태로 만듭니다.&n치명타 시 냉기 피해량이 증가하고 2라운드 동안 대상의 효과 저항이 감소합니다.",
+    "english": "Load a Soul Energy bullet and fire it forward to deal {0} Ignore Protection Cold DMG to the designated area. When the skill hits, increase your Anti-Heavy DMG for 2 rounds and apply the Soaked status to the target. On CRIT, Cold DMG is increased and the target's Status Resist is reduced for 2 rounds."
+  },
+  "SkillDescSimple_Skill_MP_Nabi_N_1": {
+    "korean": "지정 범위 보호 무시 {0} 냉기 피해. 2라운드 대 중장 공격력 증가. 대상에게 침수 부여. 치명타 시 냉기 피해량 증가 / 2라운드 효과 저항 감소.",
+    "english": "Designated area Ignore Protection {0} Cold DMG. 2‑round Anti‑Heavy DMG increase. Apply Soaked to target. On CRIT Cold DMG increase / 2‑round Status Resist reduction."
+  },
+  "SkillDesc_Skill_MP_Nabi_N_2": {
+    "korean": "무전으로 공중 폭격 후 중화기로 지정 범위에 {0} 냉기 피해를 발생시킵니다.&n스킬 적중 시 대상의 행 보호 / 열 보호 효과를 해제하고 2라운드 동안 지속 냉기 피해를 발생시킵니다.&n치명타 시 2라운드 동안 대상의 행동력을 감소시킵니다.&n스쿼드에 <치이 아루엘>, <다나 오피니>, <에프넬>가 있는 경우 100%로 [포식자가 부르는 종말], [래쉬 임페일], [슈퍼 노바] 스킬로 협동 공격을 유도합니다.&n협동 공격이 가능한 전투원이 여렷인 경우 위 표기된 순으로 우선권을 가집니다. (치이 아루엘 > 에프넬 순)&n다수의 적이 대상인 경우 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다.",
+    "english": "After an aerial bombardment via radio, deal {0} Cold DMG to a designated area with a heavy weapon. Upon hitting, remove the target's Row Protect / Column Protect effects and apply Cold DoT DMG for 2 rounds. On CRIT, reduce the target's SPD for 2 rounds. If <Chii Aruel>, <Dhana Opini>, and <Ephnel> are in the squad, trigger a cooperative attack with [Predator's Apocalypse], [Lash Impale], and [Super Nova] skills at 100% chance. Cooperative attack priority follows the order shown (Chii Aruel > Ephnel). When multiple enemies are targeted, prioritize the enemy within range; if range prevents a cooperative attack, the next eligible squad member executes it."
+  },
+  "SkillDescSimple_Skill_MP_Nabi_N_2": {
+    "korean": "지정 범위 {0} 냉기 피해. 열 / 행 보호 해제. 2라운드 냉기 지속 피해 부여. 치명타 시 2라운드 행동력 감소. 조건부 협동 공격.",
+    "english": "Cold DMG {0} within the designated area. Removes Column Protect / Row Protect. Applies Cold DoT DMG for 2 rounds. On CRIT, reduces SPD for 2 rounds. Conditional cooperative attack."
+  },
+  "SkillDesc_Skill_MP_Nabi_N_3": {
+    "korean": "라운드 개시 시 아군 전체의 공격력 및 치명타, 스킬 위력을 증가시킵니다.&n라운드 개시 시 스쿼드에 <스틸라인> 소속 전투원이 있을 경우 스틸라인 전투원은 2배로 효과를 받습니다.&n라운드 개시 시 스쿼드에 <라이언 코퍼레이션> 소속 전투원이 있을 경우 자신을 포함한 라이언 코퍼레이션 전투원은 2배로 효과를 받습니다.&n라운드 개시 시 스쿼드에 <스틸라인> 소속 전투원이 있는 경우 스틸라인 전투원을 공격 지원합니다.&n라운드 개시 시 스쿼드에 <라이언 코퍼레이션> 소속 전투원이 있는 경우 자신을 제외한 라이언 코퍼레이션 전투원을 공격 지원합니다.",
+    "english": "At the start of the round, increase all allies' ATK, CRIT, and Skill Power. If a <Steel Line> combatant is in the squad, Steel Line combatants receive double effect. If a <Lion Corporation> combatant is in the squad, Lion Corporation combatants (including yourself) receive double effect. At round start, provide Follow‑Up Attack to Steel Line combatants. At round start, provide Follow‑Up Attack to Lion Corporation combatants excluding yourself."
+  },
+  "SkillDescSimple_Skill_MP_Nabi_N_3": {
+    "korean": "공격력 / 치명타 / 스킬 위력 증가. 조건부 효과 2배 적용. 조건부 공격 지원.",
+    "english": "ATK / CRIT / Skill Power increase. Conditional effects applied at 2×. Conditional Follow‑Up Attack."
+  },
+  "SkillDesc_Skill_MP_Nabi_N_4": {
+    "korean": "피격 시 100% 확률로 반격합니다.&n라운드 개시 시 홀수 라운드인 경우 적군 전체에 [폭격!]를 부여합니다.&n라운드 개시 시 짝수 라운드인 경우 아군 전체에 [지원!]를 부여합니다.&n※ [폭격!] : 받는 피해 증가, 공격력 감소&n※ [지원!] : 받는 피해 감소, 공격력 증가",
+    "english": "Counter Attack with 100% chance when hit. At round start, if the round is odd, grant [Bombardment!] to all enemies. At round start, if the round is even, grant [Support!] to all allies. ※ [Bombardment!]: DMG Taken Increased, ATK Reduction. ※ [Support!]: DMG Reduction, ATK Increase."
+  },
+  "SkillDescSimple_Skill_MP_Nabi_N_4": {
+    "korean": "피격 시 100% 반격. 조건부 적군 전체 받는 피해 증가 / 공격력 감소. 조건부 아군 전체 받는 피해 감소 / 공격력 증가.",
+    "english": "100% Counter Attack on hit. Conditional DMG Taken Increased / ATK Reduction for all enemies. Conditional DMG Reduction / ATK Increase for all allies."
+  },
+  "SkillDesc_Skill_MP_Nabi_N_5": {
+    "korean": "라운드 개시 시 자신의 AP 및 행동력을 증가시킵니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 [조준]을 부여합니다.&n조준 1 : 적중 증가&n조준 2 : 적중 증가 / 스킬 위력 증가&n조준 3 : 적중 증가 / 스킬 위력 증가 / 공격력 증가&n조준 4 : 적중 증가 / 스킬 위력 증가 / 공격력 증가 / 치명타 증가",
+    "english": "Increase your AP and SPD at round start. If there are <Lion Corporation> combatants in the squad excluding yourself, grant [Aim] to all allies based on their number. Aim 1: ACC increase. Aim 2: ACC increase / Skill Power increase. Aim 3: ACC increase / Skill Power increase / ATK increase. Aim 4: ACC increase / Skill Power increase / ATK increase / CRIT increase."
+  },
+  "SkillDescSimple_Skill_MP_Nabi_N_5": {
+    "korean": "자신의 AP 및 행동력 증가. 조건부 적중 / 스킬 위력 / 공격력 / 치명타 증가.",
+    "english": "AP and SPD increase. Conditional ACC / Skill Power / ATK / CRIT increase."
+  },
+  "BuffDesc2_Effect_LC_Nabi_N_1": {
+    "korean": "라스트 스트라이크 : {0}% 냉기 추가 피해 (치명타 시)",
+    "english": "Last Strike: {0}% additional Cold DMG (On CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Nabi_N_11": {
+    "korean": "라스트 스트라이크 : {0}% 냉기 추가 피해 (치명타 시)",
+    "english": "Last Strike: {0}% additional Cold DMG (On CRIT)"
+  }
+}

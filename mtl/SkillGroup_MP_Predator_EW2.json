@@ -1,0 +1,118 @@
+{
+  "SkillName_Skill_MP_Predator_EW2_1": {
+    "korean": "후려치기",
+    "english": "Smash"
+  },
+  "SkillName_Skill_MP_Predator_EW2_2": {
+    "korean": "오염액",
+    "english": "Contaminated Fluid"
+  },
+  "SkillName_Skill_MP_Predator_EW2_3": {
+    "korean": "속성 흡수",
+    "english": "Elemental Absorption"
+  },
+  "SkillName_Skill_MP_Predator_EW2_4": {
+    "korean": "오염액 누출",
+    "english": "Contaminated Fluid Leak"
+  },
+  "SkillName_Skill_MP_Predator_EW2_5": {
+    "korean": "보호 본능",
+    "english": "Protective Instinct"
+  },
+  "SkillDesc_Skill_MP_Predator_EW2_1": {
+    "korean": "적 들을 강타해 {0} 피해를 주고, 1칸 뒤로 밀어내며 일정 확률로 2라운드 동안 행동 불가 상태로 만들고 속성을 흡수한 상태라면 대상에게 해당 속성을 방출하여 지속 피해를 줍니다.",
+    "english": "Strike enemies for {0} damage, Push Back 1 tile, and with a certain chance inflict Stunned for 2 rounds. If you are in an Elemental Absorption state, release the absorbed element onto the target to deal DoT DMG."
+  },
+  "SkillDesc_Skill_MP_Predator_EW2_2": {
+    "korean": "오염액으로 목표 대상들에게 {0} 피해를 주며, 2라운드 동안 오염 상태로 만듭니다. 오염 상태인 대상은 방어력과 행동력이 감소하며, 지속 물리 피해를 입습니다. 보호 효과를 무시하고 +200% 명중 보정이 적용됩니다.",
+    "english": "Deal {0} damage to target enemies with Contaminated Fluid, applying Contamination for 2 rounds. Contaminated targets have reduced DEF and SPD, and suffer Physical DoT DMG. Ignores protection effects and applies +200% Hit Rate."
+  },
+  "SkillDesc_Skill_MP_Predator_EW2_3": {
+    "korean": "속성 공격에 피격 시 3라운드 동안 해당 속성을 흡수하여 해당 속성의 저항력이 증가하지만 부작용으로 특정 속성의 저항력이 감소합니다.&n화염 속성 흡수 시: 화염 저항력 증가, 냉기 저항력 감소&n냉기 속성 흡수 시: 냉기 저항력 증가, 전기 저항력 감소&n전기 속성 흡수 시: 전기 저항력 증가, 화염 저항력 감소",
+    "english": "When hit by an elemental attack, absorb that element for 3 rounds, increasing resistance to that element but decreasing resistance to another element as a side effect.\nWhen Fire is absorbed: Fire Resist increased, Cold Resist decreased.\nWhen Cold is absorbed: Cold Resist increased, Electric Resist decreased.\nWhen Electric is absorbed: Electric Resist increased, Fire Resist decreased."
+  },
+  "SkillDesc_Skill_MP_Predator_EW2_4": {
+    "korean": "HP가 75% 이하가 되면 오염액이 누출되어 적군 전체의 화염, 냉기, 전기 속성 저항력을 감소시킵니다.",
+    "english": "When HP falls to 75% or less, Contaminated Fluid leaks, reducing all enemies' Fire Resist, Cold Resist, and Electric Resist."
+  },
+  "SkillDesc_Skill_MP_Predator_EW2_5": {
+    "korean": "피격 시, 속성 흡수 부작용 효과를 제외한 자신에게 걸려있는 해로운 효과를 해제하고, 해제 불가한 보호막을 획득합니다.",
+    "english": "When hit, remove all harmful effects on self except the side effects of Elemental Absorption, and gain an unremovable barrier."
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_1": {
+    "korean": "뒤로 {0}칸 밀기",
+    "english": "Push Back : {0}"
+  },
+  "BuffDesc2_Effect_MP_Predator_EW2_1": {
+    "korean": "행동 불가",
+    "english": "Stunned"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_3": {
+    "korean": "속성 흡수: 화염 속성 흡수",
+    "english": "Elemental Absorption : Fire Attribute Absorption"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_31": {
+    "korean": "속성 흡수: 냉기 속성 흡수",
+    "english": "Elemental Absorption : Cold Attribute Absorption"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_32": {
+    "korean": "속성 흡수: 전기 속성 흡수",
+    "english": "Elemental Absorption : Electric Attribute Absorption"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_33": {
+    "korean": "부작용: 냉기 속성 저항력 {0}%",
+    "english": "Side Effect : Cold Attribute Resistance {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_34": {
+    "korean": "부작용: 전기 속성 저항력 {0}%",
+    "english": "Side Effect : Electric Attribute Resistance {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_35": {
+    "korean": "부작용: 화염 속성 저항력 {0}%",
+    "english": "Side Effect : Fire Attribute Resistance {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_4": {
+    "korean": "오염액 누출 : 냉기 속성 저항력 {0}%",
+    "english": "Contaminant Leak : Cold Attribute Resistance {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_41": {
+    "korean": "오염액 누출 : 전기 속성 저항력 {0}%",
+    "english": "Contaminant Leak : Electric Attribute Resistance {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_42": {
+    "korean": "오염액 누출 : 화염 속성 저항력 {0}%",
+    "english": "Contaminant Leak : Fire Attribute Resistance {0}%"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_11": {
+    "korean": "화염 속성 방출 : 지속 화염 피해 {0}",
+    "english": "Fire Attribute Release : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_12": {
+    "korean": "냉기 속성 방출 : 지속 냉기 피해 {0}",
+    "english": "Cold Attribute Release : Cold DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_13": {
+    "korean": "전기 속성 방출 : 지속 전기 피해 {0}",
+    "english": "Electric Attribute Release : Electric DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_2": {
+    "korean": "오염 : 방어력 {0}%",
+    "english": "Contamination : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_Predator_EW2_2": {
+    "korean": "오염 : 행동력 {0}%",
+    "english": "Contamination : SPD {0}%"
+  },
+  "BuffDesc3_Effect_MP_Predator_EW2_2": {
+    "korean": "오염 : 지속 물리 피해 {0}",
+    "english": "Contamination : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Predator_EW2_5": {
+    "korean": "보호 본능 : 해로운 효과 해제",
+    "english": "Protective Instinct : Debuff Removal"
+  },
+  "BuffDesc2_Effect_MP_Predator_EW2_5": {
+    "korean": "보호 본능 : 방어막 {0}",
+    "english": "Protective Instinct : Barrier {0}"
+  }
+}

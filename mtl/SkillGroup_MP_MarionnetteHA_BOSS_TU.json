@@ -1,0 +1,110 @@
+{
+  "SkillName_Skill_MP_MarionnetteHA_BOSS_TU_1": {
+    "korean": "2연장 장갑관통 속사포",
+    "english": "Twin Extended Armor-Piercing Rapid Fire"
+  },
+  "SkillName_Skill_MP_MarionnetteHA_BOSS_TU_2": {
+    "korean": "충격탄 발사",
+    "english": "Shock Grenade"
+  },
+  "SkillName_Skill_MP_MarionnetteHA_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입",
+    "english": "Toxic Reinforcement Injection"
+  },
+  "SkillName_Skill_MP_MarionnetteHA_BOSS_TU_4": {
+    "korean": "편애",
+    "english": "Favoritism"
+  },
+  "SkillName_Skill_MP_MarionnetteHA_BOSS_TU_5": {
+    "korean": "집착",
+    "english": "Obsession"
+  },
+  "SkillDesc_Skill_MP_MarionnetteHA_BOSS_TU_1": {
+    "korean": "적에게 기관포 사격으로 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 표식 / 방어력 감소 효과를 적용합니다.",
+    "english": "Deals {0} damage to the enemy with machine gun fire. On hit, applies Marked / DEF reduction to the target for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHA_BOSS_TU_2": {
+    "korean": "적에게 충격탄을 발사하여 {0} 피해를 주고, 뒤로 1칸 밀쳐냅니다.&n자신과 대상이 각각 전열에 가까울 수록 피해량이 증가합니다.",
+    "english": "Fires a shock grenade at an enemy, dealing {0} damage and knocking them back 1 square. Damage increases as you and the target are closer to the front row."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHA_BOSS_TU_3": {
+    "korean": "전투 개시 시, 유독성 강화약을 주입해 신체를 강화하여 이하의 해제 불가 효과를 획득합니다.&n자신이 받는 피해가 감소하고, 방어력이 증가하며, 광역 피해 분산이 적용됩니다.&n또한 효과 저항이 증가하고 반격 효과를 획득합니다.",
+    "english": "At the start of combat, inject a toxic reinforcement to strengthen your body, gaining the following unremovable effects. DMG Reduction, increased DEF, and Area DMG Dispersion are applied. Status Resist is increased, and you gain Counter Attack."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHA_BOSS_TU_4": {
+    "korean": "라운드 개시 시, 범위 내 아군이 받는 피해를 감소시킵니다.&n자신 외의 아군이 생존한 이상, 자신은 무제한의 전투 속행을 획득합니다.&n자신이 지정 보호 중인 이상, 대상 <오드리 실험체>는 일정 횟수의 전투 속행을 획득합니다.&n해당 효과는 강화 해제로 해제할 수 없습니다.",
+    "english": "At the start of a round, reduces damage taken by allies within range. As long as allies other than yourself survive, you gain unlimited Combat Continuation. While you are under Target Protect, the target <Audrey Subject> gains a certain number of Combat Continuations. This effect cannot be removed by Removal."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHA_BOSS_TU_5": {
+    "korean": "라운드 개시 시 아군이 3기 이상인 경우, 보호에 대한 광적인 집착에 휩싸여 적 전체의 대 중장형 피해량을 감소시킵니다.&n라운드 개시 시, 표식을 보유한 적의 회피를 감소시킵니다.&n해당 효과는 해로운 효과 해제로 해제할 수 없습니다.",
+    "english": "At the start of the round, if there are 3 or more allies, they become consumed by a fanatical Obsession with protection, reducing damage against all Anti-Heavy DMG enemies. At the start of the round, reduces the evasion of enemies that are Marked. This effect cannot be removed by harmful effect removal."
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_1": {
+    "korean": "2연장 장갑관통 속사포 : 표식",
+    "english": "Twin armor-piercing rapid-fire cannon : Marked"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteHA_BOSS_TU_1": {
+    "korean": "2연장 장갑관통 속사포 : 방어력 {0}%",
+    "english": "Twin armor-piercing rapid-fire cannon : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_2": {
+    "korean": "충격탄 발사 : 뒤로 {0}칸 밀기",
+    "english": "Firing shock grenades : Push Back {0}"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_21": {
+    "korean": "충격탄 발사 : 피해량 {0}% (자신 전열)",
+    "english": "Firing shock grenades : Additional DMG {0}% (Self Front Row)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_22": {
+    "korean": "충격탄 발사 : 피해량 {0}% (자신 중열)",
+    "english": "Firing shock grenades : Additional DMG {0}% (Self Mid Row)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_23": {
+    "korean": "충격탄 발사 : 피해량 {0}% (대상 전열)",
+    "english": "Firing shock grenades : Additional DMG {0}% (Target Front Row)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_24": {
+    "korean": "충격탄 발사 : 피해량 {0}% (대상 중열)",
+    "english": "Firing shock grenades : Additional DMG {0}% (Target Mid Row)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입 : 방어력 {0}%",
+    "english": "Injection of toxic reinforcing agent : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : 효과 저항 {0}%",
+    "english": "Injection of toxic reinforcing agent : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_32": {
+    "korean": "유독성 강화약 주입 : 광역 피해 분산 {0}% (최대)",
+    "english": "Injection of toxic reinforcing agent : Area DMG Dispersion {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_33": {
+    "korean": "유독성 강화약 주입 : 받는 피해 {0}% 감소",
+    "english": "Injection of toxic reinforcing agent : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_34": {
+    "korean": "유독성 강화약 주입 : {0}% 위력으로 반격",
+    "english": "Injection of toxic reinforcing agent : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_4": {
+    "korean": "편애 : 받는 피해 {0}% 감소",
+    "english": "Favoritism : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_41": {
+    "korean": "편애 : {0}% HP로 전투 속행",
+    "english": "Favoritism : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_42": {
+    "korean": "편애 : {0}% HP로 전투 속행",
+    "english": "Favoritism : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_5": {
+    "korean": "집착 : 대 중장형 피해량 {0}%",
+    "english": "Adhesion : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_BOSS_TU_51": {
+    "korean": "집착 : 회피 {0}%",
+    "english": "Adhesion : EVA {0}%"
+  }
+}

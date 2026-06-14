@@ -1,0 +1,114 @@
+{
+  "SkillName_Skill_MP_Nereid_Challenge1_1": {
+    "korean": "벌집 부수기",
+    "english": "Hive Smash"
+  },
+  "SkillName_Skill_MP_Nereid_Challenge1_2": {
+    "korean": "무차별 발포",
+    "english": "Indiscriminate Fire"
+  },
+  "SkillName_Skill_MP_Nereid_Challenge1_3": {
+    "korean": "덤벼덤벼덤벼!",
+    "english": "Bring It On!"
+  },
+  "SkillName_Skill_MP_Nereid_Challenge1_4": {
+    "korean": "전투 초집중",
+    "english": "Combat Focus"
+  },
+  "SkillName_Skill_MP_Nereid_Challenge1_5": {
+    "korean": "슈퍼 대공 포메이션!",
+    "english": "Super Anti-Air Formation!"
+  },
+  "SkillDesc_Skill_MP_Nereid_Challenge1_1": {
+    "korean": "미니건을 발사해 {0} 피해를 줍니다.&n스킬 사용 시, 자신은 3라운드 동안 방어 관통이 증가합니다.&n자신의 공격이 빗나가면 2라운드 동안 [무차별 발포]를 사용합니다.",
+    "english": "Fires a minigun dealing {0} Additional DMG. When using the skill, your DEF Penetration increases for 3 rounds. If your attack misses, you use [Indiscriminate Fire] for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_Nereid_Challenge1_2": {
+    "korean": "미니건을 난사해 대상에게 {0} 보호 무시 피해를 줍니다.&n적중 시, 대상의 강화 효과를 해제합니다.&n치명타 시, 피해량이 증가합니다.&n+500%의 적중 보정이 적용됩니다.",
+    "english": "Fires a minigun to deal {0} Ignore Protection damage to the target. On hit, removes the target's buffs. On CRIT, damage increases. +500% ACC correction is applied."
+  },
+  "SkillDesc_Skill_MP_Nereid_Challenge1_3": {
+    "korean": "라운드 개시 시, 자신의 HP에 반비례하여 피해량이 증가하는 효과를 획득합니다.&n공격 받을 시 자신의 HP가 50% 이하인 경우, 자신이 받는 피해가 감소합니다.",
+    "english": "At the start of a round, gain an effect that increases damage inversely proportional to your HP. When attacked, if your HP is 50% or lower, DMG Taken is reduced."
+  },
+  "SkillDesc_Skill_MP_Nereid_Challenge1_4": {
+    "korean": "전투 개시 시, 효과 저항 증가 / 전투 속행을 획득합니다.&n전투 속행 시, 효과 저항 증가 효과가 두 배로 증폭되며 방어막 / 피해 감소 무시 효과를 획득합니다.&n상기 효과는 효과 해제로 해제되지 않습니다.",
+    "english": "At the start of combat, gain Status Resist / Continue Combat. Upon Continuing Combat, the Status Resist effect is doubled, and gain Ignore Barrier / DMG Reduction. These effects are not removed by Effect Removal."
+  },
+  "SkillDesc_Skill_MP_Nereid_Challenge1_5": {
+    "korean": "라운드 개시 시, 기동형 적 1기마다 자신의 공격력 / 적중 / AP가 증가합니다.&n라운드 개시 시 <네리의 친구>가 있을 경우, 자신은 최대 행동 횟수가 1 증가합니다.&n<네리의 친구> 파괴 시, 친구를 잃은 슬픔에 2라운드 동안 상기 효과가 발동하지 않습니다.",
+    "english": "At the start of a round, your ATK / ACC / AP increase for each Air enemy. If <Neri's Friend> is present at the start of a round, your Max Action increases by 1. When <Neri's Friend> is destroyed, the above effects do not activate for 2 rounds due to grief."
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_11": {
+    "korean": "[무차별 발포] 준비",
+    "english": "[Indiscriminate Fire] Ready"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_3": {
+    "korean": "덤벼덤벼덤벼! : 자신 HP 반비례 피해량 {0}% (최대)",
+    "english": "Bring It On! : Damage {0}% proportional to own missing HP (Max)"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_1": {
+    "korean": "벌집 부수기 : 방어 관통 {0}%",
+    "english": "Blast beehive smashing : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_2": {
+    "korean": "무차별 발포 : 강화 효과 해제",
+    "english": "indiscriminate firing : Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_21": {
+    "korean": "무차별 발포 : 피해량 {0}%",
+    "english": "indiscriminate firing : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_31": {
+    "korean": "덤벙덤벙덤벙! : 받는 피해 {0}% 감소",
+    "english": "Splash Splash Splash! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_4": {
+    "korean": "전투 초집중 : {0}% HP로 전투 속행",
+    "english": "Combat hyper-focus : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc2_Effect_MP_Nereid_Challenge1_4": {
+    "korean": "전투 초집중 : 효과 저항 {0}% 증가",
+    "english": "Combat hyper-focus : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_41": {
+    "korean": "어쩔씨구리… : 방어막 / 피해 감소 무시",
+    "english": "What the heck… : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc2_Effect_MP_Nereid_Challenge1_41": {
+    "korean": "어쩔씨구리... : 효과 저항 {0}% 증가",
+    "english": "What the heck... : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_5": {
+    "korean": "슈퍼 대공 포메이션! : 공격력 {0}%",
+    "english": "Super Anti-Air Formation! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_Nereid_Challenge1_5": {
+    "korean": "슈퍼 대공 포메이션! : 적중 {0}%",
+    "english": "Super Anti-Air Formation! : ACC {0}%"
+  },
+  "BuffDesc3_Effect_MP_Nereid_Challenge1_5": {
+    "korean": "슈퍼 대공 포메이션! : AP {0}",
+    "english": "Super Anti-Air Formation! : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_Nereid_Challenge1_55": {
+    "korean": "최고의 친구 : 최대 행동 횟수 {0}",
+    "english": "Best Friend : Max Action {0}"
+  },
+  "BuffDesc1_Effect_MP_GigantesDagon_Challenge1_51": {
+    "korean": "샐비지 : 사거리 증가 해제",
+    "english": "Salvage : Range Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_AMG11AA_Challenge1_4": {
+    "korean": "What am I? : 치명타 {0}%",
+    "english": "What am I? : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_AMG11AA_Challenge1_41": {
+    "korean": "What Am I? : 행동력 {0}%",
+    "english": "What Am I? : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_AMG11AA_Challenge1_42": {
+    "korean": "WHAT AM I? : 방어 관통 {0}%",
+    "english": "WHAT AM I? : DEF Penetration {0}%"
+  }
+}

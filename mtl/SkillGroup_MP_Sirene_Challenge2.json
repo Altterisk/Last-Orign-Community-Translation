@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_Sirene_Challenge2_1": {
+    "korean": "특수 개조 연장포",
+    "english": "Specially Modified Extended Gun"
+  },
+  "SkillName_Skill_MP_Sirene_Challenge2_2": {
+    "korean": "융단 포격",
+    "english": "Carpet Bombardment"
+  },
+  "SkillName_Skill_MP_Sirene_Challenge2_3": {
+    "korean": "부하 통제",
+    "english": "Subordinate Control"
+  },
+  "SkillName_Skill_MP_Sirene_Challenge2_4": {
+    "korean": "두목 모드",
+    "english": "Boss Mode"
+  },
+  "SkillName_Skill_MP_Sirene_Challenge2_5": {
+    "korean": "부하 관찰",
+    "english": "Subordinate Observation"
+  },
+  "SkillDesc_Skill_MP_Sirene_Challenge2_1": {
+    "korean": "직사 포격으로 지정 범위에 {0} 피해를 줍니다.&n적중 대상이 표식 / 이동 불가 상태인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to the designated area with a Direct Bombardment. Damage increases if the target is Marked or Rooted."
+  },
+  "SkillDesc_Skill_MP_Sirene_Challenge2_2": {
+    "korean": "포격 연사로 지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점 주변은 피해량이 50% 감소합니다.&n대상이 경장 / 중장형인 경우, 적중 여부에 상관 없이 2라운드 동안 지속 물리 피해 효과를 부여합니다.&n스킬 사용 시, 2라운드 동안 자신의 행동력이 크게 감소합니다.",
+    "english": "Fires a barrage to deal {0} Ignore Protection damage to the designated area. Damage is reduced by 50% around the target point. If the target is Light or Heavy, it applies Physical DoT DMG for 2 rounds regardless of hit. Using the skill greatly reduces your SPD for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_Sirene_Challenge2_3": {
+    "korean": "스킬 사용 시, 2라운드 동안 범위 내 아군의 공격력 / 치명타를 증가시킵니다.",
+    "english": "When using the skill, increases allies' ATK / CRIT within the area for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_Sirene_Challenge2_4": {
+    "korean": "라운드 개시 시, 자신은 방어 관통이 증가합니다.&n공격 받을 시, 1라운드 동안 방어 관통이 추가로 증가합니다. 해당 효과는 해제할 수 없습니다.&n한 라운드에 2회 이상 공격 받을 시, 해당 라운드 동안 [융단 포격]를 사용합니다.",
+    "english": "At the start of the round, your DEF Penetration increases. When attacked, your DEF Penetration further increases for 1 round. This effect cannot be removed. If you are attacked two or more times in a single round, you use [Carpet Bombardment] that round."
+  },
+  "SkillDesc_Skill_MP_Sirene_Challenge2_5": {
+    "korean": "라운드 개시 시, 아군 전체에게 행동 불가 / 스킬 사용 불가 면역 효과를 부여합니다.&n공격 적중 시 자신이 공격 지원을 받고 있을 경우, 자신은 방어막 / 피해 감소 무시 효과를 획득합니다.",
+    "english": "At the start of the round, grant all allies immunity to Stunned and Silenced. When your attack hits, if you are receiving Follow-Up Attack, you gain Barrier and Ignore DMG Reduction effects."
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_1": {
+    "korean": "특수 개조 연장포 : 피해량 {0}%",
+    "english": "Specially Modified Extended Gun : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_5": {
+    "korean": "부하 관찰 : 방어막 / 피해 감소 무시",
+    "english": "Observation of load : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_2": {
+    "korean": "융단 포격 : 지속 물리 피해 {0}",
+    "english": "carpet bombing : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_21": {
+    "korean": "힘들어요… : 행동력 {0}%",
+    "english": "It's hard... : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_3": {
+    "korean": "부하 통제 : 공격력 {0}%",
+    "english": "Load control : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_Sirene_Challenge2_3": {
+    "korean": "부하 통제 : 치명타 {0}%",
+    "english": "Load control : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge2_4": {
+    "korean": "두목 모드 : 방어 관통 {0}%",
+    "english": "Boss Mode : DEF Penetration {0}%"
+  }
+}

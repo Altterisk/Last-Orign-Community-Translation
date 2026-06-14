@@ -1,0 +1,110 @@
+{
+  "1002701624": {
+    "korean": "개조 기총 견제",
+    "english": "Modified Machine Gun Suppression"
+  },
+  "1002701625": {
+    "korean": "요격 태세",
+    "english": "Interception Posture"
+  },
+  "1002701626": {
+    "korean": "전열 방어 대형",
+    "english": "Frontline Defense Formation"
+  },
+  "1002701627": {
+    "korean": "긴급 지원 요청",
+    "english": "Emergency Support Request"
+  },
+  "1002705401": {
+    "korean": "공격 대형",
+    "english": "Attack Formation"
+  },
+  "1002704163": {
+    "korean": "견제 사격으로 대상에게 {0} 피해를 주고, 2라운드 동안 공격력 / 치명타 / 적중 / 행동력을 낮춥니다.",
+    "english": "Suppressive fire deals {0} damage to the target and lowers ATK / CRIT / ACC / SPD for 2 rounds."
+  },
+  "1002704164": {
+    "korean": "3라운드 동안 방어력이 증가하며 받는 피해가 감소합니다. 열 보호가 활성화되며, 해당 상태에서 공격받으면 반격합니다.",
+    "english": "DEF increases and DMG Reduction for 3 rounds. Column Protect is activated, and you counterattack when attacked while in this state."
+  },
+  "1002704165": {
+    "korean": "자신이 전열에 있는 상태로 라운드 개시 시, 범위 내 아군을 지정 대상 보호하며 대상의 AP를 증가시킵니다.",
+    "english": "When a round starts while you are in the front line, you grant Target Protect to allies within range and increase their AP."
+  },
+  "1002704166": {
+    "korean": "라운드 개시 시 자신의 HP가 25% 이하인 경우, 아군 공격기에게 지원을 요청해 대상의 AP / 공격력 / 행동력을 증가시킵니다.",
+    "english": "If your HP is 25% or lower at the start of a round, request support from an allied attacker to increase the target's AP / ATK / SPD."
+  },
+  "1002706269": {
+    "korean": "자신이 중열에 있는 상태로 라운드 개시 시, 범위 내 아군에게 적중 / 행동력을 증가시킵니다. 하지만 중열에 있는 상태에서 전기 공격에 피격 시 2라운드 동안 범위 내 아군의 공격력 / 방어력이 감소합니다.",
+    "english": "When a round starts while you are in the middle row, increase ACC / SPD of allies within range. However, if you are hit by an electric attack while in the middle row, ATK / DEF of allies within range are decreased for 2 rounds."
+  },
+  "1000103417": {
+    "korean": "개조 기총 견제 : 공격력 {0}%",
+    "english": "Modified machine gun suppression : ATK {0}%"
+  },
+  "1000104620": {
+    "korean": "개조 기총 견제 : 치명타 {0}%",
+    "english": "Modified machine gun suppression : CRIT {0}%"
+  },
+  "1000105147": {
+    "korean": "개조 기총 견제 : 적중 {0}%",
+    "english": "Modified machine gun suppression : ACC {0}%"
+  },
+  "1000105444": {
+    "korean": "개조 기총 견제 : 행동력 {0}%",
+    "english": "Modified machine gun suppression : SPD {0}%"
+  },
+  "1000103418": {
+    "korean": "요격 태세 : 방어력{0}%",
+    "english": "Interception posture : DEF {0}%"
+  },
+  "1000104621": {
+    "korean": "요격 태세 : 받는 피해 감소 {0}%",
+    "english": "Interception posture : DMG Reduction {0}%"
+  },
+  "1000105148": {
+    "korean": "요격 태세 : {0}% 위력으로 반격",
+    "english": "Interception posture : Counter Attack with {0}% Power"
+  },
+  "1000105445": {
+    "korean": "요격 태세 : 열 보호",
+    "english": "Interception posture : Column Protect"
+  },
+  "1000103419": {
+    "korean": "전열 방어 대형 : 지정 대상 보호",
+    "english": "Battle line defense formation : Target Protect"
+  },
+  "1000104622": {
+    "korean": "전열 방어 대형 : AP{0}",
+    "english": "Battle line defense formation : AP {0}"
+  },
+  "1000103420": {
+    "korean": "긴급 지원 요청 : 공격력{0}% (공격기)",
+    "english": "Request for emergency assistance : ATK {0}% (Attacker)"
+  },
+  "1000104623": {
+    "korean": "긴급 지원 요청 : 행동력{0}% (공격기)",
+    "english": "Request for emergency assistance : SPD {0}% (Attacker)"
+  },
+  "1000105149": {
+    "korean": "긴급 지원 요청 : AP{0} (공격기)",
+    "english": "Request for emergency assistance : AP {0} (Attacker)"
+  },
+  "1000106544": {
+    "korean": "공격 대형 : 적중{0}%",
+    "english": "Attack formation : ACC {0}%"
+  },
+  "1000106792": {
+    "korean": "공격 대형 : 행동력{0}%",
+    "english": "Attack formation : SPD {0}%"
+  },
+  "1000106545": {
+    "korean": "무너진 공격 대형 : 공격력 {0}%",
+    "english": "Broken Attack Formation : ATK {0}%"
+  },
+  "1000106793": {
+    "korean": "무너진 공격 대형 : 방어력 {0}%",
+    "english": "Broken Attack Formation : DEF {0}%"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_MarionnetteDM_N_3": {
+    "korean": "병렬 분산 시스템",
+    "english": "Parallel Distributed Systems"
+  },
+  "SkillName_Skill_MP_MarionnetteDM_N_4": {
+    "korean": "지정 사수",
+    "english": "Designated Marksman"
+  },
+  "SkillName_Skill_MP_MarionnetteDM_N_5": {
+    "korean": "가변형 전술",
+    "english": "Variable Tactics"
+  },
+  "SkillDesc_Skill_MP_MarionnetteDM_N_3": {
+    "korean": "라운드 개시 시, 아군이 전장에 다수 존재할 수록 추가 효과를 받습니다.&n1단계 (3개체 이상) : 행동력 15% 증가",
+    "english": "At the start of a round, additional effects are received based on the number of allies present on the battlefield. Stage 1 (3 or more): SPD increase 15%"
+  },
+  "SkillDesc_Skill_MP_MarionnetteDM_N_4": {
+    "korean": "라운드 개시 시, 지정 범위의 아군의 공격을 지원합니다.&n자신의 공격이 적중하면, 3라운드 동안 범위 내 아군의 방어력 / 회피가 증가합니다. (최대 5중첩)",
+    "english": "At the start of a round, support attacks for allies within a designated range. If your attack hits, DEF / EVA increase for allies within the range for 3 rounds. (max 5 stacks)"
+  },
+  "SkillDesc_Skill_MP_MarionnetteDM_N_5": {
+    "korean": "전투 개시 시, 적의 스쿼드 구성에 따라 자신은 이하의 해제 불가 효과를 획득합니다.&n경장형 2체 이상 : 대 경장 피해량 20% / 치명타 20% 증가&n중장형 2체 이상 : 대 중장 피해량 20% / 방어 관통 20% 증가&n기동형 2체 이상 : 대 기동 피해량 20% / 적중 20% 증가",
+    "english": "At the start of combat, you gain the following unremovable effects based on the enemy squad composition. Light-type 2 or more: Anti-Light DMG 20% / CRIT 20% increase. Heavy-type 2 or more: Anti-Heavy DMG 20% / DEF Penetration 20% increase. Air-type 2 or more: Anti-Air DMG 20% / ACC 20% increase."
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_1": {
+    "korean": "표적 제거 : 적 HP 낮을수록 피해량 {0}%",
+    "english": "Target Elimination: DMG Proportional to Target Lost HP {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_3": {
+    "korean": "병렬 분산 시스템 : 행동력 {0}%",
+    "english": "Parallel distributed systems : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_4": {
+    "korean": "지정 사수 : 공격 지원",
+    "english": "Designated Marksman : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_41": {
+    "korean": "지정 사수 : 방어력 {0}%",
+    "english": "Designated Marksman : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteDM_N_41": {
+    "korean": "지정 사수 : 회피 {0}%",
+    "english": "Designated Marksman : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_5": {
+    "korean": "가변형 전술 : 대 경장 피해량 {0}%",
+    "english": "Variable tactics : Anti-Light DMG {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteDM_N_5": {
+    "korean": "가변형 전술 : 치명타 {0}%",
+    "english": "Variable tactics : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_51": {
+    "korean": "가변형 전술 : 대 중장 피해량 {0}%",
+    "english": "Variable tactics : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteDM_N_51": {
+    "korean": "가변형 전술 : 방어 관통 {0}%",
+    "english": "Variable tactics : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_52": {
+    "korean": "가변형 전술 : 대 기동 피해량 {0}%",
+    "english": "Variable tactics : Anti-Air DMG {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteDM_N_52": {
+    "korean": "가변형 전술 : 적중 {0}%",
+    "english": "Variable tactics : ACC {0}%"
+  }
+}

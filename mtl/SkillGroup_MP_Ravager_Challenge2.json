@@ -1,0 +1,74 @@
+{
+  "SkillName_Skill_MP_Ravager_Challenge2_1": {
+    "korean": "침식의 발톱",
+    "english": "Corrosive Claw"
+  },
+  "SkillName_Skill_MP_Ravager_Challenge2_2": {
+    "korean": "분해 촉진",
+    "english": "Decomposition Acceleration"
+  },
+  "SkillName_Skill_MP_Ravager_Challenge2_3": {
+    "korean": "날개 움츠리기",
+    "english": "Wing Retraction"
+  },
+  "SkillName_Skill_MP_Ravager_Challenge2_4": {
+    "korean": "중장 지휘 교란",
+    "english": "Heavy Command Disruption"
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge2_1": {
+    "korean": "대상에게 접근하여 발톱으로 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상의 공격력 / 행동력을 감소시킵니다.",
+    "english": "Approach the target and deal {0} damage with your claws.\\nOn hit, reduce the target's ATK / SPD for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge2_2": {
+    "korean": "지정 범위 대상을 2라운드 동안 <분해> 상태로 만듭니다.&n공격 받을 시, <분해> 상태인 대상에게 1라운드 동안 지속 물리 피해를 입힙니다.",
+    "english": "Put the designated targets into <Decomposition> state for 2 rounds.\\nWhen attacked, deal Physical DoT DMG to targets in <Decomposition> state for 1 round."
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge2_3": {
+    "korean": "라운드 개시 시, 자신은 공격력 감소 효과에 면역 상태가 됩니다.&n공격 적중 시, 자신의 AP가 증가합니다.&n자신의 공격이 빗나간 경우, 10라운드 동안 자신의 공격력이 증가합니다.",
+    "english": "At the start of the round, you become immune to ATK reduction.\\nOn attack hit, increase your AP.\\nIf your attack misses, increase your ATK for 10 rounds."
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge2_4": {
+    "korean": "라운드 개시 시, 모든 중장형 적의 스킬 위력 / 행동력 / 효과 발동을 감소시킵니다.&n해로운 효과 해제로 해제되지 않지만, 경장/기동형에게는 효과가 없습니다.",
+    "english": "At the start of the round, reduce the Skill Power / SPD / Effect Activation Rate of all Heavy enemies.\\nCannot be removed by harmful effect dispel, but has no effect on Light / Mobile types."
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_2": {
+    "korean": "분해 촉진 중…",
+    "english": "Decomposition Acceleration : Ongoing"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_1": {
+    "korean": "침식의 발톱 : 공격력 {0}%",
+    "english": "Corrosive Claw : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_Ravager_Challenge2_1": {
+    "korean": "침식의 발톱 : 행동력 {0}%",
+    "english": "Corrosive Claw : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_3": {
+    "korean": "날개 움츠리기 : 공격력 감소 면역",
+    "english": "Wing Retraction : ATK Decrease Immunity"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_31": {
+    "korean": "날개 움츠리기 : AP {0}",
+    "english": "Wing Retraction : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_32": {
+    "korean": "날개 움츠리기 : 공격력 {0}%",
+    "english": "Wing Retraction : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_4": {
+    "korean": "중장 지휘 교란 : 스킬 위력 {0}%",
+    "english": "Heavy Command Disruption : Skill Power {0}%"
+  },
+  "BuffDesc2_Effect_MP_Ravager_Challenge2_4": {
+    "korean": "중장 지휘 교란 : 행동력 {0}%",
+    "english": "Heavy Command Disruption : SPD {0}%"
+  },
+  "BuffDesc3_Effect_MP_Ravager_Challenge2_4": {
+    "korean": "중장 지휘 교란 : 효과 발동 {0}%",
+    "english": "Heavy Command Disruption : Effect Activation Rate {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge2_41": {
+    "korean": "분해 : {0} 지속 물리 피해",
+    "english": "Decomposition : Physical DoT DMG {0}"
+  }
+}

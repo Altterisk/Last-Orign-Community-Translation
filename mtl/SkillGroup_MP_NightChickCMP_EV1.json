@@ -1,0 +1,86 @@
+{
+  "1002702094": {
+    "korean": "급속 부식탄",
+    "english": "Rapid Corrosion Shot"
+  },
+  "1002702095": {
+    "korean": "급속 부식탄 난사",
+    "english": "Rapid Corrosion Barrage"
+  },
+  "1002702096": {
+    "korean": "부식액 누출",
+    "english": "Corrosive Leak"
+  },
+  "1002702097": {
+    "korean": "내성 장갑",
+    "english": "Resistant Gloves"
+  },
+  "1002702098": {
+    "korean": "부식액 폭발",
+    "english": "Corrosive Explosion"
+  },
+  "1002704314": {
+    "korean": "급속 부식탄을 발사해 {0} 피해를 줍니다. 2라운드 동안 대상을 급속 부식 상태로 만들어 효과 저항 / 방어력 / 행동력을 감소시키고 매 라운드 지속 피해를 입힙니다. 대상이 이미 부식 상태면 일정 확률로 강화 효과를 해제합니다.",
+    "english": "Fires a Rapid Corrosion bullet dealing {0} damage. Inflicts Rapid Corrosion on the target for 2 rounds, reducing Status Resist, DEF and SPD, and dealing DoT DMG each round. If the target is already affected by Corrosion, there is a chance to dispel the enhancement."
+  },
+  "1002704315": {
+    "korean": "급속 부식탄을 발사해 지정 범위에 {0} 피해를 줍니다. 2라운드 동안 대상을 급속 부식 상태로 만들어 효과 저항 / 방어력 / 행동력을 감소시키고 매 라운드 지속 피해를 입힙니다. 대상이 이미 부식 상태면 일정 확률로 강화 효과를 해제합니다.",
+    "english": "Fires a Rapid Corrosion bullet dealing {0} damage to a designated area. Inflicts Rapid Corrosion on the target for 2 rounds, reducing Status Resist, DEF and SPD, and dealing DoT DMG each round. If the target is already affected by Corrosion, there is a chance to dispel the enhancement."
+  },
+  "1002704316": {
+    "korean": "적 공격 시, 주변에 부식액이 누출되어 지속 고정 피해를 주며 방어력을 감소시킵니다.",
+    "english": "When attacked, corrosive fluid leaks around, dealing Fixed DoT DMG and reducing DEF."
+  },
+  "1002704317": {
+    "korean": "공격 당할 경우, 상대의 스킬이 최소 피해로 적용됩니다. 라운드 개시 시, 자신과 인접한 아군에게 걸린 방해 효과를 해제합니다.",
+    "english": "When attacked, the opponent's skills are applied with Minimize Damage. At the start of the round, removes debuffs from yourself and adjacent allies."
+  },
+  "1002704318": {
+    "korean": "화염 속성 액티브 스킬 공격 피격 시, 부식액에 불이 붙어 점화 상태가 됩니다. 점화 상태로 처치되면 부식액 폭발로 범위 내 아군에게 괴멸적인 고정 피해를 입힙니다.",
+    "english": "When hit by a Flame‑attribute active skill, the corrosive liquid ignites, entering the Ignited state. If killed while Ignited, the corrosive liquid explodes, dealing catastrophic Fixed DMG to allies in the area."
+  },
+  "1000103711": {
+    "korean": "급속 부식 : 강화 효과 해제",
+    "english": "Rapid Corrosion : Buff Removal"
+  },
+  "1000103710": {
+    "korean": "급속 부식 : 효과 저항 감소 {0}%",
+    "english": "Rapid Corrosion : Status Resist {0}% Decrease"
+  },
+  "1000103715": {
+    "korean": "급속 부식 : 방어력 {0}%",
+    "english": "Rapid Corrosion : DEF {0}%"
+  },
+  "1000104740": {
+    "korean": "급속 부식 : 행동력 {0}%",
+    "english": "Rapid Corrosion : SPD {0}%"
+  },
+  "1000105219": {
+    "korean": "급속 부식 : 지속 피해 {0}",
+    "english": "Rapid Corrosion : DoT DMG {0}"
+  },
+  "1000103712": {
+    "korean": "부식액 누출 : {0} 지속 피해",
+    "english": "Corrosive fluid leakage : DoT DMG {0}"
+  },
+  "1000104739": {
+    "korean": "부식액 누출 : 방어력 {0}%",
+    "english": "Corrosive fluid leakage : DEF {0}%"
+  },
+  "1000101820": {
+    "korean": "내성 장갑 : 피해 최소화",
+    "english": "Resistant gloves : Minimize Damage"
+  },
+  "1000103713": {
+    "korean": "내성 공유 : 해로운 효과 해제",
+    "english": "Shared Resistance : Debuff Removal"
+  },
+  "1000103714": {
+    "korean": "부식액 점화 : {0} 지속 화염 피해",
+    "english": "Corrosive Ignited : Fire DoT DMG {0}"
+  },
+  "1000103716": {
+    "korean": "부식액 폭발 : 공격력 {0}% 고정 피해",
+    "english": "Corrosive fluid explosion : ATK {0}% Fixed DMG"
+  }
+}

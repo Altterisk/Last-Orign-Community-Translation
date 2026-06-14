@@ -1,0 +1,66 @@
+{
+  "SkillName_Skill_MP_NightChick13_N_1": {
+    "korean": "스틸 레인",
+    "english": "Steel Rain"
+  },
+  "SkillName_Skill_MP_NightChick13_N_2": {
+    "korean": "원타겟 난사",
+    "english": "Single-Target Barrage"
+  },
+  "SkillName_Skill_MP_NightChick13_N_3": {
+    "korean": "처형:중장",
+    "english": "Execution: Heavy"
+  },
+  "SkillName_Skill_MP_NightChick13_N_4": {
+    "korean": "처형:경장",
+    "english": "Execution: Light"
+  },
+  "SkillDesc_Skill_MP_NightChick13_N_1": {
+    "korean": "머신건 견제 사격으로 {0}보호 무시 피해를 줍니다. 일정 확률로 2라운드 동안 대상의 회피를 낮츱니다. 40%의 적중 보정을 받습니다.",
+    "english": "Fire a machine gun Suppressive Shot to deal {0} Ignore Protection damage. Has a chance to lower the target's EVA for 2 rounds. Grants a 40% ACC bonus."
+  },
+  "SkillDesc_Skill_MP_NightChick13_N_2": {
+    "korean": "머신건을 조준 사격해 {0}보호 무시 피해를 줍니다. 대상이 회피 감소 상태인 경우, 피해량이 증가합니다. 40%의 적중 보정을 받습니다.",
+    "english": "Aim a machine gun shot to deal {0} Ignore Protection damage. Damage is increased if the target is under an EVA reduction effect. Grants a 40% ACC bonus."
+  },
+  "SkillDesc_Skill_MP_NightChick13_N_3": {
+    "korean": "홀수 라운드 개시 시, 자신의 치명타 확률 / 방어 관통 비율이 증가하며, 대 중장 피해량이 증가합니다.",
+    "english": "At the start of odd-numbered rounds, increase your CRIT rate and DEF Penetration, and increase Anti-Heavy DMG."
+  },
+  "SkillDesc_Skill_MP_NightChick13_N_4": {
+    "korean": "짝수 라운드 개시 시, 자신의 치명타 확률 / 방어 관통 비율이 증가하며, 대 경장 피해량이 증가합니다.",
+    "english": "At the start of even-numbered rounds, increase your CRIT rate and DEF Penetration, and increase Anti-Light DMG."
+  },
+  "BuffDesc1_Effect_MP_NightChick13_N_1": {
+    "korean": "스틸 레인: 회피 {0}%",
+    "english": "Steel Rain : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChick13_N_2": {
+    "korean": "원타겟 난사 : 피해량 {0}%",
+    "english": "One-Target Burst : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChick13_N_3": {
+    "korean": "처형 중장 : 치명타 {0}%",
+    "english": "Execution: Heavy : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChick13_N_3": {
+    "korean": "처형 중장 : 방어 관통 {0}%",
+    "english": "Execution: Heavy : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChick13_N_3": {
+    "korean": "처형 중장 : 대 중장형 피해량 {0}%",
+    "english": "Execution: Heavy : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChick13_N_4": {
+    "korean": "처형 경장 : 치명타 {0}%",
+    "english": "Execution: Light : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChick13_N_4": {
+    "korean": "처형 경장 : 방어 관통 {0}%",
+    "english": "Execution: Light : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChick13_N_4": {
+    "korean": "처형 경장 : 대 경장형 피해량 {0}%",
+    "english": "Execution: Light : Anti-Light DMG {0}%"
+  }
+}

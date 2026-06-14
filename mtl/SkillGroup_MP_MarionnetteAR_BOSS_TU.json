@@ -1,0 +1,162 @@
+{
+  "SkillName_Skill_MP_MarionnetteAR_BOSS_TU_1": {
+    "korean": "최우선 목표 설정",
+    "english": "Primary Target Set"
+  },
+  "SkillName_Skill_MP_MarionnetteAR_BOSS_TU_2": {
+    "korean": "제압 사격",
+    "english": "Suppressive Fire"
+  },
+  "SkillName_Skill_MP_MarionnetteAR_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입",
+    "english": "Toxic Enhancement Injection"
+  },
+  "SkillName_Skill_MP_MarionnetteAR_BOSS_TU_4": {
+    "korean": "단말마",
+    "english": "Terminal"
+  },
+  "SkillName_Skill_MP_MarionnetteAR_BOSS_TU_5": {
+    "korean": "증오",
+    "english": "Hatred"
+  },
+  "SkillDesc_Skill_MP_MarionnetteAR_BOSS_TU_1": {
+    "korean": "적에게 돌격소총을 조준 사격하여 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 표식 / 받는 피해 증가 효과를 적용합니다.",
+    "english": "Aim and fire an assault rifle at an enemy to deal {0} damage. On hit, apply Marked and DMG Taken Increased to the target for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_MarionnetteAR_BOSS_TU_2": {
+    "korean": "적에게 보호 무시 위협용 사격을 가하여 {0} 피해를 줍니다.&n적중 여부와 관계 없이, 2라운드 동안 대상의 적중 / 회피를 감소시킵니다.",
+    "english": "Fire a threat shot that ignores protection at an enemy, dealing {0} damage. Regardless of hit, reduces the target's ACC and EVA for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_MarionnetteAR_BOSS_TU_3": {
+    "korean": "전투 개시 시, 유독성 강화약을 주입해 신체를 강화하여 이하의 해제 불가 효과를 획득합니다.&n자신이 받는 피해가 감소하고, 모든 속성 저항이 증가하며, 광역 피해 분산이 적용됩니다.&n또한 행동 불능 / 스킬 사용 불가 / 사거리 감소 / AP 감소 / AP 변경 효과에 면역 상태가 됩니다.",
+    "english": "At the start of combat, inject a toxic reinforcement to strengthen your body, granting the following unremovable effects: DMG Reduction, increased All Elemental Resist, and Area DMG Dispersion. You also become immune to Stunned, Silenced, Range Reduction, AP Reduction, and AP Change effects."
+  },
+  "SkillDesc_Skill_MP_MarionnetteAR_BOSS_TU_4": {
+    "korean": "라운드 개시 시, 범위 내 아군의 행동력을 증가시킵니다.&n자신 사망 시, 단말마의 비명과 함께 범위 내 아군의 AP를 상승시키고, 2라운드 동안 공격력 / 치명타 / 적중 / 모든 속성 저항을 증가시킵니다. 해당 효과는 강화 해제로 해제할 수 없습니다.&n또한 적 전체의 공격력 / 치명타를 감소시킵니다.",
+    "english": "At the start of a round, increase the SPD of allies within range. Upon death, accompanied by Terminal's scream, increase the AP of allies within range and, for 2 rounds, increase ATK, CRIT, ACC, and All Elemental Resist. This effect cannot be removed by buff removal. Additionally, reduces enemies' ATK and CRIT."
+  },
+  "SkillDesc_Skill_MP_MarionnetteAR_BOSS_TU_5": {
+    "korean": "라운드 개시 시, 무시무시한 증오를 불태워 일정 확률로 각 적에게 표식을 부여합니다.&n표식을 보유한 대상은 <단말마>의 효과가 두 배로 증폭됩니다.",
+    "english": "At the start of the round, burn with terrifying Hatred to apply Marked to each enemy with a certain probability. Targets with Marked have the effect of <Terminal> doubled."
+  },
+  "BuffDesc5_Effect_MP_MarionnetteAR_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : AP 변경 면역",
+    "english": "Toxic Enhancement Injection : Immunity to AP Change"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_1": {
+    "korean": "최우선 목표 설정 : 표식",
+    "english": "Setting Top Priority Goals : Marked"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteAR_BOSS_TU_1": {
+    "korean": "최우선 목표 설정 : 받는 피해 {0}% 증가",
+    "english": "Setting Top Priority Goals : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_2": {
+    "korean": "제압 사격 : 적중 {0}%",
+    "english": "Suppressive fire : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteAR_BOSS_TU_2": {
+    "korean": "제압 사격 : 회피 {0}%",
+    "english": "Suppressive fire : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입 : 받는 피해 {0}% 감소",
+    "english": "Injection of toxic reinforcing agent : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteAR_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입 : 화염 저항 {0}%",
+    "english": "Injection of toxic reinforcing agent : Fire Resist {0}%"
+  },
+  "BuffDesc3_Effect_MP_MarionnetteAR_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입 : 냉기 저항 {0}%",
+    "english": "Injection of toxic reinforcing agent : Cold Resist {0}%"
+  },
+  "BuffDesc4_Effect_MP_MarionnetteAR_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입 : 전기 저항 {0}%",
+    "english": "Injection of toxic reinforcing agent : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : 행동 불능 면역",
+    "english": "Injection of toxic reinforcing agent : Stunned Immunity"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteAR_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : 스킬 사용 불가 면역",
+    "english": "Injection of toxic reinforcing agent : Silenced Immunity"
+  },
+  "BuffDesc3_Effect_MP_MarionnetteAR_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : 사거리 감소 면역",
+    "english": "Injection of toxic reinforcing agent : Range Decrease Immunity"
+  },
+  "BuffDesc4_Effect_MP_MarionnetteAR_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : AP 감소 면역",
+    "english": "Injection of toxic reinforcing agent : AP Decrease Immunity"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_32": {
+    "korean": "유독성 강화약 주입 : 광역 피해 분산 {0}% (최대)",
+    "english": "Injection of toxic reinforcing agent : Area DMG Dispersion {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_33": {
+    "korean": "편애 : {0}% HP로 전투 속행",
+    "english": "Favoritism : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_34": {
+    "korean": "편애 : {0}% HP로 전투 속행",
+    "english": "Favoritism : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_33": {
+    "korean": "편애 : {0}% HP로 전투 속행",
+    "english": "Favoritism : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_4": {
+    "korean": "단말마 : 공격력 {0}%",
+    "english": "Flurry : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteAR_BOSS_TU_4": {
+    "korean": "단말마 : 치명타 {0}%",
+    "english": "Flurry : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_MP_MarionnetteAR_BOSS_TU_4": {
+    "korean": "단말마 : 적중 {0}%",
+    "english": "Flurry : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_41": {
+    "korean": "단말마 : AP {0}",
+    "english": "Flurry : AP {0}"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteAR_BOSS_TU_41": {
+    "korean": "단말마 : 화염 저항 {0}%",
+    "english": "Flurry : Fire Resist {0}%"
+  },
+  "BuffDesc3_Effect_MP_MarionnetteAR_BOSS_TU_41": {
+    "korean": "단말마 : 냉기 저항 {0}%",
+    "english": "Flurry : Cold Resist {0}%"
+  },
+  "BuffDesc4_Effect_MP_MarionnetteAR_BOSS_TU_41": {
+    "korean": "단말마 : 전기 저항 {0}%",
+    "english": "Flurry : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_43": {
+    "korean": "단말마 : 행동력 {0}%",
+    "english": "Flurry : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_5": {
+    "korean": "증오 : 표식",
+    "english": "Hatred : Marked"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_42": {
+    "korean": "단말마 : 공격력 {0}%",
+    "english": "Flurry : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteAR_BOSS_TU_42": {
+    "korean": "단말마 : 치명타 {0}%",
+    "english": "Flurry : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_BOSS_TU_44": {
+    "korean": "증오서린 단말마 : 공격력 {0}%",
+    "english": "Hatred Mist Terminal : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteAR_BOSS_TU_44": {
+    "korean": "증오서린 단말마 : 치명타 {0}%",
+    "english": "Hatred Mist Terminal : CRIT {0}%"
+  }
+}

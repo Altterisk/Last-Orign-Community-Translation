@@ -1,0 +1,46 @@
+{
+  "1002704250": {
+    "korean": "지정 범위에 {0} 보호 무시 전기 속성 피해를 주고 AP / 회피 / 행동력 / 전기 저항을 낮춥니다.",
+    "english": "Deals {0} Ignore Protection electric damage to the designated range and lowers AP / EVA / SPD / Electric Resist."
+  },
+  "1002704251": {
+    "korean": "지정 대상에게 {0} 보호 무시 전기 속성 피해를 주고, 행동 불가 상태로 만들며 전기 저항을 감소시킵니다. 일정 확률로 강화 효과를 해제합니다. <전하 충전> 중첩을 3 사용하며, 치명타 시 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection electric damage to the designated target, inflicts Stunned, and reduces Electric Resist. Has a certain chance to remove buffs. Consumes 3 stacks of <Charge>, and damage increases on CRIT."
+  },
+  "1002704252": {
+    "korean": "<전하 충전> 중첩 수에 비례해 회피가 증가하며, 회피 시 반격합니다. 자신의 HP가 25% 이하인 상태로 적을 공격할 때, 회피가 추가로 증가합니다. 냉기 속성 공격 피격 시, 회피 강화 효과가 해제됩니다.",
+    "english": "EVA increases proportionally to <Charge> stack count, and Counter Attack upon evasion. When attacking an enemy while own HP is 25% or lower, EVA increases further. The EVA boost is removed when hit by a cold attribute attack."
+  },
+  "1002704253": {
+    "korean": "<전하 충전> 중첩이 5 이상인 경우, 2라운드 동안 방어막 / 피해 감소 효과를 무시하며 공격력 / 적중 / 치명타 / 효과 저항이 증가합니다. 해당 상태에서 냉기 속성 공격을 맞으면 강화 효과가 해제되며, 행동 불가 / 받는 피해 증가 상태가 됩니다.",
+    "english": "If <Charge> stacks are 5 or higher, ignores Barrier / DMG Reduction for 2 rounds, and increases ATK / ACC / CRIT / Status Resist. If hit by a cold attribute attack while in this state, the enhancement is removed, and the character becomes Stunned and takes increased DMG Taken."
+  },
+  "1000110965": {
+    "korean": "과충전 폭발",
+    "english": "Overcharge Explosion"
+  },
+  "1000104694": {
+    "korean": "고압 전류 : 전기 저항 {0}%",
+    "english": "Overcharged Current : Electric Resist {0}%"
+  },
+  "1000103621": {
+    "korean": "파장 해제 : 회피 증가 해제",
+    "english": "Wave Dispersion : EVA Buff Removal"
+  },
+  "1000103623": {
+    "korean": "역습 개시 : 회피{0}%",
+    "english": "Counterattack Initiated : EVA {0}%"
+  },
+  "1000105464": {
+    "korean": "전하 최대 충전 : 공격력{0}%",
+    "english": "Maximum charge : ATK {0}%"
+  },
+  "1000105582": {
+    "korean": "전하 최대 충전 : 효과 저항{0}%",
+    "english": "Maximum charge : Status Resist {0}%"
+  },
+  "1000104695": {
+    "korean": "전하 역류 : 받는 피해{0}%",
+    "english": "Charge Reversal : DMG Taken {0}%"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1002704271": {
+    "korean": "리볼버 캐논으로 단일 대상에게 {0} 피해를 주고, 2라운드 동안 대상을 도발하며 적중을 감소시킵니다. 대상이 회피 또는 방어 감소 상태면 피해량이 증가합니다.",
+    "english": "Deals {0} damage to a single target with a Revolver Cannon, Provokes the target for 2 rounds, and reduces its ACC. Damage increases if the target is under EVA or DEF reduction."
+  },
+  "1002704272": {
+    "korean": "날치 미사일로 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시하며, 대상이 도발 또는 방어 감소 상태면 피해량이 증가합니다.",
+    "english": "Deals {0} damage with a Flying Fish Missile, ignoring a percentage of the target's DEF. Damage increases if the target is Provoked or under DEF reduction."
+  },
+  "1002704273": {
+    "korean": "공격 시, 회피가 증가하며 아래에 배치된 아군을 보호합니다. 보호 대상이 기동 / 중장형일 경우, 대상의 공격을 지원하며 적중과 치명타를 올려줍니다. 회피 증가 효과는 발동 라운드에 최대로 적용되며, 다음 라운드에 감소합니다.",
+    "english": "When attacking, increases EVA and protects allied units positioned below. If the protected ally is Air or Heavy type, it supports the ally's attack and raises ACC and CRIT. The EVA increase is applied at its maximum in the activation round and decreases the next round."
+  },
+  "1002704274": {
+    "korean": "적을 처치하면 주변 아군을 도발해 2라운드 동안 자신과 아군의 능력치가 증가하지만, 아군은 회피가 감소합니다. 적을 추가로 처치하면 효과의 50%가 추가 적용됩니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "Defeating an enemy Provokes nearby allies, increasing your and your allies' stats for 2 rounds, but decreasing allies' EVA. Defeating additional enemies adds 50% of the effect. The range increases at skill level 10."
+  },
+  "1000103018": {
+    "korean": "2연장 리볼버 캐논 : 대상 도발 (운디네)",
+    "english": "Double Revolver Cannon: Provoke Target (Undine)"
+  },
+  "1000104438": {
+    "korean": "2연장 리볼버 캐논 : 적중 {0}%",
+    "english": "Twin Revolver Cannon : ACC {0}%"
+  },
+  "1000104707": {
+    "korean": "F.F 미사일 : 방어 관통 {0}%",
+    "english": "FF missile : DEF Penetration {0}%"
+  },
+  "1000103645": {
+    "korean": "우향선회 (자신) : 회피{0}% (최대)",
+    "english": "Clockwise Turn (Self) : EVA {0}% (Max)"
+  },
+  "1000100908": {
+    "korean": "우향선회 : 공격 지원 (기동/중장)",
+    "english": "Turn right : Follow-Up Attack (Air/Heavy)"
+  },
+  "1000104702": {
+    "korean": "우향선회 : 적중{0}% (기동/중장)",
+    "english": "Turn right : ACC {0}% (Air/Heavy)"
+  },
+  "1000105195": {
+    "korean": "우향선회 : 치명타{0}% (기동/중장)",
+    "english": "Turn right : CRIT {0}% (Air/Heavy)"
+  },
+  "1000103061": {
+    "korean": "오만과 분노 : 적중{0}%",
+    "english": "Pride and Fury : ACC {0}%"
+  },
+  "1000105468": {
+    "korean": "오만과 분노 : 회피 {0}% (아군은 감소)",
+    "english": "Pride and Fury : EVA {0}% (Allies reduce)"
+  },
+  "1000103063": {
+    "korean": "오만과 분노 : 행동력{0}%",
+    "english": "Pride and Fury : SPD {0}%"
+  }
+}

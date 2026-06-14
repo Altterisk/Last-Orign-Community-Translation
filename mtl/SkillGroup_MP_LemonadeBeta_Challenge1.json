@@ -1,0 +1,138 @@
+{
+  "SkillName_Skill_MP_LemonadeBeta_Challenge1_1": {
+    "korean": "케뤼케이온 : 그리빙스",
+    "english": "Ceryceon: Grivings"
+  },
+  "SkillName_Skill_MP_LemonadeBeta_Challenge1_2": {
+    "korean": "케뤼케이온 : 루미너스 섀도",
+    "english": "Ceryceon: Luminous Shadow"
+  },
+  "SkillName_Skill_MP_LemonadeBeta_Challenge1_3": {
+    "korean": "앰비벌런트 팔레트",
+    "english": "Ambivalent Palette"
+  },
+  "SkillName_Skill_MP_LemonadeBeta_Challenge1_4": {
+    "korean": "색상 1 : 크림슨 블루",
+    "english": "Color 1: Crimson Blue"
+  },
+  "SkillName_Skill_MP_LemonadeBeta_Challenge1_5": {
+    "korean": "색상 2 : 버던트 애쉬",
+    "english": "Color 2: Verdant Ash"
+  },
+  "SkillDesc_Skill_MP_LemonadeBeta_Challenge1_1": {
+    "korean": "가벼운 인사를 겸해 단일 대상에게 보호 무시 고정 피해를 줍니다.&n적중 시, 각 역할군 별 샘플을 수집하며 가능한 한 아직 수집하지 않은 역할군을 우선 타겟으로 설정합니다.&n3회 공격을 통해 경장/중장/기동형 샘플을 모두 수집하지 못했을 경우, <케뤼케이온 : 루미너스 섀도>를 사용합니다.&n샘플을 수집 완료한 경우, 해당 라운드 동안 분석을 위해 대기합니다.",
+    "english": "Delivers Ignore Protection Fixed DMG to a single target as a light greeting. Upon hitting, collects a sample for each role group, prioritizing roles whose sample has not yet been collected. If after 3 attacks not all Light/Heavy/Air samples have been collected, uses <Ceryceon: Luminous Shadow>. If sample collection is complete, the unit waits for analysis for the rest of the round."
+  },
+  "SkillDesc_Skill_MP_LemonadeBeta_Challenge1_2": {
+    "korean": "자신의 감정을 발산하여 지정 범위에 {0} 보호 무시 피해를 줍니다.&n<앰비벌런트 팔레트>에 의한 속성 저항 하한을 획득한 경우, 해당 속성에 맞는 고정 피해를 적용합니다.&n+900%의 적중 보정이 적용됩니다.",
+    "english": "Emits your emotions to deal {0} Ignore Protection DMG to the designated area. If you have obtained Minimum Elemental Resist from <Ambivalent Palette>, apply Fixed DMG of the corresponding element. +900% Hit Correction is applied."
+  },
+  "SkillDesc_Skill_MP_LemonadeBeta_Challenge1_3": {
+    "korean": "전투 개시 시, 자신은 일정량 이하의 피해 최소화 효과를 획득합니다. 해당 효과는 속성 공격 피격 시에만 해제됩니다.&n첫 번째 속성 공격 피격 시, 해당 속성 저항 하한 일반 효과를 획득합니다. 또한 자신의 스킬을 해당 속성에 맞게 변화시킵니다.&n피격 시, 자신의 AP가 증가하고 해로운 효과를 해제합니다.",
+    "english": "At combat start, you gain a Minimize Damage effect that caps damage below a certain amount. This effect is removed only when hit by an elemental attack. Upon the first elemental hit, you gain the Minimum Elemental Resist Normal Effect for that element, and your skills are altered to match that element. When hit, your AP increases and harmful effects are removed."
+  },
+  "SkillDesc_Skill_MP_LemonadeBeta_Challenge1_4": {
+    "korean": "라운드 개시 시, 적 전체의 화염 / 냉기 / 전기 속성 저항을 감소시킵니다.&n<앰비벌런트 팔레트>에 의한 속성 저항 하한을 획득한 경우, 해당 속성 관련 효과만 적용되며 수치가 두 배로 증폭됩니다.&n상기 효과는 효과 저항의 영향을 받지 않으며, 해로운 효과 해제로 해제할 수 없습니다.",
+    "english": "At round start, reduces all enemies' Fire / Cold / Electric Elemental Resist. If you have Minimum Elemental Resist from <Ambivalent Palette>, only the corresponding element's effect applies and its value is doubled. This effect is not affected by Status Resist and cannot be removed by harmful effect removal."
+  },
+  "SkillDesc_Skill_MP_LemonadeBeta_Challenge1_5": {
+    "korean": "라운드 개시 시, 적 전체에게 화염 / 냉기 / 전기 지속 속성 피해를 입힙니다. 해당 효과는 중첩이 가능합니다.&n<앰비벌런트 팔레트>에 의한 속성 저항 하한을 획득한 경우, 해당 속성 관련 효과만 적용되며 수치가 두 배로 증폭됩니다.&n상기 효과는 효과 저항의 영향을 받지 않으며, 적 공격 시에만 해제할 수 있습니다.",
+    "english": "At round start, inflicts Fire / Cold / Electric Continuous DMG on all enemies. This effect can stack. If you have Minimum Elemental Resist from <Ambivalent Palette>, only the corresponding element's effect applies and its value is doubled. This effect is not affected by Status Resist and can only be removed when the enemy attacks."
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_11": {
+    "korean": "몇번째더라…?",
+    "english": "How many times was it…?"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_12": {
+    "korean": "확보한 샘플 표시",
+    "english": "Mark the acquired samples."
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_31": {
+    "korean": "알겠어요… : 화염 속성 인지",
+    "english": "I Understand… : Recognize as fire attribute"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_32": {
+    "korean": "알겠어요… : 냉기 속성 인지",
+    "english": "I Understand… : Recognize as ice attribute"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_33": {
+    "korean": "알겠어요… : 전기 속성 인지",
+    "english": "I Understand… : Recognize as electric attribute"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_54": {
+    "korean": "확보 예정 샘플 표시",
+    "english": "Indicate the samples to be secured."
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_57": {
+    "korean": "분석중…",
+    "english": "Analyzing..."
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_1": {
+    "korean": "조금만… : {0}% 고정 물리 피해",
+    "english": "Just a little... : {0}% Fixed Physical DMG"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_2": {
+    "korean": "찬란한 그림자 : {0}% 고정 화염 피해",
+    "english": "Radiant Shadow : {0}% Fixed Fire DMG"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_21": {
+    "korean": "찬란한 그림자 : {0}% 고정 냉기 피해",
+    "english": "Radiant Shadow : {0}% Fixed Cold DMG"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_22": {
+    "korean": "찬란한 그림자 : {0}% 고정 전기 피해",
+    "english": "Radiant Shadow : {0}% Fixed Electric DMG"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_3": {
+    "korean": "앰비벌런트 팔레트 : {0} 이하 피해 최소화",
+    "english": "Ambivalent Palette : Minimize Damage Below {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_34": {
+    "korean": "곱씹음 : 화염 저항 하한 {0}%",
+    "english": "Ruminating : Minimum Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_35": {
+    "korean": "곱씹음 : 냉기 저항 하한 {0}%",
+    "english": "Ruminating : Minimum Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_36": {
+    "korean": "곱씹음 : 전기 저항 하한 {0}%",
+    "english": "Ruminating : Minimum Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_310": {
+    "korean": "생각해볼게요... : AP {0}",
+    "english": "I'll think about it... : AP {0}"
+  },
+  "BuffDesc2_Effect_MP_LemonadeBeta_Challenge1_310": {
+    "korean": "생각해볼게요... : 해로운 효과 해제",
+    "english": "I'll think about it... : Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_311": {
+    "korean": "알겠어요… : 피해 최소화 해제",
+    "english": "Okay... : Minimize Damage Removal"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_41": {
+    "korean": "크림슨 블루 : 화염 저항 {0}%",
+    "english": "Crimson Blue : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_42": {
+    "korean": "크림슨 블루 : 냉기 저항 {0}%",
+    "english": "Crimson Blue : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_43": {
+    "korean": "크림슨 블루 : 전기 저항 {0}%",
+    "english": "Crimson Blue : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_51": {
+    "korean": "버던트 애쉬 : {0} 지속 화염 피해",
+    "english": "Verdant Ash : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_52": {
+    "korean": "버던트 애쉬 : {0} 지속 냉기 피해",
+    "english": "Verdant Ash : Cold DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_Challenge1_53": {
+    "korean": "버던트 애쉬 : {0} 지속 전기 피해",
+    "english": "Verdant Ash : Electric DoT DMG {0}"
+  }
+}

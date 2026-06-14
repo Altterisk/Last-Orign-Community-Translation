@@ -1,0 +1,114 @@
+{
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge4_1": {
+    "korean": "콜로서스 쇼크웨이브",
+    "english": "Colossus Shockwave"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge4_2": {
+    "korean": "오레올 오버로드",
+    "english": "Aureole Overload"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge4_3": {
+    "korean": "멈출 수 없는 분노",
+    "english": "Unstoppable Fury"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge4_4": {
+    "korean": "우발 사태 대응",
+    "english": "Contingency Response"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge4_5": {
+    "korean": "폭주하는 거체",
+    "english": "Rampaging Colossus"
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge4_1": {
+    "korean": "지정 범위에 충격파를 발산하여 {0} 피해를 주고 반격 효과를 부여합니다.&n대상이 보호기가 아닌 경우, 1라운드 동안 사거리 감소 / 강화 불가 상태로 만듭니다.&n상기 효과는 효과 저항에 영향을 받지 않지만, 해로운 효과 해제로 해제할 수 있습니다.",
+    "english": "Emit a shockwave in the designated area, dealing {0} damage and granting Counter Attack. If the target is not shielded, apply Range Reduction and Buff Prevention for 1 round. This effect is not affected by Status Resist, but can be removed by debuff removal."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge4_2": {
+    "korean": "지정 범위에 미지의 광선을 발사하여 {0} 보호 무시 피해를 줍니다.&n공격 시, 방어막 / 피해 감소 무시 효과를 획득합니다.&n대상이 보호기인 경우, 적중 여부에 관계 없이 자신의 공격력에 비례한 물리 피해를 가합니다.",
+    "english": "Fire an unknown beam in the designated area, dealing {0} Ignore Protection damage. When attacking, gain Ignore Barrier / DMG Reduction. If the target is shielded, deal physical damage proportional to your ATK regardless of hit."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge4_3": {
+    "korean": "라운드 개시 시, 자신의 AP를 10으로 변경하고 해로운 효과를 해제하며 행동 불가 효과에 면역 상태가 됩니다.&n라운드 개시 시, 공격기를 제외한 모든 적의 공격력 증가 효과를 해제하고 공격력 감소 효과를 적용합니다.&n대기 시, 자신의 효과 저항이 영구적으로 증가합니다.&n상기 효과는 효과 저항에 영향을 받지 않으며, 효과 해제로 해제할 수 없습니다.",
+    "english": "At the start of each round, set your AP to 10, remove harmful effects, and become immune to Stunned. Also, remove ATK increase effects from all enemies except attackers and apply ATK reduction to them. While active, permanently increase your Status Resist. This effect is not affected by Status Resist and cannot be removed by debuff removal."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge4_4": {
+    "korean": "짝수 라운드 개시 시, 자신은 방어막을 획득하고 받는 피해가 감소합니다.&n홀수 라운드 개시 시 자신에게 방어막이 적용된 경우, <오레올 오버로드>를 사용합니다.&n홀수 라운드 개시 시 자신에게 방어막이 적용되지 않은 경우, 자신이 받는 피해가 증가합니다.&n상기 효과는 효과 해제로 해제할 수 없습니다.",
+    "english": "At the start of even rounds, gain a Barrier and reduce DMG Taken. At the start of odd rounds, if you have a Barrier, use <Aureole Overload>. If you do not have a Barrier, your DMG Taken is increased. This effect cannot be removed by debuff removal."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge4_5": {
+    "korean": "라운드 개시 시, 모든 적에게 지속 물리 피해를 입힙니다.&n<폭주의 전조> 중첩 수에 비례하여 지속 물리 피해가 증폭됩니다.&n적 사망 시, 모든 적의 전투 속행 효과를 해제합니다.&n상기 효과는 효과 저항에 영향을 받지 않으며, 해로운 효과 해제로 해제할 수 없습니다.",
+    "english": "At the start of each round, deal Physical DoT DMG to all enemies. The DoT is amplified proportionally to the number of <Prelude to Rampage> stacks. When an enemy dies, remove all enemies' Combat Continuation effects. This effect is not affected by Status Resist and cannot be removed by debuff removal."
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_12": {
+    "korean": "빠드득…",
+    "english": "Crack..."
+  },
+  "BuffDesc3_Effect_MP_Demolisher_BOSS_Challenge4_3": {
+    "korean": "분노 발산 : AP {0}으로 변경",
+    "english": "Rage Release : Changes to AP {0}"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_41": {
+    "korean": "대응 성공 : <오레올 오버로드> 충전",
+    "english": "Counter Success : Charge <Aureole Overload>"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_1": {
+    "korean": "쇼크웨이브 : {0}% 위력으로 반격",
+    "english": "Shockwave : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_11": {
+    "korean": "충격 : 사거리 {0}",
+    "english": "Impact : Range {0}"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge4_11": {
+    "korean": "공포 : 강화 불가",
+    "english": "Terror : Buff Prevention"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_2": {
+    "korean": "오레올 오버로드 : 방어막 / 피해 감소 무시",
+    "english": "Aureole Overload : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_43": {
+    "korean": "오레올 오버로드 : {0} 지속 물리 피해",
+    "english": "Aureole Overload : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_3": {
+    "korean": "분노 발산 : 행동 불가 면역",
+    "english": "Rage Release : Stunned Immunity"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge4_3": {
+    "korean": "분노 발산 : 해로운 효과 해제",
+    "english": "Rage Release : Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_31": {
+    "korean": "진노 : 효과 저항 {0}% 증가",
+    "english": "Wrath : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_4": {
+    "korean": "대응책 : 방어막 {0}",
+    "english": "Countermeasure : Barrier {0}"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge4_4": {
+    "korean": "대응책 : 받는 피해 {0}% 감소",
+    "english": "Countermeasure : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_42": {
+    "korean": "대응 실패 : 받는 피해 {0}% 증가",
+    "english": "Counter Failure : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_44": {
+    "korean": "일그러진 분노 : 공격력 {0}%",
+    "english": "Distorted Rage : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge4_44": {
+    "korean": "일그러진 분노 : 공격력 강화 해제",
+    "english": "Distorted Rage : ATK Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_5": {
+    "korean": "영면 : 전투 속행 해제",
+    "english": "Eternal Sleep : Battle Continuation Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge4_51": {
+    "korean": "짓밟기 : {0} 지속 물리 피해",
+    "english": "Stomp : Physical DoT DMG {0}"
+  }
+}

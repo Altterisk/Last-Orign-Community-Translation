@@ -1,0 +1,98 @@
+{
+  "SkillName_Skill_MP_MarionnetteHA_N_1": {
+    "korean": "2연장 철갑 속사포",
+    "english": "Twin-Barreled Armored Rapid-Fire"
+  },
+  "SkillName_Skill_MP_MarionnetteHA_N_2": {
+    "korean": "충격탄 발사",
+    "english": "Fire Shock Grenade"
+  },
+  "SkillName_Skill_MP_MarionnetteHA_N_3": {
+    "korean": "병렬 분산 시스템",
+    "english": "Parallel Distributed System"
+  },
+  "SkillName_Skill_MP_MarionnetteHA_N_4": {
+    "korean": "교차형 차폐 장갑",
+    "english": "Cross-Type Shielding Armor"
+  },
+  "SkillName_Skill_MP_MarionnetteHA_N_5": {
+    "korean": "보복 프로토콜",
+    "english": "Retaliation Protocol"
+  },
+  "SkillDesc_Skill_MP_MarionnetteHA_N_1": {
+    "korean": "적에게 기관포 사격으로 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 표식 / 방어력 감소 효과를 적용합니다.",
+    "english": "Deals {0} Additional DMG to the enemy with machine gun fire. On hit, applies Mark / DEF reduction to the target for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHA_N_2": {
+    "korean": "적에게 충격탄을 발사하여 {0} 피해를 주고, 뒤로 1칸 밀쳐냅니다.&n자신과 대상이 각각 전열에 가까울 수록 피해량이 증가합니다.",
+    "english": "Fires a shock grenade at an enemy, dealing {0} Additional DMG and knocking them back 1 tile. Damage increases the closer you and the target are to the front row."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHA_N_3": {
+    "korean": "라운드 개시 시, 아군이 전장에 다수 존재할 수록 추가 효과를 받습니다.&n1단계 (3개체 이상) : 행동력 15% 증가",
+    "english": "At the start of a round, the more allies present on the battlefield, the greater the additional effect. Stage 1 (3 or more allies): SPD +15%."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHA_N_4": {
+    "korean": "홀수 라운드 개시 시, 행 보호가, 짝수 라운드 개시 시, 열 보호가 활성화 됩니다. (해제 불가)&n라운드 개시 시, 1라운드 동안 지정 범위의 아군에게 받는 피해 감소 효과를 부여합니다.",
+    "english": "At the start of odd rounds, Row Protect is activated; at the start of even rounds, Column Protect is activated. (Cannot be removed) At the start of a round, grants DMG Reduction to allies within the designated area for 1 round."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHA_N_5": {
+    "korean": "라운드 개시 시, 생존한 아군이 적을 수록 강력해지는 반격 효과를 2회 획득합니다. &n3개체 이하 : 75% 위력으로 반격&n4 ~ 6개체 : 50% 위력으로 반격&n7개체 이상 : 25% 위력으로 반격",
+    "english": "At the start of the round, gain 2 stacks of a Counter Attack effect that becomes stronger the fewer surviving allies there are. 3 or fewer allies: Counter Attack with 75% power; 4–6 allies: Counter Attack with 50% power; 7 or more allies: Counter Attack with 25% power."
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_1": {
+    "korean": "2연장 철갑 속사포 : 표식",
+    "english": "Twin armor-piercing rapid-fire cannon : Marked"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteHA_N_1": {
+    "korean": "2연장 철갑 속사포 : 방어력 {0}%",
+    "english": "Twin armor-piercing rapid-fire cannon : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_2": {
+    "korean": "충격탄 발사 : 뒤로 {0}칸 밀기",
+    "english": "firing shock grenades : Push Back {0}"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_21": {
+    "korean": "충격탄 발사 : 피해량 {0}% (자신 전열)",
+    "english": "firing shock grenades : Additional DMG {0}% (Self Front Row)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_22": {
+    "korean": "충격탄 발사 : 피해량 {0}% (자신 중열)",
+    "english": "firing shock grenades : Additional DMG {0}% (Self Mid Row)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_23": {
+    "korean": "충격탄 발사 : 피해량 {0}% (대상 전열)",
+    "english": "firing shock grenades : Additional DMG {0}% (Target Front Row)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_24": {
+    "korean": "충격탄 발사 : 피해량 {0}% (대상 중열)",
+    "english": "firing shock grenades : Additional DMG {0}% (Target Mid Row)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_3": {
+    "korean": "병렬 분산 시스템 : 행동력 {0}%",
+    "english": "Parallel distributed systems : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_4": {
+    "korean": "교차형 차폐 장갑 : 받는 피해 {0}% 감소",
+    "english": "Cross-type shielding armor : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_41": {
+    "korean": "교차형 차폐 장갑 : 행 보호",
+    "english": "Cross-type shielding armor : Row Protect"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_42": {
+    "korean": "교차형 차폐 장갑 : 열 보호",
+    "english": "Cross-type shielding armor : Column Protect"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_5": {
+    "korean": "보복 프로토콜 : {0}% 위력으로 반격",
+    "english": "Retaliation protocol : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_51": {
+    "korean": "보복 프로토콜 : {0}% 위력으로 반격",
+    "english": "Retaliation protocol : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHA_N_52": {
+    "korean": "보복 프로토콜 : {0}% 위력으로 반격",
+    "english": "Retaliation protocol : Counter Attack with {0}% Power"
+  }
+}

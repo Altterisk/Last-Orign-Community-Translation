@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_MarionnetteHW_V2_TU_1": {
+    "korean": "122mm APFSDS",
+    "english": "122mm APFSDS"
+  },
+  "SkillName_Skill_MP_MarionnetteHW_V2_TU_2": {
+    "korean": "이중목적 소이탄",
+    "english": "Dual-purpose Incendiary Bomb"
+  },
+  "SkillName_Skill_MP_MarionnetteHW_V2_TU_3": {
+    "korean": "병렬 분산 시스템",
+    "english": "Parallel Distribution System"
+  },
+  "SkillName_Skill_MP_MarionnetteHW_V2_TU_4": {
+    "korean": "반동 제어 장치",
+    "english": "Recoil Control Device"
+  },
+  "SkillDesc_Skill_MP_MarionnetteHW_V2_TU_1": {
+    "korean": "포격으로 {0} 피해를 줍니다. &n대상의 방어력을 일정 비율 무시하며, 대상이 중장형 또는 보호기인 경우 피해량이 증가합니다.&n상기 두 피해량 증가 효과는 중첩됩니다.",
+    "english": "Deals {0} damage with bombardment. Ignore Protection by a certain percentage, and damage is increased against Heavy or Protector units. Both damage increase effects stack."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHW_V2_TU_2": {
+    "korean": "네이팜탄 포격으로 보호 무시 {0} 화염 속성 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 받는 피해 증가 / 지속 화염 피해 효과를 적용합니다.",
+    "english": "Napalm bombardment deals {0} Fire DoT DMG while ignoring Protection. On hit, applies DMG Taken Increased / Fire DoT DMG to the target for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHW_V2_TU_3": {
+    "korean": "라운드 개시 시, 아군이 전장에 다수 존재할 수록 추가 효과를 받습니다.&n1단계 (3개체 이상) : 행동력 15% 증가&n2단계 (5개체 이상) : 광역 피해 분산 15%",
+    "english": "At round start, the more allies present on the battlefield, the more additional effects are granted. Stage 1 (3+ units): SPD +15% Stage 2 (5+ units): Area DMG Dispersion 15%"
+  },
+  "SkillDesc_Skill_MP_MarionnetteHW_V2_TU_4": {
+    "korean": "적 공격 시, 적중 여부에 따라 다음 효과를 자신에게 적용합니다.&n적중 : 재공격 (1회)&n회피 : 적중 300% 증가 (1회)",
+    "english": "When attacked, apply the following effects to yourself depending on whether the attack hits. Hit: Reattack (1 time) Evade: ACC increased by 300% (1 time)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_1": {
+    "korean": "APFSDS : 피해량 {0}% (중장형)",
+    "english": "APFSDS : Additional DMG {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_11": {
+    "korean": "APFSDS : 피해량 {0}% (보호기)",
+    "english": "APFSDS : Additional DMG {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_12": {
+    "korean": "APFSDS : 방어 관통 {0}%",
+    "english": "APFSDS : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_2": {
+    "korean": "이중목적 소이탄 : 받는 피해 {0}% 증가",
+    "english": "Dual-purpose incendiary bomb : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteHW_V2_TU_2": {
+    "korean": "이중목적 소이탄 : 지속 화염 피해 {0}",
+    "english": "Dual-purpose incendiary bomb : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_3": {
+    "korean": "병렬 분산 시스템 : 행동력 {0}%",
+    "english": "Parallel Distribution System : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_32": {
+    "korean": "병렬 분산 시스템 : 광역 피해 분산 {0}% (최대)",
+    "english": "Parallel Distribution System : Area DMG Dispersion {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_4": {
+    "korean": "반동 제어 장치 : 재공격",
+    "english": "Recoil control device : Reattack"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_V2_TU_41": {
+    "korean": "반동 제어 장치 : 적중 {0}%",
+    "english": "Recoil control device : ACC {0}%"
+  }
+}

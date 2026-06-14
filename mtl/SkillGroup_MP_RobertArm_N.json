@@ -1,0 +1,58 @@
+{
+  "1002705933": {
+    "korean": "해체",
+    "english": "Disassembly"
+  },
+  "1002705934": {
+    "korean": "실험체 폐기",
+    "english": "Test Subject Disposal"
+  },
+  "1002700229": {
+    "korean": "정밀 분석",
+    "english": "Precision Analysis"
+  },
+  "1002705935": {
+    "korean": "재가동",
+    "english": "Restart"
+  },
+  "1002706392": {
+    "korean": "대상에게 {0} 피해를 주고, 표식을 적용합니다. 대상이 공격력 / 방어력 감소 상태일 경우 추가 피해를 입힙니다.",
+    "english": "Deals {0} damage to the target and applies a Marked. Deals Additional DMG if the target is under ATK / DEF reduction."
+  },
+  "1002706393": {
+    "korean": "목표 지점에 {0}의 피해를 주고, 대상이 표식 상태일 경우 AP를 감소시키고 추가 피해를 입힙니다.",
+    "english": "Deals {0} damage to the target location, and if the target is Marked, reduces AP and deals Additional DMG."
+  },
+  "1002706394": {
+    "korean": "라운드 개시 시, 공격력 증가 상태일 경우 적중이 증가합니다.",
+    "english": "At the start of the round, if you are under ATK increase, ACC increases."
+  },
+  "1002706395": {
+    "korean": "라운드 개시 시, 체력이 10% 미만일 경우 사망 시, 최대 체력의 50% 상태로 재가동을 합니다.",
+    "english": "At the start of the round, if health is below 10% and you die, you will Restart with 50% of max HP."
+  },
+  "1000107395": {
+    "korean": "해체 : 표식",
+    "english": "Dissolution : Marked"
+  },
+  "1000107399": {
+    "korean": "해체 : 피해량{0}%",
+    "english": "Dissolution : Additional DMG {0}%"
+  },
+  "1000107396": {
+    "korean": "실험체 폐기 : 피해량{0}%",
+    "english": "Disposal of test subjects : Additional DMG {0}%"
+  },
+  "1000107433": {
+    "korean": "정밀 분석 : AP {0}",
+    "english": "Precision analysis : AP {0}"
+  },
+  "1000107397": {
+    "korean": "정밀 분석: 적중{0}%",
+    "english": "Precision analysis : ACC {0}%"
+  },
+  "1000107398": {
+    "korean": "재가동 : {0}%HP로 전투 속행",
+    "english": "Restart : Battle Continuation with {0}% HP"
+  }
+}

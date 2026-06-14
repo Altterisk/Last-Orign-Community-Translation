@@ -1,0 +1,74 @@
+{
+  "1002700579": {
+    "korean": "머신건 속사",
+    "english": "Machine Gun Barrage"
+  },
+  "1002700580": {
+    "korean": "대열 방어",
+    "english": "Line Defense"
+  },
+  "1002700581": {
+    "korean": "밀집 대형",
+    "english": "Phalanx"
+  },
+  "1002705848": {
+    "korean": "태세 전환",
+    "english": "Stance Shift"
+  },
+  "1002703247": {
+    "korean": "머신건을 발사해 {0} 피해를 줍니다. 대상이 기동형인 경우, 피해량이 증가합니다.",
+    "english": "Fires a machine gun to deal {0} damage. If the target is mobile, the damage increases."
+  },
+  "1002703248": {
+    "korean": "3라운드 동안 같은 열의 아군을 보호하며, 받는 피해가 감소합니다.",
+    "english": "Protects allies in the same row for 3 rounds and reduces DMG Reduction."
+  },
+  "1002703249": {
+    "korean": "라운드 개시 시, 같은 열에 인접한 아군에게 피해 감소 효과를 부여합니다. 해당 효과는 중첩됩니다.",
+    "english": "At the start of the round, grant DMG Reduction to allies adjacent in the same column. This effect stacks."
+  },
+  "1002706377": {
+    "korean": "라운드 개시 시, 현재 라운드가 3라운드 이하일 경우, <방어 태세>를 갖춰 자신의 적중을 감소시키고 방어력을 대폭 증가시킵니다. 라운드 개시 시, 현재 라운드가 4 라운드 이상 일 경우, <공격 태세>를 갖춰 적중 / 방어 관통 증가, 재 공격을 하지만 방어력이 감소합니다.",
+    "english": "At the start of the round, if the current round is 3 or less, adopt <Defensive Stance> to decrease your ACC and greatly increase your DEF. If the current round is 4 or more, adopt <Offensive Stance> to increase ACC and DEF Penetration, perform a Reattack, but decrease your DEF."
+  },
+  "1000107026": {
+    "korean": "대공 사격 : 피해량{0}% (기동형)",
+    "english": "Anti‑Air Shot : Additional DMG {0}% (Air)"
+  },
+  "1000107027": {
+    "korean": "대열 방어 : 받는 피해 감소 {0}%",
+    "english": "Formation defense : DMG Reduction {0}%"
+  },
+  "1000107032": {
+    "korean": "대열 방어 : 열 보호",
+    "english": "Formation defense : Column Protect"
+  },
+  "1000107028": {
+    "korean": "밀집 대형 : 받는 피해 감소 {0}%",
+    "english": "Phalanx : DMG Reduction {0}%"
+  },
+  "1000107029": {
+    "korean": "방어 태세 : 방어력{0}%",
+    "english": "Defensive Stance : DEF {0}%"
+  },
+  "1000107030": {
+    "korean": "방어 태세 : 적중 {0}%",
+    "english": "Defensive Stance : ACC {0}%"
+  },
+  "1000107031": {
+    "korean": "공격 태세 : 적중{0}%",
+    "english": "Offensive Stance : ACC {0}%"
+  },
+  "1000107033": {
+    "korean": "공격 태세 : 방어 관통{0}%",
+    "english": "Offensive Stance : DEF Penetration {0}%"
+  },
+  "1000107034": {
+    "korean": "공격 태세 : 재 공격",
+    "english": "Offensive Stance : Reattack"
+  },
+  "1000107100": {
+    "korean": "공격 태세 : 방어력 {0}%",
+    "english": "Offensive Stance : DEF {0}%"
+  }
+}

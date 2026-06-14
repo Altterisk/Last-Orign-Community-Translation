@@ -1,0 +1,54 @@
+{
+  "1002702394": {
+    "korean": "히트 머신건",
+    "english": "Heat Machine Gun"
+  },
+  "1002702395": {
+    "korean": "자폭 개시",
+    "english": "Self-Destruct Initiated"
+  },
+  "1002702492": {
+    "korean": "자폭 준비",
+    "english": "Self-Destruct Preparation"
+  },
+  "1000102139": {
+    "korean": "내부 과열 냉각",
+    "english": "Internal Overheat Cooling"
+  },
+  "1002703589": {
+    "korean": "대상에게 {0} 화염 속성 피해를 주고, 50% 확률로 최대 3회까지 화염 저항을 감소시킵니다.",
+    "english": "Deals {0} Fire damage to the target and has a 50% chance to reduce Fire Resist up to 3 times."
+  },
+  "1002703590": {
+    "korean": "<자폭 준비 완료>가 적용되어 있는 상태라면 목표 대상에게 {0} 화염 속성 피해를 주고 자폭합니다. 대상의 방어막 / 피해 감소 효과를 무시합니다.",
+    "english": "If <Self-Destruct Ready> is active, deal {0} Fire damage to the target and self-destruct. Ignore the target's Barrier / DMG Reduction effects."
+  },
+  "1002703591": {
+    "korean": "스스로 자폭을 하기 위해 매 라운드마다 일정 확률로 내부를 과열하여 자폭 준비를 합니다. 자폭 준비가 3중첩이 될 시 <자폭 준비 완료> 상태가 되어 자폭을 실행 합니다.",
+    "english": "To self-destruct, it prepares each round with a chance to overheat internally. When Self-Destruct Preparation reaches 3 stacks, it becomes <Self-Destruct Ready> and executes self-destruction."
+  },
+  "1002703592": {
+    "korean": "냉기 공격에 피격 시 내부 과열 상태를 해제 합니다. 하지만 이미 <자폭 준비 완료>가 된 상태라면 자폭을 막을 수 없습니다.",
+    "english": "When hit by a Cold attack, it removes the internal overheating state. However, if it is already in <Self-Destruct Ready>, self-destruction cannot be prevented."
+  },
+  "1000104824": {
+    "korean": "자폭",
+    "english": "Self-Destruct"
+  },
+  "1000103931": {
+    "korean": "자폭 준비 : 내부 과열 중…",
+    "english": "Self-Destruct Preparation: Internal Overheating..."
+  },
+  "1000102137": {
+    "korean": "자폭 준비 완료",
+    "english": "Self-Destruct Ready"
+  },
+  "1000103871": {
+    "korean": "히트 머신건 : 화염 저항 {0}%",
+    "english": "Heat Machine Gun : Fire Resist {0}%"
+  },
+  "1000102018": {
+    "korean": "자폭 개시 : 방어막 / 피해 감소 무시",
+    "english": "Suicide attack initiated : Ignore Barrier / DMG Reduction"
+  }
+}

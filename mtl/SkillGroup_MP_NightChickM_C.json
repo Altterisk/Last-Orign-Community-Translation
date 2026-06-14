@@ -1,0 +1,138 @@
+{
+  "1002702680": {
+    "korean": "칙 미사일",
+    "english": "Chick Missile"
+  },
+  "1002702681": {
+    "korean": "풀 오픈 칙 미사일",
+    "english": "Full Open Chick Missile"
+  },
+  "1002702682": {
+    "korean": "칙 포메이션 (런쳐)",
+    "english": "Chick Formation (Launcher)"
+  },
+  "1002702678": {
+    "korean": "칙 복원 시스템",
+    "english": "Chick Restoration System"
+  },
+  "1002702679": {
+    "korean": "칙 복원 시스템 오류",
+    "english": "Chick Restoration System Error"
+  },
+  "1002704455": {
+    "korean": "대상에게 {0} 피해를 줍니다. 치명타 시, 75% 확률로 대상의 강화 효과를 해제하며 5라운드 동안 방어력을 감소시키고 받는 피해를 증가시킵니다.",
+    "english": "Deals {0} damage to the target. On a CRIT, there is a 75% chance to remove the target's enhancement effects, reduce its DEF for 5 rounds, and increase DMG Taken."
+  },
+  "1002704456": {
+    "korean": "대상에게 {0} 보호 무시 피해를 줍니다. 대상이 중장형일 경우 강화 효과를 해제하며 피해량이 증가하고, 2라운드 동안 방어력 감소 / 행동 불가 상태로 만듭니다.",
+    "english": "Deals {0} Ignore Protection damage to the target. If the target is Heavy, removes its enhancement effects, increases damage, and inflicts DEF Reduction / Stunned for 2 rounds."
+  },
+  "1002704457": {
+    "korean": "자신 앞 / 뒤에 인접한 아군의 공격력 / 치명타 / 행동력을 증가시킵니다.",
+    "english": "Increases ATK / CRIT / SPD of allies adjacent in front of or behind you."
+  },
+  "1002704453": {
+    "korean": "라운드 개시 시, 나이트 칙 실더???의 <복원 시스템 제어> 효과를 받는 상태면 효과 저항이 증가하며, 전투 속행 효과가 적용됩니다. <복원 시스템 제어> 상태에서 전투 속행 시, 영구 적용되는 전투 속행인  <칙 영구 복원> 상태가 됩니다. <칙 영구 복원> 상태로 라운드 개시 시, 공격력 / 적중 / 치명타 / 회피 / 행동력이 증가합니다. 해당 효과들은 강화 해제로 효과로는 해제되지 않습니다.",
+    "english": "At the start of a round, if you are under the effect of Knight Chick Shielder's <Restoration System Control>, Status Resist increases and the Combat Continuation effect is applied. While in <Restoration System Control>, continuing combat grants the permanently applied Combat Continuation <Chick Permanent Restoration> state. When a round begins in <Chick Permanent Restoration>, ATK / ACC / CRIT / EVA / SPD increase. These effects cannot be removed by enhancement removal effects."
+  },
+  "1002704454": {
+    "korean": "라운드 개시 시, <복원 시스템 오류> 상태면 받는 피해가 증가하며 전투 속행 효과가 제거됩니다.",
+    "english": "At the start of a round, if you are in <Restoration System Error>, DMG Taken Increased and the Combat Continuation effect is removed."
+  },
+  "1000104898": {
+    "korean": "칙 풀 업그레이드 : 방어력 무시",
+    "english": "Chick Full Upgrade : Ignore DEF"
+  },
+  "1000104889": {
+    "korean": "칙 복원 시스템 오류 : 복원 시스템 해제",
+    "english": "Chick Restoration System Error : Remove Restoration System"
+  },
+  "1000104122": {
+    "korean": "칙 복원 시스템 오류 : 오류 발생",
+    "english": "Chick Restoration System Error : Error occurred"
+  },
+  "1000104092": {
+    "korean": "칙 요격 미사일 : 강화 해제",
+    "english": "Chik Interception Missile : Buff Removal"
+  },
+  "1000104874": {
+    "korean": "칙 요격 미사일 : 방어력 {0}%",
+    "english": "Chik Interception Missile : DEF {0}%"
+  },
+  "1000105317": {
+    "korean": "칙 요격 미사일 : 받는 피해{0}%",
+    "english": "Chik Interception Missile : DMG Taken {0}%"
+  },
+  "1000104093": {
+    "korean": "풀 오픈 칙 미사일 : 강화 해제 (중장)",
+    "english": "Full Open Chick Missile : Buff Removal (Heavy)"
+  },
+  "1000104875": {
+    "korean": "칙 지상 폭격 : 방어력 {0}% (중장)",
+    "english": "Chik Ground Bombardment : DEF {0}% (Heavy)"
+  },
+  "1000105318": {
+    "korean": "칙 지상 폭격 : 피해량{0}% (중장)",
+    "english": "Chik Ground Bombardment : Additional DMG {0}% (Heavy)"
+  },
+  "1000105517": {
+    "korean": "칙 지상 폭격 : 행동 불가 (중장)",
+    "english": "Chik Ground Bombardment : Stunned (Heavy)"
+  },
+  "1000104094": {
+    "korean": "칙 포메이션 (런쳐) : 공격력{0}%",
+    "english": "Chick Formation (Launcher) : ATK {0}%"
+  },
+  "1000104876": {
+    "korean": "칙 포메이션 (런쳐) : 치명타{0}%",
+    "english": "Chick Formation (Launcher) : CRIT {0}%"
+  },
+  "1000105319": {
+    "korean": "칙 포메이션 (런쳐) : 행동력{0}%",
+    "english": "Chick Formation (Launcher) : SPD {0}%"
+  },
+  "1000104090": {
+    "korean": "칙 복원 시스템 : {0}HP로 전투 속행",
+    "english": "Chick restoration system : Battle Continuation with {0} HP"
+  },
+  "1000104873": {
+    "korean": "칙 복원 시스템 : 효과 저항{0}%",
+    "english": "Chick restoration system : Status Resist {0}%"
+  },
+  "1000104124": {
+    "korean": "칙 영구 복원 시스템 : {0}HP로 전투 속행",
+    "english": "Chik Permanent Restoration System : Battle Continuation with {0} HP"
+  },
+  "1000104139": {
+    "korean": "칙 풀 업그레이드 : 방어막 / 피해 감소 무시",
+    "english": "Chik Full Upgrade : Ignore Barrier / DMG Reduction"
+  },
+  "1000104091": {
+    "korean": "칙 복원 시스템 오류 : 받는 피해{0}%",
+    "english": "Chick restoration system error : DMG Taken {0}%"
+  },
+  "1000102326": {
+    "korean": "칙 복원 시스템 오류 : 전투 속행 해제",
+    "english": "Chick restoration system error : Battle Continuation Removal"
+  },
+  "1000104126": {
+    "korean": "칙 영구 강화 : 공격력{0}%",
+    "english": "Chik Permanent Enhancement : ATK {0}%"
+  },
+  "1000104892": {
+    "korean": "칙 영구 강화 : 적중{0}%",
+    "english": "Chik Permanent Enhancement : ACC {0}%"
+  },
+  "1000105329": {
+    "korean": "칙 영구 강화 : 치명타{0}%",
+    "english": "Chik Permanent Enhancement : CRIT {0}%"
+  },
+  "1000105523": {
+    "korean": "칙 영구 강화 : 회피{0}%",
+    "english": "Chik Permanent Enhancement : EVA {0}%"
+  },
+  "1000105605": {
+    "korean": "칙 영구 강화 : 행동력{0}%",
+    "english": "Chik Permanent Enhancement : SPD {0}%"
+  }
+}

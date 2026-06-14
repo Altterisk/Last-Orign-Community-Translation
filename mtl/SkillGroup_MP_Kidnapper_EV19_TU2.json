@@ -1,0 +1,106 @@
+{
+  "SkillDesc_Skill_MP_Kidnapper_EV19_TU2_1": {
+    "korean": "클로 돌진으로 목표와 바로 뒤의 대상에게 피해를 줍니다. &n5라운드 동안 공격 대상의 방어력을 감소시킵니다. 최대 5중첩)",
+    "english": "Claw Rush deals damage to the target and the enemy directly behind it. Reduces the target's DEF for 5 rounds (up to 5 stacks)."
+  },
+  "SkillDesc_Skill_MP_Kidnapper_EV19_TU2_2": {
+    "korean": "순식간에 대상에게 접근해 피해를 줍니다. &n방어막 / 피해 감소 / 보호 효과를 무시하며, 대상의 HP가 낮을수록 피해량이 증가합니다.&n해당 공격으로 적을 처치 시, AP가 증가합니다.",
+    "english": "Quickly approaches the target and deals damage. Ignores Barrier / DMG Reduction / Protection, and damage increases the lower the target's HP is. If this attack defeats the target, AP is increased."
+  },
+  "SkillDesc_Skill_MP_Kidnapper_EV19_TU2_3": {
+    "korean": "공격 적중 시, 5라운드 동안 공격력이 증가합니다. (최대 5중첩)&n공격이 적중하지 않을 시, 적중률이 증가합니다. (최대 5중첩) &n적중 증가 효과는 공격이 적중 시 사라집니다. &n적이 전열에 가까울 수록 피해량이 증가합니다.",
+    "english": "When an attack hits, ATK is increased for 5 rounds (max 5 stacks). When an attack misses, ACC is increased (max 5 stacks). ACC increase is removed when an attack hits. Damage increases the closer the target is to the front row."
+  },
+  "SkillDesc_Skill_MP_Kidnapper_EV19_TU2_4": {
+    "korean": "피격 시, 위협을 감지해 해당 라운드 동안 회피가 증가하며 공격력이 감소합니다. (최대 4중첩)&n피격 시, 위협을 감지해 2라운드 동안 모든 속성 저항력 및 행동력이 증가합니다. (최대 4중첩) &n매 라운드 시작 시, '75%의 위력으로 반격' 효과를 획득합니다. &n반격 효과는 반격 시 사라집니다.",
+    "english": "When hit, senses threat and gains EVA while ATK is decreased for the current round (max 4 stacks). When hit, senses threat and increases all Elemental Resist and SPD for 2 rounds (max 4 stacks). At the start of each round, gains a Counter Attack at 75% Power. The Counter Attack is removed when triggered."
+  },
+  "SkillDesc_Skill_MP_Kidnapper_EV19_TU2_5": {
+    "korean": "적이 사망 시, 자신 및 지정 범위의 아군들의 행동력과 치명타를 3라운드 간 증가시킵니다. (최대 3중첩)",
+    "english": "When an enemy dies, increases SPD and CRIT of self and allies in the designated area for 3 rounds (max 3 stacks)."
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_2": {
+    "korean": "광란의 학살 : 적 HP 낮을수록 피해량 {0}%",
+    "english": "Mad Massacre : Damage {0}% when enemy HP is low"
+  },
+  "BuffDesc2_Effect_MP_Kidnapper_EV19_TU2_2": {
+    "korean": "광란의 학살 : 방어막 / 피해 경감 효과 무시",
+    "english": "Mad Massacre : Ignores Barrier / DMG Reduction"
+  },
+  "BuffDesc2_Effect_MP_Kidnapper_EV19_TU2_22": {
+    "korean": "광란의 학살 : 방어막 / 피해 경감 효과 무시",
+    "english": "Mad Massacre : Ignores Barrier / DMG Reduction"
+  },
+  "BuffDesc2_Effect_MP_Kidnapper_EV19_TU2_23": {
+    "korean": "광란의 학살 : 방어막 / 피해 경감 효과 무시",
+    "english": "Mad Massacre : Ignores Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_31": {
+    "korean": "살육 쾌감 : 적중률 {0}%",
+    "english": "Thrill of Slaughter : Accuracy {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_1": {
+    "korean": "장갑 깎기 : 방어력 {0}%",
+    "english": "Armor Break : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_11": {
+    "korean": "살육 쾌감 : 피해량 {0}%",
+    "english": "Joy of Slaughter : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_12": {
+    "korean": "살육 쾌감 : 피해량 {0}%",
+    "english": "Joy of Slaughter : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_21": {
+    "korean": "광란의 학살 : AP 증가 {0}",
+    "english": "Mad Massacre : AP {0} Increase"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_22": {
+    "korean": "살육 쾌감 : 피해량 {0}%",
+    "english": "Joy of Slaughter : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_23": {
+    "korean": "살육 쾌감 : 피해량 {0}%",
+    "english": "Joy of Slaughter : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_3": {
+    "korean": "살육 쾌감 : 공격력 {0}%",
+    "english": "Joy of Slaughter : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_4": {
+    "korean": "위협 감지 : 회피 {0}%",
+    "english": "Threat Detection : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_41": {
+    "korean": "위협 감지 : 공격력-{0}%",
+    "english": "Threat Detection : ATK -{0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_42": {
+    "korean": "위협 감지 : 화염 저항 {0}%",
+    "english": "Threat Detection : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_43": {
+    "korean": "위협 감지 : 냉기 저항 {0}%",
+    "english": "Threat Detection : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_44": {
+    "korean": "위협 감지 : 전기 저항 {0}%",
+    "english": "Threat Detection : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_45": {
+    "korean": "위협 감지 : {0}% 위력으로 반격",
+    "english": "Threat Detection : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_46": {
+    "korean": "위협 감지 : 행동력 {0}%",
+    "english": "Threat Detection : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_5": {
+    "korean": "광란 : 행동력 {0}%",
+    "english": "Berserk : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_TU2_51": {
+    "korean": "광란 : 치명타 {0}%",
+    "english": "Berserk : CRIT {0}%"
+  }
+}

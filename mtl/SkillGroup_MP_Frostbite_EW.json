@@ -1,0 +1,102 @@
+{
+  "1002702571": {
+    "korean": "파쇄탄 발사",
+    "english": "Fragmentation Grenade Launch"
+  },
+  "1002702572": {
+    "korean": "냉각제 분사",
+    "english": "Coolant Spray"
+  },
+  "1002702573": {
+    "korean": "기온 저하",
+    "english": "Temperature Drop"
+  },
+  "1002702574": {
+    "korean": "혹한",
+    "english": "Extreme Cold"
+  },
+  "1002702575": {
+    "korean": "강화 빙결 코팅",
+    "english": "Reinforced Freeze Coating"
+  },
+  "1002704407": {
+    "korean": "지정 대상에게 {0} 피해를 줍니다. 대상의 방어막 / 피해 감소 효과를 무시합니다. 대상이 빙결 상태일 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to the designated target. Ignores the target's Barrier / DMG Reduction effects. If the target is frozen, damage is increased."
+  },
+  "1002704408": {
+    "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 줍니다. 3라운드 동안 대상들은 지속 냉기 피해를 입으며, 50% 확률로 회피 / 행동력이 감소합니다. 125%의 적중 보정이 적용됩니다.",
+    "english": "Deals {0} Ignore Protection Cold DoT DMG to the designated area. For 3 rounds, targets take Cold DoT DMG and have a 50% chance to have EVA / SPD reduced. A 125% ACC modifier is applied."
+  },
+  "1002704409": {
+    "korean": "라운드 개시 시, <침수> 상태인 바이오로이드들에게 50% 확률로 받는 피해 증가 / 효과 저항 / AP / 회피 감소 상태가 적용됩니다.",
+    "english": "At the start of the round, Bioroids in the <Soaked> state have a 50% chance to receive DMG Taken Increased / Status Resist / AP reduced / EVA reduced."
+  },
+  "1002704410": {
+    "korean": "라운드 개시 시, 범위 내 아군에게 <한랭지 적응> 효과가 있으면 대상의 공격력 / 적중 / 회피 / 행동력이 증가합니다.",
+    "english": "At the start of the round, if an ally within range has the <Cold Adaptation> effect, the target's ATK / ACC / EVA / SPD increase."
+  },
+  "1002704411": {
+    "korean": "전투 개시 시, 방어력이 대폭 증가합니다. 해당 효과는 강화 효과 해제로 해제할 수 없으며, 화염 속성 공격 피격 시 해제됩니다.",
+    "english": "At the start of combat, DEF increases dramatically. This effect cannot be removed by enhancement removal and is removed when hit by a fire‑attribute attack."
+  },
+  "1000104003": {
+    "korean": "빙결 파쇄 : 피해량{0}%",
+    "english": "Frostbreak : Additional DMG {0}%"
+  },
+  "1000104008": {
+    "korean": "파쇄탄 : 방어막 / 피해 감소 무시",
+    "english": "Shatter Shot : Ignore Barrier / DMG Reduction"
+  },
+  "1000104004": {
+    "korean": "냉각제 분사 : 회피 {0}%",
+    "english": "Coolant injection : EVA {0}%"
+  },
+  "1000104844": {
+    "korean": "냉각제 분사 : 행동력 {0}%",
+    "english": "Coolant injection : SPD {0}%"
+  },
+  "1000105293": {
+    "korean": "냉각제 분사 : {0} 지속 냉기 피해",
+    "english": "Coolant injection : Cold DoT DMG {0}"
+  },
+  "1000104005": {
+    "korean": "빙결 : 받는 피해{0}% (바이오)",
+    "english": "Freeze : DMG Taken {0}% (Bioroid)"
+  },
+  "1000104845": {
+    "korean": "빙결 : 효과 저항 {0}% 감소 (바이오)",
+    "english": "Freeze : Status Resist {0}% Decrease (Bioroid)"
+  },
+  "1000105294": {
+    "korean": "빙결 : 회피 {0}% (바이오)",
+    "english": "Freeze : EVA {0}% (Bioroid)"
+  },
+  "1000104036": {
+    "korean": "기온 저하 : AP {0} (바이오)",
+    "english": "Temperature drop : AP {0} (Bioroid)"
+  },
+  "1000104006": {
+    "korean": "혹한 적응 : 공격력{0}%",
+    "english": "Arctic Adaptation : ATK {0}%"
+  },
+  "1000104846": {
+    "korean": "혹한 적응 : 적중{0}%",
+    "english": "Arctic Adaptation : ACC {0}%"
+  },
+  "1000105295": {
+    "korean": "혹한 적응 : 회피{0}%",
+    "english": "Arctic Adaptation : EVA {0}%"
+  },
+  "1000105506": {
+    "korean": "혹한 적응 : 행동력{0}%",
+    "english": "Arctic Adaptation : SPD {0}%"
+  },
+  "1000104009": {
+    "korean": "한랭지 적응 : 냉기 저항{0}%",
+    "english": "Cold Zone Adaptation : Cold Resist {0}%"
+  },
+  "1000104007": {
+    "korean": "강화 빙결 코팅 : 방어력{0}%",
+    "english": "Reinforced Freezing Coating : DEF {0}%"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "SkillName_Skill_MP_NightChickDE13_N_1": {
+    "korean": "목표를 포착",
+    "english": "Target Acquired"
+  },
+  "SkillName_Skill_MP_NightChickDE13_N_2": {
+    "korean": "작전을 시작",
+    "english": "Initiate Operation"
+  },
+  "SkillName_Skill_MP_NightChickDE13_N_3": {
+    "korean": "강화가 됨",
+    "english": "Empowered"
+  },
+  "SkillName_Skill_MP_NightChickDE13_N_4": {
+    "korean": "현명해 짐",
+    "english": "Become Wise"
+  },
+  "SkillDesc_Skill_MP_NightChickDE13_N_1": {
+    "korean": "목표를 공격 대상으로 지정해 {0} 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 / 회피 감소 상태로 만듭니다.",
+    "english": "Designate a target and deal {0} damage, applying Marked, DMG Taken Increased, and EVA Reduced for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_NightChickDE13_N_2": {
+    "korean": "지정한 위치에 섬광탄을 발사해 2라운드 동안 적중, 행동력, 효과 저항을 낮춥니다",
+    "english": "Fire a flashbang at the designated location, reducing ACC, SPD, and Status Resist for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_NightChickDE13_N_3": {
+    "korean": "매 라운드마다 2라운드 동안 아군 전체의 방어력/ 전기 저항/ 냉기 저항을 증가시킵니다.",
+    "english": "At the start of each round, increase DEF, Electric Resist, and Cold Resist of all allies for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_NightChickDE13_N_4": {
+    "korean": "상황판단이 빨라집니다. 전투 시작시 피해 무효화 2회를 얻습니다",
+    "english": "Faster decision-making. At the start of battle, gain 2 instances of Damage Nullification."
+  },
+  "BuffDesc1_Effect_MP_NightChickDE13_N_1": {
+    "korean": "목표를 포착: 받는 피해 {0}%",
+    "english": "Capture The Target : DMG Taken {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChickDE13_N_1": {
+    "korean": "목표를 포착: 회피 {0}%",
+    "english": "Capture The Target : EVA {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickDE13_N_1": {
+    "korean": "목표를 포착: 표식 설정",
+    "english": "Capture The Target : Marks target"
+  },
+  "BuffDesc1_Effect_MP_NightChickDE13_N_2": {
+    "korean": "작전을 시작: 적중 {0}%",
+    "english": "Start The Operation : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChickDE13_N_2": {
+    "korean": "작전을 시작: 행동력 {0}%",
+    "english": "Start The Operation : SPD {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickDE13_N_2": {
+    "korean": "작전을 시작: 효과 저항 {0}%",
+    "english": "Start The Operation : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickDE13_N_3": {
+    "korean": "강화가 됨: 방어력 {0}%",
+    "english": "It's Been Strengthened : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChickDE13_N_3": {
+    "korean": "강화가 됨: 화염 저항 {0}%",
+    "english": "It's Been Strengthened : Fire Resist {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickDE13_N_3": {
+    "korean": "강화가 됨: 전기 저항 {0}%",
+    "english": "It's Been Strengthened : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickDE13_N_4": {
+    "korean": "현명해 짐 : 피해 무효화 {0}회",
+    "english": "Become Wise : Damage Nullification {0}x"
+  }
+}

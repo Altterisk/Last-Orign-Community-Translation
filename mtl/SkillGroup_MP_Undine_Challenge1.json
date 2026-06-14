@@ -1,0 +1,90 @@
+{
+  "SkillName_Skill_MP_Undine_Challenge1_1": {
+    "korean": "개량형 리볼버 캐논",
+    "english": "Improved Revolver Cannon"
+  },
+  "SkillName_Skill_MP_Undine_Challenge1_2": {
+    "korean": "개량형 F.F 미사일",
+    "english": "Improved FF missile"
+  },
+  "SkillName_Skill_MP_Undine_Challenge1_3": {
+    "korean": "180도 선회?!",
+    "english": "A 180-degree turn?"
+  },
+  "SkillName_Skill_MP_Undine_Challenge1_4": {
+    "korean": "거만과 편견",
+    "english": "Arrogance and Prejudice"
+  },
+  "SkillName_Skill_MP_Undine_Challenge1_5": {
+    "korean": "엘?랑?",
+    "english": "El?rang?"
+  },
+  "SkillDesc_Skill_MP_Undine_Challenge1_1": {
+    "korean": "개량된 리볼버 캐논으로 단일 대상에게 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상의 치명타를 감소시킵니다.&n대상이 표식 / 공격 지원 상태인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to a single target with an upgraded Revolver Cannon. On hit, reduces the target's CRIT for 2 rounds. Damage is increased if the target is Marked / Follow-Up Attack."
+  },
+  "SkillDesc_Skill_MP_Undine_Challenge1_2": {
+    "korean": "개량된 날치 미사일로 단일 대상에게 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.&n대상이 표식 / 공격 지원 상태인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to a single target with an upgraded Flying Fish Missile. Ignores a percentage of the target's DEF. Damage is increased if the target is Marked / Follow-Up Attack."
+  },
+  "SkillDesc_Skill_MP_Undine_Challenge1_3": {
+    "korean": "라운드 개시 시, 범위 내 보호기를 제외한 아군을 지정 보호하고 AP를 증가시킵니다.&n라운드 개시 시 자신과 인접한 아군이 없을 경우, 방어막 / 피해 감소 무시 효과를 획득하고 [개량형 F.F 미사일]을 사용합니다.",
+    "english": "At the start of the round, designate and protect an ally within range (excluding protectors) and increase AP. If there are no adjacent allies at the start of the round, gain Barrier / Ignore DMG Reduction and use [Improved FF Missile]."
+  },
+  "SkillDesc_Skill_MP_Undine_Challenge1_4": {
+    "korean": "적 공격 시, 자신에게 적용된 회피 감소 효과가 해제됩니다.&n회피 시, 2라운드 동안 자신의 적중이 증가하고 반격합니다.&n반격 시, 2라운드 동안 자신의 회피가 증가합니다.",
+    "english": "When attacked, any EVA reduction effects on yourself are removed. When you EVA, your ACC increases for 2 rounds and you Counter Attack. When Counter Attacking, your EVA increases for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_Undine_Challenge1_5": {
+    "korean": "라운드 개시 시 아군 수가 적보다 많을 경우, 아군이 받는 피해가 감소합니다.&n라운드 개시 시 적 수가 아군보다 많을 경우, 아군이 받는 피해가 증가합니다.",
+    "english": "At the start of the round, if the number of allies exceeds the number of enemies, allies receive DMG Reduction. At the start of the round, if the number of enemies exceeds the number of allies, allies receive DMG Taken Increased."
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_1": {
+    "korean": "개량형 리볼버 캐논 : 치명타 {0}%",
+    "english": "Improved Revolver Cannon : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_11": {
+    "korean": "크림 치즈 파이 : 피해량 {0}%",
+    "english": "Cream Cheese Pie : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_2": {
+    "korean": "개량형 F.F 미사일 : 방어 관통 {0}%",
+    "english": "Improved FF missile : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_3": {
+    "korean": "180도 선회?! : 지정 보호",
+    "english": "A 180-degree turn?! : Target Protect"
+  },
+  "BuffDesc2_Effect_MP_Undine_Challenge1_3": {
+    "korean": "180도 선회?! : AP {0}",
+    "english": "A 180-degree turn?! : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_31": {
+    "korean": "360도 선회?! : 방어막 / 피해 감소 무시",
+    "english": "360 Degree Turn?! : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_4": {
+    "korean": "거만 : 회피 감소 해제",
+    "english": "Arrogance : EVA Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_41": {
+    "korean": "편견 : 적중 {0}%",
+    "english": "Prejudice : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_42": {
+    "korean": "편견 : {0}% 위력으로 반격",
+    "english": "Bias : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_43": {
+    "korean": "좀비?! : 회피 {0}%",
+    "english": "Zombie?! : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_5": {
+    "korean": "엘랑! : 받는 피해 {0}% 감소",
+    "english": "Elan! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_Undine_Challenge1_55": {
+    "korean": "엘?랑? : 받는 피해 {0}% 증가",
+    "english": "El?rang? : DMG Taken Increased {0}%"
+  }
+}

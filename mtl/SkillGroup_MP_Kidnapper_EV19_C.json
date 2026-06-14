@@ -1,0 +1,150 @@
+{
+  "SkillName_Skill_MP_Kidnapper_EV19_C_1": {
+    "korean": "커들",
+    "english": "Cuddle"
+  },
+  "SkillName_Skill_MP_Kidnapper_EV19_C_2": {
+    "korean": "탠트럼",
+    "english": "Tantrum"
+  },
+  "SkillName_Skill_MP_Kidnapper_EV19_C_3": {
+    "korean": "눈치",
+    "english": "Sense"
+  },
+  "SkillName_Skill_MP_Kidnapper_EV19_C_4": {
+    "korean": "떼쓰기",
+    "english": "Tantrums"
+  },
+  "SkillName_Skill_MP_Kidnapper_EV19_C_5": {
+    "korean": "마음의 벽",
+    "english": "Wall of the Heart"
+  },
+  "SkillDesc_Skill_MP_Kidnapper_EV19_C_1": {
+    "korean": "전력 몸통 박치기로 목표와 바로 뒤의 대상에게 {0} 피해를 주고 적중 여부에 관계 없이 반격을 해제합니다.&n적중 시, 자신에게 적용된 속성 지속 피해 효과에 따라 추가 속성 피해를 가합니다.&n<커들>이 빗나가면 다음 행동 시 <탠트럼>을 사용합니다.",
+    "english": "Deal {0} damage to the target and the unit directly behind it with a full-power body slam, and remove Counterattack regardless of hit. If it hits, deal additional elemental damage based on any elemental DoT effects applied to yourself. If <Cuddle> misses, you will use <Tantrum> on your next action."
+  },
+  "SkillDesc_Skill_MP_Kidnapper_EV19_C_2": {
+    "korean": "순식간에 대상에게 접근해 강짜를 놓아 {0} 보호 무시 피해를 주고 강화 효과를 해제합니다.&n공격 시, 방어막 / 피해 감소 무시 효과를 획득하고, 자신의 HP가 낮을 수록 피해량이 증가합니다.&n700%의 적중 보정이 적용됩니다.",
+    "english": "Instantly close the distance to the target and unleash a fierce strike, dealing {0} Ignore Protection damage and removing buffs. Upon attacking, gain Ignore Barrier / DMG Reduction, and the damage increases as your HP gets lower. 700% ACC is applied."
+  },
+  "SkillDesc_Skill_MP_Kidnapper_EV19_C_3": {
+    "korean": "라운드 개시 시, 자신이 배치된 열에 따라 특정 속성 하한이 99%로 적용됩니다.&n속성 공격 피격 시, 2라운드 동안 피아 구분 없이 해당 속성 지속 피해 효과를 제거하고 새로 적용합니다. (중첩 불가)&n상기 효과는 효과 저항에 영향을 받지 않으며, 해로운 효과 해제로 해제되지 않습니다.",
+    "english": "At the start of a round, a specific attribute lower limit of 99% is applied based on the column you occupy. When hit by an attribute attack, for 2 rounds the corresponding attribute DoT effect is removed and reapplied, regardless of ally or enemy (cannot stack). This effect is not affected by Status Resist and cannot be removed by harmful effect removal."
+  },
+  "SkillDesc_Skill_MP_Kidnapper_EV19_C_4": {
+    "korean": "홀수 라운드에 공격 받을 시, 해제 불가한 피해 최소화 효과를 획득합니다.&n짝수 라운드에 피격 시, 자신에게 적용된 해로운 효과를 해제합니다.&n매 라운드 1번 이상 피격되지 않으면 지속 물리 피해를 입습니다. &n한 라운드에 4번 이상 피격 시, 반격합니다.",
+    "english": "When attacked on odd-numbered rounds, gain an unremovable Minimize Damage effect. When hit on even-numbered rounds, remove harmful effects from yourself. If you are not hit at least once each round, you suffer Physical DoT DMG. If you are hit four or more times in a single round, you Counterattack."
+  },
+  "SkillDesc_Skill_MP_Kidnapper_EV19_C_5": {
+    "korean": "전투 개시 시, 방어력 비례 치명타 저항이 증가하고, 현재 HP 비례 방어 관통 저항이 증가합니다.&n적 사망 시, 마음의 벽이 허물어져 자신의 방어력을 영구적으로 감소시키고 적 전체에 미세한 물리 피해를 입힙니다.&n상기 효과는 효과 저항에 영향을 받지 않으며, 강화 효과 해제로 해제되지 않습니다.&n아군 사망 시, 억장이 무너져 그 뒤를 따라갑니다.",
+    "english": "At the start of combat, CRIT Resistance increases proportionally to DEF, and DEF Penetration Resistance increases proportionally to current HP. When an enemy dies, Wall of the Heart shatters, permanently reducing your DEF and dealing minor physical damage to all enemies. This effect is not affected by Status Resist and cannot be removed by buff removal. When an ally dies, Collapse of Spirits occurs, following them in death."
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_11": {
+    "korean": "안아줘요 : 추가 화염 피해 {0}%",
+    "english": "Hug me : Additional Fire Damage {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_12": {
+    "korean": "안아줘요 : 추가 냉기 피해 {0}%",
+    "english": "Hug me : Additional Frost Damage {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_13": {
+    "korean": "안아줘요 : 추가 전기 피해 {0}%",
+    "english": "Hug me : Additional Electric Damage {0}%"
+  },
+  "BuffDesc2_Effect_MP_Kidnapper_EV19_C_21": {
+    "korean": "부숴버리겠어 : 자신 HP 비례 피해량 {0}% (최대)",
+    "english": "I will destroy it : Self HP Proportional Damage {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_42": {
+    "korean": "째려보기",
+    "english": "Glare"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_43": {
+    "korean": "자꾸 때릴거야?",
+    "english": "Are you going to keep hitting me?"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_5": {
+    "korean": "마음의 벽 : 치명타 저항 {0}% (최대)",
+    "english": "Wall of the Heart : CRIT Resistance {0}% (Max)"
+  },
+  "BuffDesc2_Effect_MP_Kidnapper_EV19_C_5": {
+    "korean": "마음의 벽 : 방어 관통 저항 {0}% (최대)",
+    "english": "Wall of the Heart : DEF Penetration Resistance {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_52": {
+    "korean": "마음 찢어짐",
+    "english": "Heart Tearing"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_53": {
+    "korean": "억장 무너짐",
+    "english": "Collapse of Spirits"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_1": {
+    "korean": "안아줘요 : 반격 해제",
+    "english": "Hug me : Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_2": {
+    "korean": "탠트럼 : 강화 해제",
+    "english": "Tantrum : Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_21": {
+    "korean": "가질 수 없다면 : 방어막 / 피해 감소 무시",
+    "english": "If I Can't Have It : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_3": {
+    "korean": "눈치… : 화염 저항 하한 {0}%",
+    "english": "Sense… : Minimum Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_MP_Kidnapper_EV19_C_3": {
+    "korean": "눈치… : 냉기 저항 하한 {0}%",
+    "english": "Sense… : Minimum Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_31": {
+    "korean": "눈치… : 화염 저항 하한 {0}%",
+    "english": "Sense… : Minimum Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_MP_Kidnapper_EV19_C_31": {
+    "korean": "눈치… : 전기 저항 하한 {0}%",
+    "english": "Sense… : Minimum Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_32": {
+    "korean": "눈치… : 전기 저항 하한 {0}%",
+    "english": "Sense… : Minimum Electric Resist {0}%"
+  },
+  "BuffDesc2_Effect_MP_Kidnapper_EV19_C_32": {
+    "korean": "눈치… : 냉기 저항 하한 {0}%",
+    "english": "Sense… : Minimum Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_33": {
+    "korean": "깨는 분위기 : {0} 지속 화염 피해",
+    "english": "Shattering Mood : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_34": {
+    "korean": "싸늘한 분위기 : {0} 지속 냉기 피해",
+    "english": "Chilling Mood : Cold DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_35": {
+    "korean": "따끔한 분위기 : {0} 지속 전기 피해",
+    "english": "Tingling Mood : Electric DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_36": {
+    "korean": "집에 갈까... :  {0} 지속 물리 피해",
+    "english": "Going Home… : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_4": {
+    "korean": "떼쓰기 : 피해 최소화",
+    "english": "Tantrums : Minimize Damage"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_41": {
+    "korean": "떼쓰기 : 해로운 효과 해제",
+    "english": "Tantrums : Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_44": {
+    "korean": "선 넘네… : {0}% 위력으로 반격",
+    "english": "Crossing the Line… : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_MP_Kidnapper_EV19_C_51": {
+    "korean": "무너진 마음의 벽 : 방어력 {0}%",
+    "english": "Broken Wall of Heart : DEF {0}%"
+  }
+}

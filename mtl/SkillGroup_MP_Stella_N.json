@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_Stella_N_1": {
+    "korean": "고스티 헌트",
+    "english": "Ghostly Hunt"
+  },
+  "SkillName_Skill_MP_Stella_N_2": {
+    "korean": "베이스 어택",
+    "english": "Base Attack"
+  },
+  "SkillName_Skill_MP_Stella_N_3": {
+    "korean": "슬픔의 악상",
+    "english": "Sorrowful Melody"
+  },
+  "SkillName_Skill_MP_Stella_N_4": {
+    "korean": "사운드 웨이브",
+    "english": "Sound Wave"
+  },
+  "SkillName_Skill_MP_Stella_N_5": {
+    "korean": "바운스 웨이브",
+    "english": "Bounce Wave"
+  },
+  "SkillDesc_Skill_MP_Stella_N_1": {
+    "korean": "친구를 소환하여 전방의 적들에게 소울 브레스를 뿜어 목표 지점에 {0} 보호 무시 전기 피해를 입힙니다.&n적중 시 2라운드 동안 방어력 및 회피가 감소합니다.&n치명타 시 1라운드 동안 이동 불가 상태로 만듭니다.",
+    "english": "Summon a friend to unleash Soul Breath at enemies in front, dealing {0} Ignore Protection Electric DMG to the target area. On hit, reduces DEF and EVA for 2 rounds. On CRIT, applies Rooted for 1 round."
+  },
+  "SkillDescSimple_Skill_MP_Stella_N_1": {
+    "korean": "지정 범위 보호 무시 {0} 전기 피해. 2라운드 방어력 및 회피 감소. 치명타 시 이동 불가.",
+    "english": "Ignore Protection {0} Electric DMG / 2 rounds DEF reduction / 2 rounds EVA reduction / CRIT: Rooted"
+  },
+  "SkillDesc_Skill_MP_Stella_N_2": {
+    "korean": "전방에 스피커를 소환하여 무대를 만든 후 지정 범위에 {0} 전기 피해 발생시킵니다.&n스킬 적중 시 2라운드 동안 대상의 공격력을 감소시키고 [회로 과열] 상태로 만듭니다.&n치명타 시 전기 추가 피해가 발생합니다.",
+    "english": "Summon speakers in front to create a stage, then deal {0} Electric DMG within the designated area. On hit, reduces the target's ATK for 2 rounds and applies [Circuit Overheating]. On CRIT, deals additional Electric DMG."
+  },
+  "SkillDescSimple_Skill_MP_Stella_N_2": {
+    "korean": "지정 범위 {0} 전기 피해. 2라운드 공격력 감소 및 [회로 과열] 부여. 치명타 시 전기 추가 피해 발생.",
+    "english": "{0} Electric DMG / 2 rounds ATK reduction / [Circuit Overheating] applied / CRIT: additional Electric DMG"
+  },
+  "SkillDesc_Skill_MP_Stella_N_3": {
+    "korean": "라운드 개시 시 적 전체의 공격력 / 적중 / 스킬 위력을 감소 시킵니다.&n피격 시 자신에게 피해 무효화 1회를 부여합니다.",
+    "english": "At the start of the round, reduces enemies' ATK / ACC / Skill Power. When hit, grant yourself 1 stack of Damage Nullification."
+  },
+  "SkillDescSimple_Skill_MP_Stella_N_3": {
+    "korean": "적군 전체 공격력 / 적중 / 스킬 위력 감소. 조건부 자신에게 피해 무효화 1회 부여.",
+    "english": "ATK / ACC / Skill Power reduction for all enemies / Conditional 1 stack Damage Nullification to self"
+  },
+  "SkillDesc_Skill_MP_Stella_N_4": {
+    "korean": "피격 시 자신에게 적용된 해로운 효과를 해제합니다.&n공격 적중 시 아군 전체의 AP를 증가시킵니다.&n피격 시 아군 전체의 AP를 증가시킵니다.&n적 처치 시 아군 전체의 AP를 증가시킵니다.&n라운드 개시 시 스쿼드에 <헬라>가 있는 경우 자신과 헬라의 AP가 증가합니다.",
+    "english": "Removes harmful effects from yourself when hit. Increases all allies' AP when you hit an enemy. Increases all allies' AP when you are hit. Increases all allies' AP when you defeat an enemy. At the start of the round, if <Hela> is in the squad, your AP and Hela's AP increase."
+  },
+  "SkillDescSimple_Skill_MP_Stella_N_4": {
+    "korean": "피격 시 해로운 효과 해제. 조건부AP 증가.",
+    "english": "Remove harmful effects on hit / Conditional AP increase"
+  },
+  "SkillDesc_Skill_MP_Stella_N_5": {
+    "korean": "라운드 개시 시 자신에게 스킬 위력 증가 효과를 부여합니다..&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 [도움?]을 부여합니다.&n도움? 1 : AP 증가&n도움? 2 : AP 증가 / 행동력 증가&n도움? 3 : AP 증가 / 행동력 증가 / 효과 저항 증가&n도움? 4 : AP 증가 / 행동력 증가 / 효과 저항 증가 / 받는 피해 감소 효과 부여&n라운드 개시 시 자신을 제외한 <라이언 코퍼레이션> 전투원을 공격 지원합니다.&n※ 스쿼드 내에 공격 지원 대상이 중복된 경우 공격 지원은 1회만 적용됩니다.",
+    "english": "At the start of the round, grant yourself a Skill Power increase. At the start of the round, if there are <Lion Corporation> combatants in the squad excluding yourself, grant [Help?] to all allies based on their number: Help? 1 – AP increase; Help? 2 – AP increase / SPD increase; Help? 3 – AP increase / SPD increase / Status Resist increase; Help? 4 – AP increase / SPD increase / Status Resist increase / DMG Reduction. At the start of the round, provide Attack Support to <Lion Corporation> combatants excluding yourself. ※ If Attack Support targets are duplicated in the squad, Attack Support is applied only once."
+  },
+  "SkillDescSimple_Skill_MP_Stella_N_5": {
+    "korean": "자신에게 스킬 위력 증가 부여. 조건부 AP / 행동력 / 효과저항 증가 / 받는 피해 감소. 공격 지원.",
+    "english": "Self Skill Power increase / Conditional AP / SPD / Status Resist increase / DMG Reduction / Attack Support"
+  },
+  "BuffDesc2_Effect_LC_Stella_N_2": {
+    "korean": "베이스 어택 : {0}% 전기 추가 피해 (치명타 시)",
+    "english": "Base Attack: {0}% additional electric damage (On CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Stella_N_21": {
+    "korean": "베이스 어택 : {0}% 전기 추가 피해 (치명타 시)",
+    "english": "Base Attack: {0}% additional electric damage (On CRIT)"
+  }
+}

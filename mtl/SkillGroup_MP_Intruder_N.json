@@ -1,0 +1,134 @@
+{
+  "SkillName_Skill_MP_Intruder_N_1": {
+    "korean": "재밍 미사일",
+    "english": "Jamming Missile"
+  },
+  "SkillName_Skill_MP_Intruder_N_2": {
+    "korean": "요격 준비",
+    "english": "Interception Preparation"
+  },
+  "SkillName_Skill_MP_Intruder_N_3": {
+    "korean": "고주파 재머",
+    "english": "High-Frequency Jammer"
+  },
+  "SkillName_Skill_MP_Intruder_N_4": {
+    "korean": "AWACS",
+    "english": "AWACS"
+  },
+  "SkillDesc_Skill_MP_Intruder_N_1": {
+    "korean": "지정 범위에 보호 무시 {0} 피해를 줍니다. 적중 시, 대상의 공격력 / 행동력 증가 효과를 해제합니다.&n적중 여부와 관계 없이, 대상의 회피가 자신보다 낮으면 2라운드 동안 적중 / 치명타 감소 효과가 적용됩니다.&n스킬 사용 시, 자신에게 걸린 지정 보호를 해제합니다.",
+    "english": "Deals {0} damage ignoring protection to the designated area. On hit, removes the target's ATK / SPD increase effects. Regardless of hit, if the target's EVA is lower than yours, applies ACC / CRIT reduction for 2 rounds. When using the skill, removes Target Protect from yourself."
+  },
+  "SkillDesc_Skill_MP_Intruder_N_2": {
+    "korean": "지정 범위 내 아군에게 적용된 해로운 효과를 해제하고, 3라운드 동안 사거리 / 적중 / 치명타 증가 효과를 적용합니다.&n대상의 HP가 50% 이하인 경우 반격 효과 1회가 추가 적용됩니다.",
+    "english": "Removes harmful effects from allies within the designated area and applies Range / ACC / CRIT increase for 3 rounds. If the target's HP is 50% or less, an additional Counter Attack is applied once."
+  },
+  "SkillDesc_Skill_MP_Intruder_N_3": {
+    "korean": "라운드 개시 시, 적이 후열에 가까울수록 적의 스킬 위력이 감소합니다.&n자신이 지정 보호를 받는 상태에서 사망 시, 적에게 3라운드 동안 해제 불가능한 스킬 위력 / 적중 감소를 적용합니다.&n자신이 지정 보호를 받지 않는 상태에서 사망 시, 적에게 적용된 해로운 효과를 모두 해제하고 AP / 스킬 위력을 증가시킵니다.",
+    "english": "At the start of a round, the closer an enemy is to the back row, the more their Skill Power is reduced. If you die while under Target Protect, apply an unremovable Skill Power / ACC reduction to the enemy for 3 rounds. If you die while not under Target Protect, remove all harmful effects from the enemy and increase their AP / Skill Power."
+  },
+  "SkillDesc_Skill_MP_Intruder_N_4": {
+    "korean": "전투 개시 시, 아군 전체에게 광역 스킬 위력 감소 효과를 부여하며, 매 라운드 효과가 점감합니다.&n자신의 스킬이 적중하면, 2라운드 동안 아군 전체의 적중 / 회피가 증가합니다.&n자신이 공격 받으면 아군 전체의 AP가 증가합니다.",
+    "english": "At the start of combat, grants all allies an Area Skill Power reduction that diminishes each round. When your skill hits, all allies gain ACC / EVA increase for 2 rounds. When you are attacked, all allies gain AP."
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_1": {
+    "korean": "재밍 미사일 : 공격력 증가 해제",
+    "english": "jamming missile : ATK Buff Removal"
+  },
+  "BuffDesc2_Effect_MP_Intruder_N_1": {
+    "korean": "재밍 미사일 : 공격력 증가 해제",
+    "english": "jamming missile : ATK Buff Removal"
+  },
+  "BuffDesc3_Effect_MP_Intruder_N_1": {
+    "korean": "재밍 미사일 : 행동력 증가 해제",
+    "english": "jamming missile : SPD Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_11": {
+    "korean": "재밍 미사일 : 적중 {0}%",
+    "english": "jamming missile : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_Intruder_N_11": {
+    "korean": "재밍 미사일 : 치명타 {0}%",
+    "english": "jamming missile : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_12": {
+    "korean": "좌표 노출 : 지정 대상 보호 해제",
+    "english": "Coordinate Reveal : Target Protect Removal"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_2": {
+    "korean": "요격 준비 : 적중 {0}%",
+    "english": "Prepare for interception : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_Intruder_N_2": {
+    "korean": "요격 준비 : 치명타 {0}%",
+    "english": "Prepare for interception : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_MP_Intruder_N_2": {
+    "korean": "요격 준비 : 사거리 {0}",
+    "english": "Prepare for interception : Range {0}"
+  },
+  "BuffDesc4_Effect_MP_Intruder_N_2": {
+    "korean": "요격 준비 : 해로운 효과 해제",
+    "english": "Prepare for interception : Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_21": {
+    "korean": "요격 준비 : {0}% 위력으로 반격",
+    "english": "Prepare for interception : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_3": {
+    "korean": "고주파 재머 : 스킬 위력 {0}%",
+    "english": "High-frequency jammer : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_31": {
+    "korean": "고주파 재머 : 스킬 위력 {0}%",
+    "english": "High-frequency jammer : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_32": {
+    "korean": "고주파 재머 : 스킬 위력 {0}%",
+    "english": "High-frequency jammer : Skill Power {0}%"
+  },
+  "BuffDesc2_Effect_MP_Intruder_N_32": {
+    "korean": "고주파 재머 : 적중 {0}%",
+    "english": "High-frequency jammer : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_33": {
+    "korean": "고주파 재머 : AP {0}",
+    "english": "High-frequency jammer : AP {0}"
+  },
+  "BuffDesc2_Effect_MP_Intruder_N_33": {
+    "korean": "고주파 재머 : 해로운 효과 해제",
+    "english": "High-frequency jammer : Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_34": {
+    "korean": "고주파 재머 : 스킬 위력 {0}%",
+    "english": "High-frequency jammer : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_4": {
+    "korean": "AWACS : 광역 스킬 위력 {0}%",
+    "english": "AWACS : Area Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_41": {
+    "korean": "AWACS : 광역 피해 분산 {0}% (최대)",
+    "english": "AWACS : Area DMG Dispersion {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_42": {
+    "korean": "AWACS : 광역 피해 분산 {0}% (최대)",
+    "english": "AWACS : Area DMG Dispersion {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_43": {
+    "korean": "AWACS : 광역 피해 분산 {0}% (최대)",
+    "english": "AWACS : Area DMG Dispersion {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_44": {
+    "korean": "AWACS : 적중 {0}%",
+    "english": "AWACS : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_Intruder_N_44": {
+    "korean": "AWACS : 회피 {0}%",
+    "english": "AWACS : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_Intruder_N_45": {
+    "korean": "AWACS : AP {0}",
+    "english": "AWACS : AP {0}"
+  }
+}

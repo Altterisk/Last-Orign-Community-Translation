@@ -1,0 +1,134 @@
+{
+  "1002701462": {
+    "korean": "공격 훼방",
+    "english": "Attack Disruption"
+  },
+  "1002701463": {
+    "korean": "전무장 보급",
+    "english": "Full Armament Supply"
+  },
+  "1002701464": {
+    "korean": "칙 약진하기",
+    "english": "Rapid Advance"
+  },
+  "1002701465": {
+    "korean": "전황 판단",
+    "english": "Battlefield Assessment"
+  },
+  "1002701466": {
+    "korean": "배수진",
+    "english": "Last Stand"
+  },
+  "1002703522": {
+    "korean": "대상에게 {0} 피해를 주며, 2라운드 동안 대상의 공격력 / 적중 / 치명타를 낮춥니다. 해당 효과는 2회까지 중첩됩니다.",
+    "english": "Deals {0} damage to the target and reduces the target's ATK / ACC / CRIT for 2 rounds. This effect stacks up to 2 times."
+  },
+  "1002703523": {
+    "korean": "주변 아군의 출력을 강화해 공격력 / 적중 / 치명타를 높입니다. 자신은 행동력이 증가합니다.  해당 효과는 2회까지 중첩됩니다.",
+    "english": "Boosts nearby allies' ATK / ACC / CRIT. Increases your SPD. This effect stacks up to 2 times."
+  },
+  "1002704108": {
+    "korean": "라운드 개시 시, 일정 확률로 무장 보급을 받은 아군의 공격을 지원하며, 피격 시 회피율이 증가합니다. 회피율 증가 효과는 최대 2회 중첩됩니다.",
+    "english": "At the start of a round, there is a chance to support the attacks of allies who have received weapon resupply, and increase EVA when hit. EVA increase stacks up to 2 times."
+  },
+  "1002704109": {
+    "korean": "라운드 개시 시, 배치된 열에 따라 아군 또는 자신에게 추가 효과가 부여됩니다. 전열에 배치된 경우 아군 전체의 방어력 / 모든 저항을 올려주고, 중열에 배치된 경우 자신의 행동력 / 방어력 / 피해 감소가 증가하며, 후열에 배치된 경우 아군 전체의 공격력 / 적중을 올려줍니다.",
+    "english": "At the start of the round, additional effects are granted based on the column you occupy. Front row: increases all allies' DEF / All Resist. Middle row: increases your SPD, DEF, and Damage Reduction. Back row: increases all allies' ATK / ACC."
+  },
+  "1002704110": {
+    "korean": "사망 시, 모든 아군의 행동력이 감소하고, 받는 피해 / 공격력 / 적중이 증가합니다.",
+    "english": "Upon death, all allies' SPD decrease, and DMG Taken / ATK / ACC increase."
+  },
+  "1000103273": {
+    "korean": "칙 약진하기 : 회피율{0}%",
+    "english": "Chic Advance : EVA Rate {0}%"
+  },
+  "1000103267": {
+    "korean": "공격 훼방 : 공격력 {0}%",
+    "english": "Disrupting an attack : ATK {0}%"
+  },
+  "1000103272": {
+    "korean": "공격 훼방 : 행동력{0}%",
+    "english": "Disrupting an attack : SPD {0}%"
+  },
+  "1000103276": {
+    "korean": "공격 훼방 : 적중 {0}%",
+    "english": "Disrupting an attack : ACC {0}%"
+  },
+  "1000103277": {
+    "korean": "공격 훼방 : 치명타 {0}%",
+    "english": "Disrupting an attack : CRIT {0}%"
+  },
+  "1000103268": {
+    "korean": "전무장 보급 : 공격력{0}%",
+    "english": "Full armament supply : ATK {0}%"
+  },
+  "1000103278": {
+    "korean": "전무장 보급 : 적중{0}%",
+    "english": "Full armament supply : ACC {0}%"
+  },
+  "1000103279": {
+    "korean": "전무장 보급 : 치명타{0}%",
+    "english": "Full armament supply : CRIT {0}%"
+  },
+  "1000103269": {
+    "korean": "칙 약진하기 : 공격 지원",
+    "english": "Chick advance : Follow-Up Attack"
+  },
+  "1000103270": {
+    "korean": "전황 판단 : 방어력 {0}%",
+    "english": "Assessment of the battle situation : DEF {0}%"
+  },
+  "1000104557": {
+    "korean": "전황 판단 : 효과 저항{0}%",
+    "english": "Assessment of the battle situation : Status Resist {0}%"
+  },
+  "1000105102": {
+    "korean": "전황 판단 : 화염 저항{0}%",
+    "english": "Assessment of the battle situation : Fire Resist {0}%"
+  },
+  "1000105425": {
+    "korean": "전황 판단 : 냉기 저항{0}%",
+    "english": "Assessment of the battle situation : Cold Resist {0}%"
+  },
+  "1000105560": {
+    "korean": "전황 판단 : 전기 저항{0}%",
+    "english": "Assessment of the battle situation : Electric Resist {0}%"
+  },
+  "1000103274": {
+    "korean": "전황 판단 : 행동력{0}%",
+    "english": "Assessment of the battle situation : SPD {0}%"
+  },
+  "1000104559": {
+    "korean": "전황 판단 : 방어력{0}%",
+    "english": "Assessment of the battle situation : DEF {0}%"
+  },
+  "1000105104": {
+    "korean": "전황 판단 : 받는 피해 감소 {0}%",
+    "english": "Assessment of the battle situation : DMG Reduction {0}%"
+  },
+  "1000103275": {
+    "korean": "전황 판단 : 공격력{0}%",
+    "english": "Assessment of the battle situation : ATK {0}%"
+  },
+  "1000104560": {
+    "korean": "전황 판단 : 적중{0}%",
+    "english": "Assessment of the battle situation : ACC {0}%"
+  },
+  "1000103271": {
+    "korean": "배수진 : 행동력 {0}%",
+    "english": "Last stand : SPD {0}%"
+  },
+  "1000104558": {
+    "korean": "배수진 : 받는 피해{0}%",
+    "english": "Last stand : DMG Taken {0}%"
+  },
+  "1000105103": {
+    "korean": "배수진 : 공격력{0}%",
+    "english": "Last stand : ATK {0}%"
+  },
+  "1000105426": {
+    "korean": "배수진 : 적중{0}%",
+    "english": "Last stand : ACC {0}%"
+  }
+}

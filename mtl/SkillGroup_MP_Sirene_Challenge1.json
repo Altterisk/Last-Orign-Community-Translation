@@ -1,0 +1,86 @@
+{
+  "SkillName_Skill_MP_Sirene_Challenge1_1": {
+    "korean": "특수 개조 대공포",
+    "english": "Specially modified anti-aircraft gun"
+  },
+  "SkillName_Skill_MP_Sirene_Challenge1_2": {
+    "korean": "문제아 지휘",
+    "english": "Troublemaker Command"
+  },
+  "SkillName_Skill_MP_Sirene_Challenge1_3": {
+    "korean": "문제아 통제",
+    "english": "Controlling problem children"
+  },
+  "SkillName_Skill_MP_Sirene_Challenge1_4": {
+    "korean": "회장 모드",
+    "english": "Chairman Mode"
+  },
+  "SkillName_Skill_MP_Sirene_Challenge1_5": {
+    "korean": "문제아 관찰",
+    "english": "Observation of problem children"
+  },
+  "SkillDesc_Skill_MP_Sirene_Challenge1_1": {
+    "korean": "대공포를 발사해 단일 대상에게 {0} 피해를 줍니다.&n적중 시, 대상의 회피 강화 효과를 해제하고 2라운드 동안 회피를 감소시킵니다.&n+900%의 적중 보정이 적용됩니다.",
+    "english": "Fires an anti-aircraft gun to deal {0} damage to a single target. Upon hit, removes the target's EVA buff and reduces EVA for 2 rounds. +900% ACC applied."
+  },
+  "SkillDesc_Skill_MP_Sirene_Challenge1_2": {
+    "korean": "스킬 사용 시, 범위 내 아군의 AP를 증가시키고, 해로운 효과를 해제합니다.",
+    "english": "When using the skill, increase the AP of allies within range and remove harmful effects."
+  },
+  "SkillDesc_Skill_MP_Sirene_Challenge1_3": {
+    "korean": "스킬 사용 시, 2라운드 동안 범위 내 아군의 공격력 / 방어력을 증가시킵니다.",
+    "english": "When using the skill, increase ATK / DEF of allies within range for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_Sirene_Challenge1_4": {
+    "korean": "라운드 개시 시, 자신은 받는 피해 감소 효과를 획득합니다.&n공격 받을 시, 1라운드 동안 받는 피해가 추가로 감소합니다. 해당 효과는 해제할 수 없습니다.&n한 라운드에 2회 이상 공격 받을 시, 해당 라운드 동안 [문제아 지휘]를 사용합니다.",
+    "english": "At the start of a round, you gain a DMG Reduction effect. When attacked, DMG Taken is further reduced for 1 round. This effect cannot be removed. If attacked 2 or more times in a single round, use [Troublemaker Command] for that round."
+  },
+  "SkillDesc_Skill_MP_Sirene_Challenge1_5": {
+    "korean": "라운드 개시 시, 아군 전체에게 행동 불가 / 스킬 사용 불가 면역 효과를 부여합니다.&n라운드 개시 시 공격 지원을 받는 아군의 적중 / 행동력을 증가시킵니다.",
+    "english": "At the start of the round, grant all allies immunity to Stunned and Silenced. At the start of the round, increase ACC / SPD of allies receiving Follow-Up Attack."
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_1": {
+    "korean": "특수 개조 대공포 : 회피 {0}%",
+    "english": "Specially modified anti-aircraft gun : EVA {0}%"
+  },
+  "BuffDesc2_Effect_MP_Sirene_Challenge1_1": {
+    "korean": "특수 개조 대공포 : 회피 강화 해제",
+    "english": "Specially modified anti-aircraft gun : EVA Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_2": {
+    "korean": "문제아 지휘 : AP {0}",
+    "english": "Troublemaker Command : AP {0}"
+  },
+  "BuffDesc2_Effect_MP_Sirene_Challenge1_2": {
+    "korean": "문제아 지휘 : 해로운 효과 해제",
+    "english": "Troublemaker Command : Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_3": {
+    "korean": "문제아 통제 : 공격력 {0}%",
+    "english": "Controlling problem children : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_Sirene_Challenge1_3": {
+    "korean": "문제아 통제 : 방어력 {0}%",
+    "english": "Controlling problem children : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_4": {
+    "korean": "회장 모드 : 받는 피해 {0}% 감소",
+    "english": "Chairman Mode : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_5": {
+    "korean": "보호 관찰 : 행동 불가 면역",
+    "english": "/ Protective Observation : Stunned Immunity"
+  },
+  "BuffDesc2_Effect_MP_Sirene_Challenge1_5": {
+    "korean": "보호 관찰 : 스킬 사용 불가 면역",
+    "english": "/ Protective Observation : Silenced Immunity"
+  },
+  "BuffDesc1_Effect_MP_Sirene_Challenge1_51": {
+    "korean": "문제아 관찰 : 적중 {0}%",
+    "english": "Observation of problem children : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_Sirene_Challenge1_51": {
+    "korean": "문제아 관찰 : 행동력 {0}%",
+    "english": "Observation of problem children : SPD {0}%"
+  }
+}

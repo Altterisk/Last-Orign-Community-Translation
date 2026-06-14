@@ -1,0 +1,74 @@
+{
+  "1002700100": {
+    "korean": "클로 돌진",
+    "english": "Claw Rush"
+  },
+  "1002700101": {
+    "korean": "손톱날 발사",
+    "english": "Nail Blade Launch"
+  },
+  "1002700102": {
+    "korean": "살육 쾌감",
+    "english": "Joy of Slaughter"
+  },
+  "1002700103": {
+    "korean": "위협 감지",
+    "english": "Threat Detection"
+  },
+  "1002700104": {
+    "korean": "광란",
+    "english": "Berserk"
+  },
+  "1002702945": {
+    "korean": "클로 돌진으로 목표와 바로 뒤의 대상에게 {0} 피해를 줍니다. 5라운드 동안 공격 대상의 방어력을 감소시킵니다. 최대 5번까지 중첩됩니다.",
+    "english": "Claw Rush deals {0} damage to the target and the target directly behind it. Reduces the target's DEF for 5 rounds. Stacks up to 5 times."
+  },
+  "1002702946": {
+    "korean": "폭발하는 손톱날을 발사해 목표 열에 {0} 피해를 주고 대상을 뒤로 한칸 밉니다. 공격 대상들은 2라운드 동안 적중이 감소합니다.",
+    "english": "Fires an exploding claw blade, dealing {0} damage to the target row and pushing the target back one space. Affected enemies have ACC reduced for 2 rounds."
+  },
+  "1002702947": {
+    "korean": "도발 상태일 때 공격 적중 시, 5라운드 동안 공격력이 증가합니다. 해당 효과는 5번까지 중첩됩니다.",
+    "english": "When Provoked, landing an attack increases ATK for 5 rounds. Stacks up to 5 times."
+  },
+  "1002702948": {
+    "korean": "피격 시, 위협을 감지해 해당 라운드 동안 회피가 증가하며 공격력이 감소합니다. 해당 효과는 중첩됩니다.",
+    "english": "When hit, detects threat, increasing EVA and decreasing ATK for that round. This effect can stack."
+  },
+  "1002702949": {
+    "korean": "적을 처치한 경우, 3라운드 동안 행동력과 치명타가 증가합니다. 해당 효과는 중첩됩니다.",
+    "english": "When killing an enemy, increases SPD and CRIT for 3 rounds. This effect can stack."
+  },
+  "1000102526": {
+    "korean": "뒤로 {0}칸 밀기",
+    "english": "Push Back {0}"
+  },
+  "1000102585": {
+    "korean": "적중 {0}%",
+    "english": "ACC {0}%"
+  },
+  "1000102550": {
+    "korean": "장갑 깎기 : 방어력 {0}%",
+    "english": "Armor Shred : DEF {0}%"
+  },
+  "1000102551": {
+    "korean": "살육 쾌감 : 공격력{0}%",
+    "english": "Joy of Slaughter : ATK {0}%"
+  },
+  "1000102552": {
+    "korean": "위협 감지 : 회피{0}%",
+    "english": "Threat Detection : EVA {0}%"
+  },
+  "1000104222": {
+    "korean": "위협 감지 : 공격력 {0}%",
+    "english": "Threat Detection : ATK {0}%"
+  },
+  "1000102553": {
+    "korean": "광란 : 행동력{0}%",
+    "english": "Berserk : SPD {0}%"
+  },
+  "1000104223": {
+    "korean": "광란 : 치명타{0}%",
+    "english": "Berserk : CRIT {0}%"
+  }
+}

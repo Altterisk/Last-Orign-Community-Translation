@@ -1,0 +1,110 @@
+{
+  "1002702296": {
+    "korean": "오염액",
+    "english": "Contaminant"
+  },
+  "1002702302": {
+    "korean": "속성 흡수",
+    "english": "Attribute Absorption"
+  },
+  "1002702297": {
+    "korean": "오염액 누출",
+    "english": "Contaminant Leak"
+  },
+  "1002702301": {
+    "korean": "보호 본능",
+    "english": "Protective Instinct"
+  },
+  "1002703529": {
+    "korean": "적 들을 강타해 {0} 피해를 주고, 1칸 뒤로 밀어내며 일정 확률로 2라운드 동안 행동 불가 상태로 만들고 속성을 흡수한 상태라면 대상에게 해당 속성을 방출하여 지속 피해를 줍니다.",
+    "english": "Strike enemies, dealing {0} damage, pushing them 1 tile backward, with a certain chance to Stun for 2 rounds. If the target has absorbed an attribute, release that attribute to deal DoT DMG."
+  },
+  "1002703530": {
+    "korean": "오염액으로 목표 대상들에게 {0} 피해를 주며, 2라운드 동안 오염 상태로 만듭니다. 오염 상태인 대상은 방어력과 행동력이 감소하며, 지속 물리 피해를 입습니다. 보호 효과를 무시합니다.",
+    "english": "Deal {0} damage to target enemies with Contaminant, and apply Contaminated for 2 rounds. Contaminated targets have reduced DEF and SPD, and suffer Physical DoT DMG. Protection effects are ignored."
+  },
+  "1002703533": {
+    "korean": "속성 공격에 피격 시 3라운드 동안 해당 속성을 흡수하여 해당 속성의 저항력이 증가하지만 부작용으로 특정 속성의 저항력이 대폭 감소합니다.&n화염 속성 흡수 시: 화염 저항력 소폭 증가, 냉기 저항력 대폭 감소&n냉기 속성 흡수 시: 냉기 저항력 소폭 증가, 전기 저항력 대폭 감소&n전기 속성 흡수 시: 전기 저항력 소폭 증가, 화염 저항력 대폭 감소",
+    "english": "When hit by an attribute attack, absorb that attribute for 3 rounds, increasing that attribute's resistance but causing a severe reduction to another specific resistance.\nFire Attribute Absorption: Slight increase to Fire Resist, large decrease to Cold Resist.\nCold Attribute Absorption: Slight increase to Cold Resist, large decrease to Electric Resist.\nElectric Attribute Absorption: Slight increase to Electric Resist, large decrease to Fire Resist."
+  },
+  "1002703531": {
+    "korean": "HP가 50% 이하가 되면 오염액이 누출되어 적군 전체의 화염,냉기,전기 속성 저항력을 감소시킵니다.",
+    "english": "When HP falls to 50% or less, Contaminant leaks, reducing enemies' Fire Resist, Cold Resist, and Electric Resist."
+  },
+  "1002703532": {
+    "korean": "적에게 공격 당할 시 속성 흡수 부작용 효과를 제외한 자신에게 걸려있는 해로운 효과를 해제 합니다.",
+    "english": "When attacked by an enemy, dispel all harmful effects on yourself except the Attribute Absorption side effect."
+  },
+  "1000102526": {
+    "korean": "뒤로 {0}칸 밀기",
+    "english": "Push Back {0}"
+  },
+  "1000102549": {
+    "korean": "행동 불가",
+    "english": "Stunned"
+  },
+  "1000101932": {
+    "korean": "속성 흡수: 화염 속성 흡수",
+    "english": "Attribute Absorption: Absorb fire attribute"
+  },
+  "1000101933": {
+    "korean": "속성 흡수: 냉기 속성 흡수",
+    "english": "Attribute Absorption: Absorb ice attribute"
+  },
+  "1000101934": {
+    "korean": "속성 흡수: 전기 속성 흡수",
+    "english": "Attribute Absorption: Absorb electric attribute"
+  },
+  "1000103804": {
+    "korean": "부작용: 냉기 속성 저항력 {0}%",
+    "english": "Side Effect: Cold Resist {0}%"
+  },
+  "1000103805": {
+    "korean": "부작용: 전기 속성 저항력 {0}%",
+    "english": "Side Effect: Electric Resist {0}%"
+  },
+  "1000103806": {
+    "korean": "부작용: 화염 속성 저항력 {0}%",
+    "english": "Side Effect: Fire Resist {0}%"
+  },
+  "1000103800": {
+    "korean": "오염액 누출 : 냉기 속성 저항력 {0}%",
+    "english": "Contamination Leak : Cold Resist {0}%"
+  },
+  "1000103801": {
+    "korean": "오염액 누출 : 전기 속성 저항력 {0}%",
+    "english": "Contamination Leak : Electric Resist {0}%"
+  },
+  "1000103802": {
+    "korean": "오염액 누출 : 화염 속성 저항력 {0}%",
+    "english": "Contamination Leak : Fire Resist {0}%"
+  },
+  "1000103796": {
+    "korean": "화염 속성 방출 : 지속 화염 피해 {0}",
+    "english": "Flame Attribute Emission : Fire DoT DMG {0}"
+  },
+  "1000103797": {
+    "korean": "냉기 속성 방출 : 지속 냉기 피해 {0}",
+    "english": "Frost Attribute Emission : Cold DoT DMG {0}"
+  },
+  "1000103798": {
+    "korean": "전기 속성 방출 : 지속 전기 피해 {0}",
+    "english": "Electric Attribute Emission : Electric DoT DMG {0}"
+  },
+  "1000103799": {
+    "korean": "오염 : 방어력 {0}%",
+    "english": "Contamination : DEF {0}%"
+  },
+  "1000104773": {
+    "korean": "오염 : 행동력 {0}%",
+    "english": "Contamination : SPD {0}%"
+  },
+  "1000105241": {
+    "korean": "오염 : 지속 물리 피해 {0}",
+    "english": "Pollution : Physical DoT DMG {0}"
+  },
+  "1000101931": {
+    "korean": "보호 본능 : 해로운 효과 해제",
+    "english": "Protective Instinct : Debuff Removal"
+  }
+}

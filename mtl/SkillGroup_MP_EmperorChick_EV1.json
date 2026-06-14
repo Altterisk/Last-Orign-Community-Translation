@@ -1,0 +1,94 @@
+{
+  "1000102373": {
+    "korean": "칙 파이널 어택",
+    "english": "Chick Final Attack"
+  },
+  "1002701268": {
+    "korean": "전투 프로그램 설정",
+    "english": "Combat Program Setup"
+  },
+  "1002701269": {
+    "korean": "칙 철벽 방어술",
+    "english": "Chick Iron Wall Defense"
+  },
+  "1002701270": {
+    "korean": "앵그리 칙",
+    "english": "Angry Chick"
+  },
+  "1002704040": {
+    "korean": "전 무장을 발사해 목표 범위에 {0} 피해를 줍니다. 목표 중심점 밖일수록 피해가 감소하며, <광분> 상태면 피해량이 크게 증가합니다.",
+    "english": "Fires all weapons to deal {0} damage to the target area. Damage decreases the farther it is from the center point, and is greatly increased while in <Frenzy> state."
+  },
+  "1002704041": {
+    "korean": "라운드 개시 시, 자신의 HP가 50% 이하면 전투 프로그램을 갱신해 자신과 주변 아군에게 무작위 강화 효과를 부여합니다. 낮은 확률로 치명적 오류가 발생해 행동 불가가 되거나 받는 피해 증가 효과가 발생합니다.",
+    "english": "At the start of a round, if your HP is 50% or lower, refresh your combat program to grant random enhancement effects to yourself and nearby allies. There is a small chance of a critical error that causes Stunned or applies DMG Taken Increased."
+  },
+  "1002704042": {
+    "korean": "공격한 후, 방어 태세를 취해 해당 라운드 동안에는 최소 피해만 받습니다.",
+    "english": "After attacking, assume a defensive stance and only receive Minimize Damage for the rest of the round."
+  },
+  "1002704043": {
+    "korean": "아군이 처치되면 3라운드 동안 공격력이 증가합니다. 라운드 개시 시, <앵그리 칙>이 3 중첩 이상이면 <광분> 상태가 되어 공격력 / 적중 / 치명타 / 행동력이 증가하며 피해 감소 효과를 무시합니다.",
+    "english": "When an ally is defeated, ATK increases for 3 rounds. At the start of a round, if <Angry Chick> has 3 or more stacks, you become <Frenzy>, gaining increased ATK / ACC / CRIT / SPD and ignoring Damage Reduction."
+  },
+  "1000103103": {
+    "korean": "칙 파이널 어택 : 피해량{0}%",
+    "english": "Chik Final Attack : Additional DMG {0}%"
+  },
+  "1000103104": {
+    "korean": "전투 OS 갱신 : 공격력{0}%",
+    "english": "Combat OS Refresh : ATK {0}%"
+  },
+  "1000103231": {
+    "korean": "방어 OS 갱신 : 받는 피해 감소 {0}%",
+    "english": "Defense OS Refresh : DMG Reduction {0}%"
+  },
+  "1000103232": {
+    "korean": "조준 OS 갱신 : 적중{0}%",
+    "english": "Targeting OS Refresh : ACC {0}%"
+  },
+  "1000103233": {
+    "korean": "회피 OS 갱신 : 회피{0}%",
+    "english": "Evasion OS Refresh : EVA {0}%"
+  },
+  "1000103234": {
+    "korean": "대응 OS 갱신 : {0}% 위력으로 반격",
+    "english": "Response OS Refresh : Counter Attack with {0}% Power"
+  },
+  "1000103107": {
+    "korean": "치명적 오류 : 행동 불가",
+    "english": "Critical Fault : Stunned"
+  },
+  "1000104473": {
+    "korean": "치명적 오류 : 받는 피해{0}%",
+    "english": "Critical Fault : DMG Taken {0}%"
+  },
+  "1000103105": {
+    "korean": "칙 철벽 방어술 : 피해 최소화",
+    "english": "Iron Wall Defense : Minimize Damage"
+  },
+  "1000103106": {
+    "korean": "광분 : 공격력{0}%",
+    "english": "<Frenzy> : ATK {0}%"
+  },
+  "1000103108": {
+    "korean": "앵그리 칙 : 공격력{0}%",
+    "english": "Angry Chick : ATK {0}%"
+  },
+  "1000103227": {
+    "korean": "광분 : 적중{0}%",
+    "english": "<Frenzy> : ACC {0}%"
+  },
+  "1000103228": {
+    "korean": "광분 : 치명타{0}%",
+    "english": "<Frenzy> : CRIT {0}%"
+  },
+  "1000103229": {
+    "korean": "광분 : 방어막 / 피해 감소 무시",
+    "english": "<Frenzy> : Ignore Barrier / DMG Reduction"
+  },
+  "1000103230": {
+    "korean": "광분 : 행동력{0}%",
+    "english": "<Frenzy> : SPD {0}%"
+  }
+}

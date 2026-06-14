@@ -1,0 +1,110 @@
+{
+  "1002707356": {
+    "korean": "퀵 프리저",
+    "english": "Quick Freezer"
+  },
+  "1002707357": {
+    "korean": "결정화",
+    "english": "Crystallization"
+  },
+  "1002707358": {
+    "korean": "한기 확산",
+    "english": "Cold Spread"
+  },
+  "1002707359": {
+    "korean": "냉각수 방사",
+    "english": "Cooling Water Discharge"
+  },
+  "1002707392": {
+    "korean": "지휘관 개체",
+    "english": "Commander Unit"
+  },
+  "1002707368": {
+    "korean": "{0} 냉기 피해를 주고, 2라운드 동안 대상을 표식으로 설정하고 냉기 저항을 감소시킵니다.",
+    "english": "{0} cold damage, marks the target for 2 rounds, and reduces Cold Resist."
+  },
+  "1002707369": {
+    "korean": "5라운드 동안 자신에게 이로운 표식을 설정하고 냉기 저항 / 전기 저항 / 행동력을 증가시킵니다.",
+    "english": "Set a beneficial mark on yourself for 5 rounds and increase Cold Resist / Electric Resist / SPD."
+  },
+  "1002707370": {
+    "korean": "라운드 개시 시, 지정 범위 아군의 냉기 저항 / 전기 저항을 증가시킵니다. 또한 매 라운드 1회씩 재공격 효과를 획득하고, 재공격 시 자신의 방어력을 낮춥니다.",
+    "english": "At the start of a round, increase the Cold Resist / Electric Resist of allies within the designated range. Also gain Reattack once per round, and when Reattacking, lower your own DEF."
+  },
+  "1002707371": {
+    "korean": "라운드 개시 시, 지정 범위 적을 침수 상태로 만들고, 매 라운드 효과가 점감하는 방어 관통 감소 효과를 부여합니다. 자신 사망 시 아군 전체를 침수 상태로 만들고, 쉘 / 슈터 개체에게는 공격력 / 방어력 감소 효과를 추가로 부여합니다.",
+    "english": "At the start of a round, soak enemies within the designated area and apply a DEF Penetration reduction effect that diminishes each round. Upon your death, soak all allies and additionally apply ATK / DEF reduction to Shell / Shooter units."
+  },
+  "1002707393": {
+    "korean": "전투 개시 시, 적 로봇 수가 3 이상일 경우 지정 범위 아군의 AP를 증가시키고,  적 바이오로이드 수가 3 이상일 경우 지정 범위 적에게 방어 관통 감소 효과를 적용합니다. 방어 관통 감소 효과는 자신 사망 시에만 해제됩니다.",
+    "english": "At the start of combat, if enemy robots are 3 or more, increase AP of allies within the designated range; if enemy Bioroids are 3 or more, apply a DEF Penetration reduction effect to enemies within the designated range. The DEF Penetration reduction effect is removed only upon your death."
+  },
+  "1000109257": {
+    "korean": "퀵 프리저 : 표식",
+    "english": "Quick Freezer : Marked"
+  },
+  "1000109271": {
+    "korean": "퀵 프리저 : 냉기 저항{0}%",
+    "english": "Quick Freezer : Cold Resist {0}%"
+  },
+  "1000109258": {
+    "korean": "결정화 : 표식",
+    "english": "Crystallization : Marked"
+  },
+  "1000109272": {
+    "korean": "결정화 : 냉기 저항{0}%",
+    "english": "Crystallization : Cold Resist {0}%"
+  },
+  "1000109280": {
+    "korean": "결정화 : 전기 저항{0}%",
+    "english": "Crystallization : Electric Resist {0}%"
+  },
+  "1000109286": {
+    "korean": "결정화 : 행동력{0}%",
+    "english": "Crystallization : SPD {0}%"
+  },
+  "1000109259": {
+    "korean": "한기 확산 : 재공격",
+    "english": "Spread of cold air : Reattack"
+  },
+  "1000109281": {
+    "korean": "한기 확산 : 냉기 저항{0}%",
+    "english": "Spread of cold air : Cold Resist {0}%"
+  },
+  "1000109287": {
+    "korean": "한기 확산 : 전기 저항{0}%",
+    "english": "Spread of cold air : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_FridgerHead_N_32": {
+    "korean": "한기 확산 : 방어력 {0}%",
+    "english": "Spread of cold air : DEF {0}%"
+  },
+  "1000109288": {
+    "korean": "냉각수 방사 : 방어 관통{0}%",
+    "english": "Cooling water discharge : DEF Penetration {0}%"
+  },
+  "1000109314": {
+    "korean": "냉각수 방사 : 방어 관통-{0}%",
+    "english": "Cooling water discharge : DEF Penetration -{0}%"
+  },
+  "BuffDesc1_Effect_MP_FridgerHead_N_46": {
+    "korean": "냉각수 방사 : 공격력 {0}%",
+    "english": "Cooling water discharge : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_FridgerHead_N_46": {
+    "korean": "냉각수 방사 : 방어력 {0}%",
+    "english": "Cooling water discharge : DEF {0}%"
+  },
+  "1000109311": {
+    "korean": "지휘관 개체 : AP{0}",
+    "english": "Commander unit : AP {0}"
+  },
+  "1000109312": {
+    "korean": "지휘관 개체 : 방어 관통{0}%",
+    "english": "Commander unit : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_FridgerHead_N_52": {
+    "korean": "지휘관 개체 : 방어 관통 감소 해제",
+    "english": "Commander unit : DEF Penetration Debuff Removal"
+  }
+}

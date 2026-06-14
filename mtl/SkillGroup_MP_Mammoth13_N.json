@@ -1,0 +1,82 @@
+{
+  "SkillName_Skill_MP_Mammoth13_N_1": {
+    "korean": "발사!",
+    "english": "Fire!"
+  },
+  "SkillName_Skill_MP_Mammoth13_N_2": {
+    "korean": "발사아아!",
+    "english": "Fire!!"
+  },
+  "SkillName_Skill_MP_Mammoth13_N_3": {
+    "korean": "보호를 받는다!!",
+    "english": "Protected!!"
+  },
+  "SkillName_Skill_MP_Mammoth13_N_4": {
+    "korean": "기상!",
+    "english": "Rise!"
+  },
+  "SkillName_Skill_MP_Mammoth13_N_7": {
+    "korean": "발사아아!",
+    "english": "Fire!!"
+  },
+  "SkillDesc_Skill_MP_Mammoth13_N_1": {
+    "korean": "지정 대상에게 {0} 피해를 주고, 2라운드 동안 대상에게 피해 감소 약화 효과를 부여합니다. 40%의 적중 보정을 받습니다.",
+    "english": "Deal {0} damage to a designated target and apply a 2‑round DMG Reduction debuff. Applies with a 40% ACC modifier."
+  },
+  "SkillDesc_Skill_MP_Mammoth13_N_2": {
+    "korean": "1라운드 뒤에 착탄하는 곡사 포격으로 목표 지점에 {0} 보호 무시 피해를 줍니다. 목표 지점 주변에는 피해가 50% 감소하며 방어력이 하락합니다. 50%의 적중 보정을 받습니다.",
+    "english": "After 1 round, artillery fire hits the designated point for {0} damage that ignores protection. Damage within the area is reduced by 50% and DEF is decreased. Applies with a 50% ACC modifier."
+  },
+  "SkillDesc_Skill_MP_Mammoth13_N_3": {
+    "korean": "라운드 개시 시, 2라운드 동안 행동력이 증가합니다. 아군 프로스트 나이트 칙 실더가 있으면 전투속행을 부여합니다.",
+    "english": "At the start of the round, gain increased SPD for 2 rounds. If an allied Frost Knight Chic Shielder is present, gain Battle Haste."
+  },
+  "SkillDesc_Skill_MP_Mammoth13_N_4": {
+    "korean": "짝수 라운드 개시 시, 해로운 효과가 해제되며 효과 저항과 적중이 증가합니다.",
+    "english": "At the start of even rounds, remove all harmful effects and increase Status Resist and ACC."
+  },
+  "SkillDesc_Skill_MP_Mammoth13_N_7": {
+    "korean": "착탄하는 곡사 포격으로 목표 지점에 보호 무시 {0} 피해를 줍니다. 목표 지점 주변에는 피해가 50% 감소하고 대상의 방어력을 감소시킵니다.",
+    "english": "Artillery fire hits the designated point for {0} damage that ignores protection. Damage within the area is reduced by 50% and the target's DEF is decreased."
+  },
+  "BuffDesc1_Effect_MP_Mammoth13_N_1": {
+    "korean": "발사! : 피해 감소 약화 {0}%",
+    "english": "Fire! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_Mammoth13_N_2": {
+    "korean": "발사아아! : 방어력 {0}%",
+    "english": "Fire! : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_Mammoth13_N_3": {
+    "korean": "보호를 받는다!!: 행동력 {0}% 증가",
+    "english": "Be Protected!! : SPD {0}% Increase"
+  },
+  "BuffDesc2_Effect_MP_Mammoth13_N_3": {
+    "korean": "보호를 받는다!! : {0}% HP로 전투 속행",
+    "english": "Be Protected!! : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_Mammoth13_N_31": {
+    "korean": "보호를 받는다!! : {0}% HP로 전투 속행",
+    "english": "Be Protected!! : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_Mammoth13_N_32": {
+    "korean": "보호를 받는다!! : {0}% HP로 전투 속행",
+    "english": "Be Protected!! : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_Mammoth13_N_4": {
+    "korean": "기상! : 해로운 효과 해제",
+    "english": "Rising! : Debuff Removal"
+  },
+  "BuffDesc2_Effect_MP_Mammoth13_N_4": {
+    "korean": "기상! : 효과 저항 {0}%",
+    "english": "Rising! : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_MP_Mammoth13_N_4": {
+    "korean": "기상! : 적중 {0}%",
+    "english": "Rising! : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_Mammoth13_N_7": {
+    "korean": "발사아아! : 방어력 {0}%",
+    "english": "Fire! : DEF {0}%"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "1002701343": {
+    "korean": "장갑 해제",
+    "english": "Remove Gloves"
+  },
+  "1002701344": {
+    "korean": "무장 해제",
+    "english": "Disarm"
+  },
+  "1002701345": {
+    "korean": "공격 차단",
+    "english": "Block Attack"
+  },
+  "1002701346": {
+    "korean": "자동 방어 시스템",
+    "english": "Automatic Defense System"
+  },
+  "1002701347": {
+    "korean": "다중 장갑 구조",
+    "english": "Multi-Glove Structure"
+  },
+  "1002703544": {
+    "korean": "지정 대상에게 {0} 피해를 주고, 대상의 장갑을 해제해 방어력을 낮추고 받는 피해를 증가시킵니다. 대상이 해당 효과를 다시 받는 경우, 행동 불가 상태로 만듭니다.",
+    "english": "Deals {0} damage to the designated target, removes the target's armor to lower DEF and increase DMG Taken. If the target receives this effect again, they become Stunned."
+  },
+  "1002703545": {
+    "korean": "지정 범위에 {0} 피해를 주고, 대상의 무장을 해제해 공격력과 치명타를 낮춥니다. 대상이 해당 효과를 다시 받는 경우, 행동 불가 상태로 만듭니다.",
+    "english": "Deals {0} damage to the designated area and disarms the target, reducing ATK and CRIT. If the target receives this effect again, they become Stunned."
+  },
+  "1002703546": {
+    "korean": "라운드 개시 시, HP가 50% 이상이면 본체와 다른 파츠를 보호합니다.",
+    "english": "At the start of a round, if HP is 50% or higher, protects the main body and other parts."
+  },
+  "1002703547": {
+    "korean": "HP가 50% 이상이면 모든 피해를 최소화하며 효과 저항이 증가합니다. 활성화 된 상태에서 피격 시, 오버플로우 중첩이 쌓입니다. 중첩 4 이상 상태로 라운드 개시 시, 해당 상태가 해제되며 행동 불능이 됩니다.",
+    "english": "If HP is 50% or higher, all damage is minimized and Status Resist is increased. While active, being hit adds Overflow stacks. If there are 4 or more stacks at the start of a round, the effect is removed and the character becomes Stunned."
+  },
+  "1002703548": {
+    "korean": "HP가 일정 이하가 되면 방어력이 대폭 감소하며 받는 피해가 증가합니다. 해당 상태에선 회피와 행동력이 크게 증가합니다.",
+    "english": "When HP falls below a certain threshold, DEF is drastically reduced and DMG Taken is increased. In this state, EVA and SPD are greatly increased."
+  },
+  "1000103172": {
+    "korean": "오버플로우 : {0}% 물리 피해",
+    "english": "Overflow : {0}% Physical Damage"
+  },
+  "1000101095": {
+    "korean": "장갑 해제 : 행동 불가",
+    "english": "Remove gloves : Stunned"
+  },
+  "1000103174": {
+    "korean": "장갑 해제 : 방어력 {0}%",
+    "english": "Remove gloves : DEF {0}%"
+  },
+  "1000104507": {
+    "korean": "장갑 해제 : 받는 피해{0}%",
+    "english": "Remove gloves : DMG Taken {0}%"
+  },
+  "1000101096": {
+    "korean": "무장 해제 : 행동 불가",
+    "english": "Disarm : Stunned"
+  },
+  "1000103175": {
+    "korean": "무장 해제 : 공격력 {0}%",
+    "english": "Disarm : ATK {0}%"
+  },
+  "1000104508": {
+    "korean": "무장 해제 : 치명타 {0}%",
+    "english": "Disarm : CRIT {0}%"
+  },
+  "1000103176": {
+    "korean": "공격 차단 : 지정 대상 보호",
+    "english": "Block attack : Target Protect"
+  },
+  "1000103177": {
+    "korean": "자동 방어 시스템 : 피해 최소화",
+    "english": "Automatic defense system : Minimize Damage"
+  },
+  "1000104509": {
+    "korean": "자동 방어 시스템 : 효과 저항 {0}%",
+    "english": "Automatic defense system : Status Resist {0}%"
+  },
+  "1000103179": {
+    "korean": "오버플로우 : 공격력{0}%",
+    "english": "Overflow : ATK {0}%"
+  },
+  "1000103180": {
+    "korean": "오버플로우 : 행동 불가",
+    "english": "Overflow : Stunned"
+  },
+  "1000104511": {
+    "korean": "오버플로우 : 강화 효과 해제",
+    "english": "Overflow : Buff Removal"
+  },
+  "1000105416": {
+    "korean": "오버플로우 : 받는 피해{0}%",
+    "english": "Overflow : DMG Taken {0}%"
+  },
+  "1000103178": {
+    "korean": "외장 장갑 해제 : 방어력 {0}%",
+    "english": "External Armor Break : DEF {0}%"
+  },
+  "1000104510": {
+    "korean": "외장 장갑 해제 : 받는 피해{0}%",
+    "english": "External Armor Break : DMG Taken {0}%"
+  },
+  "1000105084": {
+    "korean": "외장 장갑 해제 : 회피{0}%",
+    "english": "External Armor Break : EVA {0}%"
+  },
+  "1000105415": {
+    "korean": "외장 장갑 해제 : 행동력{0}%",
+    "english": "External Armor Break : SPD {0}%"
+  }
+}

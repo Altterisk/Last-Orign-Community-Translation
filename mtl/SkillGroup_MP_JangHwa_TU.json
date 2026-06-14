@@ -1,0 +1,54 @@
+{
+  "SkillName_Skill_MP_JangHwa_TU_1": {
+    "korean": "IED-a 설치",
+    "english": "IED-a Deployment"
+  },
+  "SkillName_Skill_MP_JangHwa_TU_2": {
+    "korean": "IED-b 설치",
+    "english": "IED-b Deployment"
+  },
+  "SkillName_Skill_MP_JangHwa_TU_3": {
+    "korean": "목표 발견",
+    "english": "Target Detected"
+  },
+  "SkillName_Skill_MP_JangHwa_TU_4": {
+    "korean": "혼합 폭탄",
+    "english": "Mixed Bomb"
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU_1": {
+    "korean": "단일 대상에게 {0} 피해를 줍니다. &n적중 시, 2라운드 동안 방어력을 감소시킵니다.",
+    "english": "Deals {0} Additional DMG to a single target. On hit, reduces DEF for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU_2": {
+    "korean": "단일 대상에게 {0} 피해를 줍니다. &n적중 시, 2라운드 동안 공격력을 감소시킵니다.",
+    "english": "Deals {0} Additional DMG to a single target. On hit, reduces ATK for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU_3": {
+    "korean": "라운드 개시 시, 자신의 AP가 증가합니다.",
+    "english": "At the start of the round, your AP increases."
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU_4": {
+    "korean": "홀수 라운드 개시 시, <IED-a 설치>를 사용합니다.&n짝수 라운드 개시 시, <IED-b 설치>를 사용합니다.&n서로 다른 폭탄이 동일한 대상에게 사용될 경우, 피해량이 증가합니다.",
+    "english": "At the start of odd rounds, uses <IED-a Deployment>. At the start of even rounds, uses <IED-b Deployment>. If different bombs are used on the same target, damage is increased."
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU_1": {
+    "korean": "IED-a 설치 : 방어력 {0}%",
+    "english": "IED-a installation : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU_11": {
+    "korean": "혼합 폭탄 : 피해량 {0}%",
+    "english": "Mixed bomb : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU_2": {
+    "korean": "IED-b 설치 : 공격력 {0}%",
+    "english": "IED-b installation : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU_3": {
+    "korean": "목표 발견 : AP {0}",
+    "english": "Target discovery : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU_31": {
+    "korean": "드디어 목표 발견….! : AP {0}",
+    "english": "Target Detected…! : AP {0}"
+  }
+}

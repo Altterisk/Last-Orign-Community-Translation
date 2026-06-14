@@ -1,0 +1,106 @@
+{
+  "SkillName_Skill_MP_Tracker_EV1_1": {
+    "korean": "광속의 손톱",
+    "english": "Light Speed Claw"
+  },
+  "SkillName_Skill_MP_Tracker_EV1_2": {
+    "korean": "피의 손톱",
+    "english": "Blood Claw"
+  },
+  "SkillName_Skill_MP_Tracker_EV1_3": {
+    "korean": "살육 준비",
+    "english": "Slaughter Prep"
+  },
+  "SkillName_Skill_MP_Tracker_EV1_4": {
+    "korean": "강화 외피",
+    "english": "Reinforced Shell"
+  },
+  "1002707496": {
+    "korean": "광란",
+    "english": "Frenzy"
+  },
+  "SkillDesc_Skill_MP_Tracker_EV1_1": {
+    "korean": "목표 지점에 {0} 피해를 주고 주위에 50%감소된 피해를 줍니다. 공격력 / 방어력 / 적중 / 행동력을 감소시킵니다.",
+    "english": "Deals {0} damage to the target location and deals 50% reduced damage to surrounding targets. Reduces ATK, DEF, ACC, and SPD."
+  },
+  "SkillDesc_Skill_MP_Tracker_EV1_2": {
+    "korean": "목표 지점에 보호무시의 {0} 피해를 주고 주위에 50% 감소된 피해를 줍니다. 모든 강화효과를 해제하고 <출혈> 효과를 적용합니다.",
+    "english": "Deals {0} damage that ignores Barrier to the target point and deals 50% reduced damage to surrounding targets. Removes all buffs and applies <Bleed>."
+  },
+  "SkillDesc_Skill_MP_Tracker_EV1_3": {
+    "korean": "전투 개시 시, 공격력 / 적중 / 행동력 증가하고 효과 저항이 적용됩니다. 해당 효과들은 강화 효과 해제로 해제할 수 없습니다.",
+    "english": "At the start of combat, ATK, ACC, and SPD are increased and Status Resist is applied. These effects cannot be removed by buff removal."
+  },
+  "SkillDesc_Skill_MP_Tracker_EV1_4": {
+    "korean": "전투 개시 후, 피격 시 일정 횟수(2회)에 한해 최소 피해만 받습니다.",
+    "english": "After combat starts, when hit, you take only minimum damage for a limited number of times (2)."
+  },
+  "1002707501": {
+    "korean": "피격 시, <광란 준비> 상태가 적용되며 <광란 준비> 상태가 5중첩인 상태로 라운드 개시 시,  <광란> 상태가 되어 5라운드 동안 방어막 / 피해 감소 효과를 무시하고 재공격을 합니다. 해당 효과들은 강화 효과 해제로 해제할 수 없습니다.",
+    "english": "When hit, you gain the <Frenzy Prep> state. If <Frenzy Prep> reaches 5 stacks at the start of a round, you become <Frenzy> for 5 rounds, ignoring Barrier / DMG Reduction and gaining Reattack. These effects cannot be removed by buff removal."
+  },
+  "1002707506": {
+    "korean": "방어막 / 피해 감소 효과 무시, 재공격",
+    "english": "Ignore Barrier / DMG Reduction, Reattack"
+  },
+  "1000109852": {
+    "korean": "광란",
+    "english": "Frenzy"
+  },
+  "1000109854": {
+    "korean": "광란 시작",
+    "english": "Frenzy Start"
+  },
+  "1000109837": {
+    "korean": "광속의 손톱 : 공격력 {0}%",
+    "english": "Nails of The Speed of Light : ATK {0}%"
+  },
+  "1000109870": {
+    "korean": "광속의 손톱 : 방어력 {0}%",
+    "english": "Nails of The Speed of Light : DEF {0}%"
+  },
+  "1000109878": {
+    "korean": "광속의 손톱 : 적중 {0}%",
+    "english": "Nails of The Speed of Light : ACC {0}%"
+  },
+  "1000109885": {
+    "korean": "광속의 손톱 : 행동력 {0}%",
+    "english": "Nails of The Speed of Light : SPD {0}%"
+  },
+  "1000109839": {
+    "korean": "출혈 : 모든 강화 효과 해제",
+    "english": "Bleed : Buff Removal"
+  },
+  "1000109840": {
+    "korean": "출혈 : 지속 물리 피해 {0}",
+    "english": "Bleed : Physical DoT DMG {0}"
+  },
+  "1000109842": {
+    "korean": "살육 준비 : 공격력{0}%",
+    "english": "Prepare For The Slaughter : ATK {0}%"
+  },
+  "1000109872": {
+    "korean": "살육 준비 : 적중{0}%",
+    "english": "Prepare For The Slaughter : ACC {0}%"
+  },
+  "1000109880": {
+    "korean": "살육 준비 : 행동력{0}%",
+    "english": "Prepare For The Slaughter : SPD {0}%"
+  },
+  "1000109887": {
+    "korean": "살육 준비 : 효과 저항{0}%",
+    "english": "Prepare For The Slaughter : Status Resist {0}%"
+  },
+  "1000109847": {
+    "korean": "강화 외피 : 피해 최소화 (2회)",
+    "english": "Reinforced Outer Shell : Minimize Damage (2x)"
+  },
+  "1000109853": {
+    "korean": "광란 : 방어막 / 피해 감소 무시",
+    "english": "Berserk : Ignore Barrier / DMG Reduction"
+  },
+  "1000109877": {
+    "korean": "광란 : 재공격",
+    "english": "Berserk : Reattack"
+  }
+}

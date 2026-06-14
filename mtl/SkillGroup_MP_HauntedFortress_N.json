@@ -1,0 +1,118 @@
+{
+  "SkillName_Skill_MP_HauntedFortress_N_1": {
+    "korean": "무장 해제 사격",
+    "english": "Disarming Shot"
+  },
+  "SkillName_Skill_MP_HauntedFortress_N_2": {
+    "korean": "접근 거부 사격",
+    "english": "Access Denial Shot"
+  },
+  "SkillName_Skill_MP_HauntedFortress_N_3": {
+    "korean": "관통 내성",
+    "english": "Penetration Resistance"
+  },
+  "SkillName_Skill_MP_HauntedFortress_N_4": {
+    "korean": "고정형 참호",
+    "english": "Fixed Trench"
+  },
+  "SkillName_Skill_MP_HauntedFortress_N_5": {
+    "korean": "쓰러지지 않는 성채",
+    "english": "Unfallen Fortress"
+  },
+  "SkillDesc_Skill_MP_HauntedFortress_N_1": {
+    "korean": "기관총을 발사해 {0} 보호 무시 피해를 줍니다. 적중 시, 2라운드 동안 대상의 공격력 / 치명타를 감소시킵니다.",
+    "english": "Fires a machine gun to deal {0} Ignore Protection damage. On hit, reduces the target's ATK / CRIT for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_HauntedFortress_N_2": {
+    "korean": "기관총을 난사해 {0} 피해를 줍니다. 적중 시, 대상을 뒤로 1칸 밀어냅니다. +200%의 적중 보정이 적용됩니다.",
+    "english": "Fires a machine gun to deal {0} damage. On hit, pushes the target back 1 tile. +200% hit modifier applied."
+  },
+  "SkillDesc_Skill_MP_HauntedFortress_N_3": {
+    "korean": "라운드 개시 시, 방어력이 증가하고 받는 피해가 감소하며 열 보호를 활성화합니다.&n피격 시, 자신의 현재 HP에 비례하여 공격자의 방어 관통을 감소시켜 대미지를 계산합니다.",
+    "english": "At the start of the round, DEF increases, DMG Reduction is applied, and Column Protect is activated. When hit, damage is calculated by reducing the attacker’s DEF Penetration proportionally to your current HP."
+  },
+  "SkillDesc_Skill_MP_HauntedFortress_N_4": {
+    "korean": "라운드 개시 시, 자신과 같은 행 뒤쪽에 배치된 보호기를 제외한 아군을 지정 보호합니다. (해제 불가) 지정 보호 중인 아군은 피해 최소화를 1회 획득하며 속성 저항 하한이 생성됩니다.&n자신에 의한 지정 보호가 없는 상태에서 자신 사망 시, 적의 공격력 / 행동력을 증가시키고, 아군의 공격력 / 행동력을 감소시킵니다.&n자신에 의한 지정 보호가 있는 상태에서 아군 사망 시, 적의 AP를 감소시킵니다.",
+    "english": "At the start of a round, designate protection to all allies except protectors placed behind you in the same row (cannot be removed). Allies under designate protection gain Minimize Damage once and receive a Minimum Elemental Resist. If you die without having designated protection, increase enemy ATK / SPD and decrease ally ATK / SPD. If an ally dies while under designate protection, decrease enemy AP."
+  },
+  "SkillDesc_Skill_MP_HauntedFortress_N_5": {
+    "korean": "자신이 지정 보호 중인 아군이 존재하는 한, 해제 불가능한 전투 속행 효과를 획득합니다. 자신 사망 시, 아군 전체의 지정 보호 효과를 해제합니다.",
+    "english": "As long as there is an ally you are protecting, you gain an unremovable Combat Continuation effect. Upon your death, all allies' designate protection effects are removed."
+  },
+  "BuffDesc4_Effect_MP_HauntedFortress_N_3": {
+    "korean": "관통 내성 : 방어 관통 저항 {0}% (최대)",
+    "english": "Penetration Resistance: DEF Penetration Resistance {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_1": {
+    "korean": "무장 해제 사격 : 공격력 {0}%",
+    "english": "Disarming shots : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_HauntedFortress_N_1": {
+    "korean": "무장 해제 사격 : 치명타 {0}%",
+    "english": "Disarming shots : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_2": {
+    "korean": "접근 거부 사격 : 뒤로 {0}칸 밀기",
+    "english": "Denial of access shooting : Push Back {0}"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_3": {
+    "korean": "관통 내성 : 열 보호",
+    "english": "Penetration resistance : Column Protect"
+  },
+  "BuffDesc2_Effect_MP_HauntedFortress_N_3": {
+    "korean": "관통 내성 : 받는 피해 {0}% 감소",
+    "english": "Penetration resistance : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_MP_HauntedFortress_N_3": {
+    "korean": "관통 내성 : 방어력 {0}%",
+    "english": "Penetration resistance : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_4": {
+    "korean": "고정형 참호 : 지정 대상 보호",
+    "english": "Fixed trench : Target Protect"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_41": {
+    "korean": "고정형 참호 : 피해 최소화",
+    "english": "Fixed trench : Minimize Damage"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_42": {
+    "korean": "고정형 참호 : 화염 저항 하한 {0}%",
+    "english": "Fixed trench : Minimum Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_43": {
+    "korean": "고정형 참호 : 냉기 저항 하한 {0}%",
+    "english": "Fixed trench : Minimum Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_44": {
+    "korean": "고정형 참호 : 전기 저항 하한 {0}%",
+    "english": "Fixed trench : Minimum Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_5": {
+    "korean": "쓰러지지 않는 성채 : {0}% HP로 전투 속행",
+    "english": "Unfallen fortress : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_51": {
+    "korean": "무너지는 성채 : 모든 지정 보호 해제",
+    "english": "Collapsing Fortress : Target Protect Removal"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_52": {
+    "korean": "일기가성 : 공격력 {0}%",
+    "english": "Certain Victory : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_HauntedFortress_N_52": {
+    "korean": "일기가성 : 행동력 {0}%",
+    "english": "Certain Victory : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_53": {
+    "korean": "가로막는 강적 : 공격력 {0}%",
+    "english": "Formidable Foe : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_HauntedFortress_N_53": {
+    "korean": "가로막는 강적 : 행동력 {0}%",
+    "english": "Formidable Foe : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_HauntedFortress_N_54": {
+    "korean": "내 몸을 방패로 : AP {0}",
+    "english": "My Body as a Shield : AP {0}"
+  }
+}

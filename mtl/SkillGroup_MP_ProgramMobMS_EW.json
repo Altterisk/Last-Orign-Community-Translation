@@ -1,0 +1,78 @@
+{
+  "1002702215": {
+    "korean": "지향 사격",
+    "english": "Aimed fire"
+  },
+  "1002702216": {
+    "korean": "다연장 재밍 미사일",
+    "english": "Multiple launch rocket jamming missiles"
+  },
+  "1002702217": {
+    "korean": "광폭화-경보기",
+    "english": "Berserk-Alarm"
+  },
+  "1002702218": {
+    "korean": "긴급 경보",
+    "english": "Emergency alert"
+  },
+  "1002702219": {
+    "korean": "경보 오작동",
+    "english": "Alarm malfunction"
+  },
+  "1002703485": {
+    "korean": "기총 난사로 {0} 피해를 주고, 대상들을 표식으로 설정해 받는 피해를 증가시킵니다. 대상의 행동력과 회피를 감소시키며, 일정 확률로 피해 감소 효과를 해제합니다.",
+    "english": "Deals {0} damage with a barrage of machine gun fire and marks targets, increasing DMG Taken. Reduces target's SPD and EVA, and has a chance to remove DMG Reduction effects."
+  },
+  "1002703486": {
+    "korean": "재밍 미사일로 {0} 피해를 주고, 대상의 공격력 / 적중 / 치명타를 낮춥니다. 일정 확률로 대상에게 적용된 공격력 강화 효과를 해제합니다.",
+    "english": "Deals {0} damage with a jamming missile and reduces the target's ATK / ACC / CRIT. Has a chance to remove ATK buffs on the target."
+  },
+  "1002703487": {
+    "korean": "광폭화-매 라운드마다 적중률이 증가합니다.",
+    "english": "Berserk - ACC increases each round."
+  },
+  "1002703488": {
+    "korean": "라운드 개시 시, 주변에 HP가 33% 이하인 아군이 있으면 대상의 AP와 회피를 증가시킵니다.",
+    "english": "At the start of the round, if an ally nearby has HP at 33% or less, increase the target's AP and EVA."
+  },
+  "1002703489": {
+    "korean": "사망 시, 레이더 망에 오류가 발생해 모든 아군의 적중 / 회피가 감소합니다.",
+    "english": "Upon death, a radar network error reduces all allies' ACC and EVA."
+  },
+  "1000103784": {
+    "korean": "광폭화: 매 라운드마다 적중률 {0}%",
+    "english": "Berserk: ACC {0}% each round."
+  },
+  "1000103116": {
+    "korean": "지향 사격 : 표식 설정",
+    "english": "Aimed fire : Marks target"
+  },
+  "1000104480": {
+    "korean": "지향 사격 : 받는 피해{0}%",
+    "english": "Aimed fire : DMG Taken {0}%"
+  },
+  "1000105070": {
+    "korean": "지향 사격 : 행동력 {0}%",
+    "english": "Aimed fire : SPD {0}%"
+  },
+  "1000105407": {
+    "korean": "지향 사격 : 받는 피해 감소 해제",
+    "english": "Aimed fire : DMG Reduction Removal"
+  },
+  "1000103118": {
+    "korean": "긴급 경보 : AP{0}",
+    "english": "Emergency alert : AP {0}"
+  },
+  "1000104482": {
+    "korean": "긴급 경보 : 회피{0}",
+    "english": "Emergency alert : EVA {0}"
+  },
+  "1000103120": {
+    "korean": "오보 발령 : 적중 {0}%",
+    "english": "False Report : ACC {0}%"
+  },
+  "1000104483": {
+    "korean": "오보 발령 : 회피  {0}%",
+    "english": "False Report : EVA {0}%"
+  }
+}

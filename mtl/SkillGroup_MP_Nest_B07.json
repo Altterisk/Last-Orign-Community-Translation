@@ -1,0 +1,154 @@
+{
+  "1002705480": {
+    "korean": "파멸 도래",
+    "english": "Destruction Arrives"
+  },
+  "1002705481": {
+    "korean": "침식",
+    "english": "Corrosion"
+  },
+  "1002705482": {
+    "korean": "은총 하사",
+    "english": "Grace Bestowal"
+  },
+  "1000106709": {
+    "korean": "배리어 전개",
+    "english": "Barrier Deployment"
+  },
+  "1000106166": {
+    "korean": "사출 시스템 파괴",
+    "english": "Ejection System Destruction"
+  },
+  "1002706293": {
+    "korean": "에너지 응집체를 발사해 {0} 피해를 줍니다. 대상이 <침식> 효과에 적용되어 있는 상태일 시 피해량이 증가합니다.",
+    "english": "Fires an energy condensate dealing {0} damage. Damage increases if the target is affected by the <Corrosion> effect."
+  },
+  "1002706294": {
+    "korean": "목표 지점에 {0} 피해를 주는 침식체를 발사합니다. 목표 지점 주변은 피해가 25% 감소합니다. 적중 시, 30% 확률로 대상을 뒤로 밀고 공격력 / 방어력을 감소시킵니다. 공격력 / 방어력 감소 효과는 전투가 진행될수록 점감 됩니다.",
+    "english": "Fires an erosion projectile that deals {0} damage to the target. Damage is reduced by 25% around the target. On hit, there is a 30% chance to Push Back the target and reduce ATK / DEF. The ATK / DEF reduction effect diminishes as combat progresses."
+  },
+  "1002706295": {
+    "korean": "주위 아군에게 자신의 HP에 따라 점차 강해지는 효과를 부여합니다.&n&n은총 하사 1단계 (HP 100% ~ 70%) : 공격력 / 방어력 증가&n은총 하사 2단계 (HP 70% ~ 40%) : 공격력 / 방어력 / 적중 증가&n은총 하사 3단계 (HP 40% ~ 0%) : 공격력 / 방어력 / 적중 증가",
+    "english": "Grants nearby allies an effect that strengthens as your HP decreases.\nGrace Bestowal Stage 1 (HP 100% ~ 70%): ATK / DEF increase\nGrace Bestowal Stage 2 (HP 70% ~ 40%): ATK / DEF / ACC increase\nGrace Bestowal Stage 3 (HP 40% ~ 0%): ATK / DEF / ACC increase"
+  },
+  "1002706296": {
+    "korean": "피격 시, 해제 불가의 <배리어 전개 준비> 상태가 되며 4회 중첩인 상태로 피격 시, 해제 불가의 <배리어>가 전개되어 3라운드 동안 피해를 5회 무효화합니다. <배리어>가 전개돼있는 동안 피격 시, 해로운 효과를 해제하고 아군이 사망 시, <배리어>가 강제로 해제되어 3라운드 동안 받는 피해가 증가합니다.",
+    "english": "Upon being hit, you become the unremovable <Barrier Deployment Preparation> state. If hit while at 4 stacks, an unremovable <Barrier> deploys, nullifying damage 5 times for 3 rounds. While the <Barrier> is active, being hit removes harmful effects, and if an ally dies the <Barrier> is forcibly removed, increasing DMG Taken for 3 rounds."
+  },
+  "1002706297": {
+    "korean": "<배리어 전개> 상태에서 속성 공격에 피격 시, <사출 시스템 손상> 상태가 되며 해당 상태가 3회 중첩 된 상태로 피격 시, <사출 시스템 파괴>가 되어 <침식> 스킬을 사용할 수 없게 됩니다.",
+    "english": "While in the <Barrier Deployment> state, being hit by an elemental attack applies <Ejection System Damage>. If this state reaches 3 stacks, it becomes <Ejection System Destruction>, preventing use of the <Corrosion> skill."
+  },
+  "1002706337": {
+    "korean": "네스트가 파괴될 시, 사출된 모든 기계들도 같이 파괴됩니다.",
+    "english": "When the Nest is destroyed, all deployed machines are destroyed together."
+  },
+  "1000102526": {
+    "korean": "뒤로 {0}칸 밀기",
+    "english": "Push Back {0}"
+  },
+  "1000106855": {
+    "korean": "배리어 전개 : 해로윤 효과 해제",
+    "english": "Barrier Deployment : Remove Harmful Effects"
+  },
+  "1000106710": {
+    "korean": "배리어 강제 해제",
+    "english": "Barrier Forced Release"
+  },
+  "1000106600": {
+    "korean": "배리어 전개 중",
+    "english": "Barrier Deployed"
+  },
+  "1000106157": {
+    "korean": "은총 하사 1단계",
+    "english": "Grace Bestowal Stage 1"
+  },
+  "1000106158": {
+    "korean": "은총 하사 2단계",
+    "english": "Grace Bestowal Stage 2"
+  },
+  "1000106159": {
+    "korean": "은총 하사 3단계",
+    "english": "Grace Bestowal Stage 3"
+  },
+  "1000106160": {
+    "korean": "위치 사수",
+    "english": "Hold Position"
+  },
+  "1000106601": {
+    "korean": "사출 시스템 파괴(침식 사용 불가)",
+    "english": "Ejection System Destruction (Corrosion Unusable)"
+  },
+  "1000106602": {
+    "korean": "사출 시스템 손상",
+    "english": "Ejection System Damage"
+  },
+  "1000103173": {
+    "korean": "본체 파괴 : {0}% 물리 피해",
+    "english": "Main Body Destruction : {0}% Physical DMG"
+  },
+  "1000106592": {
+    "korean": "파멸 도래 : 피해량{0}%",
+    "english": "The coming of destruction : Additional DMG {0}%"
+  },
+  "1000106809": {
+    "korean": "침식 : 사거리 {0}",
+    "english": "Corrosion : Range {0}"
+  },
+  "1000106593": {
+    "korean": "침식 : 공격력 {0}%",
+    "english": "Corrosion : ATK {0}%"
+  },
+  "1000106810": {
+    "korean": "침식 : 방어력 {0}%",
+    "english": "Corrosion : DEF {0}%"
+  },
+  "1000106594": {
+    "korean": "은총 하사 1단계 : 공격력{0}%",
+    "english": "Grace Blessing I : ATK {0}%"
+  },
+  "1000106811": {
+    "korean": "은총 하사 1단계 : 방어력{0}%",
+    "english": "Grace Blessing I : DEF {0}%"
+  },
+  "1000106595": {
+    "korean": "은총 하사 2단계 : 공격력{0}%",
+    "english": "Grace Blessing II : ATK {0}%"
+  },
+  "1000106812": {
+    "korean": "은총 하사 2단계 : 방어력{0}%",
+    "english": "Grace Blessing II : DEF {0}%"
+  },
+  "1000106717": {
+    "korean": "은총 하사 2단계 : 적중{0}%",
+    "english": "Grace Blessing II : ACC {0}%"
+  },
+  "1000106596": {
+    "korean": "은총 하사 3단계 : 공격력{0}%",
+    "english": "Grace Blessing III : ATK {0}%"
+  },
+  "1000106813": {
+    "korean": "은총 하사 3단계 : 방어력{0}%",
+    "english": "Grace Blessing III : DEF {0}%"
+  },
+  "1000106718": {
+    "korean": "은총 하사 3단계 : 적중{0}%",
+    "english": "Grace Blessing III : ACC {0}%"
+  },
+  "1000106597": {
+    "korean": "배리어 : 피해 무효 {0}회",
+    "english": "Barrier : Damage Nullification {0}x"
+  },
+  "1000106598": {
+    "korean": "배리어 강제 해제 : 받는 피해{0}%",
+    "english": "Barrier Break : DMG Taken {0}%"
+  },
+  "1000106599": {
+    "korean": "배리어 전개 준비 : 받는 피해 감소 {0}%",
+    "english": "Barrier Ready : DMG Reduction {0}%"
+  },
+  "1000106164": {
+    "korean": "배리어 전개 : 해로운 효과 해제",
+    "english": "Barrier deployment : Debuff Removal"
+  }
+}

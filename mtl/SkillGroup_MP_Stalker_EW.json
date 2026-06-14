@@ -1,0 +1,54 @@
+{
+  "1002702290": {
+    "korean": "리액터 충전",
+    "english": "Reactor Charging"
+  },
+  "1002702292": {
+    "korean": "리액터 과충전",
+    "english": "Reactor Overcharge"
+  },
+  "1002703525": {
+    "korean": "레일건 저격으로 {0} 피해를 주고 공격이 적중 시 높은 확률로 2라운드 동안 행동 불가 상태가 됩니다.",
+    "english": "Deals {0} damage with railgun sniping and, when the attack hits, there is a high chance of causing a 2‑round Stunned state."
+  },
+  "1002703526": {
+    "korean": "매 라운드마다 리액터가 충전이 되어 방어 관통 효과가 증가하지만 4 중첩을 넘을 경우 리액터 초기화 상태가 되어 모든 강화 효과가 해제되고 1라운드 동안 행동 불가 상태가 됩니다.",
+    "english": "Each round, the reactor charges and the DEF Penetration effect increases, but if it exceeds 4 stacks, the reactor resets, all enhancement effects are removed, and the unit is Stunned for 1 round."
+  },
+  "1002703527": {
+    "korean": "공격 대상의 HP가 낮을수록 주는 피해가 증가합니다.",
+    "english": "DMG Proportional to Target Lost HP"
+  },
+  "1002703528": {
+    "korean": "전기 공격에 피격 당할 시 2라운드 동안 공격력이 대폭 감소하고 적용 중인 리액터 충전 효과를 해제 합니다.",
+    "english": "When hit by an electric attack, ATK drastically decreases for 2 rounds, and the Reactor Charge effect is removed."
+  },
+  "1000102504": {
+    "korean": "챠지 : 다음 공격 치명타 적용",
+    "english": "Charge : Next attack applies CRIT"
+  },
+  "1000103794": {
+    "korean": "약점 포착 : 적 HP% 낮을수록 피해량{0}%",
+    "english": "Weak Point Capture : Damage {0}% increases as enemy HP lowers"
+  },
+  "1000104772": {
+    "korean": "리액터 과충전 : 리액터 충전 효과 해제",
+    "english": "Reactor Overcharge : Remove Reactor Charge Effects"
+  },
+  "1000103792": {
+    "korean": "리액터 충전 : 방어 관통 {0}%",
+    "english": "Reactor Charging : DEF Penetration {0}%"
+  },
+  "1000103793": {
+    "korean": "리액터 초기화 :  행동 불능",
+    "english": "Reactor Reset : Stunned"
+  },
+  "1000104771": {
+    "korean": "리액터 초기화 : 강화 효과 해제",
+    "english": "Reactor Reset : Buff Removal"
+  },
+  "1000103795": {
+    "korean": "리액터 과충전 : 공격력 {0}%",
+    "english": "Reactor Overcharge : ATK {0}%"
+  }
+}

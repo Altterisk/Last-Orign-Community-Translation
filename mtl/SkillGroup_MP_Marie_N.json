@@ -1,0 +1,138 @@
+{
+  "1002700048": {
+    "korean": "핀 레이저 사격",
+    "english": "Pin Laser"
+  },
+  "1002700049": {
+    "korean": "마른의 포격",
+    "english": "Marne's Bombardment"
+  },
+  "1002700050": {
+    "korean": "엘랑비탈",
+    "english": "Élan Vital"
+  },
+  "1002700051": {
+    "korean": "대공 지휘",
+    "english": "Anti-Air Command"
+  },
+  "1002706109": {
+    "korean": "빔 공격으로 {0} 피해를 주고, 2라운드 동안 대상을 도발 / 공격력 / 치명타 감소 상태로 만듭니다. <역습 준비> 활성화 상태면 피해량이 증가합니다.",
+    "english": "Deal {0} damage with a beam attack and apply Provoked, ATK reduction, and CRIT reduction to the target for 2 rounds. Damage is increased while <Counterattack Preparation> is active."
+  },
+  "1002706468": {
+    "korean": "단일 대상 {0} 피해. 도발 / 공격력 / 치명타 감소. <역습 준비> 상태면 피해량 증가",
+    "english": "Single target {0} damage. Applies Provoked, ATK reduction, and CRIT reduction. Damage is increased while in <Counterattack Preparation> state."
+  },
+  "1002706110": {
+    "korean": "빔을 난사해 목표 지점에 {0} 보호 무시 피해를 줍니다. 대상에게 적용된 <화망 구축> 회피 감소 효과 중첩에 비례해 피해량이 증가합니다.",
+    "english": "Fire beams rapidly at the target area to deal {0} Ignore Protection damage. Damage increases proportionally to the number of EVA reduction stacks from <Firewall Deployment> applied to the target."
+  },
+  "1002706469": {
+    "korean": "지정 범위 {0} 보호 무시 피해. <화망 구축> 단계에 따라 피해량 증가",
+    "english": "Area {0} Ignore Protection damage. Damage increases according to the stage of <Firewall Deployment>."
+  },
+  "1002706111": {
+    "korean": "라운드 개시 시, 방어력이 증가하며 받는 피해가 감소합니다. 해당 효과는 자신이 전열에 가까울수록 최대 50%까지 증가합니다. 피격 시, 최대 5회까지 공격력이 증가하는 <역습 준비> 상태가 됩니다.",
+    "english": "At the start of the round, DEF is increased and DMG Reduction is applied. This effect scales up to 50% the closer the unit is to the front row. When hit, the unit gains <Counterattack Preparation> state, increasing ATK up to 5 times."
+  },
+  "1002706470": {
+    "korean": "전열일수록 방어력 증가 / 받는 피해 감소. 피격 시, 공격력 증가",
+    "english": "DEF increase / DMG Reduction the further forward the unit is. ATK increase when hit."
+  },
+  "1002706112": {
+    "korean": "같은 스쿼드 내 경장형 아군을 지정 보호하며, 범위 내 아군에게 대 기동형 피해량 / 적중 / 행동력 증가 효과를 줍니다.",
+    "english": "Designate protection for Light allies in the same squad, and grant allies within range increased Anti-Air DMG, ACC, and SPD."
+  },
+  "1002706471": {
+    "korean": "스쿼드 내 경장형 아군 지정 보호. 아군 적중 / 행동력 / 대 기동형 피해량 증가",
+    "english": "Designate protection for Light allies in the squad. Allies gain increased ACC, SPD, and Anti-Air DMG."
+  },
+  "1002706113": {
+    "korean": "라운드 개시 시마다 최대 3회까지 모든 적들의 회피를 낮춥니다. <화망 구축>이 2중첩 이상인 대상에게 공격 적중 시, 2라운드 동안 대상의 받는 피해를 증가시킵니다. <화망 구축> 중첩 수가 최대인 대상에게 공격 적중 시, 회피 증가 효과를 해제합니다.",
+    "english": "At the start of each round, reduce all enemies' EVA up to 3 times. When attacking a target with 2 or more stacks of <Firewall Deployment>, increase the target's DMG Taken for 2 rounds. When attacking a target with the maximum number of <Firewall Deployment> stacks, remove the EVA increase effect."
+  },
+  "1002706472": {
+    "korean": "적의 회피 감소. 구축 단계에 따라 공격 적중 시, 받는 피해 증가 / 회피 증가 해제",
+    "english": "Reduces enemy EVA. On hit, depending on the stage of Firewall Deployment, increase DMG Taken / remove EVA increase."
+  },
+  "BuffDesc1_Effect_MP_Marie_N_1": {
+    "korean": "핀 레이저 : 대상 도발 (마리)",
+    "english": "Pin Laser : Target Provoked (Marie)"
+  },
+  "BuffDesc1_Effect_MP_Marie_N_4": {
+    "korean": "대공 지휘 : 대 기동 공격+{0}%",
+    "english": "Anti-Air Command : Anti-Air DMG Attack +{0}%"
+  },
+  "BuffDesc1_Effect_MP_Marie_N_15": {
+    "korean": "대공 지휘 : 대 기동 공격+{0}%",
+    "english": "Anti-Air Command : Anti-Air DMG Attack +{0}%"
+  },
+  "BuffDesc4_Effect_MP_Marie_N_15": {
+    "korean": "스스로 불러온 재앙",
+    "english": "Self-Inflicted Disaster"
+  },
+  "BuffDesc4_Effect_MP_Marie_N_5": {
+    "korean": "무슨 축제가 열리고 있는 건가요?",
+    "english": "What festival is taking place?"
+  },
+  "BuffDesc2_Effect_MP_Marie_N_1": {
+    "korean": "핀 레이저 : 공격력 {0}%",
+    "english": "Pin Laser : ATK {0}%"
+  },
+  "BuffDesc3_Effect_MP_Marie_N_1": {
+    "korean": "핀 레이저 : 치명타 {0}%",
+    "english": "Pin Laser : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_MP_Marie_N_1": {
+    "korean": "역습 개시 : 피해량+{0}%",
+    "english": "Counterattack Initiated : Additional DMG +{0}%"
+  },
+  "BuffDesc1_Effect_MP_Marie_N_2": {
+    "korean": "마른의 포격 : 피해량+{0}%",
+    "english": "Marne's Bombardment : Additional DMG +{0}%"
+  },
+  "BuffDesc1_Effect_MP_Marie_N_3": {
+    "korean": "엘랑비탈 : 방어력+{0}%",
+    "english": "Élan Vital : DEF +{0}%"
+  },
+  "BuffDesc2_Effect_MP_Marie_N_3": {
+    "korean": "엘랑비탈 : 받는 피해 {0}% 감소",
+    "english": "Élan Vital : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_MP_Marie_N_3": {
+    "korean": "역습 준비 : 공격력+{0}% (피격 시)",
+    "english": "Counterattack Ready : ATK +{0}% (When Hit)"
+  },
+  "BuffDesc2_Effect_MP_Marie_N_4": {
+    "korean": "대공 지휘 : 지정 대상 보호 (경장)",
+    "english": "Anti-Aircraft Command : Target Protect (Light)"
+  },
+  "BuffDesc3_Effect_MP_Marie_N_4": {
+    "korean": "대공 지휘 : 적중+{0}%",
+    "english": "Anti-Aircraft Command : ACC +{0}%"
+  },
+  "BuffDesc4_Effect_MP_Marie_N_4": {
+    "korean": "대공 지휘 : 행동력+{0}%",
+    "english": "Anti-Aircraft Command : SPD +{0}%"
+  },
+  "BuffDesc2_Effect_MP_Marie_N_15": {
+    "korean": "대공 지휘 : 적중+{0}%",
+    "english": "Anti-Aircraft Command : ACC +{0}%"
+  },
+  "BuffDesc3_Effect_MP_Marie_N_15": {
+    "korean": "대공 지휘 : 행동력+{0}%",
+    "english": "Anti-Aircraft Command : SPD +{0}%"
+  },
+  "BuffDesc1_Effect_MP_Marie_N_5": {
+    "korean": "화망 구축 : 회피 {0}%",
+    "english": "Firenet Establishment : EVA {0}%"
+  },
+  "BuffDesc2_Effect_MP_Marie_N_5": {
+    "korean": "화망 구축 Lv.2 : 받는 피해+{0}% (공격 적중 시)",
+    "english": "Fire Net Deployment Lv.2 : DMG Taken +{0}% (On Attack Hit)"
+  },
+  "BuffDesc3_Effect_MP_Marie_N_5": {
+    "korean": "화망 구축 Lv.3 : 회피 강화 효과 해제 (공격 적중 시)",
+    "english": "Fire Net Deployment Lv.3 : EVA Buff Removal (On Attack Hit)"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "SkillName_Skill_MP_Nidhogg_C_1": {
+    "korean": "큰 파멸의 폭발",
+    "english": "Cataclysmic Blast"
+  },
+  "SkillName_Skill_MP_Nidhogg_C_2": {
+    "korean": "큰 파멸의 징조",
+    "english": "Omen of Great Destruction"
+  },
+  "SkillName_Skill_MP_Nidhogg_C_3": {
+    "korean": "더 깊은 어둠",
+    "english": "Deeper Darkness"
+  },
+  "SkillName_Skill_MP_Nidhogg_C_4": {
+    "korean": "깊은 타락의 징조",
+    "english": "Omen of Deep Corruption"
+  },
+  "SkillName_Skill_MP_Nidhogg_C_5": {
+    "korean": "멈추지 않는 비극",
+    "english": "Unending Tragedy"
+  },
+  "SkillDesc_Skill_MP_Nidhogg_C_1": {
+    "korean": "지정 범위 내 대상에게 {0} 피해를 주고 큰 파멸의 징조로 협동 공격을 가합니다.&n적중한 적은 2라운드동안 방어력 감소 해로운 효과를 얻으며 치명타시 수치가 증가합니다.",
+    "english": "Deals {0} damage to targets within the designated range and triggers a Cooperative Attack with Omen of Great Destruction. Enemies hit receive a detrimental effect that reduces DEF for 2 rounds, and its value increases on CRIT."
+  },
+  "SkillDesc_Skill_MP_Nidhogg_C_2": {
+    "korean": "지정 범위 내 대상에게 {0} 피해를 주고 큰 파멸의 폭발로 협동 공격을 가합니다.&n대상이 자신보다 방어력이 낮으면 피해량이 증가합니다.",
+    "english": "Deals {0} damage to targets within the designated range and triggers a Cooperative Attack with Cataclysmic Blast. Damage increases if the target's DEF is lower than yours."
+  },
+  "SkillDesc_Skill_MP_Nidhogg_C_3": {
+    "korean": "라운드 개시시 영구적으로 방어력이 증가하고 1라운드동안 방어관통이 증가하며 방어력 감소 효과에 면역됩니다. &n자신의 공격이 적중하지 않으면  AP가 증가하고 적중할 때까지 적중이 증가합니다.&n모두 일반 효과 입니다.",
+    "english": "At the start of a round, DEF is increased permanently, Armor Penetration is increased for 1 round, and you become immune to DEF reduction effects. If your attack misses, AP is increased, and ACC increases until it hits. All are Normal Effect."
+  },
+  "SkillDesc_Skill_MP_Nidhogg_C_4": {
+    "korean": "전투 개시시 영구적으로 물리 지속 피해를 입힙니다.&n라운드 개시 혹은 피격시 킬 사용 불가/행동 불가/ 사거리 증가 혹은 감소 상태면 적 전체에게 2라운드동안 화염/ 전기/ 냉기 지속 피해를 입힙니다.",
+    "english": "At combat start, you permanently inflict Physical DoT DMG. At the start of a round or when hit, if Kill is unavailable, Stunned, or Range is increased or decreased, all enemies take Fire/Electric/Cold DoT DMG for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_Nidhogg_C_5": {
+    "korean": "라운드 개시 혹은 부활시 레모네이드 콰트로가 있으면 1라운드동안 전투 속행을 얻습니다.&n아군 사망시 영구적으로 공격력/ 행동력/ 적중/ 방어관통이 증가하고 보호 무시를 얻습니다. 모두 일반 효과 입니다.",
+    "english": "If Lemonade Cuatro is present at the start of a round or upon resurrection, you gain Continue Combat for 1 round. When an ally dies, ATK, SPD, ACC, and Armor Penetration are permanently increased, and you gain Ignore Protection. All are Normal Effect."
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_33": {
+    "korean": "더 깊은 어둠 :미 적중시 AP{0}",
+    "english": "Deeper Darkness : Gain AP {0} when attack misses"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_41": {
+    "korean": "깊은 타락의 징조: 화염 지속 피해{0}",
+    "english": "Omen of Deep Corruption : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_42": {
+    "korean": "깊은 타락의 징조: 전기 지속 피해{0}",
+    "english": "Omen of Deep Corruption : Electric DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_43": {
+    "korean": "깊은 타락의 징조: 냉기 지속 피해{0}",
+    "english": "Omen of Deep Corruption : Cold DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_44": {
+    "korean": "깊은 타락의 징조: 화염 지속 피해{0} (피격)",
+    "english": "Omen of Deep Corruption : Fire DoT DMG {0} (When Hit)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_45": {
+    "korean": "깊은 타락의 징조: 전기 지속 피해{0} (피격)",
+    "english": "Omen of Deep Corruption : Electric DoT DMG {0} (When Hit)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_46": {
+    "korean": "깊은 타락의 징조: 냉기 지속 피해{0} (피격)",
+    "english": "Omen of Deep Corruption : Cold DoT DMG {0} (When Hit)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_51": {
+    "korean": "멈추지 않는 비극 :부활 시{0}% HP로 전투 속행",
+    "english": "Unending Tragedy : Battle Continuation with {0}% HP upon revival"
+  },
+  "BuffDesc3_Effect_MP_Nidhogg_C_52": {
+    "korean": "멈추지 않는 비극 : 적중률 {0}%",
+    "english": "Unending Tragedy : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_1": {
+    "korean": "큰 파멸의 징조: 협동 공격",
+    "english": "Signs of great destruction : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_11": {
+    "korean": "큰 파멸의 폭발: 방어력{0}%",
+    "english": "A massive explosion of destruction : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_12": {
+    "korean": "큰 파멸의 폭발: 방어력{0}% (치명)",
+    "english": "A massive explosion of destruction : DEF {0}% (CRIT)"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_2": {
+    "korean": "큰 파멸의 징조: 협동 공격",
+    "english": "Signs of great destruction : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_21": {
+    "korean": "큰 파멸의 징조: 피해량 증가{0}%",
+    "english": "Signs of great destruction : Additional DMG {0}% Increase"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_3": {
+    "korean": "더 깊은 어둠: 방어력{0}",
+    "english": "Deeper darkness : DEF {0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_31": {
+    "korean": "더 깊은 어둠 : 방어력 감소 면역",
+    "english": "Deeper darkness : DEF Decrease Immunity"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_32": {
+    "korean": "더 깊은 어둠: 적중{0}%",
+    "english": "Deeper darkness : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_4": {
+    "korean": "깊은 타락의 징조: 지속 물리 피해{0}",
+    "english": "Signs of deep corruption : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_5": {
+    "korean": "멈추지 않는 비극: {0}% HP로 전투 속행",
+    "english": "Unceasing tragedy : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_C_52": {
+    "korean": "멈추지 않는 비극 : 공격력 {0}%",
+    "english": "Unceasing tragedy : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_Nidhogg_C_52": {
+    "korean": "멈추지 않는 비극 : 행동력 {0}%",
+    "english": "Unceasing tragedy : SPD {0}%"
+  },
+  "BuffDesc4_Effect_MP_Nidhogg_C_52": {
+    "korean": "멈추지 않는 비극 : 방어 관통{0}%",
+    "english": "Unceasing tragedy : DEF Penetration {0}%"
+  },
+  "BuffDesc5_Effect_MP_Nidhogg_C_52": {
+    "korean": "멈추지 않는 비극 : 보호 무시 활성화",
+    "english": "Unceasing tragedy : Activate Ignore Protection"
+  }
+}

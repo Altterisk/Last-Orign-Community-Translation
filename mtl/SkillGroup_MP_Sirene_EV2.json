@@ -1,0 +1,66 @@
+{
+  "1002701581": {
+    "korean": "203mm 연장포",
+    "english": "203mm Extended Gun"
+  },
+  "1002701582": {
+    "korean": "초토화 포격",
+    "english": "Scorched Earth Bombardment"
+  },
+  "1002701583": {
+    "korean": "포격 모드",
+    "english": "Bombardment Mode"
+  },
+  "1002704142": {
+    "korean": "직사 포격으로 지정 범위에 {0} 피해를 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다.",
+    "english": "Deals {0} damage to the designated area with a direct bombardment. Damage increases if the target is Marked or Rooted."
+  },
+  "1002704280": {
+    "korean": "포격 연사로 지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점 주변은 피해량이 25% 감소하며, 대상이 경장 / 중장형이면 피해량 증가하며 1칸 뒤로 밉니다. 스킬 사용 시, 2라운드 동안 행동 불가가 됩니다.",
+    "english": "Fires a barrage of shells to deal {0} Ignore Protection damage to the designated area. Damage is reduced by 25% around the target point, and if the target is Light or Heavy, damage increases and pushes them back 1 tile. When you use this skill, you become Stunned for 2 rounds."
+  },
+  "1002704281": {
+    "korean": "라운드 개시 시, 공격력 / 방어 관통이 증가합니다.",
+    "english": "ATK / DEF Penetration increase at the start of the round."
+  },
+  "1002704282": {
+    "korean": "라운드 개시 시, 공격 지원을 받는 상태면 적중 / 치명타가 증가하며, 방어막 / 피해 감소 효과를 무시합니다.",
+    "english": "At the start of the round, if you are under Follow-Up Attack, ACC / CRIT increase, and Ignore Barrier / DMG Reduction."
+  },
+  "1000103650": {
+    "korean": "초토화 포격 : 피해량{0}% (경장/중장)",
+    "english": "Scorched earth bombardment : Additional DMG {0}% (Light/Heavy)"
+  },
+  "1000104711": {
+    "korean": "초토화 포격 : 뒤로 {0}칸 밀기 (경장/중장)",
+    "english": "Scorched earth bombardment : Push Back {0} (Light/Heavy)"
+  },
+  "1000103698": {
+    "korean": "포탄 재장전 : 행동 불가",
+    "english": "Shell Reload : Stunned"
+  },
+  "1000103651": {
+    "korean": "협차 사격 (캐논) : 적중{0}%",
+    "english": "Cannon Support Fire : ACC {0}%"
+  },
+  "1000104712": {
+    "korean": "협차 사격 (캐논) : 치명타{0}%",
+    "english": "Cannon Support Fire : CRIT {0}%"
+  },
+  "1000105203": {
+    "korean": "협차 사격 (캐논) : 방어 관통{0}%",
+    "english": "Cannon Support Fire : DEF Penetration {0}%"
+  },
+  "1000103381": {
+    "korean": "포격 모드 : 공격력{0}%",
+    "english": "Bombardment mode : ATK {0}%"
+  },
+  "1000104600": {
+    "korean": "포격 모드 : 방어 관통{0}%",
+    "english": "Bombardment mode : DEF Penetration {0}%"
+  },
+  "1000103380": {
+    "korean": "관측 포격 : 방어막 / 피해 감소 무시",
+    "english": "Observation bombardment : Ignore Barrier / DMG Reduction"
+  }
+}

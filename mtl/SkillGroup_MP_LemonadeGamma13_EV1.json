@@ -1,0 +1,158 @@
+{
+  "SkillName_Skill_MP_LemonadeGamma13_EV1_1": {
+    "korean": "케스토스 히마스 : 아이언클래드",
+    "english": "Ironclad"
+  },
+  "SkillName_Skill_MP_LemonadeGamma13_EV1_2": {
+    "korean": "케스토스 히마스 : 에라디케이터",
+    "english": "Eradicator"
+  },
+  "SkillName_Skill_MP_LemonadeGamma13_EV1_3": {
+    "korean": "언터처블",
+    "english": "Untouchable"
+  },
+  "SkillName_Skill_MP_LemonadeGamma13_EV1_4": {
+    "korean": "약자 멸시",
+    "english": "Contempt for the Weak"
+  },
+  "SkillName_Skill_MP_LemonadeGamma13_EV1_5": {
+    "korean": "출력 제한 해제",
+    "english": "Remove Output Limit"
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_EV1_1": {
+    "korean": "단일 대상에게 {0} 보호 무시 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.\n적중 대상이 피해 무효화 / 피해 최소화 / 전투 속행 상태인 경우, 대상 최대 HP에 비례한 피해를 줍니다.\n치명타 시, 2라운드 동안 대상은 스킬 사용 불가 상태가 됩니다.",
+    "english": "Deals {0} Ignore Protection DMG to a single target. Ignores a portion of the target's DEF. If the target is in Damage Nullification / Damage Reduction / Battle Continuation state, deals damage proportional to the target's max HP. On a CRIT, the target becomes Silenced for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_EV1_2": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.\n스킬 사용 시, 대상과 자신이 받는 피해가 영구히 증가합니다. 해당 효과는 해로운 효과 해제로 해제할 수 없습니다.\n치명타 시, 대상의 강화 효과를 해제합니다.\n<출력 제한 해제> 상태일 경우 사용하지만, 연속적으로 사용하지는 않습니다.",
+    "english": "Deals {0} Ignore Protection DMG to the designated area. Ignores a portion of the target's DEF. When used, both the target and you permanently take increased DMG. This effect cannot be removed by dispelling harmful effects. On a CRIT, removes the target's buffs. Can be used while in the <Remove Output Limit> state, but not consecutively."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_EV1_3": {
+    "korean": "전투 개시 시, 자신의 효과 저항 / 강화 해제 저항이 증가하고 해로운 효과를 해제합니다. 효과는 매 라운드 점감합니다.\n매 라운드 첫번째 공격에 대해 자신의 회피가 크게 증가합니다.\n공격 받을 시, 모든 적에게 적용된 지원 공격 / 협동 공격 / 반복 행동 효과를 해제합니다.",
+    "english": "At combat start, your Status Resist / Buff Removal Resist increase and you remove harmful effects. The effect diminishes each round. Your EVA greatly increases for the first attack each round. When attacked, you remove all Support Attack / Cooperative Attack / Repeated Action effects applied to enemies."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_EV1_4": {
+    "korean": "라운드 개시 시, 공격기가 아닌 적 수에 비례하여 자신의 AP가 증가합니다.\n라운드 개시 시, 모든 적의 AP가 증가하고 표식을 부여합니다.\n모든 적은 매 라운드 1회 이상 직접 공격하지 않을 경우, 지속 물리 피해를 입습니다.\n공격 받을 시, HP가 30% 이하인 적의 AP가 감소합니다.",
+    "english": "At round start, your AP increases proportionally to the number of enemies that are not attackers. At round start, all enemies' AP increases and they are Marked. All enemies that do not perform a direct attack at least once per round take Physical DoT DMG. When attacked, enemies with HP at 30% or less have their AP reduced."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_EV1_5": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 영구히 증가합니다.\n라운드 개시 시 상기 효과가 3중첩 이상인 경우, 방어막 / 피해 감소 무시가 활성화됩니다.\n일부 전투원의 존재는 조건을 무시하고 <출력 제한 해제>를 활성화할 수 있습니다.\n자신의 공격은 자신의 HP가 낮을 수록 피해량이 증가합니다.",
+    "english": "At round start, your ATK / CRIT permanently increase. If this effect has 3 or more stacks at round start, Ignore Barrier / DMG Reduction is activated. Certain combatants can activate <Remove Output Limit> regardless of conditions. Your attacks deal more DMG the lower your HP is."
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_11": {
+    "korean": "잔재주 부리긴 : 대상 최대 HP {0}%만큼 피해",
+    "english": "A Little Trick : Deals damage equal to {0}% of the target's max HP"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_23": {
+    "korean": "똑바로 서라.",
+    "english": "Stand up straight. :"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_311": {
+    "korean": "재미없군…",
+    "english": "This is boring… :"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_312": {
+    "korean": "꽤 하는데?",
+    "english": "You're pretty good at it, aren't you? :"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_313": {
+    "korean": "장난은 그쯤 하지 : 지원 공격 해제",
+    "english": "Enough with the jokes : Cancel Support Attack"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_316": {
+    "korean": "장난은 그쯤 하지 : 반복 행동 해제",
+    "english": "Enough with the jokes : Disable Repeated Action"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_53": {
+    "korean": "어디 실력 좀 볼까.",
+    "english": "Let's see what you've got. :"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_55": {
+    "korean": "죽을 각오로 덤벼라.",
+    "english": "Go for it with everything you've got. :"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_58": {
+    "korean": "이런 대련도 오랜만이군.",
+    "english": "It’s been a while since we’ve had a sparring session like this. :"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_510": {
+    "korean": "집안 싸움은 빨리 끝내지.",
+    "english": "Let's settle this family feud quickly. :"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_514": {
+    "korean": "출력 제한 해제 : 자신 HP 반비례 피해량 {0}% (최대)",
+    "english": "Remove Output Limit : Damage equal to {0}% of your HP (max)"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_1": {
+    "korean": "아이언클래드 : 방어 관통 {0}%",
+    "english": "Ironclad : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_12": {
+    "korean": "휘청거리고 있지 않나? : 스킬 사용 불가",
+    "english": "You're staggering, aren't you? : Silenced"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_2": {
+    "korean": "에라디케이터 : 방어 관통 {0}%",
+    "english": "Eradicator : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_21": {
+    "korean": "에라디케이터 : 강화 효과 해제",
+    "english": "Eradicator : Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_22": {
+    "korean": "모두를 멸하는 : 받는 피해 {0}% 증가",
+    "english": "Annihilate All : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_3": {
+    "korean": "언터처블 : 효과 저항 {0}% 증가",
+    "english": "Untouchable : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_MP_LemonadeGamma13_EV1_3": {
+    "korean": "언터처블 : 강화 해제 저항 {0}%",
+    "english": "Untouchable : Buff Removal Resist {0}%"
+  },
+  "BuffDesc3_Effect_MP_LemonadeGamma13_EV1_3": {
+    "korean": "언터처블 : 해로운 효과 해제",
+    "english": "Untouchable : Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_310": {
+    "korean": "까딱 : 회피 {0}%",
+    "english": "Dodge : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_314": {
+    "korean": "장난은 그쯤 하지 : 협동 공격 해제",
+    "english": "Enough with the jokes : Cooperative Attack Removal"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_4": {
+    "korean": "남길 말 있나? : AP {0}",
+    "english": "Any final words? : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_410": {
+    "korean": "배틀매니아 : AP {0}",
+    "english": "Battle Mania : AP {0}"
+  },
+  "BuffDesc2_Effect_MP_LemonadeGamma13_EV1_410": {
+    "korean": "배틀매니아 : 표식",
+    "english": "Battle Mania : Marked"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_411": {
+    "korean": "배틀매니아 : {0} 지속 물리 피해",
+    "english": "Battle Mania : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_412": {
+    "korean": "약자 멸시 : AP {0}",
+    "english": "Contempt for the weak : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_5": {
+    "korean": "출력 상승 : 공격력 {0}%",
+    "english": "Increased Damage : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_51": {
+    "korean": "출력 상승 : 치명타 {0}%",
+    "english": "Increased Damage : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_EV1_52": {
+    "korean": "출력 제한 해제 : 방어막 / 피해 감소 무시",
+    "english": "Remove output limit : Ignore Barrier / DMG Reduction"
+  }
+}

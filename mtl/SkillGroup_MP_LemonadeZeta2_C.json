@@ -1,0 +1,162 @@
+{
+  "SkillName_Skill_MP_LemonadeZeta2_C_1": {
+    "korean": "심판의 열기",
+    "english": "Judgment Blaze"
+  },
+  "SkillName_Skill_MP_LemonadeZeta2_C_2": {
+    "korean": "심판의 벼락",
+    "english": "Judgment Lightning"
+  },
+  "SkillName_Skill_MP_LemonadeZeta2_C_3": {
+    "korean": "영원 추구",
+    "english": "Pursuit of Eternity"
+  },
+  "SkillName_Skill_MP_LemonadeZeta2_C_4": {
+    "korean": "심판을 받아라",
+    "english": "Receive Judgment"
+  },
+  "SkillName_Skill_MP_LemonadeZeta2_C_5": {
+    "korean": "종말을 향해",
+    "english": "Toward the End"
+  },
+  "SkillDesc_Skill_MP_LemonadeZeta2_C_1": {
+    "korean": "지정 범위에 {0} 화염 피해를 주고 3라운드 동안 전기 저항 감소 해로운 효과 및 효과 저항 감소 일반 효과를 줍니다. 대상의 방어력이 자신보다 낮은 경우 2라운드 동안 화염 지속 피해 일반 효과를 줍니다. &n받는 피해 감소 버프가 있는 대상에게 받는 피해 감소 약화 일반 효과를 줍니다. 500% 적중 보정을 얻습니다.",
+    "english": "Deals {0} Fire damage to the designated area and applies a Normal Effect that reduces Electric Resist and Status Resist for 3 rounds. If the target's DEF is lower than yours, applies a Normal Effect that deals Fire DoT for 2 rounds. Also applies a Normal Effect that weakens DMG Reduction on targets with a DMG Reduction buff. Grants 500% Hit Correction."
+  },
+  "SkillDesc_Skill_MP_LemonadeZeta2_C_2": {
+    "korean": "지정 범위에 {0} 전기 피해를 주고 3라운드 동안 화염 저항 감소 해로운 효과 및 효과 저항 감소 일반 효과를 줍니다. 대상의 방어력이 자신보다 낮은 경우 2라운드 동안 전기 지속 피해 일반 효과를 줍니다. &n받는 피해 감소 버프가 있는 대상에게 받는 피해 감소 약화 일반 효과를 줍니다. 500% 적중 보정을 얻습니다.",
+    "english": "Deals {0} Electric damage to the designated area and applies a Normal Effect that reduces Fire Resist and Status Resist for 3 rounds. If the target's DEF is lower than yours, applies a Normal Effect that deals Electric DoT for 2 rounds. Also applies a Normal Effect that weakens DMG Reduction on targets with a DMG Reduction buff. Grants 500% Hit Correction."
+  },
+  "SkillDesc_Skill_MP_LemonadeZeta2_C_3": {
+    "korean": "라운드 개시시 아래 효과를 얻습니다.&n1. HP가 20% 이하 혹은 25% 이상인 상태라면 1라운드 동안 전투 속행 일반효과를 얻으며 이 효과가 있는 한 부활 시 1라운드 동안 전투 속행 일반효과를 다시 얻습니다.&n(두 HP조건이 충족되지 않은 상태에서 라운드 개시하는 경우, 전투 속행 효과를 얻지 못합니다.)&n2. 적의 보호기/지원기/공격기 중 한 종류라도 3기 이상인 경우 1라운드 동안 피해 무효화 5회 일반 효과를 얻습니다. &n3. 전투 중 지속되는 공격력/방어력/행동력/적중 증가 일반 효과를 얻습니다. (20중첩)&n4. 자신의 AP가 증가합니다.&n피격시 받는 피해 감소 일반 효과를 얻습니다. (5중첩)",
+    "english": "At the start of a round, you gain the following effects: 1. If HP is 20% or lower, or 25% or higher, you gain the Battle Continuation Normal Effect for 1 round; while this effect is active, you regain Battle Continuation for 1 round upon revival. (If neither HP condition is met at round start, you do not gain Battle Continuation.) 2. If there are 3 or more enemy Defenders, Supporters, or Attackers, you gain Damage Nullification 5 Times Normal Effect for 1 round. 3. You gain a Normal Effect that increases ATK/DEF/SPD/ACC continuously during combat (20 stacks). 4. Your AP increases. You also gain a DMG Reduction Normal Effect when hit (5 stacks)."
+  },
+  "SkillDesc_Skill_MP_LemonadeZeta2_C_4": {
+    "korean": "전투 개시시, 99라운드동안 적 전체에게 물리 지속 피해 일반 효과를 주고 3라운드 동안 행동력 감소 일반 효과를 줍니다.&n부활 시, 3라운드 동안 적 전체 행동력 감소 일반 효과를 줍니다.",
+    "english": "At the start of combat, inflicts a Physical DoT Normal Effect on all enemies for 99 rounds and an SPD Reduction Normal Effect for 3 rounds. Upon revival, inflicts an SPD Reduction Normal Effect on all enemies for 3 rounds."
+  },
+  "SkillDesc_Skill_MP_LemonadeZeta2_C_5": {
+    "korean": "피격시, 자신이 스킬 사용 불가/ 행동 불능/ 사거리 증가 or 감소 상태라면 2라운드 동안 적 전체에게 물리 지속 피해를 줍니다. (일반 효과)&n라운드 개시시 3라운드 동안 적 전체에게 아래 해로운 효과를 줍니다. 각 효과가 발동할 확률은 33%이며 모두 발동하거나 모두 발동하지 않을 수도 있습니다.&n공격력/ 행동력/ 적중/ 치명타/스킬 위력 /회피 감소",
+    "english": "When hit, if you are Silenced, Stunned, or have increased or decreased Range, deal Physical DoT to all enemies for 2 rounds (Normal Effect). At the start of a round, apply the following harmful effects to all enemies for 3 rounds. Each effect has a 33% chance to trigger, and they may all trigger or none: ATK/SPD/ACC/CRIT/Skill Power/EVA reduction."
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_32": {
+    "korean": "영원 추구 :부활 시{0}% HP로 전투 속행",
+    "english": "Pursuit of Eternity: Battle Continuation with {0}% HP upon revival"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_37": {
+    "korean": "영원 추구: 피격시 받는 피해 감소 {0}%",
+    "english": "Pursuit of Eternity: Damage taken reduced by {0}% when hit"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_1": {
+    "korean": "심판의 열기 : 효과 저항 감소 {0}%",
+    "english": "The heat of judgment : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_11": {
+    "korean": "심판의 열기 : 전기 저항 {0}%",
+    "english": "The heat of judgment : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_12": {
+    "korean": "심판의 열기 : 지속 화염 피해 {0}",
+    "english": "The heat of judgment : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_13": {
+    "korean": "심판의 열기 : 받는 피해 감소 {0}%",
+    "english": "The heat of judgment : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_2": {
+    "korean": "심판의 벼락 : 효과 저항 감소 {0}%",
+    "english": "The referee's lightning : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_21": {
+    "korean": "심판의 벼락 : 화염 저항 {0}%",
+    "english": "The referee's lightning : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_22": {
+    "korean": "심판의 벼락 : 지속 전기 피해 {0}",
+    "english": "The referee's lightning : Electric DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_23": {
+    "korean": "심판의 벼락 : 받는 피해 감소 {0}%",
+    "english": "The referee's lightning : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_3": {
+    "korean": "영원 추구(활기): {0}% HP로 전투 속행",
+    "english": "Pursuit of Eternity (Vigor) : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_31": {
+    "korean": "영원 추구(막바지): {0}% HP로 전투 속행",
+    "english": "Pursuit of Eternity (Final Stage) : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_33": {
+    "korean": "영원 추구: 피해 무효화 {0}",
+    "english": "Pursuit of eternity : Damage Nullification {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_34": {
+    "korean": "영원 추구: 피해 무효화 {0}",
+    "english": "Pursuit of eternity : Damage Nullification {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_35": {
+    "korean": "영원 추구: 피해 무효화 {0}",
+    "english": "Pursuit of eternity : Damage Nullification {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_36": {
+    "korean": "약속의 때: 공격력 {0}%",
+    "english": "Moment of Promise : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_38": {
+    "korean": "영원 추구: AP {0}",
+    "english": "Pursuit of eternity : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_361": {
+    "korean": "약속의 때: 방어력 {0}%",
+    "english": "Moment of Promise : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_362": {
+    "korean": "약속의 때: 행동력 {0}%",
+    "english": "Moment of Promise : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_363": {
+    "korean": "약속의 때: 적중 {0}%",
+    "english": "Moment of Promise : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_4": {
+    "korean": "심판을 받아라 : {0} 지속 물리 피해",
+    "english": "Receive judgment : Physical DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_MP_LemonadeZeta2_C_4": {
+    "korean": "심판을 받아라 : 행동력 {0}%",
+    "english": "Receive judgment : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_41": {
+    "korean": "복수: 행동력 {0} %",
+    "english": "Revenge : SPD {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_5": {
+    "korean": "종말을 향해: 적중 {0}%",
+    "english": "Toward the end : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_51": {
+    "korean": "종말을 향해: 행동력 {0}%",
+    "english": "Toward the end : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_52": {
+    "korean": "종말을 향해: 치명타 {0}%",
+    "english": "Toward the end : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_53": {
+    "korean": "종말을 향해: 공격력 {0}%",
+    "english": "Toward the end : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_54": {
+    "korean": "종말을 향해: 스킬 위력 {0}%",
+    "english": "Toward the end : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_55": {
+    "korean": "종말을 향해: 회피 {0}%",
+    "english": "Toward the end : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_C_56": {
+    "korean": "종말을 향해: 지속 물리 피해 {0}",
+    "english": "Toward the end : Physical DoT DMG {0}"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "1002707863": {
+    "korean": "고속 충격탄",
+    "english": "High‑Velocity Shock Grenade"
+  },
+  "1002707864": {
+    "korean": "패닉 사이렌",
+    "english": "Panic Siren"
+  },
+  "1002707865": {
+    "korean": "스카우트 무장 보급",
+    "english": "Scout Armament Supply"
+  },
+  "1002707866": {
+    "korean": "초전박살",
+    "english": "Total Destruction"
+  },
+  "1002707867": {
+    "korean": "최후 보급",
+    "english": "Final Supplies"
+  },
+  "1002707872": {
+    "korean": "고속 충격탄을 발사해 {0} 피해를 주고 대상의 AP를 감소시킵니다. 대상이 중장형일 경우 AP 감소 효과가 2배 증가합니다.",
+    "english": "Fires a High‑Velocity Shock Grenade dealing {0} damage and reducing the target's AP. If the target is Heavy, the AP reduction is doubled."
+  },
+  "1002707873": {
+    "korean": "고주파를 발산하여 목표 지점에 {0} 피해를 주며, 적중 여부와 상관없이 대상의 AP를 감소시키고 이동 불가 상태로 만듭니다. 대상이 중장형일 경우 AP 감소 효과가 2배 증가합니다.",
+    "english": "Emits high frequency dealing {0} damage to the target, reduces the target's AP regardless of hit, and roots the target. If the target is Heavy, the AP reduction is doubled."
+  },
+  "1002707874": {
+    "korean": "라운드 개시 시, 주위 아군에게 행동력 / 대 중장형 피해량 증가 효과를 주고 자신에게 AP / 회피 증가 효과를 적용합니다. 해당 효과들은 라운드 개시를 기준으로 아군이 적을수록 더 높은 효과를 발휘합니다.",
+    "english": "At round start, grant nearby allies SPD / Anti-Heavy DMG increase, and apply AP / EVA increase to yourself. These effects are stronger the fewer allies at round start."
+  },
+  "1002707875": {
+    "korean": "라운드 개시 시, 현재 라운드가 3 라운드 이하일 경우, 자신의 방어 관통 / 행동력 / 치명타를 증가킵니다.",
+    "english": "At round start, if the current round is 3 or less, increase your DEF Penetration / SPD / CRIT."
+  },
+  "1002707876": {
+    "korean": "사망 시, 2라운드 동안 모든 아군의 행동력 / 공격력 / 치명타를 증가시키고 적중을 감소시킵니다.",
+    "english": "Upon death, increase all allies' SPD / ATK / CRIT for 2 rounds and reduce their ACC."
+  },
+  "1000110052": {
+    "korean": "AP{0}",
+    "english": "AP{0}"
+  },
+  "1000110059": {
+    "korean": "패닉 사이렌 : 이동 불가",
+    "english": "Panic Siren : Rooted"
+  },
+  "1000110053": {
+    "korean": "스카우트 무장 보급 : 행동력{0}%",
+    "english": "Scout Armament Supply : SPD {0}%"
+  },
+  "1000110060": {
+    "korean": "스카우트 무장 보급 : 대 중장 피해량{0}%",
+    "english": "Scout Armament Supply : Anti-Heavy DMG {0}%"
+  },
+  "1000110058": {
+    "korean": "스카우트 무장 보급 : 행동력{0}%",
+    "english": "Scout Armament Supply : SPD {0}%"
+  },
+  "1000110054": {
+    "korean": "초전박살 : 방어 관통{0}%",
+    "english": "Total destruction : DEF Penetration {0}%"
+  },
+  "1000110061": {
+    "korean": "초전박살 : 행동력{0}%",
+    "english": "Total destruction : SPD {0}%"
+  },
+  "1000110063": {
+    "korean": "초전박살 : 치명타{0}%",
+    "english": "Total destruction : CRIT {0}%"
+  },
+  "1000110057": {
+    "korean": "스카우트 무장 보급 : 회피{0}%",
+    "english": "Scout Armament Supply : EVA {0}%"
+  },
+  "1000110292": {
+    "korean": "스카우트 무장 보급 : AP{0}",
+    "english": "Scout Armament Supply : AP {0}"
+  },
+  "1000110055": {
+    "korean": "최후 보급 : 행동력{0}%",
+    "english": "Final supplies : SPD {0}%"
+  },
+  "1000110062": {
+    "korean": "최후 보급 : 공격력{0}%",
+    "english": "Final supplies : ATK {0}%"
+  },
+  "1000110064": {
+    "korean": "최후 보급 : 치명타{0}%",
+    "english": "Final supplies : CRIT {0}%"
+  },
+  "1000110056": {
+    "korean": "최후 보급 : 적중 {0}%",
+    "english": "Final supplies : ACC {0}%"
+  }
+}

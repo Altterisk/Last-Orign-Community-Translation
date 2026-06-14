@@ -1,0 +1,62 @@
+{
+  "1002700062": {
+    "korean": "충격파 미사일",
+    "english": "Shockwave Missile"
+  },
+  "1002700063": {
+    "korean": "정밀 스캔",
+    "english": "Precision Scan"
+  },
+  "1002707467": {
+    "korean": "교란 홀로그램",
+    "english": "Disruption Hologram"
+  },
+  "1002707469": {
+    "korean": "배터리 방전",
+    "english": "Battery Discharge"
+  },
+  "1002703274": {
+    "korean": "충격파 미사일을 발사해 {0} 피해를 주고, 대상을 뒤로 1칸 밀어내며 AP를 감소시킵니다.",
+    "english": "Fires a shockwave missile dealing {0} damage, pushing the target back 1 tile, and reducing their AP."
+  },
+  "1002703275": {
+    "korean": "목표 지점에 있는 대상들의 약점을 분석해, 3라운드 동안 받는 피해를 증가시키며 효과 저항과 회피를 감소시킵니다.",
+    "english": "Analyzes the weaknesses of targets at the target point, increasing DMG Taken Increased for 3 rounds, and decreasing Status Resist and EVA."
+  },
+  "1002707470": {
+    "korean": "5라운드 개시 시, 자신의 AP를 20으로 변경합니다. 라운드 종료 시, 배터리가 방전되어 정지합니다.",
+    "english": "At the start of round 5, sets own AP to 20. At the end of the round, battery discharges and unit becomes inactive."
+  },
+  "1000109515": {
+    "korean": "뒤로 {0}칸 밀기",
+    "english": "Push Back {0}"
+  },
+  "1000109518": {
+    "korean": "AP{0}",
+    "english": "AP{0}"
+  },
+  "1000109528": {
+    "korean": "배터리 방전 : 기능 정지",
+    "english": "Battery Discharge: Function disabled"
+  },
+  "1000109531": {
+    "korean": "배터리 방전 : AP {0}으로 변경",
+    "english": "Battery Discharge: Change to AP {0}"
+  },
+  "1000109516": {
+    "korean": "정밀 스캔 : 받는 피해{0}%",
+    "english": "Precision Scan : DMG Taken {0}%"
+  },
+  "1000109519": {
+    "korean": "정밀 스캔 : 효과 저항 감소 {0}%",
+    "english": "Precision Scan : Status Resist {0}% Decrease"
+  },
+  "1000109520": {
+    "korean": "정밀 스캔 : 회피{0}%",
+    "english": "Precision Scan : EVA {0}%"
+  },
+  "1000109517": {
+    "korean": "교란 홀로그램 : 회피{0}%",
+    "english": "Disruption hologram : EVA {0}%"
+  }
+}

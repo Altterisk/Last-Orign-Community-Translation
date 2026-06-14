@@ -1,0 +1,86 @@
+{
+  "1002702585": {
+    "korean": "레이더 교란 파장",
+    "english": "Radar Jamming Wavelength"
+  },
+  "1002702586": {
+    "korean": "조준 방해",
+    "english": "Aiming Interference"
+  },
+  "1002702587": {
+    "korean": "대공 레이더망",
+    "english": "Anti-Air Radar Network"
+  },
+  "1002702588": {
+    "korean": "통신 오류",
+    "english": "Communication Error"
+  },
+  "1002704417": {
+    "korean": "교란 파장으로 {0} 보호 무시 피해를 줍니다. 범위 내 대상들은 2라운드 동안 회피 감소 / 받는 피해 증가 상태가 됩니다. 대상이 기동형일 경우, 효과가 2배가 되며 회피 증가 효과를 해제합니다.",
+    "english": "Deals {0} Ignore Protection damage with a disturbance wave. Targets within the area gain EVA Reduction / DMG Taken Increased for 2 rounds. If the target is an Air unit, the effect is doubled and any EVA increase is removed."
+  },
+  "1002704418": {
+    "korean": "섬광탄으로 지정 범위에 {0} 보호 무시 피해를 줍니다. 적중 대상은 3라운드 동안 치명타 / 적중 / 방어 관통 감소 상태가 됩니다. 3라운드 동안 자신의 행동력이 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area with a flashbang. Affected targets gain CRIT Reduction / ACC Reduction / DEF Penetration Reduction for 3 rounds. Your SPD increases for 3 rounds."
+  },
+  "1002704419": {
+    "korean": "전투 개시 시, 범위 내 아군의 AP가 증가합니다. 라운드 개시 시, 범위 내 아군의 적중 / 대 기동형 피해량이 증가하며 적중 감소 효과가 해제됩니다.",
+    "english": "When combat begins, allies within range gain increased AP. At the start of each round, allies within range have increased ACC and Anti-Air DMG, and any ACC reduction is removed."
+  },
+  "1002704420": {
+    "korean": "침수 상태로 라운드 개시 시, 자신과 주변 아군의 행동력이 감소하며 10% 확률로 행동 불가 상태가 됩니다.",
+    "english": "When a round starts while Soaked, your SPD and that of nearby allies is reduced, and there is a 10% chance to become Stunned."
+  },
+  "1000104017": {
+    "korean": "교란 파장 : 회피 {0}%",
+    "english": "Distortion Pulse : EVA {0}%"
+  },
+  "1000104849": {
+    "korean": "교란 파장 : 받는 피해{0}%",
+    "english": "Distortion Pulse : DMG Taken {0}%"
+  },
+  "1000105297": {
+    "korean": "교란 파장 : 회피 증가 해제",
+    "english": "Distortion Pulse : EVA Buff Removal"
+  },
+  "1000104018": {
+    "korean": "조준 방해 : 치명타 {0}%",
+    "english": "Aiming interference : CRIT {0}%"
+  },
+  "1000104698": {
+    "korean": "조준 방해 : 적중 {0}%",
+    "english": "Aiming interference : ACC {0}%"
+  },
+  "1000105296": {
+    "korean": "조준 방해 : 방어 관통 {0}%",
+    "english": "Aiming interference : DEF Penetration {0}%"
+  },
+  "1000104022": {
+    "korean": "교란 개시 : 행동력{0}%",
+    "english": "Distortion Initiation : SPD {0}%"
+  },
+  "1000104019": {
+    "korean": "레이더 알람 : AP{0}",
+    "english": "Radar Alert : AP {0}"
+  },
+  "1000104021": {
+    "korean": "대공 레이더망 : 적중{0}%",
+    "english": "Air defense radar network : ACC {0}%"
+  },
+  "1000104851": {
+    "korean": "대공 레이더망 : 대 기동형 피해량{0}%",
+    "english": "Air defense radar network : Anti-Air DMG {0}%"
+  },
+  "1000105298": {
+    "korean": "대공 레이더망 : 적중 감소 해제",
+    "english": "Air defense radar network : ACC Debuff Removal"
+  },
+  "1000104020": {
+    "korean": "통신 오류 : 행동 불가",
+    "english": "Communication error : Stunned"
+  },
+  "1000104850": {
+    "korean": "통신 오류 : 행동력 {0}%",
+    "english": "Communication error : SPD {0}%"
+  }
+}

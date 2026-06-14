@@ -1,0 +1,38 @@
+{
+  "SkillName_Skill_MP_MarionnetteDM_N_1": {
+    "korean": "표적 제거",
+    "english": "Target Elimination"
+  },
+  "SkillName_Skill_MP_MarionnetteDM_N_2": {
+    "korean": "천공 탄환",
+    "english": "Piercing Bullet"
+  },
+  "SkillDesc_Skill_MP_MarionnetteDM_N_1": {
+    "korean": "저격으로 {0} 피해를 줍니다. 대상의 HP가 낮을수록 피해량이 증가하며, 대상이 표식 상태인 경우, 피해량이 추가로 증가하고 행동력을 감소시킵니다.",
+    "english": "Deals {0} Additional DMG with a sniper shot. Damage increases as the target's HP decreases, and if the target is Marked, damage increases further and SPD is reduced."
+  },
+  "SkillDesc_Skill_MP_MarionnetteDM_N_2": {
+    "korean": "지정 범위의 적에게 특수 개조된 탄환을 발사하여 보호 무시 {0} 피해를 가합니다.&n대상이 표식 상태인 경우, 피해량이 대폭 증가하고, AP를 감소시킵니다.",
+    "english": "Fires a specially modified bullet at enemies within a designated range, dealing {0} damage that ignores protection. If the target is Marked, damage is greatly increased and AP is reduced."
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_1": {
+    "korean": "표적 제거 : 적 HP 낮을수록 피해량 {0}%",
+    "english": "Target Elimination : Damage increases by {0}% when enemy HP is lower"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_11": {
+    "korean": "표적 제거 : 피해량 {0}%",
+    "english": "Target removal : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_12": {
+    "korean": "표적 제거 : 행동력 {0}%",
+    "english": "Target removal : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_2": {
+    "korean": "천공 탄환 : 피해량 {0}%",
+    "english": "piercing bullet : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_N_21": {
+    "korean": "천공 탄환 : AP {0}",
+    "english": "piercing bullet : AP {0}"
+  }
+}

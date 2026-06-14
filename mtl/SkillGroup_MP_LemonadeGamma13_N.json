@@ -1,0 +1,50 @@
+{
+  "SkillName_Skill_MP_LemonadeGamma13_N_1": {
+    "korean": "이스트블럿 피스트",
+    "english": "Eastblood Fist"
+  },
+  "SkillName_Skill_MP_LemonadeGamma13_N_2": {
+    "korean": "블랙드래곤 스매시",
+    "english": "Black Dragon Smash"
+  },
+  "SkillName_Skill_MP_LemonadeGamma13_N_3": {
+    "korean": "달아오르네",
+    "english": "Burning Up"
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_N_1": {
+    "korean": "{0} 피해를 줍니다.방어력이 감소하고 받는 피해가 증가합니다.",
+    "english": "Deals {0} damage. Reduces DEF and increases DMG Taken Increased."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다.&n적중 시 대상의 반격 효과를 해제하고 2라운드 동안 행동력이 감소합니다. (3중첩)",
+    "english": "Deals {0} Ignore Protection damage to enemies in the designated area.&nOn hit, removes the target's Counter Attack and reduces SPD for 2 rounds (3 stacks)."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_N_3": {
+    "korean": "전투 개시 시, 공격력 / 적중이 증가합니다.",
+    "english": "At the start of battle, increases ATK / ACC."
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_N_1": {
+    "korean": "이스트블럿 피스트 : 방어력 {0}%",
+    "english": "Eastblood Feast : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_LemonadeGamma13_N_1": {
+    "korean": "이스트블럿 피스트 : 받는 피해 {0}%",
+    "english": "Eastblood Feast : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_N_2": {
+    "korean": "블랙 드래곤 스매시 : 반격 효과 해제",
+    "english": "Black Dragon Smash : Counter Attack Effect Removal"
+  },
+  "BuffDesc2_Effect_MP_LemonadeGamma13_N_2": {
+    "korean": "블랙드래곤 스매시 : 행동력 {0}%",
+    "english": "Black Dragon Smash : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_N_3": {
+    "korean": "달아오르네 : 공격력 {0}%",
+    "english": "It's Burning : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_LemonadeGamma13_N_3": {
+    "korean": "달아오르네 : 적중 {0}%",
+    "english": "It's Burning : ACC {0}%"
+  }
+}

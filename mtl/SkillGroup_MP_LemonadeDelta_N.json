@@ -1,0 +1,82 @@
+{
+  "SkillName_Skill_MP_LemonadeDelta_N_1": {
+    "korean": "해치워버려",
+    "english": "Finish it off"
+  },
+  "SkillName_Skill_MP_LemonadeDelta_N_2": {
+    "korean": "대사 촉진 용액",
+    "english": "Metabolism Boost Solution"
+  },
+  "SkillName_Skill_MP_LemonadeDelta_N_3": {
+    "korean": "PECS 헤게모니",
+    "english": "PECS Hegemony"
+  },
+  "SkillName_Skill_MP_LemonadeDelta_N_4": {
+    "korean": "똑바로 안 해?",
+    "english": "Aren't you doing it properly?"
+  },
+  "SkillName_Skill_MP_LemonadeDelta_N_5": {
+    "korean": "적자생존",
+    "english": "Survival of the Fittest"
+  },
+  "SkillDesc_Skill_MP_LemonadeDelta_N_1": {
+    "korean": "델타의 손짓에 따라 MAV가 대상에게 {0} 보호 무시 피해를 입힙니다.&n대상이 표식 상태인 경우, 피해량이 증가합니다.",
+    "english": "MAV deals {0} Ignore Protection damage to the target. If the target is Marked, the damage increases."
+  },
+  "SkillDesc_Skill_MP_LemonadeDelta_N_2": {
+    "korean": "범위 내 아군에게 미확인 용액을 살포하여 AP를 증가시키고, 자신을 공격한 대상을 향해 맹목적으로 전진하도록 만듭니다.",
+    "english": "Sprays an unidentified solution on allies within range to increase their AP and makes them blindly advance toward the attacker."
+  },
+  "SkillDesc_Skill_MP_LemonadeDelta_N_3": {
+    "korean": "라운드 개시 시, 3라운드 동안 모든 아군에게 방어막을 부여합니다.",
+    "english": "At the start of the round, grant a Barrier to all allies for 3 rounds."
+  },
+  "SkillDesc_Skill_MP_LemonadeDelta_N_4": {
+    "korean": "라운드 개시 시, 3라운드 동안 모든 아군의 공격력 / 방어력 / 치명타가 증가합니다.",
+    "english": "At the start of the round, all allies' ATK / DEF / CRIT increase for 3 rounds."
+  },
+  "SkillDesc_Skill_MP_LemonadeDelta_N_5": {
+    "korean": "라운드 개시 시, 자신은 피해 무효화 효과를 획득합니다.&n자신 외의 생존 개체가 없을 경우, 상기 효과 대신 도주합니다.",
+    "english": "At the start of the round, you gain Damage Nullification. If no other surviving entities remain besides you, you instead Escape."
+  },
+  "BuffDesc2_Effect_MP_LemonadeDelta_N_2": {
+    "korean": "전방을 향하여 이동",
+    "english": "Move forward : Move forward"
+  },
+  "BuffDesc3_Effect_MP_LemonadeDelta_N_2": {
+    "korean": "부작용",
+    "english": "Side Effect : Side Effect"
+  },
+  "BuffDesc1_Effect_MP_LemonadeDelta_N_51": {
+    "korean": "적자생존 : 도주",
+    "english": "Survival of the Fittest : Escape"
+  },
+  "BuffDesc1_Effect_MP_LemonadeDelta_N_1": {
+    "korean": "해치워버려 : 피해량 {0}%",
+    "english": "Finish it off : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeDelta_N_2": {
+    "korean": "대사 촉진 : AP {0}",
+    "english": "/ Metabolism Boost : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeDelta_N_3": {
+    "korean": "PECS 헤게모니 : 방어막 {0}",
+    "english": "PECS Hegemony : Barrier {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeDelta_N_4": {
+    "korean": "똑바로 안 해? : 공격력 {0}%",
+    "english": "Aren't you going to do it properly? : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_LemonadeDelta_N_4": {
+    "korean": "똑바로 안 해? : 방어력 {0}%",
+    "english": "Aren't you going to do it properly? : DEF {0}%"
+  },
+  "BuffDesc3_Effect_MP_LemonadeDelta_N_4": {
+    "korean": "똑바로 안 해? : 치명타 {0}%",
+    "english": "Aren't you going to do it properly? : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeDelta_N_5": {
+    "korean": "적자생존 : 피해 무효화",
+    "english": "Survival of the fittest : Damage Nullification"
+  }
+}

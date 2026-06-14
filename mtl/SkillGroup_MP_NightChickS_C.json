@@ -1,0 +1,134 @@
+{
+  "1002702683": {
+    "korean": "칙 마무리 강타",
+    "english": "Chick Finisher"
+  },
+  "1002702684": {
+    "korean": "칙 업그레이드 준비",
+    "english": "Chick Upgrade Ready"
+  },
+  "1002702685": {
+    "korean": "칙 방패 방어술 (고급)",
+    "english": "Chick Shield Defense (Advanced)"
+  },
+  "1002702686": {
+    "korean": "칙 복원 시스템 제어",
+    "english": "Chick Restoration System Control"
+  },
+  "1002702687": {
+    "korean": "칙 업그레이드",
+    "english": "Chick Upgrade"
+  },
+  "1002704458": {
+    "korean": "대상에게 {0} 보호 무시 피해를 줍니다. 대상이 <나이트 칙?> 또는 <나이트 칙 런쳐??>의 해로운 효과가 적용된 상태면 강화 효과를 해제하며 피해량이 크게 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to the target. If the target is under the harmful effects of <Night Chick> or <Night Chick Launcher>, it removes the effect and greatly increases the damage."
+  },
+  "1002704459": {
+    "korean": "5라운드 동안 대상을 지정 보호하며 <칙 업그레이드 준비> 효과가 적용됩니다. <칙 업그레이드 준비> 상태인 대상은 다음 라운드부터 <칙 업그레이드> 효과를 받아 공격력 / 적중 / 치명타 / 회피 / 행동력이 증가합니다.",
+    "english": "For 5 rounds, protects a designated target and applies the <Chick Upgrade Ready> effect. Targets in the <Chick Upgrade Ready> state receive the <Chick Upgrade> effect starting from the next round, increasing ATK / ACC / CRIT / EVA / SPD."
+  },
+  "1002704460": {
+    "korean": "라운드 개시 시, 모든 저항이 증가하며 해로운 효과를 해제합니다. 피격 시, <칙 방패 올리기> 효과가 발동해 2라운드 동안 방어력이 증가합니다. <칙 방패 올리기> 방어력 중첩이 7 이상인 상태에서 추가 피격 시, 해당 효과를 해제하고 해당 라운드 동안 해제 불가능한 피해 최소화 / 반격 효과가 적용됩니다.",
+    "english": "At the start of a round, All Resist increases and harmful effects are removed. When hit, the <Raise Chick Shield> effect activates, increasing DEF for 2 rounds. If the <Raise Chick Shield> DEF stack is 7 or higher when hit again, the effect is removed and for that round applies unremovable Minimize Damage / Counter Attack."
+  },
+  "1002704461": {
+    "korean": "라운드 개시 시, 모든 아군들에게 <칙 복원 시스템> 효과가 적용됩니다. 라운드 개시 시, <칙 방패 올리기>중첩이 7 이면 <복원 시스템 오류> 상태가 되어 모든 아군의 <칙 복원 시스템>을 해제합니다. <칙 복원 시스템>은 자신이 <복원 시스템 오류> 상태가 아니면 라운드 개시 시, 다시 활성화됩니다.",
+    "english": "At the start of the round, the <Chick Restoration System> effect is applied to all allies. If the <Raise Chick Shield> stack is 7 at round start, you enter the <Restoration System Error> state, removing the <Chick Restoration System> from all allies. The <Chick Restoration System> reactivates at round start if you are not in the <Restoration System Error> state."
+  },
+  "1002704462": {
+    "korean": "라운드 개시 시, <칙 업그레이드 준비> 상태인 공격기와 지원기의 공격력 / 적중 / 회피 / 치명타 / 행동력이 증가합니다. 공격력 업그레이드가 4단계 이상인 경우, 대상의 공격은 방어력 / 방어막 / 피해 감소 효과를 무시합니다. 대상이 보호기일 경우, 강화 효과가 적용되지 않고 받는 피해가 크게 증가하며 강화 효과가 해제됩니다.",
+    "english": "At the start of the round, Attacker and Support units in the <Chick Upgrade Ready> state gain increased ATK / ACC / EVA / CRIT / SPD. If the Attack Power Upgrade is level 4 or higher, the target's attacks ignore DEF / Barrier / DMG Reduction. If the target is a Protector, the enhancement does not apply, DMG Taken increases significantly, and the enhancement is removed."
+  },
+  "1000104097": {
+    "korean": "칙 복원 시스템 제어 : 복원 시스템 활성화",
+    "english": "Chick Restoration System Control : Restoration system activated"
+  },
+  "1000104122": {
+    "korean": "칙 복원 시스템 오류 : 오류 발생",
+    "english": "Chick Restoration System Error : Error occurred"
+  },
+  "1000104889": {
+    "korean": "칙 복원 시스템 오류 : 복원 시스템 해제",
+    "english": "Chick Restoration System Error : Restoration system deactivated"
+  },
+  "1000105328": {
+    "korean": "칙 방패 올리기 해제",
+    "english": "Raise Chick Shield Cancel"
+  },
+  "1000104095": {
+    "korean": "칙 마무리 강타 : 강화 해제",
+    "english": "Chick finishes with a powerful strike : Buff Removal"
+  },
+  "1000104877": {
+    "korean": "칙 마무리 강타 : 피해량{0}%",
+    "english": "Chick finishes with a powerful strike : Additional DMG {0}%"
+  },
+  "1000102328": {
+    "korean": "칙 업그레이드 준비 : 지정 대상 보호",
+    "english": "Preparing for Chick Upgrade : Target Protect"
+  },
+  "1000104096": {
+    "korean": "칙 방패 방어술 (고급) : 화염 저항{0}%",
+    "english": "Chick Shield Defense (Advanced) : Fire Resist {0}%"
+  },
+  "1000104878": {
+    "korean": "칙 방패 방어술 (고급) : 냉기 저항{0}%",
+    "english": "Chick Shield Defense (Advanced) : Cold Resist {0}%"
+  },
+  "1000105320": {
+    "korean": "칙 방패 방어술 (고급) : 전기 저항{0}%",
+    "english": "Chick Shield Defense (Advanced) : Electric Resist {0}%"
+  },
+  "1000105518": {
+    "korean": "칙 방패 방어술 (고급) : 효과 저항{0}%",
+    "english": "Chick Shield Defense (Advanced) : Status Resist {0}%"
+  },
+  "1000105603": {
+    "korean": "칙 방패 방어술 (고급) : 해로운 효과 해제",
+    "english": "Chick Shield Defense (Advanced) : Debuff Removal"
+  },
+  "1000104121": {
+    "korean": "칙 방패 올리기 : 방어력{0}%",
+    "english": "Chik Shield Raise : DEF {0}%"
+  },
+  "1000104125": {
+    "korean": "칙 철벽 방어술 : 피해 최소화",
+    "english": "Chik Ironwall Guard : Minimize Damage"
+  },
+  "1000104891": {
+    "korean": "칙 철벽 방어술 : {0}% 위력으로 반격",
+    "english": "Chik Ironwall Guard : Counter Attack with {0}% Power"
+  },
+  "1000104897": {
+    "korean": "칙 복원 시스템 오류 : 효과 저항 해제",
+    "english": "Chik Restoration System Error : Status Resist Effect Removal"
+  },
+  "1000104098": {
+    "korean": "칙 업그레이드 : 공격력{0}%",
+    "english": "Chick Upgrade : ATK {0}%"
+  },
+  "1000104879": {
+    "korean": "칙 업그레이드 : 적중{0}%",
+    "english": "Chick Upgrade : ACC {0}%"
+  },
+  "1000105321": {
+    "korean": "칙 업그레이드 : 회피{0}%",
+    "english": "Chick Upgrade : EVA {0}%"
+  },
+  "1000105519": {
+    "korean": "칙 업그레이드 : 치명타{0}%",
+    "english": "Chick Upgrade : CRIT {0}%"
+  },
+  "1000105604": {
+    "korean": "칙 업그레이드 : 행동력{0}%",
+    "english": "Chick Upgrade : SPD {0}%"
+  },
+  "1000104123": {
+    "korean": "칙 업그레이드 호환 오류 : 받는 피해{0}%",
+    "english": "Chik Upgrade Compatibility Error : DMG Taken {0}%"
+  },
+  "1000104890": {
+    "korean": "칙 업그레이드 호환 오류 : 강화 해제",
+    "english": "Chik Upgrade Compatibility Error : Buff Removal"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "SkillName_Skill_MP_Kaen_Challenge1_4": {
+    "korean": "기장닌자 카엔 3호기",
+    "english": "Captain Ninja Kaen Unit 3"
+  },
+  "SkillDesc_Skill_MP_Kaen_Challenge1_1": {
+    "korean": "붉은 빛의 기계장치를 사출하여 단일 대상에게 {0} 피해를 줍니다.&n적중 여부에 관계 없이 대상의 모든 표식을 해제합니다.&n적중 시 자신에게 <홍련의 암희> 효과가 적용되지 않은 경우, 방어막 / 피해 감소 무시 효과를 획득합니다.",
+    "english": "Ejects a red mechanical device, dealing {0} damage to a single target. Regardless of hit, removes all marks from the target. On hit, if you are not under the <Shadow of the HongRyeon> effect, you gain Ignore Barrier / DMG Reduction."
+  },
+  "SkillDesc_Skill_MP_Kaen_Challenge1_2": {
+    "korean": "전방위를 향해 에너지를 방출하여 지정 범위에 {0} 보호 무시 피해를 줍니다.&n자신이 도발 상태가 아닌 경우, 피해량이 증가합니다.&n스킬 사용 후, 자신에게 적용된 방어막을 해제합니다.&n+500%의 적중 보정이 적용됩니다.",
+    "english": "Releases energy in all directions, dealing {0} damage that ignores protection within the designated area. If you are not Provoked, damage is increased. After using the skill, the shield applied to yourself is removed. A +500% ACC correction is applied."
+  },
+  "SkillDesc_Skill_MP_Kaen_Challenge1_3": {
+    "korean": "라운드 개시 시, 영구적으로 자신의 공격력 / 적중이 증가합니다.&n라운드 개시 시, <홍련의 암희>에 의한 적중 증가 효과 3중첩마다 강화 해제 저항을 획득합니다.",
+    "english": "At the start of the round, permanently increase your ATK / ACC. At the start of each round, for every 3 stacks of the hit rate increase effect from <Shadow of the HongRyeon>, gain Dispel Resistance."
+  },
+  "SkillDesc_Skill_MP_Kaen_Challenge1_4": {
+    "korean": "라운드 개시 시, 자신은 해제 불가한 방어막을 획득합니다.&n자신이 <코요리>에 의한 스킬 지속 효과가 적용된 경우, 방어막이 50% 감소합니다.&n자신에게 방어막이 적용되어 있는 경우, 해제 불가한 전투 속행 효과를 획득합니다.",
+    "english": "At the start of the round, you gain an undispellable shield. If you are affected by the skill duration effect of <Koyori>, the shield is reduced by 50%. If you have a shield, you gain an effect that prevents you from being removed from combat."
+  },
+  "SkillDesc_Skill_MP_Kaen_Challenge1_5": {
+    "korean": "피격 시, 자신은 2라운드 동안 반격 / 대 기동형 피해량 증가 효과를 획득합니다.&n피격 시 자신에게 방어막이 적용되어 있는 경우, 다음 행동에 <만자천홍>을 사용합니다.&n행동 불가 / 스킬 사용 불가 상태에서 피격 시, 자신에게 적용된 해로운 효과를 해제합니다.",
+    "english": "When hit, you gain Counter Attack / Anti-Air DMG increase for 2 rounds. If you have a shield when hit, you use <Thousand Red Flames> on your next action. When hit while Stunned or Silenced, remove harmful effects from yourself."
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_52": {
+    "korean": "츠바메가에시 : <만자천홍> 준비",
+    "english": "Tsubame Gaeshi : Prepare <Thousand Red Flames>"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_1": {
+    "korean": "엔엔라 사출 : 표식 해제",
+    "english": "Enenra Launch : Marked Removal"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_11": {
+    "korean": "엔엔라 사출 : 방어막 / 피해 감소 무시",
+    "english": "Enenra Launch : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_2": {
+    "korean": "만자천홍 : 피해량 {0}%",
+    "english": "Thousand Red Flames : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_21": {
+    "korean": "만자천홍 : 방어막 해제",
+    "english": "Thousand Red Flames : Barrier Removal"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_3": {
+    "korean": "홍련의 암희 : 공격력 {0}%",
+    "english": "Shadow of the HongRyeon : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_31": {
+    "korean": "홍련의 암희 : 적중 {0}%",
+    "english": "Shadow of the HongRyeon : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_32": {
+    "korean": "홍련의 암희 : 강화 해제 저항 {0}%",
+    "english": "Shadow of the HongRyeon : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_4": {
+    "korean": "붉은 귀신 : 방어막 {0}",
+    "english": "Crimson Demon : Barrier {0}"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_42": {
+    "korean": "붉은 귀신 : {0} HP로 전투 속행",
+    "english": "Crimson Demon : Battle Continuation with {0} HP"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_44": {
+    "korean": "감히… : 전투 속행 해제",
+    "english": "How Dare You... : Battle Continuation Removal"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_5": {
+    "korean": "츠바메가에시 : {0}% 위력으로 반격",
+    "english": "Silent Blade: Swallow Cut : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_51": {
+    "korean": "츠바메가에시 : 대 기동형 피해량 {0}%",
+    "english": "Silent Blade: Swallow Cut : Anti-Air DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kaen_Challenge1_54": {
+    "korean": "츠바메가에시 : 해로운 효과 해제",
+    "english": "Silent Blade: Swallow Cut : Debuff Removal"
+  }
+}

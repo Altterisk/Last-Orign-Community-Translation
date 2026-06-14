@@ -1,0 +1,106 @@
+{
+  "SkillName_Skill_MP_NightChickS13_N_1": {
+    "korean": "진법 차단",
+    "english": "Formation Block"
+  },
+  "SkillName_Skill_MP_NightChickS13_N_2": {
+    "korean": "모든 공격 차단",
+    "english": "Block All Attacks"
+  },
+  "SkillName_Skill_MP_NightChickS13_N_3": {
+    "korean": "위험 차단",
+    "english": "Risk Block"
+  },
+  "SkillName_Skill_MP_NightChickS13_N_4": {
+    "korean": "우회로 차단",
+    "english": "Detour Block"
+  },
+  "SkillName_Skill_MP_NightChickS13_N_5": {
+    "korean": "시선 차단",
+    "english": "Line of Sight Block"
+  },
+  "SkillDesc_Skill_MP_NightChickS13_N_1": {
+    "korean": "대상을 강타해 {0} 보호 무시 피해를 주고, 2라운드 동안 받는 피해 감소 약화를 부여합니다. 또한 열/행/지정 보호를 해제하며 뒤로 밀칩니다. 20%의 적중 보정을 받습니다.",
+    "english": "Strike the target, dealing {0} damage that ignores Protection, and apply a debuff that weakens DMG Reduction for 2 rounds. Also dispel Column Protect, Row Protect, and Target Protect, and knock the target back. Gains a 20% ACC modifier."
+  },
+  "SkillDesc_Skill_MP_NightChickS13_N_2": {
+    "korean": "2라운드 동안 자신에게 방어막이 적용되며, 보호기가 아닌 대상을 지정 보호합니다. 자신의 적중과 행동력이 증가합니다.",
+    "english": "Gain a Barrier for 2 rounds, and designate a non‑Protector ally as Target Protect. Your ACC and SPD increase."
+  },
+  "SkillDesc_Skill_MP_NightChickS13_N_3": {
+    "korean": "라운드 개시 시 자신의 효과 저항과 적중이 증가합니다.",
+    "english": "At the start of the round, your Status Resist and ACC increase."
+  },
+  "SkillDesc_Skill_MP_NightChickS13_N_4": {
+    "korean": "홀수 라운드 개시 시, 해로운 효과가 해제되며 5라운드 동안 방어력이 증가합니다.",
+    "english": "At the start of odd-numbered rounds, harmful effects are removed and DEF increases for 5 rounds."
+  },
+  "SkillDesc_Skill_MP_NightChickS13_N_5": {
+    "korean": "보호기를 제외한 아군외 회피와 받는 피해 감소가 증가합니다.",
+    "english": "Allies (excluding Protectors) gain increased EVA and DMG Reduction."
+  },
+  "BuffDesc2_Effect_MP_NightChickS13_N_1": {
+    "korean": "진법 차단 : 뒤로 밀어냄",
+    "english": "Formation Block : Push Backward"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_1": {
+    "korean": "진법 차단: 받는 피해 감소 {0}%",
+    "english": "Blocking The Formation : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickS13_N_1": {
+    "korean": "진법 차단 : 열 보호 해제",
+    "english": "Blocking The Formation : Column Protect Removal"
+  },
+  "BuffDesc4_Effect_MP_NightChickS13_N_1": {
+    "korean": "진법 차단 : 지정 보호 해제",
+    "english": "Blocking The Formation : Target Protect Removal"
+  },
+  "BuffDesc5_Effect_MP_NightChickS13_N_1": {
+    "korean": "진법 차단 : 행 보호 해제",
+    "english": "Blocking The Formation : Row Protect Removal"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_2": {
+    "korean": "모든 공격 차단! : 지정 대상 보호",
+    "english": "Block All Attacks! : Target Protect"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_21": {
+    "korean": "모든 공격 차단! : 방어막 {0} (자신)",
+    "english": "Block All Attacks! : Barrier {0} (Self)"
+  },
+  "BuffDesc2_Effect_MP_NightChickS13_N_21": {
+    "korean": "모든 공격 차단! : 적중 {0}%",
+    "english": "Block All Attacks! : ACC {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickS13_N_21": {
+    "korean": "모든 공격 차단 : 행동력 {0}%",
+    "english": "Block All Attacks : SPD {0}%"
+  },
+  "BuffDesc4_Effect_MP_NightChickS13_N_21": {
+    "korean": "컷! : 지정 대상 보호",
+    "english": "Cut! : Target Protect"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_3": {
+    "korean": "위험 차단 : 효과 저항 {0}%",
+    "english": "Risk Blocking : Status Resist {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChickS13_N_3": {
+    "korean": "위험 차단 : 적중 {0}%",
+    "english": "Risk Blocking : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_4": {
+    "korean": "우회로 차단 : 해로운 효과 해제",
+    "english": "Block The Detour : Debuff Removal"
+  },
+  "BuffDesc2_Effect_MP_NightChickS13_N_4": {
+    "korean": "우회로 차단 : 방어력 {0}%",
+    "english": "Block The Detour : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS13_N_5": {
+    "korean": "시선 차단 :회피 {0}%",
+    "english": "Blocking The Line of Sight : EVA {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChickS13_N_5": {
+    "korean": "시선 차단 :받는 피해 감소 {0}%",
+    "english": "Blocking The Line of Sight : DMG Reduction {0}%"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "SkillName_Skill_MP_Ravager_Challenge3_1": {
+    "korean": "쐐기탄 난사",
+    "english": "Wedge Shot Barrage"
+  },
+  "SkillName_Skill_MP_Ravager_Challenge3_2": {
+    "korean": "조직 융해",
+    "english": "Tissue Dissolution"
+  },
+  "SkillName_Skill_MP_Ravager_Challenge3_3": {
+    "korean": "활개 펴기",
+    "english": "Spreading Wings"
+  },
+  "SkillName_Skill_MP_Ravager_Challenge3_4": {
+    "korean": "기동 지휘 교란",
+    "english": "Air Command Disruption"
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge3_1": {
+    "korean": "불길한 쐐기탄을 난사하여 단일 대상에게 {0} 피해를 줍니다.&n적중 대상이 방어력 증가 상태가 아닌 경우, 피해량이 증가합니다.",
+    "english": "Fire ominous wedge shots to deal {0} damage to a single target.\\nIf the target is not in a DEF increase state, damage is increased."
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge3_2": {
+    "korean": "조직 융해탄을 발사하여 지정 범위에 {0} 보호 무시 피해를 줍니다.&n적중 시, 대상의 방어력 증가 효과를 해제하고 2라운드 동안 지속 물리 피해를 입힙니다.",
+    "english": "Fire Tissue Dissolution Shell to deal {0} Ignore Protection damage to the designated area.\\nOn hit, remove the target's DEF increase effect and deal Physical DoT DMG for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge3_3": {
+    "korean": "라운드 개시 시, 자신은 스킬 위력 감소 효과에 면역 상태가 됩니다.&n공격 적중 시, 자신은 방어막 / 피해 감소 무시 효과를 획득합니다.",
+    "english": "At the start of the round, become immune to Skill Power reduction.\\nOn attack hit, gain Ignore Barrier / DMG Reduction effect."
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge3_4": {
+    "korean": "라운드 개시 시, 모든 기동형 적의 스킬 위력 / 행동력 / 효과 발동을 감소시킵니다.&n해로운 효과 해제로 해제되지 않지만, 경장/중장형에게는 효과가 없습니다.",
+    "english": "At the start of the round, reduce all Air-type enemies' Skill Power / SPD / Effect Activation Rate.\\nCannot be removed by harmful effect dispel, but has no effect on Light / Heavy types."
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge3_1": {
+    "korean": "쐐기탄 난사 : 피해량 {0}%",
+    "english": "Wedge Shot Barrage : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge3_31": {
+    "korean": "활개 펴기 : 방어막 / 피해 감소 무시",
+    "english": "Spreading Wings : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge3_2": {
+    "korean": "조직 융해 : 방어력 증가 해제",
+    "english": "Tissue Dissolution : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_MP_Ravager_Challenge3_2": {
+    "korean": "조직 융해 : {0} 지속 물리 피해",
+    "english": "Tissue Dissolution : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge3_3": {
+    "korean": "활개 펴기 : 스킬 위력 감소 면역",
+    "english": "Spreading Wings : Skill Power Decrease Immunity"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge3_4": {
+    "korean": "기동 지휘 교란 : 스킬 위력 {0}%",
+    "english": "Mobile Command Disruption : Skill Power {0}%"
+  },
+  "BuffDesc2_Effect_MP_Ravager_Challenge3_4": {
+    "korean": "기동 지휘 교란 : 행동력 {0}%",
+    "english": "Mobile Command Disruption : SPD {0}%"
+  },
+  "BuffDesc3_Effect_MP_Ravager_Challenge3_4": {
+    "korean": "기동 지휘 교란 : 효과 발동 {0}%",
+    "english": "Mobile Command Disruption : Effect Activation Rate {0}%"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "SkillName_Skill_MP_IronPrince_N_1": {
+    "korean": "무릎 꿇어라",
+    "english": "Kneel"
+  },
+  "SkillName_Skill_MP_IronPrince_N_2": {
+    "korean": "심판을 내리리라",
+    "english": "Judgment"
+  },
+  "SkillName_Skill_MP_IronPrince_N_3": {
+    "korean": "머리를 조아려라",
+    "english": "Bow Your Head"
+  },
+  "SkillName_Skill_MP_IronPrince_N_4": {
+    "korean": "은총을 받아들여라",
+    "english": "Accept Grace"
+  },
+  "SkillName_Skill_MP_IronPrince_N_5": {
+    "korean": "영생의 관",
+    "english": "Crown of Eternal Life"
+  },
+  "SkillDesc_Skill_MP_IronPrince_N_1": {
+    "korean": "{0} 보호 무시 피해.​&n 적중 시, 대상에게 2라운드 동안 다음 효과를 적용.​&n[c][ff0000]<효과 저항 감소 5> : 효과 저항 감소 100% (해로운 효과)​[-][/c]&n[c][ff0000]<공격력 감소 5> : 공격력 -50% (해로운 효과)[-][/c]",
+    "english": "{0} Ignore Protection DMG. On hit, apply the following effects to the target for 2 rounds. <Effect Resistance Reduction 5> : Effect Resistance -100% (Harmful Effect) <Attack Power Reduction 5> : ATK -50% (Harmful Effect)"
+  },
+  "SkillDesc_Skill_MP_IronPrince_N_2": {
+    "korean": "{0} 보호 무시 피해. 목표 주변은 피해 90% 감소.​&n 전투 속행 시, 자신은 다음 행동 [심판을 내리리라] 사용.​&n 적중 시, 대상에게 2라운드 동안 다음 효과를 적용.​&n[c][ff0000]<받는 피해 증가 5> : 받는 피해 증가 50% (해로운 효과)​[-][/c]&n[c][ff0000]<지속 물리 피해 5> : 지속 물리 피해 1000 (해로운 효과)[-][/c]",
+    "english": "{0} Ignore Protection DMG. Damage around the target is reduced by 90%. When combat continues, you use your next action [Judgment]. On hit, apply the following effects to the target for 2 rounds. <Damage Taken Increase 5> : Damage Taken +50% (Harmful Effect) <Physical DoT 5> : Physical DoT 1000 (Harmful Effect)"
+  },
+  "SkillDesc_Skill_MP_IronPrince_N_3": {
+    "korean": "라운드 개시 시, 서로 인접하지 않은 모든 적에게 다음 효과를 적용.​&n[c][ff0000]<AP 감소 5> : AP -5 (해로운 효과)​[-][/c]&n[c][ff0000]<강화 해제> : 모든 강화 효과 해제 (해로운 효과)[-][/c]",
+    "english": "At the start of a round, apply the following effects to all non-adjacent enemies. <AP Reduction 5> : AP -5 (Harmful Effect) <Remove Enhancement> : Remove all enhancement effects (Harmful Effect)"
+  },
+  "SkillDesc_Skill_MP_IronPrince_N_4": {
+    "korean": "전투 개시 시, 자신에게 다음 효과를 적용.​&n<전투 속행 5> : 100% HP로 전투 속행 (일반 효과)​&n 전투 속행 시, 각 대상에게 다음 효과를 적용.​&n<행동 불가> : 행동 지시 불가 (적 전체) (일반 효과)​&n[c][57e137]<AP 증가 5> : AP 5 (자신) (강화 효과)[-][/c]",
+    "english": "At the start of combat, apply the following effect to yourself. <Continue Combat 5> : Continue combat with 100% HP (Normal Effect) When continuing combat, apply the following effect to each target. <Stunned> : Cannot act (All Enemies) (Normal Effect) <Increase AP 5> : AP +5 (Self) (Enhancement Effect)"
+  },
+  "SkillDesc_Skill_MP_IronPrince_N_5": {
+    "korean": "라운드 개시 시, 자신에게 다음 효과를 적용. ​&n[c][57e137]<효과 저항 증가 5> : 효과 저항 증가 100% (강화 효과)​[-][/c]&n<강화 해제 저항 증가 5> : 강화 해제 저항 100% (일반 효과)​&n 피격 시, 자신에게 다음 효과를 적용.​&n<해로운 효과 해제> : 모든 해로운 효과 해제 (일반 효과)",
+    "english": "At the start of a round, apply the following effects to yourself. <Increase Effect Resistance 5> : Effect Resistance +100% (Enhancement Effect) <Increase Repel Resistance 5> : Repel Resistance +100% (Normal Effect) When hit, apply the following effect to yourself. <Remove Harmful Effect> : Remove all harmful effects (Normal Effect)"
+  },
+  "BuffDesc1_BEG_99_X": {
+    "korean": "모든 강화 효과 해제",
+    "english": "Remove Enhancement : Remove all enhancement effects"
+  },
+  "BuffDesc1_BEG_22_X": {
+    "korean": "행동 불가",
+    "english": "Stunned : Stunned"
+  },
+  "BuffDesc1_BEG_0_I": {
+    "korean": "심판을 내리리라",
+    "english": "Judgment : Deliver judgment"
+  },
+  "BuffDesc1_BEG_100_X": {
+    "korean": "모든 해로운 효과 해제",
+    "english": "Remove Harmful Effects : Remove all harmful effects"
+  },
+  "BuffDesc1_BEG_90_P100": {
+    "korean": "효과 저항 감소 5 : 효과 저항 감소 {0}%",
+    "english": "Effect Resistance Down 5 : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_BEG_1_N50": {
+    "korean": "공격력 감소 5 : 공격력 {0}%",
+    "english": "Attack Down 5 : ATK {0}%"
+  },
+  "BuffDesc1_BEG_48_P50": {
+    "korean": "받는 피해 증가 5 : 받는 피해 증가 {0}%",
+    "english": "Damage Taken Increased 5 : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_BEG_65_P1000": {
+    "korean": "지속 물리 피해 5 : 지속 물리 피해 {0}",
+    "english": "Physical DoT 5 : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_BEG_20_N5": {
+    "korean": "AP 감소 5 : AP {0}",
+    "english": "AP Down 5 : AP {0}"
+  },
+  "BuffDesc1_BEG_98_P100": {
+    "korean": "전투 속행 5 : {0}% HP로 전투 속행",
+    "english": "Battle Continuation 5 : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_BEG_20_P5": {
+    "korean": "AP 증가 5 : AP {0}",
+    "english": "AP Up 5 : AP {0}"
+  },
+  "BuffDesc1_BEG_91_P100": {
+    "korean": "효과 저항 증가 5 : 효과 저항 증가 {0}%",
+    "english": "Effect Resistance Up 5 : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_BEG_126_P100": {
+    "korean": "강화 해제 저항 증가 5 : 강화 해제 저항 {0}%",
+    "english": "Dispel Resistance Up 5 : Buff Removal Resist {0}%"
+  }
+}

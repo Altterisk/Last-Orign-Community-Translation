@@ -1,0 +1,118 @@
+{
+  "1002707394": {
+    "korean": "리펄서 쇼크",
+    "english": "Repulsor Shock"
+  },
+  "1002707395": {
+    "korean": "자기장",
+    "english": "Magnetic Field"
+  },
+  "1002707396": {
+    "korean": "전자기파",
+    "english": "Electromagnetic Wave"
+  },
+  "1002707397": {
+    "korean": "전기 방사",
+    "english": "Electroradiation"
+  },
+  "1002707398": {
+    "korean": "지휘관 개체",
+    "english": "Commander Unit"
+  },
+  "1002707407": {
+    "korean": "{0} 전기 피해를 주고, 2라운드 동안 대상을 표식으로 설정하고 전기 저항을 감소시킵니다.",
+    "english": "{0} deals electric damage, marks the target for 2 rounds, and reduces Electric Resist."
+  },
+  "1002707408": {
+    "korean": "5라운드 동안 자신에게 이로운 표식을 설정하고 냉기 저항 / 화염 저항 / 행동력을 증가시킵니다.",
+    "english": "Set a beneficial mark on yourself for 5 rounds, increasing Cold Resist / Fire Resist / SPD."
+  },
+  "1002707409": {
+    "korean": "라운드 개시 시, 지정 범위 아군의 냉기 저항 / 화염 저항을 증가시킵니다. 또한 매 라운드 1회씩 재공격 효과를 획득하고, 재공격 시 자신의 방어력을 낮춥니다.",
+    "english": "At the start of a round, increase the Cold Resist / Fire Resist of allies within the designated area. Also, gain the Reattack effect once per round, and when Reattacking, reduce your own DEF."
+  },
+  "1002707410": {
+    "korean": "라운드 개시 시, 지정 범위 적의 회피를 감소시키고, 매 라운드 효과가 점감하는 방어 관통 감소 효과를 부여합니다. 자신 사망 시 아군 전체의 회피를 감소시키고, 쉘 / 슈터 개체에게는 공격력 / 방어력 감소 효과를 추가로 부여합니다.",
+    "english": "At the start of a round, reduce the EVA of enemies within the designated range and apply a diminishing DEF Penetration reduction each round. Upon your death, reduce all allies' EVA and additionally apply ATK / DEF reduction to Shell and Shooter units."
+  },
+  "1002707411": {
+    "korean": "전투 개시 시, 적 로봇 수가 3 이상일 경우 지정 범위 아군의 AP를 증가시키고, 적 바이오로이드 수가 3 이상일 경우 지정 범위 적에게 방어 관통 감소 효과를 적용합니다. 방어 관통 감소 효과는 자신 사망 시에만 해제됩니다.",
+    "english": "When combat begins, if there are 3 or more enemy Robots, increase AP of allies within the designated range; if there are 3 or more enemy Bioroids, apply a DEF Penetration reduction to enemies within the designated range. The DEF Penetration reduction is removed only upon your death."
+  },
+  "1000109375": {
+    "korean": "리펄서 쇼크 : 표식",
+    "english": "Repulsor shock : Marked"
+  },
+  "1000109395": {
+    "korean": "리펄서 쇼크 : 전기 저항{0}%",
+    "english": "Repulsor shock : Electric Resist {0}%"
+  },
+  "1000109376": {
+    "korean": "자기장 : 표식",
+    "english": "Magnetic field : Marked"
+  },
+  "1000109396": {
+    "korean": "자기장 : 냉기 저항{0}%",
+    "english": "Magnetic field : Cold Resist {0}%"
+  },
+  "1000109405": {
+    "korean": "자기장 : 화염 저항{0}%",
+    "english": "Magnetic field : Fire Resist {0}%"
+  },
+  "1000109409": {
+    "korean": "자기장 : 행동력{0}%",
+    "english": "Magnetic field : SPD {0}%"
+  },
+  "1000109377": {
+    "korean": "전자기파 : 재공격",
+    "english": "Electromagnetic waves : Reattack"
+  },
+  "1000109378": {
+    "korean": "전자기파 : 냉기 저항{0}%",
+    "english": "Electromagnetic waves : Cold Resist {0}%"
+  },
+  "1000109397": {
+    "korean": "전자기파 : 화염 저항{0}%",
+    "english": "Electromagnetic waves : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_FryerHead_N_32": {
+    "korean": "전자기파 : 방어력 {0}%",
+    "english": "Electromagnetic waves : DEF {0}%"
+  },
+  "1000109379": {
+    "korean": "전기 방사 : 방어 관통{0}%",
+    "english": "Electroradiation : DEF Penetration {0}%"
+  },
+  "1000109380": {
+    "korean": "전기 방사 : 방어 관통-{0}%",
+    "english": "Electroradiation : DEF Penetration -{0}%"
+  },
+  "1000109381": {
+    "korean": "전기 방사 : 회피{0}%",
+    "english": "Electroradiation : EVA {0}%"
+  },
+  "1000109382": {
+    "korean": "전기 방사 : 회피{0}%",
+    "english": "Electroradiation : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_FryerHead_N_48": {
+    "korean": "전기 방사 : 공격력 {0}%",
+    "english": "Electroradiation : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_FryerHead_N_48": {
+    "korean": "전기 방사 : 방어력 {0}%",
+    "english": "Electroradiation : DEF {0}%"
+  },
+  "1000109383": {
+    "korean": "지휘관 개체 : AP{0}",
+    "english": "Commander unit : AP {0}"
+  },
+  "1000109384": {
+    "korean": "지휘관 개체 : 방어 관통{0}%",
+    "english": "Commander unit : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_FryerHead_N_52": {
+    "korean": "지휘관 개체 : 방어 관통 감소 해제",
+    "english": "Commander unit : DEF Penetration Debuff Removal"
+  }
+}

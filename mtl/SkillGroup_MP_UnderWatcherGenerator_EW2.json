@@ -1,0 +1,98 @@
+{
+  "SkillName_Skill_MP_UnderWatcherGenerator_EW2_1": {
+    "korean": "에너지 충전",
+    "english": "Energy Charge"
+  },
+  "SkillName_Skill_MP_UnderWatcherGenerator_EW2_2": {
+    "korean": "에너지 실드",
+    "english": "Energy Shield"
+  },
+  "SkillName_Skill_MP_UnderWatcherGenerator_EW2_3": {
+    "korean": "재충전 개시",
+    "english": "Recharge Initiated"
+  },
+  "SkillName_Skill_MP_UnderWatcherGenerator_EW2_4": {
+    "korean": "충격 전환",
+    "english": "Shock Switch"
+  },
+  "SkillName_Skill_MP_UnderWatcherGenerator_EW2_5": {
+    "korean": "긴급 동력 방출",
+    "english": "Emergency Power Release"
+  },
+  "SkillDesc_Skill_MP_UnderWatcherGenerator_EW2_1": {
+    "korean": "각 장치들에게 에너지를 전달해, 공격력과 효과 저항을 증가시키며 받는 피해를 1회 무효화합니다.",
+    "english": "Delivers energy to each device, increasing ATK and Status Resist, and nullifies DMG Taken once."
+  },
+  "SkillDesc_Skill_MP_UnderWatcherGenerator_EW2_2": {
+    "korean": "에너지 실드를 전개해 피해를 흡수하는 방어막을 부여하고, 상태 이상을 해제합니다.",
+    "english": "Deploys an Energy Shield that grants a Barrier which absorbs damage, and removes negative effects."
+  },
+  "SkillDesc_Skill_MP_UnderWatcherGenerator_EW2_3": {
+    "korean": "스킬 사용 시, 받는 공격을 3회 무효화합니다. 3라운드 동안 받는 피해가 감소하며, 효과 저항이 증가합니다.",
+    "english": "When the skill is used, nullifies DMG Taken 3 times. For 3 rounds, DMG Reduction is applied and Status Resist is increased."
+  },
+  "SkillDesc_Skill_MP_UnderWatcherGenerator_EW2_4": {
+    "korean": "전투 개시 시, 자신의 AP가 증가합니다.&n피격 시, 자신의 AP가 증가하고, 낮은 확률로 아군 전체의 AP도 증가시킵니다.",
+    "english": "At the start of combat, your AP increases.&nWhen hit, your AP increases, and there is a low chance to increase all allies' AP as well."
+  },
+  "SkillDesc_Skill_MP_UnderWatcherGenerator_EW2_5": {
+    "korean": "아군이 파괴될 경우, 아군 전체의 AP를 12로 변경합니다.&n자신이 파괴될 경우, 아군 전체가 1라운드 동안 행동 불능 상태가 됩니다.",
+    "english": "If an ally is destroyed, set all allies' AP to 12.&nIf you are destroyed, all allies become Stunned for 1 round."
+  },
+  "BuffDesc2_Effect_MP_UnderWatcherGenerator_EW2_2": {
+    "korean": "에너지 실드 : 해로운 효과 제거",
+    "english": "Energy Shield : Remove Negative Effects"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_5": {
+    "korean": "긴급 동력 방출 : AP {0}으로 변경",
+    "english": "Emergency Power Release : Change to AP {0}"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_1": {
+    "korean": "충전 : 공격력 {0}%",
+    "english": "Charge : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_11": {
+    "korean": "충전 : 피해 무효 {0}회",
+    "english": "Charge : Damage Nullification {0}x"
+  },
+  "BuffDesc2_Effect_MP_UnderWatcherGenerator_EW2_11": {
+    "korean": "충전 : 효과 저항 {0}%",
+    "english": "Charge : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_2": {
+    "korean": "에너지 실드 : 방어막 {0}",
+    "english": "Energy Shield : Barrier {0}"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_3": {
+    "korean": "재충전 개시 : 피해 무효 {0}회",
+    "english": "Recharge begins : Damage Nullification {0}x"
+  },
+  "BuffDesc2_Effect_MP_UnderWatcherGenerator_EW2_3": {
+    "korean": "재충전 개시 : 받는 피해 {0}% 감소",
+    "english": "Recharge begins : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_MP_UnderWatcherGenerator_EW2_3": {
+    "korean": "재충전 개시 : 효과 저항 {0}%",
+    "english": "Recharge begins : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_31": {
+    "korean": "재충전 개시 : 피해 무효 {0}회",
+    "english": "Recharge begins : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_4": {
+    "korean": "충격 전환 : AP {0}",
+    "english": "Shocking turnaround : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_41": {
+    "korean": "충격 전환 : AP{0}",
+    "english": "Shocking turnaround : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_42": {
+    "korean": "충격 전환 : AP{0}",
+    "english": "Shocking turnaround : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_UnderWatcherGenerator_EW2_51": {
+    "korean": "긴급 동력 방출 : 행동 불능",
+    "english": "Emergency power release : Stunned"
+  }
+}

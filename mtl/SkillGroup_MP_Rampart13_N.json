@@ -1,0 +1,82 @@
+{
+  "SkillName_Skill_MP_Rampart13_N_1": {
+    "korean": "완전 기총 견제",
+    "english": "Full Machine Gun Control"
+  },
+  "SkillName_Skill_MP_Rampart13_N_2": {
+    "korean": "완전 요격 태세",
+    "english": "Full Interception Posture"
+  },
+  "SkillName_Skill_MP_Rampart13_N_3": {
+    "korean": "완전 방어 대형",
+    "english": "Full Defense Formation"
+  },
+  "SkillName_Skill_MP_Rampart13_N_4": {
+    "korean": "완전 위험 대비",
+    "english": "Full Risk Preparedness"
+  },
+  "SkillDesc_Skill_MP_Rampart13_N_1": {
+    "korean": "{0} 피해, 2라운드 동안 공격력 / 치명타 / 적중 / 행동력 감소",
+    "english": "Deals {0} damage and reduces ATK / CRIT / ACC / SPD for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_Rampart13_N_2": {
+    "korean": "3라운드 방어력 증가 및 받는 피해 감소, 열 보호/반격 활성화.",
+    "english": "Increases DEF and DMG Reduction for 3 rounds, and activates Column Protect / Counter Attack."
+  },
+  "SkillDesc_Skill_MP_Rampart13_N_3": {
+    "korean": "전열에 있는 상태로 라운드 개시 시, 범위 내 아군 지정 보호/ 대상의 AP 증가",
+    "english": "If in the front row at the start of the round, grants Target Protect to allies within range and increases their AP."
+  },
+  "SkillDesc_Skill_MP_Rampart13_N_4": {
+    "korean": "짝수 라운드 개시시 , 해로운 효과 해제 2라운드 동안 효과 저항 증가",
+    "english": "Removes harmful effects and increases Status Resist for 2 rounds."
+  },
+  "BuffDesc1_Effect_MP_Rampart13_N_1": {
+    "korean": "완전 기총 견제: 적중 {0}%",
+    "english": "Full Machine Gun Control : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_Rampart13_N_1": {
+    "korean": "완전 기총 견제 : 공격력 {0}%",
+    "english": "Full Machine Gun Control : ATK {0}%"
+  },
+  "BuffDesc3_Effect_MP_Rampart13_N_1": {
+    "korean": "완전 기총 견제: 치명타 {0}%",
+    "english": "Full Machine Gun Control : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_MP_Rampart13_N_1": {
+    "korean": "완전 기총 견제: 행동력 {0}%",
+    "english": "Full Machine Gun Control : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_Rampart13_N_2": {
+    "korean": "완전 요격 태세 : 방어력 {0}%",
+    "english": "Full Interception Posture : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_Rampart13_N_2": {
+    "korean": "완전 요격 태세 : 받는 피해 {0}% 감소",
+    "english": "Full Interception Posture : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_MP_Rampart13_N_2": {
+    "korean": "완전 요격 태세 : {0}% 위력으로 반격",
+    "english": "Full Interception Posture : Counter Attack with {0}% Power"
+  },
+  "BuffDesc4_Effect_MP_Rampart13_N_2": {
+    "korean": "완전 요격 태세 : 열 보호",
+    "english": "Full Interception Posture : Column Protect"
+  },
+  "BuffDesc1_Effect_MP_Rampart13_N_3": {
+    "korean": "완전 방어 대형 : 지정 대상 보호",
+    "english": "Full Defense Formation : Target Protect"
+  },
+  "BuffDesc2_Effect_MP_Rampart13_N_3": {
+    "korean": "완전 방어 대형 : AP {0}",
+    "english": "Full Defense Formation : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_Rampart13_N_4": {
+    "korean": "완전 위험 대비 : 해로운 효과 해제",
+    "english": "Full Risk Preparedness : Debuff Removal"
+  },
+  "BuffDesc2_Effect_MP_Rampart13_N_4": {
+    "korean": "완전 위험 대비: 효과 저항 {0}%",
+    "english": "Full Risk Preparedness : Status Resist {0}%"
+  }
+}

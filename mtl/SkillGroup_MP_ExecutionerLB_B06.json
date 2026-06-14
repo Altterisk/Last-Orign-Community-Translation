@@ -1,0 +1,78 @@
+{
+  "1002701353": {
+    "korean": "쪼개기",
+    "english": "Splitting"
+  },
+  "1002701354": {
+    "korean": "꼬챙이 꿰기",
+    "english": "Skewering"
+  },
+  "1002701355": {
+    "korean": "공격 연계",
+    "english": "Attack Combination"
+  },
+  "1002701356": {
+    "korean": "확인 사살",
+    "english": "Finishing Blow"
+  },
+  "1002701357": {
+    "korean": "경계 모드 전환",
+    "english": "Switch to Guard Mode"
+  },
+  "1002703549": {
+    "korean": "지정 대상에게 {0} 피해를 줍니다. 대상이 방어력 감소 상태면 피해량이 증가하며 피해 감소 효과를 해제합니다.",
+    "english": "Deals {0} damage to the designated target. If the target is in a defense reduction state, the damage is increased and any DMG Reduction effect is removed."
+  },
+  "1002703550": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 대상이 공격기 또는 지원기면 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. Damage is increased if the target is an Attacker or Support unit."
+  },
+  "1002703551": {
+    "korean": "라운드 개시 시, 자신이 공격력 증가 상태면 본체와 다른 파츠의 공격을 지원합니다.",
+    "english": "At the start of a round, if you are in an ATK increase state, you support the attacks of the main body and other parts."
+  },
+  "1002703552": {
+    "korean": "공격 시, 공격력 / 치명타가 증가합니다. 공격력 증가가 3중첩 이상인 경우, 피해 감소 효과를 무시하며 방어 관통 효과를 얻습니다. 피격 시 해제됩니다.",
+    "english": "When attacking, ATK / CRIT increase. If ATK increase stacks 3 or more times, ignore DMG Reduction effects and gain DEF Penetration. Removed upon being hit."
+  },
+  "1002703553": {
+    "korean": "피격 시, 다음 공격을 받기 전까지 회피가 크게 증가하며 적중이 감소합니다.",
+    "english": "When hit, EVA greatly increases and ACC decreases until the next attack."
+  },
+  "1000103181": {
+    "korean": "쪼개기 : 피해량{0}%",
+    "english": "Splitting : Additional DMG {0}%"
+  },
+  "1000103182": {
+    "korean": "꿰뚫기 : 피해량{0}%",
+    "english": "Piercing : Additional DMG {0}%"
+  },
+  "1000103183": {
+    "korean": "공격 연계 : 공격 지원",
+    "english": "Attack combination : Follow-Up Attack"
+  },
+  "1000103184": {
+    "korean": "확인 사살 : 공격력{0}%",
+    "english": "Finishing blow : ATK {0}%"
+  },
+  "1000103186": {
+    "korean": "확인 사살 : 치명타{0}%",
+    "english": "Finishing blow : CRIT {0}%"
+  },
+  "1000103187": {
+    "korean": "확인 사살 : 방어 관통{0}%",
+    "english": "Finishing blow : DEF Penetration {0}%"
+  },
+  "1000104513": {
+    "korean": "확인 사살 : 방어막 / 피해 감소 무시",
+    "english": "Finishing blow : Ignore Barrier / DMG Reduction"
+  },
+  "1000103185": {
+    "korean": "경계 모드 : 회피{0}%",
+    "english": "Alert Mode : EVA {0}%"
+  },
+  "1000104512": {
+    "korean": "경계 모드 : 적중 {0}%",
+    "english": "Alert Mode : ACC {0}%"
+  }
+}

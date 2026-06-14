@@ -1,0 +1,38 @@
+{
+  "1002702694": {
+    "korean": "칙 콜 라이트닝",
+    "english": "Chick Call Lightning"
+  },
+  "1002702695": {
+    "korean": "칙 전격 방사",
+    "english": "Chick Electric Radiation"
+  },
+  "1002702696": {
+    "korean": "전압상승",
+    "english": "Voltage Rise"
+  },
+  "1002702697": {
+    "korean": "전압강하",
+    "english": "Voltage Drop"
+  },
+  "1002702698": {
+    "korean": "과전압 누전",
+    "english": "Overvoltage Leakage"
+  },
+  "1002703473": {
+    "korean": "지정 대상에게 {0} 전기 속성 피해를 줍니다. 적중 대상은 높은 확률로 AP / 회피 / 전기 저항이 감소합니다. 대상이 침수 상태면 피해량이 크게 증가하며, 일정 확률로 행동 불가 상태로 만듭니다.",
+    "english": "Deals {0} Electric damage to the designated target. The target has a high chance to have its AP, EVA, or Electric Resist reduced. If the target is Soaked, the damage is greatly increased and there is a chance to Stun the target."
+  },
+  "1002703474": {
+    "korean": "지정 범위에 {0} 보호 무시 전기 속성 피해를 줍니다. 적중 대상은 높은 확률로 AP / 회피가 감소합니다. 대상이 침수 상태면 피해량이 크게 증가하며, 받는 피해 감소 상태를 해제합니다.",
+    "english": "Deals {0} Ignore Protection Electric damage to the designated area. Targets hit have a high chance to have their AP and EVA reduced. If a target is Soaked, the damage is greatly increased and any DMG Reduction is removed."
+  },
+  "1002704150": {
+    "korean": "전기 속성 공격을 맞을 경우, 과충전 상태가 되어 공격력 / 적중 / 회피 / AP / 행동력이 크게 증가합니다.",
+    "english": "When hit by an Electric attribute attack, you become Overcharged, greatly increasing your ATK, ACC, EVA, AP, and SPD."
+  },
+  "1002703476": {
+    "korean": "공격 시, 자신이 침수 상태인 경우 방전으로 인한 고정 피해를 입습니다. 침수 상태로 처치될 경우, 범위 내 대상들에게 전기 피해를 줍니다. 해당 효과가 적용되는 대상이 침수 상태인 경우, 행동 불가가 됩니다.",
+    "english": "When attacking while Soaked, you take Fixed DMG from discharge. If you are defeated while Soaked, you deal Electric damage to targets in the area. Targets affected by this effect that are Soaked become Stunned."
+  }
+}

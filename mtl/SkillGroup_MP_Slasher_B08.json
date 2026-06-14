@@ -1,0 +1,126 @@
+{
+  "1002707145": {
+    "korean": "머신캐논 연사",
+    "english": "Machine Cannon Burst"
+  },
+  "1002707147": {
+    "korean": "장갑 찢기",
+    "english": "Ripping Gloves"
+  },
+  "1002707149": {
+    "korean": "전투 적응",
+    "english": "Combat Adaptation"
+  },
+  "1002707151": {
+    "korean": "역습",
+    "english": "Counterattack"
+  },
+  "1002707153": {
+    "korean": "위압감(철의 왕자)",
+    "english": "Intimidation (Iron Prince)"
+  },
+  "1002707146": {
+    "korean": "단일 대상에게 {0} 피해를 주고 대상의 방어력을 감소시킵니다. 치명타 시, 대상의 받는 피해 감소 효과를 해제 합니다.",
+    "english": "Deals {0} Additional DMG to a single target and reduces the target's DEF. On CRIT, removes DMG Reduction."
+  },
+  "1002707148": {
+    "korean": "단일 대상에게 보호 무시의 {0} 화염 속성 피해를 줍니다. 치명타 시, 피해량이 증가하며 모든 강화 효과를 해제 합니다.",
+    "english": "Deals {0} Fire damage ignoring Protection to a single target. On CRIT, damage is increased and all buffs are removed."
+  },
+  "1002707150": {
+    "korean": "전투 개시 시, AP 증가 / 받는 피해 감소 효과가 적용 됩니다. 적 공격 시, 회피가 증가하며 회피 증가 효과는 후열에 가까울수록 증가합니다. 냉기 속성에 피격 시, 회피 증가 효과가 해제 되고 회피가 감소합니다.",
+    "english": "At combat start, AP increase / DMG Reduction is applied. When attacking an enemy, EVA increases, and the EVA increase effect grows the closer you are to the back row. When hit by a Cold attribute attack, the EVA increase effect is removed and EVA decreases."
+  },
+  "1002707152": {
+    "korean": "회피 시, 반격 / AP 증가 / 치명타 증가가 적용되고 <치명적인 역습>이 적용 됩니다. 라운드 개시 시, <치명적인 역습>이 3중첩이라면 방어막 / 피해 감소 효과를 무시합니다.",
+    "english": "When dodging, Counter Attack / AP Increase / CRIT Increase are applied, and <Deadly Counterattack> is applied. At round start, if <Deadly Counterattack> has 3 stacks, Ignore Barrier / DMG Reduction."
+  },
+  "1002707154": {
+    "korean": "근처에 있는 철의 왕자에게서 뿜어져나오는 위압감으로 공격력 / 방어력이 감소합니다.",
+    "english": "Nearby allies suffer ATK / DEF reduction from the intimidation emitted by the Iron Prince."
+  },
+  "1000108906": {
+    "korean": "치명적인 역습 준비",
+    "english": "Prepare Deadly Counterattack"
+  },
+  "1000108907": {
+    "korean": "치명적인 역습 : 방어막 / 받는 피해 감소 무시",
+    "english": "Deadly Counterattack : Ignore Barrier / DMG Reduction"
+  },
+  "1000108912": {
+    "korean": "치명적인 역습 : 방어막 / 받는 피해 감소 무시",
+    "english": "Deadly Counterattack : Ignore Barrier / DMG Reduction"
+  },
+  "1000108893": {
+    "korean": "머신캐논 연사 : 방어력 {0}%",
+    "english": "Machine Cannon burst fire : DEF {0}%"
+  },
+  "1000108894": {
+    "korean": "머신캐논 연사 : 받는 피해 감소 효과 해제",
+    "english": "Machine Cannon burst fire : DMG Reduction Removal"
+  },
+  "1000108895": {
+    "korean": "장갑 찢기 : 피해량{0}%",
+    "english": "Tearing gloves : Additional DMG {0}%"
+  },
+  "1000108909": {
+    "korean": "장갑 찢기 : 모든 강화 효과 해제",
+    "english": "Tearing gloves : Buff Removal"
+  },
+  "1000108896": {
+    "korean": "전투 적응 : AP{0}",
+    "english": "Combat adaptation : AP {0}"
+  },
+  "1000108910": {
+    "korean": "전투 적응 : 받는 피해 감소 {0}%",
+    "english": "Combat adaptation : DMG Reduction {0}%"
+  },
+  "1000108897": {
+    "korean": "전투 적응 : 회피{0}% (전열)",
+    "english": "Combat adaptation : EVA {0}% (Front Row)"
+  },
+  "1000108898": {
+    "korean": "전투 적응 : 회피{0}% (중열)",
+    "english": "Combat adaptation : EVA {0}% (Mid Row)"
+  },
+  "1000108899": {
+    "korean": "전투 적응 : 회피{0}% (후열)",
+    "english": "Combat adaptation : EVA {0}% (Back Row)"
+  },
+  "1000108900": {
+    "korean": "둔화 : 회피 증가 해제",
+    "english": "Slow : EVA Buff Removal"
+  },
+  "1000108901": {
+    "korean": "둔화 : 회피 증가 해제",
+    "english": "Slow : EVA Buff Removal"
+  },
+  "1000108902": {
+    "korean": "둔화 : 회피 증가 해제",
+    "english": "Slow : EVA Buff Removal"
+  },
+  "1000108903": {
+    "korean": "둔화 : 회피 {0}%",
+    "english": "Slow : EVA {0}%"
+  },
+  "1000108904": {
+    "korean": "역습 : {0}% 위력으로 반격",
+    "english": "counterattack : Counter Attack with {0}% Power"
+  },
+  "1000108911": {
+    "korean": "역습 : AP{0}",
+    "english": "counterattack : AP {0}"
+  },
+  "1000108905": {
+    "korean": "역습 : 치명타{0}%",
+    "english": "counterattack : CRIT {0}%"
+  },
+  "1000108908": {
+    "korean": "위압감(철의 왕자) : 공격력 {0}%",
+    "english": "Intimidation (Iron Prince) : ATK {0}%"
+  },
+  "1000108913": {
+    "korean": "위압감(철의 왕자) : 방어력 {0}%",
+    "english": "Intimidation (Iron Prince) : DEF {0}%"
+  }
+}

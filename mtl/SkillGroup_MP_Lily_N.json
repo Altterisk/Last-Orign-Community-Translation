@@ -1,0 +1,62 @@
+{
+  "SkillName_Skill_MP_Lily_N_1": {
+    "korean": "크루얼 슬래쉬(이벤트)",
+    "english": "Cruel Slash (Event)"
+  },
+  "SkillName_Skill_MP_Lily_N_2": {
+    "korean": "데스 길로틴(이벤트)",
+    "english": "Death Guillotine (Event)"
+  },
+  "SkillName_Skill_MP_Lily_N_3": {
+    "korean": "광기의 서슬(이벤트)",
+    "english": "Sharpness of Madness (Event)"
+  },
+  "SkillName_Skill_MP_Lily_N_4": {
+    "korean": "넘치는 광기(이벤트)",
+    "english": "Overflowing Madness (Event)"
+  },
+  "SkillName_Skill_MP_Lily_N_5": {
+    "korean": "폭주하는 광기(이벤트)",
+    "english": "Rampaging Madness (Event)"
+  },
+  "SkillDesc_Skill_MP_Lily_N_1": {
+    "korean": "언월도를 든 사신을 소환하여 지정 범위에 {0} 보호 무시 물리 피해 발생시킵니다.&n목표 지점 주변은 피해가 75%만 적용됩니다.&n스킬 적중 시 2라운드 동안 대상의 행동력과 회피가 감소합니다.&n치명타 시 대상의 방어막을 해제하고 2라운드 동안 효과 저항 감소합니다.",
+    "english": "Summon a Reaper wielding a crescent blade to deal {0} Ignore Protection Physical DMG within the designated area. Damage around the target point is reduced to 75%. On hit, the target's SPD and EVA are reduced for 2 rounds. On CRIT, removes the target's Barrier and reduces Status Resist for 2 rounds."
+  },
+  "SkillDescSimple_Skill_MP_Lily_N_1": {
+    "korean": "지정 범위 보호 무시 {0} 피해. 조건부 행동력 / 회피 감소. 조건부 방어막 해제 / 효과 저항 감소.",
+    "english": "Ignore Protection {0} DMG in designated range. Conditional SPD / EVA reduction. Conditional Barrier removal / Status Resist reduction."
+  },
+  "SkillDesc_Skill_MP_Lily_N_2": {
+    "korean": "거대한 단두대를 소환하여 {0} 물리 피해 발생시킵니다.&n스킬 적중 시 2라운드 동안 지속 물리 피해 발생시키고 받는 피해를 증가시킵니다.&n치명타 시 대상의 강화 효과를 해제합니다.",
+    "english": "Summon a giant guillotine to deal {0} Physical DMG. On hit, inflict Physical DoT DMG for 2 rounds and increase DMG Taken. On CRIT, removes the target's buffs."
+  },
+  "SkillDescSimple_Skill_MP_Lily_N_2": {
+    "korean": "지정 범위 {0} 피해. 조건부 지속 물리 피해 발생 / 받는 피해 증가. 조건부 강화 효과 해제.",
+    "english": "Deal {0} DMG in designated range. Conditional Physical DoT DMG / DMG Taken increase. Conditional Buff removal."
+  },
+  "SkillDesc_Skill_MP_Lily_N_3": {
+    "korean": "라운드 개시 시 자신의 AP 및 행동력을 증가시킵니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 아군에게 [보호?]를 부여합니다.&n보호? 1 : 방어력 증가&n보호? 2 : 방어력 증가 / 회피 증가&n보호? 3 : 방어력 증가 / 회피 증가 / 해로운 효과 저항 증가&n보호? 4 : 방어력 증가 / 회피 증가 / 해로운 효과 저항 증가 / 스킬 위력 증가&n라운드 개시 시 자신을 포함한 <라이언 코퍼레이션> 전투원을 공격 지원합니다.",
+    "english": "At the start of the round, increase your AP and SPD. If there are <Lion Corporation> allies in the squad excluding yourself, grant Protection? to all allies based on their number: Protection? 1: DEF increase; Protection? 2: DEF increase / EVA increase; Protection? 3: DEF increase / EVA increase / Harmful Effect Resist increase; Protection? 4: DEF increase / EVA increase / Harmful Effect Resist increase / Skill Power increase. At the start of the round, provide Follow-Up Attack to all <Lion Corporation> allies, including yourself."
+  },
+  "SkillDescSimple_Skill_MP_Lily_N_3": {
+    "korean": "자신에게 AP / 행동력 증가 부여. 조건부 방어력 / 회피 / 해로운 효과 저항 / 스킬 위력 증가. 공격 지원.",
+    "english": "Grant self AP / SPD increase. Conditional DEF / EVA / Harmful Effect Resist / Skill Power increase. Follow-Up Attack."
+  },
+  "SkillDesc_Skill_MP_Lily_N_4": {
+    "korean": "피격 시 자신의 해로운 효과를 해제합니다.&n라운드 개시 시 아군 전체의 공격력 및 적중, 스킬 위력을 증가시킵니다.&n라운드 개시 시 스쿼드에 <이터니티>, <S12 쉐이드>, <엘리 퀵핸드>가 있는 경우 이터니티, S12 쉐이드, 엘리 퀵핸드의 AP 및 행동력을 증가시킵니다.&n라운드 개시 시 스쿼드에 <이터니티>, <S12 쉐이드>, <엘리 퀵핸드>가 있는 경우 이터니티, S12 쉐이드, 엘리 퀵핸드를 공격 지원합니다.",
+    "english": "Removes your Harmful Effects when hit. At the start of the round, increase all allies' ATK, ACC and Skill Power. At the start of the round, if <Eternity>, <S12 Shade>, and <Ellie Quickhand> are in the squad, increase their AP and SPD. At the start of the round, if <Eternity>, <S12 Shade>, and <Ellie Quickhand> are in the squad, provide Follow-Up Attack to them."
+  },
+  "SkillDescSimple_Skill_MP_Lily_N_4": {
+    "korean": "피격 시 해로운 효과 해제. 아군 전체 공격력 / 적중 / 스킬 위력 증가. 조건부 AP 및 행동력 증가. 조건부 공격 지원.",
+    "english": "Removes Harmful Effects when hit. Increases allies' ATK / ACC / Skill Power. Conditional AP / SPD increase. Conditional Follow-Up Attack."
+  },
+  "SkillDesc_Skill_MP_Lily_N_5": {
+    "korean": "라운드 개시 시 자신의 공격력과 치명타를 증가시킵니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 전투원이 있는 경우 인원수에 따라 적군 전체에 [싸우자!!]를 부여합니다.&n싸우자!! 1 : 회피율 감소&n싸우자!! 2 : 회피율 감소 / 방어력 감소&n싸우자!! 3 : 회피율 감소 / 방어력 감소 / 공격력 감소&n싸우자!! 4 : 회피율 감소 / 방어력 감소 / 공격력 감소 / 적중 감소",
+    "english": "Increase your ATK and CRIT at the start of the round. At the start of the round, if there are <Lion Corporation> allies in the squad excluding yourself, grant Let's fight!! to all enemies based on their number: Let's fight!! 1: EVA reduction; Let's fight!! 2: EVA reduction / DEF reduction; Let's fight!! 3: EVA reduction / DEF reduction / ATK reduction; Let's fight!! 4: EVA reduction / DEF reduction / ATK reduction / ACC reduction."
+  },
+  "SkillDescSimple_Skill_MP_Lily_N_5": {
+    "korean": "자신에게 공격력  / 치명타 증가. 조건부 적 전체 디버프 부여.",
+    "english": "Increase self ATK / CRIT. Conditional debuff to all enemies."
+  }
+}

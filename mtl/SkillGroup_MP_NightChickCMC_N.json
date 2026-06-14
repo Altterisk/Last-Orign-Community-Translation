@@ -1,0 +1,82 @@
+{
+  "SkillName_Skill_MP_NightChickCMC_N_1": {
+    "korean": "급속 냉동탄",
+    "english": "Rapid Freeze Shot"
+  },
+  "SkillName_Skill_MP_NightChickCMC_N_2": {
+    "korean": "급속 냉동탄 난사",
+    "english": "Rapid Freeze Barrage"
+  },
+  "SkillName_Skill_MP_NightChickCMC_N_3": {
+    "korean": "냉매 누출",
+    "english": "Refrigerant Leak"
+  },
+  "SkillName_Skill_MP_NightChickCMC_N_4": {
+    "korean": "수랭식 장갑",
+    "english": "Water‑Cooled Gauntlet"
+  },
+  "SkillName_Skill_MP_NightChickCMC_N_5": {
+    "korean": "압축기 폭발",
+    "english": "Compressor Explosion"
+  },
+  "SkillDesc_Skill_MP_NightChickCMC_N_1": {
+    "korean": "급속 냉동탄을 발사해 단일 대상에 {0} 냉기 피해를 줍니다.&n적중 대상이 바이오로이드인 경우, 2라운드 동안 적중 / 치명타 / 행동력을 감소시킵니다.&n대상이 이미 <동상> 상태면 일정 확률로 2라운드 동안 행동 불가 상태로 만듭니다.&n대상이 AGS인 경우 효과가 없습니다.",
+    "english": "Fires a Rapid Freeze Shot dealing {0} Cold damage to a single target. If the target is a Bioroid, reduces Hit, CRIT, and SPD for 2 rounds. If the target is already in <Frostbite>, there is a chance to Stun them for 2 rounds. No effect on AGS targets."
+  },
+  "SkillDesc_Skill_MP_NightChickCMC_N_2": {
+    "korean": "급속 냉동탄을 난사해 지정 범위에 {0} 냉기 피해를 줍니다.&n대상이 바이오로이드인 경우, 적중 여부에 관계 없이 2라운드 동안 적중 / 치명타 / 행동력을 감소시킵니다.&n대상이 이미 <동상> 상태면 일정 확률로 2라운드 동안 행동 불가 상태로 만듭니다.&n대상이 AGS인 경우 효과가 없습니다.",
+    "english": "Fires a barrage of Rapid Freeze Shots dealing {0} Cold damage to the designated area. If the target is a Bioroid, reduces Hit, CRIT, and SPD for 2 rounds regardless of hit. If the target is already in <Frostbite>, there is a chance to Stun them for 2 rounds. No effect on AGS targets."
+  },
+  "SkillDesc_Skill_MP_NightChickCMC_N_3": {
+    "korean": "적 공격 시, 주변에 냉매가 누출되어 2라운드 동안 지속 냉기 피해를 주며 행동력을 감소시킵니다.",
+    "english": "When attacked, coolant leaks around you, dealing Continuous Cold DoT DMG for 2 rounds and reducing SPD."
+  },
+  "SkillDesc_Skill_MP_NightChickCMC_N_4": {
+    "korean": "라운드 개시 시, 자신은 피해 최소화 효과를 획득합니다.&n아군 또는 적 사망 시, 범위 내 아군의 AP를 증가시킵니다.",
+    "english": "At the start of the round, you gain Minimize Damage. When an ally or enemy dies, increase the AP of allies within range."
+  },
+  "SkillDesc_Skill_MP_NightChickCMC_N_5": {
+    "korean": "전기 속성 액티브 스킬 공격 피격 시, 압축기 고장이 발생하어 <단열 압축 이상> 상태가 됩니다. &n<단열 압축 이상> 상태로 처치되면 압축기 폭발로 범위 내 아군에게 괴멸적인 고정 피해를 입힙니다.",
+    "english": "When hit by an Electric‑attribute active skill attack, the compressor malfunctions, causing the <Adiabatic Compression Anomaly> state. If defeated while in the <Adiabatic Compression Anomaly> state, the Compressor Explosion deals catastrophic Fixed DMG to allies within the area."
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_1": {
+    "korean": "급속 냉동탄 : 행동 불가",
+    "english": "Rapid freezing bullets : Stunned"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_11": {
+    "korean": "동상 : 적중 {0}%",
+    "english": "Frostbite : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChickCMC_N_11": {
+    "korean": "동상 : 치명타 {0}%",
+    "english": "Frostbite : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickCMC_N_11": {
+    "korean": "동상 : 행동력 {0}%",
+    "english": "Frostbite : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_3": {
+    "korean": "냉매 누출 : 지속 냉기 피해 {0}",
+    "english": "Refrigerant leak : Cold DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_MP_NightChickCMC_N_3": {
+    "korean": "냉매 누출 : 행동력 {0}%",
+    "english": "Refrigerant leak : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_4": {
+    "korean": "수랭식 장갑 : 피해 최소화",
+    "english": "Water-cooled gloves : Minimize Damage"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_41": {
+    "korean": "수랭식 장갑 : AP {0}",
+    "english": "Water-cooled gloves : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_5": {
+    "korean": "단열 압축 이상 : 지속 전기 피해 {0}",
+    "english": "Thermal Compression Failure : Electric DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickCMC_N_51": {
+    "korean": "압축기 폭발 : 공격력 {0}% 고정 피해",
+    "english": "Compressor explosion : ATK {0}% Fixed DMG"
+  }
+}

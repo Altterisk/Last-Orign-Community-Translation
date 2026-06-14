@@ -1,0 +1,94 @@
+{
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge1_1": {
+    "korean": "트레머 스매시",
+    "english": "Tremor Smash"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge1_2": {
+    "korean": "헤일로 오버처",
+    "english": "Halo Overture"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge1_3": {
+    "korean": "기만 대비책",
+    "english": "Deception Countermeasure"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge1_4": {
+    "korean": "모순성 알고리즘 파장",
+    "english": "Contradiction Algorithm Wave"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge1_5": {
+    "korean": "폭주의 전조",
+    "english": "Prelude to Rampage"
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge1_1": {
+    "korean": "양 주먹을 내리쳐 대상에게 {0} 피해를 주고 회피 강화 효과를 해제합니다.&n적중 시, 3라운드 동안 대상의 회피 / 방어력을 감소시킵니다.&n자신보다 대상의 공격력이 낮은 경우, 상기 효과를 적중 여부에 관계 없이 일반 효과로 적용합니다.",
+    "english": "Strike the target with both fists, dealing {0} DMG and removing EVA buffs. On hit, reduces the target's EVA / DEF for 3 rounds. If the target's ATK is lower than yours, the above effects apply as Normal Effect regardless of hit."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge1_2": {
+    "korean": "지정 범위에 미지의 광선을 발사하여 {0} 피해를 줍니다.&n적중 시, 자신의 공격력에 비례한 고정 피해를 입힙니다.&n적중 대상이 보호기가 아닌 경우, 강화 효과를 해제합니다.",
+    "english": "Fire an unknown beam at the designated area, dealing {0} DMG. On hit, deals Fixed DMG proportional to your ATK. If the hit target is not a shield unit, remove its buffs."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge1_3": {
+    "korean": "전투 개시 시, 자신의 AP가 증가합니다.&n피격 시, 자신의 AP가 증가하고, 1라운드 동안 자신이 받는 피해가 감소합니다.",
+    "english": "At the start of battle, increase your AP. When hit, increase your AP and gain DMG Reduction for 1 round."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge1_4": {
+    "korean": "라운드 개시 시, 모든 적 AGS의 공격력 / 행동력 / 효과 발동을 감소시킵니다.&n해로운 효과 해제로 해제되지 않지만, 바이오로이드에게는 효과가 없습니다.",
+    "english": "At the start of each round, reduce all enemy AGS ATK / SPD / Effect Activation Rate. Cannot be removed by debuff removal, and has no effect on Bioroids."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge1_5": {
+    "korean": "라운드 개시 시, 자신은 해제 불가한 <폭주의 전조> 중첩을 획득합니다.&n라운드 개시 시, 자신은 AP 감소 면역 효과를 획득합니다.",
+    "english": "At the start of each round, you gain an unremovable stack of <Prelude to Rampage>. At the start of each round, you also gain immunity to AP Reduction."
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge1_1": {
+    "korean": "트레머 스매시 : 회피 강화 해제",
+    "english": "Tremor Smash : EVA Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge1_12": {
+    "korean": "떨림 : 회피 {0}%",
+    "english": "Tremor : EVA {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge1_12": {
+    "korean": "떨림 : 방어력 {0}",
+    "english": "Tremor : DEF {0}"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge1_2": {
+    "korean": "헤일로 오버처 : {0}% 고정 물리 피해",
+    "english": "Halo Overture : {0}% Fixed Physical DMG"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge1_21": {
+    "korean": "헤일로 오버처 : 강화 효과 해제",
+    "english": "Halo Overture : Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge1_3": {
+    "korean": "기만 대비책 : AP {0}",
+    "english": "Deception Countermeasure : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge1_31": {
+    "korean": "기만 대비책 : AP {0}",
+    "english": "Deception Countermeasure : AP {0}"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge1_31": {
+    "korean": "기만 대비책 : 받는 피해 {0}% 감소",
+    "english": "Deception Countermeasure : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge1_4": {
+    "korean": "이 문장은 거짓이다 : 공격력 {0}%",
+    "english": "This Sentence is False : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge1_4": {
+    "korean": "이 문장은 거짓이다 : 행동력 {0}%",
+    "english": "This Sentence is False : SPD {0}%"
+  },
+  "BuffDesc3_Effect_MP_Demolisher_BOSS_Challenge1_4": {
+    "korean": "이 문장은 거짓이다 : 효과 발동 {0}%",
+    "english": "This Sentence is False : Effect Activation Rate {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge1_5": {
+    "korean": "폭주의 전조 : 방어력 {0}%",
+    "english": "Prelude to Rampage : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge1_51": {
+    "korean": "폭주의 전조 : AP 감소 면역",
+    "english": "Prelude to Rampage : AP Decrease Immunity"
+  }
+}

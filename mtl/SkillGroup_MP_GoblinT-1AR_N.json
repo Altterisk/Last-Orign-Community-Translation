@@ -1,0 +1,94 @@
+{
+  "SkillName_Skill_MP_MarionnetteAR_N_1": {
+    "korean": "타격 목표 설정",
+    "english": "Set Hit Target"
+  },
+  "SkillName_Skill_MP_MarionnetteAR_N_2": {
+    "korean": "위협 사격",
+    "english": "Threat Shot"
+  },
+  "SkillName_Skill_MP_GoblinT-1AR_N_3": {
+    "korean": "연결 고리",
+    "english": "Link"
+  },
+  "SkillName_Skill_MP_GoblinT-1AR_N_4": {
+    "korean": "복수심",
+    "english": "Revenge"
+  },
+  "SkillDesc_Skill_MP_MarionnetteAR_N_1": {
+    "korean": "적에게 돌격소총을 조준 사격하여 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 표식 / 받는 피해 증가 효과를 적용합니다.",
+    "english": "Fire an assault rifle at an enemy to deal {0} damage. On hit, apply Marked / DMG Taken Increased for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_MarionnetteAR_N_2": {
+    "korean": "적에게 보호 무시 위협용 사격을 가하여 {0} 피해를 줍니다.&n적중 여부와 관계 없이, 2라운드 동안 대상의 적중 / 회피를 감소시킵니다.",
+    "english": "Fire a protection‑ignoring threat shot at an enemy to deal {0} damage. Reduces the target’s ACC / EVA for 2 rounds, regardless of hit."
+  },
+  "SkillDesc_Skill_MP_GoblinT-1AR_N_3": {
+    "korean": "라운드 개시시, 아군 바이오로이드가 많을수록 공격력/행동력 증가 버프를 받습니다. (최대 5)",
+    "english": "At the start of the round, allies receive an ATK / SPD increase buff based on the number of allied Bioroids (up to 5)."
+  },
+  "SkillDesc_Skill_MP_GoblinT-1AR_N_4": {
+    "korean": "아군 사망 시, 영구적으로 공격력/행동력/적중이 증가합니다. 일반 효과 입니다.",
+    "english": "When an ally dies, gain a permanent ATK / SPD / ACC increase. Normal Effect."
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_N_1": {
+    "korean": "타격 목표 설정 : 표식",
+    "english": "Setting a Hit Target : Marked"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteAR_N_1": {
+    "korean": "타격 목표 설정 : 받는 피해 {0}% 증가",
+    "english": "Setting a Hit Target : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteAR_N_2": {
+    "korean": "위협 사격 : 적중 {0}%",
+    "english": "Warning shots : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteAR_N_2": {
+    "korean": "위협 사격 : 회피 {0}%",
+    "english": "Warning shots : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_GoblinT-1AR_N_3": {
+    "korean": "연결 고리: 행동력 {0}%",
+    "english": "Connecting link : SPD {0}%"
+  },
+  "BuffDesc2_Effect_MP_GoblinT-1AR_N_3": {
+    "korean": "연결 고리: 공격력 {0}%",
+    "english": "Connecting link : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_GoblinT-1AR_N_31": {
+    "korean": "연결 고리: 행동력 {0}%",
+    "english": "Connecting link : SPD {0}%"
+  },
+  "BuffDesc2_Effect_MP_GoblinT-1AR_N_31": {
+    "korean": "연결 고리: 공격력 {0}%",
+    "english": "Connecting link : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_GoblinT-1AR_N_32": {
+    "korean": "연결 고리: 행동력 {0}%",
+    "english": "Connecting link : SPD {0}%"
+  },
+  "BuffDesc2_Effect_MP_GoblinT-1AR_N_32": {
+    "korean": "연결 고리: 공격력 {0}%",
+    "english": "Connecting link : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_GoblinT-1AR_N_33": {
+    "korean": "연결 고리: 행동력 {0}%",
+    "english": "Connecting link : SPD {0}%"
+  },
+  "BuffDesc2_Effect_MP_GoblinT-1AR_N_33": {
+    "korean": "연결 고리: 공격력 {0}%",
+    "english": "Connecting link : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_GoblinT-1AR_N_4": {
+    "korean": "복수심: 행동력 {0}%",
+    "english": "Revenge : SPD {0}%"
+  },
+  "BuffDesc2_Effect_MP_GoblinT-1AR_N_4": {
+    "korean": "복수심: 공격력 {0}%",
+    "english": "Revenge : ATK {0}%"
+  },
+  "BuffDesc3_Effect_MP_GoblinT-1AR_N_4": {
+    "korean": "복수심: 적중 {0}%",
+    "english": "Revenge : ACC {0}%"
+  }
+}

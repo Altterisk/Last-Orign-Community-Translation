@@ -1,0 +1,74 @@
+{
+  "SkillName_Skill_MP_TimeBomb_N_1": {
+    "korean": "소규모 폭발",
+    "english": "Small Explosion"
+  },
+  "SkillName_Skill_MP_TimeBomb_N_3": {
+    "korean": "대폭발",
+    "english": "Huge Explosion"
+  },
+  "SkillName_Skill_MP_TimeBomb_N_4": {
+    "korean": "화염 반응",
+    "english": "Flame Reaction"
+  },
+  "SkillName_Skill_MP_TimeBomb_N_5": {
+    "korean": "반사 피해",
+    "english": "Reflection Damage"
+  },
+  "SkillDesc_Skill_MP_TimeBomb_N_1": {
+    "korean": "작은 폭발을 일으켜 단일 대상에게 {0} 화염 속성 피해를 입힙니다.",
+    "english": "Creates a small explosion, dealing {0} Fire damage to a single target."
+  },
+  "SkillDescSimple_Skill_MP_TimeBomb_N_1": {
+    "korean": "{0} 화염 속성 피해",
+    "english": "{0} Fire attribute damage"
+  },
+  "SkillDesc_Skill_MP_TimeBomb_N_3": {
+    "korean": "사망 시 거대한 폭발을 일으켜 모든 범위에 화염 속성 피해를 입힙니다. 엘리 퀵핸드에 의해 표식을 부여받은 상태라면 폭발하지 않습니다.",
+    "english": "Upon death, triggers a massive explosion that deals Fire damage to all targets in range. Does not explode if marked by Ellie Quickhand."
+  },
+  "SkillDescSimple_Skill_MP_TimeBomb_N_3": {
+    "korean": "모든 범위 화염 속성 피해",
+    "english": "All-range fire attribute damage"
+  },
+  "SkillDesc_Skill_MP_TimeBomb_N_4": {
+    "korean": "표식의 유무에 상관없이 화염 속성 피해를 입을 경우 즉시 폭발하여 모든 범위에 화염 속성 피해를 입힙니다.",
+    "english": "Instantly explodes upon taking Fire damage, regardless of whether marked, dealing Fire damage to all targets in range."
+  },
+  "SkillDescSimple_Skill_MP_TimeBomb_N_4": {
+    "korean": "화염 속성 피해 피격 시 자폭",
+    "english": "Self-detonation when hit by fire attribute damage"
+  },
+  "SkillDesc_Skill_MP_TimeBomb_N_5": {
+    "korean": "피격 받을 시 공격 대상에게 반격합니다.",
+    "english": "Counter Attack the attacker when hit."
+  },
+  "SkillDescSimple_Skill_MP_TimeBomb_N_5": {
+    "korean": "반격",
+    "english": "Counter Attack"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_1": {
+    "korean": "소규모 폭발 : 적 HP% 낮을수록 피해량+{0}%",
+    "english": "Small Explosion : DMG Proportional to Target Lost HP +{0}%"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_2": {
+    "korean": "미사용 스킬",
+    "english": "Unused Skill"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_3": {
+    "korean": "대폭발 : 공격력 {0}% 화염 속성 피해",
+    "english": "Huge Explosion : ATK {0}% Fire Attribute Damage"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_4": {
+    "korean": "화염 반응 : 점화됨",
+    "english": "Flame Reaction : Ignited"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_14": {
+    "korean": "화염 반응 : 점화됨",
+    "english": "Flame Reaction : Ignited"
+  },
+  "BuffDesc1_Effect_MP_TimeBomb_N_5": {
+    "korean": "반사 : 공격력 {0}% 반격",
+    "english": "Reflection : Counter Attack ATK {0}%"
+  }
+}

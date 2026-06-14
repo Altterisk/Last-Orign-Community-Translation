@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_Dhana_N_1": {
+    "korean": "체인 피어스",
+    "english": "Chain Pierce"
+  },
+  "SkillName_Skill_MP_Dhana_N_2": {
+    "korean": "래쉬 임페일",
+    "english": "Lash Impale"
+  },
+  "SkillName_Skill_MP_Dhana_N_3": {
+    "korean": "거짓의 난무",
+    "english": "Rampage of Lies"
+  },
+  "SkillName_Skill_MP_Dhana_N_4": {
+    "korean": "예리한 일격",
+    "english": "Sharp Strike"
+  },
+  "SkillName_Skill_MP_Dhana_N_5": {
+    "korean": "순간의 형체",
+    "english": "Momentary Form"
+  },
+  "SkillDesc_Skill_MP_Dhana_N_1": {
+    "korean": "시어 블레이드를 소환하여 지정된 범위에 보호 무시 {0} 냉기 피해를 발생시킵니다.&n스킬 적중 시 대상은 2라운드 동안 방어력 및 회피를 감소시키고 [침수] 상태로 만듭니다.&n치명타 시 2라운드 동안 지속 냉기 피해를 발생시킵니다.",
+    "english": "Summon a Sheer Blade to deal {0} Cold damage ignoring protection in the designated area. When the skill hits, the target's DEF and EVA are reduced for 2 rounds and becomes Soaked. On critical hit, deals Cold DoT DMG for 2 rounds."
+  },
+  "SkillDescSimple_Skill_MP_Dhana_N_1": {
+    "korean": "지정 범위 보호 무시 {0} 냉기 피해. 2라운드 방어력 / 회피 감소 / 침수 부여. 치명타 시 2라운드 지속 냉기 피해.",
+    "english": "Designated area Ignore Protection {0} Cold damage. 2 rounds DEF / EVA reduction / Soaked. On CRIT, 2 rounds Cold DoT DMG."
+  },
+  "SkillDesc_Skill_MP_Dhana_N_2": {
+    "korean": "공중에서 시어 블레이드를 소환하여 지정 범위에 {0} 냉기 피해를 발생시킵니다.&n스킬 적중 시 2라운드 동안 아군 전체의 방어 관통 및 스킬 위력이 증가합니다.&n스킬 적중 시 대상이 침수 상태이면 냉기 피해량이 증가하고 2라운드 동안 냉기 저항이 감소합니다.&n치명타 시 2라운드 동안 아군 전체 효과 저항이 증가합니다.",
+    "english": "Summon a Sheer Blade from the Air to deal {0} Cold damage to the designated area. When the skill hits, all allies gain increased DEF Penetration and Skill Power for 2 rounds. If the target is Soaked when hit, Cold damage is increased and Cold Resist is reduced for 2 rounds. On critical hit, all allies gain increased Status Resist for 2 rounds."
+  },
+  "SkillDescSimple_Skill_MP_Dhana_N_2": {
+    "korean": "지정 범위 {0} 냉기 피해. 조건부 아군 전체 2라운드 방어 관통 / 스킬 위력 / 효과 저항 증가. 조건부 대상의 냉기 피해량 증가. 조건부 2라운드 대상의 냉기 저항 감소.",
+    "english": "Targeted area {0} Cold damage. Conditional increase to all allies for 2 rounds: DEF Penetration / Skill Power / Effect Resist. Conditional increase to target's Cold damage. Conditional decrease to target's Cold Resist for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_Dhana_N_3": {
+    "korean": "라운드 개시 시 아군 전체의 공격력 및 적중, 치명타를 증가시킵니다.&n라운드 개시 시 <알키오네>, <메로페>, <시저스 리제>가 있는 경우 2배로 효과를 받습니다.&n라운드 개시 시 <알키오네>, <메로페>, <시저스 리제>가 있는 경우 알키오네, 메로페, 시저스 리제를 공격 지원합니다.",
+    "english": "At the start of the round, increase all allies' ATK, ACC, and CRIT. If <Alcyone>, <Meropé>, or <Scissors Lise> are present at the start of the round, the effect is doubled. If <Alcyone>, <Meropé>, or <Scissors Lise> are present at the start of the round, provide Follow-Up Attack to Alcyone, Meropé, and Scissors Lise."
+  },
+  "SkillDescSimple_Skill_MP_Dhana_N_3": {
+    "korean": "라운드 개시 시 공격력 / 적중 / 치명타 증가. 조건부 효과 2배 증가. 조건부 공격 지원.",
+    "english": "At the start of the round, ATK / ACC / CRIT increase. Conditional effects 2x increase. Conditional Follow-Up Attack."
+  },
+  "SkillDesc_Skill_MP_Dhana_N_4": {
+    "korean": "피격 시 자신에게 모든 해로운 효과를 해제합니다.&n라운드 개시 시 적군 전체의 공격력 및 적중, 스킬 위력을 감소시킵니다.&n라운드 개시 시 기동형 적군은 회피 및 방어력이 감소합니다.",
+    "english": "When hit, remove all harmful effects from yourself. At the start of the round, reduce all enemies' ATK, ACC, and Skill Power. At the start of the round, Air enemies have their EVA and DEF reduced."
+  },
+  "SkillDescSimple_Skill_MP_Dhana_N_4": {
+    "korean": "피격 시 모든 해로운 효과 해제. 라운드 개시 시 적 전체의 공격력 / 적중 / 스킬 위력 감소. 조건부 대상의 회피 / 방어력 감소.",
+    "english": "When hit, remove all harmful effects. At the start of the round, reduce enemies' ATK / ACC / Skill Power. Conditional target's EVA / DEF reduction."
+  },
+  "SkillDesc_Skill_MP_Dhana_N_5": {
+    "korean": "라운드 개시 시 아군 전체의 방어 관통 및 스킬 위력이 증가합니다.&n라운드 개시 시 스쿼드에 <라이언 코퍼레이션> 전투원이 있는 경우 자신을 포함한 라이언 코퍼레이션 전투원은 2배로 효과를 받습니다.&n라운드 개시 시 스쿼드에 <라이언 코퍼레이션> 전투원이 있는 경우 자신을 제외한 라이언 코퍼레이션 전투원을 공격 지원합니다.",
+    "english": "At the start of the round, the defense penetration and skill power of all allies increase. If there is a <Lion Corporation> combatant in the squad at the start of the round, Lion Corporation combatants, including yourself, receive double the effect. If there is a <Lion Corporation> combatant in the squad at the start of the round, provide Follow-Up Attack to Lion Corporation combatants excluding yourself."
+  },
+  "SkillDescSimple_Skill_MP_Dhana_N_5": {
+    "korean": "라운드 개시 시 방어 관통 / 스킬 위력 증가. 조건부 2배 적용. 조건부 공격 지원.",
+    "english": "At the start of the round, DEF Penetration / Skill Power increase. Conditional 2x applied. Conditional Follow-Up Attack."
+  },
+  "BuffDesc3_Effect_LC_Dhana_N_2": {
+    "korean": "래쉬 임페일 : {0}% 냉기 추가 피해 (침수)",
+    "english": "Lash Impale: {0}% additional cold damage (Soaked)"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_21": {
+    "korean": "래쉬 임페일 : {0}% 냉기 추가 피해 (침수)",
+    "english": "Lash Impale: {0}% additional cold damage (Soaked)"
+  }
+}

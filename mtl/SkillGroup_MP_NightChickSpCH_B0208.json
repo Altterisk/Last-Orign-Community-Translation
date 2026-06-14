@@ -1,0 +1,118 @@
+{
+  "SkillName_Skill_MP_NightChickSpCH_B0208_1": {
+    "korean": "테스트1",
+    "english": "Test 1"
+  },
+  "SkillName_Skill_MP_NightChickSpCH_B0208_2": {
+    "korean": "테스트2",
+    "english": "Test 2"
+  },
+  "SkillName_Skill_MP_NightChickSpCH_B0208_3": {
+    "korean": "테스트3",
+    "english": "Test 3"
+  },
+  "SkillName_Skill_MP_NightChickSpCH_B0208_4": {
+    "korean": "테스트4",
+    "english": "Test 4"
+  },
+  "SkillName_Skill_MP_NightChickSpCH_B0208_5": {
+    "korean": "테스트5",
+    "english": "Test 5"
+  },
+  "SkillDesc_Skill_MP_NightChickSpCH_B0208_1": {
+    "korean": "[1~3라운드] 스킬1 사용 불가&n[4~6라운드] 스킬2 사용 불가&n[7~9라운드] 패시브 발동 불가&n타겟이 공격력 감소 5중첩일 시 방어력 감소 적용&n타겟이 방어력 감소 안걸려 있을 시 적중 감소 적용&n강화 불가",
+    "english": "[Rounds 1–3] Skill 1 cannot be used. [Rounds 4–6] Skill 2 cannot be used. [Rounds 7–9] Passive cannot be activated. If the target has 5 stacks of ATK reduction, DEF reduction is applied. If the target is not affected by DEF reduction, ACC reduction is applied. Buff Prevention."
+  },
+  "SkillDesc_Skill_MP_NightChickSpCH_B0208_2": {
+    "korean": "머신건을 조준 사격해 {0} 피해를 줍니다. 3라운드 동안 받는 피해가 증가하는 상태로 만듭니다.",
+    "english": "Fire an aimed machine gun shot to deal {0} damage. Inflicts increased damage taken for 3 rounds."
+  },
+  "SkillDesc_Skill_MP_NightChickSpCH_B0208_3": {
+    "korean": "[1~3라운드] 각 속성 수치 30% 고정&n[4~6라운드] 각 속성 수치 -20% 하한&n[7~9라운드] 각 속성 수치 반전",
+    "english": "[Rounds 1–3] All attribute values fixed at 30%. [Rounds 4–6] All attribute values reduced to a minimum of -20%. [Rounds 7–9] All attribute values are inverted."
+  },
+  "SkillDesc_Skill_MP_NightChickSpCH_B0208_4": {
+    "korean": "[1~3라운드] 공격 대상 도발&n[4~6라운드] 최대 행동 횟수 4회, 내 스킬 보호 무시 부여",
+    "english": "[Rounds 1–3] Attack target is Provoked. [Rounds 4–6] Max Action : 4, own skills gain Ignore Protection."
+  },
+  "SkillDesc_Skill_MP_NightChickSpCH_B0208_5": {
+    "korean": "[1~3라운드] 각 속성 수치 30% 고정이 안걸려 있을 때&n인접 그리드에 1명 있을 때&n인접 그리드에 2명 있을 때",
+    "english": "[Rounds 1–3] When each attribute stat is not fixed at 30%. When 1 unit is in an adjacent grid. When 2 units are in adjacent grids."
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_1": {
+    "korean": "모든 강화 효과 해제",
+    "english": "Buff Removal : All buffs are removed"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_11": {
+    "korean": "액티브 1 사용 불가",
+    "english": "Active 1 not available : Cannot be used"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_12": {
+    "korean": "액티브 2 사용 불가",
+    "english": "Active 2 not available : Cannot be used"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_13": {
+    "korean": "패시브 발동 불가",
+    "english": "Passive cannot be activated : Cannot be used"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_14": {
+    "korean": "공감 5중첩되서 방감 발동",
+    "english": "Empathy : 5 stacks trigger Shield"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_15": {
+    "korean": "방감 안걸려 있어서 적감 발동",
+    "english": "Shield : Not active, Enemy Triggered"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_16": {
+    "korean": "강화 불가",
+    "english": "Buff Prevention : Cannot receive buffs"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_3": {
+    "korean": "맨 앞열 및 속성 디버프 시",
+    "english": "Front row and attribute debuff : Applied"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_31": {
+    "korean": "둘다 중열",
+    "english": "Medium Heat : Both"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_32": {
+    "korean": "후열2",
+    "english": "Back row : 2"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_4": {
+    "korean": "둘다 none",
+    "english": "None : Both"
+  },
+  "BuffDesc2_Effect_MP_NightChickSpCH_B0208_4": {
+    "korean": "최대 행동 횟수 4회",
+    "english": "Max Action : 4"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_41": {
+    "korean": "공격 대상자 도발 부여",
+    "english": "Provoked : Inflict Provoked"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_42": {
+    "korean": "자신의 스킬에 보호 무시 무여",
+    "english": "Ignore Protection : None"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_5": {
+    "korean": "저항 수치 고정이 안걸려 있을 때",
+    "english": "Resistance Fixed : Not applied"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_51": {
+    "korean": "인접 그리드에 1명 있을 때",
+    "english": "Adjacent 1 : When there is 1 unit in adjacent grid"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_52": {
+    "korean": "인접 그리드에 2명 있을 때",
+    "english": "Adjacent 2 : When there are 2 units in adjacent grids"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_53": {
+    "korean": "인접 그리드에 아무도 없을 때",
+    "english": "No Adjacent : When there is no one in the adjacent grid"
+  },
+  "BuffDesc1_Effect_MP_NightChickSpCH_B0208_2": {
+    "korean": "머신건 연사 : 받는 피해{0}%",
+    "english": "Machine Gun Burst : DMG Taken {0}%"
+  }
+}

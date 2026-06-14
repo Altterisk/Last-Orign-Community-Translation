@@ -1,0 +1,118 @@
+{
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge3_1": {
+    "korean": "콜로서스 웨이브",
+    "english": "Colossus Wave"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge3_2": {
+    "korean": "헤일로 오버차지",
+    "english": "Halo Overcharge"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge3_3": {
+    "korean": "차오르는 분노",
+    "english": "Rising Fury"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge3_4": {
+    "korean": "지능형 위협 측정",
+    "english": "Intelligent Threat Assessment"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge3_5": {
+    "korean": "들끓는 폭주의 전조",
+    "english": "Boiling Prelude to Rampage"
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge3_1": {
+    "korean": "충격파를 발산하여 대상에게 {0} 피해를 주고 받는 피해 감소 효과를 해제합니다.&n공격 시 자신에게 지속 속성 피해 효과가 적용된 경우, 각 분류당 자신의 스킬 위력이 감소합니다.&n900%의 적중 보정이 적용됩니다.",
+    "english": "Emit a shockwave dealing {0} damage and removing DMG Reduction effects. When attacking, if a persistent elemental damage effect is applied to self, Skill Power is reduced per category. 900% ACC modifier applies."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge3_2": {
+    "korean": "지정 범위에 미지의 파장을 발사하여 {0} 보호 무시 피해를 주고 자신에게 적용된 해로운 효과를 해제합니다.&n적중 시, 3라운드 동안 대상의 방어 관통 / 효과 저항을 크게 감소시킵니다.&n상기 효과는 효과 저항에 영향을 받지 않지만, 해로운 효과 해제로 해제할 수 있습니다.",
+    "english": "Fire an unknown wave in the designated area, dealing {0} Ignore Protection damage and removing harmful effects from self. On hit, greatly reduces target's DEF Penetration / Status Resist for 3 rounds. This effect is not affected by Status Resist, but can be removed by harmful effect removal."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge3_3": {
+    "korean": "라운드 개시 시, 자신은 공격력 / 방어력 증가 효과를 영구히 획득합니다.&n스킬 사용 시 자신에게 상기 효과가 모두 적용되지 않은 경우, 방어막 / 피해 감소 무시 효과를 획득합니다.",
+    "english": "At the start of each round, permanently gain ATK / DEF Up. When using a skill, if those effects are not already applied to self, gain Barrier / Ignore Barrier / DMG Reduction."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge3_4": {
+    "korean": "라운드 개시 시, 적 전체에 행동력 / 치명타 감소 효과를 영구히 적용합니다.&n공격 받을 시, 상기 효과가 모두 적용되지 않은 대상의 스킬 위력을 2라운드 동안 크게 감소시킵니다.&n상기 효과는 효과 저항에 영향을 받지 않지만, 해로운 효과 해제로 해제할 수 있습니다.",
+    "english": "At the start of each round, permanently apply SPD / CRIT Down to all enemies. When attacked, if the target does not have all of those effects, greatly reduce its Skill Power for 2 rounds. This effect is not affected by Status Resist, but can be removed by harmful effect removal."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge3_5": {
+    "korean": "라운드 개시 시, 모든 속성 저항 하한 일반 효과를 획득합니다. &n물리 공격 피격 시, 상기 효과가 일시적으로 해제되며 AP / 받는 피해가 증가합니다.&n라운드 개시 시, 자신은 해제 불가한 <폭주의 전조> 중첩을 획득합니다.&n라운드 개시 시, 자신은 AP 감소 면역 효과를 획득합니다.",
+    "english": "At the start of each round, gain Minimum Elemental Resist Normal Effect. When hit by physical attacks, the effect is temporarily lost and AP / DMG Taken Increased. At the start of each round, gain unremovable <Sign of Rampage> stacks. At the start of each round, gain AP Decrease Immunity."
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_1": {
+    "korean": "콜로서스 웨이브 : 받는 피해 감소 해제",
+    "english": "Colossus Wave : DMG Reduction Removal"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge3_1": {
+    "korean": "콜로서스 웨이브 : 피해 무효화 해제",
+    "english": "Colossus Wave : Damage Nullification Removal"
+  },
+  "BuffDesc3_Effect_MP_Demolisher_BOSS_Challenge3_1": {
+    "korean": "콜로서스 웨이브 : 피해 최소화 해제",
+    "english": "Colossus Wave : Minimize Damage Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_11": {
+    "korean": "분노 억제 절차 : 스킬 위력 {0}%",
+    "english": "Rage Suppression Procedure : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_31": {
+    "korean": "압도적 분노…! : 방어막 / 피해 감소 무시",
+    "english": "Overwhelming Fury… : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_2": {
+    "korean": "승화 : 해로운 효과 해제",
+    "english": "Sublimation : Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_21": {
+    "korean": "헤일로 오버차지 : 방어 관통 {0}%",
+    "english": "Halo Overcharge : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge3_21": {
+    "korean": "헤일로 오버차지 : 효과 저항 {0}% 감소",
+    "english": "Halo Overcharge : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_3": {
+    "korean": "차오르는 분노 : 공격력 {0}%",
+    "english": "Rising Fury : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge3_3": {
+    "korean": "차오르는 분노 : 방어력 {0}%",
+    "english": "Rising Fury : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_4": {
+    "korean": "지능형 위협 측정 : 행동력 {0}%",
+    "english": "Intelligent Threat Assessment : SPD {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge3_4": {
+    "korean": "지능형 위협 측정 : 치명타 {0}%",
+    "english": "Intelligent Threat Assessment : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_41": {
+    "korean": "위협 프로토콜 : 스킬 위력 {0}%",
+    "english": "Threat Protocol : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_5": {
+    "korean": "부글부글 : 화염 저항 하한 {0}%",
+    "english": "Bubbling : Minimum Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge3_5": {
+    "korean": "부글부글 : 냉기 저항 하한 {0}%",
+    "english": "Bubbling : Minimum Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_MP_Demolisher_BOSS_Challenge3_5": {
+    "korean": "부글부글 : 전기 저항 하한 {0}%",
+    "english": "Bubbling : Minimum Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge3_51": {
+    "korean": "찬물 : 속성 저항 하한 해제",
+    "english": "Cold Water : Minimum Elemental Resist Removal"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge3_51": {
+    "korean": "찬물 : AP {0}",
+    "english": "Cold Water : AP {0}"
+  },
+  "BuffDesc3_Effect_MP_Demolisher_BOSS_Challenge3_51": {
+    "korean": "찬물 : 받는 피해 {0}% 증가",
+    "english": "Cold Water : DMG Taken Increased {0}%"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "SkillName_Skill_MP_MarionnetteHW_BOSS_TU_1": {
+    "korean": "122mm APFSDS",
+    "english": "122mm APFSDS"
+  },
+  "SkillName_Skill_MP_MarionnetteHW_BOSS_TU_2": {
+    "korean": "테르밋탄 포격",
+    "english": "Thermite bombardment"
+  },
+  "SkillName_Skill_MP_MarionnetteHW_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입",
+    "english": "Injection of toxic reinforcing agent"
+  },
+  "SkillName_Skill_MP_MarionnetteHW_BOSS_TU_4": {
+    "korean": "생체 반동 제어",
+    "english": "Bio-rebound control"
+  },
+  "SkillName_Skill_MP_MarionnetteHW_BOSS_TU_5": {
+    "korean": "원망",
+    "english": "Resentment"
+  },
+  "SkillDesc_Skill_MP_MarionnetteHW_BOSS_TU_1": {
+    "korean": "포격으로 {0} 피해를 줍니다. &n대상의 방어력을 일정 비율 무시하며, 대상이 중장형 또는 보호기인 경우 피해량이 증가합니다.&n상기 두 피해량 증가 효과는 중첩됩니다.",
+    "english": "Deals {0} damage with bombardment. Ignores a certain percentage of the target's defense, and damage increases if the target is a Heavy or Protector type. The two damage increase effects stack."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHW_BOSS_TU_2": {
+    "korean": "네이팜탄 포격으로 보호 무시 {0} 화염 속성 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 받는 피해 증가 / 지속 화염 피해 효과를 적용합니다.",
+    "english": "Napalm bombardment deals {0} Fire damage ignoring protection. On hit, applies DMG Taken Increased / Fire DoT DMG to the target for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHW_BOSS_TU_3": {
+    "korean": "전투 개시 시, 유독성 강화약을 주입해 신체를 강화하여 이하의 해제 불가 효과를 획득합니다.&n자신이 받는 피해가 감소하고, 공격력이 증가하며, 광역 피해 분산이 적용됩니다.&n또한 행동 불능 / 스킬 사용 불가 / 사거리 감소 / AP 감소 / AP 변경 효과에 면역 상태가 됩니다.",
+    "english": "At combat start, inject toxic reinforcement to strengthen your body, granting the following permanent effects: DMG Reduction, ATK increased, and Area DMG Dispersion. You also become immune to Stunned, Silenced, Range Reduction, AP Reduction, and AP Change effects."
+  },
+  "SkillDesc_Skill_MP_MarionnetteHW_BOSS_TU_4": {
+    "korean": "적 공격 시, 적중 여부에 따라 다음 효과를 자신에게 적용합니다.&n적중 : 재공격 (2라운드)&n회피 : 적중 250% 증가 (1회)",
+    "english": "When you are attacked, apply the following to yourself depending on hit result. Hit: Reattack (2 rounds). Evade: ACC increased by 250% (once)"
+  },
+  "SkillDesc_Skill_MP_MarionnetteHW_BOSS_TU_5": {
+    "korean": "자신에게 피해를 입힌 대상에 대한 원망이 비대해져, 자신의 HP가 낮을 수록 자신의 피해량이 증가합니다.&n해당 효과는 강화 해제로 해제할 수 없습니다.",
+    "english": "Resentment toward the target that harmed you grows inflated, and the lower your HP, the more damage you deal. This effect cannot be removed by buff removal."
+  },
+  "BuffDesc5_Effect_MP_MarionnetteHW_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : AP 변경 면역",
+    "english": "Injection of toxic reinforcing agent : Immunity to AP Change"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_5": {
+    "korean": "원망 : 내 HP가 적을수록 피해량 {0}%",
+    "english": "Resentment: Damage increases by {0}% as own HP decreases"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_1": {
+    "korean": "APFSDS : 피해량 {0}% (중장형)",
+    "english": "/ APFSDS : Additional DMG {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_11": {
+    "korean": "APFSDS : 피해량 {0}% (보호기)",
+    "english": "/ APFSDS : Additional DMG {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_12": {
+    "korean": "APFSDS : 방어 관통 {0}%",
+    "english": "/ APFSDS : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_2": {
+    "korean": "테르밋탄 포격 : 받는 피해 {0}% 증가",
+    "english": "Thermite bombardment : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteHW_BOSS_TU_2": {
+    "korean": "테르밋탄 포격 : 지속 화염 피해 {0}",
+    "english": "Thermite bombardment : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입 : 받는 피해 {0}% 감소",
+    "english": "Injection of toxic reinforcing agent : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteHW_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입 : 공격력 {0}%",
+    "english": "Injection of toxic reinforcing agent : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : 행동 불능 면역",
+    "english": "Injection of toxic reinforcing agent : Stunned Immunity"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteHW_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : 스킬 사용 불가 면역",
+    "english": "Injection of toxic reinforcing agent : Silenced Immunity"
+  },
+  "BuffDesc3_Effect_MP_MarionnetteHW_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : 사거리 감소 면역",
+    "english": "Injection of toxic reinforcing agent : Range Decrease Immunity"
+  },
+  "BuffDesc4_Effect_MP_MarionnetteHW_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : AP 감소 면역",
+    "english": "Injection of toxic reinforcing agent : AP Decrease Immunity"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_32": {
+    "korean": "유독성 강화약 주입 : 광역 피해 분산 {0}% (최대)",
+    "english": "Injection of toxic reinforcing agent : Area DMG Dispersion {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_4": {
+    "korean": "생체 반동 제어 : 재공격",
+    "english": "Bio-rebound control : Reattack"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_BOSS_TU_41": {
+    "korean": "생체 반동 제어 : 적중 {0}%",
+    "english": "Bio-rebound control : ACC {0}%"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "SkillName_Skill_MP_Ephnel_N_1": {
+    "korean": "버티컬 클리어",
+    "english": "Vertical Clear"
+  },
+  "SkillName_Skill_MP_Ephnel_N_2": {
+    "korean": "슈퍼 노바",
+    "english": "Super Nova"
+  },
+  "SkillName_Skill_MP_Ephnel_N_3": {
+    "korean": "출력 강화",
+    "english": "Output enhancement"
+  },
+  "SkillName_Skill_MP_Ephnel_N_4": {
+    "korean": "출력 격화",
+    "english": "Output intensification"
+  },
+  "SkillName_Skill_MP_Ephnel_N_5": {
+    "korean": "불굴의 창",
+    "english": "Indomitable Spear"
+  },
+  "SkillDesc_Skill_MP_Ephnel_N_1": {
+    "korean": "전방으로 투창하여 지정 범위에 {0} 보호 무시 전기 피해를 발생시킵니니다.&n스킬 적중 시 대상의 방어력 증가를 해제하고 2라운드 동안 지속 전기 피해를 발생시키며 [회로 과열] 상태로 만듭니다.&n치명타 시 대상을 1라운드 동안 50% 확률로 스킬 사용 불가 상태로 만듭니다.",
+    "english": "Throw a spear forward, dealing {0} Ignore Protection Electric DMG to the designated area. On hit, removes the target's DEF Buff, applies Electric DoT DMG for 2 rounds, and inflicts the [Circuit Overheat] status. On CRIT, the target has a 50% chance to become Silenced for 1 round."
+  },
+  "SkillDescSimple_Skill_MP_Ephnel_N_1": {
+    "korean": "지정 범위 보호 무시 {0} 전기 피해. 방어력 증가 해제. 2라운드 지속 전기 피해 / 합선 부여. 치명타 시 조건부 1라운드 스킬 사용 불가.",
+    "english": "Ignore Protection {0} Electric DMG. DEF Buff Removal. 2 rounds Electric DoT DMG / Short Circuit granted. Conditional 1 round Silenced on CRIT."
+  },
+  "SkillDesc_Skill_MP_Ephnel_N_2": {
+    "korean": "에너지를 모아 전력으로 공중 도약하여 지정 범위에 {0} 전기 피해를 발생시킵니다.&n스킬 적중 시 아군 전체 AP 증가 및 2라운드 동안 행동력 및 경장 피해량을 증가시킵니다.&n스킬 적중 시 대상이 회로 과열 상태이면 전기 피해량이 증가하고 2라운드 동안 전기 저항이 감소합니다.&n치명타 시 대상의 전기 피해량이 증가합니다.",
+    "english": "Gather energy and leap into the air with full power, dealing {0} Electric DMG to a designated area. On hit, increases AP for all allies and raises SPD and Anti-Light DMG for 2 rounds. If the target is under [Circuit Overheat] when hit, Electric DMG is increased and Electric Resist is reduced for 2 rounds. On CRIT, the target's Electric DMG is increased."
+  },
+  "SkillDescSimple_Skill_MP_Ephnel_N_2": {
+    "korean": "지정 범위 {0} 전기 피해. 아군 AP 증가. 2라운드 행동력 / 경장 피해량 증가. 조건부 대상의 전기 피해량 증가. 조건부 대상의 전기 저항 감소.",
+    "english": "Designated area {0} Electric DMG. Ally AP increase. 2 rounds SPD / Anti-Light DMG increase. Conditional target Electric DMG increase. Conditional target Electric Resist reduction."
+  },
+  "SkillDesc_Skill_MP_Ephnel_N_3": {
+    "korean": "피격 시 자신의 모든 해로운 효과를 해제합니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 [바람!]을 부여합니다.&n바람! 1 : 회피 증가&n바람! 2 : 회피 증가 / 경장 피해량 증가&n바람! 3 : 회피 증가 / 경장 피해량 증가 / 기동 피해량 증가&n바람! 4 : 회피 증가 / 경장 피해량 증가 / 기동 피해량 증가 / 중장 피해량 증가",
+    "english": "Removes all harmful effects from yourself when hit. At the start of the round, if there are <Lion Corporation> combatants in the squad excluding yourself, grants [Wind!] to all allies based on their number: Wind! 1: EVA increase; Wind! 2: EVA increase / Anti-Light DMG increase; Wind! 3: EVA increase / Anti-Light DMG increase / Anti-Air DMG increase; Wind! 4: EVA increase / Anti-Light DMG increase / Anti-Air DMG increase / Anti-Heavy DMG increase."
+  },
+  "SkillDescSimple_Skill_MP_Ephnel_N_3": {
+    "korean": "피격 시 해로운 효과 해제. 조건부 회피 / 경장 피해량 / 기동 피해량 / 중장 피해량 증가.",
+    "english": "Removes harmful effects when hit. Conditional EVA / Anti-Light DMG / Anti-Air DMG / Anti-Heavy DMG increase."
+  },
+  "SkillDesc_Skill_MP_Ephnel_N_4": {
+    "korean": "라운드 개시 시 자신에게 전투 속행 효과를 부여합니다.&n라운드 개시 시 스쿼드에 <스트라이커즈> 전투원이 있는 경우 스트라이커즈 전투원을 공격 지원합니다.&n라운드 개시 시 스쿼드에 <라이언 코퍼레이션> 전투원이 있는 경우 자신을 제외한 라이언 코퍼레이션 전투원을 공격 지원합니다.",
+    "english": "At the start of the round, grant yourself Combat Continuation. At the start of the round, if a <Strikers> combatant is in the squad, provide Follow-Up Attack to the Strikers combatant. At the start of the round, if a <Lion Corporation> combatant is in the squad, provide Follow-Up Attack to all Lion Corporation combatants except yourself."
+  },
+  "SkillDescSimple_Skill_MP_Ephnel_N_4": {
+    "korean": "자신에게 전투 속행 부여. 조건부 공격 지원.",
+    "english": "Grants self Combat Continuation. Conditional Follow-Up Attack."
+  },
+  "SkillDesc_Skill_MP_Ephnel_N_5": {
+    "korean": "라운드 개시 시 홀수 라운드인 경우 적군 전체에 [사라져!]를 부여합니다.&n라운드 개시 시 짝수 라운드인 경우 아군 전체에 [놀자고!]를 부여합니다.&n※ [사라져!] : 공격력 감소, 적중 감소, 치명타 감소&n※ [놀자고!] : 공격력 증가, 적중 증가, 치명타 증가",
+    "english": "At the start of a round, if it is an odd round, grant [Disappear!] to all enemies. At the start of a round, if it is an even round, grant [Let's Play!] to all allies. ※ [Disappear!]: ATK, ACC, CRIT reduction. ※ [Let's Play!]: ATK, ACC, CRIT increase."
+  },
+  "SkillDescSimple_Skill_MP_Ephnel_N_5": {
+    "korean": "조건부 적군 전체 공격력 / 적중 / 치명타 감소. 조건부 아군 전체 공격력 / 적중 / 치명타 증가.",
+    "english": "Conditional all enemies ATK / ACC / CRIT reduction. Conditional all allies ATK / ACC / CRIT increase."
+  },
+  "BuffDesc4_Effect_LC_Ephnel_N_2": {
+    "korean": "슈퍼 노바 : {0}% 전기 추가 피해 (회로 과열)",
+    "english": "Super Nova : {0}% additional Electric DMG (Circuit Overheat)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_22": {
+    "korean": "슈퍼 노바 : {0}% 전기 추가 피해 (회로 과열)",
+    "english": "Super Nova : {0}% additional Electric DMG (Circuit Overheat)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_24": {
+    "korean": "슈퍼 노바 : {0}% 전기 추가 피해 (치명타 시)",
+    "english": "Super Nova : {0}% additional Electric DMG (On CRIT)"
+  }
+}

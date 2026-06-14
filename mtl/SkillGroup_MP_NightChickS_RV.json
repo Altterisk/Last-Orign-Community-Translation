@@ -1,0 +1,142 @@
+{
+  "SkillName_Skill_MP_NightChickS_RV_1": {
+    "korean": "S.C 방패 강타",
+    "english": "SC Shield Bash"
+  },
+  "SkillName_Skill_MP_NightChickS_RV_2": {
+    "korean": "S.C 방어 태세",
+    "english": "SC Defensive Stance"
+  },
+  "SkillName_Skill_MP_NightChickS_RV_3": {
+    "korean": "위협 대상 견제",
+    "english": "Threat Target Suppression"
+  },
+  "SkillName_Skill_MP_NightChickS_RV_4": {
+    "korean": "전투 적응 회로",
+    "english": "Combat Adaptation Circuit"
+  },
+  "SkillName_Skill_MP_NightChickS_RV_5": {
+    "korean": "칙 방어 진형",
+    "english": "Chick Defensive Formation"
+  },
+  "SkillDesc_Skill_MP_NightChickS_RV_1": {
+    "korean": "지정 대상에게 {0} 피해를 줍니다. 대상이 도발 상태인 경우, 대상의 강화 효과를 해제하고 지속 물리 피해를 줍니다.",
+    "english": "Deals {0} damage to the designated target. If the target is Provoked, removes the target's buffs and deals Physical DoT DMG."
+  },
+  "SkillDesc_Skill_MP_NightChickS_RV_2": {
+    "korean": "3라운드 동안 범위 내 아군을 지정 보호하며, 아군들의 AP가 증가합니다. 자신과 대상들의 방어력이 영구히 증가합니다.",
+    "english": "For 3 rounds, designates and protects allies within range, increasing their AP. Permanently increases your and the targets' DEF."
+  },
+  "SkillDesc_Skill_MP_NightChickS_RV_3": {
+    "korean": "라운드 개시 시 자신보다 공격력이 높은 적에게 도발 / 행동력 / 공격력 / 방어 관통 감소 효과를 적용합니다. &n자신이 전열에 가까울수록 / 적이 후열에 가까울수록 적의 스킬 위력이 감소합니다.&n아군 사망 시, 도발 상태인 적의 스킬 위력이 일정 라운드 동안 감소합니다.",
+    "english": "At the start of a round, applies Provoked, SPD, ATK, and DEF Penetration reduction effects to enemies whose ATK is higher than yours. The closer you are to the front row and the closer the enemy is to the back row, the lower the enemy's Skill Power becomes. When an ally dies, the Skill Power of enemies that are Provoked is reduced for a certain number of rounds."
+  },
+  "SkillDesc_Skill_MP_NightChickS_RV_4": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 방어력 / 행동력 / 효과 저항이 증가합니다. &n전투 개시 시, 속성 저항 감소 효과가 증가로 반전 적용됩니다.",
+    "english": "At the start of a round, your ATK, DEF, SPD, and Status Resist increase. At the start of combat, the Elemental Resist reduction effect is reversed into an increase."
+  },
+  "SkillDesc_Skill_MP_NightChickS_RV_5": {
+    "korean": "라운드 개시 시, 자신은 행 / 열 보호가 활성화됩니다. &n아군 사망 시, 2라운드 동안 아군 전체에 광역 스킬 위력 감소 효과를 부여합니다.",
+    "english": "At the start of a round, Row Protect and Column Protect are activated. When an ally dies, all allies receive Area Skill Power Reduction for 2 rounds."
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_41": {
+    "korean": "전투 적응 회로 : 화염 속성 적응",
+    "english": "Combat Adaptation Circuit : Fire Attribute Adaptation"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_42": {
+    "korean": "전투 적응 회로 : 냉기 속성 적응",
+    "english": "Combat Adaptation Circuit : Cold Attribute Adaptation"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_43": {
+    "korean": "전투 적응 회로 : 전기 속성 적응",
+    "english": "Combat Adaptation Circuit : Electric Attribute Adaptation"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_1": {
+    "korean": "S.C 방패 강타 : 지속 물리 피해 {0}",
+    "english": "SC Shield Bash : Physical DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_MP_NightChickS_RV_1": {
+    "korean": "S.C 방패 강타 : 강화 효과 해제",
+    "english": "SC Shield Bash : Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_2": {
+    "korean": "S.C 방어 태세 : 지정 보호",
+    "english": "SC defensive stance : Target Protect"
+  },
+  "BuffDesc2_Effect_MP_NightChickS_RV_2": {
+    "korean": "S.C 방어 태세 : AP {0}",
+    "english": "SC defensive stance : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_21": {
+    "korean": "S.C 방어 태세 : 방어력 {0}%",
+    "english": "SC defensive stance : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_3": {
+    "korean": "위협 대상 견제 : 도발",
+    "english": "Countering threats : Provokes"
+  },
+  "BuffDesc2_Effect_MP_NightChickS_RV_3": {
+    "korean": "위협 대상 견제 : 행동력 {0}%",
+    "english": "Countering threats : SPD {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickS_RV_3": {
+    "korean": "위협 대상 견제 : 공격력 {0}%",
+    "english": "Countering threats : ATK {0}%"
+  },
+  "BuffDesc4_Effect_MP_NightChickS_RV_3": {
+    "korean": "위협 대상 견제 : 방어 관통 {0}%",
+    "english": "Countering threats : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_31": {
+    "korean": "위협 대상 견제 : 스킬 위력 {0}%",
+    "english": "Countering threats : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_32": {
+    "korean": "위협 대상 견제 : 스킬 위력 {0}%",
+    "english": "Countering threats : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_33": {
+    "korean": "위협 대상 견제 : 스킬 위력 {0}%",
+    "english": "Countering threats : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_34": {
+    "korean": "위협 대상 견제 : 스킬 위력 {0}%",
+    "english": "Countering threats : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_35": {
+    "korean": "위협 대상 견제 : 스킬 위력 {0}%",
+    "english": "Countering threats : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_4": {
+    "korean": "전투 적응 회로 : 공격력 {0}",
+    "english": "Combat Adaptation Circuit : ATK {0}"
+  },
+  "BuffDesc2_Effect_MP_NightChickS_RV_4": {
+    "korean": "전투 적응 회로 : 방어력 {0}",
+    "english": "Combat Adaptation Circuit : DEF {0}"
+  },
+  "BuffDesc3_Effect_MP_NightChickS_RV_4": {
+    "korean": "전투 적응 회로 : 행동력 {0}%",
+    "english": "Combat Adaptation Circuit : SPD {0}%"
+  },
+  "BuffDesc4_Effect_MP_NightChickS_RV_4": {
+    "korean": "전투 적응 회로 : 효과 저항 {0}%",
+    "english": "Combat Adaptation Circuit : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_5": {
+    "korean": "칙 방어 진형 : 행 보호",
+    "english": "Chick defensive formation : Row Protect"
+  },
+  "BuffDesc2_Effect_MP_NightChickS_RV_5": {
+    "korean": "칙 방어 진형 : 열 보호",
+    "english": "Chick defensive formation : Column Protect"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_51": {
+    "korean": "칙 방어 진형 : 광역 피해 분산 {0}% (최대)",
+    "english": "Chick defensive formation : Area DMG Dispersion {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_NightChickS_RV_52": {
+    "korean": "칙 방어 진형 : 광역 스킬 위력 {0}%",
+    "english": "Chick defensive formation : Area Skill Power {0}%"
+  }
+}

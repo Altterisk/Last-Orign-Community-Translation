@@ -1,0 +1,122 @@
+{
+  "1002705929": {
+    "korean": "전투 모듈 교란",
+    "english": "Combat Module Disruption"
+  },
+  "1002705930": {
+    "korean": "연산 지원",
+    "english": "Computation Support"
+  },
+  "1002705931": {
+    "korean": "고속 연산: 취약",
+    "english": "High-Speed Computation: Vulnerable"
+  },
+  "1002705932": {
+    "korean": "복구 프로세스",
+    "english": "Recovery Process"
+  },
+  "1002706388": {
+    "korean": "목표 지점에 {0}의 피해를 주고, 공격력 / 방어력을 감소시킵니다. 대상이 표식 상태 일 시 추가 피해를 입힙니다.",
+    "english": "Deals {0} damage to the target and reduces ATK / DEF. Deals additional damage if the target is Marked."
+  },
+  "1002706389": {
+    "korean": "모든 아군의 공격력 / 행동력을 증가시키고, 모든 속성 저항을 감소 시킵니다. 자신에게는 추가적으로 방어력을 증가시킵니다.",
+    "english": "Increases ATK / SPD of all allies and reduces all Elemental Resist. Additionally increases your own DEF."
+  },
+  "1002706390": {
+    "korean": "속성 공격에 피격 시, 받는 피해가 증가합니다.",
+    "english": "When hit by an elemental attack, DMG Taken Increased."
+  },
+  "1002706391": {
+    "korean": "레모네이드의 해킹으로 인해 전투 개시 시, <해킹> 상태가 적용 됩니다. 복구 프로세스를 통해 일정 라운드 이후 해킹 상태가 해제 됩니다. 해킹 : 공격 회로 손상 상태가 해제 될 시 매 라운드 마다 공격릭이 증가하고 해킹 : 추적 회로 손상 상태가 해제 될 시 매 라운드 마다 적중이 증가합니다.",
+    "english": "Due to Lemonade's hacking, the <Hacking> state is applied at combat start. The <Hacking> state is removed after a set number of rounds via Recovery Process. When Hacking: Attack Circuit Damaged is cleared, ATK increases each round, and when Hacking: Tracking Circuit Damaged is cleared, ACC increases each round."
+  },
+  "1000107384": {
+    "korean": "고속 연산: 취약: 받는 피해{0}%",
+    "english": "High-Speed Computation: Vulnerable: DMG Taken {0}%"
+  },
+  "1000107387": {
+    "korean": "고속 연산: 취약: 받는 피해{0}%",
+    "english": "High-Speed Computation: Vulnerable: DMG Taken {0}%"
+  },
+  "1000107388": {
+    "korean": "고속 연산: 취약: 받는 피해{0}%",
+    "english": "High-Speed Computation: Vulnerable: DMG Taken {0}%"
+  },
+  "1000107389": {
+    "korean": "해킹 : 공격 회로 손상",
+    "english": "Hacking : Attack Circuit Damaged"
+  },
+  "1000107390": {
+    "korean": "공격 회로 복구 중….",
+    "english": "Repairing Attack Circuit…"
+  },
+  "1000107391": {
+    "korean": "해킹 : 추적 회로 손상",
+    "english": "Hacking : Tracking Circuit Damaged"
+  },
+  "1000107392": {
+    "korean": "추적 회로 복구 중….",
+    "english": "Repairing Tracking Circuit…"
+  },
+  "1000107382": {
+    "korean": "전투 모듈 교란 : 공격력 {0}%",
+    "english": "Combat Module Disruption : ATK {0}%"
+  },
+  "1000107430": {
+    "korean": "전투 모듈 교란 : 방어력 {0}%",
+    "english": "Combat Module Disruption : DEF {0}%"
+  },
+  "1000107385": {
+    "korean": "전투 모듈 교란 : 피해량{0}%",
+    "english": "Combat Module Disruption : Additional DMG {0}%"
+  },
+  "1000107383": {
+    "korean": "연산 지원 : 공격력{0}%",
+    "english": "Computation support : ATK {0}%"
+  },
+  "1000107431": {
+    "korean": "연산 지원 : 행동력{0}%",
+    "english": "Computation support : SPD {0}%"
+  },
+  "1000107448": {
+    "korean": "연산 지원 : 화염 저항 {0}%",
+    "english": "Computation support : Fire Resist {0}%"
+  },
+  "1000107452": {
+    "korean": "연산 지원 : 냉기 저항 {0}%",
+    "english": "Computation support : Cold Resist {0}%"
+  },
+  "1000107455": {
+    "korean": "연산 지원 : 전기 저항 {0}%",
+    "english": "Computation support : Electric Resist {0}%"
+  },
+  "1000107386": {
+    "korean": "연산 지원 : 방어력{0}%",
+    "english": "Computation support : DEF {0}%"
+  },
+  "1000107432": {
+    "korean": "연산 지원 : 행동력{0}%",
+    "english": "Computation support : SPD {0}%"
+  },
+  "1000107449": {
+    "korean": "연산 지원 : 화염 저항 {0}%",
+    "english": "Computation support : Fire Resist {0}%"
+  },
+  "1000107453": {
+    "korean": "연산 지원 : 냉기 저항 {0}%",
+    "english": "Computation support : Cold Resist {0}%"
+  },
+  "1000107456": {
+    "korean": "연산 지원 : 전기 저항 {0}%",
+    "english": "Computation support : Electric Resist {0}%"
+  },
+  "1000107393": {
+    "korean": "공격 회로 복구: 공격력{0}%",
+    "english": "Attack Circuit Restoration : ATK {0}%"
+  },
+  "1000107394": {
+    "korean": "추적 회로 복구 : 적중{0}%",
+    "english": "Tracking Circuit Restoration : ACC {0}%"
+  }
+}

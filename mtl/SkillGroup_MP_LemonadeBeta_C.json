@@ -1,0 +1,198 @@
+{
+  "SkillName_Skill_MP_LemonadeBeta_C_1": {
+    "korean": "안녕하세요",
+    "english": "Hello"
+  },
+  "SkillName_Skill_MP_LemonadeBeta_C_2": {
+    "korean": "후회없이",
+    "english": "Without Regret"
+  },
+  "SkillName_Skill_MP_LemonadeBeta_C_3": {
+    "korean": "신 물리 법칙",
+    "english": "New Physics Law"
+  },
+  "SkillName_Skill_MP_LemonadeBeta_C_4": {
+    "korean": "심란함",
+    "english": "Distress"
+  },
+  "SkillName_Skill_MP_LemonadeBeta_C_5": {
+    "korean": "팩트 조작",
+    "english": "Fact Manipulation"
+  },
+  "SkillDesc_Skill_MP_LemonadeBeta_C_1": {
+    "korean": "지정 범위에 {0}피해를 입히고 니드 호그의 큰 파멸의 폭발 협동 공격을 발생시키며 3라운드동안 효과 저항 감소 일반 효과를 주고 치명타 시 화염 저항/ 전기 저항/ 냉기 저항 감소 해로운 효과를 줍니다.",
+    "english": "Deals {0} damage to a designated area, triggers Nidhogg's Great Doom Explosion cooperative attack, applies a Normal Effect that reduces Status Resist for 3 rounds, and on CRIT, applies a harmful effect that reduces Fire Resist/Electric Resist/Cold Resist."
+  },
+  "SkillDesc_Skill_MP_LemonadeBeta_C_2": {
+    "korean": "지정 범위에 {0}피해를 입히고 니드 호그의 큰 파멸의 징조 협동 공격을 발생시키며 3라운드동안 효과 저항 감소 일반 효과를 주고 치명타 시 화염 저항/ 전기 저항/ 냉기 저항 감소 해로운 효과를 줍니다.",
+    "english": "Deals {0} damage to a designated area, triggers Nidhogg's Sign of Great Doom cooperative attack, applies a Normal Effect that reduces Status Resist for 3 rounds, and on CRIT, applies a harmful effect that reduces Fire Resist/Electric Resist/Cold Resist."
+  },
+  "SkillDesc_Skill_MP_LemonadeBeta_C_3": {
+    "korean": "전투 개시시 피해 무효화 6회를 얻습니다.&n라운드 개시시 필드에 레모네이드 베타가 있으면 화염 저항/전기 저항/ 냉기 저항이 대폭 증가합니다.&n화염 공격 피격시, 1라운드 동안 화염 저항이 증가하는 [화염 적응] 일반 효과를 3중첩까지 얻습니다. [화염 적응]이 3중첩이상인 상태에서 추가로 화염 공격 피격시 추가로 화염 저항 증가 일반 효과를 얻습니다.&n전기 공격 피격시, 1라운드 동안 전기 저항이 증가하는 [전기 적응] 일반 효과를 3중첩까지 얻습니다. [전기 적응]이 3중첩이상인 상태에서 추가로 전기 공격 피격시 추가로 전기 저항 증가 일반 효과를 얻습니다.&n냉기 공격 피격시, 1라운드 동안 냉기 저항이 증가하는 [냉기 적응] 일반 효과를 3중첩까지 얻습니다. [냉기 적응]이 3중첩이상인 상태에서 추가로 냉기 공격 피격시 추가로 냉기 저항 증가 일반 효과를 얻습니다.",
+    "english": "At the start of combat, gain 6 stacks of Damage Nullification. If Lemonade Beta is on the field at the start of a round, Fire Resist, Electric Resist, and Cold Resist are greatly increased. When hit by a Fire attack, gain up to 3 stacks of the [Fire Adaptation] Normal Effect, which increases Fire Resist for 1 round. If hit by an additional Fire attack while [Fire Adaptation] is at 3 stacks or more, gain an additional Fire Resist Normal Effect. When hit by an Electric attack, gain up to 3 stacks of the [Electric Adaptation] Normal Effect, which increases Electric Resist for 1 round. If hit by an additional Electric attack while [Electric Adaptation] is at 3 stacks or more, gain an additional Electric Resist Normal Effect. When hit by a Cold attack, gain up to 3 stacks of the [Cold Adaptation] Normal Effect, which increases Cold Resist for 1 round. If hit by an additional Cold attack while [Cold Adaptation] is at 3 stacks or more, gain an additional Cold Resist Normal Effect."
+  },
+  "SkillDesc_Skill_MP_LemonadeBeta_C_4": {
+    "korean": "라운드 개시시, 영구적으로 적 전체에게 받는 피해 감소 약화 및 화염 저항/ 냉기 저항/ 전기 저항 감소 일반 효과를 줍니다.(최대 10중첩)&n피격시 스킬 사용 불가/ 행동 불가/ 사거리 증가 or 감소 상태라면 1라운드 동안 적 전체에게 물리 지속 피해를 줍니다.&n매 라운드 3회 이상 화염 공격 피격시 , 1라운드 동안 화염 지속 피해 일반 효과 및 2라운드동안 화염 저항 감소 해로운 효과를 줍니다.&n매 라운드 3회 이상 전기 공격 피격시,  1라운드 동안 전기 지속 피해 일반 효과 및 2라운드동안 전기 저항 감소 해로운 효과를 줍니다.&n매 라운드 3회 이상 냉기 공격 피격시,, 1라운드 동안 냉기 지속 피해 일반 효과 및 2라운드동안 냉기 저항 감소 해로운 효과를 줍니다.&n내 공격이 적중하지 않으면 2라운드 동안 적 전체에게 회피 감소 해로운 효과를 줍니다.",
+    "english": "At the start of a round, permanently applies a Damage Taken Reduction weakened effect to all enemies and a Normal Effect that reduces Fire Resist/Cold Resist/Electric Resist (max 10 stacks). If hit while Silenced or Stunned or under a Range increase or decrease status, deals Physical DoT DMG to all enemies for 1 round. If hit by a Fire attack 3 or more times per round, applies a Normal Effect of Fire DoT DMG for 1 round and a harmful effect that reduces Fire Resist for 2 rounds. If hit by an Electric attack 3 or more times per round, applies a Normal Effect of Electric DoT DMG for 1 round and a harmful effect that reduces Electric Resist for 2 rounds. If hit by a Cold attack 3 or more times per round, applies a Normal Effect of Cold DoT DMG for 1 round and a harmful effect that reduces Cold Resist for 2 rounds. If my attack misses, applies a harmful effect that reduces EVA to all enemies for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_LemonadeBeta_C_5": {
+    "korean": "전투 개시시 아군 전체의 AP를 증가 시킵니다.&n라운드 개시시, 1라운드 동안 니드호그에게 공격 지원 강화 효과를 줍니다.&n또한 2라운드동안 행동력 증가 강화 효과를 주고 아군의 행동력 감소 해로운 효과를 제거합니다.&n자신 물리 공격 피격시 1라운드동안 자신에게 전투속행 일반 효과를 부여하고 아군 전체에게 반격 일반 효과를 줍니다.&n아군 물리 공격 피격시 1라운드동안 아군 전체에게 반격 일반 효과를 줍니다.",
+    "english": "At the start of battle, increase AP of all allies. At the start of a round, grant Nidhogg Attack Support for 1 round. Also grant SPD increase for 2 rounds and remove harmful SPD reduction effects from allies. When hit by a physical attack, grant yourself Battle Continuation Normal Effect for 1 round and grant all allies Counter Attack Normal Effect. When allies are hit by a physical attack, grant all allies Counter Attack Normal Effect for 1 round."
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_22": {
+    "korean": "후회없이: 화염 지속 피해{0}",
+    "english": "Without Regret: Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_23": {
+    "korean": "후회없이: 전기 지속 피해{0}",
+    "english": "Without Regret: Electric DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_24": {
+    "korean": "후회없이: 냉기 지속 피해{0}",
+    "english": "Without Regret: Cold DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_4": {
+    "korean": "심란함: 받는 피해 감소 약화{0}%",
+    "english": "Distress: Damage taken reduction weakened {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_42": {
+    "korean": "심란함: 화염 지속 피해{0}",
+    "english": "Distress: Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_43": {
+    "korean": "심란함: 전기 지속 피해{0}",
+    "english": "Distress: Electric DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_44": {
+    "korean": "심란함: 냉기 지속 피해{0}",
+    "english": "Distress: Cold DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_49": {
+    "korean": "심란함: 물리 지속 피해{0}",
+    "english": "Distress: Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_5": {
+    "korean": "팩트 조작 : AP{0}으로 변경",
+    "english": "Fact Manipulation: Change AP to {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_56": {
+    "korean": "신 물리법칙: 전투 속행 {0}%",
+    "english": "New Physics Law: Battle Continuation {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_1": {
+    "korean": "안녕하세요: 협동 공격",
+    "english": "Hello : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_11": {
+    "korean": "안녕하세요: 효과 저항 감소{0}%",
+    "english": "Hello : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_12": {
+    "korean": "안녕하세요: 화염 저항{0}%",
+    "english": "Hello : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_13": {
+    "korean": "안녕하세요: 전기 저항{0}%",
+    "english": "Hello : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_14": {
+    "korean": "안녕하세요: 냉기 저항{0}%",
+    "english": "Hello : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_2": {
+    "korean": "후회 없이: 효과 저항 감소{0}%",
+    "english": "Without Regret : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_21": {
+    "korean": "후회 없이: 화염 저항{0}%",
+    "english": "Without Regret : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_3": {
+    "korean": "신 물리법칙: 피해 무효{0}회",
+    "english": "New Physics Law : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_31": {
+    "korean": "베타에 대한 배타적인 태도: 화염 저항 {0}%",
+    "english": "Exclusive Attitude Toward Beta : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_32": {
+    "korean": "베타에 대한 배타적인 태도: 전기 저항 {0}%",
+    "english": "Exclusive Attitude Toward Beta : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_33": {
+    "korean": "베타에 대한 배타적인 태도: 냉기 저항 {0}%",
+    "english": "Exclusive Attitude Toward Beta : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_34": {
+    "korean": "화염 적응: 화염 저항{0}%",
+    "english": "Fire Adaptation : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_35": {
+    "korean": "전기 적응: 전기 저항{0}%",
+    "english": "Electric Adaptation : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_36": {
+    "korean": "냉기 적응: 냉기 저항{0}%",
+    "english": "Ice Adaptation : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_37": {
+    "korean": "신 물리법칙: 화염 저항{0}%",
+    "english": "New Physics Law : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_38": {
+    "korean": "신 물리법칙: 전기 저항{0}%",
+    "english": "New Physics Law : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_39": {
+    "korean": "신 물리법칙: 냉기 저항{0}%",
+    "english": "New Physics Law : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_41": {
+    "korean": "심란함: 화염 저항{0}%",
+    "english": "Disturbed : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_MP_LemonadeBeta_C_41": {
+    "korean": "심란함: 전기 저항 {0}%",
+    "english": "Disturbed : Electric Resist {0}%"
+  },
+  "BuffDesc3_Effect_MP_LemonadeBeta_C_41": {
+    "korean": "심란함: 냉기 저항 {0}%",
+    "english": "Disturbed : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_45": {
+    "korean": "심란함: 화염 저항{0}% (적응형)",
+    "english": "Disturbed : Fire Resist {0}% (Adaptive)"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_46": {
+    "korean": "심란함: 전기 저항{0}% (적응형)",
+    "english": "Disturbed : Electric Resist {0}% (Adaptive)"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_47": {
+    "korean": "심란함: 냉기 저항{0}% (적응형)",
+    "english": "Disturbed : Cold Resist {0}% (Adaptive)"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_48": {
+    "korean": "심란함: 회피{0}%",
+    "english": "Disturbed : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_51": {
+    "korean": "팩트 조작 : 공격 지원",
+    "english": "Fact manipulation : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_52": {
+    "korean": "팩트 조작 : 행동력{0}%",
+    "english": "Fact manipulation : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_53": {
+    "korean": "팩트 조작 : 행동력 감소 해제",
+    "english": "Fact manipulation : SPD Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_54": {
+    "korean": "팩트 조작 :{0}% 위력으로 반격(자신 피격)",
+    "english": "Fact manipulation : Counter Attack with {0}% Power (self hit)"
+  },
+  "BuffDesc1_Effect_MP_LemonadeBeta_C_55": {
+    "korean": "팩트 조작 :{0}% 위력으로 반격(아군 피격)",
+    "english": "Fact manipulation : Counter Attack with {0}% Power (ally hit)"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "SkillName_Skill_MP_PuppetHA_N_1": {
+    "korean": "2연장 예광탄 속사포",
+    "english": "Twin Extension Tracer Cannon"
+  },
+  "SkillName_Skill_MP_PuppetHA_N_2": {
+    "korean": "개조 충격탄 발사",
+    "english": "Modified Shock Grenade Launch"
+  },
+  "SkillDesc_Skill_MP_PuppetHA_N_1": {
+    "korean": "적에게 예광탄을 속사하여 {0} 피해를 줍니다.&n적중 여부에 관계 없이, 2라운드 동안 대상에게 표식 / 회피 감소 효과를 부여합니다.",
+    "english": "Rapid-fire tracer rounds at an enemy, dealing {0} damage. Regardless of hit, apply Marked / EVA Reduction to the target for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_PuppetHA_N_2": {
+    "korean": "적에게 개조 충격탄을 발사하여 {0} 피해를 주고, 뒤로 2칸 밀쳐냅니다.&n적중 대상이 경장 / 기동형인 경우, 해당 라운드 동안 행동 불능 상태로 만듭니다.",
+    "english": "Fires a modified shock round at an enemy, dealing {0} damage and knocking them back 2 spaces. If the target is Light or Mobile, makes them Stunned for that round."
+  },
+  "SkillDesc_Skill_MP_PuppetHA_N_3": {
+    "korean": "라운드 개시 시, 3라운드 동안 자신의 방어력이 증가하고 받는 피해가 감소합니다.&n라운드 개시 시 자신이 행동 불능 상태인 경우, 상기 효과 대신 자신이 받는 피해가 증가합니다.",
+    "english": "At the start of a round, your DEF increases and DMG Reduction applies for 3 rounds. If you are Stunned at the start of a round, instead DMG Taken Increased applies."
+  },
+  "SkillDesc_Skill_MP_PuppetHA_N_4": {
+    "korean": "라운드 개시 시, 범위 내 <퍼펫> 아군을 지정 보호합니다.&n자신 사망 시, 범위 내 <퍼펫> 아군을 2라운드 동안 행동 불능 상태로 만듭니다.",
+    "english": "At the start of a round, designate and protect an ally of <Puppet> within range. Upon death, render allies of <Puppet> within range Stunned for 2 rounds."
+  },
+  "BuffDesc1_Effect_MP_PuppetHA_N_1": {
+    "korean": "2연장 예광탄 속사포 : 표식",
+    "english": "Twin tracer rapid-fire gun : Marked"
+  },
+  "BuffDesc2_Effect_MP_PuppetHA_N_1": {
+    "korean": "2연장 예광탄 속사포 : 회피 {0}%",
+    "english": "Twin tracer rapid-fire gun : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetHA_N_2": {
+    "korean": "개조 충격탄 발사 : 뒤로 {0}칸 밀기",
+    "english": "Modified shock grenade launch : Push Back {0}"
+  },
+  "BuffDesc1_Effect_MP_PuppetHA_N_21": {
+    "korean": "개조 충격탄 발사 : 행동 불가",
+    "english": "Modified shock grenade launch : Stunned"
+  },
+  "BuffDesc1_Effect_MP_PuppetHA_N_3": {
+    "korean": "PECS 오버레이 바이오스 : 방어력 {0}%",
+    "english": "PECS Overlay BIOS : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_PuppetHA_N_3": {
+    "korean": "PECS 오버레이 바이오스 : 받는 피해 {0}% 감소",
+    "english": "PECS Overlay BIOS : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetHA_N_4": {
+    "korean": "배드 섹터 : 지정 보호",
+    "english": "Bad sector : Target Protect"
+  }
+}

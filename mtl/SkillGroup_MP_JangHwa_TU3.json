@@ -1,0 +1,74 @@
+{
+  "SkillName_Skill_MP_JangHwa_TU3_1": {
+    "korean": "원격 폭탄 격발",
+    "english": "Remote Bomb Detonation"
+  },
+  "SkillName_Skill_MP_JangHwa_TU3_3": {
+    "korean": "너만 없으면…!",
+    "english": "If only you weren't here…!"
+  },
+  "SkillName_Skill_MP_JangHwa_TU3_4": {
+    "korean": "피해망상",
+    "english": "Paranoia"
+  },
+  "SkillName_Skill_MP_JangHwa_TU3_5": {
+    "korean": "육참골단",
+    "english": "Flesh and bone sacrifice"
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU3_1": {
+    "korean": "지정 범위의 적에게 {0}의 보호 무시 피해를 줍니다.&n적중 시 자신이 <피해망상> 상태인 경우, 재공격 효과를 획득합니다.",
+    "english": "Deals {0} Ignore Protection damage to enemies in the designated range. If it hits while you are in <Paranoia> state, you gain a Reattack effect."
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU3_3": {
+    "korean": "전투 개시 시, 자신은 피해 최소화 (2회) 효과를 획득합니다.&n라운드 개시 시 <C-77 홍련>이 있을 경우, 대상에게 해제 불가한 표식을 부여합니다.&n라운드 개시 시 <C-77 홍련>이 없을 경우, 자신은 광역 피해 집중 효과를 획득합니다.",
+    "english": "At the start of battle, you gain Minimize Damage (2) effect. At the start of each round, if <C-77 HongRyeon> is present, apply an unremovable mark to the target; if <C-77 HongRyeon> is absent, you gain Area DMG Focus effect."
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU3_4": {
+    "korean": "전투 개시 시, 자신의 행동력 / 효과 저항이 크게 증가합니다. &n해당 효과는 효과 해제로 해제되지 않으며, 라운드 경과에 따라 점감합니다.",
+    "english": "At the start of battle, your SPD / Status Resist greatly increase. This effect cannot be removed by effect removal and fades as rounds pass."
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU3_5": {
+    "korean": "피격 시, 적 전체에 1라운드 동안 지속 물리 피해 효과를 적용합니다.&n<몽구스 팀> 소속 전투원에 의한 공격은 <육참골단> 효과를 감소시키고 추가 중첩을 억제합니다.",
+    "english": "When you are hit, apply a Physical DoT DMG effect to all enemies for 1 round. Attacks from <Mongoose Team> units reduce the <Flesh and bone sacrifice> effect and prevent further stacking."
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU2_21": {
+    "korean": "와이어 설치",
+    "english": "Wire Setup"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU3_1": {
+    "korean": "연쇄 폭발 : 재공격",
+    "english": "Chain Explosion : Reattack"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU3_3": {
+    "korean": "네까짓게….! : 피해 최소화",
+    "english": "You…! : Minimize Damage"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU3_31": {
+    "korean": "너만… 없으면…!! : 표식",
+    "english": "If Only You Weren’t Here…!! : Marked"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU3_32": {
+    "korean": "일반인은 냉큼 꺼지시지! : 광역 피해 집중 {0}%",
+    "english": "Ordinary Citizens, Stand Back! : Area DMG Focus {0}%"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU3_4": {
+    "korean": "피해망상 : 행동력 {0}%",
+    "english": "Paranoia : SPD {0}%"
+  },
+  "BuffDesc2_Effect_MP_JangHwa_TU3_4": {
+    "korean": "피해망상 : 효과 저항 {0}% 증가",
+    "english": "Paranoia : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU3_5": {
+    "korean": "육참골단 : {0} 지속 물리 피해",
+    "english": "Flesh and bone sacrifice : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU3_51": {
+    "korean": "지긋지긋한 몽구스년들! : {0} 지속 물리 피해",
+    "english": "Those damn Mongoose! : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU3_511": {
+    "korean": "대 테러 지휘 : 광역 피해 분산 {0}%",
+    "english": "Anti-Terror Command : Area DMG Dispersion {0}%"
+  }
+}

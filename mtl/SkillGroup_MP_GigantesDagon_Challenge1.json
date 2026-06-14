@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_GigantesDagon_Challenge1_1": {
+    "korean": "작은 파도",
+    "english": "Small waves"
+  },
+  "SkillName_Skill_MP_GigantesDagon_Challenge1_2": {
+    "korean": "큰 파도",
+    "english": "Surge"
+  },
+  "SkillName_Skill_MP_GigantesDagon_Challenge1_3": {
+    "korean": "아틀란티스의 거신",
+    "english": "The giant of Atlantis"
+  },
+  "SkillName_Skill_MP_GigantesDagon_Challenge1_4": {
+    "korean": "회오리 해류벽",
+    "english": "Whirlpool current wall"
+  },
+  "SkillName_Skill_MP_GigantesDagon_Challenge1_5": {
+    "korean": "샐비지",
+    "english": "Salvage"
+  },
+  "SkillDesc_Skill_MP_GigantesDagon_Challenge1_1": {
+    "korean": "대상을 강타해 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 자신은 방어력 증가 / 받는 피해 감소 효과를 획득합니다.&n+900%의 적중 보정이 적용됩니다.",
+    "english": "Strike the target, dealing {0} damage. On hit, you gain DEF increase and DMG Reduction for 2 rounds. +900% ACC bonus applied."
+  },
+  "SkillDesc_Skill_MP_GigantesDagon_Challenge1_2": {
+    "korean": "육중한 돌격을 통해 지정 범위에 {0} 보호 무시 피해를 줍니다.&n스킬 사용 후, 자신에게 적용된 사거리 증가 효과를 해제합니다.&n+900%의 적중 보정이 적용됩니다.",
+    "english": "Charge heavily, dealing {0} Ignore Protection damage to the targeted area. After using the skill, removes your Range increase effect. +900% ACC bonus applied."
+  },
+  "SkillDesc_Skill_MP_GigantesDagon_Challenge1_3": {
+    "korean": "라운드 개시 시, 자신은 행 보호 효과를 획득합니다.&n라운드 개시 시, 3라운드 동안 자신의 사거리가 증가하고 사거리 감소 효과 면역 상태가 됩니다.&n<아틀란티스의 거신>에 의한 사거리 증가 효과가 3중첩 이상인 경우, [큰 파도]를 사용합니다.&n상기 효과는 효과 해제로 해제되지 않습니다.",
+    "english": "At the start of a round, you gain Row Protect. At the start of a round, your Range increases for 3 rounds and you become immune to Range reduction effects. If the Range increase from <The giant of Atlantis> has 3 or more stacks, use [Great Wave]. This effect cannot be removed by effect removal."
+  },
+  "SkillDesc_Skill_MP_GigantesDagon_Challenge1_4": {
+    "korean": "라운드 개시 시, 범위 내 바이오로이드에게 피해 무효화 (2회) 효과를 부여합니다.&n라운드 개시 시 아군 바이오로이드가 1기 이상 있을 경우, 자신은 피해 무효화 (1회) 효과를 획득합니다.&n상기 효과는 효과 해제로 해제되지 않습니다.",
+    "english": "At the start of the round, grant Damage Nullification (2x) to Bioroids within range. If at least one allied Bioroid is present at the start of the round, you gain Damage Nullification (1x). This effect cannot be removed by effect removal."
+  },
+  "SkillDesc_Skill_MP_GigantesDagon_Challenge1_5": {
+    "korean": "피격 시, 아군 AGS의 AP가 증가합니다.&n아군 AGS 사망 시, 아군 전체의 AP가 증가합니다.&n아군 바이오로이드 사망 시, 자신의 사거리 증가 효과가 해제됩니다.",
+    "english": "When hit, allied AGS's AP increases. When an allied AGS dies, all allies' AP increases. When an allied Bioroid dies, your Range increase effect is removed."
+  },
+  "BuffDesc1_Effect_MP_GigantesDagon_Challenge1_1": {
+    "korean": "작은 파도 : 방어력 {0}%",
+    "english": "Small waves : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_GigantesDagon_Challenge1_1": {
+    "korean": "작은 파도 : 받는 피해 {0}% 감소",
+    "english": "Small waves : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_GigantesDagon_Challenge1_2": {
+    "korean": "큰 파도 : 사거리 증가 해제",
+    "english": "Surge : Range Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_GigantesDagon_Challenge1_3": {
+    "korean": "아틀란티스의 거신 : 행 보호",
+    "english": "The giant of Atlantis : Row Protect"
+  },
+  "BuffDesc1_Effect_MP_GigantesDagon_Challenge1_31": {
+    "korean": "아틀란티스의 거신 : 사거리 감소 면역",
+    "english": "The giant of Atlantis : Range Decrease Immunity"
+  },
+  "BuffDesc1_Effect_MP_GigantesDagon_Challenge1_32": {
+    "korean": "아틀란티스의 거신 : 사거리 {0}",
+    "english": "The giant of Atlantis : Range {0}"
+  },
+  "BuffDesc1_Effect_MP_GigantesDagon_Challenge1_4": {
+    "korean": "회오리 해류벽 : 피해 무효화 {0}회",
+    "english": "Whirlpool current wall : Damage Nullification {0}x"
+  }
+}
