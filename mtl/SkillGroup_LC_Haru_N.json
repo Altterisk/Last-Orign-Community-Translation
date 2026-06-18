@@ -1,0 +1,230 @@
+{
+  "SkillName_Skill_LC_Haru_N_1": {
+    "korean": "리프 어택",
+    "english": "Leaf Attack"
+  },
+  "SkillName_Skill_LC_Haru_N_2": {
+    "korean": "블레이드 샤워",
+    "english": "Blade Shower"
+  },
+  "SkillName_Skill_LC_Haru_N_3": {
+    "korean": "복수의 검",
+    "english": "Sword of Vengeance"
+  },
+  "SkillName_Skill_LC_Haru_N_4": {
+    "korean": "끝없는 투쟁",
+    "english": "Endless Struggle"
+  },
+  "SkillName_Skill_LC_Haru_N_5": {
+    "korean": "계속되는 투쟁",
+    "english": "Continuing Struggle"
+  },
+  "SkillDesc_Skill_LC_Haru_N_1": {
+    "korean": "점프 하여 지정 범위에 {0} 보호 무시 물리 피해 발생시킵니다. &n목표 지점 주변은 피해가 75%만 적용됩니다.&n스킬 적중 시 물리 고정 피해가 발생하고 2라운드 동안 받는 피해가 증가합니다.&n치명타 시 대상의 행동력이 감소합니다.",
+    "english": "Jump to deal {0} Ignore Protection Physical DMG within the designated area. Damage around the target point is reduced to 75%. Upon hitting, Fixed Physical DMG is dealt and DMG Taken Increased for 2 rounds. Critical hits reduce the target's SPD."
+  },
+  "SkillDescSimple_Skill_LC_Haru_N_1": {
+    "korean": "지정 범위 보호 무시 {0} 피해. 추가 피해 발생. 받는 피해 증가. 조건부 행동력 감소.",
+    "english": "Ignore Protection {0} DMG / Additional DMG / DMG Taken Increased / Conditional SPD Reduction"
+  },
+  "SkillDesc_Skill_LC_Haru_N_2": {
+    "korean": "전방의 하늘로 검을 던져 검의 폭풍우를 소환하여 지정 범위에 {0} 보호 무시 물리 피해 발생시킵니다.&n목표 지점에서 멀 수록 피해량이 최대 50%까지 감소합니다.&n대상이 중장형이거나 치명타 시 피해량이 증가합니다.&n스쿼드에 <릴리 블룸메르헨>, <스텔라 유니벨>, <이리스 유마>가 있는 경우 100%로 [데스 길로틴], [베이스 어택], [익시드 드라이버] 스킬로 협동 공격을 유도합니다.&n협동 공격이 가능한 전투원이 여렷인 경우 위 표기된 순으로 우선권을 가집니다. (릴리 블룸메르헨 > 이리스 유마 순)&n다수의 적이 대상인 경우 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다.",
+    "english": "Throw a sword skyward to summon a storm of blades, dealing {0} Ignore Protection Physical DMG within the designated area. Damage decreases up to 50% the farther from the target point. Damage is increased against Heavy units or on a CRIT. If the squad contains <Lily Bloommerchen>, <Stella Unibell>, or <Iris Yuma>, it triggers a cooperative attack with [Death Guillotine], [Base Attack], and [Exceed Driver] at 100% chance. When multiple allies can perform a cooperative attack, priority follows the order shown (Lily Bloommerchen > Iris Yuma). When multiple enemies are targeted, enemies within range are prioritized; if range prevents a cooperative attack, the next ally in line executes it."
+  },
+  "SkillDescSimple_Skill_LC_Haru_N_2": {
+    "korean": "지정 범위 보호 무시 {0} 피해. 조건부 피해량 증가.  조건부 협동 공격.",
+    "english": "Ignore Protection {0} DMG / Conditional DMG Increase / Conditional Cooperative Attack"
+  },
+  "SkillDesc_Skill_LC_Haru_N_3": {
+    "korean": "라운드 개시 시 자신에게 공격력 / 적중 / 치명타 증가를 부여합니다.&n공격 적중 시 자신의 AP를 증가시킵니다.&n적 처치 시 자신의 AP를 추가로 증가시킵니다.",
+    "english": "At the start of the round, grant yourself increased ATK / ACC / CRIT. Increase your AP when you hit an enemy. Increase your AP further when you defeat an enemy."
+  },
+  "SkillDescSimple_Skill_LC_Haru_N_3": {
+    "korean": "공격력 / 적중 / 치명타 증가. 조건부 AP 증가.",
+    "english": "ATK / ACC / CRIT Increased / Conditional AP Increase"
+  },
+  "SkillDesc_Skill_LC_Haru_N_4": {
+    "korean": "라운드 개시 시 자신에게 방어 관통 증가 및 받는 피해 감소가 부여됩니다.&n스쿼드에 <바르그>가 있는 경우 바르그에게 방어 관통 증가 및 받는 피해 감소가 부여됩니다.&n피격 시 100% 확률로 반격합니다.",
+    "english": "At the start of the round, you gain increased DEF Penetration and DMG Reduction. If the squad contains <Vargr>, <Vargr> also gains increased DEF Penetration and DMG Reduction. Counter Attack with 100% chance when hit."
+  },
+  "SkillDescSimple_Skill_LC_Haru_N_4": {
+    "korean": "라운드 개시 시 자신에게 방어 관통 증가 / 피해 감소.  <바르그> 조건부 버프 효과 적용. 피격 시 반격.",
+    "english": "DEF Penetration Increased / DMG Reduction / <Vargr> Conditional Buff / Counter Attack"
+  },
+  "SkillDesc_Skill_LC_Haru_N_5": {
+    "korean": "라운드 개시 시 자신에게 전투 속행 효과를 얻습니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 아군에게 [준비!]를 부여합니다.&n준비! 1 : 공격력 증가&n준비! 2 : 공격력 증가 / 방어 관통 증가&n준비! 3 : 공격력 증가 / 방어 관통 증가 / 적중 증가 &n준비! 4 : 공격력 증가 / 방어 관통 증가 / 적중 증가 / 치명타 증가",
+    "english": "At the start of the round, you gain the Continue Combat effect. If there are squad members belonging to <Lion Corporation> other than yourself, grant the [Ready!] buff to all allies based on their number: Ready! 1: ATK Increased; Ready! 2: ATK Increased / DEF Penetration Increased; Ready! 3: ATK Increased / DEF Penetration Increased / ACC Increased; Ready! 4: ATK Increased / DEF Penetration Increased / ACC Increased / CRIT Increased."
+  },
+  "SkillDescSimple_Skill_LC_Haru_N_5": {
+    "korean": "자신에게 전투 속행. 조건부 공격력 / 방어 관통 / 적중 / 치명타 증가.",
+    "english": "Continue Combat / Conditional ATK / DEF Penetration / ACC / CRIT Increased"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_1": {
+    "korean": "리프 어택 : 공격력 {0}% 고정 피해",
+    "english": "Leaf Attack : ATK {0}% Fixed DMG"
+  },
+  "BuffDesc2_Effect_LC_Haru_N_1": {
+    "korean": "리프 어택 : 받는 피해 {0}%",
+    "english": "Leaf Attack : DMG Taken {0}%"
+  },
+  "BuffDesc3_Effect_LC_Haru_N_1": {
+    "korean": "리프 어택 : 행동력 {0}% (치명타 시)",
+    "english": "Leaf Attack : SPD {0}% (on CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_11": {
+    "korean": "리프 어택 : 받는 피해 {0}%",
+    "english": "Leaf Attack : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_12": {
+    "korean": "리프 어택 : 행동력 {0}% (치명타 시)",
+    "english": "Leaf Attack : SPD {0}% (on CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_2": {
+    "korean": "블레이드 샤워 : 대 중장형 피해량 {0}%",
+    "english": "Blade shower : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc2_Effect_LC_Haru_N_2": {
+    "korean": "블래이드 샤워 : 피해량 {0}% (치명타 시)",
+    "english": "Blade Shower : Additional DMG {0}% (On CRIT)"
+  },
+  "BuffDesc3_Effect_LC_Haru_N_2": {
+    "korean": "블레이드 샤워 : 협동 공격 (스텔라 유니벨)",
+    "english": "Blade shower : Cooperative Attack (Stella Unibell)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_21": {
+    "korean": "블레이드 샤워 : 피해량 {0}% (치명타 시)",
+    "english": "Blade shower : Additional DMG {0}% (On CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_22": {
+    "korean": "블레이드 샤워 : 협동 공격 (릴리 블룸메르헨)",
+    "english": "Blade shower : Cooperative Attack (Lily Bloommerchen)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_23": {
+    "korean": "블레이드 샤워 : 협동 공격 (스텔라 유니벨)",
+    "english": "Blade shower : Cooperative Attack (Stella Unibell)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_24": {
+    "korean": "블레이드 샤워 : 협동 공격 (이리스 유마)",
+    "english": "Blade shower : Cooperative Attack (Iris Yuma)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_3": {
+    "korean": "복수의 검 : 공격력 {0}%",
+    "english": "Sword of Vengeance : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Haru_N_3": {
+    "korean": "복수의 검 : 적중 {0}%",
+    "english": "Sword of Vengeance : ACC {0}%"
+  },
+  "BuffDesc3_Effect_LC_Haru_N_3": {
+    "korean": "복수의 검 : 치명타 {0}%",
+    "english": "Sword of Vengeance : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_LC_Haru_N_3": {
+    "korean": "복수의 검 : AP {0} (적중)",
+    "english": "Sword of Vengeance : AP {0} (ACC)"
+  },
+  "BuffDesc5_Effect_LC_Haru_N_3": {
+    "korean": "복수의 검 : AP {0} (처치)",
+    "english": "Sword of Vengeance : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_31": {
+    "korean": "복수의 검 : AP {0} (적중)",
+    "english": "Sword of Vengeance : AP {0} (ACC)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_32": {
+    "korean": "복수의 검 : AP {0} (처치)",
+    "english": "Sword of Vengeance : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_4": {
+    "korean": "끝없는 투쟁 : 방어 관통 {0}%",
+    "english": "Endless struggle : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_LC_Haru_N_4": {
+    "korean": "끝없는 투쟁 : 받는 피해 감소 {0}%",
+    "english": "Endless struggle : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_LC_Haru_N_4": {
+    "korean": "끝없는 투쟁 : {0}% 위력으로 반격",
+    "english": "Endless struggle : Counter Attack with {0}% Power"
+  },
+  "BuffDesc4_Effect_LC_Haru_N_4": {
+    "korean": "끝없는 투쟁 : 방어 관통 {0}% (바르그)",
+    "english": "Endless struggle : DEF Penetration {0}% (Vargr)"
+  },
+  "BuffDesc5_Effect_LC_Haru_N_4": {
+    "korean": "끝없는 투쟁 : 받는 피해 감소 {0}% (바르그)",
+    "english": "Endless struggle : DMG Reduction {0}% (Vargr)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_41": {
+    "korean": "끝없는 투쟁 : {0}% 위력으로 반격",
+    "english": "Endless struggle : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_42": {
+    "korean": "끝없는 투쟁 : 방어 관통 {0}% (바르그)",
+    "english": "Endless struggle : DEF Penetration {0}% (Vargr)"
+  },
+  "BuffDesc2_Effect_LC_Haru_N_42": {
+    "korean": "끝없는 투쟁 : 받는 피해 감소 {0}% (바르그)",
+    "english": "Endless struggle : DMG Reduction {0}% (Vargr)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_5": {
+    "korean": "계속되는 투쟁 : {0}% HP로 전투 속행",
+    "english": "Continuing struggle : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc2_Effect_LC_Haru_N_5": {
+    "korean": "준비! : 공격력 {0}% (최대)",
+    "english": "Ready! : ATK {0}% (Max)"
+  },
+  "BuffDesc3_Effect_LC_Haru_N_5": {
+    "korean": "준비! : 방어 관통 {0}% (최대)",
+    "english": "Ready! : DEF Penetration {0}% (Max)"
+  },
+  "BuffDesc4_Effect_LC_Haru_N_5": {
+    "korean": "준비! : 적중 {0}% (최대)",
+    "english": "Ready! : ACC {0}% (Max)"
+  },
+  "BuffDesc5_Effect_LC_Haru_N_5": {
+    "korean": "준비! : 치명타 {0}% (최대)",
+    "english": "Ready! : CRIT {0}% (Max)"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_51": {
+    "korean": "준비! : 공격력 {0}%",
+    "english": "Ready! : ATK {0}%"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_52": {
+    "korean": "준비! : 공격력 {0}%",
+    "english": "Ready! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Haru_N_52": {
+    "korean": "준비! : 방어 관통 {0}%",
+    "english": "Ready! : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_53": {
+    "korean": "준비! : 공격력 {0}%",
+    "english": "Ready! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Haru_N_53": {
+    "korean": "준비! : 방어 관통 {0}%",
+    "english": "Ready! : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_LC_Haru_N_53": {
+    "korean": "준비! : 적중 {0}%",
+    "english": "Ready! : ACC {0}%"
+  },
+  "BuffDesc1_Effect_LC_Haru_N_54": {
+    "korean": "준비! : 공격력 {0}%",
+    "english": "Ready! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Haru_N_54": {
+    "korean": "준비! : 방어 관통 {0}%",
+    "english": "Ready! : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_LC_Haru_N_54": {
+    "korean": "준비! : 적중 {0}%",
+    "english": "Ready! : ACC {0}%"
+  },
+  "BuffDesc4_Effect_LC_Haru_N_54": {
+    "korean": "준비! : 치명타 {0}%",
+    "english": "Ready! : CRIT {0}%"
+  }
+}

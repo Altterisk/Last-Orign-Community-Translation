@@ -1,0 +1,74 @@
+{
+  "1002701890": {
+    "korean": "산탄 포격",
+    "english": "Shotgun Barrage"
+  },
+  "1002701891": {
+    "korean": "확산형 곡사포",
+    "english": "Spread Howitzer"
+  },
+  "1002701892": {
+    "korean": "포격 보정",
+    "english": "Artillery Calibration"
+  },
+  "1002701893": {
+    "korean": "증가 장갑",
+    "english": "Reinforced Armor"
+  },
+  "1002705394": {
+    "korean": "포신 강화",
+    "english": "Barrel Reinforcement"
+  },
+  "1002701894": {
+    "korean": "확산형 곡사포 착탄",
+    "english": "Spread Howitzer Impact"
+  },
+  "1002704223": {
+    "korean": "지정 범위에 {0} 피해를 줍니다. 대상이 방어 감소 또는 이동 불가 상태면 피해량이 크게 증가합니다.",
+    "english": "Deals {0} damage to the designated area. Damage is greatly increased against targets with reduced defense or who are Rooted."
+  },
+  "1002704224": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 목표 지점 주변은 피해가 75%만 적용되며, 대상이 경장형 또는 기동형이면 피해량이 크게 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage within the designated area. Only 75% of the damage is applied around the target point, and damage is greatly increased against Light or Mobile targets."
+  },
+  "1002706229": {
+    "korean": "공격 시, 적의 움직임을 분석해 5라운드 동안 적중 / 치명타가 증가합니다.",
+    "english": "When attacking, analyze enemy movements to increase ACC / CRIT for 5 rounds."
+  },
+  "1002704226": {
+    "korean": "전투 개시 시, 방어력이 크게 증가합니다. 해당 효과는 5회 피격되거나 전기 속성 공격을 맞으면 해제됩니다.",
+    "english": "At the start of combat, DEF is greatly increased. This effect is removed after being hit 5 times or by an electric attack."
+  },
+  "1002706264": {
+    "korean": "적에게 피격 시, 2라운드 동안 행동력은 감소하고 공격력은 증가합니다.",
+    "english": "When hit by an enemy, SPD decreases and ATK increases for 2 rounds."
+  },
+  "1000103540": {
+    "korean": "연결 파손 : 증가 장갑 해제",
+    "english": "Connection Break : Reinforced Armor Removed"
+  },
+  "1000103538": {
+    "korean": "포격 보정 : 적중{0}%",
+    "english": "Artillery Correction : ACC {0}%"
+  },
+  "1000104675": {
+    "korean": "포격 보정 : 치명타{0}%",
+    "english": "Artillery Correction : CRIT {0}%"
+  },
+  "1000103539": {
+    "korean": "증가 장갑 : 방어력{0}% (5회)",
+    "english": "Increased Gloves : DEF {0}% (5x)"
+  },
+  "1000106536": {
+    "korean": "포신 강화 : 공격력{0}%",
+    "english": "Gun barrel reinforcement : ATK {0}%"
+  },
+  "1000106542": {
+    "korean": "포신 강화 : 행동력 {0}%",
+    "english": "Gun barrel reinforcement : SPD {0}%"
+  },
+  "1000103537": {
+    "korean": "확산형 곡사포 : 피해량{0}% (경장/기동)",
+    "english": "Cluster howitzer : Additional DMG {0}% (Light/Air)"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "SkillName_Skill_3P_Ajax_N_1": {
+    "korean": "스탬피드",
+    "english": "Stampede"
+  },
+  "SkillDesc_Skill_3P_Ajax_N_1": {
+    "korean": "방패를 내세워 적에게 돌진하여 대상에게 {0} 피해를 줍니다. 후방에는 감소된 피해를 입힙니다. &n적중 시, 2라운드 동안 대상의 방어력을 감소시킵니다.&n일정 확률로 적중 대상을 1라운드 동안 행동 불가 상태로 만듭니다. 자신이 <풀려난 고삐> 상태인 경우 확률과 지속 라운드가 증가합니다.&n반격 상태에서 피격 시, 자신의 다음 공격에 대한 적중이 크게 증가합니다.",
+    "english": "Charge forward with a shield, dealing {0} damage to the target and reduced damage to enemies behind it. On hit, reduces the target’s DEF for 2 rounds. Has a chance to inflict Stunned for 1 round. If the user is in <Unleashed Bridle> state, the chance and duration are increased. While in Counter state, being hit greatly increases the ACC of the user’s next attack."
+  },
+  "SkillDescSimple_Skill_3P_Ajax_N_1": {
+    "korean": "지정 범위 {0} 피해. 후방 피해량 감소. 일정 확률로 대상 행동 불가. 대상 방어력 감소. 반격 시 자신 적중 증가.",
+    "english": "Deals {0} damage to the designated area. Rear damage is reduced. Has a chance to inflict Stunned and reduces the target’s DEF. When Countering, greatly increases the user’s ACC on the next attack."
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_1": {
+    "korean": "스탬피드 : 행동 불가",
+    "english": "Stampede: Stunned"
+  },
+  "BuffDesc2_Effect_3P_Ajax_N_1": {
+    "korean": "스탬피드 : 방어력 {0}%",
+    "english": "Stampede: DEF {0}%"
+  },
+  "BuffDesc3_Effect_3P_Ajax_N_1": {
+    "korean": "스탬피드 : 적중 {0}%",
+    "english": "Stampede: ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_11": {
+    "korean": "스탬피드 : 행동 불가",
+    "english": "Stampede: Stunned"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_12": {
+    "korean": "스탬피드 : 방어력 {0}%",
+    "english": "Stampede: DEF {0}%"
+  },
+  "SkillName_Skill_3P_Ajax_N_2": {
+    "korean": "기각지세",
+    "english": "Hammer and Anvil"
+  },
+  "SkillDesc_Skill_3P_Ajax_N_2": {
+    "korean": "자신과 대상 아군의 방어력을 영구적으로 증가시키고, 해당 라운드 동안 피해 무효화를 1회 부여합니다.&n스킬 사용 시, 이전 라운드에 적용된 자신에 의한 아군 대상 영구 효과가 새로운 대상에게 갱신됩니다.&n자신이 <매어진 고삐> 상태인 경우, 추가로 대상에게 지정 보호 일반 효과를 부여합니다.&n자신이 <풀려난 고삐> 상태인 경우, 추가로 대상에게 공격 지원 일반 효과를 부여합니다.",
+    "english": "Permanently increase the DEF of both the user and a targeted ally, and grant one instance of Damage Nullification for the current round. When used, any permanent DEF boost previously applied by the user to an ally in the prior round is transferred to the new target. If the user is in <Restrained Bridle> state, also grant the target a standard Target Protect effect. If the user is in <Unleashed Bridle> state, also grant the target a standard Follow-Up Attack effect."
+  },
+  "SkillDescSimple_Skill_3P_Ajax_N_2": {
+    "korean": "자신과 지정 대상 아군 방어력 증가 / 피해 무효화 부여. 조건부 지정 보호 / 공격 지원.",
+    "english": "Increases DEF of both the user and a designated ally, and grants Damage Nullification. Grants Target Protect or Follow-Up Attack depending on the user’s state."
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_2": {
+    "korean": "기각지세 : 방어력 {0}%",
+    "english": "Hammer and Anvil: DEF {0}%"
+  },
+  "BuffDesc2_Effect_3P_Ajax_N_2": {
+    "korean": "기각지세 : 피해 무효화",
+    "english": "Hammer and Anvil: Damage Nullification"
+  },
+  "BuffDesc3_Effect_3P_Ajax_N_2": {
+    "korean": "기각지세 : 지정 보호 (매어진 고삐)",
+    "english": "Hammer and Anvil: Target Protect (Bound Bridle)"
+  },
+  "BuffDesc4_Effect_3P_Ajax_N_2": {
+    "korean": "기각지세 : 공격 지원 (풀려난 고삐)",
+    "english": "Hammer and Anvil: Follow-Up Attack (Unleashed Bridle)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_21": {
+    "korean": "기각지세 : 방어력 {0}%",
+    "english": "Hammer and Anvil: DEF {0}%"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_22": {
+    "korean": "기각지세 : 피해 무효화",
+    "english": "Hammer and Anvil: Damage Nullification"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_23": {
+    "korean": "기각지세 : 피해 무효화",
+    "english": "Hammer and Anvil: Damage Nullification"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_24": {
+    "korean": "기각지세 : 지정 보호",
+    "english": "Hammer and Anvil: Target Protect (Bound Bridle)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_25": {
+    "korean": "기각지세 : 공격 지원",
+    "english": "Hammer and Anvil: Follow-Up Attack (Unleashed Bridle)"
+  },
+  "SkillName_Skill_3P_Ajax_N_3": {
+    "korean": "고삐 다루기",
+    "english": "Bridle Handling"
+  },
+  "SkillDesc_Skill_3P_Ajax_N_3": {
+    "korean": "라운드 개시 시, 스쿼드 내에 보호기가 자신 밖에 없을 경우, 자신은 <매어진 고삐> 상태가 되고, 보호기가 자신 외에 있을 경우, 자신은 <풀려난 고삐> 상태가 됩니다.&n<매어진 고삐> : 받는 피해 감소&n<풀려난 고삐> : 공격력 증가&n전투 개시 시, 자신이 <매어진 고삐> 상태인 경우, 2라운드 동안 아군 전체를 지정 보호합니다.&n라운드 개시 시, 자신이 <풀려난 고삐> 상태인 경우, 1라운드 동안 자신의 사거리가 2 증가합니다.",
+    "english": "At the start of each round, if the user is the only Defender-type unit in the squad, they become <Restrained Bridle>; otherwise, if other Defender-types are present, they become <Unleashed Bridle>. <Restrained Bridle>: DMG Reduction. <Unleashed Bridle>: ATK increase. At battle start, if the user is in <Restrained Bridle>, they grant Target Protect to all allies for 2 rounds. At round start, if the user is in <Unleashed Bridle>, their range increases by 2 for 1 round."
+  },
+  "SkillDescSimple_Skill_3P_Ajax_N_3": {
+    "korean": "스쿼드 내 보호기 수에 따라 자신 받는 피해 감소 혹은 공격력 증가. 조건부 아군 지정 보호. 조건부 자신 사거리 증가.",
+    "english": "Grants DMG Reduction or ATK increase based on the number of Defender-type units in the squad. Conditionally grants Target Protect to allies and increases the user’s range."
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_3": {
+    "korean": "매어진 고삐 : 받는 피해 {0}% 감소",
+    "english": "Bound Reins: DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_3P_Ajax_N_3": {
+    "korean": "풀려난 고삐 : 공격력 {0}%",
+    "english": "Unleashed Reins : ATK {0}%"
+  },
+  "BuffDesc3_Effect_3P_Ajax_N_3": {
+    "korean": "매어진 고삐 : 지정 보호",
+    "english": "Bound Reins: Target Protect"
+  },
+  "BuffDesc4_Effect_3P_Ajax_N_3": {
+    "korean": "풀려난 고삐 : 사거리 {0}",
+    "english": "Unleashed Reins : Range {0}"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_31": {
+    "korean": "풀려난 고삐 : 공격력 {0}%",
+    "english": "Released Reins: ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_32": {
+    "korean": "매어진 고삐 : 지정 보호",
+    "english": "Bound Reins: Target Protect"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_33": {
+    "korean": "풀려난 고삐 : 사거리 {0}",
+    "english": "Released Reins: Range {0}"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_34": {
+    "korean": "스탬피드 : 적중 {0}%",
+    "english": "Stampede: ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_35": {
+    "korean": "기각지세 : 효과 이전",
+    "english": "Hammer and Anvil: Effect Transfer"
+  },
+  "BuffDesc2_Effect_3P_Ajax_N_35": {
+    "korean": "기각지세 : 효과 이전",
+    "english": "Hammer and Anvil: Effect Transfer"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_36": {
+    "korean": "기각지세 : 효과 이전",
+    "english": "Hammer and Anvil: Effect Transfer"
+  },
+  "BuffDesc2_Effect_3P_Ajax_N_36": {
+    "korean": "기각지세 : 효과 이전",
+    "english": "Hammer and Anvil: Effect Transfer"
+  },
+  "SkillName_Skill_3P_Ajax_N_4": {
+    "korean": "주어진 의무",
+    "english": "Given Duty"
+  },
+  "SkillDesc_Skill_3P_Ajax_N_4": {
+    "korean": "라운드 개시 시, 자신은 반격 일반 효과를 획득합니다.&n라운드 개시 시, 자신이 <매어진 고삐> 상태인 경우, 1라운드 동안 열 보호 / 효과 저항 증가 일반 효과를 획득합니다.&n라운드 개시 시, 자신이 <풀려난 고삐> 상태인 경우, 1라운드 동안 치명타 / 적중 증가 일반 효과를 획득합니다.",
+    "english": "At the start of each round, the user gains the standard Counter effect. If in <Restrained Bridle> state, they also gain the standard Column Protect effect and increased Status Resist for 1 round. If in <Unleashed Bridle> state, they gain increased CRIT and ACC for 1 round."
+  },
+  "SkillDescSimple_Skill_3P_Ajax_N_4": {
+    "korean": "반격 효과 획득. <매어진 고삐> 상태인 경우 열 보호 / 효과 저항 증가. <풀려난 고삐> 상태인 경우 치명타 / 적중 증가.",
+    "english": "Gains Counter Attack. If in <Bound Bridle> state, gains Column Protect and increased Status Resist. If in <Unleashed Bridle> state, gains increased CRIT and ACC."
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_4": {
+    "korean": "주어진 의무 : {0}% 위력으로 반격",
+    "english": "Given Duty: Counter Attack with {0} Power"
+  },
+  "BuffDesc2_Effect_3P_Ajax_N_4": {
+    "korean": "주어진 의무 : 열 보호 (매어진 고삐)",
+    "english": "Given Duty: Column Protect (Bound Bridle)"
+  },
+  "BuffDesc3_Effect_3P_Ajax_N_4": {
+    "korean": "주어진 의무 : 효과 저항 {0}% (매어진 고삐)",
+    "english": "Given Duty: Status Resist {0}% (Bound Bridle)"
+  },
+  "BuffDesc4_Effect_3P_Ajax_N_4": {
+    "korean": "주어진 의무 : 치명타 {0}% (풀려난 고삐)",
+    "english": "Given Duty: CRIT {0}% (Unleashed Bridle)"
+  },
+  "BuffDesc5_Effect_3P_Ajax_N_4": {
+    "korean": "주어진 의무 : 적중 {0}% (풀려난 고삐)",
+    "english": "Given Duty: ACC {0}% (Unleashed Bridle)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_41": {
+    "korean": "주어진 의무 : 열 보호 (매어진 고삐)",
+    "english": "Given Duty: Column Protect (Bound Bridle)"
+  },
+  "BuffDesc2_Effect_3P_Ajax_N_41": {
+    "korean": "주어진 의무 : 효과 저항 {0}% (매어진 고삐)",
+    "english": "Given Duty: Status Resist {0}% (Bound Bridle)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_42": {
+    "korean": "주어진 의무 : 치명타 {0}% (풀려난 고삐)",
+    "english": "Given Duty: CRIT {0}% (Unleashed Bridle)"
+  },
+  "BuffDesc2_Effect_3P_Ajax_N_42": {
+    "korean": "주어진 의무 : 적중 {0}% (풀려난 고삐)",
+    "english": "Given Duty: ACC {0}% (Unleashed Bridle)"
+  },
+  "SkillName_Skill_3P_Ajax_N_5": {
+    "korean": "뭉치면 산다",
+    "english": "Strength of Unity"
+  },
+  "SkillDesc_Skill_3P_Ajax_N_5": {
+    "korean": "5인 스쿼드로 전투 개시 시, 자신은 방어력 비례 스킬 위력 증가 일반 효과를 획득합니다.&n2인 이상 스쿼드로 라운드 개시 시, 전투원 수에 비례해 아군 전체의 방어력이 증가합니다.&n2인 이상 스쿼드로 라운드 개시 시, 전투원 수에 비례해 아군 전체의 광역 피해 분산이 증가합니다.",
+    "english": "When battle starts with a 5‑member squad, the user gains a Normal Effect that increases Skill Power proportionally to their DEF. When a round starts with a squad of 2 or more, allies' DEF increases proportionally to the number of squad members. When a round starts with a squad of 2 or more, allies' Area DMG Dispersion increases proportionally to the number of squad members."
+  },
+  "SkillDescSimple_Skill_3P_Ajax_N_5": {
+    "korean": "스쿼드 인원수에 비례하여 아군 전체 방어력 / 광역 피해 분산 증가. 5인 스쿼드인 경우, 자신 방어력 비례 스킬 위력 증가.",
+    "english": "Increases all allies' DEF and Area DMG Dispersion proportionally to squad size. If in a 5‑member squad, increases the user's Skill Power proportionally to their DEF."
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_5": {
+    "korean": "뭉치면 산다 : 스킬 위력 {0}% (방어력 비례)",
+    "english": "Strength of Unity: Skill Power {0}% (DEF-based)"
+  },
+  "BuffDesc2_Effect_3P_Ajax_N_5": {
+    "korean": "뭉치면 산다 : 방어력 {0} (인원당)",
+    "english": "Strength of Unity: DEF {0} (Per Ally)"
+  },
+  "BuffDesc3_Effect_3P_Ajax_N_5": {
+    "korean": "뭉치면 산다 : 광역 피해 분산 {0}% (인원당)",
+    "english": "Strength of Unity: Area DMG Dispersion {0}% (Per Ally)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_51": {
+    "korean": "뭉치면 산다 : 방어력 {0} (2인)",
+    "english": "Strength of Unity: DEF {0} (2 units)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_52": {
+    "korean": "뭉치면 산다 : 방어력 {0} (3인)",
+    "english": "Strength of Unity: DEF {0} (3 units)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_53": {
+    "korean": "뭉치면 산다 : 방어력 {0} (4인)",
+    "english": "Strength of Unity: DEF {0} (4 units)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_54": {
+    "korean": "뭉치면 산다 : 방어력 {0} (5인)",
+    "english": "Strength of Unity: DEF {0} (5 units)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_55": {
+    "korean": "뭉치면 산다 : 광역 피해 분산 {0}% (2인)",
+    "english": "Strength of Unity: Area DMG Dispersion {0}% (2 units)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_56": {
+    "korean": "뭉치면 산다 : 광역 피해 분산 {0}% (3인)",
+    "english": "Strength of Unity: Area DMG Dispersion {0}% (3 units)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_57": {
+    "korean": "뭉치면 산다 : 광역 피해 분산 {0}% (4인)",
+    "english": "Strength of Unity: Area DMG Dispersion {0}% (4 units)"
+  },
+  "BuffDesc1_Effect_3P_Ajax_N_58": {
+    "korean": "뭉치면 산다 : 광역 피해 분산 {0}% (5인)",
+    "english": "Strength of Unity: Area DMG Dispersion {0}% (5 units)"
+  }
+}

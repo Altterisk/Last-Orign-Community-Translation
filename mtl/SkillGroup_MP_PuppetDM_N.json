@@ -1,0 +1,50 @@
+{
+  "SkillName_Skill_MP_PuppetDM_N_1": {
+    "korean": "데드아이",
+    "english": "Dead Eye"
+  },
+  "SkillName_Skill_MP_PuppetDM_N_2": {
+    "korean": "시리얼 임팩트",
+    "english": "Serial Impact"
+  },
+  "SkillDesc_Skill_MP_PuppetDM_N_1": {
+    "korean": "스코프로 목표를 식별하며 대상에게 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 자신은 보호 무시 효과를 획득합니다.",
+    "english": "Identify a target with a scope and deal {0} Additional DMG to the target. On hit, gain Ignore Protection for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_PuppetDM_N_2": {
+    "korean": "강력한 관통력을 가진 탄환으로 범위 내 대상에게 {0} 피해를 줍니다.&n대상이 후열에 가까울 수록 피해량이 증가합니다.",
+    "english": "Deal {0} Additional DMG to targets within range with a bullet of high penetration. Damage increases the closer the target is to the back row."
+  },
+  "SkillDesc_Skill_MP_PuppetDM_N_3": {
+    "korean": "라운드 개시 시, 3라운드 동안 자신의 적중 / 치명타 / 행동력이 증가합니다.&n라운드 개시 시 자신이 행동 불능 상태인 경우, 상기 효과 대신 자신이 받는 피해가 증가합니다.",
+    "english": "At the start of a round, your ACC / CRIT / SPD increase for 3 rounds. If you are Stunned at the start of a round, DMG Taken Increased instead of the above effect."
+  },
+  "SkillDesc_Skill_MP_PuppetDM_N_4": {
+    "korean": "라운드 개시 시, 범위 내 <퍼펫> 아군의 공격을 지원합니다.&n자신 사망 시, 범위 내 <퍼펫> 아군을 2라운드 동안 행동 불능 상태로 만듭니다.",
+    "english": "At the start of a round, support attacks for <Puppet> allies within range. Upon death, render <Puppet> allies within range Stunned for 2 rounds."
+  },
+  "BuffDesc1_Effect_MP_PuppetDM_N_1": {
+    "korean": "데드 아이 : 보호 무시 활성화",
+    "english": "Dead Eye : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_MP_PuppetDM_N_2": {
+    "korean": "시리얼 임팩트 : 피해량 {0}%",
+    "english": "Serial Impact : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetDM_N_3": {
+    "korean": "PECS 오버레이 바이오스 : 적중 {0}%",
+    "english": "PECS Overlay BIOS : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_PuppetDM_N_3": {
+    "korean": "PECS 오버레이 바이오스 : 치명타 {0}%",
+    "english": "PECS Overlay BIOS : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_MP_PuppetDM_N_3": {
+    "korean": "PECS 오버레이 바이오스 : 공격력 {0}%",
+    "english": "PECS Overlay BIOS : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetDM_N_4": {
+    "korean": "배드 섹터 : 공격 지원",
+    "english": "Bad sector : Follow-Up Attack"
+  }
+}

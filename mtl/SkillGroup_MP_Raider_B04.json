@@ -1,0 +1,74 @@
+{
+  "1002700377": {
+    "korean": "교란 파동",
+    "english": "Disturbance Wave"
+  },
+  "1002700378": {
+    "korean": "반응 폭탄 투하",
+    "english": "Drop Reaction Bomb"
+  },
+  "1002700379": {
+    "korean": "교신 프로토콜",
+    "english": "Communication Protocol"
+  },
+  "1002700381": {
+    "korean": "경계",
+    "english": "Alert"
+  },
+  "1002703126": {
+    "korean": "목표 범위에 보호 효과를 무시하는 교란 파동을 발사해 {0} 피해를 주고, 3라운드 동안 대상의 사거리 / 적중 / 치명타를 감소시킵니다. 일정 확률로 대상에게 걸려있는 강화 효과를 해제합니다.",
+    "english": "Fires a Disruption Wave that ignores protection effects at the target area, dealing {0} Additional DMG and reducing the target's Range / ACC / CRIT for 3 rounds. Has a chance to remove any buffs applied to the target."
+  },
+  "1002703127": {
+    "korean": "목표 지점에 폭탄을 투하해 보호 효과를 무시하고 {0} 피해를 줍니다. 목표 지점 주변은 피해가 50% 감소하며, 치명타 적중 시 피해량이 증가합니다.",
+    "english": "Drops a bomb at the target location, ignoring protection effects and dealing {0} Additional DMG. Damage around the target location is reduced by 50%, and CRIT increases damage."
+  },
+  "1002703128": {
+    "korean": "경계 상태로 라운드 개시 시, 인접한 철충들의 적중 감소 효과를 해제하고 적중 / 회피 / 치명타를 증가시킵니다.",
+    "english": "When starting a round in Alert state, removes the ACC reduction effect from adjacent Iron Bugs and increases ACC / EVA / CRIT."
+  },
+  "1002703130": {
+    "korean": "통솔하는 철충이 처치된 경우, 경계 상태가 되어 2라운드 동안 행동력과 회피가 증가합니다. 해당 효과는 중첩됩니다.",
+    "english": "When a commanded Iron Bug is defeated, it enters Alert state, increasing SPD and EVA for 2 rounds. This effect stacks."
+  },
+  "1000102701": {
+    "korean": "교란 파동 : 사거리 {0}",
+    "english": "Disturbance waves : Range {0}"
+  },
+  "1000104301": {
+    "korean": "교란 파동 : 적중 {0}%",
+    "english": "Disturbance waves : ACC {0}%"
+  },
+  "1000104989": {
+    "korean": "교란 파동 : 치명타 {0}%",
+    "english": "Disturbance waves : CRIT {0}%"
+  },
+  "1000105368": {
+    "korean": "교란 파동 : 강화 효과 해제",
+    "english": "Disturbance waves : Buff Removal"
+  },
+  "1000102702": {
+    "korean": "교신 프로토콜 : 적중{0}%",
+    "english": "Communication protocol : ACC {0}%"
+  },
+  "1000104302": {
+    "korean": "교신 프로토콜 : 회피{0}%",
+    "english": "Communication protocol : EVA {0}%"
+  },
+  "1000104990": {
+    "korean": "교신 프로토콜 : 치명타{0}%",
+    "english": "Communication protocol : CRIT {0}%"
+  },
+  "1000105369": {
+    "korean": "교신 프로토콜 : 적중 감소 효과 해제",
+    "english": "Communication protocol : ACC Debuff Removal"
+  },
+  "1000102704": {
+    "korean": "경계 : 회피{0}%",
+    "english": "Boundary : EVA {0}%"
+  },
+  "1000104303": {
+    "korean": "경계 : 행동력{0}%",
+    "english": "Boundary : SPD {0}%"
+  }
+}

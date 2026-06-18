@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_Iris_N_1": {
+    "korean": "래피드 벌컨(이벤트)",
+    "english": "Rapid Vulcan (Event)"
+  },
+  "SkillName_Skill_MP_Iris_N_2": {
+    "korean": "익시드 드라이버(이벤트)",
+    "english": "Exceed Driver (Event)"
+  },
+  "SkillName_Skill_MP_Iris_N_3": {
+    "korean": "분노의 일격(이벤트)",
+    "english": "Furious Strike (Event)"
+  },
+  "SkillName_Skill_MP_Iris_N_4": {
+    "korean": "쾌속(이벤트)",
+    "english": "Quick (Event)"
+  },
+  "SkillName_Skill_MP_Iris_N_5": {
+    "korean": "극쇄(이벤트)",
+    "english": "Extreme Break (Event)"
+  },
+  "SkillDesc_Skill_MP_Iris_N_1": {
+    "korean": "해머를 개틀링건으로 변형시켜 지정된 범위에 {0} 화염 피해를 입힙니다.&n스킬 적중 시 대상은 2라운드 동안 지속 화염 피해를 부여하고 받는 피해를 증가시키며 [합선] 상태로 만듭니다.&n치명타 시 자신에게 해로운 효과를 해제합니다.",
+    "english": "Transform the hammer into a Gatling gun, dealing {0} fire damage to the designated area. On hit, the target gains Fire DoT DMG for 2 rounds, DMG Taken increased, and is afflicted with [Short circuit]. On CRIT, removes harmful effects from yourself."
+  },
+  "SkillDescSimple_Skill_MP_Iris_N_1": {
+    "korean": "지정 범위 {0} 화염 피해. 2라운드 지속 화염 피해 부여 / 받는 피해 증가 / 합선 부여. 치명타 시 자신의 해로운 효과 해제.",
+    "english": "Designated range {0} fire damage. 2 rounds Fire DoT DMG / DMG Taken increased / Short circuit. Removes harmful effects from yourself on CRIT."
+  },
+  "SkillDesc_Skill_MP_Iris_N_2": {
+    "korean": "주변에 다수의 에너지 포탈을 소환하고 강력한 에너지를 발사하여 지정 범위에 {0} 보호 무시 화염 피해 발생시킵니다.&n중행 제외 전열 기준 멀 수록 피해량이 최대 50%까지 감소합니다.&n스킬 적중 시 자신에게 2라운드 동안 공격력 및 치명타를 증가시킵니다.&n치명타 시 화염 추가 피해가 발생합니다.&n스쿼드에 <스텔라 유니벨>, <하루 에스티아>, <릴리 블룸메르헨>이 있는 경우 100%로 [베이스 어택], [블레이드 샤워], [데스 길로틴] 스킬로 협동 공격을 유도합니다. &n협동 공격이 가능한 전투원이 여렷인 경우 위 표기된 순으로 우선권을 가집니다. (스텔라 유니벨 > 릴리 블룸메르헨 순)&n다수의 적이 대상인 경우 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다.",
+    "english": "Summon multiple energy portals around you and fire powerful energy, dealing {0} Ignore Protection fire damage within the designated range. Damage decreases up to 50% the farther the target is from the front row (excluding the middle row). On hit, increase ATK and CRIT for 2 rounds. On CRIT, deal additional fire DMG. If the squad contains <Stella Unibell>, <Haru Estia>, and <Lily Bloommerchen>, trigger a cooperative attack with [Base Attack], [Blade Shower], and [Death Guillotine] at 100% chance. When multiple allies can perform cooperative attacks, priority follows the order above (Stella Unibell > Lily Bloommerchen). When multiple enemies are targeted, prioritize those within range; if cooperative attack is impossible due to range, the next combatant in line executes it."
+  },
+  "SkillDescSimple_Skill_MP_Iris_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 화염 피해. 2라운드 자신에게 공격력 / 치명타 증가 부여. 치명타 시 화염 추가 피해. 조건부 협동 공격.",
+    "english": "Designated range {0} Ignore Protection fire damage. 2 rounds self ATK / CRIT increase. CRIT deals additional fire DMG. Conditional cooperative attack."
+  },
+  "SkillDesc_Skill_MP_Iris_N_3": {
+    "korean": "라운드 개시 시 자신의 적중 및 대 중장 피해량을 증가시킵니다.&n공격 적중 시 자신의 AP를 증가시킵니다.&n적 처치 시 자신의 AP를 추가로 증가시킵니다.",
+    "english": "At round start, increase your ACC and Anti-Heavy DMG. Increase your AP on hit. Increase your AP further on kill."
+  },
+  "SkillDescSimple_Skill_MP_Iris_N_3": {
+    "korean": "적중 / 대 중장 피해량 증가. 조건부 AP 증가.",
+    "english": "ACC / Anti-Heavy DMG increase. Conditional AP increase."
+  },
+  "SkillDesc_Skill_MP_Iris_N_4": {
+    "korean": "라운드 개시 시 아군 전체의 치명타 및 회피를 증가 시킵니다.&n라운드 개시 시 스쿼드에 <시라유리>가 있는 경우 시라유리는 2배로 효과를 받습니다.&n라운드 개시 시 스쿼드에 <시라유리>가 있는 경우 시라유리를 공격 지원합니다.",
+    "english": "At round start, increase all allies' CRIT and EVA. If <Shirayuri> is in the squad at round start, Shirayuri receives double effect. If <Shirayuri> is in the squad at round start, provide Follow-Up Attack to Shirayuri."
+  },
+  "SkillDescSimple_Skill_MP_Iris_N_4": {
+    "korean": "아군 전체 치명타 / 회피 증가. 조건부 효과 2배 적용 / 지원 공격.",
+    "english": "All allies CRIT / EVA increase. Conditional effects doubled / Support attack."
+  },
+  "SkillDesc_Skill_MP_Iris_N_5": {
+    "korean": "피격 시 100% 확률로 반격하며 2라운드 동안 자신의 공격력 및 치명타가 증가합니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 [분노!]을 부여합니다.&n분노! 1 : 방어 관통 증가&n분노! 2 : 방어 관통 증가 / 치명타 증가&n분노! 3 : 방어 관통 증가 / 치명타 증가 / 공격력 증가&n분노! 4 : 방어 관통 증가 / 치명타 증가 / 공격력 증가 / 적중 증가",
+    "english": "Upon being hit, Counter Attack with 100% probability and gain ATK and CRIT increase for 2 rounds. At round start, if there are <Lion Corporation> allies besides yourself, grant Fury! to all allies based on their number. Fury! 1: DEF Penetration increase. Fury! 2: DEF Penetration / CRIT increase. Fury! 3: DEF Penetration / CRIT / ATK increase. Fury! 4: DEF Penetration / CRIT / ATK / ACC increase."
+  },
+  "SkillDescSimple_Skill_MP_Iris_N_5": {
+    "korean": "피격 시 반격. 피격 시 공격력 증가 / 치명타 증가. 조건부 방어 관통 증가 / 치명타 증가 / 공격력 증가 / 적중 증가.",
+    "english": "Counter Attack on hit. ATK / CRIT increase on hit. Conditional DEF Penetration / CRIT / ATK / ACC increase."
+  },
+  "BuffDesc3_Effect_LC_Iris_N_2": {
+    "korean": "익시드 드라이버 : {0}% 화염 추가 피해 (치명타 시)",
+    "english": "Exceed Driver: {0}% additional fire DMG (On CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Iris_N_21": {
+    "korean": "익시드 드라이버 : {0}% 화염 추가 피해 (치명타 시)",
+    "english": "Exceed Driver: {0}% additional fire DMG (On CRIT)"
+  }
+}

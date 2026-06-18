@@ -1,0 +1,154 @@
+{
+  "SkillName_Skill_DS_KunoichiEnrai_N_1": {
+    "korean": "호무라",
+    "english": "Homura"
+  },
+  "SkillName_Skill_DS_KunoichiEnrai_N_2": {
+    "korean": "이카즈치",
+    "english": "Ikazuchi"
+  },
+  "SkillName_Skill_DS_KunoichiEnrai_N_3": {
+    "korean": "은형술",
+    "english": "Silver Shadow Technique"
+  },
+  "SkillName_Skill_DS_KunoichiEnrai_N_4": {
+    "korean": "하늘이 모르는 눈꽃",
+    "english": "Sky's Unknowable Snowflake"
+  },
+  "SkillName_Skill_DS_KunoichiEnrai_N_5": {
+    "korean": "면허개전 <무라사키 류>",
+    "english": "License Revocation <Murasaki Ryu>"
+  },
+  "SkillDesc_Skill_DS_KunoichiEnrai_N_1": {
+    "korean": "단일 대상에게 {0} 보호 무시 화염 피해를 입힙니다.&n적중 시, 대상의 모든 화염 속성 저항 증감 효과를 해제하고 3라운드 동안 화염 속성 저항을 크게 감소시킵니다.&n스킬 사용 후, 자신의 사거리 증감 효과를 모두 해제합니다.",
+    "english": "Deals {0} Ignore Protection fire damage to a single target. On hit, removes all fire Resist buff/debuff effects from the target and greatly reduces Fire Resist for 3 rounds. After using the skill, all of your range increase/decrease effects are removed."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiEnrai_N_1": {
+    "korean": "지정 대상 {0} 보호 무시 화염 피해. 화염 저항 감소. 자신 사거리 증감 해제.",
+    "english": "Deals {0} Ignore Protection fire damage to the designated target. Fire Resist Reduction. Range Increase/Decrease Removed."
+  },
+  "SkillDesc_Skill_DS_KunoichiEnrai_N_2": {
+    "korean": "단일 대상에게 {0} 보호 무시 전기 피해를 입힙니다.&n적중 시, 대상의 모든 전기 속성 저항 증감 효과를 해제하고 3라운드 동안 전기 속성 저항을 크게 감소시킵니다.&n스킬 사용 후, 자신의 사거리 증감 효과를 모두 해제합니다.",
+    "english": "Deals {0} Ignore Protection electric damage to a single target. On hit, removes all Electric Resist buff/debuff effects from the target and greatly reduces Electric Resist for 3 rounds. After using the skill, all of your range increase/decrease effects are removed."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiEnrai_N_2": {
+    "korean": "지정 대상 {0} 보호 무시 전기 피해. 전기 저항 감소. 자신 사거리 증감 해제.",
+    "english": "Deals {0} Ignore Protection electric damage to the specified target. Electric Resist Reduction. Range Increase/Decrease Removed."
+  },
+  "SkillDesc_Skill_DS_KunoichiEnrai_N_3": {
+    "korean": "라운드 개시 시 자신 외에 <쿠노이치>가 있을 경우, 자신은 방어막/피해 감소 무시 효과를 획득합니다. &n라운드 개시 시 자신 외의 <쿠노이치>가 없을 경우, 아군 공격기의 공격을 지원합니다.&n공격 적중 시, 대상이 지속 화염 피해 / 회피 감소 상태일 경우 피해량이 증가합니다.",
+    "english": "At the start of the round, if there is a <Kunoichi> other than self, self gains Ignore Barrier / DMG Reduction. At the start of the round, if there is no <Kunoichi> other than self, supports allied attackers' attacks. When an attack hits, if the target is under continuous fire damage / EVA Reduction, damage is increased."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiEnrai_N_3": {
+    "korean": "<쿠노이치> 존재 유무에 따라 자신 또는 아군 강화. 조건부 스킬 피해량 증가.",
+    "english": "Enhances self or allies depending on the presence of <Kunoichi>. Conditional skill damage increase."
+  },
+  "SkillDesc_Skill_DS_KunoichiEnrai_N_4": {
+    "korean": "전투 개시 시, 자신의 AP가 3 증가합니다.&n첫 라운드 이후 라운드 개시 시, 자신의 AP를 변경합니다. 자신이 스킬을 사용한 다음 라운드까지는 효과가 발동하지 않습니다.&n지원/협동 공격 시, 다음 자신의 직접 공격 1회에 한하여 스킬 위력이 증가합니다. (최대 1중첩)",
+    "english": "At the start of battle, own AP increases by 3. After the first round, at the start of each round, own AP changes. The effect does not activate until the round after the skill is used. When supporting / Cooperative Attack, the skill power of the next own direct attack is increased once. (max 1 stack)"
+  },
+  "SkillDescSimple_Skill_DS_KunoichiEnrai_N_4": {
+    "korean": "라운드 개시 시, 자신 AP 변경. 지원 / 협동 공격 시 다음 자신의 직접 공격 스킬 위력 증가.",
+    "english": "At the start of the round, own AP changes. When supporting / Cooperative Attack, the skill power of the next own direct attack is increased."
+  },
+  "SkillDesc_Skill_DS_KunoichiEnrai_N_5": {
+    "korean": "라운드 개시 시, 자신의 치명타가 증가합니다.&n라운드 개시 시, <면허개전>을 보유한 <쿠노이치>에게 사거리 증가 효과를 부여합니다.&n<면허개전>을 보유한 <쿠노이치 카엔>의 <일격필살> 효과가 대기를 통해 재활성화 될 수 있도록 합니다.&n<면허개전>을 보유한 <쿠노이치 제로>의 <가속> 처치 효과 발동 시, 다른 <쿠노이치>에게도 동일한 효과를 부여하도록 합니다.",
+    "english": "At the start of the round, own CRIT increases. At the start of the round, grants range increase effect to <Kunoichi> with <License Revocation>. Allows the <One-Hit Kill> effect of <Kunoichi Kaen> with <License Revocation> to be reactivated through standby. When the <Acceleration> kill effect of <Kunoichi Zero> with <License Revocation> triggers, grants the same effect to other <Kunoichi>."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiEnrai_N_5": {
+    "korean": "자신 치명타 증가. <면허개전>을 보유한 <쿠노이치> 사거리 증가.",
+    "english": "Own CRIT increase. Range increase for <Kunoichi> with <License Revocation>."
+  },
+  "BuffDesc2_Effect_DS_KunoichiEnrai_N_1": {
+    "korean": "사거리 증감 해제",
+    "english": "Range Increase/Decrease Removed"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_41": {
+    "korean": "연화보 : 쉬어가는 한 걸음",
+    "english": "Lotus Step : Take a Rest Step"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_45": {
+    "korean": "사거리 증감 해제",
+    "english": "Range Increase/Decrease Removed"
+  },
+  "BuffDesc2_Effect_DS_KunoichiEnrai_N_2": {
+    "korean": "사거리 증감 해제",
+    "english": "Range Increase/Decrease Removed"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_4": {
+    "korean": "연화보 : AP {0}로 변경",
+    "english": "Lotus Step : Change AP to {0}"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_42": {
+    "korean": "하나후부키 준비",
+    "english": "Hanahubuki Ready"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_43": {
+    "korean": "하나후부키 준비",
+    "english": "Hanahubuki Ready"
+  },
+  "BuffDesc3_Effect_DS_KunoichiEnrai_N_5": {
+    "korean": "<쿠노이치 카엔> : <일격필살> 강화",
+    "english": "<Kunoichi Kaen> : <One-Hit Kill> Enhanced"
+  },
+  "BuffDesc4_Effect_DS_KunoichiEnrai_N_5": {
+    "korean": "<쿠노이치 제로> : <가속> 강화",
+    "english": "<Kunoichi Zero> : <Acceleration> Enhanced"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_1": {
+    "korean": "호무라 : 화염 저항 {0}%",
+    "english": "Homura : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_32": {
+    "korean": "은형술 : 피해량 {0}%",
+    "english": "Silver Shadow Technique : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_44": {
+    "korean": "하나후부키 : 스킬 위력 {0}%",
+    "english": "Hanahubuki : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_2": {
+    "korean": "이카즈치 : 전기 저항 {0}%",
+    "english": "Ikazuchi : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_33": {
+    "korean": "은형술 : 피해량 {0}%",
+    "english": "Silver Shadow Technique : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_3": {
+    "korean": "은형술 : 방어막 / 피해 감소 무시",
+    "english": "Silver Shadow Technique : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc2_Effect_DS_KunoichiEnrai_N_3": {
+    "korean": "은형술 : 공격 지원",
+    "english": "Silver Shadow Technique : Follow-Up Attack"
+  },
+  "BuffDesc3_Effect_DS_KunoichiEnrai_N_3": {
+    "korean": "은형술 : 피해량 {0}%",
+    "english": "Silver Shadow Technique : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_31": {
+    "korean": "은형술 : 공격 지원",
+    "english": "Silver Shadow Technique : Follow-Up Attack"
+  },
+  "BuffDesc2_Effect_DS_KunoichiEnrai_N_4": {
+    "korean": "하나후부키 : 스킬 위력 {0}%",
+    "english": "Hanahubuki : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_46": {
+    "korean": "연화보 : AP {0}",
+    "english": "Lotus Step : AP {0}"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_5": {
+    "korean": "면허개전 : 치명타 {0}%",
+    "english": "License Revocation : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiEnrai_N_5": {
+    "korean": "면허개전 : 사거리 {0}",
+    "english": "License Revocation : Range {0}"
+  },
+  "BuffDesc1_Effect_DS_KunoichiEnrai_N_51": {
+    "korean": "면허개전 : 사거리 {0}",
+    "english": "License Revocation : Range {0}"
+  }
+}

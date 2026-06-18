@@ -1,0 +1,186 @@
+{
+  "SkillName_Skill_MP_Ship_Controller_B09_1": {
+    "korean": "함선 폭파",
+    "english": "Ship Explosion"
+  },
+  "SkillName_Skill_MP_Ship_Controller_B09_2": {
+    "korean": "모조리 물고기 밥이 되어라!",
+    "english": "Become Fish Food!"
+  },
+  "SkillName_Skill_MP_Ship_Controller_B09_3": {
+    "korean": "융합로 과부하",
+    "english": "Fusion Reactor Overload"
+  },
+  "SkillName_Skill_MP_Ship_Controller_B09_4": {
+    "korean": "모조리 물고기 밥이 되어라!",
+    "english": "Become Fish Food!"
+  },
+  "SkillName_Skill_MP_Ship_Controller_B09_5": {
+    "korean": "모조리 물고기 밥이 되어라!",
+    "english": "Become Fish Food!"
+  },
+  "SkillDesc_Skill_MP_Ship_Controller_B09_1": {
+    "korean": "함선 폭파 카운트가 시작됩니다.",
+    "english": "The ship's self-destruct countdown begins."
+  },
+  "SkillDescSimple_Skill_MP_Ship_Controller_B09_1": {
+    "korean": "포격 통제 장치 1스 간단 설명",
+    "english": "Brief Description"
+  },
+  "SkillDesc_Skill_MP_Ship_Controller_B09_2": {
+    "korean": "카운트가 0이 될 시, 해당 라운드에 함선이 폭파됩니다.",
+    "english": "When the countdown reaches 0, the ship explodes during that round."
+  },
+  "SkillDescSimple_Skill_MP_Ship_Controller_B09_2": {
+    "korean": "포격 통제 장치 2스 간단 설명",
+    "english": "Brief Description"
+  },
+  "SkillDesc_Skill_MP_Ship_Controller_B09_3": {
+    "korean": "라운드 개시 시, 해제 불가의 효과 저항, 피해 최소화 효과를 부여합니다. 주위에 포격 통제 장치만 남았거나 트리톤이 제거 될 시 자폭합니다.",
+    "english": "At the start of the round, grants unremovable Status Resist and Minimize Damage. If only the Artillery Control Device remains or Triton is destroyed, it self-destructs."
+  },
+  "SkillDescSimple_Skill_MP_Ship_Controller_B09_3": {
+    "korean": "포격 준비 : 효과 저항 / 피해 최소화 부여",
+    "english": "Artillery Preparation: Grants Status Resist / Minimize Damage"
+  },
+  "SkillDesc_Skill_MP_Ship_Controller_B09_4": {
+    "korean": "함선 폭파 시, 모두 전멸합니다.",
+    "english": "When the ship explodes, all units are annihilated."
+  },
+  "SkillDescSimple_Skill_MP_Ship_Controller_B09_4": {
+    "korean": "필요 없음",
+    "english": "Not Needed"
+  },
+  "SkillDesc_Skill_MP_Ship_Controller_B09_5": {
+    "korean": "함선 폭파 시, 모두 전멸합니다.",
+    "english": "When the ship explodes, all units are annihilated."
+  },
+  "SkillDescSimple_Skill_MP_Ship_Controller_B09_5": {
+    "korean": "필요 없음",
+    "english": "Not Needed"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_1": {
+    "korean": "목표 조준",
+    "english": "Target Aim"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_2": {
+    "korean": "포격",
+    "english": "Bombardment"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_31": {
+    "korean": "함선 폭파까지 7 라운드 남음",
+    "english": "7 Rounds Until Ship Destruction"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_32": {
+    "korean": "함선 폭파까지 6 라운드 남음",
+    "english": "6 Rounds Until Ship Destruction"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_33": {
+    "korean": "함선 폭파까지 5 라운드 남음",
+    "english": "5 Rounds Until Ship Destruction"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_34": {
+    "korean": "함선 폭파까지 4 라운드 남음",
+    "english": "4 Rounds Until Ship Destruction"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_35": {
+    "korean": "함선 폭파까지 3 라운드 남음",
+    "english": "3 Rounds Until Ship Destruction"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_36": {
+    "korean": "함선 폭파까지 2 라운드 남음",
+    "english": "2 Rounds Until Ship Destruction"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_37": {
+    "korean": "함선 폭파까지 1 라운드 남음",
+    "english": "1 Round Until Ship Destruction"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_38": {
+    "korean": "함선 폭파",
+    "english": "Ship Destruction"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_39": {
+    "korean": "자폭 준비",
+    "english": "Self-Destruct Preparation"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_301": {
+    "korean": "함선 폭파",
+    "english": "Ship Destruction"
+  },
+  "BuffDesc2_Effect_MP_Ship_Controller_B09_4": {
+    "korean": "함선 폭파",
+    "english": "Ship Explosion"
+  },
+  "BuffDesc3_Effect_MP_Ship_Controller_B09_4": {
+    "korean": "함선 폭파 : AP {0}으로 변경",
+    "english": "Ship Explosion : Change AP to {0}"
+  },
+  "BuffDesc4_Effect_MP_Ship_Controller_B09_4": {
+    "korean": "함선 폭파",
+    "english": "Ship Explosion"
+  },
+  "BuffDesc5_Effect_MP_Ship_Controller_B09_4": {
+    "korean": "함선 폭파",
+    "english": "Ship Explosion"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_41": {
+    "korean": "포격 개시, 함선 폭파",
+    "english": "Bombardment Initiated, Ship Destruction"
+  },
+  "BuffDesc2_Effect_MP_Ship_Controller_B09_41": {
+    "korean": "함선 폭파",
+    "english": "Ship Destruction"
+  },
+  "BuffDesc2_Effect_MP_Ship_Controller_B09_5": {
+    "korean": "함선 폭파",
+    "english": "Ship Explosion"
+  },
+  "BuffDesc3_Effect_MP_Ship_Controller_B09_5": {
+    "korean": "함선 폭파",
+    "english": "Ship Explosion"
+  },
+  "BuffDesc4_Effect_MP_Ship_Controller_B09_5": {
+    "korean": "함선 폭파",
+    "english": "Ship Explosion"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_51": {
+    "korean": "포격 개시, 함선 폭파",
+    "english": "Bombardment Initiated, Ship Destruction"
+  },
+  "BuffDesc2_Effect_MP_Ship_Controller_B09_51": {
+    "korean": "함선 폭파",
+    "english": "Ship Destruction"
+  },
+  "BuffDesc2_Effect_MP_Ship_Controller_B09_52": {
+    "korean": "자폭 준비",
+    "english": "Self-Destruct Preparation"
+  },
+  "BuffDesc3_Effect_MP_Ship_Controller_B09_52": {
+    "korean": "자폭",
+    "english": "Self-Destruct"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_53": {
+    "korean": "함선 폭파 : AP {0}으로 변경",
+    "english": "Ship Destruction : Change AP to {0}"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_3": {
+    "korean": "융합로 과부하 : 효과 저항 {0}%",
+    "english": "Fusion Reactor Overload : Status Resist {0}%"
+  },
+  "BuffDesc2_Effect_MP_Ship_Controller_B09_3": {
+    "korean": "융합로 과부하 : 피해 최소화",
+    "english": "Fusion Reactor Overload : Minimize Damage"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_4": {
+    "korean": "함선 폭파 : 모든 강화 효과 해제",
+    "english": "Ship Explosion : Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_5": {
+    "korean": "함선 폭파 : 모든 강화 효과 해제",
+    "english": "Ship Explosion : Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Ship_Controller_B09_52": {
+    "korean": "자폭 : 모든 강화 효과 해제",
+    "english": "Self-Destruct : Buff Removal"
+  }
+}

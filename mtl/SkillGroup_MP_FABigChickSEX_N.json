@@ -1,0 +1,62 @@
+{
+  "1002705490": {
+    "korean": "방패 찍기",
+    "english": "Shield Bash"
+  },
+  "1002701617": {
+    "korean": "칙 블로킹",
+    "english": "Chik Blocking"
+  },
+  "1002701618": {
+    "korean": "칙 방어 지휘",
+    "english": "Chik Defense Command"
+  },
+  "1002701619": {
+    "korean": "칙 근성 발동",
+    "english": "Chik Tenacity Activation"
+  },
+  "1002707167": {
+    "korean": "거대한 벽",
+    "english": "Huge Wall"
+  },
+  "1002706311": {
+    "korean": "방패로 대상을 찍어 {0} 피해를 줍니다. 대상은 방어력이 감소하며, 높은 확률로 행동 불가 상태로 만듭니다.",
+    "english": "Strike the target with a shield, dealing {0} damage. The target's DEF is reduced, and there is a high chance of Stunned."
+  },
+  "1002704160": {
+    "korean": "방어 태세를 취해, 3라운드 동안 행 보호 / 열 보호 / 받는 피해 감소 / 효과 저항 증가 효과가 발생합니다. 자신의 HP가 25% 이하인 경우, 반격 효과가 추가됩니다.",
+    "english": "Assume a defensive stance, granting Row Protect / Column Protect / DMG Reduction / increased Status Resist for 3 rounds. If your HP is 25% or lower, a Counter Attack effect is added."
+  },
+  "1002704161": {
+    "korean": "<칙 블로킹> 상태로 라운드 개시 시, 주변 아군에게 방어력 증가 / 받는 피해 감소 효과를 줍니다.",
+    "english": "When starting a round in <Chik Blocking> state, grant nearby allies increased DEF and DMG Reduction."
+  },
+  "1002704162": {
+    "korean": "피격 시, 2라운드 동안 방어력 / 행동력이 증가합니다. 라운드 개시 시, <칙 근성 발동> 방어 증가 효과가 5회 이상이면 전투 속행 효과가 추가됩니다. 전투 속행 발동 시, 2라운드 동안 최소 피해만 받지만 지속 고정 피해를 입으며 방어막과 피해 감소 효과를 무시합니다.",
+    "english": "When hit, DEF / SPD increase for 2 rounds. At the start of a round, if the <Chik Tenacity Activation> DEF increase effect has occurred 5 or more times, the Combat Continuation effect is added. When Combat Continuation is triggered, you take only minimum damage for 2 rounds, but suffer Fixed DoT DMG and ignore Barrier / DMG Reduction."
+  },
+  "1002707168": {
+    "korean": "전투 개시 시, 2라운드 동안 자신의 사거리를 감소시킵니다. 라운드 개시 시, 자신에게 표식을 지정하고 자신의 방어력 감소 효과를 해제합니다.",
+    "english": "At the start of combat, reduce your Range for 2 rounds. At the start of a round, mark yourself and remove your DEF reduction effect."
+  },
+  "1000106616": {
+    "korean": "방패 찍기 : 방어력 {0}%",
+    "english": "Shield Bash : DEF {0}%"
+  },
+  "1000106820": {
+    "korean": "방패 찍기 : 행동 불가",
+    "english": "Shield Bash : Stunned"
+  },
+  "1000108948": {
+    "korean": "거대한 벽 : 사거리{0}",
+    "english": "A huge wall : Range {0}"
+  },
+  "1000108949": {
+    "korean": "거대한 벽 : 표식 지정 (자신)",
+    "english": "A huge wall : Marks target (Self)"
+  },
+  "1000108953": {
+    "korean": "거대한 벽 : 방어력 감소 효과 해제",
+    "english": "A huge wall : DEF Debuff Removal"
+  }
+}

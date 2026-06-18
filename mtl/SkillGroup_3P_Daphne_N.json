@@ -1,0 +1,98 @@
+{
+  "1002700084": {
+    "korean": "페어리 트릭",
+    "english": "Fairy Trick"
+  },
+  "1002703709": {
+    "korean": "마이크로 페어리로 대상을 부식시켜 {0} 피해를 주고, 3라운드 동안 방어력 / 행동력 감소 / 지속 고정 피해를 입는 상태로 만듭니다 (최대 3 중첩). 해당 효과 중첩 적용 시, 기본 공격력에 비례한 고정 피해를 입으며 받는 피해가 증가합니다.",
+    "english": "Corrodes the target with a micro-fairy, dealing {0} damage and applying a state for 3 rounds that reduces DEF and SPD and deals Fixed DoT. Stacks up to 3 times; each additional stack deals fixed damage based on base ATK and increases DMG Taken."
+  },
+  "1002702930": {
+    "korean": "단일 대상 {0} 피해. 부식 효과",
+    "english": "Deals {0} damage to a single target. Inflicts Corrosion."
+  },
+  "1000102541": {
+    "korean": "부식 : 행동력 {0}%",
+    "english": "Corrosion: SPD {0}%"
+  },
+  "1000102534": {
+    "korean": "부식 : 방어력 {0}%",
+    "english": "Corrosion: DEF {0}%"
+  },
+  "1000102788": {
+    "korean": "부식 : 지속 물리 피해 {0}",
+    "english": "Corrosion: Physical DoT DMG {0}"
+  },
+  "1000103360": {
+    "korean": "내부 파괴 : 기본 공격력 {0}% 고정 피해",
+    "english": "Internal Destruction: Base ATK {0}% Fixed Damage"
+  },
+  "1000103361": {
+    "korean": "내부 파괴 : 받는 피해{0}%",
+    "english": "Internal Destruction: DMG Taken {0}%"
+  },
+  "1002700085": {
+    "korean": "페어리 클라우드",
+    "english": "Fairy Cloud"
+  },
+  "1002706120": {
+    "korean": "목표 범위에 {0} 피해를 주고, 3라운드 동안 부식 상태로 만듭니다. 스킬 레벨 10부터 범위가 증가하며, 같은 <부식> 계통 효과가 별도로 중첩되지 않고 같이 중첩됩니다.",
+    "english": "Deals {0} damage to the target area and applies Corrosion for 3 rounds. From skill level 10, the area expands. Corrosion effects from the same family do not stack separately but share stacks."
+  },
+  "1002702931": {
+    "korean": "목표 지점 {0} 피해. 부식 효과",
+    "english": "Deals {0} damage to a targeted location. Inflicts Corrosion."
+  },
+  "1002700086": {
+    "korean": "민감한 눈",
+    "english": "Keen Eyes"
+  },
+  "1002703711": {
+    "korean": "라운드 개시 시, 좋은 눈으로 적의 약점을 파악해 효과 범위 내 아군의 적중 / 치명타 / 방어 관통을 올려줍니다. 스킬 레벨 10에서 범위가 증가하며, 자신의 사거리가 증가합니다.",
+    "english": "At the start of the round, Keen Eyes spot enemy weak points, granting allies within the effect range increased ACC, CRIT, and DEF Penetration. The range expands at skill level 10 and also increases your own range."
+  },
+  "1002702932": {
+    "korean": "범위 내 아군 적중 / 치명타 / 방어 관통 증가",
+    "english": "Increases ACC, CRIT, and DEF Penetration of allies within range"
+  },
+  "1000102542": {
+    "korean": "민감한 눈 : 치명타{0}%",
+    "english": "Sharp Eyes: CRIT {0}%"
+  },
+  "1000104219": {
+    "korean": "민감한 눈 : 적중{0}%",
+    "english": "Sharp Eyes: ACC {0}%"
+  },
+  "1000104939": {
+    "korean": "민감한 눈 : 방어 관통{0}%",
+    "english": "Sharp Eyes: DEF Penetration {0}%"
+  },
+  "1000103362": {
+    "korean": "민감한 눈 : 사거리{0}",
+    "english": "Sharp Eyes: Range {0}"
+  },
+  "1002701566": {
+    "korean": "대사 촉진",
+    "english": "Metabolic Surge"
+  },
+  "1002704135": {
+    "korean": "라운드 개시 시, 마이크로 페어리로 범위 내 아군 바이오로이드들의 신진 대사를 촉진시켜 공격력 / 회피 / 행동력을 증가시킵니다.",
+    "english": "At the start of the round, Micro Fairies boost the metabolism of allied Bioroids in the area, raising their ATK, EVA, and SPD."
+  },
+  "1002703391": {
+    "korean": "범위 내 아군 공격력 / 회피 / 행동력 증가",
+    "english": "Increases ATK, EVA, and SPD of allies within range"
+  },
+  "1000103363": {
+    "korean": "대사 촉진 : 공격력{0}% (바이오)",
+    "english": "Speech Acceleration: ATK {0}% (Bioroid)"
+  },
+  "1000104593": {
+    "korean": "대사 촉진 : 회피{0}% (바이오)",
+    "english": "Speech Acceleration: EVA {0}% (Bioroid)"
+  },
+  "1000105126": {
+    "korean": "대사 촉진 : 행동력{0}% (바이오)",
+    "english": "Dialogue Promotion: SPD {0}% (Bioroid)"
+  }
+}

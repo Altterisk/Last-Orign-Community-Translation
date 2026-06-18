@@ -1,0 +1,202 @@
+{
+  "SkillName_Skill_BR_Fafnir_N_1": {
+    "korean": "흐로티",
+    "english": "Hrotti"
+  },
+  "SkillDesc_Skill_BR_Fafnir_N_1": {
+    "korean": "연속 공격으로 단일 대상에게 {0} 전기 피해를 줍니다. 대상의 HP가 낮을 수록 피해량이 증가합니다.&n적중 시, 2라운드 동안 대상을 <회로 과열> 상태로 만듭니다.",
+    "english": "Deals {0} Additional DMG electric to a single target with consecutive attacks. Additional DMG increases the lower the target's HP is.&nOn hit, inflicts <Circuit Overheat> status on the target for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Fafnir_N_1": {
+    "korean": "단일 대상 {0} 전기 피해. 대상 HP 반비례 피해량 증가. 적중 대상 <회로 과열>.",
+    "english": "Single target {0} Additional DMG electric. Additional DMG proportional to target's lost HP. When hit, <Circuit Overheat>."
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_1": {
+    "korean": "흐로티! : 대상 HP 반비례 피해량 {0}%",
+    "english": "Hrotti! : Additional DMG proportional to the target's HP {0}%"
+  },
+  "BuffDesc1_Effect_BUFF_Overheat_N_1": {
+    "korean": "회로 과열 : 화염 저항 {0}%",
+    "english": "Circuit Overheat : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_BUFF_Overheat_N_2": {
+    "korean": "회로 과열 : 냉기 저항 {0}%",
+    "english": "Circuit Overheat: Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_BUFF_Overheat_N_3": {
+    "korean": "회로 과열 : 전기 저항 {0}%",
+    "english": "Circuit Overheat: Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_34": {
+    "korean": "이리 온~ : 효과 저항 {0}% 감소",
+    "english": "Come Here~ : Status Resist {0}% Decrease"
+  },
+  "SkillName_Skill_BR_Fafnir_N_2": {
+    "korean": "뇌정벽력",
+    "english": "Thunderous Strike"
+  },
+  "SkillDesc_Skill_BR_Fafnir_N_2": {
+    "korean": "우레와 함께 강하하며 지정 범위에 {0} 전기 피해를 줍니다. 목표 지점 주변은 피해량이 75% 감소합니다.&n적중 대상과 인접한 적 수에 따라 피해량이 증가합니다.&n적중 대상과 인접한 적 수가 2 이상인 경우, 강화 효과를 해제합니다.",
+    "english": "Descends with thunder, dealing {0} Additional DMG electric to the designated area. Additional DMG is reduced by 75% around the target point.&nAdditional DMG increases based on the number of enemies adjacent to the hit target.&nIf 2 or more enemies are adjacent to the hit target, removes their buffs."
+  },
+  "SkillDescSimple_Skill_BR_Fafnir_N_2": {
+    "korean": "지정 범위 {0} 전기 피해. 인접한 적 수에 따라 피해량 증가 / 강화 효과 해제.",
+    "english": "Designated area {0} Additional DMG electric. Additional DMG increases based on the number of adjacent enemies / removes buffs."
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_2": {
+    "korean": "뇌정벽력! : 피해량 {0}% (인접한 적 1기당)",
+    "english": "Thunderous Strike! : Additional DMG {0}% (per adjacent enemy)"
+  },
+  "BuffDesc2_Effect_BR_Fafnir_N_2": {
+    "korean": "천벌! : 강화 효과 해제",
+    "english": "Curse! : Removes buffs."
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_21": {
+    "korean": "뇌정벽력! : 피해량 {0}%",
+    "english": "Brain-Splitting Thunderclap! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_22": {
+    "korean": "파프니르 킥! : 피해량 {0}%",
+    "english": "Fafnir Kick! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_23": {
+    "korean": "주피터 킥! : 피해량 {0}%",
+    "english": "Jupiter Kick! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_24": {
+    "korean": "테슬라 킥! : 피해량 {0}%",
+    "english": "Tesla Kick! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_25": {
+    "korean": "패러데이 킥! : 피해량 {0}%",
+    "english": "Faraday Kick! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_26": {
+    "korean": "천벌! : 강화 효과 해제",
+    "english": "Curse! : Removes Buffs."
+  },
+  "SkillName_Skill_BR_Fafnir_N_3": {
+    "korean": "끌어안는 자",
+    "english": "The Embracer"
+  },
+  "SkillDesc_Skill_BR_Fafnir_N_3": {
+    "korean": "라운드 개시 시, 자신의 AP가 증가합니다. 해당 효과는 라운드 경과에 따라 점차 감소합니다.&n공격 적중 시 대상의 HP가 75% 이상인 경우, 2라운드 동안 대상의 효과 저항이 감소합니다. (중첩 불가)&n<뇌정벽력> 적중 대상이 <회로 과열> 상태인 경우, 인접한 적 수를 3으로 취급합니다.",
+    "english": "At the start of the round, increases own AP. This effect gradually decreases as rounds progress.&nWhen an attack hits a target with 75% or more HP, reduces the target’s Status Resist for 2 rounds (Cannot stack).&nIf the target hit by <Thunderous Strike> is in <Circuit Overheat> status, they are treated as having 3 adjacent enemies."
+  },
+  "SkillDescSimple_Skill_BR_Fafnir_N_3": {
+    "korean": "자신 AP 증가. 조건부 적중 대상 효과 저항 감소.",
+    "english": "Increases own AP. Conditional reduction of Status Resist on the target hit."
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_3": {
+    "korean": "끌어안는 자 : AP {0} (1라운드)",
+    "english": "The Embracer : AP {0} (1 round)"
+  },
+  "BuffDesc2_Effect_BR_Fafnir_N_3": {
+    "korean": "끌어안는 자 : AP {0} (2라운드)",
+    "english": "The Embracer : AP {0} (2 rounds)"
+  },
+  "BuffDesc3_Effect_BR_Fafnir_N_3": {
+    "korean": "끌어안는 자 : AP {0} (3라운드)",
+    "english": "The Embracer : AP {0} (3 rounds)"
+  },
+  "BuffDesc4_Effect_BR_Fafnir_N_3": {
+    "korean": "끌어안는 자 : AP {0} (4라운드 이후)",
+    "english": "Embrace : AP {0} (After Round 4)"
+  },
+  "BuffDesc5_Effect_BR_Fafnir_N_3": {
+    "korean": "이리 온~ : 효과 저항 {0}% 감소",
+    "english": "Come here~ : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_31": {
+    "korean": "끌어안는 자 : AP {0}",
+    "english": "The Embracer : AP {0}"
+  },
+  "SkillName_Skill_BR_Fafnir_N_4": {
+    "korean": "일룡일사",
+    "english": "One Dragon, One Death"
+  },
+  "SkillDesc_Skill_BR_Fafnir_N_4": {
+    "korean": "홀수 라운드 개시 시, 아군 공격기의 받는 피해가 감소하고 공격력이 증가합니다.&n짝수 라운드 개시 시, 적 공격기의 받는 피해가 증가하고 공격력이 감소합니다.&n적 처치 시, 2라운드 동안 상기 효과가 동시에 발현되며 효과가 두 배로 증폭됩니다.",
+    "english": "At the start of odd-numbered rounds, allied Attacker receive DMG Reduction and gain increased ATK.&nAt the start of even-numbered rounds, enemy Attacker receive DMG Taken Increased and have reduced ATK.&nWhen an enemy is defeated, both effects activate simultaneously for 2 rounds, with double the potency."
+  },
+  "SkillDescSimple_Skill_BR_Fafnir_N_4": {
+    "korean": "아군 공격기 공격력 증가 / 받는 피해 감소. 적 공격기 공격력 감소 / 받는 피해 증가.",
+    "english": "Ally Attacker ATK increase / DMG Reduction. Enemy Attacker ATK Reduction / DMG Taken Increased."
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_4": {
+    "korean": "일룡 : 공격력 {0}%",
+    "english": "Ilryong : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Fafnir_N_4": {
+    "korean": "일룡 : 받는 피해 {0}% 감소",
+    "english": "Ilryong : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_BR_Fafnir_N_4": {
+    "korean": "일사 : 공격력 {0}%",
+    "english": "Il-sa : ATK {0}%"
+  },
+  "BuffDesc4_Effect_BR_Fafnir_N_4": {
+    "korean": "일사 : 받는 피해 {0}% 증가",
+    "english": "Sunshot: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_41": {
+    "korean": "일사 : 공격력 {0}%",
+    "english": "Ilsa : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Fafnir_N_41": {
+    "korean": "일사 : 받는 피해 {0}% 증가",
+    "english": "Ilsa : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_42": {
+    "korean": "봤지? 이게 나야!",
+    "english": "See? This is me!"
+  },
+  "SkillName_Skill_BR_Fafnir_N_5": {
+    "korean": "경외의 투구",
+    "english": "Helm of Reverence"
+  },
+  "SkillDesc_Skill_BR_Fafnir_N_5": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 적중이 증가합니다.&n라운드 개시 시, 스쿼드 내 신화 속 '개'의 사거리가 증가하고 행 / 열 보호가 활성화됩니다.&n라운드 개시 시 자신이 공격 지원을 받고 있을 경우, 보호 무시가 활성화됩니다.",
+    "english": "At the start of the round, increases own ATK / ACC.&nAt the start of the round, increases the Range of mythical 'dogs' in the squad and activates Row Protect / Column Protect.&nAt the start of the round, if receiving Follow-Up Attack, activates Ignore Protection."
+  },
+  "SkillDescSimple_Skill_BR_Fafnir_N_5": {
+    "korean": "자신 공격력 / 적중 증가. 조건부 아군 사거리 증가 / 행 / 열 보호 활성화.",
+    "english": "Self ATK / ACC increase. Conditional allied Range increase / Row Protect / Column Protect activation."
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_5": {
+    "korean": "경외의 투구 : 공격력 {0}%",
+    "english": "Helm of Reverence : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Fafnir_N_5": {
+    "korean": "경외의 투구 : 적중 {0}%",
+    "english": "Helm of Reverence : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Fafnir_N_5": {
+    "korean": "겨, 경외하라니까? : 사거리 {0}",
+    "english": "Re, Revere Me! : Range {0}"
+  },
+  "BuffDesc4_Effect_BR_Fafnir_N_5": {
+    "korean": "겨, 경외하라니까? : 행 / 열 보호 활성화",
+    "english": "I said to revere it! : Row Protect / Column Protect"
+  },
+  "BuffDesc5_Effect_BR_Fafnir_N_5": {
+    "korean": "경배하라! : 보호 무시 활성화",
+    "english": "Worship! : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_51": {
+    "korean": "겨, 경외하라니까? : 사거리 {0}",
+    "english": "Re-Revere Me, Okay? : Range {0}"
+  },
+  "BuffDesc2_Effect_BR_Fafnir_N_51": {
+    "korean": "겨, 경외하라니까? : 행 보호",
+    "english": "Huh, I told you to be in awe? : Row Protect"
+  },
+  "BuffDesc3_Effect_BR_Fafnir_N_51": {
+    "korean": "겨, 경외하라니까? : 열 보호",
+    "english": "Re, Revere Me! : Column Protect"
+  },
+  "BuffDesc1_Effect_BR_Fafnir_N_52": {
+    "korean": "경배하라! : 보호 무시 활성화",
+    "english": "Worship Me! : Activate Ignore Protection"
+  }
+}

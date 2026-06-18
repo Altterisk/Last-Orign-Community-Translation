@@ -1,0 +1,170 @@
+{
+  "SkillName_Skill_PECS_LemonadeBeta_N_1": {
+    "korean": "케뤼케이온 : 굿 모닝",
+    "english": "Kerykeion: Good Morning"
+  },
+  "SkillName_Skill_PECS_LemonadeBeta_N_2": {
+    "korean": "케뤼케이온 : 글루미 선샤인",
+    "english": "Kerykeion: Gloomy Sunshine"
+  },
+  "SkillName_Skill_PECS_LemonadeBeta_N_3": {
+    "korean": "유머러스 트래저디",
+    "english": "Humorous Tragedy"
+  },
+  "SkillName_Skill_PECS_LemonadeBeta_N_4": {
+    "korean": "멜랑꼴릭 딜라이트",
+    "english": "Melancholic Delight"
+  },
+  "SkillName_Skill_PECS_LemonadeBeta_N_5": {
+    "korean": "하모니어스 디스코드",
+    "english": "Harmonious Discord"
+  },
+  "SkillDesc_Skill_PECS_LemonadeBeta_N_1": {
+    "korean": "가벼운 인사를 겸해 단일 대상에게 {0} 보호 무시 피해를 줍니다.&n치명타 시, 대상의 모든 속성 저항 반전 효과를 해제합니다.&n적중 시, 자신의 받는 피해가 감소합니다. 해당 효과는 물리 공격 피격 시 해제됩니다.&n상기 효과가 이미 적용된 상태인 경우, 대신 해당 라운드 동안 아군 보호기에게 피해 무효화를 부여합니다.",
+    "english": "Delivers {0} Ignore Protection damage to a single target with a light greeting. On CRIT, removes all Reverse Elemental Resist effects from the target. On ACC, reduces the damage you take. This effect is cleared when hit by a physical attack. If the above effects are already applied, instead grants Damage Nullification to an ally's protector for that round."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeBeta_N_1": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 자신 받는 피해 감소.",
+    "english": "Single target {0} Ignore Protection damage. Self DMG Reduction."
+  },
+  "SkillDesc_Skill_PECS_LemonadeBeta_N_2": {
+    "korean": "자신의 감정을 발산하여 지정 범위에 {0} 보호 무시 피해를 줍니다.&n치명타 시, 대상의 모든 속성 저항 하한 효과를 해제합니다.&n적중 시, 자신의 효과 저항이 증가합니다. 해당 효과는 물리 공격 피격 시 해제됩니다.&n상기 효과가 이미 적용된 상태인 경우, 대신 아군 공격기의 AP를 증가시킵니다.",
+    "english": "Releases your emotions to deal {0} Ignore Protection damage to the designated area. On CRIT, removes all Minimum Elemental Resist effects from the target. On ACC, increases your Status Resist. This effect is cleared when hit by a physical attack. If the above effects are already applied, instead increases an ally's attacker’s AP."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeBeta_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 자신 효과 저항 증가.",
+    "english": "Designated area {0} Ignore Protection damage. Self Status Resist increase."
+  },
+  "SkillDesc_Skill_PECS_LemonadeBeta_N_3": {
+    "korean": "라운드 개시 시, 적 전체의 냉기 저항을 감소시킵니다.&n아군 스쿼드의 경장형 수에 따라 다음 효과가 추가로 적용됩니다.&n- 3기 이하 : 냉기 저항 감소 효과가 두 배로 증폭됩니다.&n- 2기 이하 : 냉기 저항 감소 효과가 대상의 효과 저항을 무시합니다.&n- 1기 이하 : 전투 개시 시, 2라운드 동안 적 공격기에게 강화 불가를 적용합니다.",
+    "english": "At the start of the round, decreases all enemies' Cold Resist. Additional effects are applied based on the number of Light allies in the squad: - 3 or fewer: Cold Resist reduction is doubled. - 2 or fewer: Cold Resist reduction ignores the target's Status Resist. - 1 or fewer: At battle start, applies Buff Prevention to enemy attackers for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeBeta_N_3": {
+    "korean": "적 전체 냉기 저항 감소. 아군 경장형 수에 따라 효과 증폭.",
+    "english": "All enemies Cold Resist decreased. Effect amplified by number of Light allies."
+  },
+  "SkillDesc_Skill_PECS_LemonadeBeta_N_4": {
+    "korean": "라운드 개시 시, 적 전체의 전기 저항을 감소시킵니다.&n아군 스쿼드의 기동형 수에 따라 다음 효과가 추가로 적용됩니다.&n- 3기 이하 : 전기 저항 감소 효과가 두 배로 증폭됩니다.&n- 2기 이하 : 전기 저항 감소 효과가 대상의 효과 저항을 무시합니다.&n- 1기 이하 : 전투 개시 시, 2라운드 동안 적 지원기의 행동력을 감소시킵니다.",
+    "english": "At the start of the round, decreases all enemies' Electric Resist. Additional effects are applied based on the number of Air allies in the squad: - 3 or fewer: Electric Resist reduction is doubled. - 2 or fewer: Electric Resist reduction ignores the target's Status Resist. - 1 or fewer: At battle start, reduces enemy supporters' SPD for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeBeta_N_4": {
+    "korean": "적 전체 전기 저항 감소. 아군 기동형 수에 따라 효과 증폭.",
+    "english": "All enemies Electric Resist decreased. Effect amplified by number of Air allies."
+  },
+  "SkillDesc_Skill_PECS_LemonadeBeta_N_5": {
+    "korean": "라운드 개시 시, 적 전체의 화염 저항을 감소시킵니다.&n아군 스쿼드의 중장형 수에 따라 다음 효과가 추가로 적용됩니다.&n- 3기 이하 : 화염 저항 감소 효과가 두 배로 증폭됩니다.&n- 2기 이하 : 화염 저항 감소 효과가 대상의 효과 저항을 무시합니다.&n- 1기 이하 : 전투 개시 시, 2라운드 동안 적 보호기의 받는 피해를 증가시킵니다.",
+    "english": "At the start of the round, decreases all enemies' Fire Resist. Additional effects are applied based on the number of Heavy allies in the squad: - 3 or fewer: Fire Resist reduction is doubled. - 2 or fewer: Fire Resist reduction ignores the target's Status Resist. - 1 or fewer: At battle start, increases DMG Taken of enemy defenders for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_LemonadeBeta_N_5": {
+    "korean": "적 전체 화염 저항 감소. 아군 중장형 수에 따라 효과 증폭.",
+    "english": "All enemies Fire Resist decreased. Effect amplified by number of Heavy allies."
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_12": {
+    "korean": "바쁜 비버 달래는 중…",
+    "english": "Calming the busy beaver..."
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_22": {
+    "korean": "고무호스 준비중…",
+    "english": "Preparing the rubber hose..."
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_1": {
+    "korean": "잘… 가요 : 속성 저항 반전 해제",
+    "english": "Well... go : Reverse Elemental Resist Debuff Removal"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeBeta_N_1": {
+    "korean": "애도의 시간 : 받는 피해 {0}% 감소",
+    "english": "Time of Mourning : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_PECS_LemonadeBeta_N_1": {
+    "korean": "무기 체계 역산 : 피해 무효화 (보호기)",
+    "english": "Weapon System Reversal : Damage Nullification (Defender)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_11": {
+    "korean": "잘… 가요 : 화염 저항 반전 해제",
+    "english": "Well... go : Reverse Fire Resist Debuff Removal"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeBeta_N_11": {
+    "korean": "잘… 가요 : 냉기 저항 반전 해제",
+    "english": "Well... go : Reverse Cold Resist Debuff Removal"
+  },
+  "BuffDesc3_Effect_PECS_LemonadeBeta_N_11": {
+    "korean": "잘… 가요 : 전기 저항 반전 해제",
+    "english": "Well... go : Reverse Electric Resist Debuff Removal"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_13": {
+    "korean": "애도의 시간 : 받는 피해 {0}% 감소",
+    "english": "Time of Mourning : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_2": {
+    "korean": "날이… 좋네요 : 속성 저항 하한 해제",
+    "english": "The weather is... nice : Minimum Elemental Resist Removal"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeBeta_N_2": {
+    "korean": "여우볕 : 효과 저항 {0}% 증가",
+    "english": "Fox Sun : Status Resist {0}% Increase"
+  },
+  "BuffDesc3_Effect_PECS_LemonadeBeta_N_2": {
+    "korean": "텐서 알고리즘 : AP {0} (공격기)",
+    "english": "Tensor Algorithm : AP {0} (Attacker)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_21": {
+    "korean": "날이… 좋네요 : 화염 저항 하한 해제",
+    "english": "The weather is... nice : Minimum Fire Resist Removal"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeBeta_N_21": {
+    "korean": "날이… 좋네요 : 냉기 저항 하한 해제",
+    "english": "The weather is... nice : Minimum Cold Resist Removal"
+  },
+  "BuffDesc3_Effect_PECS_LemonadeBeta_N_21": {
+    "korean": "날이… 좋네요 : 전기 저항 하한 해제",
+    "english": "The weather is... nice : Minimum Electric Resist Removal"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_23": {
+    "korean": "여우볕 : 효과 저항 {0}% 증가",
+    "english": "Fox Sun : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_3": {
+    "korean": "희극 : 냉기 저항 {0}%",
+    "english": "Comedy : Cold Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeBeta_N_3": {
+    "korean": "비극 : 강화 불가 (공격기)",
+    "english": "Tragedy : Buff Prevention (Attacker)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_34": {
+    "korean": "비극 : 강화 불가",
+    "english": "Tragedy : Buff Prevention"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_14": {
+    "korean": "무기 체계 역산 : 피해 무효화",
+    "english": "Weapon System Reversal : Damage Nullification"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_24": {
+    "korean": "텐서 알고리즘 : AP {0}",
+    "english": "Tensor Algorithm : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_4": {
+    "korean": "우울 : 전기 저항 {0}%",
+    "english": "Melancholy : Electric Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeBeta_N_4": {
+    "korean": "유쾌 : 행동력 {0}% (지원기)",
+    "english": "Cheerful : SPD {0}% (Supporter)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_43": {
+    "korean": "유쾌 : 행동력 {0}%",
+    "english": "Cheerful : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_5": {
+    "korean": "조화 : 화염 저항 {0}%",
+    "english": "Harmony : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_LemonadeBeta_N_5": {
+    "korean": "부조화 : 받는 피해 {0}% 증가 (보호기)",
+    "english": "Discord : DMG Taken Increased {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_PECS_LemonadeBeta_N_53": {
+    "korean": "부조화 : 받는 피해 {0}% 증가",
+    "english": "Discord : DMG Taken Increased {0}%"
+  }
+}

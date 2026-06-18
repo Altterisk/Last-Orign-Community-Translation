@@ -1,0 +1,194 @@
+{
+  "1002707507": {
+    "korean": "징벌",
+    "english": "Judgement"
+  },
+  "1002707508": {
+    "korean": "이단자여, 속죄하라",
+    "english": "Heretic, Repent"
+  },
+  "1002707509": {
+    "korean": "심판의 날개",
+    "english": "Wings of Judgment"
+  },
+  "1002707510": {
+    "korean": "깊어지는 신앙",
+    "english": "Deepening Faith"
+  },
+  "1002707511": {
+    "korean": "최후의 성전",
+    "english": "Last Sanctuary"
+  },
+  "1002708237": {
+    "korean": "목표 지점의 적에게 {0} 전기 피해를 주고, 2라운드 동안 적중 대상을 표식 상태로 만듭니다. <고행> 중첩 수에 따라 2라운드 동안 대상이 받는 피해를 증가 시킵니다. (3중첩 시 최대 효과)",
+    "english": "Deals {0} Electric damage to enemies at the target location and applies Marked for 2 rounds. Increases DMG Taken for 2 rounds based on the number of <Penance> stacks. (Maximum effect at 3 stacks)"
+  },
+  "1002708242": {
+    "korean": "목표 지점 대상 {0} 전기 피해. 표식 / <고행> 중첩 비례 피해 증폭",
+    "english": "Target location {0} Electric damage. Marked / Damage amplification proportional to <Penance> stacks"
+  },
+  "1002708238": {
+    "korean": "대상에게 {0} 보호 무시 전기 피해를 줍니다. <고행> 중첩 수에 따라 2라운드 동안 대상이 받는 피해를 증가시킵니다. (5중첩 시 최대 효과)",
+    "english": "Deals {0} Electric damage that ignores protection to the target. Increases DMG Taken for 2 rounds based on the number of <Penance> stacks. (Maximum effect at 5 stacks)"
+  },
+  "1002708243": {
+    "korean": "단일 대상 {0} 보호 무시 전기 피해. <고행> 중첩 비례 피해 증폭",
+    "english": "Single target {0} Electric damage ignoring protection. Damage amplification proportional to <Penance> stacks"
+  },
+  "1002708239": {
+    "korean": "라운드 개시 시, 범위 내 아군의 전기 저항을 증가시키고 공격기와 지원기를 지정 보호합니다. 자신은 전기 저항이 50% 추가로 증가합니다. 적이 처치될 경우, 2라운드 동안 범위 내 아군에게 공격력 / 행동력 증가와 받는 피해 감소 효과가 적용됩니다.",
+    "english": "At the start of the round, increases Electric Resist of allies within range and designates Attacker and Supporter for Target Protect. Self gains an additional 50% Electric Resist. When an enemy is killed, grants allies within range increased ATK / SPD and DMG Reduction for 2 rounds."
+  },
+  "1002708244": {
+    "korean": "전기 저항 증가. 공격기 / 지원기 지정 보호. 적 사망 시 공격력 / 행동력 증가 / 받는 피해 감소",
+    "english": "Increases Electric Resist. Designates Attacker / Supporter for Target Protect. On enemy death: increases ATK / SPD / reduces DMG Taken"
+  },
+  "1002708240": {
+    "korean": "전투 개시 시, 적 수가 (1/3/5) 이상이면 받는 피해가 최대 3회까지 감소합니다. 적이 5기 이상이면 자신에게 이로운 표식 효과가 적용됩니다. 피격 시, <고행> 상태가 되어 효과 저항이 최대 5회까지 증가합니다. 표식 상태에서 피격 시, 자신의 AP가 증가합니다.",
+    "english": "At the start of battle, if the number of enemies is (1/3/5) or more, DMG Taken is reduced up to 3 times. If there are 5 or more enemies, applies a beneficial Marked effect to self. When hit, enters <Penance> state and increases Status Resist up to 5 times. When hit while Marked, increases self AP."
+  },
+  "1002708245": {
+    "korean": "적 수가 많을수록 받는 피해 감소. 피격 시, 효과 저항 증가. 표식 상태에서 피격 시 AP 증가",
+    "english": "The more enemies there are, the less DMG Taken. When hit: increases Status Resist. When hit while Marked: increases AP"
+  },
+  "1002708241": {
+    "korean": "전투 개시 시, 스쿼드 내 <코헤이 교단> 아군 수에 비례하여 적 전체에 받는 피해 증가 효과가 적용됩니다(최대 5중첩). 스쿼드에 <아자젤>이 있으면 자신의 공격력이 증가하며, 다른 <코헤이 교단> 아군이 있는 경우 추가 증가합니다.",
+    "english": "At the start of battle, applies increased DMG Taken to all enemies proportionate to the number of <Kouhei Sect> allies in the squad (max 5 stacks). If <Azazel> is in the squad, increases self ATK, and if there are other <Kouhei Sect> allies, increases further."
+  },
+  "1002708246": {
+    "korean": "<코헤이 교단> 부대원 수 비례 적 전체에 피해 증폭. <아자젤>, <코헤이 교단>이 있으면 공격력 증가",
+    "english": "Damage amplification to all enemies proportional to number of <Kouhei Sect> squad members. If <Azazel> and <Kouhei Sect> are present: increases ATK"
+  },
+  "1000110904": {
+    "korean": "표식 상태에서 피격 시 AP{0}",
+    "english": "When Hit While Marked: AP {0}"
+  },
+  "1000110876": {
+    "korean": "징벌 : 표식 지정",
+    "english": "Judgement : Marks target"
+  },
+  "1000110897": {
+    "korean": "징벌 : 받는 피해{0}% (최대)",
+    "english": "Judgement : DMG Taken {0}% (Max)"
+  },
+  "1000110881": {
+    "korean": "징벌 : 받는 피해{0}%",
+    "english": "Judgement : DMG Taken {0}%"
+  },
+  "1000110882": {
+    "korean": "호된 징벌 : 받는 피해{0}%",
+    "english": "Harsh Punishment : DMG Taken {0}%"
+  },
+  "1000110877": {
+    "korean": "이단자여, 속죄하라 : 받는 피해{0}%",
+    "english": "Heretic, Repent : DMG Taken {0}%"
+  },
+  "1000110898": {
+    "korean": "이단자여, 속죄하라 : 받는 피해{0}% (최대)",
+    "english": "Heretic, Repent : DMG Taken {0}% (Max)"
+  },
+  "1000110883": {
+    "korean": "이단자여, 속죄하라! : 받는 피해{0}%",
+    "english": "Heretic, Repent! : DMG Taken {0}%"
+  },
+  "1000110884": {
+    "korean": "이단자여, 속죄하라!! : 받는 피해{0}%",
+    "english": "Heretic, Repent!! : DMG Taken {0}%"
+  },
+  "1000110878": {
+    "korean": "심판의 날개 : 지정 보호(공격기/지원기)",
+    "english": "Wings of Judgment : Target Protect (Attacker/Supporter)"
+  },
+  "1000110899": {
+    "korean": "심판의 날개 : 전기 저항{0}%",
+    "english": "Wings of Judgment : Electric Resist {0}%"
+  },
+  "1000110903": {
+    "korean": "이단 심판 : 공격력{0}% (적 사망 시)",
+    "english": "Heresy Judgment : ATK {0}% (On Enemy Death)"
+  },
+  "1000110906": {
+    "korean": "이단 심판 : 행동력{0}% (적 사망 시)",
+    "english": "Heresy Judgment : SPD {0}% (On Enemy Death)"
+  },
+  "1000110908": {
+    "korean": "이단 심판 : 받는 피해 감소 {0}% (적 사망 시)",
+    "english": "Heresy Judgment : DMG Reduction {0}% (On Enemy Death)"
+  },
+  "1000110885": {
+    "korean": "심판의 날개 : 전기 저항{0}% (자신)",
+    "english": "Wings of Judgment : Electric Resist {0}% (Self)"
+  },
+  "1000110886": {
+    "korean": "이단 심판 : 공격력{0}%",
+    "english": "Heresy Judgment : ATK {0}%"
+  },
+  "1000110902": {
+    "korean": "이단 심판 : 행동력{0}%",
+    "english": "Heresy Judgment : SPD {0}%"
+  },
+  "1000110905": {
+    "korean": "이단 심판 : 받는 피해 감소 {0}%",
+    "english": "Heresy Judgment : DMG Reduction {0}%"
+  },
+  "1000110879": {
+    "korean": "깊어지는 신앙 : 받는 피해 감소 {0}%",
+    "english": "Deepening Faith : DMG Reduction {0}%"
+  },
+  "1000110900": {
+    "korean": "깊어지는 신앙 : 표식 (적 5기 이상 시)",
+    "english": "Deepening Faith : Marked (When 5 or more enemies)"
+  },
+  "1000110907": {
+    "korean": "고행 : 효과 저항{0}% (최대 5중첩)",
+    "english": "Ascetic Torment : Status Resist {0}% (max 5 stacks)"
+  },
+  "1000110887": {
+    "korean": "흔들리지 않는 신앙 : 받는 피해 감소 {0}%",
+    "english": "Unshakable Faith : DMG Reduction {0}%"
+  },
+  "1000110888": {
+    "korean": "광신 : 받는 피해 감소 {0}%",
+    "english": "Fanatic Zeal : DMG Reduction {0}%"
+  },
+  "1000110889": {
+    "korean": "깊어지는 신앙 : 표식 지정 (자신)",
+    "english": "Deepening Faith : Marks target (Self)"
+  },
+  "1000110890": {
+    "korean": "깊어지는 신앙 : AP{0}",
+    "english": "Deepening Faith : AP {0}"
+  },
+  "1000110891": {
+    "korean": "고행 : 효과 저항{0}%",
+    "english": "Ascetic Torment : Status Resist {0}%"
+  },
+  "1000110896": {
+    "korean": "최후의 성전 : 공격력{0}%",
+    "english": "Last Sanctuary : ATK {0}%"
+  },
+  "1000110880": {
+    "korean": "최후의 성전 : 받는 피해{0}%",
+    "english": "Last Sanctuary : DMG Taken {0}%"
+  },
+  "1000110901": {
+    "korean": "최후의 성전 : 공격력{0}% (자신/조건부)",
+    "english": "Last Sanctuary : ATK {0}% (Self/conditional)"
+  },
+  "1000110892": {
+    "korean": "최후의 성전 (아자젤) : 받는 피해{0}%",
+    "english": "Final Crusade (Azazel) : DMG Taken {0}%"
+  },
+  "1000110893": {
+    "korean": "최후의 성전 (라미엘) : 받는 피해{0}%",
+    "english": "Final Crusade (Ramiel) : DMG Taken {0}%"
+  },
+  "1000110894": {
+    "korean": "최후의 성전 (엔젤) : 받는 피해{0}%",
+    "english": "Final Crusade (Angel) : DMG Taken {0}%"
+  },
+  "1000110895": {
+    "korean": "최후의 성전 (베로니카) : 받는 피해{0}%",
+    "english": "Final Crusade (Veronica) : DMG Taken {0}%"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "SkillName_Skill_BR_Khan_N_1": {
+    "korean": "영거리 포격",
+    "english": "Long-range Barrage"
+  },
+  "SkillDesc_Skill_BR_Khan_N_1": {
+    "korean": "근접 포격으로 단일 대상에게 {0} 피해를 줍니다. &n적중 시, 2라운드 동안 대상에게 표식을 부여하고 받는 피해를 증가시킵니다. (중첩 불가)&n치명타 시, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to a single target with a close-range shelling. On hit, applies Marked to the target for 2 rounds and increases DMG Taken. (Cannot stack) Critical hits increase the damage."
+  },
+  "SkillDescSimple_Skill_BR_Khan_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상 표식 / 받는 피해 증가. 치명타 시, 피해량 증가.",
+    "english": "Deals {0} damage to a single target. Grants Marked to the target / increases DMG Taken. Critical hits increase the damage."
+  },
+  "BuffDesc1_Effect_BR_Khan_N_1": {
+    "korean": "영거리 포격 : 피해량 {0}%",
+    "english": "Long-range Barrage : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Khan_N_1": {
+    "korean": "틈새 포착 : 표식",
+    "english": "Spot the Gap: Marked"
+  },
+  "BuffDesc3_Effect_BR_Khan_N_1": {
+    "korean": "틈새 포착 : 받는 피해 {0}% 증가",
+    "english": "Exploit Weakness: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_Khan_N_11": {
+    "korean": "틈새 포착 : 표식",
+    "english": "Spotting the Gap : Marked"
+  },
+  "BuffDesc1_Effect_BR_Khan_N_12": {
+    "korean": "틈새 포착 : 받는 피해 {0}% 증가",
+    "english": "Exploit Weakness: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_QuickCamel_N_410": {
+    "korean": "연계 기동 : [180mm 로켓포] 협동 공격",
+    "english": "Linked Maneuver: [180mm Rocket Launcher] Cooperative Attack"
+  },
+  "SkillName_Skill_BR_Khan_N_2": {
+    "korean": "데저트 스톰",
+    "english": "Desert Storm"
+  },
+  "SkillDesc_Skill_BR_Khan_N_2": {
+    "korean": "고속 연계 공격으로 단일 대상에게 {0} 보호 무시 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 표식을 부여하고 받는 피해를 증가시킵니다. (중첩 불가)&n치명타 시, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to a single target, ignoring protection, with a rapid combo attack. On hit, applies Marked to the target for 2 rounds and increases DMG Taken. (Cannot stack) Critical hits increase the damage."
+  },
+  "SkillDescSimple_Skill_BR_Khan_N_2": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 대상 표식 / 받는 피해 증가. 치명타 시, 피해량 증가.",
+    "english": "Deals {0} damage to a single target, ignoring protection. Grants Marked to the target / increases DMG Taken. Critical hits increase the damage."
+  },
+  "BuffDesc1_Effect_BR_Khan_N_2": {
+    "korean": "데저트 스톰 : 피해량 {0}%",
+    "english": "Desert Storm : Additional DMG {0}%"
+  },
+  "SkillName_Skill_BR_Khan_N_3": {
+    "korean": "굶주린 늑대",
+    "english": "Hungry Wolf"
+  },
+  "SkillDesc_Skill_BR_Khan_N_3": {
+    "korean": "전투 개시 시 자신이 전열인 경우, 아군의 AP가 증가합니다. 자신은 효과가 두 배로 증폭됩니다.&n라운드 개시 시, 아군의 공격력 / 적중 / 치명타가 증가합니다.&n<앵거 오브 호드> 소속 전투원을 제외한 중장형 / 기동형 아군에게는 상기 효과의 50%만 적용됩니다.",
+    "english": "When battle begins, if you are in the front line, your allies' AP increases and your effect is doubled. At the start of each round, your allies' ATK, ACC, and CRIT increase. For Heavy and Air-type allies not belonging to <Anger of Hord>, only 50% of these effects apply."
+  },
+  "SkillDescSimple_Skill_BR_Khan_N_3": {
+    "korean": "아군 AP / 공격력 / 적중 / 치명타 증가. 조건부 효과 증감.",
+    "english": "Increases allies' AP, ATK, ACC, and CRIT. Conditional effect increases or decreases."
+  },
+  "BuffDesc1_Effect_BR_Khan_N_3": {
+    "korean": "굶주린 늑대 : AP {0}",
+    "english": "Hungry Wolf : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Khan_N_3": {
+    "korean": "굶주린 늑대 : 공격력 {0}%",
+    "english": "Hungry Wolf : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_Khan_N_3": {
+    "korean": "굶주린 늑대 : 적중 {0}%",
+    "english": "Hungry Wolf : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Khan_N_3": {
+    "korean": "굶주린 늑대 : 치명타 {0}%",
+    "english": "Hungry Wolf : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Khan_N_34": {
+    "korean": "굶주린 늑대 : 공격력 {0}%",
+    "english": "Hungry Wolf : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Khan_N_34": {
+    "korean": "굶주린 늑대 : 적중 {0}%",
+    "english": "Hungry Wolf : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Khan_N_34": {
+    "korean": "굶주린 늑대 : 치명타 {0}%",
+    "english": "Hungry Wolf : CRIT {0}%"
+  },
+  "SkillName_Skill_BR_Khan_N_4": {
+    "korean": "틈새 노리기",
+    "english": "Aiming for an Opening"
+  },
+  "SkillDesc_Skill_BR_Khan_N_4": {
+    "korean": "라운드 개시 시, 자신은 회피 비례 스킬 위력 감쇄 효과를 획득합니다.&n라운드 개시 시, 자신의 회피가 증가하고 표식을 획득합니다. 해당 효과는 효과 해제로 해제할 수 없습니다.&n라운드 개시 시, 범위 내 자신을 제외한 <앵거 오브 호드> 소속 전투원의 회피를 증가시킵니다. 해당 효과는 회피 시 해제됩니다.",
+    "english": "At the start of the round, you gain a skill power reduction effect proportional to your EVA. At the start of the round, your EVA increases and you gain a Marked. This effect cannot be dispelled. At the start of the round, the EVA of <Anger of Hord> units within range, excluding yourself, is increased. This effect is removed when evading."
+  },
+  "SkillDescSimple_Skill_BR_Khan_N_4": {
+    "korean": "자신 회피 증가 / 표식 / 회피 비례 스킬 위력 감쇄. <앵거 오브 호드> 소속 회피 증가.",
+    "english": "Increases your EVA, grants Marked, and reduces skill power based on EVA. Increases EVA for <Anger of Hord> units."
+  },
+  "BuffDesc1_Effect_BR_Khan_N_4": {
+    "korean": "찰나의 활로 : 스킬 위력 감쇄 {0}% (회피 비례)",
+    "english": "Momentary Escape: Skill Power Reduction {0}% (EVA-based)"
+  },
+  "BuffDesc2_Effect_BR_Khan_N_4": {
+    "korean": "틈새 노리기 : 회피 {0}% (자신)",
+    "english": "Aiming for an Opening : EVA {0}% (Self)"
+  },
+  "BuffDesc3_Effect_BR_Khan_N_4": {
+    "korean": "틈새 노리기 : 표식 (자신)",
+    "english": "Aiming for an Opening: Marked (Self)"
+  },
+  "BuffDesc4_Effect_BR_Khan_N_4": {
+    "korean": "뒤쳐지지 마라! : 회피 {0}% (앵거 오브 호드)",
+    "english": "Don't fall behind! : EVA {0}% (Anger of Horde)"
+  },
+  "BuffDesc1_Effect_BR_Khan_N_41": {
+    "korean": "틈새 노리기 : 회피 {0}%",
+    "english": "Aiming for an Opening : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Khan_N_41": {
+    "korean": "틈새 노리기 : 표식",
+    "english": "Aiming for an Opening : Marked"
+  },
+  "BuffDesc1_Effect_BR_Khan_N_42": {
+    "korean": "뒤쳐지지 마라! : 회피 {0}%",
+    "english": "Don’t Fall Behind! : EVA {0}%"
+  },
+  "SkillName_Skill_BR_Khan_N_5": {
+    "korean": "전의 고양",
+    "english": "Savage Cat"
+  },
+  "SkillDesc_Skill_BR_Khan_N_5": {
+    "korean": "라운드 개시 시, 자신의 방어 관통 / 대 경장형 / 중장형 피해량이 증가합니다. &n라운드 개시 시, 3라운드 동안 자신의 공격력 / 행동력이 증가합니다.&n적 처치 시, 2라운드 동안 자신의 공격력 / 행동력이 증가합니다.",
+    "english": "At the start of the round, your DEF Penetration, Anti-Light DMG, and Anti-Heavy DMG increase. At the start of the round, your ATK and SPD increase for 3 rounds. When you defeat an enemy, your ATK and SPD increase for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Khan_N_5": {
+    "korean": "자신 방어 관통 / 대 경장형 / 중장형 피해량 / 공격력 / 행동력 증가.",
+    "english": "Increases your DEF Penetration, Anti-Light DMG, Anti-Heavy DMG, ATK, and SPD."
+  },
+  "BuffDesc1_Effect_BR_Khan_N_5": {
+    "korean": "전의 고양 : 방어 관통 {0}%",
+    "english": "Savage Cat : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_Khan_N_5": {
+    "korean": "전의 고양 : 대 경장형 피해량 {0}%",
+    "english": "Savage Cat : Anti-Light DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_Khan_N_5": {
+    "korean": "전의 고양 : 대 중장형 피해량 {0}%",
+    "english": "Savage Cat : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc4_Effect_BR_Khan_N_5": {
+    "korean": "전의 고양 : 공격력 {0}%",
+    "english": "Savage Cat : ATK {0}%"
+  },
+  "BuffDesc5_Effect_BR_Khan_N_5": {
+    "korean": "전의 고양 : 행동력 {0}%",
+    "english": "Savage Cat : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Khan_N_51": {
+    "korean": "전의 고양 : 공격력 {0}%",
+    "english": "Savage Cat : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Khan_N_51": {
+    "korean": "전의 고양 : 행동력 {0}%",
+    "english": "Savage Cat : SPD {0}%"
+  }
+}

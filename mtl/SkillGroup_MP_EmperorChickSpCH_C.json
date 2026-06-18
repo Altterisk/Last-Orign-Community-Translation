@@ -1,0 +1,122 @@
+{
+  "1000102372": {
+    "korean": "칙 머신캐논",
+    "english": "Chick Machine Cannon"
+  },
+  "1002702739": {
+    "korean": "분노의 칙 파이널 어택",
+    "english": "Rage Chick Final Attack"
+  },
+  "1000102375": {
+    "korean": "낙오자",
+    "english": "Outlier"
+  },
+  "1002702745": {
+    "korean": "지휘 집중",
+    "english": "Command Focus"
+  },
+  "1002702740": {
+    "korean": "명령",
+    "english": "Command"
+  },
+  "1002703643": {
+    "korean": "대구경 기관포로 {0} 피해를 주고, 대상에게 무작위 방해 효과를 부여합니다.",
+    "english": "Deals {0} damage with a large-caliber machine gun and applies a random crowd control effect to the target."
+  },
+  "1002703644": {
+    "korean": "끓어오르는 분노를 소모하여 중장형을 선 타겟으로 전 무장을 발사해 목표 범위에 {0} 피해를 줍니다. 목표 중심점 밖일수록 피해가 감소합니다.",
+    "english": "Consumes Boiling Rage to fire all weapons at a heavy type as the primary target, dealing {0} damage to the target area. Damage decreases the farther it is from the target's center point."
+  },
+  "1002703645": {
+    "korean": "철충들이 낙오(파괴)될 때마다 <복수심>이 적용 되고 낙오한 철충이 10마리가 될 시 <끓어오르는 분노> 상태로 <분노의 칙 파이널 어택> 스킬을 사용합니다. 적 군이 사망 시 <사라진 분노>가 적용 되고 3라운드 동안 철충들이 낙오(파괴)되더라도 <복수심>이 발동되지 않습니다.&n&n복수심 : 공격력 / 방어력 / 적중률 증가&n끓어오르는 분노 : 해당 상태가 적용 되있을 시 <분노의 칙 파이널 어택> 스킬 사용&n사라진 분노 : 공격력 / 방어력 감소       낙오자 발생 : 철충들이 낙오(파괴) 된 상태",
+    "english": "Whenever Iron Bugs are destroyed, <Revenge> is applied, and when 10 Iron Bugs have been destroyed, the <Boiling Rage> state is triggered to use the <Rage Chick Final Attack> skill. When an enemy unit dies, <Lost Rage> is applied, and for 3 rounds <Revenge> will not activate even if Iron Bugs are destroyed."
+  },
+  "1002703647": {
+    "korean": "라운드 개시 시 철충들을 일사불란하게 지휘하기 위해&n<지휘 집중>이 적용 됩니다.&n&n지휘 집중 : 해제 불가의 해로운 효과 저항 적용",
+    "english": "At the start of the round, <Command Focus> is applied to coordinate the Iron Bugs uniformly. <Command Focus>: Applies unremovable Harmful Effect Resist."
+  },
+  "1002703648": {
+    "korean": "라운드 개시 시 주위의 모든 철충들에게 쓰러져도 다시 일어날 수 있도록 <근성>을 부여하고 일정 확률로 <공격 명령>을 내립니다.&n&n근성 : 해제 불가의 전투 속행 효과&n공격 명령 : 높은 확률로 방어 관통 / 방어막 무시 / 피해 감소 무시 효과 적용",
+    "english": "At the start of the round, grants <Grit> to all surrounding Iron Bugs so they can get back up even after being knocked down, and issues <Attack Command> with a certain probability. <Grit>: Unremovable combat continuation effect. <Attack Command>: High probability of applying DEF Penetration / Ignore Barrier / DMG Reduction effects."
+  },
+  "1000105330": {
+    "korean": "복수심 : 적중률 {0}%",
+    "english": "Revenge : ACC {0}%"
+  },
+  "1000104135": {
+    "korean": "공격 명령 하달",
+    "english": "Issue Attack Command"
+  },
+  "1000102376": {
+    "korean": "낙오자 발생",
+    "english": "Outlier Spawn"
+  },
+  "1000102377": {
+    "korean": "끓어오르는 분노",
+    "english": "Boiling Rage"
+  },
+  "1000104136": {
+    "korean": "사라진 분노 : 복수심 해제",
+    "english": "Lost Rage : Revenge removed"
+  },
+  "1000102382": {
+    "korean": "공격 명령",
+    "english": "Attack Command"
+  },
+  "1000103102": {
+    "korean": "무장 파괴 : 공격력 {0}%",
+    "english": "Armament Break : ATK {0}%"
+  },
+  "1000104472": {
+    "korean": "조준기 파괴 : 적중 {0}%",
+    "english": "Sightbreak : ACC {0}%"
+  },
+  "1000102837": {
+    "korean": "장갑 파괴 : 방어력 {0}%",
+    "english": "Armor Break : DEF {0}%"
+  },
+  "1000105404": {
+    "korean": "추진기 파괴 : 회피 {0}%",
+    "english": "Thruster Break : EVA {0}%"
+  },
+  "1000103046": {
+    "korean": "약점 노출 : 받는 피해{0}%",
+    "english": "Exposed Weakness : DMG Taken {0}%"
+  },
+  "1000104133": {
+    "korean": "분노의 칙 파이널 어택 : 피해량{0}%",
+    "english": "Furious Chick Final Attack : Additional DMG {0}%"
+  },
+  "1000104134": {
+    "korean": "복수심 : 공격력 {0}%",
+    "english": "Vengeance : ATK {0}%"
+  },
+  "1000104894": {
+    "korean": "복수심 : 방어력 {0}%",
+    "english": "Vengeance : DEF {0}%"
+  },
+  "1000104895": {
+    "korean": "사라진 분노 : 공격력 {0}%",
+    "english": "Lost Fury : ATK {0}%"
+  },
+  "1000105331": {
+    "korean": "사라진 분노 : 방어력 {0}%",
+    "english": "Lost Fury : DEF {0}%"
+  },
+  "1000104137": {
+    "korean": "지휘 집중 : 효과 저항{0}%",
+    "english": "Concentration of command : Status Resist {0}%"
+  },
+  "1000104129": {
+    "korean": "근성 : {0}HP로 전투 속행",
+    "english": "Grit : Battle Continuation with {0} HP"
+  },
+  "1000104138": {
+    "korean": "공격 명령 : 방어막 / 피해 감소 무시",
+    "english": "Attack Command : Ignore Barrier / DMG Reduction"
+  },
+  "1000104896": {
+    "korean": "공격 명령 : 방어 관통 {0}%",
+    "english": "Attack Command : DEF Penetration {0}%"
+  }
+}

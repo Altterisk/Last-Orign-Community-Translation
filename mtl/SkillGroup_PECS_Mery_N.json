@@ -1,0 +1,158 @@
+{
+  "SkillName_Skill_PECS_Mery_N_1": {
+    "korean": "아틀리에 청소",
+    "english": "Atelier Cleaning"
+  },
+  "SkillName_Skill_PECS_Mery_N_2": {
+    "korean": "맞춤형 걸작",
+    "english": "Custom Masterpiece"
+  },
+  "SkillName_Skill_PECS_Mery_N_3": {
+    "korean": "아틀리에의 소녀",
+    "english": "Atelier Girl"
+  },
+  "SkillName_Skill_PECS_Mery_N_4": {
+    "korean": "보호본능 유발",
+    "english": "Induce Protective Instinct"
+  },
+  "SkillName_Skill_PECS_Mery_N_5": {
+    "korean": "흔들리지 않는 신념",
+    "english": "Unshakable Conviction"
+  },
+  "SkillDesc_Skill_PECS_Mery_N_1": {
+    "korean": "청소를 겸해 잡동사니를 내던져 지정 범위에 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상의 공격력 / 회피를 감소시킵니다.&n스킬 사용 후, 한결 가뿐해져 2라운드 동안 자신의 행동력이 증가합니다.",
+    "english": "While cleaning, throw clutter to deal {0} damage to the designated area. On hit, reduce the target's ATK / EVA for 2 rounds. After using the skill, feel lighter and increase your SPD for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Mery_N_1": {
+    "korean": "지정 범위 {0} 피해. 대상 공격력 / 회피 감소. 자신 행동력 증가.",
+    "english": "Designated area {0} damage. Target ATK / EVA reduced. Self SPD increased."
+  },
+  "SkillDesc_Skill_PECS_Mery_N_2": {
+    "korean": "대상 아군에게 걸작을 선사하여 역할군에 따라 2라운드 동안 다음 효과를 부여합니다.&n- 공격기 : 공격력 증가 / 보호기 : 받는 피해 감소 / 지원기 : 행동력 증가",
+    "english": "Grant a masterpiece to an allied unit, giving the following effects for 2 rounds based on its role: Attacker: ATK increased / Defender: DMG Reduction / Supporter: SPD increased."
+  },
+  "SkillDescSimple_Skill_PECS_Mery_N_2": {
+    "korean": "아군 공격기 공격력 증가. 아군 보호기 받는 피해 감소. 아군 지원기 행동력 증가.",
+    "english": "Allied Attacker ATK increased. Allied Defender DMG Reduction. Allied Supporter SPD increased."
+  },
+  "SkillDesc_Skill_PECS_Mery_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군 공격기의 공격력 / 행동력을 증가시킵니다.&n대상이 HP 95% 이상인 기동/경장형인 경우, 추가로 방어막 / 피해 감소 무시 효과를 부여합니다.",
+    "english": "At the start of the round, increase the ATK / SPD of allied Attackers within the area. If the target is Air/light type with HP 95% or higher, also grant Ignore Barrier / DMG Reduction."
+  },
+  "SkillDescSimple_Skill_PECS_Mery_N_3": {
+    "korean": "아군 공격기 공격력 / 행동력 증가. 조건부 방어막 / 피해 감소 무시.",
+    "english": "Allied Attacker ATK / SPD increased. Conditional Ignore Barrier / DMG Reduction."
+  },
+  "SkillDesc_Skill_PECS_Mery_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군 보호기에게 표식을 부여하고 방어력을 증가시킵니다.&n자신이 피격 시, 자신의 AP가 증가합니다.",
+    "english": "At the start of the round, grant a Mark to allied Defenders within the area and increase their DEF. When you are hit, increase your AP."
+  },
+  "SkillDescSimple_Skill_PECS_Mery_N_4": {
+    "korean": "아군 보호기 표식 / 방어력 증가. 피격 시, 자신 AP 증가.",
+    "english": "Allied Defender Mark / DEF increased. When hit, AP increased."
+  },
+  "SkillDesc_Skill_PECS_Mery_N_5": {
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가하고 받는 피해가 감소합니다.&n라운드 개시 시, 활성화된 <맞춤형 걸작> 지속 효과의 50%를 자신의 패시브 스킬 효과 대상에게 부여합니다.&n<아틀리에의 소녀>에 의한 추가 효과가, 조건 중 어느 한 쪽만 충족되어도 발동할 수 있게 됩니다.",
+    "english": "At the start of the round, increase your Status Resist and reduce DMG taken. At the start of the round, grant 50% of the active <Custom Masterpiece> continuous effect to the target of your passive skill. The additional effect from <Atelier Girl> can activate when either condition is met."
+  },
+  "SkillDescSimple_Skill_PECS_Mery_N_5": {
+    "korean": "자신 효과 저항 증가 / 받는 피해 감소. 패시브 스킬 강화.",
+    "english": "Self Status Resist increased / DMG taken reduced. Passive skill enhanced."
+  },
+  "BuffDesc3_Effect_PECS_Mery_N_5": {
+    "korean": "패시브 스킬 강화",
+    "english": "Passive Skill Enhancement :"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_57": {
+    "korean": "TACTICS Lv.5",
+    "english": "TACTICS Lv.5 :"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_1": {
+    "korean": "아틀리에 청소 : 공격력 {0}%",
+    "english": "Atelier cleaning : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Mery_N_1": {
+    "korean": "아틀리에 청소 : 회피 {0}%",
+    "english": "Atelier cleaning : EVA {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Mery_N_1": {
+    "korean": "아틀리에 청소 : 행동력 {0}%",
+    "english": "Atelier cleaning : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_11": {
+    "korean": "아틀리에 청소 : 행동력 {0}%",
+    "english": "Atelier cleaning : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_2": {
+    "korean": "맞춤형 걸작 : 공격력 {0}% (공격기)",
+    "english": "Custom masterpiece : ATK {0}% (Attacker)"
+  },
+  "BuffDesc2_Effect_PECS_Mery_N_2": {
+    "korean": "맞춤형 걸작 : 받는 피해 {0}% 감소 (보호기)",
+    "english": "Custom masterpiece : DMG Reduction {0}% (Defender)"
+  },
+  "BuffDesc3_Effect_PECS_Mery_N_2": {
+    "korean": "맞춤형 걸작 : 행동력 {0}% (지원기)",
+    "english": "Custom masterpiece : SPD {0}% (Supporter)"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_21": {
+    "korean": "맞춤형 걸작 : 받는 피해 {0}% 감소 (보호기)",
+    "english": "Custom masterpiece : DMG Reduction {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_22": {
+    "korean": "맞춤형 걸작 : 행동력 {0}% (지원기)",
+    "english": "Custom masterpiece : SPD {0}% (Supporter)"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_3": {
+    "korean": "아틀리에의 소녀 : 공격력 {0}%",
+    "english": "The Girl of the Atelier : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Mery_N_3": {
+    "korean": "아틀리에의 소녀 : 행동력 {0}%",
+    "english": "The Girl of the Atelier : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Mery_N_3": {
+    "korean": "아틀리에의 소녀 : 방어막 / 피해 감소 무시",
+    "english": "The Girl of the Atelier : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_31": {
+    "korean": "아틀리에의 소녀 : 방어막 / 피해 감소 무시",
+    "english": "The Girl of the Atelier : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_51": {
+    "korean": "맞춤형 걸작 : 공격력 {0}%",
+    "english": "Custom masterpiece : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_52": {
+    "korean": "맞춤형 걸작 : 받는 피해 {0}% 감소",
+    "english": "Custom masterpiece : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_53": {
+    "korean": "맞춤형 걸작 : 행동력 {0}%",
+    "english": "Custom masterpiece : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_4": {
+    "korean": "보호본능 유발 : 표식",
+    "english": "Inducing Protective Instinct : Marked"
+  },
+  "BuffDesc2_Effect_PECS_Mery_N_4": {
+    "korean": "보호본능 유발 : 방어력 {0}%",
+    "english": "Inducing Protective Instinct : DEF {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Mery_N_4": {
+    "korean": "아야! : AP {0}",
+    "english": "Ay! : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_41": {
+    "korean": "아야! : AP {0}",
+    "english": "Ay! : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Mery_N_5": {
+    "korean": "흔들리지 않는 신념 : 효과 저항 {0}% 증가",
+    "english": "Unshakable Belief : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_PECS_Mery_N_5": {
+    "korean": "흔들리지 않는 신념 : 받는 피해 {0}% 감소",
+    "english": "Unshakable Belief : DMG Reduction {0}%"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "SkillName_Skill_PECS_Drone_N_1": {
+    "korean": "충격파 미사일",
+    "english": "Shockwave Missile"
+  },
+  "SkillName_Skill_PECS_Drone_N_2": {
+    "korean": "정밀 스캔",
+    "english": "Precision Scan"
+  },
+  "SkillName_Skill_PECS_Drone_N_3": {
+    "korean": "애프터버너",
+    "english": "Afterburner"
+  },
+  "SkillName_Skill_PECS_Drone_N_4": {
+    "korean": "레이더 경보 수신기",
+    "english": "Radar Alert Receiver"
+  },
+  "SkillName_Skill_PECS_Drone_N_5": {
+    "korean": "컨스턴시 프로토콜",
+    "english": "Consistency Protocol"
+  },
+  "SkillDesc_Skill_PECS_Drone_N_1": {
+    "korean": "충격파 미사일을 발사해 {0} 피해를 주고, 대상을 뒤로 1칸 밀어내며 AP를 감소시킵니다.",
+    "english": "Fires a Shockwave Missile that deals {0} damage, pushes the target back 1 tile, and reduces their AP."
+  },
+  "SkillDescSimple_Skill_PECS_Drone_N_1": {
+    "korean": "단일 대상 {0} 피해. 뒤로 밀기 / AP 감소.",
+    "english": "Single target {0} damage. Push Back / AP reduction."
+  },
+  "SkillDesc_Skill_PECS_Drone_N_2": {
+    "korean": "목표 지점에 있는 대상들의 약점을 분석해, 2라운드 동안 받는 피해를 증가시키며 효과 저항과 회피를 감소시킵니다.&n스킬 레벨 5부터 범위가 증가합니다.&n999%의 적중 보정이 적용됩니다.",
+    "english": "Analyzes the weaknesses of targets at the designated location, increasing DMG Taken Increased for 2 rounds and reducing Status Resist and EVA.&nRange increases starting at skill level 5.&nA 999% ACC modifier is applied."
+  },
+  "SkillDescSimple_Skill_PECS_Drone_N_2": {
+    "korean": "지정 범위 대상 받는 피해 증가 / 효과 저항 / 회피 감소.",
+    "english": "DMG Taken Increased / Status Resist / EVA reduction"
+  },
+  "SkillDesc_Skill_PECS_Drone_N_3": {
+    "korean": "전투 개시 시, 스쿼드 내 AGS 1기당 자신의 AP가 증가합니다.&n라운드 개시 시, 자신의 효과 저항이 증가하고 행동력 감소 효과에 면역 상태가 됩니다.",
+    "english": "At battle start, your AP increases by 1 for each AGS in the squad.&nAt round start, your Status Resist increases and you become immune to SPD reduction effects."
+  },
+  "SkillDescSimple_Skill_PECS_Drone_N_3": {
+    "korean": "전투 개시 AP 증가. 효과 저항 증가 / 행동력 감소 면역.",
+    "english": "AP increase at battle start. Status Resist increase / SPD reduction immunity"
+  },
+  "SkillDesc_Skill_PECS_Drone_N_4": {
+    "korean": "라운드 개시 시, 아군 지원기의 보호 무시를 활성화하고 적중을 증가시킵니다.&n라운드 개시 시, 적 지원기의 보호 무시를 비활성화하고 적중을 감소시킵니다.",
+    "english": "At round start, Activate Ignore Protection for allied Supporters and increase ACC. At round start, deactivate Ignore Protection for enemy Supporters and decrease ACC."
+  },
+  "SkillDescSimple_Skill_PECS_Drone_N_4": {
+    "korean": "아군 지원기 보호 무시 활성화 / 적중 증가. 적 지원기 보호 무시 비활성화 / 적중 감소.",
+    "english": "Ally Supporter Ignore Protection activated / ACC increased. Enemy Supporter Ignore Protection deactivated / ACC decreased."
+  },
+  "SkillDesc_Skill_PECS_Drone_N_5": {
+    "korean": "라운드 개시 시, 자신의 행동력이 증가합니다.&n스쿼드 내에 <토미 워커>가 존재하는 한, 자신은 예비 소체를 공급받아 무제한의 전투 속행을 획득합니다.&n<충격파 미사일> 사용 시, 대상의 회피 강화 효과를 해제합니다.&n<정밀 스캔> 사용 시, 대상의 피해 무효화 효과를 해제합니다.",
+    "english": "At round start, own SPD increases.&nAs long as <Tommy Walker> is in the squad, you receive reserve units and gain unlimited Battle Continuation.&nWhen using <Shockwave Missile>, removes the target’s EVA enhancement effect.&nWhen using <Precision Scan>, removes the target’s Damage Nullification effect."
+  },
+  "SkillDescSimple_Skill_PECS_Drone_N_5": {
+    "korean": "자신 행동력 증가. <토미 워커> 존재 시, 자신 전투 속행. 액티브 스킬 강화.",
+    "english": "SPD increase. When <Tommy Walker> present, gain Battle Continuation. Active skill enhancement."
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_1": {
+    "korean": "충격파 미사일 : 뒤로 {0}칸 밀기",
+    "english": "Shockwave Missile : Push Back {0}"
+  },
+  "BuffDesc2_Effect_PECS_Drone_N_1": {
+    "korean": "충격파 미사일 : AP {0}",
+    "english": "Shockwave Missile : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_53": {
+    "korean": "후류 : 회피 강화 해제",
+    "english": "Rearward Draft : EVA Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_2": {
+    "korean": "정밀 스캔 : 받는 피해 {0}% 증가",
+    "english": "Precision Scan : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Drone_N_2": {
+    "korean": "정밀 스캔 : 효과 저항 {0}% 감소",
+    "english": "Precision Scan : Status Resist {0}% Decrease"
+  },
+  "BuffDesc3_Effect_PECS_Drone_N_2": {
+    "korean": "정밀 스캔 : 회피 {0}%",
+    "english": "Precision Scan : EVA {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_21": {
+    "korean": "정밀 스캔 : 효과 저항 {0}% 감소",
+    "english": "Precision Scan : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_54": {
+    "korean": "돌파구 : 피해 무효화 해제",
+    "english": "Breakthrough : Damage Nullification Removal"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_3": {
+    "korean": "애프터버너 : AP {0}",
+    "english": "Afterburner : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_Drone_N_3": {
+    "korean": "애프터버너 : 효과 저항 {0}% 증가",
+    "english": "Afterburner : Status Resist {0}% Increase"
+  },
+  "BuffDesc3_Effect_PECS_Drone_N_3": {
+    "korean": "애프터버너 : 행동력 감소 면역",
+    "english": "Afterburner : SPD Decrease Immunity"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_31": {
+    "korean": "애프터버너 : AP {0}",
+    "english": "Afterburner : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_32": {
+    "korean": "애프터버너 : AP {0}",
+    "english": "Afterburner : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_33": {
+    "korean": "애프터버너 : AP {0}",
+    "english": "Afterburner : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_34": {
+    "korean": "애프터버너 : AP {0}",
+    "english": "Afterburner : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_35": {
+    "korean": "애프터버너 : 효과 저항 {0}% 증가",
+    "english": "Afterburner : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_PECS_Drone_N_35": {
+    "korean": "애프터버너 : 행동력 감소 면역",
+    "english": "Afterburner : SPD Decrease Immunity"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_4": {
+    "korean": "RWR : 보호 무시 활성화",
+    "english": "RWR : Activate Ignore Protection"
+  },
+  "BuffDesc2_Effect_PECS_Drone_N_4": {
+    "korean": "RWR : 적중 {0}%",
+    "english": "RWR : ACC {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Drone_N_4": {
+    "korean": "RWR : 보호 무시 비활성화",
+    "english": "RWR : Deactivate Ignore Protection"
+  },
+  "BuffDesc4_Effect_PECS_Drone_N_4": {
+    "korean": "RWR : 적중 {0}%",
+    "english": "RWR : ACC {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_41": {
+    "korean": "RWR : 보호 무시 비활성화",
+    "english": "RWR : Deactivate Ignore Protection"
+  },
+  "BuffDesc2_Effect_PECS_Drone_N_41": {
+    "korean": "RWR : 적중 {0}%",
+    "english": "RWR : ACC {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_5": {
+    "korean": "컨스턴시 프로토콜 : 행동력 {0}%",
+    "english": "Consistency Protocol : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Drone_N_5": {
+    "korean": "예비 소체 : {0}% HP로 전투 속행",
+    "english": "Spare Unit : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc3_Effect_PECS_Drone_N_5": {
+    "korean": "충격파 미사일 : 회피 강화 해제",
+    "english": "Shockwave Missile : EVA Buff Removal"
+  },
+  "BuffDesc4_Effect_PECS_Drone_N_5": {
+    "korean": "정밀 스캔 : 피해 무효화 해제",
+    "english": "Precision Scan : Damage Nullification Removal"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_51": {
+    "korean": "예비 소체 : {0}% HP로 전투 속행",
+    "english": "Spare Unit : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_PECS_Drone_N_52": {
+    "korean": "예비 소체 : {0}% HP로 전투 속행",
+    "english": "Spare Unit : Battle Continuation with {0}% HP"
+  }
+}

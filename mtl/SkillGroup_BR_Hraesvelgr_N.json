@@ -1,0 +1,198 @@
+{
+  "SkillName_Skill_BR_Hraesvelgr_N_1": {
+    "korean": "확산 빔 포트",
+    "english": "Spread Beam Port"
+  },
+  "SkillDesc_Skill_BR_Hraesvelgr_N_1": {
+    "korean": "빔 포트를 발사하여 지정 범위에 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상이 받는 피해를 증가시킵니다. 대상이 중장형인 경우 효과가 두 배로 증폭됩니다. (중첩 불가)&n치명타 시, 대상의 받는 피해 감소 효과를 해제합니다.&n스쿼드 내 <P-22 하르페이아>가 있을 경우, [풀 버스트] 스킬 협동 공격을 유도합니다.",
+    "english": "Fires a beam port to deal {0} damage to the designated area.\nOn hit, increases DMG Taken for 2 rounds. Effect is doubled against Heavy armor. (Cannot stack)\nOn CRIT, removes the target’s DMG Reduction.\nIf a <P-22 Harpyia> is in the squad, triggers a [Full Burst] Cooperative Attack."
+  },
+  "SkillDescSimple_Skill_BR_Hraesvelgr_N_1": {
+    "korean": "지정 범위 {0} 피해. 대상 받는 피해 증가. 치명타 시, 받는 피해 감소 해제. [풀 버스트] 협동 공격.",
+    "english": "{0} damage to the designated area. Increases DMG Taken. On CRIT, removes DMG Reduction. [Full Burst] Cooperative Attack."
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_1": {
+    "korean": "확산 빔 포트 : 받는 피해 {0}% 증가",
+    "english": "Spread Beam Port : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_BR_Hraesvelgr_N_1": {
+    "korean": "확산 빔 포트 : 받는 피해 감소 해제 (치명타 시)",
+    "english": "Spread Beam Port : DMG Reduction removed (On CRIT)"
+  },
+  "BuffDesc3_Effect_BR_Hraesvelgr_N_1": {
+    "korean": "[풀 버스트] 협동 공격",
+    "english": "[Full Burst] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_12": {
+    "korean": "확산 빔 포트 : 받는 피해 감소 해제",
+    "english": "Spread Beam Port : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_13": {
+    "korean": "확산 빔 포트 : [풀 버스트] 협동 공격",
+    "english": "Spread Beam Port : [Full Burst] Cooperative Attack"
+  },
+  "SkillName_Skill_BR_Hraesvelgr_N_2": {
+    "korean": "대공 무력화",
+    "english": "Anti-Air Neutralization"
+  },
+  "SkillDesc_Skill_BR_Hraesvelgr_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 주고 대 기동형 피해량 / 적중 증가 효과를 해제합니다.&n적중 시, 2라운드 동안 대상의 대 기동형 피해량 / 적중을 감소시키고 이동 불가 상태로 만듭니다. (중첩 불가)&n아군이 기동형만으로 구성되어 있을 경우, 해당 라운드 동안 지속 효과가 50% 증폭됩니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area and removes the target’s Anti-Air DMG / ACC increase effects.\nOn hit, reduces the target’s Anti-Air DMG / ACC for 2 rounds and Roots them. (Cannot stack)\nIf allies consist only of Air-type units, the continuous effect is increased by 50% for that round."
+  },
+  "SkillDescSimple_Skill_BR_Hraesvelgr_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 대상 적중 / 대 기동형 피해량 감소.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. Reduces target’s ACC and Anti-Air DMG."
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_2": {
+    "korean": "대공 무력화 : 적중 {0}%",
+    "english": "Anti-Air Neutralization : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Hraesvelgr_N_2": {
+    "korean": "대공 무력화 : 대 기동형 피해량 {0}%",
+    "english": "Anti-Air Neutralization : Anti-Air DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_Hraesvelgr_N_2": {
+    "korean": "대공 무력화 : 적중 / 대 기동형 피해량 증가 해제",
+    "english": "Anti-Air Neutralization : ACC / Anti-Air DMG Buff Removal"
+  },
+  "BuffDesc4_Effect_BR_Hraesvelgr_N_2": {
+    "korean": "대공 무력화 : 이동 불가",
+    "english": "Anti-Air Neutralization : Rooted"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_21": {
+    "korean": "대공 무력화 : 대 기동형 피해량 {0}%",
+    "english": "Anti-Air Neutralization : Anti-Air DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_22": {
+    "korean": "대공 무력화 : 적중 증가 해제",
+    "english": "Anti-Air Neutralization : ACC Buff Removal"
+  },
+  "BuffDesc2_Effect_BR_Hraesvelgr_N_22": {
+    "korean": "대공 무력화 : 대 기동형 피해량 증가 해제",
+    "english": "Anti-Air Neutralization : Anti-Air DMG Buff Removal"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_23": {
+    "korean": "대공 무력화 : 이동 불가",
+    "english": "Anti-Air Neutralization : Rooted"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_24": {
+    "korean": "대공 무력화 (증폭) : 적중 {0}%",
+    "english": "Anti-Air Neutralization (Amplified) : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_25": {
+    "korean": "대공 무력화 (증폭) : 대 기동형 피해량 {0}%",
+    "english": "Anti-Air Neutralization (Amplified) : Anti-Air DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_26": {
+    "korean": "대공 무력화 : 효과 저항 {0}% 감소",
+    "english": "Anti-Air Neutralization : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_27": {
+    "korean": "대공 무력화 (증폭) : 효과 저항 {0}% 감소",
+    "english": "Anti-Air Neutralization (Amplified) : Status Resist {0}% Decrease"
+  },
+  "SkillName_Skill_BR_Hraesvelgr_N_3": {
+    "korean": "지휘 통제",
+    "english": "Command and Control"
+  },
+  "SkillDesc_Skill_BR_Hraesvelgr_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군의 대 경장/중장형 피해량을 증가시킵니다.&n라운드 개시 시, 범위 내 <스카이 나이츠> 소속 전투원의 회피 / 사거리를 증가시킵니다.",
+    "english": "At the start of the round, increases allies’ Anti-Light DMG and Anti-Heavy DMG within range.\nAt the start of the round, increases EVA and Range of <Sky Knights> members within range."
+  },
+  "SkillDescSimple_Skill_BR_Hraesvelgr_N_3": {
+    "korean": "아군 대 경장/중장형 피해량 증가. <스카이 나이츠> 소속 회피 / 사거리 증가.",
+    "english": "Increases allied Anti-Light DMG / Anti-Heavy DMG. Increases EVA / Range of <Sky Knights> members."
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_3": {
+    "korean": "지휘 통제 : 대 경장형 피해량 {0}%",
+    "english": "Command and Control : Anti-Light DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Hraesvelgr_N_3": {
+    "korean": "지휘 통제 : 대 중장형 피해량 {0}%",
+    "english": "Command and Control : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_Hraesvelgr_N_3": {
+    "korean": "지휘 통제 : 회피 {0}%",
+    "english": "Command and Control : EVA {0}%"
+  },
+  "BuffDesc4_Effect_BR_Hraesvelgr_N_3": {
+    "korean": "지휘 통제 : 사거리 {0}",
+    "english": "Command and Control : Range {0}"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_31": {
+    "korean": "지휘 통제 : 회피 {0}%",
+    "english": "Command and Control : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Hraesvelgr_N_31": {
+    "korean": "지휘 통제 : 사거리 {0}",
+    "english": "Command and Control : Range {0}"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_32": {
+    "korean": "현장 직관 : 대 경장형 피해량 {0}%",
+    "english": "On-Site Intuition : Anti-Light DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Hraesvelgr_N_32": {
+    "korean": "현장 직관 : 대 중장형 피해량 {0}%",
+    "english": "On-Site Intuition : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_33": {
+    "korean": "지휘 통제 : 뒤로 밀기 면역",
+    "english": "Command and Control : Push Back Immunity"
+  },
+  "BuffDesc2_Effect_BR_Hraesvelgr_N_33": {
+    "korean": "지휘 통제 : 앞으로 당기기 면역",
+    "english": "Command and Control : Pull Forward Immunity"
+  },
+  "SkillName_Skill_BR_Hraesvelgr_N_4": {
+    "korean": "간섭 대응 유닛",
+    "english": "Interference Response Unit"
+  },
+  "SkillDesc_Skill_BR_Hraesvelgr_N_4": {
+    "korean": "전투 개시 시, 1라운드 동안 자신은 피해 무효화 / 보호 무시 효과를 획득합니다.&n라운드 개시 시, 2라운드 동안 자신의 행동력이 증가합니다.&n자신 외의 <스카이 나이츠> 소속 전투원이 있을 경우, <간섭 대응 유닛>의 효과 지속이 각각 1라운드씩 증가합니다.",
+    "english": "At the start of battle, gains Damage Nullification and Ignore Protection for 1 round.\nAt the start of the round, increases own SPD for 2 rounds.\nIf there are other <Sky Knights> members besides yourself, the duration of <Interference Response Unit> effects is extended by 1 round each."
+  },
+  "SkillDescSimple_Skill_BR_Hraesvelgr_N_4": {
+    "korean": "자신 피해 무효화 / 보호 무시 / 행동력 증가. 조건부 효과 연장.",
+    "english": "Gains Damage Nullification, Ignore Protection, and increased SPD. Conditional effect duration extension."
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_4": {
+    "korean": "간섭 대응 유닛 : 피해 무효화",
+    "english": "Interference Response Unit : Damage Nullification"
+  },
+  "BuffDesc2_Effect_BR_Hraesvelgr_N_4": {
+    "korean": "간섭 대응 유닛 : 보호 무시 활성화",
+    "english": "Interference Response Unit : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_41": {
+    "korean": "간섭 대응 유닛 : 행동력 {0}%",
+    "english": "Interference Response Unit : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_44": {
+    "korean": "SEAD Ops.",
+    "english": "SEAD Ops."
+  },
+  "SkillName_Skill_BR_Hraesvelgr_N_5": {
+    "korean": "시제형 FOG",
+    "english": "Prototype FOG"
+  },
+  "SkillDesc_Skill_BR_Hraesvelgr_N_5": {
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가합니다.&n라운드 개시 시, <지휘 통제> 범위 내 기동형 아군에게 강제 이동 면역 효과를 부여합니다.&n<대공 무력화> 치명타 시, 해당 라운드 동안 대상의 효과 저항을 감소시킵니다. 효과는 <대공 무력화>의 스킬 레벨에 비례합니다.",
+    "english": "At the start of the round, increases own Status Resist.\nAt the start of the round, grants Forced Movement Immunity to Air-type allies within <Command and Control> range.\nOn CRIT with <Anti-Air Neutralization>, reduces the target’s Status Resist for that round. Effect scales with <Anti-Air Neutralization> skill level."
+  },
+  "SkillDescSimple_Skill_BR_Hraesvelgr_N_5": {
+    "korean": "자신 효과 저항 증가. <지휘 통제> 범위 내 아군 강제 이동 면역. <대공 무력화> 추가 효과.",
+    "english": "Increases own Status Resist. Grants Forced Movement Immunity to allies within <Command and Control> range. Additional effect of <Anti-Air Neutralization>."
+  },
+  "BuffDesc1_Effect_BR_Hraesvelgr_N_5": {
+    "korean": "시제형 FOG : 효과 저항 {0}% 증가",
+    "english": "Prototype FOG : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_BR_Hraesvelgr_N_5": {
+    "korean": "지휘 통제 : 강제 이동 면역",
+    "english": "Command and Control : Forced Movement Immunity"
+  },
+  "BuffDesc3_Effect_BR_Hraesvelgr_N_5": {
+    "korean": "대공 무력화 : 효과 저항 {0}% 감소",
+    "english": "Anti-Air Neutralization : Status Resist {0}% Decrease"
+  }
+}

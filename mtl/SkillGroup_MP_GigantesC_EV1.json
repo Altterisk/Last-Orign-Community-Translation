@@ -1,0 +1,94 @@
+{
+  "1002701896": {
+    "korean": "너클 버스터",
+    "english": "Knuckle Buster"
+  },
+  "1002701897": {
+    "korean": "차지 스매시",
+    "english": "Charge Smash"
+  },
+  "1002701898": {
+    "korean": "개량형 방어 OS",
+    "english": "Improved DEF OS"
+  },
+  "1002701899": {
+    "korean": "거점 순찰",
+    "english": "Base Patrol"
+  },
+  "1002705396": {
+    "korean": "복구 모드",
+    "english": "Recovery Mode"
+  },
+  "1002706230": {
+    "korean": "대상을 강타해 {0} 피해를 주고 뒤로 한 칸 밉니다. 자신의 HP %가 낮을수록 피해량이 증가하며, 20% 이하인 경우 방어막과 피해 감소 효과를 무시합니다.",
+    "english": "Strikes the target, dealing {0} Additional DMG and pushing it back one space. Damage increases as your HP % decreases, and when HP % is 20% or lower it ignores Barrier and DMG Reduction effects."
+  },
+  "1002704228": {
+    "korean": "대상을 밀쳐 {0} 피해를 주고 2칸 뒤로 날립니다. 피격 대상은 AP가 감소합니다.",
+    "english": "Pushes the target back, dealing {0} Additional DMG and knocking it 2 spaces backward. The hit target's AP is reduced."
+  },
+  "1002706231": {
+    "korean": "라운드 개시 시, HP가 20% 이하일 경우 방어력과 효과 저항이 크게 증가합니다. 해당 상태에서 전기 공격에 피격 시 OS가 오작동을 일으켜 해제됩니다.",
+    "english": "At the start of a round, if HP is 20% or lower, DEF and Status Resist increase significantly. When hit by an electric attack while in this state, the OS malfunctions and is deactivated."
+  },
+  "1002704230": {
+    "korean": "인접한 보호기 제외 아군을 보호하며 대상의 행동력을 증가시킵니다.",
+    "english": "Protects allies except adjacent Defenders and increases the target's SPD."
+  },
+  "1002706266": {
+    "korean": "라운드 개시 시, HP가 10% 이하면 복구 모드가 작동해 전투 속행 효과가 발동합니다. 전기 공격 피격 시, <복구 모드 오류> 상태가 되어 지속 전기 피해를 입으며 라운드 개시 시 복구 모드가 활성화되지 않습니다.",
+    "english": "At the start of a round, if HP is 10% or lower, Recovery Mode activates and the Combat Continuation effect is triggered. When hit by an electric attack, you become <Recovery Mode Error>, taking Electric DoT DMG, and Recovery Mode does not activate at the start of the round."
+  },
+  "1000103541": {
+    "korean": "너클 버스터 : HP 낮을수록 피해량{0}% (최대)",
+    "english": "Knuckle Buster : Damage {0}% Increases as HP Decreases (Max)"
+  },
+  "1000106540": {
+    "korean": "복구 모드 오류 : 복구 불가",
+    "english": "Recovery Mode Error : Unable to recover"
+  },
+  "1000106562": {
+    "korean": "복구 모드 오류 : 복구 모드 해제",
+    "english": "Recovery Mode Error : Exit Recovery Mode"
+  },
+  "1000106563": {
+    "korean": "복구 모드 오류 : {0} 전기 피해",
+    "english": "Recovery Mode Error : {0} Electrical Damage"
+  },
+  "1000103545": {
+    "korean": "너클 버스터 : 방어막 / 피해 감소 무시",
+    "english": "Knuckle Buster : Ignore Barrier / DMG Reduction"
+  },
+  "1000103561": {
+    "korean": "너클 버스터 : 뒤로 {0}칸 밀기",
+    "english": "Knuckle Buster : Push Back {0}"
+  },
+  "1000103542": {
+    "korean": "차지 스매시 : 뒤로 {0}칸 밀기",
+    "english": "Charge Smash : Push Back {0}"
+  },
+  "1000104676": {
+    "korean": "차지 스매시 : AP {0}",
+    "english": "Charge Smash : AP {0}"
+  },
+  "1000103543": {
+    "korean": "개량형 방어 OS : 방어력{0}%",
+    "english": "Improved Defense OS : DEF {0}%"
+  },
+  "1000103546": {
+    "korean": "개량형 방어 OS : 효과 저항{0}%",
+    "english": "Improved Defense OS : Status Resist {0}%"
+  },
+  "1000103544": {
+    "korean": "거점 순찰 : 지정 대상 보호",
+    "english": "Base patrol : Target Protect"
+  },
+  "1000104677": {
+    "korean": "거점 순찰 : 행동력{0}%",
+    "english": "Base patrol : SPD {0}%"
+  },
+  "1000106539": {
+    "korean": "복구 모드 : {0}HP로 전투 속행",
+    "english": "Recovery mode : Battle Continuation with {0} HP"
+  }
+}

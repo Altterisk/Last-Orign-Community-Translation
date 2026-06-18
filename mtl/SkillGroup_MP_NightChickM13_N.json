@@ -1,0 +1,74 @@
+{
+  "SkillName_Skill_MP_NightChickM13_N_1": {
+    "korean": "보통 미사일",
+    "english": "Ordinary Missile"
+  },
+  "SkillName_Skill_MP_NightChickM13_N_2": {
+    "korean": "대 중장형 미사일",
+    "english": "Heavy Missile"
+  },
+  "SkillName_Skill_MP_NightChickM13_N_3": {
+    "korean": "미사일 발사 준비",
+    "english": "Missile Launch Preparation"
+  },
+  "SkillName_Skill_MP_NightChickM13_N_4": {
+    "korean": "미사일 고장 제거",
+    "english": "Missile Failure Removal"
+  },
+  "SkillDesc_Skill_MP_NightChickM13_N_1": {
+    "korean": "대상에게 {0} 화염 피해를 줍니다. 치명타 시, 100% 확률로 대상의 강화 효과를 해제합니다. 30%의 적중 보정을 받습니다.",
+    "english": "Deal {0} Fire damage to the target. On a CRIT, removes the target's Buffs with 100% chance. Gains 30% ACC bonus."
+  },
+  "SkillDesc_Skill_MP_NightChickM13_N_2": {
+    "korean": "대상에게 {0} 화염 피해를 줍니다. 대상이 중장형일 경우 강화 효과를 해제하고 피해량이 증가합니다. 2라운드 동안 방어력 감소 / 받는 피해 증가 상태로 만듭니다. 30%의 적중 보정을 받습니다.",
+    "english": "Deal {0} Fire damage to the target. If the target is Heavy, removes Buffs and increases damage dealt. Inflicts DEF Down / DMG Taken Increased for 2 rounds. Gains 30% ACC bonus."
+  },
+  "SkillDesc_Skill_MP_NightChickM13_N_3": {
+    "korean": "라운드 개시 시, 자신의 치명타 확률 / 방어 관통 비율이 증가하며, 대 중장 피해량이 증가합니다.",
+    "english": "At the start of the round, increase own CRIT Rate and DEF Penetration, and increase Anti-Heavy DMG."
+  },
+  "SkillDesc_Skill_MP_NightChickM13_N_4": {
+    "korean": "홀수 라운드 개시시,  효과 저항이 50% 증가합니다. 모든 해로운 효과를 해제합니다.",
+    "english": "At the start of odd-numbered rounds, increase Status Resist by 50% and remove all harmful effects."
+  },
+  "BuffDesc3_Effect_MP_NightChickM13_N_2": {
+    "korean": "대 중장형 미사일: : 피해량 {0}% (중장)",
+    "english": "Heavy Missile : Damage {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_MP_NightChickM13_N_1": {
+    "korean": "보통 미사일 : 강화 해제",
+    "english": "Ordinary Missile : Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_NightChickM13_N_2": {
+    "korean": "대 중장형 미사일: 강화 해제 (중장)",
+    "english": "Large-Caliber Missile : Buff Removal (Heavy)"
+  },
+  "BuffDesc2_Effect_MP_NightChickM13_N_2": {
+    "korean": "대 중장형 미사일: 방어력 {0}% (중장)",
+    "english": "Large-Caliber Missile : DEF {0}% (Heavy)"
+  },
+  "BuffDesc4_Effect_MP_NightChickM13_N_2": {
+    "korean": "대 중장형 미사일 : 받는 피해 {0}% 증가",
+    "english": "Large-Caliber Missile : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM13_N_3": {
+    "korean": "미사일 발사 준비 : 치명타 {0}%",
+    "english": "Missile Launch Preparation : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChickM13_N_3": {
+    "korean": "미사일 발사 준비: 방어 관통 {0}%",
+    "english": "Missile Launch Preparation : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickM13_N_3": {
+    "korean": "미사일 발사 준비 : 대 중장형 피해량+{0}%",
+    "english": "Missile Launch Preparation : Anti-Heavy DMG +{0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickM13_N_4": {
+    "korean": "미사일 고장 제거 : 해로운 효과 해제",
+    "english": "Missile Failure Removal : Debuff Removal"
+  },
+  "BuffDesc2_Effect_MP_NightChickM13_N_4": {
+    "korean": "미사일 고장 제거: 효과 저항 {0}%",
+    "english": "Missile Failure Removal : Status Resist {0}%"
+  }
+}

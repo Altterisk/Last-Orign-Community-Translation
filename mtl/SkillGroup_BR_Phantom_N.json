@@ -1,0 +1,146 @@
+{
+  "1002700352": {
+    "korean": "기습",
+    "english": "Ambush"
+  },
+  "1002706168": {
+    "korean": "기습 공격으로 {0} 피해를 주고, 2라운드 동안 대상에게 표식 / 받는 피해 증가 / 회피 감소 효과를 적용합니다. 각 효과는 중첩 가능합니다. 치명타 시, 반격 효과를 해제합니다.",
+    "english": "Deals {0} damage with a surprise attack, applying Marked, DMG Taken Increased, and EVA Reduction to the target for 2 turns. Each effect can stack. On a CRIT, removes the target's Counter Attack effect."
+  },
+  "1002706505": {
+    "korean": "단일 대상 {0} 피해. 표식 / 받는 피해 증가 / 회피 감소. 치명타 시, 반격 해제",
+    "english": "Deals {0} damage to a single target. Applies Marked, DMG Taken Increased, and EVA Reduction. On a CRIT, removes Counter Attack."
+  },
+  "1000102669": {
+    "korean": "기습 : 표식 설정",
+    "english": "Ambush : Marks target"
+  },
+  "1000103855": {
+    "korean": "기습 : 받는 피해{0}%",
+    "english": "Ambush : DMG Taken {0}%"
+  },
+  "1000104978": {
+    "korean": "기습 : 회피 {0}%",
+    "english": "Ambush : EVA {0}%"
+  },
+  "1000106711": {
+    "korean": "회심의 기습 : 반격 효과 해제",
+    "english": "Decisive Ambush : Counter Attack Effect Removal"
+  },
+  "1002700353": {
+    "korean": "점착 폭탄 투척",
+    "english": "Sticky Bomb Throw"
+  },
+  "1002706169": {
+    "korean": "점착 폭탄으로 {0} 피해를 줍니다. 대상이 이동 불가 또는 회피 감소 상태인 경우, 피해량이 증가하며 효과 저항을 감소시킵니다.",
+    "english": "Deals {0} damage with a sticky bomb. If the target is Rooted or has EVA Reduction, damage is increased and their Status Resist is reduced."
+  },
+  "1002703108": {
+    "korean": "단일 대상 {0} 피해. 회피 감소 / 이동 불가 대상 피해량 증가 / 효과 저항 감소",
+    "english": "Deals {0} damage to a single target. Reduces EVA, increases damage to Rooted targets, and reduces Status Resist."
+  },
+  "1000102507": {
+    "korean": "직격 : 피해량{0}%",
+    "english": "Direct Hit : Additional DMG {0}%"
+  },
+  "1000104284": {
+    "korean": "직격 : 효과 저항 감소 {0}%",
+    "english": "Direct Hit: Status Resist {0}% Decrease"
+  },
+  "1002705345": {
+    "korean": "교란 전술",
+    "english": "Disruption Tactics"
+  },
+  "1002706170": {
+    "korean": "라운드 개시 시, 치명타 / 회피 증가 / 받는 피해 감소 효과가 적용됩니다. 적을 처치할 때마다 AP가 증가합니다. 광학 미채 발동 시, <위장 전술>로 변경됩니다.",
+    "english": "At the start of each round, gains CRIT, EVA, and DMG Reduction effects. Each time an enemy is defeated, AP increases. When Optical Camouflage is activated, it changes to <Camouflage Tactics>."
+  },
+  "1002706506": {
+    "korean": "치명타 / 회피 증가 / 받는 피해 감소. 적 처치 시, AP 증가",
+    "english": "Increases CRIT, EVA, and reduces DMG Taken. Grants AP when defeating an enemy."
+  },
+  "1000106455": {
+    "korean": "교란 전술 : 치명타{0}%",
+    "english": "Disruption Tactics : CRIT {0}%"
+  },
+  "1000106758": {
+    "korean": "교란 전술 : 회피{0}%",
+    "english": "Disruption Tactics : EVA {0}%"
+  },
+  "1000106887": {
+    "korean": "교란 전술 : 받는 피해 감소 {0}%",
+    "english": "Disruption Tactics : DMG Reduction {0}%"
+  },
+  "1000106951": {
+    "korean": "교란 개시 : AP{0} (적 처치 시)",
+    "english": "Disturbance Initiation: AP{0} (On Kill)"
+  },
+  "1000106474": {
+    "korean": "교란 개시 : AP{0}",
+    "english": "Disruption Commence : AP {0}"
+  },
+  "1002700354": {
+    "korean": "광학 미채",
+    "english": "Optical Camouflage"
+  },
+  "1002706171": {
+    "korean": "대기 시, 광학 미채를 활성화합니다. 해당 상태에선 공격력 증가 / 액티브 스킬 변경 / 행동력 감소 효과가 적용됩니다. 발동 시, 다음 라운드까지 확정 치명타가 적용됩니다.",
+    "english": "Activates Optical Camouflage while idle. While camouflaged, ATK is increased, Active Skill is changed, and SPD is reduced. Upon activation, guaranteed CRIT is applied until the end of the next round."
+  },
+  "1002706507": {
+    "korean": "대기 시, 광학 미채 발동. 확정 치명타 (2r). 공격력 증가 / 행동력 감소 / 액티브 스킬 변경",
+    "english": "When on standby, activates Optical Camouflage. Grants guaranteed CRIT for 2 rounds. Increases ATK, reduces SPD, and changes Active Skill."
+  },
+  "1000106456": {
+    "korean": "광학 미채 발동 : 모드 변경",
+    "english": "Optical Camouflage Activation : Mode change"
+  },
+  "1000102671": {
+    "korean": "광학 미채 : 공격력{0}%",
+    "english": "Optical Camouflage: ATK {0}%"
+  },
+  "1000104980": {
+    "korean": "광학 미채 : 행동력 {0}%",
+    "english": "Optical Camouflage: SPD {0}%"
+  },
+  "1000106952": {
+    "korean": "광학 미채 발동 : 확정 치명타 (2r)",
+    "english": "Optical Camouflage Activation: Guaranteed CRIT (2r)"
+  },
+  "1000106982": {
+    "korean": "광학 미채 : 액티브 스킬 변경",
+    "english": "Optical Camouflage: Active Skill Change"
+  },
+  "1000106706": {
+    "korean": "광학 미채 발동 : 확정 치명타",
+    "english": "Optical Camouflage Activation : Guaranteed CRIT"
+  },
+  "1002702054": {
+    "korean": "개량형 미채 슈트",
+    "english": "Improved Camouflage Suit"
+  },
+  "1002706235": {
+    "korean": "라운드 개시 시, 범위 내 아군의 공격을 지원하며 대상들의 적중을 높입니다. 중열 / 후열에서 공격 시, 광학 미채와 부가 효과가 발동하며 해당 라운드부터 공격력 증가가 적용됩니다.",
+    "english": "At the start of each round, supports allies' attacks within range and increases their ACC. When attacking from the middle or back row, Optical Camouflage and additional effects are triggered, and ATK is increased starting that round."
+  },
+  "1002706539": {
+    "korean": "범위 내 아군 공격 지원 / 적중 증가. 중열 / 후열에서 공격 시, 광학 미채 발동",
+    "english": "Grants Follow-Up Attack and increased ACC to allies within range. When attacking from the middle or back row, activates Optical Camouflage."
+  },
+  "1000106504": {
+    "korean": "개량형 미채 슈트 : 광학 미채 발동 (자신/공격 시)",
+    "english": "Improved Camouflage Suit : Optical Camouflage Activation (Self/On Attack)"
+  },
+  "1000106708": {
+    "korean": "친구 신청? : 공격 지원",
+    "english": "Friend Request? : Follow-Up Attack"
+  },
+  "1000106854": {
+    "korean": "친구 신청? : 적중{0}%",
+    "english": "Friend Request? : ACC {0}%"
+  },
+  "1000106707": {
+    "korean": "광학 미채 발동 : 공격력{0}%",
+    "english": "Optical Camouflage Activation : ATK {0}%"
+  }
+}

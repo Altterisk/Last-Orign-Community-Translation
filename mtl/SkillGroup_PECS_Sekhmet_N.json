@@ -1,0 +1,190 @@
+{
+  "SkillName_Skill_PECS_Sekhmet_N_1": {
+    "korean": "내세의 손길",
+    "english": "Touch of the Afterlife"
+  },
+  "SkillName_Skill_PECS_Sekhmet_N_2": {
+    "korean": "순환하는 생명의 굴레",
+    "english": "Cycle of Living Rebirth"
+  },
+  "SkillName_Skill_PECS_Sekhmet_N_3": {
+    "korean": "고리달린 십자가의 자비",
+    "english": "Mercy of the Cross with a Ring"
+  },
+  "SkillName_Skill_PECS_Sekhmet_N_4": {
+    "korean": "여신의 세 얼굴",
+    "english": "Three Faces of the Goddess"
+  },
+  "SkillName_Skill_PECS_Sekhmet_N_5": {
+    "korean": "모성",
+    "english": "Motherhood"
+  },
+  "SkillDesc_Skill_PECS_Sekhmet_N_1": {
+    "korean": "목표 지점에 {0} 피해를 주고 주변에는 90% 감소한 피해를 입힙니다. 적이 처치된 경우 범위 내 적에게 고정 물리 피해를 주고 3라운드 동안 방어력을 감소시킵니다.",
+    "english": "Deals {0} damage to the target location and 90% reduced damage to surrounding enemies. If an enemy is defeated, deals Fixed Physical DMG to enemies within the area and reduces their DEF for 3 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Sekhmet_N_1": {
+    "korean": "목표 지점 {0} 피해. 주변 90% 감소 피해. 적 처치 시, 추가 고정 피해/방어력 감소",
+    "english": "Target {0} DMG. Surrounding 90% reduced DMG. On enemy defeat, Additional Fixed Physical DMG / DEF Reduction"
+  },
+  "SkillDesc_Skill_PECS_Sekhmet_N_2": {
+    "korean": "목표 지점에 {0} 보호 무시 피해를 주고 뒷열에는 75% / 90% 감소한 피해를 입힙니다. 공격 적중 시, 대상의 행동력 증가 효과를 해제하고 2라운드 동안 대상의 행동력을 감소시키며 적 수에 비례하여 자신의 행동력을 증가시킵니다.",
+    "english": "Deals {0} Ignore Protection damage to the target location and 75% / 90% reduced damage to the back row. On hit, removes the target’s SPD increase effect, reduces their SPD for 2 rounds, and increases own SPD proportionally to the number of enemies."
+  },
+  "SkillDescSimple_Skill_PECS_Sekhmet_N_2": {
+    "korean": "목표 지점 {0} 피해. 뒷열 75%/90% 감소 피해. 적중 시, 대상 행동력 증가 효과 해제 및 행동력 감소/자신 행동력 증가",
+    "english": "Target {0} DMG. Back row 75%/90% reduced DMG. On hit, removes target SPD increase, SPD Reduction / Own SPD Increase"
+  },
+  "SkillDesc_Skill_PECS_Sekhmet_N_3": {
+    "korean": "라운드 개시 시, 행동력 / 방어 관통이 증가합니다. 스쿼드 내 <엘븐형 바이오로이드> 수에 따라 자신의 행동력 / 방어 관통이 추가로 증가합니다.",
+    "english": "At the start of the round, SPD and DEF Penetration increase. Additional SPD and DEF Penetration increase based on the number of <Elven-type Bioroid> in the squad."
+  },
+  "SkillDescSimple_Skill_PECS_Sekhmet_N_3": {
+    "korean": "행동력 / 방어 관통 증가",
+    "english": "SPD / DEF Penetration"
+  },
+  "SkillDesc_Skill_PECS_Sekhmet_N_4": {
+    "korean": "라운드 개시 시, 광역 피해량 집중 효과를 얻습니다. 광역 피해량 집중은 공격 범위에 포함된 적의 수가 적을수록 광역 공격의 최종 피해량이 증가하며, 적이 1기일 때 최대로 적용됩니다. 피격 시, 3라운드 동안 공격력이 증가합니다.",
+    "english": "At the start of the round, gain Area Damage Focus. Area Damage Focus increases the final damage of AoE attacks the fewer enemies are in the attack range, reaching its maximum when only 1 enemy is present. When hit, increase ATK for 3 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Sekhmet_N_4": {
+    "korean": "광역 피해량 집중 / 피격 시 공격력 증가",
+    "english": "Area Damage Focus / On hit, ATK Increase"
+  },
+  "SkillDesc_Skill_PECS_Sekhmet_N_5": {
+    "korean": "라운드 개시 시, 범위 내 아군의 적중을 증가시키고, 보호기 / 지원기에게 행 보호를 부여합니다.",
+    "english": "At the start of the round, increase ACC of allies within range and grant Row Protect to Defender and Supporter."
+  },
+  "SkillDescSimple_Skill_PECS_Sekhmet_N_5": {
+    "korean": "적중 증가. 보호기/지원기 행보호 부여",
+    "english": "ACC Increase / Defender/Supporter Row Protect"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_1": {
+    "korean": "내세의 손길 : 공격력{0}% 고정 피해",
+    "english": "Touch of the Afterlife : ATK {0}% Fixed DMG"
+  },
+  "BuffDesc2_Effect_PECS_Sekhmet_N_1": {
+    "korean": "내세의 손길 : 방어력{0}%",
+    "english": "Touch of the Afterlife : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_11": {
+    "korean": "내세의 손길 : 방어력{0}%",
+    "english": "Touch of the Afterlife : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_2": {
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%",
+    "english": "Cycle of Living Rebirth : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Sekhmet_N_2": {
+    "korean": "순환하는 생명의 굴레 : 행동력{0}% (적 1기당)",
+    "english": "Cycle of Living Rebirth : SPD {0}% (per enemy unit)"
+  },
+  "BuffDesc3_Effect_PECS_Sekhmet_N_2": {
+    "korean": "순환하는 생명의 굴레 : 행동력 증가 효과 해제",
+    "english": "Cycle of Living Rebirth : SPD Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_21": {
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%",
+    "english": "Cycle of Living Rebirth : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_22": {
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%",
+    "english": "Cycle of Living Rebirth : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_23": {
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%",
+    "english": "Cycle of Living Rebirth : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_24": {
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%",
+    "english": "Cycle of Living Rebirth : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_25": {
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%",
+    "english": "Cycle of Living Rebirth : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_26": {
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%",
+    "english": "Cycle of Living Rebirth : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_27": {
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%",
+    "english": "Cycle of Living Rebirth : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_28": {
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%",
+    "english": "Cycle of Living Rebirth : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_29": {
+    "korean": "순환하는 생명의 굴레 : 행동력{0}%",
+    "english": "Cycle of Living Rebirth : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_211": {
+    "korean": "순환하는 생명의 굴레 : 행동력 증가 효과 해제",
+    "english": "Cycle of Living Rebirth : SPD Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_3": {
+    "korean": "고리달린 십자가의 자비 : 행동력{0}%",
+    "english": "Mercy of the Cross with a Ring : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Sekhmet_N_3": {
+    "korean": "고리달린 십자가의 자비 : 방어 관통{0}%",
+    "english": "Mercy of the Cross with a Ring : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_31": {
+    "korean": "고리달린 십자가의 자비(엘븐) : 행동력{0}%",
+    "english": "Mercy of the Cross with a Ring (Elven) : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Sekhmet_N_31": {
+    "korean": "고리달린 십자가의 자비(엘븐) : 방어 관통{0}%",
+    "english": "Mercy of the Cross with a Ring (Elven) : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_32": {
+    "korean": "고리달린 십자가의 자비(다크엘븐) : 행동력{0}%",
+    "english": "Mercy of the Cross with a Ring (Dark Elven) : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Sekhmet_N_32": {
+    "korean": "고리달린 십자가의 자비(다크엘븐) : 방어 관통{0}%",
+    "english": "Mercy of the Cross with a Ring (Dark Elven) : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_33": {
+    "korean": "고리달린 십자가의 자비 (세레스티아) : 행동력 {0}%",
+    "english": "Mercy of the Cross with a Ring (Cerestia) : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Sekhmet_N_33": {
+    "korean": "고리달린 십자가의 자비(세레스티아) : 방어 관통 {0}%",
+    "english": "Mercy of the Cross with a Ring (Cerestia) : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_34": {
+    "korean": "고리달린 십자가의 자비 (하토르) : 행동력 {0}%",
+    "english": "Mercy of the Cross with a Ring (Hathor) : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Sekhmet_N_34": {
+    "korean": "고리달린 십자가의 자비(하토르) : 방어 관통 {0}%",
+    "english": "Mercy of the Cross with a Ring (Hathor) : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_4": {
+    "korean": "여신의 세 얼굴 : 공격력{0}%",
+    "english": "Three Faces of the Goddess : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Sekhmet_N_4": {
+    "korean": "여신의 세 얼굴 : 광역 피해 집중{0}% (최대)",
+    "english": "Three Faces of the Goddess : Area DMG Focus {0}% (Max)"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_41": {
+    "korean": "여신의 세 얼굴 : 광역 피해 집중{0}% (최대)",
+    "english": "Three Faces of the Goddess : Area DMG Focus {0}% (Max)"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_5": {
+    "korean": "모성 : 적중{0}%",
+    "english": "Motherhood : ACC {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Sekhmet_N_5": {
+    "korean": "모성 : 행 보호",
+    "english": "Motherhood : Row Protect"
+  },
+  "BuffDesc1_Effect_PECS_Sekhmet_N_51": {
+    "korean": "모성 : 행 보호",
+    "english": "Motherhood : Row Protect"
+  }
+}

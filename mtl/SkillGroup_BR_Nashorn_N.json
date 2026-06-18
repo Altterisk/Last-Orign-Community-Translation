@@ -1,0 +1,170 @@
+{
+  "SkillName_Skill_BR_Nashorn_N_1": {
+    "korean": "기관포 Faulheit",
+    "english": "Autocannon Faulheit"
+  },
+  "SkillDesc_Skill_BR_Nashorn_N_1": {
+    "korean": "말 안듣는 기관포를 발사하여 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 표식 / 이동 불가 효과를 부여합니다.&n치명타 시, 2라운드 동안 대상에게 받는 피해 증가 효과를 부여합니다.",
+    "english": "Fires an unruly autocannon dealing {0} damage. On hit, applies Marked and Rooted to the target for 2 rounds. On CRIT, applies DMG Taken Increased to the target for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Nashorn_N_1": {
+    "korean": "단일 대상 {0} 피해. 표식 / 이동 불가. 치명타 시, 받는 피해 증가.",
+    "english": "Single target {0} damage. Marked. Rooted. On CRIT, DMG Taken Increased."
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_1": {
+    "korean": "Faulheit : 표식",
+    "english": "Faulheit : Marked"
+  },
+  "BuffDesc2_Effect_BR_Nashorn_N_1": {
+    "korean": "Faulheit : 이동 불가",
+    "english": "Faulheit : Rooted"
+  },
+  "BuffDesc3_Effect_BR_Nashorn_N_1": {
+    "korean": "Faulenzer! : 받는 피해 {0}% 증가",
+    "english": "Faulenzer! : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_11": {
+    "korean": "Faulenzer! : 받는 피해 {0}% 증가",
+    "english": "Faulenzer! : DMG Taken Increased {0}%"
+  },
+  "SkillName_Skill_BR_Nashorn_N_2": {
+    "korean": "전장 상황 전파",
+    "english": "Battlefield Situation Relay"
+  },
+  "SkillDesc_Skill_BR_Nashorn_N_2": {
+    "korean": "무전으로 범위 내 아군 공격기 또는 <아머드 메이든> 소속 전투원에게 상황을 전파하여 2라운드 동안 공격력 / 스킬 위력을 증가시킵니다.&n대상이 중장형인 경우, 효과가 두 배로 증폭됩니다.",
+    "english": "Uses radio to relay the situation to allied Attacker units or <Armored Maiden> members within range, increasing ATK and Skill Power for 2 rounds. If the target is Heavy, the effect is doubled."
+  },
+  "SkillDescSimple_Skill_BR_Nashorn_N_2": {
+    "korean": "범위 내 아군 공격력 / 스킬 위력 증가.",
+    "english": "Increases ATK and Skill Power of allies within range."
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_2": {
+    "korean": "Fast Pace : 공격력 {0}%",
+    "english": "Fast Pace : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Nashorn_N_2": {
+    "korean": "Fast Pace : 스킬 위력 {0}%",
+    "english": "Fast Pace : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_21": {
+    "korean": "Cocked Pistol : 공격력 {0}%",
+    "english": "Cocked Pistol : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Nashorn_N_21": {
+    "korean": "Cocked Pistol : 스킬 위력 {0}%",
+    "english": "Cocked Pistol : Skill Power {0}%"
+  },
+  "SkillName_Skill_BR_Nashorn_N_3": {
+    "korean": "훌륭한 반면교사",
+    "english": "Excellent Cautionary Example"
+  },
+  "SkillDesc_Skill_BR_Nashorn_N_3": {
+    "korean": "라운드 개시 시, 범위 내 중장형 공격기의 적중 / 치명타 / AP가 증가합니다.&n자신이 스쿼드 내 유일한 지원기인 경우, 대상이 중장형 전투원으로 확장되며 효과가 50% 증폭됩니다.",
+    "english": "At the start of the round, ACC, CRIT, and AP of Heavy Attacker units within range are increased.&nIf you are the only support unit in the squad, the effect extends to Heavy units and is amplified by 50%."
+  },
+  "SkillDescSimple_Skill_BR_Nashorn_N_3": {
+    "korean": "범위 내 아군 중장형 공격기 적중 / 치명타 / AP 증가.",
+    "english": "Increases ACC, CRIT, and AP of Heavy Attacker units within range."
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_3": {
+    "korean": "훌륭한 반면교사 : 적중 {0}%",
+    "english": "Excellent Cautionary Example : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Nashorn_N_3": {
+    "korean": "훌륭한 반면교사 : 치명타 {0}%",
+    "english": "Excellent Cautionary Example : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Nashorn_N_3": {
+    "korean": "훌륭한 반면교사 : AP {0}",
+    "english": "Excellent Cautionary Example : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_31": {
+    "korean": "업무 폭증 : 적중 {0}%",
+    "english": "Work Overload : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Nashorn_N_31": {
+    "korean": "업무 폭증 : 치명타 {0}%",
+    "english": "Work Overload : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Nashorn_N_31": {
+    "korean": "업무 폭증 : AP {0}",
+    "english": "Work Overload : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_32": {
+    "korean": "나 찾지마…",
+    "english": "Don't look for me..."
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_33": {
+    "korean": "업무 자동화(수동) : 적중 {0}%",
+    "english": "Task Automation (Manual): ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Nashorn_N_33": {
+    "korean": "업무 자동화(수동) : 치명타 {0}%",
+    "english": "Task Automation (Manual): CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Nashorn_N_33": {
+    "korean": "업무 자동화(수동) : AP {0}",
+    "english": "Workflow Automation (Manual): AP {0}"
+  },
+  "SkillName_Skill_BR_Nashorn_N_4": {
+    "korean": "전략적 경량화 장갑판",
+    "english": "Strategic Lightweight Armor Plate"
+  },
+  "SkillDesc_Skill_BR_Nashorn_N_4": {
+    "korean": "라운드 개시 시, 3라운드 동안 자신의 행동력이 증가합니다.&n전투 당 단 한 번, 대기를 통해 주포를 조립하여 자신의 액티브 스킬을 변경합니다.&n<대 장갑 장비> 장착 시, 주포를 조립한 상태로 전투를 개시하며, 주포를 최대 두 번 사용할 수 있습니다.",
+    "english": "At the start of the round, SPD is increased for 3 rounds.&nOnce per battle, by waiting, assembles the main gun to change your active skill.&nWhen equipped with <Anti-Armor Equipment>, start battle with the main gun assembled and can use the main gun up to twice."
+  },
+  "SkillDescSimple_Skill_BR_Nashorn_N_4": {
+    "korean": "자신 행동력 증가. 대기 시, <주포 조립> 가능.",
+    "english": "Increases own SPD. Can <Assemble Main Gun> when waiting."
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_4": {
+    "korean": "경량화 장갑판 : 행동력 {0}%",
+    "english": "Lightweight Armor Plate : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Nashorn_N_4": {
+    "korean": "주포 조립 (대기 시)",
+    "english": "Main Gun Assembly (On Standby)"
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_41": {
+    "korean": "주포 조립 준비",
+    "english": "Main Gun Assembly Prep"
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_42": {
+    "korean": "주포 조립 완료",
+    "english": "Main Gun Assembly Complete"
+  },
+  "BuffDesc2_Effect_BR_Nashorn_N_42": {
+    "korean": "탄 인계",
+    "english": "Ammo Transfer"
+  },
+  "SkillName_Skill_BR_Nashorn_N_5": {
+    "korean": "호시우보",
+    "english": "Cautious Advance"
+  },
+  "SkillDesc_Skill_BR_Nashorn_N_5": {
+    "korean": "전투 개시 시, 2회 피격 시까지 자신의 치명타가 크게 증가합니다.&n라운드 개시 시 자신이 효과 저항 증가 상태인 경우, 자신은 보호 무시 효과를 획득합니다.&n<아머드 메이든> 소속 전투원의 '자신 위치에 따른 스킬 효과'가 항상 최대 효율로 발동하도록 합니다.",
+    "english": "At the start of battle, CRIT is greatly increased until hit twice.&nAt the start of the round, if you are under a Status Resist increase state, you gain Activate Ignore Protection.&n<Armored Maiden> unit members' “skill effects based on own position” always activate at maximum efficiency."
+  },
+  "SkillDescSimple_Skill_BR_Nashorn_N_5": {
+    "korean": "자신 치명타 증가. 조건부 보호 무시 활성화.",
+    "english": "Increases own CRIT. Conditional Activate Ignore Protection."
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_5": {
+    "korean": "호시 : 치명타 {0}%",
+    "english": "Hoshi : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_BR_Nashorn_N_5": {
+    "korean": "우보 : 보호 무시 활성화",
+    "english": "Ubo : Activate Ignore Protection"
+  },
+  "BuffDesc3_Effect_BR_Nashorn_N_5": {
+    "korean": "<아머드 메이든> 스킬 조건 완화",
+    "english": "<Armored Maiden> Skill Condition Relaxed"
+  },
+  "BuffDesc1_Effect_BR_Nashorn_N_51": {
+    "korean": "우보 : 보호 무시 활성화",
+    "english": "Ubo : Activate Ignore Protection"
+  }
+}

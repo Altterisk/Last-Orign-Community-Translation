@@ -1,0 +1,190 @@
+{
+  "1002700040": {
+    "korean": "암살 목표 지정",
+    "english": "Assassination Target Marked"
+  },
+  "1002706103": {
+    "korean": "권총을 발사해 {0} 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 상태로 만듭니다. 표식을 제외한 효과는 중첩 가능합니다.",
+    "english": "Fires a handgun to deal {0} damage and inflict Marked and DMG Taken Increased for 2 turns. Effects other than Marked can stack."
+  },
+  "1002706466": {
+    "korean": "단일 대상 {0} 피해. 표식 / 받는 피해 증가",
+    "english": "Deals {0} damage to a single target. Inflicts Marked and DMG Taken Increased."
+  },
+  "1000102508": {
+    "korean": "암살 목표 지정 : 표식 지정",
+    "english": "Assassination Target Designation: Marks target"
+  },
+  "1000104204": {
+    "korean": "암살 목표 지정 : 받는 피해{0}%",
+    "english": "Assassination Target Marked : DMG Taken {0}%"
+  },
+  "1002700041": {
+    "korean": "예정된 죽음",
+    "english": "Scheduled Death"
+  },
+  "1002706104": {
+    "korean": "라이플 저격으로 {0} 보호 무시 피해를 줍니다. 대상이 표식 / 이동 불가 상태인 경우 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage with a rifle sniper shot. If the target is Marked or Rooted, damage is increased."
+  },
+  "1002703333": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 표식 / 이동 불가 대상 피해량 증가",
+    "english": "Deals {0} Ignore Protection damage to a single target. Damage is increased against Marked or Rooted targets."
+  },
+  "1000104179": {
+    "korean": "정밀 저격 : 피해량{0}%",
+    "english": "Precision Sniping: Additional DMG {0}%"
+  },
+  "1002700042": {
+    "korean": "냉혈한",
+    "english": "Cold-Blooded"
+  },
+  "1002703684": {
+    "korean": "적의 HP%가 낮을수록 피해량이 증가합니다. 적 처치 시, 다음 목표를 찾기 시작해 AP가 증가합니다.",
+    "english": "Damage increases proportionally to target's missing HP. When the enemy is defeated, begins tracking the next target and gains AP."
+  },
+  "1002702891": {
+    "korean": "적 처치 시 AP 증가 / 적 HP% 낮을수록 피해량 증가",
+    "english": "Increases AP on enemy kill / Damage increases the lower the enemy's HP%"
+  },
+  "1000102510": {
+    "korean": "냉혈한 : 적 HP% 낮을수록 피해량{0}%",
+    "english": "Cold-Blooded: Damage {0}% higher the lower the target's HP%"
+  },
+  "1000104205": {
+    "korean": "냉혈한 : AP{0} (적 처치 시)",
+    "english": "Cold-Blooded: AP {0} (On Kill)"
+  },
+  "1000102997": {
+    "korean": "냉혈한 : AP{0}",
+    "english": "Cold-Blooded : AP {0}"
+  },
+  "1000100037": {
+    "korean": "약점 공유",
+    "english": "Shared Weakness"
+  },
+  "1002707573": {
+    "korean": "라운드 개시 시, 아군의 경장형 전투원 수에 비례하여 아군 경장형의 공격력과 치명타를 증가시킵니다. 자신은 2배의 효과가 적용됩니다.",
+    "english": "At the start of the round, increases ATK and CRIT of allied Light units proportionally to their number. The user receives double the effect."
+  },
+  "1002707575": {
+    "korean": "아군 경장형 전투원 수에 비례하여 아군 경장형의 공격력과 치명타 증가 / 자신은 2배",
+    "english": "Increases ATK and CRIT of allied Light units proportionally to their number / User receives double the effect."
+  },
+  "1000109778": {
+    "korean": "약점 공유 : 치명타{0}%(경장1)",
+    "english": "Shared Weakness : CRIT {0}% (Light1)"
+  },
+  "1000109780": {
+    "korean": "약점 공유 : 치명타{0}%(자신)",
+    "english": "Shared Weakness : CRIT {0}% (Self)"
+  },
+  "1000109791": {
+    "korean": "약점 공유 : 공격력{0}%(경장1)",
+    "english": "Shared Weakness : ATK {0}% (Light1)"
+  },
+  "1000109796": {
+    "korean": "약점 공유 : 공격력{0}%(자신)",
+    "english": "Shared Weakness : ATK {0}% (Self)"
+  },
+  "1000109750": {
+    "korean": "약점 공유 : 치명타{0}%(경장1/자신)",
+    "english": "Weakness Share: CRIT {0}% (Light Armor 1/Self)"
+  },
+  "1000109786": {
+    "korean": "약점 공유 : 공격력{0}%(경장1/자신)",
+    "english": "Weakness Share: ATK {0}% (Light Armor 1/Self)"
+  },
+  "1000109751": {
+    "korean": "약점 공유 : 치명타{0}%(경장2/자신)",
+    "english": "Weakness Share: CRIT {0}% (Light Armor 2/Self)"
+  },
+  "1000109787": {
+    "korean": "약점 공유 : 공격력{0}%(경장2/자신)",
+    "english": "Weakness Share: ATK {0}% (Light Armor 2/Self)"
+  },
+  "1000109752": {
+    "korean": "약점 공유 : 치명타{0}%(경장3/자신)",
+    "english": "Weakness Share: CRIT {0}% (Light Armor 3/Self)"
+  },
+  "1000109788": {
+    "korean": "약점 공유 : 공격력{0}%(경장3/자신)",
+    "english": "Weakness Share: ATK {0}% (Light Armor 3/Self)"
+  },
+  "1000109753": {
+    "korean": "약점 공유 : 치명타{0}%(경장4/자신)",
+    "english": "Weakness Share: CRIT {0}% (Light Armor 4/Self)"
+  },
+  "1000109789": {
+    "korean": "약점 공유 : 공격력{0}%(경장4/자신)",
+    "english": "Weakness Share: ATK {0}% (Light Armor 4/Self)"
+  },
+  "1000109754": {
+    "korean": "약점 공유 : 치명타{0}%(경장5/자신)",
+    "english": "Weakness Share: CRIT {0}% (Light Armor 5/Self)"
+  },
+  "1000109790": {
+    "korean": "약점 공유 : 공격력{0}%(경장5/자신)",
+    "english": "Weakness Share: ATK {0}% (Light Armor 5/Self)"
+  },
+  "1000109755": {
+    "korean": "약점 공유 : 치명타{0}%(경장2)",
+    "english": "Shared Weakness : CRIT {0}% (Light2)"
+  },
+  "1000109792": {
+    "korean": "약점 공유 : 공격력{0}%(경장2)",
+    "english": "Shared Weakness : ATK {0}% (Light2)"
+  },
+  "1000109756": {
+    "korean": "약점 공유 : 치명타{0}%(경장3)",
+    "english": "Shared Weakness : CRIT {0}% (Light3)"
+  },
+  "1000109793": {
+    "korean": "약점 공유 : 공격력{0}%(경장3)",
+    "english": "Shared Weakness : ATK {0}% (Light3)"
+  },
+  "1000109757": {
+    "korean": "약점 공유 : 치명타{0}%(경장4)",
+    "english": "Shared Weakness : CRIT {0}% (Light4)"
+  },
+  "1000109794": {
+    "korean": "약점 공유 : 공격력{0}%(경장4)",
+    "english": "Shared Weakness : ATK {0}% (Light4)"
+  },
+  "1000109758": {
+    "korean": "약점 공유 : 치명타{0}%(경장5)",
+    "english": "Shared Weakness : CRIT {0}% (Light5)"
+  },
+  "1000109795": {
+    "korean": "약점 공유 : 공격력{0}%(경장5)",
+    "english": "Shared Weakness : ATK {0}% (Light5)"
+  },
+  "1000100036": {
+    "korean": "냉혹한 암살자",
+    "english": "Cold-Blooded Assassin"
+  },
+  "1002707572": {
+    "korean": "라운드 개시 시, 자신은 방어막/피해 감소 무시 효과가 적용됩니다. 적 처치 시 AP를 추가로 획득 하며 획득과 동시에 자신이 추가로 획득한 AP를 차감합니다. 경장형 아군 전체에게 차감한 만큼의 AP를 부여합니다.",
+    "english": "At the start of the round, the user gains Ignore Barrier and DMG Reduction bypass effects. When an enemy is defeated, gains bonus AP, then immediately deducts the same amount from themselves to grant it to all allied Light units."
+  },
+  "1002707574": {
+    "korean": "자신 방어막, 피해 감소 무시 / 적 처치 시 자신을 제외한 아군 경장 AP 증가",
+    "english": "User gains Ignore Barrier and DMG Reduction bypass / On enemy kill, grants AP to all allied Light units except self."
+  },
+  "1000109777": {
+    "korean": "냉혹한 암살자 : AP{0}(아군경장전체)",
+    "english": "Ruthless Assassin: AP {0} (Allied Light units)"
+  },
+  "1000109779": {
+    "korean": "냉혹한 암살자 : 방어막/피해 감소 무시(자신)",
+    "english": "Cold-Blooded Assassin : Ignore Barrier / DMG Reduction (Self)"
+  },
+  "1000109749": {
+    "korean": "냉혹한 암살자 : AP{0}(자신)",
+    "english": "Cold-Blooded Assassin : AP {0} (Self)"
+  },
+  "1000109773": {
+    "korean": "냉혹한 암살자 : 방어막/피해 감소 무시(자신)",
+    "english": "Cold-Blooded Assassin : Ignore Barrier / DMG Reduction (Self)"
+  }
+}

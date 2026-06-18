@@ -1,0 +1,182 @@
+{
+  "SkillName_Skill_3P_Fotia_N_1": {
+    "korean": "접촉 연소",
+    "english": "Contact Combustion"
+  },
+  "SkillDesc_Skill_3P_Fotia_N_1": {
+    "korean": "화염탄을 발사해 {0} 화염 피해를 줍니다.&n적중 시, 3라운드 동안 대상의 화염 저항을 감소시키고, 지속 화염 피해를 부여합니다.",
+    "english": "Fires a fire shell dealing {0} fire damage.\\nOn hit, reduces the target’s Fire Resist for 3 rounds and applies Fire DoT."
+  },
+  "SkillDescSimple_Skill_3P_Fotia_N_1": {
+    "korean": "단일 대상 {0} 화염 피해. 지속 화염 피해 / 화염 저항 감소.",
+    "english": "Deals {0} fire damage to a single target. Applies Fire DoT and reduces Fire Resist."
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_1": {
+    "korean": "점화 : {0} 지속 화염 피해",
+    "english": "Ignition : Fire DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_3P_Fotia_N_1": {
+    "korean": "접촉 연소 : 화염 저항 {0}%",
+    "english": "Contact Combustion : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_11": {
+    "korean": "웰던 : {0} 지속 화염 피해",
+    "english": "Well Done : Fire DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_3P_Fotia_N_11": {
+    "korean": "웰던 : 화염 저항 {0}%",
+    "english": "Well Done : Fire Resist {0}%"
+  },
+  "SkillName_Skill_3P_Fotia_N_2": {
+    "korean": "파이어레인",
+    "english": "Fire Rain"
+  },
+  "SkillDesc_Skill_3P_Fotia_N_2": {
+    "korean": "목표 지점에 화염을 분사해 {0} 보호 무시 화염 피해를 주고, 대상의 받는 피해 감소 효과를 해제합니다.&n적중 시, 3라운드 동안 대상의 화염 저항을 감소시키고, 지속 화염 피해를 부여합니다.&n스킬 레벨 5부터 범위가 증가합니다.",
+    "english": "Sprays fire at the target point dealing {0} Ignore Protection fire damage and removes the target’s DMG Reduction effect.\\nOn hit, reduces the target’s Fire Resist for 3 rounds and applies Fire DoT.\\nRange increases from skill level 5."
+  },
+  "SkillDescSimple_Skill_3P_Fotia_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 화염 피해. 받는 피해 감소 해제. 지속 화염 피해 / 화염 저항 감소.",
+    "english": "Deals {0} Ignore Protection fire damage to a designated area. Removes DMG Reduction. Applies Fire DoT and reduces Fire Resist."
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_2": {
+    "korean": "점화 : {0} 지속 화염 피해",
+    "english": "Ignition : Fire DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_3P_Fotia_N_2": {
+    "korean": "파이어레인 : 화염 저항 {0}%",
+    "english": "Fire Rain : Fire Resist {0}%"
+  },
+  "BuffDesc3_Effect_3P_Fotia_N_2": {
+    "korean": "파이어레인 : 받는 피해 감소 해제",
+    "english": "Fire Rain : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_21": {
+    "korean": "파이어레인 : 받는 피해 감소 해제",
+    "english": "Fire Rain : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_22": {
+    "korean": "웰던 : {0} 지속 화염 피해",
+    "english": "Well Done : Fire DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_3P_Fotia_N_22": {
+    "korean": "웰던 : 화염 저항 {0}%",
+    "english": "Well Done : Fire Resist {0}%"
+  },
+  "SkillName_Skill_3P_Fotia_N_3": {
+    "korean": "견습 요리사",
+    "english": "Apprentice Chef"
+  },
+  "SkillDesc_Skill_3P_Fotia_N_3": {
+    "korean": "심약한 성격으로 인해 포티아는 더 이상 치명타를 발생시킬 수 없습니다.&n라운드 개시 시 자신에게 치명타 증가 효과가 적용된 경우, 자신의 공격력이 증가합니다.&n전투 개시 시, 스킬 위력이 영구적으로 증가하고 스킬 위력 감소 효과에 면역이 됩니다.&n승급을 통해 주방 내 직위가 상승할 수록 스킬 위력 증가치가 늘어납니다.",
+    "english": "Due to a timid personality, Fotia can no longer cause CRIT.\\nAt the start of round, if a CRIT increase effect is applied to self, own ATK increases.\\nAt the start of wave, Skill Power is permanently increased and becomes immune to Skill Power reduction effects.\\nThe higher the kitchen rank through promotion, the greater the Skill Power increase."
+  },
+  "SkillDescSimple_Skill_3P_Fotia_N_3": {
+    "korean": "치명타 불가. 스킬 위력 증가. 조건부 공격력 증가.",
+    "english": "CRIT Immunity. Increases Skill Power. Conditional ATK increase."
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_3": {
+    "korean": "과출력 버너 : 공격력 {0}%",
+    "english": "Overclocked Burner : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Fotia_N_3": {
+    "korean": "레스팅 : 스킬 위력 감소 면역",
+    "english": "Resting: Skill Power Decrease Immunity"
+  },
+  "BuffDesc3_Effect_3P_Fotia_N_3": {
+    "korean": "견습 요리사 : 스킬 위력 {0}% (A)",
+    "english": "Apprentice Chef : Skill Power {0}% (A)"
+  },
+  "BuffDesc4_Effect_3P_Fotia_N_3": {
+    "korean": "셰프 드 파티 : 스킬 위력 {0}% (S)",
+    "english": "Chef de Partie : Skill Power {0}% (S)"
+  },
+  "BuffDesc5_Effect_3P_Fotia_N_3": {
+    "korean": "부 주방장 : 스킬 위력 {0}% (SS)",
+    "english": "Sous Chef : Skill Power {0}% (SS)"
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_31": {
+    "korean": "부 주방장 : 스킬 위력 {0}%",
+    "english": "Sous Chef : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_32": {
+    "korean": "셰프 드 파티 : 스킬 위력 {0}%",
+    "english": "Chef de Partie : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_33": {
+    "korean": "견습 요리사 : 스킬 위력 {0}%",
+    "english": "Apprentice Chef : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_34": {
+    "korean": "레스팅 : 스킬 위력 감소 면역",
+    "english": "Resting : Skill Power Decrease Immunity"
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_35": {
+    "korean": "심약함 : 치명타 불가",
+    "english": "Weakness : Cannot Crit"
+  },
+  "SkillName_Skill_3P_Fotia_N_4": {
+    "korean": "셰프 드 파티",
+    "english": "Chef de Partie"
+  },
+  "SkillDesc_Skill_3P_Fotia_N_4": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 적중이 증가합니다.&n공격 시, 3라운드 동안 자신의 공격력이 증가합니다. (최대 3중첩)&n공격 시 <예열> 중첩이 2 이상일 경우, 방어막 / 피해 감소 무시 효과를 획득합니다.",
+    "english": "At the start of round, own ATK and ACC increase.\\nOn attack, own ATK increases for 3 rounds (max 3 stacks).\\nOn attack, if <Preheat> stacks are 2 or more, gains Ignore Barrier / DMG Reduction effects."
+  },
+  "SkillDescSimple_Skill_3P_Fotia_N_4": {
+    "korean": "공격력 / 적중 증가. 공격 시, 공격력 추가 증가. 조건부 방어막 / 피해 감소 무시.",
+    "english": "ATK and ACC increase. When attacking, ATK further increases. Conditional Ignore Barrier / DMG Reduction."
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_4": {
+    "korean": "셰프 드 파티 : 공격력 {0}%",
+    "english": "Chef de Partie : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Fotia_N_4": {
+    "korean": "셰프 드 파티 : 적중 {0}%",
+    "english": "Chef de Partie : ACC {0}%"
+  },
+  "BuffDesc3_Effect_3P_Fotia_N_4": {
+    "korean": "예열 : 공격력 {0}% (공격 시)",
+    "english": "Preheat: Attack {0}% (On Attack)"
+  },
+  "BuffDesc4_Effect_3P_Fotia_N_4": {
+    "korean": "Maillard : 방어막 / 피해 감소 무시",
+    "english": "Maillard: Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_42": {
+    "korean": "Maillard : 방어막 / 피해 감소 무시",
+    "english": "Maillard : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_41": {
+    "korean": "예열 : 공격력 {0}%",
+    "english": "Preheat : ATK {0}%"
+  },
+  "SkillName_Skill_3P_Fotia_N_5": {
+    "korean": "부 주방장",
+    "english": "Sous Chef"
+  },
+  "SkillDesc_Skill_3P_Fotia_N_5": {
+    "korean": "포티아의 불을 다루는 실력이 일취월장하여 건틀릿을 더욱 효율적으로 다룰 수 있게 되었습니다.&n자신의 공격에 의한 화염 저항 감소 / 지속 화염 피해 수치가 두 배로 증폭됩니다.&n라운드 개시 시, 자신의 행동력이 증가하고 최대 행동 횟수가 1 증가합니다.",
+    "english": "Fotia’s fire-handling skills have greatly improved, allowing more efficient use of the gauntlet.\\nFire Resist reduction and Fire DoT from own attacks are doubled.\\nAt the start of round, own SPD increases and Max Action increases by 1."
+  },
+  "SkillDescSimple_Skill_3P_Fotia_N_5": {
+    "korean": "행동력 / 최대 행동 횟수 증가. 액티브 스킬 강화.",
+    "english": "SPD and Max Action increase. Active Skill Power increase."
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_5": {
+    "korean": "Bon appetit! : 행동력 {0}%",
+    "english": "Bon appetit! : SPD {0}%"
+  },
+  "BuffDesc2_Effect_3P_Fotia_N_5": {
+    "korean": "Bon appetit! : 최대 행동 횟수 {0}",
+    "english": "Bon Appetit!: Max Action {0}"
+  },
+  "BuffDesc3_Effect_3P_Fotia_N_5": {
+    "korean": "웰던 : 액티브 스킬 강화",
+    "english": "Contact Combustion : Active skill enhancement"
+  },
+  "BuffDesc1_Effect_3P_Fotia_N_51": {
+    "korean": "Yes, Chef! : 행동력 {0}%",
+    "english": "Yes, Chef! : SPD {0}%"
+  }
+}

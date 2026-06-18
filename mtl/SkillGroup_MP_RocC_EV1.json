@@ -1,0 +1,98 @@
+{
+  "1002701902": {
+    "korean": "S. 블리츠 스톰",
+    "english": "S. Blitzstorm"
+  },
+  "1002701903": {
+    "korean": "H. 유피텔 스트라이크",
+    "english": "H. Jupiter Strike"
+  },
+  "1002701904": {
+    "korean": "전자기파 파장",
+    "english": "Electromagnetic Wave"
+  },
+  "1002701905": {
+    "korean": "전하 최대 충전",
+    "english": "Maximum Charge"
+  },
+  "1002701906": {
+    "korean": "과충전 폭발",
+    "english": "Overcharge Explosion"
+  },
+  "1002704231": {
+    "korean": "지정 범위에 {0} 보호 무시 전기 속성 피해를 주고 AP / 회피 / 행동력 / 전기 저항을 낮춥니다. 목표 지점 주변은 피해량이 50% 감소합니다. <전하 충전> 중첩을 2 사용합니다.",
+    "english": "Deals {0} Ignore Protection Electric damage to the designated area and reduces AP / EVA / SPD / Electric Resist. Damage around the target point is reduced by 50%. Consumes 2 stacks of <Charge>."
+  },
+  "1002704232": {
+    "korean": "지정 대상에게 {0} 보호 무시 전기 속성 피해를 주고 일정 확률로 행동 불가 상태로 만들며 강화 효과를 해제합니다. <전하 충전> 중첩을 5 사용하며, 치명타 시 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection Electric damage to the designated target, has a chance to Stun, and removes enhancement effects. Consumes 5 stacks of <Charge>, and damage increases on CRIT hits."
+  },
+  "1002704233": {
+    "korean": "라운드 개시 시, <전하 충전> 중첩 수에 비례해 회피가 증가합니다. 적 공격 회피 시, 반격합니다.",
+    "english": "At the start of a round, EVA increases proportionally to the number of <Charge> stacks. Counterattacks when evading an enemy attack."
+  },
+  "1002704234": {
+    "korean": "<전하 충전> 중첩이 5 이상인 경우, 방어막 / 피해 감소 효과를 무시하며 적중과 치명타가 증가합니다. 해당 상태에서 냉기 속성 공격을 맞으면 강화 효과가 해제되며, 행동 불가 상태가 됩니다.",
+    "english": "When <Charge> stacks are 5 or more, ignores Barrier / DMG Reduction and increases ACC and CRIT. If hit by a cold-attribute attack in this state, enhancement effects are removed and the character becomes Stunned."
+  },
+  "1002704235": {
+    "korean": "처치될 경우, 주변에 괴멸적인 고정 피해를 줍니다.",
+    "english": "Upon being defeated, deals catastrophic Fixed DMG to the surrounding area."
+  },
+  "1000110965": {
+    "korean": "과충전 폭발",
+    "english": "Overcharge Explosion"
+  },
+  "1000104678": {
+    "korean": "고압 전류 : 강화 효과 해제",
+    "english": "Overcharged Surge : Buff Removal"
+  },
+  "1000103547": {
+    "korean": "전자기파 파장 : 회피{0}% (1단계)",
+    "english": "electromagnetic wave wavelength : EVA {0}% (1 stage)"
+  },
+  "1000103550": {
+    "korean": "전자기파 파장 : 회피{0}% (2단계)",
+    "english": "electromagnetic wave wavelength : EVA {0}% (2 stage)"
+  },
+  "1000103551": {
+    "korean": "전자기파 파장 : 회피{0}% (3단계)",
+    "english": "electromagnetic wave wavelength : EVA {0}% (3 stage)"
+  },
+  "1000103552": {
+    "korean": "전자기파 파장 : 회피{0}% (4단계)",
+    "english": "electromagnetic wave wavelength : EVA {0}% (4 stage)"
+  },
+  "1000103553": {
+    "korean": "전자기파 파장 : 회피{0}% (5단계)",
+    "english": "electromagnetic wave wavelength : EVA {0}% (5 stage)"
+  },
+  "1000103554": {
+    "korean": "전자기파 파장 : {0}% 위력으로 반격",
+    "english": "electromagnetic wave wavelength : Counter Attack with {0}% Power"
+  },
+  "1000103548": {
+    "korean": "전하 최대 충전 : 방어막 / 피해 감소 무시",
+    "english": "Maximum charge : Ignore Barrier / DMG Reduction"
+  },
+  "1000104679": {
+    "korean": "전하 최대 충전 : 적중{0}%",
+    "english": "Maximum charge : ACC {0}%"
+  },
+  "1000105184": {
+    "korean": "전하 최대 충전 : 치명타{0}%",
+    "english": "Maximum charge : CRIT {0}%"
+  },
+  "1000103555": {
+    "korean": "전하 역류 : 행동 불가",
+    "english": "Reverse Charge : Stunned"
+  },
+  "1000104680": {
+    "korean": "전하 역류 : 강화 효과 해제",
+    "english": "Reverse Charge : Buff Removal"
+  },
+  "1000103549": {
+    "korean": "과충전 폭발 : 공격력 {0}% 고정 피해",
+    "english": "Overcharge explosion : ATK {0}% Fixed DMG"
+  }
+}

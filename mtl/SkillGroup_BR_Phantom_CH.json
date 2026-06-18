@@ -1,0 +1,146 @@
+{
+  "1002700355": {
+    "korean": "암습",
+    "english": "Ambush"
+  },
+  "1002706172": {
+    "korean": "암습을 가해 {0} 보호 무시 피해를 주고, 2라운드 동안 적중 / 치명타 / 행동력이 감소하는 혼란 상태로 만듭니다. 치명타 발동 시, 피해량이 크게 증가하며 반격 효과를 해제합니다.",
+    "english": "Performs Ambush dealing {0} Ignore Protection damage and applies Confusion for 2 rounds, reducing ACC, CRIT, and SPD. On CRIT, damage is greatly increased and Counter Attack effects are removed."
+  },
+  "1002706508": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 혼란 효과 / 치명타 시, 피해량 증가 / 반격 해제",
+    "english": "Single target {0} Ignore Protection damage. Causes Confusion; on CRIT, damage is increased and Counter Attack is removed."
+  },
+  "1000102609": {
+    "korean": "회심의 일격 : 피해량{0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "1000104295": {
+    "korean": "혼란 : 적중률 {0}%",
+    "english": "Confusion: ACC {0}%"
+  },
+  "1000102944": {
+    "korean": "혼란 : 치명타 {0}%",
+    "english": "Confusion: CRIT {0}%"
+  },
+  "1000102945": {
+    "korean": "혼란 : 행동력 {0}%",
+    "english": "Confusion: SPD {0}%"
+  },
+  "1000106983": {
+    "korean": "회심의 암습 : 반격 효과 해제",
+    "english": "Critical Ambush: Counter Attack Effect Removal"
+  },
+  "1000102943": {
+    "korean": "혼란 : 적중 {0}%",
+    "english": "Confusion: ACC {0}%"
+  },
+  "1002700356": {
+    "korean": "점착 폭탄 설치",
+    "english": "Sticky Bomb Installation"
+  },
+  "1002706173": {
+    "korean": "점착 폭탄으로 {0} 보호 무시 피해를 줍니다. 치명타 시, 대상에게 강화 효과 해제 / 받는 피해 증가가 적용됩니다.",
+    "english": "Deals {0} Ignore Protection damage with Sticky Bombs. On CRIT, removes buffs from the target and applies DMG Taken Increased."
+  },
+  "1002706509": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 치명타 시, 강화 해제 / 피해 증폭",
+    "english": "Single target {0} Ignore Protection damage. On CRIT, removes buffs and applies DMG Taken Increased."
+  },
+  "1000106457": {
+    "korean": "파괴 공작 : 강화 효과 해제",
+    "english": "Sabotage Operation : Buff Removal"
+  },
+  "1000104296": {
+    "korean": "파괴 공작 : 받는 피해{0}%",
+    "english": "Destruction Operation: DMG Taken {0}%"
+  },
+  "1002705346": {
+    "korean": "위장 전술",
+    "english": "Camouflage Tactics"
+  },
+  "1002706174": {
+    "korean": "라운드 개시 시, 치명타 / 회피가 증가합니다. 적을 처치할 때마다 2라운드 동안 회피 증가의 50%가 추가 적용됩니다. 추가 회피 증가는 중첩됩니다.",
+    "english": "At round start, CRIT and EVA are increased. Each time an enemy is killed, an additional 50% of the EVA increase is applied for 2 rounds. Additional EVA increases stack."
+  },
+  "1002706510": {
+    "korean": "치명타 / 회피 증가. 적 처치 시, 회피 추가 증가",
+    "english": "CRIT and EVA increase. Killing an enemy grants additional EVA increase."
+  },
+  "1000106458": {
+    "korean": "위장 전술 : 치명타{0}%",
+    "english": "Camouflage Tactics : CRIT {0}%"
+  },
+  "1000106759": {
+    "korean": "위장 전술 : 회피{0}%",
+    "english": "Camouflage Tactics : EVA {0}%"
+  },
+  "1000106888": {
+    "korean": "위장 개시 : 회피{0}% (적 처치 시)",
+    "english": "Camouflage Activation: EVA {0}% (On Kill)"
+  },
+  "1000106480": {
+    "korean": "위장 개시 : 회피{0}%",
+    "english": "Camouflage Commence : EVA {0}%"
+  },
+  "1002705641": {
+    "korean": "광학 미채 활성화",
+    "english": "Optical Camouflage Activation"
+  },
+  "1002706338": {
+    "korean": "액티브 스킬이 변경되며, 라운드 개시 시 공격력이 증가하고 행동력이 감소합니다. 대기 시, 광학 미채 상태를 해제하며 모든 해로운 효과가 제거되고 AP가 증가합니다.",
+    "english": "Active skill changes, and at round start ATK increases while SPD decreases. While on standby, Optical Camouflage is removed, all harmful effects are cleared, and AP increases."
+  },
+  "1002706595": {
+    "korean": "공격력 증가 / 행동력 감소. 대기 시, 광학 미채 / 해로운 효과 해제 / AP 증가",
+    "english": "ATK increase / SPD decrease. On standby, Optical Camouflage removal / harmful effect removal / AP increase."
+  },
+  "1000102671": {
+    "korean": "광학 미채 : 공격력{0}%",
+    "english": "Optical Camouflage: ATK {0}%"
+  },
+  "1000104980": {
+    "korean": "광학 미채 : 행동력 {0}%",
+    "english": "Optical Camouflage: SPD {0}%"
+  },
+  "1000106938": {
+    "korean": "광학 미채 해제 : 해로운 효과 해제 (대기 시)",
+    "english": "Optical Camouflage Removal: Debuff Removal (On Standby)"
+  },
+  "1000106977": {
+    "korean": "광학 미채 해제 : AP{0} (대기 시)",
+    "english": "Optical Camouflage Removal: AP {0} (On Standby)"
+  },
+  "1000106459": {
+    "korean": "광학 미채 해제 : 모드 변경",
+    "english": "Optical Camouflage Deactivation: Mode change"
+  },
+  "1000106760": {
+    "korean": "광학 미채 해제 : 해로운 효과 해제",
+    "english": "Optical Camouflage Release : Debuff Removal"
+  },
+  "1000102693": {
+    "korean": "광학 미채 해제 : AP{0}",
+    "english": "Optical Camouflage Removal: AP {0}"
+  },
+  "1002702056": {
+    "korean": "우정의 표현?",
+    "english": "Expression of Friendship?"
+  },
+  "1002706236": {
+    "korean": "라운드 개시 시, 범위 내 아군의 공격을 지원하며 대상들의 적중을 높입니다.",
+    "english": "At round start, supports allies' attacks within range and increases their ACC."
+  },
+  "1002706540": {
+    "korean": "범위 내 아군 공격 지원 / 적중 증가",
+    "english": "Supports ally attacks in range / ACC increase."
+  },
+  "1000103680": {
+    "korean": "우정의 표현? : 공격 지원",
+    "english": "Expression of Friendship? : Follow-Up Attack"
+  },
+  "1000104725": {
+    "korean": "우정의 표현? : 적중{0}%",
+    "english": "Expression of Friendship? : ACC {0}%"
+  }
+}

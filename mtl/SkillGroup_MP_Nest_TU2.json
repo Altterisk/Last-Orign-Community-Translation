@@ -1,0 +1,46 @@
+{
+  "1002705670": {
+    "korean": "은총 하사∙응징",
+    "english": "Grace Bestowal·Retribution"
+  },
+  "1002706356": {
+    "korean": "자신의 HP에 따라 자신에게 해제 불가의 버프가 부여 되고, 주위 아군에게 점차 강해지는 버프 효과를 부여합니다.&n아군이 사망 시, 2라운드 동안 주위 아군의 공격을 지원해 적을 응징합니다.&n&n은총 하사 1단계 (HP 100% ~ 80%) &n자신의 적중 증가&n주위 아군의 공격력 / 방어력 증가&n&n은총 하사 2단계 (HP 80% ~ 50%)&n자신의 적중 / 방어 관통 증가&n주위 아군의 공격력 / 방어력 / 적중 증가&n&n은총 하사 3단계 (HP 50% ~ 0%)&n자신의 적중 / 방어 관통 증가 / 방어막 / 피해 감소 무시&n주위 아군의 공격력 / 방어력 / 적중 증가",
+    "english": "Grants an unremovable buff to self based on own HP, and applies a gradually strengthening buff to nearby allies.\\nWhen an ally dies, supports nearby allies' attacks for 2 rounds to punish enemies.\\n\\nGrace Bestowal Stage 1 (HP 100% ~ 80%)\\nIncrease own ACC\\nIncrease ATK / DEF of nearby allies\\n\\nGrace Bestowal Stage 2 (HP 80% ~ 50%)\\nIncrease own ACC / DEF Penetration\\nIncrease ATK / DEF / ACC of nearby allies\\n\\nGrace Bestowal Stage 3 (HP 50% ~ 0%)\\nIncrease own ACC / DEF Penetration / Barrier / Ignore Barrier / DMG Reduction\\nIncrease ATK / DEF / ACC of nearby allies"
+  },
+  "1002706357": {
+    "korean": "전투 개시 시, 해제 불가의 <배리어>가 전개 되고 피격 시, 해제 불가의 <배리어 전개 준비> 상태가 되며 3회 중첩인 상태로 피격 시, 해제 불가의 <배리어>가 전개되어 3라운드 동안 피해를 5회 무효화합니다. <배리어>가 전개돼있는 동안 피격 시, 해로운 효과를 해제하고 아군이 사망 시, <배리어>가 강제로 해제되어 3라운드 동안 받는 피해가 증가합니다.",
+    "english": "At the start of battle, an unremovable <Barrier> is deployed.\\nWhen hit, enters an unremovable <Barrier Deployment Ready> state, and when hit with 3 stacks, an unremovable <Barrier> is deployed that Damage Nullification 5 times for 3 rounds.\\nWhile the <Barrier> is deployed, when hit, harmful effects are removed.\\nIf an ally dies, the <Barrier> is forcibly removed and DMG Taken increased for 3 rounds."
+  },
+  "1002706358": {
+    "korean": "네스트가 파괴될 시, 사출된 모든 기계들에게 피해를 줍니다.",
+    "english": "When the Nest is destroyed, all deployed machines take damage."
+  },
+  "1000106855": {
+    "korean": "배리어 전개 : 해로윤 효과 해제",
+    "english": "Barrier Deployment : Remove Harmful Effect"
+  },
+  "1000106710": {
+    "korean": "배리어 강제 해제",
+    "english": "Barrier Forced Release"
+  },
+  "1000106160": {
+    "korean": "위치 사수",
+    "english": "Hold Position"
+  },
+  "1000106601": {
+    "korean": "사출 시스템 파괴(침식 사용 불가)",
+    "english": "Ejection System Destroyed (Cannot use Corrosion)"
+  },
+  "1000106602": {
+    "korean": "사출 시스템 손상",
+    "english": "Ejection System Damaged"
+  },
+  "1000103173": {
+    "korean": "본체 파괴 : {0}% 물리 피해",
+    "english": "Main Body Destruction : {0}% Physical DMG"
+  },
+  "1000106735": {
+    "korean": "응징 : 공격 지원",
+    "english": "Retribution : Follow-Up Attack"
+  }
+}

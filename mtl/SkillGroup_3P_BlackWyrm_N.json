@@ -1,0 +1,146 @@
+{
+  "SkillName_Skill_3P_BlackWyrm_N_1": {
+    "korean": "흑철 비늘",
+    "english": "Black Iron Scales"
+  },
+  "SkillDesc_Skill_3P_BlackWyrm_N_1": {
+    "korean": "적과 충돌하여 단일 대상에게 {0} 화염 피해를 줍니다.&n적중 시, 3라운드 동안 대상의 공격력 / 회피를 감소시킵니다.&n스킬 레벨 당 +10%의 적중 보정이 적용됩니다.",
+    "english": "Crashes into an enemy, dealing {0} Fire damage to a single target. On hit, reduces the target's ATK and EVA for 3 rounds. Accuracy is increased by 10% per skill level."
+  },
+  "SkillDescSimple_Skill_3P_BlackWyrm_N_1": {
+    "korean": "단일 대상 {0} 화염 피해. 대상 공격력 / 회피 감소.",
+    "english": "Deals {0} Fire damage to a single target. Reduces the target's ATK and EVA."
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_1": {
+    "korean": "흑철 비늘 : 공격력 {0}%",
+    "english": "Black Iron Scales : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_BlackWyrm_N_1": {
+    "korean": "흑철 비늘 : 회피 {0}%",
+    "english": "Black Iron Scales : EVA {0}%"
+  },
+  "SkillName_Skill_3P_BlackWyrm_N_2": {
+    "korean": "화염 발톱",
+    "english": "Flame Claw"
+  },
+  "SkillDesc_Skill_3P_BlackWyrm_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 화염 피해를 줍니다. 목표 지점 주변은 피해량이 75% 감소합니다. &n적중 시, 3라운드 동안 대상의 방어력 / 치명타 / 화염 저항을 감소시킵니다. &n적중 여부에 관계 없이, 2라운드 동안 대상에게 지속 화염 피해를 입힙니다.",
+    "english": "Deals {0} Fire damage that ignores protection to a designated area. Damage is reduced by 75% around the target point. On hit, reduces the target's DEF, CRIT, and Fire Resist for 3 rounds. Regardless of hit, applies Fire DoT DMG for 2 rounds."
+  },
+  "SkillDescSimple_Skill_3P_BlackWyrm_N_2": {
+    "korean": "지정 범위 {0} 화염 피해. 대상 방어력 / 치명타 / 화염 저항 감소 / 지속 화염 피해.",
+    "english": "Deals {0} Fire damage to a designated area. Reduces the target's DEF, CRIT, and Fire Resist, and inflicts Fire DoT DMG."
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_2": {
+    "korean": "화염 발톱 : 방어력 {0}%",
+    "english": "Flame Claw : DEF {0}%"
+  },
+  "BuffDesc2_Effect_3P_BlackWyrm_N_2": {
+    "korean": "화염 발톱 : 치명타 {0}%",
+    "english": "Flame Claw : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_3P_BlackWyrm_N_2": {
+    "korean": "화염 발톱 : 화염 저항 {0}%",
+    "english": "Flame Claw : Fire Resist {0}%"
+  },
+  "BuffDesc4_Effect_3P_BlackWyrm_N_2": {
+    "korean": "흑철 비늘 : 지속 화염 피해 {0}",
+    "english": "Black Iron Scales : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_22": {
+    "korean": "흑철 비늘 : 지속 화염 피해 {0}",
+    "english": "Black Iron Scales : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_3": {
+    "korean": "뒤로 피하세요! : 받는 피해 {0}% 감소",
+    "english": "Fall Back! : DMG Reduction {0}%"
+  },
+  "SkillName_Skill_3P_BlackWyrm_N_3": {
+    "korean": "뒤로 피하세요!",
+    "english": "Fall Back!"
+  },
+  "SkillDesc_Skill_3P_BlackWyrm_N_3": {
+    "korean": "전투 개시 시, 3라운드 동안 자신이 받는 피해가 감소합니다. <화염 발톱> 적중 시, 효과를 갱신합니다.&n화염 속성 피격 시, 자신은 피해 무효화(1회)를 획득합니다.&n자신 외의 <배틀 메이드> 소속 전투원이 있을 경우, 상기 효과는 냉기 속성 피격 시에도 발동합니다.",
+    "english": "At the start of wave, reduces damage taken for 3 rounds. When <Flame Claw> hits, the effect is refreshed. When hit by Fire damage, grants Damage Nullification (1 time). If there are other allied <Battle Maid> units, the same effect also activates when hit by Ice damage."
+  },
+  "SkillDescSimple_Skill_3P_BlackWyrm_N_3": {
+    "korean": "자신 받는 피해 감소. 조건부 피해 무효화.",
+    "english": "Reduces damage taken. Conditional Damage Nullification."
+  },
+  "BuffDesc2_Effect_3P_BlackWyrm_N_3": {
+    "korean": "뒤로 피하세요! : 피해 무효화 {0}회",
+    "english": "Fall Back! : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_31": {
+    "korean": "뒤로 피하세요! : 피해 무효화 {0}회",
+    "english": "Fall Back! : Damage Nullification {0}x"
+  },
+  "SkillName_Skill_3P_BlackWyrm_N_4": {
+    "korean": "열기 보호",
+    "english": "Heat Shield"
+  },
+  "SkillDesc_Skill_3P_BlackWyrm_N_4": {
+    "korean": "라운드 개시 시, 보호기를 제외한 범위 내 아군을 지정 보호합니다.&n라운드 개시 시, 범위 내 아군의 화염 저항 / 효과 저항 / 행동력이 증가합니다.&n전투 개시 시 스쿼드 내에서 자신의 방어력이 가장 높을 경우, 자신은 강화 해제 저항을 획득합니다.",
+    "english": "At the start of round, designates allies within range, except Defenders, for protection. At the start of round, increases allies' Fire Resist, Status Resist, and SPD within range. At the start of wave, if this unit has the highest DEF in the squad, gains Buff Removal Resistance."
+  },
+  "SkillDescSimple_Skill_3P_BlackWyrm_N_4": {
+    "korean": "아군 지정 보호 / 화염 저항 / 효과 저항 / 행동력 증가. 조건부 자신 강화 해제 저항 획득.",
+    "english": "Target Protect a designated ally. Increases Fire Resist, Status Resist, and SPD. Conditionally grants Buff Removal Resistance."
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_4": {
+    "korean": "열기 보호 : 화염 저항 {0}%",
+    "english": "Heat Shield : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_3P_BlackWyrm_N_4": {
+    "korean": "열기 보호 : 효과 저항 {0}% 증가",
+    "english": "Heat Shield : Status Resist {0}% Increase"
+  },
+  "BuffDesc3_Effect_3P_BlackWyrm_N_4": {
+    "korean": "열기 보호 : 행동력 {0}%",
+    "english": "Heat Shield : SPD {0}%"
+  },
+  "BuffDesc4_Effect_3P_BlackWyrm_N_4": {
+    "korean": "열기 보호 : 지정 보호",
+    "english": "Heat Shield : Target Protect"
+  },
+  "BuffDesc5_Effect_3P_BlackWyrm_N_4": {
+    "korean": "열기 보호 : 강화 해제 저항 {0}%",
+    "english": "Heat Shield : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_41": {
+    "korean": "열기 보호 : 지정 보호",
+    "english": "Heat Shield : Target Protect"
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_42": {
+    "korean": "열기 보호 : 행동력 {0}% (봉사정신)",
+    "english": "Heat Protection: SPD {0}% (Service Spirit)"
+  },
+  "SkillName_Skill_3P_BlackWyrm_N_5": {
+    "korean": "검은 분진",
+    "english": "Black Ash"
+  },
+  "SkillDesc_Skill_3P_BlackWyrm_N_5": {
+    "korean": "라운드 개시 시, 3라운드 동안 모든 적의 화염 저항을 감소시킵니다.&n피격 시, 3라운드 동안 모든 적의 화염 저항을 감소시킵니다.&n상기 화염 저항 감소 효과는 합계 3회까지 중첩됩니다.&n액티브 스킬의 적중 시 효과는, 지속 화염 피해 상태인 대상의 효과 저항을 무시할 수 있습니다.",
+    "english": "At the start of round, reduces all enemies' Fire Resist for 3 rounds. When hit, reduces all enemies' Fire Resist for 3 rounds. This Fire Resist reduction can stack up to 3 times total. When an active skill hits, its effect can ignore the Status Resist of targets afflicted with Fire DoT DMG."
+  },
+  "SkillDescSimple_Skill_3P_BlackWyrm_N_5": {
+    "korean": "모든 적 화염 저항 감소.",
+    "english": "Reduces all enemies' Fire Resist."
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_5": {
+    "korean": "검은 분진 : 화염 저항 {0}%",
+    "english": "Black Ash : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_52": {
+    "korean": "저보다 나으시군요",
+    "english": "You're better than me."
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_53": {
+    "korean": "제가 나서야겠네요",
+    "english": "I'll have to step in."
+  },
+  "BuffDesc1_Effect_3P_BlackWyrm_N_54": {
+    "korean": "열기 보호 : 강화 해제 저항 {0}%",
+    "english": "Heat Shield : Buff Removal Resist {0}%"
+  }
+}

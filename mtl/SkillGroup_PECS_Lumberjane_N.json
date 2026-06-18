@@ -1,0 +1,166 @@
+{
+  "SkillName_Skill_PECS_Lumberjane_N_1": {
+    "korean": "톱날 발사",
+    "english": "Sawblade Shot"
+  },
+  "SkillName_Skill_PECS_Lumberjane_N_2": {
+    "korean": "대화 시도",
+    "english": "Conversation"
+  },
+  "SkillName_Skill_PECS_Lumberjane_N_3": {
+    "korean": "화끈하게 가보자고!",
+    "english": "All Out"
+  },
+  "SkillName_Skill_PECS_Lumberjane_N_4": {
+    "korean": "입목등기",
+    "english": "Timber Registration"
+  },
+  "SkillName_Skill_PECS_Lumberjane_N_5": {
+    "korean": "다이아몬드 체인",
+    "english": "Diamond Chain"
+  },
+  "SkillDesc_Skill_PECS_Lumberjane_N_1": {
+    "korean": "톱날을 발사하여 목표 지점에 {0} 피해를 줍니다.&n적중 시, 3라운드 동안 대상의 방어력 / 행동력을 감소시킵니다.&n적중 대상이 중장형인 경우 피해량이 증가합니다.",
+    "english": "Fires a sawblade at the target location dealing {0} damage. On hit, reduces the target's DEF / SPD for 3 rounds. If the hit target is Heavy, damage is increased."
+  },
+  "SkillDescSimple_Skill_PECS_Lumberjane_N_1": {
+    "korean": "목표 지점 {0} 피해. 방어력 / 행동력 감소. 대 중장형 피해량 증가.",
+    "english": "Target location {0} DMG / DEF / SPD reduction / Anti-Heavy DMG increase"
+  },
+  "SkillDesc_Skill_PECS_Lumberjane_N_2": {
+    "korean": "지정 대상에게 1:1 대화를 시도하여 {0} 피해를 줍니다.&n적중 대상이 방어력 / 행동력 감소 상태인 경우 각각 피해량이 증가합니다.",
+    "english": "Attempts a 1:1 Conversation with the specified target, dealing {0} damage. If the hit target is under DEF / SPD reduction, damage is increased for each."
+  },
+  "SkillDescSimple_Skill_PECS_Lumberjane_N_2": {
+    "korean": "지정 대상 {0} 피해. 방어력 / 행동력 감소 상태 대상 피해량 증가.",
+    "english": "Specified target {0} DMG / Damage increased against targets with DEF / SPD reduction"
+  },
+  "SkillDesc_Skill_PECS_Lumberjane_N_3": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 방어 관통이 영구적으로 증가합니다. (최대 4중첩)&n공격 적중 시, <화끈하게 가보자고!> 중첩 수에 비례하여 자신의 AP가 증가합니다.",
+    "english": "At the start of the round, permanently increase your ATK / DEF Penetration (max 4 stacks). On attack hit, increase your AP proportionally to the number of <All Out> stacks."
+  },
+  "SkillDescSimple_Skill_PECS_Lumberjane_N_3": {
+    "korean": "자신 공격력 / 방어 관통 증가. 공격 적중 시, 자신 AP 증가.",
+    "english": "ATK / DEF Penetration increase. On attack hit, AP increase."
+  },
+  "SkillDesc_Skill_PECS_Lumberjane_N_4": {
+    "korean": "라운드 개시 시, 3라운드 동안 적 전체의 받는 피해를 증가시킵니다.&n<입목등기> 효과는 효과 저항의 영향을 받지 않지만 해로운 효과 해제로 해제할 수 있습니다.&n<입목등기> 중첩이 3 이상인 대상에게 <대화 시도> 시, 대상의 강화 효과를 해제합니다.",
+    "english": "At the start of the round, increase all enemies' DMG Taken for 3 rounds. The <Timber Registration> effect is not affected by Status Resist but can be removed by harmful effect removal. When <Conversation> is used on a target with 3 or more stacks of <Timber Registration>, removes the target's enhancement effects."
+  },
+  "SkillDescSimple_Skill_PECS_Lumberjane_N_4": {
+    "korean": "적 전체 받는 피해 증가. 조건부 <대화 시도> 시, 대상 강화 효과 해제.",
+    "english": "All enemies DMG Taken increase. Conditional <Conversation> removes target's enhancement effects."
+  },
+  "SkillDesc_Skill_PECS_Lumberjane_N_5": {
+    "korean": "전투 개시 시, 자신은 치명타 증가 일반 효과를 획득합니다.&n<화끈하게 가보자고!>의 중첩 누적 속도가 두 배로 증폭되고 최대 중첩 수가 50% 증폭됩니다.&n<입목등기> 효과 중, 강화 효과 해제에 필요한 <입목등기> 중첩이 1 감소하고 일반 효과로 변경됩니다.",
+    "english": "At battle start, you gain increased CRIT and Normal Effect. <All Out> stacking speed is doubled and max stack count increased by 50%. Among <Timber Registration> effects, the number of stacks required to remove enhancement effects is reduced by 1 and changed to a Normal Effect."
+  },
+  "SkillDescSimple_Skill_PECS_Lumberjane_N_5": {
+    "korean": "자신 치명타 증가. <화끈하게 가보자고!> / <입목등기> 효과 강화.",
+    "english": "CRIT increase. <All Out> / <Timber Registration> effects enhanced."
+  },
+  "BuffDesc2_Effect_PECS_Lumberjane_N_5": {
+    "korean": "패시브 스킬 강화",
+    "english": "Passive Skill Enhancement :"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_1": {
+    "korean": "앞턱따기 : 방어력 {0}%",
+    "english": "Jaw Snap : DEF {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Lumberjane_N_1": {
+    "korean": "앞턱따기 : 행동력 {0}%",
+    "english": "Jaw Snap : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Lumberjane_N_1": {
+    "korean": "교차하는 톱날 : 대 중장형 피해량 {0}%",
+    "english": "Interlocking Sawblades : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_11": {
+    "korean": "교차하는 톱날 : 대 중장형 피해량 {0}%",
+    "english": "Interlocking Sawblades : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_2": {
+    "korean": "대화 시도 : 피해량 {0}%",
+    "english": "Attempting Conversation : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_21": {
+    "korean": "대화 시도 : 피해량 {0}%",
+    "english": "Attempting Conversation : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_22": {
+    "korean": "벌목허가 : 강화 효과 해제",
+    "english": "Logging Permit : Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_23": {
+    "korean": "벌목허가 : 강화 효과 해제",
+    "english": "Logging Permit : Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_3": {
+    "korean": "화끈하게 가보자고! : 공격력 {0}%",
+    "english": "Let’s Go All Out : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Lumberjane_N_3": {
+    "korean": "화끈하게 가보자고! : 방어 관통 {0}%",
+    "english": "Let’s Go All Out : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Lumberjane_N_3": {
+    "korean": "화끈하게 가보자고! : AP {0}",
+    "english": "Let’s Go All Out : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_31": {
+    "korean": "화끈하게 가보자고! : 방어 관통 {0}%",
+    "english": "Let’s Go All Out : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_32": {
+    "korean": "1단 클러치 : AP {0}",
+    "english": "First Clutch : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_33": {
+    "korean": "2단 클러치 : AP {0}",
+    "english": "Second Clutch : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_34": {
+    "korean": "3단 클러치 : AP {0}",
+    "english": "Third Clutch : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_35": {
+    "korean": "4단 클러치 : AP {0}",
+    "english": "Fourth Clutch : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_36": {
+    "korean": "더 화끈하게 가보자고!! : 공격력 {0}%",
+    "english": "All Out, Even Harder!! : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_37": {
+    "korean": "더 화끈하게 가보자고!! : 방어 관통 {0}%",
+    "english": "All Out, Even Harder!! : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_38": {
+    "korean": "2단 클러치! : AP {0}",
+    "english": "Second Clutch! : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_39": {
+    "korean": "4단 클러치!! : AP {0}",
+    "english": "Fourth Clutch!! : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_310": {
+    "korean": "6단 클러치!!! : AP {0}",
+    "english": "Sixth Clutch!!! : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_4": {
+    "korean": "입목등기 : 받는 피해 {0}% 증가",
+    "english": "Timber Registration : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Lumberjane_N_4": {
+    "korean": "벌목허가 : 강화 효과 해제",
+    "english": "Logging Permit : Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_41": {
+    "korean": "입목등기 : 받는 피해 {0}% 증가",
+    "english": "Timber Registration : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Lumberjane_N_5": {
+    "korean": "다이아몬드 체인 : 치명타 {0}%",
+    "english": "Diamond Chain&n : CRIT {0}%"
+  }
+}

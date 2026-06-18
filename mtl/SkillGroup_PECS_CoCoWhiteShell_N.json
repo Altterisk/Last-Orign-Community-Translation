@@ -1,0 +1,242 @@
+{
+  "SkillName_Skill_PECS_CoCoWhiteShell_N_1": {
+    "korean": "운석 파쇄 드릴",
+    "english": "Meteor Shatter Drill"
+  },
+  "SkillName_Skill_PECS_CoCoWhiteShell_N_2": {
+    "korean": "역장 전개",
+    "english": "Reverse Field Deployment"
+  },
+  "SkillName_Skill_PECS_CoCoWhiteShell_N_3": {
+    "korean": "거인의 어깨 위",
+    "english": "On the Shoulders of Giants"
+  },
+  "SkillName_Skill_PECS_CoCoWhiteShell_N_4": {
+    "korean": "오비탈 플레이팅",
+    "english": "Orbital Plating"
+  },
+  "SkillName_Skill_PECS_CoCoWhiteShell_N_5": {
+    "korean": "진공 단열",
+    "english": "Vacuum Insulation"
+  },
+  "SkillDesc_Skill_PECS_CoCoWhiteShell_N_1": {
+    "korean": "운석 파쇄 드릴로 장갑을 부숴, {0} 피해를 주고 3라운드 동안 대상의 방어력을 감소시킵니다. 해당 효과는 라운드 경과에 따라 점감합니다.&n적중 대상이 중장형 또는 보호기인 경우, 받는 피해 감소 효과를 해제합니다.&n적중 시 스쿼드 내에 <스팅어>가 있을 경우, [파쇄 돌격] 협동 공격을 유도합니다.",
+    "english": "Shatters armor with the Meteor Shatter Drill, dealing {0} DMG and reducing the target’s DEF for 3 rounds. The effect gradually diminishes each round.&nIf the target is a Heavy-type or Defender, removes their DMG Reduction effect.&nOn hit, if <Stinger> is in the squad, triggers a coordinated attack with [Shatter Charge] Cooperative Attack."
+  },
+  "SkillDescSimple_Skill_PECS_CoCoWhiteShell_N_1": {
+    "korean": "단일 대상 {0} 피해. 방어력 감소. 조건부 받는 피해 감소 해제. [파쇄 돌격] 협동 공격.",
+    "english": "Single target {0} DMG / DEF Reduction / Conditional DMG Reduction removal / [Shatter Charge] Cooperative Attack"
+  },
+  "SkillDesc_Skill_PECS_CoCoWhiteShell_N_2": {
+    "korean": "스킬 사용 시, 보호기를 제외한 대상의 AP를 증가시키고, 3라운드 동안 지정 보호하며 방어막을 부여합니다.&n대상이 <오비탈 와쳐> 소속 전투원인 경우, AP 증가량이 두 배로 증폭되고 해로운 효과를 해제합니다.&n대상이 <에이다>인 경우, <연산 과부하> 효과를 해제할 수 있습니다.",
+    "english": "Increases the target’s AP (excluding Defenders), grants Target Protect, and provides a Barrier for 3 rounds.&nIf the target is a member of <Orbital Watcher>, the AP gain is doubled and harmful effects are removed.&nIf the target is <Aeda>, the <Calculation Overload> effect is removed."
+  },
+  "SkillDescSimple_Skill_PECS_CoCoWhiteShell_N_2": {
+    "korean": "아군 AP 증가 / 지정 보호 / 방어막. <오비탈 와쳐> 소속 전투원은 추가 효과.",
+    "english": "AP Increase / Target Protect / Barrier. Additional effects for <Orbital Watcher> units."
+  },
+  "SkillDesc_Skill_PECS_CoCoWhiteShell_N_3": {
+    "korean": "라운드 개시 시, 범위 내 보호기를 제외한 아군을 지정 보호하고 회피를 증가시킵니다.&n라운드 개시 시, 자신을 제외한 아군 1기당 자신이 받는 피해가 감소합니다.&n<오비탈 와쳐> 소속 전투원은 2기로 취급하여 계산됩니다.",
+    "english": "At the start of the round, grants Target Protect and increases EVA for allies within range, excluding Defenders.&nAt the start of the round, reduces DMG Taken for self based on the number of allied units (excluding self).&nUnits belonging to <Orbital Watcher> are counted as two for this calculation."
+  },
+  "SkillDescSimple_Skill_PECS_CoCoWhiteShell_N_3": {
+    "korean": "아군 지정 보호 / 회피 증가. 아군 1기당 자신 받는 피해 감소.",
+    "english": "Grants Target Protect to allies / Increases EVA. Reduces DMG Taken per allied unit."
+  },
+  "SkillDesc_Skill_PECS_CoCoWhiteShell_N_4": {
+    "korean": "라운드 개시 시, 자신은 행 / 열 보호가 활성화됩니다.&n라운드 개시 시, 자신은 우주용 특수 장갑으로 인해 방어력 / 효과 저항 / 모든 속성 저항이 증가합니다.&n라운드 개시 시, 자신은 냉기 저항 감소 효과에 면역 상태가 됩니다.",
+    "english": "At the start of the round, self gains Row Protect and Column Protect.&nAlso gains increased DEF, Status Resist, and all Elemental Resist due to special space‑grade armor.&nBecomes immune to Cold Resist reduction."
+  },
+  "SkillDescSimple_Skill_PECS_CoCoWhiteShell_N_4": {
+    "korean": "행 / 열 보호. 방어력 / 모든 속성 / 효과 저항 증가. 냉기 저항 감소 면역.",
+    "english": "Row Protect / Column Protect. Increases DEF / all Elemental Resist / Status Resist. Immune to Cold Resist reduction."
+  },
+  "SkillDesc_Skill_PECS_CoCoWhiteShell_N_5": {
+    "korean": "라운드 개시 시, 범위 내 아군의 냉기 저항 하한을 생성합니다.&n냉기 속성 피격 시 또는 <침수> 상태로 라운드 개시 시, 자신은 해당 라운드 동안 일정 이하의 피해를 최소화하는 효과를 획득합니다.&n<응축> 상태에서 피격 시, 2라운드 동안 범위 내 아군의 행동력을 증가시킵니다.",
+    "english": "At the start of the round, sets a Minimum Cold Resist for allies within range.&nWhen hit by Cold damage or at round start while <Drenched>, gains an effect that Minimize Damage for the rest of the round.&nWhen hit while in <Condensed> state, increases SPD for allies within range for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_CoCoWhiteShell_N_5": {
+    "korean": "아군 냉기 저항 하한 생성. 조건부 자신 피해 최소화 / 아군 행동력 증가.",
+    "english": "Minimum Cold Resist generation for allies. Conditional Minimize Damage for self / SPD increase for allies."
+  },
+  "BuffDesc3_Effect_PECS_CoCoWhiteShell_N_1": {
+    "korean": "매스 드라이버 : [파쇄 돌격] 협동 공격",
+    "english": "Mass Driver : [Shatter Charge] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_15": {
+    "korean": "매스 드라이버 : [파쇄 돌격] 협동 공격",
+    "english": "Mass Driver : [Shatter Charge] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_23": {
+    "korean": "<연산 과부하> 해소",
+    "english": "<Calculation Overload> Release"
+  },
+  "BuffDesc4_Effect_PECS_CoCoWhiteShell_N_4": {
+    "korean": "오비탈 플레이팅 : 행 / 열 보호 활성화",
+    "english": "Orbital Plating : Row Protect / Column Protect"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_1": {
+    "korean": "운석 파쇄 드릴 : 방어력 {0}% (최대)",
+    "english": "Meteor-Shattering Drill : DEF {0}% (Max)"
+  },
+  "BuffDesc2_Effect_PECS_CoCoWhiteShell_N_1": {
+    "korean": "파갑 : 받는 피해 감소 해제",
+    "english": "Armor Plate : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_11": {
+    "korean": "운석 파쇄 드릴 : 방어력 {0}%",
+    "english": "Meteor-Shattering Drill : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_12": {
+    "korean": "운석 파쇄 드릴 : 방어력 {0}%",
+    "english": "Meteor-Shattering Drill : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_13": {
+    "korean": "파갑 : 받는 피해 감소 해제",
+    "english": "Armor Plate : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_14": {
+    "korean": "파갑 : 받는 피해 감소 해제",
+    "english": "Armor Plate : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_2": {
+    "korean": "역장 전개 : 방어막 {0}",
+    "english": "Reverse Field Deployment : Barrier {0}"
+  },
+  "BuffDesc2_Effect_PECS_CoCoWhiteShell_N_2": {
+    "korean": "역장 전개 : 지정 보호",
+    "english": "Reverse Field Deployment : Target Protect"
+  },
+  "BuffDesc3_Effect_PECS_CoCoWhiteShell_N_2": {
+    "korean": "역장 전개 : AP {0}",
+    "english": "Reverse Field Deployment : AP {0}"
+  },
+  "BuffDesc4_Effect_PECS_CoCoWhiteShell_N_2": {
+    "korean": "스윙바이 : 해로운 효과 해제 (오비탈 와쳐)",
+    "english": "Swingby : Debuff Removal (Orbital Watcher)"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_21": {
+    "korean": "역장 전개 : 지정 보호",
+    "english": "Reverse Field Deployment : Target Protect"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_22": {
+    "korean": "스윙바이 : 해로운 효과 해제",
+    "english": "Swingby : Debuff Removal"
+  },
+  "BuffDesc2_Effect_PECS_CoCoWhiteShell_N_22": {
+    "korean": "스윙바이 : AP {0}",
+    "english": "Swingby : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_3": {
+    "korean": "거인의 어깨 위 : 회피 {0}%",
+    "english": "On the Shoulders of Giants : EVA {0}%"
+  },
+  "BuffDesc2_Effect_PECS_CoCoWhiteShell_N_3": {
+    "korean": "거인의 어깨 위 : 지정 보호",
+    "english": "On the Shoulders of Giants : Target Protect"
+  },
+  "BuffDesc3_Effect_PECS_CoCoWhiteShell_N_3": {
+    "korean": "멀리 보기 : 받는 피해 {0}% 감소 (아군 1기당)",
+    "english": "Far Sight : DMG Reduction (Per Ally)"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_31": {
+    "korean": "멀리 보기 : 받는 피해 {0}% 감소",
+    "english": "Far Sight : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_32": {
+    "korean": "멀리 보기 : 받는 피해 {0}% 감소",
+    "english": "Far Sight : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_33": {
+    "korean": "멀리 보기 : 받는 피해 {0}% 감소",
+    "english": "Far Sight : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_34": {
+    "korean": "멀리 보기 : 받는 피해 {0}% 감소",
+    "english": "Far Sight : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_35": {
+    "korean": "똑부러지는 언니! : 받는 피해 {0}% 감소",
+    "english": "No-Nonsense Sister! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_36": {
+    "korean": "믿음직한 언니! : 받는 피해 {0}% 감소",
+    "english": "Reliable Sister! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_37": {
+    "korean": "부끄럼쟁이 언니! : 받는 피해 {0}% 감소",
+    "english": "Shy Sister! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_38": {
+    "korean": "멋쟁이 언니! : 받는 피해 {0}% 감소",
+    "english": "Stylish Sister! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_39": {
+    "korean": "게으른 대장 언니! : 받는 피해 {0}% 감소",
+    "english": "Lazy Commander Sister! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_310": {
+    "korean": "게으른 부관 언니! : 받는 피해 {0}% 감소",
+    "english": "Lazy Lieutenant Sister! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_4": {
+    "korean": "오비탈 플레이팅 : 방어력 {0}%",
+    "english": "Orbital Plating : DEF {0}%"
+  },
+  "BuffDesc2_Effect_PECS_CoCoWhiteShell_N_4": {
+    "korean": "오비탈 플레이팅 : 효과 저항 {0}% 증가",
+    "english": "Orbital Plating : Status Resist {0}% Increase"
+  },
+  "BuffDesc3_Effect_PECS_CoCoWhiteShell_N_4": {
+    "korean": "오비탈 플레이팅 : 모든 속성 저항 {0}%",
+    "english": "Orbital Plating : Elemental Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_41": {
+    "korean": "오비탈 플레이팅 : 행 보호",
+    "english": "Orbital Plating : Row Protect"
+  },
+  "BuffDesc2_Effect_PECS_CoCoWhiteShell_N_41": {
+    "korean": "오비탈 플레이팅 : 열 보호",
+    "english": "Orbital Plating : Column Protect"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_42": {
+    "korean": "오비탈 플레이팅 : 화염 저항 {0}%",
+    "english": "Orbital Plating : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_CoCoWhiteShell_N_42": {
+    "korean": "오비탈 플레이팅 : 냉기 저항 {0}%",
+    "english": "Orbital Plating : Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_CoCoWhiteShell_N_42": {
+    "korean": "오비탈 플레이팅 : 전기 저항 {0}%",
+    "english": "Orbital Plating : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_43": {
+    "korean": "오비탈 플레이팅 : 냉기 저항 감소 면역",
+    "english": "Orbital Plating : Cold Resist Decrease Immunity"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_5": {
+    "korean": "진공 단열 : 냉기 저항 하한 {0}%",
+    "english": "Vacuum Insulation : Minimum Cold Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_CoCoWhiteShell_N_5": {
+    "korean": "응축 : {0} 이하 피해 최소화",
+    "english": "Condense : Minimize Damage Below {0}"
+  },
+  "BuffDesc3_Effect_PECS_CoCoWhiteShell_N_5": {
+    "korean": "증발 : 행동력 {0}%",
+    "english": "Evaporation : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_51": {
+    "korean": "응축 : {0} 이하 피해 최소화",
+    "english": "Condense : Minimize Damage Below {0}"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_52": {
+    "korean": "응축 : {0} 이하 피해 최소화",
+    "english": "Condense : Minimize Damage Below {0}"
+  },
+  "BuffDesc1_Effect_PECS_CoCoWhiteShell_N_53": {
+    "korean": "증발 : 행동력 {0}%",
+    "english": "Evaporation : SPD {0}%"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "SkillName_Skill_MP_Demolisher_BOSS_TU_1": {
+    "korean": "콜로서스 웨이브",
+    "english": "Colossus Wave"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_TU_2": {
+    "korean": "헤일로 오버로드",
+    "english": "Halo Overload"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_TU_3": {
+    "korean": "멈출 수 없는 진격",
+    "english": "Unstoppable Advance"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_TU_4": {
+    "korean": "불굴의 분노",
+    "english": "Indomitable Fury"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_TU_5": {
+    "korean": "들끓는 증오",
+    "english": "Seething Hatred"
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_TU_1": {
+    "korean": "지정 범위 적에게 충격파를 발산하여 {0} 피해를 줍니다.&n적중 여부와 상관 없이 범위 내 적의 받는 피해 감소 효과를 해제합니다.&n스킬 사용 시, <헤일로 오버로드> 충전 상태가 됩니다.",
+    "english": "Emits a shockwave at enemies in the designated area, dealing {0} damage. Regardless of hit, removes DMG Reduction effects from enemies in the area. When using this skill, you become charged with <Halo Overload> state."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_TU_2": {
+    "korean": "지정 범위 적에게 미지의 광선을 발사하여 {0} 피해를 주고 3라운드 동안 방어력을 감소시킵니다.&n적중 여부와 상관 없이 3라운드 동안 범위 내 적의 받는 피해를 증가시키고 고정 피해를 가합니다.",
+    "english": "Fires an unknown beam at enemies in the designated area, dealing {0} damage and reducing their DEF for 3 rounds. Regardless of hit, increases DMG Taken for enemies in the area for 3 rounds and deals Fixed DMG."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_TU_3": {
+    "korean": "전투 개시 시, 총 5회의 전투 속행 효과를 획득합니다.&n전투 개시 시, 행동 불능 / 스킬 사용 불가 / AP 감소 / 도발 효과에 면역 상태가 됩니다.&n전투 개시 시, 피해 최소화 효과를 획득하며, 전투 속행 시 해당 효과가 재충전됩니다.&n라운드 개시 시, 자신에게 적용된 방어력 감소 / 받는 피해 증가 효과를 해제합니다.&n해당 효과는 강화 해제로 해제할 수 없습니다.",
+    "english": "At the start of combat, gain a total of 5 Combat Continuation effects. At the start of combat, become immune to Stunned, Silenced, AP Reduction, and Provoked effects. At the start of combat, gain Damage Minimization, which is refreshed upon Combat Continuation. At the start of a round, remove DEF Reduction and DMG Taken Increased effects from yourself. This effect cannot be removed by Enhancement Removal."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_TU_4": {
+    "korean": "전투 속행 시, 모든 적의 회피 강화 효과를 해제합니다.&n전투 속행 시, 자신의 AP를 20으로 변경하고, 영구적으로 방어력이 증가하며 받는 피해가 감소합니다.&n해당 효과는 강화 해제로 해제할 수 없습니다.&n전투 속행이 불가할 경우, 자신은 방어막 / 피해 감소 무시 효과를 획득합니다.",
+    "english": "When Combat Continuation occurs, remove all enemy EVA buffs. When Combat Continuation occurs, set your AP to 20, permanently increase your DEF, and reduce DMG Taken. This effect cannot be removed by Enhancement Removal. If Combat Continuation is not possible, you gain Barrier / Ignore DMG Reduction."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_TU_5": {
+    "korean": "피격 시, 적 전체의 공격력을 감소시킵니다.&n피격 시, 자신의 공격력 / 방어 관통이 증가합니다. 해당 효과는 강화 해제로 해제할 수 없습니다.",
+    "english": "When hit, reduces the ATK of all enemies. When hit, your ATK and DEF Penetration increase. This effect cannot be removed by Enhancement Removal."
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_11": {
+    "korean": "헤일로 차지",
+    "english": "Halo Charge"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_32": {
+    "korean": "멈추어 버린 진격",
+    "english": "Stopped Advance"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_35": {
+    "korean": "느려진 진격",
+    "english": "Slowed Advance"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_44": {
+    "korean": "불굴의 분노 : AP {0}로 변경",
+    "english": "Indomitable Fury : Change to AP {0}"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_1": {
+    "korean": "콜로서스 웨이브 : 피해 감소 해제",
+    "english": "Colossus Wave : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_2": {
+    "korean": "헤일로 오버로드 : 받는 피해 {0}% 증가",
+    "english": "Halo Overlord : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_TU_2": {
+    "korean": "헤일로 오버로드 : 지속 물리 피해 {0}",
+    "english": "Halo Overlord : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_21": {
+    "korean": "헤일로 오버로드 : 방어력 {0}%",
+    "english": "Halo Overlord : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_3": {
+    "korean": "멈출 수 없는 진격 : {0}% HP로 전투 속행",
+    "english": "Unstoppable advance : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_TU_3": {
+    "korean": "멈출 수 없는 진격 : 행동 불능 면역",
+    "english": "Unstoppable advance : Stunned Immunity"
+  },
+  "BuffDesc3_Effect_MP_Demolisher_BOSS_TU_3": {
+    "korean": "멈출 수 없는 진격 : 도발 면역",
+    "english": "Unstoppable advance : Provokes Immunity"
+  },
+  "BuffDesc4_Effect_MP_Demolisher_BOSS_TU_3": {
+    "korean": "멈출 수 없는 진격 : 스킬 사용 불가 면역",
+    "english": "Unstoppable advance : Silenced Immunity"
+  },
+  "BuffDesc5_Effect_MP_Demolisher_BOSS_TU_3": {
+    "korean": "멈출 수 없는 진격 : AP 감소 면역",
+    "english": "Unstoppable advance : AP Decrease Immunity"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_31": {
+    "korean": "멈출 수 없는 진격 : {0}% HP로 전투 속행",
+    "english": "Unstoppable advance : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_33": {
+    "korean": "멈출 수 없는 진격 : 받는 피해 증가 해제",
+    "english": "Unstoppable advance : DMG Taken Increased Removal"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_TU_33": {
+    "korean": "멈출 수 없는 진격 : 방어력 감소 해제",
+    "english": "Unstoppable advance : DEF Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_34": {
+    "korean": "멈출 수 없는 진격 : 피해 최소화 {0}",
+    "english": "Unstoppable advance : Minimize Damage {0}"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_4": {
+    "korean": "불굴의 분노 : 방어력 {0}%",
+    "english": "Unyielding anger : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_TU_4": {
+    "korean": "불굴의 분노 : 받는 피해 {0}% 감소",
+    "english": "Unyielding anger : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_41": {
+    "korean": "불굴의 분노 : 회피 강화 효과 해제",
+    "english": "Unyielding anger : EVA Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_42": {
+    "korean": "불굴의 분노 : 피해 최소화 (5회)",
+    "english": "Unyielding anger : Minimize Damage (5x)"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_43": {
+    "korean": "불굴의 분노 : 방어막 / 피해 감소 무시",
+    "english": "Unyielding anger : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_5": {
+    "korean": "들끓는 증오 : 공격력 {0}%",
+    "english": "Seething hatred : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_TU_5": {
+    "korean": "들끓는 증오 : 방어 관통 {0}%",
+    "english": "Seething hatred : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_TU_51": {
+    "korean": "들끓는 증오 : 공격력 {0}%",
+    "english": "Seething hatred : ATK {0}%"
+  }
+}

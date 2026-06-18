@@ -1,0 +1,174 @@
+{
+  "SkillName_Skill_PECS_Ignis_N_1": {
+    "korean": "화염 분사",
+    "english": "Flame Jet"
+  },
+  "SkillName_Skill_PECS_Ignis_N_2": {
+    "korean": "소각 개시",
+    "english": "Flame Ignition"
+  },
+  "SkillName_Skill_PECS_Ignis_N_3": {
+    "korean": "적응형 방호복",
+    "english": "Adaptive Body Armor"
+  },
+  "SkillName_Skill_PECS_Ignis_N_4": {
+    "korean": "요원 엄폐",
+    "english": "Take Cover"
+  },
+  "SkillName_Skill_PECS_Ignis_N_5": {
+    "korean": "적대 환경 차폐",
+    "english": "Danger Zone Barrier"
+  },
+  "SkillDesc_Skill_PECS_Ignis_N_1": {
+    "korean": "지정 범위에 {0} 화염 피해를 주고, 2라운드 동안 방어력 / 화염 속성 저항을 감소시킵니다.&n목표 지점 뒤의 대상일수록 피해량이 50%씩 줄어듭니다.&n스킬 레벨 당 10%의 적중 보정이 적용됩니다.",
+    "english": "Deals {0} fire damage to a designated area and reduces DEF / Fire Resist for 2 turns. Targets farther behind the initial impact point take 50% less damage. Applies a 10% ACC bonus per skill level."
+  },
+  "SkillDescSimple_Skill_PECS_Ignis_N_1": {
+    "korean": "지정 범위 {0} 화염 피해. 방어력 / 화염 저항 감소",
+    "english": "Designated area {0} fire damage. DEF / Fire Resist reduction"
+  },
+  "SkillDesc_Skill_PECS_Ignis_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 화염 피해를 주고, 2라운드 동안 대상의 치명타를 감소시키며 지속 화염 피해를 부여합니다. &n대상이 화염 저항 감소 상태인 경우, 추가로 자신의 공격력에 비례한 고정 화염 피해를 입힙니다.",
+    "english": "Deals {0} fire damage that ignores protection to a designated area, reduces the target's CRIT for 2 turns, and applies Fire DoT DMG. If the target is affected by Fire Resist reduction, additionally deals Fixed Fire DMG based on your ATK."
+  },
+  "SkillDescSimple_Skill_PECS_Ignis_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 화염 피해. 치명타 감소 / 지속 화염 피해 / 고정 화염 피해.",
+    "english": "Designated area {0} ignore protection fire damage. CRIT reduction / Fire DoT DMG / Fixed Fire DMG."
+  },
+  "SkillDesc_Skill_PECS_Ignis_N_3": {
+    "korean": "라운드 개시 시, 화염 저항 / 효과 저항 / 방어력이 증가합니다. &n각 속성 공격 피격 시, 2라운드 동안 해당 속성 저항이 저항 증가 수치만큼 추가로 적용됩니다.&n물리 공격 피격 시, 2라운드 동안 방어력이 추가로 적용됩니다.",
+    "english": "At the start of the round, Fire Resist / Status Resist / DEF increase. When hit by an elemental ATK, the corresponding elemental resistance is further increased by the boost amount for 2 turns. When hit by a physical ATK, DEF is further increased for 2 turns."
+  },
+  "SkillDescSimple_Skill_PECS_Ignis_N_3": {
+    "korean": "화염 저항 / 효과 저항 / 방어력 증가. 속성 공격 피격 시, 해당 속성 저항 추가 증가. 물리 공격 피격 시, 방어력 추가 증가.",
+    "english": "Fire Resist / Status Resist / DEF increase. Elemental ATK hit: additional elemental resistance increase. Physical ATK hit: additional DEF increase."
+  },
+  "SkillDesc_Skill_PECS_Ignis_N_4": {
+    "korean": "라운드 개시 시, 보호기를 제외한 범위 내 대상을 지정 보호하며 자신은 열 보호가 활성화됩니다. &n라운드 개시 시 자신이 지정 보호할 대상이 있는 경우, 자신이 받는 피해가 감소합니다.",
+    "english": "At the start of the round, designates targets within range (excluding Defender) for Target Protect, and activates Column Protect on yourself. If you have a designated protection target at the start of the round, the damage you take is reduced."
+  },
+  "SkillDescSimple_Skill_PECS_Ignis_N_4": {
+    "korean": "자신 뒤의 대상 보호 (보호기 제외) / 열 보호. 자신 받는 피해 감소.",
+    "english": "Protects targets behind self (Defender excluded) / Column Protect. Reduces damage taken by self."
+  },
+  "SkillDesc_Skill_PECS_Ignis_N_5": {
+    "korean": "자신의 기본 속성 저항이 각 35%로 증가합니다.&n전투 개시 시 자신이 전열에 위치한 경우, 자신의 사거리가 1 증가하고 반격이 활성화됩니다.&n반격 효과는 대기를 통해 활성화 여부를 변경할 수 있습니다.&n라운드 개시 시 자신이 속성 저항 증감 상태인 경우, 해당 속성 저항 하한을 획득합니다.",
+    "english": "Increases each of your base elemental resistances to 35%. If you are positioned on the frontline at the start of combat, your Range increases by 1 and Counter Attack is activated. Counter Attack can be toggled via Wait. At the start of the round, if you are under an elemental resistance increase or decrease effect, you gain Minimum Elemental Resist for that element."
+  },
+  "SkillDescSimple_Skill_PECS_Ignis_N_5": {
+    "korean": "사거리 증가 / 반격. 조건부 속성 저항 하한 생성.",
+    "english": "Range increase / Counter Attack. Generates conditional Minimum Elemental Resist."
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_1": {
+    "korean": "화염 분사 : 방어력 {0}%",
+    "english": "Flame Jet : DEF {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Ignis_N_1": {
+    "korean": "화염 분사 : 화염 저항 {0}%",
+    "english": "Flame Jet : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_2": {
+    "korean": "인화물 부착 : 치명타 {0}%",
+    "english": "Incendiary Tag : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Ignis_N_2": {
+    "korean": "점화 : {0} 지속 화염 피해",
+    "english": "Ignition : Fire DoT DMG {0}"
+  },
+  "BuffDesc3_Effect_PECS_Ignis_N_2": {
+    "korean": "잔불 : {0}% 고정 화염 피해",
+    "english": "Embers : {0}% Fixed Fire DMG"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_21": {
+    "korean": "잔불 : {0}% 고정 화염 피해",
+    "english": "Embers : {0}% Fixed Fire DMG"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_3": {
+    "korean": "적응형 방호복 : 방어력 {0}%",
+    "english": "Adaptive Body Armor : DEF {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Ignis_N_3": {
+    "korean": "적응형 방호복 : 화염 저항 {0}%",
+    "english": "Adaptive Body Armor : Fire Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Ignis_N_3": {
+    "korean": "적응형 방호복 : 효과 저항 {0}% 증가",
+    "english": "Adaptive Body Armor : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_31": {
+    "korean": "환경 적응 : 화염 저항 {0}%",
+    "english": "Environmental Adaptation : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_32": {
+    "korean": "환경 적응 : 냉기 저항 {0}%",
+    "english": "Environmental Adaptation : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_33": {
+    "korean": "환경 적응 : 전기 저항 {0}%",
+    "english": "Environmental Adaptation : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_34": {
+    "korean": "환경 적응 : 방어력 {0}%",
+    "english": "Environmental Adaptation : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_4": {
+    "korean": "요원 엄폐 : 지정 대상 보호 (공격기/지원기)",
+    "english": "Take Cover : Target Protect (Attacker/Supporter)"
+  },
+  "BuffDesc2_Effect_PECS_Ignis_N_4": {
+    "korean": "요원 엄폐 : 열 보호 (자신)",
+    "english": "Take Cover : Column Protect (Self)"
+  },
+  "BuffDesc3_Effect_PECS_Ignis_N_4": {
+    "korean": "요원 엄폐 : 받는 피해 {0}% 감소",
+    "english": "Take Cover : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_41": {
+    "korean": "요원 엄폐 : 열 보호",
+    "english": "Take Cover : Column Protect"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_42": {
+    "korean": "요원 엄폐 : 받는 피해 {0}% 감소",
+    "english": "Take Cover : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_5": {
+    "korean": "Model_Livens : 사거리 {0}",
+    "english": "Model Livens : Range {0}"
+  },
+  "BuffDesc2_Effect_PECS_Ignis_N_5": {
+    "korean": "분멸 : {0}% 위력으로 반격",
+    "english": "Annihilation : Counter Attack with {0}% Power"
+  },
+  "BuffDesc3_Effect_PECS_Ignis_N_5": {
+    "korean": "적대 환경 차폐 : 속성 저항 하한 {0}%",
+    "english": "Danger Zone Barrier : Minimum Elemental Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_51": {
+    "korean": "분멸 : {0}% 위력으로 반격",
+    "english": "Annihilation : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_57": {
+    "korean": "재점화 : 반격 활성화",
+    "english": "Reignition : Activate Counter Attack"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_53": {
+    "korean": "분멸 : {0}% 위력으로 반격",
+    "english": "Annihilation : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_52": {
+    "korean": "진정 : 반격 해제",
+    "english": "Calm : Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_54": {
+    "korean": "화염 차폐 : 화염 저항 하한 {0}%",
+    "english": "Flame Shield : Minimum Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_55": {
+    "korean": "냉기 차폐 : 냉기 저항 하한 {0}%",
+    "english": "Cold Shield : Minimum Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ignis_N_56": {
+    "korean": "전기 차폐 : 전기 저항 하한 {0}%",
+    "english": "Electric Shield : Minimum Electric Resist {0}%"
+  }
+}

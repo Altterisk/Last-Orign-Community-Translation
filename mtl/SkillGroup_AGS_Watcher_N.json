@@ -1,0 +1,198 @@
+{
+  "SkillName_Skill_AGS_Watcher_N_1": {
+    "korean": "스트레이프",
+    "english": "Strafe"
+  },
+  "SkillName_Skill_AGS_Watcher_N_2": {
+    "korean": "협동정찰",
+    "english": "Cooperative Recon"
+  },
+  "SkillName_Skill_AGS_Watcher_N_3": {
+    "korean": "근접 항공 지원",
+    "english": "Close Air Support"
+  },
+  "SkillName_Skill_AGS_Watcher_N_4": {
+    "korean": "리퍼급 기체 개수",
+    "english": "Number of Reaper-class Units"
+  },
+  "SkillName_Skill_AGS_Watcher_N_5": {
+    "korean": "창공의 눈",
+    "english": "Eye of the Sky"
+  },
+  "SkillDesc_Skill_AGS_Watcher_N_1": {
+    "korean": "벌컨포를 소사하여 대상에게 {0} 피해를 주고 방어력 강화 효과를 해제합니다.&n적중 시, 2라운드 동안 표식을 부여하고 받는 피해를 증가시킵니다.",
+    "english": "Fires Vulcan rounds to deal {0} damage to the target and removes their DEF Boost effect. On hit, applies Marked for 2 rounds and increases DMG Taken."
+  },
+  "SkillDescSimple_Skill_AGS_Watcher_N_1": {
+    "korean": "단일 대상 {0} 피해. 방어력 강화 해제 / 표식 / 받는 피해 증가.",
+    "english": "Single target {0} damage. DEF Boost Removal / Marked / DMG Taken Increased"
+  },
+  "SkillDesc_Skill_AGS_Watcher_N_2": {
+    "korean": "스킬 사용 시, 아군에게 적용된 행동력 / 스킬 위력 감소 효과를 해제합니다.&n스킬 사용 시, 아군 구성에 따라 아군 전체에 4라운드 동안 다음 효과를 부여합니다. (중첩 불가)&n- 중장형 (1기당) : 행동력 증가 / 경장형 (1기당) : 스킬 위력 증가",
+    "english": "When using a skill, removes SPD / Skill Power reduction effects from allies. Upon skill use, grants all allies for 4 rounds (non-stackable) the following effects based on squad composition: - Heavy (per unit): SPD Increase / Light (per unit): Skill Power Increase"
+  },
+  "SkillDescSimple_Skill_AGS_Watcher_N_2": {
+    "korean": "행동력 / 스킬 위력 감소 해제. 아군 구성에 따라 행동력 / 스킬 위력 증가.",
+    "english": "SPD / Skill Power Reduction Removal. SPD / Skill Power increased based on squad composition."
+  },
+  "SkillDesc_Skill_AGS_Watcher_N_3": {
+    "korean": "자신의 공격은 대상의 HP가 낮을 수록 피해량이 증가합니다.&n라운드 개시 시, 범위 내 경장형/중장형 아군의 공격을 지원하고 사거리를 증가시킵니다.&n스킬 레벨 10에서 자신의 위치와 관계없이 전체 적용됩니다.",
+    "english": "Your attacks deal increased damage the lower the target’s HP. At the start of the round, supports attacks of Light/Heavy allies within range and increases their range. At skill level 10, this effect applies to all allies regardless of your position."
+  },
+  "SkillDescSimple_Skill_AGS_Watcher_N_3": {
+    "korean": "대상 HP 반비례 피해량 증가. 경장/중장형 아군 공격 지원 / 사거리 증가.",
+    "english": "DMG increases proportionally to target HP. Follow-Up Attack for Light/Heavy allies / Range increased."
+  },
+  "SkillDesc_Skill_AGS_Watcher_N_4": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타 / 방어 관통이 증가합니다.&n공격 적중 시, 자신은 2라운드 동안 재공격 효과를 획득하고 스킬 위력이 증가합니다.",
+    "english": "At the start of the round, increases your ATK / CRIT / DEF Penetration. On attack hit, you gain Reattack for 2 rounds and your Skill Power increases."
+  },
+  "SkillDescSimple_Skill_AGS_Watcher_N_4": {
+    "korean": "공격력 / 치명타 / 방어 관통 증가. 공격 적중 시, 재공격 / 스킬 위력 증가.",
+    "english": "ATK / CRIT / DEF Penetration increased. On attack hit, Reattack / Skill Power increased."
+  },
+  "SkillDesc_Skill_AGS_Watcher_N_5": {
+    "korean": "전투 개시 시, 자신은 정찰 활성화 상태를 획득합니다.&n라운드 개시 시, 정찰 활성화 상태인 아군에게 방어막/피해 감소 무시 효과를 부여합니다.&n재공격/공격 지원 시, 2라운드 동안 표식이 부여된 적의 효과 저항을 감소시킵니다.",
+    "english": "At the start of battle, you gain Recon Effect. At the start of the round, grants Barrier / Ignore Barrier / DMG Reduction to allies with Recon Effect. When reattacking or providing Follow-Up Attack, reduces Status Resist of Marked enemies for 2 rounds."
+  },
+  "SkillDescSimple_Skill_AGS_Watcher_N_5": {
+    "korean": "자신 정찰 활성화. 정찰 활성화 대상 방어막 / 피해 감소 무시 부여. 공격 지원 시, 표식 대상 효과 저항 감소.",
+    "english": "Activates Recon Effect on self. Grants Barrier / Ignore Barrier / DMG Reduction to Recon Effect targets. When providing Follow-Up Attack, reduces Status Resist of Marked targets."
+  },
+  "BuffDesc3_Effect_AGS_Watcher_N_3": {
+    "korean": "CAS : 대상 HP 반비례 피해량 {0}%",
+    "english": "CAS : Damage Proportional to Target HP {0}%"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_31": {
+    "korean": "CAS : 대상 HP 반비례 피해량 {0}%",
+    "english": "CAS : Damage Proportional to Target HP {0}%"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_1": {
+    "korean": "스트레이프 : 표식 지정",
+    "english": "Strafe : Marks target"
+  },
+  "BuffDesc2_Effect_AGS_Watcher_N_1": {
+    "korean": "스트레이프 : 방어력 강화 해제",
+    "english": "Strafe : DEF Buff Removal"
+  },
+  "BuffDesc3_Effect_AGS_Watcher_N_1": {
+    "korean": "스트레이프 : 받는 피해 {0}% 증가",
+    "english": "Strafe : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_11": {
+    "korean": "스트레이프 : 받는 피해 {0}% 증가",
+    "english": "Strafe : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_12": {
+    "korean": "스트레이프 : 방어력 강화 해제",
+    "english": "Strafe : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_AGS_Watcher_N_12": {
+    "korean": "스트레이프 : 방어력 강화 해제",
+    "english": "Strafe : DEF Buff Removal"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_41": {
+    "korean": "사격 조정 : 재공격",
+    "english": "Fire Adjustment : Reattack"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_42": {
+    "korean": "사격 조정 : 스킬 위력 {0}%",
+    "english": "Fire Adjustment : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_2": {
+    "korean": "협동정찰 : 행동력 감소 해제",
+    "english": "Cooperative Recon : SPD Debuff Removal"
+  },
+  "BuffDesc2_Effect_AGS_Watcher_N_2": {
+    "korean": "협동정찰 : 스킬 위력 감소 해제",
+    "english": "Cooperative Recon : Skill Power Debuff Removal"
+  },
+  "BuffDesc3_Effect_AGS_Watcher_N_2": {
+    "korean": "협동정찰 : 행동력 {0}% (중장형 1기당)",
+    "english": "Cooperative Recon : SPD {0}% (Per Heavy Unit)"
+  },
+  "BuffDesc4_Effect_AGS_Watcher_N_2": {
+    "korean": "협동정찰 : 스킬 위력 {0}% (경장형 1기당)",
+    "english": "Cooperative Recon : Skill Power {0}% (per Light Type)"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_21": {
+    "korean": "협동정찰 : 행동력 {0}% (중장형)",
+    "english": "Cooperative Recon : SPD {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_22": {
+    "korean": "협동정찰 : 행동력 {0}% (중장형)",
+    "english": "Cooperative Recon : SPD {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_23": {
+    "korean": "협동정찰 : 행동력 {0}% (중장형)",
+    "english": "Cooperative Recon : SPD {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_24": {
+    "korean": "협동정찰 : 행동력 {0}% (중장형)",
+    "english": "Cooperative Recon : SPD {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_26": {
+    "korean": "협동정찰 : 스킬 위력 {0}% (경장형)",
+    "english": "Cooperative Recon : Skill Power {0}% (Light)"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_27": {
+    "korean": "협동정찰 : 스킬 위력 {0}% (경장형)",
+    "english": "Cooperative Recon : Skill Power {0}% (Light)"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_28": {
+    "korean": "협동정찰 : 스킬 위력 {0}% (경장형)",
+    "english": "Cooperative Recon : Skill Power {0}% (Light)"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_29": {
+    "korean": "협동정찰 : 스킬 위력 {0}% (경장형)",
+    "english": "Cooperative Recon : Skill Power {0}% (Light)"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_3": {
+    "korean": "CAS : 공격 지원 (경장형/중장형)",
+    "english": "CAS : Follow-Up Attack (Light/Heavy)"
+  },
+  "BuffDesc2_Effect_AGS_Watcher_N_3": {
+    "korean": "CAS : 사거리 {0}",
+    "english": "CAS : Range {0}"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_4": {
+    "korean": "리퍼급 기체 개수 : 공격력 {0}%",
+    "english": "Reaper-Class Unit Count : ATK {0}%"
+  },
+  "BuffDesc2_Effect_AGS_Watcher_N_4": {
+    "korean": "리퍼급 기체 개수 : 치명타 {0}%",
+    "english": "Reaper-Class Unit Count : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_AGS_Watcher_N_4": {
+    "korean": "리퍼급 기체 개수 : 방어 관통 {0}%",
+    "english": "Reaper-Class Unit Count : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_AGS_Watcher_N_4": {
+    "korean": "사격 조정 : 재공격",
+    "english": "Fire Adjustment : Reattack"
+  },
+  "BuffDesc5_Effect_AGS_Watcher_N_4": {
+    "korean": "사격 조정 : 스킬 위력 {0}%",
+    "english": "Fire Adjustment : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_5": {
+    "korean": "창공의 눈 : 정찰 활성화",
+    "english": "Eye of the Sky : Activate Recon Effect"
+  },
+  "BuffDesc2_Effect_AGS_Watcher_N_5": {
+    "korean": "창공의 눈 : 방어막 / 피해 감소 무시",
+    "english": "Eye of the Sky : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc3_Effect_AGS_Watcher_N_5": {
+    "korean": "창공의 눈 : 효과 저항 {0}% 감소",
+    "english": "Eye of the Sky : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_51": {
+    "korean": "창공의 눈 : 방어막 / 피해 감소 무시",
+    "english": "Eye of the Sky : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_AGS_Watcher_N_52": {
+    "korean": "창공의 눈 : 효과 저항 {0}% 감소",
+    "english": "Eye of the Sky : Status Resist {0}% Decrease"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "SkillName_Skill_BR_Bheur_N_1": {
+    "korean": "목표 지정 저격",
+    "english": "Designated Target Sniping"
+  },
+  "SkillDesc_Skill_BR_Bheur_N_1": {
+    "korean": "전투소총 저격으로 단일 대상에게 {0} 보호 무시 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 표식 / 받는 피해 증가 / 회피 감소 효과를 부여합니다.&n스킬 레벨 당 +10%의 적중 보정이 적용됩니다.",
+    "english": "Fires a battle rifle to deal {0} Ignore Protection damage to a single target.&nOn hit, applies Marked, DMG Taken Increased, and EVA Reduction to the target for 2 rounds.&nGrants +10% ACC per skill level."
+  },
+  "SkillDescSimple_Skill_BR_Bheur_N_1": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 대상 표식 / 받는 피해 증가 / 회피 감소.",
+    "english": "Deals {0} Ignore Protection damage to a single target. Marked, DMG Taken Increased, EVA Reduction."
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_1": {
+    "korean": "목표 지정 저격 : 표식",
+    "english": "Designated Target Sniping : Marked"
+  },
+  "BuffDesc2_Effect_BR_Bheur_N_1": {
+    "korean": "목표 지정 저격 : 받는 피해 {0}% 증가",
+    "english": "Designated Target Sniping : DMG Taken Increased {0}%"
+  },
+  "BuffDesc3_Effect_BR_Bheur_N_1": {
+    "korean": "목표 지정 저격 : 회피 {0}%",
+    "english": "Designated Target Sniping : EVA {0}%"
+  },
+  "SkillName_Skill_BR_Bheur_N_2": {
+    "korean": "감적 공유",
+    "english": "Sense Sharing"
+  },
+  "SkillDesc_Skill_BR_Bheur_N_2": {
+    "korean": "아군 바이오로이드와 감각을 공유하여 AP를 증가시키고, 3라운드 동안 적중 / 치명타를 증가시킵니다.&n스킬 레벨에 따라 소모 AP가 감소합니다.",
+    "english": "Shares senses with an allied Bioroid to increase its AP and boost ACC and CRIT for 3 rounds.&nAP cost decreases with skill level."
+  },
+  "SkillDescSimple_Skill_BR_Bheur_N_2": {
+    "korean": "아군 바이오로이드 AP / 적중 / 치명타 증가.",
+    "english": "Increases AP, ACC, and CRIT of allied Bioroids."
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_2": {
+    "korean": "감적 공유 : AP {0}",
+    "english": "Sense Sharing : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Bheur_N_2": {
+    "korean": "감적 공유 : 적중 {0}%",
+    "english": "Sense Sharing : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Bheur_N_2": {
+    "korean": "감적 공유 : 치명타 {0}%",
+    "english": "Sense Sharing : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_21": {
+    "korean": "감적 공유 : 적중 {0}%",
+    "english": "Sense Sharing : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Bheur_N_21": {
+    "korean": "감적 공유 : 치명타 {0}%",
+    "english": "Sense Sharing : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_53": {
+    "korean": "감적 공유 : 보호 무시 활성화",
+    "english": "Sense Sharing : Activate Ignore Protection"
+  },
+  "SkillName_Skill_BR_Bheur_N_3": {
+    "korean": "안전 과민증",
+    "english": "Hypervigilance"
+  },
+  "SkillDesc_Skill_BR_Bheur_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군의 공격력 / 방어력 / 행동력 / 사거리가 증가합니다.&n대상이 <감적 공유> 상태인 경우, 상기 효과가 두 배로 증폭됩니다.&n스쿼드 내에 <시스터즈 오브 발할라> 소속 공격기가 없을 경우, 범위 내 아군의 공격을 지원합니다.",
+    "english": "At the start of the round, increases ATK, DEF, SPD, and Range of allies within range.&nIf the targets are under <Sense Sharing>, the above effects are doubled.&nIf there are no attackers from the <Sisters of Valhalla> unit in the squad, supports the attacks of allies within range."
+  },
+  "SkillDescSimple_Skill_BR_Bheur_N_3": {
+    "korean": "범위 내 아군 공격력 / 방어력 / 행동력 / 사거리 증가. 조건부 아군 공격 지원.",
+    "english": "Increases ATK, DEF, SPD, and Range of allies within range. Conditional ally Follow-Up Attack."
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_3": {
+    "korean": "안전 과민증 : 공격력 {0}%",
+    "english": "Hypervigilance : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Bheur_N_3": {
+    "korean": "안전 과민증 : 방어력 {0}%",
+    "english": "Hypervigilance : DEF {0}%"
+  },
+  "BuffDesc3_Effect_BR_Bheur_N_3": {
+    "korean": "안전 과민증 : 행동력 {0}%",
+    "english": "Hypervigilance : SPD {0}%"
+  },
+  "BuffDesc4_Effect_BR_Bheur_N_3": {
+    "korean": "안전 과민증 : 사거리 {0}",
+    "english": "Hypervigilance : Range {0}"
+  },
+  "BuffDesc5_Effect_BR_Bheur_N_3": {
+    "korean": "안전 과민증 : 공격 지원",
+    "english": "Hypervigilance : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_31": {
+    "korean": "안전 과민증 : 공격력 {0}% (증폭)",
+    "english": "Hypervigilance : ATK {0}% (Amplified)"
+  },
+  "BuffDesc2_Effect_BR_Bheur_N_31": {
+    "korean": "안전 과민증 : 방어력 {0}% (증폭)",
+    "english": "Hypervigilance : DEF {0}% (Amplified)"
+  },
+  "BuffDesc3_Effect_BR_Bheur_N_31": {
+    "korean": "안전 과민증 : 행동력 {0}% (증폭)",
+    "english": "Hypervigilance : SPD {0}% (Amplified)"
+  },
+  "BuffDesc4_Effect_BR_Bheur_N_31": {
+    "korean": "안전 과민증 : 사거리 {0} (증폭)",
+    "english": "Hypervigilance : Range {0} (Amplified)"
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_32": {
+    "korean": "안전 과민증 : 공격 지원",
+    "english": "Hypervigilance : Follow-Up Attack"
+  },
+  "SkillName_Skill_BR_Bheur_N_4": {
+    "korean": "철저한 준비",
+    "english": "Thorough Preparation"
+  },
+  "SkillDesc_Skill_BR_Bheur_N_4": {
+    "korean": "전투 개시 시, 자신의 AP가 증가합니다.&n<목표 지정 저격> 사용 시, <안전 과민증> 범위 내 아군의 AP를 증가시킵니다.&n라운드 개시 시 <철혈의 레오나>의 <방어 지휘>가 활성화된 경우, 아군 전체에 냉기 저항 감소 면역 효과를 부여합니다.",
+    "english": "At the start of battle, increases own AP.&nWhen using <Designated Target Sniping>, increases the AP of allies within the range of <Hypervigilance>.&nAt the start of the round, if <Iron-Blooded Leona>'s <DEF Command> is active, grants all allies immunity to Cold Resist Reduction."
+  },
+  "SkillDescSimple_Skill_BR_Bheur_N_4": {
+    "korean": "조건부 자신 및 아군 AP 증가 / 냉기 저항 감소 면역.",
+    "english": "Conditional AP increase for self and allies / Cold Resist Reduction Immunity"
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_4": {
+    "korean": "철저한 준비 : AP {0}",
+    "english": "Thorough Preparation : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Bheur_N_4": {
+    "korean": "철저한 준비 : AP {0} (목표 지정 저격)",
+    "english": "Thorough Preparation : AP {0} (Designated Target Sniping)"
+  },
+  "BuffDesc3_Effect_BR_Bheur_N_4": {
+    "korean": "다들 잘 챙겼나요? : 냉기 저항 감소 면역",
+    "english": "Is Everyone Prepared? : Cold Resist Decrease Immunity"
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_42": {
+    "korean": "다들 잘 챙겼나요? : 냉기 저항 감소 면역",
+    "english": "Everyone Packed Up? : Cold Resist Decrease Immunity"
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_43": {
+    "korean": "초코바는 빼고! : 냉기 저항 감소 면역",
+    "english": "No chocolate bars! : Cold Resist Decrease Immunity"
+  },
+  "SkillName_Skill_BR_Bheur_N_5": {
+    "korean": "공감적 내관",
+    "english": "Empathic Insight"
+  },
+  "SkillDesc_Skill_BR_Bheur_N_5": {
+    "korean": "라운드 개시 시, 자신의 적중이 증가합니다. 해당 효과는 <목표 지정 저격> 사용 시 해제됩니다.&n<감적 공유>의 효과 대상이 공격기인 경우, 추가로 대상의 보호 무시를 활성화합니다.&n<철혈의 레오나>의 <공격 지휘>가 활성화된 경우, <감적 공유>의 효과가 영구 지속으로 변경됩니다.",
+    "english": "At the start of the round, increases own ACC. This effect is removed upon using <Designated Target Sniping>.&nIf the target of <Sense Sharing> is an attacker, additionally grants them Ignore Protection.&nIf <Iron-Blooded Leona>'s <ATK Command> is active, the effects of <Sense Sharing> become permanent."
+  },
+  "SkillDescSimple_Skill_BR_Bheur_N_5": {
+    "korean": "자신 적중 증가. 조건부 <감적 공유> 강화.",
+    "english": "Increases your ACC. Conditional enhancement of <Sense Sharing>."
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_5": {
+    "korean": "공감적 내관 : 적중 {0}%",
+    "english": "Empathic Insight : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Bheur_N_5": {
+    "korean": "감적 공유 : 보호 무시 활성화",
+    "english": "Shared Target Data: Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Bheur_N_51": {
+    "korean": "내면 들여다보기",
+    "english": "Introspection"
+  }
+}

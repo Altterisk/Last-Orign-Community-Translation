@@ -1,0 +1,114 @@
+{
+  "1002708059": {
+    "korean": "인시너레이터",
+    "english": "Incinerator"
+  },
+  "1002708060": {
+    "korean": "탄화규소화",
+    "english": "Silicon carbide"
+  },
+  "1002708061": {
+    "korean": "열기 확산",
+    "english": "Heat Spread"
+  },
+  "1002708062": {
+    "korean": "화염 방사",
+    "english": "Flamethrower"
+  },
+  "1002708063": {
+    "korean": "지휘관 개체",
+    "english": "Commander unit"
+  },
+  "1002708069": {
+    "korean": "{0} 화염 피해를 주고, 2라운드 동안 대상을 표식으로 설정하고 화염 저항을 감소시킵니다.",
+    "english": "{0} Deals fire damage, marks the target for 2 rounds, and reduces Fire Resist."
+  },
+  "1002708070": {
+    "korean": "5라운드 동안 자신에게 이로운 표식을 설정하고 화염 저항 / 전기 저항 / 행동력을 증가시킵니다.",
+    "english": "Sets a beneficial Mark on yourself for 5 rounds, increasing Fire Resist / Electric Resist / SPD."
+  },
+  "1002708071": {
+    "korean": "라운드 개시 시, 지정 범위 아군의 화염 저항 / 전기 저항을 증가시킵니다. 또한 매 라운드 1회씩 재공격 효과를 획득하고, 재공격 시 자신의 방어력을 낮춥니다.",
+    "english": "At the start of a round, increase Fire Resist / Electric Resist of allies within the designated range. Also gain the Reattack effect once per round, and when Reattacking, lower your own DEF."
+  },
+  "1002708073": {
+    "korean": "라운드 개시 시, 지정 범위 적을 점화 상태로 만들고, 매 라운드 효과가 점감하는 방어 관통 감소 효과를 부여합니다. 자신 사망 시 아군 전체를 점화 상태로 만들고, 쉘 / 슈터 개체에게는 공격력 / 방어력 감소 효과를 추가로 부여합니다.",
+    "english": "At the start of a round, inflict Ignited on enemies within the designated range and grant a DEF Penetration Reduction effect that diminishes each round. Upon your death, inflict Ignited on all allies, and additionally apply ATK / DEF Reduction to Shell / Shooter units."
+  },
+  "1002708084": {
+    "korean": "전투 개시 시, 적 로봇 수가 3 이상일 경우 지정 범위 아군의 AP를 증가시키고, 적 바이오로이드 수가 3 이상일 경우 지정 범위 적에게 방어 관통 감소 효과를 적용합니다. 방어 관통 감소 효과는 자신 사망 시에만 해제됩니다.",
+    "english": "At the start of combat, if enemy robots are 3 or more, increase AP of allies within the designated range; if enemy Bioroids are 3 or more, apply a DEF Penetration Reduction to enemies within the designated range. The DEF Penetration Reduction is removed only upon your death."
+  },
+  "1000110482": {
+    "korean": "인시너레이터 : 표식",
+    "english": "Incinerator : Marked"
+  },
+  "1000110500": {
+    "korean": "인시너레이터 : 화염 저항{0}%",
+    "english": "Incinerator : Fire Resist {0}%"
+  },
+  "1000110483": {
+    "korean": "탄화규소화 : 표식",
+    "english": "Silicon carbide : Marked"
+  },
+  "1000110501": {
+    "korean": "탄화규소화 : 화염 저항{0}%",
+    "english": "Silicon carbide : Fire Resist {0}%"
+  },
+  "1000110509": {
+    "korean": "탄화규소화 : 전기 저항{0}%",
+    "english": "Silicon carbide : Electric Resist {0}%"
+  },
+  "1000110514": {
+    "korean": "탄화규소화 : 행동력{0}%",
+    "english": "Silicon carbide : SPD {0}%"
+  },
+  "1000110484": {
+    "korean": "열기 확산 : 재공격",
+    "english": "Heat spread : Reattack"
+  },
+  "1000110485": {
+    "korean": "열기 확산 : 화염 저항{0}%",
+    "english": "Heat spread : Fire Resist {0}%"
+  },
+  "1000110502": {
+    "korean": "열기 확산 : 전기 저항{0}%",
+    "english": "Heat spread : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_DryerHead_N_32": {
+    "korean": "열기 확산 : 방어력 {0}%",
+    "english": "Heat spread : DEF {0}%"
+  },
+  "1000110486": {
+    "korean": "화염 방사 : 방어 관통{0}%",
+    "english": "Flamethrower : DEF Penetration {0}%"
+  },
+  "1000110503": {
+    "korean": "점화 : 지속 화염 피해 {0}",
+    "english": "Ignited : Fire DoT DMG {0}"
+  },
+  "1000110499": {
+    "korean": "화염 방사 : 방어 관통{0}%",
+    "english": "Flamethrower : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_DryerHead_N_47": {
+    "korean": "화염 방사 : 공격력 {0}%",
+    "english": "Flamethrower : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_DryerHead_N_47": {
+    "korean": "화염 방사 : 방어력 {0}%",
+    "english": "Flamethrower : DEF {0}%"
+  },
+  "1000110497": {
+    "korean": "지휘관 개체 : AP{0}",
+    "english": "Commander unit : AP {0}"
+  },
+  "1000110498": {
+    "korean": "지휘관 개체 : 방어 관통{0}%",
+    "english": "Commander unit : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_DryerHead_N_52": {
+    "korean": "지휘관 개체 : 방어 관통 감소 해제",
+    "english": "Commander unit : DEF Penetration Debuff Removal"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "SkillName_Skill_LC_Ephnel_N_1": {
+    "korean": "버티컬 클리어",
+    "english": "Vertical Clear"
+  },
+  "SkillName_Skill_LC_Ephnel_N_2": {
+    "korean": "슈퍼 노바",
+    "english": "Super Nova"
+  },
+  "SkillName_Skill_LC_Ephnel_N_3": {
+    "korean": "출력 강화",
+    "english": "Output enhancement"
+  },
+  "SkillName_Skill_LC_Ephnel_N_4": {
+    "korean": "출력 격화",
+    "english": "Output intensification"
+  },
+  "SkillName_Skill_LC_Ephnel_N_5": {
+    "korean": "불굴의 창",
+    "english": "Indomitable Spear"
+  },
+  "SkillDesc_Skill_LC_Ephnel_N_1": {
+    "korean": "전방으로 투창하여 지정 범위에 {0} 보호 무시 전기 피해를 발생시킵니니다.&n스킬 적중 시 대상의 방어력 증가를 해제하고 2라운드 동안 지속 전기 피해를 발생시키며 [회로 과열] 상태로 만듭니다.&n치명타 시 대상을 1라운드 동안 50% 확률로 스킬 사용 불가 상태로 만듭니다.",
+    "english": "Throws a spear forward, dealing {0} Ignore Protection Electric DMG to the designated area. On hit, removes the target's DEF increase, applies Electric DoT DMG for 2 rounds, and inflicts the [Circuit Overheat] status. On CRIT, there is a 50% chance to Silenced the target for 1 round."
+  },
+  "SkillDescSimple_Skill_LC_Ephnel_N_1": {
+    "korean": "지정 범위 보호 무시 {0} 전기 피해. 방어력 증가 해제. 2라운드 지속 전기 피해 / 회로 과열 부여. 치명타 시 조건부 1라운드 스킬 사용 불가.",
+    "english": "Ignore Protection {0} Electric DMG in designated area. Removes DEF increase. 2 rounds Electric DoT DMG / Grants [Circuit Overheat]. On CRIT, conditionally Silenced for 1 round."
+  },
+  "SkillDesc_Skill_LC_Ephnel_N_2": {
+    "korean": "에너지를 모아 전력으로 공중 도약하여 지정 범위에 {0} 전기 피해를 발생시킵니다.&n스킬 적중 시 아군 전체 AP 증가 및 2라운드 동안 행동력 및 경장 피해량을 증가시킵니다.&n스킬 적중 시 대상이 회로 과열 상태이면 전기 피해량이 증가하고 2라운드 동안 전기 저항이 감소합니다.&n치명타 시 대상의 전기 피해량이 증가합니다.",
+    "english": "Gather energy and leap into the air with full power, dealing {0} Electric DMG to a designated area. On hit, increases AP for all allies and raises SPD and Light DMG for 2 rounds. If the target is under [Circuit Overheat], Electric DMG is increased and Electric Resist is reduced for 2 rounds. On CRIT, the target's Electric DMG is increased."
+  },
+  "SkillDescSimple_Skill_LC_Ephnel_N_2": {
+    "korean": "지정 범위 {0} 전기 피해. 아군 AP 증가. 2라운드 행동력 / 경장 피해량 증가. 조건부 대상의 전기 피해량 증가. 조건부 대상의 전기 저항 감소.",
+    "english": "{0} Electric DMG in designated area. Increases ally AP. 2 rounds SPD / Light DMG increase. Conditional target Electric DMG increase. Conditional target Electric Resist decrease."
+  },
+  "SkillDesc_Skill_LC_Ephnel_N_3": {
+    "korean": "피격 시 자신의 모든 해로운 효과를 해제합니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 [바람!]을 부여합니다.&n바람! 1 : 회피 증가&n바람! 2 : 회피 증가 / 경장 피해량 증가&n바람! 3 : 회피 증가 / 경장 피해량 증가 / 기동 피해량 증가&n바람! 4 : 회피 증가 / 경장 피해량 증가 / 기동 피해량 증가 / 중장 피해량 증가",
+    "english": "Removes all harmful effects from yourself when hit. At the start of the round, if there are <Lion Corporation> combatants in the squad excluding yourself, grants [Wind!] to all allies based on their number: Wind! 1: Increases EVA; Wind! 2: Increases EVA / Light DMG; Wind! 3: Increases EVA / Light DMG / Air DMG; Wind! 4: Increases EVA / Light DMG / Air DMG / Heavy DMG."
+  },
+  "SkillDescSimple_Skill_LC_Ephnel_N_3": {
+    "korean": "피격 시 해로운 효과 해제. 조건부 회피 / 경장 피해량 / 기동 피해량 / 중장 피해량 증가.",
+    "english": "Removes harmful effects upon being hit. Conditional EVA / Light DMG / Air DMG / Heavy DMG increase."
+  },
+  "SkillDesc_Skill_LC_Ephnel_N_4": {
+    "korean": "라운드 개시 시 자신에게 전투 속행 효과를 부여합니다.&n라운드 개시 시 스쿼드에 <스트라이커즈> 전투원이 있는 경우 스트라이커즈 전투원을 공격 지원합니다.&n라운드 개시 시 스쿼드에 <라이언 코퍼레이션> 전투원이 있는 경우 자신을 제외한 라이언 코퍼레이션 전투원을 공격 지원합니다.",
+    "english": "At the start of the round, grant yourself Combat Continuation. At the start of the round, if a <Strikers> combatant is in the squad, provide Attack Support to the Strikers combatant. At the start of the round, if a <Lion Corporation> combatant is in the squad, provide Attack Support to Lion Corporation combatants excluding yourself."
+  },
+  "SkillDescSimple_Skill_LC_Ephnel_N_4": {
+    "korean": "자신에게 전투 속행 부여. 조건부 공격 지원.",
+    "english": "Grants self Combat Continuation. Conditional Attack Support."
+  },
+  "SkillDesc_Skill_LC_Ephnel_N_5": {
+    "korean": "라운드 개시 시 홀수 라운드인 경우 적군 전체에 [사라져!]를 부여합니다.&n라운드 개시 시 짝수 라운드인 경우 아군 전체에 [놀자고!]를 부여합니다.&n※ [사라져!] : 공격력 감소, 적중 감소, 치명타 감소&n※ [놀자고!] : 공격력 증가, 적중 증가, 치명타 증가",
+    "english": "If the round starts on an odd number, grant [Disappear!] to all enemies. If the round starts on an even number, grant [Let's Play!] to all allies. ※ [Disappear!]: Reduces Attack Power, Accuracy, and Critical Hit Rate ※ [Let's Play!]: Increases Attack Power, Accuracy, and Critical Hit Rate"
+  },
+  "SkillDescSimple_Skill_LC_Ephnel_N_5": {
+    "korean": "조건부 적군 전체 공격력 / 적중 / 치명타 감소. 조건부 아군 전체 공격력 / 적중 / 치명타 증가.",
+    "english": "Conditional decreases Attack Power / Accuracy / Critical Hit of all enemies. Conditional increases Attack Power / Accuracy / Critical Hit of all allies."
+  },
+  "BuffDesc4_Effect_LC_Ephnel_N_2": {
+    "korean": "슈퍼 노바 : {0}% 전기 추가 피해 (회로 과열)",
+    "english": "Super Nova : {0}% additional Electric DMG (Circuit Overheat)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_22": {
+    "korean": "슈퍼 노바 : {0}% 전기 추가 피해 (회로 과열)",
+    "english": "Super Nova : {0}% additional Electric DMG (Circuit Overheat)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_24": {
+    "korean": "슈퍼 노바 : {0}% 전기 추가 피해 (치명타 시)",
+    "english": "Super Nova : {0}% additional Electric DMG (On CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_1": {
+    "korean": "버티컬 클리어 : 지속 전기 피해 {0}",
+    "english": "Vertical Clear : Electric DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_LC_Ephnel_N_1": {
+    "korean": "버티컬 클리어 : 방어력 증가 해제",
+    "english": "Vertical Clear : DEF Buff Removal"
+  },
+  "BuffDesc3_Effect_LC_Ephnel_N_1": {
+    "korean": "버티컬 클리어 : 50% 스킬 사용 불가 (치명타 시)",
+    "english": "Vertical Clear : Silenced 50% (on CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_11": {
+    "korean": "버티컬 클리어 : 방어력 증가 해제",
+    "english": "Vertical Clear : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_LC_Ephnel_N_11": {
+    "korean": "버티컬 클리어 : 방어력 증가 해제",
+    "english": "Vertical Clear : DEF Buff Removal"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_12": {
+    "korean": "버티컬 클리어 : 스킬 사용 불가 (치명타 시)",
+    "english": "Vertical Clear : Silenced (on CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_2": {
+    "korean": "슈퍼 노바 : AP {0}",
+    "english": "Super Nova : AP {0}"
+  },
+  "BuffDesc2_Effect_LC_Ephnel_N_2": {
+    "korean": "슈퍼 노바 : 행동력 {0}%",
+    "english": "Super Nova : SPD {0}%"
+  },
+  "BuffDesc3_Effect_LC_Ephnel_N_2": {
+    "korean": "슈퍼 노바 : 대 경장형 피해량 {0}%",
+    "english": "Super Nova : Anti-Light DMG {0}%"
+  },
+  "BuffDesc5_Effect_LC_Ephnel_N_2": {
+    "korean": "슈퍼 노바 : 전기 저항 {0}% (회로 과열)",
+    "english": "Super Nova : Electric Resist {0}% (circuit overheating)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_21": {
+    "korean": "슈퍼 노바 : 대 경장형 피해량 {0}%",
+    "english": "Super Nova : Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_23": {
+    "korean": "슈퍼 노바 : 전기 저항 {0}% (회로 과열)",
+    "english": "Super Nova : Electric Resist {0}% (circuit overheating)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_3": {
+    "korean": "출력 강화 : 해로운 효과 해제",
+    "english": "Output enhancement : Debuff Removal"
+  },
+  "BuffDesc2_Effect_LC_Ephnel_N_3": {
+    "korean": "바람! : 회피 {0}% (최대)",
+    "english": "Wind! : EVA {0}% (Max)"
+  },
+  "BuffDesc3_Effect_LC_Ephnel_N_3": {
+    "korean": "바람! : 대 경장형 피해량 {0}% (최대)",
+    "english": "Wind! : Anti-Light DMG {0}% (Max)"
+  },
+  "BuffDesc4_Effect_LC_Ephnel_N_3": {
+    "korean": "바람! : 대 기동형 피해량 {0}% (최대)",
+    "english": "Wind! : Anti-Air DMG {0}% (Max)"
+  },
+  "BuffDesc5_Effect_LC_Ephnel_N_3": {
+    "korean": "바람! : 대 중장형 피해량 {0}% (최대)",
+    "english": "Wind! : Anti-Heavy DMG {0}% (Max)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_31": {
+    "korean": "바람! : 회피 {0}%",
+    "english": "Wind! : EVA {0}%"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_32": {
+    "korean": "바람! : 회피 {0}%",
+    "english": "Wind! : EVA {0}%"
+  },
+  "BuffDesc2_Effect_LC_Ephnel_N_32": {
+    "korean": "바람! : 대 경장형 피해량 {0}%",
+    "english": "Wind! : Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_33": {
+    "korean": "바람! : 회피 {0}%",
+    "english": "Wind! : EVA {0}%"
+  },
+  "BuffDesc2_Effect_LC_Ephnel_N_33": {
+    "korean": "바람! : 대 경장형 피해량 {0}%",
+    "english": "Wind! : Anti-Light DMG {0}%"
+  },
+  "BuffDesc3_Effect_LC_Ephnel_N_33": {
+    "korean": "바람! : 대 기동형 피해량 {0}%",
+    "english": "Wind! : Anti-Air DMG {0}%"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_34": {
+    "korean": "바람! : 회피 {0}%",
+    "english": "Wind! : EVA {0}%"
+  },
+  "BuffDesc2_Effect_LC_Ephnel_N_34": {
+    "korean": "바람! : 대 경장형 피해량 {0}%",
+    "english": "Wind! : Anti-Light DMG {0}%"
+  },
+  "BuffDesc3_Effect_LC_Ephnel_N_34": {
+    "korean": "바람! : 대 기동형 피해량 {0}%",
+    "english": "Wind! : Anti-Air DMG {0}%"
+  },
+  "BuffDesc4_Effect_LC_Ephnel_N_34": {
+    "korean": "바람! : 대 중장형 피해량 {0}%",
+    "english": "Wind! : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_4": {
+    "korean": "출력 격화 : {0}% HP로 전투 속행",
+    "english": "Output intensification : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc2_Effect_LC_Ephnel_N_4": {
+    "korean": "출력 격화 : 공격 지원 (스트라이커즈)",
+    "english": "Output intensification : Follow-Up Attack (Strikers)"
+  },
+  "BuffDesc3_Effect_LC_Ephnel_N_4": {
+    "korean": "출력 격화 : 공격 지원 (라이언 코퍼레이션)",
+    "english": "Output intensification : Follow-Up Attack (Lion Corporation)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_41": {
+    "korean": "출력 격화 : 공격 지원",
+    "english": "Output intensification : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_42": {
+    "korean": "출력 격화 : 공격 지원",
+    "english": "Output intensification : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_5": {
+    "korean": "사라져! : 공격력 {0}% (홀수 라운드)",
+    "english": "Vanish! : ATK {0}% (odd rounds)"
+  },
+  "BuffDesc2_Effect_LC_Ephnel_N_5": {
+    "korean": "사라져! : 적중 {0}% (홀수 라운드)",
+    "english": "Vanish! : ACC {0}% (odd rounds)"
+  },
+  "BuffDesc3_Effect_LC_Ephnel_N_5": {
+    "korean": "사라져! : 치명타 {0}% (홀수 라운드)",
+    "english": "Vanish! : CRIT {0}% (odd rounds)"
+  },
+  "BuffDesc4_Effect_LC_Ephnel_N_5": {
+    "korean": "놀자고! : 공격력 {0}% (짝수 라운드)",
+    "english": "Let's Play! : ATK {0}% (even rounds)"
+  },
+  "BuffDesc5_Effect_LC_Ephnel_N_5": {
+    "korean": "놀자고! : 적중 {0}% (짝수 라운드)",
+    "english": "Let's Play! : ACC {0}% (even rounds)"
+  },
+  "BuffDesc1_Effect_LC_Ephnel_N_51": {
+    "korean": "놀자고! : 공격력 {0}% (짝수 라운드)",
+    "english": "Let's Play! : ATK {0}% (even rounds)"
+  },
+  "BuffDesc2_Effect_LC_Ephnel_N_51": {
+    "korean": "놀자고! : 적중 {0}% (짝수 라운드)",
+    "english": "Let's Play! : ACC {0}% (even rounds)"
+  },
+  "BuffDesc3_Effect_LC_Ephnel_N_51": {
+    "korean": "놀자고! : 치명타 {0}% (짝수 라운드)",
+    "english": "Let's Play! : CRIT {0}% (even rounds)"
+  }
+}

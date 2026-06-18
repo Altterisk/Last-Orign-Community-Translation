@@ -1,0 +1,198 @@
+{
+  "SkillName_Skill_PECS_QueenMane_N_1": {
+    "korean": "한입거리",
+    "english": "Bite-sized"
+  },
+  "SkillName_Skill_PECS_QueenMane_N_2": {
+    "korean": "무자비한 일격",
+    "english": "Ruthless Strike"
+  },
+  "SkillName_Skill_PECS_QueenMane_N_3": {
+    "korean": "사냥 준비",
+    "english": "Hunt Preparation"
+  },
+  "SkillName_Skill_PECS_QueenMane_N_4": {
+    "korean": "무리짓기",
+    "english": "Pack Tactics"
+  },
+  "SkillName_Skill_PECS_QueenMane_N_5": {
+    "korean": "최상위 포식자",
+    "english": "Apex Predator"
+  },
+  "SkillDesc_Skill_PECS_QueenMane_N_1": {
+    "korean": "단일 대상에게 {0} 보호 무시 피해를 줍니다.&n적중 시 대상의 공격력이 자신보다 낮을 경우, 피해량이 증가합니다.&n치명타 시, 3라운드 동안 지속 물리 피해를 입힙니다.",
+    "english": "Deals {0} Ignore Protection DMG to a single target. If the target's ATK is lower than the user's, damage is increased. On CRIT, inflicts Physical DoT DMG for 3 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_QueenMane_N_1": {
+    "korean": "지정 대상 {0} 보호 무시 피해. 조건부 피해량 증가 / 지속 물리 피해.",
+    "english": "Single target {0} Ignore Protection DMG. Conditional damage increase / Physical DoT DMG."
+  },
+  "SkillDesc_Skill_PECS_QueenMane_N_2": {
+    "korean": "지정 범위에 {0} 피해를 주고, 2라운드 동안 대상을 이동 불가 상태로 만듭니다.&n치명타 시, 해당 라운드 동안 대상을 행동 불능 상태로 만듭니다.&n대상에게 지속 물리 피해가 적용중인 경우, 행동 불능이 2라운드 동안 지속됩니다.&n스킬 사용 시, 2라운드 동안 <무리짓기> 범위 내 아군의 공격력 / 방어력을 증가시킵니다.",
+    "english": "Deals {0} DMG to the designated area and Roots targets for 2 rounds. On CRIT, Stuns the target for the round. If the target is already affected by Physical DoT DMG, the Stun lasts 2 rounds. When this skill is used, increases ATK / DEF of allies within <Pack Tactics> range for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_QueenMane_N_2": {
+    "korean": "지정 범위 {0} 피해 / 이동 불가. 치명타 시, 행동 불가. 스킬 사용 시, 아군 공격력 / 방어력 증가.",
+    "english": "Stunned. Skill use: ally ATK / DEF increase."
+  },
+  "SkillDesc_Skill_PECS_QueenMane_N_3": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가합니다.&n대기 시, 자신은 반격 효과를 획득합니다. 해당 효과는 대기를 통해 임의로 해제할 수 있습니다.&n라운드 개시 시 자신에게 반격 효과가 적용된 경우, 회피 / 공격력이 증가하고 사거리가 3 증가합니다.",
+    "english": "At the start of the round, increases own ATK / CRIT. While waiting, gains Activate Counter Attack. This effect can be manually removed by waiting. If Counter Attack is active at round start, increases EVA / ATK and range by 3."
+  },
+  "SkillDescSimple_Skill_PECS_QueenMane_N_3": {
+    "korean": "자신 공격력 / 치명타 증가. 대기 시, 반격 활성화. 조건부 자신 회피 / 공격력 / 사거리 증가.",
+    "english": "Self ATK / CRIT increase. Counter Attack activates while waiting. Conditional self EVA / ATK / range increase."
+  },
+  "SkillDesc_Skill_PECS_QueenMane_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군의 대 중장형 / 경장형 피해량이 증가합니다. &n5인 스쿼드 구성 시 효과가 50% 증폭됩니다.&n전투 개시 시 자신이 스쿼드 내 유일한 공격기인 경우, 범위 내 아군의 AP가 증가합니다.",
+    "english": "At the start of the round, increases allies' Anti-Heavy DMG / Anti-Light DMG within range. Effect is amplified by 50% with a 5-unit squad. At battle start, if the user is the sole attacker in the squad, allies' AP within range is increased."
+  },
+  "SkillDescSimple_Skill_PECS_QueenMane_N_4": {
+    "korean": "아군 대 중장형 / 경장형 피해량 증가. 전투 개시 조건부 AP 증가.",
+    "english": "Ally Anti-Heavy DMG / Anti-Light DMG increase. Conditional AP increase at battle start."
+  },
+  "SkillDesc_Skill_PECS_QueenMane_N_5": {
+    "korean": "라운드 개시 시, 3라운드 동안 자신의 기본 공격력이 증가합니다.&n라운드 개시 시, 위압적인 포효로 자신보다 공격력이 낮은 모든 적의 행동력을 감소시킵니다.&n전투 개시 시, 사냥감 수에 비례하여 자신은 행동력 증가 일반 효과를 획득합니다.",
+    "english": "At the start of the round, increases own base ATK for 3 rounds. Also, with an overwhelming roar, reduces SPD of all enemies whose ATK is lower than yours. At battle start, gains an SPD increase Normal Effect proportional to the number of prey."
+  },
+  "SkillDescSimple_Skill_PECS_QueenMane_N_5": {
+    "korean": "자신 공격력 / 행동력 증가. 적 행동력 감소.",
+    "english": "Self ATK / SPD increase. Reduces enemy SPD."
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_1": {
+    "korean": "서열정리 : 피해량 {0}%",
+    "english": "Rank Reset : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_QueenMane_N_1": {
+    "korean": "숨통 끊기 : {0} 지속 물리 피해",
+    "english": "Suffocation : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_12": {
+    "korean": "숨통 끊기 : {0} 지속 물리 피해",
+    "english": "Suffocation : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_2": {
+    "korean": "무자비한 일격 : 이동 불가",
+    "english": "Merciless Strike : Rooted"
+  },
+  "BuffDesc2_Effect_PECS_QueenMane_N_2": {
+    "korean": "손쉬운 먹잇감 : 행동 불가",
+    "english": "Easy Prey : Stunned"
+  },
+  "BuffDesc3_Effect_PECS_QueenMane_N_2": {
+    "korean": "프라이드 : 공격력 {0}%",
+    "english": "Pride : ATK {0}%"
+  },
+  "BuffDesc4_Effect_PECS_QueenMane_N_2": {
+    "korean": "프라이드 : 방어력 {0}%",
+    "english": "Pride : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_21": {
+    "korean": "손쉬운 먹잇감 : 행동 불가",
+    "english": "Easy Prey : Stunned"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_22": {
+    "korean": "손쉬운 먹잇감 : 행동 불가",
+    "english": "Easy Prey : Stunned"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_3": {
+    "korean": "사냥 준비 : 공격력 {0}%",
+    "english": "Hunt Preparation : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_QueenMane_N_3": {
+    "korean": "사냥 준비 : 치명타 {0}%",
+    "english": "Hunt Preparation : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_QueenMane_N_3": {
+    "korean": "Be prepared : {0}% 위력으로 반격",
+    "english": "Prepared : Counter Attack with {0}% Power"
+  },
+  "BuffDesc4_Effect_PECS_QueenMane_N_3": {
+    "korean": "Be prepared : 회피 {0}% (대기)",
+    "english": "Prepared : EVA {0}% (On Standby)"
+  },
+  "BuffDesc5_Effect_PECS_QueenMane_N_3": {
+    "korean": "Be prepared : 공격력 {0}% (대기)",
+    "english": "Prepared : ATK {0}% (On Standby)"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_31": {
+    "korean": "Be prepared : {0}% 위력으로 반격",
+    "english": "Prepared : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_32": {
+    "korean": "호시우보 : 반격 해제",
+    "english": "Hoshiubo : Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_33": {
+    "korean": "Be prepared : 사거리 {0}",
+    "english": "Prepared : Range {0}"
+  },
+  "BuffDesc2_Effect_PECS_QueenMane_N_33": {
+    "korean": "Be prepared : 회피 {0}%",
+    "english": "Prepared : EVA {0}%"
+  },
+  "BuffDesc3_Effect_PECS_QueenMane_N_33": {
+    "korean": "Be prepared : 공격력 {0}%",
+    "english": "Prepared : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_4": {
+    "korean": "무리짓기 : 대 중장형 피해량 {0}%",
+    "english": "Pack Hunting : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_QueenMane_N_4": {
+    "korean": "무리짓기 : 대 경장형 피해량 {0}%",
+    "english": "Pack Hunting : Anti-Light DMG {0}%"
+  },
+  "BuffDesc3_Effect_PECS_QueenMane_N_4": {
+    "korean": "무리짓기 : 대 중장형 피해량 {0}% (5인)",
+    "english": "Pack Hunting : Anti-Heavy DMG {0}% (5 Units)"
+  },
+  "BuffDesc4_Effect_PECS_QueenMane_N_4": {
+    "korean": "무리짓기 : 대 경장형 피해량 {0}% (5인)",
+    "english": "Pack Hunting : Anti-Light DMG {0}% (5 Units)"
+  },
+  "BuffDesc5_Effect_PECS_QueenMane_N_4": {
+    "korean": "왕관의 무게 : AP {0}",
+    "english": "Weight of the Crown : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_41": {
+    "korean": "무리짓기 : 대 중장형 피해량 {0}%",
+    "english": "Pack Hunting : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_QueenMane_N_41": {
+    "korean": "무리짓기 : 대 경장형 피해량 {0}%",
+    "english": "Pack Hunting : Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_42": {
+    "korean": "프라이드 : 공격력 {0}%",
+    "english": "Pride : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_QueenMane_N_42": {
+    "korean": "프라이드 : 방어력 {0}%",
+    "english": "Pride : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_43": {
+    "korean": "왕관의 무게 : AP {0}",
+    "english": "Weight of the Crown : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_5": {
+    "korean": "최상위 포식자 : 공격력 {0}",
+    "english": "Apex Predator : ATK {0}"
+  },
+  "BuffDesc2_Effect_PECS_QueenMane_N_5": {
+    "korean": "우두머리의 포효 : 행동력 {0}%",
+    "english": "Leader's Roar : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_QueenMane_N_5": {
+    "korean": "사냥감 포착 : 행동력 {0}% (1기당)",
+    "english": "Target Acquired : SPD {0}% (per unit)"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_51": {
+    "korean": "우두머리의 포효 : 행동력 {0}%",
+    "english": "Leader's Roar : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_QueenMane_N_52": {
+    "korean": "사냥감 포착 : 행동력 {0}%",
+    "english": "Target Acquired : SPD {0}%"
+  }
+}

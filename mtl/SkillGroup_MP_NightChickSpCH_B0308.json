@@ -1,0 +1,66 @@
+{
+  "1000102366": {
+    "korean": "머신건 견제 사격",
+    "english": "Machine Gun Suppressive Fire"
+  },
+  "1000102367": {
+    "korean": "머신건 연사",
+    "english": "Machine Gun Rapid Fire"
+  },
+  "1002702734": {
+    "korean": "근성",
+    "english": "Grit"
+  },
+  "1002702737": {
+    "korean": "호위",
+    "english": "Escort"
+  },
+  "1002702738": {
+    "korean": "희생",
+    "english": "Sacrifice"
+  },
+  "1002703638": {
+    "korean": "머신건 견제 사격으로 {0} 피해를 주며 방어력을 3라운드 동안 감소 시킵니다.",
+    "english": "Deals {0} damage with Machine Gun Suppressive Fire and reduces DEF for 3 rounds."
+  },
+  "1002703639": {
+    "korean": "머신건을 조준 사격해 {0} 피해를 줍니다. 3라운드 동안 받는 피해가 증가하는 상태로 만듭니다.",
+    "english": "Aims and fires a machine gun, dealing {0} damage. Inflicts a status that increases DMG Taken for 3 rounds."
+  },
+  "1002703640": {
+    "korean": "솔져 칙들은 낙오(파괴) 되더라도 칙 커맨더가 존재한다면 <근성>으로 다시 일어나 싸웁니다.&n&n근성 : 해제 불가의 전투 속행 효과",
+    "english": "Even if Soldier Chicks fall behind (are destroyed), they will rise again with <Grit> and fight as long as a Chick Commander is present. <Grit>: An unremovable combat continuation effect."
+  },
+  "1002703641": {
+    "korean": "라운드 개시 시 칙 커맨더의 명령을 따르기 위해 <명령 집중>이 적용 되고 <공격 명령>을 받기 전까지 칙 커맨더를 호위하기 위해 주위를 돌아다니다가 간혹 <과부하>에 걸립니다.&n&n명령 집중 : 해제 불가의 해로운 효과 저항 적용&n과부하 : 스스로에게 일정량 피해",
+    "english": "At the start of a round, <Command Focus> is applied to follow the Chick Commander's orders, and the unit moves around to escort the Chick Commander until receiving an <Attack Order>, occasionally becoming <Overload>. <Command Focus>: Applies unremovable Harmful Effect Resist. <Overload>: Deals a certain amount of damage to itself."
+  },
+  "1002703642": {
+    "korean": "전열에 있는 경우 자신의 몸을 바쳐 칙 커맨더를 보호할 수 있도록 행 보호가 적용 됩니다.",
+    "english": "When in the front row, Row Protect is applied so you can sacrifice yourself to protect the Chick Commander."
+  },
+  "1000104131": {
+    "korean": "과부하",
+    "english": "Overload"
+  },
+  "1000104127": {
+    "korean": "머신건 견제 사격 : 방어력 {0}%",
+    "english": "Machine Gun Containment Fire : DEF {0}%"
+  },
+  "1000104128": {
+    "korean": "머신건 연사 : 받는 피해{0}%",
+    "english": "Machine Gun Continuous Fire : DMG Taken {0}%"
+  },
+  "1000104893": {
+    "korean": "명령 최우선 : 효과 저항{0}%",
+    "english": "Priority Command : Status Resist {0}%"
+  },
+  "1000104130": {
+    "korean": "명령 집중 : 효과 저항{0}%",
+    "english": "Focused Command : Status Resist {0}%"
+  },
+  "1000104132": {
+    "korean": "희생 : 행 보호",
+    "english": "Sacrifice : Row Protect"
+  }
+}

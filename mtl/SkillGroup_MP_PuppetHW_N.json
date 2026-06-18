@@ -1,0 +1,54 @@
+{
+  "SkillName_Skill_MP_PuppetHW_N_1": {
+    "korean": "열화우라늄 날탄",
+    "english": "Depleted uranium fin-stabilized projectile"
+  },
+  "SkillName_Skill_MP_PuppetHW_N_2": {
+    "korean": "피로 파괴 유발탄",
+    "english": "Fatigue-inducing projectile"
+  },
+  "SkillDesc_Skill_MP_PuppetHW_N_1": {
+    "korean": "포격으로 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.&n적중 대상이 방어력 감소 상태인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} damage with a bombardment. Ignores a certain percentage of the target's DEF. If the target is under a DEF reduction effect, the damage increases."
+  },
+  "SkillDesc_Skill_MP_PuppetHW_N_2": {
+    "korean": "금속 피로를 유발하는 고열 포격으로 범위 내 적에게 {0} 보호 무시 화염 피해를 입힙니다.&n적중 시, 2라운드 동안 대상의 방어력을 감소시킵니다.",
+    "english": "Deals {0} Ignore Protection fire damage to enemies within range with a high-temperature bombardment that causes metal fatigue. On hit, reduces the target's DEF for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_PuppetHW_N_3": {
+    "korean": "라운드 개시 시, 3라운드 동안 자신의 적중 / 치명타 / 행동력이 증가합니다.&n라운드 개시 시 자신이 행동 불능 상태인 경우, 상기 효과 대신 자신이 받는 피해가 증가합니다.",
+    "english": "At the start of a round, your ACC / CRIT / SPD increase for 3 rounds. If you are Stunned at the start of a round, DMG Taken Increased instead of the above effect."
+  },
+  "SkillDesc_Skill_MP_PuppetHW_N_4": {
+    "korean": "라운드 개시 시, 범위 내 <퍼펫> 아군의 AP가 증가합니다.&n자신 사망 시, 범위 내 <퍼펫> 아군을 2라운드 동안 행동 불능 상태로 만듭니다.",
+    "english": "At the start of a round, the AP of allied <Puppet> units within range increases. Upon death, allied <Puppet> units within range become Stunned for 2 rounds."
+  },
+  "BuffDesc1_Effect_MP_PuppetHW_N_1": {
+    "korean": "열화우라늄 날탄 : 방어 관통 {0}%",
+    "english": "Depleted uranium fin-stabilized projectile : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetHW_N_11": {
+    "korean": "열화우라늄 날탄 : 피해량 {0}%",
+    "english": "Depleted uranium fin-stabilized projectile : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetHW_N_2": {
+    "korean": "피로 파괴 유발탄 : 방어력 {0}%",
+    "english": "Fatigue-inducing projectile : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetHW_N_3": {
+    "korean": "PECS 오버레이 바이오스 : 적중 {0}%",
+    "english": "PECS Overlay BIOS : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_PuppetHW_N_3": {
+    "korean": "PECS 오버레이 바이오스 : 치명타 {0}%",
+    "english": "PECS Overlay BIOS : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_MP_PuppetHW_N_3": {
+    "korean": "PECS 오버레이 바이오스 : 방어 관통 {0}%",
+    "english": "PECS Overlay BIOS : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetHW_N_4": {
+    "korean": "배드 섹터 : AP {0}",
+    "english": "Bad sector : AP {0}"
+  }
+}

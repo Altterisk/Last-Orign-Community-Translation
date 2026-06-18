@@ -1,0 +1,134 @@
+{
+  "1002707138": {
+    "korean": "케스토스 히마스: 출력전개",
+    "english": "Kestos Himas: Output Expansion"
+  },
+  "1002707139": {
+    "korean": "케스토스 히마스: 알고리즘 개선",
+    "english": "Kestos Himas: Algorithm Improvement"
+  },
+  "1002707143": {
+    "korean": "지정 범위에 {0} 피해를 주고, 대상의 적중 강화 효과를 해제하며 뒤로 밀어냅니다. 대상에게 속성 저항 감소 효과가 적용되어 있는 경우 2라운드 동안 이동 불가 상태로 만들고, 대상이 중장형 보호기일 경우 2라운드 동안 사거리를 감소시킵니다.",
+    "english": "Deals {0} damage to the designated area, removes the target's ACC boost effect, and pushes it back. If the target has an Elemental Resist reduction effect, makes it Rooted for 2 rounds, and if the target is a Heavy Protector, reduces its Range for 2 rounds."
+  },
+  "1002707144": {
+    "korean": "지정 범위 아군의 현재 AP를 14로 변경시키며, 3라운드 동안 대상에게 사거리 증가 효과를 부여하고 치명타 / 효과 저항 확률을 100% 증가시킵니다.",
+    "english": "Sets the current AP of allies in the designated area to 14, grants the target a Range increase for 3 rounds, and increases CRIT / Status Resist chance by 100%."
+  },
+  "1002707140": {
+    "korean": "전투 개시 시 스쿼드에 경장형 아군 수가 3 이상일 경우, 모든 경장형 아군 및 적의 받는 피해를 감소시키고, 모든 기동 / 중장형 아군 및 적의 받는 피해를 증가시킵니다. 해당 효과는 해제할 수 없습니다.",
+    "english": "At combat start, if the squad has 3 or more Light allies, reduces DMG Taken of all Light allies and enemies, and increases DMG Taken Increased of all Air and Heavy allies and enemies. This effect cannot be removed."
+  },
+  "1002707141": {
+    "korean": "전투 개시 시 스쿼드에 기동형 아군 수가 3 이상일 경우, 모든 기동형 아군 및 적의 사거리 / 적중을 증가시키고, 모든 경장 / 중장형 아군 및 적의 사거리 / 적중을 감소시킵니다. 해당 효과는 해제할 수 없습니다.",
+    "english": "At combat start, if the squad has 3 or more Air allies, increases the Range / ACC of all Air allies and enemies, and decreases the Range / ACC of all Light / Heavy allies and enemies. This effect cannot be removed."
+  },
+  "1002707142": {
+    "korean": "전투 개시 시 스쿼드에 중장형 아군 수가 3 이상일 경우, 모든 중장형 아군 및 적의 AP / 행동력을 증가시키고, 모든 경장 / 기동형 아군 및 적의 AP / 행동력을 감소시킵니다. 해당 효과는 해제할 수 없습니다.",
+    "english": "At combat start, if the squad has 3 or more Heavy allies, increases the AP / SPD of all Heavy allies and enemies, and decreases the AP / SPD of all Light / Air allies and enemies. This effect cannot be removed."
+  },
+  "1000108884": {
+    "korean": "케스토스 히마스 : AP {0}으로 변경",
+    "english": "Kestos Himas: Change AP to {0}"
+  },
+  "1000108882": {
+    "korean": "케스토스 히마스 : 적중 강화 해제",
+    "english": "Kestos Himas : ACC Buff Removal"
+  },
+  "1000108885": {
+    "korean": "케스토스 히마스 : 뒤로 {0}칸 밀기",
+    "english": "Kestos Himas : Push Back {0}"
+  },
+  "1000108883": {
+    "korean": "케스토스 히마스 : 이동 불가",
+    "english": "Kestos Himas : Rooted"
+  },
+  "1000108868": {
+    "korean": "케스토스 히마스 : 사거리{0}",
+    "english": "Kestos Himas : Range {0}"
+  },
+  "1000108886": {
+    "korean": "케스토스 히마스 : 치명타{0}%",
+    "english": "Kestos Himas : CRIT {0}%"
+  },
+  "1000108887": {
+    "korean": "케스토스 히마스 : 효과 저항{0}%",
+    "english": "Kestos Himas : Status Resist {0}%"
+  },
+  "1000108866": {
+    "korean": "케스토스 히마스 : 사거리{0}",
+    "english": "Kestos Himas : Range {0}"
+  },
+  "1000108862": {
+    "korean": "케스토스 히마스 : 받는 피해-{0}%",
+    "english": "Kestos Himas : DMG Taken -{0}%"
+  },
+  "1000108863": {
+    "korean": "케스토스 히마스 : 받는 피해{0}%",
+    "english": "Kestos Himas : DMG Taken {0}%"
+  },
+  "1000108864": {
+    "korean": "케스토스 히마스 : 받는 피해-{0}%",
+    "english": "Kestos Himas : DMG Taken -{0}%"
+  },
+  "1000108865": {
+    "korean": "케스토스 히마스 : 받는 피해{0}%",
+    "english": "Kestos Himas : DMG Taken {0}%"
+  },
+  "1000108867": {
+    "korean": "케스토스 히마스 : 적중{0}%",
+    "english": "Kestos Himas : ACC {0}%"
+  },
+  "1000108869": {
+    "korean": "케스토스 히마스 : 적중{0}%",
+    "english": "Kestos Himas : ACC {0}%"
+  },
+  "1000108870": {
+    "korean": "케스토스 히마스 : 사거리{0}",
+    "english": "Kestos Himas : Range {0}"
+  },
+  "1000108871": {
+    "korean": "케스토스 히마스 : 적중{0}%",
+    "english": "Kestos Himas : ACC {0}%"
+  },
+  "1000108872": {
+    "korean": "케스토스 히마스 : 사거리{0}",
+    "english": "Kestos Himas : Range {0}"
+  },
+  "1000108873": {
+    "korean": "케스토스 히마스 : 적중{0}%",
+    "english": "Kestos Himas : ACC {0}%"
+  },
+  "1000108874": {
+    "korean": "케스토스 히마스 : AP{0}",
+    "english": "Kestos Himas : AP {0}"
+  },
+  "1000108875": {
+    "korean": "케스토스 히마스 : 행동력{0}%",
+    "english": "Kestos Himas : SPD {0}%"
+  },
+  "1000108876": {
+    "korean": "케스토스 히마스 : AP{0}",
+    "english": "Kestos Himas : AP {0}"
+  },
+  "1000108877": {
+    "korean": "케스토스 히마스 : 행동력{0}%",
+    "english": "Kestos Himas : SPD {0}%"
+  },
+  "1000108878": {
+    "korean": "케스토스 히마스 : AP{0}",
+    "english": "Kestos Himas : AP {0}"
+  },
+  "1000108879": {
+    "korean": "케스토스 히마스 : 행동력{0}%",
+    "english": "Kestos Himas : SPD {0}%"
+  },
+  "1000108880": {
+    "korean": "케스토스 히마스 : AP{0}",
+    "english": "Kestos Himas : AP {0}"
+  },
+  "1000108881": {
+    "korean": "케스토스 히마스 : 행동력{0}%",
+    "english": "Kestos Himas : SPD {0}%"
+  }
+}

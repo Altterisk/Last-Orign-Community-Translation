@@ -1,0 +1,30 @@
+{
+  "SkillName_Skill_MP_MarionnetteHW_N_3": {
+    "korean": "병렬 분산 시스템",
+    "english": "Parallel Distributed System"
+  },
+  "SkillName_Skill_MP_MarionnetteHW_N_4": {
+    "korean": "사격 통제 네트워크",
+    "english": "Fire Control Network"
+  },
+  "SkillDesc_Skill_MP_MarionnetteHW_N_3": {
+    "korean": "라운드 개시 시, 아군이 전장에 다수 존재할 수록 추가 효과를 받습니다.&n1단계 (3개체 이상) : 행동력 15% 증가",
+    "english": "At the start of a round, the more allies on the battlefield, the greater the additional effect. Stage 1 (3 or more): SPD increased by 15%"
+  },
+  "SkillDesc_Skill_MP_MarionnetteHW_N_4": {
+    "korean": "적 공격 시, 적중 여부에 따라 다음 효과를 자신에게 적용합니다.&n적중 : 재공격 (1회)&n회피 : 적중 150% 증가 (1회)",
+    "english": "When attacking an enemy, apply the following effect to yourself based on hit result. Hit: Reattack (1) Evade: ACC increased by 150% (1)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_3": {
+    "korean": "병렬 분산 시스템 : 행동력 {0}%",
+    "english": "Parallel distributed systems : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_4": {
+    "korean": "사격 통제 네트워크 : 재공격",
+    "english": "Fire control network : Reattack"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteHW_N_42": {
+    "korean": "사격 통제 네트워크 : 적중 {0}%",
+    "english": "Fire control network : ACC {0}%"
+  }
+}

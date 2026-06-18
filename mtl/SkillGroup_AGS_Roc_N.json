@@ -1,0 +1,114 @@
+{
+  "1002701679": {
+    "korean": "블리츠 스톰",
+    "english": "Blitz Storm"
+  },
+  "1002701680": {
+    "korean": "유피텔 스트라이크",
+    "english": "Yupitel Strike"
+  },
+  "1002701681": {
+    "korean": "전자기파 교란",
+    "english": "Electromagnetic Disruption"
+  },
+  "1002701682": {
+    "korean": "에너지 컨버트",
+    "english": "Energy Convert"
+  },
+  "1002708120": {
+    "korean": "전자기 유도",
+    "english": "Electromagnetic Induction"
+  },
+  "1002704195": {
+    "korean": "지정 범위에 {0} 보호 무시 전기 속성 피해를 주고 AP와 회피를 낮춥니다. 표식 / 이동 불가 대상에게 피해량이 증가합니다.",
+    "english": "Deals {0} Electric damage to the designated area, ignoring protection, and reduces AP and EVA. Damage is increased against targets that are Marked or Rooted."
+  },
+  "1002703410": {
+    "korean": "지정 범위 {0} 보호 무시 전기 피해. AP / 회피 감소. 표식 / 이동 불가 피해량 증가",
+    "english": "Designated area {0} Ignore Protection Electric damage. AP / EVA Reduction. Marked / Rooted Damage Increased"
+  },
+  "1002704196": {
+    "korean": "지정 대상에게 {0} 보호 무시 전기 속성 피해를 주고 AP와 회피를 낮춥니다. 대상이 기동형이거나 치명타 시, 피해량이 증가합니다.",
+    "english": "Deals {0} Electric damage to the designated target, ignoring protection, and reduces AP and EVA. Damage is increased if the target is Air-Type or a CRIT."
+  },
+  "1002703411": {
+    "korean": "단일 대상 {0} 보호 무시 전기 피해. AP / 회피 감소. 기동형이거나 치명타 시, 피해량 증가",
+    "english": "Single target {0} Ignore Protection Electric damage. AP / EVA Reduction. Air-Type or CRIT Damage Increased"
+  },
+  "1002704197": {
+    "korean": "라운드 개시 시, 자신과 인접 아군에게 처음 받는 공격은 반격 / 회피 증가 효과를 부여합니다. 자신은 회피 증가 효과가 지속 적용되며, 공격 받을 시 반격합니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of the round, grants Counter Attack and increased EVA against the first incoming attack to self and adjacent allies. Self retains the EVA increase permanently and Counter Attacks when hit. At skill level 10, the range increases."
+  },
+  "1002703412": {
+    "korean": "회피 증가 / 공격 받을 시, 반격. 자신과 인접 아군에게 반격 / 회피 증가 부여 (1회)",
+    "english": "Increases EVA and Counter Attacks when attacked. Grants Counter Attack and EVA increase (1x) to self and adjacent allies."
+  },
+  "1002704198": {
+    "korean": "라운드 개시 시, 공격력 / 전기 저항이 증가합니다. 공격력 증가는 최대 2회까지 중첩되며, 최대 충전 상태에선 행동력이 증가하며 <유피텔 스트라이크>가 방어막 / 피해 감소 효과를 무시합니다.",
+    "english": "At the start of the round, increases ATK and Electric Resist. ATK increase can stack up to 2 times, and when fully charged, SPD increases and <Yupitel Strike> ignores Barrier and DMG Reduction effects."
+  },
+  "1002703413": {
+    "korean": "공격력 / 전기 저항 증가. 최대 중첩 시, 행동력 증가 / <유피텔 스트라이크> 강화",
+    "english": "Increases ATK and Electric Resist. When fully stacked, increases SPD and enhances <Yupitel Strike>."
+  },
+  "1002708121": {
+    "korean": "<블리츠 스톰>의 대상에게 적 수가 많을수록 높은 추가 전기 피해를 입히며, <유피텔 스트라이크>의 대상에게 적 수가 적을수록 높은 추가 전기 피해를 입힙니다.",
+    "english": "Deals higher additional Electric damage to <Blitz Storm> targets when there are more enemies, and higher additional Electric damage to <Yupitel Strike> targets when there are fewer enemies."
+  },
+  "1002708122": {
+    "korean": "적 수가 많을수록 <블리츠 스톰> 추가 피해 / 적 수가 적을수록 <유피텔 스트라이크> 추가 피해",
+    "english": "More enemies → <Blitz Storm> additional damage / Fewer enemies → <Yupitel Strike> additional damage"
+  },
+  "1000110614": {
+    "korean": "전자기 유도 : 추가 전기 피해{0}%",
+    "english": "Electromagnetic Induction : Additional Electric damage {0}%"
+  },
+  "1000110615": {
+    "korean": "<블리츠 스톰> 추가 피해{0}% (최대)",
+    "english": "<Blitz Storm> : Additional damage {0}% (Max)"
+  },
+  "1000110616": {
+    "korean": "<유피텔 스트라이크> 추가 피해{0}% (최대)",
+    "english": "<Yupitel Strike> : Additional damage {0}% (Max)"
+  },
+  "1000102757": {
+    "korean": "정밀 공격 : 피해량{0}%(표식/회피 감소)",
+    "english": "Precision Attack : Additional DMG {0}% (Marked/EVA Decrease)"
+  },
+  "1000103471": {
+    "korean": "대공 공격 : 대 기동형 피해량{0}%",
+    "english": "Anti‑Air Attack : Anti-Air DMG {0}%"
+  },
+  "1000103990": {
+    "korean": "S.유피텔 스트라이크 : 방어막 / 피해 감소 무시",
+    "english": "S. Jupitel Strike : Ignore Barrier / DMG Reduction"
+  },
+  "1000103468": {
+    "korean": "전자기파 교란 : 회피{0}% (1회)",
+    "english": "Electromagnetic Interference : EVA {0}% (1x)"
+  },
+  "1000103472": {
+    "korean": "전자기파 교란 : {0}% 위력으로 반격 (1회)",
+    "english": "Electromagnetic Interference : Counter Attack with {0}% Power (1x)"
+  },
+  "1000103473": {
+    "korean": "조준 교란 : 회피{0}%",
+    "english": "Aim Interference : EVA {0}%"
+  },
+  "1000103474": {
+    "korean": "전자기파 교란 : {0}% 위력으로 반격",
+    "english": "Electromagnetic Interference : Counter Attack with {0}% Power"
+  },
+  "1000103469": {
+    "korean": "에너지 컨버트 : 전기 저항{0}%",
+    "english": "Energy Conversion : Electric Resist {0}%"
+  },
+  "1000103475": {
+    "korean": "에너지 컨버트 : 공격력{0}%",
+    "english": "Energy Conversion : ATK {0}%"
+  },
+  "1000103476": {
+    "korean": "최대 충전 : 행동력{0}%",
+    "english": "Maximum Charge : SPD {0}%"
+  }
+}

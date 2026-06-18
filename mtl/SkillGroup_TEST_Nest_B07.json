@@ -1,0 +1,126 @@
+{
+  "SkillName_Skill_TEST_Nest_N_1": {
+    "korean": "파멸 도래",
+    "english": "Doom Approaches"
+  },
+  "SkillName_Skill_TEST_Nest_N_2": {
+    "korean": "침식",
+    "english": "Erosion"
+  },
+  "SkillName_Skill_TEST_Nest_N_3": {
+    "korean": "은총 하사",
+    "english": "Grace Bestowal"
+  },
+  "SkillName_Skill_TEST_Nest_N_4": {
+    "korean": "배리어 전개",
+    "english": "Barrier Deployment"
+  },
+  "SkillName_Skill_TEST_Nest_N_5": {
+    "korean": "사출 시스템 파괴",
+    "english": "Ejection System Destruction"
+  },
+  "SkillDesc_Skill_TEST_Nest_N_1": {
+    "korean": "에너지 응집체를 발사해 {0} 피해를 줍니다. 대상이 <침식> 효과에 적용되어 있는 상태일 시 피해량이 증가합니다.",
+    "english": "Fires an energy condensate dealing {0} damage. Damage increases if the target is affected by the <Erosion> effect."
+  },
+  "SkillDesc_Skill_TEST_Nest_N_2": {
+    "korean": "목표 지점에 {0} 피해를 주는 침식체를 발사합니다. 목표 지점 주변은 피해가 25% 감소합니다. 적중 시, 30% 확률로 대상을 뒤로 밀고 공격력 / 방어력을 감소시킵니다. 공격력 / 방어력 감소 효과는 전투가 진행될수록 점감 됩니다.",
+    "english": "Fires an erosion projectile that deals {0} damage to the target. Damage is reduced by 25% around the target. On hit, there is a 30% chance to push the target back and reduce their ATK / DEF. The ATK / DEF reduction effect diminishes as combat progresses."
+  },
+  "SkillDesc_Skill_TEST_Nest_N_3": {
+    "korean": "주위 아군에게 자신의 HP에 따라 점차 강해지는 효과를 부여합니다.&n&n은총 하사 1단계 (HP 100% ~ 70%) : 공격력 / 방어력 증가&n은총 하사 2단계 (HP 70% ~ 40%) : 공격력 / 방어력 / 적중 증가&n은총 하사 3단계 (HP 40% ~ 0%) : 공격력 / 방어력 / 적중 증가",
+    "english": "Grants nearby allies an effect that strengthens as your HP decreases.\nGrace Bestowal Stage 1 (HP 100% ~ 70%): ATK / DEF increase\nGrace Bestowal Stage 2 (HP 70% ~ 40%): ATK / DEF / ACC increase\nGrace Bestowal Stage 3 (HP 40% ~ 0%): ATK / DEF / ACC increase"
+  },
+  "SkillDesc_Skill_TEST_Nest_N_4": {
+    "korean": "피격 시, <배리어 전개 준비> 상태가 되며 4회 중첩인 상태로 피격 시, 배리어가 전개되어 3라운드 동안 피해를 5회 무효화합니다. 배리어가 전개돼있는 동안 피격 시, 해로운 효과를 해제하고 아군이 사망 시, 배리어가 강제로 해제되어 3라운드 동안 받는 피해가 증가합니다.",
+    "english": "Upon being hit, you enter the <Barrier Deployment Ready> state. When hit while this state has 4 stacks, a barrier is deployed that nullifies damage 5 times for 3 rounds. While the barrier is active, being hit removes harmful effects, and if an ally dies the barrier is forcibly removed, increasing damage taken for 3 rounds."
+  },
+  "SkillDesc_Skill_TEST_Nest_N_5": {
+    "korean": "<배리어 전개> 상태에서 속성 공격에 피격 시, <사출 시스템 손상> 상태가 되며 해당 상태가 3회 중첩 된 상태로 피격 시, <사출 시스템 파괴>가 되어 <침식> 스킬을 사용할 수 없게 됩니다.",
+    "english": "While in the <Barrier Deployment> state, being hit by an elemental attack applies the <Ejection System Damage> state. If this state reaches 3 stacks, you become <Ejection System Destruction>, preventing use of the <Erosion> skill."
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_1": {
+    "korean": "파멸 도래 : <침식> 상태 추가 피해 {0}%",
+    "english": "Doom Approaches : <Erosion> Additional Damage {0}%"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_33": {
+    "korean": "본체 파괴",
+    "english": "Main Body Destroyed"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_4": {
+    "korean": "배리어 전개 준비",
+    "english": "Barrier Deployment Ready"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_5": {
+    "korean": "사출 시스템 손상",
+    "english": "Ejection System Damage"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_51": {
+    "korean": "사출 시스템 손상",
+    "english": "Ejection System Damage"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_52": {
+    "korean": "사출 시스템 손상",
+    "english": "Ejection System Damage"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_53": {
+    "korean": "사출 시스템 파괴",
+    "english": "Ejection System Destruction"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_2": {
+    "korean": "침식 : 뒤로 {0}칸 밀기",
+    "english": "Corrosion : Push Back {0}"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_21": {
+    "korean": "침식 : 공격력 {0}%",
+    "english": "Corrosion : ATK {0}%"
+  },
+  "BuffDesc2_Effect_TEST_Nest_N_21": {
+    "korean": "침식 : 방어력 {0}%",
+    "english": "Corrosion : DEF {0}%"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_3": {
+    "korean": "은총 하사 1단계 : 공격력+{0}%",
+    "english": "Grace Bestowal Stage 1 : ATK +{0}%"
+  },
+  "BuffDesc2_Effect_TEST_Nest_N_3": {
+    "korean": "은총 하사 1단계 : 방어력+{0}%",
+    "english": "Grace Bestowal Stage 1 : DEF +{0}%"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_31": {
+    "korean": "은총 하사 2단계 : 공격력+{0}%",
+    "english": "Grace Bestowal Stage 2 : ATK +{0}%"
+  },
+  "BuffDesc2_Effect_TEST_Nest_N_31": {
+    "korean": "은총 하사 2단계 : 방어력+{0}%",
+    "english": "Grace Bestowal Stage 2 : DEF +{0}%"
+  },
+  "BuffDesc3_Effect_TEST_Nest_N_31": {
+    "korean": "은총 하사 2단계 : 적중+{0}%",
+    "english": "Grace Bestowal Stage 2 : ACC +{0}%"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_32": {
+    "korean": "은총 하사 3단계 : 공격력+{0}%",
+    "english": "Grace Bestowal Stage 3 : ATK +{0}%"
+  },
+  "BuffDesc2_Effect_TEST_Nest_N_32": {
+    "korean": "은총 하사 3단계 : 방어력+{0}%",
+    "english": "Grace Bestowal Stage 3 : DEF +{0}%"
+  },
+  "BuffDesc3_Effect_TEST_Nest_N_32": {
+    "korean": "은총 하사 3단계 : 적중+{0}%",
+    "english": "Grace Bestowal Stage 3 : ACC +{0}%"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_41": {
+    "korean": "배리어 전개 : 피해 무효화 (5회)",
+    "english": "Barrier deployment : Damage Nullification (5x)"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_42": {
+    "korean": "배리어 전개 : 해로운 효과 해제",
+    "english": "Barrier deployment : Debuff Removal"
+  },
+  "BuffDesc1_Effect_TEST_Nest_N_43": {
+    "korean": "배리어 강제 해제 : 받는 피해+{0} 증가",
+    "english": "Forced Barrier Release : DMG Taken Increased +{0}"
+  }
+}

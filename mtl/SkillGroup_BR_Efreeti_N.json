@@ -1,0 +1,206 @@
+{
+  "SkillName_Skill_BR_Efreeti_N_1": {
+    "korean": "140mm 고폭탄",
+    "english": "140mm High-Explosive Shell"
+  },
+  "SkillDesc_Skill_BR_Efreeti_N_1": {
+    "korean": "박격포를 발사해 {0} 보호 무시 피해를 주고, 대상을 1칸 뒤로 밀어내며 AP를 감소시킵니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다.",
+    "english": "Fires a mortar dealing {0} Ignore Protection damage, pushes the target 1 tile back, and reduces AP. Damage is increased against Marked or Rooted targets."
+  },
+  "SkillDescSimple_Skill_BR_Efreeti_N_1": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 뒤로 밀기 / AP 감소. 표식 / 이동 불가 대상 피해량 증가",
+    "english": "Single target {0} Ignore Protection damage. Push Back / AP Reduction. Increased damage to Marked / Rooted targets."
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_1": {
+    "korean": "고폭탄 폭발 : 뒤로 {0}칸 밀기",
+    "english": "High-Explosive Detonation : Push Back {0}"
+  },
+  "BuffDesc2_Effect_BR_Efreeti_N_1": {
+    "korean": "고폭탄 폭발 : AP{0}",
+    "english": "High-Explosive Detonation: AP {0}"
+  },
+  "BuffDesc3_Effect_BR_Efreeti_N_1": {
+    "korean": "정밀 포격 : 피해량{0}%",
+    "english": "Precision Bombardment : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_11": {
+    "korean": "고폭탄 폭발 : AP{0}",
+    "english": "High-Explosive Detonation : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_12": {
+    "korean": "정밀 포격 : 피해량{0}%",
+    "english": "Precision Bombardment : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_14": {
+    "korean": "정밀 포격 지원 : 열 보호 해제",
+    "english": "Precision Bombardment Support : Column Protect Removal"
+  },
+  "BuffDesc2_Effect_BR_Efreeti_N_14": {
+    "korean": "정밀 포격 지원 : 지정 보호 해제",
+    "english": "Precision Fire Support: Target Protect Removal"
+  },
+  "BuffDesc3_Effect_BR_Efreeti_N_14": {
+    "korean": "정밀 포격 지원 : 행 보호 해제",
+    "english": "Precision Bombardment Support : Row Protect Removal"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_55": {
+    "korean": "날 혼자 내버려둬... : 광역 피해 분산 효과 해제",
+    "english": "Leave Me Alone... : Remove Area Damage Distribution Effect"
+  },
+  "SkillName_Skill_BR_Efreeti_N_2": {
+    "korean": "곡사 포격",
+    "english": "Howitzer Bombardment"
+  },
+  "SkillDesc_Skill_BR_Efreeti_N_2": {
+    "korean": "1라운드 후에 착탄해, 보호 효과를 무시하고 {0} 피해를 주는 박격포를 발사합니다. 적중 대상들은 AP가 감소하며, 2라운드 동안 받는 피해가 증가합니다. 목표 지점 주변에는 25% 감소한 피해를 줍니다. 착탄 시, 대상의 반격 효과를 해제합니다.",
+    "english": "After 1 round, fires a mortar that ignores protection and deals {0} Ignore Protection damage. Targets hit have their AP reduced and suffer DMG Taken Increased for 2 rounds. The area around the impact deals 25% reduced damage. Upon impact, removes the target's Counter Attack effects."
+  },
+  "SkillDescSimple_Skill_BR_Efreeti_N_2": {
+    "korean": "목표 범위 {0} 보호 무시 피해. 1라운드 후 착탄. AP 감소 / 피해 증폭",
+    "english": "Deals {0} Ignore Protection damage to the target area. Hits after 1 round, reducing AP and increasing DMG Taken."
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_2": {
+    "korean": "충격 폭발 : AP{0}",
+    "english": "Shock Explosion : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Efreeti_N_2": {
+    "korean": "충격 폭발 : 받는 피해{0}%",
+    "english": "Shock Explosion : DMG Taken {0}%"
+  },
+  "BuffDesc3_Effect_BR_Efreeti_N_2": {
+    "korean": "시간차 공격 : 반격 효과 해제",
+    "english": "Delayed Attack : Counter Attack Effect Removal"
+  },
+  "SkillName_Skill_BR_Efreeti_N_3": {
+    "korean": "조명탄 발사",
+    "english": "Flare Shot"
+  },
+  "SkillDesc_Skill_BR_Efreeti_N_3": {
+    "korean": "라운드 개시 시, 조명탄을 발사해 아군 전체의 적중과 치명타를 증가시키고 적중, 치명타 감소효과를 해제합니다.",
+    "english": "At the start of the round, fires a flare that increases ACC and CRIT for all allies and removes ACC and CRIT reduction effects."
+  },
+  "SkillDescSimple_Skill_BR_Efreeti_N_3": {
+    "korean": "아군 전체 적중 / 치명타 증가. 적중 / 치명타 감소 효과 해제",
+    "english": "All allies gain ACC and CRIT increase. ACC and CRIT reduction effects are removed."
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_3": {
+    "korean": "조명탄 지원 : 적중{0}%",
+    "english": "Flare Support : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Efreeti_N_3": {
+    "korean": "조명탄 지원 : 치명타{0}%",
+    "english": "Illumination Flare Support : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Efreeti_N_3": {
+    "korean": "조명탄 지원 : 적중 감소 해제",
+    "english": "Flare Support : ACC Debuff Removal"
+  },
+  "BuffDesc4_Effect_BR_Efreeti_N_3": {
+    "korean": "조명탄 지원 : 치명타 감소 해제",
+    "english": "Flare Support: CRIT Debuff Removal"
+  },
+  "SkillName_Skill_BR_Efreeti_N_4": {
+    "korean": "강선형 박격포",
+    "english": "Rifled Mortar"
+  },
+  "SkillDesc_Skill_BR_Efreeti_N_4": {
+    "korean": "라운드 개시 시, 공격력 / 적중 / 방어 관통이 증가합니다. 해당 효과 활성화 상태에서 치명타 적중 시, 대상의 지정 보호 / 열 보호 / 행 보호 효과를 해제합니다.",
+    "english": "At the start of the round, ATK, ACC, and DEF Penetration are increased. While this effect is active, a CRIT removes the target's Target Protect, Column Protect, and Row Protect effects."
+  },
+  "SkillDescSimple_Skill_BR_Efreeti_N_4": {
+    "korean": "공격력 / 적중 / 방어 관통 증가. 치명타 시, 모든 보호 효과 해제",
+    "english": "ATK, ACC, and DEF Penetration increase. On CRIT, removes all protection effects."
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_4": {
+    "korean": "강선형 박격포 : 공격력{0}%",
+    "english": "Rifled Mortar : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Efreeti_N_4": {
+    "korean": "강선형 박격포 : 적중{0}%",
+    "english": "Rifled Mortar : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Efreeti_N_4": {
+    "korean": "강선형 박격포 : 방어 관통{0}%",
+    "english": "Rifled Mortar : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_BR_Efreeti_N_4": {
+    "korean": "정밀 포격 지원 : 액티브 스킬 강화",
+    "english": "Precision Bombardment Support: Active Skill Enhancement"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_15": {
+    "korean": "강선형 박격포 : 공격력{0}%",
+    "english": "Rifled Mortar : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Efreeti_N_15": {
+    "korean": "강선형 박격포 : 적중{0}%",
+    "english": "Rifled Mortar : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Efreeti_N_15": {
+    "korean": "강선형 박격포 : 방어 관통{0}%",
+    "english": "Rifled Mortar : DEF Penetration {0}%"
+  },
+  "SkillName_Skill_BR_Efreeti_N_5": {
+    "korean": "날 혼자 내버려둬…",
+    "english": "Leave Me Alone..."
+  },
+  "SkillDesc_Skill_BR_Efreeti_N_5": {
+    "korean": "라운드 개시 시, 인접한 아군이 없을 경우, 범위 내 아군에게 행동력 증가효과를 부여합니다. 스쿼드 내에 자신을 제외 한 <스틸라인 계통>의 전투원이 없는 경우, 범위 내 아군에게 행동력 증가 효과가 추가로 적용되고 자신은 행동력 증가 효과가 해제됩니다.  자신을 제외 한 <스틸라인 계통>의 전투원이 있거나 아군이 인접한 상태면 자신에게 행동력 증가 효과가 각각 적용되며 <140mm 고폭탄> 스킬의 발사 / <곡사 포격> 착탄 시, 범위 내 적의 모든 광역 피해 분산 효과를 해제 합니다.",
+    "english": "At the start of the round, if there are no adjacent allies, grants an SPD increase to allies within range. If there are no <Steel Line> units in the squad excluding yourself, an additional SPD increase is applied to allies within range and the SPD increase on yourself is removed. If there are <Steel Line> units in the squad excluding yourself, or if allies are adjacent, the SPD increase is applied to yourself, and when <140mm High-Explosive Shell> is fired or <Howitzer Bombardment> lands, all Area DMG Dispersion effects on enemies within range are removed."
+  },
+  "SkillDescSimple_Skill_BR_Efreeti_N_5": {
+    "korean": "행동력 증가. 적 공격 시, 광역 피해 분산 해제",
+    "english": "Increases SPD. On enemy attack, removes Area DMG Dispersion effects."
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_5": {
+    "korean": "날 혼자 내버려둬... : 내버려둬",
+    "english": "Leave Me Alone... : Leave Me Alone"
+  },
+  "BuffDesc2_Effect_BR_Efreeti_N_5": {
+    "korean": "날 혼자 내버려둬... : 행동력{0}%",
+    "english": "Leave me alone... : SPD{0}%"
+  },
+  "BuffDesc3_Effect_BR_Efreeti_N_5": {
+    "korean": "날 혼자 내버려둬... : 행동력{0}% (스틸라인 계통X)",
+    "english": "Leave Me Alone... : SPD {0}% (Non-Steel Line)"
+  },
+  "BuffDesc4_Effect_BR_Efreeti_N_5": {
+    "korean": "날 혼자 내버려둬... : 행동력{0}% (스틸라인 계통O)",
+    "english": "Leave Me Alone... : SPD {0}% (Steel Line)"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_51": {
+    "korean": "날 혼자 내버려둬... : 행동력 증가 효과 해제",
+    "english": "Leave Me Alone... : Remove SPD Increase Effect"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_52": {
+    "korean": "날 혼자 내버려둬... : 행동력{0}% (스틸라인 계통X)",
+    "english": "Leave Me Alone... : SPD {0}% (Non-Steel Line)"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_53": {
+    "korean": "날 혼자 내버려둬... : 행동력{0}%",
+    "english": "Leave Me Alone... : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_54": {
+    "korean": "날 혼자 내버려둬... : 행동력{0}%",
+    "english": "Leave Me Alone... : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_56": {
+    "korean": "날 혼자 내버려둬... : 행동력{0}%",
+    "english": "Leave Me Alone... : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_7": {
+    "korean": "충격 폭발 : AP{0}",
+    "english": "Shock Explosion : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_13": {
+    "korean": "충격 폭발 : 받는 피해{0}%",
+    "english": "Shock Explosion : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_99": {
+    "korean": "시간차 공격 : 반격 효과 해제",
+    "english": "Delayed Attack : Counter Attack Effect Removal"
+  },
+  "BuffDesc1_Effect_BR_Efreeti_N_57": {
+    "korean": "날 혼자 내버려둬... : 광역 피해 분산 효과 해제",
+    "english": "Leave me alone...: Remove area damage distribution effect"
+  }
+}

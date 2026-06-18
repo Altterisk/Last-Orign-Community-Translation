@@ -1,0 +1,174 @@
+{
+  "SkillName_Skill_BR_Blackhound_N_1": {
+    "korean": "기총 점사",
+    "english": "Machine Gun Burst"
+  },
+  "SkillDesc_Skill_BR_Blackhound_N_1": {
+    "korean": "기총 사격으로 {0} 피해를 줍니다. &n적중 시, 2라운드 동안 대상을 도발하고 적중을 감소시킵니다. (중첩 불가)&n스쿼드 내 <P-29 린트블룸>이 있을 경우, [X-25 대 장갑 미사일] 스킬 협동 공격을 유도합니다.",
+    "english": "Deals {0} damage with machine gun fire.&nOn hit, Provokes the target and reduces its ACC for 2 rounds. (Cannot stack)&nIf a <P-29 Lindwurm> is in the squad, triggers a [X-25 Anti-Armor Missile] Cooperative Attack."
+  },
+  "SkillDescSimple_Skill_BR_Blackhound_N_1": {
+    "korean": "단일 대상 {0} 피해. 도발 / 적중 감소. [X-25 대 장갑 미사일] 협동 공격.",
+    "english": "Single target {0} damage. Provokes / ACC reduction. [X-25 Anti-Armor Missile] Cooperative Attack."
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_1": {
+    "korean": "기총 점사 : 대상 도발 (블랙 하운드)",
+    "english": "Machine Gun Burst : Provokes (Black Hound)"
+  },
+  "BuffDesc2_Effect_BR_Blackhound_N_1": {
+    "korean": "기총 점사 : 적중 {0}%",
+    "english": "Machine Gun Burst : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Blackhound_N_1": {
+    "korean": "[X-25 대 장갑 미사일] 협동 공격",
+    "english": "[X-25 Anti-Armor Missile] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_11": {
+    "korean": "기총 점사 : [X-25 대 장갑 미사일] 협동 공격",
+    "english": "Machine Gun Burst : [X-25 Anti-Armor Missile] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_12": {
+    "korean": "기총 점사 : 적중 {0}%",
+    "english": "Machine Gun Burst : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_41": {
+    "korean": "급속 기동 : 회피 {0}%",
+    "english": "Rapid Maneuver : EVA {0}%"
+  },
+  "SkillName_Skill_BR_Blackhound_N_2": {
+    "korean": "EMP 미사일",
+    "english": "EMP Missile"
+  },
+  "SkillDesc_Skill_BR_Blackhound_N_2": {
+    "korean": "EMP 미사일을 발사해 {0} 보호 무시 피해를 주고, 대상의 반격 / 적중 증가 효과를 해제합니다.&n적중 시, 2라운드 동안 대상의 적중을 감소시키고 표식 / 이동 불가 상태로 만듭니다. (중첩 불가)",
+    "english": "Fires an EMP missile to deal {0} damage that ignores Protection and removes the target's Counter Attack and ACC Up effects.&nOn hit, reduces the target's ACC for 2 rounds and inflicts Marked and Rooted. (Cannot stack)"
+  },
+  "SkillDescSimple_Skill_BR_Blackhound_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 반격 / 적중 증가 해제. 적중 감소 / 표식 / 이동 불가.",
+    "english": "Designated area {0} damage that ignores Protection. Removes Counter Attack and ACC Up. Applies ACC reduction, Marked, and Rooted."
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_2": {
+    "korean": "EMP 미사일 : 반격 해제",
+    "english": "EMP Missile : Counter Attack Removal"
+  },
+  "BuffDesc2_Effect_BR_Blackhound_N_2": {
+    "korean": "EMP 미사일 : 적중 증가 해제",
+    "english": "EMP Missile : ACC Buff Removal"
+  },
+  "BuffDesc3_Effect_BR_Blackhound_N_2": {
+    "korean": "EMP 미사일 : 적중 {0}%",
+    "english": "EMP Missile : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Blackhound_N_2": {
+    "korean": "EMP 미사일 : 표식",
+    "english": "EMP Missile : Marked"
+  },
+  "BuffDesc5_Effect_BR_Blackhound_N_2": {
+    "korean": "EMP 미사일 : 이동 불가",
+    "english": "EMP Missile : Rooted"
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_21": {
+    "korean": "EMP 미사일 : 표식",
+    "english": "EMP Missile : Marked"
+  },
+  "BuffDesc2_Effect_BR_Blackhound_N_21": {
+    "korean": "EMP 미사일 : 이동 불가",
+    "english": "EMP Missile : Rooted"
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_22": {
+    "korean": "EMP 미사일 : 적중 {0}%",
+    "english": "EMP Missile : ACC {0}%"
+  },
+  "SkillName_Skill_BR_Blackhound_N_3": {
+    "korean": "긴급 호위",
+    "english": "Emergency Escort"
+  },
+  "SkillDesc_Skill_BR_Blackhound_N_3": {
+    "korean": "라운드 개시 시, 범위 내 보호기를 제외한 아군을 지정 보호합니다. &n라운드 개시 시, 자신이 지정 보호 중인 아군의 AP를 증가시킵니다.&n회피 시, 범위 내 기동형 아군의 AP를 증가시킵니다.&n스킬 레벨 5 / 10에서 범위가 증가합니다.",
+    "english": "At the start of the round, designates protection for allies within range, excluding defenders.&nAt the start of the round, increases AP of allies currently under designated protection.&nWhen evading, increases AP of Air-type allies within range.&nRange increases at Skill Level 5 / 10."
+  },
+  "SkillDescSimple_Skill_BR_Blackhound_N_3": {
+    "korean": "범위 내 공격기/지원기 지정 보호 / AP 증가. 회피 시, 기동형 아군 AP 증가.",
+    "english": "Designated protection for Attackers / Supporters within range / AP increase. On evade, increases AP of Air-type allies."
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_3": {
+    "korean": "긴급 호위 : 지정 보호 (공격/지원기)",
+    "english": "Emergency Escort : Designated Protection (Attacker/Supporter)"
+  },
+  "BuffDesc2_Effect_BR_Blackhound_N_3": {
+    "korean": "긴급 호위 : AP {0} (지정 보호 대상)",
+    "english": "Emergency Escort : AP {0} (Designated Ally)"
+  },
+  "BuffDesc3_Effect_BR_Blackhound_N_3": {
+    "korean": "긴급 호위 : AP {0} (회피 시)",
+    "english": "Emergency Escort : AP {0} (On Evade)"
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_31": {
+    "korean": "긴급 호위 : AP {0}",
+    "english": "Emergency Escort : AP {0}"
+  },
+  "SkillName_Skill_BR_Blackhound_N_4": {
+    "korean": "VIFF 기동",
+    "english": "VIFF Air"
+  },
+  "SkillDesc_Skill_BR_Blackhound_N_4": {
+    "korean": "라운드 개시 시, 자신은 행 보호가 활성화되고 회피가 증가합니다. &n공격 적중 시, 2라운드 동안 자신의 회피가 증가합니다. (최대 3중첩)&n자신은 스킬 레벨 당 +9%의 적중 보정이 적용됩니다.",
+    "english": "At the start of the round, activates Row Protect for self and increases EVA.&nWhen an attack hits, increases self EVA for 2 rounds. (max 3 stacks)&nSelf gains +9% ACC correction per skill level."
+  },
+  "SkillDescSimple_Skill_BR_Blackhound_N_4": {
+    "korean": "자신 회피 증가 / 행 보호. 공격 적중 시, 자신 회피 증가.",
+    "english": "Self EVA increase / Row Protect. On attack hit, increase own EVA."
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_4": {
+    "korean": "VIFF 기동 : 회피 {0}%",
+    "english": "VIFF Air : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Blackhound_N_4": {
+    "korean": "VIFF 기동 : 행 보호",
+    "english": "VIFF Air : Row Protect"
+  },
+  "BuffDesc3_Effect_BR_Blackhound_N_4": {
+    "korean": "급속 기동 : 회피 {0}% (적중 시)",
+    "english": "Rapid Maneuver : EVA {0}% (On Hit)"
+  },
+  "SkillName_Skill_BR_Blackhound_N_5": {
+    "korean": "타치 위브",
+    "english": "Tachi Weave"
+  },
+  "SkillDesc_Skill_BR_Blackhound_N_5": {
+    "korean": "전투 개시 시, 자신은 피해 최소화 (1회) 효과를 획득합니다. &n자신 외의 <스카이 나이츠> 소속 전투원이 있을 경우, 효과가 추가로 적용됩니다.&n공격 받을 시, 2라운드 동안 <스카이 나이츠> 소속 전투원의 스킬 위력 / 적중을 증가시킵니다. (최대 5중첩)&n<능동형 항공 레이더> 장착 시, 액티브 스킬의 적중 감소 효과가 두 배로 증폭되고 대상의 효과 저항을 무시합니다.",
+    "english": "At the start of battle, gains Minimize Damage (once).&nIf there are other <Sky Knights> members besides self, the effect is applied additionally.&nWhen attacked, increases Skill Power and ACC of <Sky Knights> allies for 2 rounds. (max 5 stacks)&nWhen equipped with <Active Air Radar>, the active skill’s ACC reduction effect is doubled and ignores the target’s Status Resist."
+  },
+  "SkillDescSimple_Skill_BR_Blackhound_N_5": {
+    "korean": "자신 피해 최소화 획득. 공격 받을 시, <스카이 나이츠> 소속 전투원 스킬 위력 / 적중 증가.",
+    "english": "Gains Minimize Damage. When hit, increase Skill Power and ACC of <Sky Knights> allies."
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_5": {
+    "korean": "타치 위브 : 피해 최소화",
+    "english": "Tachi Weave : Minimize Damage"
+  },
+  "BuffDesc2_Effect_BR_Blackhound_N_5": {
+    "korean": "타치 위브 : 스킬 위력 {0}%",
+    "english": "Tachi Weave : Skill Power {0}%"
+  },
+  "BuffDesc3_Effect_BR_Blackhound_N_5": {
+    "korean": "타치 위브 : 적중 {0}%",
+    "english": "Tachi Weave : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Blackhound_N_5": {
+    "korean": "<능동형 항공 레이더> 장착 시, 액티브 스킬 강화",
+    "english": "Active Skill Enhancement when equipped with <Active Air Radar>"
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_52": {
+    "korean": "타치 위브 : 스킬 위력 {0}%",
+    "english": "Tachi Weave : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_53": {
+    "korean": "타치 위브 : 적중 {0}%",
+    "english": "Tachi Weave : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Blackhound_N_54": {
+    "korean": "AESA Online",
+    "english": "AESA Online"
+  }
+}

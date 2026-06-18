@@ -1,0 +1,82 @@
+{
+  "SkillName_Skill_MP_PuppetAR_N_1": {
+    "korean": "도발 난사",
+    "english": "Provoked Barrage"
+  },
+  "SkillName_Skill_MP_PuppetAR_N_2": {
+    "korean": "목표 집중 타격",
+    "english": "Focused Target Strike"
+  },
+  "SkillName_Skill_MP_PuppetAR_N_3": {
+    "korean": "PECS 오버레이 바이오스",
+    "english": "PECS Overlay BIOS"
+  },
+  "SkillName_Skill_MP_PuppetAR_N_4": {
+    "korean": "배드 섹터",
+    "english": "Bad Sector"
+  },
+  "SkillName_Skill_MP_PuppetAR_N_5": {
+    "korean": "방화벽",
+    "english": "Firewall"
+  },
+  "SkillDesc_Skill_MP_PuppetAR_N_1": {
+    "korean": "돌격소총으로 시선을 끌어 {0} 보호 무시 피해를 줍니다.&n적중 시, 2라운드 동안 대상에게 표식 / 도발 상태를 부여합니다.",
+    "english": "Draw attention with an assault rifle and deal {0} damage that ignores protection. On hit, apply Marked and Provoked to the target for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_PuppetAR_N_2": {
+    "korean": "돌격소총을 집중사격하여 {0} 피해를 줍니다.&n대상이 표식 또는 도발 상태인 경우, 피해량이 증가합니다.",
+    "english": "Focus fire with an assault rifle to deal {0} damage. If the target is Marked or Provoked, the damage is increased."
+  },
+  "SkillDesc_Skill_MP_PuppetAR_N_3": {
+    "korean": "라운드 개시 시, 3라운드 동안 자신의 적중 / 치명타 / 행동력이 증가합니다.&n라운드 개시 시 자신이 행동 불능 상태인 경우, 상기 효과 대신 자신이 받는 피해가 증가합니다.",
+    "english": "At the start of a round, increase your ACC / CRIT / SPD for 3 rounds. If you are Stunned at the start of a round, instead increase the DMG Taken."
+  },
+  "SkillDesc_Skill_MP_PuppetAR_N_4": {
+    "korean": "라운드 개시 시, 범위 내 <퍼펫> 아군의 방어력을 증가시킵니다.&n자신 사망 시, 범위 내 <퍼펫> 아군을 2라운드 동안 행동 불능 상태로 만듭니다.",
+    "english": "At the start of a round, increase the DEF of allied <Puppet> units within range. Upon death, make allied <Puppet> units within range Stunned for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_PuppetAR_N_5": {
+    "korean": "아군 사망 시, 3라운드 동안 자신의 효과 저항이 증가합니다.",
+    "english": "When an ally dies, increase your Status Resist for 3 rounds."
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_1": {
+    "korean": "도발 난사 : 표식",
+    "english": "Provocation spam : Marked"
+  },
+  "BuffDesc2_Effect_MP_PuppetAR_N_1": {
+    "korean": "도발 난사 : 도발",
+    "english": "Provocation spam : Provokes"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_2": {
+    "korean": "목표 집중 타격 : 피해량 {0}%",
+    "english": "Concentrated strike on the target : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_3": {
+    "korean": "PECS 오버레이 바이오스 : 받는 피해 {0}% 증가",
+    "english": "PECS Overlay BIOS : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_31": {
+    "korean": "PECS 오버레이 바이오스 : 적중 {0}%",
+    "english": "PECS Overlay BIOS : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_PuppetAR_N_31": {
+    "korean": "PECS 오버레이 바이오스 : 치명타 {0}%",
+    "english": "PECS Overlay BIOS : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_MP_PuppetAR_N_31": {
+    "korean": "PECS 오버레이 바이오스 : 행동력 {0}%",
+    "english": "PECS Overlay BIOS : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_4": {
+    "korean": "배드 섹터 : 방어력 {0}%",
+    "english": "Bad sector : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_41": {
+    "korean": "배드 섹터 : 행동 불가",
+    "english": "Bad sector : Stunned"
+  },
+  "BuffDesc1_Effect_MP_PuppetAR_N_5": {
+    "korean": "방화벽 : 효과 저항 {0}% 증가",
+    "english": "Fire door : Status Resist {0}% Increase"
+  }
+}

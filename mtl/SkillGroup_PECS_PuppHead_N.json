@@ -1,0 +1,86 @@
+{
+  "1002700017": {
+    "korean": "테이저 건",
+    "english": "Taser Gun"
+  },
+  "1002700018": {
+    "korean": "체포 사슬",
+    "english": "Arresting Chain"
+  },
+  "1002700019": {
+    "korean": "검거 완료!",
+    "english": "Apprehended!"
+  },
+  "1002700020": {
+    "korean": "잠복 근무",
+    "english": "Stakeout Duty"
+  },
+  "1002700021": {
+    "korean": "경고",
+    "english": "Warning"
+  },
+  "1002703676": {
+    "korean": "목표 적을 감전시켜 {0}의 전기 속성 피해를 주고 AP와 회피를 감소시킵니다.",
+    "english": "Electrocutes the target, dealing {0} electric damage and reducing AP and EVA."
+  },
+  "1002702868": {
+    "korean": "단일 대상 {0} 피해. AP/회피 감소",
+    "english": "Deals {0} damage to a single target. Reduces target's AP and EVA."
+  },
+  "1002703677": {
+    "korean": "목표 대상을 체포해 최대 2칸까지 앞으로 당기며, 2라운드 동안 이동 불가 상태로 만듭니다. 대상은 2라운드 동안 표식 / 받는 피해 증가 상태가 됩니다. 스쿼드 내 램파트가 있을 시, 대상에게 <목표 견제> 스킬 협동 공격을 합니다.",
+    "english": "Arrests the target, pulling them forward up to 2 tiles and rooting them for 2 rounds. The target is also Marked and gains DMG Taken Increased for 2 rounds. If a Rampart is in the squad, performs a <Target Suppression> cooperative attack on the target."
+  },
+  "1002702869": {
+    "korean": "단일 대상 당기기/이동불가/표식/피해증폭/협동공격",
+    "english": "Pulls a single target, roots it, marks it, applies DMG Taken Increased, and triggers a Cooperative Attack."
+  },
+  "1002703678": {
+    "korean": "스킬 적중 시 인접 아군들의 AP가 상승하며, 2라운드 동안 공격력 / 치명타 / 적중이 증가합니다. 스킬 레벨 5 / 10에서 범위가 증가합니다.",
+    "english": "On hit, adjacent allies gain AP and have increased ATK, CRIT, and ACC for 2 rounds. Skill range increases at skill level 5/10."
+  },
+  "1002702870": {
+    "korean": "스킬 적중 시, 인접 아군 AP / 공격력 / 치명타 / 적중 증가",
+    "english": "On skill hit, increases adjacent allies' AP, ATK, CRIT, and ACC."
+  },
+  "1000102496": {
+    "korean": "체포 사슬 : {0}칸 앞으로 당김",
+    "english": "Arrest Chain: Pull forward {0} spaces"
+  },
+  "1000104200": {
+    "korean": "공격력 {0}%",
+    "english": "ATK {0}%"
+  },
+  "1000104199": {
+    "korean": "체포 사슬 : 이동 불가",
+    "english": "Arresting Chain : Rooted"
+  },
+  "1000104930": {
+    "korean": "체포 사슬 : 표식 지정",
+    "english": "Arresting Chain : Marks target"
+  },
+  "1000103744": {
+    "korean": "체포 사슬 : 받는 피해{0}%",
+    "english": "Arresting Chain : DMG Taken {0}%"
+  },
+  "1000109160": {
+    "korean": "체포 사슬 : 협동 공격",
+    "english": "Arresting Chain : Cooperative Attack"
+  },
+  "1000102497": {
+    "korean": "검거 완료! : AP{0}",
+    "english": "Apprehended! : AP {0}"
+  },
+  "1000103745": {
+    "korean": "검거 완료! : 공격력{0}%",
+    "english": "Apprehended! : ATK {0}%"
+  },
+  "1000104755": {
+    "korean": "검거 완료! : 치명타{0}%",
+    "english": "Apprehended! : CRIT {0}%"
+  },
+  "1000105231": {
+    "korean": "검거 완료! : 적중{0}%",
+    "english": "Apprehended! : ACC {0}%"
+  }
+}

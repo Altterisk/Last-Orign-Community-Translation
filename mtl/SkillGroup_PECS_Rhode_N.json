@@ -1,0 +1,66 @@
+{
+  "SkillName_Skill_PECS_Rhode_N_1": {
+    "korean": "그만두세요!",
+    "english": "Stop it!"
+  },
+  "SkillName_Skill_PECS_Rhode_N_2": {
+    "korean": "어나이얼레이터 씨! 도와주세요~!",
+    "english": "Mr. Annihilator! Please help~!"
+  },
+  "SkillDesc_Skill_PECS_Rhode_N_1": {
+    "korean": "대상에게 {0} 보호 무시 피해를 줍니다.&n스킬 적중시 2라운드 동안 대상의 공격력과 치명타를 감소시킵니다.&n대상의 HP가 100%인 경우, 1라운드 동안 스킬 사용 불가 효과를 부여합니다.",
+    "english": "Deals {0} Ignore Protection damage to the target. When the skill hits, it reduces the target's ATK and CRIT for 2 rounds. If the target's HP is at 100%, it inflicts Silenced for 1 round."
+  },
+  "SkillDescSimple_Skill_PECS_Rhode_N_1": {
+    "korean": "대상에 {0} 보호 무시 피해, 2라운드 동안 대상 공격력과 치명타 감소&n대상 HP가 100%시 1라운드 스킬 사용 불가 효과 부여",
+    "english": "Ignores {0} protection on the target, reduces target ATK and CRIT for 2 rounds. If target HP is 100%, Silenced for 1 round."
+  },
+  "SkillDesc_Skill_PECS_Rhode_N_2": {
+    "korean": "지정 범위에  회피가 매우 어려운 {0} 보호 무시 피해를 줍니다.&n적중시 열/행/지정 보호 효과를 해제합니다.",
+    "english": "Deals {0} Ignore Protection damage that is very difficult to evade within the designated area. When it hits, it removes Column Protect, Row Protect, and Target Protect effects."
+  },
+  "SkillDescSimple_Skill_PECS_Rhode_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 피해, 적중시 열/행/지정 보호 효과 해제",
+    "english": "Ignore Protection DMG {0} in designated area, removes Column Protect / Row Protect / Target Protect on hit"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_41": {
+    "korean": "저도 할 수 있다는 걸 보여드리겠어요! : 대포격 모드",
+    "english": "I’ll Show I Can Do It Too! : Artillery Mode"
+  },
+  "BuffDesc2_Effect_PECS_Rhode_N_5": {
+    "korean": "두 분은 제 동경의 대상이에요 : 받는 피해 감소 {0}%",
+    "english": "You Two Are My Idols: Received DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_1": {
+    "korean": "그만두세요!: 공격력 {0}%",
+    "english": "Stop it! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Rhode_N_1": {
+    "korean": "그만두세요! : 치명타 {0}%",
+    "english": "Stop it! : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Rhode_N_1": {
+    "korean": "그만두세요!: 스킬 사용 불가",
+    "english": "Stop it! : Silenced"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_11": {
+    "korean": "그만두세요!: 스킬 사용 불가",
+    "english": "Stop it! : Silenced"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_2": {
+    "korean": "어나이얼레이터 씨! 도와주세요~!: 행 보호 효과 해제",
+    "english": "Mr. Annihilator! Please help~! : Row Protect Effect Removal"
+  },
+  "BuffDesc2_Effect_PECS_Rhode_N_2": {
+    "korean": "어나이얼레이터 씨! 도와주세요~!: 열 보호 효과 해제",
+    "english": "Mr. Annihilator! Please help~! : Column Protect Effect Removal"
+  },
+  "BuffDesc3_Effect_PECS_Rhode_N_2": {
+    "korean": "어나이얼레이터 씨! 도와주세요~!: 지정 보호 해제",
+    "english": "Mr. Annihilator! Please help~! : Target Protect Removal"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_21": {
+    "korean": "어나이얼레이터 씨! 도와주세요~!:  지정 보호 해제",
+    "english": "Mr. Annihilator! Please help~! : Target Protect Removal"
+  }
+}

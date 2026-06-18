@@ -1,0 +1,234 @@
+{
+  "1002700359": {
+    "korean": "듀얼 버스트",
+    "english": "Dual Burst"
+  },
+  "SkillDesc_Skill_3P_BlackLilith_N_1": {
+    "korean": "아킴보 사격으로 {0} 피해를 주고, 2라운드 동안 대상을 도발하며 공격력과 치명타를 감소시킵니다. 대상이 도발 상태이면 피해량이 증가하며, <가학성향 : 정조준> 상태면 공격 대상 수가 적을수록 피해량이 추가로 증가합니다.",
+    "english": "Deals {0} damage with Akimbo Fire, Provokes the target for 2 rounds, and reduces their ATK and CRIT. Damage is increased against Provoked targets, and if in <Sadistic Tendency: Steady Aim> state, damage further increases the fewer attack targets there are."
+  },
+  "SkillDescSimple_Skill_3P_BlackLilith_N_1": {
+    "korean": "지정 범위 {0} 피해. 도발 / 공격력 / 치명타 감소. 도발 상태 대상 피해량 증가.",
+    "english": "Deals {0} damage to targets in the designated area. Inflicts Provoked and reduces ATK and CRIT. Deals increased damage to Provoked targets."
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_1": {
+    "korean": "듀얼 버스트 : 대상 도발 (리리스)",
+    "english": "Dual Burst: Target Provoke (Lillith)"
+  },
+  "BuffDesc2_Effect_3P_BlackLilith_N_1": {
+    "korean": "듀얼 버스트 : 치명타 {0}%",
+    "english": "Dual Burst : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_3P_BlackLilith_N_1": {
+    "korean": "듀얼 버스트 : 공격력 {0}%",
+    "english": "Dual Burst : ATK {0}%"
+  },
+  "BuffDesc4_Effect_3P_BlackLilith_N_1": {
+    "korean": "빈틈 포착 : 피해량{0}%",
+    "english": "Spotting an opening: Additional DMG {0}%"
+  },
+  "BuffDesc5_Effect_3P_BlackLilith_N_1": {
+    "korean": "집속 공격 : 피해량{0}%",
+    "english": "Concentrated Attack : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_15": {
+    "korean": "꺄하핫! : 피해량{0}%",
+    "english": "Kyahaha!: Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_111": {
+    "korean": "집속 공격 : 피해량{0}%",
+    "english": "Focus Attack: Additional DMG {0}%"
+  },
+  "1002700360": {
+    "korean": "요인 경호",
+    "english": "VIP Escort"
+  },
+  "SkillDesc_Skill_3P_BlackLilith_N_2": {
+    "korean": "3라운드 동안 지정한 아군을 보호 합니다. 스킬 적용 시, 대상과 자신에게 피해 무효화를 부여하고 대상과 자신의 공격력과 적중이 증가합니다. 각 효과들은 중첩 적용되지 않으며, 일반 효과로 취급되어 강화 해제로 해제되지 않습니다.",
+    "english": "Protects a designated ally for 3 rounds. Upon use, grants Damage Nullification to both the target and the user, and increases their ATK and ACC. These effects do not stack and are treated as Normal Effect, meaning they cannot be removed by buff removal."
+  },
+  "SkillDescSimple_Skill_3P_BlackLilith_N_2": {
+    "korean": "지정 대상 보호. 대상과 자신에게 피해 무효 1회 / 공격력 / 적중 증가",
+    "english": "Target Protect a designated ally. Grants Damage Nullification once to the target and self, and increases ATK and ACC."
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_2": {
+    "korean": "요인 경호 : 지정 대상 보호",
+    "english": "VIP Escort : Target Protect"
+  },
+  "BuffDesc2_Effect_3P_BlackLilith_N_2": {
+    "korean": "요인 경호 : 피해 무효 {0}회",
+    "english": "VIP Escort : Damage Nullification {0}x"
+  },
+  "BuffDesc3_Effect_3P_BlackLilith_N_2": {
+    "korean": "요인 경호 : 공격력{0}%",
+    "english": "VIP Escort : ATK {0}%"
+  },
+  "BuffDesc4_Effect_3P_BlackLilith_N_2": {
+    "korean": "요인 경호 : 적중{0}%",
+    "english": "VIP Escort : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_12": {
+    "korean": "요인 경호 : 공격력{0}%",
+    "english": "VIP Escort : ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_13": {
+    "korean": "요인 경호 : 적중{0}%",
+    "english": "VIP Escort : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_11": {
+    "korean": "요인 경호 : 피해 무효 {0}회",
+    "english": "VIP Escort : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_20": {
+    "korean": "요인 경호 : 공격력{0}%",
+    "english": "VIP Escort : ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_21": {
+    "korean": "요인 경호 : 적중{0}%",
+    "english": "VIP Escort : ACC {0}%"
+  },
+  "1002700361": {
+    "korean": "피학성향",
+    "english": "Masochistic Tendencies"
+  },
+  "SkillDesc_Skill_3P_BlackLilith_N_3": {
+    "korean": "전투 개시 시 자신의 방어력이 공격력의 25% 이상인 경우, 해제 불가한 전투 속행이 적용됩니다. 라운드 개시 시, 효과 저항이 증가하고 받는 피해가 감소합니다. 자신 외에 아군이 있는 경우, 받는 피해 감소 효과가 50% 추가 적용됩니다. 피격 시 행동력이 최대 3회까지 증가합니다.",
+    "english": "At the start of wave, if the user's DEF is at least 25% of their ATK, an unremovable Battle Continuation is applied. At the start of each round, Status Resist increases and DMG Reduction applies. If there are allied units besides the user, the DMG Reduction effect is increased by an additional 50%. When hit, SPD increases up to 3 times."
+  },
+  "SkillDescSimple_Skill_3P_BlackLilith_N_3": {
+    "korean": "받는 피해 감소 / 효과 저항 증가. 피격 시, 행동력 증가",
+    "english": "DMG Reduction and Status Resist increase. When hit, SPD increases."
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_3": {
+    "korean": "피학성향 : 행동력{0}%",
+    "english": "Masochistic Tendencies : SPD {0}%"
+  },
+  "BuffDesc2_Effect_3P_BlackLilith_N_3": {
+    "korean": "피학성향 : 받는 피해 감소 {0}%",
+    "english": "Masochistic Tendencies : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_3P_BlackLilith_N_3": {
+    "korean": "황홀감 : 효과 저항{0}%",
+    "english": "Euphoria: Status Resist {0}%"
+  },
+  "BuffDesc4_Effect_3P_BlackLilith_N_3": {
+    "korean": "더~! 좀 더! : {0}% HP로 전투 속행 (조건부)",
+    "english": "More~! A little more!: Battle Continuation with {0}% HP (Conditional)"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_14": {
+    "korean": "피학성향 : 받는 피해 감소 {0}%",
+    "english": "Masochistic Tendencies : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_16": {
+    "korean": "황홀감 : 효과 저항{0}%",
+    "english": "Ecstasy: Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_23": {
+    "korean": "더~! 좀 더! : {0}% HP로 전투 속행",
+    "english": "More~! Even More!: Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_31": {
+    "korean": "좀 더…? : 받는 피해 감소 {0}%",
+    "english": "More…?: DMG Reduction {0}%"
+  },
+  "1002700362": {
+    "korean": "가학성향",
+    "english": "Sadistic Tendencies"
+  },
+  "SkillDesc_Skill_3P_BlackLilith_N_4": {
+    "korean": "자신의 공격력이 방어력의 4배 이상인 경우, 공격 받으면 반격합니다. 적 또는 아군이 처치될 경우, 해당 전투 동안 공격력과 치명타가 증가합니다. 아군이 처치된 경우에는 2배 수치가 적용됩니다. 라운드 개시 시, 자신의 방어 관통이 증가합니다.",
+    "english": "If the user's ATK is at least 4 times their DEF, they Counter Attack when hit. When an enemy or ally is defeated, the user's ATK and CRIT increase for the rest of the battle; the increase is doubled if an ally is defeated. At the start of each round, the user's DEF Penetration increases."
+  },
+  "SkillDescSimple_Skill_3P_BlackLilith_N_4": {
+    "korean": "적 처치 또는 아군 사망 시 공격력 / 치명타 증가. 방어 관통 증가. 공격 받으면 반격 (조건부)",
+    "english": "ATK and CRIT increase when an enemy is defeated or an ally dies. DEF Penetration increases. Counter Attack when hit (conditional)."
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_4": {
+    "korean": "가학성향 : {0}% 위력으로 반격",
+    "english": "Sadistic Tendencies : Counter Attack with {0}% Power"
+  },
+  "BuffDesc2_Effect_3P_BlackLilith_N_4": {
+    "korean": "가학성향 : 공격력{0}% (적 처치 시)",
+    "english": "Sadistic Tendency: ATK {0}% (On Kill)"
+  },
+  "BuffDesc3_Effect_3P_BlackLilith_N_4": {
+    "korean": "가학성향 : 치명타{0}% (적 처치 시)",
+    "english": "Sadistic Tendency: CRIT {0}% (On Kill)"
+  },
+  "BuffDesc4_Effect_3P_BlackLilith_N_4": {
+    "korean": "정조준 : 방어 관통{0}%",
+    "english": "Precise Aim: DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_17": {
+    "korean": "가학성향 : 공격력{0}%",
+    "english": "Sadistic Tendencies : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_BlackLilith_N_17": {
+    "korean": "가학성향 : 치명타{0}%",
+    "english": "Sadistic Tendencies : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_18": {
+    "korean": "리벤져 : 공격력{0}%",
+    "english": "Revenger: ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_BlackLilith_N_18": {
+    "korean": "리벤져 : 치명타{0}%",
+    "english": "Revenger: CRIT {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_41": {
+    "korean": "정조준 : 방어 관통{0}%",
+    "english": "Precision Aim: DEF Penetration {0}%"
+  },
+  "1002700363": {
+    "korean": "스토킹",
+    "english": "Stalking"
+  },
+  "SkillDesc_Skill_3P_BlackLilith_N_5": {
+    "korean": "라운드 개시 시, 전방 범위 내의 아군들을 집요하게 쫓아다니며 지정 보호하고 공격력 / 행동력을 증가시킵니다. 자신의 공격력 / 행동력이 대상의 각 능력치보다 높을 경우, 보호 대상은 부담스러움을 느껴 각 효과가 50%씩 추가 적용되지만 적중이 감소합니다.",
+    "english": "At the start of each round, relentlessly follows and designates protection for allies in the forward area, increasing their ATK and SPD. If the user's ATK or SPD is higher than the target's respective stat, the protected ally feels pressured, causing each effect to be applied 50% more—but their ACC is reduced."
+  },
+  "SkillDescSimple_Skill_3P_BlackLilith_N_5": {
+    "korean": "지정 대상 보호. 공격력 / 행동력 증가. 자신의 공격력 / 행동력이 더 높으면 추가 효과 / 적중 감소",
+    "english": "Target Protect a designated ally. Increases ATK and SPD. If the user's ATK and SPD are higher, grants additional effect and reduces ACC."
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_5": {
+    "korean": "스토킹 : 지정 대상 보호",
+    "english": "Stalking : Target Protect"
+  },
+  "BuffDesc2_Effect_3P_BlackLilith_N_5": {
+    "korean": "스토킹 : 행동력{0}%",
+    "english": "Stalking : SPD {0}%"
+  },
+  "BuffDesc3_Effect_3P_BlackLilith_N_5": {
+    "korean": "스토킹 : 공격력{0}%",
+    "english": "Stalking : ATK {0}%"
+  },
+  "BuffDesc4_Effect_3P_BlackLilith_N_5": {
+    "korean": "등 뒤에 뭔가... : 적중 {0}% (추가 효과 시)",
+    "english": "Something Behind...: ACC {0}% (when additional effect is applied)"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_19": {
+    "korean": "등 뒤에 뭔가... : 행동력{0}%",
+    "english": "Something Behind You...: SPD {0}%"
+  },
+  "BuffDesc2_Effect_3P_BlackLilith_N_19": {
+    "korean": "등 뒤에 뭔가... : 공격력{0}%",
+    "english": "Something Behind Me... : Attack Power {0}%"
+  },
+  "BuffDesc3_Effect_3P_BlackLilith_N_19": {
+    "korean": "등 뒤에 뭔가... : 적중 {0}%",
+    "english": "Something Behind Me...: Accuracy {0}%"
+  },
+  "BuffDesc1_Effect_3P_BlackLilith_N_22": {
+    "korean": "놓치지 않아요! : 행동력{0}%",
+    "english": "I Won’t Miss!: SPD {0}%"
+  },
+  "BuffDesc2_Effect_3P_BlackLilith_N_22": {
+    "korean": "놓치지 않아요! : 공격력{0}%",
+    "english": "I Won’t Miss! : ATK {0}%"
+  },
+  "BuffDesc3_Effect_3P_BlackLilith_N_22": {
+    "korean": "놓치지 않아요! : 적중 {0}%",
+    "english": "I Won’t Miss!: ACC {0}%"
+  }
+}

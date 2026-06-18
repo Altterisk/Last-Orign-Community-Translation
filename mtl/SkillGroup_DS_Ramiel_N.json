@@ -1,0 +1,122 @@
+{
+  "1002708214": {
+    "korean": "원죄",
+    "english": "Original Sin"
+  },
+  "1002708215": {
+    "korean": "억겁의 성화",
+    "english": "Eternal Sacred Flame"
+  },
+  "1002708216": {
+    "korean": "고행",
+    "english": "Penance"
+  },
+  "1002708217": {
+    "korean": "죄인의 기도",
+    "english": "Sinner’s Prayer"
+  },
+  "1002708218": {
+    "korean": "성흔",
+    "english": "Stigmata"
+  },
+  "1002708219": {
+    "korean": "단일 대상에게 {0} 보호 무시 화염 속성 피해를 입힙니다. 자신이 <원죄의 굴레>상태가 아닐 경우, 추가 화염 피해를 입히고 자신이 <원죄의 굴레>상태일 경우, 대상의 방어막 / 피해 감소 효과를 무시하며 높은 추가 화염 피해를 입힙니다.",
+    "english": "Deals {0} Ignore Protection Fire damage to a single target. If the user is not under <Shackles of Original Sin>, deals additional Fire damage. If the user is under <Shackles of Original Sin>, ignores the target’s Barrier / DMG Reduction and deals high additional Fire damage."
+  },
+  "1002708224": {
+    "korean": "{0} 보호 무시 화염 피해 / 추가 화염 피해 / 원죄의 굴레 시 효과 증가",
+    "english": "{0} Ignore Protection Fire damage / additional Fire damage / effect increased while under Shackles of Original Sin"
+  },
+  "1002708220": {
+    "korean": "범위 내 대상에게 {0} 보호 무시 화염 피해를 입힙니다. 자신이 <원죄의 굴레>상태가 아닐 경우, 1라운드 동안 지속 화염 피해를 입히고 자신이 <원죄의 굴레>상태일 경우, 대상의 방어막 / 피해 감소 효과를 무시하며 3라운드 동안 높은 지속 화염 피해를 입힙니다. 스킬 사용 후, 2라운드 동안 해제 불가의 스킬 사용 불가 상태가 됩니다.",
+    "english": "Deals {0} Ignore Protection Fire damage to targets within range. If the user is not under <Shackles of Original Sin>, inflicts Fire DoT DMG for 1 round. If the user is under <Shackles of Original Sin>, ignores the target’s Barrier / DMG Reduction and inflicts high Fire DoT DMG for 3 rounds. After using the skill, the user becomes Silenced for 2 rounds that cannot be dispelled."
+  },
+  "1002708225": {
+    "korean": "{0} 보호 무시 화염 피해 / 지속 화염 피해 / 원죄의 굴레 시 효과 증가",
+    "english": "{0} Ignore Protection Fire damage / Fire DoT DMG / effect increased while under Shackles of Original Sin"
+  },
+  "1002708221": {
+    "korean": "중파 상태가 아닐 경우, 매 라운드 자신이 화염 지속 피해를 입게 됩니다. 중파 상태에서 라운드 시작 시, <원죄의 굴레>상태가 됩니다.",
+    "english": "If not Critical Damaged, the user takes Fire DoT DMG each round. At the start of the round while Critical Damaged, the user becomes under <Shackles of Original Sin>."
+  },
+  "1002708226": {
+    "korean": "지속 화염 피해 / 원죄의 굴레",
+    "english": "Fire DoT DMG / Shackles of Original Sin"
+  },
+  "1002708222": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타 / 적중이 증가합니다. 라운드 개시 시, 적군이 1명일 경우, 자신의 사거리가 증가합니다.",
+    "english": "At the start of the round, increases the user's ATK / CRIT / ACC. At the start of the round, if there is only 1 enemy, the user's Range increases."
+  },
+  "1002708227": {
+    "korean": "공격력 / 치명타 / 적중 증가 / 적 1명일 경우 사거리 증가",
+    "english": "ATK / CRIT / ACC increase / range increase if only 1 enemy"
+  },
+  "1002708223": {
+    "korean": "라운드 개시 시, 아군 전체의 냉기 저항이 증가합니다. 라운드 개시 시, 자신이 <원죄의 굴레>상태 일 경우, 적군 전체의 화염 속성 저항을 감소 시킵니다.",
+    "english": "At the start of the round, increases all allies’ Cold Resist. At the start of the round, if the user is under <Shackles of Original Sin>, decreases all enemies’ Fire Resist."
+  },
+  "1002708228": {
+    "korean": "아군 냉기 저항 증가 / 원죄의 굴레 시 적군 화염 저항 감소",
+    "english": "Allies' Cold Resist increase / enemy Fire Resist decrease while under Shackles of Original Sin"
+  },
+  "1000110778": {
+    "korean": "원죄 : {0}% 추가 화염 피해",
+    "english": "Original Sin : {0}% Additional Fire Damage"
+  },
+  "1000110783": {
+    "korean": "원죄 : {0}% 추가 화염 피해 (원죄의 굴레)",
+    "english": "Original Sin : {0}% Additional Fire Damage (Shackles of Original Sin)"
+  },
+  "1000110785": {
+    "korean": "고행 : 원죄의 굴레",
+    "english": "Penance : Shackles of Original Sin"
+  },
+  "1000110788": {
+    "korean": "원죄 : 방어막 / 피해 감소 무시 (원죄의 굴레)",
+    "english": "Original Sin : Barrier / Ignore Barrier / DMG Reduction (Shackle of Sin)"
+  },
+  "1000110779": {
+    "korean": "억겁의 성화 : {0} 지속 화염 피해",
+    "english": "Eternal Sacred Flame : Fire DoT DMG {0}"
+  },
+  "1000110784": {
+    "korean": "억겁의 성화 : {0} 지속 화염 피해 (원죄의 굴레)",
+    "english": "Eternal Sacred Flame : Fire DoT DMG {0} (Shackle of Sin)"
+  },
+  "1000110789": {
+    "korean": "억겁의 성화 : 방어막 / 피해 감소 무시 (원죄의 굴레)",
+    "english": "Eternal Sacred Flame : Barrier / Ignore Barrier / DMG Reduction (Shackle of Sin)"
+  },
+  "1000110791": {
+    "korean": "억겁의 성화 : 스킬 사용 불가",
+    "english": "Eternal Sacred Flame : Silenced"
+  },
+  "1000110780": {
+    "korean": "고행 : {0} 지속 화염 피해",
+    "english": "Penance : Fire DoT DMG {0}"
+  },
+  "1000110781": {
+    "korean": "죄인의 기도 : 공격력{0}%",
+    "english": "Sinner’s Prayer : ATK {0}%"
+  },
+  "1000110786": {
+    "korean": "죄인의 기도 : 치명타{0}%",
+    "english": "Sinner’s Prayer : CRIT {0}%"
+  },
+  "1000110790": {
+    "korean": "죄인의 기도 : 적중{0}%",
+    "english": "Sinner’s Prayer : ACC {0}%"
+  },
+  "1000110792": {
+    "korean": "죄인의 기도 : 사거리{0} (적 1명)",
+    "english": "Sinner’s Prayer : Range {0} (1 enemy)"
+  },
+  "1000110782": {
+    "korean": "성흔 : 냉기 저항{0}%",
+    "english": "Stigmata : Cold Resist {0}%"
+  },
+  "1000110787": {
+    "korean": "성흔 : 화염 저항{0}% (원죄의 굴레)",
+    "english": "Stigmata : Fire Resist {0}% (Shackle of Sin)"
+  }
+}

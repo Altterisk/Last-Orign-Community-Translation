@@ -1,0 +1,86 @@
+{
+  "1002700075": {
+    "korean": "후려치기",
+    "english": "Bash"
+  },
+  "1002700076": {
+    "korean": "부식 용액",
+    "english": "Corrosive Solution"
+  },
+  "1002700077": {
+    "korean": "생존 본능",
+    "english": "Survival Instinct"
+  },
+  "1002700078": {
+    "korean": "마무리 공격",
+    "english": "Finishing Attack"
+  },
+  "1002701039": {
+    "korean": "멈출 수 없는 본능",
+    "english": "Unstoppable Instinct"
+  },
+  "1002702921": {
+    "korean": "대상을 강타해 {0} 피해를 주고, 1칸 뒤로 밀어내며 일정 확률로 2라운드 동안 행동 불가 상태로 만듭니다.",
+    "english": "Strikes the target for {0} damage, Push Back 1 space, and has a chance to apply Stunned for 2 rounds."
+  },
+  "1002702922": {
+    "korean": "부식 용액으로 목표 대상들에게 {0} 피해를 주며, 2라운드 동안 부식 상태로 만듭니다. 부식 상태인 대상은 방어력과 행동력이 감소하며, 지속 물리 피해를 입습니다. 보호 효과를 무시합니다.",
+    "english": "Deals {0} damage to targets with Corrosive Solution and inflicts Corrosive for 2 rounds. Corrosive targets have their DEF and SPD reduced and take Physical DoT DMG. Ignores Barrier."
+  },
+  "1002702923": {
+    "korean": "HP 25% 이하가 되면 받는 피해가 감소하며, 행동력 / 적중 / 효과 저항이 크게 증가합니다.",
+    "english": "When HP falls below 25%, grants DMG Reduction and greatly increases SPD, ACC and Status Resist."
+  },
+  "1002702924": {
+    "korean": "생존 본능이 발동한 상태로 공격하는 경우, 방어막과 피해 감소 효과를 무시하며 대상의 방어력을 일정 비율 무시합니다.",
+    "english": "When attacking while Survival Instinct is active, ignores Barrier and DMG Reduction, and bypasses a percentage of the target's DEF."
+  },
+  "1002703307": {
+    "korean": "피격 시, 일정 확률로 이동 불가 / 행동 불가 / 행동력 감소 효과를 해제합니다.",
+    "english": "When hit, has a chance to remove Rooted, Stunned and SPD Reduction effects."
+  },
+  "1000102526": {
+    "korean": "뒤로 {0}칸 밀기",
+    "english": "Push Back {0}"
+  },
+  "1000102549": {
+    "korean": "행동 불가",
+    "english": "Stunned"
+  },
+  "1000102941": {
+    "korean": "멈출 수 없는 본능 : 이동 불가 무효",
+    "english": "Unstoppable Instinct : Immunity to Rooted"
+  },
+  "1000104414": {
+    "korean": "멈출 수 없는 본능 : 행동 불능 무효",
+    "english": "Unstoppable Instinct : Immunity to Stunned"
+  },
+  "1000105031": {
+    "korean": "멈출 수 없는 본능 : 행동력 감소 무효",
+    "english": "Unstoppable Instinct : Immunity to SPD Reduction"
+  },
+  "1000102535": {
+    "korean": "생존 본능 : 행동력{0}%",
+    "english": "Survival instinct : SPD {0}%"
+  },
+  "1000102958": {
+    "korean": "생존 본능 : 받는 피해 감소 {0}%",
+    "english": "Survival instinct : DMG Reduction {0}%"
+  },
+  "1000102959": {
+    "korean": "생존 본능 : 효과 저항{0}%",
+    "english": "Survival instinct : Status Resist {0}%"
+  },
+  "1000102960": {
+    "korean": "생존 본능 : 적중{0}%",
+    "english": "Survival instinct : ACC {0}%"
+  },
+  "1000102682": {
+    "korean": "마무리 공격 : 방어 관통 {0}%",
+    "english": "Finishing attack : DEF Penetration {0}%"
+  },
+  "1000104293": {
+    "korean": "마무리 공격 : 방어막 / 피해 감소 무시",
+    "english": "Finishing attack : Ignore Barrier / DMG Reduction"
+  }
+}

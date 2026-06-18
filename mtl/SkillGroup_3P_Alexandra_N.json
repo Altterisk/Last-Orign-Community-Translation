@@ -1,0 +1,122 @@
+{
+  "1002700368": {
+    "korean": "구전광",
+    "english": "Old Loudspeaker"
+  },
+  "1002703875": {
+    "korean": "전격구를 발사해 {0} 전기 속성 피해를 주고, 대상의 AP와 회피를 낮춥니다. 대상이 침수 상태면 피해량이 증가합니다.",
+    "english": "Fires an electric orb to deal {0} Electric damage, reducing the target's AP and EVA. Damage increases if the target is Drenched."
+  },
+  "1002703119": {
+    "korean": "단일 대상 {0} 피해. AP / 회피 감소. 침수 대상 피해량 증가",
+    "english": "Deals {0} damage to a single target. Reduces AP and EVA. Deals increased damage to Soaked targets"
+  },
+  "1000102495": {
+    "korean": "감전 : AP {0}",
+    "english": "Shock : AP {0}"
+  },
+  "1000104198": {
+    "korean": "감전 : 회피 {0}%",
+    "english": "Electrocution : EVA {0}%"
+  },
+  "1000103124": {
+    "korean": "감전 : 피해량{0}%",
+    "english": "Electric Shock : Additional DMG {0}%"
+  },
+  "1002700369": {
+    "korean": "전하폭풍",
+    "english": "Charge Storm"
+  },
+  "1002703876": {
+    "korean": "전격을 방사해 보호 효과 무시 {0} 전기 속성 피해를 주고, 대상의 AP와 회피를 낮춥니다. 치명타 시, 피해량이 증가합니다.",
+    "english": "Emits a surge of electricity to deal {0} Electric damage, ignoring protection effects, and lowers the target's AP and EVA. Damage increases on a CRIT."
+  },
+  "1002703120": {
+    "korean": "지정 범위 {0} 피해. 일정 확률 AP / 회피 감소. 치명타 시, 피해량 증가",
+    "english": "Designated Area {0} Damage. Chance to Reduce AP / EVA. CRIT Damage Increase"
+  },
+  "1000102609": {
+    "korean": "회심의 일격 : 피해량{0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "1002700370": {
+    "korean": "전하 집속",
+    "english": "Charge Concentration"
+  },
+  "1002703877": {
+    "korean": "적을 처치할 때마다 짜릿함을 느껴 공격력 / 치명타 / 행동력이 증가합니다. 해당 효과가 2중첩 이상일 경우, 전하 방출 상태가 되어 해당 스테이지를 진행하는 동안 스킬이 강화됩니다.",
+    "english": "Each time an enemy is defeated, gains a thrill, increasing ATK / CRIT / SPD. At 2 or more stacks, enters Discharge state, enhancing skills for the remainder of the stage."
+  },
+  "1002703121": {
+    "korean": "적 처치 시, 공격력 / 치명타 / 행동력 증가. 해당 효과 2중첩 이상일 경우 변신",
+    "english": "On enemy kill, increases ATK, CRIT, and SPD. If this effect stacks 2 or more times, triggers Transformation"
+  },
+  "1000102677": {
+    "korean": "전하 집속 : 공격력{0}%",
+    "english": "Charge Focus: ATK {0}%"
+  },
+  "1000104290": {
+    "korean": "전하 집속 : 치명타{0}%",
+    "english": "Charge Concentration: CRIT {0}%"
+  },
+  "1000104983": {
+    "korean": "전하 집속 : 행동력{0}%",
+    "english": "Charge Concentration: SPD {0}%"
+  },
+  "1000105366": {
+    "korean": "전하 집속 : 전하 방출 상태로 변신",
+    "english": "Charge concentration: Transforms into a charge-emitting state"
+  },
+  "1000103250": {
+    "korean": "전하 방출 : 스킬 강화",
+    "english": "Charge Discharge : Skill Enhancement"
+  },
+  "1002700371": {
+    "korean": "전기장 자극",
+    "english": "Electric Field Stimulation"
+  },
+  "1002703878": {
+    "korean": "라운드 개시 시, 인접한 아군의 반응 속도를 향상시켜 회피 / 행동력 / 전기 저항을 올려줍니다. <전하 방출> 상태가 될 경우, 해당 효과가 25% 증가합니다.",
+    "english": "At the start of the round, boosts the reflexes of adjacent allies, increasing their EVA / SPD / Electric Resistance. In Discharge state, these effects are enhanced by 25%."
+  },
+  "1002703122": {
+    "korean": "인접 아군 회피 / 전기 저항 / 행동력 증가",
+    "english": "Adjacent Ally EVA / Electric Resistance / SPD Increase"
+  },
+  "1000102678": {
+    "korean": "전기장 자극 : 전기 저항{0}%",
+    "english": "Electric field stimulation: Electric Resist {0}%"
+  },
+  "1000104291": {
+    "korean": "전기장 자극 : 회피{0}%",
+    "english": "Electric Field Stimulation: EVA {0}%"
+  },
+  "1000104984": {
+    "korean": "전기장 자극 : 행동력{0}%",
+    "english": "Electric field stimulation: SPD {0}%"
+  },
+  "1002700372": {
+    "korean": "모범 교사",
+    "english": "Model Teacher"
+  },
+  "1002703879": {
+    "korean": "전투 승리 시, 스쿼드 내 모든 아군의 전투 승리 경험치 획득량이 증가합니다. 자신이 적을 공격할 때, 시범을 보여 2라운드 동안 자신과 스쿼드 내 아군들의 공격력 / 적중이 증가합니다.",
+    "english": "Upon victory in battle, all allies in the squad gain increased EXP. When attacking, gives a demonstration that increases ATK and ACU for self and all squadmates for 2 rounds."
+  },
+  "1002703123": {
+    "korean": "스쿼드 내 아군 획득 경험치 증가. 공격 시, 아군 공격력 / 적중 증가",
+    "english": "Increases EXP gain of allied squad members. On attack, increases allies' ATK and ACU"
+  },
+  "1000102679": {
+    "korean": "모범 교사 : 경험치{0}%",
+    "english": "Model Teacher: EXP {0}%"
+  },
+  "1000103249": {
+    "korean": "잘 보고 배우세요 : 공격력{0}%",
+    "english": "Watch and Learn : ATK {0}%"
+  },
+  "1000104545": {
+    "korean": "잘 보고 배우세요 : 적중{0}%",
+    "english": "Watch Carefully and Learn: ACC {0}%"
+  }
+}

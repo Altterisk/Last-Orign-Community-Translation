@@ -1,0 +1,202 @@
+{
+  "1002701231": {
+    "korean": "랜스 차지",
+    "english": "Lance Charge"
+  },
+  "1002701232": {
+    "korean": "방어 대형",
+    "english": "Defensive Formation"
+  },
+  "1002701233": {
+    "korean": "뱅가드",
+    "english": "Vanguard"
+  },
+  "1002707380": {
+    "korean": "플레임 실드",
+    "english": "Flame Shield"
+  },
+  "1002707381": {
+    "korean": "뜨거운 기세",
+    "english": "Fierce Momentum"
+  },
+  "1002704016": {
+    "korean": "랜스 돌격으로 대상에게 {0} 화염 피해를 주고, 대상의 방어력과 화염 저항을 낮춥니다. 공격 적중 시, 2라운드 동안 자신의 회피가 증가합니다. 적을 처치하면 회피가 추가로 증가합니다.",
+    "english": "Lance Charge deals {0} fire damage to the target and reduces the target's DEF and Fire Resist. When the attack hits, EVA increases for 2 rounds. If the target is eliminated, EVA increases further."
+  },
+  "1002703346": {
+    "korean": "대상 {0} 화염 피해. 방어력 / 화염 저항 감소. 공격 적중 시, 회피 증가",
+    "english": "Target {0} fire damage. Reduces DEF / Fire Resist. Increases EVA upon attack hit"
+  },
+  "1002704017": {
+    "korean": "3라운드 동안 지정 아군을 보호하며, 자신의 방어력이 증가하고 받는 피해가 감소합니다.",
+    "english": "For 3 rounds, protect a designated ally, while your DEF increases and DMG Reduction applies."
+  },
+  "1002703347": {
+    "korean": "지정 아군 보호. 자신 방어력 증가 / 받는 피해 감소",
+    "english": "Designated ally protection. Self DEF increase / DMG Reduction"
+  },
+  "1002704018": {
+    "korean": "라운드 개시 시, 자신의 화염 저항과 냉기 저항이 증가하며, 범위 내 공격기와 지원기를 지정 보호합니다. 자신과 범위 내 공격기들의 공격력과 치명타가 증가하고 자신이 적 처치 시, 2라운드 동안 공격력, 치명타, 행동력이 추가로 증가합니다.",
+    "english": "At the start of the round, your Fire Resist and Cold Resist increase, and you provide Target Protect to Attacker and Supporter units within range. Your ATK and CRIT, as well as those of the Attacker units within range, increase, and when you defeat an enemy, your ATK, CRIT, and SPD increase further for 2 rounds."
+  },
+  "1002703348": {
+    "korean": "범위 내 공격기,지원기 지정 보호 / 자신,공격기 공격력,치명타 증가 / 처치 시 공격력,치명타,행동력 증가",
+    "english": "Target Protect for Attacker and Supporter within range / self and Attacker ATK, CRIT increase / ATK, CRIT, SPD increase upon elimination"
+  },
+  "1002707382": {
+    "korean": "라운드 개시 시, 자신의 공격력을 증가시키고 범위 내 아군 공격기/지원기의 냉기 속성 저항을 증가시키고 자신을 포함한 기동형의 받는 피해를 감소시킵니다.",
+    "english": "At the start of the round, increase own ATK, boost Cold Resist of allied Attacker and Supporter units within range, and apply DMG Reduction to Air units, including yourself."
+  },
+  "1002707384": {
+    "korean": "냉기 저항 증가(공격기/지원기) / 받는 피해 감소(기동형) / 공격력 증가(자신)",
+    "english": "Cold Resist increase (Attacker/Supporter) / DMG Reduction (Air) / ATK increase (Self)"
+  },
+  "1002707383": {
+    "korean": "라운드 개시 시, 자신의 행동력과 치명타를 증가시키고 공격 적중 시, 범위 내 아군의 공격력과 냉기 저항을 증가시키며 최대 3중첩까지 가능합니다.",
+    "english": "At the start of the round, increase own SPD and CRIT. When attacking, increase ATK and Cold Resist of allies within range, up to 3 stacks."
+  },
+  "1002707385": {
+    "korean": "공격력/냉기 저항 증가(3중첩) / 행동력/치명타 증가(자신)",
+    "english": "ATK / Cold Resist increase (3 stacks) / SPD / CRIT increase (Self)"
+  },
+  "1000103069": {
+    "korean": "랜스 차지 : 방어력 {0}%",
+    "english": "Lance Charge : DEF {0}%"
+  },
+  "1000104458": {
+    "korean": "랜스 차지 : 화염 저항 {0}%",
+    "english": "Lance Charge : Fire Resist {0}%"
+  },
+  "1000105058": {
+    "korean": "랜스 차지 : 회피{0}% (자신)",
+    "english": "Lance Charge : EVA {0}% (Self)"
+  },
+  "1000105400": {
+    "korean": "돌파 : 회피{0}% (적 처치)",
+    "english": "Breakthrough : EVA {0}% (Enemy On Kill)"
+  },
+  "1000103073": {
+    "korean": "랜스 차지 : 회피{0}%",
+    "english": "Lance Charge : EVA {0}%"
+  },
+  "1000103077": {
+    "korean": "랜스 차지 : 회피{0}% (적 처치)",
+    "english": "Lance Charge : EVA {0}% (Enemy On Kill)"
+  },
+  "1000103070": {
+    "korean": "대열 방어 : 지정 대상 보호",
+    "english": "Formation Guard : Target Protect"
+  },
+  "1000104459": {
+    "korean": "방어 대형 : 방어력{0}% (자신)",
+    "english": "Defensive Formation : DEF {0}% (Self)"
+  },
+  "1000103075": {
+    "korean": "방어 대형 : 받는 피해 감소 {0}%",
+    "english": "Defensive Formation : DMG Reduction {0}%"
+  },
+  "1000103074": {
+    "korean": "방어 대형 : 방어력{0}%",
+    "english": "Defensive Formation : DEF {0}%"
+  },
+  "1000103071": {
+    "korean": "뱅가드 : 지정 대상 보호 (공격기/지원기)",
+    "english": "Vanguard : Target Protect (Attacker/Supporter)"
+  },
+  "1000104460": {
+    "korean": "뱅가드 : 공격력{0}% (공격기/자신)",
+    "english": "Vanguard : ATK {0}% (Attacker/Self)"
+  },
+  "1000105059": {
+    "korean": "뱅가드 : 치명타{0}% (공격기/자신)",
+    "english": "Vanguard : CRIT {0}% (Attacker/Self)"
+  },
+  "1000105401": {
+    "korean": "뱅가드 : 화염 저항/냉기 저항{0}% (자신)",
+    "english": "Vanguard : Fire Resist / Cold Resist {0}% (Self)"
+  },
+  "1000105554": {
+    "korean": "돌파 개시 : 공격력/치명타/행동력{0}% (처치 시 자신/공격기)",
+    "english": "Breakthrough Initiated : ATK / CRIT / SPD {0}% (Self/Attacker upon kill)"
+  },
+  "1000103076": {
+    "korean": "뱅가드 : 공격력{0}%",
+    "english": "Vanguard : ATK {0}%"
+  },
+  "1000104461": {
+    "korean": "뱅가드 : 치명타{0}%",
+    "english": "Vanguard : CRIT {0}%"
+  },
+  "1000103490": {
+    "korean": "돌파 개시 : 공격력{0}% (공격기)",
+    "english": "Breakthrough Initiated : ATK {0}% (Attacker)"
+  },
+  "1000104655": {
+    "korean": "돌파 개시 : 치명타{0}% (공격기)",
+    "english": "Breakthrough Initiated : CRIT {0}% (Attacker)"
+  },
+  "1000105169": {
+    "korean": "돌파 개시 : 행동력{0}% (공격기)",
+    "english": "Breakthrough Initiated : SPD {0}% (Attacker)"
+  },
+  "1000103491": {
+    "korean": "돌파 개시 : 공격력{0}%",
+    "english": "Breakthrough Initiated : ATK {0}%"
+  },
+  "1000104656": {
+    "korean": "돌파 개시 : 치명타{0}%",
+    "english": "Breakthrough Initiated : CRIT {0}%"
+  },
+  "1000105170": {
+    "korean": "돌파 개시 : 행동력{0}%",
+    "english": "Breakthrough Initiated : SPD {0}%"
+  },
+  "1000103492": {
+    "korean": "뱅가드 : 화염 저항{0}% (자신)",
+    "english": "Vanguard : Fire Resist {0}% (Self)"
+  },
+  "1000109313": {
+    "korean": "뱅가드 : 냉기 저항{0}%(자신)",
+    "english": "Vanguard : Cold Resist {0}% (Self)"
+  },
+  "1000109289": {
+    "korean": "뱅가드 : 지정 대상 보호 (공격기/지원기)",
+    "english": "Vanguard : Target Protect (Attacker/Supporter)"
+  },
+  "1000109290": {
+    "korean": "플레임 실드: 냉기 저항{0}%(공격기/지원기)",
+    "english": "Flame Shield. : Cold Resist {0}% (Attacker/Supporter)"
+  },
+  "1000109291": {
+    "korean": "플레임 실드: 받는 피해 감소 {0}%(기동형)",
+    "english": "Flame Shield. : DMG Reduction {0}% (Air)"
+  },
+  "1000109292": {
+    "korean": "플레임 실드: 공격력{0}%(자신)",
+    "english": "Flame Shield. : ATK {0}% (Self)"
+  },
+  "1000109293": {
+    "korean": "뜨거운 기세: 공격력{0}%",
+    "english": "Fierce Momentum. : ATK {0}%"
+  },
+  "1000109300": {
+    "korean": "뜨거운 기세: 냉기 저항{0}%",
+    "english": "Fierce Momentum. : Cold Resist {0}%"
+  },
+  "1000109305": {
+    "korean": "뜨거운 기세: 행동력{0}%(자신)",
+    "english": "Fierce Momentum. : SPD {0}% (Self)"
+  },
+  "1000109309": {
+    "korean": "뜨거운 기세: 치명타{0}%(자신)",
+    "english": "Fierce Momentum. : CRIT {0}% (Self)"
+  },
+  "1000109294": {
+    "korean": "뜨거운 기세: 행동력{0}%",
+    "english": "Fierce Momentum. : SPD {0}%"
+  },
+  "1000109301": {
+    "korean": "뜨거운 기세: 치명타{0}%",
+    "english": "Fierce Momentum. : CRIT {0}%"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "1002701400": {
+    "korean": "어썰트 라이플",
+    "english": "Assault Rifle"
+  },
+  "1002701401": {
+    "korean": "플래시 뱅",
+    "english": "Flash Bang"
+  },
+  "1002707099": {
+    "korean": "패시브 레이더",
+    "english": "Passive Radar"
+  },
+  "1002701402": {
+    "korean": "스파르탄 포메이션",
+    "english": "Spartan Formation"
+  },
+  "1002704086": {
+    "korean": "돌격 소총으로 {0} 피해를 주고, 2라운드 동안 대상의 공격력과 치명타를 낮추며 받는 피해를 증가시킵니다. 치명타 시 스파르탄 캡틴:<전술 데이터 링크> 중첩에 따라 추가 효과를 얻습니다.&n<데이터 링크> 1중첩 : 적 방어력 감소&n<데이터 링크> 2중첩 : 적 강화 효과 해제",
+    "english": "Fires an assault rifle dealing {0} damage, reducing the target's ATK and CRIT for 2 rounds and increasing DMG Taken Increased. On a critical hit, gains additional effects based on Spartan Captain: <Tactical Data Link> stacks:\n<Data Link> 1 stack: Reduces the target's DEF\n<Data Link> 2 stacks: Removes the target's buffs"
+  },
+  "1002703361": {
+    "korean": "단일 대상 {0} 피해. 대상 공격력 / 치명타 감소 / 피해 증폭",
+    "english": "Single target {0} damage. Target ATK / CRIT Reduction / DMG Taken Increased"
+  },
+  "1002704087": {
+    "korean": "섬광탄을 발사해 지정 범위에 {0} 피해를 주고, 대상의 적중과 AP를 낮추며 적중 강화 효과를 해제합니다.",
+    "english": "Fires a flashbang dealing {0} damage to the designated area, reducing the target's ACC and AP, and removing Accuracy Enhancement effects."
+  },
+  "1002703362": {
+    "korean": "지정 범위 {0} 피해. 적중 / AP 감소. 적중 강화 해제",
+    "english": "Designated area {0} damage. ACC / AP Reduction. ACC Enhancement Removal"
+  },
+  "1002707102": {
+    "korean": "라운드 개시 시, 자신과 지정 범위 로봇들의 공격력 / 치명타 / 행동력이 증가합니다. 해당 효과는 스파르탄 어썰트가 적을 공격할 때마다 추가 적용됩니다. <플래시 뱅> 스킬 사용 시, 지정 타깃 대상으로 <다연장 미사일> 스킬 협동 공격을 합니다.",
+    "english": "At the start of the round, the ATK / CRIT / SPD of yourself and robots within the designated range increase. This effect is applied additionally each time Spartan Assault attacks an enemy. When using the <Flash Bang> skill, a Coordinated Attack with the <Multi-Missile Launcher> skill is performed on the designated target."
+  },
+  "1002707105": {
+    "korean": "라운드 개시 및 적 공격 시, 아군 로봇 공격력 / 치명타 / 행동력 증가, 스파르탄 부머 협동 공격",
+    "english": "At the start of the round and when attacking an enemy, allied robots gain increased ATK / CRIT / SPD, and Spartan Boomer performs a Coordinated Attack."
+  },
+  "1002704088": {
+    "korean": "스쿼드에 스파르탄 캡틴이 있는 경우, 공격력과 행동력이 증가하며 받는 피해가 감소합니다.",
+    "english": "If a Spartan Captain is in the squad, ATK and SPD increase and DMG Taken is reduced."
+  },
+  "1002703363": {
+    "korean": "스파르탄 캡틴이 있는 경우, 공격력 / 행동력 증가 / 받는 피해 감소",
+    "english": "ATK / SPD Increase / DMG Taken Reduction"
+  },
+  "1000108765": {
+    "korean": "섬광탄 : [다연장 미사일] 협동 공격",
+    "english": "Flash Bang : [Multi-Missile Launcher] Cooperative Attack"
+  },
+  "1000103217": {
+    "korean": "공격 견제 : 공격력 {0}%",
+    "english": "Attack Deterrence : ATK {0}%"
+  },
+  "1000104533": {
+    "korean": "공격 견제 : 치명타 {0}%",
+    "english": "Attack Deterrence : CRIT {0}%"
+  },
+  "1000105092": {
+    "korean": "공격 견제 : 받는 피해{0}%",
+    "english": "Attack Deterrence : DMG Taken {0}%"
+  },
+  "1000108777": {
+    "korean": "데이터 링크 : 방어력 {0}%",
+    "english": "Data Link : DEF {0}%"
+  },
+  "1000108780": {
+    "korean": "데이터 링크 : 강화 효과 해제",
+    "english": "Data Link : Buff Removal"
+  },
+  "1000103218": {
+    "korean": "섬광탄 : AP {0}",
+    "english": "Flashbang : AP {0}"
+  },
+  "1000104534": {
+    "korean": "섬광탄 : 적중 {0}%",
+    "english": "Flashbang : ACC {0}%"
+  },
+  "1000105093": {
+    "korean": "섬광탄 : 적중 강화 해제",
+    "english": "Flashbang : ACC Buff Removal"
+  },
+  "1000108764": {
+    "korean": "패시브 레이더 : 치명타{0}%",
+    "english": "Passive Radar : CRIT {0}%"
+  },
+  "1000108770": {
+    "korean": "패시브 레이더 : 행동력{0}%",
+    "english": "Passive Radar : SPD {0}%"
+  },
+  "1000108774": {
+    "korean": "패시브 레이더 : 공격력{0}%",
+    "english": "Passive Radar : ATK {0}%"
+  },
+  "1000108771": {
+    "korean": "패시브 레이더 : 행동력{0}%",
+    "english": "Passive Radar : SPD {0}%"
+  },
+  "1000108766": {
+    "korean": "패시브 레이더 : 치명타{0}%",
+    "english": "Passive Radar : CRIT {0}%"
+  },
+  "1000103219": {
+    "korean": "스파르탄 포메이션 : 공격력{0}%",
+    "english": "Spartan Formation : ATK {0}%"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "SkillName_Skill_MP_LemonadeGamma13_C_1": {
+    "korean": "이스트블럿 피스트",
+    "english": "Eastblood Fist"
+  },
+  "SkillName_Skill_MP_LemonadeGamma13_C_2": {
+    "korean": "블랙드래곤 스매시",
+    "english": "Black Dragon Smash"
+  },
+  "SkillName_Skill_MP_LemonadeGamma13_C_3": {
+    "korean": "하고싶은거 해봐",
+    "english": "Do What You Want"
+  },
+  "SkillName_Skill_MP_LemonadeGamma13_C_4": {
+    "korean": "다 해줬잖아?",
+    "english": "Didn't You Do Everything?"
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_C_1": {
+    "korean": "{0} 피해를 줍니다.방어력이 감소하고 받는 피해가 증가합니다. 500%의 적중 보정을 받습니다.",
+    "english": "Deals {0} damage. Reduces DEF and increases DMG Taken. Grants +500% ACC adjustment."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_C_2": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 500%의 적중 보정을 받습니다.&n적중 시 대상은 반격 효과가 해제되고 2라운드 동안 행동력이 감소합니다. (3중첩)&n[뒤를 조심해] 가 20중첩이상인 경우 지속 물리 피해를 줍니다.",
+    "english": "Deals {0} Ignore Protection damage to enemies in the designated area. Grants +500% ACC adjustment.&nOn hit, the target's Counter Attack effect is removed and its SPD is reduced for 2 rounds (up to 3 stacks).&nIf [Watch Your Back] has 20 or more stacks, deals Physical DoT DMG."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_C_3": {
+    "korean": "라운드 개시 시 [뒤를 조심해] 중첩이 1회 증가합니다.&n적중 시 [뒤를 조심해] 중첩이 1회 증가합니다.&n피격 시 [뒤를 조심해 중첩이 1회 증가합니다.&n[뒤를 조심해] 중첩은 최대 20 중첩됩니다.&n중첩 수에 따라 자신의 행동력이 증가합니다.",
+    "english": "At the start of the round, [Watch Your Back] gains 1 stack.&nOn hit, [Watch Your Back] gains 1 stack.&nWhen hit, [Watch Your Back] gains 1 stack.&n[Watch Your Back] stacks up to a maximum of 20.&nSPD increases based on the number of stacks."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_C_4": {
+    "korean": "[뒤를 조심해]가 20중첩인 경우 라운드 개시시, 반격/최대 행동 횟수/사거리/공격력 증가 효과를 얻고 해로운 효과를 해제합니다.",
+    "english": "If [Watch Your Back] has 20 stacks, at the start of the round you gain Counter Attack, Max Action, Range, and ATK increase effects and all harmful effects are removed."
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_C_1": {
+    "korean": "이스트블럿 피스트 : 방어력 {0}%",
+    "english": "Eastblood Feast : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_LemonadeGamma13_C_1": {
+    "korean": "이스트블럿 : 받는 피해 {0}%",
+    "english": "Eastblood : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_C_2": {
+    "korean": "블랙 드래곤 스매시 : 반격 효과 해제",
+    "english": "Black Dragon Smash : Counter Attack Effect Removal"
+  },
+  "BuffDesc2_Effect_MP_LemonadeGamma13_C_2": {
+    "korean": "블랙드래곤 스매시 : 행동력{0}%",
+    "english": "Black Dragon Smash : SPD {0}%"
+  },
+  "BuffDesc3_Effect_MP_LemonadeGamma13_C_2": {
+    "korean": "이스트블럿 피스트 : 지속 물리 피해 {0}",
+    "english": "Eastblood Feast : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_C_21": {
+    "korean": "블랙 드래곤 스매시: 지속 물리 피해 {0}",
+    "english": "Black Dragon Smash : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_C_3": {
+    "korean": "[뒤를 조심해] : 행동력 {0}%",
+    "english": "Watch Your Back : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_C_31": {
+    "korean": "[뒤를 조심해] : 행동력 {0}%",
+    "english": "Watch Your Back : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_C_32": {
+    "korean": "[뒤를 조심해] : 행동력 {0}%",
+    "english": "Watch Your Back : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_C_4": {
+    "korean": "다 해줬잖아? : {0}% 위력으로 반격",
+    "english": "Didn't You Do Everything? : Counter Attack with {0}% Power"
+  },
+  "BuffDesc2_Effect_MP_LemonadeGamma13_C_4": {
+    "korean": "다 해줬잖아? : 최대 행동 횟수 {0}",
+    "english": "Didn't You Do Everything? : Max Action {0}"
+  },
+  "BuffDesc3_Effect_MP_LemonadeGamma13_C_4": {
+    "korean": "다 해줬잖아?: 해로운 효과 해제",
+    "english": "Didn't You Do Everything? : Debuff Removal"
+  },
+  "BuffDesc4_Effect_MP_LemonadeGamma13_C_4": {
+    "korean": "다 해줬잖아?: 사거리 {0}",
+    "english": "Didn't You Do Everything? : Range {0}"
+  },
+  "BuffDesc5_Effect_MP_LemonadeGamma13_C_4": {
+    "korean": "다 해줬잖아?: 공격력 {0}%",
+    "english": "Didn't You Do Everything? : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_C_41": {
+    "korean": "다 해줬잖아?: 해로운 효과 해제",
+    "english": "Didn't You Do Everything? : Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_LemonadeGamma13_C_42": {
+    "korean": "다 해줬잖아?: 사거리 {0}",
+    "english": "Didn't You Do Everything? : Range {0}"
+  },
+  "BuffDesc2_Effect_MP_LemonadeGamma13_C_42": {
+    "korean": "다 해줬잖아?: 공격력 {0}%",
+    "english": "Didn't You Do Everything? : ATK {0}%"
+  },
+  "BuffDesc3_Effect_MP_LemonadeGamma13_C_42": {
+    "korean": "다 해줬잖아? : 최대 행동 횟수 {0}",
+    "english": "Didn't You Do Everything? : Max Action {0}"
+  }
+}

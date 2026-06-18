@@ -1,0 +1,94 @@
+{
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge2_1": {
+    "korean": "사이즈믹 웨이브",
+    "english": "Seismic Wave"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge2_2": {
+    "korean": "헤일로 오버로드",
+    "english": "Halo Overload"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge2_3": {
+    "korean": "잠자는 분노",
+    "english": "Sleeping Fury"
+  },
+  "SkillName_Skill_MP_Demolisher_BOSS_Challenge2_4": {
+    "korean": "미확인 수면 가스 살포",
+    "english": "Unidentified Sleep Gas Deployment"
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge2_1": {
+    "korean": "양 주먹을 내리쳐 대상에게 {0} 피해를 주고 방어력 강화 효과를 해제합니다.&n적중 시, 대상의 방어력을 일정 비율 무시합니다.&n스킬 사용 시, 3라운드 동안 자신의 적중이 증가합니다.",
+    "english": "Strike the target with both fists, dealing {0} damage and removing defense buffs. On hit, ignores a portion of the target's DEF. Using this skill increases your ACC for 3 rounds."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge2_2": {
+    "korean": "지정 범위에 미지의 광선을 발사하여 {0} 보호 무시 피해를 줍니다.&n적중 시, 대상을 뒤로 2칸 밀어내고 모든 보호 효과를 해제합니다.",
+    "english": "Fire an unknown beam at the designated area, dealing {0} Ignore Protection damage. On hit, pushes the target back 2 tiles and removes all protective effects."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge2_3": {
+    "korean": "라운드 개시 시, 자신은 방어력 증가 / 치명타 면역 / HP 비례 방어 관통 저항 효과를 획득합니다.&n공격 적중 시에만 상기 효과가 일시적으로 해제됩니다.",
+    "english": "DEF Up / CRIT Immunity / HP-proportional DEF Penetration Resistance. These effects are temporarily removed only when you are hit by an attack."
+  },
+  "SkillDesc_Skill_MP_Demolisher_BOSS_Challenge2_4": {
+    "korean": "라운드 개시 시, 모든 적 바이오로이드의 공격력 / 행동력 / 효과 발동을 감소시킵니다.&n해로운 효과 해제로 해제되지 않지만, AGS에게는 효과가 없습니다.",
+    "english": "At the start of each round, reduce all enemy Bioroids' ATK / SPD / Effect Activation Rate. Cannot be removed by harmful effect removal, and has no effect on AGS."
+  },
+  "BuffDesc3_Effect_MP_Demolisher_BOSS_Challenge2_3": {
+    "korean": "잠자는 분노 : 방어 관통 저항 {0}% (최대)",
+    "english": "Sleeping Fury: Defense Penetration Resistance {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge2_31": {
+    "korean": "깨어나는 분노",
+    "english": "Awakening Fury"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge2_1": {
+    "korean": "사이즈믹 웨이브 : 방어력 증가 해제",
+    "english": "Seismic Wave : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge2_1": {
+    "korean": "사이즈믹 웨이브 : 방어력 증가 해제",
+    "english": "Seismic Wave : DEF Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge2_11": {
+    "korean": "사이즈믹 웨이브 : 방어 관통 {0}%",
+    "english": "Seismic Wave : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge2_12": {
+    "korean": "사이즈믹 웨이브 : 적중 {0}%",
+    "english": "Seismic Wave : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge2_2": {
+    "korean": "헤일로 오버로드 : 뒤로 {0}칸 밀기",
+    "english": "Halo Overload : Push Back {0}"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge2_2": {
+    "korean": "헤일로 오버로드 : 행 보호 해제",
+    "english": "Halo Overload : Row Protect Removal"
+  },
+  "BuffDesc3_Effect_MP_Demolisher_BOSS_Challenge2_2": {
+    "korean": "헤일로 오버로드 : 열 보호 해제",
+    "english": "Halo Overload : Column Protect Removal"
+  },
+  "BuffDesc4_Effect_MP_Demolisher_BOSS_Challenge2_2": {
+    "korean": "헤일로 오버로드 : 지정 보호 해제",
+    "english": "Halo Overload : Target Protect Removal"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge2_3": {
+    "korean": "잠자는 분노 : 방어력 {0}%",
+    "english": "Sleeping Fury : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge2_3": {
+    "korean": "잠자는 분노 : 치명타 면역",
+    "english": "Sleeping Fury : CRIT Immunity"
+  },
+  "BuffDesc1_Effect_MP_Demolisher_BOSS_Challenge2_4": {
+    "korean": "Zzz... : 공격력 {0}%",
+    "english": "Zzz... : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_Demolisher_BOSS_Challenge2_4": {
+    "korean": "Zzz... : 행동력 {0}%",
+    "english": "Zzz... : SPD {0}%"
+  },
+  "BuffDesc3_Effect_MP_Demolisher_BOSS_Challenge2_4": {
+    "korean": "Zzz... : 효과 발동 {0}%",
+    "english": "Zzz... : Effect Activation Rate {0}%"
+  }
+}

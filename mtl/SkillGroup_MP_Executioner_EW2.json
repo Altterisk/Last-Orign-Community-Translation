@@ -1,0 +1,90 @@
+{
+  "SkillName_Skill_MP_Executioner_EW2_1": {
+    "korean": "처형 준비",
+    "english": "Execution Prep"
+  },
+  "SkillName_Skill_MP_Executioner_EW2_2": {
+    "korean": "참수",
+    "english": "Beheading"
+  },
+  "SkillName_Skill_MP_Executioner_EW2_3": {
+    "korean": "집행자",
+    "english": "Executor"
+  },
+  "SkillName_Skill_MP_Executioner_EW2_4": {
+    "korean": "흡수장",
+    "english": "Absorption Field"
+  },
+  "SkillName_Skill_MP_Executioner_EW2_5": {
+    "korean": "스테일메이트",
+    "english": "Stalemate"
+  },
+  "SkillDesc_Skill_MP_Executioner_EW2_1": {
+    "korean": "지정 대상에게 {0} 피해를 주고, 2라운드 동안 공격력을 증가시킵니다. &n치명타 시, 대상에게 2라운드 동안 지속 화염 피해를 입힙니다.&n+200% 적중 보정이 적용됩니다.",
+    "english": "Deals {0} damage to the designated target and increases ATK for 2 rounds. On CRIT, deals Fire DoT DMG to the target for 2 rounds. +200% ACC applied."
+  },
+  "SkillDesc_Skill_MP_Executioner_EW2_2": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. &n집행자 효과가 10 중첩 이상이면 대상의 방어막/피해 감소 효과를 무시합니다.&n집행자 중첩을 10 소모합니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. If Executor has 10 or more stacks, ignores the target's Barrier / DMG Reduction effects. Consumes 10 Executor stacks."
+  },
+  "SkillDesc_Skill_MP_Executioner_EW2_3": {
+    "korean": "피격 시, 자신의 공격력이 감소하지만 치명타 / 적중이 증가합니다.&n피격 시, 해제 불가능한 반격 효과를 획득합니다.",
+    "english": "When hit, your ATK decreases but CRIT / ACC increase. When hit, gain an unremovable Counter Attack effect."
+  },
+  "SkillDesc_Skill_MP_Executioner_EW2_4": {
+    "korean": "피격 시, 1라운드 동안 방어력이 증가합니다. 증가량은 라운드 개시 시 초기화됩니다.&n엄정한 집행을 위해 효과 저항이 증가하고 행동 불능 효과에 면역 상태가 됩니다.",
+    "english": "When hit, DEF increases for 1 round. The increase resets at the start of the round. For Strict Execution, Status Resist increases and you become immune to Stunned effects."
+  },
+  "SkillDesc_Skill_MP_Executioner_EW2_5": {
+    "korean": "라운드 개시 시, 적 전체에 해제 불가능한 공격력 감소 효과를 적용합니다.",
+    "english": "At the start of the round, apply an unremovable ATK reduction effect to all enemies."
+  },
+  "BuffDesc1_Effect_MP_Executioner_EW2_1": {
+    "korean": "처형 준비 : 공격력 {0}%",
+    "english": "Preparation for execution : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_Executioner_EW2_11": {
+    "korean": "처형 준비 : 지속 화염 피해 {0}",
+    "english": "Preparation for execution : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Executioner_EW2_2": {
+    "korean": "참수 : 방어막 / 피해 감소 효과 무시",
+    "english": "Beheading : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_MP_Executioner_EW2_3": {
+    "korean": "집행자 : {0}% 위력으로 반격",
+    "english": "Executor : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_MP_Executioner_EW2_31": {
+    "korean": "집행자 : 공격력 {0}%",
+    "english": "Executor : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_Executioner_EW2_32": {
+    "korean": "집행자 : 적중 {0}%",
+    "english": "Executor : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_Executioner_EW2_32": {
+    "korean": "집행자 : 치명타 {0}%",
+    "english": "Executor : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_MP_Executioner_EW2_21": {
+    "korean": "집행자 : 강화 효과 해제",
+    "english": "Executor : Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_Executioner_EW2_4": {
+    "korean": "흡수장 : 효과 저항 {0}%",
+    "english": "Absorption field : Status Resist {0}%"
+  },
+  "BuffDesc2_Effect_MP_Executioner_EW2_4": {
+    "korean": "흡수장 : 행동 불능 면역",
+    "english": "Absorption field : Stunned Immunity"
+  },
+  "BuffDesc1_Effect_MP_Executioner_EW2_41": {
+    "korean": "흡수장 : 방어력 {0}",
+    "english": "Absorption field : DEF {0}"
+  },
+  "BuffDesc1_Effect_MP_Executioner_EW2_5": {
+    "korean": "스테일메이트 : 공격력 {0}%",
+    "english": "Stalemate : ATK {0}%"
+  }
+}

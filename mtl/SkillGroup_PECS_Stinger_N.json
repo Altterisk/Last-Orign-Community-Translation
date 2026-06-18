@@ -1,0 +1,170 @@
+{
+  "SkillName_Skill_PECS_Stinger_N_1": {
+    "korean": "네이팜 버너",
+    "english": "Napalm Burner"
+  },
+  "SkillName_Skill_PECS_Stinger_N_2": {
+    "korean": "파쇄 돌격",
+    "english": "Shatter Assault"
+  },
+  "SkillName_Skill_PECS_Stinger_N_3": {
+    "korean": "예열 개시",
+    "english": "Preheat Initiated"
+  },
+  "SkillName_Skill_PECS_Stinger_N_4": {
+    "korean": "제 3 우주속도",
+    "english": "Third Cosmic Speed"
+  },
+  "SkillName_Skill_PECS_Stinger_N_5": {
+    "korean": "그랜드 피날레",
+    "english": "Grand Finale"
+  },
+  "SkillDesc_Skill_PECS_Stinger_N_1": {
+    "korean": "화염 방사로 {0} 피해를 주고, 뒤의 대상에게는 50% 감소한 피해를 줍니다. &n적중 시, 3라운드 동안 대상에게 지속 화염 피해를 주고 효과 저항을 감소시킵니다.",
+    "english": "Deals {0} damage with a flamethrower, and deals 50% reduced damage to targets behind. On hit, inflicts Fire DoT DMG for 3 rounds and reduces the target’s Status Resist."
+  },
+  "SkillDescSimple_Skill_PECS_Stinger_N_1": {
+    "korean": "지정 범위 {0} 화염 피해. 지속 화염 피해 / 효과 저항 감소.",
+    "english": "Designated area {0} Fire DMG. Fire DoT DMG / Status Resist Reduction."
+  },
+  "SkillDesc_Skill_PECS_Stinger_N_2": {
+    "korean": "목표 대상에게 돌격해 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.&n적중 대상이 이동 불가 또는 표식 상태인 경우, 각각 피해량이 증가합니다.&n스킬 사용 시, 자신에게 적용된 회피 / 행동력 감소 효과를 해제합니다.",
+    "english": "Charges at the target dealing {0} damage. Ignores a portion of the target’s DEF. If the target is Rooted or Marked, damage is increased respectively. When the skill is used, removes EVA / SPD reduction effects from self."
+  },
+  "SkillDescSimple_Skill_PECS_Stinger_N_2": {
+    "korean": "단일 대상 {0} 피해. 방어 관통 증가. 조건부 피해량 증가. 자신 회피 / 행동력 감소 해제.",
+    "english": "Single target {0} damage. Increases DEF Penetration. Conditional damage increase. Removes EVA / SPD reduction from self."
+  },
+  "SkillDesc_Skill_PECS_Stinger_N_3": {
+    "korean": "적 공격 시, 부스터 출력을 올려 2라운드 동안 공격력 / 행동력이 증가합니다.&n라운드 개시 시, 2라운드 동안 자신의 회피가 증가합니다.",
+    "english": "When attacked by an enemy, boosts thruster output to increase ATK / SPD for 2 rounds. At the start of the round, increases own EVA for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Stinger_N_3": {
+    "korean": "자신 공격력 / 행동력 / 회피 증가.",
+    "english": "Increases own ATK / SPD / EVA."
+  },
+  "SkillDesc_Skill_PECS_Stinger_N_4": {
+    "korean": "전투 개시 시, 자신의 회피가 크게 증가합니다. 해당 효과는 라운드 경과에 따라 점감합니다.&n라운드 개시 시 자신이 지정 보호를 받고 있을 경우, 자신의 AP가 증가합니다.&n<예열 개시>의 발동 효과 지속이 1라운드 증가합니다.",
+    "english": "At the start of battle, greatly increases own EVA. This effect gradually decreases as rounds pass. At the start of the round, if under Target Protect, increases own AP. The duration of <Preheat Initiated>’s activation effect is increased by 1 round."
+  },
+  "SkillDescSimple_Skill_PECS_Stinger_N_4": {
+    "korean": "자신 회피 증가. 라운드 경과에 따라 점감. 조건부 자신 AP 증가. <예열 개시> 효과 지속 라운드 증가.",
+    "english": "Own EVA increase. Gradually decreases as rounds pass. Conditional own AP increase. <Preheat Initiated> effect duration increase."
+  },
+  "SkillDesc_Skill_PECS_Stinger_N_5": {
+    "korean": "라운드 개시 시, 자신은 회피 비례 스킬 위력 증가 효과를 획득합니다.&n<네이팜 버너> 사용 시, 초가속하여 3라운드 동안 방어막 / 피해 감소 무시 효과를 획득합니다.&n<초가속> 상태에서 적 처치 시, 사용한 AP의 50%를 돌려받습니다.",
+    "english": "At the start of the round, gains an effect that increases skill power based on EVA. When using <Napalm Burner>, enter Overdrive and gain Ignore Barrier / DMG Reduction for 3 rounds. While in <Overdrive> state, defeating an enemy refunds 50% of the AP used."
+  },
+  "SkillDescSimple_Skill_PECS_Stinger_N_5": {
+    "korean": "자신 회피 비례 스킬 위력 증가. <네이팜 버너> 사용 시, 방어막 / 피해 감소 무시 활성화. 적 처치 시, AP 반환.",
+    "english": "EVA-based skill power increase. When using <Napalm Burner>, activates Ignore Barrier / DMG Reduction. AP refund on kill."
+  },
+  "BuffDesc3_Effect_PECS_Stinger_N_5": {
+    "korean": "그랜드 피날레 : 적 처치 시 AP 반환",
+    "english": "Grand Finale : AP Refund on Kill"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_1": {
+    "korean": "네이팜 버너 : 지속 화염 피해 {0}",
+    "english": "Napalm Burner : Fire DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_PECS_Stinger_N_1": {
+    "korean": "네이팜 버너 : 효과 저항 {0}% 감소",
+    "english": "Napalm Burner : Status Resist {0}% Decrease"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_51": {
+    "korean": "초가속 : 방어막 / 피해 감소 무시",
+    "english": "Super Acceleration : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_52": {
+    "korean": "그랜드 피날레 : AP {0}",
+    "english": "Grand Finale : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_2": {
+    "korean": "파쇄 돌격 : 방어 관통 {0}%",
+    "english": "Shatter Assault : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Stinger_N_2": {
+    "korean": "목표 포착 : 피해량 {0}%",
+    "english": "Target Lock : Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Stinger_N_2": {
+    "korean": "탈출 속도 : 회피 / 행동력 감소 해제",
+    "english": "Escape Velocity : EVA / SPD Debuff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_21": {
+    "korean": "목표 포착 : 피해량 {0}%",
+    "english": "Target Lock : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_22": {
+    "korean": "좌표 확인 : 피해량 {0}%",
+    "english": "Coordinate Check : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_23": {
+    "korean": "탈출 속도 : 회피 감소 해제",
+    "english": "Escape Velocity : EVA Debuff Removal"
+  },
+  "BuffDesc2_Effect_PECS_Stinger_N_23": {
+    "korean": "탈출 속도 : 행동력 감소 해제",
+    "english": "Escape Velocity : SPD Debuff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_53": {
+    "korean": "그랜드 피날레 : AP {0}",
+    "english": "Grand Finale : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_3": {
+    "korean": "예열 개시 : 공격력 {0}%",
+    "english": "Initiate Preheating : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Stinger_N_3": {
+    "korean": "예열 개시 : 행동력 {0}%",
+    "english": "Initiate Preheating : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Stinger_N_3": {
+    "korean": "예열 개시 : 회피 {0}%",
+    "english": "Initiate Preheating : EVA {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_31": {
+    "korean": "예열 개시 : 회피 {0}%",
+    "english": "Initiate Preheating : EVA {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_32": {
+    "korean": "예열 개시 : 공격력 {0}%",
+    "english": "Initiate Preheating : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Stinger_N_32": {
+    "korean": "예열 개시 : 행동력 {0}%",
+    "english": "Initiate Preheating : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_33": {
+    "korean": "예열 개시 : 회피 {0}%",
+    "english": "Initiate Preheating : EVA {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_4": {
+    "korean": "제 3 우주속도 : 회피 {0}%",
+    "english": "Third Cosmic Speed : EVA {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Stinger_N_4": {
+    "korean": "항력 : 회피 {0}%",
+    "english": "Drag : EVA {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Stinger_N_4": {
+    "korean": "플라이바이 : AP {0}",
+    "english": "Flyby : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_41": {
+    "korean": "항력 : 회피 {0}%",
+    "english": "Drag : EVA {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_42": {
+    "korean": "플라이바이 : AP {0}",
+    "english": "Flyby : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Stinger_N_5": {
+    "korean": "그랜드 피날레 : 스킬 위력 {0}% (회피 비례)",
+    "english": "Grand Finale : Skill Power {0}% (EVA-based)"
+  },
+  "BuffDesc2_Effect_PECS_Stinger_N_5": {
+    "korean": "초가속 : 방어막 / 피해 감소 무시",
+    "english": "Super Acceleration : Ignore Barrier / DMG Reduction"
+  }
+}

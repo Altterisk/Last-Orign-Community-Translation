@@ -1,0 +1,150 @@
+{
+  "SkillName_Skill_DS_Sarena_N_1": {
+    "korean": "폭주! 헬벤트 랜스",
+    "english": "Rampage! Hellbent Lance"
+  },
+  "SkillName_Skill_DS_Sarena_N_2": {
+    "korean": "돌파!! 아크데모닉 러시",
+    "english": "Breakthrough!! Archdemonic Rush"
+  },
+  "SkillName_Skill_DS_Sarena_N_3": {
+    "korean": "속박을 벗어던진 쐐기",
+    "english": "Restraint-Breaking Wedge"
+  },
+  "SkillName_Skill_DS_Sarena_N_4": {
+    "korean": "골타리온 Ⅷ세의 유산",
+    "english": "Legacy of Goltarion VIII"
+  },
+  "SkillName_Skill_DS_Sarena_N_5": {
+    "korean": "친구로서의 재회",
+    "english": "Reunion as Friends"
+  },
+  "SkillDesc_Skill_DS_Sarena_N_1": {
+    "korean": "드릴 랜스를 찔러넣어 단일 대상에게 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.&n적중 / 공격 지원 시, 2라운드 동안 자신의 행동력이 증가합니다.&n치명타 시, 피해량이 증가합니다.",
+    "english": "Thrusts the drill lance into a single target, dealing {0} damage. Ignores a certain percentage of the target’s DEF.&nOn ACC / Follow-Up Attack: increases own SPD for 2 rounds.&nOn CRIT: damage increased."
+  },
+  "SkillDescSimple_Skill_DS_Sarena_N_1": {
+    "korean": "단일 대상 {0} 피해. 치명타 시, 피해량 증가.",
+    "english": "damage increased."
+  },
+  "SkillDesc_Skill_DS_Sarena_N_2": {
+    "korean": "부스터를 전력 가동 후 돌진하여 지정 범위에 {0} 피해를 줍니다.&n적중 시 <헬벤트> 중첩이 2 이상인 경우, 자신은 방어막 / 피해 감소 무시 효과를 획득합니다.&n적중 시 <헬벤트> 중첩이 3 이상인 경우, 대상의 방어력을 완전히 무시합니다.&n치명타 시, 피해량이 증가합니다.",
+    "english": "Fully engages boosters and charges, dealing {0} damage to a designated area.&nOn ACC, if <Hellbent> stacks are 2 or more, you gain Shield / Ignore Damage Reduction effect.&nOn ACC, if <Hellbent> stacks are 3 or more, completely ignores the target’s DEF.&nOn CRIT: damage increased."
+  },
+  "SkillDescSimple_Skill_DS_Sarena_N_2": {
+    "korean": "지정 범위 {0} 피해. 치명타 시, 피해량 증가.",
+    "english": "damage increased."
+  },
+  "SkillDesc_Skill_DS_Sarena_N_3": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가합니다.&n라운드 개시 시, 자신은 보호 무시 효과를 획득합니다. 해당 효과는 <돌파!! 아크데모닉 러시> 사용 시 해제됩니다.&n공격 적중 시 자신이 받는 피해 증가 상태인 경우, 액티브 스킬의 피해량이 증가합니다.",
+    "english": "increases own ATK / CRIT.&nAt the start of the round: gains Ignore Protection effect. This effect is removed upon using <Breakthrough!! Archdemonic Rush>.&nWhen an attack hits while you are under the DMG Taken Increased state: active skill damage is increased."
+  },
+  "SkillDescSimple_Skill_DS_Sarena_N_3": {
+    "korean": "자신 공격력 / 치명타 증가 / 보호 무시 활성화.",
+    "english": "Own ATK / CRIT increased / activates Ignore Protection."
+  },
+  "SkillDesc_Skill_DS_Sarena_N_4": {
+    "korean": "피격 시, 장갑을 퍼지하여 해당 라운드 동안 자신이 받는 피해가 증가하고 AP가 증가합니다.&n스쿼드 내 <골타리온 XⅢ세>가 있을 경우, 상기 효과를 대상에게도 물려줄 수 있고 AP 증가 효과를 서로 공유합니다.&n라운드 개시 시, 전열에 위치한 아군 경장형 보호기의 열 보호를 활성화합니다.",
+    "english": "purge armor, causing self to take increased DMG and gain AP for the rest of the round.&nIf <Goltarion XIII> is in the squad: the above effect can also be applied to the target, and the AP increase effect is shared between both.&nAt the start of the round: activates Column Protect for allied Light-type Defenders in the front row."
+  },
+  "SkillDescSimple_Skill_DS_Sarena_N_4": {
+    "korean": "피격 시, 받는 피해 증가 / AP 증가. 아군 경장형 보호기 열 보호 활성화.",
+    "english": "DMG Taken Increased / AP increased. Activates Column Protect for allied Light-type Defenders."
+  },
+  "SkillDesc_Skill_DS_Sarena_N_5": {
+    "korean": "라운드 개시 시, 스쿼드 내 <마왕군> 및 <마법소녀>의 공격을 지원하고 공격력을 증가시킵니다.&n이하의 스킬에 대하여 자신을 <마법소녀>로서 취급하여 효과를 발동시킬 수 있습니다.&n- <매지컬 모모>의 <세기말 마법소녀> / <골타리온 XⅢ세>의 <마왕님의 명이라면…!>",
+    "english": "provides Attack Support to <Maou Army> and <Magical Girl> units in the squad, and increases ATK.&nFor the following skills, treats self as a <Magical Girl> to activate their effects:&n<Magical Momo>’s <End-of-Century Magical Girl>&n<Goltarion XIII>’s <If It's the Demon King's Command…!>"
+  },
+  "SkillDescSimple_Skill_DS_Sarena_N_5": {
+    "korean": "<마왕군> / <마법소녀> 공격 지원 / 공격력 증가.",
+    "english": "<Maou Army> / <Magical Girl> Attack Support / ATK increased."
+  },
+  "BuffDesc2_Effect_DS_Sarena_N_2": {
+    "korean": "돌파!! : 방어력 무시",
+    "english": "Breakthrough!! : Ignores defense."
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_21": {
+    "korean": "돌파!! : 방어력 무시",
+    "english": "Breakthrough!! : Ignores defense."
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_1": {
+    "korean": "폭주! : 방어 관통 {0}%",
+    "english": "Rampage! : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_DS_Sarena_N_1": {
+    "korean": "헬벤트 : 행동력 {0}%",
+    "english": "Hellbent : SPD {0}%"
+  },
+  "BuffDesc3_Effect_DS_Sarena_N_1": {
+    "korean": "폭주! : 피해량 {0}%",
+    "english": "Rampage! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_11": {
+    "korean": "폭주! : 피해량 {0}%",
+    "english": "Rampage! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_12": {
+    "korean": "헬벤트 : 행동력 {0}%",
+    "english": "Hellbent : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_33": {
+    "korean": "이까짓거! : 피해량 {0}%",
+    "english": "This Little Thing! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_2": {
+    "korean": "돌파!! : 방어막 / 피해 감소 무시",
+    "english": "Breakthrough!! : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc3_Effect_DS_Sarena_N_2": {
+    "korean": "돌파!! : 피해량 {0}%",
+    "english": "Breakthrough!! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_22": {
+    "korean": "돌파!! : 피해량 {0}%",
+    "english": "Breakthrough!! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_3": {
+    "korean": "속박을 벗어던지다 : 공격력 {0}%",
+    "english": "Breaking Free from Restraints : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_Sarena_N_3": {
+    "korean": "쐐기의 고통을 딛고 : 치명타 {0}%",
+    "english": "Stepping Over the Wedge's Pain : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_DS_Sarena_N_3": {
+    "korean": "날 막을순 없어! : 보호 무시 활성화",
+    "english": "You Can't Stop Me! : Activate Ignore Protection"
+  },
+  "BuffDesc4_Effect_DS_Sarena_N_3": {
+    "korean": "이까짓거! : 피해량 {0}%",
+    "english": "This Little Thing! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_31": {
+    "korean": "날 막을순 없어! : 보호 무시 활성화",
+    "english": "You Can't Stop Me! : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_43": {
+    "korean": "가라! 부하들아! : 열 보호",
+    "english": "Go! My subordinates! : Column Protect"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_44": {
+    "korean": "죽음의 마력 흡수 : AP {0}",
+    "english": "Death Magic Absorption : AP {0}"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_5": {
+    "korean": "친구로서의 재회 : 공격력 {0}",
+    "english": "Reunion as Friends : ATK {0}"
+  },
+  "BuffDesc2_Effect_DS_Sarena_N_5": {
+    "korean": "마주잡은 두 손 : 공격 지원",
+    "english": "Hands Held Together : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_51": {
+    "korean": "미심쩍… : 공격력 {0}",
+    "english": "Suspicious... : ATK {0}"
+  },
+  "BuffDesc1_Effect_DS_Sarena_N_52": {
+    "korean": "경계의 눈초리 : 공격력 {0}",
+    "english": "Wary Gaze : ATK {0}"
+  }
+}

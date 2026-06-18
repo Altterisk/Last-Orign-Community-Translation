@@ -1,0 +1,86 @@
+{
+  "1002700240": {
+    "korean": "대 장갑 로켓",
+    "english": "Anti-Armor Rocket"
+  },
+  "1002700241": {
+    "korean": "MK08. 열압력탄",
+    "english": "Mk08. Thermobaric Round"
+  },
+  "1002702141": {
+    "korean": "시제 EFP탄",
+    "english": "Prototype EFP"
+  },
+  "1002705918": {
+    "korean": "스틸라인의 마음가짐",
+    "english": "Steel Line's Resolve (Red Hood)"
+  },
+  "1002703777": {
+    "korean": "대 장갑 로켓을 발사해 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.",
+    "english": "Fires an Anti-Armor Rocket dealing {0} damage. Ignores a percentage of the target's DEF."
+  },
+  "1002703778": {
+    "korean": "열압력탄을 발사해 대상에게 {0} 피해를 주고, 뒤 쪽에는 25% 감소한 피해를 줍니다. 치명타인 경우, 화염 속성 추가 피해를 줍니다.",
+    "english": "Fires a Thermobaric Round dealing {0} damage to the target and 25% reduced damage to units behind. On CRIT, deals Additional Fire Damage."
+  },
+  "1002703033": {
+    "korean": "목표 지점 {0} 피해. 치명타 시, 추가 화염 피해",
+    "english": "Target Point {0} Damage. Additional Fire Damage on CRIT"
+  },
+  "1002704333": {
+    "korean": "중장형 적에게 주는 피해량이 증가합니다. 자신이 전열인 경우, 공격력 / 방어 관통이 증가합니다.",
+    "english": "Increases damage dealt to Heavy enemies. If in frontline, ATK and DEF Penetration increase."
+  },
+  "1002703457": {
+    "korean": "대 중장형 피해량 증가. 전열인 경우, 공격력 / 관통 증가",
+    "english": "Increases Anti-Heavy DMG. If in frontline, ATK and DEF Penetration increase."
+  },
+  "1002706387": {
+    "korean": "라운드 개시 시, 자신의 적중이 증가 하며, 같은 스쿼드 내에 자신을 포함하여 스틸라인 계열 부대원 1기 당 공격력 / 치명타 가 증가합니다. 해당 효과는 중첩 적용됩니다.",
+    "english": "At round start, increases own ACC. For each Steel Line unit in the same squad, including self, ATK and CRIT increase. This effect stacks."
+  },
+  "1002706621": {
+    "korean": "라운드 시작 시 자신 적중 증가 / 스쿼드에 가까운 동료 1기 당 공격력 / 치명타 중첩 증가",
+    "english": "At round start, increases own ACC and grants stacked ATK / CRIT increase per nearby squad ally."
+  },
+  "BuffDesc1_Effect_MP_Impet_N_1": {
+    "korean": "방어 관통 {0}%",
+    "english": "DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_Impet_N_2": {
+    "korean": "화염 속성 추가 피해 {0}%",
+    "english": "Additional Fire Damage {0}%"
+  },
+  "BuffDesc1_Effect_MP_Impet_N_3": {
+    "korean": "시제 EFP탄 : 대 중장형 피해량+{0}%",
+    "english": "Prototype EFP : Anti-Heavy DMG +{0}%"
+  },
+  "BuffDesc2_Effect_MP_Impet_N_3": {
+    "korean": "시제 EFP탄 : 공격력+{0}% (전열)",
+    "english": "Prototype EFP : ATK +{0}% (Front Row)"
+  },
+  "BuffDesc3_Effect_MP_Impet_N_3": {
+    "korean": "시제 EFP탄 : 방어 관통+{0}% (전열)",
+    "english": "Prototype EFP : DEF Penetration +{0}% (Front Row)"
+  },
+  "BuffDesc1_Effect_MP_Impet_N_11": {
+    "korean": "시제 EFP탄 : 공격력+{0}%",
+    "english": "Prototype EFP : ATK +{0}%"
+  },
+  "BuffDesc2_Effect_MP_Impet_N_11": {
+    "korean": "시제 EFP탄 : 방어 관통+{0}%",
+    "english": "Prototype EFP : DEF Penetration +{0}%"
+  },
+  "BuffDesc1_Effect_MP_Impet_N_4": {
+    "korean": "스틸라인의 마음가짐 : 적중+{0}%",
+    "english": "Steel Line's Resolve (Red Hood) : ACC +{0}%"
+  },
+  "BuffDesc2_Effect_MP_Impet_N_4": {
+    "korean": "스틸라인의 마음가짐 : 공격력+{0}%",
+    "english": "Steel Line's Resolve (Red Hood) : ATK +{0}%"
+  },
+  "BuffDesc3_Effect_MP_Impet_N_4": {
+    "korean": "스틸라인의 마음가짐 : 치명타+{0}%",
+    "english": "Steel Line's Resolve (Red Hood) : CRIT +{0}%"
+  }
+}

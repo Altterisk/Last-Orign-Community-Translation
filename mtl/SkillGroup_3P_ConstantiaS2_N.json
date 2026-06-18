@@ -1,0 +1,134 @@
+{
+  "SkillName_Skill_3P_ConstantiaS2_N_1": {
+    "korean": "라이플 사격",
+    "english": "Rifle Shot"
+  },
+  "SkillDesc_Skill_3P_ConstantiaS2_N_1": {
+    "korean": "라이플을 발사해 단일 대상에게 {0} 피해를 줍니다. &n적중 시, 2라운드 동안 대상을 받는 피해 증가 상태로 만듭니다.&n치명타 시, 해당 라운드 동안 대상의 대 경장형 피해량을 감소시킵니다. (중첩 불가)",
+    "english": "Fire a rifle to deal {0} damage to a single target. On hit, applies DMG Taken Increased to the target for 2 rounds. On critical hit, reduces the target's Anti-Light DMG for that round. (Cannot stack)"
+  },
+  "SkillDescSimple_Skill_3P_ConstantiaS2_N_1": {
+    "korean": "단일 대상 {0} 피해. 받는 피해 증가 / 대 경장형 피해량 감소.",
+    "english": "Single target {0} damage. DMG Taken Increased / Anti-Light DMG Reduced."
+  },
+  "BuffDesc1_Effect_3P_ConstantiaS2_N_1": {
+    "korean": "라이플 사격 : 받는 피해 {0}% 증가",
+    "english": "Rifle Shot : DMG Taken Increased {0}%"
+  },
+  "BuffDesc2_Effect_3P_ConstantiaS2_N_1": {
+    "korean": "라이플 사격 : 대 경장형 피해량 {0}%",
+    "english": "Rifle Shot : Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_ConstantiaS2_N_11": {
+    "korean": "라이플 사격 : 대 경장형 피해량 {0}%",
+    "english": "Rifle Shot : Anti-Light DMG {0}%"
+  },
+  "SkillName_Skill_3P_ConstantiaS2_N_2": {
+    "korean": "발목 잡기",
+    "english": "Trip"
+  },
+  "SkillDesc_Skill_3P_ConstantiaS2_N_2": {
+    "korean": "보리와 함께 단일 대상에게 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상을 표식 / 이동 불가 / 행동력 감소 상태로 만듭니다. (중첩 불가)&n치명타 시, 대상의 반격 효과를 해제합니다.",
+    "english": "Attack a single target with Bori to deal {0} damage. On hit, applies Marked, Rooted, and SPD Reduction to the target for 2 rounds. (Cannot stack) On critical hit, removes the target's Counter Attack effect."
+  },
+  "SkillDescSimple_Skill_3P_ConstantiaS2_N_2": {
+    "korean": "단일 대상 {0} 피해. 표식 / 이동 불가 / 행동력 감소 / 반격 해제.",
+    "english": "Single target {0} damage. Applies Marked, Rooted, SPD Reduction, and removes Counter Attack."
+  },
+  "BuffDesc1_Effect_3P_ConstantiaS2_N_2": {
+    "korean": "보리야! : 표식",
+    "english": "Boriya!: Marked"
+  },
+  "BuffDesc2_Effect_3P_ConstantiaS2_N_2": {
+    "korean": "보리야! : 이동 불가",
+    "english": "Boriya!: Rooted"
+  },
+  "BuffDesc3_Effect_3P_ConstantiaS2_N_2": {
+    "korean": "발목 잡기 : 행동력 {0}%",
+    "english": "Trip : SPD {0}%"
+  },
+  "BuffDesc4_Effect_3P_ConstantiaS2_N_2": {
+    "korean": "무장 해제 : 반격 효과 해제",
+    "english": "Disarm: Counter Attack Effect Removal"
+  },
+  "BuffDesc1_Effect_3P_ConstantiaS2_N_21": {
+    "korean": "발목 잡기 : 행동력 {0}%",
+    "english": "Trip : SPD {0}%"
+  },
+  "BuffDesc1_Effect_3P_ConstantiaS2_N_22": {
+    "korean": "무장 해제 : 반격 효과 해제",
+    "english": "Disarm: Removes counterattack effect."
+  },
+  "SkillName_Skill_3P_ConstantiaS2_N_3": {
+    "korean": "준비만전",
+    "english": "Ready Stance"
+  },
+  "SkillDesc_Skill_3P_ConstantiaS2_N_3": {
+    "korean": "전투 개시 시, 꼼꼼한 준비를 통해 자신의 AP가 증가합니다.&n라운드 개시 시, 아군의 획득 경험치가 증가합니다.",
+    "english": "At the start of wave, meticulous preparation raises your AP. At the start of round, increases allies' EXP gain."
+  },
+  "SkillDescSimple_Skill_3P_ConstantiaS2_N_3": {
+    "korean": "자신 AP 증가. 아군 획득 경험치 증가.",
+    "english": "Increases AP. Increases allies' EXP gain."
+  },
+  "BuffDesc1_Effect_3P_ConstantiaS2_N_3": {
+    "korean": "준비만전 : AP {0}",
+    "english": "Fully Prepared: AP {0}"
+  },
+  "BuffDesc2_Effect_3P_ConstantiaS2_N_3": {
+    "korean": "준비만전 : 획득 경험치 {0}%",
+    "english": "Fully Prepared: EXP {0}%"
+  },
+  "BuffDesc1_Effect_3P_ConstantiaS2_N_31": {
+    "korean": "준비만전 : 획득 경험치 {0}%",
+    "english": "Fully Prepared: EXP {0}%"
+  },
+  "SkillName_Skill_3P_ConstantiaS2_N_4": {
+    "korean": "투철한 봉사정신",
+    "english": "Unwavering Service Spirit"
+  },
+  "SkillDesc_Skill_3P_ConstantiaS2_N_4": {
+    "korean": "적 공격 시, 2라운드 동안 아군의 공격력 / 적중 / 치명타가 증가합니다. &n스쿼드 내 <배틀 메이드> 소속 전투원이 제공하는 모든 행동력 증가 효과가 두 배로 증폭됩니다.",
+    "english": "On enemy attack, increases allies' ATK, ACC, and CRIT for 2 rounds. All SPD increase effects provided by <Battle Maid> squad members are doubled."
+  },
+  "SkillDescSimple_Skill_3P_ConstantiaS2_N_4": {
+    "korean": "공격 시, 아군 공격력 / 적중 / 치명타 증가.",
+    "english": "On attack, increase allies' ATK, ACC, and CRIT."
+  },
+  "BuffDesc1_Effect_3P_ConstantiaS2_N_4": {
+    "korean": "사냥감 몰이 : 공격력 {0}%",
+    "english": "Lure Prey : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_ConstantiaS2_N_4": {
+    "korean": "사냥감 몰이 : 적중 {0}%",
+    "english": "Lure Prey : ACC {0}%"
+  },
+  "BuffDesc3_Effect_3P_ConstantiaS2_N_4": {
+    "korean": "사냥감 몰이 : 치명타 {0}%",
+    "english": "Lure Prey : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_3P_ConstantiaS2_N_41": {
+    "korean": "봉사정신 함양",
+    "english": "Dedicated Service Spirit"
+  },
+  "SkillName_Skill_3P_ConstantiaS2_N_5": {
+    "korean": "오르카 하우스키퍼",
+    "english": "Orca Housekeeper"
+  },
+  "SkillDesc_Skill_3P_ConstantiaS2_N_5": {
+    "korean": "<준비만전>의 AP 증가 효과를 <배틀 메이드> 소속 전투원에게 공유합니다. 스킬 효과는 <오르카 하우스키퍼>의 스킬 레벨에 비례합니다.&n스쿼드 내에 <라비아타 프로토타입>이 있을 경우, 상기 효과의 대상이 아군 바이오로이드로 확장됩니다.&n전투 개시 시, 자신의 효과 저항이 증가합니다. 해당 효과는 효과 해제로 해제되지 않습니다.",
+    "english": "Shares the AP increase effect of <Ready Stance> with <Battle Maid> squad members. The effect scales with <Orca Housekeeper>'s skill level. If <Labiata Prototype> is in the squad, the effect also applies to allied Bioroids. At the start of wave, increase own Status Resist. This effect cannot be removed by dispel."
+  },
+  "SkillDescSimple_Skill_3P_ConstantiaS2_N_5": {
+    "korean": "자신 효과 저항 증가. <준비만전> 효과 대상 확대.",
+    "english": "Increase own Status Resist. <Ready Stance> effect target expansion."
+  },
+  "BuffDesc1_Effect_3P_ConstantiaS2_N_5": {
+    "korean": "하우스키퍼 : 효과 저항 {0}% 증가",
+    "english": "Housekeeper: Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_3P_ConstantiaS2_N_5": {
+    "korean": "<준비만전> 효과 공유",
+    "english": "Share <Ready Stance> Effect"
+  }
+}

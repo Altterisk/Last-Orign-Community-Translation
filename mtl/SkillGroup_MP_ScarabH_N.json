@@ -1,0 +1,98 @@
+{
+  "1002707859": {
+    "korean": "실드 돌진",
+    "english": "Shield Charge"
+  },
+  "1002707860": {
+    "korean": "호위 기동",
+    "english": "Escort Maneuver"
+  },
+  "1002707861": {
+    "korean": "수비 태세",
+    "english": "Defensive Stance"
+  },
+  "1002707862": {
+    "korean": "태세 전환",
+    "english": "Change of Stance"
+  },
+  "1002707868": {
+    "korean": "대상에게 돌격해 {0} 피해를 주고, 대상의 행 보호 효과와 피해 감소 효과를 해제합니다. 대상이 중장형이면 피해량이 증가합니다.",
+    "english": "Charge the target, dealing {0} damage and removing the target's Row Protect and DMG Reduction effects. Damage is increased against heavy units."
+  },
+  "1002707869": {
+    "korean": "3라운드 동안 지정한 아군을 보호하고 행동력을 올려줍니다.",
+    "english": "Protects a designated ally and increases their SPD for 3 rounds."
+  },
+  "1002707870": {
+    "korean": "HP가 50% 이상일 때 수비 기동이 실행되어, 받는 피해가 감소하고 방어력이 증가하는 대신 회피가 감소합니다.",
+    "english": "When HP is 50% or higher, Defensive Maneuver activates, reducing DMG taken, increasing DEF, and decreasing EVA."
+  },
+  "1002707871": {
+    "korean": "라운드 개시 시, 현재 라운드가 3라운드 이하일 경우, <방어 태세>를 갖춰 자신의 속성 저항을 대폭 증가시킵니다. 라운드 개시 시, 현재 라운드가 4 라운드 이상일 경우, <공격 태세>를 갖춰 공격력과 방어 관통이 증가하고 재공격을 하는 대신 방어력이 감소하고 회피가 증가합니다.",
+    "english": "At the start of a round, if the current round is 3 or lower, assume <Defensive Stance> to greatly increase your Elemental Resist. At the start of a round, if the current round is 4 or higher, assume <Offensive Stance> to increase ATK and DEF Penetration, and instead of Reattack, decrease DEF and increase EVA."
+  },
+  "1000110045": {
+    "korean": "행 보호 효과 해제",
+    "english": "Row Protect Effect Removal"
+  },
+  "1000110094": {
+    "korean": "피해 감소 효과 해제",
+    "english": "DMG Reduction Removal"
+  },
+  "1000110048": {
+    "korean": "실드 돌진 : 대 중장 피해량{0}%",
+    "english": "Shield Charge : Anti-Heavy DMG {0}%"
+  },
+  "1000110046": {
+    "korean": "호위 기동 : 지정 대상 보호",
+    "english": "Escort maneuver : Target Protect"
+  },
+  "1000110095": {
+    "korean": "호위 기동 : 행동력{0}%",
+    "english": "Escort maneuver : SPD {0}%"
+  },
+  "1000110047": {
+    "korean": "수비 기동 : 받는 피해 감소 {0}%",
+    "english": "Air Defense : DMG Reduction {0}%"
+  },
+  "1000110096": {
+    "korean": "수비 기동 : 방어력{0}%",
+    "english": "Air Defense : DEF {0}%"
+  },
+  "1000110099": {
+    "korean": "수비 기동 : 회피 {0}%",
+    "english": "Air Defense : EVA {0}%"
+  },
+  "1000110049": {
+    "korean": "방어 태세 : 화염 저항{0}%",
+    "english": "Defense Stance : Fire Resist {0}%"
+  },
+  "1000110097": {
+    "korean": "방어 태세 : 냉기 저항{0}%",
+    "english": "Defense Stance : Cold Resist {0}%"
+  },
+  "1000110100": {
+    "korean": "방어 태세 : 전기 저항{0}%",
+    "english": "Defense Stance : Electric Resist {0}%"
+  },
+  "1000110050": {
+    "korean": "공격 태세 : 회피{0}%",
+    "english": "Attack Stance : EVA {0}%"
+  },
+  "1000110051": {
+    "korean": "공격 태세 : 공격력{0}%",
+    "english": "Attack Stance : ATK {0}%"
+  },
+  "1000110098": {
+    "korean": "공격 태세 : 방어 관통{0}%",
+    "english": "Attack Stance : DEF Penetration {0}%"
+  },
+  "1000110101": {
+    "korean": "공격 태세 : 재 공격",
+    "english": "Attack Stance : Reattack"
+  },
+  "1000110102": {
+    "korean": "공격 태세 : 방어력{0}%",
+    "english": "Attack Stance : DEF {0}%"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "1002702578": {
+    "korean": "대구경 집속 입자포",
+    "english": "Large-caliber Focused Particle Cannon"
+  },
+  "1002702579": {
+    "korean": "에너지 충전 개시",
+    "english": "Start Energy Charging"
+  },
+  "1002702580": {
+    "korean": "동작 패턴 분석",
+    "english": "Action Pattern Analysis"
+  },
+  "1002702581": {
+    "korean": "반응로 폭발",
+    "english": "Reactor Explosion"
+  },
+  "1002702582": {
+    "korean": "집속 에너지 필드",
+    "english": "Focused Energy Field"
+  },
+  "1002706247": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 대상의 방어막 / 피해 감소 / 방어력을 무시하며, <집속 에너지 필드> 상태를 해제합니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. Ignores the target's Barrier / DMG Reduction / DEF, and removes the <Focused Energy Field> state."
+  },
+  "1002704413": {
+    "korean": "에너지 충전을 개시해 <집속 에너지 필드>를 활성화합니다.",
+    "english": "Start energy charging to activate the <Focused Energy Field>."
+  },
+  "1002706248": {
+    "korean": "라운드 개시 시, 강화 효과 해제로 해제 불가의 적중 (최대 10회 중첩) / 행동력 (최대 5회 중첩)이 증가합니다. 침수 상태에서 냉기 공격에 피격 시, 자신에게 적용되어 있는 모든 적중 / 행동력 효과를 해제합니다.",
+    "english": "At the start of a round, ACC (max 10 stacks) / SPD (max 5 stacks) increase. While Soaked, when hit by a cold attack, all ACC / SPD effects applied to yourself are removed."
+  },
+  "1002706250": {
+    "korean": "전투 개시 시, AP가 증가하고 침수 상태에서 처치될 경우, 주변에 괴멸적인 고정 피해를 줍니다.",
+    "english": "At the start of combat, AP increases, and if defeated while Soaked, deals catastrophic Fixed DMG to surrounding enemies."
+  },
+  "1002706249": {
+    "korean": "<집속 에너지 필드> 상태에서는 최소 피해만 입으며 강화 효과 해제로 해제 불가합니다. <집속 에너지 필드> 상태에서 한 라운드에 6회 피격 시, <집속 에너지 필드>가 해제 되고, 3라운드 동안 <집속 에너지 필드 사용 불가> 상태로 만듭니다.",
+    "english": "While in the <Focused Energy Field> state, you take minimal damage and cannot be removed by removing enhancement effects. If you are hit 6 times in one round while in the <Focused Energy Field> state, the <Focused Energy Field> is removed and you gain the <Focused Energy Field Unusable> state for 3 rounds."
+  },
+  "1000104010": {
+    "korean": "대구경 집속 입자포 : 방어력 무시",
+    "english": "Large-caliber Focused Particle Cannon: Ignore DEF"
+  },
+  "1000106518": {
+    "korean": "동작 패턴 분석 오류",
+    "english": "Action Pattern Analysis Error"
+  },
+  "1000106230": {
+    "korean": "집속 에너지 필드 약화",
+    "english": "Focused Energy Field Weakening"
+  },
+  "1000104847": {
+    "korean": "대구경 집속 입자포 : 방어막 / 피해 감소 무시",
+    "english": "Large-caliber focused particle cannon : Ignore Barrier / DMG Reduction"
+  },
+  "1000104011": {
+    "korean": "집속 에너지 필드 : 피해 최소화",
+    "english": "Focused energy field : Minimize Damage"
+  },
+  "1000104015": {
+    "korean": "집속 에너지 필드 : 효과 저항{0}%",
+    "english": "Focused energy field : Status Resist {0}%"
+  },
+  "1000106517": {
+    "korean": "동작 패턴 분석 : 적중{0}%",
+    "english": "Action pattern analysis : ACC {0}%"
+  },
+  "1000106520": {
+    "korean": "동작 패턴 분석 : 행동력{0}%",
+    "english": "Action pattern analysis : SPD {0}%"
+  },
+  "1000104014": {
+    "korean": "에너지 필드 해제 : 피해 최소화 해제",
+    "english": "Energy Field Deactivated : Minimize Damage Removal"
+  },
+  "1000106828": {
+    "korean": "집속 에너지 필드 사용 불가 : 방어력 {0}%",
+    "english": "Concentrated Energy Field Disabled : DEF {0}%"
+  },
+  "1000106658": {
+    "korean": "반응로 작동 : AP{0}",
+    "english": "Reactor Engaged : AP {0}"
+  },
+  "1000106519": {
+    "korean": "반응로 대폭발 : 공격력 {0}% 고정 피해",
+    "english": "Reactor Overload : ATK {0}% Fixed DMG"
+  },
+  "1000104848": {
+    "korean": "에너지 필드 해제 : 효과 저항 해제",
+    "english": "Energy Field Deactivated : Status Resist Effect Removal"
+  }
+}

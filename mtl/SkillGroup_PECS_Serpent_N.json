@@ -1,0 +1,102 @@
+{
+  "1002700337": {
+    "korean": "고압 분사",
+    "english": "High-Pressure Jet"
+  },
+  "1002700338": {
+    "korean": "액화 질소 분사",
+    "english": "Liquid Nitrogen Jet"
+  },
+  "1002700339": {
+    "korean": "긴급 구조",
+    "english": "Emergency Rescue"
+  },
+  "1002701568": {
+    "korean": "불굴의 소방관",
+    "english": "Indomitable Firefighter"
+  },
+  "1002703852": {
+    "korean": "물 대포를 고압 분사해 {0} 냉기 속성 피해를 주며, 2라운드 동안 냉기/전기 저항력이 감소하며 화염 저항이 증가하는 침수 상태로 만듭니다.",
+    "english": "Fires a high-pressure water jet to deal {0} Cold attribute damage and inflict Soaked status for 2 rounds, reducing Cold Resist and Electric Resist and increasing Fire Resist."
+  },
+  "1002703099": {
+    "korean": "지정 범위 {0} 피해. 침수 효과.",
+    "english": "Deals {0} damage to a designated area. Applies Soaked status."
+  },
+  "1002703853": {
+    "korean": "액화 질소를 분사해 {0} 냉기 속성 피해를 주며, 2라운드 동안 이동 불가 상태로 만듭니다. 대상이 침수 상태면 빙결 상태로 만듭니다. 빙결 상태에선 행동 불가이며, 피격 시 추가 피해를 받습니다. 스쿼드 내 징벌의 사디어스가 있을 시, 지정 대상에게 <일렉트릭 펜스> 스킬 협동 공격을 합니다.",
+    "english": "Fires a liquid nitrogen jet to deal {0} Cold attribute damage and Root the target for 2 rounds. If the target is Soaked, it becomes Frozen. Frozen targets are Stunned and take Additional DMG when hit. If a squad member has Sadius of Retribution, performs a Cooperative Attack with <Electric Fence> skill on the designated target."
+  },
+  "1002703100": {
+    "korean": "단일 대상 {0} 피해. 이동 불가/침수 대상이면 빙결 효과/협동 공격",
+    "english": "Deals {0} damage to a single target. Root / If target is Soaked, applies Frozen status / Cooperative Attack"
+  },
+  "1002706164": {
+    "korean": "라운드 개시 시, 지정 범위의 경장 / 중장형 아군을 보호하고 행동력을 증가시킵니다.",
+    "english": "At the start of the round, protects Light / Heavy allies in the designated area and increases their SPD."
+  },
+  "1002706501": {
+    "korean": "경장/중장형 아군 보호, 행동력 증가",
+    "english": "Protects Light / Heavy allies, increases SPD"
+  },
+  "1002706217": {
+    "korean": "전투 개시시 전투 속행 효과를 얻습니다. 라운드 개시 시, 받는 피해가 감소하며 행동력 / 화염 속성 저항 / 냉기 속성 저항이 증가합니다.",
+    "english": "At the start of battle, gains a Battle Continuation effect. At the start of each round, applies DMG Reduction and increases SPD / Fire Resist / Cold Resist."
+  },
+  "1002706534": {
+    "korean": "전투 속행 (1회). 받는 피해 감소, 행동력/화염저항/냉기저항 증가",
+    "english": "Battle Continuation (1x). Applies DMG Reduction and increases SPD / Fire Resist / Cold Resist"
+  },
+  "1000102545": {
+    "korean": "이동 불가",
+    "english": "Rooted"
+  },
+  "1000102661": {
+    "korean": "빙결 : 행동 불능",
+    "english": "Freeze : Stunned"
+  },
+  "1000103606": {
+    "korean": "빙결 : 받는 피해{0}%",
+    "english": "Freeze : DMG Taken {0}%"
+  },
+  "1000109159": {
+    "korean": "액화 질소 분사 : 협동 공격",
+    "english": "Liquid Nitrogen Jet : Cooperative Attack"
+  },
+  "1000102662": {
+    "korean": "긴급 구조 : 지정 대상 보호",
+    "english": "Emergency Rescue : Target Protect"
+  },
+  "1000104282": {
+    "korean": "긴급 구조 : 행동력{0}%",
+    "english": "Emergency Rescue : SPD {0}%"
+  },
+  "1000108066": {
+    "korean": "긴급 구조 : 행동력{0}%",
+    "english": "Emergency Rescue : SPD {0}%"
+  },
+  "1000103368": {
+    "korean": "불굴의 소방관 : 받는 피해 감소 {0}%",
+    "english": "Indomitable Firefighter : DMG Reduction {0}%"
+  },
+  "1000104596": {
+    "korean": "불굴의 소방관 : 행동력{0}%",
+    "english": "Indomitable Firefighter : SPD {0}%"
+  },
+  "1000108091": {
+    "korean": "불굴의 소방관 : {0}HP로 전투 속행",
+    "english": "Indomitable Firefighter : Battle Continuation with {0} HP"
+  },
+  "1000109157": {
+    "korean": "불굴의 소방관 : 화염 저항{0}%",
+    "english": "Indomitable Firefighter : Fire Resist {0}%"
+  },
+  "1000109158": {
+    "korean": "불굴의 소방관 : 냉기 저항{0}%",
+    "english": "Indomitable Firefighter : Cold Resist {0}%"
+  },
+  "1000108068": {
+    "korean": "불굴의 소방관 : {0}HP로 전투 속행",
+    "english": "Indomitable Firefighter : Battle Continuation with {0} HP"
+  }
+}

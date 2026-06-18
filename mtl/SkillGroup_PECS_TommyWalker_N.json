@@ -1,0 +1,190 @@
+{
+  "SkillName_Skill_PECS_TommyWalker_N_1": {
+    "korean": "분쇄 강타",
+    "english": "Crushing Strike"
+  },
+  "SkillName_Skill_PECS_TommyWalker_N_2": {
+    "korean": "작업용 앵커",
+    "english": "Work Anchor"
+  },
+  "SkillName_Skill_PECS_TommyWalker_N_3": {
+    "korean": "잔해 재활용",
+    "english": "Debris Recycling"
+  },
+  "SkillName_Skill_PECS_TommyWalker_N_4": {
+    "korean": "보급 개시",
+    "english": "Supply Start"
+  },
+  "SkillName_Skill_PECS_TommyWalker_N_5": {
+    "korean": "골든 워커즈 왜건",
+    "english": "Golden Workers Wagon"
+  },
+  "SkillDesc_Skill_PECS_TommyWalker_N_1": {
+    "korean": "적을 연타해 {0} 피해를 주고, 받는 피해 감소 효과를 해제합니다. &n대상의 방어력을 일정 비율 무시합니다.&n대상이 이동 불가 / 표식 상태인 경우, 해당 라운드 동안 행동 불가 상태로 만듭니다.",
+    "english": "Deals {0} damage by rapid hits and removes DMG Reduction effects. Ignores a portion of the target's DEF. If the target is Rooted or Marked, makes them Stunned for the rest of the round."
+  },
+  "SkillDescSimple_Skill_PECS_TommyWalker_N_1": {
+    "korean": "단일 대상 {0} 방어 무시 피해. 받는 피해 감소 해제. 표식 / 이동 불가 대상 행동 불가.",
+    "english": "Single target {0} DEF-ignoring damage. Removes DMG Reduction. If target is Marked or Rooted, inflicts Stunned."
+  },
+  "SkillDesc_Skill_PECS_TommyWalker_N_2": {
+    "korean": "앵커로 적을 포획해 {0} 피해를 주고 2칸 앞으로 당깁니다. &n포획된 대상은 2라운드 동안 행동력 감소 / 이동 불가 / 받는 피해 증가 상태가 됩니다.&n스킬 레벨 당 8%의 적중 보정이 적용됩니다.",
+    "english": "Capture the enemy with an anchor to deal {0} damage and pull them forward 2 tiles. The captured target becomes Reduced SPD / Rooted / DMG Taken Increased for 2 rounds. Each skill level grants an 8% ACC bonus."
+  },
+  "SkillDescSimple_Skill_PECS_TommyWalker_N_2": {
+    "korean": "단일 대상 {0} 피해. 앞으로 당기기 / 행동력 감소 / 이동 불가 / 받는 피해 증가.",
+    "english": "Single target {0} damage. Pull forward / Reduced SPD / Rooted / DMG Taken Increased."
+  },
+  "SkillDesc_Skill_PECS_TommyWalker_N_3": {
+    "korean": "적 사망 시, 적의 잔해를 수거해 아군의 공격력 / 방어력을 영구적으로 증가시킵니다.&n전투 개시 시, 아군의 획득 경험치를 증가시킵니다. 대상이 AGS인 경우 효과가 두 배로 증폭됩니다.&n스쿼드 내에 <드론>이 있는 경우, 자신의 행동력이 증가합니다.",
+    "english": "When an enemy dies, collect its debris to permanently increase allies’ ATK / DEF. At battle start, increase allies’ EXP gain. If the target is an AGS, the effect is doubled. If there is a <Drone> in the squad, your SPD increases."
+  },
+  "SkillDescSimple_Skill_PECS_TommyWalker_N_3": {
+    "korean": "적 사망 시 아군 공격력 / 방어력 증가. 아군 획득 경험치 증가. <드론 08> 존재 시, 자신 행동력 증가.",
+    "english": "When an enemy dies, increase allies’ ATK / DEF. Increase allies’ EXP gain. If <Drone 08> is present, increase your SPD."
+  },
+  "SkillDesc_Skill_PECS_TommyWalker_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군의 AP를 증가시킵니다. &n적 사망 시, 적의 잔해를 수거해 범위 내 아군의 AP를 증가시킵니다.&n스쿼드 내에 <드론>이 있는 경우, 원격 배송을 통해 인접 여부에 관계 없이 AP를 증가시킵니다.",
+    "english": "At round start, increase AP of allies within range. When an enemy dies, collect its debris to increase AP of allies within range. If there is a <Drone> in the squad, remote delivery increases AP regardless of adjacency."
+  },
+  "SkillDescSimple_Skill_PECS_TommyWalker_N_4": {
+    "korean": "범위 내 아군 AP 증가.",
+    "english": "Increase AP of allies within range."
+  },
+  "SkillDesc_Skill_PECS_TommyWalker_N_5": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 방어력 / 사거리가 증가합니다.&n<작업용 앵커> 적중 시, <분쇄 강타> 스킬 협동 공격을 실행합니다.&n<잔해 재활용> / <보급 개시>의 적 사망 시 발동 효과가, 자신이 적 처치 시에는 두 배로 증폭됩니다.",
+    "english": "At round start, your ATK / DEF / Range increase. When <Work Anchor> hits, triggers a Cooperative Attack with the <Crushing Strike> skill. The on‑kill effects of <Debris Recycling> / <Supply Start> are doubled when you defeat the enemy."
+  },
+  "SkillDescSimple_Skill_PECS_TommyWalker_N_5": {
+    "korean": "공격력 / 방어력 / 사거리 증가. [분쇄 강타] 협동 공격. 조건부 <잔해 재활용> / <보급 개시> 효과 증폭.",
+    "english": "Increase ATK / DEF / Range. [Crushing Strike] Cooperative Attack. Conditional amplification of <Debris Recycling> / <Supply Start> effects."
+  },
+  "BuffDesc2_Effect_PECS_TommyWalker_N_2": {
+    "korean": "작업용 앵커 : 앞으로 {0}칸 당김",
+    "english": "Work Anchor: Pulls forward {0} tiles"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_51": {
+    "korean": "크랭크 샤프트 : [분쇄 강타] 협동 공격",
+    "english": "Crank Shaft: [Crushing Strike] Cooperative Attack"
+  },
+  "BuffDesc4_Effect_PECS_TommyWalker_N_5": {
+    "korean": "크랭크 샤프트 : [분쇄 강타] 협동 공격",
+    "english": "Crank Shaft: [Crushing Strike] Cooperative Attack"
+  },
+  "BuffDesc5_Effect_PECS_TommyWalker_N_5": {
+    "korean": "<잔해 재활용> / <보급 개시> 강화",
+    "english": "Reinforce <Debris Recycling> / <Supply Start>"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_1": {
+    "korean": "분쇄 강타 : 받는 피해 감소 해제",
+    "english": "Crushing Strike : DMG Reduction Removal"
+  },
+  "BuffDesc2_Effect_PECS_TommyWalker_N_1": {
+    "korean": "압착 : 방어 관통 {0}%",
+    "english": "Constrict : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_PECS_TommyWalker_N_1": {
+    "korean": "목표 분쇄 : 행동 불가",
+    "english": "Target Crushing : Stunned"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_11": {
+    "korean": "압착 : 방어 관통 {0}%",
+    "english": "Constrict : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_12": {
+    "korean": "목표 분쇄 : 행동 불가",
+    "english": "Target Crushing : Stunned"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_2": {
+    "korean": "작업용 앵커 : 행동력 {0}%",
+    "english": "Work Anchor : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_TommyWalker_N_2": {
+    "korean": "작업용 앵커 : 이동 불가",
+    "english": "Work Anchor : Rooted"
+  },
+  "BuffDesc4_Effect_PECS_TommyWalker_N_2": {
+    "korean": "작업용 앵커 : 받는 피해 {0}% 증가",
+    "english": "Work Anchor : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_21": {
+    "korean": "작업용 앵커 : 받는 피해 {0}% 증가",
+    "english": "Work Anchor : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_3": {
+    "korean": "잔해 재활용 : 공격력 {0}",
+    "english": "Scrap Recycling : ATK {0}"
+  },
+  "BuffDesc2_Effect_PECS_TommyWalker_N_3": {
+    "korean": "잔해 재활용 : 방어력 {0}",
+    "english": "Scrap Recycling : DEF {0}"
+  },
+  "BuffDesc3_Effect_PECS_TommyWalker_N_3": {
+    "korean": "머신 러닝 : 획득 경험치 {0}%",
+    "english": "Machine Learning : EXP {0}%"
+  },
+  "BuffDesc4_Effect_PECS_TommyWalker_N_3": {
+    "korean": "작업 분담 : 행동력 {0}%",
+    "english": "Task Allocation : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_31": {
+    "korean": "작업 분담 : 행동력 {0}%",
+    "english": "Task Allocation : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_32": {
+    "korean": "머신 러닝 : 획득 경험치 {0}%",
+    "english": "Machine Learning : EXP {0}%"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_33": {
+    "korean": "딥 러닝 : 획득 경험치 {0}%",
+    "english": "Deep Learning : EXP {0}%"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_52": {
+    "korean": "잔해 재활용 (증폭) : 공격력 {0}",
+    "english": "Debris Recycling (Amplified) : ATK {0}"
+  },
+  "BuffDesc2_Effect_PECS_TommyWalker_N_52": {
+    "korean": "잔해 재활용 (증폭) : 방어력 {0}",
+    "english": "Debris Recycling (Amplified) : DEF {0}"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_42": {
+    "korean": "보급 개시 : AP {0}",
+    "english": "Supply Drop : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_43": {
+    "korean": "샐비지 : AP {0}",
+    "english": "Salvage : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_54": {
+    "korean": "샐비지 (증폭) : AP {0}",
+    "english": "Salvage (Amplified) : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_4": {
+    "korean": "보급 개시 : AP {0}",
+    "english": "Supply Drop : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_TommyWalker_N_4": {
+    "korean": "샐비지 : AP {0} (적 사망 시)",
+    "english": "Salvage : AP {0} (On Enemy Death)"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_41": {
+    "korean": "샐비지 : AP {0}",
+    "english": "Salvage : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_53": {
+    "korean": "샐비지 (증폭) : AP {0}",
+    "english": "Salvage (Amplified) : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_TommyWalker_N_5": {
+    "korean": "골든 왜건 : 공격력 {0}%",
+    "english": "Golden Wagon : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_TommyWalker_N_5": {
+    "korean": "골든 왜건 : 방어력 {0}%",
+    "english": "Golden Wagon : DEF {0}%"
+  },
+  "BuffDesc3_Effect_PECS_TommyWalker_N_5": {
+    "korean": "골든 왜건 : 사거리 {0}",
+    "english": "Golden Wagon : Range {0}"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "SkillName_Skill_DS_KunoichiKaen_N_1": {
+    "korean": "시라누이",
+    "english": "Shiranui"
+  },
+  "SkillName_Skill_DS_KunoichiKaen_N_2": {
+    "korean": "오의 [화신강림]",
+    "english": "Secret Art [Avatar Descent]"
+  },
+  "SkillName_Skill_DS_KunoichiKaen_N_3": {
+    "korean": "불꽃의 춤",
+    "english": "Dance of Flames"
+  },
+  "SkillName_Skill_DS_KunoichiKaen_N_4": {
+    "korean": "일격필살",
+    "english": "One Strike Kill"
+  },
+  "SkillName_Skill_DS_KunoichiKaen_N_5": {
+    "korean": "면허개전 <무라사키 류>",
+    "english": "License Revocation <Murasaki Style>"
+  },
+  "SkillDesc_Skill_DS_KunoichiKaen_N_1": {
+    "korean": "대상에 {0} 화염 피해를 주고 적중 시, 대상의 효과 저항을 감소시킵니다. &n치명타 시, 지속 화염 피해를 입힙니다. &n<일격필살> 활성화 상태인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} fire damage to the target and reduces the target's Status Resist on hit. CRIT: applies Fire DoT DMG. While <One Strike Kill> is active, damage is increased."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiKaen_N_1": {
+    "korean": "지정 대상 {0} 화염 피해. 대상 효과 저항 감소. 치명타 시, 지속 화염 피해. <일격필살> 활성화 시, 피해량 증가.",
+    "english": "{0} fire damage. Target Status Resist reduced. CRIT: Fire DoT DMG. <One Strike Kill> active: damage increased."
+  },
+  "SkillDesc_Skill_DS_KunoichiKaen_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 화염 피해를 주고 적중 시, 대상의 화염 속성 저항을 감소시킵니다. &n대상이 냉기/전기 속성 저항 감소 상태일 경우, 피해량이 증가합니다.&n<일격필살> 활성화 상태인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection fire damage to the specified area and reduces the target's Fire Resist on hit. If the target has reduced cold/electric resistance, damage is increased. While <One Strike Kill> is active, damage is increased."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiKaen_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 화염 피해. 대상 화염 저항 감소. 조건부 피해량 증가. <일격필살> 활성화 시, 피해량 증가.",
+    "english": "{0} Ignore Protection fire damage. Target Fire Resist reduced. Conditional damage increase. <One Strike Kill> active: damage increased."
+  },
+  "SkillDesc_Skill_DS_KunoichiKaen_N_3": {
+    "korean": "라운드 개시 시 자신의 공격력을 크게 증가시킵니다. 해당 효과는 4라운드 동안 점차 감소합니다.",
+    "english": "At the start of the round, greatly increases your ATK. This effect gradually decreases over 4 rounds."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiKaen_N_3": {
+    "korean": "전투 개시 시, 공격력 증가. 라운드 경과 시 효과 점감.",
+    "english": "At the start of the battle, increases ATK. Effect gradually decreases over rounds."
+  },
+  "SkillDesc_Skill_DS_KunoichiKaen_N_4": {
+    "korean": "전투 개시 시 <일격필살> 버프가 활성화됩니다. &n라운드 개시 시, 자신의 행동력이 증가합니다.",
+    "english": "At the start of the battle, the <One Strike Kill> buff is activated. At the start of the round, increases your SPD."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiKaen_N_4": {
+    "korean": "전투 개시 시, <일격필살> 활성화. 자신 행동력 증가.",
+    "english": "At the start of the battle, <One Strike Kill> is activated. Increases your SPD."
+  },
+  "SkillDesc_Skill_DS_KunoichiKaen_N_5": {
+    "korean": "전투 개시 시, 자신의 대 경장형 피해량이 증가합니다.&n<불꽃의 춤> 효과 중 라운드 경과에 따른 공격력 점감이 발생하지 않습니다.&n<시라누이> 사용 시, 스쿼드 내에 <쿠노이치 엔라이>가 있을 경우 <호무라> 협동공격을 유도합니다.",
+    "english": "At the start of the battle, increases your Anti-Light DMG. While <Dance of Flames> is active, ATK reduction over rounds does not occur. When <Shiranui> is used, if <Kunoichi Enrai> is in the squad, it triggers a <Homura> cooperative attack."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiKaen_N_5": {
+    "korean": "대 경장형 피해량 증가. <불꽃의 춤> 공격력 점감 제거. [호무라] 협동 공격.",
+    "english": "Anti-Light DMG increased. Removes ATK reduction from <Dance of Flames>. [Homura] cooperative attack."
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_52": {
+    "korean": "무라사키 류 : [호무라] 협동 공격",
+    "english": "Murasaki Style : [Homura] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_4": {
+    "korean": "일격필살 : 활성 상태",
+    "english": "One Strike Kill : Active"
+  },
+  "BuffDesc2_Effect_DS_KunoichiKaen_N_5": {
+    "korean": "불꽃의 춤 <하이카구라>",
+    "english": "Dance of Flames <High Kagura>"
+  },
+  "BuffDesc3_Effect_DS_KunoichiKaen_N_5": {
+    "korean": "무라사키 류 : [호무라] 협동 공격",
+    "english": "Murasaki Style : [Homura] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_53": {
+    "korean": "일격필살 : 활성 상태",
+    "english": "One Strike Kill : Active"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_1": {
+    "korean": "시라누이 : 효과 저항 {0}% 감소",
+    "english": "Shiranui : Status Resist {0}% Decrease"
+  },
+  "BuffDesc2_Effect_DS_KunoichiKaen_N_1": {
+    "korean": "시라누이 : {0} 지속 화염 피해",
+    "english": "Shiranui : Fire DoT DMG {0}"
+  },
+  "BuffDesc3_Effect_DS_KunoichiKaen_N_1": {
+    "korean": "일격필살 : 피해량 {0}%",
+    "english": "One Hit Kill : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_11": {
+    "korean": "시라누이 : {0} 지속 화염 피해",
+    "english": "Shiranui : Fire DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_12": {
+    "korean": "일격필살 : 피해량 {0}%",
+    "english": "One Hit Kill : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_2": {
+    "korean": "오의[화신강림] : 화염 저항 {0}%",
+    "english": "Secret Art [Avatar Descent] : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiKaen_N_2": {
+    "korean": "오의[화신강림] : 피해량 {0}%",
+    "english": "Secret Art [Avatar Descent] : Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_DS_KunoichiKaen_N_2": {
+    "korean": "일격필살 : 피해량 {0}%",
+    "english": "One Hit Kill : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_21": {
+    "korean": "오의 [화신강림] : 피해량 {0}%",
+    "english": "Secret Art [Avatar Descent] : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_22": {
+    "korean": "일격필살 : 피해량 {0}%",
+    "english": "One Hit Kill : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_3": {
+    "korean": "불꽃의 춤 : 공격력 {0}%",
+    "english": "Dance of Flames : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiKaen_N_3": {
+    "korean": "불꽃의 춤 : 공격력 {0}% (라운드 점감)",
+    "english": "Dance of Flames : ATK {0}% (round decrement)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_51": {
+    "korean": "하이카구라 : 공격력 {0}%",
+    "english": "High Kagura : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_31": {
+    "korean": "불꽃의 춤 : 공격력 {0}% (4라운드)",
+    "english": "Dance of Flames : ATK {0}% (4 rounds)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_32": {
+    "korean": "불꽃의 춤 : 공격력 {0}% (3라운드)",
+    "english": "Dance of Flames : ATK {0}% (3 rounds)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_33": {
+    "korean": "불꽃의 춤 : 공격력 {0}% (2라운드)",
+    "english": "Dance of Flames : ATK {0}% (2 rounds)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_34": {
+    "korean": "불꽃의 춤 : 공격력 {0}% (1라운드)",
+    "english": "Dance of Flames : ATK {0}% (1 rounds)"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_35": {
+    "korean": "사그라든 불꽃 : 공격력 {0}%",
+    "english": "Fading Flames : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiKaen_N_4": {
+    "korean": "일격필살 : 행동력 {0}%",
+    "english": "One Hit Kill : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_41": {
+    "korean": "일격필살 : 행동력 {0}%",
+    "english": "One Hit Kill : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_5": {
+    "korean": "면허개전 : 대 경장형 피해량 {0}%",
+    "english": "License Revocation : Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiKaen_N_54": {
+    "korean": "진에 : 공격력 {0}%",
+    "english": "Jin'e : ATK {0}%"
+  }
+}

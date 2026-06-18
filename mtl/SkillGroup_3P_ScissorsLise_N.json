@@ -1,0 +1,106 @@
+{
+  "1002700133": {
+    "korean": "장갑 오려내기",
+    "english": "Armor Slice"
+  },
+  "1002703728": {
+    "korean": "가위날로 장갑을 깎아 {0} 피해를 주고, 3라운드 동안 방어력을 감소시킵니다. 치명타 시, 피해량이 증가합니다.",
+    "english": "Shaves armor with scissor blades to deal {0} damage and reduces the target's DEF for 3 rounds. Damage increases on a CRIT."
+  },
+  "1002702965": {
+    "korean": "단일 대상 {0} 피해. 방어력 감소. 치명타 시, 피해량 증가",
+    "english": "Deals {0} damage to a single target. Reduces DEF. Damage increases on a CRIT."
+  },
+  "1000102561": {
+    "korean": "장갑 오려내기 : 방어력 {0}%",
+    "english": "Armor Slice : DEF {0}%"
+  },
+  "1000102609": {
+    "korean": "회심의 일격 : 피해량{0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "1002700134": {
+    "korean": "시저스 블레이드",
+    "english": "Scissors Blade"
+  },
+  "1002708229": {
+    "korean": "시저스 블레이드 연속 베기로 {0} 피해를 줍니다. 대상이 방어력 감소 / 받는 피해 증가 상태인 경우, 피해량이 각각 증가합니다.",
+    "english": "Deals {0} damage with consecutive slashes. Damage is increased if the target has DEF Down or DMG Taken Increased."
+  },
+  "1002708231": {
+    "korean": "단일 대상 {0} 피해. 받는 피해 증가 / 방어 감소 대상 피해량 증가",
+    "english": "Deals {0} damage to a single target. Damage dealt is increased against targets with DMG Taken Increased or DEF Down."
+  },
+  "1000110794": {
+    "korean": "약점 공격 : 피해량{0}% (방어력 감소)",
+    "english": "Weak Point Attack : Damage {0}% (DEF Decrease)"
+  },
+  "1000110796": {
+    "korean": "약점 공격 : 피해량{0}% (받는 피해 증가)",
+    "english": "Weak Point Attack : Additional DMG {0}% (DMG Taken Increased)"
+  },
+  "1002700135": {
+    "korean": "정원사의 본성",
+    "english": "Gardener's Instinct"
+  },
+  "1002708230": {
+    "korean": "라운드 시작 시, 치명타 / 방어 관통이 증가합니다. 공격 적중 시, 2라운드 동안 해제 불가능한 공격력 / 받는 피해 증가 효과가 적용됩니다.",
+    "english": "At the start of the round, CRIT and DEF Penetration are increased. When an attack hits, applies ATK Up and DMG Taken Increased effects that cannot be removed for 2 rounds."
+  },
+  "1002708232": {
+    "korean": "치명타 / 방어 관통 증가. 적중 시 공격력 / 받는 피해 증가",
+    "english": "CRIT and DEF Penetration increase. On hit, increases ATK and DMG Taken Increased."
+  },
+  "1000110795": {
+    "korean": "정원사의 본성 : 방어 관통{0}%",
+    "english": "Gardener's Instinct : DEF Penetration {0}%"
+  },
+  "1000104231": {
+    "korean": "정원사의 본성 : 치명타{0}%",
+    "english": "Gardener's Instinct : CRIT {0}%"
+  },
+  "1000110798": {
+    "korean": "숨겨진 본성 : 공격력{0}%",
+    "english": "Hidden Nature : ATK {0}%"
+  },
+  "1000110797": {
+    "korean": "숨겨진 본성 : 받는 피해{0}%",
+    "english": "Hidden Nature: DMG Taken {0}%"
+  },
+  "1002700139": {
+    "korean": "해충 처리",
+    "english": "Pest Control"
+  },
+  "1002706125": {
+    "korean": "전투 개시 시 AP가 증가하며, 적을 처치하면 행동력이 증가합니다. 같은 스쿼드 내에 처리 대상인 쌍권총을 든 해충이나 쌍식칼을 든 해충이 있는 경우에는 행동력이 추가로 증가합니다.",
+    "english": "At the start of battle, SPD is increased. When defeating an enemy, SPD increases further. If there is a designated target—such as a dual‑pistol‑wielding or dual‑knife‑wielding Metal Parasite—in the same squad, SPD increases additionally."
+  },
+  "1002702968": {
+    "korean": "전투 개시 시, AP 증가. 적 처치 / 스쿼드 내 해충이 있을 시 행동력 증가",
+    "english": "At the start of battle, SPD is increased. SPD increases when defeating an enemy or if there is a Metal Parasite in the squad."
+  },
+  "1000103682": {
+    "korean": "해충 처리 : AP{0}",
+    "english": "Pest Control : AP {0}"
+  },
+  "1000104727": {
+    "korean": "해충…!! : 행동력{0}%",
+    "english": "Pest…!!: SPD {0}%"
+  },
+  "1000105212": {
+    "korean": "히히히… : 행동력{0}% (처치 시)",
+    "english": "Hehehe… : SPD {0}% (On Kill)"
+  },
+  "1000103814": {
+    "korean": "히히히… : 행동력{0}%",
+    "english": "Hehehe...: SPD {0}%"
+  },
+  "1000103683": {
+    "korean": "나랑 처리할 일이 있지 않아? : 행동력{0}%",
+    "english": "Don’t You Have Business With Me? : SPD {0}%"
+  },
+  "1000103987": {
+    "korean": "네가 그랬지? : 행동력{0}%",
+    "english": "Was That You?: SPD {0}%"
+  }
+}

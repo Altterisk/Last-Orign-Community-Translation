@@ -1,0 +1,106 @@
+{
+  "1002705450": {
+    "korean": "도망치세요!",
+    "english": "Run away!"
+  },
+  "1002705451": {
+    "korean": "쏘지마세요!",
+    "english": "Don't shoot!"
+  },
+  "SkillName_Skill_PECS_Saetti_N_3": {
+    "korean": "위험해요!",
+    "english": "Watch out!"
+  },
+  "1002705657": {
+    "korean": "조심하세요!",
+    "english": "Be Careful!"
+  },
+  "1002706286": {
+    "korean": "센서 교란용 가스탄으로 {0} 피해를 주고, 2라운드 동안 대상을 공격력 / 적중 / 치명타 감소 / 받는 피해 증가 상태로 만듭니다. 각 효과는 중첩 가능하며, 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "Deals {0} damage with a sensor-disrupting gas grenade, inflicting ATK Reduction, ACC Reduction, CRIT Reduction, and DMG Taken Increased on the target for 2 turns. Each effect can stack, and the area of effect increases at skill level 10."
+  },
+  "1002706569": {
+    "korean": "지정 범위 {0} 피해. 공격력 / 적중 / 치명타 감소 / 피해 증폭",
+    "english": "Deal {0} damage to target location. ATK / ACC / CRIT Reduction / DMG Taken Increased"
+  },
+  "1002706287": {
+    "korean": "대상에게 돌진해 {0} 피해를 주고, AP를 감소시키고 2라운드 동안 도발 상태로 만듭니다. 치명타 시, 피해량이 증가합니다. 스킬 사용 시, 2라운드 동안 자신이 받는 피해가 감소합니다.",
+    "english": "Charges at the target, dealing {0} damage, reducing their AP, and inflicting Provoked for 2 turns. On a critical hit, damage is increased. Upon skill use, the user gains DMG Reduction for 2 turns."
+  },
+  "1002706570": {
+    "korean": "단일 대상 {0} 피해. 도발 / AP 감소. 치명타 시, 피해량 증가. 스킬 사용 시, 받는 피해 감소 (자신)",
+    "english": "Single target {0} damage. Provoked / AP reduction. On critical hit, damage increases. When using a skill, DMG Reduction (Self)"
+  },
+  "1002706288": {
+    "korean": "전투 개시 시, 자신과 양 옆에 있는 아군의 AP가 증가합니다. 라운드 개시 시, 자신에게 열 보호 / 방어력 증가 효과가 적용됩니다. 피격 시, 자신의 효과 저항이 증가하며 최대 3중첩까지 가능합니다.",
+    "english": "At the start of battle, increases AP for the user and adjacent allies. At the start of each round, grants the user Column Protect and DEF increase. When hit, the user gains increased Status Resist, stacking up to 3 times."
+  },
+  "1002706571": {
+    "korean": "열 보호 / 방어력 증가 (자신). 전투 개시 시, 자신과 양 옆의 아군 AP 증가. 피격 시, 효과 저항 증가 (자신).",
+    "english": "Column Protect / DEF increase (Self). At the start of battle, increases AP for self and allies on the same column. When hit, Status Resist increases (Self)"
+  },
+  "1002706346": {
+    "korean": "라운드 개시 시, 후열의 공격기 / 지원기를 지정 보호합니다. 자신이 받는 피해 감소 상태일 시, 지정 보호 대상들의 공격력을 증가시킵니다.",
+    "english": "At the start of the round, designates backline Attacker / Supporter for Target Protect. If self is under DMG Reduction, increases the ATK of protected targets."
+  },
+  "1002706599": {
+    "korean": "후열 공격기 / 지원기 지정 대상 보호. 자신이 받는 피해 감소 상태일 시, 지정 보호 대상 공격력 증가",
+    "english": "Protects designated rear Attacker / Supporter. If self is under DMG Reduction, increases ATK of the protected target."
+  },
+  "1000106582": {
+    "korean": "쏘지마세요! : 대상 도발 (세띠)",
+    "english": "Don’t Shoot! : Provoke target (Saetti)"
+  },
+  "1000106581": {
+    "korean": "시야 차단 : 공격력 {0}%",
+    "english": "Vision Block : ATK {0}%"
+  },
+  "1000106805": {
+    "korean": "시야 차단 : 적중 {0}%",
+    "english": "Vision Block : ACC {0}%"
+  },
+  "1000106908": {
+    "korean": "시야 차단 : 치명타 {0}%",
+    "english": "Vision Block : CRIT {0}%"
+  },
+  "1000106961": {
+    "korean": "시야 차단 : 받는 피해{0}%",
+    "english": "Vision Block : DMG Taken {0}%"
+  },
+  "1000106584": {
+    "korean": "쏘지마세요! : AP {0}",
+    "english": "Don't shoot! : AP {0}"
+  },
+  "1000106585": {
+    "korean": "회심의 몸통 박치기 : 피해량{0}%",
+    "english": "Decisive Body Slam : Additional DMG {0}%"
+  },
+  "1000106586": {
+    "korean": "곡면 장갑 : 받는 피해 감소 {0}%",
+    "english": "Curved Armor : DMG Reduction {0}%"
+  },
+  "1000106583": {
+    "korean": "위험해요! : 열 보호 (자신)",
+    "english": "Watch out! : Column Protect (Self)"
+  },
+  "1000106806": {
+    "korean": "위험해요! : 방어력{0}% (자신)",
+    "english": "Watch out! : DEF {0}% (Self)"
+  },
+  "1000106587": {
+    "korean": "조심하세요! : AP{0}",
+    "english": "Be Careful! : AP {0}"
+  },
+  "1000106725": {
+    "korean": "위험해요! : 효과 저항{0}% (자신)",
+    "english": "Watch out! : Status Resist {0}% (Self)"
+  },
+  "1000106723": {
+    "korean": "조심하세요! : 지정 대상 보호 (보호기 제외)",
+    "english": "Be Careful! : Target Protect (Defender excluded)"
+  },
+  "1000106724": {
+    "korean": "조심하세요! : 공격력{0}%",
+    "english": "Be Careful! : ATK {0}%"
+  }
+}

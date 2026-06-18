@@ -1,0 +1,18 @@
+{
+  "1002706360": {
+    "korean": "스킬을 사용 시, <과열> 상태가 적용됩니다. 라운드 개시 시, <과열> 상태가 3중첩이라면 3라운드 동안 <작동 정지> 상태에 빠져 행동 불능 상태가 되고 해당 상태에서 화염 공격에 피격 시, 3라운드 동안 받는 피해가 증가합니다. [네스트]가 파괴 된 상태로 라운드 개시 시, <폭주> 상태에 빠져 AP가 증가하고 공격력 / 적중 / 방어 관통 증가하지만 지속 피해를 입습니다.",
+    "english": "When the skill is used, the <Overheat> state is applied. At the start of the round, if the <Overheat> state has 3 stacks, you become <Shutdown> for 3 rounds, becoming Stunned, and while in this state, being hit by fire attacks increases DMG Taken for 3 rounds. If [Nest] is destroyed at the start of the round, you enter <Rampage> state, gaining increased AP as well as ATK / ACC / DEF Penetration, but you take DoT DMG."
+  },
+  "1002701611": {
+    "korean": "과열",
+    "english": "Overheat"
+  },
+  "1000105437": {
+    "korean": "신의 가호 : 내 HP% 적을수록 피해량{0}%",
+    "english": "Divine Blessing: Damage increases as my HP% decreases by {0}%"
+  },
+  "1000106815": {
+    "korean": "과열 해제",
+    "english": "Overheat Released"
+  }
+}

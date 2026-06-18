@@ -1,0 +1,246 @@
+{
+  "SkillName_Skill_PECS_Ireina_N_1": {
+    "korean": "용사 이레이나의 공격!",
+    "english": "Hero Ireina's Attack!"
+  },
+  "SkillName_Skill_PECS_Ireina_N_2": {
+    "korean": "고작 이 정도?",
+    "english": "Is this all?"
+  },
+  "SkillName_Skill_PECS_Ireina_N_3": {
+    "korean": "이대론 못 자!",
+    "english": "I Can't Sleep Like This!"
+  },
+  "SkillName_Skill_PECS_Ireina_N_4": {
+    "korean": "나랑 같이 게임할래?",
+    "english": "Do you want to play games with me?"
+  },
+  "SkillName_Skill_PECS_Ireina_N_5": {
+    "korean": "내가 탱커할게 넌 딜러해",
+    "english": "I'll be the tank, you play the damage dealer."
+  },
+  "SkillDesc_Skill_PECS_Ireina_N_1": {
+    "korean": "단일 대상에게 {0} 피해를 줍니다.&n적중 시 대상은 2라운드 동안 회피 및 방어력이 감소되고 받는 피해가 증가됩니다.&n치명타 시 대상의 방어력 증가 효과를 해제합니다.",
+    "english": "Deals {0} damage to a single target. On hit, the target's EVA and DEF are reduced for 2 rounds, and DMG Taken Increased. On critical hit, removes the target's DEF increase effect."
+  },
+  "SkillDescSimple_Skill_PECS_Ireina_N_1": {
+    "korean": "단일 대상에게 {0} 피해. 적중 시 회피 감소 / 방어력 감소 / 받는 피해 증가. 조건부 방어력 증가 해제",
+    "english": "Deals {0} damage to a single target. On hit: EVA Reduction / DEF Reduction / DMG Taken Increased. Removes conditional DEF increase."
+  },
+  "SkillDesc_Skill_PECS_Ireina_N_2": {
+    "korean": "지정 범위에 {0} 피해를 줍니다.&n스킬 적중 시 2라운드 동안 자신 포함 아군에게 효과 저항이 증가합니다.&n스킬 적중 시 2라운드 동안 자신 포함 아군에게 자신의 방어력 비례 보호막을 부여합니다.",
+    "english": "Deals {0} damage to the designated area. Upon hitting, allies including yourself gain increased Status Resist for 2 rounds. Upon hitting, allies including yourself are granted a Barrier proportional to your DEF for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Ireina_N_2": {
+    "korean": "지정 범위 내 대상에게 {0} 피해. 자신 포함 아군 효과 저항 증가 / 방어막 부여.",
+    "english": "Deals {0} damage to targets within the designated range. Increases Status Resist for allies, including yourself, and grants a Barrier."
+  },
+  "SkillDesc_Skill_PECS_Ireina_N_3": {
+    "korean": "라운드 개시 시 자신의 방어력에 비례하여 보조 공격력이 증가합니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <오비탈 와쳐> 전투원이 있는 경우 대상 전투원 수에 따라 자신의 방어력이 증가합니다.&n라운드 개시 시 자신을 제외한 <오비탈 와쳐> 전투원을 공격 지원합니다.&n※ 스쿼드 내에 공격 지원 대상이 중복된 경우 공격 지원은 1회만 적용됩니다.",
+    "english": "At the start of the round, auxiliary ATK increases proportionally to your DEF. At the start of the round, if there are <Orbital Watcher> combatants in the squad excluding yourself, your DEF increases based on the number of target combatants. At the start of the round, Follow-Up Attack is provided to <Orbital Watcher> combatants excluding yourself. ※ If Follow-Up Attack targets are duplicated within the squad, Follow-Up Attack is applied only once."
+  },
+  "SkillDescSimple_Skill_PECS_Ireina_N_3": {
+    "korean": "라운드 개시 시 조건부 보조 공격력 / 방어력 증가. 조건부 공격 지원",
+    "english": "Conditional increase in auxiliary ATK / DEF at the start of the round. Conditional Follow-Up Attack."
+  },
+  "SkillDesc_Skill_PECS_Ireina_N_4": {
+    "korean": "라운드 개시 시 1라운드 동안 자신에게 [1P]를 부여하고 자신의 뒤 전투원에게 [2P]를 부여합니다.&n[1P] : 방어력 / 회피 / 받는 피해 감소 증가&n[2P] : 공격력 / 적중 / 치명타 증가",
+    "english": "At the start of a round, grant yourself [1P] and the combatant behind you [2P] for 1 round. [1P]: Increases DEF / EVA / DMG Reduction. [2P]: Increases ATK / ACC / CRIT."
+  },
+  "SkillDescSimple_Skill_PECS_Ireina_N_4": {
+    "korean": "전투 개시 시 조건부 [1P] / [2P] 부여. 조건부 버프 적용",
+    "english": "Grants conditional [1P] / [2P] at the start of battle. Conditional buff applied."
+  },
+  "SkillDesc_Skill_PECS_Ireina_N_5": {
+    "korean": "라운드 개시 시 [2P] 지정 보호하고 공격 지원을 합니다.&n라운드 개시 시 [1P] 자신의 방어력 비례 스킬위력 증가 효과를 획득합니다.&n[2P]를 <레모네이드 엡실론> 부여 받은 경우 레모네이드 엡실론은 추가 버프를 획득합니다.&n※ 레모네이드 엡실론 추가 버프 : 방어막 / 피해 감소 무시, 화염 / 냉기 / 전기 저항 증가&n※ 스쿼드 내에 공격 지원 대상이 중복된 경우 공격 지원은 1회만 적용됩니다.",
+    "english": "At the start of the round, [2P] designates and protects, and provides Follow-Up Attack. At the start of the round, [1P] gains an effect that increases skill power proportional to its DEF. If [2P] is granted <Lemonade Epsilon>, <Lemonade Epsilon> gains an additional buff. ※ <Lemonade Epsilon> additional buff: Barrier / Ignore Barrier / DMG Reduction, Fire Resist / Cold Resist / Electric Resist. ※ If Follow-Up Attack targets are duplicated within the squad, Follow-Up Attack is applied only once."
+  },
+  "SkillDescSimple_Skill_PECS_Ireina_N_5": {
+    "korean": "라운드 개시 시 [2P] 지정 보호, 공격 지원. 조건부 레모네이드 엡실론 추가 버프 적용",
+    "english": "At the start of the round, [2P] designated protection, Follow-Up Attack. Conditional Lemonade Epsilon additional buff applied."
+  },
+  "BuffDesc3_Effect_PECS_Ireina_N_2": {
+    "korean": "고작 이 정도? : 보호막 {0} (방어력 비례)",
+    "english": "Is this all? : Barrier {0} (DEF-based)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_22": {
+    "korean": "고작 이 정도? : 보호막 {0} (방어력 비례)",
+    "english": "Is this all? : Barrier {0} (DEF-based)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_3": {
+    "korean": "이대론 못 자! : 보조 공격력 {0}% (방어력 비례)",
+    "english": "I Can't Sleep Like This! : Auxiliary ATK {0}% (DEF-based)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_4": {
+    "korean": "나랑 같이 게임할래? : 2P",
+    "english": "Do you want to play games with me? : 2P"
+  },
+  "BuffDesc2_Effect_PECS_Ireina_N_4": {
+    "korean": "나랑 같이 게임할래? : 1P",
+    "english": "Do you want to play games with me? : 1P"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_41": {
+    "korean": "나랑 같이 게임할래? : 1P",
+    "english": "Do you want to play games with me? : 1P"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_1": {
+    "korean": "용사 이레이나의 공격! : 피해량 {0}%",
+    "english": "Hero Ireina's Attack! : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Ireina_N_1": {
+    "korean": "용사 이레이나의 공격! : 받는 피해 {0}%",
+    "english": "Hero Ireina's Attack! : DMG Taken {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Ireina_N_1": {
+    "korean": "용사 이레이나의 공격! : 회피 {0}%",
+    "english": "Hero Ireina's Attack! : EVA {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Ireina_N_1": {
+    "korean": "용사 이레이나의 공격! : 방어력 {0}%",
+    "english": "Hero Ireina's Attack! : DEF {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Ireina_N_1": {
+    "korean": "용사 이레이나의 공격! : 방어력 증가 해제 (치명타 시)",
+    "english": "Hero Ireina's Attack! : DEF Buff Removal (on CRIT)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_11": {
+    "korean": "용사 이레이나의 공격! : 받는 피해 {0}%",
+    "english": "Hero Ireina's Attack! : DMG Taken {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Ireina_N_11": {
+    "korean": "용사 이레이나의 공격! : 회피 {0}%",
+    "english": "Hero Ireina's Attack! : EVA {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Ireina_N_11": {
+    "korean": "용사 이레이나의 공격! : 방어력 {0}%",
+    "english": "Hero Ireina's Attack! : DEF {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_12": {
+    "korean": "용사 이레이나의 공격! : 방어력 증가 해제 (치명타 시)",
+    "english": "Hero Ireina's Attack! : DEF Buff Removal (on CRIT)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_2": {
+    "korean": "고작 이 정도? : 피해량 {0}%",
+    "english": "Is this all? : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Ireina_N_2": {
+    "korean": "고작 이 정도? : 효과 저항{0}%",
+    "english": "Is this all? : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_21": {
+    "korean": "고작 이 정도? : 효과 저항{0}%",
+    "english": "Is this all? : Status Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Ireina_N_3": {
+    "korean": "이대론 못 자! : 방어력 {0}% (오비탈 와쳐 1기 당)",
+    "english": "I can't sleep like this! : DEF {0}% (per 1 Orbital Watcher)"
+  },
+  "BuffDesc3_Effect_PECS_Ireina_N_3": {
+    "korean": "이대론 못 자! : 공격 지원 (오비탈 와처)",
+    "english": "I can't sleep like this! : Follow-Up Attack (Orbital Watcher)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_31": {
+    "korean": "이대론 못 자! : 방어력 {0}% (에이다 Type-G)",
+    "english": "I can't sleep like this! : DEF {0}% (Aeda Type-G)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_32": {
+    "korean": "이대론 못 자! : 방어력 {0}% (코코 인 화이트셸)",
+    "english": "I can't sleep like this! : DEF {0}% (Coco In Whiteshell)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_33": {
+    "korean": "이대론 못 자! : 방어력 {0}% (CM67 스팅어)",
+    "english": "I can't sleep like this! : DEF {0}% (Stinger)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_34": {
+    "korean": "이대론 못 자! : 방어력 {0}% (스파토이아)",
+    "english": "I can't sleep like this! : DEF {0}% (Spartoia)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_35": {
+    "korean": "이대론 못 자! : 방어력 {0}% (AC-6 후사르)",
+    "english": "I can't sleep like this! : DEF {0}% (Hussar)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_36": {
+    "korean": "이대론 못 자! : 방어력 {0}% (레모네이드 엡실론)",
+    "english": "I can't sleep like this! : DEF {0}% (Lemonade Epsilon)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_37": {
+    "korean": "이대론 못 자! : 공격 지원 (오비탈 와처)",
+    "english": "I can't sleep like this! : Follow-Up Attack (Orbital Watcher)"
+  },
+  "BuffDesc3_Effect_PECS_Ireina_N_4": {
+    "korean": "나랑 같이 게임할래? : 공격력 {0}% (2P)",
+    "english": "Do you want to play games with me? : ATK {0}% (2P)"
+  },
+  "BuffDesc4_Effect_PECS_Ireina_N_4": {
+    "korean": "나랑 같이 게임할래? : 방어력 {0}% (1P)",
+    "english": "Do you want to play games with me? : DEF {0}% (1P)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_42": {
+    "korean": "나랑 같이 게임할래? : 공격력 {0}% (2P)",
+    "english": "Do you want to play games with me? : ATK {0}% (2P)"
+  },
+  "BuffDesc2_Effect_PECS_Ireina_N_42": {
+    "korean": "나랑 같이 게임할래? : 적중 {0}% (2P)",
+    "english": "Do you want to play games with me? : ACC {0}% (2P)"
+  },
+  "BuffDesc3_Effect_PECS_Ireina_N_42": {
+    "korean": "나랑 같이 게임할래? : 치명타 {0}% (2P)",
+    "english": "Do you want to play games with me? : CRIT {0}% (2P)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_43": {
+    "korean": "나랑 같이 게임할래? : 방어력 {0}% (1P)",
+    "english": "Do you want to play games with me? : DEF {0}% (1P)"
+  },
+  "BuffDesc2_Effect_PECS_Ireina_N_43": {
+    "korean": "나랑 같이 게임할래? : 회피 {0}% (1P)",
+    "english": "Do you want to play games with me? : EVA {0}% (1P)"
+  },
+  "BuffDesc3_Effect_PECS_Ireina_N_43": {
+    "korean": "나랑 같이 게임할래? : 받는 피해 감소 {0}% (1P)",
+    "english": "Do you want to play games with me? : DMG Reduction {0}% (1P)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_5": {
+    "korean": "내가 탱커할게 넌 딜러해 : 스킬 위력 {0}% (방어력 비례)",
+    "english": "I'll be the tank, you play the damage dealer. : Skill Power {0}% (DEF-based)"
+  },
+  "BuffDesc2_Effect_PECS_Ireina_N_5": {
+    "korean": "내가 탱커할게 넌 딜러해 : 지정 보호 (2P)",
+    "english": "I'll be the tank, you play the damage dealer. : Target Protect (2P)"
+  },
+  "BuffDesc3_Effect_PECS_Ireina_N_5": {
+    "korean": "내가 탱커할게 넌 딜러해 : 공격 지원 (2P)",
+    "english": "I'll be the tank, you play the damage dealer. : Follow-Up Attack (2P)"
+  },
+  "BuffDesc4_Effect_PECS_Ireina_N_5": {
+    "korean": "내가 탱커할게 넌 딜러해 : 방어막 / 피해 감소 무시 (레모네이드 엡실론)",
+    "english": "I'll be the tank, you play the damage dealer. : Ignore Barrier / DMG Reduction (Lemonade Epsilon)"
+  },
+  "BuffDesc5_Effect_PECS_Ireina_N_5": {
+    "korean": "내가 탱커할게 넌 딜러해 : 화염 저항 {0}% (레모네이드 엡실론)",
+    "english": "I'll be the tank, you play the damage dealer. : Fire Resist {0}% (Lemonade Epsilon)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_51": {
+    "korean": "내가 탱커할게 넌 딜러해 : 지정 보호 (2P)",
+    "english": "I'll be the tank, you play the damage dealer. : Target Protect (2P)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_52": {
+    "korean": "내가 탱커할게 넌 딜러해 : 공격 지원 (2P)",
+    "english": "I'll be the tank, you play the damage dealer. : Follow-Up Attack (2P)"
+  },
+  "BuffDesc1_Effect_PECS_Ireina_N_53": {
+    "korean": "내가 탱커할게 넌 딜러해 : 방어막 / 피해 감소 무시 (레모네이드 엡실론)",
+    "english": "I'll be the tank, you play the damage dealer. : Ignore Barrier / DMG Reduction (Lemonade Epsilon)"
+  },
+  "BuffDesc2_Effect_PECS_Ireina_N_53": {
+    "korean": "내가 탱커할게 넌 딜러해 : 화염 저항 {0}% (레모네이드 엡실론)",
+    "english": "I'll be the tank, you play the damage dealer. : Fire Resist {0}% (Lemonade Epsilon)"
+  },
+  "BuffDesc3_Effect_PECS_Ireina_N_53": {
+    "korean": "내가 탱커할게 넌 딜러해 : 냉기 저항 {0}% (레모네이드 엡실론)",
+    "english": "I'll be the tank, you play the damage dealer. : Cold Resist {0}% (Lemonade Epsilon)"
+  },
+  "BuffDesc4_Effect_PECS_Ireina_N_53": {
+    "korean": "내가 탱커할게 넌 딜러해 : 전기 저항 {0}% (레모네이드 엡실론)",
+    "english": "I'll be the tank, you play the damage dealer. : Electric Resist {0}% (Lemonade Epsilon)"
+  }
+}

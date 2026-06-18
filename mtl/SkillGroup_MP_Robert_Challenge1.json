@@ -1,0 +1,234 @@
+{
+  "1000107418": {
+    "korean": "약점 분석",
+    "english": "Weakness Analysis"
+  },
+  "1002705936": {
+    "korean": "분석 완료: 활용",
+    "english": "Analysis Complete: Utilization"
+  },
+  "1002705937": {
+    "korean": "진화의 요람",
+    "english": "Cradle of Evolution"
+  },
+  "1002705938": {
+    "korean": "고속 연산",
+    "english": "High-Speed Computation"
+  },
+  "1002705939": {
+    "korean": "약점 극복",
+    "english": "Overcoming Weakness"
+  },
+  "1002706396": {
+    "korean": "목표 지점에 {0} 피해를 주고, 행동력 감소 / 받는 피해 증가 상태를 적용시킵니다. <약점 분석>의 중첩 수에 따라 행동력 감소 / 받는 피해 증가 상태가 추가적으로 적용되며 3중첩인 상태일 시, 추가적으로 AP를 감소시킵니다.",
+    "english": "Deals {0} damage to the target area and applies SPD reduction / DMG Taken Increased status. Additional SPD reduction / DMG Taken Increased status is applied according to the number of <Weakness Analysis> stacks, and when at 3 stacks, additionally reduces AP."
+  },
+  "1002706397": {
+    "korean": "목표 지점에 {0} 피해를 주고, 낮은 확률로 행동 불가 상태로 만듭니다. 자신에게 공격력 / 방어력 / 적중 / 치명타 / 행동력 / 회피 감소 효과가 적용돼 있을 경우, 감소된 항목을 적에게도 적용시킵니다. <약점 분석>이 최대 중첩일 경우, 행동 불가 확률이 증가하며 해당 스킬을 사용 시, <약점 분석>을 전부 소모합니다.",
+    "english": "Deals {0} damage to the target area and has a low chance to inflict Stunned. If self has ATK / DEF / ACC / CRIT / SPD / EVA reduction effects applied, applies the same reductions to the enemy. If <Weakness Analysis> is at maximum stacks, the chance to inflict Stunned increases and all <Weakness Analysis> stacks are consumed upon using this skill."
+  },
+  "1002706398": {
+    "korean": "라운드 개시 시, 주위 아군의 공격력 / 적중을 증가시키고 자신에게 방어력 증가 / 방어막을 부여합니다. 라운드가 지속됨에 따라 해당 버프는 추가적으로 적용됩니다.",
+    "english": "At the start of the round, increases ATK / ACC of nearby allies and grants DEF increase / Barrier to self. As the round progresses, this buff is applied additionally."
+  },
+  "1002706399": {
+    "korean": "약점 분석 스킬 사용 시, <약점 분석>이 적용되고 <약점 분석>의 중첩 수에 따라 주위 아군의 행동력이 증가합니다. <약점 분석>이 최대 중첩인 상태에서 속성 공격에 피격 시, <연산 오류> 상태가 되어 <약점 분석> 상태가 해제되고 해당 상태에서 라운드 개시 시, 자신을 포함한 모든 아군의 강화 효과가 해제되고 2라운드 동안 행동 불능 상태가 됩니다.",
+    "english": "When using the Weakness Analysis skill, <Weakness Analysis> is applied and SPD of nearby allies is increased according to the number of <Weakness Analysis> stacks. When hit by an elemental attack while at maximum <Weakness Analysis> stacks, enters <Calculation Error> status which removes <Weakness Analysis> and, at the start of the round during this status, all buffs on self and allies are removed and they become Stunned for 2 rounds."
+  },
+  "1000107403": {
+    "korean": "분석 완료: 활용 : 행동 불능",
+    "english": "Analysis Complete: Utilization : Stunned"
+  },
+  "1000107437": {
+    "korean": "분석 완료: 활용 : AP {0}",
+    "english": "Analysis Complete: Utilization : AP {0}"
+  },
+  "1000107404": {
+    "korean": "분석 완료: 활용 : 행동 불능",
+    "english": "Analysis Complete: Utilization : Stunned"
+  },
+  "1000107405": {
+    "korean": "분석 완료: 활용 : 공격력 {0}%",
+    "english": "Analysis Complete: Utilization : ATK {0}%"
+  },
+  "1000107406": {
+    "korean": "분석 완료: 활용 : 방어력 {0}%",
+    "english": "Analysis Complete: Utilization : DEF {0}%"
+  },
+  "1000107407": {
+    "korean": "분석 완료: 활용 : 적중 {0}%",
+    "english": "Analysis Complete: Utilization : ACC {0}%"
+  },
+  "1000107408": {
+    "korean": "분석 완료: 활용 : 치명타 {0}%",
+    "english": "Analysis Complete: Utilization : CRIT {0}%"
+  },
+  "1000107409": {
+    "korean": "분석 완료: 활용 : 행동력 {0}%",
+    "english": "Analysis Complete: Utilization : SPD {0}%"
+  },
+  "1000107410": {
+    "korean": "분석 완료: 활용 : 회피 {0}%",
+    "english": "Analysis Complete: Utilization : EVA {0}%"
+  },
+  "1000107722": {
+    "korean": "약점 분석 해제",
+    "english": "Weakness Analysis Release"
+  },
+  "1000107420": {
+    "korean": "연산 오류",
+    "english": "Calculation Error"
+  },
+  "1000107444": {
+    "korean": "연산 오류",
+    "english": "Calculation Error"
+  },
+  "1000107421": {
+    "korean": "연산 오류",
+    "english": "Calculation Error"
+  },
+  "1000107445": {
+    "korean": "연산 오류",
+    "english": "Calculation Error"
+  },
+  "1000107422": {
+    "korean": "연산 오류",
+    "english": "Calculation Error"
+  },
+  "1000107446": {
+    "korean": "연산 오류",
+    "english": "Calculation Error"
+  },
+  "1000107721": {
+    "korean": "약점 분석 (최대)",
+    "english": "Weakness Analysis (Max)"
+  },
+  "1000107423": {
+    "korean": "연산 오류",
+    "english": "Calculation Error"
+  },
+  "1000107447": {
+    "korean": "연산 오류",
+    "english": "Calculation Error"
+  },
+  "1000107451": {
+    "korean": "연산 오류",
+    "english": "Calculation Error"
+  },
+  "1000107400": {
+    "korean": "약점 분석 : 받는 피해{0}%",
+    "english": "Weakness Analysis : DMG Taken {0}%"
+  },
+  "1000107434": {
+    "korean": "약점 분석 : 행동력 {0}%",
+    "english": "Weakness Analysis : SPD {0}%"
+  },
+  "1000107401": {
+    "korean": "약점 분석 : 받는 피해{0}%",
+    "english": "Weakness Analysis : DMG Taken {0}%"
+  },
+  "1000107435": {
+    "korean": "약점 분석 : 행동력 {0}%",
+    "english": "Weakness Analysis : SPD {0}%"
+  },
+  "1000107402": {
+    "korean": "약점 분석 : 받는 피해{0}%",
+    "english": "Weakness Analysis : DMG Taken {0}%"
+  },
+  "1000107436": {
+    "korean": "약점 분석 : 행동력 {0}%",
+    "english": "Weakness Analysis : SPD {0}%"
+  },
+  "1000107450": {
+    "korean": "약점 분석 : AP {0}",
+    "english": "Weakness Analysis : AP {0}"
+  },
+  "1000107411": {
+    "korean": "진화의 요람: 공격력{0}%",
+    "english": "Cradle of Evolution : ATK {0}%"
+  },
+  "1000107438": {
+    "korean": "진화의 요람 : 적중{0}%",
+    "english": "Cradle of Evolution : ACC {0}%"
+  },
+  "1000107412": {
+    "korean": "진화의 요람: 공격력{0}%",
+    "english": "Cradle of Evolution : ATK {0}%"
+  },
+  "1000107439": {
+    "korean": "진화의 요람 : 적중{0}%",
+    "english": "Cradle of Evolution : ACC {0}%"
+  },
+  "1000107413": {
+    "korean": "진화의 요람: 공격력{0}%",
+    "english": "Cradle of Evolution : ATK {0}%"
+  },
+  "1000107440": {
+    "korean": "진화의 요람 : 적중{0}%",
+    "english": "Cradle of Evolution : ACC {0}%"
+  },
+  "1000107417": {
+    "korean": "고속 연산: 행동력{0}%",
+    "english": "High-Speed Computation : SPD {0}%"
+  },
+  "1000107419": {
+    "korean": "고속 연산: 행동력{0}%",
+    "english": "High-Speed Computation : SPD {0}%"
+  },
+  "1000107414": {
+    "korean": "진화의 요람: 방어력{0}%",
+    "english": "Cradle of Evolution : DEF {0}%"
+  },
+  "1000107441": {
+    "korean": "진화의 요람 : 방어막{0}",
+    "english": "Cradle of Evolution : Barrier {0}"
+  },
+  "1000107415": {
+    "korean": "진화의 요람: 방어력{0}%",
+    "english": "Cradle of Evolution : DEF {0}%"
+  },
+  "1000107442": {
+    "korean": "진화의 요람 : 방어막{0}",
+    "english": "Cradle of Evolution : Barrier {0}"
+  },
+  "1000107416": {
+    "korean": "진화의 요람: 방어력{0}%",
+    "english": "Cradle of Evolution : DEF {0}%"
+  },
+  "1000107443": {
+    "korean": "진화의 요람 : 방어막{0}",
+    "english": "Cradle of Evolution : Barrier {0}"
+  },
+  "1000107424": {
+    "korean": "약점 극복 : 공격력{0}%",
+    "english": "Overcoming Weakness : ATK {0}%"
+  },
+  "1000107425": {
+    "korean": "약점 극복 : 방어력{0}%",
+    "english": "Overcoming Weakness : DEF {0}%"
+  },
+  "1000107426": {
+    "korean": "약점 극복 : 적중{0}%",
+    "english": "Overcoming Weakness : ACC {0}%"
+  },
+  "1000107427": {
+    "korean": "약점 극복 : 치명타{0}%",
+    "english": "Overcoming Weakness : CRIT {0}%"
+  },
+  "1000107428": {
+    "korean": "약점 극복 : 행동력{0}%",
+    "english": "Overcoming Weakness : SPD {0}%"
+  },
+  "1000107429": {
+    "korean": "약점 극복 : 회피{0}%",
+    "english": "Overcoming Weakness : EVA {0}%"
+  },
+  "1000107454": {
+    "korean": "연산 오류 : 행동 불능",
+    "english": "Calculation Glitch : Stunned"
+  },
+  "1000107457": {
+    "korean": "연산 오류 : 강화 효과 해제",
+    "english": "Calculation Glitch : Buff Removal"
+  }
+}

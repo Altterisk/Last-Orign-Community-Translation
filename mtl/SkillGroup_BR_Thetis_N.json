@@ -1,0 +1,266 @@
+{
+  "SkillName_Skill_BR_Thetis_N_1": {
+    "korean": "사격은 자신있지롱-",
+    "english": "Confident Shot"
+  },
+  "SkillDesc_Skill_BR_Thetis_N_1": {
+    "korean": "기관총을 난사해 지정 범위에 {0} 보호 무시 피해를 줍니다. 적중 대상의 AP를 감소시키며, 2라운드 동안 회피 / 적중을 낮춥니다. <H.P.E : 보조> 활성화 시, 각 감소 효과가 2배로 적용됩니다. <H.P.E : 무장> 활성화 상태로 치명타 시, 피해량이 증가하며 피해 최소화 효과를 해제합니다. 해당 스킬은 -30%의 적중 보정이 적용됩니다.",
+    "english": "Fire a barrage of machine‑gun fire, dealing {0} Ignore Protection damage to the designated area. Reduces the target's AP and lowers EVA / ACC for 2 rounds. When <H.P.E : Support> is active, each reduction effect is doubled. When <H.P.E : Armament> is active and a CRIT occurs, damage is increased and the Minimize Damage effect is removed. This skill has a -30% ACC modifier."
+  },
+  "SkillDescSimple_Skill_BR_Thetis_N_1": {
+    "korean": "지정 범위 {0} 보호 무시 피해. AP / 회피 / 적중 감소",
+    "english": "{0} Ignore Protection damage to the designated area. AP / EVA / ACC Reduction"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_1": {
+    "korean": "자신있다고! : 회피 {0}%",
+    "english": "I’ve Got This! : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_1": {
+    "korean": "자신있다고! : 적중 {0}%",
+    "english": "Told You I’m Confident! : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Thetis_N_1": {
+    "korean": "자신있다고! : AP {0}",
+    "english": "Confidently! : AP {0}"
+  },
+  "BuffDesc4_Effect_BR_Thetis_N_1": {
+    "korean": "<H.P.E : 무장> 치명타 시, 피해량 {0}%",
+    "english": "<H.P.E : Armament> : Damage {0}%"
+  },
+  "BuffDesc5_Effect_BR_Thetis_N_1": {
+    "korean": "<H.P.E : 무장> 치명타 시, 피해 최소화 해제",
+    "english": "<H.P.E : Armament> : Minimize Damage removed"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_11": {
+    "korean": "락 온 타겟! : 회피 {0}%",
+    "english": "Lock On Target! : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_11": {
+    "korean": "락 온 타겟! : 적중 {0}%",
+    "english": "Lock On Target! : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Thetis_N_11": {
+    "korean": "락 온 타겟! : AP {0}",
+    "english": "Lock On Target! : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_12": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_12": {
+    "korean": "회심의 일격 : 피해 최소화 해제",
+    "english": "Critical Strike : Minimize Damage Removal"
+  },
+  "SkillName_Skill_BR_Thetis_N_2": {
+    "korean": "내가 주는 선물이야!",
+    "english": "My Gift"
+  },
+  "SkillDesc_Skill_BR_Thetis_N_2": {
+    "korean": "지정 대상에게 미사일과 연막탄을 발사해 {0} 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 / 적중 감소 상태로 만듭니다. 각 효과는 중첩 가능합니다. <H.P.E : 보조> 활성화 시, 받는 피해 증가 / 적중 감소 효과가 2배로 적용되며 적중 강화 효과를 해제합니다. <H.P.E : 무장> 활성화 상태면 피해량이 증가합니다.",
+    "english": "Launch missiles and smoke grenades at the target, dealing {0} damage and applying Mark, Increased DMG Taken, and ACC Reduction for 2 rounds. Effects can stack. When <H.P.E : Support> is active, the Increased DMG Taken and ACC Reduction effects are doubled and any ACC boost is removed. When <H.P.E : Armament> is active, damage is increased."
+  },
+  "SkillDescSimple_Skill_BR_Thetis_N_2": {
+    "korean": "단일 대상 {0} 피해. 표식 / 받는 피해 증가 / 적중 감소",
+    "english": "Single target {0} damage. Mark / Increased DMG Taken / ACC Reduction"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_2": {
+    "korean": "내가 주는 선물이야! : 표식 지정",
+    "english": "This is my gift! : Marks target"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_2": {
+    "korean": "내가 주는 선물이야! : 받는 피해 {0}%",
+    "english": "This is my gift! : DMG Taken {0}%"
+  },
+  "BuffDesc3_Effect_BR_Thetis_N_2": {
+    "korean": "내가 주는 선물이야! : 적중 {0}%",
+    "english": "This is my gift! : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Thetis_N_2": {
+    "korean": "<H.P.E : 보조> : 적중 강화 해제",
+    "english": "<H.P.E : Support> : ACC Buff removed"
+  },
+  "BuffDesc5_Effect_BR_Thetis_N_2": {
+    "korean": "<H.P.E : 무장> : 피해량 {0}%",
+    "english": "<H.P.E : Armament> : Damage {0}%"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_13": {
+    "korean": "더 받아가! : 받는 피해 {0}%",
+    "english": "Take More! : DMG Taken {0}%"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_13": {
+    "korean": "더 받아가! : 적중 {0}%",
+    "english": "Take Some More! : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Thetis_N_13": {
+    "korean": "더 받아가! : 적중 강화 효과 해제",
+    "english": "Take More! : ACC Buff Removal"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_14": {
+    "korean": "<H.P.E : 무장> : 피해량 {0}%",
+    "english": "<H.P.E : Armament> : Damage {0}%"
+  },
+  "SkillName_Skill_BR_Thetis_N_3": {
+    "korean": "초계 임무 개시",
+    "english": "Patrol Initiated"
+  },
+  "SkillDesc_Skill_BR_Thetis_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군의 공격력 / 치명타 / 적중 / 회피 / 행동력이 증가합니다. <H.P.E : 보조> 활성 상태인 경우, 효과가 2배로 증가합니다. 대상이 <AG-2C 세이렌>인 경우, 공격을 지원합니다. 전투 종료 후 <정찰>이 활성화됩니다.",
+    "english": "At the start of the round, allies within range gain increased ATK, CRIT, ACC, EVA, and SPD. Effects are doubled while <H.P.E : Support> is active. If the target is <AG-2C Siren>, it assists the attack. After combat ends, <Recon> is activated."
+  },
+  "SkillDescSimple_Skill_BR_Thetis_N_3": {
+    "korean": "범위 내 아군 공격력 / 치명타 / 적중 / 회피 / 행동력 증가. 정찰 기능. <H.P.E : 보조> 활성 시 효과 추가",
+    "english": "Allies within range gain increased ATK, CRIT, ACC, EVA, and SPD. Grants Recon function. Additional effects while <H.P.E : Support> is active."
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_3": {
+    "korean": "초계 임무 개시 : 치명타 {0}%",
+    "english": "Patrol Mission Start : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_3": {
+    "korean": "초계 임무 개시 : 적중 {0}%",
+    "english": "Patrol Mission Start : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Thetis_N_3": {
+    "korean": "초계 임무 개시 : 회피 {0}%",
+    "english": "Patrol Mission Start : EVA {0}%"
+  },
+  "BuffDesc4_Effect_BR_Thetis_N_3": {
+    "korean": "초계 임무 개시 : 행동력 {0}%",
+    "english": "Patrol Mission Start : SPD {0}%"
+  },
+  "BuffDesc5_Effect_BR_Thetis_N_3": {
+    "korean": "초계 임무 개시 : 공격력 {0}%",
+    "english": "Patrol Mission Start : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_15": {
+    "korean": "요격 포메이션 : 치명타 {0}%",
+    "english": "Intercept Formation : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_15": {
+    "korean": "요격 포메이션 : 적중 {0}%",
+    "english": "Interception Formation : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Thetis_N_15": {
+    "korean": "요격 포메이션 : 회피 {0}%",
+    "english": "Interception Formation : EVA {0}%"
+  },
+  "BuffDesc4_Effect_BR_Thetis_N_15": {
+    "korean": "요격 포메이션 : 행동력 {0}%",
+    "english": "Interception Formation : SPD {0}%"
+  },
+  "BuffDesc5_Effect_BR_Thetis_N_15": {
+    "korean": "요격 포메이션 : 공격력 {0}%",
+    "english": "Interception Formation : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_17": {
+    "korean": "초계 임무 개시 : 정찰 활성화",
+    "english": "Patrol Mission Start : Recon Effect"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_21": {
+    "korean": "요격 개시! : 공격 지원",
+    "english": "Interception Start! : Follow-Up Attack"
+  },
+  "SkillName_Skill_BR_Thetis_N_4": {
+    "korean": "하드포인트 탑재",
+    "english": "Hardpoint Deployed"
+  },
+  "SkillDesc_Skill_BR_Thetis_N_4": {
+    "korean": "라운드 개시 시, 회피가 증가합니다. <대 장갑 장비 / 전략 폭격 장비 / 뽀끄루 대마왕의 뿔> 장착 시, <H.P.E : 무장>이 활성화되며 공격력 / 방어 관통이 증가합니다. <소형 정찰 드론 / 운명의 수정구 / 개량형 관측 장비> 장착 시, <H.P.E : 보조>가 활성화되며 회피 / 적중이 증가합니다.",
+    "english": "At the start of the round, EVA increases. Equipping <Heavy Armor Equipment / Strategic Bombing Equipment / Faucre Demon King's Horn> activates <H.P.E : Armament>, increasing ATK and DEF Penetration. Equipping <Small Recon Drone / Fate's Crystal Sphere / Enhanced Observation Equipment> activates <H.P.E : Support>, increasing EVA and ACC."
+  },
+  "SkillDescSimple_Skill_BR_Thetis_N_4": {
+    "korean": "회피 증가. 장착한 보조 장비 계통에 따른 추가 효과",
+    "english": "EVA increase. Additional effects based on equipped support equipment."
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_4": {
+    "korean": "H.P.E : 회피 {0}%",
+    "english": "H.P.E : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_4": {
+    "korean": "<H.P.E : 무장> : 공격력 {0}%",
+    "english": "<H.P.E : Armament> : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_Thetis_N_4": {
+    "korean": "<H.P.E : 무장> : 방어 관통 {0}%",
+    "english": "<H.P.E : Armament> : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_BR_Thetis_N_4": {
+    "korean": "<H.P.E : 보조> : 회피 {0}%",
+    "english": "<H.P.E : Support> : EVA {0}%"
+  },
+  "BuffDesc5_Effect_BR_Thetis_N_4": {
+    "korean": "<H.P.E : 보조> : 적중 {0}%",
+    "english": "<H.P.E : Support> : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_19": {
+    "korean": "<H.P.E : 무장> : 공격력 {0}%",
+    "english": "<H.P.E : Armament> : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_19": {
+    "korean": "<H.P.E : 무장> : 방어 관통 {0}%",
+    "english": "<H.P.E : Armament> : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_20": {
+    "korean": "<H.P.E : 보조> : 적중 {0}%",
+    "english": "<H.P.E : Support> : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_20": {
+    "korean": "<H.P.E : 보조> : 회피 {0}%",
+    "english": "<H.P.E : Support> : EVA {0}%"
+  },
+  "SkillName_Skill_BR_Thetis_N_5": {
+    "korean": "전술 공중중계",
+    "english": "Tactical Air Relay Activated"
+  },
+  "SkillDesc_Skill_BR_Thetis_N_5": {
+    "korean": "자신이 <정찰> 활성화 상태로 전투 개시 시, 아군의 AP가 증가합니다. 라운드 개시 시, <H.P.E : 보조>면 아군 효과 저항 증가 / 받는 피해 감소, <H.P.E : 무장>이면 자신의 공격력의 일정 비율만큼 아군 공격력 증가가 적용됩니다. <AG-1 네레이드 : 대공 포메이션!><AG-2C 세이렌 : 포격 지휘><P-3M 운디네 : 오만과 분노> 효과를 받는 대상들은 각 효과마다 스킬 위력이 증가합니다.",
+    "english": "When combat begins while <Recon> is active, allies' AP increases. At the start of the round, if <H.P.E : Support> is active, allies gain increased Effect Resist and DMG Reduction. If <H.P.E : Armament> is active, allies' ATK is increased by a percentage of your ATK. Targets affected by <AG-1 Nereid : Anti-Air Formation!>, <AG-2C Siren : Bombardment Command>, and <P-3M Undine : Arrogance and Wrath> each receive increased Skill Power."
+  },
+  "SkillDescSimple_Skill_BR_Thetis_N_5": {
+    "korean": "<정찰> 상태면 전투 개시 시, AP 증가. 장착한 보조 장비 계통에 따른 추가 효과",
+    "english": "While in <Recon> state, AP increases at combat start. Additional effects based on equipped support equipment."
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_5": {
+    "korean": "선행 정찰 : AP {0} (정찰 활성화 시)",
+    "english": "Forward Recon : AP {0} (When Recon active)"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_5": {
+    "korean": "<H.P.E : 보조> : 효과 저항 {0}%",
+    "english": "<H.P.E : Support> : Effect Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_Thetis_N_5": {
+    "korean": "<H.P.E : 보조> : 받는 피해 감소 {0}%",
+    "english": "<H.P.E : Support> : DMG Reduction {0}%"
+  },
+  "BuffDesc4_Effect_BR_Thetis_N_5": {
+    "korean": "<H.P.E : 무장> : 자신 공격력 {0}%만큼 아군 공격력 증가",
+    "english": "<H.P.E : Armament> : Increases ally ATK by {0}% of your ATK"
+  },
+  "BuffDesc5_Effect_BR_Thetis_N_5": {
+    "korean": "전술 공중중계 : 스킬 위력 {0}% (조건부)",
+    "english": "Tactical Aerial Relay : Skill Power {0}% (Conditional)"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_51": {
+    "korean": "전술 공중중계 : 효과 저항 {0}%",
+    "english": "Tactical Air Relay : Status Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Thetis_N_51": {
+    "korean": "전술 공중중계 : 받는 피해 감소 {0}%",
+    "english": "Tactical Air Relay : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_52": {
+    "korean": "전술 공중중계 : 테티스 공격력 비례 공격력 증가",
+    "english": "Tactical Air Relay : ATK increase proportional to Thetis ATK"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_53": {
+    "korean": "전술 공중중계 (포격 지휘) : 스킬 위력 {0}%",
+    "english": "Tactical Air Relay (Fire Command) : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_54": {
+    "korean": "전술 공중중계 (오만과 분노) : 스킬 위력 {0}%",
+    "english": "Tactical Air Relay (Pride and Wrath) : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Thetis_N_55": {
+    "korean": "전술 공중중계 (대공 포메이션!) : 스킬 위력 {0}%",
+    "english": "Tactical Air Relay (Anti-Air Formation!) : Skill Power {0}%"
+  }
+}

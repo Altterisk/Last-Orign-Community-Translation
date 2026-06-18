@@ -1,0 +1,166 @@
+{
+  "SkillName_Skill_PECS_Empress_N_1": {
+    "korean": "아이스 에이지",
+    "english": "Ice Age"
+  },
+  "SkillName_Skill_PECS_Empress_N_2": {
+    "korean": "펭귄 서프라이즈!",
+    "english": "Penguin Surprise!"
+  },
+  "SkillName_Skill_PECS_Empress_N_3": {
+    "korean": "의태",
+    "english": "Mimicry"
+  },
+  "SkillName_Skill_PECS_Empress_N_4": {
+    "korean": "극지 대비책",
+    "english": "Polar Preparedness"
+  },
+  "SkillName_Skill_PECS_Empress_N_5": {
+    "korean": "남극 대모험",
+    "english": "Antarctic Adventure"
+  },
+  "SkillDesc_Skill_PECS_Empress_N_1": {
+    "korean": "지정 범위에 {0} 냉기 속성 피해를 주고, 2라운드 동안 적중 대상의 냉기 저항과 행동력을 감소시킵니다.&n대상이 <침수> 상태일 경우, 이동 불가 상태로 만들고 받는 피해가 증가하는 <빙결> 상태를 2라운드 동안 부여합니다.",
+    "english": "Deals {0} Cold DMG to the designated area, and for 2 rounds reduces the target's Cold Resist and SPD. If the target is in the <Soaked> state, applies the <Frozen> state for 2 rounds, which Rooted the target and grants DMG Taken Increased."
+  },
+  "SkillDescSimple_Skill_PECS_Empress_N_1": {
+    "korean": "지정 범위 {0} 냉기 피해. 냉기 저항 / 행동력 감소.",
+    "english": "Cold DMG {0} / Cold Resist / SPD Reduction"
+  },
+  "SkillDesc_Skill_PECS_Empress_N_2": {
+    "korean": "단일 대상에게 {0} 냉기 속성 피해를 줍니다. 치명타 시, 피해량이 증가합니다. &n대상이 <침수> 상태일 경우, 행동 불가 상태로 만들고 받는 피해가 증가하는 <빙결> 상태를 2라운드 동안 부여합니다.",
+    "english": "Deals {0} Cold DMG to a single target. CRIT increases Additional DMG. If the target is in the <Soaked> state, applies the <Frozen> state for 2 rounds, which Rooted the target and grants DMG Taken Increased."
+  },
+  "SkillDescSimple_Skill_PECS_Empress_N_2": {
+    "korean": "단일 대상 {0} 냉기 피해. 치명타 시, 피해량 증가.",
+    "english": "Single target {0} Cold DMG. CRIT increases Additional DMG."
+  },
+  "SkillDesc_Skill_PECS_Empress_N_3": {
+    "korean": "전투 개시 시, 피해 최소화 (2회) 효과를 획득합니다.&n라운드 개시 시 해당 효과가 활성화 된 상태인 경우, 3라운드 동안 공격력과 치명타가 중첩하여 증가합니다.&n피해 최소화 효과가 소멸된 상태에서 대기 시, 피해 최소화 효과를 다시 획득합니다.",
+    "english": "At battle start, gains Minimize Damage (2 stacks). At round start, if this effect is active, ATK and CRIT increase stacking for 3 rounds. When Minimize Damage expires while waiting, it is regained."
+  },
+  "SkillDescSimple_Skill_PECS_Empress_N_3": {
+    "korean": "피해 최소화 (2회). 활성화 상태면 공격력 / 치명타 증가.",
+    "english": "Minimize Damage (2 stacks). When active, ATK / CRIT increase."
+  },
+  "SkillDesc_Skill_PECS_Empress_N_4": {
+    "korean": "라운드 개시 시, 자신과 주변 아군의 냉기 저항이 증가합니다. 자신은 냉기 저항 효과가 2배로 적용됩니다. &n라운드 개시 시, 지정 보호를 받는 범위 내 아군의 AP를 증가시킵니다. &n스킬 레벨 10에서 자신의 위치와 관계없이 전체 적용됩니다.",
+    "english": "At round start, increases Cold Resist for self and nearby allies. Self receives Cold Resist at double strength. At round start, increases AP of allies within the designated protection area. At skill level 10, applies to all regardless of position."
+  },
+  "SkillDescSimple_Skill_PECS_Empress_N_4": {
+    "korean": "주변 아군 냉기 저항 증가. 지정 보호 받는 상태면 AP 증가.",
+    "english": "Nearby allies' Cold Resist increase. If under Target Protect, AP increase."
+  },
+  "SkillDesc_Skill_PECS_Empress_N_5": {
+    "korean": "라운드 개시 시, 자신의 행동력이 증가합니다.&n라운드 개시 시 <의태>에 의한 피해 최소화를 보유한 경우, 자신은 보호 무시 효과가 활성화됩니다.&n<펭귄 서프라이즈!> 적중 대상이 <침수> 상태인 경우, 대상의 강화 효과를 해제합니다.&n라운드 개시 시, <빙결> 상태의 적의 냉기 저항을 감소시킵니다.",
+    "english": "At round start, increases own SPD. At round start, if possessing Minimize Damage from <Mimicry>, activates Ignore Protection. <Penguin Surprise!> If the hit target is in the <Soaked> state, removes the target’s buffs. At round start, reduces Cold Resist of enemies in the <Frozen> state."
+  },
+  "SkillDescSimple_Skill_PECS_Empress_N_5": {
+    "korean": "행동력 증가. <의태> 보유 시, 보호 무시 활성화. <펭귄 서프라이즈> 강화. <빙결> 상태 냉기 저항 감소.",
+    "english": "Activate Ignore Protection / <Penguin Surprise> enhancement / <Frozen> Cold Resist reduction"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_1": {
+    "korean": "아이스 에이지 : 냉기 저항 {0}%",
+    "english": "Ice Age : Cold Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Empress_N_1": {
+    "korean": "아이스 에이지 : 행동력 {0}%",
+    "english": "Ice Age : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Empress_N_1": {
+    "korean": "빙결 : 이동 불가",
+    "english": "Frostbite : Rooted"
+  },
+  "BuffDesc4_Effect_PECS_Empress_N_1": {
+    "korean": "빙결 : 받는 피해 {0}% 증가",
+    "english": "Frostbite : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_11": {
+    "korean": "빙결 : 이동 불가",
+    "english": "Frostbite : Rooted"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_12": {
+    "korean": "빙결 : 받는 피해 {0}% 증가",
+    "english": "Frostbite : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_2": {
+    "korean": "서프라이즈! : 피해량 {0}%",
+    "english": "Surprise! : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Empress_N_2": {
+    "korean": "빙결 : 행동 불가",
+    "english": "Frostbite : Stunned"
+  },
+  "BuffDesc3_Effect_PECS_Empress_N_2": {
+    "korean": "빙결 : 받는 피해 {0}% 증가",
+    "english": "Frostbite : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_21": {
+    "korean": "빙결 : 행동 불가",
+    "english": "Frostbite : Stunned"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_52": {
+    "korean": "점프스케어 : 강화 효과 해제",
+    "english": "Jumpscare : Buff Removal"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_3": {
+    "korean": "의태 : 피해 최소화",
+    "english": "Mimicry : Minimize Damage"
+  },
+  "BuffDesc2_Effect_PECS_Empress_N_3": {
+    "korean": "의태 : 공격력 {0}%",
+    "english": "Mimicry : ATK {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Empress_N_3": {
+    "korean": "의태 : 치명타 {0}%",
+    "english": "Mimicry : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_31": {
+    "korean": "의태 : 공격력 {0}%",
+    "english": "Mimicry : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Empress_N_31": {
+    "korean": "의태 : 치명타 {0}%",
+    "english": "Mimicry : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_32": {
+    "korean": "의태 : 피해 최소화",
+    "english": "Mimicry : Minimize Damage"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_4": {
+    "korean": "극지 대비책 : 냉기 저항 {0}%",
+    "english": "Polar Preparedness : Cold Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Empress_N_4": {
+    "korean": "극지 대비책 : AP {0} (지정 보호)",
+    "english": "Polar Preparedness : AP {0} (Target Protect)"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_41": {
+    "korean": "극지 대비책 : AP {0}",
+    "english": "Polar Preparedness : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_42": {
+    "korean": "극지 대비책 (펭귄) : 냉기 저항 {0}%",
+    "english": "Polar Countermeasure (Penguin) : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_5": {
+    "korean": "남극 대모험 : 행동력 {0}%",
+    "english": "Antarctic Adventure : SPD {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Empress_N_5": {
+    "korean": "의태 : 보호 무시 활성화",
+    "english": "Mimicry : Activate Ignore Protection"
+  },
+  "BuffDesc3_Effect_PECS_Empress_N_5": {
+    "korean": "얼음땡 : 냉기 저항 {0}%",
+    "english": "Ice Tag : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_51": {
+    "korean": "의태 : 보호 무시 활성화",
+    "english": "Mimicry : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_PECS_Empress_N_53": {
+    "korean": "얼음땡 : 냉기 저항 {0}%",
+    "english": "Ice Tag : Cold Resist {0}%"
+  }
+}

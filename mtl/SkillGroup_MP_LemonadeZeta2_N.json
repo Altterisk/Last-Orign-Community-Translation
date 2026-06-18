@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_LemonadeZeta2_N_1": {
+    "korean": "나약함의 끝",
+    "english": "End of Weakness"
+  },
+  "SkillName_Skill_MP_LemonadeZeta2_N_2": {
+    "korean": "도태된 자들의 끝",
+    "english": "End of the Eliminated"
+  },
+  "SkillName_Skill_MP_LemonadeZeta2_N_3": {
+    "korean": "마지막까지",
+    "english": "Until the End"
+  },
+  "SkillName_Skill_MP_LemonadeZeta2_N_4": {
+    "korean": "광기에 찬 진화",
+    "english": "Mad Evolution"
+  },
+  "SkillDesc_Skill_MP_LemonadeZeta2_N_1": {
+    "korean": "빔 공격으로 {0} 보호 무시 피해를 줍니다.&n치명타시 2 라운드 동안 스킬 사용 불가 해로운 효과를 줍니다.",
+    "english": "Deals {0} Ignore Protection damage with a beam attack. On critical hit, inflicts a Silenced effect for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_LemonadeZeta2_N_2": {
+    "korean": "지정 범위에 {0} 피해를 줍니다.&n적중시 50% 확률로 2 라운드 동안 스킬 사용 불가 해로운 효과를 줍니다.",
+    "english": "Deals {0} damage to the designated area. On hit, there is a 50% chance to apply a Silenced effect for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_LemonadeZeta2_N_3": {
+    "korean": "라운드 개시 시, 5라운드동안 공격력 / 적중 / 행동력/ 치명타 확률 증가 버프를 얻습니다. HP가 40% 이하라면 1라운드 동안 회피 대폭 증가 버프를 얻습니다.",
+    "english": "At the start of a round, gain a buff that increases ATK / ACC / SPD / CRIT for 5 rounds. If HP is 40% or lower, gain a buff that greatly increases EVA for 1 round."
+  },
+  "SkillDesc_Skill_MP_LemonadeZeta2_N_4": {
+    "korean": "매 라운드 개시시, 효과 저항 증가 버프를 얻습니다. &n짝수 라운드 개시시, 모든 해로운 효과를 해제합니다.",
+    "english": "At the start of each round, gain a Status Resist buff. On even rounds, remove all harmful effects."
+  },
+  "BuffDesc3_Effect_MP_LemonadeZeta2_N_3": {
+    "korean": "블랙드래곤 스매시: 반격 해제, 행동 속도 감소, 물리 지속 데미지",
+    "english": "Black Dragon Smash : Counter Attack removal, SPD Reduction, Physical DoT"
+  },
+  "BuffDesc4_Effect_MP_LemonadeZeta2_N_3": {
+    "korean": "마지막까지 : 적중률 {0}%",
+    "english": "Until the End : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_N_1": {
+    "korean": "나약함의 끝 : 스킬 사용 불가",
+    "english": "The end of weakness : Silenced"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_N_2": {
+    "korean": "도태된 자들의 끝 : 스킬 사용 불가",
+    "english": "The end of the eliminated : Silenced"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_N_3": {
+    "korean": "마지막까지: 행동력 {0}%",
+    "english": "Until the very end : SPD {0}%"
+  },
+  "BuffDesc2_Effect_MP_LemonadeZeta2_N_3": {
+    "korean": "마지막까지: 공격력 {0}%",
+    "english": "Until the very end : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_N_31": {
+    "korean": "마지막까지: 회피 {0}%",
+    "english": "Until the very end : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_N_4": {
+    "korean": "광기에 찬 진화 : 효과 저항 {0}%",
+    "english": "Mad evolution : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_LemonadeZeta2_N_41": {
+    "korean": "광기에 찬 진화 : 해로운 효과 해제",
+    "english": "Mad evolution : Debuff Removal"
+  }
+}

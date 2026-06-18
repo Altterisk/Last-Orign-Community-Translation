@@ -1,0 +1,138 @@
+{
+  "1002701071": {
+    "korean": "히트블레이드",
+    "english": "Heat Blade"
+  },
+  "1002701072": {
+    "korean": "처형",
+    "english": "Execution"
+  },
+  "1002701073": {
+    "korean": "그림자 난무 프로토콜",
+    "english": "Shadow Flurry Protocol"
+  },
+  "1002701074": {
+    "korean": "암살준비",
+    "english": "Assassination Prep"
+  },
+  "1002703971": {
+    "korean": "대상에게 {0} 화염 속성 피해를 줍니다. 대상이 표식 / 방어력 감소 상태면 피해량이 증가합니다.",
+    "english": "Deals {0} Fire damage to the target. Damage is increased if the target is Marked or under a DEF Reduction effect."
+  },
+  "1002703318": {
+    "korean": "단일 대상 {0} 화염 피해. 표식 / 방어 감소 대상 피해량 증가",
+    "english": "Deals {0} Fire damage to a single target. Damage is increased against Marked or DEF‑reduced targets."
+  },
+  "1002703972": {
+    "korean": "범위 내 대상에게 보호 효과를 무시하고 {0} 화염 속성 피해를 줍니다. 치명타 시, 피해량이 증가하며 3라운드 동안 대상의 방어력을 낮춥니다. 해당 효과는 해로운 효과 해제로 해제되지 않습니다.",
+    "english": "Ignores protection effects and deals {0} Fire damage to enemies within range. On CRIT, damage is increased and the target's DEF is reduced for 3 rounds. This debuff cannot be removed by cleansing effects."
+  },
+  "1002703319": {
+    "korean": "범위 내 대상 보호 무시 {0} 화염 피해. 치명타 시 피해량 증가 / 방어 감소",
+    "english": "Deals {0} Fire damage to all enemies in range, ignoring protection. On CRIT, damage increased / DEF reduced."
+  },
+  "1002703973": {
+    "korean": "라운드 개시 시, 그림자 난무 프로토콜을 전개해 회피가 증가합니다. 회피 증가 효과는 전열에 가까울수록 증가합니다. 적의 공격을 받을 시 반격을 하고 적 공격 시, 공격력 / 치명타가 증가하며 적 처치 시 AP가 증가합니다.",
+    "english": "At the start of the round, activates the Shadow Flurry Protocol, increasing EVA. The EVA bonus is greater the closer you are to the front row. When attacked, you Counter Attack. When you attack, ATK and CRIT increase, and defeating an enemy grants additional AP."
+  },
+  "1002703320": {
+    "korean": "전열에 가까울수록 회피 증가. 공격 받을 시 반격. 적 공격 시, 공격력 / 치명타 증가. 적 처치 시 AP증가",
+    "english": "EVA increases the closer the unit is to the front row. Counters when attacked. When the enemy attacks, ATK and CRIT increase. AP increases on kill."
+  },
+  "1002703974": {
+    "korean": "전투 시작 시, 공격력이 크게 증가하고 라운드 개시 시, 적의 인원수에 따라 공격력이 감소합니다.&n본 효과를 통한 능력치 증감은 해제 불가합니다.",
+    "english": "At the start of battle, ATK is greatly increased. At the start of each round, ATK is reduced based on the number of enemies.&nStat changes from this effect cannot be removed."
+  },
+  "1002703321": {
+    "korean": "전투 시작 시 공격력 크게 증가 / 라운드 개시 시 적 인원수에 따라 공격력 감소",
+    "english": "Greatly increases ATK at the start of battle / ATK decreases per enemy present at the start of each round"
+  },
+  "BuffDesc1_Effect_AGS_Shade_N_1": {
+    "korean": "히트블레이드 : 피해량{0}%",
+    "english": "Heat Blade : Additional DMG {0}%"
+  },
+  "1000102984": {
+    "korean": "그림자 난무 프로토콜 : 회피{0}% (중열)",
+    "english": "Shadow Frenzy Protocol : EVA {0}% (Mid Row)"
+  },
+  "1000102982": {
+    "korean": "그림자 난무 프로토콜 : 회피{0}% (전열)",
+    "english": "Shadow Rampage Protocol : EVA {0}% (Front Row)"
+  },
+  "1000102985": {
+    "korean": "그림자 난무 프로토콜 : 회피{0}% (후열)",
+    "english": "Shadow Rampage Protocol : EVA {0}% (Back Row)"
+  },
+  "BuffDesc1_Effect_AGS_Shade_N_2": {
+    "korean": "처형 : 피해량{0}%",
+    "english": "Execution : Additional DMG {0}%"
+  },
+  "1000104421": {
+    "korean": "처형 : 방어력 {0}%",
+    "english": "Execution : DEF {0}%"
+  },
+  "1000102983": {
+    "korean": "그림자 난무 프로토콜 : {0}% 위력으로 반격",
+    "english": "Shadow Rampage Protocol : Counter Attack with {0}% Power"
+  },
+  "1000104422": {
+    "korean": "그림자 난무 프로토콜 : 공격력{0}% (공격 시)",
+    "english": "Shadow Rampage Protocol : ATK {0}% (on attack)"
+  },
+  "1000110428": {
+    "korean": "그림자 난무 프로토콜 : 치명타{0}% (공격 시)",
+    "english": "Shadow Flurry Protocol : CRIT {0}% (on attack)"
+  },
+  "1000110429": {
+    "korean": "그림자 난무 프로토콜 : AP{0} (처치 시)",
+    "english": "Shadow Rampage Protocol : AP {0} (On Kill)"
+  },
+  "1000103812": {
+    "korean": "그림자 난무 프로토콜 : 공격력{0}%",
+    "english": "Shadow Frenzy Protocol : ATK {0}%"
+  },
+  "1000103813": {
+    "korean": "그림자 난무 프로토콜 : 치명타{0}%",
+    "english": "Shadow Frenzy Protocol : CRIT {0}%"
+  },
+  "1000110430": {
+    "korean": "암살준비 : 공격력{0}%",
+    "english": "Assassination Preparation : ATK {0}%"
+  },
+  "1000110431": {
+    "korean": "암살준비 : 공격력{0}% (적1명)",
+    "english": "Assassination Preparation : ATK {0}% (Enemy 1)"
+  },
+  "1000110432": {
+    "korean": "암살준비 : 공격력{0}% (적2명)",
+    "english": "Assassination Preparation : ATK {0}% (Enemy 2)"
+  },
+  "1000110433": {
+    "korean": "암살준비 : 공격력{0}% (적3명)",
+    "english": "Assassination Preparation : ATK {0}% (Enemy 3)"
+  },
+  "1000110434": {
+    "korean": "암살준비 : 공격력{0}% (적4명)",
+    "english": "Assassination Preparation : ATK {0}% (Enemy 4)"
+  },
+  "1000110435": {
+    "korean": "암살준비 : 공격력{0}% (적5명)",
+    "english": "Assassination Preparation : ATK {0}% (Enemy 5)"
+  },
+  "1000110436": {
+    "korean": "암살준비 : 공격력{0}% (적6명)",
+    "english": "Assassination Preparation : ATK {0}% (Enemy 6)"
+  },
+  "1000110437": {
+    "korean": "암살준비 : 공격력{0}% (적7명)",
+    "english": "Assassination Preparation : ATK {0}% (Enemy 7)"
+  },
+  "1000110438": {
+    "korean": "암살준비 : 공격력{0}% (적8명)",
+    "english": "Assassination Preparation : ATK {0}% (Enemy 8)"
+  },
+  "1000110439": {
+    "korean": "암살준비 : 공격력{0}% (적9명)",
+    "english": "Assassination Preparation : ATK {0}% (Enemy 9)"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "SkillName_Skill_3P_Alcyone_N_1": {
+    "korean": "스키터링 브리니클",
+    "english": "Skittering Brinicle"
+  },
+  "SkillDesc_Skill_3P_Alcyone_N_1": {
+    "korean": "빠르게 적에게 접근하여 단일 대상에게 {0} 냉기 피해를 입힙니다. 대상의 HP에 반비례하여 피해량이 증가합니다. &n적중 시, 2라운드 동안 대상을 <침수> 상태로 만듭니다.",
+    "english": "Quickly closes in on the enemy, dealing {0} Cold damage to a single target.&nDamage increases in proportion to the target’s missing HP.&nOn hit, inflicts Soaked for 2 rounds.&n"
+  },
+  "SkillDescSimple_Skill_3P_Alcyone_N_1": {
+    "korean": "단일 대상 {0} 냉기 피해. 대상 <침수>. 대상 HP 반비례 피해량 증가.",
+    "english": "Deals {0} Cold damage to a single target.&nInflicts Soaked on the target.&nDamage increases in proportion to the target’s missing HP."
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_1": {
+    "korean": "스키터링 브리니클 : 대상 HP 반비례 피해량 {0}% (최대)",
+    "english": "Skittering Brinicle: Damage proportional to the target's HP, up to {0}% (maximum)."
+  },
+  "1000102976": {
+    "korean": "침수 : 화염 저항{0}%",
+    "english": "Flooded: Fire Resist {0}%"
+  },
+  "1000102660": {
+    "korean": "침수 : 냉기 저항{0}%",
+    "english": "Submerged: Cold Resist {0}%"
+  },
+  "1000102977": {
+    "korean": "침수 : 전기 저항{0}%",
+    "english": "Flooded: Electric Resist {0}%"
+  },
+  "SkillName_Skill_3P_Alcyone_N_2": {
+    "korean": "닻을 올려라!",
+    "english": "Raise the anchor!"
+  },
+  "SkillDesc_Skill_3P_Alcyone_N_2": {
+    "korean": "거대한 닻을 내리쳐 {0} 보호 무시 냉기 피해를 입힙니다.&n스킬을 사용한 다음 라운드 개시 시, <극지 생존 경쟁> 범위 내 아군에게 적용된 해로운 효과를 해제합니다.&n대상이 <침수> 상태인 경우, 1라운드 동안 행동 불가 상태로 만들고 지속 냉기 피해를 입힙니다.",
+    "english": "Slams down a massive anchor, dealing {0} Cold damage that ignores Protection.&nAt the start of the next round after using this skill, removes harmful effects from allies within the Polar Survival Contest range.&nIf the target is Soaked, inflicts Immobilized for 1 round and deals continuous Cold damage."
+  },
+  "SkillDescSimple_Skill_3P_Alcyone_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 냉기 피해. 조건부 아군 해로운 효과 해제. <침수> 대상 행동 불가 / 지속 냉기 피해.",
+    "english": "Deals {0} Cold damage that ignores Protection to a designated area.&nConditionally removes harmful effects from allies.&nIf the target is Soaked, inflicts Immobilized and continuous Cold damage."
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_2": {
+    "korean": "닻 끌어올리기",
+    "english": "Weigh Anchor"
+  },
+  "BuffDesc2_Effect_3P_Alcyone_N_2": {
+    "korean": "닻을 올려라! : 행동 불가",
+    "english": "Raise the Anchor! : Stunned"
+  },
+  "BuffDesc3_Effect_3P_Alcyone_N_2": {
+    "korean": "닻을 올려라! : 지속 냉기 피해 {0}",
+    "english": "Raise the Anchor!: Cold DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_21": {
+    "korean": "닻을 올려라! : 행동 불가",
+    "english": "Raise the anchor! : Stunned"
+  },
+  "BuffDesc2_Effect_3P_Alcyone_N_21": {
+    "korean": "닻을 올려라! : 지속 냉기 피해 {0}",
+    "english": "Raise the Anchor! : Cold DoT DMG {0}"
+  },
+  "SkillName_Skill_3P_Alcyone_N_3": {
+    "korean": "극지 생존 경쟁",
+    "english": "Polar Survival Contest"
+  },
+  "SkillDesc_Skill_3P_Alcyone_N_3": {
+    "korean": "라운드 개시 시, 범위 내 보호기를 제외한 아군을 지정 보호합니다.&n라운드 개시 시, 범위 내 아군의 화염 / 냉기 속성 저항이 증가합니다.&n라운드 개시 시 자신이 후열에 위치한 경우, 열 보호가 활성화되고 사거리가 증가합니다.",
+    "english": "At the start of the round, grants Targeted Protection to allies within range, excluding Defender units.&nAlso increases Fire and Cold resistance of allies within range.&nIf positioned in the back row at the start of the round, activates Column Protection and increases own range."
+  },
+  "SkillDescSimple_Skill_3P_Alcyone_N_3": {
+    "korean": "범위 내 아군 지정 보호 / 화염 / 냉기 저항 증가. 조건부 자신 열 보호 / 사거리 증가.",
+    "english": "Grants Target Protect and increases Fire Resist and Cold Resist for allies within range.&nConditionally activates Column Protect and increases own range."
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_3": {
+    "korean": "극지 생존 경쟁 : 지정 보호",
+    "english": "Polar Survival Competition: Target Protect"
+  },
+  "BuffDesc2_Effect_3P_Alcyone_N_3": {
+    "korean": "극지 생존 경쟁 : 화염 저항 {0}%",
+    "english": "Polar Survival Competition : Fire Resist {0}%"
+  },
+  "BuffDesc3_Effect_3P_Alcyone_N_3": {
+    "korean": "극지 생존 경쟁 : 냉기 저항 {0}%",
+    "english": "Polar Survival Contest: Cold Resist {0}%"
+  },
+  "BuffDesc4_Effect_3P_Alcyone_N_3": {
+    "korean": "리어가드 : 열 보호",
+    "english": "Rear Guard: Column Protect"
+  },
+  "BuffDesc5_Effect_3P_Alcyone_N_3": {
+    "korean": "리어가드 : 사거리 {0}",
+    "english": "Rear Guard : Range {0}"
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_31": {
+    "korean": "극지 생존 경쟁 : 화염 저항 {0}%",
+    "english": "Polar Survival Competition: Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_3P_Alcyone_N_31": {
+    "korean": "극지 생존 경쟁 : 냉기 저항 {0}%",
+    "english": "Polar Survival Competition : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_32": {
+    "korean": "리어가드 : 열 보호",
+    "english": "Rearguard: Column Protect"
+  },
+  "BuffDesc2_Effect_3P_Alcyone_N_32": {
+    "korean": "리어가드 : 사거리 {0}",
+    "english": "Rearguard : Range {0}"
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_33": {
+    "korean": "닻을 올려라! : 해로운 효과 해제",
+    "english": "Raise the anchor! : Removes harmful effects."
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_34": {
+    "korean": "끌어올린 닻",
+    "english": "The raised anchor"
+  },
+  "SkillName_Skill_3P_Alcyone_N_4": {
+    "korean": "가변형 합금 방패",
+    "english": "Adaptive Alloy Shield"
+  },
+  "SkillDesc_Skill_3P_Alcyone_N_4": {
+    "korean": "라운드 개시 시, 자신이 받는 피해가 감소합니다.&n자신이 지정 보호 중인 아군이 있을 경우, 받는 피해 감소 효과가 두 배로 증폭됩니다.&n자신의 기본 화염 / 냉기 속성 저항이 35%로 증가합니다.",
+    "english": "At the start of the round, reduces damage taken.&nIf the user is providing Targeted Protection to an ally, the damage reduction effect is doubled.&nBase Fire and Cold resistance is increased to 35%."
+  },
+  "SkillDescSimple_Skill_3P_Alcyone_N_4": {
+    "korean": "자신 받는 피해 감소.",
+    "english": "Grants Damage Reduction."
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_4": {
+    "korean": "가변형 합금 방패 : 받는 피해 {0}% 감소",
+    "english": "Variable Alloy Shield: DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_41": {
+    "korean": "가변형 합금 방패 : 받는 피해 {0}% 감소 (증폭)",
+    "english": "Variable Alloy Shield: DMG Reduction {0}% (Amplify)"
+  },
+  "SkillName_Skill_3P_Alcyone_N_5": {
+    "korean": "포효하는 노도",
+    "english": "Roaring Surge"
+  },
+  "SkillDesc_Skill_3P_Alcyone_N_5": {
+    "korean": "피격 시, 자신의 AP가 증가하고 반격을 획득합니다. 속성 공격 피격 시, 반격 효과가 증폭됩니다.&n스쿼드 내에 자신 외의 보호기가 있을 경우, AP 증가 효과 대상이 아군 전체로 확대됩니다.&n라운드 개시 시, <침수> 상태인 적의 받는 피해를 증가시킵니다.",
+    "english": "When hit, increases own AP and gains the Counter effect.&nIf hit by an elemental attack, the Counter effect is enhanced.&nIf there is another Defender in the squad, the AP increase effect is applied to all allies instead.&nAt the start of the round, increases damage taken by enemies in Soaked state."
+  },
+  "SkillDescSimple_Skill_3P_Alcyone_N_5": {
+    "korean": "피격 시, AP 증가 / 반격. 조건부 적 받는 피해 증가.",
+    "english": "When hit, increases AP and gains Counter Attack.&nConditionally increases DMG Taken of enemies."
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_5": {
+    "korean": "포효하는 노도 : {0}% 위력으로 반격",
+    "english": "Roaring Surge: Counter Attack with {0} Power {0}%"
+  },
+  "BuffDesc2_Effect_3P_Alcyone_N_5": {
+    "korean": "포효하는 노도 : {0}% 위력으로 반격 (증폭)",
+    "english": "Roaring Surge : Counter Attack with {0} Power {0}% (Amplify)"
+  },
+  "BuffDesc3_Effect_3P_Alcyone_N_5": {
+    "korean": "Battle Tendency : AP {0}",
+    "english": "Battle Tendency: AP {0}"
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_56": {
+    "korean": "거센 경랑 : 받는 피해 {0}% 증가",
+    "english": "Fierce Tempest: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_3P_Alcyone_N_54": {
+    "korean": "Battle Tendency : AP {0}",
+    "english": "Battle Tendency: AP {0}"
+  }
+}

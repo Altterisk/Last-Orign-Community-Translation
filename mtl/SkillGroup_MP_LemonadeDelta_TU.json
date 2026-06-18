@@ -1,0 +1,46 @@
+{
+  "SkillName_Skill_MP_LemonadeDelta_TU_1": {
+    "korean": "해치워버리라니까!",
+    "english": "I said, wipe them out!"
+  },
+  "SkillName_Skill_MP_LemonadeDelta_TU_4": {
+    "korean": "똑바로 해!",
+    "english": "Do it properly!"
+  },
+  "SkillName_Skill_MP_LemonadeDelta_TU_5": {
+    "korean": "궁서설묘",
+    "english": "Gungseo Seolmyo"
+  },
+  "SkillDesc_Skill_MP_LemonadeDelta_TU_1": {
+    "korean": "델타의 손짓에 따라 MAV가 대상에게 {0} 보호 무시 피해를 입힙니다.&n대상이 표식 상태인 경우, 피해량이 증가합니다.&n…때때로 표식을 찾지 못하는 경우가 있는 것 같습니다.",
+    "english": "When Delta gestures, MAV deals {0} Ignore Protection damage to the target. If the target is Marked, the damage is increased. … Sometimes it fails to find the Mark."
+  },
+  "SkillDesc_Skill_MP_LemonadeDelta_TU_2": {
+    "korean": "범위 내 아군에게 미확인 용액을 살포하여 AP를 증가시키고, 자신을 공격한 대상을 향해 맹목적으로 전진하도록 만듭니다.&n…때때로 용액이 듣지 않는 개체가 있는 것 같습니다.",
+    "english": "Sprays an unidentified solution on allies within range, increasing their AP and causing them to blindly advance toward the target that attacked them. … Sometimes there are entities that do not obey the solution."
+  },
+  "SkillDesc_Skill_MP_LemonadeDelta_TU_3": {
+    "korean": "라운드 개시 시, 3라운드 동안 모든 아군에게 방어막을 부여합니다.&n…때때로 방어막이 적용되지 않는 개체가 있는 것 같습니다.",
+    "english": "At the start of a round, grant a Barrier to all allies for 3 rounds. … Sometimes the Barrier does not apply to some entities."
+  },
+  "SkillDesc_Skill_MP_LemonadeDelta_TU_4": {
+    "korean": "전투 개시 시, 3라운드 동안 모든 아군의 공격력 / 방어력 / 치명타가 증가합니다.&n…때때로 똑바로 못하는 개체가 있는 것 같습니다.",
+    "english": "At the start of combat, all allies' ATK / DEF / CRIT increase for 3 rounds. … Sometimes there are units that can't do it properly."
+  },
+  "SkillDesc_Skill_MP_LemonadeDelta_TU_5": {
+    "korean": "라운드 개시 시, 자신은 피해 무효화 효과를 획득합니다.&n자신 외의 생존 개체가 없을 경우, 상기 효과 대신 반격 효과를 획득합니다.",
+    "english": "At the start of the round, you gain Damage Nullification. If there are no other surviving entities besides yourself, you gain Counter Attack instead of the above."
+  },
+  "BuffDesc2_Effect_MP_LemonadeDelta_N_2": {
+    "korean": "전방을 향하여 이동",
+    "english": "Move forward"
+  },
+  "BuffDesc3_Effect_MP_LemonadeDelta_N_2": {
+    "korean": "부작용",
+    "english": "Side Effect"
+  },
+  "BuffDesc1_Effect_MP_LemonadeDelta_TU_51": {
+    "korean": "궁서설묘 : {0}% 위력으로 반격",
+    "english": "Gungseo Seolmyo : Counter Attack with {0}% Power"
+  }
+}

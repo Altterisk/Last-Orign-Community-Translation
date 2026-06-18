@@ -1,0 +1,214 @@
+{
+  "SkillName_Skill_3P_Maria_N_1": {
+    "korean": "공격 견제",
+    "english": "Attack Interference"
+  },
+  "SkillDesc_Skill_3P_Maria_N_1": {
+    "korean": "더블 배럴 샷건으로 대상에게 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상을 도발하며 스킬 위력 / 행동력을 감소시킵니다.",
+    "english": "Deal {0} damage to the target with a double-barrel shotgun.&nOn hit, Provokes the target for 2 rounds, reducing Skill Power and SPD."
+  },
+  "SkillDescSimple_Skill_3P_Maria_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상 도발 / 스킬 위력 / 행동력 감소.",
+    "english": "{0} damage to a single target.&nProvokes the target and reduces Skill Power and SPD."
+  },
+  "BuffDesc1_Effect_3P_Maria_N_1": {
+    "korean": "공격 견제 : 스킬 위력 {0}%",
+    "english": "Attack Interference : Skill Power {0}%"
+  },
+  "BuffDesc2_Effect_3P_Maria_N_1": {
+    "korean": "공격 견제 : 행동력 {0}%",
+    "english": "Attack Interference : SPD {0}%"
+  },
+  "BuffDesc3_Effect_3P_Maria_N_1": {
+    "korean": "공격 견제 : 대상 도발 (마리아)",
+    "english": "Attack Interference : Target Provoked (Maria)"
+  },
+  "SkillName_Skill_3P_Maria_N_2": {
+    "korean": "형상기억 스커트",
+    "english": "Shape Memory Skirt"
+  },
+  "SkillDesc_Skill_3P_Maria_N_2": {
+    "korean": "자신과 대상 아군에게 3라운드 동안 방어막 / 받는 피해 감소 효과를 부여합니다.&n대상이 보호기가 아닌 경우, 지정 보호 효과가 추가됩니다.",
+    "english": "Grants a Barrier and DMG Reduction to yourself and the target ally for 3 rounds.&nIf the target is not a Defender, Target Protect is also applied."
+  },
+  "SkillDescSimple_Skill_3P_Maria_N_2": {
+    "korean": "자신과 대상 아군 방어막 / 받는 피해 감소 / 지정 보호.",
+    "english": "Barrier, DMG Reduction, and Target Protect for yourself and the target ally."
+  },
+  "BuffDesc1_Effect_3P_Maria_N_2": {
+    "korean": "형상기억 스커트 : 방어막 {0}",
+    "english": "Shape Memory Skirt : Barrier {0}"
+  },
+  "BuffDesc2_Effect_3P_Maria_N_2": {
+    "korean": "형상기억 스커트 : 받는 피해 {0}% 감소",
+    "english": "Shape Memory Skirt : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_3P_Maria_N_2": {
+    "korean": "형상기억 스커트 : 지정 보호 (보호기 제외)",
+    "english": "Shape Memory Skirt : Target Protect (Defender excluded)"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_21": {
+    "korean": "형상기억 스커트 : 받는 피해 {0}% 감소",
+    "english": "Shape Memory Skirt : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_22": {
+    "korean": "형상기억 스커트 : 지정 보호",
+    "english": "Shape Memory Skirt : Target Protect"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_23": {
+    "korean": "형상기억 스커트 : 받는 피해 {0}% 감소",
+    "english": "Shape Memory Skirt : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_24": {
+    "korean": "형상기억 스커트 : 방어막 {0}",
+    "english": "Shape Memory Skirt : Barrier {0}"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_25": {
+    "korean": "깜빡한 준비물 : 공격력 {0}%",
+    "english": "Forgotten Supplies : ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_26": {
+    "korean": "깜빡한 준비물 : 적중 {0}%",
+    "english": "Forgotten Supplies : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_27": {
+    "korean": "깜빡한 준비물 : 행동력 {0}%",
+    "english": "Forgotten Supplies : SPD {0}%"
+  },
+  "SkillName_Skill_3P_Maria_N_3": {
+    "korean": "준비물 확인",
+    "english": "Supply Check"
+  },
+  "SkillDesc_Skill_3P_Maria_N_3": {
+    "korean": "전투 개시 시, 보호기를 제외한 범위 내 아군에게 스킬 사용 / 이동 불가 일반 효과를 부여합니다.&n상기 효과는 대기를 통해 해제할 수 있습니다.&n라운드 개시 시, 상기 효과가 적용된 범위 내 아군에게 피해 무효화 일반 효과를 부여합니다.&n라운드 개시 시, 범위 내 아군의 공격력 / 적중 / 행동력이 증가합니다.",
+    "english": "At battle start, grants Silenced and Rooted to all allies within range except Defenders.&nThis effect can be removed by waiting.&nAt the start of each round, applies Damage Nullification to allies who received the previous effect.&nAt the start of each round, increases ATK, ACC, and SPD of allies within range."
+  },
+  "SkillDescSimple_Skill_3P_Maria_N_3": {
+    "korean": "범위 내 아군 스킬 사용 / 이동 불가 / 피해 무효화. 대상 공격력 / 적중 / 행동력 증가.",
+    "english": "Grants Silenced, Rooted, and Damage Nullification to allies within range. Increases their ATK, ACC, and SPD."
+  },
+  "BuffDesc1_Effect_3P_Maria_N_3": {
+    "korean": "준비됐나요? : 스킬 사용 불가 (해제 불가)",
+    "english": "Ready? : Silenced (Unremovable)"
+  },
+  "BuffDesc2_Effect_3P_Maria_N_3": {
+    "korean": "준비됐나요? : 이동 불가 (해제 불가)",
+    "english": "Ready? : Rooted (Unremovable)"
+  },
+  "BuffDesc3_Effect_3P_Maria_N_3": {
+    "korean": "준비됐어요~ : 공격력 {0}%",
+    "english": "I'm Ready~ : ATK {0}%"
+  },
+  "BuffDesc4_Effect_3P_Maria_N_3": {
+    "korean": "준비됐어요~ : 적중 {0}%",
+    "english": "I'm Ready~ : ACC {0}%"
+  },
+  "BuffDesc5_Effect_3P_Maria_N_3": {
+    "korean": "준비됐어요~ : 행동력 {0}%",
+    "english": "I'm Ready~ : SPD {0}%"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_31": {
+    "korean": "준비됐나요? : 스킬 사용 불가 (해제 불가)",
+    "english": "Are You Ready? : Silenced (Unremovable)"
+  },
+  "BuffDesc2_Effect_3P_Maria_N_31": {
+    "korean": "준비됐나요? : 이동 불가 (해제 불가)",
+    "english": "Are You Ready? : Rooted (Unremovable)"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_32": {
+    "korean": "포대기 : 피해 무효화",
+    "english": "Swaddle : Damage Nullification"
+  },
+  "SkillName_Skill_3P_Maria_N_4": {
+    "korean": "뒷바라지",
+    "english": "Support"
+  },
+  "SkillDesc_Skill_3P_Maria_N_4": {
+    "korean": "전투 개시 시, <준비됐나요?> 효과의 대상이 되는 아군의 AP를 증가시킵니다.&n전투 개시 시, 인접한 아군 1기당 자신의 AP가 증가합니다.&n라운드 개시 시, <준비됐나요?> 상태가 아닌 범위 내 아군에게 <형상기억 스커트> 지속 효과를 부여합니다. &n스킬 효과는 <뒷바라지>의 스킬 레벨에 비례합니다.",
+    "english": "At battle start, increases AP of allies affected by the <Ready?> effect.&nAt battle start, increases your own AP for each adjacent ally.&nAt the start of each round, grants a continuous <Shape Memory Skirt> effect to allies within range who are not in the <Ready?> state.&nThe skill effect scales with the skill level of <Support>."
+  },
+  "SkillDescSimple_Skill_3P_Maria_N_4": {
+    "korean": "범위 내 아군 및 자신 전투 개시 AP 증가. 조건부 <형상기억 스커트> 지속 효과 부여.",
+    "english": "Increases AP for allies within range and yourself at battle start. Grants a conditional continuous <Shape Memory Skirt> effect."
+  },
+  "BuffDesc1_Effect_3P_Maria_N_4": {
+    "korean": "어화둥둥 : AP {0}",
+    "english": "How Lovely~ : AP {0}"
+  },
+  "BuffDesc2_Effect_3P_Maria_N_4": {
+    "korean": "뒷바라지 : AP {0} (인접 1기당)",
+    "english": "Support : AP {0} (per adjacent unit)"
+  },
+  "BuffDesc3_Effect_3P_Maria_N_4": {
+    "korean": "뒷바라지 : 방어막 {0}",
+    "english": "Support : Barrier {0}"
+  },
+  "BuffDesc4_Effect_3P_Maria_N_4": {
+    "korean": "뒷바라지 : 받는 피해 {0}% 감소",
+    "english": "Support : DMG Reduction {0}%"
+  },
+  "BuffDesc5_Effect_3P_Maria_N_4": {
+    "korean": "뒷바리지 : 지정 보호 (보호기 제외)",
+    "english": "Rear Guard : Target Protect (Defender excluded)"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_41": {
+    "korean": "뒷바라지 : 방어막 {0}",
+    "english": "Support : Barrier {0}"
+  },
+  "BuffDesc2_Effect_3P_Maria_N_41": {
+    "korean": "뒷바라지 : 받는 피해 {0}% 감소",
+    "english": "Support : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_42": {
+    "korean": "뒷바라지 : 지정 보호",
+    "english": "Support : Target Protect"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_43": {
+    "korean": "어화둥둥 : AP {0}",
+    "english": "Oh Hwa Doong Doong : AP {0}"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_44": {
+    "korean": "어화둥둥 : AP {0}",
+    "english": "Oh Hwa Doong Doong : AP {0}"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_45": {
+    "korean": "어화둥둥 : AP {0}",
+    "english": "Oh Hwa Doong Doong : AP {0}"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_46": {
+    "korean": "어화둥둥 : AP {0}",
+    "english": "Oh Hwa Doong Doong : AP {0}"
+  },
+  "SkillName_Skill_3P_Maria_N_5": {
+    "korean": "삼천지교",
+    "english": "Three Thousand Teachings"
+  },
+  "SkillDesc_Skill_3P_Maria_N_5": {
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가합니다.&n<형상기억 스커트> 사용 시, 대상에게 <준비됐어요~> 지속 효과를 추가로 부여합니다.&n대기를 통해 <준비됐나요?> 효과를 해제한 아군에게, 다음 2라운드 동안 보호 무시 효과를 부여합니다.",
+    "english": "At the start of each round, increases your own Status Resist.&nWhen using <Shape Memory Skirt>, adds a continuous <Ready~> effect to the target.&nAfter waiting, grants Activate Ignore Protection for the next 2 rounds to allies who had the <Ready?> effect removed."
+  },
+  "SkillDescSimple_Skill_3P_Maria_N_5": {
+    "korean": "자신 효과 저항 증가. <형상기억 스커트> 사용 시, 대상 공격력 / 적중 / 행동력 증가. 조건부 아군 보호 무시 활성화",
+    "english": "Increases your own Status Resist. When using <Shape Memory Skirt>, increases the target's ATK, ACC, and SPD. Conditionally Activate Ignore Protection for allies."
+  },
+  "BuffDesc1_Effect_3P_Maria_N_5": {
+    "korean": "삼천지교 : 효과 저항 {0}% 증가",
+    "english": "Three Thousand Teachings : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_3P_Maria_N_5": {
+    "korean": "삼천지교 : 보호 무시 활성화",
+    "english": "Three Thousand Teachings : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_51": {
+    "korean": "삼천지교 : 보호 무시 활성화",
+    "english": "Three Thousand Teachings : Activate Ignore Protection"
+  },
+  "BuffDesc2_Effect_3P_Maria_N_51": {
+    "korean": "불 끄기",
+    "english": "Extinguish Fire"
+  },
+  "BuffDesc1_Effect_3P_Maria_N_52": {
+    "korean": "불 켜기",
+    "english": "Turn On the Light"
+  }
+}

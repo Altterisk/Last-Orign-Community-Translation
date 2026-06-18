@@ -1,0 +1,150 @@
+{
+  "1002700454": {
+    "korean": "잔해 투척",
+    "english": "Debris Throw"
+  },
+  "1002703908": {
+    "korean": "금속 잔해를 투척해 {0} 피해를 줍니다. <잔해 수집> 수에 따라 다음 추가 효과가 발생합니다. <1개 : AP 감소> <2개 : 받는 피해 증가> <3개 : 강화 효과 해제>",
+    "english": "Throws metal debris, dealing {0} damage. The following additional effects occur based on the number of <Debris Collection> stacks: <1: AP Reduction> <2: DMG Taken Increased> <3: Buff Removal>"
+  },
+  "1002703162": {
+    "korean": "단일 대상 {0} 피해. 수집한 잔해 수에 따라 방해 효과 적용",
+    "english": "Deals {0} damage to a single target. Applies a disruption effect based on the number of Debris Collection stacks."
+  },
+  "1000102736": {
+    "korean": "잔해 수집 1단계 : AP {0}",
+    "english": "Debris Collection Phase 1: AP {0}"
+  },
+  "1000103025": {
+    "korean": "잔해 수집 2단계 : 받는 피해{0}%",
+    "english": "Scrap Collection Stage 2: DMG Taken {0}%"
+  },
+  "1000103028": {
+    "korean": "잔해 수집 3단계 : 강화 효과 해제",
+    "english": "Scrap Collection Stage 3: Buff Removal"
+  },
+  "1002700455": {
+    "korean": "마그넷 프리즌",
+    "english": "Magnet Prison"
+  },
+  "1002703909": {
+    "korean": "보호 효과를 무시하고 {0} 피해를 주며, 2라운드 동안 방어력 증가 / 이동불가 / 회피 / 행동력 / 사거리 감소 상태로 만듭니다. 모든 <잔해 수집> 중첩을 소모합니다. 스킬 레벨 당+30%의 추가 적중이 적용됩니다.",
+    "english": "Ignores protection, dealing {0} damage, and for 2 rounds applies increased DEF, Rooted, increased EVA, increased SPD, and reduced Range. Consumes all <Debris Collection> stacks. Gains +30% ACC per skill level."
+  },
+  "1002703163": {
+    "korean": "지정 범위 보호 무시 {0} 피해. 방어력 증가. 회피/행동력/사거리 감소. 이동 불가",
+    "english": "Ignores protection in the designated area, dealing {0} damage. Increases DEF. Reduces EVA, SPD, and Range. Applies Rooted."
+  },
+  "1000102737": {
+    "korean": "잔해 부착 : 방어력{0}%",
+    "english": "Debris Attachment: DEF {0}%"
+  },
+  "1000104337": {
+    "korean": "잔해 부착 : 회피 {0}%",
+    "english": "Debris Attachment: EVA {0}%"
+  },
+  "1000104997": {
+    "korean": "잔해 부착 : 행동력 {0}%",
+    "english": "Debris Attachment: SPD {0}%"
+  },
+  "1000105371": {
+    "korean": "잔해 부착 : 이동 불가",
+    "english": "Debris Attachment: Rooted"
+  },
+  "1000105544": {
+    "korean": "잔해 부착 : 사거리 {0}",
+    "english": "Debris Attachment: Range {0}"
+  },
+  "1000103236": {
+    "korean": "잔해 부착 (최대) : 강화 효과 해제",
+    "english": "Debris Attachment (Max) : Buff Removal"
+  },
+  "1000104539": {
+    "korean": "잔해 부착 (최대) : 회피 {0}%",
+    "english": "Debris Attachment (Max): EVA {0}%"
+  },
+  "1000105096": {
+    "korean": "잔해 부착 (최대) : 행동력 {0}%",
+    "english": "Debris Attachment (Max): SPD {0}%"
+  },
+  "1002700456": {
+    "korean": "마그넷 필드",
+    "english": "Magnet Field"
+  },
+  "1002703910": {
+    "korean": "라운드 개시 시, 자신의 HP가 50% 이상이면 주변에 마그넷 필드를 전개해 받는 피해를 감소시키며, 모든 속성 저항이 증가합니다. 자신의 HP가 50% 이하면 해당 효과를 자신에게만 2배로 부여합니다.",
+    "english": "At the start of a round, if your HP is at least 50%, a Magnet Field is deployed around you, reducing DMG Taken and increasing all Elemental Resist. If your HP is below 50%, the effect is applied only to yourself at double strength."
+  },
+  "1002703164": {
+    "korean": "아군 또는 자신에게 피해 감소 / 속성 저항 증가",
+    "english": "Reduces DMG Taken for allies or yourself and increases Elemental Resist."
+  },
+  "1000102738": {
+    "korean": "마그넷 필드 : 받는 피해 감소 {0}%",
+    "english": "Magnet Field : DMG Reduction {0}%"
+  },
+  "1000104338": {
+    "korean": "마그넷 필드 : 화염 저항{0}%",
+    "english": "Magnet Field : Fire Resist {0}%"
+  },
+  "1000104998": {
+    "korean": "마그넷 필드 : 냉기 저항{0}%",
+    "english": "Magnet Field : Cold Resist {0}%"
+  },
+  "1000105372": {
+    "korean": "마그넷 필드 : 전기 저항{0}%",
+    "english": "Magnet Field : Electric Resist {0}%"
+  },
+  "1002700457": {
+    "korean": "반응 방벽",
+    "english": "Reactive Barrier"
+  },
+  "1002703911": {
+    "korean": "공격 당할 경우, 반응 방벽을 전개해 방어력이 증가하고 받는 피해가 감소합니다. <잔해 수집> 수에 따라 최대 3단계까지 증가합니다.",
+    "english": "When attacked, a Reactive Barrier is deployed, increasing DEF and reducing DMG Taken. It can be increased up to 3 levels based on the number of <Debris Collection> stacks."
+  },
+  "1002703165": {
+    "korean": "수집한 잔해 수에 따라 방어력 증가 / 받는 피해 감소",
+    "english": "Increases DEF and reduces DMG Taken based on the number of Debris Collection stacks."
+  },
+  "1000102739": {
+    "korean": "반응 방벽 1단계 : 방어력{0}%",
+    "english": "Reaction Barrier Stage 1: DEF {0}%"
+  },
+  "1000104339": {
+    "korean": "반응 방벽 1단계 : 받는 피해 감소 {0}%",
+    "english": "Reaction Barrier Stage 1: DMG Reduction {0}%"
+  },
+  "1000103026": {
+    "korean": "반응 방벽 2단계 : 방어력{0}%",
+    "english": "Reactive Barrier Stage 2: DEF {0}%"
+  },
+  "1000104439": {
+    "korean": "반응 방벽 2단계 : 받는 피해 감소 {0}%",
+    "english": "Reactive Barrier Level 2: DMG Reduction {0}%"
+  },
+  "1000103027": {
+    "korean": "반응 방벽 3단계 : 방어력{0}%",
+    "english": "Reaction Barrier Stage 3: DEF {0}%"
+  },
+  "1000104440": {
+    "korean": "반응 방벽 3단계 : 받는 피해 감소 {0}%",
+    "english": "Reaction Barrier Stage 3: DMG Reduction {0}%"
+  },
+  "1002700458": {
+    "korean": "잔해 수집",
+    "english": "Debris Collection"
+  },
+  "1002703912": {
+    "korean": "라운드 개시 시, 주변의 금속 잔해를 수집해 공격력이 증가합니다. 잔해는 최대 3개까지 수집할 수 있습니다. <잔해 수집> 수가 최대인 경우, <마그넷 프리즌>의 회피 / 행동력 감소 효과가 2배가 되며 강화 효과를 해제합니다.",
+    "english": "At the start of a round, collect nearby metal debris to increase ATK. Up to 3 debris can be collected. When the number of <Debris Collection> is at maximum, the EVA and SPD reduction effects of <Magnet Prison> are doubled and the buff is removed."
+  },
+  "1002703166": {
+    "korean": "매 라운드 잔해 1개 수집. 수집한 잔해 수에 따라 공격력 증가 / 스킬 강화",
+    "english": "Collect 1 piece of debris each round. ATK increases and skills are enhanced based on the number of collected debris."
+  },
+  "1000102740": {
+    "korean": "잔해 수집 : 공격력{0}%",
+    "english": "Debris Collection : ATK {0}%"
+  }
+}

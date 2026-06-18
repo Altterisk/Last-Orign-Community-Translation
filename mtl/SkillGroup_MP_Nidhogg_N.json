@@ -1,0 +1,66 @@
+{
+  "SkillName_Skill_MP_Nidhogg_N_1": {
+    "korean": "파멸의 폭발",
+    "english": "Explosion of Destruction"
+  },
+  "SkillName_Skill_MP_Nidhogg_N_2": {
+    "korean": "파멸의 징조",
+    "english": "Signs of Destruction"
+  },
+  "SkillName_Skill_MP_Nidhogg_N_3": {
+    "korean": "깊은 어둠",
+    "english": "Deep Darkness"
+  },
+  "SkillName_Skill_MP_Nidhogg_N_4": {
+    "korean": "타락의 징조",
+    "english": "Signs of Corruption"
+  },
+  "SkillDesc_Skill_MP_Nidhogg_N_1": {
+    "korean": "칼날을 세우고 돌진하여 단일 대상에게 {0} 피해를 줍니다. [파멸] 중첩이 1이상 있는 경우 피해량이 증가합니다&n적중 시, 파멸 중첩이 1개 이상인 경우 피해량이 증가합니다.",
+    "english": "Raise your blade and charge, dealing {0} damage to a single target. Damage increases if you have 1 or more [Doom] stacks. On hit, damage increases if you have 1 or more Doom stacks."
+  },
+  "SkillDesc_Skill_MP_Nidhogg_N_2": {
+    "korean": "무언가를 분출하여 지정 범위에 {0} 보호 무시 피해를 줍니다. 적중시, 2라운드 동안 [파멸] 효과가 발생하여 받는 피해 약화/ 받는 피해 증가/ 방어력 감소 일반 효과를 받습니다.",
+    "english": "Eject something to deal {0} Ignore Protection damage to the designated area. On hit, a [Doom] effect occurs for 2 rounds, granting Normal Effect such as DMG Taken Weakened, DMG Taken Increased, and DEF Reduced."
+  },
+  "SkillDesc_Skill_MP_Nidhogg_N_3": {
+    "korean": "전투 개시시, 영구적으로 적 전체에게 물리 지속 피해를 입합니다.",
+    "english": "At the start of combat, permanently inflict physical DoT DMG to all enemies."
+  },
+  "SkillDesc_Skill_MP_Nidhogg_N_4": {
+    "korean": "라운드 개시시, 5라운드동안 행동력과 공격력이 증가하는 [타락] 버프를 획득합니다. [타락], [타락 중첩], [희생 제의]를 합쳐 3중첩 이상이면 반격합니다.",
+    "english": "At the start of a round, gain the [Corruption] buff, which increases SPD and ATK for 5 rounds. Counterattack if the combined stacks of [Corruption], [Corruption Stacks], and [Sacrifice Offering] are 3 or higher."
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_2": {
+    "korean": "파멸: 받는 피해 감소 약화 {0}%",
+    "english": "Ruin : DMG Reduction Weakened {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_1": {
+    "korean": "파멸의 폭발 : 피해량 {0}%",
+    "english": "Explosion of destruction : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_MP_Nidhogg_N_2": {
+    "korean": "파멸 : 받는 피해 {0}% 증가",
+    "english": "/ Ruin : DMG Taken Increased {0}%"
+  },
+  "BuffDesc3_Effect_MP_Nidhogg_N_2": {
+    "korean": "파멸: 방어력 {0}%",
+    "english": "/ Ruin : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_3": {
+    "korean": "깊은 어둠: {0}지속 물리 피해",
+    "english": "Deep darkness : Physical DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_4": {
+    "korean": "타락: 행동력 {0}%",
+    "english": "/ Corruption : SPD {0}%"
+  },
+  "BuffDesc2_Effect_MP_Nidhogg_N_4": {
+    "korean": "타락: 공격력 {0}%",
+    "english": "/ Corruption : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_Nidhogg_N_41": {
+    "korean": "타락의 징조: {0}% 위력으로 반격",
+    "english": "Signs of corruption : Counter Attack with {0}% Power"
+  }
+}

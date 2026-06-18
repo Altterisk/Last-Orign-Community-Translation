@@ -1,0 +1,58 @@
+{
+  "1002702396": {
+    "korean": "내부 과열",
+    "english": "Overheat"
+  },
+  "1002702397": {
+    "korean": "과열 폭발",
+    "english": "Overheat Explosion"
+  },
+  "1002704379": {
+    "korean": "대상에게 {0} 화염 속성 피해를 주고, 50% 확률로 최대 3회까지 화염 저항을 감소시킵니다. 치명타 시, 대상의 피해 감소 효과를 해제합니다.",
+    "english": "Deals {0} Fire damage to the target and has a 50% chance to reduce Fire Resist up to 3 times. On CRIT, removes the target's DMG Reduction effects."
+  },
+  "1002704380": {
+    "korean": "자폭해 지정 범위에 {0} 화염 속성 피해를 줍니다. 대상의 방어막 / 피해 감소 효과를 무시합니다.",
+    "english": "Self-destruct deals {0} Fire damage to the designated area. Ignores the target's Barrier / DMG Reduction."
+  },
+  "1002704381": {
+    "korean": "공격 시, 과열 상태가 되어 공격력이 증가합니다. 3중첩 이상 시, 회피가 증가하지만 지속 고정 피해를 입습니다. 적의 공격을 회피하면 2라운드 동안 적중이 증가합니다.",
+    "english": "When attacking, you become Overheat, increasing ATK. At 3 stacks or more, EVA increases, but you suffer Fixed DoT DMG. Evading an enemy attack raises ACC for 2 rounds."
+  },
+  "1002704382": {
+    "korean": "<내부 과열> 3중첩 이상 상태에서 사망 시, 주변에 괴멸적인 고정 피해를 줍니다.",
+    "english": "<Overheat> When dying with 3 or more stacks, deals catastrophic Fixed DMG to surrounding enemies."
+  },
+  "1000103875": {
+    "korean": "자폭 개시 : 자폭 준비",
+    "english": "Self-Destruct Initiation: Self-Destruct Prepared"
+  },
+  "1000102022": {
+    "korean": "자폭 개시 : 자폭",
+    "english": "Self-Destruct Initiate: Self-Destruct"
+  },
+  "1000103874": {
+    "korean": "히트 머신건 : 피해 감소 해제",
+    "english": "Heat Machine Gun : DMG Reduction Removal"
+  },
+  "1000103872": {
+    "korean": "내부 과열 : 공격력{0}%",
+    "english": "Internal overheating : ATK {0}%"
+  },
+  "1000103876": {
+    "korean": "내부 과열 : {0} 지속 피해",
+    "english": "Internal overheating : DoT DMG {0}"
+  },
+  "1000103879": {
+    "korean": "역습 준비 : 적중{0}%",
+    "english": "Ready Counterattack : ACC {0}%"
+  },
+  "1000103881": {
+    "korean": "내부 과열 : 회피{0}%",
+    "english": "Internal overheating : EVA {0}%"
+  },
+  "1000103873": {
+    "korean": "과열 폭발 : {0}% 고정 피해",
+    "english": "Overheating explosion : {0}% Fixed DMG"
+  }
+}

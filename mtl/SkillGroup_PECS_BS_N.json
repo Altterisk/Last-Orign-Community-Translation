@@ -1,0 +1,94 @@
+{
+  "1002701452": {
+    "korean": "과부하 방전",
+    "english": "Overload Discharge"
+  },
+  "1002701453": {
+    "korean": "전파 발신",
+    "english": "Signal Transmission"
+  },
+  "1002701454": {
+    "korean": "이동형 기지국",
+    "english": "Mobile Base Station"
+  },
+  "1002701455": {
+    "korean": "경보 발신",
+    "english": "Alarm Broadcast"
+  },
+  "1002704104": {
+    "korean": "대상에게 {0} 전기 속성 피해를 주고, 대상의 AP를 낮춥니다. 대상은 2라운드 동안 회피 / 적중 / 사거리가 감소합니다.",
+    "english": "Deals {0} Electric damage to the target and reduces their AP. The target's EVA / ACC / Range are reduced for 2 rounds."
+  },
+  "1002703370": {
+    "korean": "지정 대상 {0} 전기 피해. 대상 AP / 회피 / 적중 / 사거리 감소",
+    "english": "Designated target {0} Electric damage. Reduces target's AP / EVA / ACC / Range."
+  },
+  "1002704105": {
+    "korean": "주변 아군의 AP를 올려주고, 2라운드 동안 적중 / 치명타를 증가시킵니다. 해당 효과를 받은 대상은 적중 감소 효과가 해제됩니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "Increases nearby allies' AP and boosts their ACC / CRIT for 2 rounds. Targets affected by this skill have any ACC reduction effects removed. At skill level 10, the range increases."
+  },
+  "1002703371": {
+    "korean": "주변 아군 AP / 적중 / 치명타 증가. 적중 감소 해제",
+    "english": "Increases AP / ACC / CRIT of nearby allies. Removes ACC debuffs."
+  },
+  "1002704106": {
+    "korean": "라운드 개시 시, 범위 내 아군에게 대 기동형 피해량 / 적중 증가 효과를 줍니다. 스킬 레벨 10에서 범위가 증가하며 사거리 증가 효과가 추가됩니다.",
+    "english": "At the start of the round, grants allies within range increased Anti-Air DMG / ACC. At skill level 10, the range increases and a Range increase effect is added."
+  },
+  "1002703372": {
+    "korean": "주변 아군 대 기동형 피해 / 적중 증가",
+    "english": "Increases Anti-Air DMG / ACC for nearby allies."
+  },
+  "1002704107": {
+    "korean": "라운드 개시 시, 범위 내 아군에게 경보를 발신해 회피를 증가시키며 받는 피해를 감소시킵니다. 해당 효과는 공격 받으면 해제됩니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of the round, issues an alert to allies within range, increasing their EVA and reducing DMG taken. This effect is removed when the affected ally is attacked. At skill level 10, the range increases."
+  },
+  "1002703373": {
+    "korean": "라운드 개시 시, 아군 회피 증가 / 받는 피해 감소 (1회)",
+    "english": "At the start of the round, increases allies' EVA / reduces DMG taken once."
+  },
+  "1000103263": {
+    "korean": "이동형 기지국 : 대 기동 공격{0}%",
+    "english": "Mobile Base Station : Anti-Air DMG {0}%"
+  },
+  "1000103265": {
+    "korean": "센서 고장 : 적중 {0}%",
+    "english": "Sensor Failure : ACC {0}%"
+  },
+  "1000103266": {
+    "korean": "센서 고장 : 사거리 {0}",
+    "english": "Sensor Failure : Range {0}"
+  },
+  "1000103262": {
+    "korean": "전파 발신 : AP{0}",
+    "english": "Signal Transmission : AP {0}"
+  },
+  "1000104554": {
+    "korean": "전파 발신 : 치명타{0}%",
+    "english": "Signal Transmission : CRIT {0}%"
+  },
+  "1000105100": {
+    "korean": "전파 발신 : 적중{0}%",
+    "english": "Signal Transmission : ACC {0}%"
+  },
+  "1000105424": {
+    "korean": "전파 발신 : 적중 감소 해제",
+    "english": "Signal Transmission : ACC Debuff Removal"
+  },
+  "1000104555": {
+    "korean": "이동형 기지국 : 적중{0}%",
+    "english": "Mobile Base Station : ACC {0}%"
+  },
+  "1000105101": {
+    "korean": "이동형 기지국 : 사거리{0}",
+    "english": "Mobile Base Station : Range {0}"
+  },
+  "1000103264": {
+    "korean": "경보 발신 : 회피{0}% (1회)",
+    "english": "Alarm Broadcast : EVA {0}% (1x)"
+  },
+  "1000104556": {
+    "korean": "경보 발신 : 받는 피해 감소 {0}% (1회)",
+    "english": "Alarm Broadcast : DMG Reduction {0}% (1x)"
+  }
+}

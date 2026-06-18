@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_Stalker13_N_1": {
+    "korean": "스위치",
+    "english": "Switch"
+  },
+  "SkillName_Skill_MP_Stalker13_N_2": {
+    "korean": "목표를 센터에",
+    "english": "Center Target"
+  },
+  "SkillName_Skill_MP_Stalker13_N_3": {
+    "korean": "고통은 적의 수만큼",
+    "english": "Pain Scales with Enemy Count"
+  },
+  "SkillName_Skill_MP_Stalker13_N_4": {
+    "korean": "모든 것은 이제부터",
+    "english": "From Now On"
+  },
+  "SkillDesc_Skill_MP_Stalker13_N_1": {
+    "korean": "레일건 저격으로 {0} 보호 / 방어막 / 피해 감소 무시 피해를 줍니다. 50%의 적중 보정을 받습니다.",
+    "english": "Deals {0} Railgun damage that ignores Protection / Barrier / DMG Reduction. 50% ACC bonus applied."
+  },
+  "SkillDesc_Skill_MP_Stalker13_N_2": {
+    "korean": "레일건을 준비해,  다음 공격은 치명타로 명중하고 일정 라운드 동안 적중/행동력이 증가합니다.",
+    "english": "Prepares the Railgun; the next attack lands as a CRIT and increases ACC / SPD for a set number of rounds."
+  },
+  "SkillDesc_Skill_MP_Stalker13_N_3": {
+    "korean": "전투 개시 시, 모든 적에게 지속 냉기 데미지를 입히고 라운드마다 냉기저항을 감소시킵니다. (최대 10 중첩)&n이 효과들은 해제되지 않으며 영구적입니다.",
+    "english": "At battle start, deals persistent Cold damage to all enemies and reduces their Cold Resistance each round (up to 10 stacks).&nThese effects cannot be removed and are permanent."
+  },
+  "SkillDesc_Skill_MP_Stalker13_N_4": {
+    "korean": "홀수 라운드 마다 해로운 효과가 해제되고 효과 저항과 피해 무효화를 획득합니다",
+    "english": "On odd-numbered rounds, harmful effects are removed and grants Status Resist and Damage Nullification."
+  },
+  "BuffDesc1_Effect_MP_Stalker13_N_2": {
+    "korean": "목표를 센터에 : 다음 공격 치명타",
+    "english": "Center Target : Next Attack CRIT"
+  },
+  "BuffDesc1_Effect_MP_Stalker13_N_1": {
+    "korean": "스위치: 방어막 / 피해 감소 무시",
+    "english": "Switch : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc2_Effect_MP_Stalker13_N_2": {
+    "korean": "목표를 센터에: 적중 {0}%",
+    "english": "Center The Target : ACC {0}%"
+  },
+  "BuffDesc3_Effect_MP_Stalker13_N_2": {
+    "korean": "목표를 센터에: 행동력 {0}%",
+    "english": "Center The Target : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_Stalker13_N_3": {
+    "korean": "고통은 적의 수만큼 : {0} 지속 냉기 피해",
+    "english": "The Pain Is As Great As The Number of Enemies. : Cold DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_Stalker13_N_31": {
+    "korean": "유리같은 섬세함 : 냉기 저항 {0}%",
+    "english": "Glasslike Fragility : Cold Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_Stalker13_N_4": {
+    "korean": "모든 것은 이제부터 : 해로운 효과 해제",
+    "english": "Everything Starts Now : Debuff Removal"
+  },
+  "BuffDesc2_Effect_MP_Stalker13_N_4": {
+    "korean": "모든 것은 이제부터: 효과 저항 {0}%",
+    "english": "Everything Starts Now : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_MP_Stalker13_N_4": {
+    "korean": "모든 것은 이제부터 : 피해 무효화 {0}회",
+    "english": "Everything Starts Now : Damage Nullification {0}x"
+  }
+}

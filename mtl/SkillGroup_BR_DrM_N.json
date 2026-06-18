@@ -1,0 +1,154 @@
+{
+  "1002700495": {
+    "korean": "내구력 테스트에요!",
+    "english": "Time for a Durability Test!"
+  },
+  "1002703933": {
+    "korean": "지정 대상에게 {0} 피해를 줍니다. 2라운드 동안 대상의 방어력이 낮아지며, 받는 피해가 증가하고 뒤로 밀립니다. 출력 전개 상태면 50% 확률로 행동 불가 상태로 만들며, 받는 피해 증가 효과가 50% 상승합니다.",
+    "english": "Deals {0} damage to a designated target. Reduces target's DEF, applies DMG Taken Increased, and Push Back for 2 rounds. If in Output Deployment state, 50% chance to Stun and DMG Taken Increased effect is increased by 50%."
+  },
+  "1002703187": {
+    "korean": "단일 대상 {0} 피해. 뒤로 밀기 / 방어력 감소. 출력 전개 상태면 일정 확률 행동 불가",
+    "english": "Deals {0} damage to a single target. Push Back and reduces DEF. While in Output Deployment state, has a chance to Stun."
+  },
+  "1000102762": {
+    "korean": "내구력 테스트! : 방어력 {0}%",
+    "english": "Durability Test!: DEF {0}%"
+  },
+  "1000104349": {
+    "korean": "내구력 테스트! : 받는 피해{0}%",
+    "english": "Durability Test!: DMG Taken {0}%"
+  },
+  "1000105008": {
+    "korean": "테스트 불합격! : 뒤로 {0}칸 밀기",
+    "english": "Test Failed!: Push Back {0}"
+  },
+  "1000102767": {
+    "korean": "테스트 완료! : 행동 불가",
+    "english": "Test Complete!: Stunned"
+  },
+  "1000104352": {
+    "korean": "테스트 완료! : 받는 피해{0}%",
+    "english": "Test Complete!: DMG Taken {0}%"
+  },
+  "1002700496": {
+    "korean": "실험 대상 모집해요!",
+    "english": "Recruiting Test Subjects!"
+  },
+  "1002703934": {
+    "korean": "목표 범위 내 대상을 포획해, {0} 피해를 주며 앞으로 당깁니다. 2라운드 동안 이동 불가 상태가 되며, AP가 감소합니다. 50% 확률로 강화 효과를 해제하며, 출력 전개 상태면 100% 해제합니다.",
+    "english": "Captures targets within the area, dealing {0} damage and Pull Forward. Applies Rooted for 2 rounds and reduces ^AP. 50% chance to remove buffs; if in Output Deployment state, buffs are removed with 100% certainty."
+  },
+  "1002703188": {
+    "korean": "목표 지점 {0} 피해. 앞으로 당기기 / 이동 불가. 출력 전개 상태면 AP 감소",
+    "english": "Deals {0} damage to the targeted location. Pull Forward and applies Rooted. If in Output Deployment state, reduces ^AP."
+  },
+  "1000102763": {
+    "korean": "실험 대상 모집! : 앞으로 {0}칸 이동",
+    "english": "Recruit Test Subjects!: Move forward {0} tiles"
+  },
+  "1000104350": {
+    "korean": "실험 대상 모집! : 이동 불가",
+    "english": "Recruit Test Subject!: Rooted"
+  },
+  "1000105009": {
+    "korean": "실험 대상 모집! : 강화 해제 (50% 확률)",
+    "english": "Recruit Test Subjects!: Buff Removal (50% chance)"
+  },
+  "1000104000": {
+    "korean": "실험 대상 모집! : 강화 효과 해제 (50% 확률)",
+    "english": "Recruit Test Subjects!: Buff Removal (50% chance)"
+  },
+  "1000103241": {
+    "korean": "실험 대상 모집! : AP {0}",
+    "english": "Recruit Test Subject! : AP {0}"
+  },
+  "1000102768": {
+    "korean": "실험 대상 모집! : 강화 효과 해제",
+    "english": "Test Subject Recruitment!: Buff Removal"
+  },
+  "1002700497": {
+    "korean": "새 발명품이에요!",
+    "english": "New Invention!"
+  },
+  "1002703935": {
+    "korean": "라운드 개시 시, 자신에게 적용된 강화 효과를 분석해 새 발명품을 만들어 주변 아군들에게 전달합니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of the round, analyzes buffs applied to self, creates a new invention, and shares it with nearby allies. At skill level 10, the range increases."
+  },
+  "1002703189": {
+    "korean": "라운드 개시 시, 자신에게 적용된 강화 효과에 따라 주변 아군을 강화",
+    "english": "At the start of the round, buffs nearby allies based on the user's active buffs."
+  },
+  "1000102764": {
+    "korean": "수상한 무기 : 공격력{0}%",
+    "english": "Suspicious Weapon: ATK {0}%"
+  },
+  "1000103242": {
+    "korean": "수상한 분석기 : 치명타{0}%",
+    "english": "Suspicious Analyzer : CRIT {0}%"
+  },
+  "1000103998": {
+    "korean": "수상한 보조 장치 : 행동력{0}%",
+    "english": "Suspicious Auxiliary Device: SPD {0}%"
+  },
+  "1000103997": {
+    "korean": "수상한 조준기 : 적중{0}%",
+    "english": "Suspicious Sight: ACC {0}%"
+  },
+  "1000103999": {
+    "korean": "수상한 외장 장갑 : 받는 피해 감소 {0}%",
+    "english": "Suspicious Outer Armor: DMG Reduction {0}%"
+  },
+  "1002700498": {
+    "korean": "출력 전개에요!",
+    "english": "Deploying Output!"
+  },
+  "1002703936": {
+    "korean": "대기 시, 기체의 출력을 강화해 2라운드 동안 공격력 / 행동력 / 치명타가 증가합니다. 스킬 레벨 10에서 효과 라운드가 1 증가합니다.",
+    "english": "While idle, boosts the unit's output, increasing ATK, SPD, and CRIT for 2 rounds. At skill level 10, the duration increases by 1 round."
+  },
+  "1002703190": {
+    "korean": "대기 시, 공격력 / 치명타 / 행동력 증가",
+    "english": "While idle, increases ATK, CRIT, and SPD."
+  },
+  "1000102765": {
+    "korean": "출력 전개! : 공격력{0}%",
+    "english": "Output Deployment!: ATK {0}%"
+  },
+  "1000104351": {
+    "korean": "출력 전개! : 행동력{0}%",
+    "english": "Output Deployment!: SPD {0}%"
+  },
+  "1000105010": {
+    "korean": "출력 전개! : 치명타{0}%",
+    "english": "Output Deployment!: CRIT {0}%"
+  },
+  "1000102766": {
+    "korean": "분석 개시! : AP{0}",
+    "english": "Begin Analysis!: AP {0}"
+  },
+  "1000104001": {
+    "korean": "분석했어요! : 다음 적 정보 획득",
+    "english": "Analyzed!: Recon"
+  },
+  "1002700499": {
+    "korean": "분석했어요!",
+    "english": "Analysis Complete!"
+  },
+  "1002703937": {
+    "korean": "전투 개시 시, 적을 분해해서 연구하기 위해 AP가 증가합니다. 전투 종료 시, 다음에 출현할 적 정보를 얻습니다. 정찰 상태로 전투 개시 시, 적의 공격력 / 치명타가 감소합니다.",
+    "english": "At the start of battle, gains ^AP to disassemble and study enemies. At battle end, obtains information on the next enemy wave. When entering battle with Recon Effect, enemy ATK and CRIT are reduced."
+  },
+  "1002703191": {
+    "korean": "전투 개시 AP 증가 / 정찰 / 정찰 시, 적 공격력 / 치명타 감소",
+    "english": "Increases ^AP at the start of battle. Enters Recon Effect. While Recon Effect is active, enemy ATK and CRIT are reduced."
+  },
+  "1000105011": {
+    "korean": "분석 완료! : 공격력 {0}%",
+    "english": "Analysis Complete!: ATK {0}%"
+  },
+  "1000105378": {
+    "korean": "공격 패턴 예측! : 치명타 {0}%",
+    "english": "Predict Attack Pattern! : CRIT {0}%"
+  }
+}

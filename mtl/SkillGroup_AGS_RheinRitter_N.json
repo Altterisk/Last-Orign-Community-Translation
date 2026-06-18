@@ -1,0 +1,214 @@
+{
+  "1002705828": {
+    "korean": "기사의 응시",
+    "english": "Knight's Gaze"
+  },
+  "1002705829": {
+    "korean": "용기병의 화창",
+    "english": "Cavalryman's Brilliance"
+  },
+  "1002705830": {
+    "korean": "빠른 걸음",
+    "english": "Fast Step"
+  },
+  "1002705831": {
+    "korean": "기병 참전",
+    "english": "Cavalry Sortie"
+  },
+  "1002706086": {
+    "korean": "기병 돌격",
+    "english": "Cavalry Charge"
+  },
+  "1002706369": {
+    "korean": "적에게 {0} 피해를 주고 적이 방어력 감소 상태일 시 추가 피해를 입힙니다.",
+    "english": "Deals {0} damage to the enemy. If the target is under a DEF reduction effect, deals additional damage."
+  },
+  "1002706612": {
+    "korean": "단일 대상 {0} 피해, 적 방어력 감소 상태시 추가 피해",
+    "english": "Single target: {0} damage, additional damage if target is under DEF reduction."
+  },
+  "1002706370": {
+    "korean": "지정 범위의 적에게 {0}의 보호 무시, 방어막 / 피해 감소 무시 피해를 주고, 적의 방어력 / 사거리를 감소시키며 치명타 발생 시 추가 피해를 입힙니다.",
+    "english": "Deals {0} Ignore Protection damage to enemies in the designated area, ignoring Barrier and DMG Reduction. Reduces the targets' DEF and Range, and deals additional damage on CRIT."
+  },
+  "1002706613": {
+    "korean": "목표 대상 {0} 보호 무시, 방어막 / 피해 감소 무시 피해. 방어력 / 사거리 감소, 치명타 시 추가 피해",
+    "english": "Target enemy: Deals {0} damage ignoring protection, Barrier and DMG Reduction. Reduces target’s DEF and Range, and deals additional damage on CRIT."
+  },
+  "1002706371": {
+    "korean": "전투 개시 후, 피격 시 일정 횟수에 한해 최소 피해만 받습니다. 라운드 개시 시 적중이 증가합니다.",
+    "english": "After battle starts, takes only minimum damage for a certain number of hits. At the start of each round, ACC increases."
+  },
+  "1002706614": {
+    "korean": "받는 피해 최소화 (일정 횟수). 적중 증가",
+    "english": "Receives minimum damage (certain times). ACC increases."
+  },
+  "1002706372": {
+    "korean": "라운드 개시 시 지정 범위 내 보호기/스파르탄 계열/스틸라인 계열을 공격 지원합니다. 적 사망 시 자신과 <기병 참전> 대상 아군의 AP / 회피 / 방어력을 증가시킵니다.",
+    "english": "At the start of each round, provides Follow-Up Attack to allies within range that are Defender/Spartan/Steel Line units. When an enemy dies, increases AP/EVA/DEF for self and <Cavalry Sortie> allies."
+  },
+  "1002706615": {
+    "korean": "범위내 보호기/스파르탄/스틸라인 공격 지원, 적 사망시 자신과 범위내 아군 AP/회피/방어력 증가",
+    "english": "Provides Follow-Up Attack to Defender/Spartan/Steel Line allies within range. When an enemy dies, increases AP/EVA/DEF for self and allies within range."
+  },
+  "1002706453": {
+    "korean": "라운드 개시 시 자신의 공격력 / 치명타 / 적중이 증가합니다. 스쿼드 내 자신을 제외한 AGS 수에 따라 공격력 / 방어 관통이, 바이오로이드 수에 따라 공격력 / 치명타가 중첩 증가합니다.",
+    "english": "At the start of each round, increases own ATK/CRIT/ACC. For each AGS in the squad excluding self, ATK and DEF Penetration are increased. For each Bioroid in the squad, ATK and CRIT are increased."
+  },
+  "1002706653": {
+    "korean": "자신 공격력 / 치명타 / 적중 증가, 스쿼드 내 AGS, 바이오로이드 수에 따라 공격력 / 방어 관통 / 치명타 증가",
+    "english": "Increases own ATK/CRIT/ACC. Gains additional ATK/DEF Penetration based on number of AGS in squad, and additional ATK/CRIT based on number of Bioroids in squad."
+  },
+  "1000107064": {
+    "korean": "기사의 응시 : 피해량{0}%",
+    "english": "Knight’s Gaze : Additional DMG {0}%"
+  },
+  "1000107075": {
+    "korean": "용기병의 화창: 방어력 {0}%",
+    "english": "Dragoon’s Radiance : DEF {0}%"
+  },
+  "1000107076": {
+    "korean": "용기병의 화창: 사거리 {0}",
+    "english": "Dragoon’s Radiance : Range {0}"
+  },
+  "1000107074": {
+    "korean": "용기병의 화창 : 피해량 {0}%",
+    "english": "Dragoon’s Radiance : Additional DMG {0}%"
+  },
+  "1000107733": {
+    "korean": "용기병의 화창 : 방어막 / 피해 감소 무시",
+    "english": "Dragoon’s Radiance : Ignore Barrier / DMG Reduction"
+  },
+  "1000107742": {
+    "korean": "용기병의 화창 : 방어막 / 피해 감소 무시",
+    "english": "Dragoon’s Radiance : Ignore Barrier / DMG Reduction"
+  },
+  "1000107066": {
+    "korean": "빠른 걸음 : 피해 최소화 (2회)",
+    "english": "Quick Step : Minimize Damage (2x)"
+  },
+  "1000107065": {
+    "korean": "빠른 걸음 : 적중{0}%",
+    "english": "Quick Step : ACC {0}%"
+  },
+  "1000107059": {
+    "korean": "기병 참전 : 공격 지원 (보호기)",
+    "english": "<Cavalry Deployment> : Follow-Up Attack (Defender)"
+  },
+  "1000107058": {
+    "korean": "기병 참전 : AP{0}",
+    "english": "<Cavalry Deployment> : AP {0}"
+  },
+  "1000107063": {
+    "korean": "기병 참전 : 회피{0}%",
+    "english": "<Cavalry Deployment> : EVA {0}%"
+  },
+  "1000107062": {
+    "korean": "기병 참전 : 방어력 {0}%",
+    "english": "<Cavalry Deployment> : DEF {0}%"
+  },
+  "1000107061": {
+    "korean": "기병 참전 : 공격 지원 (스파르탄)",
+    "english": "<Cavalry Deployment> : Follow-Up Attack (Spartan)"
+  },
+  "1000107060": {
+    "korean": "기병 참전 : 공격 지원 (스틸라인)",
+    "english": "<Cavalry Deployment> : Follow-Up Attack (Steel Line)"
+  },
+  "1000108111": {
+    "korean": "기병 돌격 : 공격력/치명타/적중{0}%",
+    "english": "Cavalry Charge : ATK / CRIT / ACC {0}%"
+  },
+  "1000108124": {
+    "korean": "기병 돌격 : 공격력{0}%(AGS)",
+    "english": "Cavalry Charge : ATK {0}% (AGS)"
+  },
+  "1000108135": {
+    "korean": "기병 돌격 : 방어 관통{0}%(AGS)",
+    "english": "Cavalry Charge : DEF Penetration {0}% (AGS)"
+  },
+  "1000108138": {
+    "korean": "기병 돌격 : 공격력{0}%(바이오로이드)",
+    "english": "Cavalry Charge : ATK {0}% (Bioroid)"
+  },
+  "1000108140": {
+    "korean": "기병 돌격 : 치명타{0}%(바이오로이드)",
+    "english": "Cavalry Charge : CRIT {0}% (Bioroid)"
+  },
+  "1000108112": {
+    "korean": "기병 돌격 : 공격력{0}%",
+    "english": "Cavalry Charge : ATK {0}%"
+  },
+  "1000108125": {
+    "korean": "기병 돌격 : 치명타{0}%",
+    "english": "Cavalry Charge : CRIT {0}%"
+  },
+  "1000108136": {
+    "korean": "기병 돌격 : 적중{0}%",
+    "english": "Cavalry Charge : ACC {0}%"
+  },
+  "1000108113": {
+    "korean": "기병 돌격 : 공격력{0}%(AGS)",
+    "english": "Cavalry Charge : ATK {0}% (AGS)"
+  },
+  "1000108126": {
+    "korean": "기병 돌격 : 방어 관통{0}%(AGS)",
+    "english": "Cavalry Charge : DEF Penetration {0}% (AGS)"
+  },
+  "1000108114": {
+    "korean": "기병 돌격 : 공격력{0}%(AGS)",
+    "english": "Cavalry Charge : ATK {0}% (AGS)"
+  },
+  "1000108127": {
+    "korean": "기병 돌격 : 방어 관통{0}%(AGS)",
+    "english": "Cavalry Charge : DEF Penetration {0}% (AGS)"
+  },
+  "1000108115": {
+    "korean": "기병 돌격 : 공격력{0}%(AGS)",
+    "english": "Cavalry Charge : ATK {0}% (AGS)"
+  },
+  "1000108128": {
+    "korean": "기병 돌격 : 방어 관통{0}%(AGS)",
+    "english": "Cavalry Charge : DEF Penetration {0}% (AGS)"
+  },
+  "1000108116": {
+    "korean": "기병 돌격 : 공격력{0}%(AGS)",
+    "english": "Cavalry Charge : ATK {0}% (AGS)"
+  },
+  "1000108129": {
+    "korean": "기병 돌격 : 방어 관통{0}%(AGS)",
+    "english": "Cavalry Charge : DEF Penetration {0}% (AGS)"
+  },
+  "1000108117": {
+    "korean": "기병 돌격 : 공격력{0}%(바이오로이드)",
+    "english": "Cavalry Charge : ATK {0}% (Bioroid)"
+  },
+  "1000108130": {
+    "korean": "기병 돌격 : 치명타{0}%(바이오로이드)",
+    "english": "Cavalry Charge : CRIT {0}% (Bioroid)"
+  },
+  "1000108118": {
+    "korean": "기병 돌격 : 공격력{0}%(바이오로이드)",
+    "english": "Cavalry Charge : ATK {0}% (Bioroid)"
+  },
+  "1000108131": {
+    "korean": "기병 돌격 : 치명타{0}%(바이오로이드)",
+    "english": "Cavalry Charge : CRIT {0}% (Bioroid)"
+  },
+  "1000108119": {
+    "korean": "기병 돌격 : 공격력{0}%(바이오로이드)",
+    "english": "Cavalry Charge : ATK {0}% (Bioroid)"
+  },
+  "1000108132": {
+    "korean": "기병 돌격 : 치명타{0}%(바이오로이드)",
+    "english": "Cavalry Charge : CRIT {0}% (Bioroid)"
+  },
+  "1000108120": {
+    "korean": "기병 돌격 : 공격력{0}%(바이오로이드)",
+    "english": "Cavalry Charge : ATK {0}% (Bioroid)"
+  },
+  "1000108133": {
+    "korean": "기병 돌격 : 치명타{0}%(바이오로이드)",
+    "english": "Cavalry Charge : CRIT {0}% (Bioroid)"
+  }
+}

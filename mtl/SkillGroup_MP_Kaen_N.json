@@ -1,0 +1,58 @@
+{
+  "SkillDesc_Skill_MP_Kaen_N_1": {
+    "korean": "붉은 빛의 기계장치를 사출하여 단일 대상에게 {0} 피해를 줍니다.&n적중 여부에 관계 없이 대상의 모든 표식을 해제합니다.",
+    "english": "Launches a red mechanical device dealing {0} damage to a single target. Removes all marks from the target regardless of hit."
+  },
+  "SkillDesc_Skill_MP_Kaen_N_2": {
+    "korean": "전방위를 향해 에너지를 방출하여 지정 범위에 {0} 보호 무시 피해를 줍니다.&n자신이 도발 상태가 아닌 경우, 피해량이 증가합니다.&n스킬 사용 후, 자신에게 적용된 방어막을 해제합니다.",
+    "english": "Emit energy in all directions, dealing {0} Ignore Protection damage to the designated area. Damage is increased if you are not Provoked. After using the skill, removes your Barrier."
+  },
+  "SkillDesc_Skill_MP_Kaen_N_3": {
+    "korean": "라운드 개시 시, 영구적으로 자신의 공격력 / 적중이 증가합니다.",
+    "english": "At the start of a round, permanently increase your ATK / ACC."
+  },
+  "SkillDesc_Skill_MP_Kaen_N_4": {
+    "korean": "라운드 개시 시, 자신은 해제 불가한 방어막을 획득합니다.&n자신이 <코요리>에 의한 스킬 지속 효과가 적용된 경우, 방어막이 75% 감소합니다.",
+    "english": "At the start of the round, you gain an unremovable Barrier. If you are affected by a skill's continuous effect from <Koyori>, the Barrier is reduced by 75%."
+  },
+  "SkillDesc_Skill_MP_Kaen_N_5": {
+    "korean": "피격 시, 자신은 2라운드 동안 반격 / 대 기동형 피해량 증가 효과를 획득합니다.&n피격 시 자신에게 방어막이 적용되어 있는 경우, 다음 행동에 <만자천홍>을 사용합니다.",
+    "english": "When hit, you gain Counter Attack / Increased Anti-Air DMG for 2 rounds. If you have a Barrier when hit, you use <Thousand Red Flames> on your next action."
+  },
+  "BuffDesc1_Effect_MP_Kaen_N_52": {
+    "korean": "츠바메가에시 : <만자천홍> 준비",
+    "english": "Tsubame Gaeshi : Prepare <Thousand Red Flames>"
+  },
+  "BuffDesc1_Effect_MP_Kaen_N_1": {
+    "korean": "엔엔라 사출 : 표식 해제",
+    "english": "Enenra Launch : Marked Removal"
+  },
+  "BuffDesc1_Effect_MP_Kaen_N_2": {
+    "korean": "만자천홍 : 피해량 {0}%",
+    "english": "Thousand Red Flames : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kaen_N_21": {
+    "korean": "만자천홍 : 방어막 해제",
+    "english": "Thousand Red Flames : Barrier Removal"
+  },
+  "BuffDesc1_Effect_MP_Kaen_N_3": {
+    "korean": "홍련의 암희 : 공격력 {0}%",
+    "english": "Shadow of the HongRyeon : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_Kaen_N_3": {
+    "korean": "홍련의 암희 : 적중 {0}%",
+    "english": "Shadow of the HongRyeon : ACC {0}%"
+  },
+  "BuffDesc1_Effect_MP_Kaen_N_4": {
+    "korean": "붉은 귀신 : 방어막 {0}",
+    "english": "Red Demon : Barrier {0}"
+  },
+  "BuffDesc1_Effect_MP_Kaen_N_5": {
+    "korean": "츠바메가에시 : {0}% 위력으로 반격",
+    "english": "Silent Blade: Swallow Cut : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_MP_Kaen_N_51": {
+    "korean": "츠바메가에시 : 대 기동형 피해량 {0}%",
+    "english": "Silent Blade: Swallow Cut : Anti-Air DMG {0}%"
+  }
+}

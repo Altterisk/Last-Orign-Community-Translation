@@ -1,0 +1,170 @@
+{
+  "SkillName_Skill_BR_Valkyrie_N_1": {
+    "korean": "교란 사격",
+    "english": "Disruptive Fire"
+  },
+  "SkillDesc_Skill_BR_Valkyrie_N_1": {
+    "korean": "라이플 사격으로 {0} 피해를 줍니다. &n대상이 표식 또는 도발 상태인 경우, 각각 피해량이 증가합니다.",
+    "english": "Deals {0} damage with a rifle shot. If the target is Marked or Provoked, damage is increased for each."
+  },
+  "SkillDescSimple_Skill_BR_Valkyrie_N_1": {
+    "korean": "단일 대상 {0} 피해. 표식 / 도발 대상 피해량 증가.",
+    "english": "Single target {0} damage. Marked / Provoked target damage increase."
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_1": {
+    "korean": "교란 사격 : 피해량 {0}% (표식)",
+    "english": "Disruptive Fire: Additional DMG {0}% (Marked)"
+  },
+  "BuffDesc2_Effect_BR_Valkyrie_N_1": {
+    "korean": "교란 사격 : 피해량 {0}% (도발)",
+    "english": "Disruptive Fire: Additional DMG {0}% (Provoked)"
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_11": {
+    "korean": "교란 사격 : 피해량 {0}% (도발)",
+    "english": "Disruptive Fire: Additional DMG {0}% (Provoked)"
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_53": {
+    "korean": "살상명령 확인 : [정밀 저격] 협동 공격",
+    "english": "Lethal Order Confirmed: [Precision Sniping] Cooperative Attack"
+  },
+  "SkillName_Skill_BR_Valkyrie_N_2": {
+    "korean": "정밀 저격",
+    "english": "Precision Sniping"
+  },
+  "SkillDesc_Skill_BR_Valkyrie_N_2": {
+    "korean": "정밀 저격으로 {0} 보호 무시 피해를 줍니다. &n치명타 시, 피해량이 증가하고 대상의 피해 최소화 관련 '강화 효과'를 해제합니다.",
+    "english": "Deals {0} Ignore Protection damage with Precision Sniping. On a CRIT, damage is increased and the target's damage minimization buffs are removed."
+  },
+  "SkillDescSimple_Skill_BR_Valkyrie_N_2": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 치명타 시, 피해량 증가 / 피해 최소화 강화 효과 해제.",
+    "english": "Single target {0} Ignore Protection damage. On CRIT, damage increase / damage minimization buff removal."
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_2": {
+    "korean": "정밀 저격 : 피해량 {0}%",
+    "english": "Precision Sniping : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Valkyrie_N_2": {
+    "korean": "정밀 저격 : 피해 최소화 강화 효과 해제",
+    "english": "Precision Sniping : Minimize Damage Buff Removal"
+  },
+  "SkillName_Skill_BR_Valkyrie_N_3": {
+    "korean": "핀 포인트 저격",
+    "english": "Pinpoint Shot"
+  },
+  "SkillDesc_Skill_BR_Valkyrie_N_3": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 적중 / 치명타가 증가합니다. &n자신이 후열에 가까울 수록 상기 효과가 50%까지 감소합니다.&n라운드 개시 시 자신이 전열에 위치한 경우, 방어막 / 피해 감소 무시 효과를 획득합니다.",
+    "english": "At the start of the round, increases own ATK / ACC / CRIT. The closer the user is to the back row, the more these effects are reduced, up to 50%. If the user is in the front row at round start, gains Ignore Barrier / DMG Reduction effects."
+  },
+  "SkillDescSimple_Skill_BR_Valkyrie_N_3": {
+    "korean": "자신 공격력 / 적중 / 치명타 증가. 전열 위치 시, 방어막 / 피해 감소 무시 획득.",
+    "english": "Self ATK / ACC / CRIT increase. When in front row, gains Ignore Barrier / DMG Reduction."
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_3": {
+    "korean": "핀 포인트 저격 : 공격력 {0}%",
+    "english": "Pinpoint Shot : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Valkyrie_N_3": {
+    "korean": "핀 포인트 저격 : 적중 {0}%",
+    "english": "Pinpoint Shot : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Valkyrie_N_3": {
+    "korean": "핀 포인트 저격 : 치명타 {0}%",
+    "english": "Pinpoint Shot : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_BR_Valkyrie_N_3": {
+    "korean": "핀 포인트 저격 : 방어막 / 피해 감소 무시",
+    "english": "Pinpoint Shot : Ignore Barrier / DMG Reduction"
+  },
+  "SkillName_Skill_BR_Valkyrie_N_4": {
+    "korean": "하얀 사신",
+    "english": "White Reaper"
+  },
+  "SkillDesc_Skill_BR_Valkyrie_N_4": {
+    "korean": "라운드 개시 시, 자신의 회피가 증가하고 회피 감소 효과에 면역을 획득합니다.&n공격 받을 시, 자신이 받는 피해가 감소하며 반격합니다.&n대기 시, 표식 상태인 적을 해당 라운드 동안 도발하고 적중을 감소시킵니다.&n상기 효과를 통해 유발된 반격은 위력이 두 배로 증폭됩니다.",
+    "english": "At the start of the round, increases own EVA and grants immunity to EVA Reduction. When attacked, damage taken is reduced and a Counter Attack occurs. While idle, Provokes enemies that are Marked for the rest of the round and reduces their ACC. Counter Attacks triggered by this effect have double power."
+  },
+  "SkillDescSimple_Skill_BR_Valkyrie_N_4": {
+    "korean": "자신 회피 증가 / 회피 감소 면역. 공격 받을 시, 받는 피해 감소 / 반격.",
+    "english": "Self EVA increase / EVA Reduction immunity. When attacked, damage taken reduction / Counter Attack."
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_4": {
+    "korean": "위장 : 회피 {0}%",
+    "english": "Camouflage : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Valkyrie_N_4": {
+    "korean": "위장 : 회피 감소 면역",
+    "english": "Camouflage : EVA Decrease Immunity"
+  },
+  "BuffDesc3_Effect_BR_Valkyrie_N_4": {
+    "korean": "하얀 사신 : 받는 피해 {0}% 감소",
+    "english": "White Reaper : DMG Reduction"
+  },
+  "BuffDesc4_Effect_BR_Valkyrie_N_4": {
+    "korean": "하얀 사신 : {0}% 위력으로 반격",
+    "english": "White Reaper : Counter Attack with {0}% Power"
+  },
+  "BuffDesc5_Effect_BR_Valkyrie_N_4": {
+    "korean": "의도된 반사광 : 적중 {0}%",
+    "english": "Intended Reflection : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_41": {
+    "korean": "하얀 사신 : 받는 피해 {0}% 감소",
+    "english": "White Reaper : DMG Reduction"
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_42": {
+    "korean": "하얀 사신 : {0}% 위력으로 반격",
+    "english": "White Reaper : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_43": {
+    "korean": "의도된 반사광 : 도발 (발키리)",
+    "english": "Intended reflection: Provoked (Valkyrie)"
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_44": {
+    "korean": "의도된 반사광 : 적중 {0}%",
+    "english": "Intended Reflection : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_45": {
+    "korean": "숨죽임",
+    "english": "Holding Breath"
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_46": {
+    "korean": "백색 죽음 : {0}% 위력으로 반격",
+    "english": "White Death : Counter Attack with {0}% Power"
+  },
+  "SkillName_Skill_BR_Valkyrie_N_5": {
+    "korean": "발할라로 이끄는 자",
+    "english": "Valhalla's Herald"
+  },
+  "SkillDesc_Skill_BR_Valkyrie_N_5": {
+    "korean": "라운드 개시 시, 아군 경장 지원기 / <시스터즈 오브 발할라> 소속 전투원의 공격을 지원합니다.&n라운드 개시 시, 자신의 공격력 / 방어 관통이 증가합니다.&n스쿼드 내에 <철혈의 레오나>가 있을 경우 <교란 사격> 적중 시, <정밀 저격> 협동 공격을 실행합니다.",
+    "english": "At the start of the round, supports attacks of allied Light Support units / <Sisters of Valhalla> members. At the round start, increases own ATK / DEF Penetration. If <Leona the Ironblood> is in the squad, landing a hit with <Disruptive Fire> triggers a Cooperative Attack with <Precision Sniping>."
+  },
+  "SkillDescSimple_Skill_BR_Valkyrie_N_5": {
+    "korean": "조건부 아군 공격 지원. 자신 공격력 / 방어 관통 증가.",
+    "english": "Conditional ally attack support. Self ATK / DEF Penetration increase."
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_5": {
+    "korean": "발할라로 이끄는 자 : 공격 지원",
+    "english": "Valhalla's Herald : Follow-Up Attack"
+  },
+  "BuffDesc2_Effect_BR_Valkyrie_N_5": {
+    "korean": "발할라로 이끄는 자 : 공격력 {0}%",
+    "english": "Valhalla's Herald : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_Valkyrie_N_5": {
+    "korean": "발할라를 이끄는 자 : 방어 관통 {0}%",
+    "english": "Valhalla's Leader : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_BR_Valkyrie_N_5": {
+    "korean": "살상명령 확인 : [정밀 저격] 협동 공격",
+    "english": "Lethal Order Confirmed: [Precision Sniping] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_Valkyrie_N_52": {
+    "korean": "발할라로 이끄는 자 : 공격력 {0}%",
+    "english": "Valhalla's Herald : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Valkyrie_N_52": {
+    "korean": "발할라를 이끄는 자 : 방어 관통 {0}%",
+    "english": "Valhalla's Leader : DEF Penetration {0}%"
+  }
+}

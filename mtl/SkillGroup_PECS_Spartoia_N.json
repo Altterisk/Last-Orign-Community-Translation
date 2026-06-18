@@ -1,0 +1,158 @@
+{
+  "SkillName_Skill_PECS_Spartoia_N_1": {
+    "korean": "슈팅스타",
+    "english": "Shooting Star"
+  },
+  "SkillName_Skill_PECS_Spartoia_N_2": {
+    "korean": "CQB 돌입",
+    "english": "Initiating CQB"
+  },
+  "SkillName_Skill_PECS_Spartoia_N_4": {
+    "korean": "우주용 컴뱃 아머",
+    "english": "Space Combat Armor"
+  },
+  "SkillName_Skill_PECS_Spartoia_N_5": {
+    "korean": "작은 발걸음",
+    "english": "Small Step"
+  },
+  "SkillDesc_Skill_PECS_Spartoia_N_1": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. &n적중 시, 대상의 방어력 증가 효과를 해제합니다.&n치명타 시, 대상의 받는 피해 감소 효과를 해제하며 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to a designated area. On hit, removes the target's DEF Up. On CRIT, removes the target's DMG Reduction and increases damage dealt."
+  },
+  "SkillDescSimple_Skill_PECS_Spartoia_N_1": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 적중 시, 방어력 증가 해제. 치명타 시, 받는 피해 감소 해제 / 피해량 증가",
+    "english": "Deals {0} Ignore Protection damage to the specified area. On hit, removes DEF Up. On critical hit, removes DMG Reduction / Increases damage dealt."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_N_2": {
+    "korean": "지정 대상에게 {0} 피해를 줍니다. 대상의 현재 HP%가 낮을수록 피해량이 증가합니다.&n적중 시, 2라운드 동안 대상의 공격력을 감소시키고, 받는 피해를 증가시킵니다.&n적중 대상이 방어력 증가 / 받는 피해 감소 강화 효과를 모두 보유하지 않은 경우, 효과가 증폭되어 증감 수치가 두 배로 적용됩니다.&n증폭된 효과는 효과 저항의 영향을 받지 않으며, 해로운 효과 해제로 해제할 수 없습니다.",
+    "english": "Deals {0} damage to a designated target. Damage increases as the target's current HP% decreases. On hit, reduces the target’s ATK and increases DMG Taken for 2 rounds. If the target does not have both DEF Up and DMG Reduction, the effect is amplified, applying double the values. Amplified effects ignore Status Resist and cannot be removed by Normal Effect."
+  },
+  "SkillDescSimple_Skill_PECS_Spartoia_N_2": {
+    "korean": "지정 대상 {0} 피해. 대상 HP 반비례 피해량 증가. 조건부 대상 공격력 감소 / 받는 피해 증가.",
+    "english": "Deals {0} damage to the designated target. Damage increases inversely with target HP. Conditional ATK Down / DMG Taken Increased."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_N_4": {
+    "korean": "라운드 개시 시, 방어력 증가 / 모든 저항 증가 / 받는 피해 감소 효과를 획득합니다.&n매 라운드 자신의 첫 번째 공격에는 방어 관통이 크게 증가합니다. 이후의 공격에는 반감한 방어 관통이 적용됩니다.&n각 액티브 스킬 레벨에 따라 소모 AP가 감소합니다.&n<S.P.A.C.E> 장착 시 일부 스킬을 변경합니다.",
+    "english": "At the start of the round, gains DEF Up / All Resist / DMG Reduction. On the first attack each round, DEF Penetration is greatly increased; subsequent attacks have half that DEF Penetration. AP cost decreases according to each active skill’s level. Equipping <S.P.A.C.E> changes certain skills."
+  },
+  "SkillDescSimple_Skill_PECS_Spartoia_N_4": {
+    "korean": "방어력 / 모든 저항 증가. 받는 피해 감소. 방어 관통 증가.",
+    "english": "DEF Up / All Resist Up. DMG Reduction. DEF Penetration Up."
+  },
+  "SkillDesc_Skill_PECS_Spartoia_N_5": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가합니다.&n전투 개시 시, 행동력 감소 일반 효과를 영구 획득합니다.&n대신 전투 개시 시 AP가 증가하고, 해로운 행동력 감소 / AP 감소 효과에 영구 면역이 됩니다.",
+    "english": "At the start of the round, your ATK Up / CRIT Up. At the start of battle, permanently gains the normal effect of SPD reduction. Instead, at the start of battle, AP increases and you become permanently immune to harmful SPD reduction / AP reduction effects."
+  },
+  "SkillDescSimple_Skill_PECS_Spartoia_N_5": {
+    "korean": "공격력 / 치명타 증가. 행동력 감소 일반 효과 획득. 해로운 행동력 / AP 감소 면역.",
+    "english": "ATK Up / CRIT Up. Gains SPD reduction Normal Effect. Immune to harmful SPD / AP reduction."
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_2": {
+    "korean": "CQB 돌입 : 대상 HP 반비례 피해량 {0}%",
+    "english": "CQB Entry : Damage Proportional to Target HP {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_33": {
+    "korean": "S.P.A.C.E 장착",
+    "english": "S.P.A.C.E Equipped"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_1": {
+    "korean": "회심의 일격 : 받는 피해 감소 해제",
+    "english": "Critical Strike : DMG Reduction Removal"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_N_1": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Spartoia_N_1": {
+    "korean": "회심의 일격 : 방어력 증가 해제",
+    "english": "Critical Strike : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_N_2": {
+    "korean": "무장 파괴 : 공격력 {0}%",
+    "english": "Armament Break : ATK {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Spartoia_N_2": {
+    "korean": "무장 파괴 : 받는 피해 {0}% 증가",
+    "english": "Armament Break : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_21": {
+    "korean": "무장 파괴 : 공격력 {0}%",
+    "english": "Armament Break : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_N_21": {
+    "korean": "무장 파괴 : 받는 피해 {0}% 증가",
+    "english": "Armament Break : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_22": {
+    "korean": "무장 대파괴 : 공격력 {0}%",
+    "english": "Armament Annihilation : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_N_22": {
+    "korean": "무장 대파괴 : 받는 피해 {0}% 증가",
+    "english": "Armament Annihilation : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_4": {
+    "korean": "우주용 컴뱃 아머 : 방어력 {0}%",
+    "english": "Space Combat Armor : DEF {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_N_4": {
+    "korean": "우주용 컴뱃 아머 : 받는 피해 {0}% 감소",
+    "english": "Space Combat Armor : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Spartoia_N_4": {
+    "korean": "우주용 컴뱃 아머 : 모든 저항 {0}%",
+    "english": "Space Combat Armor : All Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Spartoia_N_4": {
+    "korean": "우주용 컴뱃 아머 : 방어 관통 {0}%",
+    "english": "Space Combat Armor : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_14": {
+    "korean": "우주용 컴뱃 아머 : 화염 저항 {0}%",
+    "english": "Space Combat Armor : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_N_14": {
+    "korean": "우주용 컴뱃 아머 : 냉기 저항 {0}%",
+    "english": "Space Combat Armor : Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Spartoia_N_14": {
+    "korean": "우주용 컴뱃 아머 : 전기 저항 {0}%",
+    "english": "Space Combat Armor : Electric Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Spartoia_N_14": {
+    "korean": "우주용 컴뱃 아머 : 효과 저항 {0}%",
+    "english": "Space Combat Armor : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_41": {
+    "korean": "우주용 컴뱃 아머 : 방어 관통 {0}% (첫 공격)",
+    "english": "Space Combat Armor : DEF Penetration {0}% (First Attack)"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_42": {
+    "korean": "우주용 컴뱃 아머 : 방어 관통 {0}%",
+    "english": "Space Combat Armor : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_5": {
+    "korean": "작은 발걸음 : 공격력 {0}%",
+    "english": "Small Step : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Spartoia_N_5": {
+    "korean": "작은 발걸음 : 치명타 {0}%",
+    "english": "Small Step : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Spartoia_N_5": {
+    "korean": "작은 발걸음 : 행동력 {0}%",
+    "english": "Small Step : SPD {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Spartoia_N_5": {
+    "korean": "위대한 도약 : AP {0}",
+    "english": "Great Leap : AP {0}"
+  },
+  "BuffDesc5_Effect_PECS_Spartoia_N_5": {
+    "korean": "위대한 도약 : 행동력 / AP 감소 면역",
+    "english": "Great Leap : SPD / AP Decrease Immunity"
+  },
+  "BuffDesc1_Effect_PECS_Spartoia_N_51": {
+    "korean": "작은 발걸음 : 행동력 {0}%",
+    "english": "Small Step : SPD {0}%"
+  }
+}

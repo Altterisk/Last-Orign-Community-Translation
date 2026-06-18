@@ -1,0 +1,182 @@
+{
+  "SkillName_Skill_DS_KunoichiZero_N_1": {
+    "korean": "은밀",
+    "english": "Stealth"
+  },
+  "SkillName_Skill_DS_KunoichiZero_N_2": {
+    "korean": "뇌신 일섬",
+    "english": "Thunder God Strike"
+  },
+  "SkillName_Skill_DS_KunoichiZero_N_3": {
+    "korean": "허공 둔",
+    "english": "Void Strike"
+  },
+  "SkillName_Skill_DS_KunoichiZero_N_4": {
+    "korean": "가속",
+    "english": "Acceleration"
+  },
+  "SkillName_Skill_DS_KunoichiZero_N_5": {
+    "korean": "면허개전 <무라사키 류>",
+    "english": "License Activation <Murasaki Style>"
+  },
+  "SkillDesc_Skill_DS_KunoichiZero_N_1": {
+    "korean": "적에게 은밀하게 접근하여 {0} 전기 피해를 줍니다. 중장형 적에게 추가 피해를 입힙니다.&n치명타 시, 피해량이 증가합니다.",
+    "english": "Approaches the enemy stealthily and deals {0} electric damage, ignoring protection. Deals additional damage to Heavy enemies. Damage increases on CRIT."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiZero_N_1": {
+    "korean": "단일 대상 {0} 전기 피해. 치명타 시, 피해량 증가. 대 중장형 피해량 증가.",
+    "english": "Single target {0} electric damage. CRIT increases damage. Increased damage to Heavy enemies."
+  },
+  "SkillDesc_Skill_DS_KunoichiZero_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 전기 피해를 주고, 대상의 행동력 / 회피 / 전기 속성 저항을 감소시킵니다. &n대상이 화염/냉기 속성 저항 감소 상태일 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} electric damage, ignoring protection, to a designated area, and reduces the target's SPD / EVA / Electric Resist. Damage increases if the target is under reduced fire/cold resistance."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiZero_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 전기 피해. 행동력 / 회피 / 전기 저항 감소. 조건부 피해량 증가.",
+    "english": "Targeted area {0} electric damage, ignoring protection. Reduces SPD / EVA / Electric Resist. Conditional damage increase."
+  },
+  "SkillDesc_Skill_DS_KunoichiZero_N_3": {
+    "korean": "라운드 개시 시, 자신과 지정 범위 아군의 회피 / 적중 / 치명타가 증가하고, 행동력이 중첩 증가합니다. (최대 3중첩)",
+    "english": "At the start of the round, increases EVA / ACC / CRIT of self and allies in the designated area, and SPD stacks up to 3 times."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiZero_N_3": {
+    "korean": "지정 범위 회피 / 적중 / 치명타 / 행동력 증가.",
+    "english": "Targeted area EVA / ACC / CRIT / SPD increase."
+  },
+  "SkillDesc_Skill_DS_KunoichiZero_N_4": {
+    "korean": "라운드 개시 시, 자신의 전기 저항이 증가합니다.&n적 처치 시, 자신의 AP가 증가하고 공격력이 중첩되어 증가합니다. (최대 3중첩)",
+    "english": "At the start of the round, increases own Electric Resist. When defeating an enemy, increases own AP and stacks ATK up to 3 times."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiZero_N_4": {
+    "korean": "전기 저항 증가. 적 처치 시, AP / 공격력 증가.",
+    "english": "Electric Resist increase. On enemy kill, AP / ATK increase."
+  },
+  "SkillDesc_Skill_DS_KunoichiZero_N_5": {
+    "korean": "전투 개시 시, 자신의 대 경장형 피해량이 증가합니다.&n라운드 개시 시, <허공 둔> 효과를 <쿠노이치>에게 추가로 부여합니다. &n스킬 효과는 <면허개전>의 스킬 레벨에 비례하고, 행동력을 제외한 기존 <허공 둔> 효과와 중첩됩니다.&n<은밀> 사용 시, 스쿼드 내에 <쿠노이치 엔라이>가 있을 경우 <이카즈치> 협동공격을 유도합니다.",
+    "english": "At combat start, increases own Anti-Light DMG. At round start, grants the <Void Stance> effect additionally to <Kunoichi>. The skill effect scales with the skill level of <License Activation> and stacks with the existing <Void Stance> effect, excluding SPD. When using <Stealth>, if a <Kunoichi Enrai> is in the squad, triggers a cooperative attack with <Ikazuchi>."
+  },
+  "SkillDescSimple_Skill_DS_KunoichiZero_N_5": {
+    "korean": "대 경장형 피해량 증가. <허공 기문둔갑> 활성화. [이카즈치] 협동 공격.",
+    "english": "Anti-Light DMG increase. <Void Gate Trickery> activation. [Ikazuchi] cooperative attack."
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_53": {
+    "korean": "무라사키 류 : [이카즈치] 협동 공격",
+    "english": "Murasaki Style : [Ikazuchi] Cooperative Attack"
+  },
+  "BuffDesc2_Effect_DS_KunoichiZero_N_5": {
+    "korean": "무라사키 류 비전 <허공 기문둔갑>",
+    "english": "Murasaki Style Vision <Void Gate Trickery>"
+  },
+  "BuffDesc3_Effect_DS_KunoichiZero_N_5": {
+    "korean": "무라사키 류 : [이카즈치] 협동 공격",
+    "english": "Murasaki Style : [Ikazuchi] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_1": {
+    "korean": "은밀 : 피해량 {0}%",
+    "english": "Stealth : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiZero_N_1": {
+    "korean": "은밀 : 대 중장형 피해량 {0}%",
+    "english": "Stealth : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_11": {
+    "korean": "은밀 : 대 중장형 피해량 {0}%",
+    "english": "Stealth : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_2": {
+    "korean": "뇌신 일섬 : 행동력 {0}%",
+    "english": "Thunder God Strike : SPD {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiZero_N_2": {
+    "korean": "뇌신 일섬 : 회피 {0}%",
+    "english": "Thunder God Strike : EVA {0}%"
+  },
+  "BuffDesc3_Effect_DS_KunoichiZero_N_2": {
+    "korean": "뇌신 일섬 : 전기 저항 {0}%",
+    "english": "Thunder God Strike : Electric Resist {0}%"
+  },
+  "BuffDesc4_Effect_DS_KunoichiZero_N_2": {
+    "korean": "뇌신 일섬 : 피해량 {0}%",
+    "english": "Thunder God Strike : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_21": {
+    "korean": "뇌신 일섬 : 피해량 {0}%",
+    "english": "Thunder God Strike : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_3": {
+    "korean": "허공 둔 : 회피 {0}%",
+    "english": "Void Strike : EVA {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiZero_N_3": {
+    "korean": "허공 둔 : 적중 {0}%",
+    "english": "Void Strike : ACC {0}%"
+  },
+  "BuffDesc3_Effect_DS_KunoichiZero_N_3": {
+    "korean": "허공 둔 : 치명타 {0}%",
+    "english": "Void Strike : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_DS_KunoichiZero_N_3": {
+    "korean": "허공 둔 : 행동력 {0}%",
+    "english": "Void Strike : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_31": {
+    "korean": "허공 둔 : 치명타 {0}%",
+    "english": "Void Strike : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_32": {
+    "korean": "허공 둔 : 행동력 {0}%",
+    "english": "Void Strike : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_4": {
+    "korean": "가속 : 전기 저항 {0}%",
+    "english": "Acceleration : Electric Resist {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiZero_N_4": {
+    "korean": "가속 : 공격력 {0}%",
+    "english": "Acceleration : ATK {0}%"
+  },
+  "BuffDesc3_Effect_DS_KunoichiZero_N_4": {
+    "korean": "가속 : AP {0}",
+    "english": "Acceleration : AP {0}"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_41": {
+    "korean": "가속 : 공격력 {0}%",
+    "english": "Acceleration : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_42": {
+    "korean": "가속 : AP {0}",
+    "english": "Acceleration : AP {0}"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_5": {
+    "korean": "면허개전 : 대 경장형 피해량 {0}%",
+    "english": "License Activation : Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_51": {
+    "korean": "허공 기문둔갑 : 회피 {0}%",
+    "english": "Void Gate Trickery : EVA {0}%"
+  },
+  "BuffDesc2_Effect_DS_KunoichiZero_N_51": {
+    "korean": "허공 기문둔갑 : 적중 {0}%",
+    "english": "Void Gate Trickery : ACC {0}%"
+  },
+  "BuffDesc3_Effect_DS_KunoichiZero_N_51": {
+    "korean": "허공 기문둔갑 : 치명타 {0}%",
+    "english": "Void Gate Trickery : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_52": {
+    "korean": "허공 기문둔갑 : 행동력 {0}%",
+    "english": "Void Gate Trickery : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_54": {
+    "korean": "진에 : 공격력 {0}%",
+    "english": "Jin Ae : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_55": {
+    "korean": "가속 : 공격력 {0}%",
+    "english": "Acceleration : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_KunoichiZero_N_56": {
+    "korean": "가속 : AP {0}",
+    "english": "Acceleration : AP {0}"
+  }
+}

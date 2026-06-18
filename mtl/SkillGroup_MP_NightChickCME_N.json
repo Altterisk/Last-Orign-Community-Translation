@@ -1,0 +1,82 @@
+{
+  "SkillName_Skill_MP_NightChickCME_N_1": {
+    "korean": "국소 EMP 탄",
+    "english": "Localized EMP Shell"
+  },
+  "SkillName_Skill_MP_NightChickCME_N_2": {
+    "korean": "국소 EMP 탄 난사",
+    "english": "Localized EMP Barrage"
+  },
+  "SkillName_Skill_MP_NightChickCME_N_3": {
+    "korean": "전자기파 과충전",
+    "english": "Electromagnetic Overcharge"
+  },
+  "SkillName_Skill_MP_NightChickCME_N_4": {
+    "korean": "자성 장갑",
+    "english": "Magnetic Gauntlets"
+  },
+  "SkillName_Skill_MP_NightChickCME_N_5": {
+    "korean": "배터리 폭발",
+    "english": "Battery Explosion"
+  },
+  "SkillDesc_Skill_MP_NightChickCME_N_1": {
+    "korean": "국소 EMP 탄을 발사해 단일 대상에 {0} 피해를 줍니다.&n적중 대상이 AGS인 경우, 2라운드 동안 공격력 / 회피 / AP를 감소시킵니다.&n대상이 이미 <회로 마비> 상태면 일정 확률로 2라운드 동안 행동 불가 상태로 만듭니다.&n대상이 바이오로이드인 경우 효과가 없습니다.",
+    "english": "Fires a localized EMP shell, dealing {0} damage to a single target. If the target is an AGS, reduces its ATK / EVA / AP for 2 rounds. If the target is already in <Circuit Paralysis>, there is a chance to Stun it for 2 rounds. Has no effect on Bioroids."
+  },
+  "SkillDesc_Skill_MP_NightChickCME_N_2": {
+    "korean": "국소 EMP 탄을 난사해 지정 범위에 {0} 피해를 줍니다.&n대상이 AGS인 경우, 적중 여부에 관계 없이 2라운드 동안 공격력 / 회피 / AP를 감소시킵니다.&n대상이 이미 <회로 마비> 상태면 일정 확률로 2라운드 동안 행동 불가 상태로 만듭니다.&n대상이 바이오로이드인 경우 효과가 없습니다.",
+    "english": "Fires a barrage of localized EMP shells, dealing {0} damage to the designated area. If the target is an AGS, reduces its ATK / EVA / AP for 2 rounds regardless of hit. If the target is already in <Circuit Paralysis>, there is a chance to Stun it for 2 rounds. Has no effect on Bioroids."
+  },
+  "SkillDesc_Skill_MP_NightChickCME_N_3": {
+    "korean": "적 공격 시, 주변에 전자기파가 방출되어 2라운드 동안 지속 전기 피해를 주며 회피를 감소시킵니다.",
+    "english": "When attacked, electromagnetic waves are emitted around you, dealing Electric DoT DMG for 2 rounds and reducing EVA."
+  },
+  "SkillDesc_Skill_MP_NightChickCME_N_4": {
+    "korean": "라운드 개시 시, 자신은 피해 최소화 효과를 획득합니다.&n피격 시, 범위 내 아군에게 적용된 해로운 효과를 해제합니다.",
+    "english": "At the start of the round, you gain a Minimize Damage effect. When hit, remove harmful effects from allies within range."
+  },
+  "SkillDesc_Skill_MP_NightChickCME_N_5": {
+    "korean": "냉기 속성 액티브 스킬 공격 피격 시, 배터리 누액이 발생하여 3라운드 동안 <동파> 상태가 됩니다. &n<동파> 상태로 처치되면 배터리 폭발로 범위 내 아군에게 괴멸적인 고정 피해를 입힙니다.",
+    "english": "When hit by a Cold‑attribute active skill, battery leakage occurs, applying the <Freeze> state for 3 rounds. If defeated while in <Freeze>, the battery explodes, dealing Fixed DMG to allies within the area."
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_1": {
+    "korean": "국소 EMP 탄 : 행동 불가",
+    "english": "Local EMP bomb : Stunned"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_11": {
+    "korean": "회로 마비 : 공격력 {0}%",
+    "english": "<Circuit Paralysis> : ATK {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChickCME_N_11": {
+    "korean": "회로 마비 : 회피 {0}%",
+    "english": "<Circuit Paralysis> : EVA {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickCME_N_11": {
+    "korean": "회로 마비 : AP {0}",
+    "english": "<Circuit Paralysis> : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_3": {
+    "korean": "전자기파 과충전 : 지속 전기 피해 {0}",
+    "english": "Electromagnetic overcharging : Electric DoT DMG {0}"
+  },
+  "BuffDesc2_Effect_MP_NightChickCME_N_3": {
+    "korean": "전자기파 과충전 : 회피 {0}%",
+    "english": "Electromagnetic overcharging : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_41": {
+    "korean": "자성 장갑 : 해로운 효과 해제",
+    "english": "Magnetic gloves : Debuff Removal"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_5": {
+    "korean": "동파 : 지속 냉기 피해 {0}",
+    "english": "<Freezing> : Cold DoT DMG {0}"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_51": {
+    "korean": "배터리 폭발 : 공격력 {0}% 고정 피해",
+    "english": "Battery explosion : ATK {0}% Fixed DMG"
+  },
+  "BuffDesc1_Effect_MP_NightChickCME_N_4": {
+    "korean": "자성 장갑 : 피해 최소화",
+    "english": "Magnetic gloves : Minimize Damage"
+  }
+}

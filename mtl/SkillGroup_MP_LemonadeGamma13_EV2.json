@@ -1,0 +1,22 @@
+{
+  "SkillDesc_Skill_MP_LemonadeGamma13_EV2_1": {
+    "korean": "단일 대상에게 {0} 보호 무시 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.\n치명타 시, 2라운드 동안 대상은 스킬 사용 불가 상태가 됩니다.",
+    "english": "Deals {0} Ignore Protection damage to a single target, ignoring its defense by a certain percentage. On a critical hit, the target becomes Silenced for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_EV2_2": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 대상의 방어력을 일정 비율 무시합니다.\n치명타 시, 대상의 강화 효과를 해제합니다.\n<출력 제한 해제> 상태일 경우 사용하지만, 연속적으로 사용하지는 않습니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area, ignoring its defense by a certain percentage. On a critical hit, Eradicator: Removes buffs. Can be used while in <Remove output limit> state, but not consecutively."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_EV2_3": {
+    "korean": "전투 개시 시, 자신의 효과 저항 / 강화 해제 저항이 증가합니다. 효과는 매 라운드 점감합니다.\n매 라운드 첫번째 공격에 대해 자신의 회피가 크게 증가합니다.",
+    "english": "At the start of combat, your Status Resist and Resistance to Disenchantment increase. The effect diminishes each round. Your Dodge is greatly increased for the first attack each round."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_EV2_4": {
+    "korean": "라운드 개시 시, 공격기가 아닌 적 수에 비례하여 자신의 AP가 증가합니다.\n라운드 개시 시, 모든 적의 AP가 증가하고 표식을 부여합니다.\n모든 적은 매 라운드 1회 이상 직접 공격하지 않을 경우, 지속 물리 피해를 입습니다.",
+    "english": "At the start of each round, your AP increases proportionally to the number of enemies that are not attackers. At the start of each round, all enemies' AP increases and they are Marked. All enemies that do not directly attack at least once per round suffer Physical DoT DMG."
+  },
+  "SkillDesc_Skill_MP_LemonadeGamma13_EV2_5": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 영구히 증가합니다.\n라운드 개시 시 상기 효과가 3중첩 이상인 경우, 방어막 / 피해 감소 무시가 활성화됩니다.\n일부 전투원의 존재는 조건을 무시하고 <출력 제한 해제>를 활성화할 수 있습니다.",
+    "english": "At the start of each round, your ATK and CRIT permanently increase. If this effect has 3 or more stacks at the start of the round, Ignore Barrier / DMG Reduction is activated. Certain combatants can ignore conditions and activate <Remove output limit>."
+  }
+}

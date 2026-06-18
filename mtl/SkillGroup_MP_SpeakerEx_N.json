@@ -1,0 +1,106 @@
+{
+  "1002707173": {
+    "korean": "사운드 웨이브",
+    "english": "Sound Wave"
+  },
+  "1002707175": {
+    "korean": "고주파 사운드",
+    "english": "High-Frequency Sound"
+  },
+  "1002707177": {
+    "korean": "사운드 출력 강화",
+    "english": "Sound Output Enhancement"
+  },
+  "1002707179": {
+    "korean": "강화 파장",
+    "english": "Enhanced Wave"
+  },
+  "1002707181": {
+    "korean": "최대 출력",
+    "english": "Maximum Output"
+  },
+  "1002707174": {
+    "korean": "광범위한 음파를 발사해 대상에게 보호 무시 {0} 피해를 주고, 3라운드 동안 공격력 / 치명타 감소 상태로 만들며 일정 확률로 뒤로 1칸 밀어버립니다. 최대 출력 상태일 시, 대상의 AP를 감소시킵니다.",
+    "english": "Fires a wide-ranging sound wave that deals {0} damage ignoring protection to the target, and for 3 rounds inflicts ATK / CRIT reduction, with a chance to Push Back 1 space. While in Maximum Output state, reduces the target's AP."
+  },
+  "1002707176": {
+    "korean": "<사운드 출력 강화(최대)> 일 시, 좁은 범위에 집중 된 음파를 발사해 대상에게 {0} 피해를 주고 방어력 / 회피를 감소시키고 <사운드 출력 강화> 효과를 모두 소모합니다.",
+    "english": "When <Sound Output Enhancement (Max)> is active, fires a concentrated sound wave in a narrow area that deals {0} damage to the target, reduces DEF / EVA, and consumes all <Sound Output Enhancement> effects."
+  },
+  "1002707178": {
+    "korean": "라운드 개시 시, 자신에게 <사운드 출력 강화> 효과가 적용되며 아군이 사망 시, <사운드 출력 강화> 효과가 해제 됩니다.",
+    "english": "At the start of the round, you gain the <Sound Output Enhancement> effect, and when an ally dies, the <Sound Output Enhancement> effect is removed."
+  },
+  "1002707180": {
+    "korean": "라운드 개시 시, 자신에게 적용 된 <사운드 출력 강화> 효과의 중첩 개수에 따라 주위 아군에게 강화 효과를 부여합니다.&n&n2중첩 시 : 치명타 증가&n3중첩 시 : 적중 증가&n4중첩 시 : 방어 관통 증가",
+    "english": "At the start of the round, grant buffs to nearby allies based on the number of stacks of the <Sound Output Enhancement> effect on yourself.\n\n2 stacks: increase CRIT\n3 stacks: increase ACC\n4 stacks: increase DEF Penetration"
+  },
+  "1002707182": {
+    "korean": "라운드 개시 시, 2라운드 이하인 상태라면 행동력이 증가합니다. 최대 출력 상태에서 <사운드 웨이브> 스킬을 사용 시, 대상의 AP를 감소시킵니다.",
+    "english": "At the start of a round, if you are in a state of 2 rounds or less, SPD increases. While in Maximum Output state, using the <Sound Wave> skill reduces the target's AP."
+  },
+  "1000108960": {
+    "korean": "뒤로 {0}칸 밀기",
+    "english": "Push Back {0}"
+  },
+  "1000108964": {
+    "korean": "사운드 출력 강화",
+    "english": "Sound Output Enhancement"
+  },
+  "1000108965": {
+    "korean": "사운드 출력 강화 해제",
+    "english": "Sound Output Enhancement Release"
+  },
+  "1000108966": {
+    "korean": "사운드 출력 강화 (최대)",
+    "english": "Sound Output Enhancement (Max)"
+  },
+  "1000108971": {
+    "korean": "사운드 웨이브 : 공격력 {0}%",
+    "english": "Soundwave : ATK {0}%"
+  },
+  "1000108975": {
+    "korean": "사운드 웨이브 : 치명타 {0}%",
+    "english": "Soundwave : CRIT {0}%"
+  },
+  "1000108961": {
+    "korean": "최대 출력 : AP {0}",
+    "english": "Maximum output : AP {0}"
+  },
+  "1000108962": {
+    "korean": "고주파 사운드 : 방어력 {0}%",
+    "english": "High-frequency sound : DEF {0}%"
+  },
+  "1000108972": {
+    "korean": "고주파 사운드 : 회피 {0}%",
+    "english": "High-frequency sound : EVA {0}%"
+  },
+  "1000108963": {
+    "korean": "고주파 사운드(출력 강화) : 방어력 {0}%",
+    "english": "Ultrasonic Amplification (Output Boost) : DEF {0}%"
+  },
+  "1000108973": {
+    "korean": "고주파 사운드(출력 강화) : 회피 {0}%",
+    "english": "Ultrasonic Amplification (Output Boost) : EVA {0}%"
+  },
+  "1000108967": {
+    "korean": "강화 파장 : 치명타{0}%",
+    "english": "Enhancement Wave : CRIT {0}%"
+  },
+  "1000108968": {
+    "korean": "강화 파장 : 적중{0}%",
+    "english": "Enhancement Wave : ACC {0}%"
+  },
+  "1000108969": {
+    "korean": "강화 파장 : 방어 관통{0}%",
+    "english": "Enhancement Wave : DEF Penetration {0}%"
+  },
+  "1000108970": {
+    "korean": "최대 출력 : 행동력{0}%",
+    "english": "Maximum output : SPD {0}%"
+  },
+  "1000108974": {
+    "korean": "최대 출력 : 행동력{0}%",
+    "english": "Maximum output : SPD {0}%"
+  }
+}

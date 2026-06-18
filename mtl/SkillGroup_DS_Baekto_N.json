@@ -1,0 +1,234 @@
+{
+  "SkillName_Skill_DS_Baekto_N_1": {
+    "korean": "마법신의 정의봉",
+    "english": "Divine Justice Staff"
+  },
+  "SkillName_Skill_DS_Baekto_N_2": {
+    "korean": "문 라이트 체인소",
+    "english": "Moon Light Chainsaw"
+  },
+  "SkillName_Skill_DS_Baekto_N_3": {
+    "korean": "정의는 지지 않아!",
+    "english": "Justice Never Falters!"
+  },
+  "SkillName_Skill_DS_Baekto_N_4": {
+    "korean": "달의 가호",
+    "english": "Blessing of the Moon"
+  },
+  "SkillName_Skill_DS_Baekto_N_5": {
+    "korean": "정의의 이름으로 용서치 않겠다!",
+    "english": "I Will Not Forgive in the Name of Justice!"
+  },
+  "SkillDesc_Skill_DS_Baekto_N_1": {
+    "korean": "매지컬 핑크 문 라이트로 {0} 피해를 주고, 2라운드 동안 대상을 도발합니다. &n적중 시, 대상은 2라운드 동안 공격력 / 적중이 감소하며 받는 피해가 증가합니다.&n적중 대상이 방어력 감소 상태인 경우 피해량이 증가합니다.",
+    "english": "Deals {0} damage with Magical Pink Moon Light and Provokes the target for 2 rounds. On hit, the target's ATK and ACC are decreased and their DMG Taken is increased for 2 rounds. If the target is in a DEF reduced state, the damage dealt is increased."
+  },
+  "SkillDescSimple_Skill_DS_Baekto_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상 도발 / 공격력 / 적중 감소 / 받는 피해 증가.",
+    "english": "Single Target {0} DMG. Target Provoked / ATK Decreased / ACC Decreased / DMG Taken Increased."
+  },
+  "SkillDesc_Skill_DS_Baekto_N_2": {
+    "korean": "매지컬 파워를 해방해 {0} 피해를 주고, 2라운드 동안 대상의 방어력을 대폭 감소시킵니다. &n치명타 시, 대상의 방어력 증가 효과를 해제하고 피해량이 증가합니다.&n적중 시, 스쿼드 내에 <매지컬 모모>가 있을 경우 <모모찬바라> 협동 공격을 유도합니다.",
+    "english": "Unleashes Magical Power to deal {0} damage and greatly reduces the target's DEF for 2 rounds. On critical hit, removes the target's DEF increase effect and increases damage. On hit, if <Magical Momo> is in the squad, triggers a <Momo-chan's Blade> Cooperative Attack."
+  },
+  "SkillDescSimple_Skill_DS_Baekto_N_2": {
+    "korean": "단일 대상 {0} 피해. 방어력 감소. 치명타 시, 피해량 증가 / 방어력 강화 해제. [모모찬바라] 협동 공격.",
+    "english": "Single Target {0} DMG. DEF Reduced. On CRIT, Damage Increased / DEF Increase Removed. [Momo-chan's Blade] Cooperative Attack."
+  },
+  "SkillDesc_Skill_DS_Baekto_N_3": {
+    "korean": "라운드 개시 시, 회피가 증가하며 해당 라운드에 처음 받는 공격은 피해가 감소합니다. &n회피 시, 해당 라운드 동안 치명타 / 공격력이 증가합니다.&n피격 시, 해당 라운드 동안 방어막 / 피해 감소 효과를 무시하고 공격력이 증가합니다.",
+    "english": "At the start of the round, EVA is increased and the first attack received that round has reduced damage. On evasion, CRIT and ATK are increased for the remainder of the round. When hit, ignores Barrier / DMG Reduction and ATK is increased for the rest of the round."
+  },
+  "SkillDescSimple_Skill_DS_Baekto_N_3": {
+    "korean": "회피 증가 / 받는 피해 감소 (1회). 회피 시, 공격력 / 치명타 증가. 피격 시, 공격력 증가 / 방어막/피해 감소 무시.",
+    "english": "EVA Increased / DMG Reduction (1). On evasion, ATK Increased / CRIT Increased. On hit, ATK Increased / Ignore Barrier / DMG Reduction."
+  },
+  "SkillDesc_Skill_DS_Baekto_N_4": {
+    "korean": "라운드 개시 시, 자신보다 회피가 낮은 공격기 / 지원기를 지정 보호합니다. &n라운드 개시 시, 자신과 지정 보호 대상이 공격력 / 적중 / 행동력 증가 상태면 각 효과를 증폭시킵니다.",
+    "english": "At the start of the round, designates Attacker / Supporter with lower EVA than yourself for Target Protect. At the start of the round, if both you and the designated protected target have increased ATK, ACC, and SPD, each effect is amplified."
+  },
+  "SkillDescSimple_Skill_DS_Baekto_N_4": {
+    "korean": "자신보다 회피가 낮은 공격기 / 지원기 지정 보호. 자신과 대상들의 강화 효과 증폭.",
+    "english": "Designate Attacker / Supporter with lower EVA than yourself for Target Protect. Amplify enhancement effects of yourself and the target."
+  },
+  "SkillDesc_Skill_DS_Baekto_N_5": {
+    "korean": "라운드 개시 시, 회피 비례 스킬 위력 증가 효과를 획득합니다.&n공격 받을 시, 반격 효과를 획득합니다.&n내키진 않지만 <달의 가호>에 의한 능력치 증폭 효과를 <대마왕의 수하>에게도 부여합니다.&n<달의 마력이 담긴 송편> 장착 시, 확률적 능력치 증가 효과가 확정적로도 추가 발동합니다.",
+    "english": "At the start of the round, gains Skill Power increase proportional to EVA. When attacked, gains a Counter Attack effect. Reluctantly, the stat amplification effect from <Blessing of the Moon> is also granted to <Demon King's Minion>. When equipped with <Moonlit Rice Cake>, the probabilistic stat increase effect is guaranteed to trigger."
+  },
+  "SkillDescSimple_Skill_DS_Baekto_N_5": {
+    "korean": "회피 비례 스킬 위력 증가. 공격 받을 시 반격. 마왕군과의 '임시' 동맹. <달의 마력이 담긴 송편> 강화.",
+    "english": "EVA Proportional Skill Power Increase. On being attacked, Counter Attack. Temporary alliance with Demon King's army. <Moonlit Rice Cake> Enhanced."
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_1": {
+    "korean": "조용히 하세요! : 대상 도발 (백토)",
+    "english": "Be Quiet! : Target Provoke (Baekto)"
+  },
+  "BuffDesc4_Effect_DS_Baekto_N_2": {
+    "korean": "Fatality : [모모찬바라] 협동 공격",
+    "english": "Fatality : [Momo-chan's Blade] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_22": {
+    "korean": "Fatality : [모모찬바라] 협동 공격",
+    "english": "Fatality : [Momo-chan's Blade] Cooperative Attack"
+  },
+  "BuffDesc3_Effect_DS_Baekto_N_5": {
+    "korean": "달의 가호 : 마왕군과의 '임시'동맹",
+    "english": "Blessing of the Moon : Temporary alliance with Demon King's army"
+  },
+  "BuffDesc4_Effect_DS_Baekto_N_5": {
+    "korean": "<달의 마력이 담긴 송편> 강화",
+    "english": "Enhance <Moonlit Rice Cake>"
+  },
+  "BuffDesc2_Effect_DS_Baekto_N_1": {
+    "korean": "조용히 하세요! : 공격력 {0}%",
+    "english": "Be Quiet! : ATK {0}%"
+  },
+  "BuffDesc3_Effect_DS_Baekto_N_1": {
+    "korean": "조용히 하세요! : 적중 {0}%",
+    "english": "Be Quiet! : ACC {0}%"
+  },
+  "BuffDesc4_Effect_DS_Baekto_N_1": {
+    "korean": "조용히 하세요! : 받는 피해 {0}%",
+    "english": "Be Quiet! : DMG Taken {0}%"
+  },
+  "BuffDesc5_Effect_DS_Baekto_N_1": {
+    "korean": "조용히 하세요! : 피해량 {0}%",
+    "english": "Be Quiet! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_11": {
+    "korean": "조용히 하세요! : 피해량 {0}%",
+    "english": "Be Quiet! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_2": {
+    "korean": "문 라이트 체인소 : 방어력 {0}%",
+    "english": "Moon Light Chainsaw&n : DEF {0}%"
+  },
+  "BuffDesc2_Effect_DS_Baekto_N_2": {
+    "korean": "매지컬 파워! : 방어력 강화 해제 (치명타 시)",
+    "english": "Magical Power! : DEF Buff Removal (on CRIT)"
+  },
+  "BuffDesc3_Effect_DS_Baekto_N_2": {
+    "korean": "매지컬 파워! : 피해량 {0}% (치명타 시)",
+    "english": "Magical Power! : Additional DMG {0}% (On CRIT)"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_21": {
+    "korean": "매지컬 파워! (물리) : 방어력 강화 해제",
+    "english": "Magical Power! (Physical) : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_DS_Baekto_N_21": {
+    "korean": "매지컬 파워! (물리) : 방어력 강화 해제",
+    "english": "Magical Power! (Physical) : DEF Buff Removal"
+  },
+  "BuffDesc3_Effect_DS_Baekto_N_21": {
+    "korean": "매지컬 파워! (물리) : 피해량 {0}%",
+    "english": "Magical Power! (Physical) : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_3": {
+    "korean": "월인 비전 체술 : 회피 {0}%",
+    "english": "Moonlit Vision Martial Art : EVA {0}%"
+  },
+  "BuffDesc2_Effect_DS_Baekto_N_3": {
+    "korean": "정의는 지지 않아! : 받는 피해 {0}% 감소 (1회)",
+    "english": "Justice will never lose!&n : DMG Reduction {0}% (1x)"
+  },
+  "BuffDesc3_Effect_DS_Baekto_N_3": {
+    "korean": "정의는 지지 않아! : 공격력 {0}% (회피/피격 시)",
+    "english": "Justice will never lose!&n : ATK {0}% (EVA / When Hit)"
+  },
+  "BuffDesc4_Effect_DS_Baekto_N_3": {
+    "korean": "정의는 지지 않아! : 치명타 {0}% (회피 시)",
+    "english": "Justice will never lose!&n : CRIT {0}% (On Evade)"
+  },
+  "BuffDesc5_Effect_DS_Baekto_N_3": {
+    "korean": "정의는 지지 않아! : 방어막 / 피해 감소 무시 (피격 시)",
+    "english": "Justice will never lose!&n : Ignore Barrier / DMG Reduction (When Hit)"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_31": {
+    "korean": "정의는 지지 않아! : 받는 피해 {0}% 감소 (1회)",
+    "english": "Justice will never lose!&n : DMG Reduction {0}% (1x)"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_32": {
+    "korean": "정의는 지지 않아! : 공격력 {0}%",
+    "english": "Justice will never lose!&n : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_33": {
+    "korean": "정의는 지지 않아! : 치명타 {0}%",
+    "english": "Justice will never lose!&n : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_34": {
+    "korean": "정의는 지지 않아! : 공격력 {0}%",
+    "english": "Justice will never lose!&n : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_35": {
+    "korean": "정의는 지지 않아! : 방어막 / 피해 감소 무시",
+    "english": "Justice will never lose!&n : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_4": {
+    "korean": "달의 가호 : 지정 대상 보호 (공격기/지원기)",
+    "english": "Blessing of the Moon : Target Protect (Attacker/Supporter)"
+  },
+  "BuffDesc2_Effect_DS_Baekto_N_4": {
+    "korean": "달의 가호 : 공격력 {0}% (효과 강화)",
+    "english": "Blessing of the Moon : ATK {0}% (Effect Enhanced)"
+  },
+  "BuffDesc3_Effect_DS_Baekto_N_4": {
+    "korean": "달의 가호 : 적중 {0}% (효과 강화)",
+    "english": "Blessing of the Moon : ACC {0}% (Enhanced Effect)"
+  },
+  "BuffDesc4_Effect_DS_Baekto_N_4": {
+    "korean": "달의 가호 : 행동력 {0}% (효과 강화)",
+    "english": "Blessing of the Moon : SPD {0}% (Effect Enhancement)"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_41": {
+    "korean": "달의 가호 : 공격력 {0}%",
+    "english": "Blessing of the Moon : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_42": {
+    "korean": "달의 가호 : 적중 {0}%",
+    "english": "Blessing of the Moon : ACC {0}%"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_43": {
+    "korean": "달의 가호 : 행동력 {0}%",
+    "english": "Blessing of the Moon : SPD {0}%"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_5": {
+    "korean": "문 라이트 파워 : 스킬 위력 {0}% (회피 비례)",
+    "english": "Moon Light Power : Skill Power {0}% (EVA-based)"
+  },
+  "BuffDesc2_Effect_DS_Baekto_N_5": {
+    "korean": "문 라이트 파워 : {0}% 위력으로 반격",
+    "english": "Moon Light Power : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_51": {
+    "korean": "문 라이트 파워 : {0}% 위력으로 반격",
+    "english": "Moon Light Power : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_52": {
+    "korean": "완전한 달의 가호 : 공격력 {0}%",
+    "english": "Perfect Blessing of the Moon : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_Baekto_N_52": {
+    "korean": "완전한 달의 가호 : 회피 {0}%",
+    "english": "Perfect Blessing of the Moon : EVA {0}%"
+  },
+  "BuffDesc3_Effect_DS_Baekto_N_52": {
+    "korean": "완전한 달의 가호 : 받는 피해 {0}% 감소",
+    "english": "Perfect Blessing of the Moon : DMG Reduction {0}%"
+  },
+  "BuffDesc4_Effect_DS_Baekto_N_52": {
+    "korean": "완전한 달의 가호 : 해로운 효과 해제",
+    "english": "Perfect Blessing of the Moon : Debuff Removal"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_47": {
+    "korean": "어디까지나 '임시'라구요 : 공격력 {0}%",
+    "english": "It's Only 'Temporary' : ATK {0}%"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_48": {
+    "korean": "어디까지나 '임시'라구요 : 적중 {0}%",
+    "english": "It's Only 'Temporary' : ACC {0}%"
+  },
+  "BuffDesc1_Effect_DS_Baekto_N_49": {
+    "korean": "어디까지나 '임시'라구요 : 행동력 {0}%",
+    "english": "It's Only 'Temporary' : SPD {0}%"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "1002707821": {
+    "korean": "택티컬 파이어",
+    "english": "Tactical Fire"
+  },
+  "1002707822": {
+    "korean": "브루탈 차지",
+    "english": "Brutal Charge"
+  },
+  "1002707823": {
+    "korean": "티타임",
+    "english": "Tea Time"
+  },
+  "1002707824": {
+    "korean": "배틀 라인",
+    "english": "Battle Line"
+  },
+  "1002707825": {
+    "korean": "기선제압",
+    "english": "Initiative Domination"
+  },
+  "1002707826": {
+    "korean": "범위 내 대상에게 {0} 보호 무시 피해를 주고 2라운드 동안 이동불가 / 받는 피해 증가 / 행동력 감소 / 방어력 감소 상태로 만듭니다.",
+    "english": "Deals {0} Ignore Protection damage to targets within the area and inflicts Rooted / DMG Taken Increased / SPD Reduction / DEF Reduction for 2 rounds."
+  },
+  "1002707831": {
+    "korean": "범위 내 대상 {0} 보호 무시 피해 / 이동 불가 / 받는 피해 증가 / 행동력 감소 / 방어력 감소",
+    "english": "{0} Ignore Protection damage / Rooted / DMG Taken Increased / SPD Reduction / DEF Reduction to targets within range."
+  },
+  "1002707827": {
+    "korean": "단일 대상에게 {0}피해를 주고 행동력 감소 상태로 만듭니다. 치명타 시, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to a single target and inflicts SPD Reduction. On a critical hit, damage dealt is increased."
+  },
+  "1002707832": {
+    "korean": "단일 대상 {0} 피해 / 행동력 감소 / 치명타 시 피해량 증가",
+    "english": "{0} damage / SPD Reduction / CRIT: damage increased"
+  },
+  "1002707828": {
+    "korean": "라운드 개시 시, 자신 방어력 / 효과 저항이 증가하고 행 보호 효과가 활성화됩니다.&n첫 라운드 개시 시, 자신의 받는 피해 감소가 크게 증가하고 일정 라운드동안 수치가 차감되며, 차감된 후 감소된 수치로 유지됩니다.",
+    "english": "At the start of the round, increases own DEF and Status Resist and activates Row Protect. At the start of the first round, greatly increases own DMG Reduction; the value decreases over a set number of rounds and then remains at the reduced amount."
+  },
+  "1002707833": {
+    "korean": "방어력 증가 / 효과 저항 증가 / 행 보호 / 받는 피해 감소",
+    "english": "DEF Increase / Status Resist Increase / Row Protect / DMG Reduction"
+  },
+  "1002707829": {
+    "korean": "라운드 개시 시, 범위 내 아군을 지정보호하고 아군의 공격력 / 적중 / 행동력을 증가시킵니다.",
+    "english": "At the start of the round, grants Target Protect to allies within range and increases their ATK / ACC / SPD."
+  },
+  "1002707834": {
+    "korean": "지정 보호 / 공격력 증가 / 적중 증가 / 행동력 증가",
+    "english": "Target Protect / ATK Increase / ACC Increase / SPD Increase"
+  },
+  "1002707830": {
+    "korean": "전투 시작 시, 2라운드 동안 범위 내 적군을 행동력 감소 / 이동불가 / 받는 피해 증가 상태로 만듭니다.",
+    "english": "At the start of battle, inflicts SPD Reduction / Rooted / DMG Taken Increased on enemies within range for 2 rounds."
+  },
+  "1002707835": {
+    "korean": "행동력 감소 / 이동 불가 / 받는 피해 증가",
+    "english": "SPD Reduction / Rooted / DMG Taken Increased"
+  },
+  "1000109935": {
+    "korean": "택티컬 파이어 : 받는 피해{0}%",
+    "english": "Tactical Fire : DMG Taken {0}%"
+  },
+  "1000109943": {
+    "korean": "택티컬 파이어 : 이동 불가",
+    "english": "Tactical Fire : Rooted"
+  },
+  "1000109949": {
+    "korean": "택티컬 파이어 : 행동력{0}%",
+    "english": "Tactical Fire : SPD {0}%"
+  },
+  "1000109954": {
+    "korean": "택티컬 파이어 : 방어력{0}%",
+    "english": "Tactical Fire : DEF {0}%"
+  },
+  "1000109936": {
+    "korean": "브루탈 차지 : 행동력{0}%",
+    "english": "Brutal Charge : SPD {0}%"
+  },
+  "1000109944": {
+    "korean": "브루탈 차지 : 피해량{0}%(치명타 시)",
+    "english": "Brutal Charge : Additional DMG {0}% (On CRIT)"
+  },
+  "1000109940": {
+    "korean": "브루탈 차지 : 피해량{0}%(치명타)",
+    "english": "Brutal Charge : Additional DMG {0}% (CRIT)"
+  },
+  "1000109937": {
+    "korean": "티타임 : 방어력{0}%",
+    "english": "Tea Time : DEF {0}%"
+  },
+  "1000109945": {
+    "korean": "티타임 : 효과 저항{0}%",
+    "english": "Tea Time : Status Resist {0}%"
+  },
+  "1000109950": {
+    "korean": "티타임 : 행 보호",
+    "english": "Tea Time : Row Protect"
+  },
+  "1000109955": {
+    "korean": "티타임 : 받는 피해 {0}%감소(라운드 차감)",
+    "english": "Tea Time : DMG Reduction (round decrement)"
+  },
+  "1000109941": {
+    "korean": "티타임 : 받는 피해 {0}%감소",
+    "english": "Tea Time : DMG Reduction {0}%"
+  },
+  "1000109938": {
+    "korean": "배틀 라인 : 지정 보호",
+    "english": "Battle Line : Target Protect"
+  },
+  "1000109946": {
+    "korean": "배틀 라인 : 공격력{0}%",
+    "english": "Battle Line : ATK {0}%"
+  },
+  "1000109951": {
+    "korean": "배틀 라인 : 적중{0}%",
+    "english": "Battle Line : ACC {0}%"
+  },
+  "1000109956": {
+    "korean": "배틀 라인 : 행동력{0}%",
+    "english": "Battle Line : SPD {0}%"
+  },
+  "1000109939": {
+    "korean": "기선제압 : 행동력{0}%",
+    "english": "Preemptive Strike : SPD {0}%"
+  },
+  "1000109947": {
+    "korean": "기선제압 : 이동 불가",
+    "english": "Preemptive Strike : Rooted"
+  },
+  "1000109952": {
+    "korean": "기선제압 : 받는 피해{0}%",
+    "english": "Preemptive Strike : DMG Taken {0}%"
+  }
+}

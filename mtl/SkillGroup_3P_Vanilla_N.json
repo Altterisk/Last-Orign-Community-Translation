@@ -1,0 +1,174 @@
+{
+  "SkillName_Skill_3P_Vanilla_N_1": {
+    "korean": "다리 노리기",
+    "english": "Aim for the Legs"
+  },
+  "SkillDesc_Skill_3P_Vanilla_N_1": {
+    "korean": "돌격 소총으로 단일 대상에게 {0} 피해를 줍니다. 전투 개시 시, 스쿼드 내에 <블랙 웜 S7> / <천향의 히루메>가 있을 경우, 화염 속성으로 변경됩니다.&n적중 시, 2라운드 동안 대상을 이동 불가 / 행동력 감소 상태로 만듭니다. &n대상이 이동 불가 / 회피 감소 상태인 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to a single target with an assault rifle. At the start of battle, if <Black Wyrm S7> / <Hirume of the Fragrant Bloom> is in the squad, the damage type changes to Fire. On hit, inflicts Rooted and SPD reduction for 2 rounds. If the target is Rooted or has reduced EVA, damage is increased."
+  },
+  "SkillDescSimple_Skill_3P_Vanilla_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상 이동 불가 / 행동력 감소. 조건부 피해량 증가",
+    "english": "Deals {0} damage to a single target. Rooted and SPD reduction. Damage is increased conditionally."
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_1": {
+    "korean": "다리 노리기 : 이동 불가",
+    "english": "Aim for the Legs : Rooted"
+  },
+  "BuffDesc2_Effect_3P_Vanilla_N_1": {
+    "korean": "다리노리기 : 행동력 {0}%",
+    "english": "Leg Sweep: SPD {0}%"
+  },
+  "BuffDesc3_Effect_3P_Vanilla_N_1": {
+    "korean": "다리 노리기 : 피해량 {0}%",
+    "english": "Aim for the Legs : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_11": {
+    "korean": "다리 노리기 : 피해량 {0}%",
+    "english": "Aim for the Legs : Additional DMG {0}%"
+  },
+  "SkillName_Skill_3P_Vanilla_N_2": {
+    "korean": "HEDP 유탄",
+    "english": "HEDP Grenade"
+  },
+  "SkillDesc_Skill_3P_Vanilla_N_2": {
+    "korean": "유탄을 발사해 지정 범위에 {0} 화염 피해를 줍니다. 목표 지점 뒷 칸에는 피해가 25% 감소합니다. &n적중 시, 대상의 행 / 열 보호 효과를 해제합니다.&n치명타 시, 피해량이 증가합니다.",
+    "english": "Fires a grenade that deals {0} Fire DMG to the designated area. Damage to the tile behind the target point is reduced by 25%. Upon hit, removes Row Protect and Column Protect from the targets. On CRIT, damage is increased."
+  },
+  "SkillDescSimple_Skill_3P_Vanilla_N_2": {
+    "korean": "지정 범위 {0} 화염 피해. 대상 행 / 열 보호 해제.",
+    "english": "Designated area {0} Fire DMG. Removes Row Protect and Column Protect from targets."
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_2": {
+    "korean": "HEDP 유탄 : 행 보호 해제",
+    "english": "HEDP Grenade : Row Protect Removal"
+  },
+  "BuffDesc2_Effect_3P_Vanilla_N_2": {
+    "korean": "HEDP 유탄 : 열 보호 해제",
+    "english": "HEDP Grenade : Column Protect Removal"
+  },
+  "BuffDesc3_Effect_3P_Vanilla_N_2": {
+    "korean": "HEDP 유탄 : 피해량 {0}%",
+    "english": "HEDP Grenade : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_21": {
+    "korean": "HEDP 유탄 : 피해량 {0}%",
+    "english": "HEDP Grenade : Additional DMG {0}%"
+  },
+  "SkillName_Skill_3P_Vanilla_N_3": {
+    "korean": "뒷정리",
+    "english": "Cleanup"
+  },
+  "SkillDesc_Skill_3P_Vanilla_N_3": {
+    "korean": "라운드 개시 시, 범위 내 아군 공격기 / 지원기의 적중이 증가하고 대상의 공격을 지원합니다.&n적 처치 시, 범위 내 아군 바이오로이드의 AP가 증가합니다.&n공격 지원 시, 2라운드 동안 자신의 공격력이 증가합니다. (최대 2중첩)",
+    "english": "At the start of the round, increases ACC of allied Attacker and Supporter units within range and provides Follow-Up Attack. When an enemy is defeated, increases AP of allied Bioroids within range. When providing Follow-Up Attack, your ATK is increased for 2 rounds (max 2 stacks)."
+  },
+  "SkillDescSimple_Skill_3P_Vanilla_N_3": {
+    "korean": "아군 공격기 / 지원기 적중 증가 / 공격 지원. 아군 바이오로이드 AP 증가. 자신 공격력 증가.",
+    "english": "Increases ACC of allied Attacker and Supporter units. Follow-Up Attack. Increases AP of allied Bioroids. Increases your ATK."
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_3": {
+    "korean": "뒷정리 : 적중 {0}%",
+    "english": "Cleanup : ACC {0}%"
+  },
+  "BuffDesc2_Effect_3P_Vanilla_N_3": {
+    "korean": "뒷정리 : 공격 지원",
+    "english": "Cleanup : Follow-Up Attack"
+  },
+  "BuffDesc3_Effect_3P_Vanilla_N_3": {
+    "korean": "쓱싹 : AP {0}",
+    "english": "Swipe : AP {0}"
+  },
+  "BuffDesc4_Effect_3P_Vanilla_N_3": {
+    "korean": "청소 도구 점검 : 공격력 {0}%",
+    "english": "Cleaning Tool Check : ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_31": {
+    "korean": "쓱싹 : AP {0}",
+    "english": "Sseukssak: AP {0}"
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_32": {
+    "korean": "청소 도구 점검 : 공격력 {0}%",
+    "english": "Check Cleaning Tools : ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_34": {
+    "korean": "불이 필요한 시간이군요",
+    "english": "It's time for a fire."
+  },
+  "SkillName_Skill_3P_Vanilla_N_4": {
+    "korean": "옆자리 메이드씨",
+    "english": "Maid Next Door"
+  },
+  "SkillDesc_Skill_3P_Vanilla_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군의 공격력 / 적중 / 행동력이 증가합니다.&n라운드 개시 시, 범위 내 아군 보호기의 공격을 지원하고 행 보호를 활성화합니다.&n스쿼드 내에 보호기가 없을 경우, 행 보호 활성화에 필요한 역할군 조건이 사라집니다.&n상기 효과의 대상이 있을 경우, <뒷정리>의 공격 지원 시 효과의 대상이 '아군 공격기'로 확장되며, 최대 중첩 수가 4로 증가합니다.",
+    "english": "At the start of the round, increases ATK, ACC, and SPD of allies within range. At the start of the round, supports attacks of allied Protectors within range and activates Row Protect. If there are no Protectors in the squad, the role requirement for activating Row Protect is removed. If there are valid targets for these effects, the targets of <Cleanup>'s Follow-Up Attack expand to include allied Attacker units, and the maximum stack count increases to 4."
+  },
+  "SkillDescSimple_Skill_3P_Vanilla_N_4": {
+    "korean": "아군 공격력 / 적중 / 행동력 증가. 조건부 행 보호 활성화.",
+    "english": "Increases allies’ ATK, ACC, and SPD. Conditionally activates Row Protect."
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_4": {
+    "korean": "옆자리 메이드씨 : 공격력 {0}%",
+    "english": "Maid Next Door : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Vanilla_N_4": {
+    "korean": "옆자리 메이드씨 : 적중 {0}%",
+    "english": "Maid Next Door : ACC {0}%"
+  },
+  "BuffDesc3_Effect_3P_Vanilla_N_4": {
+    "korean": "옆자리 메이드씨 : 행동력 {0}%",
+    "english": "Maid Next Door : SPD {0}%"
+  },
+  "BuffDesc4_Effect_3P_Vanilla_N_4": {
+    "korean": "보좌하겠습니다 : 행 보호 (보호기)",
+    "english": "I will assist: Row Protect (Defender)"
+  },
+  "BuffDesc5_Effect_3P_Vanilla_N_4": {
+    "korean": "보좌하겠습니다 : 공격 지원 (보호기)",
+    "english": "I will assist: Follow-Up Attack (Defender)"
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_41": {
+    "korean": "보좌하겠습니다 : 행 보호",
+    "english": "I Shall Assist : Row Protect"
+  },
+  "BuffDesc2_Effect_3P_Vanilla_N_41": {
+    "korean": "보좌하겠습니다 : 공격 지원",
+    "english": "I’ll Assist You: Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_43": {
+    "korean": "옆자리 메이드씨 : 행동력 {0}% (봉사정신)",
+    "english": "Maid Next Door: SPD {0}% (Spirit of Service)"
+  },
+  "SkillName_Skill_3P_Vanilla_N_5": {
+    "korean": "오물은 소독입니다",
+    "english": "Disinfecting the Filth"
+  },
+  "SkillDesc_Skill_3P_Vanilla_N_5": {
+    "korean": "라운드 개시 시, 자신이 공격을 지원하는 대상의 효과 저항이 증가합니다. 해당 효과는 대상과 인접한 아군 수에 따라 증폭됩니다.&n라운드 개시 시, 방어력 / 화염 저항 감소 상태인 적의 받는 피해를 증가시킵니다.&n방어력 / 화염 저항 감소가 <배틀 메이드> 소속 전투원의 스킬 효과인 경우, 상기 효과가 세 배로 증폭됩니다.",
+    "english": "At the start of the round, increases Status Resist of the target you support with attacks; this effect scales with the number of adjacent allies. At the start of the round, increases DMG Taken of enemies suffering DEF or Fire Resist reduction. If the DEF or Fire Resist reduction is caused by a <Battle Maid> unit’s skill, the effect is tripled."
+  },
+  "SkillDescSimple_Skill_3P_Vanilla_N_5": {
+    "korean": "아군 효과 저항 증가. 방어력 / 화염 저항 감소 대상 받는 피해 증가.",
+    "english": "Increases allies’ Status Resist. Enemies with reduced DEF or Fire Resist have DMG Taken Increased."
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_5": {
+    "korean": "마스크, 챙기셨나요? : 효과 저항 {0}% 증가",
+    "english": "Did You Bring Your Mask? : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_3P_Vanilla_N_5": {
+    "korean": "오물이군요 : 받는 피해 {0}% 증가",
+    "english": "Filthy Thing: DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_55": {
+    "korean": "오물이군요 : 받는 피해 {0}% 증가",
+    "english": "It’s Filthy : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_56": {
+    "korean": "오물이군요 : 받는 피해 {0}% 증가 (증폭)",
+    "english": "Filth: DMG Taken Increased {0}% (Amplify)"
+  },
+  "BuffDesc1_Effect_3P_Vanilla_N_57": {
+    "korean": "왜… 왜 절 보십니까?!",
+    "english": "Why... why are you looking at me?!"
+  }
+}

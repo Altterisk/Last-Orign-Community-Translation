@@ -1,0 +1,158 @@
+{
+  "SkillName_Skill_PECS_Dione_N_1": {
+    "korean": "안전 범위 이탈!",
+    "english": "Safety Perimeter Breach!"
+  },
+  "SkillName_Skill_PECS_Dione_N_2": {
+    "korean": "스플래시 워터 밤",
+    "english": "Splash Water Bomb"
+  },
+  "SkillName_Skill_PECS_Dione_N_3": {
+    "korean": "바다의 투희",
+    "english": "Sea’s Tuhee"
+  },
+  "SkillName_Skill_PECS_Dione_N_4": {
+    "korean": "유속은 곧… 무게!",
+    "english": "Water Current Is... Weight!"
+  },
+  "SkillName_Skill_PECS_Dione_N_5": {
+    "korean": "골든 워커즈 토르피도",
+    "english": "Golden Workers Torpedo"
+  },
+  "SkillDesc_Skill_PECS_Dione_N_1": {
+    "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 입힙니다.&n적중 시 대상은 1라운드 동안 이동 불가 상태가 됩니다.&n안전 범위 이탈!로 적을 처치 시 자신에게 피해 무효화 1회를 획득합니다.&n적을 처치 후 안전 범위 이탈!로 획득하는 피해 무효화는 골든 워커즈 토르피도의 피해 무효화와 중첩 적용되지 않으며 갱신될 수 있습니다.",
+    "english": "Deals {0} Cold DMG that ignores Protection to the designated area.\nOn hit, targets become Rooted for 1 round.\nIf an enemy is defeated by Safety Perimeter Breach!, you gain 1 Damage Nullification.\nDamage Nullification gained from Safety Perimeter Breach! does not stack with the Damage Nullification from Golden Workers Torpedo, but it can be refreshed."
+  },
+  "SkillDescSimple_Skill_PECS_Dione_N_1": {
+    "korean": "지정 범위에 {0} 보호 무시 냉기 피해, 적중 대상 이동 불가 / 적 처치 시 피해 무효화(1) 획득(피격 시 해제, 피해 무효화 중첩 불가)",
+    "english": "Deals {0} Cold DMG that ignores Protection to the designated area, Immobilized on hit / Gain 1 Damage Nullification on enemy defeat (removed when hit, Damage Nullification cannot stack)"
+  },
+  "SkillDesc_Skill_PECS_Dione_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 냉기 피해를 입힙니다.&n적중 시 대상은 행동력 감소 및 침수 상태가 됩니다.&n침수 시 대상의 2라운드 동안 냉기 / 전기 저항 감소, 화염 저항 증가 상태가 됩니다.",
+    "english": "Deals {0} Cold DMG that ignores Protection to the designated area.\nOn hit, the target suffers SPD Reduction and becomes Soaked.\nWhile Soaked, the target has Cold Resist Reduction / Electric Resist Reduction, and Fire Resist Increase for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_Dione_N_2": {
+    "korean": "지정 범위에 {0} 보호 무시 냉기 피해, 적중 대상 행동력 감소, 침수 상태 적용(피격 대상 침수 시 2라운드 동안 냉기 저항 / 전기 저항 감소, 대상의 화염 저항 증가)",
+    "english": "Deals {0} Cold DMG that ignores Protection to the designated area, SPD Reduction and Soaked on hit (while Soaked, target suffers Cold Resist Reduction / Electric Resist Reduction and Fire Resist Increase for 2 rounds)"
+  },
+  "SkillDesc_Skill_PECS_Dione_N_3": {
+    "korean": "라운드 개시 시 모든 적을 도발합니다.&n2라운드 동안 적의 행동력을 감소시키고 받는 피해를 증가시킵니다(최대 3 중첩).",
+    "english": "At the start of the round, Provokes all enemies.\nFor 2 rounds, reduces their SPD and increases DMG Taken, up to 3 stacks."
+  },
+  "SkillDescSimple_Skill_PECS_Dione_N_3": {
+    "korean": "라운드 개시 시 모든 적 도발. 2라운드 적 행동력 감소 및 받는 피해 증가(최대 3중첩)",
+    "english": "Provokes all enemies at round start. 2 rounds SPD Reduction and DMG Taken Increased (max 3 stacks)"
+  },
+  "SkillDesc_Skill_PECS_Dione_N_4": {
+    "korean": "라운드 개시 시 자신이 <침수> 상태인 경우 공격력 / 치명타 / 행동력이 증가합니다.&n라운드 개시 시 자신이 <침수> 상태로 피격 시 적의 <받는 피해 감소> 효과가 해제됩니다.",
+    "english": "At the start of the round, if you are <Soaked>, ATK / CRIT / SPD increase.\nIf you are hit while <Soaked>, the enemy's <Damage Reduction> effect is removed."
+  },
+  "SkillDescSimple_Skill_PECS_Dione_N_4": {
+    "korean": "자신이 <침수> 시 공격력 / 치명타 / 행동력 증가, <침수> 상태로 피격 시 적 <받는 피해 감소> 해제",
+    "english": "When <Soaked>, ATK / CRIT / SPD increase; hitting while <Soaked> removes enemy <Damage Reduction>."
+  },
+  "SkillDesc_Skill_PECS_Dione_N_5": {
+    "korean": "라운드 개시 시 스쿼드에 자신을 제외한 <골든 워커즈> 소속 전투원이 있을 경우 냉기 저항을 얻고 피격 시 100% 확률로 반격합니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <골든 워커즈> 소속 전투원이 있을 경우 피해 무효화 1회를 획득합니다.&n라운드 개시 시 골든 워커즈 토르피도로 획득하는 피해 무효화는 안전 범위 이탈!의 피해 무효화와 중첩 적용되지 않으며 갱신될 수 있습니다.",
+    "english": "At the start of the round, if there is another <Golden Workers> unit in the squad (excluding self), you gain Cold Resist and Counter Attack with 100% chance when hit.\nAlso, you gain 1 Damage Nullification.\nDamage Nullification gained from Golden Workers Torpedo does not stack with the Damage Nullification from Safety Perimeter Breach!, but it can be refreshed."
+  },
+  "SkillDescSimple_Skill_PECS_Dione_N_5": {
+    "korean": "스쿼드에 <골든 워커즈> 소속 전투원 있는 경우 냉기 저항 증가 / 피격 시 100% 반격 / 피해 무효화(1) 획득(피격 시 해제, 피해 무효화 중첩 불가)",
+    "english": "If a <Golden Workers> unit is in the squad, Cold Resist increase / 100% Counter Attack on hit / Gain 1 Damage Nullification (removed when hit, cannot stack)"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_1": {
+    "korean": "안전 범위 이탈! : {0}% 냉기 추가 피해",
+    "english": "Safety Perimeter Breach! : {0}% Cold additional damage"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_2": {
+    "korean": "스플래시 워터 밤 : {0}% 냉기 추가 피해",
+    "english": "Splash Water Bomb : {0}% Cold additional damage"
+  },
+  "BuffDesc2_Effect_PECS_Dione_N_1": {
+    "korean": "안전 범위 이탈! : 이동 불가",
+    "english": "Safety Perimeter Breach! : Rooted"
+  },
+  "BuffDesc3_Effect_PECS_Dione_N_1": {
+    "korean": "안전 범위 이탈! : 피해 무효화 {0}회",
+    "english": "Safety Perimeter Breach! : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_11": {
+    "korean": "안전 범위 이탈! : 피해 무효화 {0}회",
+    "english": "Safety Perimeter Breach! : Damage Nullification {0}x"
+  },
+  "BuffDesc2_Effect_PECS_Dione_N_2": {
+    "korean": "스플래시 워터 밤 : 행동력 {0}%",
+    "english": "Splash Water Bomb : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Dione_N_2": {
+    "korean": "침수 : 냉기 저항 {0}%",
+    "english": "Soaked : Cold Resist {0}%"
+  },
+  "BuffDesc4_Effect_PECS_Dione_N_2": {
+    "korean": "침수 : 전기 저항 {0}%",
+    "english": "Soaked : Electric Resist {0}%"
+  },
+  "BuffDesc5_Effect_PECS_Dione_N_2": {
+    "korean": "침수 : 화염 저항 {0}%",
+    "english": "Soaked : Fire Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_3": {
+    "korean": "바다의 투희 : 도발",
+    "english": "Sea’s Wild Princess : Provokes"
+  },
+  "BuffDesc2_Effect_PECS_Dione_N_3": {
+    "korean": "바다의 투희 : 행동력 {0}%",
+    "english": "Sea’s Wild Princess : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Dione_N_3": {
+    "korean": "바다의 투희 : 받는 피해 {0}% 증가",
+    "english": "Sea’s Wild Princess : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_31": {
+    "korean": "바다의 투희 : 행동력 {0}%",
+    "english": "Sea’s Wild Princess : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_32": {
+    "korean": "바다의 투희 : 받는 피해 {0}% 증가",
+    "english": "Sea’s Wild Princess : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_4": {
+    "korean": "유속은 곧… 무게! : 공격력 {0}% (침수 시)",
+    "english": "Water Current Is... Weight! : ATK {0}% (When Soaked)"
+  },
+  "BuffDesc2_Effect_PECS_Dione_N_4": {
+    "korean": "유속은 곧… 무게! : 치명타 {0}% (침수 시)",
+    "english": "Water Current Is... Weight! : CRIT {0}% (when soaked)"
+  },
+  "BuffDesc3_Effect_PECS_Dione_N_4": {
+    "korean": "유속은 곧… 무게! : 행동력 {0}% (침수 시)",
+    "english": "Water Current Is... Weight! : SPD {0}% (When Soaked)"
+  },
+  "BuffDesc4_Effect_PECS_Dione_N_4": {
+    "korean": "유속은 곧… 무게! : 받는 피해 감소 해제",
+    "english": "Water Current Is... Weight! : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_41": {
+    "korean": "유속은 곧… 무게! : 받는 피해 감소 해제",
+    "english": "Water Current Is... Weight! : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_5": {
+    "korean": "골든 워커즈 토르피도 : 냉기 저항 {0}%",
+    "english": "Golden Workers Torpedo : Cold Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Dione_N_5": {
+    "korean": "골든 워커즈 토르피도 : {0}% 위력으로 반격",
+    "english": "Golden Workers Torpedo : Counter Attack with {0}% Power"
+  },
+  "BuffDesc3_Effect_PECS_Dione_N_5": {
+    "korean": "골든 워커즈 토르피도 : 피해 무효화 {0}회",
+    "english": "Golden Workers Torpedo : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_51": {
+    "korean": "골든 워커즈 토르피도 : {0}% 위력으로 반격",
+    "english": "Golden Workers Torpedo : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_PECS_Dione_N_52": {
+    "korean": "골든 워커즈 토르피도 : 피해 무효화 {0}회",
+    "english": "Golden Workers Torpedo : Damage Nullification {0}x"
+  }
+}

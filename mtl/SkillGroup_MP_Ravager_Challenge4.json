@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_Ravager_Challenge4_1": {
+    "korean": "입자 붕괴",
+    "english": "Particle Collapse"
+  },
+  "SkillName_Skill_MP_Ravager_Challenge4_2": {
+    "korean": "대규모 입자 붕괴",
+    "english": "Massive Particle Collapse"
+  },
+  "SkillName_Skill_MP_Ravager_Challenge4_3": {
+    "korean": "증속 구동",
+    "english": "Acceleration Drive"
+  },
+  "SkillName_Skill_MP_Ravager_Challenge4_4": {
+    "korean": "노심용융",
+    "english": "Core Meltdown"
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge4_1": {
+    "korean": "단일 대상에게 {0} 보호 무시 피해를 줍니다.&n적중 대상은 모든 전투 속행 효과가 해제되고 다음 라운드 종료 시 전투 불능이 됩니다.&n가능한 한 방어력이 높은 대상을 우선 타겟으로 설정합니다.&n+900%의 적중 보정이 적용됩니다.",
+    "english": "Deal {0} Ignore Protection damage to a single target.\\nThe hit target has all battle continuation effects removed and becomes incapacitated at the end of the next round.\\nPrioritize targets with the highest DEF.\\nApply +900% ACC bonus."
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge4_2": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다.&n적중 대상은 모든 전투 속행 효과가 해제되고 다음 라운드 종료 시 전투 불능이 됩니다.&n가능한 한 공격력이 높은 대상을 우선 타겟으로 설정합니다.&n+900%의 적중 보정이 적용됩니다.",
+    "english": "Deal {0} Ignore Protection damage to the designated area.\\nThe hit target has all battle continuation effects removed and becomes incapacitated at the end of the next round.\\nPrioritize targets with the highest ATK.\\nApply +900% ACC bonus."
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge4_3": {
+    "korean": "라운드 개시 시, 자신의 AP / 회피 / 방어 관통이 증가합니다.&n라운드 개시 시 이전 라운드에 공격을 실행하지 못한 경우, 반격을 획득하고 해로운 효과를 해제합니다.&n자신이 반격 상태인 경우, <대규모 입자 붕괴>를 사용합니다.&n상기 효과는 효과 해제로 해제할 수 없습니다.",
+    "english": "At the start of the round, increase your AP / EVA / DEF Penetration.\\nIf you did not act in the previous round, gain Counter Attack and remove harmful effects.\\nIf you are in Counter Attack state, use <Massive Particle Collapse>.\\nThese effects cannot be removed by dispel."
+  },
+  "SkillDesc_Skill_MP_Ravager_Challenge4_4": {
+    "korean": "적 사망 시, 3라운드 동안 자신의 스킬 위력이 증가합니다.&n라운드 개시 시, 자신의 공격력이 영구적으로 감소합니다. 스쿼드 교체 시, 중첩이 초기화됩니다.&n자신이 지속 냉기 피해 상태인 경우, <노심용융>에 의한 공격력 감소 효과가 억제됩니다.",
+    "english": "When an enemy dies, increase your Skill Power for 3 rounds.\\nAt the start of the round, your ATK is permanently reduced. Stacks reset when squad is swapped.\\nIf you are in continuous Cold DoT DMG state, the ATK reduction from <Core Meltdown> is suppressed."
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_1": {
+    "korean": "입자 붕괴 중…",
+    "english": "Particle Collapse in Progress..."
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_31": {
+    "korean": "증속 구동 : 에너지 축적",
+    "english": "Acceleration Drive: Energy Accumulation"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_3": {
+    "korean": "증속 구동 : AP {0}",
+    "english": "Acceleration Drive : AP {0}"
+  },
+  "BuffDesc2_Effect_MP_Ravager_Challenge4_3": {
+    "korean": "증속 구동 : 회피 {0}%",
+    "english": "Acceleration Drive : EVA {0}%"
+  },
+  "BuffDesc3_Effect_MP_Ravager_Challenge4_3": {
+    "korean": "증속 구동 : 방어 관통 {0}%",
+    "english": "Acceleration Drive : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_32": {
+    "korean": "증속 구동 : 해로운 효과 해제",
+    "english": "Acceleration Drive : Debuff Removal"
+  },
+  "BuffDesc2_Effect_MP_Ravager_Challenge4_32": {
+    "korean": "증속 구동 : 행동력 {0}%",
+    "english": "Acceleration Drive : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_4": {
+    "korean": "노심용융 : 스킬 위력 {0}%",
+    "english": "Core Meltdown : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_Ravager_Challenge4_41": {
+    "korean": "노심용융 : 공격력 {0}%",
+    "english": "Core Meltdown : ATK {0}%"
+  }
+}

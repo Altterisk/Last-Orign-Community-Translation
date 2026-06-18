@@ -1,0 +1,222 @@
+{
+  "SkillName_Skill_3P_Galatea_N_1": {
+    "korean": "MK12 양용포",
+    "english": "MK12 Dual-Purpose Cannon"
+  },
+  "SkillDesc_Skill_3P_Galatea_N_1": {
+    "korean": "단일 대상에게 {0} 피해를 입힙니다.&n적중 여부와 관계없이 2라운드 동안 대상의 회피를 감소시킵니다.&n적중 시, 2라운드 동안 대상의 공격력을 감소시킵니다.&n스킬 레벨 당 10%의 적중 보정이 적용됩니다.",
+    "english": "Deals {0} damage to a single target.&nRegardless of hit, reduces the target's EVA for 2 rounds.&nOn hit, reduces the target's ATK for 2 rounds.&nApplies a 10% ACC modifier per skill level."
+  },
+  "SkillDescSimple_Skill_3P_Galatea_N_1": {
+    "korean": "지정 대상 {0} 피해. 지정 대상 회피 감소. 적중 대상 공격력 감소.",
+    "english": "Deals {0} damage to the designated target. Reduces the target’s EVA. Reduces the target’s ATK."
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_1": {
+    "korean": "MK12 양용포 : 회피 {0}%",
+    "english": "MK12 Dual-Purpose Cannon : EVA {0}%"
+  },
+  "BuffDesc2_Effect_3P_Galatea_N_1": {
+    "korean": "MK12 양용포 : 공격력 {0}%",
+    "english": "MK12 Dual-Purpose Cannon : ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_11": {
+    "korean": "MK12 양용포 : 공격력 {0}%",
+    "english": "MK12 Dual-Purpose Cannon : ATK {0}%"
+  },
+  "SkillName_Skill_3P_Galatea_N_2": {
+    "korean": "충각 돌격 전술",
+    "english": "Ramming Assault Tactic"
+  },
+  "SkillDesc_Skill_3P_Galatea_N_2": {
+    "korean": "일직선상의 대상에게 충각으로 돌격하여 {0} 보호 무시 피해를 입히고, 2라운드 동안 적중 대상을 도발합니다.&n자신이 방어력 증가 / 행동력 증가 강화 효과를 보유한 경우 각각 피해량이 증가하고 대상이 보유 중인 동일한 강화 효과를 해제합니다.&n적중 시, 자신의 공격력에 비례한 고정 물리 피해를 입으며, 자신에게 적용된 모든 해로운 효과를 해제합니다.&n스쿼드에 자신을 제외한 <머메이드> 전투원이 있으면 고정 물리 피해 수치가 경감되며 방어 관통 효과가 추가됩니다.",
+    "english": "Charges forward in a straight line, dealing {0} Ignore Protection damage to targets and Provokes hit targets for 2 rounds.&nIf the user has DEF Up and/or SPD Up buffs, damage is increased accordingly and the same buffs are removed from the target.&nOn hit, deals Fixed Physical DMG based on the user’s ATK and removes all harmful effects from self.&nIf there is a <Mermaid> unit in the squad other than self, the Fixed Physical DMG is reduced and DEF Penetration is added."
+  },
+  "SkillDescSimple_Skill_3P_Galatea_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 적중 대상 도발. 조건부 피해량 증가 / 특정 강화 효과 해제. 자신 물리 고정 피해 / 해로운 효과 해제.",
+    "english": "Deals {0} Ignore Protection damage to targets in the designated area. Provokes hit targets. Damage is increased under certain conditions and specific buffs are removed. Deals Fixed Physical DMG to self and removes harmful effects."
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_2": {
+    "korean": "영웅적인 돌격 : 도발 (갈라테아)",
+    "english": "Heroic Charge : Provoke (Galatea)"
+  },
+  "BuffDesc2_Effect_3P_Galatea_N_2": {
+    "korean": "방어력 / 행동력 증가 해제",
+    "english": "Cancel Defense / SPD Boosts"
+  },
+  "BuffDesc3_Effect_3P_Galatea_N_2": {
+    "korean": "돌파 : 해로운 효과 해제",
+    "english": "Breakthrough: Debuff Removal"
+  },
+  "BuffDesc4_Effect_3P_Galatea_N_2": {
+    "korean": "아야야…. : 공격력 {0}% 고정 피해",
+    "english": "Ow ow… : ATK {0}% Fixed DMG"
+  },
+  "BuffDesc5_Effect_3P_Galatea_N_2": {
+    "korean": "돌격 앞으로! : 방어 관통 {0}%",
+    "english": "Charge Forward! : DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_21": {
+    "korean": "저돌 : 피해량 {0}%",
+    "english": "Headlong charge : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_3P_Galatea_N_21": {
+    "korean": "저돌 : 방어력 강화 효과 해제",
+    "english": "Headlong charge : DEF Buff Removal"
+  },
+  "BuffDesc3_Effect_3P_Galatea_N_21": {
+    "korean": "방어력 강화 효과 해제",
+    "english": "DEF Buff Removal"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_22": {
+    "korean": "육박 : 피해량 {0}%",
+    "english": "Close combat : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_3P_Galatea_N_22": {
+    "korean": "육박 : 행동력 강화 효과 해제",
+    "english": "Close combat : SPD Buff Removal"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_23": {
+    "korean": "아야야…. : 공격력 {0}% 고정 피해",
+    "english": "Ouch…. : Attack {0}% fixed damage"
+  },
+  "BuffDesc2_Effect_3P_Galatea_N_23": {
+    "korean": "돌파 : 해로운 효과 해제",
+    "english": "Breakthrough : Debuff Removal"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_24": {
+    "korean": "아야야…. : 공격력 {0}% 고정 피해",
+    "english": "Ouch…. : Attack {0}% fixed damage"
+  },
+  "BuffDesc2_Effect_3P_Galatea_N_24": {
+    "korean": "돌파 : 해로운 효과 해제",
+    "english": "Breakthrough : Debuff Removal"
+  },
+  "BuffDesc3_Effect_3P_Galatea_N_24": {
+    "korean": "돌격 앞으로! : 방어 관통 {0}%",
+    "english": "Charge forward! : DEF Penetration {0}%"
+  },
+  "SkillName_Skill_3P_Galatea_N_3": {
+    "korean": "함대원형진",
+    "english": "Fleet Circling Formation"
+  },
+  "SkillDesc_Skill_3P_Galatea_N_3": {
+    "korean": "라운드 개시 시, 아군 지원기를 지정 보호하고 방어막을 부여합니다. 자신 또한 동일한 수치의 방어막을 획득합니다.&n라운드 개시 시, 자신이 지정 보호 중인 아군이 중열에 위치한 경우, 대상의 행동력을, 후열에 위치한 경우 공격력을 증가시킵니다.&n<엠피트리테>의 <지휘 전파> 효과를 받는 아군 공격기에게도 동일한 지정 보호와 방어막을 부여합니다.&n<살라시아>의 <시아, 엄~청 세!> 기능 중 공격기 1기당 추가되는 효과에 자신을 공격기 취급하여 버프 효과에 합산합니다.",
+    "english": "At the start of round, designates a Supporter ally for protection and grants a Barrier. The user also gains a Barrier of equal value.&nIf the protected ally is in the middle row, increases their SPD; if in the back row, increases their ATK.&nAlso grants the same protection and Barrier to Attacker allies who are receiving the <Command Transmission> effect from <Amphitrite>.&nCounts self as an Attacker for the additional effect per Attacker from <Shia, Super Strong!> of <Salacia>."
+  },
+  "SkillDescSimple_Skill_3P_Galatea_N_3": {
+    "korean": "아군 지원기 지정 보호 / 방어막. 조건부 아군 행동력 / 공격력 증가. <엠피트리테> / <살라시아> 편성 추가 효과.",
+    "english": "Target Protect a Supporter ally and grants a Barrier.&nConditionally increases allies’ SPD and ATK.&nAdditional effects when <Amphitrite> or <Salacia> are in the squad."
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_3": {
+    "korean": "함대원형진 : 지정 보호",
+    "english": "Fleet Circling Formation : Target Protect"
+  },
+  "BuffDesc2_Effect_3P_Galatea_N_3": {
+    "korean": "함대원형진 : 방어막 {0}",
+    "english": "Fleet Circling Formation : Barrier {0}"
+  },
+  "BuffDesc3_Effect_3P_Galatea_N_3": {
+    "korean": "함대원형진 : 행동력 {0}% (중열)",
+    "english": "Fleet Circling Formation : SPD {0}% (Mid Row)"
+  },
+  "BuffDesc4_Effect_3P_Galatea_N_3": {
+    "korean": "함대원형진 : 공격력 {0}% (후열)",
+    "english": "Fleet Circling Formation : ATK {0}% (Back Row)"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_31": {
+    "korean": "함대원형진 : 방어막 {0}",
+    "english": "Fleet Circling Formation : Barrier {0}"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_32": {
+    "korean": "함대원형진 : 지정 보호",
+    "english": "Fleet Circling Formation : Target Protect"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_33": {
+    "korean": "함대원형진 : 행동력 {0}%",
+    "english": "Fleet Circling Formation : SPD {0}%"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_34": {
+    "korean": "함대원형진 : 공격력 {0}%",
+    "english": "Fleet Circling Formation : ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_35": {
+    "korean": "함대원형진 : 방어막 {0}",
+    "english": "Fleet Circling Formation : Barrier {0}"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_36": {
+    "korean": "함대원형진 : 방어막 {0}",
+    "english": "Fleet Circling Formation : Barrier {0}"
+  },
+  "SkillName_Skill_3P_Galatea_N_4": {
+    "korean": "다목적 벌지",
+    "english": "Multipurpose Bulge"
+  },
+  "SkillDesc_Skill_3P_Galatea_N_4": {
+    "korean": "라운드 개시 시, 자신은 행 보호 효과를 획득하고 방어력 / HP 비례 방어 관통 저항이 증가합니다.&n라운드 개시 시, 자신이 받는 피해 감소 강화 효과를 보유한 경우, 방어력이 추가로 증가합니다.&n라운드 개시 시, 자신이 공격 지원 강화 효과를 보유한 경우, HP 비례 방어 관통 저항이 추가로 증가합니다.",
+    "english": "At the start of round, gains Row Protect and increases DEF and HP-scaled DEF Penetration Resistance.&nIf the user has a DMG Reduction buff, DEF is further increased.&nIf the user has an Follow-Up Attack buff, HP-scaled DEF Penetration Resistance is further increased."
+  },
+  "SkillDescSimple_Skill_3P_Galatea_N_4": {
+    "korean": "자신 행 보호 / 방어력 / HP 비례 방어 관통 저항 증가. 조건부 추가 효과.",
+    "english": "Row Protect self, increase DEF and HP-scaled DEF Penetration Resistance. Conditional additional effects."
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_4": {
+    "korean": "다목적 벌지 : 행 보호",
+    "english": "Multipurpose Bulge : Row Protect"
+  },
+  "BuffDesc2_Effect_3P_Galatea_N_4": {
+    "korean": "다목적 벌지 : 방어력 {0}%",
+    "english": "Multipurpose Bulge : DEF {0}%"
+  },
+  "BuffDesc3_Effect_3P_Galatea_N_4": {
+    "korean": "다목적 벌지 : 방어 관통 저항 {0}% (최대)",
+    "english": "Multipurpose Bulge: Defense Penetration Resistance {0}% (Max)"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_41": {
+    "korean": "다목적 벌지 : 방어력 {0}%",
+    "english": "Multipurpose Bulge : DEF {0}%"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_42": {
+    "korean": "다목적 벌지 : 방어력 {0}% (추가)",
+    "english": "Multipurpose Bulge: Defense {0}% (Additional)"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_43": {
+    "korean": "다목적 벌지 : 방어 관통 저항 {0}% (최대)",
+    "english": "Multipurpose Bulge: Defense Penetration Resistance {0}% (Max)"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_44": {
+    "korean": "다목적 벌지 : 방어 관통 저항 {0}% (추가)",
+    "english": "Multipurpose Bulge: Defense Penetration Resistance {0}% (Additional)"
+  },
+  "SkillName_Skill_3P_Galatea_N_5": {
+    "korean": "영웅의 기상",
+    "english": "Heroic Virtue"
+  },
+  "SkillDesc_Skill_3P_Galatea_N_5": {
+    "korean": "라운드 개시 시, 받는 피해 증가 효과를 보유한 모든 적에게 1라운드 동안 행동력 감소 효과를 부여합니다.&n피격 시, <영웅의 기상>에 의한 행동력 감소 효과가 적용중인 대상에게 2라운드 동안 대 중장형 피해량 감소 효과를 부여합니다. (최대 3중첩)&n피격 시, <함대원형진>에 의한 방어막 효과가 적용중인 대상의 AP를 증가시킵니다.",
+    "english": "At the start of round, applies SPD Reduction for 1 round to all enemies that have a DMG Taken Increased effect.&nWhen hit, applies Anti-Heavy DMG reduction for 2 rounds to targets affected by the SPD Reduction from <Heroic Virtue> (up to 3 stacks).&nWhen hit, increases the AP of targets that have a Barrier from <Fleet Circling Formation>."
+  },
+  "SkillDescSimple_Skill_3P_Galatea_N_5": {
+    "korean": "받는 피해 증가 대상 행동력 감소. 피격 시, 조건부 적 대 중장형 피해량 감소 / 아군 AP 증가.",
+    "english": "Reduces SPD of enemies with increased damage taken. When hit, conditionally reduces Heavy-Type damage taken from targets and increases allies’ AP."
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_5": {
+    "korean": "영웅의 기상 : 행동력 {0}%",
+    "english": "Heroic Virtue : SPD {0}%"
+  },
+  "BuffDesc2_Effect_3P_Galatea_N_5": {
+    "korean": "영웅의 기상 : 대 중장형 피해량 {0}%",
+    "english": "Heroic Virtue : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc3_Effect_3P_Galatea_N_5": {
+    "korean": "영웅의 기상 : AP {0} (피격 시)",
+    "english": "Heroic Virtue: AP {0} (When Hit)"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_51": {
+    "korean": "영웅의 기상 : 대 중장형 피해량 {0}%",
+    "english": "Heroic Virtue : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_Galatea_N_52": {
+    "korean": "영웅의 기상 : AP {0}",
+    "english": "Heroic Virtue : AP {0}"
+  }
+}

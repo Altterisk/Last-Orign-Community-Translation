@@ -1,0 +1,74 @@
+{
+  "SkillName_Skill_MP_NightChickDEX13_N_1": {
+    "korean": "죽음의 냄새",
+    "english": "The Smell of Death"
+  },
+  "SkillName_Skill_MP_NightChickDEX13_N_2": {
+    "korean": "빛드는 구체",
+    "english": "Glowing Sphere"
+  },
+  "SkillName_Skill_MP_NightChickDEX13_N_3": {
+    "korean": "이제 함께 빛나",
+    "english": "Now Shine Together"
+  },
+  "SkillName_Skill_MP_NightChickDEX13_N_4": {
+    "korean": "나쁜 벌레 제거",
+    "english": "Get Rid of Bad Bugs"
+  },
+  "SkillDesc_Skill_MP_NightChickDEX13_N_1": {
+    "korean": "목표를 공격 대상으로 지정해 {0} 화염 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 / 방어력 감소 상태로 만듭니다.",
+    "english": "Designate a target as the attack focus, dealing {0} Fire damage and applying Marked, DMG Taken Increased, and DEF reduction for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_NightChickDEX13_N_2": {
+    "korean": "지정한 위치에 섬광탄을 발사해 {0} 화염 피해를 주고, 2라운드 동안 적중 / 회피/ 행동력을 낮춥니다",
+    "english": "Fire a flashbang at the designated location, dealing {0} Fire damage and reducing ACC, EVA, and SPD for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_NightChickDEX13_N_3": {
+    "korean": "라운드 개시시, 2라운드 동안 아군 전체의 방어력/ 전기 저항/ 냉기 저항을 증가시킵니다.",
+    "english": "At the start of the round, increase DEF, Electric Resist, and Cold Resist of all allies for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_NightChickDEX13_N_4": {
+    "korean": "자신에게 가해지는 위해를 차단합니다. 전투 시작시 피해 무효화 2회를 얻습니다.",
+    "english": "Block any harm directed at yourself. At the start of battle, gain 2 uses of Damage Nullification."
+  },
+  "BuffDesc1_Effect_MP_NightChickDEX13_N_1": {
+    "korean": "죽음의 냄새: 받는 피해 {0}%",
+    "english": "The Smell of Death : DMG Taken {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChickDEX13_N_1": {
+    "korean": "죽음의 냄새 : 방어력 {0}%",
+    "english": "The Smell of Death : DEF {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickDEX13_N_1": {
+    "korean": "죽음의 냄새 : 표식 지정",
+    "english": "The Smell of Death : Marks target"
+  },
+  "BuffDesc1_Effect_MP_NightChickDEX13_N_2": {
+    "korean": "빛드는 구체 : 적중 {0}%",
+    "english": "Glowing Sphere : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChickDEX13_N_2": {
+    "korean": "빛드는 구체 : 회피 {0}%",
+    "english": "Glowing Sphere : EVA {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickDEX13_N_2": {
+    "korean": "빛드는 구체 : 행동력 {0}%",
+    "english": "Glowing Sphere : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickDEX13_N_3": {
+    "korean": "이제 함께 빛나: 방어력 {0}%",
+    "english": "Now Shine Together : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_NightChickDEX13_N_3": {
+    "korean": "이제 함께 빛나: 냉기 저항 {0}%",
+    "english": "Now Shine Together : Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_MP_NightChickDEX13_N_3": {
+    "korean": "이제 함께 빛나: 전기 저항 {0}%",
+    "english": "Now Shine Together : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_MP_NightChickDEX13_N_4": {
+    "korean": "나쁜 벌레 제거 : 피해 무효화 {0}회",
+    "english": "Get Rid of Bad Bugs : Damage Nullification {0}x"
+  }
+}

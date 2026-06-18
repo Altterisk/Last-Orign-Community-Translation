@@ -1,0 +1,194 @@
+{
+  "SkillName_Skill_PECS_Tiequan_N_1": {
+    "korean": "탄지신통",
+    "english": "Divine Thunder Strike"
+  },
+  "SkillName_Skill_PECS_Tiequan_N_2": {
+    "korean": "백보신권",
+    "english": "Hundred-Step Divine Fist"
+  },
+  "SkillName_Skill_PECS_Tiequan_N_3": {
+    "korean": "정금백련",
+    "english": "Pure Golden Lotus"
+  },
+  "SkillName_Skill_PECS_Tiequan_N_4": {
+    "korean": "발경",
+    "english": "Shockwave Palm"
+  },
+  "SkillName_Skill_PECS_Tiequan_N_5": {
+    "korean": "사량발천근",
+    "english": "Heaven-Slaying Four-Limbed Strike"
+  },
+  "SkillDesc_Skill_PECS_Tiequan_N_1": {
+    "korean": "유탄을 차 날려 {0} 피해를 줍니다. 치명타 시, 피해량이 증가합니다. 적중 시, 대상의 반격 강화 효과를 해제합니다.",
+    "english": "Kick a grenade to deal {0} damage. On CRIT, damage is increased. On hit, removes the target's Counterattack enhancement effect."
+  },
+  "SkillDescSimple_Skill_PECS_Tiequan_N_1": {
+    "korean": "단일 대상 {0} 피해. 치명타 시, 피해량 증가. 적중 시, 반격 해제.",
+    "english": "damage increased. Hit: Counterattack removed."
+  },
+  "SkillDesc_Skill_PECS_Tiequan_N_2": {
+    "korean": "정권지르기로 {0} 방어 관통 피해를 줍니다. 대상이 전열에 가까울 수록 피해량이 증가합니다.",
+    "english": "Deliver a straight punch to deal {0} DEF Penetration damage. The closer the target is to the frontline, the greater the damage."
+  },
+  "SkillDescSimple_Skill_PECS_Tiequan_N_2": {
+    "korean": "단일 대상 {0} 피해. 방어 관통. 전열에 가까운 대상 피해량 증가.",
+    "english": "Single target {0} damage / DEF Penetration / Increased damage against targets closer to the front row."
+  },
+  "SkillDesc_Skill_PECS_Tiequan_N_3": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 적중이 증가합니다.&n적 공격 시, 적 처치 시, 공격 당할 시마다 해당 수치의 50% 만큼의 공격력 / 적중 증가 효과를 영구 획득합니다. (각 최대 3중첩)&n적 공격 시, 자신의 AP가 증가합니다. 치명타 시, 추가로 해당 수치의 50% 만큼 자신의 AP가 증가합니다. &nAP 증가 효과는 각 액티브 스킬 레벨에 비례합니다.",
+    "english": "At the start of the round, increases the user's ATK / ACC. Each time the user attacks an enemy, defeats an enemy, or is attacked, they permanently gain an additional 50% of the above ATK / ACC buff (up to 3 stacks each). When attacking an enemy, the user's AP increases. On CRIT, the user additionally gains AP equal to 50% of the above amount. AP gain scales with each active skill's level."
+  },
+  "SkillDescSimple_Skill_PECS_Tiequan_N_3": {
+    "korean": "공격력 / 적중 증가. 조건에 따라 공격력 / 적중 추가 증가. 공격 / 치명타 시, AP 증가.",
+    "english": "ATK / ACC increase. Additional ATK / ACC increase based on conditions. ATK / CRIT: AP increase."
+  },
+  "SkillDesc_Skill_PECS_Tiequan_N_4": {
+    "korean": "라운드 개시 시, 자신의 사거리가 증가합니다. 스킬 레벨 10에서 사거리가 추가로 증가합니다.&n라운드 개시 시, 자신의 행동력이 증가합니다.&n라운드 개시 시, 자신의 최대 행동 횟수가 1 증가합니다.",
+    "english": "At the start of the round, increases the user's Range. At skill level 10, Range increases further. Also increases the user's SPD at the start of the round. Additionally, increases the user's Max Action by 1."
+  },
+  "SkillDescSimple_Skill_PECS_Tiequan_N_4": {
+    "korean": "사거리 / 행동력 / 최대 행동 횟수 증가.",
+    "english": "Range / SPD / Max Action increase."
+  },
+  "SkillDesc_Skill_PECS_Tiequan_N_5": {
+    "korean": "깨달음을 얻은 티에치엔의 모든 공격은 대상의 방어력을 무시합니다.&n<백보신권>의 방어 관통 효과가 방어막/받는 피해 감소 무시 효과로 변환됩니다.&n라운드 개시 시, 자신의 대 중장형 피해량이 증가합니다.",
+    "english": "All attacks from the enlightened Tien-Chien ignore the target's DEF. The armor penetration effect of <Hundred-Step Divine Fist> is converted to an effect that ignores Barrier and DMG Reduction. At the start of the round, increases own Anti-Heavy DMG."
+  },
+  "SkillDescSimple_Skill_PECS_Tiequan_N_5": {
+    "korean": "모든 공격 방어 무시. 대 중장형 피해량 증가.",
+    "english": "All attacks ignore DEF. Anti-Heavy DMG increase."
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_51": {
+    "korean": "철우공 : 방어막/받는 피해 감소 무시",
+    "english": "Iron Feather Strike : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_5": {
+    "korean": "사량발천근 : 방어력 무시",
+    "english": "Saryangbalcheongeun : Ignore DEF"
+  },
+  "BuffDesc2_Effect_PECS_Tiequan_N_5": {
+    "korean": "철우공 : 방어막/받는 피해 감소 무시",
+    "english": "Iron Arm Technique : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_1": {
+    "korean": "탄지신통 : 피해량 {0}%",
+    "english": "Flick Technique : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Tiequan_N_1": {
+    "korean": "탄지신통 : 반격 해제",
+    "english": "Flick Technique : Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_11": {
+    "korean": "탄지신통 : 반격 해제",
+    "english": "Flick Technique : Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_31": {
+    "korean": "정금백련 : AP {0}",
+    "english": "Pure Golden Lotus : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_32": {
+    "korean": "정금백련 : AP {0}",
+    "english": "Pure Golden Lotus : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_2": {
+    "korean": "백보신권 : 방어 관통 {0}%",
+    "english": "Hundred-Step Divine Fist : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Tiequan_N_2": {
+    "korean": "백보신권 : 피해량 {0}% (최대)",
+    "english": "Hundred-Step Divine Fist : Additional DMG {0}% (Max)"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_21": {
+    "korean": "급소 공격 : 피해량 {0}%",
+    "english": "Vital Strike : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_22": {
+    "korean": "급소 공격 : 피해량 {0}%",
+    "english": "Vital Strike : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_23": {
+    "korean": "급소 공격 : 피해량 {0}%",
+    "english": "Vital Strike : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_3": {
+    "korean": "정금백련 : 공격력 {0}%",
+    "english": "Pure Golden Lotus : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Tiequan_N_3": {
+    "korean": "정금백련 : 적중 {0}%",
+    "english": "Pure Golden Lotus : ACC {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Tiequan_N_3": {
+    "korean": "정금백련 : AP {0} (공격 시)",
+    "english": "Pure Golden Lotus : AP {0} (On Attack)"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_33": {
+    "korean": "마안공 : 공격력 {0}%",
+    "english": "Evil Eye Strike : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_34": {
+    "korean": "정권공 : 공격력 {0}%",
+    "english": "True Fist : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_35": {
+    "korean": "철포삼공 : 공격력 {0}%",
+    "english": "Iron Cannon Triple : ATK {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_36": {
+    "korean": "마안공 : 적중 {0}%",
+    "english": "Evil Eye Strike : ACC {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_37": {
+    "korean": "정권공 : 적중 {0}%",
+    "english": "True Fist : ACC {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_38": {
+    "korean": "철포삼공 : 적중 {0}%",
+    "english": "Iron Cannon Triple : ACC {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_39": {
+    "korean": "수기이시 : 공격력 {0}",
+    "english": "Su Gi Yi Shi : ATK {0}"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_4": {
+    "korean": "양광수 : 사거리 {0}",
+    "english": "Yang Guangshu : Range {0}"
+  },
+  "BuffDesc2_Effect_PECS_Tiequan_N_4": {
+    "korean": "비첨주벽법 : 행동력 {0}%",
+    "english": "Flying Step Technique : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Tiequan_N_4": {
+    "korean": "일지선공 : 최대 행동 횟수 {0}",
+    "english": "Preemptive Strike : Max Action {0}"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_42": {
+    "korean": "비첨주벽법 : 행동력 {0}%",
+    "english": "Flying Step Technique : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_43": {
+    "korean": "일지선공 : 최대 행동 횟수 {0}",
+    "english": "Preemptive Strike : Max Action {0}"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_41": {
+    "korean": "양광수 : 사거리 {0}",
+    "english": "Yang Guangshu : Range {0}"
+  },
+  "BuffDesc2_Effect_PECS_Tiequan_N_41": {
+    "korean": "비첨주벽법 : 행동력 {0}%",
+    "english": "Flying Step Technique : SPD {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Tiequan_N_41": {
+    "korean": "일지선공 : 최대 행동 횟수 {0}",
+    "english": "Preemptive Strike : Max Action {0}"
+  },
+  "BuffDesc3_Effect_PECS_Tiequan_N_5": {
+    "korean": "발산개세 : 대 중장형 피해량 증가 {0}%",
+    "english": "Explosive Force Unleashed : Anti-Heavy DMG {0}% Increase"
+  },
+  "BuffDesc1_Effect_PECS_Tiequan_N_52": {
+    "korean": "발산개세 : 대 중장형 피해량 증가 {0}%",
+    "english": "Explosive Force Unleashed : Anti-Heavy DMG {0}% Increase"
+  }
+}

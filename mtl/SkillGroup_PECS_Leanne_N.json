@@ -1,0 +1,238 @@
+{
+  "1002706973": {
+    "korean": "위협사격",
+    "english": "Warning Shot"
+  },
+  "1002706974": {
+    "korean": "본부 지원 요청",
+    "english": "HQ Support Request"
+  },
+  "1002706975": {
+    "korean": "열혈 형사",
+    "english": "Hot-Blooded Detective"
+  },
+  "1002706976": {
+    "korean": "외부 정보망",
+    "english": "External Intelligence Network"
+  },
+  "1002706977": {
+    "korean": "정의 집행",
+    "english": "Execution of Justice"
+  },
+  "1002707020": {
+    "korean": "적에게 {0} 보호 무시 피해를 주고 표식을 남깁니다. 피격된 적은 공격력과 회피가 감소합니다. 스쿼드 내 미스세이프티가 있을 시, 대상에게 <고압 가스탄> 스킬 협동 공격을 합니다.",
+    "english": "Deals {0} Ignore Protection damage and applies a Marked. The struck enemy has ATK and EVA reduced. If Miss Safety is in the squad, performs a coordinated attack with the skill <High-Pressure Gas Grenade>."
+  },
+  "1002707067": {
+    "korean": "단일 대상 {0} 보호무시 피해, 표식, 공격력/회피 감소/협동공격",
+    "english": "Deals {0} Ignore Protection damage to a single target, applies a Marked, reduces ATK and EVA, and triggers a coordinated attack."
+  },
+  "1002707021": {
+    "korean": "지정 범위의 적에게 {0} 보호 무시 피해를 주고, 공격력 / 모든 속성 저항 / 효과 저항을 감소시키며 받는 피해를 증가시킵니다.",
+    "english": "Deals {0} Ignore Protection damage to enemies in the designated area, reducing their ATK, all-element resistance and Status Resist, and increasing DMG Taken."
+  },
+  "1002707068": {
+    "korean": "지정 범위 {0} 보호무시 피해, 공격력/모든 속성 저항/효과 저항 감소, 받는 피해 증가",
+    "english": "Ignore Protection damage, ATK/All-element resistance/Status Resist reduced, DMG Taken Increased"
+  },
+  "1002707022": {
+    "korean": "전투 시작 시 자신의 AP가 증가합니다. 대기 시 자신의 AP / 모든 속성 저항 / 효과 저항이 증가하고 방어막이 생성됩니다.",
+    "english": "At the start of battle, increases own AP. While on standby, increases own AP, all-element resistance and Status Resist, and generates a Barrier."
+  },
+  "1002707069": {
+    "korean": "전투 시작 시 자신 AP 증가, 대기시 AP/모든 속성 저항/효과 저항 증가, 방어막 생성",
+    "english": "At the start of battle, increases own AP. While on standby, increases own AP, all-element resistance and Status Resist, and generates a Barrier."
+  },
+  "1002707023": {
+    "korean": "전투 시작 시 아군에게 정찰 효과를 부여합니다. 라운드 시작 시 아군의 회피 / 모든 속성 저항을 증가시키고, 받는 피해를 감소시킵니다.",
+    "english": "At the start of battle, grants Recon Effect to allies. At the start of each round, increases allies' EVA and all-element resistance, and reduces DMG Taken."
+  },
+  "1002707070": {
+    "korean": "아군 정찰 효과, 회피/모든 속성 저항 증가, 받는 피해 감소",
+    "english": "Recon Effect, EVA/All-element resistance increased, DMG Reduction"
+  },
+  "1002707024": {
+    "korean": "라운드 개시 시, 범위 내 적에게 공격력 증감 / 회피 증감 / 속성 저항 증감 / 받는 피해 증가 효과가 적용된 상태면 관련 정보를 공유해 능력치를 낮추거나 받는 피해를 증가시킵니다.",
+    "english": "At the start of the round, if enemies within range have ATK/EVA/all-element resistance/DMG Taken Increased effects, shares this information to lower their stats or further increase the damage they take."
+  },
+  "1002707071": {
+    "korean": "적 공격력/회피/속성 저항 증감, 받는 피해 증가 효과 적용 시 능력치 낮추거나 받는 피해 증가",
+    "english": "If enemies have ATK, EVA, all-element resistance, or DMG Taken Increased effects, their stats are further reduced or the damage they take is further increased."
+  },
+  "1000108734": {
+    "korean": "본부 지원 요청 : 모든 속성 저항력 {0}%",
+    "english": "HQ Support Request: All-element Resistance {0}%"
+  },
+  "1000108704": {
+    "korean": "본부 지원 요청 : 화염 속성 저항력 {0}%",
+    "english": "HQ Support Request: Fire Resistance {0}%"
+  },
+  "1000108705": {
+    "korean": "본부 지원 요청 : 냉기 속성 저항력 {0}%",
+    "english": "HQ Support Request: Cold Resistance {0}%"
+  },
+  "1000108706": {
+    "korean": "본부 지원 요청 : 전기 속성 저항력 {0}%",
+    "english": "HQ Support Request: Electric Resistance {0}%"
+  },
+  "1000108711": {
+    "korean": "열혈 형사 : 화염 속성 저항{0}%(대기)",
+    "english": "Hot-Blooded Detective: Fire Resistance {0}% (On Standby)"
+  },
+  "1000108712": {
+    "korean": "열혈 형사 : 냉기 속성 저항{0}%(대기)",
+    "english": "Hot-Blooded Detective: Cold Resistance {0}% (On Standby)"
+  },
+  "1000108713": {
+    "korean": "열혈 형사 : 전기 속성 저항{0}%(대기)",
+    "english": "Hot-Blooded Detective: Electric Resistance {0}% (On Standby)"
+  },
+  "1000108717": {
+    "korean": "외부 정보망 : 화염 속성 저항{0}%",
+    "english": "External Intelligence Network: Fire Resistance {0}%"
+  },
+  "1000108718": {
+    "korean": "외부 정보망 : 냉기 속성 저항{0}%",
+    "english": "External Intelligence Network: Cold Resistance {0}%"
+  },
+  "1000108719": {
+    "korean": "외부 정보망 : 전기 속성 저항{0}%",
+    "english": "External Intelligence Network: Electric Resistance {0}%"
+  },
+  "1000108722": {
+    "korean": "정의 집행 : 화염 속성 저항 {0}%",
+    "english": "Execution of Justice: Fire Resistance {0}%"
+  },
+  "1000108723": {
+    "korean": "정의 집행 : 냉기 속성 저항 {0}%",
+    "english": "Execution of Justice: Cold Resistance {0}%"
+  },
+  "1000108724": {
+    "korean": "정의 집행 : 전기 속성 저항 {0}%",
+    "english": "Execution of Justice: Electric Resistance {0}%"
+  },
+  "1000108696": {
+    "korean": "위협사격 : 표식 지정",
+    "english": "Warning Shot : Marks target"
+  },
+  "1000108733": {
+    "korean": "위협사격 : 공격력 {0}%",
+    "english": "Warning Shot : ATK {0}%"
+  },
+  "1000108747": {
+    "korean": "위협사격 : 회피 {0}%",
+    "english": "Warning Shot : EVA {0}%"
+  },
+  "1000109161": {
+    "korean": "위협사격 : 협동 공격",
+    "english": "Warning Shot : Cooperative Attack"
+  },
+  "1000108701": {
+    "korean": "위협사격 : 공격력 {0}%",
+    "english": "Warning Shot : ATK {0}%"
+  },
+  "1000108702": {
+    "korean": "위협사격 : 회피 {0}%",
+    "english": "Warning Shot : EVA {0}%"
+  },
+  "1000108697": {
+    "korean": "본부 지원 요청 : 공격력 {0}%",
+    "english": "Requesting HQ Support : ATK {0}%"
+  },
+  "1000108748": {
+    "korean": "본부 지원 요청 : 효과 저항{0}% 감소",
+    "english": "Requesting HQ Support : Status Resist {0}% Decrease"
+  },
+  "1000108752": {
+    "korean": "본부 지원 요청 : 받는 피해{0}%",
+    "english": "Requesting HQ Support : DMG Taken {0}%"
+  },
+  "1000108703": {
+    "korean": "본부 지원 요청 : 공격력{0}%",
+    "english": "Requesting HQ Support : ATK {0}%"
+  },
+  "1000108707": {
+    "korean": "본부 지원 요청 : 효과 저항{0}% 감소",
+    "english": "Requesting HQ Support : Status Resist {0}% Decrease"
+  },
+  "1000108708": {
+    "korean": "본부 지원 요청 : 받는 피해{0}%",
+    "english": "Requesting HQ Support : DMG Taken {0}%"
+  },
+  "1000108698": {
+    "korean": "열혈 형사 : AP{0}",
+    "english": "Hot-Blooded Detective : AP {0}"
+  },
+  "1000108735": {
+    "korean": "열혈 형사 : 방어막{0}",
+    "english": "Hot-Blooded Detective : Barrier {0}"
+  },
+  "1000108738": {
+    "korean": "열혈 형사 : 모든 속성 저항{0}%",
+    "english": "Hot-Blooded Detective : Elemental Resist {0}%"
+  },
+  "1000108739": {
+    "korean": "열혈 형사 : 효과 저항{0}%",
+    "english": "Hot-Blooded Detective : Status Resist {0}%"
+  },
+  "1000108709": {
+    "korean": "열혈 형사 : AP{0}(대기)",
+    "english": "Hot-Blooded Detective : AP {0} (On Standby)"
+  },
+  "1000108710": {
+    "korean": "열혈 형사 : 방어막{0}(대기)",
+    "english": "Hot-Blooded Detective : Barrier {0} (On Standby)"
+  },
+  "1000108714": {
+    "korean": "열혈 형사 : 효과 저항{0}%(대기)",
+    "english": "Hot-Blooded Detective : Status Resist {0}% (On Standby)"
+  },
+  "1000108699": {
+    "korean": "외부 정보망 : 정찰 활성화",
+    "english": "External Intelligence Network : Activate Recon Effect"
+  },
+  "1000108749": {
+    "korean": "외부 정보망 : 회피{0}%",
+    "english": "External Intelligence Network : EVA {0}%"
+  },
+  "1000108753": {
+    "korean": "외부 정보망 : 모든 속성 저항{0}%",
+    "english": "External Intelligence Network : Elemental Resist {0}%"
+  },
+  "1000108756": {
+    "korean": "외부 정보망 : 받는 피해{0}%",
+    "english": "External Intelligence Network : DMG Taken {0}%"
+  },
+  "1000108716": {
+    "korean": "외부 정보망 : 회피{0}%",
+    "english": "External Intelligence Network : EVA {0}%"
+  },
+  "1000108720": {
+    "korean": "외부 정보망 : 받는 피해{0}% 감소",
+    "english": "External Intelligence Network : DMG Reduction {0}%"
+  },
+  "1000108700": {
+    "korean": "정의 집행 : 공격력 {0}%",
+    "english": "Execution of Justice : ATK {0}%"
+  },
+  "1000108737": {
+    "korean": "정의 집행 : 회피 {0}%",
+    "english": "Execution of Justice : EVA {0}%"
+  },
+  "1000108750": {
+    "korean": "정의 집행 : 모든 속성 저항 {0}%",
+    "english": "Execution of Justice : Elemental Resist {0}%"
+  },
+  "1000108754": {
+    "korean": "정의 집행 : 받는 피해{0}%",
+    "english": "Execution of Justice : DMG Taken {0}%"
+  },
+  "1000108721": {
+    "korean": "정의 집행 : 회피 {0}%",
+    "english": "Execution of Justice : EVA {0}%"
+  },
+  "1000108725": {
+    "korean": "정의 집행 : 받는 피해{0}%",
+    "english": "Execution of Justice : DMG Taken {0}%"
+  }
+}

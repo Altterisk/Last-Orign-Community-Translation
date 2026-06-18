@@ -1,0 +1,234 @@
+{
+  "SkillName_Skill_BR_Undine_N_1": {
+    "korean": "2연장 리볼버 캐논",
+    "english": "Twin Revolver Cannon"
+  },
+  "SkillDesc_Skill_BR_Undine_N_1": {
+    "korean": "리볼버 캐논으로 단일 대상에게 {0} 피해를 주고, 2라운드 동안 대상을 도발하며 적중 / 회피를 감소시킵니다. 치명타 시, 피해량이 증가합니다. 적중 시, 스킬 위력이 최대 2회까지 증가합니다.",
+    "english": "Deals {0} damage to a single target with the Twin Revolver Cannon, Provokes the target for 2 rounds and reduces its ACC and EVA. Damage is increased on CRIT. On hit, Skill Power increases up to 2 times."
+  },
+  "SkillDescSimple_Skill_BR_Undine_N_1": {
+    "korean": "단일 대상 {0} 피해. 도발 / 적중 / 회피 감소. 치명타 시, 피해량 증가. 적중 시, 스킬 위력 증가",
+    "english": "Single target {0} damage. Provoked / ACC / EVA Reduction. Damage increased on CRIT. Skill Power increased on hit"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_1": {
+    "korean": "2연장 리볼버 캐논 : 대상 도발 (운디네)",
+    "english": "Twin Revolver Cannon : Provokes Target (Undine)"
+  },
+  "BuffDesc2_Effect_BR_Undine_N_1": {
+    "korean": "2연장 리볼버 캐논 : 적중 {0}%",
+    "english": "Twin Revolver Cannon : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Undine_N_1": {
+    "korean": "2연장 리볼버 캐논 : 회피 {0}%",
+    "english": "Twin Revolver Cannon : EVA {0}%"
+  },
+  "BuffDesc4_Effect_BR_Undine_N_1": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Focused Strike : Additional DMG {0}%"
+  },
+  "BuffDesc5_Effect_BR_Undine_N_1": {
+    "korean": "우쭐해짐 : 스킬 위력 {0}%",
+    "english": "Puffed Up : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_20": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Focused Strike : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_16": {
+    "korean": "우쭐해짐 : 스킬 위력 {0}%",
+    "english": "Puffed Up : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_12": {
+    "korean": "우향선회? : 회피 {0}%",
+    "english": "Right Turn? : EVA {0}%"
+  },
+  "SkillName_Skill_BR_Undine_N_2": {
+    "korean": "F.F 미사일",
+    "english": "F.F. Missile"
+  },
+  "SkillDesc_Skill_BR_Undine_N_2": {
+    "korean": "날치 미사일로 {0} 피해를 줍니다. 대상이 표식 또는 도발 상태면 피해량이 증가합니다. <AG-2C 세이렌 : 포격 지휘> 또는 <MH-4 테티스 : 전술 공중중계> 효과가 적용된 상태인 경우, 공격 대상의 받는 피해 감소 효과를 해제합니다.",
+    "english": "Deals {0} damage with a Flying Fish Missile. If the target is Marked or Provoked, damage is increased. If under the effect of <AG-2C Siren : Bombardment Command> or <MH-4 Thetis : Tactical Air Relay>, removes the target’s DMG Reduction effects."
+  },
+  "SkillDescSimple_Skill_BR_Undine_N_2": {
+    "korean": "단일 대상 {0} 피해. 도발 / 표식 대상 피해량 증가",
+    "english": "Single target {0} damage. Provoked / Marked target damage increase"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_2": {
+    "korean": "집중 공격 : 피해량 {0}% (표식/도발 대상)",
+    "english": "Focused Attack: Damage {0}% (Marked / Provoked Target)"
+  },
+  "BuffDesc2_Effect_BR_Undine_N_2": {
+    "korean": "전술 대응 : 받는 피해 감소 해제 (조건부)",
+    "english": "Tactical Response: Remove DMG Reduction (Conditional)"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_17": {
+    "korean": "전술 대응 : 받는 피해 감소 해제",
+    "english": "Tactical Response : DMG Reduction Removal"
+  },
+  "SkillName_Skill_BR_Undine_N_3": {
+    "korean": "우향선회",
+    "english": "Right Turn"
+  },
+  "SkillDesc_Skill_BR_Undine_N_3": {
+    "korean": "라운드 개시 시 자신의 적중 / 치명타 / 회피가 증가하며, 범위 내 아군에게 지정 보호 / 적중 / 치명타 증가 효과가 적용됩니다. 적 공격 시, 2라운드 동안 회피가 추가로 증가합니다. 스쿼드에 <AG-1 네레이드><AG-2C 세이렌><MH-4 테티스> 중 1기라도 있으면, 범위 내 기동 / 중장형 아군의 공격을 지원합니다.",
+    "english": "At the start of the round, increases own ACC, CRIT and EVA, and grants Target Protect, ACC and CRIT increase to allies within range. When attacking an enemy, further increases own EVA for 2 rounds. If the squad contains any of <AG-1 Nereid>, <AG-2C Siren>, or <MH-4 Thetis>, provides Attack Support to Air and Heavy-type allies within range."
+  },
+  "SkillDescSimple_Skill_BR_Undine_N_3": {
+    "korean": "라운드 개시 시 회피 증가. 범위 내 아군 지정 보호 / 적중 / 치명타 증가",
+    "english": "Increases EVA. Grants Target Protect / ACC / CRIT to allies within range."
+  },
+  "BuffDesc1_Effect_BR_Undine_N_3": {
+    "korean": "우향선회 : 회피 {0}%  (자신)",
+    "english": "Right Turn : EVA {0}% (Self)"
+  },
+  "BuffDesc2_Effect_BR_Undine_N_3": {
+    "korean": "우향선회 : 지정 대상 보호",
+    "english": "Right Turn : Target Protect"
+  },
+  "BuffDesc3_Effect_BR_Undine_N_3": {
+    "korean": "<호라이즌> 편성 시 : 공격 지원 (기동/중장)",
+    "english": "When forming <Horizon> : Follow-Up Attack (Air/Heavy)"
+  },
+  "BuffDesc4_Effect_BR_Undine_N_3": {
+    "korean": "우향선회 : 적중 {0}%",
+    "english": "Right Turn : ACC {0}%"
+  },
+  "BuffDesc5_Effect_BR_Undine_N_3": {
+    "korean": "우향선회 : 치명타 {0}%",
+    "english": "Right Turn : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_13": {
+    "korean": "우향선회! : 공격 지원 (기동/중장)",
+    "english": "Right Turn! : Follow-Up Attack (Air/Heavy)"
+  },
+  "SkillName_Skill_BR_Undine_N_4": {
+    "korean": "오만과 분노",
+    "english": "Pride and Fury"
+  },
+  "SkillDesc_Skill_BR_Undine_N_4": {
+    "korean": "라운드 개시 시, 공격력 / 치명타 / 행동력 / 방어 관통이 증가합니다. 자신이 적을 처치하면 2라운드 동안 자신과 아군에게 공격력 / 치명타 / 행동력 증가 효과가 추가 적용되며, 자신의 회피가 최대 2회까지 증가합니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of the round, increases ATK, CRIT, SPD and DEF Penetration. When defeating an enemy, for 2 rounds grants additional ATK, CRIT and SPD to self and allies, and increases own EVA up to 2 times. Range increases at Skill Level 10."
+  },
+  "SkillDescSimple_Skill_BR_Undine_N_4": {
+    "korean": "공격력 / 치명타 / 방어 관통 / 행동력 증가. 적 처치 시, 회피 증가 / 아군에게도 효과 적용",
+    "english": "Increases ATK / CRIT / DEF Penetration / SPD. On kill: Increases EVA / Applies effects to allies"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_4": {
+    "korean": "오만과 분노? : 공격력 {0}%",
+    "english": "Pride and Fury? : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Undine_N_4": {
+    "korean": "오만과 분노? : 치명타 {0}%",
+    "english": "Pride and Fury? : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Undine_N_4": {
+    "korean": "오만과 분노? : 방어 관통 {0}%",
+    "english": "Pride and Fury? : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_BR_Undine_N_4": {
+    "korean": "오만과 분노? : 행동력 {0}%",
+    "english": "Pride and Fury? : SPD {0}%"
+  },
+  "BuffDesc5_Effect_BR_Undine_N_4": {
+    "korean": "잡아보세요~ : 회피 {0}% (적 처치 시)",
+    "english": "Try to Catch Me~: EVA {0}% (On Kill)"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_14": {
+    "korean": "잡아보세요~ : 회피 {0}%",
+    "english": "Try to Catch Me~ : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_15": {
+    "korean": "오만과 분노! : 공격력 {0}%",
+    "english": "Pride and Fury! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Undine_N_15": {
+    "korean": "오만과 분노! : 치명타 {0}%",
+    "english": "Pride and Fury! : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Undine_N_15": {
+    "korean": "오만과 분노! : 행동력 {0}%",
+    "english": "Pride and Fury! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_11": {
+    "korean": "우향선회 : 회피 {0}%",
+    "english": "Right Turn : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Undine_N_11": {
+    "korean": "우향선회 : 적중 {0}%",
+    "english": "Right Turn : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Undine_N_11": {
+    "korean": "우향선회 : 치명타 {0}%",
+    "english": "Right Turn : CRIT {0}%"
+  },
+  "SkillName_Skill_BR_Undine_N_5": {
+    "korean": "B.S.U 메뉴버",
+    "english": "B.S.U. Maneuver"
+  },
+  "SkillDesc_Skill_BR_Undine_N_5": {
+    "korean": "라운드 개시 시, 공격력 / 효과 저항 / 받는 피해 감소 / 사거리가 증가합니다. 자신을 제외한 <호라이즌> 부대원 1기 당 공격력 증가 / 받는 피해 감소 효과가 50%씩 추가 적용됩니다. 자신이 적 처치 시, 2라운드 동안 적 전체를 도발합니다.",
+    "english": "At the start of the round, increases ATK, Effect Resistance, DMG Reduction and Range. For each <Horizon> squad member excluding self, ATK and DMG Reduction effects are increased by 50%. When defeating an enemy, Provokes all enemies for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Undine_N_5": {
+    "korean": "공격력 / 효과 저항 / 받는 피해 감소 / 사거리 증가. 적 처치 시, 적 전체 도발",
+    "english": "Increases ATK / Effect Resistance / DMG Reduction / Range. On kill: Provokes all enemies"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_5": {
+    "korean": "B.S.U 메뉴버 : 공격력 {0}%",
+    "english": "B.S.U. Maneuver : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Undine_N_5": {
+    "korean": "B.S.U 메뉴버 : 효과 저항 {0}%",
+    "english": "B.S.U. Maneuver : Status Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_Undine_N_5": {
+    "korean": "B.S.U 메뉴버 : 받는 피해 감소 {0}%",
+    "english": "B.S.U. Maneuver : DMG Reduction {0}%"
+  },
+  "BuffDesc4_Effect_BR_Undine_N_5": {
+    "korean": "B.S.U 메뉴버 : 사거리 {0}",
+    "english": "B.S.U. Maneuver : Range {0}"
+  },
+  "BuffDesc5_Effect_BR_Undine_N_5": {
+    "korean": "운디네 최고~! : 적 도발 (적 처치 시)",
+    "english": "Undine is the best~! : Provoke enemies (On Kill)"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_51": {
+    "korean": "그럼...요? : 공격력 {0}%",
+    "english": "Then...? : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Undine_N_51": {
+    "korean": "그럼...요? : 받는 피해 감소 {0}%",
+    "english": "Then...? : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_52": {
+    "korean": "격추 승부? : 공격력 {0}%",
+    "english": "Shoot Down Showdown? : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Undine_N_52": {
+    "korean": "격추 승부? : 받는 피해 감소 {0}%",
+    "english": "Shoot Down Showdown? : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_53": {
+    "korean": "베스트셀러라고! : 공격력 {0}%",
+    "english": "It's a Bestseller! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Undine_N_53": {
+    "korean": "베스트셀러라고! : 받는 피해 감소 {0}%",
+    "english": "It's a Bestseller! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_54": {
+    "korean": "맡겨주세요~! : 공격력 {0}%",
+    "english": "Leave it to Me~! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Undine_N_54": {
+    "korean": "맡겨주세요~! : 받는 피해 감소 {0}%",
+    "english": "Leave it to Me~! : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_Undine_N_55": {
+    "korean": "운디네 최고~! : 대상 도발 (운디네)",
+    "english": "Undine the Best~!: Provokes Target (Undine)"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "SkillName_Skill_MP_MarionnetteDM_BOSS_TU_1": {
+    "korean": "표적 말살",
+    "english": "Target Annihilation"
+  },
+  "SkillName_Skill_MP_MarionnetteDM_BOSS_TU_2": {
+    "korean": "차세대 천공 탄환",
+    "english": "Next-Gen Piercing Bullet"
+  },
+  "SkillName_Skill_MP_MarionnetteDM_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입",
+    "english": "Toxic Enhancement Drug Injection"
+  },
+  "SkillName_Skill_MP_MarionnetteDM_BOSS_TU_4": {
+    "korean": "트리거 해피",
+    "english": "Trigger Happy"
+  },
+  "SkillName_Skill_MP_MarionnetteDM_BOSS_TU_5": {
+    "korean": "광란",
+    "english": "Frenzy"
+  },
+  "SkillDesc_Skill_MP_MarionnetteDM_BOSS_TU_1": {
+    "korean": "저격으로 {0} 피해를 줍니다. &n대상의 HP가 낮을수록 피해량이 증가하며, 대상이 표식 상태인 경우, 피해량이 추가로 증가하고 행동력을 감소시킵니다.",
+    "english": "Deals {0} damage with a sniper shot. Damage increases as the target's HP decreases, and if the target is Marked, damage is further increased and SPD is reduced."
+  },
+  "SkillDesc_Skill_MP_MarionnetteDM_BOSS_TU_2": {
+    "korean": "지정 범위의 적에게 특수 개조된 탄환을 발사하여 보호 무시 {0} 피해를 가합니다.&n대상이 표식 상태인 경우, 피해량이 대폭 증가하고, AP를 감소시킵니다.",
+    "english": "Fires a specially modified bullet at enemies within the designated range, dealing {0} damage that ignores protection. If the target is Marked, damage is greatly increased and AP is reduced."
+  },
+  "SkillDesc_Skill_MP_MarionnetteDM_BOSS_TU_3": {
+    "korean": "전투 개시 시, 유독성 강화약을 주입해 신체를 강화하여 이하의 해제 불가 효과를 획득합니다.&n자신이 받는 피해가 감소하고, 방어 관통이 증가하며, 광역 피해 분산이 적용됩니다.&n또한 행동 불능 / 스킬 사용 불가 / 사거리 감소 / AP 감소 / AP 변경 효과에 면역 상태가 됩니다.",
+    "english": "At the start of combat, inject a toxic booster to strengthen your body, granting the following unremovable effects: DMG Reduction, DEF Penetration, and Area DMG Dispersion. You also become immune to Stunned, Silenced, Range Reduction, AP Reduction, and AP Change effects."
+  },
+  "SkillDesc_Skill_MP_MarionnetteDM_BOSS_TU_4": {
+    "korean": "라운드 개시 시, 지정 범위의 아군의 공격을 지원합니다. 해당 효과는 강화 해제로 해제할 수 없습니다.&n자신의 공격이 적중하면, 영구적으로 범위 내 아군의 방어력 / 회피가 증가합니다. (최대 5중첩)",
+    "english": "At the start of a round, supports the attacks of allies within the designated range. This effect cannot be removed by buff removal. When your attack hits, allies within the range permanently gain increased DEF and EVA. (max 5 stacks)"
+  },
+  "SkillDesc_Skill_MP_MarionnetteDM_BOSS_TU_5": {
+    "korean": "산산이 부수어진 파리한 얼음처럼, 냉정하기 그지없는 광기에 물들어 모든 유형의 적에 대한 피해량이 증가하고 공격력이 증가합니다.&n해당 효과는 강화 해제로 해제할 수 없습니다.",
+    "english": "Like shattered, pale ice, tainted by an unceasingly cold madness, damage against all enemy types increases, and ATK is boosted. This effect cannot be removed by buff removal."
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_1": {
+    "korean": "표적 말살 : 적 HP 낮을수록 피해량 {0}%",
+    "english": "Target Annihilation: Damage increases by {0}% when enemy HP is lower"
+  },
+  "BuffDesc5_Effect_MP_MarionnetteDM_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : AP 변경 면역",
+    "english": "Toxic Enhancement Drug Injection : Immunity to AP Change"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_11": {
+    "korean": "표적 말살 : 피해량 {0}%",
+    "english": "Target annihilation : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_12": {
+    "korean": "표적 말살 : 행동력 {0}%",
+    "english": "Target annihilation : SPD {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_2": {
+    "korean": "차세대 천공 탄환 : 피해량 {0}%",
+    "english": "Next-generation piercing bullet : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_21": {
+    "korean": "차세대 천공 탄환 : AP {0}",
+    "english": "Next-generation piercing bullet : AP {0}"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입 : 받는 피해 {0}% 감소",
+    "english": "Injection of toxic reinforcing agent : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteDM_BOSS_TU_3": {
+    "korean": "유독성 강화약 주입 : 방어 관통 {0}% 증가",
+    "english": "Injection of toxic reinforcing agent : DEF Penetration {0}% Increase"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : 행동 불능 면역",
+    "english": "Injection of toxic reinforcing agent : Stunned Immunity"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteDM_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : 스킬 사용 불가 면역",
+    "english": "Injection of toxic reinforcing agent : Silenced Immunity"
+  },
+  "BuffDesc3_Effect_MP_MarionnetteDM_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : 사거리 감소 면역",
+    "english": "Injection of toxic reinforcing agent : Range Decrease Immunity"
+  },
+  "BuffDesc4_Effect_MP_MarionnetteDM_BOSS_TU_31": {
+    "korean": "유독성 강화약 주입 : AP 감소 면역",
+    "english": "Injection of toxic reinforcing agent : AP Decrease Immunity"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_32": {
+    "korean": "유독성 강화약 주입 : 광역 피해 분산 {0}% (최대)",
+    "english": "Injection of toxic reinforcing agent : Area DMG Dispersion {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_4": {
+    "korean": "트리거 해피 : 공격 지원",
+    "english": "Trigger Happy : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_41": {
+    "korean": "트리거 해피 : 방어력 {0}%",
+    "english": "Trigger Happy : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteDM_BOSS_TU_41": {
+    "korean": "트리거 해피 : 회피 {0}%",
+    "english": "Trigger Happy : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_5": {
+    "korean": "광란 : 대 경장형 피해량 {0}%",
+    "english": "Jazz : Anti-Light DMG {0}%"
+  },
+  "BuffDesc2_Effect_MP_MarionnetteDM_BOSS_TU_5": {
+    "korean": "광란 : 공격력 {0}%",
+    "english": "Jazz : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_51": {
+    "korean": "광란 : 대 중장형 피해량 {0}%",
+    "english": "Jazz : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_MarionnetteDM_BOSS_TU_52": {
+    "korean": "광란 : 대 기동형 피해량 {0}%",
+    "english": "Jazz : Anti-Air DMG {0}%"
+  }
+}

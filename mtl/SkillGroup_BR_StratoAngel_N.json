@@ -1,0 +1,102 @@
+{
+  "1002708259": {
+    "korean": "미사일 난사",
+    "english": "Missile Barrage"
+  },
+  "1002708264": {
+    "korean": "미사일을 난사해 지정 범위에 {0} 피해를 줍니다. 대상이 중장형인 경우 피해량이 증가합니다. 대상의 방어력을 일정 비율 무시합니다.",
+    "english": "Fires a barrage of missiles dealing {0} damage to the designated area. Damage is increased against Heavy-type targets and Ignores Protection."
+  },
+  "1002708269": {
+    "korean": "지정 범위 {0} 방어 관통 피해. 중장형에게 피해량 증가",
+    "english": "Deals {0} DEF Penetration damage to a designated area. Damage increases against Heavy-type enemies."
+  },
+  "1000110972": {
+    "korean": "미사일 난사 : 피해량{0}% (중장)",
+    "english": "Missile Barrage : Additional DMG {0}% (Heavy)"
+  },
+  "1000110976": {
+    "korean": "대 장갑 미사일 : 방어 관통{0}%",
+    "english": "Anti-Armor Missile : DEF Penetration {0}%"
+  },
+  "1002708260": {
+    "korean": "고고도 폭격",
+    "english": "High-Altitude Bombing"
+  },
+  "1002708265": {
+    "korean": "미사일 폭격으로 대상 지점에 {0} 보호 무시 피해를 줍니다. 대상의 방어력을 일정 비율 무시하며, 표식 / 이동 불가 상태면 피해량이 증가합니다.",
+    "english": "Bombards the target area with missiles dealing {0} damage that penetrates DEF and Ignores Protection. Damage is increased against Marked or Rooted targets."
+  },
+  "1002708270": {
+    "korean": "목표 지점 {0} 방어 관통 피해. 보호 무시. 표식 / 이동 불가 대상 피해량 증가",
+    "english": "Deals {0} DEF Penetration damage to the target area, Ignores Protection. Damage increases against Marked or Rooted targets."
+  },
+  "1000110973": {
+    "korean": "고고도 폭격 : 피해량{0}%",
+    "english": "High-Altitude Bombing : Additional DMG {0}%"
+  },
+  "1002708261": {
+    "korean": "전략적 운용",
+    "english": "Strategic Deployment"
+  },
+  "1002708266": {
+    "korean": "중열 또는 후열에 있는 경우, 1스킬 사용 후 행동력이 증가하고, 2스킬 사용 후 스킬 위력이 증가합니다. 행동력은 후열에 있을 때, 스킬 위력은 중열에 있을 때 최대 수치로 적용되며, 반대의 경우 50%만 적용됩니다.",
+    "english": "When positioned in the middle or back row, using Skill 1 increases SPD, and using Skill 2 increases Skill Power. SPD gain is maximized in the back row, Skill Power is maximized in the middle row; otherwise each effect applies at 50%."
+  },
+  "1002708271": {
+    "korean": "중열 또는 후열인 경우, 행동력 / 스킬 위력 증가",
+    "english": "If positioned in the middle or back row, increases SPD and Skill Power."
+  },
+  "1000110974": {
+    "korean": "전략적 운용 : 행동력{0}% (중열)",
+    "english": "Strategic Operation : SPD {0}% (Mid Row)"
+  },
+  "1000110978": {
+    "korean": "전략적 운용 : 스킬 위력{0}% (중열)",
+    "english": "Strategic Operation : Skill Power {0}% (Mid Row)"
+  },
+  "1000110977": {
+    "korean": "전략적 운용 : 행동력{0}% (후열)",
+    "english": "Strategic Operation : SPD {0}% (Back Row)"
+  },
+  "1000110979": {
+    "korean": "전략적 운용 : 스킬 위력{0}% (후열)",
+    "english": "Strategic Operation : Skill Power {0}% (Back Row)"
+  },
+  "1002708262": {
+    "korean": "극도의 우월감",
+    "english": "Overwhelming Superiority"
+  },
+  "1002708267": {
+    "korean": "언제나 우월감에 가득찬 상태라 공격력 / 치명타 / 행동력이 증가합니다. 스쿼드에 나이트 앤젤이 있으면 해당 효과가 3배 추가 적용됩니다.",
+    "english": "Always filled with an overwhelming sense of superiority, increasing ATK, CRIT, and SPD. If Knight Angel is in the squad, this effect is applied 3×."
+  },
+  "1002708272": {
+    "korean": "공격력 / 치명타 / 행동력 증가. 스쿼드에 나이트 앤젤이 있으면 추가 증가",
+    "english": "Increases ATK, CRIT, and SPD. If Knight Angel is in the squad, the effect is further increased."
+  },
+  "1000110975": {
+    "korean": "극도의 우월감 : 공격력{0}%",
+    "english": "Extreme Superiority Complex : ATK {0}%"
+  },
+  "1000110983": {
+    "korean": "극도의 우월감 : 치명타{0}%",
+    "english": "Extreme Superiority Complex : CRIT {0}%"
+  },
+  "1000110985": {
+    "korean": "극도의 우월감 : 행동력{0}%",
+    "english": "Extreme Superiority Complex : SPD {0}%"
+  },
+  "1000110980": {
+    "korean": "압도적 우월감 : 공격력{0}%",
+    "english": "Overwhelming Superiority : ATK {0}%"
+  },
+  "1000110984": {
+    "korean": "압도적 우월감 : 치명타{0}%",
+    "english": "Overwhelming Superiority : CRIT {0}%"
+  },
+  "1000110986": {
+    "korean": "압도적 우월감 : 행동력{0}%",
+    "english": "Overwhelming Superiority : SPD {0}%"
+  }
+}

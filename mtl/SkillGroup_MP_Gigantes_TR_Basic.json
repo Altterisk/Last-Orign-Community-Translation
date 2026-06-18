@@ -1,0 +1,38 @@
+{
+  "SkillName_Skill_MP_Gigantes_TR_Basic_3": {
+    "korean": "훈련용 프로그램",
+    "english": "Training Program"
+  },
+  "1002703279": {
+    "korean": "대상을 강타해 {0} 피해를 주고, 일정 확률로 해당 라운드 동안 행동 불가 상태로 만듭니다.",
+    "english": "Strikes the target, dealing {0} damage, and has a certain probability of rendering them Stunned for the duration of the round."
+  },
+  "1002703280": {
+    "korean": "대상에게 돌진해 {0} 피해를 주고, 뒤로 1칸 밀며 대상에게 걸린 행 보호 또는 열 보호 효과를 해제합니다.",
+    "english": "Charge at the target, deal {0} damage, Push Back 1 square, and remove any Row Protect or Column Protect effects from them."
+  },
+  "SkillDesc_Skill_MP_Gigantes_TR_Basic_3": {
+    "korean": "훈련용 프로그램으로 치명타를 낮춥니다.&n정확한 훈련 내용을 위한 것이니 기분 나빠하지말아주세요.",
+    "english": "A training program that lowers CRIT.&nPlease don't be offended—it's for more precise training."
+  },
+  "1000102667": {
+    "korean": "행동 불능",
+    "english": "Stunned"
+  },
+  "1000102526": {
+    "korean": "뒤로 {0}칸 밀기",
+    "english": "Push Back {0}"
+  },
+  "1000104377": {
+    "korean": "행 보호 해제",
+    "english": "Row Protect Removal"
+  },
+  "1000105024": {
+    "korean": "열 보호 해제",
+    "english": "Column Protect Removal"
+  },
+  "BuffDesc1_Effect_MP_Gigantes_TR_Basic_3": {
+    "korean": "치명타 감소 : {0}%",
+    "english": "CRIT Reduction : {0}%"
+  }
+}

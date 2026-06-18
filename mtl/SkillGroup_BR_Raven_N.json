@@ -1,0 +1,250 @@
+{
+  "SkillName_Skill_BR_Raven_N_1": {
+    "korean": "디스크 봄",
+    "english": "Disk Bomb"
+  },
+  "SkillDesc_Skill_BR_Raven_N_1": {
+    "korean": "디스크 봄으로 {0} 보호 무시 피해를 주고, 대상의 방어력을 감소시킵니다.&n적중 대상이 경장/중장형인 경우, 대상의 방어력 강화 효과를 해제합니다.&n치명타 시, 대상의 보호 효과를 해제합니다.",
+    "english": "Deals {0} shield-piercing damage with Disk Bomb and reduces the target’s DEF. If the target is Light or Heavy-type, removes their DEF-enhancing effects. On a Critical Hit, removes the target’s shield effects."
+  },
+  "SkillDescSimple_Skill_BR_Raven_N_1": {
+    "korean": "지정 대상 {0} 보호 무시 피해. 경장 / 중장 방어력 강화 해제. 치명타 시, 보호 효과 해제.",
+    "english": "Deals {0} shield-piercing damage to the target. Removes DEF buffs from Light and Heavy-type units. On Critical Hit, removes shield effects."
+  },
+  "BuffDesc1_Effect_BR_Raven_N_1": {
+    "korean": "디스크 봄 : 방어력 {0}%",
+    "english": "Disk Bomb : DEF {0}%"
+  },
+  "BuffDesc2_Effect_BR_Raven_N_1": {
+    "korean": "디스크 봄 : 방어력 강화 해제 (경장/중장)",
+    "english": "Disk Bomb : Defense enhancement removed (Light/Heavy)"
+  },
+  "BuffDesc3_Effect_BR_Raven_N_1": {
+    "korean": "흡착 폭탄 : 보호 효과 해제",
+    "english": "Adhesive Bomb: Target Protect Removal"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_11": {
+    "korean": "디스크 봄 : 방어력 강화 해제",
+    "english": "Disk Bomb : DEF Buff Removal"
+  },
+  "BuffDesc2_Effect_BR_Raven_N_11": {
+    "korean": "디스크 봄 : 방어력 강화 해제",
+    "english": "Disk Bomb : DEF Buff Removal"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_12": {
+    "korean": "흡착 폭탄 : 보호 효과 해제",
+    "english": "Adhesive Bomb: Target Protect Removal"
+  },
+  "BuffDesc2_Effect_BR_Raven_N_12": {
+    "korean": "흡착 폭탄 : 보호 효과 해제",
+    "english": "Adhesive Bomb: Target Protect Removal"
+  },
+  "BuffDesc3_Effect_BR_Raven_N_12": {
+    "korean": "흡착 폭탄 : 보호 효과 해제",
+    "english": "Adhesive Bomb: Target Protect Removal"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_13": {
+    "korean": "흡착 폭탄 : 보호 효과 해제",
+    "english": "Adhesive Bomb: Target Protect Removal"
+  },
+  "BuffDesc2_Effect_BR_Raven_N_13": {
+    "korean": "흡착 폭탄 : 보호 효과 해제",
+    "english": "Adhesive Bomb: Target Protect Removal"
+  },
+  "BuffDesc3_Effect_BR_Raven_N_13": {
+    "korean": "흡착 폭탄 : 보호 효과 해제",
+    "english": "Adhesive Bomb: Target Protect Removal"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_41": {
+    "korean": "좌표 전송 : [157mm HEAT탄] 협동 공격",
+    "english": "Coordinate Transmission: [157mm HEAT Shell] Cooperative Attack"
+  },
+  "SkillName_Skill_BR_Raven_N_2": {
+    "korean": "표적 스캔",
+    "english": "Target Scan"
+  },
+  "SkillDesc_Skill_BR_Raven_N_2": {
+    "korean": "대상에게 {0} 보호 무시 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 상태로 만듭니다. &n치명타 시, 회피 강화 / 피해 감소 효과를 해제합니다. &n스킬 레벨 당 +30%의 적중 보정이 적용됩니다.",
+    "english": "Deals {0} shield-piercing damage to the target and inflicts Marked and DMG Taken Increased for 2 rounds. On a Critical Hit, removes EVA Up and DMG Reduction effects. Grants +30% ACC per skill level."
+  },
+  "SkillDescSimple_Skill_BR_Raven_N_2": {
+    "korean": "지정 대상 {0} 보호 무시 피해. 표식 / 받는 피해 증가. 치명타 시, 회피 강화 / 받는 피해 감소 효과 해제.",
+    "english": "Deals {0} shield-piercing damage to the target. Inflicts Marked and DMG Taken Increased. On Critical Hit, removes EVA Up and DMG Reduction effects."
+  },
+  "BuffDesc1_Effect_BR_Raven_N_2": {
+    "korean": "표적 스캔 : 표식 지정",
+    "english": "Target Scan : Marks target"
+  },
+  "BuffDesc2_Effect_BR_Raven_N_2": {
+    "korean": "표적 스캔 : 받는 피해 {0}% 증가",
+    "english": "Target Scan : DMG Taken Increased {0}%"
+  },
+  "BuffDesc3_Effect_BR_Raven_N_2": {
+    "korean": "표적 스캔 : 회피 강화 해제",
+    "english": "Target Scan : EVA Buff Removal"
+  },
+  "BuffDesc4_Effect_BR_Raven_N_2": {
+    "korean": "표적 스캔 : 받는 피해 감소 해제",
+    "english": "Target Scan : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_21": {
+    "korean": "표적 스캔 : 받는 피해 {0}% 증가",
+    "english": "Target Scan : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_22": {
+    "korean": "표적 스캔 : 회피 강화 해제",
+    "english": "Target Scan : EVA Buff Removal"
+  },
+  "BuffDesc2_Effect_BR_Raven_N_22": {
+    "korean": "표적 스캔 : 받는 피해 감소 해제",
+    "english": "Target Scan : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_23": {
+    "korean": "표적 스캔 : 회피 강화 해제",
+    "english": "Target Scan : EVA Buff Removal"
+  },
+  "BuffDesc2_Effect_BR_Raven_N_23": {
+    "korean": "표적 스캔 : 받는 피해 감소 해제",
+    "english": "Target Scan : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_42": {
+    "korean": "좌표 전송 : [183mm HVAP탄] 협동 공격",
+    "english": "Coordinate Transmission: [183mm HVAP Shell] Cooperative Attack"
+  },
+  "SkillName_Skill_BR_Raven_N_3": {
+    "korean": "포격 관측",
+    "english": "Artillery Observation"
+  },
+  "SkillDesc_Skill_BR_Raven_N_3": {
+    "korean": "공격 적중 시, 범위 내 중장형 공격기의 AP를 증가시키고, 3라운드 동안 공격력 / 적중을 증가시킵니다. (최대 2중첩)&n자신은 동일한 수치의 회피 / 적중 증가 효과를 획득합니다.&n스킬 레벨 10에서 자신의 위치와 관계없이 전체 적용됩니다.",
+    "english": "When an attack hits, increases AP of Heavy-type Attackers within range and boosts their ATK and ACC for 3 rounds (max 2 stacks). The user gains the same amount of EVA and ACC increase. At skill level 10, the effect applies globally regardless of the user’s position."
+  },
+  "SkillDescSimple_Skill_BR_Raven_N_3": {
+    "korean": "공격 적중 시, 범위 내 중장형 공격기 AP / 공격력 / 적중 증가. 자신 회피 / 적중 증가.",
+    "english": "When an attack hits, increases AP, ATK, and ACC of nearby Heavy-type Attackers. User gains EVA and ACC boosts."
+  },
+  "BuffDesc1_Effect_BR_Raven_N_3": {
+    "korean": "포격 관측 : AP {0} (중장/공격기)",
+    "english": "Artillery Observation: AP {0} (Heavy/Attacker)"
+  },
+  "BuffDesc2_Effect_BR_Raven_N_3": {
+    "korean": "포격 관측 : 공격력 {0}% (중장/공격기)",
+    "english": "Artillery Observation: ATK {0}% (Heavy/Attacker)"
+  },
+  "BuffDesc3_Effect_BR_Raven_N_3": {
+    "korean": "포격 관측 : 적중 {0}% (중장/공격기)",
+    "english": "Artillery Observation: ACC {0}% (Heavy/Attacker)"
+  },
+  "BuffDesc4_Effect_BR_Raven_N_3": {
+    "korean": "포격 관측 : 회피 {0}% (자신)",
+    "english": "Artillery Observation : EVA {0}% (Self)"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_31": {
+    "korean": "포격 관측 : 공격력 {0}%",
+    "english": "Artillery Observation : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_32": {
+    "korean": "포격 관측 : 적중 {0}%",
+    "english": "Artillery Observation : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_33": {
+    "korean": "관측 위치 선점 : 회피 {0}%",
+    "english": "Observation Position Control: EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_34": {
+    "korean": "관측 위치 선점 : 적중 {0}%",
+    "english": "Observation Position Control: ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_43": {
+    "korean": "포격 관측 : AP {0}",
+    "english": "Artillery Observation : AP {0}"
+  },
+  "SkillName_Skill_BR_Raven_N_4": {
+    "korean": "AAC FDO",
+    "english": "AAC FDO"
+  },
+  "SkillDesc_Skill_BR_Raven_N_4": {
+    "korean": "라운드 개시 시, 자신의 AP가 증가하고 적중 감소 효과에 면역 상태가 됩니다.&n<디스크 봄> 적중 시, 스쿼드 내에 <AT-100 비스트헌터>가 있을 경우 <157mm HEAT탄> 협동 공격을 유도합니다.&n<표적 스캔> 적중 시, 스쿼드 내에 <AT-4 파니>가 있을 경우 <183mm HVAP탄> 협동 공격을 유도합니다.&n스쿼드 내에 협동 공격을 유도할 대상이 없을 경우, <포격 관측>의 AP 증가 효과가 자신에게도 적용됩니다.",
+    "english": "At the start of the round, the user’s AP increases and becomes immune to ACC Down effects. When Disk Bomb hits, if an AT-100 Beast Hunter is in the squad, it triggers a <157mm HEAT Shell> Cooperative Attack. When Target Scan hits, if an AT-4 Pani is in the squad, it triggers a <183mm HVAP Shell> Cooperative Attack. If no allies can trigger a cooperative attack, the AP increase effect of Artillery Observation also applies to the user."
+  },
+  "SkillDescSimple_Skill_BR_Raven_N_4": {
+    "korean": "자신 AP 증가 / 적중 감소 면역. <AA 캐노니어> 공격기 협동 공격.",
+    "english": "User gains AP and becomes immune to ACC Down. Triggers Cooperative Attack with AA Cannoneer Attackers."
+  },
+  "BuffDesc1_Effect_BR_Raven_N_4": {
+    "korean": "FOO : AP {0}",
+    "english": "FOO : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Raven_N_4": {
+    "korean": "FOO : 적중 감소 면역",
+    "english": "FOO : ACC Decrease Immunity"
+  },
+  "BuffDesc3_Effect_BR_Raven_N_4": {
+    "korean": "좌표 전송 : AT-100 비스트헌터 (디스크 봄)",
+    "english": "Coordinate Transmission: AT-100 Beast Hunter (Disk Bomb)"
+  },
+  "BuffDesc4_Effect_BR_Raven_N_4": {
+    "korean": "좌표 전송 : AT-4 파니 (표적 스캔)",
+    "english": "Coordinate Transmission: AT-4 Pani (Target Scan)"
+  },
+  "SkillName_Skill_BR_Raven_N_5": {
+    "korean": "테이크 포인트",
+    "english": "Take Point"
+  },
+  "SkillDesc_Skill_BR_Raven_N_5": {
+    "korean": "라운드 개시 시, 자신의 행동력 / 회피가 증가합니다.&n<디스크 봄> / <표적 스캔>의 부가 효과 발동 조건을 '치명타 시'에서 '적중 시'로 완화합니다.&n전투 개시 시, <AA 캐노니어> 소속 공격기에게 1라운드 동안 보호 무시 일반 효과를 부여합니다. 해당 효과는 적 보호기 수만큼 지속 라운드가 증가합니다.",
+    "english": "At the start of the round, increases the user’s SPD and EVA. Lowers the activation condition of Disk Bomb and Target Scan bonus effects from “on Critical Hit” to “on Hit”. At battle start, grants shield-piercing (Normal Effect) to allied Attackers of the AA Cannoneer unit for 1 round. This effect’s duration increases by 1 round for each enemy Defender present."
+  },
+  "SkillDescSimple_Skill_BR_Raven_N_5": {
+    "korean": "자신 행동력 / 회피 증가. 스킬 효과 발동 조건 완화. <AA 캐노니어> 보호 무시 활성화.",
+    "english": "Increases user’s SPD and EVA. Loosens skill activation conditions to on hit. Grants shield-piercing to AA Cannoneer Attackers."
+  },
+  "BuffDesc1_Effect_BR_Raven_N_5": {
+    "korean": "Point Woman : 행동력 {0}%",
+    "english": "Point Woman : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Raven_N_5": {
+    "korean": "Point Woman : 회피 {0}%",
+    "english": "Point Woman : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_51": {
+    "korean": "목표 포착 : 보호 무시 활성화",
+    "english": "Target Acquisition : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_52": {
+    "korean": "목표 포착 : 보호 무시 활성화",
+    "english": "Target Acquisition: Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_53": {
+    "korean": "목표 포착 : 보호 무시 활성화",
+    "english": "Target Acquisition: Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_54": {
+    "korean": "목표 포착 : 보호 무시 활성화",
+    "english": "Target Acquisition: Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_55": {
+    "korean": "목표 포착 : 보호 무시 활성화",
+    "english": "Target Acquisition: Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_56": {
+    "korean": "목표 포착 : 보호 무시 활성화",
+    "english": "Target Acquisition: Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_57": {
+    "korean": "목표 포착 : 보호 무시 활성화",
+    "english": "Target Acquisition: Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_58": {
+    "korean": "목표 포착 : 보호 무시 활성화",
+    "english": "Target Acquisition: Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_59": {
+    "korean": "목표 포착 : 보호 무시 활성화",
+    "english": "Target Acquisition: Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Raven_N_510": {
+    "korean": "목표 포착 : 보호 무시 활성화",
+    "english": "Target Acquisition: Activate Ignore Protection"
+  }
+}

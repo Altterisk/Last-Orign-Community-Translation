@@ -41,9 +41,19 @@ def apply_corrections(korean: str, english: str, corrections: list[dict]) -> str
             continue
         correct = entry["correctTranslation"]
         for wrong in sorted(entry["mistranslation"], key=len, reverse=True):
-            present = wrong in english if wrong.isupper() else wrong.lower() in english.lower()
-            if present:
-                english = _wrong_pattern(wrong).sub(correct, english)
+            if wrong.lower() not in english.lower():
+                continue
+
+            # Better pattern: handle hyphens and word boundaries more flexibly
+            pat = re.escape(wrong)
+            # Add flexible boundaries
+            if re.match(r"\w", wrong):
+                pat = r"(?<!\w)" + pat
+            if re.search(r"\w$", wrong):
+                pat = pat + r"(?!\w)"
+            
+            pattern = re.compile(pat, re.IGNORECASE)
+            english = pattern.sub(correct, english)
     return english
 
 
@@ -55,7 +65,10 @@ def fix_chunk(chunk: dict[str, dict], corrections: list[dict]) -> tuple[dict, in
         korean  = entry.get("korean",  "")
         english = entry.get("english", "")
         fixed_english = apply_corrections(korean, english, corrections)
-        fixed[code] = {"english": fixed_english, "korean": korean}
+        # Preserve the entry's original key order/structure; only update english.
+        new_entry = dict(entry)
+        new_entry["english"] = fixed_english
+        fixed[code] = new_entry
         if fixed_english != english:
             changes += 1
     return fixed, changes

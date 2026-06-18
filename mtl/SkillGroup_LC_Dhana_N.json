@@ -1,0 +1,238 @@
+{
+  "SkillName_Skill_LC_Dhana_N_1": {
+    "korean": "체인 피어스",
+    "english": "Chain Pierce"
+  },
+  "SkillName_Skill_LC_Dhana_N_2": {
+    "korean": "래쉬 임페일",
+    "english": "Lash Impale"
+  },
+  "SkillName_Skill_LC_Dhana_N_3": {
+    "korean": "거짓의 난무",
+    "english": "Falsehood Frenzy"
+  },
+  "SkillName_Skill_LC_Dhana_N_4": {
+    "korean": "예리한 일격",
+    "english": "Sharp Strike"
+  },
+  "SkillName_Skill_LC_Dhana_N_5": {
+    "korean": "순간의 형체",
+    "english": "Momentary Form"
+  },
+  "SkillDesc_Skill_LC_Dhana_N_1": {
+    "korean": "시어 블레이드를 소환하여 지정된 범위에 보호 무시 {0} 냉기 피해를 발생시킵니다.&n스킬 적중 시 대상은 2라운드 동안 방어력 및 회피를 감소시키고 [침수] 상태로 만듭니다.&n치명타 시 2라운드 동안 지속 냉기 피해를 발생시킵니다.",
+    "english": "Summon a Sheer Blade to deal {0} Cold damage ignoring protection in the target area. On hit, the target's DEF and EVA are reduced for 2 rounds and it becomes Soaked. On a CRIT, deals Cold DoT DMG for 2 rounds."
+  },
+  "SkillDescSimple_Skill_LC_Dhana_N_1": {
+    "korean": "지정 범위 보호 무시 {0} 냉기 피해. 2라운드 방어력 / 회피 감소 / 침수 부여. 치명타 시 2라운드 지속 냉기 피해.",
+    "english": "Ignore Protection {0} Cold DMG. 2 rounds DEF / EVA Reduction / Soaked. CRIT: 2 rounds Cold DoT DMG."
+  },
+  "SkillDesc_Skill_LC_Dhana_N_2": {
+    "korean": "공중에서 시어 블레이드를 소환하여 지정 범위에 {0} 냉기 피해를 발생시킵니다.&n스킬 적중 시 2라운드 동안 아군 전체의 방어 관통 및 스킬 위력이 증가합니다.&n스킬 적중 시 대상이 침수 상태이면 냉기 피해량이 증가하고 2라운드 동안 냉기 저항이 감소합니다.&n치명타 시 2라운드 동안 아군 전체 효과 저항이 증가합니다.",
+    "english": "Summon a Sheer Blade from the Air to deal {0} Cold damage in the target area. On hit, all allies gain increased DEF Penetration and Skill Power for 2 rounds. If the target is Soaked, Cold damage is increased and Cold Resist is reduced for 2 rounds. On a CRIT, all allies gain increased Status Resist for 2 rounds."
+  },
+  "SkillDescSimple_Skill_LC_Dhana_N_2": {
+    "korean": "지정 범위 {0} 냉기 피해. 조건부 아군 전체 2라운드 방어 관통 / 스킬 위력 / 효과 저항 증가. 조건부 대상의 냉기 피해량 증가. 조건부 2라운드 대상의 냉기 저항 감소.",
+    "english": "all allies 2 rounds DEF Penetration / Skill Power / Status Resist Increase. Conditional: target Cold DMG Increase. Conditional: target Cold Resist Reduction for 2 rounds."
+  },
+  "SkillDesc_Skill_LC_Dhana_N_3": {
+    "korean": "라운드 개시 시 아군 전체의 공격력 및 적중, 치명타를 증가시킵니다.&n라운드 개시 시 <알키오네>, <메로페>, <시저스 리제>가 있는 경우 2배로 효과를 받습니다.&n라운드 개시 시 <알키오네>, <메로페>, <시저스 리제>가 있는 경우 알키오네, 메로페, 시저스 리제를 공격 지원합니다.",
+    "english": "At the start of the round, all allies gain increased ATK, ACC and CRIT. If <Alcyone>, <Merope> or <Scissors Lise> are present at the start of the round, the effect is doubled. If <Alcyone>, <Merope> or <Scissors Lise> are present at the start of the round, they receive Follow-Up Attack."
+  },
+  "SkillDescSimple_Skill_LC_Dhana_N_3": {
+    "korean": "라운드 개시 시 공격력 / 적중 / 치명타 증가. 조건부 효과 2배 증가. 조건부 공격 지원.",
+    "english": "ATK / ACC / CRIT Increase at round start. Conditional effects doubled. Conditional Follow-Up Attack."
+  },
+  "SkillDesc_Skill_LC_Dhana_N_4": {
+    "korean": "피격 시 자신에게 모든 해로운 효과를 해제합니다.&n라운드 개시 시 적군 전체의 공격력 및 적중, 스킬 위력을 감소시킵니다.&n라운드 개시 시 기동형 적군은 회피 및 방어력이 감소합니다.",
+    "english": "When hit, removes all harmful effects from yourself. At the start of the round, all enemies have their ATK, ACC and Skill Power reduced. At the start of the round, Air enemies have their EVA and DEF reduced."
+  },
+  "SkillDescSimple_Skill_LC_Dhana_N_4": {
+    "korean": "피격 시 모든 해로운 효과 해제. 라운드 개시 시 적 전체의 공격력 / 적중 / 스킬 위력 감소. 조건부 대상의 회피 / 방어력 감소.",
+    "english": "Removes all harmful effects upon being hit. At the start of the round, reduces enemies' ATK / ACC / Skill Power. Conditional: target EVA / DEF Reduction."
+  },
+  "SkillDesc_Skill_LC_Dhana_N_5": {
+    "korean": "라운드 개시 시 아군 전체의 방어 관통 및 스킬 위력이 증가합니다.&n라운드 개시 시 스쿼드에 <라이언 코퍼레이션> 전투원이 있는 경우 자신을 포함한 라이언 코퍼레이션 전투원은 2배로 효과를 받습니다.&n라운드 개시 시 스쿼드에 <라이언 코퍼레이션> 전투원이 있는 경우 자신을 제외한 라이언 코퍼레이션 전투원을 공격 지원합니다.",
+    "english": "At the start of the round, all allies gain increased DEF Penetration and Skill Power. If a <Lion Corporation> combatant is in the squad at the start of the round, Lion Corporation combatants, including yourself, receive double the effect. If a <Lion Corporation> combatant is in the squad at the start of the round, all other Lion Corporation combatants receive Follow-Up Attack."
+  },
+  "SkillDescSimple_Skill_LC_Dhana_N_5": {
+    "korean": "라운드 개시 시 방어 관통 / 스킬 위력 증가. 조건부 2배 적용. 조건부 공격 지원.",
+    "english": "DEF Penetration / Skill Power Increase at round start. Conditional 2x applied. Conditional Follow-Up Attack."
+  },
+  "BuffDesc3_Effect_LC_Dhana_N_2": {
+    "korean": "래쉬 임페일 : {0}% 냉기 추가 피해 (침수)",
+    "english": "Lash Impale : {0}% Additional Cold DMG (Soaked)"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_21": {
+    "korean": "래쉬 임페일 : {0}% 냉기 추가 피해 (침수)",
+    "english": "Lash Impale : {0}% Additional Cold DMG (Soaked)"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_1": {
+    "korean": "체인 피어스 : 방어력 {0}%",
+    "english": "chain piercings : DEF {0}%"
+  },
+  "BuffDesc2_Effect_LC_Dhana_N_1": {
+    "korean": "체인 피어스 : 회피 {0}%",
+    "english": "chain piercings : EVA {0}%"
+  },
+  "BuffDesc3_Effect_LC_Dhana_N_1": {
+    "korean": "체인 피어스 : 지속 냉기 피해 {0} (치명타 시)",
+    "english": "chain piercings : Cold DoT DMG {0} (on CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_11": {
+    "korean": "체인 피어스 : 지속 냉기 피해 {0} (치명타 시)",
+    "english": "chain piercings : Cold DoT DMG {0} (on CRIT)"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_2": {
+    "korean": "래쉬 임페일 : 방어 관통 {0}%",
+    "english": "Lash Impale : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_LC_Dhana_N_2": {
+    "korean": "래쉬 임페일 : 스킬 위력 {0}%",
+    "english": "Lash Impale : Skill Power {0}%"
+  },
+  "BuffDesc4_Effect_LC_Dhana_N_2": {
+    "korean": "래쉬 임페일 : 냉기 저항 {0}% (침수)",
+    "english": "Lash Impale : Cold Resist {0}% (Soaked)"
+  },
+  "BuffDesc5_Effect_LC_Dhana_N_2": {
+    "korean": "래쉬 임페일 : 효과 저항 {0}%",
+    "english": "Lash Impale : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_22": {
+    "korean": "래쉬 임페일 : 냉기 저항 {0}% (침수)",
+    "english": "Lash Impale : Cold Resist {0}% (Soaked)"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_23": {
+    "korean": "래쉬 임페일 : 효과 저항 {0}%",
+    "english": "Lash Impale : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_3": {
+    "korean": "거짓의 난무 : 공격력 {0}%",
+    "english": "Rampant Falsehood : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Dhana_N_3": {
+    "korean": "거짓의 난무 : 적중 {0}%",
+    "english": "Rampant Falsehood : ACC {0}%"
+  },
+  "BuffDesc3_Effect_LC_Dhana_N_3": {
+    "korean": "거짓의 난무 : 치명타 {0}%",
+    "english": "Rampant Falsehood : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_LC_Dhana_N_3": {
+    "korean": "거짓의 난무 : 공격 지원",
+    "english": "Rampant Falsehood : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_31": {
+    "korean": "거짓의 난무 : 공격력 {0}% (알키오네)",
+    "english": "Rampant Falsehood : ATK {0}% (Alcyone)"
+  },
+  "BuffDesc2_Effect_LC_Dhana_N_31": {
+    "korean": "거짓의 난무 : 적중 {0}% (알키오네)",
+    "english": "Rampant Falsehood : ACC {0}% (Alcyone)"
+  },
+  "BuffDesc3_Effect_LC_Dhana_N_31": {
+    "korean": "거짓의 난무 : 치명타 {0}% (알키오네)",
+    "english": "Rampant Falsehood : CRIT {0}% (Alcyone)"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_32": {
+    "korean": "거짓의 난무 : 공격력 {0}% (메로페)",
+    "english": "Rampant Falsehood : ATK {0}% (Meropé)"
+  },
+  "BuffDesc2_Effect_LC_Dhana_N_32": {
+    "korean": "거짓의 난무 : 적중 {0}% (메로페)",
+    "english": "Rampant Falsehood : ACC {0}% (Meropé)"
+  },
+  "BuffDesc3_Effect_LC_Dhana_N_32": {
+    "korean": "거짓의 난무 : 치명타 {0}% (메로페)",
+    "english": "Rampant Falsehood : CRIT {0}% (Meropé)"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_33": {
+    "korean": "거짓의 난무 : 공격력 {0}% (시저스 리제)",
+    "english": "Rampant Falsehood : ATK {0}% (Scissors Lise)"
+  },
+  "BuffDesc2_Effect_LC_Dhana_N_33": {
+    "korean": "거짓의 난무 : 적중 {0}% (시저스 리제)",
+    "english": "Rampant Falsehood : ACC {0}% (Scissors Lise)"
+  },
+  "BuffDesc3_Effect_LC_Dhana_N_33": {
+    "korean": "거짓의 난무 : 치명타 {0}% (시저스 리제)",
+    "english": "Rampant Falsehood : CRIT {0}% (Scissors Lise)"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_34": {
+    "korean": "거짓의 난무 : 공격 지원",
+    "english": "Rampant Falsehood : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_4": {
+    "korean": "예리한 일격 : 해로운 효과 해제",
+    "english": "Sharp strike : Debuff Removal"
+  },
+  "BuffDesc2_Effect_LC_Dhana_N_4": {
+    "korean": "예리한 일격 : 공격력 {0}%",
+    "english": "Sharp strike : ATK {0}%"
+  },
+  "BuffDesc3_Effect_LC_Dhana_N_4": {
+    "korean": "예리한 일격 : 적중 {0}%",
+    "english": "Sharp strike : ACC {0}%"
+  },
+  "BuffDesc4_Effect_LC_Dhana_N_4": {
+    "korean": "예리한 일격 : 스킬 위력 {0}%",
+    "english": "Sharp strike : Skill Power {0}%"
+  },
+  "BuffDesc5_Effect_LC_Dhana_N_4": {
+    "korean": "예리한 일격 : 회피 {0}% (기동형)",
+    "english": "Sharp strike : EVA {0}% (Air)"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_41": {
+    "korean": "예리한 일격 : 공격력 {0}%",
+    "english": "Sharp strike : ATK {0}%"
+  },
+  "BuffDesc2_Effect_LC_Dhana_N_41": {
+    "korean": "예리한 일격 : 적중 {0}%",
+    "english": "Sharp strike : ACC {0}%"
+  },
+  "BuffDesc3_Effect_LC_Dhana_N_41": {
+    "korean": "예리한 일격 : 스킬 위력 {0}%",
+    "english": "Sharp strike : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_42": {
+    "korean": "예리한 일격 : 회피 {0}% (기동형)",
+    "english": "Sharp strike : EVA {0}% (Air)"
+  },
+  "BuffDesc2_Effect_LC_Dhana_N_42": {
+    "korean": "예리한 일격 : 방어력 {0}%",
+    "english": "Sharp strike : DEF {0}%"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_5": {
+    "korean": "순간의 형체 : 방어 관통 {0}%",
+    "english": "The form of a moment : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_LC_Dhana_N_5": {
+    "korean": "순간의 형체 : 스킬 위력 {0}%",
+    "english": "The form of a moment : Skill Power {0}%"
+  },
+  "BuffDesc3_Effect_LC_Dhana_N_5": {
+    "korean": "순간의 형체 : 방어 관통 {0}% (라이언 코퍼레이션)",
+    "english": "The form of a moment : DEF Penetration {0}% (Lion Corporation)"
+  },
+  "BuffDesc4_Effect_LC_Dhana_N_5": {
+    "korean": "순간의 형체 : 스킬 위력 {0}% (라이언 코퍼레이션)",
+    "english": "The form of a moment : Skill Power {0}% (Lion Corporation)"
+  },
+  "BuffDesc5_Effect_LC_Dhana_N_5": {
+    "korean": "순간의 형체 : 공격 지원",
+    "english": "The form of a moment : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_51": {
+    "korean": "순간의 형체 : 방어 관통 {0}% (라이언 코퍼레이션)",
+    "english": "The form of a moment : DEF Penetration {0}% (Lion Corporation)"
+  },
+  "BuffDesc2_Effect_LC_Dhana_N_51": {
+    "korean": "순간의 형체 : 스킬 위력 {0}% (라이언 코퍼레이션)",
+    "english": "The form of a moment : Skill Power {0}% (Lion Corporation)"
+  },
+  "BuffDesc1_Effect_LC_Dhana_N_52": {
+    "korean": "순간의 형체 : 공격 지원",
+    "english": "The form of a moment : Follow-Up Attack"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "1002705501": {
+    "korean": "타이런트 바이트",
+    "english": "Tyrant Bite"
+  },
+  "1002705502": {
+    "korean": "프라이멀 파이어",
+    "english": "Primal Fire"
+  },
+  "1002705503": {
+    "korean": "전장의 폭군",
+    "english": "Tyrant of the Battlefield"
+  },
+  "1002705504": {
+    "korean": "압도적 존재감",
+    "english": "Overwhelming Presence"
+  },
+  "1002705505": {
+    "korean": "최후의 포효",
+    "english": "Final Roar"
+  },
+  "1002706318": {
+    "korean": "대상을 물어뜯어 {0} 피해를 주고, 2라운드 동안 방어력을 낮춥니다. 대상의 현재 HP%가 낮을수록 피해량이 증가하며, <포식자> 중첩이 1 증가합니다. 자신의 HP가 50% 이상이면, 대상의 피해 감소 효과를 해제합니다.",
+    "english": "Bites the target, dealing {0} damage and reducing their DEF for 2 rounds. Damage increases the lower the target's current HP%, and gains 1 stack of <Predator>. If the user's HP is 50% or higher, removes the target's Damage Reduction effect."
+  },
+  "1002706578": {
+    "korean": "단일 대상 {0} 피해. 적 HP% 낮을수록 피해량 증가 / 방어력 감소. 자신의 HP 50% 이상 시, 피해 감소 해제",
+    "english": "Deals {0} damage to a single target. Damage increases the lower the target's HP%, and reduces their DEF. If your HP is 50% or higher, removes the target’s Damage Reduction effect."
+  },
+  "1002706319": {
+    "korean": "플라즈마를 분사해 지정 범위에 {0} 보호 무시 화염 속성 피해를 줍니다. 2라운드 동안 화염 저항을 감소시키며, <포식자> 중첩이 높을수록 최대 3단계까지 감소합니다. <포식자> 중첩을 1 소모하며, 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "Sprays plasma, dealing {0} Ignore Protection Fire damage to a designated area. Reduces Fire Resist for 2 rounds, scaling up to 3 tiers based on <Predator> stacks. Consumes 1 <Predator> stack. At skill level 10, the area of effect increases."
+  },
+  "1002706579": {
+    "korean": "지정 범위 {0} 보호 무시 화염 속성 피해. <포식자> 중첩에 따라 화염 저항 감소. <포식자> 중첩 1 사용",
+    "english": "Deals {0} Ignore Protection Fire damage to a designated area. Reduces Fire Resist based on <Predator> stacks. Consumes 1 <Predator> stack."
+  },
+  "1002706320": {
+    "korean": "라운드 개시 시, 전열에 가까울수록 공격력 / 치명타 / 방어 관통이 증가합니다. 해당 효과는 후열일 경우, 효과가 50% 감소합니다. <포식자> 상태면 방어막 / 피해 감소를 무시하며, <출력 제한 해제 장치> 장착 상태로 치명타 발동 시 액티브 스킬의 피해량이 증가합니다.",
+    "english": "At the start of each round, gains increased ATK / CRIT / DEF Penetration—the closer the unit is to the front row, the stronger the effect. If in the back row, the effects are reduced by 50%. While in <Predator> state, ignores Barrier / Damage Reduction. When equipped with <Output Limiter Release Device>, CRIT further increases the damage of active skills."
+  },
+  "1002706580": {
+    "korean": "전열에 가까울수록 공격력 / 치명타 / 방어 관통 증가. <포식자> 상태면 방어막 / 피해 감소 무시",
+    "english": "The closer to the front row, the higher the ATK / CRIT / DEF Penetration. While in <Predator> state, ignores Barrier / Damage Reduction."
+  },
+  "1002706321": {
+    "korean": "적 공격 시, 지정 보호 효과를 해제하며 2라운드 동안 자신에게 이로운 표식이 지정됩니다. 라운드 개시 시, 방어력 / 효과 저항이 증가하고 받는 피해가 감소하며 지정 보호 효과를 해제합니다.",
+    "english": "When attacking an enemy, removes Designated Protection and applies a Beneficial Mark to self for 2 rounds. At the start of each round, increases DEF / Status Resist and reduces DMG Taken, while also removing Designated Protection effects."
+  },
+  "1002706581": {
+    "korean": "지정 보호 해제 / 공격 시 자신에게 표식 지정. 방어력 / 효과 저항 증가 / 받는 피해 감소",
+    "english": "Removes protection from the designated target / When attacking, marks yourself. Increases DEF / Status Resist / reduces DMG Taken."
+  },
+  "1002706322": {
+    "korean": "전투 개시 시, 해제 불가한 전투 속행 효과가 적용됩니다. 전투 속행 발동 시, 행동력이 크게 증가하며 남은 모든 전투 속행 효과를 해제합니다. 해당 상태에서 파괴되면 적에게 자폭해 공격력에 비례한 고정 피해를 줍니다.",
+    "english": "At the start of battle, gains an undispellable Endure effect. When Endure is triggered, SPD greatly increases and all remaining Endure effects are removed. If destroyed while in this state, deals Fixed DMG to enemies proportional to the user's ATK."
+  },
+  "1002706582": {
+    "korean": "전투 속행. 전투 속행 시, 행동력 증가. 해당 상태에서 파괴되면 모든 적에게 공격력 비례 고정 피해",
+    "english": "Battle Continuation. While in this state, SPD is increased. If destroyed during this state, deals Fixed DMG to all enemies based on your ATK."
+  },
+  "1000106628": {
+    "korean": "타이런트 바이트 : 적 HP% 낮을수록 피해량{0}%",
+    "english": "Tyrant Bite : Lower enemy HP% → Damage {0}%"
+  },
+  "1000106965": {
+    "korean": "포식자 : <포식자> 활성화 (최대 5중첩)",
+    "english": "Predator : Activate <Predator> (Max. 5 stacks)"
+  },
+  "1000106633": {
+    "korean": "포식자 : <포식자> 활성화",
+    "english": "Predator : <Predator> Activation"
+  },
+  "1000106824": {
+    "korean": "프라이멀 파이어 Lv.2 : <포식자> 1중첩 이상",
+    "english": "Primal Fire Lv.2 : <Predator> 1+ Stack"
+  },
+  "1000106917": {
+    "korean": "프라이멀 파이어 Lv.3 : <포식자> 2중첩 이상",
+    "english": "Primal Fire Lv.3 : <Predator> 2 stacks or more"
+  },
+  "1000106643": {
+    "korean": "타이런트 바이트 : 방어력 {0}%",
+    "english": "Tyrant Bite : DEF {0}%"
+  },
+  "1000106916": {
+    "korean": "타이런트 바이트 : 피해 감소 효과 해제",
+    "english": "Tyrant Bite : DMG Reduction Removal"
+  },
+  "1000106632": {
+    "korean": "회심의 분쇄 : 피해 감소 효과 해제",
+    "english": "Crushing Blow : DMG Reduction Removal"
+  },
+  "1000106638": {
+    "korean": "출력 제한 해제 : 피해량{0}%",
+    "english": "Output Limit Release : Additional DMG {0}%"
+  },
+  "1000106629": {
+    "korean": "프라이멀 파이어 : 화염 저항 {0}%",
+    "english": "Primal Fire : Fire Resist {0}%"
+  },
+  "1000106634": {
+    "korean": "프라이멀 파이어 : 화염 저항 {0}% (Lv.2)",
+    "english": "Primal Fire : Fire Resist {0}% (Lv.2)"
+  },
+  "1000106635": {
+    "korean": "프라이멀 파이어 : 화염 저항 {0}% (Lv.3)",
+    "english": "Primal Fire : Fire Resist {0}% (Lv.3)"
+  },
+  "1000106630": {
+    "korean": "전장의 폭군 : 공격력{0}% (최대)",
+    "english": "Battlefield Tyrant : ATK {0}% (Max)"
+  },
+  "1000106825": {
+    "korean": "전장의 폭군 : 치명타{0}% (최대)",
+    "english": "Battlefield Tyrant : CRIT {0}% (Max)"
+  },
+  "1000106918": {
+    "korean": "전장의 폭군 : 방어 관통{0}% (최대)",
+    "english": "Battlefield Tyrant : DEF Penetration {0}% (Max)"
+  },
+  "1000106637": {
+    "korean": "전장의 폭군 : 방어막 / 피해 감소 무시 (포식자 활성화 시)",
+    "english": "Battlefield Tyrant : Ignore Barrier / DMG Reduction (when Predator active)"
+  },
+  "1000106989": {
+    "korean": "출력 제한 해제 : 피해량{0}% (치명타 시)",
+    "english": "Output Limit Release : Additional DMG {0}% (On CRIT)"
+  },
+  "1000106636": {
+    "korean": "전장의 폭군 : 공격력{0}%",
+    "english": "Battlefield Tyrant : ATK {0}%"
+  },
+  "1000106827": {
+    "korean": "전장의 폭군 : 치명타{0}%",
+    "english": "Battlefield Tyrant : CRIT {0}%"
+  },
+  "1000106921": {
+    "korean": "전장의 폭군 : 방어 관통{0}%",
+    "english": "Battlefield Tyrant : DEF Penetration {0}%"
+  },
+  "1000107331": {
+    "korean": "압도적 존재감 : 방어력{0}%",
+    "english": "Overwhelming Presence : DEF {0}%"
+  },
+  "1000106826": {
+    "korean": "압도적 존재감 : 효과 저항{0}%",
+    "english": "Overwhelming Presence : Status Resist {0}%"
+  },
+  "1000106919": {
+    "korean": "압도적 존재감 : 받는 피해 감소 {0}%",
+    "english": "Overwhelming Presence : DMG Reduction {0}%"
+  },
+  "1000106966": {
+    "korean": "압도적 존재감 : 지정 보호 해제 (자신)",
+    "english": "Overwhelming Presence : Target Protect Removal (Self)"
+  },
+  "1000106208": {
+    "korean": "압도적 존재감 : 표식 지정 (자신)",
+    "english": "Overwhelming Presence : Marks target (Self)"
+  },
+  "1000106207": {
+    "korean": "압도적 존재감 : 지정 보호 해제",
+    "english": "Overwhelming Presence : Target Protect Removal"
+  },
+  "1000106639": {
+    "korean": "압도적 존재감 : 표식 지정",
+    "english": "Overwhelming Presence : Marks target"
+  },
+  "1000106640": {
+    "korean": "최후의 포효 : {0}HP 전투 속행",
+    "english": "Final Roar : Battle Continuation with {0} HP"
+  },
+  "1000106641": {
+    "korean": "최후의 포효 : 행동력{0}%",
+    "english": "Final Roar : SPD {0}%"
+  },
+  "1000106642": {
+    "korean": "최후의 포효 : 전투 속행 해제",
+    "english": "Final Roar : Battle Continuation Removal"
+  },
+  "1000106631": {
+    "korean": "최후의 포효 : 공격력 {0}% 고정 피해",
+    "english": "Final Roar : ATK {0}% Fixed DMG"
+  },
+  "1000106920": {
+    "korean": "최후의 포효 : 행동력{0}% (전투 속행 시)",
+    "english": "Final Roar : SPD {0}% (On Battle Continue)"
+  }
+}

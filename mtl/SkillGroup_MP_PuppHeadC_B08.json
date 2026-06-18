@@ -1,0 +1,106 @@
+{
+  "1002701636": {
+    "korean": "고전압 스턴건",
+    "english": "High-voltage stun gun"
+  },
+  "1002701637": {
+    "korean": "칩입자 포획",
+    "english": "Intruder capture"
+  },
+  "1002701638": {
+    "korean": "연산 병렬처리",
+    "english": "Parallel processing of operations"
+  },
+  "1002701639": {
+    "korean": "네트워크 오류",
+    "english": "Network error"
+  },
+  "1002705398": {
+    "korean": "연산 회로 손실",
+    "english": "Operational circuit loss"
+  },
+  "1002704171": {
+    "korean": "대상에게 {0} 전기 속성 피해를 주고, AP / 회피 / 행동력을 낮춥니다. 대상이 경장 / 중장형인 경우, 일정 확률로 행동 불가로 만듭니다.",
+    "english": "Deals {0} Electric damage to the target and reduces AP, EVA and SPD. If the target is Light or Heavy Armored, there is a chance to Stun them."
+  },
+  "1002704172": {
+    "korean": "적중 대상을 앞으로 당겨 이동 불가 상태로 만들며, 높은 확률로 대상에게 걸린 강화 효과를 해제합니다. 스킬 사용 시, 3라운드 동안 행동력이 증가합니다.",
+    "english": "Pulls the hit target Forward, applying Rooted, and has a high chance to remove buffs from the target. Using this skill increases SPD for 3 rounds."
+  },
+  "1002704173": {
+    "korean": "인접 아군들의 연산을 보조해, 전투 개시 시 대상들의 AP / 치명타 / 행동력 / 효과 저항을 높입니다.",
+    "english": "Assists adjacent allies' calculations, increasing their AP, CRIT, SPD and Status Resist at the start of combat."
+  },
+  "1002704174": {
+    "korean": "사망 시, 2라운드 동안 인접한 아군들의 적중과 사거리가 크게 감소합니다.",
+    "english": "Upon death, adjacent allies' ACC and Range are greatly reduced for 2 rounds."
+  },
+  "1002706267": {
+    "korean": "화염 공격에 피격 시, 일부 연산 회로가 손실되어 인접한 아군들의 방어력 / 행동력이 2라운드 동안 감소합니다.",
+    "english": "When hit by a flame attack, some computational circuits are lost, reducing adjacent allies' DEF and SPD for 2 rounds."
+  },
+  "1000103429": {
+    "korean": "칩입자 포획 : 앞으로 {0}칸 당기기",
+    "english": "Intruder Capture : Pull Forward {0} Squares"
+  },
+  "1000103428": {
+    "korean": "고전압 스턴건 : AP {0}",
+    "english": "High-voltage stun gun : AP {0}"
+  },
+  "1000104627": {
+    "korean": "고전압 스턴건 : 회피 {0}%",
+    "english": "High-voltage stun gun : EVA {0}%"
+  },
+  "1000105150": {
+    "korean": "고전압 스턴건 : 행동력 {0}%",
+    "english": "High-voltage stun gun : SPD {0}%"
+  },
+  "1000103432": {
+    "korean": "고전압 스턴건 : 행동 불가 (경장/중장)",
+    "english": "High-voltage stun gun : Stunned (Light/Heavy)"
+  },
+  "1000104628": {
+    "korean": "칩입자 포획 : 이동 불가",
+    "english": "Intruder capture : Rooted"
+  },
+  "1000105151": {
+    "korean": "칩입자 포획 : 강화 효과 해제",
+    "english": "Intruder capture : Buff Removal"
+  },
+  "1000103433": {
+    "korean": "칩입자 발견 : 행동력{0}%",
+    "english": "Particle Scan : SPD {0}%"
+  },
+  "1000103430": {
+    "korean": "연산 병렬처리 : AP{0}",
+    "english": "Parallel processing of operations : AP {0}"
+  },
+  "1000103434": {
+    "korean": "연산 병렬 처리 : 치명타{0}%",
+    "english": "Parallel Processing : CRIT {0}%"
+  },
+  "1000103435": {
+    "korean": "연산 병렬 처리 : 행동력{0}%",
+    "english": "Parallel Processing : SPD {0}%"
+  },
+  "1000103436": {
+    "korean": "연산 병렬 처리 : 효과 저항{0}%",
+    "english": "Parallel Processing : Status Resist {0}%"
+  },
+  "1000103431": {
+    "korean": "네트워크 오류 : 적중 {0}%",
+    "english": "Network error : ACC {0}%"
+  },
+  "1000104629": {
+    "korean": "네트워크 오류 : 사거리 {0}",
+    "english": "Network error : Range {0}"
+  },
+  "1000106541": {
+    "korean": "연산 회로 손실 : 방어력 {0}%",
+    "english": "Operational circuit loss : DEF {0}%"
+  },
+  "1000106790": {
+    "korean": "연산 회로 손실 : 행동력 {0}%",
+    "english": "Operational circuit loss : SPD {0}%"
+  }
+}

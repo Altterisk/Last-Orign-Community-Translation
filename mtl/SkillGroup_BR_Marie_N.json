@@ -1,0 +1,190 @@
+{
+  "SkillName_Skill_BR_Marie_N_1": {
+    "korean": "핀 레이저 사격",
+    "english": "Pin Laser"
+  },
+  "SkillDesc_Skill_BR_Marie_N_1": {
+    "korean": "빔 공격으로 {0} 피해를 주고, 2라운드 동안 대상을 도발 / 공격력 / 치명타 감소 상태로 만듭니다. <역습 준비> 활성화 상태면 2라운드 동안 대상의 방어력을 감소시킵니다.",
+    "english": "Deals {0} damage with a beam attack, Provokes the target for 2 rounds, and reduces its ATK and CRIT. If <Counterattack Ready> is active, reduces the target's DEF for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Marie_N_1": {
+    "korean": "단일 대상 {0} 피해. 도발 / 공격력 / 치명타 감소. <역습 준비> 상태면 대상 방어력 감소.",
+    "english": "Single target {0} damage. Provokes, reduces ATK and CRIT. If in <Counterattack Ready> state, reduces target's DEF."
+  },
+  "BuffDesc1_Effect_BR_Marie_N_1": {
+    "korean": "핀 레이저 : 대상 도발 (마리)",
+    "english": "Pin Laser : Provoke Target (Marie)"
+  },
+  "BuffDesc2_Effect_BR_Marie_N_1": {
+    "korean": "핀 레이저 : 공격력 {0}%",
+    "english": "Pin Laser : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_Marie_N_1": {
+    "korean": "핀 레이저 : 치명타 {0}%",
+    "english": "Pin Laser : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_BR_Marie_N_1": {
+    "korean": "역습 개시 : 방어력 {0}%",
+    "english": "Counterattack Initiation: DEF {0}%"
+  },
+  "BuffDesc1_Effect_BR_Marie_N_16": {
+    "korean": "화망 구축 Lv.2 : 회피 강화 효과 해제",
+    "english": "Fire Net Lv.2 : EVA Buff Removal"
+  },
+  "BuffDesc1_Effect_BR_Marie_N_19": {
+    "korean": "화망 구축 Lv.3 : 받는 피해 {0}% 증가",
+    "english": "Fire Net Lv.3 : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_Marie_N_20": {
+    "korean": "역습 개시 : 방어력 {0}%",
+    "english": "Counterattack Initiation : DEF {0}%"
+  },
+  "SkillName_Skill_BR_Marie_N_2": {
+    "korean": "마른의 포격",
+    "english": "Marin's Bombardment"
+  },
+  "SkillDesc_Skill_BR_Marie_N_2": {
+    "korean": "빔을 난사해 목표 지점에 {0} 보호 무시 피해를 줍니다. 대상에게 적용된 <화망 구축> 회피 감소 효과 중첩에 비례해 피해량이 증가합니다.",
+    "english": "Fires a beam that deals {0} Ignore Protection damage to the target point. Damage increases based on the number of <Fire Network> EVA reduction stacks on the target."
+  },
+  "SkillDescSimple_Skill_BR_Marie_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. <화망 구축> 단계에 따라 피해량 증가.",
+    "english": "Designated area {0} Ignore Protection damage. Damage increases with the <Fire Network> stage."
+  },
+  "BuffDesc1_Effect_BR_Marie_N_2": {
+    "korean": "마른의 포격 : 피해량 {0}% (화망 구축 Lv.1)",
+    "english": "Marin's Bombardment : Additional DMG {0}% (Fire Network Lv.1)"
+  },
+  "BuffDesc1_Effect_BR_Marie_N_11": {
+    "korean": "마른의 포격 : 피해량 {0}% (화망 구축 Lv.2)",
+    "english": "Marin's Bombardment : Additional DMG {0}% (Fire Network Lv.2)"
+  },
+  "BuffDesc1_Effect_BR_Marie_N_12": {
+    "korean": "마른의 포격 : 피해량 {0}% (화망 구축 Lv.3)",
+    "english": "Marin's Bombardment : Additional DMG {0}% (Fire Network Lv.3)"
+  },
+  "SkillName_Skill_BR_Marie_N_3": {
+    "korean": "엘랑비탈",
+    "english": "Vital Force"
+  },
+  "SkillDesc_Skill_BR_Marie_N_3": {
+    "korean": "라운드 개시 시, 방어력이 증가하며 받는 피해가 감소합니다. &n피격 시, 3라운드 동안 방어력이 증가하는 <역습 준비> 상태가 됩니다. (최대 3중첩)&n피격 시, <역습 준비> 중첩이 최대인 경우, 해당 라운드 동안 자신의 현재 HP%에 비례해 공격자의 방어 관통이 감소합니다.",
+    "english": "At the start of the round, DEF increases and DMG Reduction applies. &nWhen hit, gains the <Counterattack Ready> state, increasing DEF for 3 rounds (up to 3 stacks). &nWhen hit, if the <Counterattack Ready> stack is at maximum, the attacker's DEF Penetration is reduced that round, proportional to your current HP%."
+  },
+  "SkillDescSimple_Skill_BR_Marie_N_3": {
+    "korean": "자신 방어력 증가 / 받는 피해 감소. 피격 시, 방어력 증가. 조건부 방어 관통 저항.",
+    "english": "Increases own DEF / reduces DMG Taken. When hit, DEF increases. Conditional DEF Penetration resistance."
+  },
+  "BuffDesc1_Effect_BR_Marie_N_3": {
+    "korean": "엘랑비탈 : 방어력 {0}%",
+    "english": "Vital Force : DEF {0}%"
+  },
+  "BuffDesc2_Effect_BR_Marie_N_3": {
+    "korean": "엘랑비탈 : 받는 피해 {0}% 감소",
+    "english": "Vital Force : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_BR_Marie_N_3": {
+    "korean": "역습 준비 : 방어력 {0}% (피격 시)",
+    "english": "Counterattack Prep: Defense {0}% (When Hit)"
+  },
+  "BuffDesc4_Effect_BR_Marie_N_3": {
+    "korean": "역습 개시 : 방어 관통 저항 {0}% (최대)",
+    "english": "Counterattack Initiation : DEF Penetration Resistance {0}% (Max)"
+  },
+  "BuffDesc1_Effect_BR_Marie_N_21": {
+    "korean": "역습 준비 : 방어력 {0}%",
+    "english": "Counterattack Preparation : DEF {0}%"
+  },
+  "BuffDesc1_Effect_BR_Marie_N_31": {
+    "korean": "역습 개시 : 방어 관통 저항 {0}% (최대)",
+    "english": "Counterattack Initiation : DEF Penetration Resistance {0}% (Max)"
+  },
+  "SkillName_Skill_BR_Marie_N_4": {
+    "korean": "대공 지휘",
+    "english": "Anti-air Command"
+  },
+  "SkillDesc_Skill_BR_Marie_N_4": {
+    "korean": "라운드 개시 시, 스쿼드 내 경장형 아군 및 스틸라인 계열 전투원을 지정 보호합니다.&n라운드 개시 시, 모든 아군에게 대 기동형 피해량 / 적중 / 행동력 증가 효과를 부여합니다. 대상이 스틸라인 계열 전투원인 경우 효과가 50% 증가합니다.&n전투 개시 시, 스쿼드 내에 휘하 스틸라인 계열 전투원이 한 명이라도 존재할 경우 자신은 전투 속행 일반 효과를 획득합니다.",
+    "english": "At the start of the round, designates and protects Light allies and Steel Line combatants within the squad. &nAt the start of the round, grants all allies increased Anti-Air DMG, ACC, and SPD. Effects are increased by 50% if the target is a Steel Line combatant. &nAt the start of battle, if at least one Steel Line combatant is present in the squad, the character gains a general effect for continuing combat."
+  },
+  "SkillDescSimple_Skill_BR_Marie_N_4": {
+    "korean": "스쿼드 내 경장형 및 스틸라인 아군 지정 보호. 아군 적중 / 행동력 / 대 기동형 피해량 증가.",
+    "english": "Designates and protects Light and Steel Line allies within the squad. Increases allies' ACC, SPD, and Anti-Air DMG."
+  },
+  "BuffDesc1_Effect_BR_Marie_N_4": {
+    "korean": "대공 지휘 : 대 기동형 피해량 증가 {0}%",
+    "english": "Anti-air Command : Anti-Air DMG {0}% Increase"
+  },
+  "BuffDesc2_Effect_BR_Marie_N_4": {
+    "korean": "대공 지휘 : 지정 대상 보호 (경장)",
+    "english": "Anti-air Command : Target Protect (Light)"
+  },
+  "BuffDesc3_Effect_BR_Marie_N_4": {
+    "korean": "대공 지휘 : 적중 {0}%",
+    "english": "Anti-air Command : ACC {0}%"
+  },
+  "BuffDesc4_Effect_BR_Marie_N_4": {
+    "korean": "대공 지휘 : 행동력 {0}%",
+    "english": "Anti-air Command : SPD {0}%"
+  },
+  "BuffDesc5_Effect_BR_Marie_N_4": {
+    "korean": "대공 지휘 : {0}% HP로 전투 속행",
+    "english": "Anti-air Command : Battle Continuation with {0}% HP"
+  },
+  "BuffDesc1_Effect_BR_Marie_N_15": {
+    "korean": "대공 지휘 : 대 기동형 피해량 증가 {0}%",
+    "english": "Anti-air Command : Anti-Air DMG {0}% Increase"
+  },
+  "BuffDesc2_Effect_BR_Marie_N_15": {
+    "korean": "대공 지휘 : 적중 {0}%",
+    "english": "Anti-air Command : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Marie_N_15": {
+    "korean": "대공 지휘 : 행동력 {0}%",
+    "english": "Anti-air Command : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Marie_N_41": {
+    "korean": "대공 지휘 : 지정 대상 보호 (스틸라인)",
+    "english": "Anti-air Command : Target Protect (Steel Line)"
+  },
+  "BuffDesc1_Effect_BR_Marie_N_42": {
+    "korean": "대공 지휘 : 대 기동형 피해량 증가 {0}% (스틸라인)",
+    "english": "Anti-air Command : Anti-Air DMG {0}% Increase (Steel Line)"
+  },
+  "BuffDesc2_Effect_BR_Marie_N_42": {
+    "korean": "대공 지휘 : 적중 {0}% (스틸라인)",
+    "english": "Anti-air Command : ACC {0}% (Steel Line)"
+  },
+  "BuffDesc3_Effect_BR_Marie_N_42": {
+    "korean": "대공 지휘 : 행동력 {0}% (스틸라인)",
+    "english": "Anti-air Command : SPD {0}% (Steel Line)"
+  },
+  "BuffDesc1_Effect_BR_Marie_N_43": {
+    "korean": "대공 지휘 : {0}% HP로 전투 속행",
+    "english": "Anti-air Command : Battle Continuation with {0}% HP"
+  },
+  "SkillName_Skill_BR_Marie_N_5": {
+    "korean": "화망 구축",
+    "english": "Fire Network"
+  },
+  "SkillDesc_Skill_BR_Marie_N_5": {
+    "korean": "라운드 개시 시, 최대 3회까지 모든 적에게 회피 감소 효과를 적용합니다. 해당 효과는 효과 저항의 영향을 받지 않지만, 해로운 효과 해제로 해제할 수 있습니다.&n<화망 구축>이 2중첩 이상인 대상에게 공격 시, 회피 증가 효과를 해제합니다.&n<화망 구축> 중첩 수가 최대인 대상에게 공격 시, 2라운드 동안 대상의 받는 피해를 증가시킵니다.",
+    "english": "At the start of the round, applies an EVA reduction effect to all enemies up to 3 times. This effect is not affected by Status Resist but can be removed by harmful effect removal. &nWhen attacking a target with 2 or more stacks of <Fire Network>, removes the EVA increase effect. &nWhen attacking a target with the maximum stack of <Fire Network>, increases the target's DMG Taken for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Marie_N_5": {
+    "korean": "적의 회피 감소. 구축 단계에 따라 공격 시, 회피 증가 해제 / 받는 피해 증가.",
+    "english": "Reduces enemy EVA. Depending on the construction stage, removes EVA increase / increases DMG Taken when attacking."
+  },
+  "BuffDesc1_Effect_BR_Marie_N_5": {
+    "korean": "화망 구축 : 회피 {0}%",
+    "english": "Fire Network : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Marie_N_5": {
+    "korean": "화망 구축 Lv.2 : 회피 강화 효과 해제",
+    "english": "Fire Net Formation Lv.2 : EVA Buff Removal"
+  },
+  "BuffDesc3_Effect_BR_Marie_N_5": {
+    "korean": "화망 구축 Lv.3 : 받는 피해 {0}% 증가",
+    "english": "Fire Net Formation Lv.3 : DMG Taken Increased {0}%"
+  }
+}

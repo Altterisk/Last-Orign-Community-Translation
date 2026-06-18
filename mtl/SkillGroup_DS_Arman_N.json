@@ -1,0 +1,170 @@
+{
+  "1002702364": {
+    "korean": "징벌",
+    "english": "Punishment"
+  },
+  "1002702365": {
+    "korean": "기원",
+    "english": "Prayer"
+  },
+  "1002702366": {
+    "korean": "공격대 지휘",
+    "english": "Raid Command"
+  },
+  "1002702367": {
+    "korean": "경호대 지휘",
+    "english": "Escort Command"
+  },
+  "1002702368": {
+    "korean": "예지",
+    "english": "Foresight"
+  },
+  "1002704367": {
+    "korean": "지정 대상에게 {0} 보호 무시 피해를 주고, 2라운드 동안 대상을 표식 / 받는 피해 증가 / 효과 저항 감소 상태로 만듭니다. 치명타 시, 피해량이 증가하며 대상의 강화 효과를 해제합니다.",
+    "english": "Deals {0} damage to the designated target, ignoring protection, and applies Marked / DMG Taken Increased / Effect Resist Down for 2 rounds. On a critical hit, damage is increased and the target's buffs are removed."
+  },
+  "1002703567": {
+    "korean": "지정 대상 {0} 보호 무시 피해. 표식 / 피해 증폭 / 효과 저항 감소. 치명타 시, 피해량 증가 / 강화 해제",
+    "english": "Designated target takes {0} damage that ignores protection. Applies Marked / DMG Taken Increased / Effect Resist Down. On a critical hit, damage is increased and buffs are removed."
+  },
+  "1002704368": {
+    "korean": "아군에게 적용 중인 해로운 효과를 해제하고, 2라운드 동안 효과 저항을 올려줍니다. 자신의 지휘 효과를 받는 아군은 AP가 증가합니다. 스킬 레벨 10에서 자신의 위치와 무관하게 아군 영역 전체에 적용됩니다.",
+    "english": "Removes harmful effects from allies and increases their Effect Resist for 2 rounds. Allies under this unit's Command also gain increased AP. At skill level 10, the effect applies to the entire ally area regardless of position."
+  },
+  "1002703568": {
+    "korean": "해로운 효과 해제 / 효과 저항 증가. 자신의 지휘를 받는 아군은 AP 증가",
+    "english": "Removes harmful effects / Effect Resist Up. Allies under user's Command gain increased AP"
+  },
+  "1002704369": {
+    "korean": "범위 내 공격기에게 공격력 증가 효과를 주며, 자신이 장착한 대 타입 피해량 증가 장비에 따라 대 타입 피해량을 올려줍니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "Grants ATK Up to Attacker units within range and increases large‑type damage based on equipped anti‑type damage gear. Range increases at skill level 10."
+  },
+  "1002703569": {
+    "korean": "공격기 공격력 증가. 자신이 장비한 대 특정 타입 효과를 부여",
+    "english": "Attacker ATK Up. Grants bonus effect against a specific type based on equipped gear."
+  },
+  "1002704370": {
+    "korean": "범위 내 보호기에게 받는 피해 감소 / 회피 증가 효과를 주며, 자신에게 적용된 속성 저항 강화 효과에 맞춰 대상들의 속성 저항력을 올려줍니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "Grants DMG Reduction / EVA Up to Defender units within range, and raises their Elemental Resist according to the Elemental Resist buff on this unit. Range increases at skill level 10."
+  },
+  "1002703570": {
+    "korean": "보호기 받는 피해 감소 / 회피 증가. 자신에게 적용된 속성 저항 효과를 부여",
+    "english": "Defender DMG Reduction / EVA Up. Grants user's current Elemental Resist effects to them."
+  },
+  "1002704371": {
+    "korean": "다음 출현하는 적을 확인할 수 있으며, 모든 적의 방어력 / 적중 / 회피 / 행동력이 감소합니다. 정찰 활성화 상태인 경우, 대상들에게 받는 피해 증가 효과가 추가로 적용됩니다.",
+    "english": "Reveals the next incoming enemy and reduces all enemies' DEF / ACC / EVA / SPD. If Recon Effect is active, targets also receive DMG Taken Increased."
+  },
+  "1002703571": {
+    "korean": "정찰 기능. 모든 적의 방어력 / 회피 / 적중 / 행동력 감소",
+    "english": "Recon Effect. All enemies DEF / EVA / ACC / SPD reduced."
+  },
+  "1000104799": {
+    "korean": "OS 분석 : 대 타입 피해량{0}% (공격기)",
+    "english": "OS Analysis: Large Type Damage {0}% (Attacker)"
+  },
+  "1000105263": {
+    "korean": "효과 분석 : 특정 속성 저항{0}% (보호기)",
+    "english": "Effect Analysis: Specific Attribute Resistance {0}% (Defender)"
+  },
+  "1000103853": {
+    "korean": "예지 : 적 출현 정보 획득",
+    "english": "Precognition: Acquire Enemy Spawn Info"
+  },
+  "1000103840": {
+    "korean": "징벌 : 표식 지정",
+    "english": "Punishment : Marks target"
+  },
+  "1000104798": {
+    "korean": "징벌 : 받는 피해{0}%",
+    "english": "Punishment : DMG Taken {0}%"
+  },
+  "1000103854": {
+    "korean": "징벌 : 효과 저항 감소 {0}%",
+    "english": "Punishment : Status Resist {0}% Decrease"
+  },
+  "1000105594": {
+    "korean": "징벌 : 강화 효과 해제 (치명타 시)",
+    "english": "Punishment : Buff Removal (on CRIT)"
+  },
+  "1000103845": {
+    "korean": "징벌 : 강화 효과 해제",
+    "english": "Punishment : Buff Removal"
+  },
+  "1000103841": {
+    "korean": "계시 : AP{0} (지휘 중인 아군)",
+    "english": "Revelation : AP {0} (Commanded ally)"
+  },
+  "1000103846": {
+    "korean": "기원 : 해로운 효과 해제",
+    "english": "Prayer : Debuff Removal"
+  },
+  "1000105262": {
+    "korean": "기원 : 효과 저항{0}% (1r)",
+    "english": "Prayer : Status Resist {0}% (1r)"
+  },
+  "1000105492": {
+    "korean": "기원 : 효과 저항{0}% (2r)",
+    "english": "Prayer : Status Resist {0}% (2r)"
+  },
+  "1000104802": {
+    "korean": "기원 : 효과 저항{0}%",
+    "english": "Prayer : Status Resist {0}%"
+  },
+  "1000103842": {
+    "korean": "공격대 지휘 : 공격력{0}% (공격기)",
+    "english": "Raid Command : ATK {0}% (Attacker)"
+  },
+  "1000103847": {
+    "korean": "공격대 지휘 : 대 경장 피해량{0}% (공격기)",
+    "english": "Raid Command : Anti-Light DMG {0}% (Attacker)"
+  },
+  "1000103848": {
+    "korean": "공격대 지휘 : 대 기동 피해량{0}% (공격기)",
+    "english": "Raid Command : Anti-Air DMG {0}% (Attacker)"
+  },
+  "1000103849": {
+    "korean": "공격대 지휘 : 대 중장 피해량{0}% (공격기)",
+    "english": "Raid Command : Anti-Heavy DMG {0}% (Attacker)"
+  },
+  "1000103843": {
+    "korean": "경호대 지휘 : 받는 피해 감소 {0}% (보호기)",
+    "english": "Escort Command : DMG Reduction {0}% (Defender)"
+  },
+  "1000104800": {
+    "korean": "경호대 지휘 : 회피{0}% (보호기)",
+    "english": "Escort Command : EVA {0}% (Defender)"
+  },
+  "1000103850": {
+    "korean": "경호대 지휘 : 화염 저항{0}% (보호기)",
+    "english": "Escort Command : Fire Resist {0}% (Defender)"
+  },
+  "1000103851": {
+    "korean": "경호대 지휘 : 냉기 저항{0}% (보호기)",
+    "english": "Escort Command : Cold Resist {0}% (Defender)"
+  },
+  "1000103852": {
+    "korean": "경호대 지휘 : 전기 저항{0}% (보호기)",
+    "english": "Escort Command : Electric Resist {0}% (Defender)"
+  },
+  "1000103844": {
+    "korean": "선제 공격 : 방어력 {0}%",
+    "english": "Preemptive Strike : DEF {0}%"
+  },
+  "1000104801": {
+    "korean": "선제 공격 : 적중 {0}%",
+    "english": "Preemptive Strike : ACC {0}%"
+  },
+  "1000105264": {
+    "korean": "선제 공격 : 회피 {0}%",
+    "english": "Preemptive Strike : EVA {0}%"
+  },
+  "1000105493": {
+    "korean": "선제 공격 : 행동력 {0}%",
+    "english": "Preemptive Strike : SPD {0}%"
+  },
+  "1000105595": {
+    "korean": "기습 : 받는 피해{0}% (정찰 시)",
+    "english": "Ambush : DMG Taken {0}% (On Recon)"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "SkillName_Skill_MP_Speaker13_N_1": {
+    "korean": "키이잉",
+    "english": "Kiiing"
+  },
+  "SkillName_Skill_MP_Speaker13_N_2": {
+    "korean": "끼이이이이익!",
+    "english": "Squeak!"
+  },
+  "SkillName_Skill_MP_Speaker13_N_3": {
+    "korean": "치이이이이익",
+    "english": "Cheeeeeeek"
+  },
+  "SkillName_Skill_MP_Speaker13_N_4": {
+    "korean": "삐삐삐삐",
+    "english": "Beep Beep Beep"
+  },
+  "SkillDesc_Skill_MP_Speaker13_N_1": {
+    "korean": "광범위한 음파를 발사해 대상에게 보호 무시 {0} 전기 피해를 줍니다. 일정 확률로 뒤로 밀칩니다 40%의 적중 보정을 받습니다.",
+    "english": "Fires a wide-range sonic wave at the target, dealing {0} Electric damage that ignores protection. Has a chance to Push Back. 40% ACC bonus applied."
+  },
+  "SkillDesc_Skill_MP_Speaker13_N_2": {
+    "korean": "좁은 범위에 집중 된 음파를 발사해 대상에게 {0} 전기 피해를 주고 방어력/ 회피를 감소시킵니다. 40%의 적중 보정을 받습니다.",
+    "english": "Fires a focused sonic wave at a narrow area, dealing {0} Electric damage and reducing DEF and EVA. 40% ACC bonus applied."
+  },
+  "SkillDesc_Skill_MP_Speaker13_N_3": {
+    "korean": "적에게 피격당하면, 자신의 공격력이 대폭 상승합니다.",
+    "english": "When hit by enemies, greatly increases own ATK."
+  },
+  "SkillDesc_Skill_MP_Speaker13_N_4": {
+    "korean": "라운드 개시 시, 인접한 아군의 적중 및 회피수치를 증가시킵니다.",
+    "english": "At the start of the round, increases ACC and EVA of adjacent allies."
+  },
+  "BuffDesc1_Effect_MP_Speaker13_N_1": {
+    "korean": "뒤로 {0}칸 밀기",
+    "english": "Push Back {0} Tiles : Push Back {0} tiles"
+  },
+  "BuffDesc1_Effect_MP_Speaker13_N_2": {
+    "korean": "끼이이이익! : 방어력 {0}%",
+    "english": "Squeak! : DEF {0}%"
+  },
+  "BuffDesc2_Effect_MP_Speaker13_N_2": {
+    "korean": "키이잉:  회피 {0}%",
+    "english": "Kiiing : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_Speaker13_N_3": {
+    "korean": "치이이이익: 공격력 {0}%",
+    "english": "Cheeeeeeek : ATK {0}%"
+  },
+  "BuffDesc1_Effect_MP_Speaker13_N_4": {
+    "korean": "삐삐삐삐 : 회피 {0}%",
+    "english": "Beep Beep Beep : EVA {0}%"
+  },
+  "BuffDesc2_Effect_MP_Speaker13_N_4": {
+    "korean": "삐삐삐삐 : 적중 {0}%",
+    "english": "Beep Beep Beep : ACC {0}%"
+  }
+}

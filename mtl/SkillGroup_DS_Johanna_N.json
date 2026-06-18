@@ -1,0 +1,210 @@
+{
+  "SkillName_Skill_DS_Johanna_N_1": {
+    "korean": "숙적",
+    "english": "Nemesis"
+  },
+  "SkillName_Skill_DS_Johanna_N_2": {
+    "korean": "기사도",
+    "english": "Chivalry"
+  },
+  "SkillName_Skill_DS_Johanna_N_3": {
+    "korean": "성전 선포",
+    "english": "Declaration of Holy War"
+  },
+  "SkillName_Skill_DS_Johanna_N_4": {
+    "korean": "대사",
+    "english": "Ambassador"
+  },
+  "SkillName_Skill_DS_Johanna_N_5": {
+    "korean": "수호성인",
+    "english": "Patron Saint"
+  },
+  "SkillDesc_Skill_DS_Johanna_N_1": {
+    "korean": "검격으로 {0} 피해를 주고, 2라운드 동안 대상에게 도발 / 공격력 / 치명타 감소 효과를 줍니다.",
+    "english": "Deals {0} damage with a sword strike and applies Provoke / ATK Reduction / CRIT Reduction to the target for 2 rounds."
+  },
+  "SkillDescSimple_Skill_DS_Johanna_N_1": {
+    "korean": "단일 대상 {0} 피해. 도발 / 공격력 / 치명타 감소.",
+    "english": "Single target {0} damage. Provoke / ATK Reduction / CRIT Reduction."
+  },
+  "SkillDesc_Skill_DS_Johanna_N_2": {
+    "korean": "방패를 전개해 3라운드 동안 행 보호 / 열 보호 / 받는 피해 감소 효과를 얻습니다. 스킬 레벨이 오를수록 소모 AP가 감소합니다.",
+    "english": "Deploys a shield to gain Row Protect / Column Protect / DMG Reduction for 3 rounds. AP cost decreases with skill level."
+  },
+  "SkillDescSimple_Skill_DS_Johanna_N_2": {
+    "korean": "행 보호 / 열 보호 / 받는 피해 감소.",
+    "english": "Row Protect / Column Protect / DMG Reduction."
+  },
+  "SkillDesc_Skill_DS_Johanna_N_3": {
+    "korean": "전투 개시 시, 적 수에 비례하여 자신의 방어력이 증가합니다.&n라운드 개시 시, 아군 수에 비례하여 적 전체의 받는 피해가 증가합니다. 해당 효과는 피격 시 해제됩니다.&n<성전 선포>에 의한 받는 피해 증가 효과를 가진 대상에게 <숙적> 적중 시, 대상의 받는 피해 감소 강화 효과를 해제합니다.&n해당 효과는 강화/해로운 효과 해제로 해제할 수 없습니다.",
+    "english": "At the start of battle, increases own DEF based on the number of enemies. At the start of each round, increases DMG Taken Increased for all enemies based on the number of allies. This effect is removed when the enemy is hit. When <Nemesis> hits a target affected by the increased DMG Taken effect from <Declaration of Holy War>, it removes the target's DMG Reduction buff. This effect cannot be removed by buff/debuff removal."
+  },
+  "SkillDescSimple_Skill_DS_Johanna_N_3": {
+    "korean": "자신 방어력 증가. 적 받는 피해 증가.",
+    "english": "Increases own DEF. Increases DMG Taken for enemies."
+  },
+  "SkillDesc_Skill_DS_Johanna_N_4": {
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가합니다.&n<초합금 플레이트 아머> 장착 시, 장비 효과 중 해로운 효과 해제 확률이 100%로 증가합니다.&n대기 시, 아군 전체의 해로운 효과를 해제합니다. 이후, 자신을 제외한 아군의 수에 비례하여 자신은 물리 고정 피해를 입습니다.",
+    "english": "At the start of each round, increases own Status Resist. When equipped with <Superalloy Plate Armor>, the probability of removing harmful effects via gear effects increases to 100%. While waiting, removes harmful effects from all allies. Afterwards, takes Fixed Physical DMG based on the number of allies excluding self."
+  },
+  "SkillDescSimple_Skill_DS_Johanna_N_4": {
+    "korean": "자신 효과 저항 증가. 대기 시, 아군 해로운 효과 해제, 자신 물리 고정 피해.",
+    "english": "Increases own Status Resist. While waiting, removes allies' harmful effects and deals Fixed Physical DMG to self."
+  },
+  "SkillDesc_Skill_DS_Johanna_N_5": {
+    "korean": "라운드 개시 시, 자신은 <기사도> 효과를 모두 획득합니다. 스킬 효과는 <수호성인>의 스킬 레벨에 비례합니다.&n<기사도> 스킬 사용 시, 기존 효과 대신 아군 전체에게 피해 무효화 1회를 부여합니다.&n<초합금 플레이트 아머> 장착 시 증가하는 효과 저항 수치만큼, 라운드 개시 시 자신의 강화 해제 저항이 증가합니다.",
+    "english": "At the start of each round, gains all <Chivalry> effects. The strength of the effects scales with the skill level of <Patron Saint>. When using a <Chivalry> skill, grants 1-time Damage Nullification to all allies instead of the original effect. When equipped with <Superalloy Plate Armor>, increases own Reinforcement Removal Resistance at the start of each round by the amount of Status Resist gained from the armor."
+  },
+  "SkillDescSimple_Skill_DS_Johanna_N_5": {
+    "korean": "<기사도> 효과 활성화. <기사도> 사용 시, 아군 피해 무효화 부여.",
+    "english": "<Chivalry> effect activated. When <Chivalry> is used, grants allies Damage Nullification."
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_1": {
+    "korean": "숙적 : 대상 도발 (요안나)",
+    "english": "Nemesis : Provoke (Yoanna)"
+  },
+  "BuffDesc5_Effect_DS_Johanna_N_5": {
+    "korean": "강복 : 강화 해제 저항 15% ~ 35%",
+    "english": "Blessing : Reinforcement Removal Resistance 15% ~ 35%"
+  },
+  "BuffDesc2_Effect_DS_Johanna_N_1": {
+    "korean": "숙적 : 공격력 {0}%",
+    "english": "Nemesis : ATK {0}%"
+  },
+  "BuffDesc3_Effect_DS_Johanna_N_1": {
+    "korean": "숙적 : 치명타 {0}%",
+    "english": "Nemesis : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_11": {
+    "korean": "갈파 : 받는 피해 감소 해제",
+    "english": "Cleave : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_2": {
+    "korean": "기사도 : 행 보호",
+    "english": "Chivalry : Row Protect"
+  },
+  "BuffDesc2_Effect_DS_Johanna_N_2": {
+    "korean": "기사도 : 받는 피해 {0}% 감소",
+    "english": "Chivalry : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_DS_Johanna_N_2": {
+    "korean": "기사도 : 열 보호",
+    "english": "Chivalry : Column Protect"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_21": {
+    "korean": "기사도 : 받는 피해 {0}% 감소",
+    "english": "Chivalry : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_3": {
+    "korean": "성전 선포 : 방어력 {0}% (1인)",
+    "english": "Declaration of Holy War : DEF {0}% (1 Unit)"
+  },
+  "BuffDesc2_Effect_DS_Johanna_N_3": {
+    "korean": "성전 선포 : 받는 피해 {0}% 증가 (1인)",
+    "english": "Declaration of Holy War : DMG Taken Increased {0}% (1 Unit)"
+  },
+  "BuffDesc3_Effect_DS_Johanna_N_3": {
+    "korean": "갈파 : 받는 피해 감소 해제",
+    "english": "Cleave : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_31": {
+    "korean": "성전 선포 : 방어력 {0}% (2인)",
+    "english": "Declaration of Holy War : DEF {0}% (2 Units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_32": {
+    "korean": "성전 선포 : 방어력 {0}% (3인)",
+    "english": "Declaration of Holy War : DEF {0}% (3 Units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_33": {
+    "korean": "성전 선포 : 방어력 {0}% (4인)",
+    "english": "Declaration of Holy War : DEF {0}% (4 Units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_34": {
+    "korean": "성전 선포 : 방어력 {0}% (5인)",
+    "english": "Declaration of Holy War : DEF {0}% (5 Units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_35": {
+    "korean": "성전 선포 : 방어력 {0}% (6인)",
+    "english": "Declaration of Holy War : DEF {0}% (6 units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_36": {
+    "korean": "성전 선포 : 방어력 {0}% (7인)",
+    "english": "Declaration of Holy War : DEF {0}% (7 units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_37": {
+    "korean": "성전 선포 : 방어력 {0}% (8인)",
+    "english": "Declaration of Holy War : DEF {0}% (8 units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_38": {
+    "korean": "성전 선포 : 방어력 {0}% (9인)",
+    "english": "Declaration of Holy War : DEF {0}% (9 units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_39": {
+    "korean": "성전 선포 : 받는 피해 {0}% 증가 (1인)",
+    "english": "Declaration of Holy War : DMG Taken Increased {0}% (1 Unit)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_310": {
+    "korean": "성전 선포 : 받는 피해 {0}% 증가 (2인)",
+    "english": "Declaration of Holy War : DMG Taken Increased {0}% (2 Units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_311": {
+    "korean": "성전 선포 : 받는 피해 {0}% 증가 (3인)",
+    "english": "Declaration of Holy War : DMG Taken Increased {0}% (3 Units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_312": {
+    "korean": "성전 선포 : 받는 피해 {0}% 증가 (4인)",
+    "english": "Declaration of Holy War : DMG Taken Increased {0}% (4 Units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_313": {
+    "korean": "성전 선포 : 받는 피해 {0}% 증가 (5인)",
+    "english": "Declaration of Holy War : DMG Taken Increased {0}% (5 Units)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_4": {
+    "korean": "축성 : 효과 저항 {0}% 증가",
+    "english": "Sanctification : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_DS_Johanna_N_4": {
+    "korean": "면벌 : 해로운 효과 해제",
+    "english": "Absolution : Debuff Removal"
+  },
+  "BuffDesc3_Effect_DS_Johanna_N_4": {
+    "korean": "봉헌 : 물리 고정 피해 {0} (1인)",
+    "english": "Offering : Fixed Physical DMG {0} (1 Unit)"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_41": {
+    "korean": "면벌 : 해로운 효과 해제",
+    "english": "Absolution : Debuff Removal"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_42": {
+    "korean": "봉헌 : 물리 고정 피해 {0}",
+    "english": "Offering : Fixed Physical DMG {0}"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_46": {
+    "korean": "강복 : 해로운 효과 해제",
+    "english": "Blessing : Debuff Removal"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_5": {
+    "korean": "수호성인 : 행 보호",
+    "english": "Patron Saint : Row Protect"
+  },
+  "BuffDesc2_Effect_DS_Johanna_N_5": {
+    "korean": "수호성인 : 받는 피해 {0}% 감소",
+    "english": "Patron Saint : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_DS_Johanna_N_5": {
+    "korean": "수호성인 : 열 보호",
+    "english": "Patron Saint : Column Protect"
+  },
+  "BuffDesc4_Effect_DS_Johanna_N_5": {
+    "korean": "성광 : 피해 무효화 {0}회",
+    "english": "Divine Radiance : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_51": {
+    "korean": "성광 : 피해 무효화 {0}회",
+    "english": "Divine Radiance : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_DS_Johanna_N_52": {
+    "korean": "강복 : 강화 해제 저항 {0}%",
+    "english": "Blessing : Buff Removal Resist {0}%"
+  }
+}

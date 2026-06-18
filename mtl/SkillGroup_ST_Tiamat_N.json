@@ -1,0 +1,226 @@
+{
+  "1002702493": {
+    "korean": "대 장갑 블레이드",
+    "english": "Heavy Armor Blade"
+  },
+  "1002702494": {
+    "korean": "풀 웨폰 어썰트",
+    "english": "Full Weapon Assault"
+  },
+  "1002702495": {
+    "korean": "간파",
+    "english": "Pierce"
+  },
+  "1002702496": {
+    "korean": "쐐기대형",
+    "english": "Wedge Formation"
+  },
+  "1002702497": {
+    "korean": "우회 공격",
+    "english": "Flanking Attack"
+  },
+  "SkillDesc_Skill_ST_Tiamat_N_1": {
+    "korean": "대상에게 {0} 피해를 주고, 치명타 시 피해량이 증가합니다. 2라운드 동안 대상의 방어력을 감소시키며, 대상이 <간파> 상태면 받는 피해가 증가합니다. 자신 회피에 비례하여 스킬 위력이 증가합니다.",
+    "english": "Deals {0} damage to the target, and damage is increased on CRIT. Reduces the target’s DEF for 2 rounds, and if the target is in <Pierce> state, DMG Taken Increased. Skill Power increases proportionally to your EVA."
+  },
+  "SkillDescSimple_Skill_ST_Tiamat_N_1": {
+    "korean": "단일 대상 {0} 피해. 치명타 시, 피해량 증가. 대상 방어력 감소 / 받는 피해 증가. 스킬 위력 증가",
+    "english": "DMG Increased. Target DEF Reduced / DMG Taken Increased. Skill Power Increased"
+  },
+  "SkillDesc_Skill_ST_Tiamat_N_2": {
+    "korean": "대상에게 {0} 피해를 줍니다. 대상의 방어막 / 피해 감소 효과를 무시하며, 대상이 중장형이거나 치명타 시 피해량이 증가합니다. 스킬 사용 시, 자신의 공격력에 비례한 고정 피해를 입으며, 자신의 현재 HP가 낮을수록 피해량이 증가합니다.",
+    "english": "Deals {0} damage to the target. Ignores the target’s Barrier / DMG Reduction. Damage is increased if the target is Heavy or on a CRIT. When using the skill, deals Fixed DMG based on your ATK, and DMG Proportional to Lost HP."
+  },
+  "SkillDescSimple_Skill_ST_Tiamat_N_2": {
+    "korean": "단일 대상 {0} 피해. 중장형 / 치명타 시, 피해량 증가. 방어막 / 받는 피해 감소 무시. 자신에게 고정 피해. HP가 낮을수록 피해량 증가",
+    "english": "DMG Increased. Barrier / DMG Reduction Ignored. Fixed DMG to self. DMG Proportional to Lost HP"
+  },
+  "SkillDesc_Skill_ST_Tiamat_N_3": {
+    "korean": "라운드 개시 시, 자신보다 행동력이 낮은 적의 행동을 간파해 적중과 회피를 감소시킵니다. 자신은 회피가 증가하며, 해당 상태에서 공격받으면 반격합니다. 적을 공격하면 공격력이 최대 3회까지 증가합니다.",
+    "english": "At round start, pierces enemies with lower SPD, reducing their ACC and EVA. You gain increased EVA, and Counter Attack when attacked in this state. Your ATK increases up to 3 times when attacking enemies."
+  },
+  "SkillDescSimple_Skill_ST_Tiamat_N_3": {
+    "korean": "회피 증가. 해당 효과 상태에서 공격 받으면 반격. 적 공격 시, 공격력 증가. 적 적중 / 회피 감소",
+    "english": "EVA Increased. Counter Attack when attacked while this effect is active. ATK Increased when attacking enemies. Enemy ACC / EVA Reduced"
+  },
+  "SkillDesc_Skill_ST_Tiamat_N_4": {
+    "korean": "범위 내 기동형 아군들의 치명타 / 적중 / 행동력이 증가합니다. 자신이 전열이면 경장형 / 중장형 아군에게도 적용됩니다.",
+    "english": "Air-type allies within range gain increased CRIT / ACC / SPD. If you are in the front row, Light / Heavy allies also receive the effect."
+  },
+  "SkillDescSimple_Skill_ST_Tiamat_N_4": {
+    "korean": "기동형 아군 치명타 / 적중 / 행동력 증가. 전열이면 경장형 / 중장형 아군도 적용",
+    "english": "Air-type allies CRIT / ACC / SPD Increased. Front row: Light / Heavy allies also affected"
+  },
+  "SkillDesc_Skill_ST_Tiamat_N_5": {
+    "korean": "자신의 방어 관통이 증가하며, 정찰로 다음에 출현할 적을 확인할 수 있습니다. 정찰 활성화 상태로 라운드 개시 시, 방어 관통 / 회피 / 적중 / 행동력이 증가합니다.",
+    "english": "Your DEF Penetration increases, and you can scout the next appearing enemy. With Recon Effect active at round start, DEF Penetration / EVA / ACC / SPD increase."
+  },
+  "SkillDescSimple_Skill_ST_Tiamat_N_5": {
+    "korean": "방어 관통 증가 / 정찰. 정찰 활성화 시, 방어 관통 / 회피 / 적중 / 행동력 증가",
+    "english": "DEF Penetration Increased / Recon. Recon active: DEF Penetration / EVA / ACC / SPD Increased"
+  },
+  "BuffDesc4_Effect_ST_Tiamat_N_1": {
+    "korean": "대 장갑 블레이드 : 회피의 {0}% 만큼 스킬 위력 증가",
+    "english": "Heavy Armor Blade : Skill Power increases by {0}% of EVA"
+  },
+  "BuffDesc4_Effect_ST_Tiamat_N_2": {
+    "korean": "F.W 어썰트 : 자신 HP% 낮을수록 피해량{0}%",
+    "english": "Full Weapon Assault : Damage increases by {0}% as own HP% decreases"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_24": {
+    "korean": "F.W 어썰트 : 자신 HP% 낮을수록 피해량{0}%",
+    "english": "Full Weapon Assault : Damage increases by {0}% as own HP% decreases"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_51": {
+    "korean": "우회 공격 : 적 출현 정보 획득",
+    "english": "Flanking Attack : Reveals Enemy Location"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_1": {
+    "korean": "회심의 일격 : 피해량{0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_ST_Tiamat_N_1": {
+    "korean": "대 장갑 블레이드 : 방어력 {0}%",
+    "english": "Anti-Armor Blade : DEF {0}%"
+  },
+  "BuffDesc3_Effect_ST_Tiamat_N_1": {
+    "korean": "대 장갑 블레이드 : 받는 피해{0}% (간파)",
+    "english": "Anti-Armor Blade : DMG Taken {0}% (Insight)"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_11": {
+    "korean": "대 장갑 블레이드 : 받는 피해{0}% (간파)",
+    "english": "Anti-Armor Blade : DMG Taken {0}% (Insight)"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_12": {
+    "korean": "대 장갑 블레이드 : 방어력 {0}%",
+    "english": "Anti-Armor Blade : DEF {0}%"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_13": {
+    "korean": "대 장갑 블레이드 : 스킬 위력{0}%",
+    "english": "Anti-Armor Blade : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_2": {
+    "korean": "F.W 어썰트 : 방어막 / 피해 감소 무시",
+    "english": "F.W Assault : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc2_Effect_ST_Tiamat_N_2": {
+    "korean": "F.W 어썰트 : 대 중장형 피해량{0}%",
+    "english": "F.W Assault : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc3_Effect_ST_Tiamat_N_2": {
+    "korean": "회심의 일격 : 피해량{0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc5_Effect_ST_Tiamat_N_2": {
+    "korean": "과부하 : 공격력 {0}% 고정 피해 (자신)",
+    "english": "Overload : ATK {0}% Fixed DMG (Self)"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_21": {
+    "korean": "회심의 일격 : 피해량{0}%",
+    "english": "Critical Strike : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_22": {
+    "korean": "F.W 어썰트 : 대 중장형 피해량{0}%",
+    "english": "F.W Assault : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_23": {
+    "korean": "과부하 : 공격력 {0}% 고정 피해",
+    "english": "Overload : ATK {0}% Fixed DMG"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_3": {
+    "korean": "간파 : 공격력{0}%",
+    "english": "Penetration : ATK {0}%"
+  },
+  "BuffDesc2_Effect_ST_Tiamat_N_3": {
+    "korean": "간파 : 회피{0}%",
+    "english": "Penetration : EVA {0}%"
+  },
+  "BuffDesc3_Effect_ST_Tiamat_N_3": {
+    "korean": "간파 : {0}% 위력으로 반격",
+    "english": "Penetration : Counter Attack with {0}% Power"
+  },
+  "BuffDesc4_Effect_ST_Tiamat_N_3": {
+    "korean": "적 간파 : 적중{0}%",
+    "english": "Enemy Insight : ACC {0}%"
+  },
+  "BuffDesc5_Effect_ST_Tiamat_N_3": {
+    "korean": "적 간파 : 회피{0}%",
+    "english": "Enemy Insight : EVA {0}%"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_31": {
+    "korean": "간파 : 회피{0}%",
+    "english": "Penetration : EVA {0}%"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_32": {
+    "korean": "간파 : {0}% 위력으로 반격",
+    "english": "Penetration : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_33": {
+    "korean": "간파 : 적중{0}%",
+    "english": "Penetration : ACC {0}%"
+  },
+  "BuffDesc2_Effect_ST_Tiamat_N_33": {
+    "korean": "간파 : 회피{0}%",
+    "english": "Penetration : EVA {0}%"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_4": {
+    "korean": "쐐기대형 : 치명타{0}% (기동)",
+    "english": "Wedge Formation : CRIT {0}% (Air)"
+  },
+  "BuffDesc2_Effect_ST_Tiamat_N_4": {
+    "korean": "쐐기대형 : 행동력{0}% (기동)",
+    "english": "Wedge Formation : SPD {0}% (Air)"
+  },
+  "BuffDesc3_Effect_ST_Tiamat_N_4": {
+    "korean": "쐐기대형 : 적중{0}% (기동)",
+    "english": "Wedge Formation : ACC {0}% (Air)"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_41": {
+    "korean": "쐐기대형 : 치명타{0}% (경장/중장)",
+    "english": "Wedge Formation : CRIT {0}% (Light/Heavy)"
+  },
+  "BuffDesc2_Effect_ST_Tiamat_N_41": {
+    "korean": "쐐기대형 : 행동력{0}% (경장/중장)",
+    "english": "Wedge Formation : SPD {0}% (Light/Heavy)"
+  },
+  "BuffDesc3_Effect_ST_Tiamat_N_41": {
+    "korean": "쐐기대형 : 적중{0}% (경장/중장)",
+    "english": "Wedge Formation : ACC {0}% (Light/Heavy)"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_5": {
+    "korean": "우회 공격 : 방어 관통{0}%",
+    "english": "Flanking Attack : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_ST_Tiamat_N_5": {
+    "korean": "우회 공격 : 적중{0}% (정찰 시)",
+    "english": "Flanking Attack : ACC {0}% (On Recon)"
+  },
+  "BuffDesc3_Effect_ST_Tiamat_N_5": {
+    "korean": "우회 공격 : 행동력{0}% (정찰 시)",
+    "english": "Flanking Attack : SPD {0}% (On Recon)"
+  },
+  "BuffDesc4_Effect_ST_Tiamat_N_5": {
+    "korean": "우회 공격 : 회피{0}% (정찰 시)",
+    "english": "Flanking Attack : EVA {0}% (On Recon)"
+  },
+  "BuffDesc5_Effect_ST_Tiamat_N_5": {
+    "korean": "우회 공격 : 방어 관통{0}% (정찰 시)",
+    "english": "Flanking Attack : DEF Penetration {0}% (On Recon)"
+  },
+  "BuffDesc1_Effect_ST_Tiamat_N_52": {
+    "korean": "우회 공격 : 적중{0}%",
+    "english": "Flanking Attack : ACC {0}%"
+  },
+  "BuffDesc2_Effect_ST_Tiamat_N_52": {
+    "korean": "우회 공격 : 회피{0}%",
+    "english": "Flanking Attack : EVA {0}%"
+  },
+  "BuffDesc3_Effect_ST_Tiamat_N_52": {
+    "korean": "우회 공격 : 행동력{0}%",
+    "english": "Flanking Attack : SPD {0}%"
+  },
+  "BuffDesc4_Effect_ST_Tiamat_N_52": {
+    "korean": "우회 공격 : 방어 관통{0}% (정찰 시)",
+    "english": "Flanking Attack : DEF Penetration {0}% (On Recon)"
+  }
+}

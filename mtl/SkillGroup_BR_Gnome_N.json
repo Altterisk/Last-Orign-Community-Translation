@@ -1,0 +1,222 @@
+{
+  "1002701375": {
+    "korean": "원호 사격",
+    "english": "Arc Shot"
+  },
+  "1002704076": {
+    "korean": "사격으로 {0} 피해를 주고, 2라운드 동안 대상을 표식으로 설정합니다. 대상은 회피가 감소하며 받는 피해가 증가합니다.",
+    "english": "Deals {0} damage with a shot and applies Marked to the target for 2 rounds. Marked targets have reduced EVA and increased DMG Taken."
+  },
+  "1002703354": {
+    "korean": "단일 대상 {0} 피해. 표식 / 회피 감소 / 피해 증폭",
+    "english": "Single target {0} damage. Applies Marked, reduces EVA, and increases DMG Taken."
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_1": {
+    "korean": "원호 사격 : 표식",
+    "english": "Arc Shot : Marked"
+  },
+  "BuffDesc2_Effect_BR_Gnome_N_1": {
+    "korean": "원호 사격 : 회피{0}%",
+    "english": "Arc Shot : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_Gnome_N_1": {
+    "korean": "원호 사격 : 받는 피해{0}%",
+    "english": "Arc Shot : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_11": {
+    "korean": "원호 사격 : 받는 피해{0}%",
+    "english": "Arc Shot : DMG Taken {0}%"
+  },
+  "1002701376": {
+    "korean": "방벽 생성",
+    "english": "Barrier Generation"
+  },
+  "1002704077": {
+    "korean": "3라운드 동안 행 보호 효과와 방어력 / 효과 저항 증가 효과를 얻고, 자신의 현재 HP%에 비례해 공격자의 방어 관통이 감소합니다. <방벽 생성>의 효과는 중첩되지 않습니다.",
+    "english": "Grants Row Protect and increases DEF and Status Resist for 3 rounds. Reduces the attacker’s DEF Penetration based on the user’s current HP%. The effect of <Barrier Generation> does not stack."
+  },
+  "1002703355": {
+    "korean": "행 보호 / 방어력, 효과 저항 증가 / 공격자 방어 관통 감소",
+    "english": "Row Protect / increases DEF and Status Resist / reduces attacker’s DEF Penetration"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_2": {
+    "korean": "방벽 생성 : 행 보호",
+    "english": "Barrier Generation : Row Protect"
+  },
+  "BuffDesc2_Effect_BR_Gnome_N_2": {
+    "korean": "방벽 생성 : 방어력{0}%",
+    "english": "Barrier Generation : DEF {0}%"
+  },
+  "BuffDesc3_Effect_BR_Gnome_N_2": {
+    "korean": "방벽 생성 : 효과 저항{0}%",
+    "english": "Barrier Generation : Status Resist {0}%"
+  },
+  "BuffDesc4_Effect_BR_Gnome_N_2": {
+    "korean": "방벽 생성 : 방어 관통 저항{0}% (최대)",
+    "english": "Barrier Generation: DEF Penetration Resistance {0}% (Max)"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_21": {
+    "korean": "방벽 생성 : 방어력{0}%",
+    "english": "Barrier Generation : DEF {0}%"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_22": {
+    "korean": "방벽 생성 : 효과 저항{0}%",
+    "english": "Barrier Generation : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_24": {
+    "korean": "방벽 생성 : 방어 관통 저항{0}% (최대)",
+    "english": "Barrier Generation: DEF Penetration Resistance {0}% (Max)"
+  },
+  "1002702525": {
+    "korean": "스틸라인 포메이션",
+    "english": "Steel Line Formation"
+  },
+  "SkillDesc_Skill_BR_Gnome_N_3": {
+    "korean": "라운드 개시 시, 자신이 받는 피해가 감소합니다. 스쿼드 내에 자신을 제외한 <스틸라인 계통> 전투원이 있을 경우 범위 내 보호기를 제외한 아군을 지정 보호하며 행동력을 증가시킵니다.",
+    "english": "At the start of the round, reduces DMG Taken for self. If a <Steel Line Affiliation> unit other than self is in the squad, grants Target Protect to allies within range (excluding defenders) and increases SPD."
+  },
+  "1002703604": {
+    "korean": "받는 피해 감소. 조건부 아군 지정 보호 및 행동력 증가",
+    "english": "Reduces DMG Taken. Conditional ally Target Protect and SPD increase."
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_3": {
+    "korean": "STL 포메이션 : 받는 피해 {0}% 감소 (자신)",
+    "english": "STL Formation : Damage Taken {0}% Reduction (Self)"
+  },
+  "BuffDesc2_Effect_BR_Gnome_N_3": {
+    "korean": "STL 포메이션 : 지정 대상 보호 (조건부)",
+    "english": "STL Formation : Designated target protection (Conditional)"
+  },
+  "BuffDesc3_Effect_BR_Gnome_N_3": {
+    "korean": "STL 포메이션 : 행동력{0}% (조건부)",
+    "english": "STL Formation : SPD {0}% (Conditional)"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_12": {
+    "korean": "STL 포메이션 : 지정 대상 보호",
+    "english": "STL Formation : Designated Protection"
+  },
+  "BuffDesc2_Effect_BR_Gnome_N_12": {
+    "korean": "STL 포메이션 : 행동력{0}%",
+    "english": "STL Formation : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_31": {
+    "korean": "돌격 전술 대응 : 공격력{0}%",
+    "english": "Counter Tactics : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Gnome_N_31": {
+    "korean": "돌격 전술 대응 : 적중{0}%",
+    "english": "Assault Tactics Response : ACC {0}%"
+  },
+  "SkillName_Skill_BR_Gnome_N_4": {
+    "korean": "견제 위치 선점",
+    "english": "Preemptive Suppression Position"
+  },
+  "SkillDesc_Skill_BR_Gnome_N_4": {
+    "korean": "라운드 개시 시, 적 전체의 공격력 / 치명타를 감소시킵니다. 대상이 <원호 사격 : 표식> 상태라면 기본 효과가 추가 적용되며 AP를 감소 시킵니다. <방벽 생성> 스킬 사용 시,  대상에게 도발을 적용하고 후열의 적에게는  보호 무시 기능을 비활성화 시킵니다.",
+    "english": "At the start of the round, reduces ATK and CRIT of all enemies. If the target is under <Arc Shot: Marked>, the base effect is applied additionally and their AP is reduced. When using the <Barrier Generation> skill, applies Provoked to the target and disables Ignore Protection for enemies in the back row."
+  },
+  "SkillDescSimple_Skill_BR_Gnome_N_4": {
+    "korean": "공격력, 치명타 감소 / 도발 / 보호 무시 비활성화 / AP 감소",
+    "english": "ATK/CRIT Reduction / Provoked / Ignore Protection disabled / AP Reduction"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_4": {
+    "korean": "견제 위치 선점 : 공격력{0}%",
+    "english": "Preemptive Suppression Position : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Gnome_N_4": {
+    "korean": "견제 위치 선점 : 치명타{0}%",
+    "english": "Preemptive Suppression Position : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Gnome_N_4": {
+    "korean": "견제 위치 선점 : 도발 (조건부)",
+    "english": "Preemptive Suppression Position: Provoked (Conditional)"
+  },
+  "BuffDesc4_Effect_BR_Gnome_N_4": {
+    "korean": "견제 위치 선점 : 보호 무시 비활성화 (조건부)",
+    "english": "Preemptive Suppression Position: Ignore Protection disabled (Conditional)"
+  },
+  "BuffDesc5_Effect_BR_Gnome_N_4": {
+    "korean": "견제 위치 선점 : AP{0} (조건부)",
+    "english": "Preemptive Suppression Position : AP {0} (Conditional)"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_41": {
+    "korean": "견제 위치 선점 : 공격력{0}%",
+    "english": "Preemptive Suppression Position : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Gnome_N_41": {
+    "korean": "견제 위치 선점 : 치명타{0}%",
+    "english": "Preemptive Suppression Position : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Gnome_N_41": {
+    "korean": "견제 위치 선점 : AP{0}",
+    "english": "Preemptive Suppression Position : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_42": {
+    "korean": "견제 위치 선점 : 도발",
+    "english": "Preemptive Suppression Position : Provokes"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_43": {
+    "korean": "견제 위치 선점 : 보호 무시 비활성화",
+    "english": "Preemptive Suppression Position : Deactivate Ignore Protection"
+  },
+  "SkillName_Skill_BR_Gnome_N_5": {
+    "korean": "돌격 전술 대응",
+    "english": "Assault Tactic Counter"
+  },
+  "SkillDesc_Skill_BR_Gnome_N_5": {
+    "korean": "전투 시작 시, 해제 불가능한 받는 피해 감소 / 모든 속성 저항 / 강화 해제 저항 효과를 얻습니다. 라운드 개시 시, AP가 증가하며 자신을 제외한 <스틸라인 계열> 부대원이 있거나 공격 지원을 받는 경우 AP가 추가로 증가합니다. 라운드 개시 시, <스틸라인 포메이션> 범위 내 공격기 / 지원기 아군의 공격력 / 적중이 증가합니다.",
+    "english": "At the start of battle, gains non‑removable DMG Taken Reduction, All‑Attribute Resistance, and Buff Removal Resistance. At the start of each round, AP increases. If there is a <Steel Line Affiliation> unit other than self or the unit receives Follow‑Up Attack, AP increases further. At the start of the round, ATK and ACC of allied Attackers and Supporters within <Steel Line Formation> are increased."
+  },
+  "SkillDescSimple_Skill_BR_Gnome_N_5": {
+    "korean": "받는 피해 감소 / 모든 속성 저항, AP 증가",
+    "english": "DMG Taken Reduction / All‑Attribute Resistance increase / AP increase"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_5": {
+    "korean": "돌격 전술 대응 : 받는 피해 감소{0}%",
+    "english": "Assault Tactic Counter : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_BR_Gnome_N_5": {
+    "korean": "돌격 전술 대응 : 모든 속성 저항{0}%",
+    "english": "Assault Tactic Counter : Elemental Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_Gnome_N_5": {
+    "korean": "돌격 전술 대응 : AP{0}",
+    "english": "Assault Tactic Counter : AP {0}"
+  },
+  "BuffDesc4_Effect_BR_Gnome_N_5": {
+    "korean": "돌격 전술 대응 : 공격력{0}% (공격기/지원기)",
+    "english": "Assault Tactic Counter: ATK {0}% (Attacker/Supporter)"
+  },
+  "BuffDesc5_Effect_BR_Gnome_N_5": {
+    "korean": "돌격 전술 대응 : 적중{0}% (공격기/지원기)",
+    "english": "Assault Tactic Counter: ACC {0}% (Attacker/Supporter)"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_51": {
+    "korean": "돌격 전술 대응 : 화염 저항{0}%",
+    "english": "Assault Tactic Counter : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Gnome_N_51": {
+    "korean": "돌격 전술 대응 : 냉기 저항{0}%",
+    "english": "Assault Tactic Counter : Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_BR_Gnome_N_51": {
+    "korean": "돌격 전술 대응 : 전기 저항{0}%",
+    "english": "Assault Tactic Counter : Electric Resist {0}%"
+  },
+  "BuffDesc4_Effect_BR_Gnome_N_51": {
+    "korean": "돌격 전술 대응 : 강화 해제 저항{0}%",
+    "english": "Assault Tactic Counter : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_52": {
+    "korean": "돌격 전술 대응 : AP{0}",
+    "english": "Assault Tactic Counter : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_53": {
+    "korean": "돌격 전술 대응 : AP{0}",
+    "english": "Assault Tactic Counter : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Gnome_N_54": {
+    "korean": "돌격 전술 대응 : AP{0}",
+    "english": "Assault Tactic Counter : AP {0}"
+  }
+}

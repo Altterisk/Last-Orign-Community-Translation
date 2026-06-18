@@ -1,0 +1,254 @@
+{
+  "SkillName_Skill_3P_Amphitrite_N_1": {
+    "korean": "함포 사격 : 전자교란탄",
+    "english": "Naval Gunfire: Electronic Disruption Shell"
+  },
+  "SkillDesc_Skill_3P_Amphitrite_N_1": {
+    "korean": "지정 범위 적에게 {0} 피해를 주고, 대상의 피해 감소 / 행 보호 / 열 보호 효과를 해제합니다. 대상이 보호기일 경우, 2라운드 동안 강화 불가 상태로 만듭니다. 대상이 행 보호 상태가 아닐 경우, 피해량이 증가합니다.",
+    "english": "Deals {0} damage to enemies in the target area and removes their Damage Reduction / Row Guard / Column Guard effects.&nIf the target is a Defender Type, inflicts Cannot Be Buffed for 2 rounds.&nIf the target is not under Row Guard, damage is increased."
+  },
+  "SkillDescSimple_Skill_3P_Amphitrite_N_1": {
+    "korean": "목표 지점 {0} 피해. 대상 피해 감소 효과, 행/열 보호 효과 해제. 보호기 대상 강화 불가 상태. 추가 피해",
+    "english": "Deals {0} damage to target area. Removes DMG Reduction, Row/Column Protect effects. Inflicts Buff Prevention on defenders. Additional DMG"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_1": {
+    "korean": "전자교란탄 : 피해 감소 효과 해제",
+    "english": "Electronic Disruption Shell: DMG Reduction Removal"
+  },
+  "BuffDesc2_Effect_3P_Amphitrite_N_1": {
+    "korean": "전자교란탄 : 행 보호 효과 해제",
+    "english": "Electromagnetic Jammer : Row Protect Effect Removal"
+  },
+  "BuffDesc3_Effect_3P_Amphitrite_N_1": {
+    "korean": "전자교란탄 : 열 보호 효과 해제",
+    "english": "Electromagnetic Disruptor Shell: Column Protect Effect Removal"
+  },
+  "BuffDesc4_Effect_3P_Amphitrite_N_1": {
+    "korean": "전자교란탄 : 강화 불가 상태 (보호기)",
+    "english": "Electronic Disruptor: Unreinforceable State (Defender)"
+  },
+  "BuffDesc5_Effect_3P_Amphitrite_N_1": {
+    "korean": "전자교란탄 : 피해량{0}%",
+    "english": "Electronic Disruptor: Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_11": {
+    "korean": "전자교란탄 : 행 보호 해제",
+    "english": "Electronic Disruption Shell: Row Protect Removal"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_12": {
+    "korean": "전자교란탄 : 열 보호 해제",
+    "english": "Electronic Disruption Shell: Column Protect Removal"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_13": {
+    "korean": "전자교란탄 : 강화 불가 상태",
+    "english": "Electronic Disruption Shell: Enhancement Disabled State"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_14": {
+    "korean": "전자교란탄 : 피해량{0}%",
+    "english": "Electronic Disruption Shell: Additional DMG {0}%"
+  },
+  "SkillName_Skill_3P_Amphitrite_N_2": {
+    "korean": "함포 사격 : 전자기 고폭탄",
+    "english": "Naval Gunfire: Electromagnetic High-Explosive Shell"
+  },
+  "SkillDesc_Skill_3P_Amphitrite_N_2": {
+    "korean": "지정 범위 적에게 {0} 보호 무시 피해를 주고, 대상의 행동력 증가 / 지정 보호 효과를 해제합니다. 대상이 이동 불가 또는 회피 감소 상태일 경우, 대상의 AP를 감소시키고 피해량이 증가합니다.",
+    "english": "Deals {0} shield-piercing damage to enemies in the target area and removes their SPD Up / Targeted Guard effects.&nIf the target is Immobilized or under EVA Down, reduces their AP and increases damage dealt."
+  },
+  "SkillDescSimple_Skill_3P_Amphitrite_N_2": {
+    "korean": "목표 지점 {0} 보호 무시 피해. 대상 행동력 증가 효과, 지정 보호 효과 해제. AP 감소 및 추가 피해.",
+    "english": "Deals {0} Ignore Protection damage to target area. Removes SPD Up and Target Protect effects. Reduces AP and deals Additional DMG."
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_2": {
+    "korean": "전자기 고폭탄 : 행동력 증가 효과 해제",
+    "english": "Electromagnetic High-Explosive Shell: SPD Buff Removal"
+  },
+  "BuffDesc2_Effect_3P_Amphitrite_N_2": {
+    "korean": "전자기 고폭탄 : 지정 보호 효과 해제",
+    "english": "Electromagnetic High-Explosive Bomb : Target Protect Effect Removal"
+  },
+  "BuffDesc3_Effect_3P_Amphitrite_N_2": {
+    "korean": "전자기 고폭탄 : AP{0}",
+    "english": "Electromagnetic HE Bomb: AP {0}"
+  },
+  "BuffDesc4_Effect_3P_Amphitrite_N_2": {
+    "korean": "전자기 고폭탄 : 피해량{0}%",
+    "english": "Electromagnetic High Explosive: Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_21": {
+    "korean": "전자기 고폭탄 : 지정 보호 해제",
+    "english": "Electromagnetic High-Explosive Shell: Target Protect Removal"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_22": {
+    "korean": "전자기 고폭탄 : AP{0}",
+    "english": "Electromagnetic High-Explosive Shell: AP {0}"
+  },
+  "BuffDesc2_Effect_3P_Amphitrite_N_22": {
+    "korean": "전자기 고폭탄 : 피해량{0}%",
+    "english": "Electromagnetic High-Explosive Bomb : Additional DMG {0}%"
+  },
+  "SkillName_Skill_3P_Amphitrite_N_3": {
+    "korean": "함대 전술 지휘",
+    "english": "Fleet Tactical Command"
+  },
+  "SkillDesc_Skill_3P_Amphitrite_N_3": {
+    "korean": "라운드 개시 시, 방어 관통이 증가하며 자신을 제외한 아군 전투원 수에 비례하여 적중이 증가합니다. 1스킬 사용 시 공격력이 증가하며 <돌격 진형> 버프가 적용됩니다. 2스킬 사용 시 행동력이 증가하며 <우회 진형> 버프가 적용됩니다. 각각의 효과는 3라운드 동안 지속되며, 최대 2번까지 중첩됩니다.",
+    "english": "At the start of the round, increases DEF Penetration, and boosts ACU based on the number of allied units excluding self.&nUsing Skill 1 increases ATK and grants the Assault Formation buff.&nUsing Skill 2 increases SPD and grants the Flanking Formation buff.&nEach effect lasts for 3 rounds and can stack up to 2 times."
+  },
+  "SkillDescSimple_Skill_3P_Amphitrite_N_3": {
+    "korean": "방어 관통 / 적중 증가. 1스킬 사용 시 공격력 증가 / 2스킬 사용 시 행동력 증가",
+    "english": "Increases DEF Penetration and ACC. Using Skill 1 increases ATK / Using Skill 2 increases SPD."
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_3": {
+    "korean": "돌격 진형 : 공격력{0}%",
+    "english": "Assault Formation: ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Amphitrite_N_3": {
+    "korean": "우회 진형 : 행동력{0}%",
+    "english": "Flanking Formation : SPD {0}%"
+  },
+  "BuffDesc3_Effect_3P_Amphitrite_N_3": {
+    "korean": "함대 전술 지휘 : 방어 관통{0}%",
+    "english": "Fleet Tactical Command: DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_3P_Amphitrite_N_3": {
+    "korean": "함대 전술 지휘 : 적중{0}%",
+    "english": "Fleet Tactical Command: ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_31": {
+    "korean": "우회 진형 : 행동력{0}%",
+    "english": "Flanking Formation: SPD {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_32": {
+    "korean": "함대 전술 지휘 : 방어 관통{0}%",
+    "english": "Fleet Tactical Command: DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_33": {
+    "korean": "함대 전술 지휘 : 적중{0}%",
+    "english": "Fleet Tactical Command: ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_34": {
+    "korean": "함대 전술 지휘 : 적중{0}%",
+    "english": "Fleet Tactical Command: ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_35": {
+    "korean": "함대 전술 지휘 : 적중{0}%",
+    "english": "Fleet Tactical Command: ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_36": {
+    "korean": "함대 전술 지휘 : 적중{0}%",
+    "english": "Fleet Tactical Command: ACC {0}%"
+  },
+  "SkillName_Skill_3P_Amphitrite_N_4": {
+    "korean": "지휘 전파",
+    "english": "Command Broadcast"
+  },
+  "SkillDesc_Skill_3P_Amphitrite_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군 공격기의 공격력 / 방어 관통을 증가시키고 아군 보호기와 <머메이드> 부대원의 받는 피해를 감소시키며 효과 저항을 증가시킵니다. 돌격 진형 활성 상태면 <돌격 진형 : 공격력 증가> 기본 효과가, 우회 진형 활성 상태면 <우회 진형 : 행동력 증가> 기본 효과가 범위 내 아군에게 적용됩니다.",
+    "english": "At the start of the round, increases ATK and DEF Penetration of allied Attackers within range, and reduces Damage Taken and increases Effect Resistance for allied Defenders and Mermaid squad members.&nIf Assault Formation is active, its base effect (ATK Up) is applied to allies within range.&nIf Flanking Formation is active, its base effect (SPD Up) is applied to allies within range."
+  },
+  "SkillDescSimple_Skill_3P_Amphitrite_N_4": {
+    "korean": "공격기 공격력, 방어 관통 증가 / 보호기 및 <머메이드> 받는 피해 감소, 효과 저항 증가",
+    "english": "Increases ATK and DEF Penetration of Attackers / Grants Damage Reduction and increases Status Resist for Defenders and Mermaid units."
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_4": {
+    "korean": "지휘 전파 : 공격력{0}% (공격기)",
+    "english": "Command Transmission: ATK {0}% (Attacker)"
+  },
+  "BuffDesc2_Effect_3P_Amphitrite_N_4": {
+    "korean": "지휘 전파 : 방어 관통{0}% (공격기)",
+    "english": "Command Transmission : DEF Penetration {0}% (Attacker)"
+  },
+  "BuffDesc3_Effect_3P_Amphitrite_N_4": {
+    "korean": "지휘 전파 : 받는 피해{0}% 감소 (보호기)",
+    "english": "Command Transmission: DMG Reduction {0}% (Defender)"
+  },
+  "BuffDesc4_Effect_3P_Amphitrite_N_4": {
+    "korean": "지휘 전파 : 효과 저항{0}% (보호기)",
+    "english": "Command Wave: Status Resist {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_41": {
+    "korean": "지휘 전파 : 공격력{0}% (공격기)",
+    "english": "Command Transmission: ATK {0}% (Attacker)"
+  },
+  "BuffDesc2_Effect_3P_Amphitrite_N_41": {
+    "korean": "지휘 전파 : 방어 관통{0}% (공격기)",
+    "english": "Command Transmission : DEF Penetration {0}% (Attacker)"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_42": {
+    "korean": "돌격 진형 : 공격력{0}%",
+    "english": "Assault Formation: ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_43": {
+    "korean": "지휘 전파 : 받는 피해{0}% 감소 (보호기)",
+    "english": "Command Transmission: DMG Reduction {0}% (Defender)"
+  },
+  "BuffDesc2_Effect_3P_Amphitrite_N_43": {
+    "korean": "지휘 전파 : 효과 저항{0}% (보호기)",
+    "english": "Command Transmission : Status Resist {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_44": {
+    "korean": "지휘 전파 : 받는 피해{0}% 감소",
+    "english": "Command Transmission: DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_3P_Amphitrite_N_44": {
+    "korean": "지휘 전파 : 효과 저항{0}%",
+    "english": "Command Transmission : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_45": {
+    "korean": "우회 진형 : 행동력{0}%",
+    "english": "Flanking Formation: SPD {0}%"
+  },
+  "SkillName_Skill_3P_Amphitrite_N_5": {
+    "korean": "레이더 포착",
+    "english": "Radar Detection"
+  },
+  "SkillDesc_Skill_3P_Amphitrite_N_5": {
+    "korean": "전투 시작 시, 모든 적 회피를 감소시키고 받는 피해를 증가시킵니다. 스쿼드에 살라시아가 있으면 효과는 2배가 되고, 2라운드 동안 적의 공격력을 감소시키고 보호 무시 효과를 비활성화 합니다. 라운드 개시 시, 살라시아의 공격을 지원합니다.",
+    "english": "At the start of battle, reduces all enemies' EVA and increases the damage they take.&nIf Salacia is in the squad, the effects are doubled, and for 2 rounds, enemies' ATK is reduced and their shield-piercing effects are disabled.&nAt the start of each round, provides support fire for Salacia's attacks."
+  },
+  "SkillDescSimple_Skill_3P_Amphitrite_N_5": {
+    "korean": "적 회피 감소, 받는 피해 증가 / 살라시아가 있으면 적 공격력 감소 및 보호 무시 비활성화. 살라시아 공격 지원",
+    "english": "Reduces enemy EVA and increases DMG Taken / If Salacia is present: reduces enemy ATK, disables Ignore Protection, and provides Follow-Up Attack for Salacia."
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_5": {
+    "korean": "레이더 포착 : 회피 감소{0}%",
+    "english": "Radar Detection: EVA {0}% Decrease"
+  },
+  "BuffDesc2_Effect_3P_Amphitrite_N_5": {
+    "korean": "레이더 포착 : 받는 피해{0}%",
+    "english": "Radar Detection : DMG Taken {0}%"
+  },
+  "BuffDesc3_Effect_3P_Amphitrite_N_5": {
+    "korean": "레이더 포착 : 보호 무시 비활성화",
+    "english": "Radar Detection: Deactivate Ignore Protection"
+  },
+  "BuffDesc4_Effect_3P_Amphitrite_N_5": {
+    "korean": "레이더 포착 : 공격력{0}%",
+    "english": "Radar Detection : ATK {0}%"
+  },
+  "BuffDesc5_Effect_3P_Amphitrite_N_5": {
+    "korean": "레이더 포착 : 공격 지원 (살라시아)",
+    "english": "Radar Detection: Follow-Up Attack (Salacia)"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_51": {
+    "korean": "레이더 포착 : 회피 감소{0}%",
+    "english": "Radar Detection: EVA {0}% Decrease"
+  },
+  "BuffDesc2_Effect_3P_Amphitrite_N_51": {
+    "korean": "레이더 포착 : 받는 피해{0}%",
+    "english": "Radar Detection : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_52": {
+    "korean": "레이더 포착 : 보호 무시 비활성화",
+    "english": "Radar Detection: Deactivate Ignore Protection"
+  },
+  "BuffDesc2_Effect_3P_Amphitrite_N_52": {
+    "korean": "레이더 포착 : 공격력{0}%",
+    "english": "Radar Detection : ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_Amphitrite_N_53": {
+    "korean": "레이더 포착 : 공격 지원",
+    "english": "Radar Detection: Follow-Up Attack"
+  }
+}

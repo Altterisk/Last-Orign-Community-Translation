@@ -1,0 +1,78 @@
+{
+  "1002701645": {
+    "korean": "냉동 가스 분사",
+    "english": "Freezing Gas Spray"
+  },
+  "1002701646": {
+    "korean": "일점 돌파",
+    "english": "Piercing Strike"
+  },
+  "1002701647": {
+    "korean": "침입자 경계",
+    "english": "Intruder Alert"
+  },
+  "1002701648": {
+    "korean": "강습 준비",
+    "english": "Assault Preparation"
+  },
+  "1002705403": {
+    "korean": "경장갑 파괴",
+    "english": "Light Armor Break"
+  },
+  "1002706224": {
+    "korean": "대상에게 냉동 가스를 분사해 {0} 냉기 속성 피해를 주고, 50% 확률로 3라운드 동안 냉기 / 전기 저항을 낮춥니다. 대상이 경장형일 경우 피해량이 증가하고 대상에게 냉기 저항 감소 효과가 이미 적용되어 있는 경우, 50% 확률로 행동 불가 / 받는 피해 증가 / 강화 해제 상태로 만듭니다.",
+    "english": "Sprays freezing gas at the target, dealing {0} Cold damage and has a 50% chance to reduce Cold Resist and Electric Resist for 3 rounds. If the target is Light, damage is increased, and if the target already has Cold Resist reduced, there is a 50% chance to apply Stunned / DMG Taken Increased / Buff Removal."
+  },
+  "1002704176": {
+    "korean": "대상에게 돌격해 {0} 피해를 줍니다. 대상이 빙결 상태인 경우, 피해량이 크게 증가합니다.",
+    "english": "Charges the target, dealing {0} damage. If the target is Frozen, damage is greatly increased."
+  },
+  "1002706225": {
+    "korean": "공격 시, 공격한 적에게만 집중해 2라운드 동안 치명타가 증가하지만 받는 피해도 증가합니다.",
+    "english": "When attacking, focuses only on the attacked enemy, increasing CRIT for 2 rounds but also increasing DMG Taken."
+  },
+  "1002704178": {
+    "korean": "지정 대상 보호를 받는 상태로 라운드 개시 시, 공격력과 치명타가 증가합니다.",
+    "english": "When a round starts while the designated target is under Target Protect, ATK and CRIT are increased."
+  },
+  "1002706270": {
+    "korean": "회피 시, 3라운드 동안 대 경장형 피해량이 증가합니다.",
+    "english": "When dodging, Anti-Light DMG is increased for 3 rounds."
+  },
+  "1000103440": {
+    "korean": "냉동 가스 : 냉기 저항 {0}%",
+    "english": "Cryogenic Gas : Cold Resist {0}%"
+  },
+  "1000103441": {
+    "korean": "냉동 가스 : 전기 저항 {0}%",
+    "english": "Cryogenic Gas : Electric Resist {0}%"
+  },
+  "1000106538": {
+    "korean": "냉동 가스 : 대 경장 피해량{0}%",
+    "english": "Cryogenic Gas : Anti-Light DMG {0}%"
+  },
+  "1000103437": {
+    "korean": "일점 돌파 : 피해량{0}%",
+    "english": "One-point breakthrough : Additional DMG {0}%"
+  },
+  "1000106491": {
+    "korean": "침입자 경계 : 치명타{0}%",
+    "english": "Intruder Alert : CRIT {0}%"
+  },
+  "1000103442": {
+    "korean": "침입자 경계 : 받는 피해{0}%",
+    "english": "Intruder Alert : DMG Taken {0}%"
+  },
+  "1000103439": {
+    "korean": "강습 준비 : 치명타{0}%",
+    "english": "Lesson preparation : CRIT {0}%"
+  },
+  "1000104630": {
+    "korean": "강습 준비 : 공격력{0}%",
+    "english": "Lesson preparation : ATK {0}%"
+  },
+  "1000106546": {
+    "korean": "경장갑 파괴 : 대 경장 피해량{0}%",
+    "english": "Light armor destruction : Anti-Light DMG {0}%"
+  }
+}

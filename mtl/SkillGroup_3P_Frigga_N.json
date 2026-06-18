@@ -1,0 +1,178 @@
+{
+  "SkillName_Skill_3P_Frigga_N_1": {
+    "korean": "블레이드 차지",
+    "english": "Blade Charge"
+  },
+  "SkillDesc_Skill_3P_Frigga_N_1": {
+    "korean": "목표 지점에 {0} 피해를 줍니다. 대상의 방어력을 일정 비율 무시하며, 대상이 경장형이거나 회피 / 방어력 감소 상태인 경우 피해량이 증가합니다.",
+    "english": "Deals {0} damage to the target point. Ignores a portion of the target’s DEF, and damage increases against Light units or targets affected by EVA or DEF reduction."
+  },
+  "SkillDescSimple_Skill_3P_Frigga_N_1": {
+    "korean": "목표 지점 {0} 피해. 방어 관통 / 경장형, 회피, 방어 감소 대상 피해량 증가",
+    "english": "Target point {0} damage. DEF Penetration; increased damage to Light, EVA, and DEF‑reduced targets."
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_1": {
+    "korean": "블레이드 차지 : 방어 관통{0}%",
+    "english": "Blade Charge : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_3P_Frigga_N_1": {
+    "korean": "블레이드 차지 : 피해량{0}%",
+    "english": "Blade Charge : Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_3P_Frigga_N_1": {
+    "korean": "블레이드 차지 : 대 경장형 피해량{0}%",
+    "english": "Blade Charge : Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_11": {
+    "korean": "블레이드 차지 : 대 경장형 피해량{0}%",
+    "english": "Blade Charge : Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_12": {
+    "korean": "블레이드 차지 : 피해량{0}%",
+    "english": "Blade Charge : Additional DMG {0}%"
+  },
+  "SkillName_Skill_3P_Frigga_N_2": {
+    "korean": "최전선의 포효",
+    "english": "Frontline Roar"
+  },
+  "SkillDesc_Skill_3P_Frigga_N_2": {
+    "korean": "3라운드 동안 범위 내 아군의 행동력 / 공격력을 증가시키며, 자신은 모든 속성 저항이 증가합니다. 해당 상태에선 반격합니다.",
+    "english": "For 3 rounds, increases allies within range's SPD and ATK, and increases your own All Elemental Resist. Counter Attack is activated while in this state."
+  },
+  "SkillDescSimple_Skill_3P_Frigga_N_2": {
+    "korean": "아군 행동력 / 공격력 증가. 자신 모든 속성 저항 증가. 반격 활성화",
+    "english": "Allies’ SPD / ATK increase. Self All Elemental Resist increase. Counter Attack activated."
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_2": {
+    "korean": "최전선의 포효 : 행동력{0}%",
+    "english": "Frontline Roar : SPD {0}%"
+  },
+  "BuffDesc2_Effect_3P_Frigga_N_2": {
+    "korean": "최전선의 포효 : 공격력{0}%",
+    "english": "Frontline Roar : ATK {0}%"
+  },
+  "BuffDesc3_Effect_3P_Frigga_N_2": {
+    "korean": "최전선의 포효 : 모든 속성 저항{0}%",
+    "english": "Frontline Roar : Elemental Resist {0}%"
+  },
+  "BuffDesc4_Effect_3P_Frigga_N_2": {
+    "korean": "최전선의 포효 : {0}% 위력으로 반격",
+    "english": "Frontline Roar : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_21": {
+    "korean": "최전선의 포효 : 화염 저항{0}%",
+    "english": "Frontline Roar : Fire Resist {0}%"
+  },
+  "BuffDesc2_Effect_3P_Frigga_N_21": {
+    "korean": "최전선의 포효 : 냉기 저항{0}%",
+    "english": "Frontline Roar : Cold Resist {0}%"
+  },
+  "BuffDesc3_Effect_3P_Frigga_N_21": {
+    "korean": "최전선의 포효 : 전기 저항{0}%",
+    "english": "Frontline Roar : Electric Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_22": {
+    "korean": "최전선의 포효 : {0}% 위력으로 반격",
+    "english": "Frontline Roar : Counter Attack with {0}% Power"
+  },
+  "SkillName_Skill_3P_Frigga_N_3": {
+    "korean": "어미곰의 포옹",
+    "english": "Mother Bear’s Embrace"
+  },
+  "SkillDesc_Skill_3P_Frigga_N_3": {
+    "korean": "라운드 개시 시, 행 보호 / 열 보호가 활성화되고 범위 내 아군을 지정 보호합니다.",
+    "english": "At the start of the round, Row Protect and Column Protect are activated, and allies within range are granted Target Protect."
+  },
+  "SkillDescSimple_Skill_3P_Frigga_N_3": {
+    "korean": "행 보호 / 열 보호 / 지정 보호",
+    "english": "Row Protect / Column Protect / Target Protect"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_3": {
+    "korean": "어미곰의 포옹 : 행 보호",
+    "english": "Mother Bear’s Embrace : Row Protect"
+  },
+  "BuffDesc2_Effect_3P_Frigga_N_3": {
+    "korean": "어미곰의 포옹 : 열 보호",
+    "english": "Mother Bear’s Embrace : Column Protect"
+  },
+  "BuffDesc3_Effect_3P_Frigga_N_3": {
+    "korean": "어미곰의 포옹 : 대상 지정 보호",
+    "english": "Mother Bear’s Embrace: Target Protect"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_31": {
+    "korean": "어미곰의 포옹 : 대상 지정 보호",
+    "english": "Mother Bear’s Embrace: Target Protect"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_32": {
+    "korean": "어미곰의 포옹 : 행 보호",
+    "english": "Mother Bear’s Embrace : Row Protect"
+  },
+  "BuffDesc2_Effect_3P_Frigga_N_32": {
+    "korean": "어미곰의 포옹 : 열 보호",
+    "english": "Mother Bear’s Embrace : Column Protect"
+  },
+  "SkillName_Skill_3P_Frigga_N_4": {
+    "korean": "어미곰의 모성",
+    "english": "Mother Bear’s Maternity"
+  },
+  "SkillDesc_Skill_3P_Frigga_N_4": {
+    "korean": "라운드 개시 시, 방어력이 증가합니다. 인접한 아군 수에 비례하여 방어력이 추가로 증가하며, 인접한 아군 수가 4일 경우 효과 저항이 크게 증가합니다.",
+    "english": "At the start of the round, DEF increases. DEF further increases proportionally to the number of adjacent allies, and when there are 4 adjacent allies, Status Resist increases significantly."
+  },
+  "SkillDescSimple_Skill_3P_Frigga_N_4": {
+    "korean": "방어력 증가 / 인접 아군 수가 4일 경우 효과 저항 증가",
+    "english": "DEF increase / Status Resist increase when adjacent allies are 4"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_4": {
+    "korean": "어미곰의 모성 : 방어력{0}%",
+    "english": "Mother Bear’s Maternity : DEF {0}%"
+  },
+  "BuffDesc2_Effect_3P_Frigga_N_4": {
+    "korean": "어미곰의 모성 : 방어력{0}% (1인접 아군)",
+    "english": "Mother Bear’s Maternity: DEF {0}% (1 adjacent ally)"
+  },
+  "BuffDesc3_Effect_3P_Frigga_N_4": {
+    "korean": "어미곰의 모성 : 효과 저항{0}% (4인접 아군)",
+    "english": "Mother Bear’s Maternity: Status Resist {0}% (4 adjacent allies)"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_41": {
+    "korean": "어미곰의 모성 : 방어력{0}%",
+    "english": "Mother Bear’s Maternity : DEF {0}%"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_42": {
+    "korean": "어미곰의 모성 : 방어력{0}%",
+    "english": "Mother Bear’s Maternity : DEF {0}%"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_43": {
+    "korean": "어미곰의 모성 : 방어력{0}%",
+    "english": "Mother Bear’s Maternity : DEF {0}%"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_44": {
+    "korean": "어미곰의 모성 : 방어력{0}%",
+    "english": "Mother Bear’s Maternity : DEF {0}%"
+  },
+  "BuffDesc2_Effect_3P_Frigga_N_44": {
+    "korean": "어미곰의 모성 : 효과 저항{0}%",
+    "english": "Mother Bear’s Maternity : Status Resist {0}%"
+  },
+  "SkillName_Skill_3P_Frigga_N_5": {
+    "korean": "경호 위치",
+    "english": "Guard Stance"
+  },
+  "SkillDesc_Skill_3P_Frigga_N_5": {
+    "korean": "전투 시작 시, 전체 적의 공격력 / 치명타를 영구적으로 감소시킵니다.",
+    "english": "At the start of battle, permanently reduces all enemies' ATK and CRIT."
+  },
+  "SkillDescSimple_Skill_3P_Frigga_N_5": {
+    "korean": "적 공격력 / 치명타 감소",
+    "english": "Enemy ATK / CRIT reduction"
+  },
+  "BuffDesc1_Effect_3P_Frigga_N_5": {
+    "korean": "경호 위치 : 공격력{0}%",
+    "english": "Guard Stance : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Frigga_N_5": {
+    "korean": "경호 위치 : 치명타{0}%",
+    "english": "Guard Stance : CRIT {0}%"
+  }
+}

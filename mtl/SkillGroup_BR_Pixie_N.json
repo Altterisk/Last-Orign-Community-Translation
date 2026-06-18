@@ -1,0 +1,142 @@
+{
+  "SkillName_Skill_BR_Pixie_N_1": {
+    "korean": "해치워, 라이언",
+    "english": "Take Them Down, Ryan!"
+  },
+  "SkillDesc_Skill_BR_Pixie_N_1": {
+    "korean": "중기관총을 조준사격하여 단일 대상에게 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상의 방어력이 감소합니다.&n치명타 시, 대상의 방어력 증가 효과를 해제합니다.&n스킬 레벨 당 +8%의 적중 보정이 적용됩니다.",
+    "english": "Fires a heavy machine gun with aimed precision to deal {0} damage to a single target.&nOn hit, reduces the target's DEF for 2 rounds.&nOn a CRIT, removes the target’s DEF Up effect.&nGrants +8% ACC per skill level."
+  },
+  "SkillDescSimple_Skill_BR_Pixie_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상 방어력 감소 / 방어력 증가 해제.",
+    "english": "Single target {0} damage. Reduces target's DEF / removes DEF Up effect."
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_1": {
+    "korean": "해치워! : 방어력 {0}%",
+    "english": "Finish It! : DEF {0}%"
+  },
+  "BuffDesc2_Effect_BR_Pixie_N_1": {
+    "korean": "잘했어, 라이언 : 방어력 증가 해제",
+    "english": "Good Job, Lion : DEF Buff Removal"
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_11": {
+    "korean": "잘했어, 라이언 : 방어력 증가 해제",
+    "english": "Well done, Ryan: Defense Up has been removed."
+  },
+  "SkillName_Skill_BR_Pixie_N_2": {
+    "korean": "싹 쓸어버려!",
+    "english": "Sweep Them All Away!"
+  },
+  "SkillDesc_Skill_BR_Pixie_N_2": {
+    "korean": "중기관총을 난사하여 지정 범위에 {0} 보호 무시 피해를 줍니다. 중행을 제외한 행에는 25% 감소한 피해를 입힙니다.&n적중 대상의 방어력이 자신보다 낮은 경우, 2라운드 동안 대상의 방어 관통이 감소합니다.&n치명타 시, 대상의 AP가 감소합니다.",
+    "english": "Unleashes a heavy machine gun barrage to deal {0} Ignore Protection damage to the designated area. Rows other than the middle row take 25% reduced damage.&nIf the target's DEF is lower than yours, their DEF Penetration is reduced for 2 rounds.&nOn a CRIT, reduces the target’s AP."
+  },
+  "SkillDescSimple_Skill_BR_Pixie_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 대상 방어 관통 / AP 감소.",
+    "english": "Designated area {0} Ignore Protection damage. Reduces target's DEF Penetration / AP."
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_2": {
+    "korean": "이거나 먹어라! : 방어 관통 {0}%",
+    "english": "Take This! : DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_Pixie_N_2": {
+    "korean": "URAAA! : AP {0}",
+    "english": "URAAA! : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_21": {
+    "korean": "URAAA! : AP {0}",
+    "english": "Hooray! : AP {0}"
+  },
+  "SkillName_Skill_BR_Pixie_N_3": {
+    "korean": "라이언이 굶주렸다",
+    "english": "Ryan's Hungry"
+  },
+  "SkillDesc_Skill_BR_Pixie_N_3": {
+    "korean": "전투 개시 시, 아군 / 적 수에 비례하여 자신의 방어력이 증가합니다.&n라운드 개시 시, 자신은 행 보호가 활성화됩니다.",
+    "english": "At the start of battle, increases own DEF proportionally to the number of allies and enemies.&nAt the start of each round, activates Row Protect for self."
+  },
+  "SkillDescSimple_Skill_BR_Pixie_N_3": {
+    "korean": "자신 방어력 증가 / 행 보호 활성화.",
+    "english": "Increases own DEF / activates Row Protect."
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_3": {
+    "korean": "꼬르륵... : 방어력 {0} (1기당)",
+    "english": "Grrr... : DEF {0} (Per Unit)"
+  },
+  "BuffDesc2_Effect_BR_Pixie_N_3": {
+    "korean": "기다려, 라이언 : 행 보호 활성화",
+    "english": "Wait, Lion : Activate Row Protect"
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_31": {
+    "korean": "이번 사냥감은…",
+    "english": "This Prey Is..."
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_314": {
+    "korean": "꼬르륵... : 방어력 {0}",
+    "english": "Rumble... : Defense {0}"
+  },
+  "SkillName_Skill_BR_Pixie_N_4": {
+    "korean": "윈터뮤트 암즈",
+    "english": "Wintermute Arms"
+  },
+  "SkillDesc_Skill_BR_Pixie_N_4": {
+    "korean": "자신의 기본 냉기 저항이 75%로 증가합니다.&n라운드 개시 시, 3라운드 동안 자신의 치명타가 증가합니다.&n피격 시, 2라운드 동안 적 전체의 스킬 위력이 감소합니다. 대상이 공격기인 경우, 효과가 두 배로 증폭됩니다.",
+    "english": "Increases own base Cold Resist to 75%.&nAt the start of the round, increases own CRIT for 3 rounds.&nWhen hit, reduces all enemies' Skill Power for 2 rounds. If the target is an Attacker, the effect is doubled."
+  },
+  "SkillDescSimple_Skill_BR_Pixie_N_4": {
+    "korean": "자신 치명타 증가. 적 전체 스킬 위력 감소",
+    "english": "Increases own CRIT. Reduces all enemies' Skill Power."
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_4": {
+    "korean": "윈터뮤트 암즈 : 기본 냉기 저항 {0}%",
+    "english": "Wintermute Arms : Base Cold Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Pixie_N_4": {
+    "korean": "윈터뮤트 암즈 : 치명타 {0}%",
+    "english": "Wintermute Arms : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Pixie_N_4": {
+    "korean": "얼어붙은 총구 : 스킬 위력 {0}%",
+    "english": "Frozen Muzzle: Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_41": {
+    "korean": "얼어붙은 총구 : 스킬 위력 {0}%",
+    "english": "Frozen Muzzle : Skill Power {0}%"
+  },
+  "SkillName_Skill_BR_Pixie_N_5": {
+    "korean": "발할라 스피리츠",
+    "english": "Valhalla Spirits"
+  },
+  "SkillDesc_Skill_BR_Pixie_N_5": {
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가하고 표식을 획득합니다.&n<철혈의 레오나>의 공격 지휘가 활성화된 경우, 라운드 개시 시 자신은 방어력 비례 스킬 위력 증가 효과를 획득합니다.&n<철혈의 레오나>의 방어 지휘가 활성화된 경우, 라운드 개시 시 자신은 열 보호가 활성화됩니다.",
+    "english": "At the start of the round, increases own Status Resist and gains Mark.&nIf <Iron-Blooded Leona>'s ATK Command is active, gains a Skill Power increase based on DEF at the start of the round.&nIf <Iron-Blooded Leona>'s DEF Command is active, activates Column Protect at the start of the round."
+  },
+  "SkillDescSimple_Skill_BR_Pixie_N_5": {
+    "korean": "자신 효과 저항 증가 / 표식.",
+    "english": "Increases own Status Resist / gains Mark."
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_5": {
+    "korean": "Vodka! : 효과 저항 {0}% 증가",
+    "english": "Vodka! : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_BR_Pixie_N_5": {
+    "korean": "Vodka! : 표식",
+    "english": "Vodka! : Marked"
+  },
+  "BuffDesc3_Effect_BR_Pixie_N_5": {
+    "korean": "샘솟는 활력 : 스킬 위력 {0}% (방어력 비례)",
+    "english": "Surging Vitality: Skill Power {0}% (DEF-based)"
+  },
+  "BuffDesc4_Effect_BR_Pixie_N_5": {
+    "korean": "두려움 날리기 : 열 보호 활성화",
+    "english": "Fear Dispel: Activate Column Protect"
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_53": {
+    "korean": "샘솟는 활력 : 스킬 위력 {0}% (방어력 비례)",
+    "english": "Surging Vitality: Skill Power {0}% (DEF-based)"
+  },
+  "BuffDesc1_Effect_BR_Pixie_N_56": {
+    "korean": "두려움 날리기 : 열 보호 활성화",
+    "english": "Shake Off Fear : Activate Column Protect"
+  }
+}

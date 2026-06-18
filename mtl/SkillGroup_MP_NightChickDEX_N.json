@@ -1,0 +1,134 @@
+{
+  "1002702386": {
+    "korean": "약점 스캔",
+    "english": "Weakness Scan"
+  },
+  "1002702387": {
+    "korean": "강화 섬광탄",
+    "english": "Reinforced Flashbang"
+  },
+  "1002702388": {
+    "korean": "경보 레이더",
+    "english": "Warning Radar"
+  },
+  "1002702389": {
+    "korean": "레이더 교란",
+    "english": "Radar Jamming"
+  },
+  "1002704375": {
+    "korean": "목표를 공격 대상으로 지정해 {0} 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 / 회피 감소 상태로 만듭니다. 적중 대상은 회피 강화 효과가 해제됩니다. 자신은 3라운드 동안 회피가 증가합니다.",
+    "english": "Designate a target as an attack target, dealing {0} damage and applying Marked / DMG Taken Increased / EVA Reduction for 2 rounds. The hit target has its EVA buff removed. You gain EVA Increased for 3 rounds."
+  },
+  "1002704376": {
+    "korean": "지정한 위치에 섬광탄을 발사해 {0} 피해를 주고, 2라운드 동안 적중 / 치명타를 낮춥니다. 적중 대상은 AP가 감소합니다.",
+    "english": "Fires a flashbang at a designated location, dealing {0} damage and reducing ACC / CRIT for 2 rounds. Targets hit have their AP Reduced."
+  },
+  "1002704377": {
+    "korean": "라운드 개시 시, 1라운드 동안 모든 아군의 AP / 적중 / 치명타 / 사거리가 증가합니다. 냉기 속성 액티브 스킬 피격 시 아군의 적중 / 치명타 / 사거리 증가 효과가 해제되며, 2라운드 동안 아군들의 적중 / 치명타가 감소합니다.",
+    "english": "At the start of a round, all allies gain AP / ACC / CRIT / Range increased for 1 round. When hit by a Cold attribute active skill, allies' ACC / CRIT / Range increase is removed, and allies' ACC / CRIT are reduced for 2 rounds."
+  },
+  "1002704378": {
+    "korean": "라운드 개시 시, 1라운드 동안 모든 적군의 AP / 적중 / 치명타 / 사거리가 감소합니다. 냉기 속성 액티브 스킬 피격 시 적에게 건 적중 / 치명타 / 사거리 감소 효과가 해제되며, 9라운드 동안 적들의 적중 / 치명타가 증가합니다.",
+    "english": "At the start of a round, all enemies have AP / ACC / CRIT / Range reduced for 1 round. When hit by a Cold attribute active skill, enemies' ACC / CRIT / Range reduction is removed, and enemies' ACC / CRIT are increased for 9 rounds."
+  },
+  "1000103863": {
+    "korean": "약점 스캔 : 받는 피해{0}%",
+    "english": "Weakness scan : DMG Taken {0}%"
+  },
+  "1000104806": {
+    "korean": "약점 스캔 : 회피 {0}%",
+    "english": "Weakness scan : EVA {0}%"
+  },
+  "1000105267": {
+    "korean": "약점 스캔 : 표식 지정",
+    "english": "Weakness scan : Marks target"
+  },
+  "1000105495": {
+    "korean": "약점 스캔 : 회피 강화 해제",
+    "english": "Weakness scan : EVA Buff Removal"
+  },
+  "1000103867": {
+    "korean": "교란 개시 : 회피{0}%",
+    "english": "Disruption Trigger : EVA {0}%"
+  },
+  "1000103868": {
+    "korean": "강화 섬광탄 : AP {0}",
+    "english": "Reinforced Flashbang : AP {0}"
+  },
+  "1000103864": {
+    "korean": "강화 섬광탄 : 적중 {0}%",
+    "english": "Reinforced Flashbang : ACC {0}%"
+  },
+  "1000103880": {
+    "korean": "강화 섬광탄 : 치명타 {0}%",
+    "english": "Reinforced Flashbang : CRIT {0}%"
+  },
+  "1000103865": {
+    "korean": "경보 레이더 : AP{0}",
+    "english": "Warning radar : AP {0}"
+  },
+  "1000103869": {
+    "korean": "레이더 오류 : 적중 증가 해제",
+    "english": "Radar Glitch : ACC Buff Removal"
+  },
+  "1000104807": {
+    "korean": "레이더 오류 : 치명타 증가 해제",
+    "english": "Radar Glitch : CRIT Buff Removal"
+  },
+  "1000105268": {
+    "korean": "레이더 오류 : 사거리 증가 해제",
+    "english": "Radar Glitch : Range Buff Removal"
+  },
+  "1000105596": {
+    "korean": "레이더 오류 : 치명타 {0}%",
+    "english": "Radar Glitch : CRIT {0}%"
+  },
+  "1000103877": {
+    "korean": "경보 레이더 : 치명타{0}%",
+    "english": "Warning radar : CRIT {0}%"
+  },
+  "1000104809": {
+    "korean": "경보 레이더 : 적중{0}%",
+    "english": "Warning radar : ACC {0}%"
+  },
+  "1000105270": {
+    "korean": "경보 레이더 : 사거리{0}",
+    "english": "Warning radar : Range {0}"
+  },
+  "1000103866": {
+    "korean": "레이더 교란 : AP {0}",
+    "english": "Radar jamming : AP {0}"
+  },
+  "1000103870": {
+    "korean": "레이더 오류 : 적중 감소 해제",
+    "english": "Radar Glitch : ACC Debuff Removal"
+  },
+  "1000104808": {
+    "korean": "레이더 오류 : 치명타 감소 해제",
+    "english": "Radar Glitch : CRIT Debuff Removal"
+  },
+  "1000105269": {
+    "korean": "레이더 오류 : 사거리 감소 해제",
+    "english": "Radar Glitch : Range Debuff Removal"
+  },
+  "1000105496": {
+    "korean": "레이더 오류 : 적중{0}%",
+    "english": "Radar Glitch : ACC {0}%"
+  },
+  "1000105597": {
+    "korean": "레이더 오류 : 치명타{0}%",
+    "english": "Radar Glitch : CRIT {0}%"
+  },
+  "1000103878": {
+    "korean": "레이더 교란 : 치명타 {0}%",
+    "english": "Radar jamming : CRIT {0}%"
+  },
+  "1000104810": {
+    "korean": "레이더 교란 : 적중 {0}%",
+    "english": "Radar jamming : ACC {0}%"
+  },
+  "1000105271": {
+    "korean": "레이더 교란 : 사거리 {0}",
+    "english": "Radar jamming : Range {0}"
+  }
+}

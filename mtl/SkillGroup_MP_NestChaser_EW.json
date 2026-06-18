@@ -1,0 +1,90 @@
+{
+  "1002701984": {
+    "korean": "찌르는 강철",
+    "english": "Piercing Steel"
+  },
+  "1002701985": {
+    "korean": "강철의 비",
+    "english": "Steel Rain"
+  },
+  "1002701986": {
+    "korean": "강자의 품격",
+    "english": "Dignity of the Strong"
+  },
+  "1002705483": {
+    "korean": "철의 은총",
+    "english": "Iron Grace"
+  },
+  "1002704245": {
+    "korean": "지정 대상에게 {0} 피해를 줍니다. 적중 대상은 2라운드 동안 표식 / 받는 피해 증가 / 회피 감소 상태가 됩니다.",
+    "english": "Deals {0} damage to the designated target. The hit target becomes Marked / DMG Taken Increased / EVA Reduced for 2 rounds."
+  },
+  "1002704246": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 대상이 표식 또는 이동 불가 상태면 피해량이 증가합니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. Damage is increased if the target is Marked or Rooted."
+  },
+  "1002704247": {
+    "korean": "자신의 HP가 50% 이상인 경우, 공격력 / 치명타가 증가하며 목표의 HP%가 낮을수록 피해량이 증가합니다.",
+    "english": "If your HP is 50% or higher, ATK / CRIT increase, and damage increases as the target's HP% decreases."
+  },
+  "1002706298": {
+    "korean": "라운드 개시 시, 자신에게 적용 된 <은총 하사>의 단계에 따라 추가 효과를 받습니다.&n&n은총 하사 1단계 시 : 방어 관통 증가&n은총 하사 2단계 시 : 방어 관통 증가 / 방어막, 피해 감소 무시&n은총 하사 3단계 시 : 방어 관통 증가 / 방어막, 피해 감소 무시 / 일정 확률 반격",
+    "english": "At the start of a round, you receive additional effects based on the stage of <Grace Bestowed> applied to you. Grace Bestowed Stage 1: Increased Armor Penetration. Grace Bestowed Stage 2: Increased Armor Penetration / Ignore Barrier / DMG Reduction. Grace Bestowed Stage 3: Increased Armor Penetration / Ignore Barrier / DMG Reduction / Certain chance to Counter Attack."
+  },
+  "1002706299": {
+    "korean": "스킬을 사용 시, <과열> 상태가 적용됩니다. 라운드 개시 시, <과열> 상태가 3중첩이라면 3라운드 동안 <작동 정지> 상태에 빠져 행동 불능 상태가 되고 해당 상태에서 냉기 공격에 피격 시, 3라운드 동안 받는 피해가 증가합니다.",
+    "english": "When using a skill, the <Overheat> status is applied. At the start of a round, if the <Overheat> status is 3-stacked, you enter the <Operation Halt> status for 3 rounds, becoming Stunned; if you are hit by a cold attack while in this state, DMG Taken Increased for 3 rounds."
+  },
+  "1000104692": {
+    "korean": "강자의 품격 : 적 HP% 낮을수록 피해량{0}%",
+    "english": "Dignity of the Strong: Damage increases by {0}% as enemy HP% decreases."
+  },
+  "1000106815": {
+    "korean": "과열 해제",
+    "english": "Overheat Release"
+  },
+  "1000103612": {
+    "korean": "찌르는 강철 : 표식 지정",
+    "english": "Piercing steel : Marks target"
+  },
+  "1000104691": {
+    "korean": "찌르는 강철 : 받는 피해{0}%",
+    "english": "Piercing steel : DMG Taken {0}%"
+  },
+  "1000105191": {
+    "korean": "찌르는 강철 : 회피 {0}%",
+    "english": "Piercing steel : EVA {0}%"
+  },
+  "1000103613": {
+    "korean": "강자의 품격 : 공격력{0}%",
+    "english": "The Dignity of the Strong : ATK {0}%"
+  },
+  "1000105192": {
+    "korean": "강자의 품격 : 치명타{0}%",
+    "english": "The Dignity of the Strong : CRIT {0}%"
+  },
+  "1000106603": {
+    "korean": "철의 은총 : 방어 관통{0}%",
+    "english": "Iron grace : DEF Penetration {0}%"
+  },
+  "1000106814": {
+    "korean": "철의 은총 : 방어막 / 피해 감소 무시",
+    "english": "Iron grace : Ignore Barrier / DMG Reduction"
+  },
+  "1000106910": {
+    "korean": "철의 은총 : {0}% 위력으로 반격",
+    "english": "Iron grace : Counter Attack with {0}% Power"
+  },
+  "1000106172": {
+    "korean": "작동 정지 : 행동 불능",
+    "english": "Shutdown : Stunned"
+  },
+  "1000106174": {
+    "korean": "작동 정지 : 강화 효과 해제",
+    "english": "Shutdown : Buff Removal"
+  },
+  "1000106604": {
+    "korean": "과열 : 받는 피해{0}%",
+    "english": "Overheat : DMG Taken {0}%"
+  }
+}

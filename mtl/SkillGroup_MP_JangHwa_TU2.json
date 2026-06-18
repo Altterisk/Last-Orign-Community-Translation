@@ -1,0 +1,62 @@
+{
+  "SkillName_Skill_MP_JangHwa_TU2_1": {
+    "korean": "원격 폭탄 격발",
+    "english": "Remote Bomb Detonation"
+  },
+  "SkillName_Skill_MP_JangHwa_TU2_2": {
+    "korean": "강화 와이어",
+    "english": "Reinforced Wire"
+  },
+  "SkillName_Skill_MP_JangHwa_TU2_3": {
+    "korean": "사선 넘나들기",
+    "english": "Diagonal Stride"
+  },
+  "SkillName_Skill_MP_JangHwa_TU2_4": {
+    "korean": "사냥의 쾌감",
+    "english": "Hunting Thrill"
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU2_1": {
+    "korean": "지정 범위의 적에게 {0}의 보호 무시 피해를 줍니다.&n적중 시 자신이 행동력 강화 상태인 경우, 재공격 효과를 획득합니다.",
+    "english": "Deals {0} Ignore Protection damage to enemies within the designated range. If it hits and you are in an SPD Boost state, you gain a Counter Attack effect."
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU2_2": {
+    "korean": "지정 범위의 적에게 {0}의 보호 무시 피해를 줍니다. &n적중 여부와 상관 없이 대상의 반격 강화 효과를 해제하고, 다음 행동 시 <원격 폭탄 격발>을 사용합니다.",
+    "english": "Deals {0} Ignore Protection damage to enemies within the designated range. Regardless of hit, it removes the target's Counter Attack buff and you will use <Remote Bomb Detonation> on your next action."
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU2_3": {
+    "korean": "라운드 개시 시, 자신의 회피가 크게 증가합니다.&n<강화 와이어> 사용 시, 적을 고정하기 위해 <원격 폭탄 격발> 사용 전까지 자신의 회피 강화 효과를 해제합니다.",
+    "english": "At the start of a round, your EVA greatly increases. When using <Reinforced Wire>, you remove your EVA boost until you use <Remote Bomb Detonation> to immobilize an enemy."
+  },
+  "SkillDesc_Skill_MP_JangHwa_TU2_4": {
+    "korean": "라운드 개시 시, 자신의 행동력이 증가합니다.&n전기 속성 피격 시, 자신의 행동력 강화 효과를 해제하고 3라운드 동안 <사냥의 쾌감> 효과가 발동하지 않습니다.",
+    "english": "At the start of a round, your SPD increases. When hit by an Electric attribute attack, you lose your SPD boost and the <Hunting Thrill> effect will not activate for 3 rounds."
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU2_21": {
+    "korean": "와이어 설치",
+    "english": "Wire Setup"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU2_41": {
+    "korean": "올무 : <사냥의 쾌감> 해제",
+    "english": "Snare : Remove <Hunting Thrill>"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU2_1": {
+    "korean": "연쇄 폭발 : 재공격",
+    "english": "Chain Explosion : Reattack"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU2_2": {
+    "korean": "강화 와이어 : 반격 해제",
+    "english": "Reinforcement wire : Counter Attack Removal"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU2_3": {
+    "korean": "사선 넘나들기 : 회피 {0}%",
+    "english": "Crossing diagonal lines : EVA {0}%"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU2_31": {
+    "korean": "와이어 고정 : 회피 강화 해제",
+    "english": "Wire Fixation : EVA Buff Removal"
+  },
+  "BuffDesc1_Effect_MP_JangHwa_TU2_4": {
+    "korean": "사냥의 쾌감 : 행동력 {0}%",
+    "english": "The thrill of the hunt : SPD {0}%"
+  }
+}

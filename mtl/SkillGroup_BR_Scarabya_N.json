@@ -1,0 +1,286 @@
+{
+  "SkillName_Skill_BR_Scarabya_N_1": {
+    "korean": "텐더라이즈",
+    "english": "Tenderize"
+  },
+  "SkillDesc_Skill_BR_Scarabya_N_1": {
+    "korean": "범위 내 적에게 잡동사니를 마구잡이로 투척하여 {0} 피해를 주고, 적중 대상은 2라운드 동안 방어력 감소 / 받는 피해 증가 효과가 적용됩니다.&n자신이 <카페인 충전> 상태일 때, 해당 효과를 1회 차감하여 추가로 적중 대상에게 2라운드 동안 표식 / 이동 불가 효과를 적용합니다.&n스쿼드 내 <A-15 샐러맨더> / <T-40 하이에나> 가 있을 시, 지정 타겟 대상으로 <전술 기동 : 스트레이트 플러시> / <죽여주는 수류탄> 스킬 협동 공격을 합니다. &n스킬 레벨당 20%의 적중 보정이 적용됩니다.",
+    "english": "Throw miscellaneous junk at enemies within range, dealing {0} damage and applying DEF Reduction and DMG Taken Increased for 2 rounds to hit targets.\nIf self is in <Caffeine Boost> state, consume 1 stack to also apply Marked and Rooted for 2 rounds to hit targets.\nIf <A-15 Salamander> or <T-40 Hyena> are in the squad, perform a Cooperative Attack with <Tactical Maneuver: Straight Flush> or <Killer Grenade> on the designated target.\nApplies a 20% ACC bonus per skill level."
+  },
+  "SkillDescSimple_Skill_BR_Scarabya_N_1": {
+    "korean": "지정 범위 대상 {0} 피해. 방어력 감소 / 받는 피해 증가. 조건부 표식 / 이동 불가. 특정 아군 협동 공격.",
+    "english": "Deals {0} damage to targets in area. Applies DEF Reduction and DMG Taken Increased. Conditional Marked and Rooted. Certain ally Cooperative Attack."
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_1": {
+    "korean": "텐더라이즈 : 방어력 {0}%",
+    "english": "Tenderize : DEF {0}%"
+  },
+  "BuffDesc2_Effect_BR_Scarabya_N_1": {
+    "korean": "텐더라이즈 : 받는 피해 {0}% 증가",
+    "english": "Tenderize : DMG Taken Increased {0}%"
+  },
+  "BuffDesc3_Effect_BR_Scarabya_N_1": {
+    "korean": "텐더라이즈 : 표식 (카페인 충전)",
+    "english": "Tenderize: Marked (Caffeine Boost)"
+  },
+  "BuffDesc4_Effect_BR_Scarabya_N_1": {
+    "korean": "텐더라이즈 : 이동 불가 (카페인 충전)",
+    "english": "Tenderize: Rooted (Caffeine Boost)"
+  },
+  "BuffDesc5_Effect_BR_Scarabya_N_1": {
+    "korean": "텐더라이즈 : 협동 공격",
+    "english": "Tenderize : Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_11": {
+    "korean": "텐더라이즈 : 표식 (카페인 충전)",
+    "english": "Tenderize: Marked (Caffeine Boost)"
+  },
+  "BuffDesc2_Effect_BR_Scarabya_N_11": {
+    "korean": "텐더라이즈 : 이동 불가 (카페인 충전)",
+    "english": "Tenderize: Rooted (Caffeine Boost)"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_12": {
+    "korean": "텐더라이즈 : 협동 공격 (A-15 샐러맨더)",
+    "english": "Tenderize : Cooperative Attack (Salamander)"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_13": {
+    "korean": "텐더라이즈 : 협동 공격 (T-40 하이에나)",
+    "english": "Tenderize : Cooperative Attack (Hyena)"
+  },
+  "SkillName_Skill_BR_Scarabya_N_2": {
+    "korean": "브레이크스루 튜닝",
+    "english": "Breakthrough Tuning"
+  },
+  "SkillDesc_Skill_BR_Scarabya_N_2": {
+    "korean": "아군 단일 대상의 장비를 자신이 수집한 고철로 마개조합니다.&n자신에게 적용된 이로운 공격력 / 적중 / 치명타 증가 효과를 모두 해제하고, 해제한 효과와 동일한 분류의 효과를 대상에게 다음 2회의 공격 적중에 한하여 적용합니다.&n자신이 <니코틴 충전> 상태일 때, 해당 효과를 1회 차감하여 추가로 대상의 AP를 변경하고 사거리 2 증가 효과를 부여합니다.&n대상이 <앵거 오브 호드>인 경우 효과 지속이 2회가 아닌 2라운드로 변경됩니다.",
+    "english": "Modify a single ally's equipment using scrap metal collected by self.\nRemove all beneficial ATK, ACC, and CRIT increase effects from self, then grant effects of the same type to the target for its next 2 successful hits.\nIf self is in <Nicotine Boost> state, consume 1 stack to also change the target's AP and grant +2 Range.\nIf the target belongs to <Anger of Horde>, the effect duration changes from 2 hits to 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Scarabya_N_2": {
+    "korean": "단일 대상 아군 공격력 / 적중 / 치명타 증가. 조건부 AP 변경 / 사거리 증가. 대상이 <앵거 오브 호드> 소속인 경우, 지속 효과 향상.",
+    "english": "Increases a single ally's ATK / ACC / CRIT. Conditional AP change / Range increase. If the target belongs to <Anger of Horde>, enhances persistent effects."
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_2": {
+    "korean": "브레이크스루 튜닝 : 공격력 {0}%",
+    "english": "Breakthrough Tuning : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Scarabya_N_2": {
+    "korean": "브레이크스루 튜닝 : 적중 {0}%",
+    "english": "Breakthrough Tuning : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Scarabya_N_2": {
+    "korean": "브레이크스루 튜닝 : 치명타 {0}%",
+    "english": "Breakthrough Tuning : CRIT {0}%"
+  },
+  "BuffDesc4_Effect_BR_Scarabya_N_2": {
+    "korean": "브레이크스루 튜닝 : AP {0}으로 변경 (니코틴 충전)",
+    "english": "Breakthrough Tuning: Change to AP {0} (Nicotine Boost)"
+  },
+  "BuffDesc5_Effect_BR_Scarabya_N_2": {
+    "korean": "브레이크스루 튜닝 : 사거리 {0} (니코틴 충전)",
+    "english": "Breakthrough Tuning: Range {0} (Nicotine Boost)"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_21": {
+    "korean": "브레이크스루 튜닝 : 적중 {0}%",
+    "english": "Breakthrough Tuning : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_22": {
+    "korean": "브레이크스루 튜닝 : 치명타 {0}%",
+    "english": "Breakthrough Tuning : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_23": {
+    "korean": "브레이크스루 튜닝 : 공격력 {0}%",
+    "english": "Breakthrough Tuning : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_24": {
+    "korean": "브레이크스루 튜닝 : 적중 {0}%",
+    "english": "Breakthrough Tuning : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_25": {
+    "korean": "브레이크스루 튜닝 : 치명타 {0}%",
+    "english": "Breakthrough Tuning : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_26": {
+    "korean": "브레이크스루 튜닝 : 공격력 강화 효과 해제",
+    "english": "Breakthrough Tuning : ATK Buff Removal"
+  },
+  "BuffDesc2_Effect_BR_Scarabya_N_26": {
+    "korean": "브레이크스루 튜닝 : 적중 강화 효과 해제",
+    "english": "Breakthrough Tuning : ACC Buff Removal"
+  },
+  "BuffDesc3_Effect_BR_Scarabya_N_26": {
+    "korean": "브레이크스루 튜닝 : 치명타 강화 효과 해제",
+    "english": "Breakthrough Tuning : CRIT Buff Removal"
+  },
+  "BuffDesc4_Effect_BR_Scarabya_N_26": {
+    "korean": "브레이크스루 튜닝 : 공격력 강화 효과 해제",
+    "english": "Breakthrough Tuning : ATK Buff Removal"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_27": {
+    "korean": "브레이크스루 튜닝 : AP {0}으로 변경 (니코틴 충전)",
+    "english": "Breakthrough Tuning: Change to AP {0} (Nicotine Boost)"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_28": {
+    "korean": "브레이크스루 튜닝 : 사거리 {0} (니코틴 충전)",
+    "english": "Breakthrough Tuning: Range {0} (Nicotine Boost)"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_29": {
+    "korean": "브레이크스루 튜닝 : 사거리 {0} (니코틴 충전)",
+    "english": "Breakthrough Tuning: Range {0} (Nicotine Boost)"
+  },
+  "SkillName_Skill_BR_Scarabya_N_3": {
+    "korean": "무사태평",
+    "english": "Carefree"
+  },
+  "SkillDesc_Skill_BR_Scarabya_N_3": {
+    "korean": "전투 개시 시, 자신은 해제 불가의 효과 저항 증가 / 방어막을 획득합니다.&n라운드 개시 시, 자신에게 <공격 지원> 또는 <행동 횟수 증감> 효과가 적용된 경우, 해당 효과를 해제하고 각각 AP가 증가합니다.",
+    "english": "At battle start, gain an unremovable increase to Effect Resistance and a Barrier.\nAt the start of each round, if self has <Follow-Up Attack> or <Action Count Change> effects, remove them and increase AP accordingly."
+  },
+  "SkillDescSimple_Skill_BR_Scarabya_N_3": {
+    "korean": "자신 효과 저항 증가 / 방어막. 공격 지원 및 행동 횟수 증감 효과 해제 / AP 증가.",
+    "english": "Increase own Effect Resistance / grant Barrier. Remove Follow-Up Attack and Action Count Change effects / increase AP."
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_3": {
+    "korean": "무사태평 : 효과 저항 {0}%",
+    "english": "Carefree : Status Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Scarabya_N_3": {
+    "korean": "무사태평 : 방어막 {0}",
+    "english": "Carefree : Barrier {0}"
+  },
+  "BuffDesc3_Effect_BR_Scarabya_N_3": {
+    "korean": "무사태평 : AP {0} (조건별)",
+    "english": "Carefree: AP {0} (conditional)"
+  },
+  "BuffDesc4_Effect_BR_Scarabya_N_3": {
+    "korean": "무사태평 : 공격 지원 해제",
+    "english": "Carefree : Follow-Up Attack Removal"
+  },
+  "BuffDesc5_Effect_BR_Scarabya_N_3": {
+    "korean": "무사태평 : 행동 횟수 증감 해제",
+    "english": "Carefree: Remove Action Count Change"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_31": {
+    "korean": "무사태평 : AP {0}",
+    "english": "Carefree : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Scarabya_N_31": {
+    "korean": "무사태평 : 공격 지원 해제",
+    "english": "Carefree : Follow-Up Attack Removal"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_32": {
+    "korean": "무사태평 : AP {0}",
+    "english": "Carefree : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_Scarabya_N_32": {
+    "korean": "무사태평 : 행동 횟수 증감 해제",
+    "english": "Carefree: Remove Action Count Change"
+  },
+  "SkillName_Skill_BR_Scarabya_N_4": {
+    "korean": "스낵타임",
+    "english": "Snack Time"
+  },
+  "SkillDesc_Skill_BR_Scarabya_N_4": {
+    "korean": "전투 개시 시, 자신은 <카페인 충전> 및 <니코틴 충전> 상태가 됩니다. 해당 효과가 적용되지 않은 상태에서 대기 시 재활성화 됩니다.&n<카페인 충전> / <니코틴 충전> : 행동력 증가 (2회 충전)&n자신이 <카페인 충전> 또는 <니코틴 충전> 효과가 재활성화됐을 때, 인접한 아군에게도 자신의 간식(?)을 나눠주어 2라운드 동안 행동력을 증가시킵니다.",
+    "english": "At battle start, self gains <Caffeine Boost> and <Nicotine Boost> states. If neither is active while waiting, they reactivate.\n<Caffeine Boost> / <Nicotine Boost>: increase SPD (2 stacks).\nWhen <Caffeine Boost> or <Nicotine Boost> reactivate, grant adjacent allies a snack to increase their SPD for 2 rounds."
+  },
+  "SkillDescSimple_Skill_BR_Scarabya_N_4": {
+    "korean": "자신 행동력 증가. 조건부 대기 시, 인접 아군 행동력 증가.",
+    "english": "Increase own SPD. When waiting under certain conditions, increase adjacent allies' SPD."
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_4": {
+    "korean": "스낵타임 : 행동력 {0}%",
+    "english": "Snack Time : SPD {0}%"
+  },
+  "BuffDesc2_Effect_BR_Scarabya_N_4": {
+    "korean": "카페인 충전 : 행동력 {0}%",
+    "english": "Caffeine Boost : SPD {0}%"
+  },
+  "BuffDesc3_Effect_BR_Scarabya_N_4": {
+    "korean": "니코틴 충전 : 행동력 {0}%",
+    "english": "Nicotine Boost : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_41": {
+    "korean": "스낵타임 : 행동력 {0}%",
+    "english": "Snack Time : SPD {0}%"
+  },
+  "SkillName_Skill_BR_Scarabya_N_5": {
+    "korean": "헌팅 트로피",
+    "english": "Hunting Trophy"
+  },
+  "SkillDesc_Skill_BR_Scarabya_N_5": {
+    "korean": "적 사망 시, 즉석에서 잔해를 분해하여 헌팅 트로피를 제작합니다. 자신은 2라운드 동안 공격력 / 적중 / 치명타가 증가합니다.&n헌팅 트로피를 선물받은 아군 전체의 대 경장형 / 중장형 피해량을 2라운드 동안 증가시킵니다. &n아군이 해체되는 모습을 목격한 적은 공포에 질려 적중 / 스킬 위력이 2라운드 동안 감소합니다. &n목격한 적에게 <텐더라이즈> 효과가 적용중인 경우, 디버프 효과가 50% 증가합니다.",
+    "english": "Upon an enemy’s death, immediately dismantle debris to craft a Hunting Trophy, increasing self’s ATK, ACC, and CRIT for 2 rounds. All allies who receive the Hunting Trophy gain increased Anti-Light DMG and Anti-Heavy DMG for 2 rounds. Enemies who witness an ally being dismantled have their ACC and Skill Power reduced for 2 rounds. If the witnessing enemy is under <Tenderize> effect, the debuff effect is increased by 50%."
+  },
+  "SkillDescSimple_Skill_BR_Scarabya_N_5": {
+    "korean": "적 사망 시, 자신 강화. 아군 대 경장형/중장형 피해량 증가. 적 적중 / 스킬 위력 감소.",
+    "english": "When an enemy is killed, self is enhanced. Increases allies’ Anti-Light DMG / Anti-Heavy DMG. Reduces enemy ACC / Skill Power."
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_5": {
+    "korean": "헌팅 트로피 : 공격력/적중/치명타 {0}%",
+    "english": "Hunting Trophy : ATK / ACC / CRIT {0}%"
+  },
+  "BuffDesc2_Effect_BR_Scarabya_N_5": {
+    "korean": "헌팅 트로피 : 대 경장형 피해량 {0}%",
+    "english": "Hunting Trophy : Anti-Light DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_Scarabya_N_5": {
+    "korean": "헌팅 트로피 : 대 중장형 피해량 {0}%",
+    "english": "Hunting Trophy : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc4_Effect_BR_Scarabya_N_5": {
+    "korean": "헌팅 트로피 : 적중 {0}%",
+    "english": "Hunting Trophy : ACC {0}%"
+  },
+  "BuffDesc5_Effect_BR_Scarabya_N_5": {
+    "korean": "헌팅 트로피 : 스킬 위력 {0}%",
+    "english": "Hunting Trophy : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_51": {
+    "korean": "헌팅 트로피 : 대 중장형 피해량 {0}%",
+    "english": "Hunting Trophy : Anti-Heavy DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_52": {
+    "korean": "헌팅 트로피 : 공격력 {0}%",
+    "english": "Hunting Trophy : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Scarabya_N_52": {
+    "korean": "헌팅 트로피 : 적중 {0}%",
+    "english": "Hunting Trophy : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Scarabya_N_52": {
+    "korean": "헌팅 트로피 : 치명타 {0}%",
+    "english": "Hunting Trophy : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_53": {
+    "korean": "헌팅 트로피 : 적중 {0}%",
+    "english": "Hunting Trophy : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_54": {
+    "korean": "헌팅 트로피 : 적중 {0}% (텐더라이즈)",
+    "english": "Hunting Trophy: ACC {0}% (Tenderize)"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_55": {
+    "korean": "헌팅 트로피 : 스킬 위력 {0}%",
+    "english": "Hunting Trophy : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_56": {
+    "korean": "헌팅 트로피 : 스킬 위력 {0}% (텐더라이즈)",
+    "english": "Hunting Trophy: Skill Power {0}% (Tenderize)"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_42": {
+    "korean": "카페인 충전 : 행동력 {0}%",
+    "english": "Caffeine Boost : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_43": {
+    "korean": "니코틴 충전 : 행동력 {0}%",
+    "english": "Nicotine Boost : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_44": {
+    "korean": "카페인 충전 : 행동력 {0}%",
+    "english": "Caffeine Boost : SPD {0}%"
+  },
+  "BuffDesc1_Effect_BR_Scarabya_N_45": {
+    "korean": "니코틴 충전 : 행동력 {0}%",
+    "english": "Nicotine Boost : SPD {0}%"
+  }
+}

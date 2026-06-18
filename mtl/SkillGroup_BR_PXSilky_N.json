@@ -1,0 +1,190 @@
+{
+  "1002700419": {
+    "korean": "점착탄 투척",
+    "english": "Sticky Grenade Throw"
+  },
+  "1002706177": {
+    "korean": "점착탄을 던진 후, SMG를 발사해 {0} 피해를 줍니다. 적중 대상은 2라운드 동안 대상은 받는 피해가 증가하며, 회피가 감소하고 이동 불가 상태가 됩니다. 대상이 경장 / 중장형일 경우 2라운드 동안 기본 효과의 50%가 추가 적용되며 행동력이 -10% 감소합니다.",
+    "english": "Throws a sticky grenade, then fires an SMG to deal {0} damage. Hit targets suffer DMG Taken Increased, EVA Reduction, and become Rooted for 2 rounds. If the target is Light or Heavy-type, an additional 50% of the base effects is applied for 2 rounds, and their SPD is reduced by 10%."
+  },
+  "1002703144": {
+    "korean": "단일 대상 {0} 피해. 피해 증폭 / 이동 불가 / 회피 감소",
+    "english": "Single target {0} damage. Applies DMG Taken Increased, Rooted, and EVA Reduction."
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_1": {
+    "korean": "점착탄 : 회피율 {0}%",
+    "english": "Sticky Grenade Throw : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_PXSilky_N_1": {
+    "korean": "점착탄 : 받는 피해{0}%",
+    "english": "Sticky Bomb : DMG Taken {0}%"
+  },
+  "BuffDesc3_Effect_BR_PXSilky_N_1": {
+    "korean": "점착탄 : 이동 불가",
+    "english": "Sticky Bomb: Rooted"
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_101": {
+    "korean": "점착탄 : 회피율 {0}% (경장/중장)",
+    "english": "Sticky Grenade Throw : EVA {0}% (Light/Heavy)"
+  },
+  "BuffDesc2_Effect_BR_PXSilky_N_101": {
+    "korean": "점착탄 : 받는 피해{0}% (경장/중장)",
+    "english": "Sticky Grenade Throw : DMG Taken {0}% (Light/Heavy)"
+  },
+  "BuffDesc3_Effect_BR_PXSilky_N_101": {
+    "korean": "점착탄 : 행동력{0}% (경장/중장)",
+    "english": "Sticky Grenade Throw : SPD {0}% (Light/Heavy)"
+  },
+  "1002700420": {
+    "korean": "현장 보급",
+    "english": "Field Supply"
+  },
+  "1002706178": {
+    "korean": "현장 보급으로 목표 아군의 AP를 증가시키고, 해로운 효과를 해제합니다. 대상의 역할군에 따라 2라운드 동안 추가 효과를 받습니다.",
+    "english": "Field Supply increases the target ally's AP and removes harmful effects. Grants an additional effect for 2 rounds based on the ally's role."
+  },
+  "1002703145": {
+    "korean": "대상 아군 AP 증가. 역할군에 따른 추가 효과",
+    "english": "Increases AP of a target ally. Applies additional effects based on their role."
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_2": {
+    "korean": "현장 보급 : AP{0}",
+    "english": "Field Supply : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_PXSilky_N_2": {
+    "korean": "현장 보급 : 해로운 효과 제거",
+    "english": "Field Supply : Remove Harmful Effects"
+  },
+  "BuffDesc3_Effect_BR_PXSilky_N_2": {
+    "korean": "현장 보급 : 공격력{0}% (공격기)",
+    "english": "Field Supply : ATK {0}% (Attacker)"
+  },
+  "BuffDesc4_Effect_BR_PXSilky_N_2": {
+    "korean": "현장 보급 : 방어력{0}% (보호기)",
+    "english": "Field Supply : DEF {0}% (Defender)"
+  },
+  "BuffDesc5_Effect_BR_PXSilky_N_2": {
+    "korean": "현장 보급 : AP{0} (지원기)",
+    "english": "Field Supply : AP {0} (Supporter)"
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_11": {
+    "korean": "현장 보급 : 공격력{0}% (공격기)",
+    "english": "Field Supply : ATK {0}% (Attacker)"
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_12": {
+    "korean": "현장 보급 : 방어력{0}% (보호기)",
+    "english": "Field Supply : DEF {0}% (Defender)"
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_13": {
+    "korean": "현장 보급 : AP{0} (지원기)",
+    "english": "Field Supply : AP {0} (Supporter)"
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_14": {
+    "korean": "현장 보급 : AP{0}",
+    "english": "Field Supply : AP {0}"
+  },
+  "1002700421": {
+    "korean": "웅크리기",
+    "english": "Crouch"
+  },
+  "1002706179": {
+    "korean": "적이 공격할 경우, 몸을 웅크려 받는 피해가 감소하고 효과 저항이 증가합니다. 피격 시, 일정 확률로 최소 피해만 받습니다.",
+    "english": "When attacked, the unit crouches, reducing DMG Taken and increasing Status Resist. When hit, there is a chance to receive only minimal damage."
+  },
+  "1002706512": {
+    "korean": "공격 받을 경우, 받는 피해 감소 / 효과 저항 증가",
+    "english": "When attacked, reduces DMG Taken and increases Status Resist."
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_3": {
+    "korean": "웅크리기 : 받는 피해 {0}% 감소",
+    "english": "Crouch : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_BR_PXSilky_N_3": {
+    "korean": "웅크리기 : 효과 저항{0}%",
+    "english": "Crouch : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_301": {
+    "korean": "웅크리기 : 피해 최소화",
+    "english": "Crouch : Minimize Damage"
+  },
+  "1002700422": {
+    "korean": "거대 배낭",
+    "english": "Huge Backpack"
+  },
+  "1002706180": {
+    "korean": "라운드 개시 시, 거대한 배낭으로 경장 / 중장형 아군들에게 간이 바리케이트를 제공해 회피를 증가 시키고 받는 피해 감소 효과를 부여합니다. 대상이 자신보다 행동력이 낮을 경우 적중을 감소 시키고 자신이 피격 또는 <점착탄 투척> 사용 시, 범위 내 아군의 AP가 증가합니다.",
+    "english": "At the start of each round, uses a large backpack to provide makeshift barricades to Light and Heavy-type allies, granting increased EVA and Damage Taken Reduction.&nIf the target has lower SPD than the user, their ACU is reduced.&nWhen the user is hit or uses Sticky Bomb Throw, allies within range gain increased AP."
+  },
+  "1002706513": {
+    "korean": "범위 내 기동형 제외 아군 적중 감소 / 회피 증가 / 받는 피해 감소",
+    "english": "Allies within range (excluding Air units) receive ACC Reduction, EVA Increase, and DMG Reduction."
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_4": {
+    "korean": "거대 배낭 : 회피{0}% (기동 제외)",
+    "english": "Huge Backpack : EVA {0}% (Air excluded)"
+  },
+  "BuffDesc2_Effect_BR_PXSilky_N_4": {
+    "korean": "거대 배낭 : 받는 피해 {0}% 감소 (기동 제외)",
+    "english": "Huge Backpack : DMG Reduction {0}% (Air excluded)"
+  },
+  "BuffDesc3_Effect_BR_PXSilky_N_4": {
+    "korean": "거대 배낭 : 적중 {0}% (기동 제외)",
+    "english": "Huge Backpack : ACC {0}% (Air excluded)"
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_401": {
+    "korean": "뭔가 떨어졌는데? : AP{0}",
+    "english": "Something fell? : AP {0}"
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_15": {
+    "korean": "거대 배낭 : 적중 {0}% (기동 제외)",
+    "english": "Huge Backpack : ACC {0}% (Air excluded)"
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_402": {
+    "korean": "뭔가 떨어졌는데? : AP{0}",
+    "english": "Something Dropped?: AP {0}"
+  },
+  "SkillName_Skill_BR_PXSilky_N_5": {
+    "korean": "마음대로 꺼내가시면 안돼요!",
+    "english": "You can't just take that without permission!"
+  },
+  "SkillDesc_Skill_BR_PXSilky_N_5": {
+    "korean": "라운드 개시 시, 범위 내 아군의 공격력 / 치명타를 증가 시킵니다. 대상이 <스틸라인 계열> 부대원일 경우, 기본 효과가 추가 적용되고 행동력이 증가합니다. 대상이 아군에 의한 행동력 증가 상태인 경우, 기본 효과가 추가 적용되고 방어 관통이 증가합니다.",
+    "english": "At the start of the round, increases the ATK / CRIT of allies within range.&nIf the target is a <Steel Line Affiliation> unit, the base effect is applied additionally and SPD is increased.&nIf the target is under an SPD increase effect from an ally, the base effect is applied additionally and DEF Penetration is increased."
+  },
+  "SkillDescSimple_Skill_BR_PXSilky_N_5": {
+    "korean": "범위 내 아군의 공격력 / 치명타 증가",
+    "english": "Increases the ATK and CRIT of allies within range."
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_5": {
+    "korean": "안돼요! : 공격력{0}%",
+    "english": "No! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_PXSilky_N_5": {
+    "korean": "안돼요! : 치명타{0}%",
+    "english": "No! : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_PXSilky_N_502": {
+    "korean": "안돼요! : 방어 관통{0}% (행동력)",
+    "english": "No Way! : DEF Penetration {0}% (SPD)"
+  },
+  "BuffDesc3_Effect_BR_PXSilky_N_501": {
+    "korean": "안돼요! : 행동력{0}% (스틸라인)",
+    "english": "No! : SPD {0}% (Steel Line)"
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_501": {
+    "korean": "안돼요! : 공격력{0}% (스틸라인)",
+    "english": "No! : ATK {0}% (Steel Line)"
+  },
+  "BuffDesc2_Effect_BR_PXSilky_N_501": {
+    "korean": "안돼요! : 치명타{0}% (스틸라인)",
+    "english": "No! : CRIT {0}% (Steel Line)"
+  },
+  "BuffDesc1_Effect_BR_PXSilky_N_502": {
+    "korean": "안돼요! : 공격력{0}% (행동력)",
+    "english": "No Way! : ATK {0}% (SPD)"
+  },
+  "BuffDesc2_Effect_BR_PXSilky_N_502": {
+    "korean": "안돼요! : 치명타{0}% (행동력)",
+    "english": "No Way! : CRIT {0}% (SPD)"
+  }
+}

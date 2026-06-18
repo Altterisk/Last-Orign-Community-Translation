@@ -1,0 +1,82 @@
+{
+  "1002700620": {
+    "korean": "S.C. 머신건",
+    "english": "S.C. Machine Gun"
+  },
+  "1002700621": {
+    "korean": "근접 난사",
+    "english": "Close-Range Barrage"
+  },
+  "1002700622": {
+    "korean": "기동 준비",
+    "english": "Prepare to Air"
+  },
+  "1002700623": {
+    "korean": "전투 적응 회로",
+    "english": "Combat Adaptability Circuit"
+  },
+  "1002700624": {
+    "korean": "칙 기회 포착",
+    "english": "Chance Opportunity Detection"
+  },
+  "1002703960": {
+    "korean": "머신건 사격으로 {0} 피해를 줍니다. 대상이 회피 감소 상태면 피해량이 증가합니다.",
+    "english": "Fires a machine gun, dealing {0} damage. If the target is EVA Down, damage increases."
+  },
+  "1002703961": {
+    "korean": "머신건 근접 사격으로 {0} 피해를 줍니다. 대상이 방어 감소 상태면 피해량이 증가합니다.",
+    "english": "Fires a close-range machine gun shot, dealing {0} damage. If the target is DEF Down, damage increases."
+  },
+  "1002703962": {
+    "korean": "적을 공격하기 전까지 행동력이 감소하며 받는 피해가 증가합니다.",
+    "english": "SPD decreases until attacking an enemy, and DMG Taken Increased."
+  },
+  "1002703301": {
+    "korean": "전투 시작 시, 행동 속도 감소. 받는 피해 증가.",
+    "english": "At battle start, SPD decreased. DMG Taken Increased."
+  },
+  "1002703963": {
+    "korean": "라운드 개시 시, 공격력 / 방어력 / 명중 / 회피가 증가합니다. 해당 효과는 중첩됩니다.",
+    "english": "At the start of the round, ATK / DEF / Accuracy / EVA increase. This effect stacks."
+  },
+  "1002703302": {
+    "korean": "매 라운드 공격력과 방어력 증가.",
+    "english": "ATK and DEF increase each round."
+  },
+  "1002706199": {
+    "korean": "회피 성공 시, 해당 라운드 동안 적의 빈틈을 노려 반격 합니다.",
+    "english": "When EVA succeeds, Counter Attack the enemy by exploiting their opening for the rest of that round."
+  },
+  "1002703303": {
+    "korean": "이동 불가 대상 피해량 증가.",
+    "english": "Increased damage to Rooted targets."
+  },
+  "1000102832": {
+    "korean": "기동 준비 : 행동력 {0}%",
+    "english": "Prepare To Maneuver : SPD {0}%"
+  },
+  "1000104384": {
+    "korean": "기동 준비 : 받는 피해{0}%",
+    "english": "Prepare To Maneuver : DMG Taken {0}%"
+  },
+  "1000102833": {
+    "korean": "전투 적응 : 공격력{0}%",
+    "english": "Combat Adaptation : ATK {0}%"
+  },
+  "1000102987": {
+    "korean": "전투 적응 : 방어력{0}%",
+    "english": "Combat Adaptation : DEF {0}%"
+  },
+  "1000102988": {
+    "korean": "전투 적응 : 회피{0}%",
+    "english": "Combat Adaptation : EVA {0}%"
+  },
+  "1000102989": {
+    "korean": "전투 적응 : 적중{0}%",
+    "english": "Combat Adaptation : ACC {0}%"
+  },
+  "1000102834": {
+    "korean": "기회 포착 : {0}% 위력으로 반격",
+    "english": "Seize Opportunity : Counter Attack with {0}% Power"
+  }
+}

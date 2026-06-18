@@ -1,0 +1,194 @@
+{
+  "1002707198": {
+    "korean": "기능 해체",
+    "english": "Function Dismantle"
+  },
+  "1002707199": {
+    "korean": "골든 팩토리 설치",
+    "english": "Golden Factory Installation"
+  },
+  "1002707200": {
+    "korean": "선행 설계",
+    "english": "Preliminary Design"
+  },
+  "1002707201": {
+    "korean": "약점 보완",
+    "english": "Weakness Compensation"
+  },
+  "1002707202": {
+    "korean": "협동 수리",
+    "english": "Cooperative Repair"
+  },
+  "1002707224": {
+    "korean": "대상에게 {0} 피해를 줍니다. 정찰 활성화 상태에서 전투 시작 시 [정보 수집 중] 버프가 활성화 되고 이 상태로 대기시 [정보 획득 완료] 버프가 활성화 되며, [정보 획득 완료] 버프 활성화 시 피격된 적은 저항 불가한 행동 불능 상태(전투 1회 한정)가 됩니다.",
+    "english": "Deals {0} damage to the target. When battle starts while Recon Effect is active, the [Gathering Intel] buff is applied. While waiting with [Gathering Intel] active, it is replaced by the [Intel Acquired] buff. When [Intel Acquired] is active, any enemy hit is inflicted with Stunned (once per battle)."
+  },
+  "1002707250": {
+    "korean": "단일 대상 {0} 피해. 행동 불능(전투 1회 한정)",
+    "english": "Deals {0} damage to a single target. Inflicts Stunned (once per battle)."
+  },
+  "1002707225": {
+    "korean": "아군 진영에 방어막 생성, 공격기, 보호기 대상 공격력/행동력 증가, 아자즈 [부품 확보] 버프 적용 기능이 있는 골든 팩토리를 설치합니다. [부품 확보] 상태에서 대기시 아자즈에게 1라운드 피해 무시 / 이로운 표식 버프가 부여 됩니다.&n소환 스킬은 사거리 감소 효과에 영향받지 않습니다.",
+    "english": "Deploys a Golden Factory that creates a Barrier for allies, increases ATK and SPD of Attacker and Defender units, and applies the [Parts Secured] buff to Azaz. While waiting under [Parts Secured], Azaz gains 1‑round Damage Immunity / Beneficial Mark. Summon skills are not affected by range reduction."
+  },
+  "1002707251": {
+    "korean": "목표 지점에 골든 팩토리 설치, 아군 방어막, 공격기, 보호기 공격력 / 행동력 증가, 대기시 자신 피해 무시/자기 표식",
+    "english": "Deploys a Golden Factory at the target location. Grants a Barrier to allies, increases ATK and SPD of Attacker and Defender units. While waiting, grants self Damage Immunity / Self Mark."
+  },
+  "1002707226": {
+    "korean": "라운드 시작 시 자신의 행동력을 증가 시킵니다. [방어 역장] 장착 상태에서는 전투 시작시 자신의 AP 가 증가 합니다.",
+    "english": "At the start of the round, increases own SPD. When equipped with [Defense Field], also increases own AP at battle start."
+  },
+  "1002707252": {
+    "korean": "자신 행동력 / AP 증가",
+    "english": "Increases own SPD / AP."
+  },
+  "1002707227": {
+    "korean": "적의 수에 비례하여 적의 공격력을 중첩하여 감소 시킵니다.",
+    "english": "Reduces enemy ATK in stacks proportional to the number of enemies."
+  },
+  "1002707253": {
+    "korean": "적군 인원 수 비례 공격력 감소",
+    "english": "Reduces enemy ATK in proportion to the number of enemy units."
+  },
+  "1002707228": {
+    "korean": "같은 스쿼드에 있는 로봇 캐릭터의 공격력, 방어력, 행동력이 증가합니다. 스쿼드에 포츈이 있을 시 각 버프가 추가로 증가 합니다. 대기 시 아군 전체 받는 피해가 감소 합니다.",
+    "english": "Increases ATK, DEF, and SPD of robot characters in the same squad. When Fortune is in the squad, each buff is further increased. While waiting, all allies gain DMG Reduction."
+  },
+  "1002707254": {
+    "korean": "로봇 아군 공격력 / 방어력 / 행동력 증가, 포츈 스쿼드시 버프 추가 적용, 대기시 받는 피해 감소",
+    "english": "ATK / DEF / SPD of allied robots increase. When Fortune is in the squad, buffs are further increased. While waiting, DMG Reduction."
+  },
+  "1000109066": {
+    "korean": "기능 해체 : 정보 획득 완료",
+    "english": "Function Dismantle : Information Acquisition Complete"
+  },
+  "1000109071": {
+    "korean": "기능 해체 : 정보 획득 완료 해제",
+    "english": "Function Dismantle : Cancel Information Acquisition Complete"
+  },
+  "1000109041": {
+    "korean": "골든 팩토리 설치 : 소환물 설치",
+    "english": "Golden Factory Installation : Summon Installed"
+  },
+  "1000109045": {
+    "korean": "기능 해체 : 정보 수집 중",
+    "english": "Function Dismantle : Gathering Intel"
+  },
+  "1000109046": {
+    "korean": "기능 해체 : 정보 획득 완료",
+    "english": "Function Dismantle : Information Acquisition Complete"
+  },
+  "1000109070": {
+    "korean": "기능 해체 : 정보 수집 중 종료",
+    "english": "Function Dismantle : End Information Collection"
+  },
+  "1000109048": {
+    "korean": "골든 팩토리 설치 : 부품 확보",
+    "english": "Golden Factory Installation : Parts Secured"
+  },
+  "1000109040": {
+    "korean": "기능 해체 : 행동 불능",
+    "english": "Function Dismantle : Stunned"
+  },
+  "1000109047": {
+    "korean": "기능 해체 : 행동 불능",
+    "english": "Function Dismantle : Stunned"
+  },
+  "1000109042": {
+    "korean": "선행 설계 : 행동력{0}%",
+    "english": "Preliminary Design : SPD {0}%"
+  },
+  "1000109068": {
+    "korean": "선행 설계 : AP{0}(방어 역장)",
+    "english": "Preliminary Design : AP {0} (Defense Field)"
+  },
+  "1000109051": {
+    "korean": "선행 설계 : AP{0}(방어 역장)",
+    "english": "Preliminary Design : AP {0} (Defense Field)"
+  },
+  "1000109043": {
+    "korean": "약점 보완 : 공격력{0}%(적군 1)",
+    "english": "Weakness Compensation : ATK {0}% (Enemy 1)"
+  },
+  "1000109052": {
+    "korean": "약점 보완 : 공격력{0}%(적군 2)",
+    "english": "Weakness Compensation : ATK {0}% (Enemy 2)"
+  },
+  "1000109053": {
+    "korean": "약점 보완 : 공격력{0}%(적군 3)",
+    "english": "Weakness Compensation : ATK {0}% (Enemy 3)"
+  },
+  "1000109054": {
+    "korean": "약점 보완 : 공격력{0}%(적군 4)",
+    "english": "Weakness Compensation : ATK {0}% (Enemy 4)"
+  },
+  "1000109055": {
+    "korean": "약점 보완 : 공격력{0}%(적군 5)",
+    "english": "Weakness Compensation : ATK {0}% (Enemy 5)"
+  },
+  "1000109056": {
+    "korean": "약점 보완 : 공격력{0}%(적군 6)",
+    "english": "Weakness Compensation : ATK {0}% (Enemy 6)"
+  },
+  "1000109057": {
+    "korean": "약점 보완 : 공격력{0}%(적군 7)",
+    "english": "Weakness Compensation : ATK {0}% (Enemy 7)"
+  },
+  "1000109058": {
+    "korean": "약점 보완 : 공격력{0}%(적군 8)",
+    "english": "Weakness Compensation : ATK {0}% (Enemy 8)"
+  },
+  "1000109059": {
+    "korean": "약점 보완 : 공격력{0}%(적군 9)",
+    "english": "Weakness Compensation : ATK {0}% (Enemy 9)"
+  },
+  "1000109044": {
+    "korean": "협동 수리 : 공격력{0}% (로봇)",
+    "english": "Cooperative Repair : ATK {0}% (Robot)"
+  },
+  "1000109069": {
+    "korean": "협동 수리 : 방어력{0}% (로봇)",
+    "english": "Cooperative Repair : DEF {0}% (Robot)"
+  },
+  "1000109076": {
+    "korean": "협동 수리 : 행동력{0}% (로봇)",
+    "english": "Cooperative Repair : SPD {0}% (Robot)"
+  },
+  "1000109060": {
+    "korean": "협동 수리 : 공격력{0}% (로봇)",
+    "english": "Cooperative Repair : ATK {0}% (Robot)"
+  },
+  "1000109074": {
+    "korean": "협동 수리 : 방어력{0}% (로봇)",
+    "english": "Cooperative Repair : DEF {0}% (Robot)"
+  },
+  "1000109078": {
+    "korean": "협동 수리 : 행동력{0}% (로봇)",
+    "english": "Cooperative Repair : SPD {0}% (Robot)"
+  },
+  "1000109062": {
+    "korean": "광범위 공격력 증가 : 공격력{0}%(공격/보호기)",
+    "english": "Wide-Area Attack Power Increase : ATK {0}% (Attacker/Defender)"
+  },
+  "1000109061": {
+    "korean": "광범위 방어막 생성 : 방어막{0}",
+    "english": "Wide-Area Shield Generation : Barrier {0}"
+  },
+  "1000109063": {
+    "korean": "광범위 행동력 증가 : 행동력{0}%(공격/보호기)",
+    "english": "Wide SPD Boost : SPD {0}% (Attack/Defender)"
+  },
+  "1000109112": {
+    "korean": "협동 수리 : 받는 피해 감소 {0}%",
+    "english": "Cooperative Repair : DMG Reduction {0}%"
+  },
+  "1000109067": {
+    "korean": "골든 팩토리 : 피해 무효(자신)",
+    "english": "Golden Factory : Damage Nullification (Self)"
+  },
+  "1000109050": {
+    "korean": "골든 팩토리 설치 : 표식(자신)",
+    "english": "Golden Factory Installation : Marked (Self)"
+  }
+}

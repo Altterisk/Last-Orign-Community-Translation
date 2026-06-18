@@ -1,0 +1,186 @@
+{
+  "1002701109": {
+    "korean": "정밀 포격",
+    "english": "Precision Bombardment"
+  },
+  "1002704001": {
+    "korean": "정밀 포격으로 {0} 보호 무시 피해를 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다. <지상 제압 포격> 상태일 시, 대상에게 AP를 감소시키고, 2라운드 동안 받는 피해 증가를 증가시킵니다.",
+    "english": "Deals {0} Ignore Protection damage with Precision Bombardment. If the target is Marked or Rooted, damage is increased. While in <Ground Suppression Bombardment> state, reduces the target’s AP and increases DMG Taken for 2 rounds."
+  },
+  "1002703333": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 표식 / 이동 불가 대상 피해량 증가",
+    "english": "Deals {0} Ignore Protection damage to a single target. Damage is increased against Marked or Rooted targets."
+  },
+  "1000102747": {
+    "korean": "정밀 포격 : 피해량{0}%",
+    "english": "Precision Bombardment : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_60": {
+    "korean": "지상 제압 포격 : 받는 피해{0}%",
+    "english": "Ground Suppression Fire : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_61": {
+    "korean": "지상 제압 포격 : AP{0}",
+    "english": "Ground Suppression Barrage : AP {0}"
+  },
+  "1002701110": {
+    "korean": "포격 난사",
+    "english": "Rapid Bombardment"
+  },
+  "1002704002": {
+    "korean": "포격을 난사해 지정 범위에 {0} 보호 무시 피해를 줍니다. 대상이 이동 불가 / 회피 감소 상태면 피해량이 증가합니다. 각 피해량 증가 효과는 중첩됩니다. <지상 제압 포격> 상태일 시, 목표 범위 안의 적에게 AP를 감소시키고, 2라운드 동안 받는 피해 증가를 증가시킵니다.",
+    "english": "Rapidly bombards the designated area, dealing {0} Ignore Protection damage. If targets are Rooted or have reduced EVA, damage is increased. Each damage increase effect stacks. While in <Ground Suppression Bombardment> state, reduces AP of enemies within the area and increases DMG Taken for 2 rounds."
+  },
+  "1002703334": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 이동 불가 / 회피 감소 대상 피해량 증가",
+    "english": "Designated area {0} Ignore Protection damage. Damage increased to targets that are Rooted or have reduced EVA."
+  },
+  "1000103013": {
+    "korean": "집중 포격 : 피해량{0}%",
+    "english": "Concentrated Bombardment: Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_21": {
+    "korean": "집중 포격 : 피해량+{0}%",
+    "english": "Focused Bombardment : Additional DMG +{0}%"
+  },
+  "1002701111": {
+    "korean": "공중 포격 지원",
+    "english": "Aerial Bombardment Support"
+  },
+  "1002706200": {
+    "korean": "라운드 개시 시, 범위 내 자신을 제외한 <스틸라인 계열> 부대원 또는 자신보다 행동력이 낮은 경장/중장형 아군의 공격을 지원합니다. 해당 효과는 해제할 수 없습니다. 자신이 다른 전투원의 공격을 지원할 경우, 자신의 AP가 증가합니다.",
+    "english": "At the start of the round, supports attacks of <Steel Line> units or allied Light/Heavy units within range (excluding yourself) with lower SPD than yourself. This effect cannot be removed. When you support other combatants' attacks, your AP increases."
+  },
+  "1002703335": {
+    "korean": "<스틸라인 계열> 부대원 및 자신 보다 행동력이 낮은 경장 / 중장 아군 공격 지원",
+    "english": "Supports attacks by <Steel Line> units and allied Light/Heavy units with lower SPD than yourself."
+  },
+  "1000103014": {
+    "korean": "공중 포격 지원 : 공격 지원 (스틸라인)",
+    "english": "Aerial Bombardment Support : Follow-Up Attack (Steel Line)"
+  },
+  "1000104436": {
+    "korean": "공중 포격 지원 : AP{0} (자신)",
+    "english": "Aerial Bombardment Support : AP {0} (Self)"
+  },
+  "BuffDesc4_Effect_BR_Phoenix_N_3": {
+    "korean": "공중 포격 지원 : 공격 지원 (경장 / 중장)",
+    "english": "Air Bombardment Support : Follow-Up Attack (Light/Heavy)"
+  },
+  "1000103777": {
+    "korean": "공중 포격 지원 : 공격 지원 (경장/중장)",
+    "english": "Air Bombardment Support : Follow-Up Attack (Light/Heavy)"
+  },
+  "1000103575": {
+    "korean": "공중 포격 지원 : AP{0}",
+    "english": "Aerial Bombardment Support : AP {0}"
+  },
+  "1002701112": {
+    "korean": "숙련된 조준",
+    "english": "Skilled Aiming"
+  },
+  "1002706201": {
+    "korean": "숙련된 조준으로 치명타 / 적중 / 방어 관통이 증가합니다. 스킬 레벨 10에서 사거리가 1 증가합니다. 자신이 공격 지원 또는 지정 보호를 받는 상태인 경우, 공격력이 증가합니다.",
+    "english": "Skilled Aiming increases CRIT, ACC, and DEF Penetration. At skill level 10, range increases by 1. If you are receiving Follow-Up Attack or Target Protect, ATK increases."
+  },
+  "1002703336": {
+    "korean": "치명타 / 적중 / 방어 관통 증가, 공격 지원 또는지정 보호를 받는 경우 공격력 증가",
+    "english": "Increases CRIT, ACC, and DEF Penetration; if receiving Follow-Up Attack or Target Protect, ATK increases."
+  },
+  "1000103015": {
+    "korean": "숙련된 조준 : 적중{0}%",
+    "english": "Skilled Aiming : ACC {0}%"
+  },
+  "1000104437": {
+    "korean": "숙련된 조준 : 방어 관통{0}%",
+    "english": "Skilled Aiming : DEF Penetration {0}%"
+  },
+  "1000105044": {
+    "korean": "숙련된 조준 : 치명타{0}%",
+    "english": "Skilled Aiming : CRIT {0}%"
+  },
+  "1000105392": {
+    "korean": "정밀 조준 : 공격력{0}% (공격 지원 받을 시)",
+    "english": "Precision Aim : ATK {0}% (when receiving Follow-Up Attack)"
+  },
+  "1000103016": {
+    "korean": "정밀 조준 : 공격력{0}%",
+    "english": "Precision Aim: ATK {0}%"
+  },
+  "1000105045": {
+    "korean": "숙련된 조준 : 사거리{0}",
+    "english": "Skilled Aiming : Range {0}"
+  },
+  "SkillName_Skill_BR_Phoenix_N_5": {
+    "korean": "지상 제압 포격",
+    "english": "Ground Suppression Bombardment"
+  },
+  "SkillDesc_Skill_BR_Phoenix_N_5": {
+    "korean": "전투 개시 시, <지상 제압 포격> 상태가 적용되며 적 진영의 경장 또는 중장형 적 1기당 자신의 공격력이 증가합니다. 또한 중장형 적이 3기 이상일 경우, 공격력이 추가로 증가합니다. 해당 효과들은 해제 불가입니다.",
+    "english": "At the start of battle, <Ground Suppression Bombardment> state is applied, and your ATK increases per each Light or Heavy enemy in the opposing forces. If there are 3 or more Heavy enemies, ATK increases further. These effects cannot be removed."
+  },
+  "SkillDescSimple_Skill_BR_Phoenix_N_5": {
+    "korean": "경장 / 중장형 적 1기당 공격력 증가",
+    "english": "ATK increases per each Light / Heavy enemy."
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_5": {
+    "korean": "지상 제압 포격 : 공격력{0}% (경장형)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (Light)"
+  },
+  "BuffDesc2_Effect_BR_Phoenix_N_5": {
+    "korean": "지상 제압 포격 : 공격력{0}% (중장형 3기 이상)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (3 or more Heavy)"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_51": {
+    "korean": "지상 제압 포격 : 공격력{0}% (경장형)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (Light)"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_52": {
+    "korean": "지상 제압 포격 : 공격력{0}% (경장형)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (Light)"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_53": {
+    "korean": "지상 제압 포격 : 공격력{0}% (경장형)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (Light)"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_54": {
+    "korean": "지상 제압 포격 : 공격력{0}% (경장형)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (Light)"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_55": {
+    "korean": "지상 제압 포격 : 공격력{0}% (중장형)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_56": {
+    "korean": "지상 제압 포격 : 공격력{0}% (중장형)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_57": {
+    "korean": "지상 제압 포격 : 공격력{0}% (중장형)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (Heavy)"
+  },
+  "BuffDesc2_Effect_BR_Phoenix_N_57": {
+    "korean": "지상 제압 포격 : 공격력{0}% (중장형 3기 이상)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (3 or more Heavy)"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_58": {
+    "korean": "지상 제압 포격 : 공격력{0}% (중장형)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (Heavy)"
+  },
+  "BuffDesc2_Effect_BR_Phoenix_N_58": {
+    "korean": "지상 제압 포격 : 공격력{0}% (중장형 3기 이상)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (3 or more Heavy)"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_59": {
+    "korean": "지상 제압 포격 : 공격력{0}% (중장형)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (Heavy)"
+  },
+  "BuffDesc2_Effect_BR_Phoenix_N_59": {
+    "korean": "지상 제압 포격 : 공격력{0}% (중장형 3기 이상)",
+    "english": "Ground Suppression Bombardment : ATK {0}% (3 or more Heavy)"
+  },
+  "BuffDesc1_Effect_BR_Phoenix_N_70": {
+    "korean": "지상 제압 포격",
+    "english": "Ground Suppression Bombardment"
+  }
+}

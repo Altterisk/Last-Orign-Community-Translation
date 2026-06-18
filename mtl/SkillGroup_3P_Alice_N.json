@@ -1,0 +1,166 @@
+{
+  "SkillName_Skill_3P_Alice_N_1": {
+    "korean": "찌르는 강철",
+    "english": "Piercing Steel"
+  },
+  "SkillDesc_Skill_3P_Alice_N_1": {
+    "korean": "강철을 찔러넣어 단일 대상에게 {0} 피해를 줍니다. &n적중 시, 2라운드 동안 대상에게 회피 감소 / 받는 피해 증가 / 표식 상태를 부여합니다.&n적 처치 시, 사용한 AP를 모두 돌려받고 <학살 본능>에 의한 방어막 / 피해 감소 무시 효과를 갱신합니다.",
+    "english": "Pierces with steel to deal {0} damage to a single target.&nOn hit, inflicts EVA Down / Increased Damage Taken / Marked on the target for 2 rounds.&nIf the target is killed, all AP used are refunded and the shield/pain mitigation bypass effect from Killer Instinct is refreshed."
+  },
+  "SkillDescSimple_Skill_3P_Alice_N_1": {
+    "korean": "단일 대상 {0} 피해. 회피 감소 / 받는 피해 증가 / 표식.",
+    "english": "Deals {0} damage to a single target. Inflicts EVA Down / DMG Taken Increased / Marked."
+  },
+  "BuffDesc1_Effect_3P_Alice_N_1": {
+    "korean": "찌르는 강철 : 회피 {0}%",
+    "english": "Piercing Steel: EVA {0}%"
+  },
+  "BuffDesc2_Effect_3P_Alice_N_1": {
+    "korean": "찌르는 강철 : 받는 피해 {0}% 증가",
+    "english": "Piercing Steel : DMG Taken Increased {0}%"
+  },
+  "BuffDesc3_Effect_3P_Alice_N_1": {
+    "korean": "찌르는 강철 : 표식",
+    "english": "Piercing Steel: Marked"
+  },
+  "BuffDesc4_Effect_3P_Alice_N_1": {
+    "korean": "환희 : AP {0} (적 처치 시)",
+    "english": "Joy : AP {0} (On Kill)"
+  },
+  "BuffDesc1_Effect_3P_Alice_N_11": {
+    "korean": "환희 : AP {0}",
+    "english": "Hwanhee: AP {0}"
+  },
+  "BuffDesc1_Effect_3P_Alice_N_53": {
+    "korean": "학살 본능 : 방어막 / 피해 감소 무시",
+    "english": "Instinct for Massacre: Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_3P_Alice_N_2": {
+    "korean": "정밀 폭격 : 피해량 {0}%",
+    "english": "Precision Bombardment: Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_Alice_N_32": {
+    "korean": "강자의 품격 : 대상 HP 반비례 피해량 {0}%",
+    "english": "The Dignity of the Strong: Damage dealt proportional to the target's HP {0}%"
+  },
+  "BuffDesc1_Effect_3P_Alice_N_44": {
+    "korean": "어디 도망쳐 보세요 : 피해량 {0}%",
+    "english": "Try running away: Additional DMG {0}%"
+  },
+  "SkillName_Skill_3P_Alice_N_2": {
+    "korean": "강철의 비",
+    "english": "Steel Rain"
+  },
+  "SkillDesc_Skill_3P_Alice_N_2": {
+    "korean": "강철의 비를 흩날려 지정 범위에 {0} 보호 무시 피해를 줍니다. &n적중 대상이 표식 또는 이동 불가 상태인 경우, 각각 피해량이 증가합니다.&n치명타가 발생한 적 1기당, 자신의 방어 관통이 영구히 증가합니다.",
+    "english": "Scatters a rain of steel to deal {0} shield-piercing damage to enemies in the target area.&nIf a target is Marked or Immobilized, damage is further increased for each condition.&nFor each enemy hit with a Critical Hit, permanently increases the user's DEF Penetration."
+  },
+  "SkillDescSimple_Skill_3P_Alice_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 조건부 피해량 증가 / 자신 방어 관통 증가.",
+    "english": "Deals {0} Ignore Protection damage to a target area. Conditional damage increase and user DEF Penetration boost."
+  },
+  "BuffDesc2_Effect_3P_Alice_N_2": {
+    "korean": "강철의 비 : 방어 관통 {0}%",
+    "english": "Rain of Steel: DEF Penetration {0}%"
+  },
+  "BuffDesc1_Effect_3P_Alice_N_22": {
+    "korean": "강철의 비 : 방어 관통 {0}%",
+    "english": "Rain of Steel: DEF Penetration {0}%"
+  },
+  "SkillName_Skill_3P_Alice_N_3": {
+    "korean": "강자의 품격",
+    "english": "Dignity of the Strong"
+  },
+  "SkillDesc_Skill_3P_Alice_N_3": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 치명타가 증가합니다.&n자신의 HP가 50% 이상인 경우, 상기 효과가 두 배로 증폭됩니다.&n공격 적중 시, 자신은 대상 HP 반비례 피해량 증가 효과를 획득합니다.",
+    "english": "At the start of the round, increases the user's ATK and CRIT.&nIf the user's HP is 50% or higher, these effects are doubled.&nWhen an attack hits, grants the user a bonus that increases damage based on the target's missing HP."
+  },
+  "SkillDescSimple_Skill_3P_Alice_N_3": {
+    "korean": "자신 공격력 / 치명타 증가 / 대상 HP 반비례 피해량 증가.",
+    "english": "Increases user's ATK / CRIT. Gains DMG Proportional to Target's lost HP."
+  },
+  "BuffDesc1_Effect_3P_Alice_N_3": {
+    "korean": "강자의 품격 : 공격력 {0}%",
+    "english": "Dignity of the Strong: ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Alice_N_3": {
+    "korean": "강자의 품격 : 치명타 {0}%",
+    "english": "Pride of the Strong : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_3P_Alice_N_3": {
+    "korean": "강자의 품격 : 대상 HP 반비례 피해량 {0}%",
+    "english": "Dignity of the Strong: Damage proportional to target HP {0}%"
+  },
+  "BuffDesc1_Effect_3P_Alice_N_31": {
+    "korean": "강자의 품격 : 공격력 {0}% (증폭)",
+    "english": "The Dignity of the Strong: ATK {0}% (Amplify)"
+  },
+  "BuffDesc2_Effect_3P_Alice_N_31": {
+    "korean": "강자의 품격 : 치명타 {0}% (증폭)",
+    "english": "The Dignity of the Strong: CRIT {0}% (Amplify)"
+  },
+  "SkillName_Skill_3P_Alice_N_4": {
+    "korean": "가학의 기쁨",
+    "english": "Joy of Sadism"
+  },
+  "SkillDesc_Skill_3P_Alice_N_4": {
+    "korean": "적 공격 / 적 사망 시, 2라운드 동안 자신의 행동력이 증가합니다.&n적중 대상의 행동력이 자신보다 낮을 경우, 액티브 스킬의 피해량이 증가합니다.&n전투 개시 시점부터 처치된 적 1기당, 라운드 개시 시 자신의 스킬 위력이 증가합니다.",
+    "english": "When an enemy attacks or is defeated, increases the user's SPD for 2 rounds.&nIf the target's SPD is lower than the user's, Active Skill damage is increased.&nAt the start of each round, Skill Power increases based on the number of enemies defeated since the start of battle."
+  },
+  "SkillDescSimple_Skill_3P_Alice_N_4": {
+    "korean": "적 공격 / 사망 시, 자신 행동력 증가. 조건부 액티브 스킬 피해량 / 스킬 위력 증가.",
+    "english": "When enemies attack or die, user's SPD increases. Conditional boosts to Active Skill damage and Skill Power increase."
+  },
+  "BuffDesc1_Effect_3P_Alice_N_4": {
+    "korean": "가학의 기쁨 : 행동력 {0}%",
+    "english": "Joy of Sadism: SPD {0}%"
+  },
+  "BuffDesc2_Effect_3P_Alice_N_4": {
+    "korean": "어디 도망쳐 보세요 : 피해량 {0}%",
+    "english": "Try to Run Away : Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_3P_Alice_N_4": {
+    "korean": "마릿수가 중요한가요?  : 스킬 위력 {0}% (1기당)",
+    "english": "Does Quantity Matter?: Skill Power {0}% (per unit)"
+  },
+  "BuffDesc1_Effect_3P_Alice_N_42": {
+    "korean": "가학의 기쁨 : 행동력 {0}% (봉사정신)",
+    "english": "Joy of Sadism: SPD {0}% (Spirit of Service)"
+  },
+  "BuffDesc1_Effect_3P_Alice_N_45": {
+    "korean": "벌레는 몇 마리?",
+    "english": "How Many Bugs?"
+  },
+  "BuffDesc1_Effect_3P_Alice_N_413": {
+    "korean": "마릿수가 중요한가요?  : 스킬 위력 {0}%",
+    "english": "Does the number matter? : Skill Power {0}%"
+  },
+  "SkillName_Skill_3P_Alice_N_5": {
+    "korean": "학살 본능",
+    "english": "Instinct for Slaughter"
+  },
+  "SkillDesc_Skill_3P_Alice_N_5": {
+    "korean": "전투 개시 시, 적 3기당 자신의 최대 행동 횟수가 증가합니다.&n라운드 개시 시, 자신은 방어막 / 피해 감소 무시 효과를 획득합니다. 해당 효과는 2회 공격 적중 시까지 유지됩니다.&n라운드 개시 시, 자신의 대 경장형 피해량이 증가합니다.",
+    "english": "At the start of battle, increases the user's maximum number of actions for every 3 enemies.&nAt the start of each round, grants the user a shield/pain mitigation bypass effect that lasts until hitting with 2 attacks.&nAlso at the start of each round, increases the user's damage against Heavy-type units."
+  },
+  "SkillDescSimple_Skill_3P_Alice_N_5": {
+    "korean": "자신 최대 행동 횟수 증가. 방어막 / 피해 감소 무시 획득. 대 경장형 피해량 증가.",
+    "english": "Increases Max Action. Gains Ignore Shield / Damage Reduction. Increases Anti-Heavy DMG."
+  },
+  "BuffDesc1_Effect_3P_Alice_N_5": {
+    "korean": "학살 본능 : 최대 행동 횟수 {0}",
+    "english": "Instinct for Massacre: Max Action {0}"
+  },
+  "BuffDesc2_Effect_3P_Alice_N_5": {
+    "korean": "학살 본능 : 방어막 / 피해 감소 무시",
+    "english": "Instinct to Massacre : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc3_Effect_3P_Alice_N_5": {
+    "korean": "이 잡듯이 : 대 경장형 피해량 {0}%",
+    "english": "Like Catching Bugs: Anti-Light DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_Alice_N_54": {
+    "korean": "이 잡듯이 : 대 경장형 피해량 {0}%",
+    "english": "Like Picking Lice: Anti-Light DMG {0}%"
+  }
+}

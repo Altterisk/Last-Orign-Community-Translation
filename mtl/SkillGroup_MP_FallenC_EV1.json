@@ -1,0 +1,82 @@
+{
+  "1002701628": {
+    "korean": "개조 머신건",
+    "english": "Modified Machine Gun"
+  },
+  "1002701629": {
+    "korean": "진동 분쇄탄",
+    "english": "Vibration Shrapnel Bomb"
+  },
+  "1002701631": {
+    "korean": "과출력 유폭",
+    "english": "Overoutput Explosion"
+  },
+  "1002701630": {
+    "korean": "출력 한계 해제",
+    "english": "Output Limit Release"
+  },
+  "1002706221": {
+    "korean": "머신건 사격으로 {0} 피해를 줍니다. 대상이 회피 / 방어력 감소 상태면 피해량이 증가합니다.",
+    "english": "Deals {0} damage with a machine gun shot. Damage increases if the target is in a Dodge or DEF Reduction state."
+  },
+  "1002704168": {
+    "korean": "진동 분쇄탄으로 지정 범위에 {0} 피해를 주고, 방어력 증가와 받는 피해 감소 효과를 해제합니다. 대상이 방어력 감소 상태면 피해량이 크게 증가합니다.",
+    "english": "Deals {0} damage to the designated area with Vibration Shrapnel Bomb and removes Armor Increase and DMG Reduction effects. Damage is greatly increased if the target is under Armor Reduction."
+  },
+  "1002706222": {
+    "korean": "적을 공격할 때마다 출력을 증폭하여 공격력과 적중률이 증가하지만 지속 물리 피해를 입습니다.",
+    "english": "Whenever you attack an enemy, Output Amplification increases ATK and ACC, but you suffer Physical DoT DMG."
+  },
+  "1002706223": {
+    "korean": "<출력 한계 해제> 상태에서 사망 시, 주변에 고정 피해를 주며 강화 효과를 해제합니다.",
+    "english": "When dying while in <Output Limit Release> state, deals Fixed DMG to surrounding enemies and removes enhancement effects."
+  },
+  "1002706268": {
+    "korean": "라운드 개시 시, <출력 증폭>이 5중첩 이상인 상태라면 방어막 / 피해 감소 효과를 무시하며 방어 관통 효과가 부여 됩니다. <출력 한계 해제> 상태에서 전기 공격에 피격 시 행동력이 감소합니다.",
+    "english": "At the start of the round, if <Output Amplification> has 5 or more stacks, Ignore Barrier / DMG Reduction and gain DEF Penetration. While in <Output Limit Release> state, SPD is reduced when hit by an electric attack."
+  },
+  "1000106778": {
+    "korean": "출력 증폭 : 적중률{0}%",
+    "english": "Output Amplification : ACC {0}%"
+  },
+  "1000106490": {
+    "korean": "출력 증폭 : {0} 지속 고정 피해",
+    "english": "Output amplification : Fixed DoT DMG {0}"
+  },
+  "1000103421": {
+    "korean": "진동 분쇄탄 : 방어력 증가 해제",
+    "english": "Vibrating fragmentation grenade : DEF Buff Removal"
+  },
+  "1000104624": {
+    "korean": "진동 분쇄탄 : 피해 감소 효과 해제",
+    "english": "Vibrating fragmentation grenade : DMG Reduction Removal"
+  },
+  "1000103427": {
+    "korean": "진동 분쇄탄 : 피해량{0}%",
+    "english": "Vibrating fragmentation grenade : Additional DMG {0}%"
+  },
+  "1000106489": {
+    "korean": "출력 증폭 : 적중 {0}%",
+    "english": "Output amplification : ACC {0}%"
+  },
+  "1000103423": {
+    "korean": "과출력 유폭 : 공격력 {0}% 고정 피해",
+    "english": "Over-output explosion : ATK {0}% Fixed DMG"
+  },
+  "1000104626": {
+    "korean": "과출력 유폭 : 강화 효과 해제",
+    "english": "Over-output explosion : Buff Removal"
+  },
+  "1000106079": {
+    "korean": "출력 한계 해제 : 방어막 / 피해 감소 무시",
+    "english": "Output limit unlocked : Ignore Barrier / DMG Reduction"
+  },
+  "1000106791": {
+    "korean": "출력 한계 해제 : 방어 관통{0}%",
+    "english": "Output limit unlocked : DEF Penetration {0}%"
+  },
+  "1000106543": {
+    "korean": "출력 지연 : 행동력 {0}%",
+    "english": "Output Delay : SPD {0}%"
+  }
+}

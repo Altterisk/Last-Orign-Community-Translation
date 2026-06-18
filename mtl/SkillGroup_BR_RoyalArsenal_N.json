@@ -1,0 +1,150 @@
+{
+  "SkillName_Skill_BR_RoyalArsenal_N_1": {
+    "korean": "20mm 대물 저격총",
+    "english": "20mm Anti-Materiel Sniper"
+  },
+  "SkillDesc_Skill_BR_RoyalArsenal_N_1": {
+    "korean": "저격으로 단일 대상에게 {0} 보호 무시 피해를 줍니다.&n적중 시, 대상에게 2라운드 동안 표식 / 받는 피해 증가 효과를 부여합니다.&n대상이 이동 불가 / 회피 감소 상태인 경우, 받는 피해 증가 효과가 50% 증폭됩니다.",
+    "english": "Snipes a single target, dealing {0} Ignore Protection damage.&nOn hit, applies Marked and DMG Taken Increased to the target for 2 rounds.&nIf the target is Rooted or has reduced Evasion, the DMG Taken Increased effect is amplified by 50%."
+  },
+  "SkillDescSimple_Skill_BR_RoyalArsenal_N_1": {
+    "korean": "단일 대상 {0} 보호 무시 피해. 표식 / 받는 피해 증가.",
+    "english": "Single target {0} Ignore Protection damage. Marked / DMG Taken Increased."
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_1": {
+    "korean": "20mm 대물 저격총 : 표식",
+    "english": "20mm Anti-Materiel Sniper : Marked"
+  },
+  "BuffDesc2_Effect_BR_RoyalArsenal_N_1": {
+    "korean": "20mm 대물 저격총 : 받는 피해 {0}% 증가",
+    "english": "20mm Anti-Materiel Sniper : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_11": {
+    "korean": "20mm 대물 저격총 : 받는 피해 {0}% 증가",
+    "english": "20mm Anti-Materiel Sniper : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_12": {
+    "korean": "20mm 대물 저격총 : 받는 피해 {0}% 증가 (증폭)",
+    "english": "20mm Anti-Materiel Sniper : DMG Taken Increased {0}% (Amplified)"
+  },
+  "SkillName_Skill_BR_RoyalArsenal_N_2": {
+    "korean": "F.아머리 전개",
+    "english": "Floating Armory"
+  },
+  "SkillDesc_Skill_BR_RoyalArsenal_N_2": {
+    "korean": "플로팅 아머리를 전개해 지정 범위 내 아군의 AP를 증가시키고, 2라운드 동안 공격력을 증가시킵니다. &n효과가 적용된 대상은 1라운드 동안 방어막 / 피해 감소 무시 효과를 획득합니다.&n대상이 중장형인 경우, 방어막 / 피해 감소 무시 효과 지속이 1라운드 연장됩니다.",
+    "english": "Deploy Floating Armory, increasing allies' AP in the designated area and raising their ATK for 2 rounds.&nAffected targets gain a Barrier and Ignore Barrier effect for 1 round.&nIf the target is Heavy, the Barrier and Ignore Barrier duration is extended by 1 round."
+  },
+  "SkillDescSimple_Skill_BR_RoyalArsenal_N_2": {
+    "korean": "지정 범위 아군 AP / 공격력 증가 / 방어막 / 피해 감소 무시.",
+    "english": "Increase AP / ATK for designated area allies / Ignore Barrier / DMG Reduction."
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_2": {
+    "korean": "F.아머리 전개 : AP {0}",
+    "english": "Floating Armory : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_RoyalArsenal_N_2": {
+    "korean": "F.아머리 전개 : 공격력 {0}%",
+    "english": "Floating Armory : ATK {0}%"
+  },
+  "BuffDesc3_Effect_BR_RoyalArsenal_N_2": {
+    "korean": "F.아머리 전개 : 방어막 / 피해 감소 무시",
+    "english": "Floating Armory : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_21": {
+    "korean": "F.아머리 전개 : 공격력 {0}%",
+    "english": "Floating Armory : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_22": {
+    "korean": "F.아머리 전개 : 방어막 / 피해 감소 무시",
+    "english": "Floating Armory : Ignore Barrier / DMG Reduction"
+  },
+  "SkillName_Skill_BR_RoyalArsenal_N_3": {
+    "korean": "중장부대 지휘",
+    "english": "Heavy Unit Command"
+  },
+  "SkillDesc_Skill_BR_RoyalArsenal_N_3": {
+    "korean": "라운드 개시 시, 범위 내 중장형 아군의 공격력 / 방어력이 증가하며 받는 피해가 감소합니다. &n자신 외의 <AA 캐노니어> 소속 전투원이 있을 경우, 효과가 두 배로 증폭됩니다.",
+    "english": "At the start of the round, increases ATK and DEF of Heavy allies within range and reduces DMG Taken.&nIf there is another <AA Cannoneer> unit besides yourself, the effect is doubled."
+  },
+  "SkillDescSimple_Skill_BR_RoyalArsenal_N_3": {
+    "korean": "범위 내 중장형 아군 공격력 / 방어력 증가 / 받는 피해 감소.",
+    "english": "Increase ATK / DEF / Reduce DMG Taken for Heavy allies within range."
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_3": {
+    "korean": "중장부대 지휘 : 공격력 {0}%",
+    "english": "Heavy Unit Command : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_RoyalArsenal_N_3": {
+    "korean": "중장부대 지휘 : 방어력 {0}%",
+    "english": "Heavy Unit Command : DEF {0}%"
+  },
+  "BuffDesc3_Effect_BR_RoyalArsenal_N_3": {
+    "korean": "중장부대 지휘 : 받는 피해 {0}% 감소",
+    "english": "Heavy Unit Command : DMG Reduction {0}%"
+  },
+  "SkillName_Skill_BR_RoyalArsenal_N_4": {
+    "korean": "무제한 보급 개시",
+    "english": "Unlimited Resupply"
+  },
+  "SkillDesc_Skill_BR_RoyalArsenal_N_4": {
+    "korean": "라운드 개시 시, 범위 내 아군의 치명타 / 행동력이 증가합니다. &n라운드 개시 시 대상이 <F.아머리 전개> 효과를 받는 상태인 경우, 공격력 / 치명타 감소 면역 효과를 부여합니다.",
+    "english": "At the start of the round, increases CRIT and SPD for allies within range.&nIf the target is under the effect of <Floating Armory> at the start of the round, grants immunity to ATK / CRIT reduction."
+  },
+  "SkillDescSimple_Skill_BR_RoyalArsenal_N_4": {
+    "korean": "범위 내 아군 치명타 / 행동력 증가. <F.아머리 전개> 효과 대상 공격력 / 치명타 감소 면역.",
+    "english": "Increase CRIT / SPD for allies within range. <Floating Armory> effect targets are immune to ATK / CRIT reduction."
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_4": {
+    "korean": "무제한 보급 개시 : 치명타 {0}%",
+    "english": "Unlimited Resupply : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_BR_RoyalArsenal_N_4": {
+    "korean": "무제한 보급 개시 : 행동력 {0}%",
+    "english": "Unlimited Resupply : SPD {0}%"
+  },
+  "BuffDesc3_Effect_BR_RoyalArsenal_N_4": {
+    "korean": "공격력 / 치명타 감소 면역 (F.아머리 전개)",
+    "english": "Floating Armory: ATK / CRIT reduction immunity"
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_41": {
+    "korean": "무장 재보급 : 공격력 감소 면역",
+    "english": "Armament Resupply : ATK Decrease Immunity"
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_42": {
+    "korean": "무장 재보급 : 치명타 감소 면역",
+    "english": "Armament Resupply : CRIT Decrease Immunity"
+  },
+  "SkillName_Skill_BR_RoyalArsenal_N_5": {
+    "korean": "CTCS",
+    "english": "CTCS"
+  },
+  "SkillDesc_Skill_BR_RoyalArsenal_N_5": {
+    "korean": "라운드 개시 시, 아군 중장형 공격기의 공격력 / 적중 / 방어 관통이 증가합니다. &n대상이 <F.아머리 전개> 효과를 받는 상태인 경우, 대상의 AP가 추가로 증가합니다.",
+    "english": "At the start of the round, increases ATK, ACC, and DEF Penetration of allied Heavy Attacker units.&nIf the target is under the effect of <Floating Armory>, additionally increases their AP."
+  },
+  "SkillDescSimple_Skill_BR_RoyalArsenal_N_5": {
+    "korean": "아군 중장형 공격기 공격력 / 적중 / 방어 관통 증가. <F.아머리 전개> 효과 대상 AP 증가.",
+    "english": "Increase ATK / ACC / DEF Penetration for allied Heavy Attacker units. Increase AP for <Floating Armory> effect targets."
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_5": {
+    "korean": "CTCS : 공격력 {0}%",
+    "english": "CTCS : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_RoyalArsenal_N_5": {
+    "korean": "CTCS : 적중 {0}%",
+    "english": "CTCS : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_RoyalArsenal_N_5": {
+    "korean": "CTCS : 방어 관통 {0}%",
+    "english": "CTCS : DEF Penetration {0}%"
+  },
+  "BuffDesc4_Effect_BR_RoyalArsenal_N_5": {
+    "korean": "재방열 : AP {0} (F.아머리 전개)",
+    "english": "Re-heating : AP {0} (Floating Armory)"
+  },
+  "BuffDesc1_Effect_BR_RoyalArsenal_N_51": {
+    "korean": "재방열 : AP {0}",
+    "english": "Re-heating : AP {0}"
+  }
+}

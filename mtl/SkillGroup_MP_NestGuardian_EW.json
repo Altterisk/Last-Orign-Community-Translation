@@ -1,0 +1,38 @@
+{
+  "1002706300": {
+    "korean": "2라운드 동안 주변 아군에게 방어막을 부여하며, 공격력 / 방어력 / 적중 / 회피를 증가시킵니다.",
+    "english": "Grants a Barrier to nearby allies for 2 rounds and increases their ATK / DEF / ACC / EVA."
+  },
+  "1002706301": {
+    "korean": "라운드 개시 시, 방어막 / 받는 피해 감소 효과가 적용됩니다. 자신의 HP%가 낮을수록 적에게 주는 피해량이 증가합니다.",
+    "english": "At the start of the round, a Barrier and DMG Reduction effect are applied. The lower your HP%, the more damage you deal to enemies."
+  },
+  "1002706302": {
+    "korean": "라운드 개시 시, 자신에게 적용 된 <은총 하사>의 단계에 따라 추가 효과를 받습니다.&n&n은총 하사 1단계 시 : 열 보호&n은총 하사 2단계 시 : 열 보호 / 방어력 증가&n은총 하사 3단계 시 : 열 보호 / 방어력 증가 / 받는 피해 감소",
+    "english": "At the start of a round, you receive additional effects based on the stage of <Grace Bestowed> applied to you. Grace Bestowed Stage 1: Column Protect. Grace Bestowed Stage 2: Column Protect / Increased DEF. Grace Bestowed Stage 3: Column Protect / Increased DEF / DMG Reduction."
+  },
+  "1002706303": {
+    "korean": "스킬을 사용 시, <과열> 상태가 적용됩니다. 라운드 개시 시, <과열> 상태가 3중첩이라면 3라운드 동안 <작동 정지> 상태에 빠져 행동 불능 상태가 되고 해당 상태에서 화염 공격에 피격 시, 3라운드 동안 받는 피해가 증가합니다.",
+    "english": "When you use a skill, the <Overheat> status is applied. At the start of a round, if the <Overheat> status is 3-stacked, you become <Stopped Operation> for 3 rounds, becoming Stunned, and if you are hit by a flame attack during this state, your DMG Taken Increased for 3 rounds."
+  },
+  "1000105437": {
+    "korean": "신의 가호 : 내 HP% 적을수록 피해량{0}%",
+    "english": "Divine Blessing: Damage increases as my HP% decreases by {0}%."
+  },
+  "1000106815": {
+    "korean": "과열 해제",
+    "english": "Overheat Release"
+  },
+  "1000106605": {
+    "korean": "철의 은총 : 열 보호",
+    "english": "Iron grace : Column Protect"
+  },
+  "1000106816": {
+    "korean": "철의 은총 : 방어력{0}%",
+    "english": "Iron grace : DEF {0}%"
+  },
+  "1000106911": {
+    "korean": "철의 은총 : 받는 피해 감소 {0}%",
+    "english": "Iron grace : DMG Reduction {0}%"
+  }
+}

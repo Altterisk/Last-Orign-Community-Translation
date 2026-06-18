@@ -1,0 +1,62 @@
+{
+  "1002700250": {
+    "korean": "저 녀석 잡아라!",
+    "english": "Capture That Target!"
+  },
+  "1002703787": {
+    "korean": "서브 머신건으로 {0} 피해를 주고, 2라운드 동안 대상의 회피를 낮추며 표식으로 설정해 받는 피해가 증가하는 상태로 만듭니다.",
+    "english": "Fires a submachine gun to deal {0} damage, lowers the target's EVA for 2 rounds, and applies Mark, increasing DMG Taken."
+  },
+  "1002703042": {
+    "korean": "단일 대상 {0} 피해. 회피 감소 / 표식 / 피해 증폭",
+    "english": "Single‑target {0} damage. Reduces EVA, applies Mark, and increases DMG Taken."
+  },
+  "1000102621": {
+    "korean": "저 녀석 잡아라! : 회피 {0}%",
+    "english": "Capture That Target! : EVA {0}%"
+  },
+  "1000103652": {
+    "korean": "저 녀석 잡아라! : 표식 설정",
+    "english": "Capture That Target! : Marks target"
+  },
+  "1000103314": {
+    "korean": "저 녀석 잡아라! : 받는 피해{0}%",
+    "english": "Capture That Target! : DMG Taken {0}%"
+  },
+  "1002700251": {
+    "korean": "AMG-11 조립",
+    "english": "AMG-11 Assembly"
+  },
+  "1002706145": {
+    "korean": "아군 진영의 빈 지점에 최대 사거리가 4이며, 도발 기능을 가진 AMG-11 터렛을 설치합니다. 터렛은 자동으로 적을 공격하며, 1개만 설치할 수 있습니다. 스킬 레벨 5부터는 최대 2개 까지 설치할 수 있으며, 스킬 레벨이 높아질수록 소모 AP가 감소합니다.&n소환 스킬은 사거리 감소 효과에 영향받지 않습니다.",
+    "english": "Deploys an AMG-11 Turret with a max Range of 4 and a Provoked function on an empty tile within the allied field. The turret automatically attacks enemies, and only one can be deployed at a time. Starting at skill level 5, up to two turrets can be deployed, and higher skill levels reduce the AP cost. Summon skills are not affected by Range reduction effects."
+  },
+  "1002703043": {
+    "korean": "목표 지점에 AMG-11 터렛 설치",
+    "english": "Deploys an AMG-11 Turret at the designated location"
+  },
+  "1002702527": {
+    "korean": "화기 불법 개조",
+    "english": "Illegal Firearm Modification"
+  },
+  "1002704405": {
+    "korean": "라운드 개시 시, 주변 아군의 화기를 개조해 공격력 / 치명타를 증가시키지만 사거리를 감소시킵니다. 사거리 감소 효과는 일반 효과로 분류됩니다. 스킬 레벨 10에서 범위가 증가합니다.",
+    "english": "At the start of the round, modifies the firearms of nearby allies, increasing their ATK and CRIT but reducing their Range. The Range reduction is classified as a Normal Effect. At skill level 10, the area of effect increases."
+  },
+  "1002703605": {
+    "korean": "아군 공격력 / 치명타 증가 / 사거리 감소",
+    "english": "Increases allies' ATK and CRIT, reduces their Range."
+  },
+  "1000103967": {
+    "korean": "화기 불법 개조 : 공격력{0}%",
+    "english": "Illegal Firearm Modification : ATK {0}%"
+  },
+  "1000104837": {
+    "korean": "화기 불법 개조 : 치명타{0}%",
+    "english": "Illegal Firearm Modification : CRIT {0}%"
+  },
+  "1000103972": {
+    "korean": "화기 불법 개조 : 사거리 {0}",
+    "english": "Illegal Firearm Modification : Range {0}"
+  }
+}

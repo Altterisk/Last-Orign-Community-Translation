@@ -1,0 +1,46 @@
+{
+  "SkillName_Skill_MP_IntercepterAR_N_1": {
+    "korean": "듀얼 벌칸",
+    "english": "Dual Vulcan"
+  },
+  "SkillName_Skill_MP_IntercepterAR_N_2": {
+    "korean": "레이저 유도 폭탄",
+    "english": "Laser-guided bomb"
+  },
+  "SkillName_Skill_MP_IntercepterAR_N_3": {
+    "korean": "집속공격",
+    "english": "Concentrated Attack"
+  },
+  "SkillName_Skill_MP_IntercepterAR_N_4": {
+    "korean": "재탐지",
+    "english": "Re-detection"
+  },
+  "SkillDesc_Skill_MP_IntercepterAR_N_1": {
+    "korean": "대상에게 {0} 피해를 입힙니다.",
+    "english": "Deals {0} Additional DMG to the target."
+  },
+  "SkillDesc_Skill_MP_IntercepterAR_N_2": {
+    "korean": "대상에게 {0} 피해를 입힙니다.",
+    "english": "Deals {0} Additional DMG to the target."
+  },
+  "SkillDesc_Skill_MP_IntercepterAR_N_3": {
+    "korean": "라운드 개시 시, 광역 피해량 집중 효과를 얻습니다. 광역 피해량 집중은 공격 범위에 포함된 적의 수가 적을수록 광역 공격의 최종 피해량이 증가하며, 적이 1기일 때 최대로 적용됩니다.",
+    "english": "At the start of the round, you gain the Area Damage Focus effect. Area Damage Focus increases the final damage of the area attack as the number of enemies included in the attack range decreases, reaching its maximum when there is 1 enemy."
+  },
+  "SkillDesc_Skill_MP_IntercepterAR_N_4": {
+    "korean": "공격이 적중하지 않을 시, AP가 증가하고 1라운드 동안 적중이 증가합니다.",
+    "english": "If an attack misses, AP increases and ACC increases for 1 round."
+  },
+  "BuffDesc1_Effect_MP_IntercepterAR_N_3": {
+    "korean": "집속공격 : 광역 피해 집중{0}% (최대)",
+    "english": "Concentrated attack : Area DMG Focus {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_IntercepterAR_N_4": {
+    "korean": "재탐지 : AP{0}",
+    "english": "Re-detection : AP {0}"
+  },
+  "BuffDesc2_Effect_MP_IntercepterAR_N_4": {
+    "korean": "재탐지 : 적중{0}%",
+    "english": "Re-detection : ACC {0}%"
+  }
+}

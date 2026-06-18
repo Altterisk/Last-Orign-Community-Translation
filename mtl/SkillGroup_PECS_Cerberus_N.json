@@ -1,0 +1,194 @@
+{
+  "1002700285": {
+    "korean": "스턴 롯드",
+    "english": "Stun Rod"
+  },
+  "1002700286": {
+    "korean": "지옥의 파수꾼",
+    "english": "Hell Sentinel"
+  },
+  "1002700287": {
+    "korean": "호위 지원",
+    "english": "Escort Support"
+  },
+  "1002700288": {
+    "korean": "총공격이에요!",
+    "english": "All-Out Attack!"
+  },
+  "1002706079": {
+    "korean": "호위 지원 강화",
+    "english": "Enhanced Escort Support"
+  },
+  "1002706150": {
+    "korean": "스턴 롯드로 {0} 전기 속성 피해를 주고, 3라운드 동안 전기 저항을 낮춥니다. 2라운드 동안 대상을 도발하며, 대상이 이동 불가 상태일 경우 행동 불가로 만듭니다. 스쿼드 내 자비로운 리앤이 있을 시, 대상에게 <위협사격> 협동 공격을 합니다.",
+    "english": "Deals {0} Electric damage with Stun Rod and reduces the target's Electric Resist for 3 turns. Provokes the target for 2 turns, and if the target is Rooted, also Stuns them. If Merciful Leanne is in the squad, performs a <Threatening Shot> Coordinated Attack on the target."
+  },
+  "1002706491": {
+    "korean": "단일 대상 {0} 전기 피해. 전기저항 감소/도발/행동불가/자비로운 리앤 <위협사격> 협동공격",
+    "english": "Single target {0} Electric damage. Electric Resist Down / Provoked / Stunned / Merciful Leanne <Threatening Shot> Coordinated Attack"
+  },
+  "1002703819": {
+    "korean": "방어 태세를 취해 3라운드 동안 지정한 아군을 보호하며, 자신에게 반격 / 받는 피해 감소 / 사거리 증가 효과가 적용됩니다. 사거리 증가 효과는 2라운드 동안만 적용됩니다.",
+    "english": "Assumes a defensive stance to protect a designated ally for 3 rounds, granting self Counter Attack, DMG Reduction, and increased Range. The Range increase lasts for 2 rounds."
+  },
+  "1002703070": {
+    "korean": "지정 대상 보호. 자신의 받는 피해 감소 / 반격 / 사거리 증가",
+    "english": "Designated Protection : Reduces self DMG taken, grants Counter Attack, and increases Range."
+  },
+  "1002706151": {
+    "korean": "라운드 개시 시, 지정 범위의 아군을 보호하고 치명타를 증가시킵니다. 자신의 방어력이 증가하며, 보호 대상 중 공격기의 공격을 지원합니다. 스킬 레벨 5, 10에서 범위가 증가합니다.",
+    "english": "At the start of each round, protects allies within a designated range and increases their CRIT. Increases own DEF, and supports attacks of Attacker-type allies among the protected units. The effect radius increases at skill levels 5 and 10."
+  },
+  "1002706492": {
+    "korean": "아군 지정 보호/치명타 증가/공격기 공격 지원/자신 방어력 증가",
+    "english": "Grants designated protection to an ally, increases their CRIT, supports Attacker-type allies' attacks, and increases own DEF."
+  },
+  "1002706152": {
+    "korean": "라운드 개시 시, 자신에게 피해 감소를 부여합니다. 지정 범위 아군의 공격력 / 적중 / 행동력을 증가시키며, 시티가드 소속일 시 효과가 2배로 적용됩니다.",
+    "english": "At the start of each round, grants DMG Reduction to self. Increases ATK, ACC, and SPD of allies within a designated range, and effects are doubled for City Guard units."
+  },
+  "1002706493": {
+    "korean": "받는 피해 감소. 아군 공격력/적중/행동력 증가",
+    "english": "Reduces DMG taken. Increases allies' ATK, ACC, and SPD."
+  },
+  "1002706449": {
+    "korean": "라운드 개시 시, 자신의 공격력 / 화염 저항 / 전기 저항을 증가시킵니다. 지정 범위 내 시티가드 소속 전투원의 공격을 지원합니다.",
+    "english": "At the start of the round, increases own ATK, Fire Resist, and Electric Resist. Supports attacks of City Guard units within the designated area."
+  },
+  "1002706650": {
+    "korean": "자신 공격력/화염저항/전기저항 증가, 시티가드 공격지원",
+    "english": "Increases own ATK, Fire Resist, and Electric Resist. Supports City Guard attacks."
+  },
+  "1000109131": {
+    "korean": "스턴 롯드 : 대상 도발",
+    "english": "Stun Rod : Provoke target"
+  },
+  "1000109135": {
+    "korean": "스턴 롯드 : 전기 저항 {0}%",
+    "english": "Stun Rod : Electric Resist {0}%"
+  },
+  "1000109148": {
+    "korean": "스턴 롯드 : 행동 불가",
+    "english": "Stun Rod : Stunned"
+  },
+  "1000109153": {
+    "korean": "스턴 롯드 : 협동 공격",
+    "english": "Stun Rod : Cooperative Attack"
+  },
+  "1000109136": {
+    "korean": "스턴 롯드 : 행동 불가",
+    "english": "Stun Rod : Stunned"
+  },
+  "1000109137": {
+    "korean": "스턴 롯드 : 협동 공격",
+    "english": "Stun Rod : Cooperative Attack"
+  },
+  "1000106694": {
+    "korean": "촙 메이커 II : 피해량{0}%",
+    "english": "Chop Maker II : Additional DMG {0}%"
+  },
+  "1000102640": {
+    "korean": "지옥의 파수꾼 : 받는 피해 감소 {0}% (자신)",
+    "english": "Sentinel of Hell : DMG Reduction {0}% (Self)"
+  },
+  "1000104270": {
+    "korean": "지옥의 파수꾼 : {0}% 위력으로 반격 (자신)",
+    "english": "Sentinel of Hell : Counter Attack with {0}% Power (Self)"
+  },
+  "1000101563": {
+    "korean": "지옥의 파수꾼 : 지정 대상 보호",
+    "english": "Sentinel of Hell : Target Protect"
+  },
+  "1000105360": {
+    "korean": "지옥의 파수꾼 : 사거리{0} (자신)",
+    "english": "Sentinel of Hell : Range {0} (Self)"
+  },
+  "1000102972": {
+    "korean": "지옥의 파수꾼 : 받는 피해 감소 {0}%",
+    "english": "Sentinel of Hell : DMG Reduction {0}%"
+  },
+  "1000103985": {
+    "korean": "지옥의 파수꾼 : 사거리{0}",
+    "english": "Sentinel of Hell : Range {0}"
+  },
+  "1000109132": {
+    "korean": "호위 지원 : 지정 대상 보호",
+    "english": "Escort Support : Target Protect"
+  },
+  "1000109138": {
+    "korean": "호위 지원 : 공격 지원",
+    "english": "Escort Support : Follow-Up Attack"
+  },
+  "1000109149": {
+    "korean": "호위 지원 : 치명타{0}%",
+    "english": "Escort Support : CRIT {0}%"
+  },
+  "1000109154": {
+    "korean": "호위 지원 : 방어력{0}%",
+    "english": "Escort Support : DEF {0}%"
+  },
+  "1000109139": {
+    "korean": "호위 지원 : 치명타{0}%",
+    "english": "Escort Support : CRIT {0}%"
+  },
+  "1000109140": {
+    "korean": "호위 지원 : 방어력{0}%",
+    "english": "Escort Support : DEF {0}%"
+  },
+  "1000109133": {
+    "korean": "총공격이에요! : 공격력{0}%",
+    "english": "It's an All-Out Attack! : ATK {0}%"
+  },
+  "1000109146": {
+    "korean": "총공격이에요! : 적중{0}%",
+    "english": "It's an All-Out Attack! : ACC {0}%"
+  },
+  "1000109150": {
+    "korean": "총공격이에요! : 행동력{0}%",
+    "english": "It's an All-Out Attack! : SPD {0}%"
+  },
+  "1000109155": {
+    "korean": "총공격 준비! : 받는 피해 감소 {0}%",
+    "english": "Prepare for All-Out Assault! : DMG Reduction {0}%"
+  },
+  "1000109141": {
+    "korean": "총공격이에요! : 공격력{0}% (시티가드)",
+    "english": "It's an All-Out Attack! : ATK {0}% (City Guard)"
+  },
+  "1000109147": {
+    "korean": "총공격이에요! : 적중{0}% (시티가드)",
+    "english": "It's an All-Out Attack! : ACC {0}% (City Guard)"
+  },
+  "1000109152": {
+    "korean": "총공격이에요! : 행동력{0}% (시티가드)",
+    "english": "It's an All-Out Attack! : SPD {0}% (City Guard)"
+  },
+  "1000109142": {
+    "korean": "총공격 준비! : 받는 피해 감소 {0}%",
+    "english": "Prepare for All-Out Assault! : DMG Reduction {0}%"
+  },
+  "1000109134": {
+    "korean": "호위 지원 강화 : 공격 지원",
+    "english": "Enhanced Escort Support : Follow-Up Attack"
+  },
+  "1000109143": {
+    "korean": "호위 지원 강화 : 공격력{0}%",
+    "english": "Enhanced Escort Support : ATK {0}%"
+  },
+  "1000109151": {
+    "korean": "호위 지원 강화 : 화염 저항{0}%",
+    "english": "Enhanced Escort Support : Fire Resist {0}%"
+  },
+  "1000109156": {
+    "korean": "호위 지원 강화 : 전기 저항{0}%",
+    "english": "Enhanced Escort Support : Electric Resist {0}%"
+  },
+  "1000109144": {
+    "korean": "호위 지원 강화 : 화염 저항{0}%",
+    "english": "Enhanced Escort Support : Fire Resist {0}%"
+  },
+  "1000109145": {
+    "korean": "호위 지원 강화 : 전기 저항{0}%",
+    "english": "Enhanced Escort Support : Electric Resist {0}%"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "1000102122": {
+    "korean": "처형 개시",
+    "english": "Execution Initiation"
+  },
+  "1002701336": {
+    "korean": "학살",
+    "english": "Slaughter"
+  },
+  "1002701337": {
+    "korean": "처형자",
+    "english": "Executioner"
+  },
+  "1002701338": {
+    "korean": "왜곡장",
+    "english": "Distortion field"
+  },
+  "1002701339": {
+    "korean": "고속 복원",
+    "english": "High-speed restoration"
+  },
+  "1002701342": {
+    "korean": "본체 파괴",
+    "english": "Main Body Destruction"
+  },
+  "1002704068": {
+    "korean": "지정 대상에게 {0} 피해를 줍니다. 대상이 행동 불가 상태면 피해량이 크게 증가하며, 해제 불가 행동 불능 효과를 부여합니다.",
+    "english": "Deals {0} damage to the designated target. If the target is Stunned, damage is greatly increased and applies an unremovable Stunned effect."
+  },
+  "1002703539": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 처형자 중첩이 5 이상이면 추가 화염 피해를 주며, 대상에게 걸려있는 강화 효과를 해제합니다. 처형자 중첩을 5 소모합니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area. If Executioner stacks are 5 or higher, deals additional Fire damage and removes buffs from the target. Consumes 5 Executioner stacks."
+  },
+  "1002703540": {
+    "korean": "피격 시, 공격력이 영구적으로 증가합니다. 자신이 <공격 연계> 효과를 받는 상태면 공격 대상의 방어막과 피해 감소 효과를 무시합니다.",
+    "english": "When hit, ATK permanently increases. If you are under the <Attack Combo> state, ignore the target's Barrier and DMG Reduction effects."
+  },
+  "1002704069": {
+    "korean": "모든 피해를 최소 피해만 받습니다. 처형자 중첩이 5 이상인 상태로 피격 시, 오버플로우로 인한 고정 물리 피해를 받으며 모든 강화 효과가 해제됩니다.",
+    "english": "You only receive Minimum Damage from all attacks. When hit while Executioner stacks are 5 or higher, you take Fixed Physical DMG from Overflow and all buffs are removed."
+  },
+  "1002704070": {
+    "korean": "<공격 차단> 효과를 받는 상태인 경우, 행동 불능이 되면 일정 HP를 회복하고 전투를 속행합니다.",
+    "english": "<Attack Block> state: if you become Stunned, recover a certain amount of HP and continue fighting."
+  },
+  "1002703543": {
+    "korean": "행동 불능이 되면 모든 파츠가 파괴됩니다.",
+    "english": "When Stunned, all parts are destroyed."
+  },
+  "1000103167": {
+    "korean": "대폭발 : 추가 화염 피해{0}%",
+    "english": "Explosion: Additional Fire DMG {0}%"
+  },
+  "1000103172": {
+    "korean": "오버플로우 : {0}% 물리 피해",
+    "english": "Overflow: {0}% Physical DMG"
+  },
+  "1000103173": {
+    "korean": "본체 파괴 : {0}% 물리 피해",
+    "english": "Main Body Destruction: {0}% Physical DMG"
+  },
+  "1000103166": {
+    "korean": "처형 개시 : 피해량{0}%",
+    "english": "Execution Initiation : Additional DMG {0}%"
+  },
+  "1000104504": {
+    "korean": "처형 개시 : 행동 불가",
+    "english": "Execution Initiation : Stunned"
+  },
+  "1000104505": {
+    "korean": "대폭발 : 강화 효과 해제",
+    "english": "Cataclysmic Blast : Buff Removal"
+  },
+  "1000103168": {
+    "korean": "처형자 : 공격력{0}%",
+    "english": "Executioner : ATK {0}%"
+  },
+  "1000103171": {
+    "korean": "처형자 : 방어막 / 피해 감소 무시",
+    "english": "Executioner : Ignore Barrier / DMG Reduction"
+  },
+  "1000106482": {
+    "korean": "왜곡장 : 피해 최소화",
+    "english": "Distortion field : Minimize Damage"
+  },
+  "1000104506": {
+    "korean": "오버플로우 : 강화 해제",
+    "english": "Overflow : Buff Removal"
+  },
+  "1000106483": {
+    "korean": "고속 복원 : {0}HP로 전투 속행",
+    "english": "High-speed restoration : Battle Continuation with {0} HP"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "SkillName_Skill_MP_Ellie_N_1": {
+    "korean": "테이저 니들",
+    "english": "Taser Needle"
+  },
+  "SkillName_Skill_MP_Ellie_N_2": {
+    "korean": "방호 모드",
+    "english": "Defense Mode"
+  },
+  "SkillName_Skill_MP_Ellie_N_3": {
+    "korean": "노블레스 오블리주",
+    "english": "Noblesse Oblige"
+  },
+  "SkillName_Skill_MP_Ellie_N_4": {
+    "korean": "편안한 티타임",
+    "english": "Relaxing Tea Time"
+  },
+  "SkillName_Skill_MP_Ellie_N_5": {
+    "korean": "자살 패시브",
+    "english": "Suicide Passive"
+  },
+  "SkillDesc_Skill_MP_Ellie_N_1": {
+    "korean": "{0} 전기 속성 피해를 주고, 대상의 AP를 감소시킵니다. 대상의 행동력이 자신보다 높을 경우 AP를 추가로 감소시킵니다.",
+    "english": "Deals {0} Electric attribute damage and reduces the target's AP. If the target's SPD is higher than self, reduces AP further."
+  },
+  "SkillDescSimple_Skill_MP_Ellie_N_1": {
+    "korean": "{0} 전기 속성 피해 / AP 감소",
+    "english": "{0} Electric attribute damage / AP reduction"
+  },
+  "SkillDesc_Skill_MP_Ellie_N_2": {
+    "korean": "지정 범위의 아군에게 광역 피해량 분산 95% 부여 및 33% 확률로 표식을 부여합니다.",
+    "english": "Grants allies in the designated area Area DMG Dispersion 95% and a 33% chance to apply Mark."
+  },
+  "SkillDescSimple_Skill_MP_Ellie_N_2": {
+    "korean": "아군 광역 피해 분산 / 확률적 표식 부여",
+    "english": "Allied Area DMG Dispersion / Probabilistic Mark application"
+  },
+  "SkillDesc_Skill_MP_Ellie_N_3": {
+    "korean": "영구적으로 자신이 받는 피해량 100% 감소 및 피해 무효화 효과를 받습니다.",
+    "english": "Permanently reduces DMG Taken by 100% and grants Damage Nullification."
+  },
+  "SkillDescSimple_Skill_MP_Ellie_N_3": {
+    "korean": "받는 피해량 감소 / 피해 무효화",
+    "english": "DMG Reduction / Damage Nullification"
+  },
+  "SkillDesc_Skill_MP_Ellie_N_4": {
+    "korean": "영구적으로 해로운 효과 면역 상태가 됩니다.",
+    "english": "Permanently becomes immune to harmful effects."
+  },
+  "SkillDescSimple_Skill_MP_Ellie_N_4": {
+    "korean": "해로운 효과 면역",
+    "english": "Harmful Effect Immunity"
+  },
+  "SkillDesc_Skill_MP_Ellie_N_5": {
+    "korean": "자살 패시브",
+    "english": "Suicide Passive"
+  },
+  "SkillDescSimple_Skill_MP_Ellie_N_5": {
+    "korean": "자살 패시브",
+    "english": "Suicide Passive"
+  },
+  "BuffDesc1_Effect_MP_Ellie_N_2": {
+    "korean": "방호 모드 : 표식 부여",
+    "english": "Defense Mode : Apply Mark"
+  },
+  "BuffDesc1_Effect_MP_Ellie_N_1": {
+    "korean": "테이저 니들 : AP{0}",
+    "english": "Taser Needle : AP {0}"
+  },
+  "BuffDesc2_Effect_MP_Ellie_N_1": {
+    "korean": "테이저 니들 : AP{0} (추가)",
+    "english": "Taser Needle : AP {0} (Additional)"
+  },
+  "BuffDesc1_Effect_MP_Ellie_N_11": {
+    "korean": "테이저 니들 : AP{0} (감소)",
+    "english": "Taser Needle : AP {0} (Reduction)"
+  },
+  "BuffDesc2_Effect_MP_Ellie_N_2": {
+    "korean": "방호 모드 : 광역 피해 분산 {0}% (최대)",
+    "english": "Safeguard Mode : Area DMG Dispersion {0}% (Max)"
+  },
+  "BuffDesc1_Effect_MP_Ellie_N_3": {
+    "korean": "노블레스 오블리주 : 받는 피해 {0}% 감소",
+    "english": "Noblesse Oblige : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_MP_Ellie_N_3": {
+    "korean": "노블레스 오블리주 : 피해 무효화 {0}회",
+    "english": "Noblesse Oblige : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_MP_Ellie_N_4": {
+    "korean": "편안한 티타임 : 해로운 효과 면역",
+    "english": "Relaxing Tea Time : Harmful Effect Immunity"
+  }
+}

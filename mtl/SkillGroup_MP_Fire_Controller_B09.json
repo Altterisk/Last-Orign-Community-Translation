@@ -1,0 +1,94 @@
+{
+  "SkillName_Skill_MP_Fire_Controller_B09_1": {
+    "korean": "목표 조준",
+    "english": "Target Aim"
+  },
+  "SkillName_Skill_MP_Fire_Controller_B09_2": {
+    "korean": "포격",
+    "english": "Bombardment"
+  },
+  "SkillName_Skill_MP_Fire_Controller_B09_3": {
+    "korean": "포격 준비",
+    "english": "Bombardment Preparation"
+  },
+  "SkillDesc_Skill_MP_Fire_Controller_B09_1": {
+    "korean": "전투 시작 시, 목표를 조준하고 포격 준비까지의 카운트가 시작 됩니다.",
+    "english": "At the start of battle, locks onto a target and begins a countdown until Bombardment is ready."
+  },
+  "SkillDescSimple_Skill_MP_Fire_Controller_B09_1": {
+    "korean": "포격 통제 장치 1스 간단 설명",
+    "english": "Fire Control Device Skill 1 Simple Description"
+  },
+  "SkillDesc_Skill_MP_Fire_Controller_B09_2": {
+    "korean": "카운트가 0이 될 시, 해당 라운드에 목표를 향해 포격을 개시합니다.",
+    "english": "When the countdown reaches 0, launches Bombardment at the target in that round."
+  },
+  "SkillDescSimple_Skill_MP_Fire_Controller_B09_2": {
+    "korean": "포격 통제 장치 2스 간단 설명",
+    "english": "Fire Control Device Skill 2 Simple Description"
+  },
+  "SkillDesc_Skill_MP_Fire_Controller_B09_3": {
+    "korean": "라운드 개시 시, 해제 불가의 효과 저항, 피해 최소화 효과를 부여합니다. 주위에 함선 통제 장치만 남았거나 트리톤이 제거 될 시 자폭합니다.",
+    "english": "At the start of the round, grants undispellable Status Resist and Minimize Damage. If only the Ship Control Device remains nearby or Triton is removed, Self-Destructs."
+  },
+  "SkillDescSimple_Skill_MP_Fire_Controller_B09_3": {
+    "korean": "포격 준비 : 효과 저항 / 피해 최소화 부여",
+    "english": "Bombardment Preparation : Status Resist / Minimize Damage"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_1": {
+    "korean": "목표 조준",
+    "english": "Target Aim"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_2": {
+    "korean": "포격",
+    "english": "Bombardment"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_31": {
+    "korean": "자폭",
+    "english": "Self-Destruct"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_32": {
+    "korean": "포격까지 7 라운드 남음",
+    "english": "7 Rounds Until Bombardment"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_33": {
+    "korean": "포격까지 6 라운드 남음",
+    "english": "6 Rounds Until Bombardment"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_34": {
+    "korean": "포격까지 5 라운드 남음",
+    "english": "5 Rounds Until Bombardment"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_35": {
+    "korean": "포격까지 4 라운드 남음",
+    "english": "4 Rounds Until Bombardment"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_36": {
+    "korean": "포격까지 3 라운드 남음",
+    "english": "3 Rounds Until Bombardment"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_37": {
+    "korean": "포격까지 2 라운드 남음",
+    "english": "2 Rounds Until Bombardment"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_38": {
+    "korean": "포격까지 1 라운드 남음",
+    "english": "1 Round Until Bombardment"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_300": {
+    "korean": "목표 조준",
+    "english": "Target Aimed"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_301": {
+    "korean": "포격",
+    "english": "Bombardment"
+  },
+  "BuffDesc1_Effect_MP_Fire_Controller_B09_3": {
+    "korean": "포격 준비 : 효과 저항 {0}%",
+    "english": "Prepare For Bombardment : Status Resist {0}%"
+  },
+  "BuffDesc2_Effect_MP_Fire_Controller_B09_3": {
+    "korean": "포격 준비 : 피해 최소화",
+    "english": "Prepare For Bombardment : Minimize Damage"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "SkillName_Skill_BR_Pani_N_1": {
+    "korean": "183mm HESH탄",
+    "english": "183mm HESH Shell"
+  },
+  "SkillDesc_Skill_BR_Pani_N_1": {
+    "korean": "HESH탄을 발사해 {0} 피해를 줍니다. 치명타 시, 피해량이 증가합니다.&n대상이 받는 피해 증가 / 방어력 감소 상태일 경우, 대상의 받는 피해 감소 효과를 해제합니다.",
+    "english": "Fires a HESH round to deal {0} damage. Damage is increased on a CRIT.&nIf the target is under DMG Taken Increased or DEF Down status, their DMG Reduction effect is removed."
+  },
+  "SkillDescSimple_Skill_BR_Pani_N_1": {
+    "korean": "단일 대상 {0} 피해. 치명타 시, 피해량 증가. 방어력 감소 / 받는 피해 증가 대상 받는 피해 감소 해제.",
+    "english": "Single target {0} damage. Damage is increased on a CRIT. Removes DMG Reduction if the target is under DEF Down / DMG Taken Increased."
+  },
+  "BuffDesc1_Effect_BR_Pani_N_1": {
+    "korean": "HESH탄 : 피해량 {0}%",
+    "english": "HESH Shell: Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Pani_N_1": {
+    "korean": "약점 포격 : 받는 피해 감소 해제",
+    "english": "Weak Point Fire: DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_11": {
+    "korean": "약점 포격 : 받는 피해 감소 해제",
+    "english": "Weak Point Fire: DMG Reduction Removal"
+  },
+  "SkillName_Skill_BR_Pani_N_2": {
+    "korean": "183mm HVAP탄",
+    "english": "183mm HVAP Shell"
+  },
+  "SkillDesc_Skill_BR_Pani_N_2": {
+    "korean": "고속 철갑탄을 발사해 {0} 방어 관통 피해를 줍니다. 치명타인 경우, 피해량이 증가합니다.&n스쿼드 내에 <AT-100 비스트헌터>가 있을 경우 <유산탄 포격> 협동 공격을 유도합니다.",
+    "english": "Fires a high-velocity AP round to deal {0} DEF Penetration damage. Damage is increased on a CRIT.&nIf <AT-100 Beast Hunter> is in the squad, triggers a <Legacy Shell Fire> Cooperative Attack."
+  },
+  "SkillDescSimple_Skill_BR_Pani_N_2": {
+    "korean": "단일 대상 {0} 방어 관통 피해. 치명타 시, 피해량 증가. [유산탄 포격] 협동 공격.",
+    "english": "Single target {0} DEF Penetration damage. Damage is increased on a CRIT. Legacy Shell Fire Cooperative Attack."
+  },
+  "BuffDesc1_Effect_BR_Pani_N_2": {
+    "korean": "HVAP 탄 : 방어 관통 {0}%",
+    "english": "HVAP Shell: DEF Penetration {0}%"
+  },
+  "BuffDesc2_Effect_BR_Pani_N_2": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike: Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_Pani_N_2": {
+    "korean": "초탄 명중 : [유산탄 포격] 협동 공격",
+    "english": "First Shot Hit : Legacy Shell Fire Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_21": {
+    "korean": "회심의 일격 : 피해량 {0}%",
+    "english": "Critical Strike: Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_22": {
+    "korean": "초탄 명중 : [유산탄 포격] 협동 공격",
+    "english": "First Shot Hit : Legacy Shell Fire Cooperative Attack"
+  },
+  "SkillName_Skill_BR_Pani_N_3": {
+    "korean": "포격 대열",
+    "english": "Bombardment Formation"
+  },
+  "SkillDesc_Skill_BR_Pani_N_3": {
+    "korean": "전투 개시 시, 자신이 중열/후열에 위치한 경우 포격 대열을 전개해 중열/후열에 위치한 중장형 공격기의 AP를 증가시킵니다.&n대상이 자신과 같은 열에 위치한 경우, 상기 조건에 의한 AP가 추가로 증가합니다.&n자신이 적 공격 시, 중열/후열에 위치한 중장형 공격기의 AP를 증가시킵니다.",
+    "english": "At battle start, if you are positioned in the middle or back row, deploy a Bombardment Formation that increases the AP of Heavy Attacker units in the middle or back row.&nIf the target is in the same row as you, the AP increase from this condition is further increased.&nWhen you attack an enemy, increase the AP of Heavy Attacker units positioned in the middle or back row."
+  },
+  "SkillDescSimple_Skill_BR_Pani_N_3": {
+    "korean": "전투 개시 시 / 적 공격 시, 범위 내 중장형 공격기 AP 증가.",
+    "english": "At battle start / when attacking, increase AP of Heavy Attacker units within range."
+  },
+  "BuffDesc1_Effect_BR_Pani_N_3": {
+    "korean": "포격 대열 : AP {0} (전투 개시)",
+    "english": "Bombardment Formation : AP {0} (On Battle Start)"
+  },
+  "BuffDesc2_Effect_BR_Pani_N_3": {
+    "korean": "포격 대열 : AP {0} (같은 열 추가)",
+    "english": "Bombardment Formation : AP {0} (same row additional)"
+  },
+  "BuffDesc3_Effect_BR_Pani_N_3": {
+    "korean": "포격 대열 : AP {0} (공격 시)",
+    "english": "Bombardment Formation : AP {0} (On Attack)"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_31": {
+    "korean": "포격 대열 : AP {0} (같은 열 추가)",
+    "english": "Bombardment Formation : AP {0} (same row additional)"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_32": {
+    "korean": "포격 대열 : AP {0} (전투 개시)",
+    "english": "Bombardment Formation : AP {0} (On Battle Start)"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_33": {
+    "korean": "포격 대열 : AP {0} (같은 열 추가)",
+    "english": "Bombardment Formation : AP {0} (same row additional)"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_34": {
+    "korean": "포격 대열 : AP {0} (공격 시)",
+    "english": "Bombardment Formation : AP {0} (On Attack)"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_35": {
+    "korean": "포격 대열 : AP {0} (공격 지원 시)",
+    "english": "Bombardment Formation : AP {0} (Follow-Up Attack)"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_36": {
+    "korean": "포격 대열 : AP {0} (협동 공격 시)",
+    "english": "Bombardment Formation : AP {0} (Cooperative Attack)"
+  },
+  "SkillName_Skill_BR_Pani_N_4": {
+    "korean": "진방렬",
+    "english": "Assault Column"
+  },
+  "SkillDesc_Skill_BR_Pani_N_4": {
+    "korean": "대기 시, <포격 대열> 범위 내 중장형 공격기에게 <진방렬>을 지시합니다. &n<진방렬> 상태의 전투원은 이동이 불가능해지고, 강제 이동 효과에 면역 상태가 되며, 적중 / 치명타가 증가합니다.&n<진방렬>은 강화 해제 효과로 해제되지 않으며, 파니가 대기 시 일괄 해제할 수 있습니다.",
+    "english": "While Idle, orders <Assault Column> to Heavy Attacker units within the <Bombardment Formation> range.&nUnits in <Assault Column> cannot move, become immune to forced movement effects, and gain increased ACC and CRIT.&n<Assault Column> cannot be removed by buff removal effects, but will be removed entirely when Pani enters Idle mode."
+  },
+  "SkillDescSimple_Skill_BR_Pani_N_4": {
+    "korean": "대기 시, 범위 내 중장형 공격기 적중 / 치명타 증가.",
+    "english": "While Idle, increase ACC / CRIT of Heavy Attacker units within range."
+  },
+  "BuffDesc1_Effect_BR_Pani_N_4": {
+    "korean": "배터리 컨트롤 : 적중 {0}%",
+    "english": "Battery Control : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Pani_N_4": {
+    "korean": "배터리 컨트롤 : 치명타 {0}%",
+    "english": "Battery Control : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Pani_N_4": {
+    "korean": "차려포 : 이동 불가",
+    "english": "Ready Cannon: Rooted"
+  },
+  "BuffDesc4_Effect_BR_Pani_N_4": {
+    "korean": "차려포 : 뒤로 밀기 면역",
+    "english": "Charyeoppo: Push Back Immunity"
+  },
+  "BuffDesc5_Effect_BR_Pani_N_4": {
+    "korean": "차려포 : 앞으로 당기기 면역",
+    "english": "Charyeoppo: Pull Forward Immunity"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_41": {
+    "korean": "풀어포",
+    "english": "Release Fire"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_42": {
+    "korean": "진방렬",
+    "english": "Assault Column"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_43": {
+    "korean": "배터리 컨트롤 : 적중 {0}%",
+    "english": "Battery Control: ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_Pani_N_43": {
+    "korean": "배터리 컨트롤 : 치명타 {0}%",
+    "english": "Battery Control: CRIT {0}%"
+  },
+  "BuffDesc3_Effect_BR_Pani_N_43": {
+    "korean": "차려포 : 이동 불가",
+    "english": "Ready Cannon: Rooted"
+  },
+  "BuffDesc4_Effect_BR_Pani_N_43": {
+    "korean": "차려포 : 뒤로 밀기 면역",
+    "english": "Ready Cannon: Push Back Immunity"
+  },
+  "BuffDesc5_Effect_BR_Pani_N_43": {
+    "korean": "차려포 : 앞으로 당기기 면역",
+    "english": "Ready Cannon: Pull Forward Immunity"
+  },
+  "SkillName_Skill_BR_Pani_N_5": {
+    "korean": "화력 투사",
+    "english": "Fire Projection"
+  },
+  "SkillDesc_Skill_BR_Pani_N_5": {
+    "korean": "전투 개시 시, 스쿼드 내 중장형 전투원 수에 따라 자신의 공격력이 영구 증가합니다.&n전투 개시 시, 스쿼드 내 공격기 전투원 수에 따라 자신의 치명타가 영구 증가합니다.&n라운드 개시 시, <AA 캐노니어> 소속 지원기를 공격 지원합니다.&n<포격 대열> 효과 중 공격 시 증가하는 AP의 50%만큼 자신이 지원/협동 공격 시에도 대상의 AP가 증가합니다.",
+    "english": "At battle start, permanently increase own ATK based on the number of Heavy units in the squad.&nAt battle start, permanently increase own CRIT based on the number of Attacker units in the squad.&nAt the start of each round, provide Follow-Up Attack to Support units belonging to the <AA Cannoneer> faction.&nWhile under the effect of Bombardment Formation, targets of your Support/Cooperative Attacks gain AP equal to 50% of the AP increase normally granted during your own attacks."
+  },
+  "SkillDescSimple_Skill_BR_Pani_N_5": {
+    "korean": "전투 개시 시, 아군 중장형 / 공격기 수에 따라 자신 공격력 / 치명타 증가. <포격 대열> 효과 강화.",
+    "english": "At battle start, increase own ATK / CRIT based on number of allied Heavy / Attacker units. Enhances Bombardment Formation effect."
+  },
+  "BuffDesc1_Effect_BR_Pani_N_5": {
+    "korean": "화력 투사 : 공격 지원 (AA 캐노니어)",
+    "english": "Fire Projection : Follow-Up Attack (AA Cannoneer)"
+  },
+  "BuffDesc2_Effect_BR_Pani_N_5": {
+    "korean": "화력 투사 : 공격력 {0}% (중장형 1기당)",
+    "english": "Fire Projection : ATK {0}% (per Heavy)"
+  },
+  "BuffDesc3_Effect_BR_Pani_N_5": {
+    "korean": "화력 투사 : 치명타 {0}% (공격기 1기당)",
+    "english": "Fire Projection : CRIT {0}% (per Attacker)"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_51": {
+    "korean": "화력 투사 : 공격력 {0}%",
+    "english": "Fire Projection : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_52": {
+    "korean": "화력 투사 : 공격력 {0}%",
+    "english": "Fire Projection : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_53": {
+    "korean": "화력 투사 : 공격력 {0}%",
+    "english": "Fire Projection : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_54": {
+    "korean": "화력 투사 : 공격력 {0}%",
+    "english": "Fire Projection : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_55": {
+    "korean": "화력 투사 : 공격력 {0}%",
+    "english": "Fire Projection : ATK {0}%"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_56": {
+    "korean": "화력 투사 : 치명타 {0}%",
+    "english": "Fire Projection : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_57": {
+    "korean": "화력 투사 : 치명타 {0}%",
+    "english": "Fire Projection : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_58": {
+    "korean": "화력 투사 : 치명타 {0}%",
+    "english": "Fire Projection : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_59": {
+    "korean": "화력 투사 : 치명타 {0}%",
+    "english": "Fire Projection : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_BR_Pani_N_510": {
+    "korean": "화력 투사 : 치명타 {0}%",
+    "english": "Fire Projection : CRIT {0}%"
+  }
+}

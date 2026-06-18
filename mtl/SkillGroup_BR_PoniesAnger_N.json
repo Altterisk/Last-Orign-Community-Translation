@@ -1,0 +1,202 @@
+{
+  "SkillName_Skill_BR_PoniesAnger_N_1": {
+    "korean": "위협 사격",
+    "english": "Threat Shot"
+  },
+  "SkillDesc_Skill_BR_PoniesAnger_N_1": {
+    "korean": "우회 기동을 통해 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상을 도발하며 적중 감소 / 받는 피해 증가 효과를 부여합니다.&n스쿼드 내 <T-60 불가사리>가 있을 경우, [배터링 램] / [벙커 버스터] 스킬 협동 공격을 유도합니다.",
+    "english": "Performs a Flanking Air to deal {0} damage.\nOn hit, Provokes the target for 2 rounds and applies ACC Reduction and DMG Taken Increased.\nIf <T-60 Bulgasari> is in the squad, triggers [Battering Ram] / [Bunker Buster] Cooperative Attack."
+  },
+  "SkillDescSimple_Skill_BR_PoniesAnger_N_1": {
+    "korean": "단일 대상 {0} 피해. 적중 감소 / 받는 피해 증가. [배터링 램] / [벙커 버스터] 협동 공격.",
+    "english": "Single target {0} damage. ACC Reduction / DMG Taken Increased. [Battering Ram] / [Bunker Buster] Cooperative Attack."
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_1": {
+    "korean": "위협 사격 : 대상 도발 (핀토)",
+    "english": "Threat Shot : Provokes target (Pinto)"
+  },
+  "BuffDesc2_Effect_BR_PoniesAnger_N_1": {
+    "korean": "위협 사격 : 적중 {0}%",
+    "english": "Threat Shot : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_PoniesAnger_N_1": {
+    "korean": "위협 사격 : 받는 피해 {0}% 증가",
+    "english": "Threat Shot : DMG Taken Increased {0}%"
+  },
+  "BuffDesc4_Effect_BR_PoniesAnger_N_1": {
+    "korean": "[배터링 램] / [벙커 버스터] 협동 공격",
+    "english": "[Battering Ram] / [Bunker Buster] Cooperative Attack"
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_11": {
+    "korean": "위협 사격 : [배터링 램] / [벙커 버스터] 협동 공격",
+    "english": "Threat Shot : [Battering Ram] / [Bunker Buster] Cooperative Attack"
+  },
+  "SkillName_Skill_BR_PoniesAnger_N_2": {
+    "korean": "곡예 비행",
+    "english": "Acrobatic Flight"
+  },
+  "SkillDesc_Skill_BR_PoniesAnger_N_2": {
+    "korean": "곡예 비행을 시작해 3라운드 동안 반격이 활성화되고 자신이 받는 피해가 감소하며, 대상을 지정 보호합니다.&n스쿼드 내 <C-77 홍련>이 있을 경우, 추가로 자신은 회피 감소 효과에 면역 상태가 됩니다.",
+    "english": "Starts Acrobatic Flight, granting Counter Attack for 3 rounds, reducing DMG Taken, and applying Target Protect. If <C-77 HongRyeon> is in the squad, additionally gains EVA Decrease Immunity."
+  },
+  "SkillDescSimple_Skill_BR_PoniesAnger_N_2": {
+    "korean": "자신 반격 / 받는 피해 감소. 대상 지정 보호. 조건부 회피 감소 면역.",
+    "english": "Self Counter Attack / DMG Taken Reduced. Target Protect. Conditional EVA Decrease Immunity."
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_2": {
+    "korean": "곡예 비행 : {0}% 위력으로 반격",
+    "english": "Acrobatic Flight : Counter Attack with {0}% Power"
+  },
+  "BuffDesc2_Effect_BR_PoniesAnger_N_2": {
+    "korean": "곡예 비행 : 받는 피해 {0}% 감소",
+    "english": "Acrobatic Flight : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_BR_PoniesAnger_N_2": {
+    "korean": "곡예 비행 : 지정 보호",
+    "english": "Acrobatic Flight : Target Protect"
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_21": {
+    "korean": "곡예 비행 : 받는 피해 {0}% 감소",
+    "english": "Acrobatic Flight : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_22": {
+    "korean": "곡예 비행 : 지정 보호",
+    "english": "Acrobatic Flight : Target Protect"
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_23": {
+    "korean": "곡예 비행 : 회피 감소 면역",
+    "english": "Acrobatic Flight : EVA Decrease Immunity"
+  },
+  "SkillName_Skill_BR_PoniesAnger_N_3": {
+    "korean": "편대 호위",
+    "english": "Squad Escort"
+  },
+  "SkillDesc_Skill_BR_PoniesAnger_N_3": {
+    "korean": "전투 개시 시, 호위 대형을 편성해 범위 내 기동형 아군의 AP가 증가합니다.&n라운드 개시 시, 범위 내 기동형 아군의 적중 / 회피를 증가시키고, 보호기를 제외한 기동형 아군을 지정 보호합니다.&n자신이 지정 보호 중인 아군이 있을 경우, 자신에게 적용되는 상기 적중 / 회피 증가 효과가 세 배로 증폭됩니다.",
+    "english": "At the start of battle, forms a Defensive Formation, increasing AP of Air-type allies within range.\nAt the start of the round, increases ACC and EVA of Air-type allies within range and applies Target Protect to them (excluding defenders).\nIf you have an ally under Target Protect, the ACC and EVA bonuses you receive are tripled."
+  },
+  "SkillDescSimple_Skill_BR_PoniesAnger_N_3": {
+    "korean": "범위 내 기동형 AP / 적중 / 회피 증가 / 지정 보호. 조건부 효과 증폭.",
+    "english": "Increases AP, ACC, and EVA of Air-type allies within range / Target Protect. Conditional effect amplification."
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_3": {
+    "korean": "편대 호위 : AP {0}",
+    "english": "Squad Escort : AP {0}"
+  },
+  "BuffDesc2_Effect_BR_PoniesAnger_N_3": {
+    "korean": "편대 호위 : 적중 {0}%",
+    "english": "Squad Escort : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_PoniesAnger_N_3": {
+    "korean": "편대 호위 : 회피 {0}%",
+    "english": "Squad Escort : EVA {0}%"
+  },
+  "BuffDesc4_Effect_BR_PoniesAnger_N_3": {
+    "korean": "편대 호위 : 지정 보호",
+    "english": "Squad Escort : Target Protect"
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_31": {
+    "korean": "편대 호위 : 지정 보호",
+    "english": "Squad Escort : Target Protect"
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_32": {
+    "korean": "편대 호위 : 적중 {0}%",
+    "english": "Squad Escort : ACC {0}%"
+  },
+  "BuffDesc2_Effect_BR_PoniesAnger_N_32": {
+    "korean": "편대 호위 : 회피 {0}%",
+    "english": "Squad Escort : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_33": {
+    "korean": "편대 호위 : 적중 {0}% (증폭)",
+    "english": "Squad Escort : ACC {0}% (Amplified)"
+  },
+  "BuffDesc2_Effect_BR_PoniesAnger_N_33": {
+    "korean": "편대 호위 : 회피 {0}% (증폭)",
+    "english": "Squad Escort : EVA {0}% (Amplified)"
+  },
+  "SkillName_Skill_BR_PoniesAnger_N_4": {
+    "korean": "돌입 준비",
+    "english": "Breakthrough Prep"
+  },
+  "SkillDesc_Skill_BR_PoniesAnger_N_4": {
+    "korean": "라운드 개시 시, 자신의 회피가 증가하고 행 보호가 활성화됩니다.&n<편대 호위>의 효과 적용 대상에 <몽구스 팀> 소속 전투원을 추가합니다. 스킬 효과는 <돌입 준비>의 스킬 레벨에 비례합니다.&n라운드 개시 시, 자신과 <편대 호위>에 의한 지정 보호를 받는 아군의 공격력 / 적중이 증가합니다.",
+    "english": "At the start of the round, increases your EVA and activates Row Protect.\nAdds members of the <Mongoose Team> to the targets of <Squad Escort>. The skill's effect scales with the level of <Breakthrough Prep>.\nAt the start of the round, increases ATK and ACC of yourself and allies receiving Target Protect from <Squad Escort>."
+  },
+  "SkillDescSimple_Skill_BR_PoniesAnger_N_4": {
+    "korean": "자신 회피 증가 / 행 보호. <편대 호위> 대상 확장. 조건부 공격력 / 적중 증가.",
+    "english": "Increases your EVA / activates Row Protect. Expands <Squad Escort> targets. Conditional ATK / ACC increase."
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_4": {
+    "korean": "돌입 준비 : 회피 {0}%",
+    "english": "Breakthrough Prep : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_PoniesAnger_N_4": {
+    "korean": "돌입 준비 : 행 보호",
+    "english": "Breakthrough Prep : Row Protect"
+  },
+  "BuffDesc3_Effect_BR_PoniesAnger_N_4": {
+    "korean": "돌입 개시 : 공격력 {0}%",
+    "english": "Commence Assault: ATK {0}%"
+  },
+  "BuffDesc4_Effect_BR_PoniesAnger_N_4": {
+    "korean": "돌입 개시 : 적중 {0}%",
+    "english": "Initiate: ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_44": {
+    "korean": "돌입 준비 : 공격력 {0}%",
+    "english": "Breakthrough Prep : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_PoniesAnger_N_44": {
+    "korean": "돌입 준비 : 적중 {0}%",
+    "english": "Breakthrough Prep : ACC {0}%"
+  },
+  "SkillName_Skill_BR_PoniesAnger_N_5": {
+    "korean": "영웅 출현",
+    "english": "Heroic Entry"
+  },
+  "SkillDesc_Skill_BR_PoniesAnger_N_5": {
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가하고 보호 무시가 활성화됩니다.&n라운드 개시 시, <곡예 비행>의 지속 효과가 기본 효과로 적용되고, 해당 스킬을 <몽구스 매뉴버>로 교체합니다.&n스킬 효과는 <영웅 출현>의 스킬 레벨에 비례합니다.",
+    "english": "At the start of the round, increases your Status Resist and activates Ignore Protection.\nAt the start of the round, the sustained effect of <Acrobatic Flight> is applied as the base effect, and this skill is replaced with <Mongoose Maneuver>.\nThe skill's effectiveness scales with the level of <Heroic Entry>."
+  },
+  "SkillDescSimple_Skill_BR_PoniesAnger_N_5": {
+    "korean": "자신 효과 저항 증가 / 보호 무시 활성화. <곡예 비행> 효과 획득. <몽구스 매뉴버> 습득.",
+    "english": "Increases your Status Resist / activates Ignore Protection. Gains <Acrobatic Flight> effect. Acquires <Mongoose Maneuver>."
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_5": {
+    "korean": "영웅 출현 : 효과 저항 {0}% 증가",
+    "english": "Heroic Entry : Status Resist {0}% Increase"
+  },
+  "BuffDesc2_Effect_BR_PoniesAnger_N_5": {
+    "korean": "영웅 출현 : 보호 무시 활성화",
+    "english": "Heroic Entry : Activate Ignore Protection"
+  },
+  "BuffDesc3_Effect_BR_PoniesAnger_N_5": {
+    "korean": "영웅 출현 : {0}% 위력으로 반격",
+    "english": "Heroic Entry : Counter Attack with {0}% Power"
+  },
+  "BuffDesc4_Effect_BR_PoniesAnger_N_5": {
+    "korean": "영웅 출현 : 받는 피해 {0}% 감소",
+    "english": "Heroic Entry : DMG Reduction {0}%"
+  },
+  "BuffDesc5_Effect_BR_PoniesAnger_N_5": {
+    "korean": "영웅 출현 : <몽구스 매뉴버> 습득",
+    "english": "Heroic Entry : Acquires <Mongoose Maneuver>"
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_51": {
+    "korean": "영웅 출현 : {0}% 위력으로 반격",
+    "english": "Heroic Entry : Counter Attack with {0}% Power"
+  },
+  "BuffDesc2_Effect_BR_PoniesAnger_N_51": {
+    "korean": "영웅 출현 : 받는 피해 {0}% 감소",
+    "english": "Heroic Entry : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_52": {
+    "korean": "영웅 출현 : 회피 감소 면역",
+    "english": "Heroic Entry : EVA Decrease Immunity"
+  },
+  "BuffDesc1_Effect_BR_PoniesAnger_N_53": {
+    "korean": "영웅 출현 : 진정한 힘",
+    "english": "Heroic Entry : True Power"
+  }
+}

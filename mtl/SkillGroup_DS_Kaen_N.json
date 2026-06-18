@@ -1,0 +1,142 @@
+{
+  "SkillName_Skill_DS_Kaen_N_1": {
+    "korean": "엔엔라 사출",
+    "english": "Enenra Launch"
+  },
+  "SkillName_Skill_DS_Kaen_N_2": {
+    "korean": "만자천홍",
+    "english": "Ten Thousand Red Flames"
+  },
+  "SkillName_Skill_DS_Kaen_N_3": {
+    "korean": "홍련의 암희",
+    "english": "Shadow of the HongRyeon"
+  },
+  "SkillName_Skill_DS_Kaen_N_4": {
+    "korean": "기장닌자 카엔 2호기",
+    "english": "Kaen Shadow Strike II"
+  },
+  "SkillName_Skill_DS_Kaen_N_5": {
+    "korean": "츠바메가에시",
+    "english": "Silent Blade: Swallow Cut"
+  },
+  "SkillDesc_Skill_DS_Kaen_N_1": {
+    "korean": "붉은 빛의 기계장치를 사출하여 단일 대상에게 {0} 피해를 줍니다.&n적중 시, 대상을 2라운드 동안 도발하고 받는 피해 감소 효과를 해제합니다.&n치명타 시, 피해량이 증가합니다.",
+    "english": "Launches a crimson-lit mechanical device to deal {0} DMG to a single target.\nOn hit, the target is Provoked for 2 rounds and its DMG Reduction is removed.\nOn CRIT, the damage is increased."
+  },
+  "SkillDescSimple_Skill_DS_Kaen_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상 도발 / 받는 피해 감소 해제.",
+    "english": "Single target {0} DMG. Provokes target / Removes DMG Reduction."
+  },
+  "SkillDesc_Skill_DS_Kaen_N_2": {
+    "korean": "전방위를 향해 에너지를 방출하여 지정 범위에 {0} 보호 무시 피해를 줍니다.&n목표 지점에서 멀 수록 피해량이 최대 50%까지 감소합니다.&n적중 대상이 받는 피해 감소 상태가 아닌 경우, 피해량이 증가합니다.&n스킬 사용 시, 자신에게 적용된 해로운 효과를 해제합니다.",
+    "english": "Emits energy in all directions, dealing {0} DMG that ignores protection to the designated area.\nDamage decreases up to 50% the farther the target is from the center.\nIf the hit target is not under a DMG Reduction status, the damage is increased.\nWhen the skill is used, all harmful effects on yourself are removed."
+  },
+  "SkillDescSimple_Skill_DS_Kaen_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해. 조건부 피해량 증가. 자신 해로운 효과 해제.",
+    "english": "Designated area {0} DMG ignoring protection. Conditional damage increase. Removes harmful effects on self."
+  },
+  "SkillDesc_Skill_DS_Kaen_N_3": {
+    "korean": "라운드 개시 시 스쿼드 내에 보호기가 없을 경우, 적 전체를 도발합니다.&n상기 효과는 대상의 효과 저항에 영향을 받지 않지만, 해로운 효과 해제로 해제할 수 있습니다.&n라운드 개시 시, 자신의 공격력 / 적중이 증가합니다.&n자신 외의 스쿼드 내 공격기 1기 당, 상기 효과가 50% 증폭됩니다.",
+    "english": "At the start of the round, if there is no defender in the squad, all enemies are Provoked.\nThis effect is not affected by the target's Status Resist, but can be removed by dispelling harmful effects.\nAt the start of the round, your ATK and ACC are increased.\nFor each attacking unit in the squad besides yourself, the above effects are amplified by 50%."
+  },
+  "SkillDescSimple_Skill_DS_Kaen_N_3": {
+    "korean": "자신 공격력 / 적중 증가. 조건부 적 전체 도발.",
+    "english": "ATK / ACC increased. Conditional Provocation of all enemies."
+  },
+  "SkillDesc_Skill_DS_Kaen_N_4": {
+    "korean": "라운드 개시 시, 자신의 효과 저항이 증가하고 방어막을 획득합니다.&n스쿼드 내에 <코요리>가 있을 경우, 상기 효과 수치가 두 배로 증폭됩니다.",
+    "english": "At the start of the round, your Status Resist increases and you gain a Barrier.\nIf <Koyori> is in the squad, the above effect values are doubled."
+  },
+  "SkillDescSimple_Skill_DS_Kaen_N_4": {
+    "korean": "자신 효과 저항 증가 / 방어막 획득.",
+    "english": "Status Resist increased / Barrier granted."
+  },
+  "SkillDesc_Skill_DS_Kaen_N_5": {
+    "korean": "피격 시, 자신은 2라운드 동안 반격 / 대 기동형 피해량 증가 효과를 획득합니다. (중첩 불가)&n반격 시, 자신의 AP가 증가하고 자신의 효과에 의한 방어막을 최대 상태로 갱신합니다.",
+    "english": "When hit, you gain Counter Attack and increased Anti-Air DMG for 2 rounds (cannot stack).\nWhen Counter Attacking, your AP increases and your Barrier, granted by your effects, is refreshed to full."
+  },
+  "SkillDescSimple_Skill_DS_Kaen_N_5": {
+    "korean": "피격 시, 자신 반격 / 대 기동형 피해량 증가. 반격 시, 자신 AP 증가 / 방어막 갱신.",
+    "english": "When hit, gain Counter Attack / Anti-Air DMG increase. When Counter Attacking, AP increased / Barrier refreshed."
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_1": {
+    "korean": "엔엔라 사출 : 도발",
+    "english": "Enenra Launch : Provokes"
+  },
+  "BuffDesc2_Effect_DS_Kaen_N_1": {
+    "korean": "엔엔라 사출 : 받는 피해 감소 해제",
+    "english": "Enenra Launch : DMG Reduction Removal"
+  },
+  "BuffDesc3_Effect_DS_Kaen_N_1": {
+    "korean": "엔엔라 사출 : 피해량 {0}%",
+    "english": "Enenra Launch : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_11": {
+    "korean": "엔엔라 사출 : 받는 피해 감소 해제",
+    "english": "Enenra Launch : DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_12": {
+    "korean": "엔엔라 사출 : 피해량 {0}%",
+    "english": "Enenra Launch : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_52": {
+    "korean": "츠바메가에시 : AP {0}",
+    "english": "Silent Blade: Swallow Cut : AP {0}"
+  },
+  "BuffDesc2_Effect_DS_Kaen_N_4": {
+    "korean": "붉은 귀신 : 방어막 {0}",
+    "english": "Red Demon : Barrier {0}"
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_2": {
+    "korean": "만자천홍 : 피해량 {0}%",
+    "english": "Thousand Red Flames : Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_DS_Kaen_N_2": {
+    "korean": "만자천홍 : 해로운 효과 해제",
+    "english": "Thousand Red Flames : Debuff Removal"
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_21": {
+    "korean": "만자천홍 : 해로운 효과 해제",
+    "english": "Thousand Red Flames : Debuff Removal"
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_3": {
+    "korean": "홍련의 암희 : 공격력 {0}%",
+    "english": "Shadow of the HongRyeon : ATK {0}%"
+  },
+  "BuffDesc2_Effect_DS_Kaen_N_3": {
+    "korean": "홍련의 암희 : 적중 {0}%",
+    "english": "Shadow of the HongRyeon : ACC {0}%"
+  },
+  "BuffDesc3_Effect_DS_Kaen_N_3": {
+    "korean": "카엔 등장! : 도발",
+    "english": "Kaen Appears! : Provokes"
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_35": {
+    "korean": "카엔 등장! : 도발",
+    "english": "Kaen Appears! : Provokes"
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_36": {
+    "korean": "누구냐, 너… : 공격력 {0}",
+    "english": "Who are you...? : ATK {0}"
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_4": {
+    "korean": "붉은 귀신 : 효과 저항 {0}% 증가",
+    "english": "Red Demon : Status Resist {0}% Increase"
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_5": {
+    "korean": "츠바메가에시 : {0}% 위력으로 반격",
+    "english": "Silent Blade: Swallow Cut : Counter Attack with {0}% Power"
+  },
+  "BuffDesc2_Effect_DS_Kaen_N_5": {
+    "korean": "츠바메가에시 : 대 기동형 피해량 {0}%",
+    "english": "Silent Blade: Swallow Cut : Anti-Air DMG {0}%"
+  },
+  "BuffDesc3_Effect_DS_Kaen_N_5": {
+    "korean": "츠바메가에시 : AP {0} (반격 시)",
+    "english": "Silent Blade: Swallow Cut : AP {0} (On Counter Attack)"
+  },
+  "BuffDesc1_Effect_DS_Kaen_N_51": {
+    "korean": "츠바메가에시 : 대 기동형 피해량 {0}%",
+    "english": "Silent Blade: Swallow Cut : Anti-Air DMG {0}%"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "SkillName_Skill_3P_Ran_N_1": {
+    "korean": "찰나 베기",
+    "english": "Flash Slash"
+  },
+  "SkillDesc_Skill_3P_Ran_N_1": {
+    "korean": "찰나의 순간을 베어내어 단일 대상에게 {0} 피해를 줍니다.&n적중 시, 2라운드 동안 대상을 도발하며 적중 / 행동력을 감소시킵니다. &n치명타 시, 대상의 받는 피해 감소 효과를 해제합니다.",
+    "english": "Cuts through a moment in time, dealing {0} damage to a single target.\\nOn hit, Provokes the target for 2 rounds and reduces its ACC and SPD.\\nOn CRIT, removes the target's DMG Reduction."
+  },
+  "SkillDescSimple_Skill_3P_Ran_N_1": {
+    "korean": "단일 대상 {0} 피해. 대상 도발 / 적중 / 행동력 감소. 치명타 시, 받는 피해 감소 해제.",
+    "english": "Deals {0} damage to a single target.\\nProvokes the target, reduces its ACC and SPD.\\nOn CRIT, removes DMG Reduction."
+  },
+  "BuffDesc1_Effect_3P_Ran_N_1": {
+    "korean": "찰나 베기 : 도발",
+    "english": "Flash Slash : Provokes"
+  },
+  "BuffDesc2_Effect_3P_Ran_N_1": {
+    "korean": "찰나 베기 : 적중 {0}%",
+    "english": "Flash Slash : ACC {0}%"
+  },
+  "BuffDesc3_Effect_3P_Ran_N_1": {
+    "korean": "찰나 베기 : 행동력 {0}%",
+    "english": "Flash Slash : SPD {0}%"
+  },
+  "BuffDesc4_Effect_3P_Ran_N_1": {
+    "korean": "찰나 가르기 : 받는 피해 감소 해제",
+    "english": "Momentary Split: DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_11": {
+    "korean": "찰나 가르기 : 받는 피해 감소 해제",
+    "english": "Moment Split: DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_55": {
+    "korean": "경화수월 : 방어력 {0}%",
+    "english": "Hardened Ice, Flowing Water : DEF {0}%"
+  },
+  "SkillName_Skill_3P_Ran_N_2": {
+    "korean": "명경지수",
+    "english": "Clear Mirror"
+  },
+  "SkillDesc_Skill_3P_Ran_N_2": {
+    "korean": "스킬 사용 시, 마음을 가다듬으며 3라운드 동안 자신의 공격력 / 적중 / 사거리가 증가합니다. (중첩 불가)&n추가로 자신이 받는 피해가 증가하며, 받는 피해 증가 면역 효과를 획득합니다.",
+    "english": "When using the skill, focus your mind, increasing your ATK, ACC, and Range for 3 rounds. (Cannot stack)\\nAdditionally, you take increased DMG Taken, but gain immunity to DMG Taken Increased."
+  },
+  "SkillDescSimple_Skill_3P_Ran_N_2": {
+    "korean": "자신 공격력 / 적중 / 사거리 / 받는 피해 증가.",
+    "english": "Increase own ATK, ACC, Range, DMG Taken Increased."
+  },
+  "BuffDesc1_Effect_3P_Ran_N_2": {
+    "korean": "명경지수 : 공격력 {0}%",
+    "english": "Clear Mirror : ATK {0}%"
+  },
+  "BuffDesc2_Effect_3P_Ran_N_2": {
+    "korean": "명경지수 : 적중 {0}%",
+    "english": "Clear Mirror : ACC {0}%"
+  },
+  "BuffDesc3_Effect_3P_Ran_N_2": {
+    "korean": "명경지수 : 사거리 {0}",
+    "english": "Clear Mirror : Range {0}"
+  },
+  "BuffDesc4_Effect_3P_Ran_N_2": {
+    "korean": "명경지수 : 받는 피해 {0}% 증가",
+    "english": "Clear Mirror : DMG Taken Increased {0}%"
+  },
+  "BuffDesc5_Effect_3P_Ran_N_2": {
+    "korean": "명경지수 : 받는 피해 증가 면역",
+    "english": "Clear Mirror : DMG Taken Increased Immunity"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_21": {
+    "korean": "명경지수 : 적중 {0}%",
+    "english": "Clear Mirror : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_22": {
+    "korean": "명경지수 : 사거리 {0}",
+    "english": "Clear Mirror : Range {0}"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_23": {
+    "korean": "명경지수 : 받는 피해 {0}% 증가",
+    "english": "Clear Mirror : DMG Taken Increased {0}%"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_24": {
+    "korean": "명경지수 : 받는 피해 증가 면역",
+    "english": "Clear Mirror : DMG Taken Increased Immunity"
+  },
+  "SkillName_Skill_3P_Ran_N_3": {
+    "korean": "그림자 호위",
+    "english": "Shadow Guard"
+  },
+  "SkillDesc_Skill_3P_Ran_N_3": {
+    "korean": "라운드 개시 시, 전열에 위치한 아군의 적중 / 행동력이 증가합니다.&n라운드 개시 시, 범위 내 보호기를 제외한 아군을 지정 보호합니다.&n라운드 개시 시 자신이 지정 보호 중인 아군이 있을 경우, 후열에 위치한 적의 보호 무시를 비활성화합니다.",
+    "english": "At the start of the round, increase the ACC and SPD of allies in the front line.\\nAt the start of the round, designate Target Protect for allies within range, excluding defenders.\\nAt the start of the round, if you have allies under your designated protection, disable Ignore Protection for enemies in the rear line."
+  },
+  "SkillDescSimple_Skill_3P_Ran_N_3": {
+    "korean": "범위 내 아군 적중 / 행동력 증가 / 지정 보호. 후열 적 보호 무시 비활성화.",
+    "english": "Increase ACC and SPD of allies within range, Target Protect.\\nDisable Ignore Protection for rear enemies."
+  },
+  "BuffDesc1_Effect_3P_Ran_N_3": {
+    "korean": "그림자 호위 : 적중 {0}%",
+    "english": "Shadow Guard : ACC {0}%"
+  },
+  "BuffDesc2_Effect_3P_Ran_N_3": {
+    "korean": "그림자 호위 : 행동력 {0}%",
+    "english": "Shadow Guard : SPD {0}%"
+  },
+  "BuffDesc3_Effect_3P_Ran_N_3": {
+    "korean": "그림자 호위 : 지정 보호",
+    "english": "Shadow Guard : Target Protect"
+  },
+  "BuffDesc4_Effect_3P_Ran_N_3": {
+    "korean": "그림자 감추기 : 보호 무시 비활성화",
+    "english": "Hide Shadows: Deactivate Ignore Protection"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_31": {
+    "korean": "그림자 호위 : 지정 보호",
+    "english": "Shadow Guard : Target Protect"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_32": {
+    "korean": "그림자 감추기 : 보호 무시 비활성화",
+    "english": "Hide in Shadows : Deactivate Ignore Protection"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_33": {
+    "korean": "그림자 호위 : 행동력 {0}% (봉사정신)",
+    "english": "Shadow Guard: SPD {0}% (Spirit of Service)"
+  },
+  "SkillName_Skill_3P_Ran_N_4": {
+    "korean": "예리한 감각",
+    "english": "Sharpened Senses"
+  },
+  "SkillDesc_Skill_3P_Ran_N_4": {
+    "korean": "라운드 개시 시, 자신의 치명타 / 적중 / 회피가 증가합니다.&n자신이 전열이거나 <명경지수> 상태인 경우, 상기 효과가 50% 증폭됩니다.&n회피 시, 2라운드 동안 자신의 치명타가 추가로 증가하며 반격합니다.",
+    "english": "At the start of the round, increase your CRIT, ACC, and EVA.\\nIf you are in the front line or in <Clear Mirror> state, the above effects are amplified by 50%.\\nOn evasion, for 2 rounds your CRIT further increases and you Counter Attack."
+  },
+  "SkillDescSimple_Skill_3P_Ran_N_4": {
+    "korean": "자신 치명타 / 적중 / 회피 증가. 회피 시, 반격 / 치명타 증가.",
+    "english": "Increase your CRIT, ACC, and EVA.\\nOn evasion, Counter Attack and increase CRIT."
+  },
+  "BuffDesc1_Effect_3P_Ran_N_4": {
+    "korean": "예리한 감각 : 치명타 {0}%",
+    "english": "Sharpened Senses : CRIT {0}%"
+  },
+  "BuffDesc2_Effect_3P_Ran_N_4": {
+    "korean": "예리한 감각 : 적중 {0}%",
+    "english": "Sharpened Senses : ACC {0}%"
+  },
+  "BuffDesc3_Effect_3P_Ran_N_4": {
+    "korean": "예리한 감각 : 회피 {0}%",
+    "english": "Sharpened Senses : EVA {0}%"
+  },
+  "BuffDesc4_Effect_3P_Ran_N_4": {
+    "korean": "오감 집중 : {0}% 위력으로 반격",
+    "english": "Focus Five Senses: Counter Attack with {0} Power {0}%"
+  },
+  "BuffDesc5_Effect_3P_Ran_N_4": {
+    "korean": "오감 집중 : 치명타 {0}%",
+    "english": "Focus on the Five Senses: CRIT {0}%"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_41": {
+    "korean": "예리한 감각 : 치명타 {0}% (증폭)",
+    "english": "Sharpened Senses : CRIT {0}% (Amplified)"
+  },
+  "BuffDesc2_Effect_3P_Ran_N_41": {
+    "korean": "예리한 감각 : 적중 {0}% (증폭)",
+    "english": "Sharpened Senses : ACC {0}% (Amplified)"
+  },
+  "BuffDesc3_Effect_3P_Ran_N_41": {
+    "korean": "예리한 감각 : 회피 {0}% (증폭)",
+    "english": "Sharpened Senses : EVA {0}% (Amplified)"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_42": {
+    "korean": "오감 집중 : {0}% 위력으로 반격",
+    "english": "Focused Senses : Counter Attack with {0} Power {0}%"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_43": {
+    "korean": "오감 집중 : 치명타 {0}%",
+    "english": "Concentration of the Five Senses: CRIT {0}%"
+  },
+  "SkillName_Skill_3P_Ran_N_5": {
+    "korean": "경화수월",
+    "english": "Graceful as Flowing Water"
+  },
+  "SkillDesc_Skill_3P_Ran_N_5": {
+    "korean": "라운드 개시 시, 자신은 <명경지수>의 효과를 모두 획득합니다. 스킬 효과는 <경화수월>의 스킬 레벨에 비례합니다.&n<명경지수> 사용 시, 기존 효과 대신 다음 1라운드 동안 자신의 회피가 증가합니다. 해당 효과는 라운드를 연속하여 사용할 수 없습니다.&n상기 효과가 적용된 상태에서 <찰나 베기> 치명타 시, 3라운드 동안 대상의 방어력을 감소시킵니다. (중첩 불가)",
+    "english": "At the start of the round, you gain all effects of <Clear Mirror>. The skill's effect scales with the skill level of <Graceful as Flowing Water>.\\nWhen using <Clear Mirror>, instead of the existing effects, your EVA increases for the next 1 round. This effect cannot be used in consecutive rounds.\\nWhile this effect is active, a CRIT from <Flash Slash> reduces the target's DEF for 3 rounds. (Cannot stack)"
+  },
+  "SkillDescSimple_Skill_3P_Ran_N_5": {
+    "korean": "<명경지수> 지속 효과 획득. 액티브 스킬 강화.",
+    "english": "<Clear Mirror> continuous effect gained. Enhances active skills."
+  },
+  "BuffDesc1_Effect_3P_Ran_N_5": {
+    "korean": "<명경지수> 활성화",
+    "english": "<Clear Mirror> : Activate"
+  },
+  "BuffDesc2_Effect_3P_Ran_N_5": {
+    "korean": "경화수월 : 회피 {0}%",
+    "english": "Graceful as Flowing Water : EVA {0}%"
+  },
+  "BuffDesc3_Effect_3P_Ran_N_5": {
+    "korean": "경화수월 : 방어력 {0}%",
+    "english": "Graceful as Flowing Water : DEF {0}%"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_53": {
+    "korean": "흐릿한 발자욱",
+    "english": "Faint Footsteps"
+  },
+  "BuffDesc1_Effect_3P_Ran_N_54": {
+    "korean": "경화수월 : 회피 {0}%",
+    "english": "Graceful as Flowing Water : EVA {0}%"
+  }
+}

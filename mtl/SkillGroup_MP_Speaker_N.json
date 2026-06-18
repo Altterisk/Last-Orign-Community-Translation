@@ -1,0 +1,82 @@
+{
+  "1002705484": {
+    "korean": "사운드 웨이브",
+    "english": "Sound Wave"
+  },
+  "1002705485": {
+    "korean": "고주파 사운드",
+    "english": "High‑Frequency Sound"
+  },
+  "1000106179": {
+    "korean": "사운드 출력 강화",
+    "english": "Sound Output Enhancement"
+  },
+  "1002705486": {
+    "korean": "강화 파장",
+    "english": "Enhanced Wave"
+  },
+  "1002706304": {
+    "korean": "광범위한 음파를 발사해 대상에게 보호 무시 {0} 피해를 주고, 3라운드 동안 공격력 / 치명타 감소 상태로 만들며 일정 확률로 뒤로 1칸 밀어버립니다.",
+    "english": "Fires a wide‑range sound wave that deals {0} damage ignoring protection to the target, applies a 3‑round ATK / CRIT reduction, and has a chance to Push Back the target 1 space."
+  },
+  "1002706305": {
+    "korean": "<사운드 출력 강화(최대)> 일 시, 좁은 범위에 집중 된 음파를 발사해 대상에게 {0} 피해를 주고 방어력 / 회피를 감소시키고 <사운드 출력 강화> 효과를 모두 소모합니다.",
+    "english": "When <Sound Output Enhancement (Max)> is active, fires a concentrated narrow‑range sound wave that deals {0} damage to the target, reduces DEF / EVA, and consumes all <Sound Output Enhancement> effects."
+  },
+  "1002706306": {
+    "korean": "라운드 개시 시, 자신에게 <사운드 출력 강화> 효과가 적용 되며 아군이 사망 시 <사운드 출력 강화> 효과가 해제 됩니다.",
+    "english": "At the start of the round, the <Sound Output Enhancement> effect is applied to yourself, and it is removed when an ally dies."
+  },
+  "1002706307": {
+    "korean": "라운드 개시 시, 자신에게 적용 된 <사운드 출력 강화> 효과의 중첩 개수에 따라 주위 아군에게 강화 효과를 부여합니다.&n&n2중첩 시 : 치명타 증가&n3중첩 시 : 적중 증가&n4중첩 시 : 방어 관통 증가",
+    "english": "At the start of the round, grant buffs to nearby allies based on the number of stacks of the <Sound Output Enhancement> effect on yourself. 2 stacks: increase CRIT 3 stacks: increase ACC 4 stacks: increase DEF Penetration"
+  },
+  "1000102526": {
+    "korean": "뒤로 {0}칸 밀기",
+    "english": "Push Back {0}"
+  },
+  "1000106608": {
+    "korean": "사운드 출력 강화 해제",
+    "english": "Disable Sound Output Enhancement"
+  },
+  "1000106609": {
+    "korean": "사운드 출력 강화 (최대)",
+    "english": "Sound Output Enhancement (Max)"
+  },
+  "1000106817": {
+    "korean": "사운드 웨이브 : 공격력 {0}%",
+    "english": "Soundwave : ATK {0}%"
+  },
+  "1000106912": {
+    "korean": "사운드 웨이브 : 치명타 {0}%",
+    "english": "Soundwave : CRIT {0}%"
+  },
+  "1000106606": {
+    "korean": "고주파 사운드 : 방어력 {0}%",
+    "english": "High-frequency sound : DEF {0}%"
+  },
+  "1000106818": {
+    "korean": "고주파 사운드 : 회피 {0}%",
+    "english": "High-frequency sound : EVA {0}%"
+  },
+  "1000106607": {
+    "korean": "고주파 사운드(출력 강화) : 방어력 {0}%",
+    "english": "High‑Frequency Sound (Amplified) : DEF {0}%"
+  },
+  "1000106819": {
+    "korean": "고주파 사운드(출력 강화) : 회피 {0}%",
+    "english": "High‑Frequency Sound (Amplified) : EVA {0}%"
+  },
+  "1000106610": {
+    "korean": "강화 파장 : 치명타{0}%",
+    "english": "Enhancement Wave : CRIT {0}%"
+  },
+  "1000106611": {
+    "korean": "강화 파장 : 적중{0}%",
+    "english": "Enhancement Wave : ACC {0}%"
+  },
+  "1000106612": {
+    "korean": "강화 파장 : 방어 관통{0}%",
+    "english": "Enhancement Wave : DEF Penetration {0}%"
+  }
+}

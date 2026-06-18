@@ -1,0 +1,206 @@
+{
+  "SkillName_Skill_3P_CSPerrault_N_1": {
+    "korean": "단분자 클로",
+    "english": "Monomolecular Claw"
+  },
+  "SkillDesc_Skill_3P_CSPerrault_N_1": {
+    "korean": "단분자 클로로 보호 무시 {0} 피해를 주고, 대상의 방어력을 감소 시키고 받는 피해를 증가시킵니다. 대상이 <견제 개시>상태일 시, 물리 고정 피해를 주며 해당 상태에서 치명타 시, 물리 고정 피해가 2배로 적용됩니다.",
+    "english": "Deals {0} Protection‑Ignoring damage with Monomolecular Claw, reduces the target's DEF and increases DMG Taken. If the target is under <Suppression Initiated>, deals fixed physical damage; a critical hit while under that state doubles the fixed physical damage."
+  },
+  "SkillDescSimple_Skill_3P_CSPerrault_N_1": {
+    "korean": "단일 대상 보호 무시 {0} 피해. 방어력 / 적중 감소. 방어력 감소 대상 피해 증폭",
+    "english": "Single target Protection‑Ignoring {0} damage. Reduces DEF and ACC. Targets with reduced DEF take increased DMG."
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_1": {
+    "korean": "단분자 클로 : 방어력{0}%",
+    "english": "Monomolecular Claw : DEF {0}%"
+  },
+  "BuffDesc2_Effect_3P_CSPerrault_N_1": {
+    "korean": "약점 노출 : 받는 피해{0}%",
+    "english": "Exposed Weakness: DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_11": {
+    "korean": "약점 노출 : 받는 피해{0}%",
+    "english": "Exposed Weakness: DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_12": {
+    "korean": "냥냥 펀치! : 추가 피해{0}%",
+    "english": "Nyan Nyan Punch!: Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_13": {
+    "korean": "냥~냥~ 펀치! : 추가 피해{0}%",
+    "english": "Nya~Nyan~ Punch!: Additional DMG {0}%"
+  },
+  "SkillName_Skill_3P_CSPerrault_N_2": {
+    "korean": "견제 개시",
+    "english": "Suppression Initiated"
+  },
+  "SkillDesc_Skill_3P_CSPerrault_N_2": {
+    "korean": "범위 내 적에게 {0} 피해를 주고 적을 견제해 대상에게 도발 / 적중 / 회피 / 치명타 감소 효과가 적용되며 각각 최대 3중첩까지 가능합니다. 해당 스킬은 보호 무시의 효과를 가지고 있으며 회피 할 수 없습니다. 자신은 효과 저항 / 강화 해제 저항이 적용됩니다.",
+    "english": "Deals {0} damage to enemies within range and applies Suppression Initiated, inflicting Provoked and reducing ACC, EVA, and CRIT on the targets, each up to 3 stacks. This skill ignores Protection and cannot be evaded. User gains Status Resist and Buff Removal Resist."
+  },
+  "SkillDescSimple_Skill_3P_CSPerrault_N_2": {
+    "korean": "{0} 피해. 도발 / 적중 / 회피 / 치명타 감소",
+    "english": "{0} damage. Inflicts Provoked and reduces ACC, EVA, and CRIT."
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_2": {
+    "korean": "견제 개시 : 대상 도발 (페로)",
+    "english": "Suppression Initiated: Provoke Target (Perrault)"
+  },
+  "BuffDesc2_Effect_3P_CSPerrault_N_2": {
+    "korean": "견제 개시 : 적중{0}%",
+    "english": "Suppression Initiated : ACC {0}%"
+  },
+  "BuffDesc3_Effect_3P_CSPerrault_N_2": {
+    "korean": "견제 개시 : 회피{0}%",
+    "english": "Suppression Initiated : EVA {0}%"
+  },
+  "BuffDesc4_Effect_3P_CSPerrault_N_2": {
+    "korean": "견제 개시 : 치명타{0}%",
+    "english": "Suppression Initiated : CRIT {0}%"
+  },
+  "BuffDesc5_Effect_3P_CSPerrault_N_2": {
+    "korean": "견제 개시 : 효과, 해제 저항{0}% (자신)",
+    "english": "Suppression Initiated: Effect Dispel Resistance {0}% (Self)"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_21": {
+    "korean": "견제 개시 : 적중{0}%",
+    "english": "Suppression Initiated : ACC {0}%"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_22": {
+    "korean": "견제 개시 : 회피{0}%",
+    "english": "Suppression Initiated : EVA {0}%"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_23": {
+    "korean": "견제 개시 : 치명타{0}%",
+    "english": "Suppression Initiated : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_24": {
+    "korean": "견제 개시 : 효과 저항{0}%",
+    "english": "Suppression Initiated : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_25": {
+    "korean": "견제 개시 : 강화 해제 저항{0}%",
+    "english": "Suppression Initiated : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_26": {
+    "korean": "견제 개시 : 대상 도발 (페로)",
+    "english": "Suppression Initiated: Provoke Target (Perrault)"
+  },
+  "SkillName_Skill_3P_CSPerrault_N_3": {
+    "korean": "유연성",
+    "english": "Flexibility"
+  },
+  "SkillDesc_Skill_3P_CSPerrault_N_3": {
+    "korean": "유연한 몸놀림 덕에 라운드 개시 시, 받는 피해 감소 / 회피 증가 효과가 적용됩니다. 자신에게 행동력 증가 효과가 적용되어 있을 경우 기본 효과가 추가적으로 적용되며 추가 효과는 강화 효과 해제로 해제할 수 없습니다. (장비로 인한 행동력 증가 효과에는 적용되지 않습니다.)",
+    "english": "At the start of round, the user gains DMG Reduction and increased EVA. If the user has an SPD increase effect, the base effects are applied additionally and cannot be removed by Buff Removal. (Equipment‑granted SPD increases are excluded.)"
+  },
+  "SkillDescSimple_Skill_3P_CSPerrault_N_3": {
+    "korean": "받는 피해 감소 / 회피 증가",
+    "english": "DMG Reduction / EVA"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_3": {
+    "korean": "유연성 : 받는 피해{0}% 감소",
+    "english": "Flexibility : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_3P_CSPerrault_N_3": {
+    "korean": "유연성 : 회피{0}%",
+    "english": "Flexibility : EVA {0}%"
+  },
+  "BuffDesc3_Effect_3P_CSPerrault_N_3": {
+    "korean": "유연성 : 받는 피해{0}% 감소 (행동력 증가 시)",
+    "english": "Flexibility: DMG Reduction {0}% (when SPD increases)"
+  },
+  "BuffDesc4_Effect_3P_CSPerrault_N_3": {
+    "korean": "유연성 : 회피{0}% (행동력 증가 시)",
+    "english": "Flexibility: EVA {0}% (when SPD increases)"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_31": {
+    "korean": "유연성 : 받는 피해{0}% 감소",
+    "english": "Flexibility : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_3P_CSPerrault_N_31": {
+    "korean": "유연성 : 회피{0}%",
+    "english": "Flexibility : EVA {0}%"
+  },
+  "SkillName_Skill_3P_CSPerrault_N_4": {
+    "korean": "상처 가르기",
+    "english": "Wounding Slash"
+  },
+  "SkillDesc_Skill_3P_CSPerrault_N_4": {
+    "korean": "라운드 개시 시, 공격 대상의 HP가 낮을 수록 피해량이 증가하며 방어 관통 / 반격 효과가 적용됩니다. 적에게 공격을 받은 후, 공격력이 최대 5중첩까지 적용되며 최대 중첩인 상태로 라운드 개시 시, 치명타가 증가합니다.",
+    "english": "At the start of round, damage dealt increases the lower the target’s HP is, and the user gains DEF Penetration and Counter Attack. When attacked, the user gains increased ATK, stacking up to 5 times; if the round begins with maximum stacks, CRIT is increased."
+  },
+  "SkillDescSimple_Skill_3P_CSPerrault_N_4": {
+    "korean": "공격 대상의 현재 HP% 낮을수록 피해량 증가 / 방어 관통 / 반격",
+    "english": "More damage the lower the target's current HP% / DEF Penetration / Counterattack"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_4": {
+    "korean": "상처 가르기 : 적 HP% 낮을수록 피해량{0}%",
+    "english": "Wounding Slash: DMG Proportional to Target Lost HP {0}%"
+  },
+  "BuffDesc2_Effect_3P_CSPerrault_N_4": {
+    "korean": "상처 가르기 : 방어 관통{0}%",
+    "english": "Wounding Slash : DEF Penetration {0}%"
+  },
+  "BuffDesc3_Effect_3P_CSPerrault_N_4": {
+    "korean": "반격 태세 :{0}% 위력으로 반격",
+    "english": "Counterattack stance : Counter Attack with {0}% Power"
+  },
+  "BuffDesc4_Effect_3P_CSPerrault_N_4": {
+    "korean": "반격 태세 : 공격력{0}%",
+    "english": "Counterattack stance : ATK {0}%"
+  },
+  "BuffDesc5_Effect_3P_CSPerrault_N_4": {
+    "korean": "반격 태세 : 치명타{0}% (반격 태세 최대 중첩 시)",
+    "english": "Counter Stance: CRIT {0}% (when Counter Stance is at maximum stacks)"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_41": {
+    "korean": "반격 태세 : 공격력{0}%",
+    "english": "Counterattack stance : ATK {0}%"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_42": {
+    "korean": "반격 태세 : 치명타{0}%",
+    "english": "Counterattack stance : CRIT {0}%"
+  },
+  "SkillName_Skill_3P_CSPerrault_N_5": {
+    "korean": "손 빌려주기",
+    "english": "Lend a Hand"
+  },
+  "SkillDesc_Skill_3P_CSPerrault_N_5": {
+    "korean": "전투 개시 시, 범위 내 아군의 AP가 증가하며 자신이 액티브 스킬을 사용 시, 범위 내 아군의 AP가 추가로 증가합니다. 라운드 개시 시, 보호기가 아닌 아군을 지정 보호하며 범위 내 행동력 증감 효과가 적용된 아군의 공격을 지원합니다. 자신이 <손 빌려주기 : 공격 지원> 상태일 시, <견제 개시>의 도발 효과는 대상의 효과 저항에 영향을 받지 않고 적용됩니다. (장비로 인한 행동력 증감 효과에는 적용되지 않습니다.)",
+    "english": "At the start of battle, allies within range gain AP. When the user uses an active skill, allies within range gain additional AP. At the start of round, designates a non‑Defender ally for protection and supports the attacks of allies within range whose SPD has been modified. While the user is in the <Lend a Hand : Follow-Up Attack> state, the Provoked effect of <Suppression Initiated> applies regardless of the target’s Status Resist. (Does not apply to SPD modification effects from equipment.)"
+  },
+  "SkillDescSimple_Skill_3P_CSPerrault_N_5": {
+    "korean": "범위 내 아군 AP 증가 / 공격 지원 / 지정 대상 보호",
+    "english": "Increase AP of allies in range / Follow-Up Attack / Target Protect"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_5": {
+    "korean": "손 빌려주기 : AP{0}",
+    "english": "Lend a Hand : AP {0}"
+  },
+  "BuffDesc2_Effect_3P_CSPerrault_N_5": {
+    "korean": "손 빌려주기 : 공격 지원",
+    "english": "Lend a Hand : Follow-Up Attack"
+  },
+  "BuffDesc3_Effect_3P_CSPerrault_N_5": {
+    "korean": "손 빌려주기 : 지정 대상 보호",
+    "english": "Lend a Hand : Target Protect"
+  },
+  "BuffDesc4_Effect_3P_CSPerrault_N_5": {
+    "korean": "손 빌려주기 : AP{0} (액티브 스킬 사용 시)",
+    "english": "Lend a Hand: AP {0} (when using an active skill)"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_51": {
+    "korean": "손 빌려주기 : AP{0}",
+    "english": "Lend a Hand : AP {0}"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_52": {
+    "korean": "손 빌려주기 : 지정 대상 보호",
+    "english": "Lend a Hand : Target Protect"
+  },
+  "BuffDesc1_Effect_3P_CSPerrault_N_53": {
+    "korean": "손 빌려주기 : 공격 지원",
+    "english": "Lend a Hand : Follow-Up Attack"
+  }
+}

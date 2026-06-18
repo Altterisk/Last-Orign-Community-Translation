@@ -1,0 +1,70 @@
+{
+  "SkillName_Skill_MP_Fallen13_N_1": {
+    "korean": "라이트건",
+    "english": "Light Gun"
+  },
+  "SkillName_Skill_MP_Fallen13_N_2": {
+    "korean": "헤비건",
+    "english": "Heavy Gun"
+  },
+  "SkillName_Skill_MP_Fallen13_N_3": {
+    "korean": "연계 전술",
+    "english": "Linkage Tactics"
+  },
+  "SkillDesc_Skill_MP_Fallen13_N_1": {
+    "korean": "단일 대상 {0} 피해. 방어 감소 대상 피해량 증가.",
+    "english": "Deals {0} damage. Damage is increased against targets with DEF Reduction."
+  },
+  "SkillDesc_Skill_MP_Fallen13_N_2": {
+    "korean": "단일 대상 {0} 피해, 3라운드 동안 단일 대상 방어력 감소 / 피해 감소 해제",
+    "english": "Deals {0} damage, applies DEF Reduction for 3 rounds, and removes DMG Reduction."
+  },
+  "SkillDesc_Skill_MP_Fallen13_N_3": {
+    "korean": "적중 / 행동력 증가. 현재 배치된 열에 따라 효과 추가",
+    "english": "Increases ACC / SPD. Additional effects are applied depending on the current deployed column."
+  },
+  "BuffDesc2_Effect_MP_Fallen13_N_2": {
+    "korean": "피해 감소 효과 무효",
+    "english": "DMG Reduction : Negated"
+  },
+  "BuffDesc1_Effect_MP_Fallen13_N_1": {
+    "korean": "라이트건 : 피해량 {0}%",
+    "english": "Light Gun : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_MP_Fallen13_N_2": {
+    "korean": "헤비건 : 방어력 {0}%",
+    "english": "Heavy Gun : DEF {0}%"
+  },
+  "BuffDesc1_Effect_MP_Fallen13_N_3": {
+    "korean": "연계 전술 :적중 {0}%",
+    "english": "Linkage Tactics : ACC {0}%"
+  },
+  "BuffDesc2_Effect_MP_Fallen13_N_3": {
+    "korean": "연계 전술 : 행동력{0}%",
+    "english": "Linkage Tactics : SPD {0}%"
+  },
+  "BuffDesc3_Effect_MP_Fallen13_N_3": {
+    "korean": "연계 전술 : 받는 피해 감소{0}% (전열)",
+    "english": "Linkage Tactics : DMG Reduction {0}% (Front Row)"
+  },
+  "BuffDesc4_Effect_MP_Fallen13_N_3": {
+    "korean": "연계 전술 : 방어 관통{0}% (중열)",
+    "english": "Linkage Tactics : DEF Penetration {0}% (Mid Row)"
+  },
+  "BuffDesc5_Effect_MP_Fallen13_N_3": {
+    "korean": "연계 전술 : 치명타{0}% (후열)",
+    "english": "Linkage Tactics : CRIT {0}% (Back Row)"
+  },
+  "BuffDesc1_Effect_MP_Fallen13_N_31": {
+    "korean": "연계 전술 : 받는 피해 감소 {0}% (전열)",
+    "english": "Linkage Tactics : DMG Reduction {0}% (Front Row)"
+  },
+  "BuffDesc1_Effect_MP_Fallen13_N_32": {
+    "korean": "연계 전술 : 방어 관통 {0}% (중열)",
+    "english": "Linkage Tactics : DEF Penetration {0}% (Mid Row)"
+  },
+  "BuffDesc1_Effect_MP_Fallen13_N_33": {
+    "korean": "연계 전술 : 치명타 {0}% (후열)",
+    "english": "Linkage Tactics : CRIT {0}% (Back Row)"
+  }
+}

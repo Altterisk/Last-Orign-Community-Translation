@@ -1,0 +1,126 @@
+{
+  "1002707806": {
+    "korean": "차가운 고통",
+    "english": "Cold Pain"
+  },
+  "1002707811": {
+    "korean": "단일 대상에게 {0} 냉기 속성 피해를 입힙니다. 피격된 적은 2라운드 동안 이동 불가 및 냉기 저항 감소 상태가 되고 3라운드 동안 냉기 속성 지속 피해를 입게 됩니다.",
+    "english": "Deals {0} Cold-type damage to a single target. The target becomes Rooted and suffers Cold Resistance reduction for 2 rounds, and takes Cold DoT DMG for 3 rounds."
+  },
+  "1002707816": {
+    "korean": "단일 대상 {0} 냉기 속성 피해 / 이동 불가 / 냉기 저항 감소 /  냉기 속성 지속 피해",
+    "english": "Single target {0} Cold-type damage / Rooted / Cold Resistance reduction / Cold DoT DMG"
+  },
+  "1000109913": {
+    "korean": "차가운 고통 : {0} 냉기 지속 피해",
+    "english": "Cold Pain: {0} Cold DoT DMG"
+  },
+  "1000109920": {
+    "korean": "차가운 고통 : 이동 불가",
+    "english": "Cold Pain : Rooted"
+  },
+  "1000109918": {
+    "korean": "차가운 고통 : 냉기 저항{0}%",
+    "english": "Cold Pain : Cold Resist {0}%"
+  },
+  "1002707807": {
+    "korean": "서리 폭풍",
+    "english": "Frost Storm"
+  },
+  "1002707812": {
+    "korean": "범위 내 적에게 {0} 보호 무시 냉기 속성 피해를 입힙니다. 냉기 속성 저항 감소 상태인 적에게는 추가 냉기 속성 피해를 입힙니다. 스킬 사용 후, 2라운드 동안 해제 불가한 행동력 감소 상태가 됩니다.",
+    "english": "Deals {0} Ignore Protection Cold-type damage to enemies within range. Deals additional Cold-type damage to enemies with Cold Resistance reduction. After using the skill, the user gains a non‑removable SPD Reduction for 2 rounds."
+  },
+  "1002707817": {
+    "korean": "범위 내 {0} 보호 무시 냉기 속성 피해 / 냉기 속성 저항 감소 상태이면 추가 냉기 속성 피해 / 행동력 감소",
+    "english": "{0} Ignore Protection Cold-type damage to enemies in range / Additional Cold-type damage if target has Cold Resistance reduction / SPD Reduction"
+  },
+  "1000109914": {
+    "korean": "서리 폭풍 : {0}%추가 냉기 피해 (냉기 저항 감소)",
+    "english": "Frost Storm: {0}% additional Cold damage (Cold Resistance reduction)"
+  },
+  "1000109929": {
+    "korean": "서리 폭풍 : 행동력{0}%",
+    "english": "Frost Storm : SPD {0}%"
+  },
+  "1002707808": {
+    "korean": "피해의식",
+    "english": "Victim Complex"
+  },
+  "1002707813": {
+    "korean": "라운드 개시 시, 자신의 공격력, 대 중장 피해량이 증가합니다.",
+    "english": "At the start of the round, increases the user's ATK and Anti-Heavy DMG."
+  },
+  "1002707818": {
+    "korean": "자신 공격력 / 대 중장 피해량 증가",
+    "english": "Self ATK / Anti-Heavy DMG increase"
+  },
+  "1000109915": {
+    "korean": "피해의식 : 대 중장 피해량{0}%",
+    "english": "Victim Complex : Anti-Heavy DMG {0}%"
+  },
+  "1000109921": {
+    "korean": "피해의식 : 공격력{0}%",
+    "english": "Victim Complex : ATK {0}%"
+  },
+  "1002707809": {
+    "korean": "천년서리",
+    "english": "Millennium Frost"
+  },
+  "1002707814": {
+    "korean": "라운드 개시 시, 범위 내 아군 보호기에게 화염 저항 감소 디버프 면역효과를 부여합니다. 또한 범위 내 아군의 화염 저항과 대 중장 피해량을 증가시킵니다.",
+    "english": "At the start of the round, grants immunity to Fire Resistance reduction debuffs to allied Defenders within range. Also increases allies' Fire Resistance and Anti-Heavy DMG within range."
+  },
+  "1002707819": {
+    "korean": "대 중장 피해량 증가 / 화염 저항 증가 / 화염 저항 감소 면역(보호기)",
+    "english": "Anti-Heavy DMG increase / Fire Resistance increase / Immunity to Fire Resistance reduction (Defender)"
+  },
+  "1000109916": {
+    "korean": "천년서리 : 화염 저항{0}%",
+    "english": "Millennium Frost : Fire Resist {0}%"
+  },
+  "1000109922": {
+    "korean": "천년서리 : 화염 저항 감소 면역 (보호기)",
+    "english": "Millennium Frost: Immunity to Fire Resistance reduction (Defender)"
+  },
+  "1000109925": {
+    "korean": "천년서리 : 대 중장 피해량{0}%",
+    "english": "Millennium Frost : Anti-Heavy DMG {0}%"
+  },
+  "1000109919": {
+    "korean": "천년서리 : 화염 저항 감소 면역 (보호기)",
+    "english": "Millennium Frost: Immunity to Fire Resistance reduction (Defender)"
+  },
+  "1002707810": {
+    "korean": "끝없는 증오",
+    "english": "Endless Hatred"
+  },
+  "1002707815": {
+    "korean": "서리 폭풍 사용으로 인해 행동력 감소인 상태에서 라운드 개시 시, 자신의 사거리, 공격력, 회피를 증가시키고 받는 피해를 감소시키며 반격효과를 발동시킵니다.",
+    "english": "At the start of the round, if under the SPD Reduction effect from Frost Storm, increases own Range, ATK, EVA, reduces DMG Taken, and triggers a Counter Attack."
+  },
+  "1002707820": {
+    "korean": "(서리 폭풍 사용 후) 사거리 증가 / 공격력 증가 / 회피 증가 / 받는 피해 감소 / 반격",
+    "english": "(after using Frost Storm) Range increase / ATK increase / EVA increase / DMG Reduction / Counter Attack"
+  },
+  "1000109917": {
+    "korean": "끝없는 증오 : 사거리{0} (서리 폭풍 사용 후)",
+    "english": "Endless Hatred: Range {0} (after using Frost Storm)"
+  },
+  "1000109923": {
+    "korean": "끝없는 증오 : 공격력{0}% (서리 폭풍 사용 후)",
+    "english": "Endless Hatred: ATK {0}% (after using Frost Storm)"
+  },
+  "1000109926": {
+    "korean": "끝없는 증오 : 회피{0}% (서리 폭풍 사용 후)",
+    "english": "Endless Hatred: EVA {0}% (after using Frost Storm)"
+  },
+  "1000109927": {
+    "korean": "끝없는 증오 : 받는 피해 {0}%감소 (서리 폭풍 사용 후)",
+    "english": "Endless Hatred: DMG Reduction {0}% (after using Frost Storm)"
+  },
+  "1000109928": {
+    "korean": "끝없는 증오 : {0}%위력으로 반격 (서리 폭풍 사용 후)",
+    "english": "Endless Hatred: Counter Attack with {0}% Power (after using Frost Storm)"
+  }
+}

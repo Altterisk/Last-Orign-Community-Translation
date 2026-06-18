@@ -1,0 +1,194 @@
+{
+  "SkillName_Skill_PECS_BlindPrincess_N_1": {
+    "korean": "성검 : 빛의 약속",
+    "english": "Sword of Light: Promise of Light"
+  },
+  "SkillName_Skill_PECS_BlindPrincess_N_2": {
+    "korean": "작열하는 사랑의 빛",
+    "english": "Blazing Light of Love"
+  },
+  "SkillName_Skill_PECS_BlindPrincess_N_3": {
+    "korean": "내게 돌을 던지라",
+    "english": "Cast Stones at Me"
+  },
+  "SkillName_Skill_PECS_BlindPrincess_N_4": {
+    "korean": "영웅에게 올리는 서사시",
+    "english": "Epic for the Hero"
+  },
+  "SkillName_Skill_PECS_BlindPrincess_N_5": {
+    "korean": "눈에는 눈",
+    "english": "An Eye for an Eye"
+  },
+  "SkillDesc_Skill_PECS_BlindPrincess_N_1": {
+    "korean": "<성검 : 빛의 약속>을 휘둘러 단일 대상에게 {0} 피해를 줍니다.&n적중 시, 3라운드 동안 대상의 스킬 위력 / 사거리를 감소시킵니다. 해당 효과는 라운드 경과에 따라 점감합니다.&n공격 시, 스쿼드 내에 특정 전투원이 존재할 경우, 자신은 2라운드 동안 추가 효과를 획득합니다.",
+    "english": "Wields the <Sword of Light: Promise of Light> to deal {0} DMG to a single target. On hit, reduces the target's Skill Power / Range for 3 rounds, diminishing over time. When attacking, if a specific ally is present in the squad, self gains an additional effect for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_BlindPrincess_N_1": {
+    "korean": "단일 대상 {0} 피해. 적중 대상 스킬 위력 / 사거리 감소. 조건부 자신 강화.",
+    "english": "Single target {0} DMG / Hit target Skill Power / Range reduction / Conditional self buff"
+  },
+  "SkillDesc_Skill_PECS_BlindPrincess_N_2": {
+    "korean": "사랑이 담긴 성검을 강림시켜 지정 범위에 {0} 피해를 줍니다. 목표 지점에서 멀 수록 피해량이 최대 50%까지 감소합니다. &n치명타 시, 대상의 강화 효과를 해제합니다.&n<성검 : 빛의 약속>에 의한 추가 효과가 모두 충족되었을 때, 피해량이 증가합니다.",
+    "english": "Summons the Sword of Light filled with love to deal {0} DMG to the designated area. Damage decreases up to 50% the farther from the impact point. On CRIT, removes the target’s buff effects. Damage increases when all additional effects from <Sword of Light: Promise of Light> are fulfilled."
+  },
+  "SkillDescSimple_Skill_PECS_BlindPrincess_N_2": {
+    "korean": "지정 범위 {0} 피해. 치명타 시, 강화 효과 해제.",
+    "english": "Designated area {0} DMG / CRIT removes buff effects"
+  },
+  "SkillDesc_Skill_PECS_BlindPrincess_N_3": {
+    "korean": "라운드 개시 시, 자신에게 적용된 행 / 열 보호 효과를 해제합니다.&n라운드 개시 시 스쿼드 내에 보호기가 자신뿐인 경우, 자신은 일반 표식을 획득합니다.&n스쿼드 내에 <사이클롭스 프린세스>가 존재할 경우, 자신을 대신하여 표식을 이전합니다.",
+    "english": "At the start of the round, removes any Row Protect / Column Protect effects applied to self. If the squad has no other Supporters besides self, self gains a Normal Mark. If <Cyclops Princess> is in the squad, the Mark is transferred to her instead of remaining on self."
+  },
+  "SkillDescSimple_Skill_PECS_BlindPrincess_N_3": {
+    "korean": "자신 행 / 열 보호 효과 해제. 조건부 자신 표식 획득.",
+    "english": "Self Row Protect / Column Protect removal / Conditional self Mark acquisition"
+  },
+  "SkillDesc_Skill_PECS_BlindPrincess_N_4": {
+    "korean": "라운드 개시 시, 보호기를 제외한 범위 내 아군의 받는 피해를 감소시킵니다.&n자신 외에 보호기가 없을 경우, 효과가 두 배로 증폭되고 자신 또한 효과의 대상이 됩니다.&n라운드 개시 시, 범위 내 바이오로이드 지원기에게 사거리 증가 / 피해 무효화 (1회)를 부여합니다. 대상이 <LRL> 또는 <사이클롭스 프린세스>인 경우, 상기 효과가 두 배로 증폭됩니다.",
+    "english": "At the start of the round, reduces DMG Taken of allies within range, excluding Supporters. If there are no other Supporters besides self, the effect is doubled and also applies to self. At the start of the round, grants increased Range and 1‑time Damage Nullification to Bioroid Supporters within range. If the target is <LRL> or <Cyclops Princess>, the above effects are doubled."
+  },
+  "SkillDescSimple_Skill_PECS_BlindPrincess_N_4": {
+    "korean": "범위 내 아군 받는 피해 감소. 바이오로이드 지원기 대상 사거리 증가 / 피해 무효화.",
+    "english": "Allies within range DMG Taken reduction / Bioroid Supporter target Range increase / Damage Nullification"
+  },
+  "SkillDesc_Skill_PECS_BlindPrincess_N_5": {
+    "korean": "<블라인드 프린세스>는 눈이 보이지 않아 적의 공격을 회피하기 매우 어렵습니다.&n라운드 개시 시, 적중 감소 효과에 면역이 되고 3라운드 동안 자신의 적중이 증가합니다.&n피격 시, 적중 / 방어력 감소 상태인 적의 방어막 / 피해 감소 무시 효과를 해제합니다.&n스쿼드 내에 존재하는 <사이클롭스 프린세스>가 피격 시에도 동일한 효과가 발동합니다.",
+    "english": "<Blind Princess> has impaired vision, making it very difficult to evade enemy attacks. At the start of the round, gains immunity to ACC reduction and increases own ACC for 3 rounds. When hit, removes Barrier / Ignore Barrier / DMG Reduction effects from enemies that are under ACC or DEF reduction. The same effect also activates when <Cyclops Princess> in the squad is hit."
+  },
+  "SkillDescSimple_Skill_PECS_BlindPrincess_N_5": {
+    "korean": "자신 적중 감소 면역 / 적중 증가. 피격 시, 조건부 적 방어막 / 피해 감소 무시 해제.",
+    "english": "Self ACC reduction immunity / ACC increase / When hit, conditional enemy Barrier / Ignore Barrier / DMG Reduction removal"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_1": {
+    "korean": "파사현정 : 스킬 위력 {0}% (최대)",
+    "english": "Divine Retribution : Skill Power {0}% (Max)"
+  },
+  "BuffDesc2_Effect_PECS_BlindPrincess_N_1": {
+    "korean": "파사현정 : 사거리 {0} (최대)",
+    "english": "Divine Retribution : Range {0} (Max)"
+  },
+  "BuffDesc3_Effect_PECS_BlindPrincess_N_1": {
+    "korean": "빛의 맹약 : 치명타 {0}% (LRL)",
+    "english": "Light’s Vow : CRIT {0}% (LRL)"
+  },
+  "BuffDesc4_Effect_PECS_BlindPrincess_N_1": {
+    "korean": "빛의 맹서 : 보호 무시 활성화 (사이클롭스 프린세스)",
+    "english": "Light’s Oath : Activate Ignore Protection (Cyclops Princess)"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_16": {
+    "korean": "파사현정 : 스킬 위력 {0}%",
+    "english": "Divine Retribution : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_11": {
+    "korean": "파사현정 : 스킬 위력 {0}%",
+    "english": "Divine Retribution : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_12": {
+    "korean": "파사현정 : 스킬 위력 {0}%",
+    "english": "Divine Retribution : Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_13": {
+    "korean": "파사현정 : 사거리 {0}",
+    "english": "Divine Retribution : Range {0}"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_14": {
+    "korean": "파사현정 : 사거리 {0}",
+    "english": "Divine Retribution : Range {0}"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_15": {
+    "korean": "파사현정 : 사거리 {0}",
+    "english": "Divine Retribution : Range {0}"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_21": {
+    "korean": "빛의 맹약 : 치명타 {0}%",
+    "english": "Light’s Vow : CRIT {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_22": {
+    "korean": "빛의 맹서 : 보호 무시 활성화",
+    "english": "Light’s Oath : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_2": {
+    "korean": "사랑의 힘 : 강화 해제",
+    "english": "Love’s Might : Buff Removal"
+  },
+  "BuffDesc2_Effect_PECS_BlindPrincess_N_2": {
+    "korean": "삼위일체 : 피해량 {0}%",
+    "english": "Trinity : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_23": {
+    "korean": "삼위일체 : 피해량 {0}%",
+    "english": "Trinity : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_3": {
+    "korean": "겸애 : 행 보호 해제",
+    "english": "Universal Compassion : Row Protect Removal"
+  },
+  "BuffDesc2_Effect_PECS_BlindPrincess_N_3": {
+    "korean": "범애 : 열 보호 해제",
+    "english": "All‑Embracing Love : Column Protect Removal"
+  },
+  "BuffDesc3_Effect_PECS_BlindPrincess_N_3": {
+    "korean": "내게 돌을 던지라 : 표식 (조건부)",
+    "english": "Cast Stones at Me : Marked (conditional)"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_31": {
+    "korean": "내게 돌을 던지라 : 표식",
+    "english": "Cast Stones at Me : Marked"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_32": {
+    "korean": "내게 돌을 던지라 : 표식",
+    "english": "Cast Stones at Me : Marked"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_4": {
+    "korean": "예찬 : 받는 피해 {0}% 감소",
+    "english": "Praise : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_PECS_BlindPrincess_N_4": {
+    "korean": "구가 : 사거리 {0}",
+    "english": "Guga : Range {0}"
+  },
+  "BuffDesc3_Effect_PECS_BlindPrincess_N_4": {
+    "korean": "구가 : 피해 무효화 {0}회",
+    "english": "Guga : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_41": {
+    "korean": "찬미 : 받는 피해 {0}% 감소",
+    "english": "Hymn : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_42": {
+    "korean": "개가 : 사거리 {0}",
+    "english": "Triumph : Range {0}"
+  },
+  "BuffDesc2_Effect_PECS_BlindPrincess_N_42": {
+    "korean": "개가 : 피해 무효화 {0}회",
+    "english": "Triumph : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_43": {
+    "korean": "구가 : 사거리 {0}",
+    "english": "Guga : Range {0}"
+  },
+  "BuffDesc2_Effect_PECS_BlindPrincess_N_43": {
+    "korean": "구가 : 피해 무효화 {0}회",
+    "english": "Guga : Damage Nullification {0}x"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_5": {
+    "korean": "눈에는 눈 : 적중 {0}%",
+    "english": "An Eye for an Eye : ACC {0}%"
+  },
+  "BuffDesc2_Effect_PECS_BlindPrincess_N_5": {
+    "korean": "눈에는 눈 : 적중 감소 면역",
+    "english": "An Eye for an Eye : ACC Decrease Immunity"
+  },
+  "BuffDesc3_Effect_PECS_BlindPrincess_N_5": {
+    "korean": "이에는 이 : 방어막 / 피해 감소 무시 해제",
+    "english": "An Eye for an Eye : Ignore Barrier / DMG Reduction Removal"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_51": {
+    "korean": "눈에는 눈 : 적중 감소 면역",
+    "english": "An Eye for an Eye : ACC Decrease Immunity"
+  },
+  "BuffDesc1_Effect_PECS_BlindPrincess_N_52": {
+    "korean": "이에는 이 : 방어막 / 피해 감소 무시 해제",
+    "english": "An Eye for an Eye : Ignore Barrier / DMG Reduction Removal"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "SkillName_Skill_PECS_Rhode_CH_1": {
+    "korean": "그만두세요!",
+    "english": "Stop it!"
+  },
+  "SkillName_Skill_PECS_Rhode_CH_2": {
+    "korean": "어나이얼레이터 씨! 지금이에요~!",
+    "english": "Annihilator! Now~"
+  },
+  "SkillName_Skill_PECS_Rhode_N_3": {
+    "korean": "제가 임시 부관이요!?",
+    "english": "I'm the temporary adjutant!?"
+  },
+  "SkillName_Skill_PECS_Rhode_N_4": {
+    "korean": "저도 할 수 있다는 걸 보여드리겠어요!",
+    "english": "I will show you that I can do it too!"
+  },
+  "SkillName_Skill_PECS_Rhode_N_5": {
+    "korean": "두 분은 제 동경의 대상이에요.",
+    "english": "You two are the objects of my admiration."
+  },
+  "SkillDesc_Skill_PECS_Rhode_CH_1": {
+    "korean": "대상에게 {0} 보호 무시 피해를 줍니다. &n스킬 적중시 2라운드 동안 대상의 공격력과 치명타를 감소시킵니다.&n대상의 HP가 100%인 경우, 1라운드 동안 스킬 사용 불가 효과를 부여합니다.",
+    "english": "Deals {0} Ignore Protection damage to the target. When the skill hits, reduces the target's ATK and CRIT for 2 rounds. If the target's HP is 100%, applies Silenced for 1 round."
+  },
+  "SkillDescSimple_Skill_PECS_Rhode_CH_1": {
+    "korean": "범위에 {0} 보호 무시 피해, 2라운드 동안 대상 공격력과 치명타 감소&n대상 HP가 100%시 1라운드 스킬 사용 불가 효과 부여",
+    "english": "{0} Ignore Protection damage, reduces target ATK and CRIT for 2 rounds, if target HP is 100% applies Silenced for 1 round."
+  },
+  "SkillDesc_Skill_PECS_Rhode_CH_2": {
+    "korean": "지정 범위에 회피가 매우 어려운 {0} 보호 무시 피해를 줍니다.&n적중시 열/행/지정 보호 효과를 해제하고 1라운드 동안 받는 피해 증가 효과를 주고 AP를 감소시킵니다.&n사용시, 원래 형태로 돌아갑니다.",
+    "english": "Deals {0} Ignore Protection damage to the specified area that is very hard to EVA. On hit, removes Column Protect, Row Protect, and Target Protect, grants DMG Taken Increased for 1 round, and reduces AP. When used, returns to its original form."
+  },
+  "SkillDescSimple_Skill_PECS_Rhode_CH_2": {
+    "korean": "지정 범위에 {0} 보호 무시 피해 적중시 열/행/지정 보호 효과를 해제, 1라운드 동안 받는 피해 증가를 증가, AP 감소 후, 원래 형태로 변신",
+    "english": "{0} Ignore Protection damage; on hit removes Column Protect, Row Protect, Target Protect, grants DMG Taken Increased for 1 round, reduces AP, then reverts to original form."
+  },
+  "SkillDesc_Skill_PECS_Rhode_N_3": {
+    "korean": "전투 개시시, 자신의 AP를 증가 시킵니다.&n라운드 개시시, 1 라운드 동안 아군의 효과 저항 / 강화 해제 저항이 증가하며 레모네이드 감마, 멀린, 트리톤, 메로페는 추가로 증가합니다.",
+    "english": "At battle start, increase own AP. At round start, increase allies' Status Resist / Buff Removal Resist for 1 round, with additional increase for Lemonade Gamma, Merlin, Triton, and Merope."
+  },
+  "SkillDescSimple_Skill_PECS_Rhode_N_3": {
+    "korean": "전투 개시시, 자신의 AP 증가&n라운드 개시시, 아군의 효과 저항 / 강화 해제 저항 증가 레모네이드 감마/멀린/트리톤/멀린 추가 증가",
+    "english": "When battle starts, increase own AP. At round start, increase allies' Status Resist / Buff Removal Resist. Further increase for Lemonade Gamma / Merlin / Triton / Merlin."
+  },
+  "SkillDesc_Skill_PECS_Rhode_N_4": {
+    "korean": "라운드 개시시, 1 라운드 동안 자신의 행동력을  증가시킵니다. 일반 모드에서 1번 엑티브 스킬 사용시 대포격 모드로 전환합니다.",
+    "english": "At round start, increase own SPD for 1 round. In Normal Form, using an active skill once switches to Artillery Mode."
+  },
+  "SkillDescSimple_Skill_PECS_Rhode_N_4": {
+    "korean": "라운드 개시시 1라운드 동안 자신의 행동력 증가, 1번 엑티브 스킬 사용시 모드 변경",
+    "english": "At round start, increase own SPD for 1 round, change mode when using the active skill once"
+  },
+  "SkillDesc_Skill_PECS_Rhode_N_5": {
+    "korean": "라운드 개시시 레모네이드 감마, 트리톤, 멀린,메로페의 AP를 증가시킵니다. 레모네이드 감마와 메로페는 추가로 증가합니다.&n라운드 개시시, 1라운드 동안 레모네이드 감마에게  전투중 방어막과 받는 피해 감소 무시 효과를 부여합니다.&n라운드 개시시, 1라운드 동안 메로페에게 전투중 받는 피해 감소 효과를 부여합니다.",
+    "english": "At round start, increase AP of Lemonade Gamma, Triton, Merlin, and Merope. Lemonade Gamma and Merope receive an additional increase. Also at round start, for 1 round, grant Lemonade Gamma a Barrier and Ignore Barrier / DMG Reduction during combat. At round start, for 1 round, grant Merope a DMG Reduction effect during combat."
+  },
+  "SkillDescSimple_Skill_PECS_Rhode_N_5": {
+    "korean": "라운드 개시시, 특정 구성원 AP증가. 레모네이드 감마에게 방어막과 받는 피해 감소 무시 효과 부여, 메로페에게 메로페의 받는 피해 감소 효과 부여.",
+    "english": "At round start, increase AP of specific members. Grant Lemonade Gamma a shield and an effect that ignores damage reduction received, and grant Merope the effect that reduces damage received by Merope."
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_22": {
+    "korean": "일반 형태로 변경",
+    "english": "Change to Normal Form"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_41": {
+    "korean": "저도 할 수 있다는 걸 보여드리겠어요! : 대포격 모드",
+    "english": "I will show you that I can do it too! : Artillery Mode"
+  },
+  "BuffDesc2_Effect_PECS_Rhode_N_5": {
+    "korean": "두 분은 제 동경의 대상이에요 : 받는 피해 감소 {0}%",
+    "english": "You two are the objects of my admiration : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_1": {
+    "korean": "그만두세요!: 공격력 {0}%",
+    "english": "Stop it! : ATK {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Rhode_CH_1": {
+    "korean": "그만두세요! : 치명타 {0}%",
+    "english": "Stop it! : CRIT {0}%"
+  },
+  "BuffDesc3_Effect_PECS_Rhode_CH_1": {
+    "korean": "그만두세요!: 스킬 사용 불가",
+    "english": "Stop it! : Silenced"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_11": {
+    "korean": "그만두세요!: 스킬 사용 불가",
+    "english": "Stop it! : Silenced"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_2": {
+    "korean": "어나이얼레이터 씨! 지금이에요~! : 행 보호 효과 해제",
+    "english": "Mr. Annihilator! It's now~! : Row Protect Effect Removal"
+  },
+  "BuffDesc2_Effect_PECS_Rhode_CH_2": {
+    "korean": "어나이얼레이터 씨! 지금이에요~! : 열 보호 효과 해제",
+    "english": "Mr. Annihilator! It's now~! : Column Protect Effect Removal"
+  },
+  "BuffDesc3_Effect_PECS_Rhode_CH_2": {
+    "korean": "어나이얼레이터 씨! 지금이에요~!: 지정 보호 해제",
+    "english": "Mr. Annihilator! It's now~! : Target Protect Removal"
+  },
+  "BuffDesc4_Effect_PECS_Rhode_CH_2": {
+    "korean": "어나이얼레이터 씨! 지금이에요~! : AP{0}",
+    "english": "Mr. Annihilator! It's now~! : AP {0}"
+  },
+  "BuffDesc5_Effect_PECS_Rhode_CH_2": {
+    "korean": "어나이엘레이터 씨! 지금이에요~! : 받는 피해{0}%",
+    "english": "Annihilator! Now~ : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_21": {
+    "korean": "어나이얼레이터 씨! 지금이에요~! :  지정 보호 해제",
+    "english": "Mr. Annihilator! It's now~! : Target Protect Removal"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_CH_23": {
+    "korean": "어나이얼레이터 씨! 지금이에요~! : AP{0}",
+    "english": "Mr. Annihilator! It's now~! : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_Rhode_CH_23": {
+    "korean": "어나이엘레이터 씨! 지금이에요~! : 받는 피해{0}%",
+    "english": "Annihilator! Now~ : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_3": {
+    "korean": "제가 임시 부관이요!? : AP{0}",
+    "english": "I'm the temporary adjutant!? : AP {0}"
+  },
+  "BuffDesc2_Effect_PECS_Rhode_N_3": {
+    "korean": "제가 임시 부관이요!? : 효과 저항{0}% (아군)",
+    "english": "I'm the temporary adjutant!? : Status Resist {0}% (Ally)"
+  },
+  "BuffDesc3_Effect_PECS_Rhode_N_3": {
+    "korean": "제가 임시 부관이요!? : 강화 해제 저항{0}% (아군)",
+    "english": "I'm the temporary adjutant!? : Buff Removal Resist {0}% (Ally)"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_31": {
+    "korean": "제가 임시 부관이요!? : 효과 저항{0}%",
+    "english": "I'm the temporary adjutant!? : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_32": {
+    "korean": "제가 임시 부관이요!? : 강화 해제 저항{0}%",
+    "english": "I'm the temporary adjutant!? : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_33": {
+    "korean": "제가 임시 부관이요!? : 강화 해제 저항{0}%",
+    "english": "I'm the temporary adjutant!? : Buff Removal Resist {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Rhode_N_33": {
+    "korean": "제가 임시 부관이요!? : 효과 저항{0}%",
+    "english": "I'm the temporary adjutant!? : Status Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_4": {
+    "korean": "저도 할 수 있다는 걸 보여드리겠어요! : 행동력 {0}%",
+    "english": "I will show you that I can do it too! : SPD {0}%"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_5": {
+    "korean": "도움이 되고싶어요: AP {0}",
+    "english": "I Want to Be Helpful : AP {0}"
+  },
+  "BuffDesc3_Effect_PECS_Rhode_N_5": {
+    "korean": "두 분은 제 동경의 대상이에요 : AP {0}",
+    "english": "You two are the objects of my admiration. : AP {0}"
+  },
+  "BuffDesc4_Effect_PECS_Rhode_N_5": {
+    "korean": "두 분은 제 동경의 대상이에요 : 방어막 / 피해 감소 무시",
+    "english": "You two are the objects of my admiration. : Ignore Barrier / DMG Reduction"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_51": {
+    "korean": "두 분은 제 동경의 대상이에요 : 받는 피해 감소 {0}%",
+    "english": "You two are the objects of my admiration. : DMG Reduction {0}%"
+  },
+  "BuffDesc2_Effect_PECS_Rhode_N_51": {
+    "korean": "두 분은 제 동경의 대상이에요 : AP {0}",
+    "english": "You two are the objects of my admiration. : AP {0}"
+  },
+  "BuffDesc1_Effect_PECS_Rhode_N_52": {
+    "korean": "두 분은 제 동경의 대상이에요 : 방어막 / 피해 감소 무시(감마)",
+    "english": "You two are the objects of my admiration. : Ignore Barrier / DMG Reduction (Gamma)"
+  },
+  "BuffDesc2_Effect_PECS_Rhode_N_52": {
+    "korean": "두 분은 제 동경의 대상이에요 : AP {0}",
+    "english": "You two are the objects of my admiration. : AP {0}"
+  }
+}

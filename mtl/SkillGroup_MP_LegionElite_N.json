@@ -1,0 +1,78 @@
+{
+  "1002701882": {
+    "korean": "파쇄 미니건",
+    "english": "Shredder Minigun"
+  },
+  "1002701883": {
+    "korean": "포획탄 발사",
+    "english": "Capture Projectile"
+  },
+  "1002701884": {
+    "korean": "상황 대응",
+    "english": "Situation Response"
+  },
+  "1002701885": {
+    "korean": "조준 공유 시스템",
+    "english": "Aiming Sharing System"
+  },
+  "1002704219": {
+    "korean": "미니건을 발사해 {0} 피해를 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가하며, 대상의 피해 감소 효과를 해제합니다.",
+    "english": "Fires a minigun dealing {0} damage. If the target is Marked or Rooted, damage is increased and removes DMG Reduction."
+  },
+  "1002704220": {
+    "korean": "포획탄을 발사해 {0} 피해를 주고, 3라운드 동안 대상을 이동 불가 / 행동력 감소 / 회피 감소 상태로 만듭니다. 대상이 표식 상태면 일정 확률로 강화 효과를 해제합니다. 스킬 사용 시, 3라운드 동안 자신의 행동력이 증가합니다.",
+    "english": "Fires a capture projectile dealing {0} damage and makes the target Rooted / SPD Reduction / EVA Reduction for 3 rounds. If the target is Marked, there is a chance to remove its enhancement effect. When this skill is used, your SPD is increased for 3 rounds."
+  },
+  "1002704221": {
+    "korean": "아군 중 HP가 25% 이하인 대상이 있는 경우, 대상의 행동력을 증가시키며 대상의 공격을 지원합니다.",
+    "english": "If an ally has HP at 25% or less, increase that ally's SPD and support its attacks."
+  },
+  "1002704222": {
+    "korean": "인접 아군의 적중이 증가합니다. 자신이 처치될 경우, 해당 효과를 받는 아군들의 적증 증가 효과를 해제하고 적중을 감소시킵니다.",
+    "english": "Increases ACC of adjacent allies. If you are defeated, removes the ACC increase from those allies and reduces their ACC."
+  },
+  "1000103533": {
+    "korean": "파쇄 미니건 : 피해 감소 효과 해제",
+    "english": "Shredder minigun : DMG Reduction Removal"
+  },
+  "1000103530": {
+    "korean": "포획탄 : 이동 불가",
+    "english": "Capture Shell : Rooted"
+  },
+  "1000104672": {
+    "korean": "포획탄 : 회피 {0}%",
+    "english": "Capture Shell : EVA {0}%"
+  },
+  "1000105183": {
+    "korean": "포획탄 : 행동력 {0}%",
+    "english": "Capture Shell : SPD {0}%"
+  },
+  "1000103534": {
+    "korean": "포획탄 : 강화 효과 해제",
+    "english": "Capture Shell : Buff Removal"
+  },
+  "1000103535": {
+    "korean": "포획 개시 : 행동력{0}%",
+    "english": "Capture Protocol : SPD {0}%"
+  },
+  "1000103531": {
+    "korean": "상황 대응 : 행동력{0}%",
+    "english": "Situation Response : SPD {0}%"
+  },
+  "1000104673": {
+    "korean": "상황 대응 : 공격 지원",
+    "english": "Situation Response : Follow-Up Attack"
+  },
+  "1000103532": {
+    "korean": "조준 공유 시스템 : 적중{0}%",
+    "english": "Aiming sharing system : ACC {0}%"
+  },
+  "1000103536": {
+    "korean": "조준 공유 오류 : 적중 강화 해제",
+    "english": "Aim Sync Glitch : ACC Buff Removal"
+  },
+  "1000104674": {
+    "korean": "조준 공유 오류 : 적중 {0}%",
+    "english": "Aim Sync Glitch : ACC {0}%"
+  }
+}

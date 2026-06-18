@@ -1,0 +1,138 @@
+{
+  "1002708018": {
+    "korean": "고룡의 숨결",
+    "english": "Breath of the Ancient Dragon"
+  },
+  "1002708019": {
+    "korean": "니플헤임의 폭풍",
+    "english": "Storm of Niflheim"
+  },
+  "1002708020": {
+    "korean": "차가운 분노",
+    "english": "Cold Fury"
+  },
+  "1002708021": {
+    "korean": "한기의 포옹",
+    "english": "Chilling Embrace"
+  },
+  "1002708022": {
+    "korean": "몰아치는 냉기",
+    "english": "Raging Frost"
+  },
+  "1002708023": {
+    "korean": "단일 대상에게 {0} 보호 무시 냉기 피해를 입히고 대상의 HP%가 낮을 수록 피해량이 증가합니다.&n대상의 HP%가 50%이하일 경우, 피해 감소 효과를 해제합니다. 대상이 침수 상태인 경우, 강화 효과를 해제하고 100%확률로 행동 불가 상태로 만듭니다.",
+    "english": "Deal {0} Ignore Protection cold damage to a single target, increasing damage as the target’s HP% decreases. If the target’s HP% is 50% or below, remove DMG Reduction. If the target is Soaked, remove buffs and apply Stunned with 100% chance."
+  },
+  "1002708028": {
+    "korean": "{0} 보호 무시 냉기 피해 / 대상 HP% 낮을수록 피해량 증가 / 특정 조건 하에 받는 피해 감소 해제 / 강화 해제 / 행동 불가",
+    "english": "{0} Ignore Protection cold damage / DMG Proportional to Target Lost HP / under certain conditions, remove DMG Reduction / remove buffs / Stunned"
+  },
+  "1002708024": {
+    "korean": "범위 내 대상에게 {0} 보호 무시 냉기 피해를 입히고 냉기 저항 감소 상태인 대상에게 추가 냉기 피해를 입힙니다.&n대상이 침수 상태인 경우, 강화 효과를 해제하고 이동 불가 상태로 만들며 행동력을 감소시킵니다.",
+    "english": "Deal {0} Ignore Protection cold damage to targets within range and deal additional cold damage to targets with reduced Cold Resist. If a target is Soaked, remove buffs, apply Rooted, and reduce SPD."
+  },
+  "1002708029": {
+    "korean": "범위 내 대상 {0} 보호 무시 냉기 피해 / 특정 조건 하에 추가 냉기 피해 / 강화 해제 / 이동 불가 / 행동력 감소",
+    "english": "Targets within range {0} Ignore Protection cold damage / additional cold damage under certain conditions / remove buffs / Rooted / SPD reduction"
+  },
+  "1002708025": {
+    "korean": "전투 시작 시, 공격력 / 치명타가 증가합니다.&n라운드 마다 공격력이 감소하는데 적을 처치할 경우에는 공격력이 증가합니다.&n본 효과를 통한 능력치 증감은 해제 불가합니다.",
+    "english": "At the start of battle, ATK and CRIT increase. ATK decreases each round, but increases when an enemy is defeated. Stat changes from this effect cannot be removed."
+  },
+  "1002708030": {
+    "korean": "전투 시작 시, 공격력 / 치명타 증가 / 라운드 마다 공격력 감소 / 적 처치 시 공격력 증가",
+    "english": "At the start of battle, increase ATK / CRIT / decrease ATK each round / increase ATK upon defeating enemies."
+  },
+  "1002708026": {
+    "korean": "라운드 개시 시, 범위 내 아군 공격력 / 치명타 / 적중 / 화염저항이 증가합니다.",
+    "english": "At the start of the round, increase ATK / CRIT / ACC / Fire Resist of allies within range."
+  },
+  "1002708031": {
+    "korean": "라운드 개시 시, 공격력 / 치명타 / 적중 / 화염 저항 증가",
+    "english": "At the start of the round, increase ATK / CRIT / ACC / Fire Resist."
+  },
+  "1002708027": {
+    "korean": "전투 시작 시, 5라운드 동안 적군의 행동력 / 회피 / 냉기저항이 감소합니다.",
+    "english": "At the start of battle, decrease enemy SPD / EVA / Cold Resist for 5 rounds."
+  },
+  "1002708032": {
+    "korean": "전투 시작 시, 적 행동력 / 회피 / 냉기 저항 감소",
+    "english": "At the start of battle, decrease enemy SPD / EVA / Cold Resist."
+  },
+  "1000110388": {
+    "korean": "고룡의 숨결 : 적 HP%가 낮을수록 피해량{0}%",
+    "english": "Breath of the Ancient Dragon: DMG Proportional to Target Lost HP {0}%"
+  },
+  "1000110389": {
+    "korean": "니플헤임의 폭풍 : {0}% 추가 냉기 피해 (냉기저항감소)",
+    "english": "Storm of Niflheim: {0}% additional cold damage (Cold Resist reduction)"
+  },
+  "1000110399": {
+    "korean": "고룡의 숨결 : 강화 효과 해제 (침수)",
+    "english": "Breath of the Ancient Dragon : Buff Removal (Soaked)"
+  },
+  "1000110407": {
+    "korean": "고룡의 숨결 : 행동 불가 (침수)",
+    "english": "Breath of the Ancient Dragon : Stunned (Soaked)"
+  },
+  "1000110415": {
+    "korean": "고룡의 숨결 : 받는 피해 감소 해제 (대상HP가50%이하)",
+    "english": "Breath of the Ancient Dragon : DMG Reduction Removal (Target HP 50% or lower)"
+  },
+  "1000110390": {
+    "korean": "차가운 분노 : 공격력{0}%",
+    "english": "Cold Fury : ATK {0}%"
+  },
+  "1000110401": {
+    "korean": "차가운 분노 : 치명타{0}%",
+    "english": "Cold Fury : CRIT {0}%"
+  },
+  "1000110409": {
+    "korean": "차가운 분노 : 공격력{0}% (적 1명 처치)",
+    "english": "Cold Fury : ATK {0}% (on enemy kill)"
+  },
+  "1000110417": {
+    "korean": "차가운 분노 : 공격력{0}% (라운드/중첩)",
+    "english": "Cold Fury : ATK {0}% (Round/Stack)"
+  },
+  "1000110400": {
+    "korean": "니플헤임의 폭풍 : 강화 효과 해제 (침수)",
+    "english": "Storm of Niflheim : Buff Removal (Soaked)"
+  },
+  "1000110408": {
+    "korean": "니플헤임의 폭풍 : 이동 불가 (침수)",
+    "english": "Storm of Niflheim : Rooted (Soaked)"
+  },
+  "1000110416": {
+    "korean": "니플헤임의 폭풍 : 행동력{0}% (침수)",
+    "english": "Storm of Niflheim : SPD {0}% (Soaked)"
+  },
+  "1000110391": {
+    "korean": "한기의 포옹 : 공격력{0}%",
+    "english": "Chilling Embrace : ATK {0}%"
+  },
+  "1000110402": {
+    "korean": "한기의 포옹 : 치명타{0}%",
+    "english": "Chilling Embrace : CRIT {0}%"
+  },
+  "1000110410": {
+    "korean": "한기의 포옹 : 적중{0}%",
+    "english": "Chilling Embrace : ACC {0}%"
+  },
+  "1000110418": {
+    "korean": "한기의 포옹 : 화염 저항{0}%",
+    "english": "Chilling Embrace : Fire Resist {0}%"
+  },
+  "1000110392": {
+    "korean": "몰아치는 냉기 : 행동력{0}%",
+    "english": "Raging Frost : SPD {0}%"
+  },
+  "1000110403": {
+    "korean": "몰아치는 냉기 : 회피{0}%",
+    "english": "Raging Frost : EVA {0}%"
+  },
+  "1000110411": {
+    "korean": "몰아치는 냉기 : 냉기 저항{0}%",
+    "english": "Raging Frost : Cold Resist {0}%"
+  }
+}

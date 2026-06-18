@@ -1,0 +1,46 @@
+{
+  "1002700022": {
+    "korean": "머신건 사격",
+    "english": "Machine Gun Fire"
+  },
+  "1002700023": {
+    "korean": "대 장갑 진동탄",
+    "english": "Anti-Armor Shock Bomb"
+  },
+  "SkillName_Skill_MP_Fallen_TR_Basic_3": {
+    "korean": "훈련용 프로그램",
+    "english": "Training Program"
+  },
+  "1002703679": {
+    "korean": "머신건을 발사해 목표 적에게 {0}의 피해를 줍니다. 대상이 방어력 감소 상태인 경우, 피해량이 증가합니다.",
+    "english": "Fires a machine gun dealing {0} damage. If the target is under DEF Down, damage increases."
+  },
+  "1002703265": {
+    "korean": "단일 대상 {0} 피해. 방어 감소 대상 피해량 증가.",
+    "english": "Single target {0} damage. Increased damage to DEF Down targets."
+  },
+  "1002703958": {
+    "korean": "대 장갑 진동탄을 발사해 {0} 피해를 주고, 목표 대상의 방어력을 낮춥니다. 대상에게 피해 감소 효과가 있는 경우, 해당 효과를 무효화합니다.",
+    "english": "Fires an anti-armor vibration round dealing {0} damage and lowering the target's DEF. If the target has DMG Reduction, the effect is nullified."
+  },
+  "1002703266": {
+    "korean": "단일 대상 방어력 감소 / 피해 감소 해제 효과.",
+    "english": "Single target DEF reduction / DMG Reduction removal effect"
+  },
+  "SkillDesc_Skill_MP_Fallen_TR_Basic_3": {
+    "korean": "훈련용 프로그램으로 치명타를 낮춥니다.&n정확한 훈련 내용을 위한 것이니 기분 나빠하지말아주세요.",
+    "english": "Training program that lowers CRIT.&nPlease don't be offended—it's for more precise training."
+  },
+  "1000102499": {
+    "korean": "방어력 {0}%",
+    "english": "DEF {0}%"
+  },
+  "1000102957": {
+    "korean": "피해 감소 효과 무효",
+    "english": "DMG Reduction Effect Nullified"
+  },
+  "BuffDesc1_Effect_MP_Fallen_TR_Basic_3": {
+    "korean": "치명타 감소 : {0}%",
+    "english": "CRIT Decrease : {0}%"
+  }
+}

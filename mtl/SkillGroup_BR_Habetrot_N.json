@@ -1,0 +1,262 @@
+{
+  "SkillName_Skill_BR_Habetrot_N_1": {
+    "korean": "스프레이 앤 프레이",
+    "english": "Spray and Pray"
+  },
+  "SkillDesc_Skill_BR_Habetrot_N_1": {
+    "korean": "눈 딱 감고 무장을 난사하여 범위 내 적에게 {0} 피해를 줍니다. 낮은 확률로 약점을 타격하여 피해량이 크게 증가합니다.&n적중 여부와 관계없이 2라운드 동안 범위 내 적군의 스킬 위력 / 적중이 크게 감소합니다. &n해당 효과는 라운드 경과에 따라 점감하며, 스킬 재사용 시 최대 효과로 갱신됩니다.",
+    "english": "Blindly fire weapons rapidly, dealing {0} Additional DMG to enemies within the area. Has a low chance to hit a weak point, greatly increasing damage. Regardless of hit or miss, reduces enemies' Skill Power and ACC for 2 rounds. The effect wanes each round and refreshes to maximum on reuse."
+  },
+  "SkillDescSimple_Skill_BR_Habetrot_N_1": {
+    "korean": "지정 범위 대상 {0} 피해. 스킬 위력 / 적중 감소. 낮은 확률로 피해량 증가.",
+    "english": "Target area deals {0} Additional DMG. Reduces Skill Power and ACC. Low chance to increase damage."
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_1": {
+    "korean": "으아아... : 스킬 위력 {0}% (최대)",
+    "english": "Uwaaah... : Skill Power {0}% (Max)"
+  },
+  "BuffDesc2_Effect_BR_Habetrot_N_1": {
+    "korean": "어떻게 되는건가요오... : 적중 {0}% (최대)",
+    "english": "What's going to happen... : Accuracy {0}% (max)"
+  },
+  "BuffDesc3_Effect_BR_Habetrot_N_1": {
+    "korean": "미안해요! : 피해량 {0}%",
+    "english": "Sorry! : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_11": {
+    "korean": "으아아... : 스킬 위력 {0}%",
+    "english": "Aaaah...: Skill power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_12": {
+    "korean": "으아아... : 스킬 위력 {0}%",
+    "english": "Aaaah...: Skill power {0}%"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_13": {
+    "korean": "어떻게 되는건가요오... : 적중 {0}%",
+    "english": "What is happeninggg...: ACU {0}%"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_14": {
+    "korean": "어떻게 되는건가요오... : 적중 {0}%",
+    "english": "What is happeninggg...: ACU {0}%"
+  },
+  "SkillName_Skill_BR_Habetrot_N_2": {
+    "korean": "DAGAIE MK-III",
+    "english": "DAGAIE MK-III"
+  },
+  "SkillDesc_Skill_BR_Habetrot_N_2": {
+    "korean": "3라운드 동안 자신과 주변 아군의 회피를 증가시키고, 각자의 회피 수치에 비례해 적의 스킬 위력을 감쇄할 수 있는 효과를 적용합니다.&n해당 효과는 라운드 경과에 따라 점감하며, 스킬 재사용 시 최대 효과로 갱신됩니다.&n또한 스킬 사용 시, 자신보다 회피가 낮은 아군에게 적용된 해로운 표식 효과를 해제하며, 자신보다 회피가 높은 아군에게 3라운드 동안 이로운 표식을 부여합니다.&n스킬 레벨 10에서 범위가 크게 증가합니다.",
+    "english": "For 3 rounds, increase EVA of yourself and nearby allies, and apply an effect that reduces enemy Skill Power proportionally to each ally's EVA. The effect wanes each round and refreshes to maximum on reuse. Additionally, when the skill is used, removes harmful Mark from allies whose EVA is lower than yours, and grants beneficial Mark to allies with higher EVA for 3 rounds. At skill level 10, the range is greatly increased."
+  },
+  "SkillDescSimple_Skill_BR_Habetrot_N_2": {
+    "korean": "자신과 주변 아군 회피 증가 / 회피 비례 스킬 위력 감쇄 효과 부여. 조건부 아군 표식 해제 / 부여.",
+    "english": "Self EVA increase / Nearby allies EVA increase. Grants EVA-proportional Skill Power reduction. Conditional Mark removal / Mark grant."
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_2": {
+    "korean": "DAGAIE MK-III : 스킬 위력 감쇄 {0}% (회피 비례)",
+    "english": "DAGAIE MK-III : Skill Power Reduction {0}% (EVA-based)"
+  },
+  "BuffDesc2_Effect_BR_Habetrot_N_2": {
+    "korean": "DAGAIE MK-III : 회피 {0}% (최대)",
+    "english": "DAGAIE MK-III : EVA {0}% (Max)"
+  },
+  "BuffDesc3_Effect_BR_Habetrot_N_2": {
+    "korean": "DAGAIE MK-III : 해로운 표식 제거",
+    "english": "DAGAIE MK-III : Removes Harmful Mark"
+  },
+  "BuffDesc4_Effect_BR_Habetrot_N_2": {
+    "korean": "DAGAIE MK-III : 이로운 표식 부여",
+    "english": "DAGAIE MK-III : Grant Beneficial Mark"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_21": {
+    "korean": "DAGAIE MK-III : 회피 {0}%",
+    "english": "DAGAIE MK-III : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_22": {
+    "korean": "DAGAIE MK-III : 해로운 표식 제거",
+    "english": "DAGAIE MK-III : Removes Harmful Mark"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_23": {
+    "korean": "DAGAIE MK-III : 이로운 표식 부여",
+    "english": "DAGAIE MK-III : Grants Beneficial Mark"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_24": {
+    "korean": "DAGAIE MK-III : 회피 {0}%",
+    "english": "DAGAIE MK-III : EVA {0}%"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_25": {
+    "korean": "DAGAIE MK-III : 회피 {0}%",
+    "english": "DAGAIE MK-III : EVA {0}%"
+  },
+  "SkillName_Skill_BR_Habetrot_N_3": {
+    "korean": "솔선수범",
+    "english": "Leading by Example"
+  },
+  "SkillDesc_Skill_BR_Habetrot_N_3": {
+    "korean": "라운드 개시 시, 자신은 1라운드 동안 회피 / 받는 피해 감소 효과를 획득합니다.&n라운드 개시 시 지정 범위 내 보호기를 제외한, 표식이 없는 아군을 1라운드 동안 지정 보호합니다.&n스킬 레벨 10에서 자신의 위치와 관계없이 전체 적용됩니다.",
+    "english": "At the start of the round, you gain EVA and DMG Reduction for 1 round. At the start of the round, designate protection on unmarked allies within the area, excluding Defenders, for 1 round. At skill level 10, it applies to all regardless of your position."
+  },
+  "SkillDescSimple_Skill_BR_Habetrot_N_3": {
+    "korean": "자신 회피 증가 / 받는 피해 감소. 조건부 범위 내 아군 지정 보호.",
+    "english": "Self EVA increase / DMG Reduction. Conditional Target Protect for allies within range."
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_3": {
+    "korean": "솔선수범 : 지정 대상 보호",
+    "english": "Leading by Example : Target Protect"
+  },
+  "BuffDesc2_Effect_BR_Habetrot_N_3": {
+    "korean": "솔선수범 : 회피 {0}%",
+    "english": "Leading by Example : EVA {0}%"
+  },
+  "BuffDesc3_Effect_BR_Habetrot_N_3": {
+    "korean": "솔선수범 : 받는 피해 {0}% 감소",
+    "english": "Leading by Example : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_31": {
+    "korean": "솔선수범 : 회피 {0}%",
+    "english": "Leading by Example : EVA {0}%"
+  },
+  "BuffDesc2_Effect_BR_Habetrot_N_31": {
+    "korean": "솔선수범 : 받는 피해 {0}% 감소",
+    "english": "Leading by Example : DMG Reduction {0}%"
+  },
+  "SkillName_Skill_BR_Habetrot_N_4": {
+    "korean": "제병합동",
+    "english": "Joint Arms"
+  },
+  "SkillDesc_Skill_BR_Habetrot_N_4": {
+    "korean": "라운드 개시 시, 아군 스쿼드에 포함된 전투원 분류에 따라 1라운드 동안 아군 전체에 이하의 효과를 부여합니다. 동일한 조건에 의한 효과는 중첩되지 않습니다.&n경장형 및 중장형 : 방어 관통 증가&n공격기 및 지원기 : 적중 증가&n라운드 개시 시, 자신은 활성화된 효과 종류 수에 비례하여 행동력이 증가합니다.",
+    "english": "At the start of the round, grant the following effects to all allies for 1 round based on the classifications of combatants in the allied squad. Effects from the same condition do not stack. Light and Heavy: increase DEF Penetration. Attackers and Supporters: increase ACC. At the start of the round, increase your SPD proportionally to the number of activated effect types."
+  },
+  "SkillDescSimple_Skill_BR_Habetrot_N_4": {
+    "korean": "조건부 아군 방어 관통 / 적중 증가. 활성화된 효과 수에 비례하여 자신 행동력 증가.",
+    "english": "Conditional ally DEF Penetration / ACC increase. Increase own SPD proportionally to the number of activated effects."
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_4": {
+    "korean": "제병합동 : 방어 관통 {0}% (경장형)",
+    "english": "Joint Arms : DEF Penetration {0}% (Light)"
+  },
+  "BuffDesc2_Effect_BR_Habetrot_N_4": {
+    "korean": "제병합동 : 방어 관통 {0}% (중장형)",
+    "english": "Joint Arms : DEF Penetration {0}% (Heavy)"
+  },
+  "BuffDesc3_Effect_BR_Habetrot_N_4": {
+    "korean": "제병합동 : 적중 {0}% (공격기)",
+    "english": "Joint Arms : ACC {0}% (Attacker)"
+  },
+  "BuffDesc4_Effect_BR_Habetrot_N_4": {
+    "korean": "제병합동 : 적중 {0}% (지원기)",
+    "english": "Joint Arms : ACC {0}% (Supporter)"
+  },
+  "BuffDesc5_Effect_BR_Habetrot_N_4": {
+    "korean": "제병합동 : 행동력 {0}% (중첩당)",
+    "english": "Joint Arms : SPD {0}% (Per Stack)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_41": {
+    "korean": "제병합동 : 방어 관통 {0}% (중장형)",
+    "english": "Joint Arms : DEF Penetration {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_42": {
+    "korean": "제병합동 : 적중 {0}% (공격기)",
+    "english": "Joint Arms : ACC {0}% (Attacker)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_43": {
+    "korean": "제병합동 : 적중 {0}% (지원기)",
+    "english": "Joint Arms : ACC {0}% (Supporter)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_44": {
+    "korean": "제병합동 : 행동력 {0}% (경장형)",
+    "english": "Joint Arms : SPD {0}% (Light)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_45": {
+    "korean": "제병합동 : 행동력 {0}% (중장형)",
+    "english": "Joint Arms : SPD {0}% (Heavy)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_46": {
+    "korean": "제병합동 : 행동력 {0}% (공격기)",
+    "english": "Joint Arms : SPD {0}% (Attacker)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_47": {
+    "korean": "제병합동 : 행동력 {0}% (지원기)",
+    "english": "Joint Arms : SPD {0}% (Supporter)"
+  },
+  "SkillName_Skill_BR_Habetrot_N_5": {
+    "korean": "엘랑…?",
+    "english": "Elang…?"
+  },
+  "SkillDesc_Skill_BR_Habetrot_N_5": {
+    "korean": "라운드 개시 시, 자신과 자신보다 회피가 낮은 범위 내 아군에게 효과 저항 증가 / 받는 피해 감소 효과를 부여합니다.&n스쿼드 내에 보호기가 2기 이상인 경우, 자신의 공격 스킬에 보호 무시 효과가 추가됩니다.&n스쿼드 내의 자신보다 계급이 높은 스틸라인 전투원 수에 비례하여 라운드 개시 시 아군의 행동력이 증가합니다.&n스쿼드 내의 자신보다 계급이 낮은 스틸라인 전투원 수에 비례하여 라운드 개시 시 아군의 공격력이 증가합니다.",
+    "english": "At the start of the round, grant increased Status Resist and DMG Reduction to yourself and allies within range whose EVA is lower than yours. If the squad contains 2 or more Defenders, your attack skills gain Ignore Protection. At the start of the round, increase allies' SPD proportionally to the number of Steel Line combatants in the squad with higher rank than you. At the start of the round, increase allies' ATK proportionally to the number of Steel Line combatants in the squad with lower rank than you."
+  },
+  "SkillDescSimple_Skill_BR_Habetrot_N_5": {
+    "korean": "조건부 아군 효과 저항 증가 / 받는 피해 감소 및 행동력 / 공격력 증가. 스쿼드 내 보호기 2체 이상 시, 자신 보호 무시 활성화.",
+    "english": "Conditional ally Status Resist increase / DMG Reduction and SPD / ATK increase. If there are 2 or more Defenders in the squad, activates your Ignore Protection."
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_5": {
+    "korean": "엘랑…? : 효과 저항 {0}%",
+    "english": "Elang…? : Status Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Habetrot_N_5": {
+    "korean": "엘랑…? : 받는 피해 {0}% 감소",
+    "english": "Elang…? : DMG Reduction {0}%"
+  },
+  "BuffDesc3_Effect_BR_Habetrot_N_5": {
+    "korean": "엘랑…? : 보호 무시 활성화",
+    "english": "Elang…? : Activate Ignore Protection"
+  },
+  "BuffDesc4_Effect_BR_Habetrot_N_5": {
+    "korean": "엘랑…? : 행동력 {0}% (중첩당)",
+    "english": "Elang…? : SPD {0}% (Per Stack)"
+  },
+  "BuffDesc5_Effect_BR_Habetrot_N_5": {
+    "korean": "엘랑! : 공격력 {0}% (중첩당)",
+    "english": "Elang! : ATK {0}% (per stack)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_51": {
+    "korean": "엘랑…? : 효과 저항 {0}%",
+    "english": "Elang…? : Status Resist {0}%"
+  },
+  "BuffDesc2_Effect_BR_Habetrot_N_51": {
+    "korean": "엘랑…? : 받는 피해 {0}% 감소",
+    "english": "Elang…? : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_52": {
+    "korean": "엘랑…? : 보호 무시 활성화",
+    "english": "Elang…? : Activate Ignore Protection"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_53": {
+    "korean": "엘랑…? : 행동력 {0}% (마리)",
+    "english": "Elang…? : SPD {0}% (Marie)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_54": {
+    "korean": "엘랑…? : 행동력 {0}% (레드후드)",
+    "english": "Elang…? : SPD {0}% (Red Hood)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_55": {
+    "korean": "엘랑…? : 행동력 {0}% (피닉스)",
+    "english": "Elang…? : SPD {0}% (Phoenix)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_56": {
+    "korean": "엘랑…? : 공격력 {0}% (임펫)",
+    "english": "Elang…? : ATK {0}% (Impet)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_57": {
+    "korean": "엘랑! : 공격력 {0}% (이프리트)",
+    "english": "Elang! : ATK {0}% (Efreeti)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_58": {
+    "korean": "엘랑! : 공격력 {0}% (실키)",
+    "english": "Elang!: ATK {0}% (Silky)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_59": {
+    "korean": "엘랑! : 공격력 {0}% (노움)",
+    "english": "Elang! : ATK {0}% (Gnome)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_510": {
+    "korean": "엘랑! : 공격력 {0}% (레프리콘)",
+    "english": "Elang! : ATK {0}% (Leprechaun)"
+  },
+  "BuffDesc1_Effect_BR_Habetrot_N_511": {
+    "korean": "엘랑! : 공격력 {0}% (브라우니)",
+    "english": "Elang! : ATK {0}% (Brownie)"
+  }
+}

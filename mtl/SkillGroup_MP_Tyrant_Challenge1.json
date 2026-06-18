@@ -1,0 +1,126 @@
+{
+  "1000107773": {
+    "korean": "먹잇감 탐색",
+    "english": "Prey Search"
+  },
+  "1002705960": {
+    "korean": "원시의 본능",
+    "english": "Primitive Instinct"
+  },
+  "1001700167": {
+    "korean": "포효",
+    "english": "Roar"
+  },
+  "1002706440": {
+    "korean": "대상을 물어뜯어 {0} 보호 무시 피해를 주고, 2라운드 동안 방어력을 낮춥니다. 대상의 현재 HP%가 낮을수록 피해량이 증가하며, <포식자> 중첩이 1 증가합니다. 자신의 HP가 50% 이상이면, 대상의 피해 감소 효과를 해제합니다.",
+    "english": "Bite the target to deal {0} Ignore Protection damage, reducing DEF for 2 rounds. Damage increases the lower the target's HP%. Increases <Predator> stacks by 1. If own HP is 50% or higher, removes the target's DMG Reduction effects."
+  },
+  "1002706411": {
+    "korean": "라운드 개시 시, <포식자> (최대) 상태 또는 타이런트 바이트의 사거리 내에 적이 없다면 플라즈마를 분사해 지정 범위에 {0} 보호 무시 화염 속성 피해를 줍니다. 2라운드 동안 화염 저항을 감소시키며, <포식자> 중첩이 높을수록 최대 3단계까지 감소하며 <포식자> 중첩을 모두 소모합니다.",
+    "english": "At the start of the round, if in <Predator> (Max) state or no enemies are within Tyrant Bite's range, spray plasma to deal {0} Ignore Protection Fire damage to the designated area. Reduces Fire Resist for 2 rounds, scaling up to 3 stages based on <Predator> stacks, and consumes all <Predator> stacks."
+  },
+  "1002706441": {
+    "korean": "라운드 개시 시, HP의 비율에 따라 새로운 먹잇감을 찾고 속성 공격에 피격 시, 일시적으로 먹잇감을 변경하고 라운드 개시 시, 아군 필드에 혼자 남았을 시, 먹잇감 독식 상태가 됩니다. 또한 먹잇감에 집중해 피격 시, 자신에게 적용된 도발 효과를 해제합니다.&n먹잇감 (중장형) : HP가 100%~60%일 경우, 화염 속성에 피격 시&n먹잇감 (경장형) : HP가 60%~30%일 경우, 냉기 속성에 피격 시&n먹잇감 (기동형) : HP가 30%~0%일 경우, 전기 속성에 피격 시&n먹잇감 독식 : 공격력 / 적중이 대폭 증가하나 3회 피격 시 해제",
+    "english": "At the round start, it searches for a new prey according to its HP ratio. When hit by an elemental attack, it temporarily changes its prey. If it is the only ally on the field at round start, it enters Prey Monopoly state. Also, when focusing on prey and taking damage, it removes any Provoked effect from itself. Prey (Heavy): HP 100%–60%, hit by Fire. Prey (Light): HP 60%–30%, hit by Ice. Prey (Air): HP 30%–0%, hit by Electric. Prey Monopoly: ATK / ACC greatly increased, but removed after being hit 3 times."
+  },
+  "1002706412": {
+    "korean": "적 공격 시, 지정 보호 효과를 해제하며 2라운드 동안 자신에게 표식이 지정됩니다. 라운드 개시 시, 방어력 / 효과 저항이 증가하고 받는 피해가 감소합니다.",
+    "english": "When attacking an enemy, removes Target Protect and applies a Mark to self for 2 rounds. At round start, DEF / Status Resist increase and DMG Taken decreases."
+  },
+  "1002706413": {
+    "korean": "전투 개시 시, 일정 확률로 2라운드간 적들을 스킬 사용 불가 상태로 만들고 전투 속행 효과가 적용됩니다. 전투 속행 발동 시, 행동력이 크게 증가하며 남은 모든 전투 속행 효과를 해제합니다. 해당 상태에서 파괴되면 적에게 자폭해 공격력에 비례한 고정 화염 피해를 줍니다.",
+    "english": "At combat start, there is a chance to Silenced enemies for 2 rounds and apply the Combat Continuation effect. When Combat Continuation triggers, SPD greatly increases and all remaining Combat Continuation effects are removed. If destroyed while in this state, it self‑destructs, dealing Fixed Fire DMG proportional to its ATK."
+  },
+  "1000106628": {
+    "korean": "타이런트 바이트 : 적 HP% 낮을수록 피해량{0}%",
+    "english": "Tyrant Bite : Damage increases by {0}% as the enemy's HP% decreases."
+  },
+  "1000106633": {
+    "korean": "포식자 : <포식자> 활성화",
+    "english": "Predator : <Predator> Activation"
+  },
+  "1000107781": {
+    "korean": "포식자 : <포식자> (최대)",
+    "english": "Predator : <Predator> (Max)"
+  },
+  "1000107770": {
+    "korean": "먹잇감 탐색 (중장형)",
+    "english": "Prey Search (Heavy)"
+  },
+  "1000107771": {
+    "korean": "먹잇감 탐색 (경장형)",
+    "english": "Prey Search (Light)"
+  },
+  "1000107772": {
+    "korean": "먹잇감 탐색 (기동형)",
+    "english": "Prey Search (Air)"
+  },
+  "1000107774": {
+    "korean": "먹잇감 탐색",
+    "english": "Prey Search"
+  },
+  "1000107778": {
+    "korean": "먹잇감 탐색 (경장형)",
+    "english": "Prey Search (Light)"
+  },
+  "1000107777": {
+    "korean": "먹잇감 탐색 (중장형)",
+    "english": "Prey Search (Heavy)"
+  },
+  "1000107775": {
+    "korean": "먹잇감 탐색",
+    "english": "Prey Search"
+  },
+  "1000107779": {
+    "korean": "먹잇감 탐색 (기동형)",
+    "english": "Prey Search (Air)"
+  },
+  "1000107776": {
+    "korean": "먹잇감 독식 : 공격력{0}%",
+    "english": "Prey Monopolize : ATK {0}%"
+  },
+  "1000107783": {
+    "korean": "먹잇감 독식 : 적중{0}%",
+    "english": "Prey Monopolize : ACC {0}%"
+  },
+  "1000107788": {
+    "korean": "먹잇감 집중 : 도발 해제",
+    "english": "Prey Focus : Provokes Removal"
+  },
+  "1000107793": {
+    "korean": "원시의 본능 : 방어력{0}%",
+    "english": "Primitive instinct : DEF {0}%"
+  },
+  "1000107797": {
+    "korean": "원시의 본능 : 효과 저항{0}%",
+    "english": "Primitive instinct : Status Resist {0}%"
+  },
+  "1000107798": {
+    "korean": "원시의 본능 : 받는 피해 감소 {0}%",
+    "english": "Primitive instinct : DMG Reduction {0}%"
+  },
+  "1000107794": {
+    "korean": "원시의 본능 : 지정 보호 해제",
+    "english": "Primitive instinct : Target Protect Removal"
+  },
+  "1000107795": {
+    "korean": "원시의 본능 : 표식 지정",
+    "english": "Primitive instinct : Marks target"
+  },
+  "1000107784": {
+    "korean": "최후의 포효 : {0}%HP 전투 속행",
+    "english": "Final Roar : Battle Continuation with {0}% HP"
+  },
+  "1000107796": {
+    "korean": "원시의 본능 : 지정 보호 해제",
+    "english": "Primitive instinct : Target Protect Removal"
+  },
+  "1000107782": {
+    "korean": "최후의 포효 : 공격력 {0}% 고정 화염 피해",
+    "english": "Final Roar : ATK {0}% Fixed Fire DMG"
+  },
+  "1000107787": {
+    "korean": "폭군의 포효 : 스킬 사용 불가",
+    "english": "Tyrant's Roar : Silenced"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "1002700196": {
+    "korean": "약점 포착",
+    "english": "Weakness Detection"
+  },
+  "1002700197": {
+    "korean": "섬광 탄막",
+    "english": "Flashbang Barrage"
+  },
+  "1002700198": {
+    "korean": "레이더 공유",
+    "english": "Radar Sharing"
+  },
+  "1002700380": {
+    "korean": "명령 프로토콜",
+    "english": "Command Protocol"
+  },
+  "1002702993": {
+    "korean": "목표를 공격 대상으로 지정해 {0} 피해를 주고, 2라운드 동안 표식 상태로 만듭니다. 표식 상태인 대상인 추가 피해를 받으며, 회피가 감소합니다.",
+    "english": "Designates the target as an attack target, dealing {0} Additional DMG and applying Marked for 2 rounds. Marked targets take Additional DMG and have EVA reduced."
+  },
+  "1002702994": {
+    "korean": "지정한 위치에 섬광탄을 발사해 2라운드 동안 적중을 낮추고, 대상의 AP를 감소시킵니다.",
+    "english": "Fires a flashbang at the designated location, lowering ACC for 2 rounds and reducing the target's AP."
+  },
+  "1002702995": {
+    "korean": "피격 시, 일정 확률로 인접한 아군에게 경보를 울리며 전황을 공유합니다. 레이더를 공유 받은 경우, AP가 증가하며 2라운드 동안 사거리와 적중률이 증가합니다.",
+    "english": "When hit, has a chance to sound an alarm to adjacent allies and share battlefield information. If Radar Sharing is received, AP increases and Range and ACC are increased for 2 rounds."
+  },
+  "1002703129": {
+    "korean": "자신의 HP가 50% 이하 상태에서 피격된 경우, 주변 철충들에게 요격 명령을 내려 AP를 증가시킵니다.",
+    "english": "When hit while your HP is at 50% or lower, issue an interception command to nearby Iron Bugs, increasing your AP."
+  },
+  "1000102547": {
+    "korean": "받는 피해{0}%",
+    "english": "DMG Taken {0}%"
+  },
+  "1000102488": {
+    "korean": "회피 {0}%",
+    "english": "EVA {0}%"
+  },
+  "1000102604": {
+    "korean": "표식 설정",
+    "english": "Marks target"
+  },
+  "1000102585": {
+    "korean": "적중 {0}%",
+    "english": "ACC {0}%"
+  },
+  "1000102529": {
+    "korean": "AP {0}",
+    "english": "AP {0}"
+  },
+  "1000102586": {
+    "korean": "레이더 공유 : AP{0}",
+    "english": "Radar sharing : AP {0}"
+  },
+  "1000104241": {
+    "korean": "레이더 공유 : 적중{0}%",
+    "english": "Radar sharing : ACC {0}%"
+  },
+  "1000104954": {
+    "korean": "레이더 공유 : 사거리{0}",
+    "english": "Radar sharing : Range {0}"
+  },
+  "1000102703": {
+    "korean": "요격 명령 : AP{0}",
+    "english": "Intercept Command : AP {0}"
+  }
+}

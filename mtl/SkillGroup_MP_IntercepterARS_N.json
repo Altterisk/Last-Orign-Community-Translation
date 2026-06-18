@@ -1,0 +1,46 @@
+{
+  "SkillName_Skill_MP_IntercepterARS_N_1": {
+    "korean": "듀얼 벌칸",
+    "english": "Dual Vulcan"
+  },
+  "SkillName_Skill_MP_IntercepterARS_N_2": {
+    "korean": "합성개구레이더",
+    "english": "Synthetic Aperture Radar"
+  },
+  "SkillName_Skill_MP_IntercepterARS_N_3": {
+    "korean": "표적 관측",
+    "english": "Target Observation"
+  },
+  "SkillName_Skill_MP_IntercepterARS_N_4": {
+    "korean": "공중 급유",
+    "english": "Aerial Refuel"
+  },
+  "SkillDesc_Skill_MP_IntercepterARS_N_1": {
+    "korean": "대상에게 {0} 피해를 입힙니다.",
+    "english": "Deals {0} damage to the target."
+  },
+  "SkillDesc_Skill_MP_IntercepterARS_N_2": {
+    "korean": "스킬 사용 시, 2라운드 동안 범위 내 아군에게 광역 스킬 위력 감소 효과를 부여합니다.",
+    "english": "When using a skill, grant allies within range an Area Skill Power Reduction effect for 2 rounds."
+  },
+  "SkillDesc_Skill_MP_IntercepterARS_N_3": {
+    "korean": "라운드 개시 시, 후열에 배치된 적에게 표식을 부여합니다.",
+    "english": "At the start of the round, apply a Mark to enemies positioned in the back row."
+  },
+  "SkillDesc_Skill_MP_IntercepterARS_N_4": {
+    "korean": "전투 시작 시, 같은 열에 인접한 아군과 자신의 AP를 10으로 변경합니다.",
+    "english": "At the start of combat, change the AP of adjacent allies in the same column and yourself to 10."
+  },
+  "BuffDesc1_Effect_MP_IntercepterARS_N_4": {
+    "korean": "공중 급유 : AP{0}으로 변경",
+    "english": "Aerial Refuel : Change AP to {0}"
+  },
+  "BuffDesc1_Effect_MP_IntercepterARS_N_2": {
+    "korean": "합성개구레이더 : 광역 스킬 위력 {0}%",
+    "english": "Synthetic Aperture Radar : Area Skill Power {0}%"
+  },
+  "BuffDesc1_Effect_MP_IntercepterARS_N_3": {
+    "korean": "표적 관측 : 표식",
+    "english": "Target observation : Marked"
+  }
+}

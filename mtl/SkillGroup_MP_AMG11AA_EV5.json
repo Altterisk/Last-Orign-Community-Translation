@@ -1,0 +1,46 @@
+{
+  "1002702032": {
+    "korean": "공격 개시",
+    "english": "Attack Initiated"
+  },
+  "1002702033": {
+    "korean": "시스템 과부하",
+    "english": "System Overload"
+  },
+  "1002704291": {
+    "korean": "기총 사격으로 {0} 피해를 줍니다. 대상이 표식 상태면 피해량이 증가하고, 회피를 감소시킵니다.",
+    "english": "Deals {0} damage with machine gun fire. If the target is Marked, damage is increased and EVA is reduced."
+  },
+  "1002704292": {
+    "korean": "기총을 난사해 {0} 피해를 줍니다. 대상이 회피 감소 상태면 피해량이 증가하며, 강화 효과를 해제합니다.",
+    "english": "Fires a barrage of machine guns dealing {0} damage. If the target has reduced EVA, damage is increased and buffs are removed."
+  },
+  "1002704293": {
+    "korean": "라운드 개시 시, 인접 아군에게 적중 / 치명타 / 대 기동형 피해량 증가 효과를 부여합니다.",
+    "english": "At the start of the round, grant adjacent allies Hit / CRIT / Anti-Air DMG increase."
+  },
+  "1002704294": {
+    "korean": "파괴되면 주변 아군에게 걸려있는 강화 효과를 해제합니다. 슈퍼 네리(?)의 재촉으로 인한 공격력 증가 효과가 3 중첩 이상인 경우, 라운드 개시 시 방어막 / 피해 감소 무시 효과가 부여됩니다.",
+    "english": "When destroyed, it removes buffs from nearby allies. If the ATK increase effect from Super Neri's Hurry has 3 or more stacks, at the start of the round it grants Barrier / DMG Reduction ignore effect."
+  },
+  "1000103662": {
+    "korean": "표적 사격 : 피해량{0}%",
+    "english": "Target Shooting : Additional DMG {0}%"
+  },
+  "1000104716": {
+    "korean": "표적 사격 : 회피 {0}%",
+    "english": "Target Shooting : EVA {0}%"
+  },
+  "1000104717": {
+    "korean": "집중 사격 : 강화 해제",
+    "english": "Concentrated Fire : Buff Removal"
+  },
+  "1000103663": {
+    "korean": "마개조 부작용 : 강화 효과 해제",
+    "english": "Modification Side Effects : Buff Removal"
+  },
+  "1000101753": {
+    "korean": "시스템 과부하 : 방어막 / 피해 감소 무시",
+    "english": "System overload : Ignore Barrier / DMG Reduction"
+  }
+}

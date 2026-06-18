@@ -1,0 +1,182 @@
+{
+  "SkillName_Skill_BR_Miho_N_1": {
+    "korean": "바보 아냐?",
+    "english": "Are you an idiot?"
+  },
+  "SkillDesc_Skill_BR_Miho_N_1": {
+    "korean": "저격으로 {0} 피해를 줍니다. &n적중 대상이 도발 또는 표식 상태인 경우, 피해량이 증가합니다.&n스쿼드 내 <T-60 불가사리>가 있을 경우, [배터링 램] / [벙커 버스터] 스킬 협동 공격을 유도합니다.",
+    "english": "Deals {0} damage with a sniper shot.\nIf the target is Provoked or Marked, damage is increased.\nIf <T-60 Bulgasari> is in the squad, triggers a cooperative attack with [Battering Ram] / [Bunker Buster]."
+  },
+  "SkillDescSimple_Skill_BR_Miho_N_1": {
+    "korean": "단일 대상 {0} 피해. 도발 / 표식 대상 피해량 증가. [배터링 램] / [벙커 버스터] 협동 공격.",
+    "english": "Deals {0} damage to a single target.\nDamage increases against Provoked or Marked targets.\nTriggers a cooperative attack with [Battering Ram] / [Bunker Buster]."
+  },
+  "BuffDesc1_Effect_BR_Miho_N_1": {
+    "korean": "빈틈 포착 : 피해량 {0}%",
+    "english": "Exploit Opening: Additional DMG {0}%"
+  },
+  "BuffDesc2_Effect_BR_Miho_N_1": {
+    "korean": "[배터링 램] / [벙커 버스터] 협동 공격",
+    "english": "[Battering Ram] / [Bunker Buster] cooperative attack"
+  },
+  "BuffDesc1_Effect_BR_Miho_N_11": {
+    "korean": "바보 아냐? : [배터링 램] / [벙커 버스터] 협동 공격",
+    "english": "Are you an idiot? : [Battering Ram] / [Bunker Buster] cooperative attack"
+  },
+  "SkillName_Skill_BR_Miho_N_2": {
+    "korean": "마무리 저격",
+    "english": "Finishing Shot"
+  },
+  "SkillDesc_Skill_BR_Miho_N_2": {
+    "korean": "심기일전 저격으로 {0} 보호 무시 피해를 줍니다. 대상의 HP가 낮을수록 피해량이 증가합니다.&n적중 대상이 받는 피해 증가 상태인 경우, 피해량이 증가합니다.&n적중 시 스쿼드 내 <C-77 홍련>이 있을 경우, 자신의 방어 관통이 증가합니다.",
+    "english": "Fires a focused sniper shot that deals {0} Ignore Protection damage.\nDamage increases as the target's HP decreases.\nIf the target is under DMG Taken Increased, damage is increased.\nOn hit, if <C-77 HongRyeon> is in the squad, increases own DEF Penetration."
+  },
+  "SkillDescSimple_Skill_BR_Miho_N_2": {
+    "korean": "단일 대상 보호 무시 {0} 피해. 조건부 피해량 증가 / 방어 관통 증가.",
+    "english": "Deals {0} Ignore Protection damage to a single target.\nConditionally increases damage dealt / DEF Penetration."
+  },
+  "BuffDesc1_Effect_BR_Miho_N_2": {
+    "korean": "마무리 저격 : 대상 HP 반비례 피해량 {0}%",
+    "english": "Finishing Shot : Target HP proportional damage {0}%"
+  },
+  "BuffDesc2_Effect_BR_Miho_N_2": {
+    "korean": "마무리 저격 : 피해량 {0}%",
+    "english": "Finishing Shot : Additional DMG {0}%"
+  },
+  "BuffDesc3_Effect_BR_Miho_N_2": {
+    "korean": "심기일전 : 방어 관통 {0}% (C-77 홍련)",
+    "english": "Determined Resolve: DEF Penetration {0}% (C-77 Hongryeon)"
+  },
+  "BuffDesc1_Effect_BR_Miho_N_21": {
+    "korean": "마무리 저격 : 피해량 {0}%",
+    "english": "Finishing Shot : Additional DMG {0}%"
+  },
+  "BuffDesc1_Effect_BR_Miho_N_22": {
+    "korean": "심기일전 : 방어 관통 {0}%",
+    "english": "Determined Resolve: DEF Penetration {0}%"
+  },
+  "SkillName_Skill_BR_Miho_N_3": {
+    "korean": "전위 지원",
+    "english": "Vanguard Support"
+  },
+  "SkillDesc_Skill_BR_Miho_N_3": {
+    "korean": "전투 개시 시, 중열/전열에 위치한 아군 보호기의 AP를 증가시킵니다. &n라운드 개시 시, 상기 효과 대상 아군 보호기의 공격을 지원합니다.&n라운드 개시 시, 자신의 공격력 / 적중이 증가합니다.",
+    "english": "At the start of battle, increases the AP of allied Defenders positioned in the middle or front row.\nAt the start of each round, supports the attacks of those Defenders affected by the above effect.\nAt the start of each round, increases own ATK and ACC."
+  },
+  "SkillDescSimple_Skill_BR_Miho_N_3": {
+    "korean": "중열/전열 아군 보호기 AP 증가 / 공격 지원. 자신 공격력 / 적중 증가.",
+    "english": "Increases AP and supports the attacks of allied Defenders in the middle/front row.\nIncreases own ATK and ACC."
+  },
+  "BuffDesc1_Effect_BR_Miho_N_3": {
+    "korean": "전위 지원 : AP {0} (보호기)",
+    "english": "Vanguard Support : AP {0} (Defender)"
+  },
+  "BuffDesc2_Effect_BR_Miho_N_3": {
+    "korean": "전위 지원 : 공격 지원 (보호기)",
+    "english": "Vanguard Support : Follow-Up Attack (Defender)"
+  },
+  "BuffDesc3_Effect_BR_Miho_N_3": {
+    "korean": "언더커버 : 공격력 {0}%",
+    "english": "Undercover : ATK {0}%"
+  },
+  "BuffDesc4_Effect_BR_Miho_N_3": {
+    "korean": "언더커버 : 적중 {0}%",
+    "english": "Undercover : ACC {0}%"
+  },
+  "BuffDesc1_Effect_BR_Miho_N_34": {
+    "korean": "전위 지원 : 공격 지원 (보호기)",
+    "english": "Vanguard Support : Follow-Up Attack (Defender)"
+  },
+  "BuffDesc1_Effect_BR_Miho_N_38": {
+    "korean": "언더커버 : 공격력 {0}%",
+    "english": "Undercover : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Miho_N_38": {
+    "korean": "언더커버 : 적중 {0}%",
+    "english": "Undercover : ACC {0}%"
+  },
+  "SkillName_Skill_BR_Miho_N_4": {
+    "korean": "머리 숙여!",
+    "english": "Heads Down!"
+  },
+  "SkillDesc_Skill_BR_Miho_N_4": {
+    "korean": "라운드 개시 시, <전위 지원>의 효과 대상 보호기에게 방어력 / 회피 / 행동력 증가 효과를 부여합니다.&n라운드 개시 시, 아군 보호기 1기 당 자신의 스킬 위력이 증가합니다.",
+    "english": "At the start of the round, grants DEF, EVA and SPD Up to Defenders affected by <Vanguard Support>.\nAt the start of the round, increases own Skill Power for each allied Defender."
+  },
+  "SkillDescSimple_Skill_BR_Miho_N_4": {
+    "korean": "<전위 지원> 효과 대상 방어력 / 회피 / 행동력 증가. 조건부 자신 스킬 위력 증가.",
+    "english": "Increases DEF, EVA and SPD of <Vanguard Support> targets. Conditionally increases own Skill Power."
+  },
+  "BuffDesc1_Effect_BR_Miho_N_4": {
+    "korean": "머리 숙여! : 방어력 {0}% (보호기)",
+    "english": "Heads Down! : DEF {0}% (Defender)"
+  },
+  "BuffDesc2_Effect_BR_Miho_N_4": {
+    "korean": "머리 숙여! : 회피 {0}% (보호기)",
+    "english": "Bow Your Head! : EVA {0}% (Defender)"
+  },
+  "BuffDesc3_Effect_BR_Miho_N_4": {
+    "korean": "머리 숙여! : 행동력 {0}% (보호기)",
+    "english": "Heads Down! : SPD {0}% (Defender)"
+  },
+  "BuffDesc4_Effect_BR_Miho_N_4": {
+    "korean": "머리 위로 쏘기 : 스킬 위력 {0}% (보호기 1기 당)",
+    "english": "Shoot Above : Skill Power {0}% (per Defender)"
+  },
+  "BuffDesc1_Effect_BR_Miho_N_41": {
+    "korean": "머리 위로 쏘기 : 스킬 위력 {0}% (불가사리)",
+    "english": "Fire Overhead : Skill Power {0}% (Bulgasari)"
+  },
+  "BuffDesc1_Effect_BR_Miho_N_42": {
+    "korean": "머리 위로 쏘기 : 스킬 위력 {0}%",
+    "english": "Shoot Overhead: Skill Power {0}%"
+  },
+  "SkillName_Skill_BR_Miho_N_5": {
+    "korean": "폭스트롯 스나이퍼",
+    "english": "Foxtrot Sniper"
+  },
+  "SkillDesc_Skill_BR_Miho_N_5": {
+    "korean": "라운드 개시 시, 2라운드 동안 <전위 지원>의 효과 대상 및 자신의 공격력 / 적중 / 행동력이 증가합니다.&n<전위 지원>의 효과 대상 보호기에게는 추가로 행 보호 / 반격 효과를 부여합니다.&n라운드 개시 시, <몽구스 팀> 소속 전투원의 공격을 지원하며, <마무리 저격>의 대상 HP 반비례 피해량 증가 효과를 획득합니다.",
+    "english": "At the start of the round, increases ATK, ACC and SPD of both yourself and the targets of <Vanguard Support> for 2 rounds.\nAdditionally, grants Row Protect and Counter Attack to Defenders affected by <Vanguard Support>.\nAt the start of the round, supports the attacks of <Mongoose Team> members and gains the HP‑inverse damage increase effect for <Finishing Shot>."
+  },
+  "SkillDescSimple_Skill_BR_Miho_N_5": {
+    "korean": "<전위 지원> 효과 대상 공격력 / 적중 / 행동력 증가 / 행 보호 / 반격. <몽구스 팀> 공격 지원.",
+    "english": "Increases ATK, ACC and SPD of <Vanguard Support> targets, and grants them Row Protect and Counter Attack.\nSupports the attacks of <Mongoose Team> members."
+  },
+  "BuffDesc1_Effect_BR_Miho_N_5": {
+    "korean": "폭스트롯 스나이퍼 : 공격력 {0}%",
+    "english": "Foxtrot Sniper : ATK {0}%"
+  },
+  "BuffDesc2_Effect_BR_Miho_N_5": {
+    "korean": "폭스트롯 스나이퍼 : 적중 {0}%",
+    "english": "Foxtrot Sniper : ACC {0}%"
+  },
+  "BuffDesc3_Effect_BR_Miho_N_5": {
+    "korean": "폭스트롯 스나이퍼 : 행동력 {0}%",
+    "english": "Foxtrot Sniper : SPD {0}%"
+  },
+  "BuffDesc4_Effect_BR_Miho_N_5": {
+    "korean": "폭스트롯 스나이퍼 : {0}% 위력으로 반격",
+    "english": "Foxtrot Sniper : Counter Attack with {0}% Power"
+  },
+  "BuffDesc5_Effect_BR_Miho_N_5": {
+    "korean": "비장의 한 발 : 대상 HP 반비례 피해량 {0}%",
+    "english": "Ace Shot : Target HP proportional damage {0}%"
+  },
+  "BuffDesc1_Effect_BR_Miho_N_51": {
+    "korean": "폭스트롯 스나이퍼 : 행 보호",
+    "english": "Foxtrot Sniper : Row Protect"
+  },
+  "BuffDesc2_Effect_BR_Miho_N_51": {
+    "korean": "폭스트롯 스나이퍼 : {0}% 위력으로 반격",
+    "english": "Foxtrot Sniper : Counter Attack with {0}% Power"
+  },
+  "BuffDesc1_Effect_BR_Miho_N_52": {
+    "korean": "오퍼레이션 몽구스 : 공격 지원",
+    "english": "Operation Mongoose : Follow-Up Attack"
+  },
+  "BuffDesc1_Effect_BR_Miho_N_53": {
+    "korean": "비장의 한 발 : 대상 HP 반비례 피해량 {0}%",
+    "english": "Trump Card : DMG {0}% (Proportional to Target HP)"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "1002705660": {
+    "korean": "본능",
+    "english": "Instinct"
+  },
+  "1002706347": {
+    "korean": "지정 범위에 {0} 보호 무시 피해를 줍니다. 처형자 효과들이 10 중첩 이상이면 추가 화염 피해를 주며, 대상에게 걸려있는 강화 효과를 해제합니다. 처형자 중첩을 10 소모합니다.",
+    "english": "Deals {0} Ignore Protection damage to the designated area.&nIf Executioner effects are stacked 10 or more times, deals additional fire damage and removes buffs on the target.&nConsumes 10 Executioner stacks."
+  },
+  "1002706348": {
+    "korean": "피격 시, 공격력 / 행동력이 영구적으로 증가합니다. 자신이 <공격 연계> 효과를 받는 상태면 공격 대상의 방어막과 피해 감소 효과를 무시하고 <공격 차단> 효과를 받는 상태면 적중이 증가합니다.",
+    "english": "When hit, permanently increases ATK / SPD.&nIf self is under the <Attack Link> effect, ignores the target's Barrier and DMG Reduction effects.&nIf self is under the <Attack Block> effect, increases ACC."
+  },
+  "1002706349": {
+    "korean": "모든 피해를 최소 피해만 받습니다. 처형자 효과들이 10 중첩 이상인 상태로 피격 시, 오버플로우로 인한 고정 물리 피해를 받으며 모든 강화 효과가 해제됩니다.",
+    "english": "Minimize Damage from all attacks.&nWhen hit while Executioner effects are stacked 10 or more times, takes Fixed Physical DMG from overflow and all buffs are removed."
+  },
+  "1002706350": {
+    "korean": "라운드 개시 시, 저항 본능이 발동하여 효과 저항이 증가하고 모든 해로운 효과를 해제합니다. 아군이 사망 시, 파괴 본능에 빠져 해당 라운드에는 행동 불가 상태가 되며 3라운드 동안 방어 관통력 / 공격력이 대폭 증가합니다. 파괴 본능이 적용돼 있는 동안, 저항 본능이 사라집니다.",
+    "english": "At the start of the round, Resistance Instinct activates, increasing Status Resist and removing all harmful effects.&nWhen an ally dies, falls into Destruction Instinct, becoming Stunned for that round and greatly increasing DEF Penetration / ATK for 3 rounds.&nWhile Destruction Instinct is active, Resistance Instinct disappears."
+  },
+  "1000103167": {
+    "korean": "대폭발 : 추가 화염 피해{0}%",
+    "english": "Explosion: Additional fire damage {0}%"
+  },
+  "1000103172": {
+    "korean": "오버플로우 : {0}% 물리 피해",
+    "english": "Overflow: {0}% Physical DMG"
+  },
+  "1000106978": {
+    "korean": "저항 본능 해제",
+    "english": "Resistance Instinct Removal"
+  },
+  "1000103173": {
+    "korean": "본체 파괴 : {0}% 물리 피해",
+    "english": "Main Body Destruction: {0}% Physical DMG"
+  },
+  "1000106861": {
+    "korean": "처형자 : 행동력{0}%",
+    "english": "Executioner : SPD {0}%"
+  },
+  "1000106727": {
+    "korean": "처형자 : 적중{0}%",
+    "english": "Executioner : ACC {0}%"
+  },
+  "1000106862": {
+    "korean": "파괴 본능 : 방어 관통 {0}%",
+    "english": "Destructive Instinct : DEF Penetration {0}%"
+  },
+  "1000106941": {
+    "korean": "파괴 본능 : 공격력 {0}%",
+    "english": "Destructive Instinct : ATK {0}%"
+  },
+  "1000106726": {
+    "korean": "저항 본능 : 효과 저항{0}%",
+    "english": "Resist Instinct : Status Resist {0}%"
+  },
+  "1000106863": {
+    "korean": "저항 본능 : 해로운 효과 해제",
+    "english": "Resist Instinct : Debuff Removal"
+  }
+}

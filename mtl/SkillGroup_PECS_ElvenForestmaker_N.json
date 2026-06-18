@@ -1,0 +1,118 @@
+{
+  "1002701446": {
+    "korean": "초고압 분사",
+    "english": "High-Pressure Spray"
+  },
+  "1002701447": {
+    "korean": "묘목 심기",
+    "english": "Plant Sapling"
+  },
+  "1002701448": {
+    "korean": "수풀 매복",
+    "english": "Thicket Ambush"
+  },
+  "1002705826": {
+    "korean": "숲의 교감",
+    "english": "Forest Communion"
+  },
+  "SkillName_Skill_PECS_ElvenForestmaker_N_5": {
+    "korean": "자연의 포용",
+    "english": "Nature's Embrace"
+  },
+  "1002704101": {
+    "korean": "지정 범위에 물대포를 발사해 {0} 냉기 피해를 주고, 2라운드 동안 대상을 침수 상태로 만듭니다.",
+    "english": "Fire a water cannon at the designated area to deal {0} cold damage and apply Soaked for 2 rounds."
+  },
+  "1002703367": {
+    "korean": "지정 범위 {0} 냉기 피해. 침수 효과",
+    "english": "Designated area {0} cold damage. Soaked effect."
+  },
+  "1002704102": {
+    "korean": "지정 대상에게 묘목을 심어 {0} 피해를 주고, 화염 저항을 낮춥니다. 대상이 방어력 감소 상태면 받는 피해가 증가하는 상태로 만들며, 일정 확률로 행동 불가 상태가 됩니다.",
+    "english": "Plant a sapling on the designated target to deal {0} damage and lower Fire Resist. If the target is under a DEF reduction state, it gains DMG Taken Increased and has a chance to become Stunned."
+  },
+  "1002703368": {
+    "korean": "지정 대상 {0} 피해. 화염 저항 감소. 방어 감소 대상 피해 증폭 / 확률 행동 불가",
+    "english": "Designated target {0} damage. Fire Resist reduction. DEF reduction target damage amplification / chance to become Stunned"
+  },
+  "1002704103": {
+    "korean": "라운드 개시 시, 자신과 같은 행의 뒤에 배치된 아군의 공격력 / 치명타를 증가시키며 받는 피해를 감소시킵니다.",
+    "english": "At the start of the round, increase the ATK / CRIT of allied units positioned behind you in the same row, and reduce DMG Taken."
+  },
+  "1002703369": {
+    "korean": "범위 내 아군 공격력 / 치명타 증가 / 받는 피해 감소.",
+    "english": "Within range, allied ATK / CRIT increase / DMG Reduction."
+  },
+  "1002706367": {
+    "korean": "라운드 개시 시, 자신의 행동력을 증가시키며, 다크엘븐의 패시브 효과를 받는 대상과 <엘븐형 바이오로이드>의 공격력 / 치명타를 증가시키고 받는 피해를 감소시킵니다.",
+    "english": "At the start of the round, increase your SPD, and increase the ATK / CRIT and reduce DMG Taken of targets affected by the Dark Elven passive effect and <Elven-type Bioroid>."
+  },
+  "1002706610": {
+    "korean": "자신 행동력 증가 / 범위 내 아군 공격력 / 치명타 증가 / 받는 피해 감소",
+    "english": "Increase own SPD / increase ATK / CRIT of allies within range / reduce DMG Taken"
+  },
+  "SkillDesc_Skill_PECS_ElvenForestmaker_N_5": {
+    "korean": "라운드 개시 시, 강화 해제 저항 100% 효과를 얻습니다. 스킬 사용 시, 행동력 증가 효과를 받지 않는 모든 적의 받는 피해를 2라운드 동안 증가시킵니다.",
+    "english": "At the start of the round, gain 100% resistance to buff removal. When using a skill, increase the DMG Taken of all enemies who do not receive SPD increase effects for 2 rounds."
+  },
+  "SkillDescSimple_Skill_PECS_ElvenForestmaker_N_5": {
+    "korean": "강화 해제 저항 증가 / 적 대상 받는 피해 증가",
+    "english": "Buff removal resistance increase / increased DMG Taken by enemy targets"
+  },
+  "1000103260": {
+    "korean": "묘목 심기 : 받는 피해{0}%",
+    "english": "Plant Sapling : DMG Taken {0}%"
+  },
+  "1000104551": {
+    "korean": "묘목 심기 : 화염 저항 {0}%",
+    "english": "Plant Sapling : Fire Resist {0}%"
+  },
+  "1000104553": {
+    "korean": "묘목 심기 : 행동 불가",
+    "english": "Plant Sapling : Stunned"
+  },
+  "1000103261": {
+    "korean": "수풀 매복 : 공격력{0}%",
+    "english": "Ambush in thicket : ATK {0}%"
+  },
+  "1000104552": {
+    "korean": "수풀 매복 : 치명타{0}%",
+    "english": "Ambush in thicket : CRIT {0}%"
+  },
+  "1000105099": {
+    "korean": "수풀 매복 : 받는 피해 감소 {0}%",
+    "english": "Ambush in thicket : DMG Reduction {0}%"
+  },
+  "1000107070": {
+    "korean": "숲의 교감 : 행동력{0}%",
+    "english": "Forest Communion : SPD {0}%"
+  },
+  "1000107067": {
+    "korean": "숲의 교감 : 공격력{0}%",
+    "english": "Forest Communion : ATK {0}%"
+  },
+  "1000107069": {
+    "korean": "숲의 교감 : 치명타{0}%",
+    "english": "Forest Communion : CRIT {0}%"
+  },
+  "1000107068": {
+    "korean": "숲의 교감 : 받는 피해 감소 {0}%",
+    "english": "Forest Communion : DMG Reduction {0}%"
+  },
+  "BuffDesc1_Effect_PECS_ElvenForestmaker_N_5": {
+    "korean": "자연의 포용 : 받는 피해{0}%",
+    "english": "Embrace of Nature : DMG Taken {0}%"
+  },
+  "BuffDesc2_Effect_PECS_ElvenForestmaker_N_5": {
+    "korean": "자연의 포용 : 강화 해제 저항{0}%",
+    "english": "Embrace of Nature : Buff Removal Resist {0}%"
+  },
+  "BuffDesc1_Effect_PECS_ElvenForestmaker_N_51": {
+    "korean": "자연의 포용 : 받는 피해{0}%",
+    "english": "Embrace of Nature : DMG Taken {0}%"
+  },
+  "BuffDesc1_Effect_PECS_ElvenForestmaker_N_52": {
+    "korean": "자연의 포용 : 강화 해제 저항{0}%",
+    "english": "Embrace of Nature : Buff Removal Resist {0}%"
+  }
+}
