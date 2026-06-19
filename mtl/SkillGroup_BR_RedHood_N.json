@@ -5,11 +5,11 @@
   },
   "SkillDesc_Skill_BR_RedHood_N_1": {
     "korean": "대상에게 {0} 피해를 주고, 2라운드 동안 대상의 공격력 / 치명타를 낮춥니다. 방어력 / 회피 감소 대상에게 피해량이 증가합니다.&n스쿼드 내에 <M-5 이프리트>가 있을 시, 지정 타겟 대상으로 <곡사 포격> 스킬 협동 공격을 합니다.",
-    "english": "Deals {0} damage to the target and reduces the target's ATK / CRIT for 2 rounds.&nIncreases damage dealt to targets with reduced DEF / EVA.&nIf a <M-5 Efreet> is in the squad, performs a coordinated attack with the <Arcing Barrage> skill on the designated target."
+    "english": "Deals {0} damage to the target and reduces the target's ATK / CRIT for 2 rounds.&nIncreases damage dealt to targets with reduced DEF / EVA.&nIf a <M-5 Efreet> is in the squad, performs a Cooperative Attack with the <Arcing Barrage> skill on the designated target."
   },
   "SkillDescSimple_Skill_BR_RedHood_N_1": {
     "korean": "단일 대상 {0} 피해. 공격력 / 치명타 감소. 방어력 / 회피 감소 대상 피해량 증가. [곡사 포격] 협동 공격.",
-    "english": "Single target {0} damage. Reduces ATK / CRIT.&nIncreases damage dealt to targets with reduced DEF / EVA.&nCoordinated attack with [Arcing Barrage]."
+    "english": "Single target {0} damage. Reduces ATK / CRIT.&nIncreases damage dealt to targets with reduced DEF / EVA.&nCooperative Attack with [Arcing Barrage]."
   },
   "BuffDesc1_Effect_BR_RedHood_N_1": {
     "korean": "4연장 기관포 : 공격력 {0}%",
@@ -189,7 +189,7 @@
   },
   "SkillDesc_Skill_BR_RedHood_N_5": {
     "korean": "전투 개시 시, 영구적으로 아군 전체의 공격력을 증가시킵니다. 해당 효과는 스쿼드 내 전투원 수에 따라 증폭됩니다. 자신은 효과가 2배로 적용됩니다.&n자신이 생존한 동안 전투 불능으로 인해 전투 개시 시점보다 아군 인원 수가 줄어들 때마다, 라운드 개시 시 아군 전체에게 다음 일반 효과를 부여합니다.&n1인 감소 : 행동력 증가 / 2인 감소 : 받는 피해 감소 / 3인 감소 : 반격 / 4인 감소 : 매 라운드 1회 전투 속행",
-    "english": "At the start of battle, permanently increases ATK for all allies. The effect scales with the number of units in the squad, and the user receives double the effect.&nAs long as the user remains alive, whenever the number of allies drops below the starting count due to incapacitation, the following general effects are granted to all allies at the start of each round:&n1 ally: Increases SPD / 2 allies: Reduces DMG Taken / 3 allies: Grants Counter Attack / 4 allies: Grants one Continue Battle per round."
+    "english": "At the start of battle, permanently increases ATK for all allies. The effect scales with the number of units in the squad, and the user receives double the effect.&nAs long as the user remains alive, whenever the number of allies drops below the starting count due to incapacitation, the following general effects are granted to all allies at the start of each round:&n1 ally: Increases SPD / 2 allies: Reduces DMG Taken / 3 allies: Grants Counter Attack / 4 allies: Grants one Battle Continuation per round."
   },
   "SkillDescSimple_Skill_BR_RedHood_N_5": {
     "korean": "아군 공격력 증가. 아군 전투 불능 시 추가 효과 부여.",
@@ -213,7 +213,7 @@
   },
   "BuffDesc5_Effect_BR_RedHood_N_5": {
     "korean": "{0} HP로 전투 속행 (4인 감소)",
-    "english": "Continue Battle : {0} HP (4 unit decrease)"
+    "english": "Battle Continuation : {0} HP (4 unit decrease)"
   },
   "BuffDesc1_Effect_BR_RedHood_N_51": {
     "korean": "최후의 한 명까지 : 공격력 {0}% (2인)",

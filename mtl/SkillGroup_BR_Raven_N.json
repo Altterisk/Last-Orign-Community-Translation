@@ -5,11 +5,11 @@
   },
   "SkillDesc_Skill_BR_Raven_N_1": {
     "korean": "디스크 봄으로 {0} 보호 무시 피해를 주고, 대상의 방어력을 감소시킵니다.&n적중 대상이 경장/중장형인 경우, 대상의 방어력 강화 효과를 해제합니다.&n치명타 시, 대상의 보호 효과를 해제합니다.",
-    "english": "Deals {0} shield-piercing damage with Disk Bomb and reduces the target’s DEF. If the target is Light or Heavy-type, removes their DEF-enhancing effects. On a Critical Hit, removes the target’s shield effects."
+    "english": "Deals {0} Ignore Protection damage with Disk Bomb and reduces the target’s DEF. If the target is Light or Heavy-type, removes their DEF-enhancing effects. On a Critical Hit, removes the target’s shield effects."
   },
   "SkillDescSimple_Skill_BR_Raven_N_1": {
     "korean": "지정 대상 {0} 보호 무시 피해. 경장 / 중장 방어력 강화 해제. 치명타 시, 보호 효과 해제.",
-    "english": "Deals {0} shield-piercing damage to the target. Removes DEF buffs from Light and Heavy-type units. On Critical Hit, removes shield effects."
+    "english": "Deals {0} Ignore Protection damage to the target. Removes DEF buffs from Light and Heavy-type units. On Critical Hit, removes shield effects."
   },
   "BuffDesc1_Effect_BR_Raven_N_1": {
     "korean": "디스크 봄 : 방어력 {0}%",
@@ -65,11 +65,11 @@
   },
   "SkillDesc_Skill_BR_Raven_N_2": {
     "korean": "대상에게 {0} 보호 무시 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 상태로 만듭니다. &n치명타 시, 회피 강화 / 피해 감소 효과를 해제합니다. &n스킬 레벨 당 +30%의 적중 보정이 적용됩니다.",
-    "english": "Deals {0} shield-piercing damage to the target and inflicts Marked and DMG Taken Increased for 2 rounds. On a Critical Hit, removes EVA Up and DMG Reduction effects. Grants +30% ACC per skill level."
+    "english": "Deals {0} Ignore Protection damage to the target and inflicts Marked and DMG Taken Increased for 2 rounds. On a Critical Hit, removes EVA Up and DMG Reduction effects. Grants +30% ACC per skill level."
   },
   "SkillDescSimple_Skill_BR_Raven_N_2": {
     "korean": "지정 대상 {0} 보호 무시 피해. 표식 / 받는 피해 증가. 치명타 시, 회피 강화 / 받는 피해 감소 효과 해제.",
-    "english": "Deals {0} shield-piercing damage to the target. Inflicts Marked and DMG Taken Increased. On Critical Hit, removes EVA Up and DMG Reduction effects."
+    "english": "Deals {0} Ignore Protection damage to the target. Inflicts Marked and DMG Taken Increased. On Critical Hit, removes EVA Up and DMG Reduction effects."
   },
   "BuffDesc1_Effect_BR_Raven_N_2": {
     "korean": "표적 스캔 : 표식 지정",
@@ -193,11 +193,11 @@
   },
   "SkillDesc_Skill_BR_Raven_N_5": {
     "korean": "라운드 개시 시, 자신의 행동력 / 회피가 증가합니다.&n<디스크 봄> / <표적 스캔>의 부가 효과 발동 조건을 '치명타 시'에서 '적중 시'로 완화합니다.&n전투 개시 시, <AA 캐노니어> 소속 공격기에게 1라운드 동안 보호 무시 일반 효과를 부여합니다. 해당 효과는 적 보호기 수만큼 지속 라운드가 증가합니다.",
-    "english": "At the start of the round, increases the user’s SPD and EVA. Lowers the activation condition of Disk Bomb and Target Scan bonus effects from “on Critical Hit” to “on Hit”. At battle start, grants shield-piercing (Normal Effect) to allied Attackers of the AA Cannoneer unit for 1 round. This effect’s duration increases by 1 round for each enemy Defender present."
+    "english": "At the start of the round, increases the user’s SPD and EVA. Lowers the activation condition of Disk Bomb and Target Scan bonus effects from “on Critical Hit” to “on Hit”. At battle start, grants Ignore Protection (Normal Effect) to allied Attackers of the AA Cannoneer unit for 1 round. This effect’s duration increases by 1 round for each enemy Defender present."
   },
   "SkillDescSimple_Skill_BR_Raven_N_5": {
     "korean": "자신 행동력 / 회피 증가. 스킬 효과 발동 조건 완화. <AA 캐노니어> 보호 무시 활성화.",
-    "english": "Increases user’s SPD and EVA. Loosens skill activation conditions to on hit. Grants shield-piercing to AA Cannoneer Attackers."
+    "english": "Increases user’s SPD and EVA. Loosens skill activation conditions to on hit. Grants Ignore Protection to AA Cannoneer Attackers."
   },
   "BuffDesc1_Effect_BR_Raven_N_5": {
     "korean": "Point Woman : 행동력 {0}%",

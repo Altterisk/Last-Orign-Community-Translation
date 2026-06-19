@@ -9,7 +9,7 @@
   },
   "1002703562": {
     "korean": "지정 대상 {0} 피해. 도발 / 방어력 / 회피 감소. 치명타 시, 피해량 증가",
-    "english": "Deals {0} damage to the designated target. Taunts / reduces DEF / reduces EVA. Damage increases on critical hit."
+    "english": "Deals {0} damage to the designated target. Provokes / reduces DEF / reduces EVA. Damage increases on critical hit."
   },
   "1000103831": {
     "korean": "덤벼랏! : 대상 도발 (펜리르)",
@@ -53,11 +53,11 @@
   },
   "1002704364": {
     "korean": "전투 개시 시, 열 보호와 해제 불가한 전투 속행 효과가 활성화되며, 자신이 적 처치 시 AP가 증가합니다.",
-    "english": "At the start of combat, fire protection and an unremovable continue combat effect are activated, and AP increases when you kill an enemy."
+    "english": "At the start of combat, fire protection and an unremovable Battle Continuation effect are activated, and AP increases when you kill an enemy."
   },
   "1002703564": {
     "korean": "열 보호 / 전투 속행. 적 처치 시, AP 증가",
-    "english": "Fire protection / Continue combat. AP increases upon enemy kill"
+    "english": "Fire protection / Battle Continuation. AP increases upon enemy kill"
   },
   "1000102094": {
     "korean": "영역 순찰 : 열 보호",
@@ -117,11 +117,11 @@
   },
   "1002704366": {
     "korean": "피격 시, AP가 증가하며 반격합니다. 전투 속행 발동 시, 회피가 증가하며 방어막 / 피해 감소 효과를 무시하지만 열 보호가 해제됩니다.",
-    "english": "When hit, AP increases and counterattacks. When continuing combat activates, evasion increases and ignores shield / damage reduction effects, but fire protection is removed."
+    "english": "When hit, AP increases and counterattacks. When Battle Continuation activates, evasion increases and ignores shield / damage reduction effects, but fire protection is removed."
   },
   "1002703566": {
     "korean": "피격 시, AP 증가 / 반격. 전투 속행 시, 방어막 / 피해 감소 무시 / 회피 증가",
-    "english": "AP increases when hit / Counterattack. While continuing combat, shield / Ignores damage reduction / EVA increases"
+    "english": "AP increases when hit / Counterattack. While Battle Continuation, shield / Ignores damage reduction / EVA increases"
   },
   "1000103833": {
     "korean": "물어버린다? : AP{0}",

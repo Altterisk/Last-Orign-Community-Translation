@@ -53,11 +53,11 @@
   },
   "SkillDesc_Skill_LC_Haru_N_5": {
     "korean": "라운드 개시 시 자신에게 전투 속행 효과를 얻습니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <라이언 코퍼레이션> 소속 전투원이 있을 경우 인원수에 따라 아군 전체에게 아군에게 [준비!]를 부여합니다.&n준비! 1 : 공격력 증가&n준비! 2 : 공격력 증가 / 방어 관통 증가&n준비! 3 : 공격력 증가 / 방어 관통 증가 / 적중 증가 &n준비! 4 : 공격력 증가 / 방어 관통 증가 / 적중 증가 / 치명타 증가",
-    "english": "At the start of the round, you gain the Continue Combat effect. If there are squad members belonging to <Lion Corporation> other than yourself, grant the [Ready!] buff to all allies based on their number: Ready! 1: ATK Increased; Ready! 2: ATK Increased / DEF Penetration Increased; Ready! 3: ATK Increased / DEF Penetration Increased / ACC Increased; Ready! 4: ATK Increased / DEF Penetration Increased / ACC Increased / CRIT Increased."
+    "english": "At the start of the round, you gain the Battle Continuation effect. If there are squad members belonging to <Lion Corporation> other than yourself, grant the [Ready!] buff to all allies based on their number: Ready! 1: ATK Increased; Ready! 2: ATK Increased / DEF Penetration Increased; Ready! 3: ATK Increased / DEF Penetration Increased / ACC Increased; Ready! 4: ATK Increased / DEF Penetration Increased / ACC Increased / CRIT Increased."
   },
   "SkillDescSimple_Skill_LC_Haru_N_5": {
     "korean": "자신에게 전투 속행. 조건부 공격력 / 방어 관통 / 적중 / 치명타 증가.",
-    "english": "Continue Combat / Conditional ATK / DEF Penetration / ACC / CRIT Increased"
+    "english": "Battle Continuation / Conditional ATK / DEF Penetration / ACC / CRIT Increased"
   },
   "BuffDesc1_Effect_LC_Haru_N_1": {
     "korean": "리프 어택 : 공격력 {0}% 고정 피해",

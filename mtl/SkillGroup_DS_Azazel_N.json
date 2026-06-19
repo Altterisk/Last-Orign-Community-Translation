@@ -45,19 +45,19 @@
   },
   "1002704148": {
     "korean": "전투 개시 시, 전투 속행 효과가 적용됩니다. 전투 속행 발동 시, 행동력 / 효과 저항이 증가하며 <심판>과 <신의 가호> 효과가 50% 증가합니다. 전투 속행이 발동한 라운드에는 최소 피해만 입으며, 모든 아군을 지정 보호합니다.",
-    "english": "At the start of battle, gains the Combat Continuation effect. When Combat Continuation activates, this unit's SPD and Status Resist increase, and the effects of <Judgment> and <Divine Blessing> are increased by 50%. During the round in which Combat Continuation activates, this unit only takes minimal damage and provides Target Protect to all allies."
+    "english": "At the start of battle, gains the Battle Continuation effect. When Battle Continuation activates, this unit's SPD and Status Resist increase, and the effects of <Judgment> and <Divine Blessing> are increased by 50%. During the round in which Battle Continuation activates, this unit only takes minimal damage and provides Target Protect to all allies."
   },
   "1002703404": {
     "korean": "전투 속행 / 전투 속행 발동 라운드 입는 피해 최소화, 모든 아군 지정 보호",
-    "english": "Grants Combat Continuation. In the activation round, damage received is minimized and all allies are protected via Target Protect"
+    "english": "Grants Battle Continuation. In the activation round, damage received is minimized and all allies are protected via Target Protect"
   },
   "1002704149": {
     "korean": "전투 개시 시, 인접한 아군에게 전투 속행 / 피해 무효화 (1회) 효과를 부여합니다. 라운드 개시 시, HP가 50% 이하인 대상을 지정 보호합니다. 스킬 레벨 10에서 범위가 증가합니다.",
-    "english": "At the start of battle, grants adjacent allies Combat Continuation and Damage Nullification (1x). At the start of the round, provides Target Protect to an ally whose HP is 50% or lower. At skill level 10, the range increases."
+    "english": "At the start of battle, grants adjacent allies Battle Continuation and Damage Nullification (1x). At the start of the round, provides Target Protect to an ally whose HP is 50% or lower. At skill level 10, the range increases."
   },
   "1002703405": {
     "korean": "인접 아군에게 전투 속행 / 피해 무효화 (1회) / HP 50% 이하 아군 지정 보호",
-    "english": "Grants adjacent allies Combat Continuation, 1-time Damage Nullification, and Target Protect for allies with 50% HP or less"
+    "english": "Grants adjacent allies Battle Continuation, 1-time Damage Nullification, and Target Protect for allies with 50% HP or less"
   },
   "1000105437": {
     "korean": "신의 가호 : 내 HP% 적을수록 피해량{0}%",
@@ -65,11 +65,11 @@
   },
   "1000104604": {
     "korean": "재림 : 전투 속행 라운드 피해 최소화",
-    "english": "Rebirth : Minimize Damage During Combat Continuation Rounds"
+    "english": "Rebirth : Minimize Damage During Battle Continuation Rounds"
   },
   "1000105566": {
     "korean": "재림 : 모든 아군 보호 (전투 속행 시)",
-    "english": "Rebirth : Protect all allies (On Combat Continuation)"
+    "english": "Rebirth : Protect all allies (On Battle Continuation)"
   },
   "1000103974": {
     "korean": "재림 : 모든 아군 지정 보호",
