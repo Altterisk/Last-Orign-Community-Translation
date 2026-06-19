@@ -1,0 +1,62 @@
+{
+  "SkillName_Skill_PECS_AnruiSawame_N_1": {
+    "korean": "부정 정화의 의식",
+    "english": "Ritual of Impurity Purification"
+  },
+  "SkillName_Skill_PECS_AnruiSawame_N_2": {
+    "korean": "앙화로 말미암은 죽음",
+    "english": "Death by Anger"
+  },
+  "SkillName_Skill_PECS_AnruiSawame_N_3": {
+    "korean": "진혼",
+    "english": "Requiem"
+  },
+  "SkillName_Skill_PECS_AnruiSawame_N_4": {
+    "korean": "신이 깃든 곳",
+    "english": "Divine Sanctuary"
+  },
+  "SkillName_Skill_PECS_AnruiSawame_N_5": {
+    "korean": "두 얼굴의 신령",
+    "english": "Two-Faced Spirit"
+  },
+  "SkillDesc_Skill_PECS_AnruiSawame_N_1": {
+    "korean": "부정을 씻는 의식을 통해 지정 범위를 정화합니다.\n스킬 사용 시, 대상에게 적용된 강화 효과와 해로운 효과를 해제합니다.\n대상의 HP 비율이 자신보다 높을 경우, 대상의 강화 효과만을 해제하고 추가로 AP가 감소합니다.",
+    "english": "Purify a designated area through a ritual, removing both enhancement and harmful effects from the target. If the target's HP percentage is higher than yours, only its enhancement effects are removed and your AP is reduced."
+  },
+  "SkillDescSimple_Skill_PECS_AnruiSawame_N_1": {
+    "korean": "지정 범위 강화 효과 / 해로운 효과 해제 / AP 감소.",
+    "english": "Designated area enhancement effects / Harmful effects removed / AP Reduction"
+  },
+  "SkillDesc_Skill_PECS_AnruiSawame_N_2": {
+    "korean": "원혼을 해방하여 지정 범위에 {0} 보호 무시 피해를 줍니다.\n적중 여부에 관계 없이, 2라운드 동안 대상의 보호 무시를 비활성화합니다.\n적중 시, 대상에게 자신 현재 HP에 비례한 피해를 줍니다. 자신은 효과가 발동한 라운드 종료 시, 지속 물리 피해를 입습니다.",
+    "english": "Release a vengeful spirit to deal {0} Ignore Protection damage to a designated area. Regardless of hit, the target's Ignore Protection is disabled for 2 rounds. On hit, deals damage to the target proportional to your current HP. You take Physical DoT DMG at the end of the round when the effect triggers."
+  },
+  "SkillDescSimple_Skill_PECS_AnruiSawame_N_2": {
+    "korean": "지정 범위 {0} 보호 무시 피해 / 보호 무시 비활성화. 적중 대상 자신 현재 HP 비례 피해. 자신 지속 물리 피해.",
+    "english": "Designated area {0} Ignore Protection damage / Ignore Protection disabled. Damage proportional to target's current HP on hit. Physical DoT DMG to self"
+  },
+  "SkillDesc_Skill_PECS_AnruiSawame_N_3": {
+    "korean": "아군 피격 시, 모든 적의 공격력 강화 효과를 해제하고 2라운드 동안 스킬 위력을 감소시킵니다. 자신 피격 시에는 효과가 두 번 발동합니다. (최대 4중첩)\n상기 효과가 적용된 대상은 <부정 정화의 의식>의 HP 조건을 충족한 것으로 취급합니다.",
+    "english": "When an ally is hit, remove all enemy ATK enhancement effects and reduce Skill Power for 2 rounds. When you are hit, the effect triggers twice (up to 4 stacks). Targets affected by this are considered to have met the HP condition of <Ritual of Impurity Purification>."
+  },
+  "SkillDescSimple_Skill_PECS_AnruiSawame_N_3": {
+    "korean": "아군 피격 시, 적 공격력 강화 해제 / 스킬 위력 감소.",
+    "english": "When an ally is hit, enemy ATK enhancement removed / Skill Power reduced"
+  },
+  "SkillDesc_Skill_PECS_AnruiSawame_N_4": {
+    "korean": "라운드 개시 시, 범위 내 보호기를 제외한 아군을 지정 보호합니다. \n라운드 개시 시, 정중앙에 위치한 아군은 역할군에 따라 각기 다른 효과를 획득합니다. 효과 수치는 대상과 인접한 아군 수에 따라 증폭됩니다.\n- 공격기 : 해로운 효과 해제 / 적중 증가\n- 보호기 : 피해 최소화(1회) / 받는 피해 감소\n- 지원기 : 정찰 활성화 / 행동력 증가\n라운드 개시 시 자신이 범위 내에 있을 경우, 정중앙에 위치한 아군과 동일한 효과를 획득하고 공격기 / 지원기일 경우 지정 보호합니다.",
+    "english": "At the start of the round, designate and protect allies within range, excluding Defenders. At the start of the round, the ally positioned at the exact center gains role-specific effects, with effect values amplified by the number of adjacent allies. - Attacker: Harmful effects removed / ACC increased - Defender: Minimize Damage (once) / DMG Reduction - Supporter: Recon Effect activated / SPD increased. If you are within the range at round start, you gain the same effects as the central ally, and if you are an Attacker or Supporter, you also designate and protect them."
+  },
+  "SkillDescSimple_Skill_PECS_AnruiSawame_N_4": {
+    "korean": "범위 내 아군 지정 보호. 역할군에 따라 다른 효과 적용 및 자신과 효과 공유.",
+    "english": "Designated protection for allies within range. Role-specific effects applied and shared with self."
+  },
+  "SkillDesc_Skill_PECS_AnruiSawame_N_5": {
+    "korean": "웨이브 종료 시, 자신은 전투 속행을 획득합니다. (중첩 불가)\n상기 전투 속행 효과가 유지되는 동안, <앙화로 말미암은 죽음>은 HP 70% 이상인 적에 대해 추가로 대상 최대 HP에 비례한 피해를 줍니다.\n적 사망 시, 자신과 자신이 지정 보호 중인 아군의 AP가 증가합니다.",
+    "english": "At wave end, you gain Battle Continuation (cannot stack). While Battle Continuation is active, <Death by Anger> deals additional damage proportional to the target's max HP to enemies with 70% or higher HP. When an enemy dies, your AP and the AP of allies you are designating to protect increase."
+  },
+  "SkillDescSimple_Skill_PECS_AnruiSawame_N_5": {
+    "korean": "웨이브 종료 시, 자신 전투 속행 획득. <앙화로 말미암은 죽음> 강화. 적 사망 시, 아군 AP 증가.",
+    "english": "At the end of wave, gain Battle Continuation / Enhance <Death by Anger>. On enemy defeat, increase ally AP."
+  }
+}

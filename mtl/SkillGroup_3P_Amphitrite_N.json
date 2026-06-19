@@ -53,7 +53,7 @@
   },
   "SkillDesc_Skill_3P_Amphitrite_N_2": {
     "korean": "지정 범위 적에게 {0} 보호 무시 피해를 주고, 대상의 행동력 증가 / 지정 보호 효과를 해제합니다. 대상이 이동 불가 또는 회피 감소 상태일 경우, 대상의 AP를 감소시키고 피해량이 증가합니다.",
-    "english": "Deals {0} shield-piercing damage to enemies in the target area and removes their SPD Up / Targeted Guard effects.&nIf the target is Immobilized or under EVA Down, reduces their AP and increases damage dealt."
+    "english": "Deals {0} Ignore Protection damage to enemies in the target area and removes their SPD Up / Targeted Guard effects.&nIf the target is Rooted or under EVA Down, reduces their AP and increases damage dealt."
   },
   "SkillDescSimple_Skill_3P_Amphitrite_N_2": {
     "korean": "목표 지점 {0} 보호 무시 피해. 대상 행동력 증가 효과, 지정 보호 효과 해제. AP 감소 및 추가 피해.",
@@ -205,7 +205,7 @@
   },
   "SkillDesc_Skill_3P_Amphitrite_N_5": {
     "korean": "전투 시작 시, 모든 적 회피를 감소시키고 받는 피해를 증가시킵니다. 스쿼드에 살라시아가 있으면 효과는 2배가 되고, 2라운드 동안 적의 공격력을 감소시키고 보호 무시 효과를 비활성화 합니다. 라운드 개시 시, 살라시아의 공격을 지원합니다.",
-    "english": "At the start of battle, reduces all enemies' EVA and increases the damage they take.&nIf Salacia is in the squad, the effects are doubled, and for 2 rounds, enemies' ATK is reduced and their shield-piercing effects are disabled.&nAt the start of each round, provides support fire for Salacia's attacks."
+    "english": "At the start of battle, reduces all enemies' EVA and increases the damage they take.&nIf Salacia is in the squad, the effects are doubled, and for 2 rounds, enemies' ATK is reduced and their Ignore Protection effects are disabled.&nAt the start of each round, provides support fire for Salacia's attacks."
   },
   "SkillDescSimple_Skill_3P_Amphitrite_N_5": {
     "korean": "적 회피 감소, 받는 피해 증가 / 살라시아가 있으면 적 공격력 감소 및 보호 무시 비활성화. 살라시아 공격 지원",

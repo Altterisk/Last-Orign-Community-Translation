@@ -141,11 +141,11 @@
   },
   "SkillDesc_Skill_BR_SandMan_N_4": {
     "korean": "전투 개시 시, 자신은 전투 속행 효과를 획득합니다.&n라운드 개시 시, 자신의 치명타가 증가하고 반격 효과를 획득합니다.&n피격 시, 2라운드 동안 자신의 공격력이 증가합니다. (최대 5중첩)",
-    "english": "At the start of battle, you gain Combat Continuation.&nAt the start of each round, your CRIT chance increases and you gain a Counter Attack effect.&nWhen hit, your ATK increases for 2 rounds. (max 5 stacks)"
+    "english": "At the start of battle, you gain Battle Continuation.&nAt the start of each round, your CRIT chance increases and you gain a Counter Attack effect.&nWhen hit, your ATK increases for 2 rounds. (max 5 stacks)"
   },
   "SkillDescSimple_Skill_BR_SandMan_N_4": {
     "korean": "전투 속행 / 치명타 증가 / 반격. 피격 시, 공격력 증가.",
-    "english": "Combat Continuation / CRIT increase / Counter Attack. When hit, ATK increase."
+    "english": "Battle Continuation / CRIT increase / Counter Attack. When hit, ATK increase."
   },
   "BuffDesc1_Effect_BR_SandMan_N_4": {
     "korean": "티타늄 장갑 : {0}% HP로 전투 속행",
@@ -181,7 +181,7 @@
   },
   "SkillDesc_Skill_BR_SandMan_N_5": {
     "korean": "라운드 개시 시, 자신의 강화 해제 저항이 증가합니다.&n<철혈의 레오나>의 <공격 지휘>가 활성화된 경우, 액티브 스킬의 피해량 증가 효과가 두 배로 증폭되고 발동 조건을 무시합니다.&n<철혈의 레오나>의 <방어 지휘>가 활성화된 경우, 라운드 개시 시 전투 속행 효과를 획득합니다.",
-    "english": "At the start of the round, your Dispel Resistance increases.&nIf <Ironblood Leona>’s <Attack Command> is active, the damage boost from your active skills is doubled and activation conditions are ignored.&nIf <Ironblood Leona>’s <Defense Command> is active, you gain Combat Continuation at the start of the round."
+    "english": "At the start of the round, your Dispel Resistance increases.&nIf <Ironblood Leona>’s <Attack Command> is active, the damage boost from your active skills is doubled and activation conditions are ignored.&nIf <Ironblood Leona>’s <Defense Command> is active, you gain Battle Continuation at the start of the round."
   },
   "SkillDescSimple_Skill_BR_SandMan_N_5": {
     "korean": "강화 해제 저항 증가. <철혈의 레오나>의 <지휘> 효과에 따라 자신 강화.",
@@ -197,7 +197,7 @@
   },
   "BuffDesc3_Effect_BR_SandMan_N_5": {
     "korean": "굴린부르스티 : {0} HP로 전투 속행 (방어 지휘)",
-    "english": "Gullinbursti: Combat Continuation with {0} HP (Defense Command)"
+    "english": "Gullinbursti: Battle Continuation with {0} HP (Defense Command)"
   },
   "BuffDesc1_Effect_BR_SandMan_N_51": {
     "korean": "슬리드룩타니급 무장",

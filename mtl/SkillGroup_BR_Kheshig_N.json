@@ -121,11 +121,11 @@
   },
   "SkillDesc_Skill_BR_Kheshig_N_3": {
     "korean": "첫 라운드 개시 시, 전투 속행 효과를 가지지 않은 아군 바이오로이드에게 HP 1로 전투 속행 효과를 부여합니다.&n스킬 레벨 5/10에서 전투 속행 발동 시의 HP가 1씩 증가합니다.&n<응급 처치>를 통해 전투 속행한 아군이 다음 라운드까지 생존 시, 추가 처치를 통해 아군의 생존성을 향상시킵니다.&n라운드 개시 시, 피해 최소화 일반 효과를 부여하고, 효과 저항을 증가시키며, 모든 해로운 효과를 해제합니다.",
-    "english": "At the start of the first round, grants the combat continuation effect to allied Bioroids without it, setting their HP to 1.&nAt skill level 5/10, the HP upon combat continuation activation increases by 1.&nAllies who survived combat continuation via <First Aid> will have their survivability improved with additional treatment if they survive until the next round.&nAt the start of each round, grants Minimize Damage Normal Effect, increases Status Resist, and removes all harmful effects."
+    "english": "At the start of the first round, grants the Battle Continuation effect to allied Bioroids without it, setting their HP to 1.&nAt skill level 5/10, the HP upon Battle Continuation activation increases by 1.&nAllies who survived Battle Continuation via <First Aid> will have their survivability improved with additional treatment if they survive until the next round.&nAt the start of each round, grants Minimize Damage Normal Effect, increases Status Resist, and removes all harmful effects."
   },
   "SkillDescSimple_Skill_BR_Kheshig_N_3": {
     "korean": "조건부 아군 전투 속행 적용. 대상 전투 속행 시, 해로운 효과 해제 / 피해 최소화 / 효과 저항 증가.",
-    "english": "Applies conditional combat continuation to allies.&nWhen the target activates combat continuation, removes harmful effects / minimizes damage / increases Status Resist."
+    "english": "Applies conditional Battle Continuation to allies.&nWhen the target activates Battle Continuation, removes harmful effects / minimizes damage / increases Status Resist."
   },
   "BuffDesc1_Effect_BR_Kheshig_N_3": {
     "korean": "응급 처치 : {0} HP로 전투 속행",
@@ -249,7 +249,7 @@
   },
   "SkillDescSimple_Skill_BR_Kheshig_N_5": {
     "korean": "최대 행동 횟수 1 증가. <응급 처치> 효과 대상 전투 속행 시, HP 반비례 피해량 증가 효과 부여.",
-    "english": "Increases Max Action by 1.&nWhen an ally with <First Aid> activates combat continuation, grants a damage increase effect proportional to the target's HP."
+    "english": "Increases Max Action by 1.&nWhen an ally with <First Aid> activates Battle Continuation, grants a damage increase effect proportional to the target's HP."
   },
   "BuffDesc1_Effect_BR_Kheshig_N_5": {
     "korean": "파부침선 : 최대 행동 횟수 {0}",
