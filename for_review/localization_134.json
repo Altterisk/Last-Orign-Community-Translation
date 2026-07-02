@@ -2132,7 +2132,7 @@
     "korean": "스카디 전장 버프 Lv.11"
   },
   "1002707919": {
-    "english": "Bulgasari Battlefield Buff Lv.11",
+    "english": "T-60 Bulgasari Battlefield Buff Lv.11",
     "korean": "불가사리 전장 버프 Lv.11"
   },
   "1002707920": {
@@ -3492,23 +3492,23 @@
     "korean": "받는 피해 감소 / 보호기 표식"
   },
   "1002708259": {
-    "english": "Missile Barrage",
+    "english": "missile barrage",
     "korean": "미사일 난사"
   },
   "1002708260": {
-    "english": "High-Altitude Bombing",
+    "english": "High-altitude bombing",
     "korean": "고고도 폭격"
   },
   "1002708261": {
-    "english": "Strategic Deployment",
+    "english": "Strategic Operations",
     "korean": "전략적 운용"
   },
   "1002708262": {
-    "english": "Overwhelming Superiority",
+    "english": "extreme sense of superiority",
     "korean": "극도의 우월감"
   },
   "1002708263": {
-    "english": "Stealth Mode",
+    "english": "Stealth mode",
     "korean": "스텔스 모드"
   },
   "1002708264": {
@@ -3516,15 +3516,15 @@
     "korean": "미사일을 난사해 지정 범위에 {0} 피해를 줍니다. 대상이 중장형인 경우 피해량이 증가합니다. 대상의 방어력을 일정 비율 무시합니다."
   },
   "1002708265": {
-    "english": "Bombards the target area with missiles, dealing {0} defense-piercing damage.&nIgnores a portion of the target’s DEF, and deals increased damage if the target is Marked or Immobilized.",
+    "english": "Deals {0} defense-ignoring damage to the target point with a missile barrage. Ignores a certain percentage of the target's defense, and damage increases if the target has Mark / Immobilize / Evasion Reduction debuffs.\n\nIf [B-11 Night Angel] is in the squad, it triggers a [High-altitude Bombardment] cooperative attack.",
     "korean": "미사일 폭격으로 대상 지점에 {0} 보호 무시 피해를 줍니다. 대상의 방어력을 일정 비율 무시하며, 표식 / 이동 불가 상태면 피해량이 증가합니다."
   },
   "1002708266": {
-    "english": "When positioned in the middle or back row, using Skill 1 increases SPD, and using Skill 2 increases skill power. SPD gain is maximized in the back row, while skill power is maximized in the middle row. If the positions are reversed, only 50% of the effect is applied.",
+    "english": "If positioned in the middle or back row, Action Points increase after using Skill 1, and Skill Power increases after using Skill 2. Action Points and Skill Power are applied at their maximum values ​​when positioned in the back row and middle row, respectively; conversely, only 50% is applied.",
     "korean": "중열 또는 후열에 있는 경우, 1스킬 사용 후 행동력이 증가하고, 2스킬 사용 후 스킬 위력이 증가합니다. 행동력은 후열에 있을 때, 스킬 위력은 중열에 있을 때 최대 수치로 적용되며, 반대의 경우 50%만 적용됩니다."
   },
   "1002708267": {
-    "english": "Always filled with an overwhelming sense of superiority, increasing ATK, CRIT, and SPD. If Knight Angel is in the squad, this effect is applied an additional 3 times.",
+    "english": "Always filled with an overwhelming sense of superiority, increasing ATK, CRIT, and AP.&nIf B-11 Night Angel is in the squad, this effect is applied an additional 3 times.",
     "korean": "언제나 우월감에 가득찬 상태라 공격력 / 치명타 / 행동력이 증가합니다. 스쿼드에 나이트 앤젤이 있으면 해당 효과가 3배 추가 적용됩니다."
   },
   "1002708268": {
@@ -3544,7 +3544,7 @@
     "korean": "중열 또는 후열인 경우, 행동력 / 스킬 위력 증가"
   },
   "1002708272": {
-    "english": "Increases ATK, CRIT, and SPD. If Knight Angel is in the squad, the effect is further increased.",
+    "english": "Increases ATK, CRIT, and AP. If B-11 Night Angel is in the squad, the effect is further increased.",
     "korean": "공격력 / 치명타 / 행동력 증가. 스쿼드에 나이트 앤젤이 있으면 추가 증가"
   },
   "1002708273": {
@@ -3776,7 +3776,7 @@
     "korean": "인류의 멸망에도 불구하고 여전히 가장 무장을 잘 갖춘 군대를 꼽자면 둠 브링어를 예로 들 수 있다. 회사들의 세계 지배에 따라 창설된 이 군대는 4군 중에서 가장 뒤늦게 만들어졌지만 가장 ㅋ악명 높은 명성을 얻기도 했다. 번개같이 날아와 퍼붓는 기동 타격과 성층권을 넘나들며 벌인 전략 폭격은 둠 브링어에게 자신의 이름에 걸맞는 명성을 주었다. 적들이 둠 브링어를 두려워한 또 다른 이유는 둠 브링어가 열핵 병기를 다양하게 보유하고 있었다는 점이다. 실제로 열핵 병기에 대한 제어권을 쥐고 있는 것은 인간이었기에 사용된 적은 없었지만 존재 만으로도 둠 브링어는 공포스러운 존재로 인정 받았다."
   },
   "1002900038": {
-    "english": "The Battle Maid Project was an experimental project to introduce combat abilities into household maids to perfectly guarantee individual safety from attacks by terrorists and government forces who possessed firepower comparable to the military.&nThe base was Labiata, the second Bioroid and the most perfect Bioroid, and since her mass production was nearly impossible, the project focused on her minor versions, during which the Vanilla A series and Constantia S series were created.&nThe model that practically achieved the most perfect balance between price and performance was the high-end Constantia S series, among which the limited-produced S2 model reached legendary performance.",
+    "english": "The Battle Maid Project was an experimental project to introduce combat abilities into household maids to perfectly guarantee individual safety from attacks by terrorists and government forces who possessed firepower comparable to the military.&nThe base was Prototype Labiata, the second Bioroid and the most perfect Bioroid, and since her mass production was nearly impossible, the project focused on her minor versions, during which the Vanilla A series and Constantia S2 S series were created.&nThe model that practically achieved the most perfect balance between price and performance was the high-end Constantia S2 S series, among which the limited-produced S2 model reached legendary performance.",
     "korean": "배틀 메이드 프로젝트는 군대에 뒤지지 않는 화력을 지닌 테러리스트와 정부군의 공격에서 개인의 안전을 완벽하게 보장할 수 있도록 가정용 메이드에 전투 능력을 도입하는 실험 프로젝트였다. 베이스는 두 번째 바이오로이드이자 가장 완벽한 바이오로이드였던 라비아타였고, 그녀의 양산이 실제로 거의 불가능한만큼 그녀의 마이너 버전을 중심으로 했으며 그 과정에서 바닐라 A 시리즈와 콘스탄챠 S 시리즈가 태어났다. 실질적으로 가격과 성능에서 가장 완벽한 밸런스에 도달한 기종은 고급형인 콘스탄챠 S 시리즈였으며 그 중에서도 소량 생산된 S2 모델은 전설적인 성능에 도달할 수 있었다."
   },
   "1002900039": {
@@ -3792,7 +3792,7 @@
     "korean": "펙스 콘소시엄의 각종 산업용 바이오로이드 라인업. 펙스는 주로 이 바이오로이드 임대업을 통해 수익을 얻는 형식이었고 산업의 종류만큼이나 생산되었기 압도적으로 다양한 종류의 바이오로이드가 생산되었다."
   },
   "1002900042": {
-    "english": "080 Team consists of agents who focused more on spy missions and information manipulation than combat, operating under the company's confidential information command.&nBefore the extinction of humans, they primarily carried out covert missions targeting humans and Bioroids.&nCurrently, they mainly handle information related to the Metal Parasites.",
+    "english": "080 Team consists of agents who focused more on spy missions and information manipulation than combat, operating under the company's confidential information command.&nBefore the extinction of humans, they primarily carried out covert missions targeting humans and Bioroids.&nCurrently, they mainly handle information related to the Iron Bugs.",
     "korean": "080 팀은 전투보다는 스파이 임무와 정보 조작에 더 큰 비중을 든 요원들로 회사 기밀 정보 사령부 휘하에서 활동해 왔던 바이오로이드들이다. 이들은 인간 멸망 전에는 주로 인간과 바이오로이드들을 대상으로 기밀 임무를 수행해 왔다. 현재는 철충에 대한 정보를 주로 다루고 있다."
   },
   "1002900043": {
@@ -3820,7 +3820,7 @@
     "korean": "AA 캐노니어는 아머드 메이든과 비슷한 시기에 창설된 이 부대는 정확히 아머드 메이든과 반대 역할을 하기 위해 만들어졌다. 정부의 요새화된 도시에 아머드 메이든이 위협적이었던 것처럼 회사의 요새에도 적 중장 AGS의 공성이 가장 위협적이었다. 회사의 지도자들은 이 AA 캐노니어 부대를 창설해 중장 AGS도 파괴할 수 있는 관통력과 화력을 부여했다. 안타깝게도 이 AA 캐노니어들은 상대적으로 다른 중장 유닛 들에 비해 장갑이나 기동력은 부족했기에 주로 방어전에 사용될 수 밖에 없었지만 중장 AGS와 싸울 때 압도적인 가격 교환비로 큰 명성을 얻었다."
   },
   "1002900049": {
-    "english": "The Companion series, derived from the Battle Maid Project, aimed to develop Bioroid maids capable of providing perfect personal protection in high-powered situations. Inheriting some of the Labiata's genetics, the Companions possessed exceptional combat prowess and a strong tendency to focus on their masters, making them renowned as the best bodyguards for the wealthy.",
+    "english": "The Companion series, derived from the Battle Maid Project, aimed to develop Bioroid maids capable of providing perfect personal protection in high-powered situations. Inheriting some of the Prototype Labiata's genetics, the Companions possessed exceptional combat prowess and a strong tendency to focus on their masters, making them renowned as the best bodyguards for the wealthy.",
     "korean": "컴패니언 시리즈는 배틀 메이드 프로젝트에서 파생된 시리즈로 화력이 집중되는 현장에서 완벽하게 개인 경호를 맡을 수 있는 바이오로이드 메이드를 개발하는 것을 목표로 만들어진 시리즈다. 컴패니언들은 라비아타의 유전자를 일부 승계해 매우 전투력이 출중했으며 자신들의 주인에 집중하는 경향이 매우 강한 특징을 보여 부자들에게는 최고의 경호원으로 이름이 높았다."
   },
   "1002900050": {
@@ -3940,7 +3940,7 @@
     "korean": "내게 미사일이랑, 폭격 좌표만 정해줘. 나머지는 내가 알아서 할 테니까."
   },
   "1003000012": {
-    "english": "Coordinates confirmed! &n Griffon attack ready!",
+    "english": "Coordinates confirmed! &n P/A-00 Griffon attack ready!",
     "korean": "좌표 확인!&n그리폰 공격 준비 완료!"
   },
   "1003000013": {
@@ -3964,7 +3964,7 @@
     "korean": "뭐, 별거 아닌 애들이니 빨리 해치워 버리고 등대로 가자고!"
   },
   "1003000018": {
-    "english": "Johanna, aren't you going to say anything?",
+    "english": "Prester Johanna, aren't you going to say anything?",
     "korean": "요안나는 한 마디 안해?"
   },
   "1003000019": {
@@ -3972,7 +3972,7 @@
     "korean": "이렇게 믿음직한 주군과 동료들이 있는데 무슨 할 말이 있으리?&n짐은 그저 방패를 들어올릴 뿐…."
   },
   "1003000020": {
-    "english": "Sigh… Johanna always says the same old thing, huh?",
+    "english": "Sigh… Prester Johanna always says the same old thing, huh?",
     "korean": "휴… 요안나는 맨날 뻔한 이야기네?"
   },
   "1003000021": {
@@ -3988,7 +3988,7 @@
     "korean": "자, 긴장 풀지 말고… 내 레이더에 적이 또 감지 되거든?"
   },
   "1003000024": {
-    "english": "Truly an excellent ability. Griffon, then what are the reconnaissance results?",
+    "english": "Truly an excellent ability. P/A-00 Griffon, then what are the reconnaissance results?",
     "korean": "실로 훌륭한 능력이군. 그리폰, 그럼 정찰 결과가 어떻게 되지?"
   },
   "1003000025": {

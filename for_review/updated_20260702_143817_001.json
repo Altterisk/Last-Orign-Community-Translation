@@ -1,0 +1,914 @@
+{
+  "1000100036": {
+    "english": "Cold-Blooded Assassin",
+    "korean": "냉혹한 암살자"
+  },
+  "1000100037": {
+    "english": "Shared Weakness",
+    "korean": "약점 공유"
+  },
+  "1000100042": {
+    "english": "Dance of Death",
+    "korean": "죽음의 연무"
+  },
+  "1000100191": {
+    "english": "Precision Bombing: Deals bonus damage to marked or immobilized targets",
+    "korean": "정밀 폭격 : 표식 / 이동 불가 대상 추가 피해"
+  },
+  "1000100192": {
+    "english": "ALCM Impact: Applies continuous fire damage",
+    "korean": "ALCM 착탄 : 지속 화염 피해"
+  },
+  "1000100193": {
+    "english": "Squadron Commander: Increases ATK and CRIT of air-type allies",
+    "korean": "편대 지휘관 : 기동형 아군 공격력 / 치명타 증가"
+  },
+  "1000100194": {
+    "english": "Fireworks Maniac: Increases ATK and AP each time an enemy is defeated",
+    "korean": "불꽃놀이광 : 적이 처치될 때마다 공격력 / 행동력 증가"
+  },
+  "1000100195": {
+    "english": "Recruit a Comrade?!: If HP is below certain percentage, increases AP and AP of allies within explosion range",
+    "korean": "길동무 모집?! : HP% 일정 이하 시 유폭 범위 내 아군 행동력 / AP 증가"
+  },
+  "1000100201": {
+    "english": "Radar Drone: Increases EVA, ACU, and range",
+    "korean": "레이더 드론 : 회피 / 적중 / 사거리 증가"
+  },
+  "1000100202": {
+    "english": "Extreme Discomfort: Increases ATK, CRIT, and AP",
+    "korean": "극도의 불편함 : 공격력 / 치명타 / 행동력 증가"
+  },
+  "1000100224": {
+    "english": "Interference: Reduces EVA",
+    "korean": "견제 : 회피 감소 효과"
+  },
+  "1000100291": {
+    "english": "Confusion: Reduces ACU, CRIT, and AP",
+    "korean": "혼란 : 적중 / 치명타 / 행동력 감소"
+  },
+  "1000100302": {
+    "english": "Revolver Gatling: Taunts target, reduces ACU",
+    "korean": "리볼버 기관포 : 대상 도발 / 적중 감소"
+  },
+  "1000100303": {
+    "english": "Chaff Missile: Increases ally EVA, reduces damage taken",
+    "korean": "채프 미사일 : 아군 회피 증가 / 받는 피해 감소"
+  },
+  "1000100338": {
+    "english": "Anti-Radar Missile: Inflicts confusion, removes ACU buffs",
+    "korean": "대 레이더 미사일 : 혼란 효과 / 적중 강화 해제"
+  },
+  "1000100339": {
+    "english": "Observation Report: Increases AP, range, CRIT, and ACU",
+    "korean": "관측 보고 : AP / 사거리 / 치명타 / 적중 증가"
+  },
+  "1000100340": {
+    "english": "High-Performance Radar: Enables reconnaissance",
+    "korean": "고성능 레이더 : 정찰 기능"
+  },
+  "1000100341": {
+    "english": "High-Performance Radar: Increases EVA the closer to enemy side",
+    "korean": "고성능 레이더 : 적 진영에 가까울수록 회피 증가"
+  },
+  "1000100354": {
+    "english": "Air-to-Air Missile: Increases damage to air-type enemies",
+    "korean": "공대공 미사일 : 대 기동형 피해량 증가"
+  },
+  "1000100849": {
+    "english": "Ally Soak Buff Dummy (Fire)",
+    "korean": "아군 침수 버프 더미 (화염)"
+  },
+  "1000100850": {
+    "english": "Ally Soak Buff Dummy (Ice)",
+    "korean": "아군 침수 버프 더미 (냉기)"
+  },
+  "1000100851": {
+    "english": "Ally Soak Buff Dummy (Electric)",
+    "korean": "아군 침수 버프 더미 (전기)"
+  },
+  "1000100852": {
+    "english": "Enemy Soak Buff Dummy (Fire)",
+    "korean": "적 침수 버프 더미 (화염)"
+  },
+  "1000100853": {
+    "english": "Enemy Soak Buff Dummy (Ice)",
+    "korean": "적 침수 버프 더미 (냉기)"
+  },
+  "1000100854": {
+    "english": "Enemy Soak Buff Dummy (Electric)",
+    "korean": "적 침수 버프 더미 (전기)"
+  },
+  "1000101261": {
+    "english": "Anti-Heavy Armor Missile : DEF penetration",
+    "korean": "대 장갑 미사일 : 방어 관통"
+  },
+  "1000101262": {
+    "english": "Extreme Discomfort : ATK increase and CRIT increase and AP decrease",
+    "korean": "극도의 불편함 : 공격력 /치명타 증가 / 행동력 감소"
+  },
+  "1000101869": {
+    "english": "Bombing Squadron Support: Allies with <Bombing Squadron Command> gain support fire / ACU / AP increase",
+    "korean": "폭격 편대 지원 : <폭격 편대 지휘> 아군 공격 지원/적중/행동력 증가"
+  },
+  "1000101871": {
+    "english": "Early Warning Activated: ACU / EVA increase / Damage taken decrease",
+    "korean": "조기 경보 개시 : 적중 / 회피 증가 / 받는 피해 감소"
+  },
+  "1000101872": {
+    "english": "Early Warning Activated: ACU / EVA increase / Damage taken decrease (air units)",
+    "korean": "조기 경보 개시 : 적중 / 회피 증가 / 받는 피해 감소 (기동)"
+  },
+  "1000102103": {
+    "english": "Energy Extraction",
+    "korean": "에너지 추출"
+  },
+  "1000102104": {
+    "english": "Energy Extraction (Action Freeze)",
+    "korean": "에너지 추출(행동 동결)"
+  },
+  "1000102105": {
+    "english": "Energy Extraction (Damage Taken)",
+    "korean": "에너지 추출(받는 피해)"
+  },
+  "1000102106": {
+    "english": "Energy Extraction (DEF Reduction)",
+    "korean": "에너지 추출(방어력 감소)"
+  },
+  "1000102107": {
+    "english": "Energy Extraction (Resistance Reduction)",
+    "korean": "에너지 추출(저항력 감소)"
+  },
+  "1000102108": {
+    "english": "Death Energy",
+    "korean": "죽음의 에너지"
+  },
+  "1000102109": {
+    "english": "Death Energy (True Energy Depletion)",
+    "korean": "죽음의 에너지(에너지 고갈 진짜)"
+  },
+  "1000102111": {
+    "english": "Energy Buffering (Barrier)",
+    "korean": "에너지 완충(방어막)"
+  },
+  "1000102112": {
+    "english": "Energy Buffering (Remove Harmful Effects Buff)",
+    "korean": "에너지 완충(해로운 효과 해제 버프)"
+  },
+  "1000102114": {
+    "english": "Rampage",
+    "korean": "폭주"
+  },
+  "1000102115": {
+    "english": "Rampage Stage 2",
+    "korean": "폭주2단계"
+  },
+  "1000102116": {
+    "english": "Taunt Immunity",
+    "korean": "도발 면역"
+  },
+  "1000102117": {
+    "english": "Execution Mark",
+    "korean": "처형 낙인"
+  },
+  "1000102122": {
+    "english": "Execution Initiation",
+    "korean": "처형 개시"
+  },
+  "1000102125": {
+    "english": "Fading Immortal Power",
+    "korean": "사라져가는 불멸의 힘"
+  },
+  "1000102126": {
+    "english": "Final Power",
+    "korean": "최후의 힘"
+  },
+  "1000102127": {
+    "english": "Immortal Deleted",
+    "korean": "불멸 삭제"
+  },
+  "1000102128": {
+    "english": "Final Power (ATK)",
+    "korean": "최후의 힘(공)"
+  },
+  "1000102129": {
+    "english": "Final Power (DEF)",
+    "korean": "최후의 힘(방)"
+  },
+  "1000102130": {
+    "english": "Final Power (ACU)",
+    "korean": "최후의 힘(적중)"
+  },
+  "1000102133": {
+    "english": "Price of Immortality",
+    "korean": "불멸의 대가"
+  },
+  "1000102134": {
+    "english": "Final Power (Temporary Invulnerability)",
+    "korean": "최후의 힘(일시 무적)"
+  },
+  "1000102137": {
+    "english": "Self-Destruct Prep Complete",
+    "korean": "자폭 준비 완료"
+  },
+  "1000102138": {
+    "english": "Self-Destruct Prep Removed",
+    "korean": "자폭 준비 제거"
+  },
+  "1000102139": {
+    "english": "Internal Overheat Cooling",
+    "korean": "내부 과열 냉각"
+  },
+  "1000102178": {
+    "english": "Bombing Squadron Escort: EVA increase / Bombing squadron protection",
+    "korean": "폭격 편대 호위 : 회피 증가 / 폭격 편대 보호"
+  },
+  "1000102179": {
+    "english": "Bombing Squadron Escort: Bombing squadron protection",
+    "korean": "폭격 편대 호위 : 폭격 편대 보호"
+  },
+  "1000102354": {
+    "english": "Energy Yearning",
+    "korean": "에너지 갈망"
+  },
+  "1000102355": {
+    "english": "Devour Focus",
+    "korean": "포식 집중"
+  },
+  "1000102366": {
+    "english": "Machine Gun Containment Fire",
+    "korean": "머신건 견제 사격"
+  },
+  "1000102367": {
+    "english": "Machine Gun Continuous Fire",
+    "korean": "머신건 연사"
+  },
+  "1000102372": {
+    "english": "Chik Machine Cannon",
+    "korean": "칙 머신캐논"
+  },
+  "1000102373": {
+    "english": "Chik Final Attack",
+    "korean": "칙 파이널 어택"
+  },
+  "1000102375": {
+    "english": "Outlier",
+    "korean": "낙오자"
+  },
+  "1000102380": {
+    "english": "When enemy death debuff, remove ally death buff",
+    "korean": "적군 사망 디버프 시 아군 사망 버프 해제"
+  },
+  "1000102596": {
+    "english": "Continuous fire damage {0}",
+    "korean": "지속 화염 피해 {0}"
+  },
+  "1000102609": {
+    "english": "Critical Strike: Damage {0}%",
+    "korean": "회심의 일격 : 피해량{0}%"
+  },
+  "1000102637": {
+    "english": "Bombing Squadron Command: ATK {0}% (Air)",
+    "korean": "폭격 편대 지휘 : 공격력{0}% (기동)"
+  },
+  "1000102638": {
+    "english": "Fireworks Maniac: ATK {0}%",
+    "korean": "불꽃놀이광 : 공격력{0}%"
+  },
+  "1000102639": {
+    "english": "Recruiting Companions?!: {0}% Physical Damage",
+    "korean": "길동무 모집?! : {0}% 물리 피해"
+  },
+  "1000102663": {
+    "english": "Type-60 LMG: EVA {0}%",
+    "korean": "60형 LMG : 회피 {0}%"
+  },
+  "1000102664": {
+    "english": "Anti-Air Missile: Damage to air units {0}%",
+    "korean": "대공 미사일 : 대 기동형 피해량{0}%"
+  },
+  "1000102665": {
+    "english": "Prideful: ATK {0}%",
+    "korean": "의기양양 : 공격력{0}%"
+  },
+  "1000102734": {
+    "english": "Revolver Autocannon: Taunt Target (Djinnia)",
+    "korean": "리볼버 기관포 : 대상 도발 (지니야)"
+  },
+  "1000102776": {
+    "english": "High-Performance Radar: EVA {0}%",
+    "korean": "고성능 레이더 : 회피{0}%"
+  },
+  "1000102786": {
+    "english": "Prideful: ACU {0}%",
+    "korean": "의기양양 : 적중{0}%"
+  },
+  "1000102787": {
+    "english": "Prideful: EVA {0}%",
+    "korean": "의기양양 : 회피{0}%"
+  },
+  "1000102822": {
+    "english": "Hacking (Scathy): ATK {0}%",
+    "korean": "해킹 (스카디)  : 공격력 {0}%"
+  },
+  "1000102943": {
+    "english": "Confusion: ACU {0}%",
+    "korean": "혼란 : 적중 {0}%"
+  },
+  "1000102944": {
+    "english": "Confusion: CRIT {0}%",
+    "korean": "혼란 : 치명타 {0}%"
+  },
+  "1000102945": {
+    "english": "Confusion: Action Points {0}%",
+    "korean": "혼란 : 행동력 {0}%"
+  },
+  "1000102949": {
+    "english": "Chaff Missile: Damage Taken Reduction {0}%",
+    "korean": "채프 미사일 : 받는 피해 감소 {0}%"
+  },
+  "1000103030": {
+    "english": "Chilly Atmosphere: Action Points {0}%",
+    "korean": "싸늘한 분위기 : 행동력{0}%"
+  },
+  "1000103031": {
+    "english": "Recruitment rejected: AP{0}",
+    "korean": "모집 거절 : AP{0}"
+  },
+  "1000103752": {
+    "english": "Bombing Squadron Support : Attack Support",
+    "korean": "폭격 편대 지원 : 공격 지원"
+  },
+  "1000103754": {
+    "english": "Early Warning : ACU {0}%",
+    "korean": "조기 경보 : 적중{0}%"
+  },
+  "1000103909": {
+    "english": "Energy Depletion",
+    "korean": "에너지 고갈"
+  },
+  "1000103969": {
+    "english": "Bombing Squadron Escort: Protect designated target",
+    "korean": "폭격 편대 호위 : 지정 대상 보호"
+  },
+  "1000104267": {
+    "english": "Bombing Squadron Command: CRIT {0}% (mobile)",
+    "korean": "폭격 편대 지휘 : 치명타{0}% (기동)"
+  },
+  "1000104336": {
+    "english": "Revolver Machine Gun: ACU {0}%",
+    "korean": "리볼버 기관포 : 적중 {0}%"
+  },
+  "1000104354": {
+    "english": "Observation Report: CRIT  {0}%",
+    "korean": "관측 보고 : 치명타{0}%"
+  },
+  "1000104355": {
+    "english": "High-performance Radar: EVA {0}% (max)",
+    "korean": "고성능 레이더 : 회피{0}% (최대)"
+  },
+  "1000104760": {
+    "english": "Bombing Formation Support: ACU {0}%",
+    "korean": "폭격 편대 지원 : 적중{0}%"
+  },
+  "1000104761": {
+    "english": "Early Warning: EVA {0}%",
+    "korean": "조기 경보 : 회피{0}%"
+  },
+  "1000104838": {
+    "english": "Bombing Formation Protection (Excluding Protectors)",
+    "korean": "폭격 편대 보호 (보호기 제외)"
+  },
+  "1000105012": {
+    "english": "Observation Report: ACU{0}%",
+    "korean": "관측 보고 : 적중{0}%"
+  },
+  "1000105234": {
+    "english": "Bomber Squad Support : AP {0}%",
+    "korean": "폭격 편대 지원 : 행동력{0}%"
+  },
+  "1000105235": {
+    "english": "Early Warning : Damage Taken Reduction {0}%",
+    "korean": "조기 경보 : 받는 피해 감소 {0}%"
+  },
+  "1000105379": {
+    "english": "Confusion : Action Speed ​​{0}%",
+    "korean": "혼란 : 행동 속도 {0}%"
+  },
+  "1000105480": {
+    "english": "Early Warning: Hit Reduction Disabled",
+    "korean": "조기 경보 : 적중 /회피 감소 해제"
+  },
+  "1000105590": {
+    "english": "Early Warning: Evasion Reduction Disabled",
+    "korean": "조기 경보 : 회피 감소 해제"
+  },
+  "1000105926": {
+    "english": "Precision Shot: Mark / Unable to Move / EVA Reduction Target Damage Increase",
+    "korean": "정밀 사격 : 표식 / 이동 불가/ 회피 감소 대상 피해량 증가"
+  },
+  "1000105946": {
+    "english": "Confidence: Damage to Air Units Increase / On Hit, Attack Boost",
+    "korean": "의기 양양 : 대 기동형 피해량 증가 / 공격 적중 시, 공격 강화"
+  },
+  "1000105950": {
+    "english": "Suppression: EVA Reduction Effect (air)",
+    "korean": "견제 : 회피 감소 효과 (기동형)"
+  },
+  "1000105965": {
+    "english": "Heat-Seeking Lock Missile: On crit, Damage Increase",
+    "korean": "열 추적 로크 미사일 : 치명타 시, 피해량 증가"
+  },
+  "1000105966": {
+    "english": "Confidence: On Hit, ACU Increase",
+    "korean": "의기 양양 : 공격 적중 시, 적중 증가"
+  },
+  "1000105967": {
+    "english": "Confidence: On Hit, EVA Increase",
+    "korean": "의기 양양 : 공격 적중 시, 회피 증가"
+  },
+  "1000106004": {
+    "english": "Bomber Squad Support: CRIT Increase",
+    "korean": "폭격 편대 지원 : 치명타 증가"
+  },
+  "1000106105": {
+    "english": "Anti-Armor Bomb : Defense Penetration Increase",
+    "korean": "대 장갑 폭탄 : 방어 관통 증가"
+  },
+  "1000106166": {
+    "english": "Ejection System Destruction",
+    "korean": "사출 시스템 파괴"
+  },
+  "1000106179": {
+    "english": "Sound Output Amplified",
+    "korean": "사운드 출력 강화"
+  },
+  "1000106193": {
+    "english": "Positive Mindset (Evasion Increase)",
+    "korean": "긍정적인 사고방식 (회피 증가)"
+  },
+  "1000106194": {
+    "english": "Positive Mindset (Damage Received Reduction)",
+    "korean": "긍정적인 사고방식 (받는 피해 감소)"
+  },
+  "1000106195": {
+    "english": "Positive Mindset (Effect Resistance Increase)",
+    "korean": "긍정적인 사고방식 (효과 저항 증가)"
+  },
+  "1000106223": {
+    "english": "Time-Lag Attack : Counterattack Effect Removed",
+    "korean": "시간차 공격 : 반격 효과 해제"
+  },
+  "1000106231": {
+    "english": "Focused Energy Field Removed",
+    "korean": "집속 에너지 필드 해제"
+  },
+  "1000106232": {
+    "english": "Reactor Activation",
+    "korean": "반응로 작동"
+  },
+  "1000106233": {
+    "english": "Machine Gun Burst : Cannot Move / Mark / Damage to Target with Evasion Decrease Increase",
+    "korean": "기총 소사 : 이동 불가 / 표식/ 회피 감소 대상 피해량 증가"
+  },
+  "1000106234": {
+    "english": "Dive Bombing : Cannot Move / Mark / Damage to Target with Evasion Decrease Increase",
+    "korean": "급강하 폭격 : 이동 불가 / 표식/ 회피 감소 대상 피해량 증가"
+  },
+  "1000106235": {
+    "english": "Preemptive Ground Bombing : AP / Defense Penetration / Damage vs Light & Heavy Units Increase",
+    "korean": "선제 지상 폭격 : AP / 방어 관통 / 대 경장 & 중장형 피해량 증가"
+  },
+  "1000106236": {
+    "english": "Preemptive Ground Bombing : Defense Penetration / Damage vs Light & Heavy Units Increase",
+    "korean": "선제 지상 폭격 : 방어 관통 / 대 경장 & 중장형 피해량 증가"
+  },
+  "1000106237": {
+    "english": "Preemptive Ground Bombing : AP Increase",
+    "korean": "선제 지상 폭격 : AP 증가"
+  },
+  "1000106238": {
+    "english": "Preemptive Ground Bombing : Damage vs Light & Heavy Units Increase",
+    "korean": "선제 지상 폭격 : 대 경장 & 중장형 피해량 증가"
+  },
+  "1000106330": {
+    "english": "Confidence : Anti-mobile-type Damage increase",
+    "korean": "의기 양양 : 대 기동형 피해량 증가"
+  },
+  "1000106505": {
+    "english": "Squad Flight : Critical {0}% (Self)",
+    "korean": "편대 비행 : 치명타{0}% (자신)"
+  },
+  "1000106561": {
+    "english": "Anti-Armor Bomb : Defense Penetration {0}%",
+    "korean": "대 장갑 폭탄 : 방어 관통{0}%"
+  },
+  "1000106582": {
+    "english": "Don’t Shoot! : Provoke target (Saetti)",
+    "korean": "쏘지마세요! : 대상 도발 (세띠)"
+  },
+  "1000106659": {
+    "english": "Preemptive Ground Bombing : AP {0}",
+    "korean": "선제 지상 폭격 : AP{0}"
+  },
+  "1000106660": {
+    "english": "Preemptive Ground Bombing : Defense Penetration {0}%",
+    "korean": "선제 지상 폭격 : 방어 관통{0}%"
+  },
+  "1000106661": {
+    "english": "Bombing Escort Support : AP {0}",
+    "korean": "폭격 호위 지원 : AP{0}"
+  },
+  "1000106662": {
+    "english": "Bombing Escort Support : Damage vs Light-type {0}%",
+    "korean": "폭격 호위 지원 : 대 경장형 피해량{0}%"
+  },
+  "1000106705": {
+    "english": "Air-to-Air Intercept : Damage vs Mobile-type {0}%",
+    "korean": "공대공 요격 : 대 기동형 피해량{0}%"
+  },
+  "1000106829": {
+    "english": "Preemptive Ground Bombardment : Anti-light damage {0}%",
+    "korean": "선제 지상 폭격 : 대 경장형 피해량{0}%"
+  },
+  "1000106830": {
+    "english": "Bombing Escort Support : Anti-heavy damage {0}%",
+    "korean": "폭격 호위 지원 : 대 중장형 피해량{0}%"
+  },
+  "1000106922": {
+    "english": "Preemptive Ground Bombardment : Anti-heavy damage {0}%",
+    "korean": "선제 지상 폭격 : 대 중장형 피해량{0}%"
+  },
+  "1000107418": {
+    "english": "Weakness Analysis",
+    "korean": "약점 분석"
+  },
+  "1000107773": {
+    "english": "Prey Search",
+    "korean": "먹잇감 탐색"
+  },
+  "1000108146": {
+    "english": "Civil War",
+    "korean": "동족상잔"
+  },
+  "1000108147": {
+    "english": "Predatory Instinct",
+    "korean": "포식 본능"
+  },
+  "1000108148": {
+    "english": "Cell Self-Destruct",
+    "korean": "세포자멸사"
+  },
+  "1000108236": {
+    "english": "Aerial Sniping: Ignores Protection, Marked, Increases Damage on Critical, Reduces Defense/Evasion on Hit",
+    "korean": "공중 저격 : 보호 무시, 표식, 치명타시 피해량 증가, 적중 시 방어력/회피 감소"
+  },
+  "1000108238": {
+    "english": "Sniper of the Skies: Increases Accuracy/Critical/Evasion, Increases Defense Penetration",
+    "korean": "하늘의 저격수 : 적중/치명타/회피 증가, 방어 관통 증가"
+  },
+  "1000108239": {
+    "english": "Precision Strike Support: Increases Attack Power/Accuracy/Critical, +50% Effect for [Doom Bringer] Affiliation",
+    "korean": "정밀 타격 지원 : 공격력/적중/치명타 증가, [둠 브링어] 소속 효과  50% 추가"
+  },
+  "1000108240": {
+    "english": "Aerial Sniping: Ignores Protection, Marked, Increases Damage on Critical, Reduces Defense/Evasion on Hit",
+    "korean": "공중 저격 : 보호 무시, 표식, 치명타시 피해량 증가, 적중 시 방어력/회피 감소"
+  },
+  "1000108241": {
+    "english": "Aerial Sniping: Ignores Protection, Marked, Increases Damage on Critical, Reduces Defense/Evasion on Hit",
+    "korean": "공중 저격 : 보호 무시, 표식, 치명타시 피해량 증가, 적중 시 방어력/회피 감소"
+  },
+  "1000108243": {
+    "english": "Precision Strike Support: Increases Attack Power/Accuracy/Critical, +50% Effect for [Doom Bringer] Affiliation",
+    "korean": "정밀 타격 지원 : 공격력/적중/치명타 증가, [둠 브링어] 소속 효과  50% 추가"
+  },
+  "1000108292": {
+    "english": "Aerial Sniping: Damage {0}%",
+    "korean": "공중 저격 : 피해량{0}%"
+  },
+  "1000108293": {
+    "english": "Aimed Bombardment: [Back to the Stone Age!] Cooperative Attack",
+    "korean": "조준 폭격: [석기 시대로!] 협동 공격"
+  },
+  "1000108294": {
+    "english": "Sniper of the Skies: Accuracy {0}%",
+    "korean": "하늘의 저격수 : 적중{0}%"
+  },
+  "1000108295": {
+    "english": "Precision Strike Support: Attack Power {0}%",
+    "korean": "정밀 타격 지원 : 공격력{0}%"
+  },
+  "1000108296": {
+    "english": "Aerial Sniping: Defense {0}% Decrease",
+    "korean": "공중 저격 : 방어력 {0}% 감소"
+  },
+  "1000108297": {
+    "english": "Aerial Sniping: Evasion {0}% Decrease",
+    "korean": "공중 저격 : 회피 {0}% 감소"
+  },
+  "1000108299": {
+    "english": "Precision Strike Support: Attack Power {0}%",
+    "korean": "정밀 타격 지원 : 공격력{0}%"
+  },
+  "1000108330": {
+    "english": "Aerial Sniping: Defense {0}% Decrease",
+    "korean": "공중 저격 : 방어력 {0}% 감소"
+  },
+  "1000108331": {
+    "english": "Aimed Bombardment: Damage Taken {0}%",
+    "korean": "조준 폭격 : 받는 피해{0}%"
+  },
+  "1000108332": {
+    "english": "Sniper of the Skies: Critical {0}%",
+    "korean": "하늘의 저격수 : 치명타{0}%"
+  },
+  "1000108333": {
+    "english": "Precision Strike Support: Accuracy {0}%",
+    "korean": "정밀 타격 지원 : 적중{0}%"
+  },
+  "1000108334": {
+    "english": "Precision Strike Support: Accuracy {0}%",
+    "korean": "정밀 타격 지원 : 적중{0}%"
+  },
+  "1000108342": {
+    "english": "Aerial Sniping: Evasion {0}% Decrease",
+    "korean": "공중 저격 : 회피 {0}% 감소"
+  },
+  "1000108343": {
+    "english": "Sniper of the Skies: Evasion {0}%",
+    "korean": "하늘의 저격수 : 회피{0}%"
+  },
+  "1000108344": {
+    "english": "Precision Strike Support: Critical {0}%",
+    "korean": "정밀 타격 지원 : 치명타{0}%"
+  },
+  "1000108345": {
+    "english": "Precision Strike Support: Critical {0}%",
+    "korean": "정밀 타격 지원 : 치명타{0}%"
+  },
+  "1000108349": {
+    "english": "Sky Sniper: Armor Penetration{0}%",
+    "korean": "하늘의 저격수 : 방어 관통{0}%"
+  },
+  "1000108350": {
+    "english": "Precision Strike Support: [Doom Bringer] Affiliation Effect Increased by 50%",
+    "korean": "정밀 타격 지원 : [둠 브링어] 소속 효과 100% 증가"
+  },
+  "1000108601": {
+    "english": "Targeted Bombardment : AP {0}%",
+    "korean": "조준 폭격 : 행동력{0}%"
+  },
+  "1000110283": {
+    "english": "Bunker Buster (Electric-type Pile Bunker)",
+    "korean": "벙커 버스터(전격형 파일벙커)"
+  },
+  "1000110309": {
+    "english": "Tactical Shift: DEF {0}% (SD3M Pupp Head)",
+    "korean": "전술 전환 : 방어력{0}% (SD3M 펍 헤드)"
+  },
+  "1000110311": {
+    "english": "Tactical Shift: DEF {0}% (Merciful Leanne)",
+    "korean": "전술 전환 : 방어력{0}% (자비로운 리앤)"
+  },
+  "1000110538": {
+    "english": "When hit by Constantia 1st",
+    "korean": "콘스탄챠 1스에 피격 시"
+  },
+  "1000110966": {
+    "english": "Missile Barrage: Extra Damage to Heavy Units",
+    "korean": "미사일 난사 : 중장에게 추가 피해"
+  },
+  "1000110967": {
+    "english": "High-Altitude Bombing: Immobilize / Increased Damage to Marked Targets",
+    "korean": "고고도 폭격 : 이동 불가 / 표식 대상 피해량 증가"
+  },
+  "1000110970": {
+    "english": "Anti-Armor Missile: Defense Penetration",
+    "korean": "대 장갑 미사일 : 방어 관통"
+  },
+  "1000110971": {
+    "english": "Stealth Mode: Skill Power Increase",
+    "korean": "스텔스 모드 : 스킬 위력 증가"
+  },
+  "1000110972": {
+    "english": "Missile Barrage: Damage {0}% (Heavy Units)",
+    "korean": "미사일 난사 : 피해량{0}% (중장)"
+  },
+  "1000110973": {
+    "english": "High-Altitude Bombing: Damage {0}%",
+    "korean": "고고도 폭격 : 피해량{0}%"
+  },
+  "1000110975": {
+    "english": "Extreme Superiority Complex: Attack Power {0}%",
+    "korean": "극도의 우월감 : 공격력{0}%"
+  },
+  "1000110976": {
+    "english": "Anti-Armor Missile: Defense Penetration {0}%",
+    "korean": "대 장갑 미사일 : 방어 관통{0}%"
+  },
+  "1000110978": {
+    "english": "Strategic Operation: Skill Power {0}% (Midline)",
+    "korean": "전략적 운용 : 스킬 위력{0}% (중열)"
+  },
+  "1000110979": {
+    "english": "Strategic Operation: Skill Power {0}% (Rear)",
+    "korean": "전략적 운용 : 스킬 위력{0}% (후열)"
+  },
+  "1000110980": {
+    "english": "Overwhelming Superiority: ATK {0}%",
+    "korean": "압도적 우월감 : 공격력{0}%"
+  },
+  "1000110983": {
+    "english": "Extreme Superiority Complex: Critical {0}%",
+    "korean": "극도의 우월감 : 치명타{0}%"
+  },
+  "1000110984": {
+    "english": "Overwhelming Superiority: CRIT {0}%",
+    "korean": "압도적 우월감 : 치명타{0}%"
+  },
+  "1000200001": {
+    "english": "P/A-00 Griffon",
+    "korean": "P/A-00 그리폰"
+  },
+  "1000200002": {
+    "english": "Constantia S2",
+    "korean": "콘스탄챠 S2"
+  },
+  "1000200003": {
+    "english": "Prester Johanna",
+    "korean": "프레스터 요안나"
+  },
+  "1000200004": {
+    "english": "Amy Razor",
+    "korean": "에이미 레이저"
+  },
+  "1000200006": {
+    "english": "Indomitable Marie",
+    "korean": "불굴의 마리"
+  },
+  "1000200009": {
+    "english": "T-2 Brownie",
+    "korean": "T-2 브라우니"
+  },
+  "1000200014": {
+    "english": "T-3 Leprechaun",
+    "korean": "T-3 레프리콘"
+  },
+  "1000200016": {
+    "english": "Scissors Lise",
+    "korean": "시저스 리제"
+  },
+  "1000200017": {
+    "english": "P-24 Pinto",
+    "korean": "P-24 핀토"
+  },
+  "1000200018": {
+    "english": "AS-12 Steel Draco",
+    "korean": "AS-12 스틸 드라코"
+  },
+  "1000200019": {
+    "english": "AG-1 Nereid",
+    "korean": "AG-1 네레이드"
+  },
+  "1000200020": {
+    "english": "CS Perrault",
+    "korean": "CS 페로"
+  },
+  "1000200022": {
+    "english": "AT-100 Beast Hunter",
+    "korean": "AT-100 비스트헌터"
+  },
+  "1000200023": {
+    "english": "M-5 Efreeti",
+    "korean": "M-5 이프리트"
+  },
+  "1000200024": {
+    "english": "AA-7 Impet",
+    "korean": "AA-7 임펫"
+  },
+  "1000200025": {
+    "english": "T-8W Valkyrie",
+    "korean": "T-8W 발키리"
+  },
+  "1000200027": {
+    "english": "Prototype Labiata",
+    "korean": "라비아타 프로토타입"
+  },
+  "1000200028": {
+    "english": "A-6 Io",
+    "korean": "A-6 이오"
+  },
+  "1000200029": {
+    "english": "GS-10 Sand Girl",
+    "korean": "GS-10 샌드걸"
+  },
+  "1000200030": {
+    "english": "T-10 Nymph",
+    "korean": "T-10 님프"
+  },
+  "1000200031": {
+    "english": "T-9 Gremlin",
+    "korean": "T-9 그렘린"
+  },
+  "1000200032": {
+    "english": "Vanilla A1",
+    "korean": "바닐라 A1"
+  },
+  "1000200033": {
+    "english": "A-1 Bloody Panther",
+    "korean": "A-1 블러디 팬서"
+  },
+  "1000200034": {
+    "english": "May of Doom",
+    "korean": "멸망의 메이"
+  },
+  "1000200036": {
+    "english": "B-11 Night Angel",
+    "korean": "B-11 나이트 앤젤"
+  },
+  "1000200037": {
+    "english": "X-05 Emily",
+    "korean": "X-05 에밀리"
+  },
+  "1000200040": {
+    "english": "AT-4 Pani",
+    "korean": "AT-4 파니"
+  },
+  "1000200042": {
+    "english": "P-18 Sylphid",
+    "korean": "P-18 실피드"
+  },
+  "1000200044": {
+    "english": "AL Phantom",
+    "korean": "AL 팬텀"
+  },
+  "1000200045": {
+    "english": "Black Lilith",
+    "korean": "블랙 리리스"
+  },
+  "1000200046": {
+    "english": "Alexandra of Resonance",
+    "korean": "공진의 알렉산드라"
+  },
+  "1000200047": {
+    "english": "P-49 Sleipnir",
+    "korean": "P-49 슬레이프니르"
+  },
+  "1000200051": {
+    "english": "P-2000 Djinnia",
+    "korean": "P-2000 지니야"
+  },
+  "1000200052": {
+    "english": "P/A-8 Black Hound",
+    "korean": "P/A-8 블랙 하운드"
+  },
+  "1000200054": {
+    "english": "SD3M Pupp Head",
+    "korean": "SD3M 펍 헤드"
+  },
+  "1000200055": {
+    "english": "CT2199W Fallen",
+    "korean": "CT2199W 폴른"
+  },
+  "1000200057": {
+    "english": "HQ1 Albatross",
+    "korean": "HQ1 알바트로스"
+  },
+  "1000200059": {
+    "english": "Aeda Type-G",
+    "korean": "에이다 Type-G"
+  },
+  "1000200060": {
+    "english": "CT66 Rampart",
+    "korean": "CT66 램파트"
+  },
+  "1000200062": {
+    "english": "CM67 Stinger",
+    "korean": "CM67 스팅어"
+  },
+  "1000200063": {
+    "english": "K180 Seljuq",
+    "korean": "K180 셀주크"
+  },
+  "1000200064": {
+    "english": "S5 Gigantes",
+    "korean": "S5 기간테스"
+  },
+  "1000200065": {
+    "english": "T-14 Miho",
+    "korean": "T-14 미호"
+  },
+  "1000200066": {
+    "english": "A-54 Calista",
+    "korean": "A-54 칼리스타"
+  },
+  "1000200067": {
+    "english": "Type-37 Daika",
+    "korean": "37식 다이카"
+  },
+  "1000200181": {
+    "english": "Hello? It's a pleasure to meet you for the first time, Commander. I'm PX Silky. Um… would you like me to warm up a cup of coffee?&n&nLike many other Silky models, I'm in charge of logistics for our squad. From regular ammunition to bedding, snacks, and even Sergeant Efreeti's doll—all of it fits in this special-material backpack I carry.&n&nTo be honest… the higher-ups were strongly opposed to the idea of a bioroid transporting supplies for the entire squad on foot, carrying such a large pack. Compared to high-performance mechanical units, we really don't have any clear advantages.&n&nBut for some reason, people even higher up than those higher-ups decided to deploy us. Even we Silky units aren't sure why. But since the decision was made, all we can do is give our best effort delivering supplies to our squadmates.&n&nI guess I'm one of the lucky ones, Commander. We're slow on our feet and poorly armored, so we're incredibly vulnerable to attacks. To have survived and now be standing here before you... I'm truly grateful.&n&nI know I have many shortcomings, but I'll do my very best from here on out, Commander.",
+    "korean": "안녕하세요? 처음 뵙겠습니다 사령관님. 저는 PX 실키라고 해요. 저... 커피 한 컵 데워드릴까요?&n&n저도 수 많은 실키 모델들 처럼, 저희 분대의 보급을 맡고있어요. 일반 탄약부터, 침구류, 간식, 이프리트 병장의 인형까지. 이 특수소재 배낭에 모두 들어있지요.&n&n사실… 바이오로이드가 도보로 큰 배낭을 짊어진 채, 분대원 전체의 물자를 수송한다는 계획을 높으신 분들이 엄청나게 반대하셨대요. 저희는 고성능의 기계 유닛들에 비해 장점이라 할만한게 딱히 없거든요.&n&n하지만 높으신 분들 위의, 더 높으신 분들이 왜인지 저희를 채용했다고 들었어요. 그 이유는 저희 실키들도 잘 모르겠어요. 정책이 잡혔으니, 저희는 그저 최선을 다해 분대원들의 물자를 나를 뿐이지요.&n&n저는 운이 좋은편이에요 사령관님. 저희는 발이 느리고 방호능력이 부족해, 공격에 굉장히 취약하거든요. 이렇게 살아서 사령관님을 뵙게되다니... 저는 진심으로 감사하게 생각하고 있어요.&n&n여러모로 부족하지만 앞으로 열심히 하겠습니다. 사령관님."
+  }
+}

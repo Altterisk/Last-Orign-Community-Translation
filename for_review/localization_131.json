@@ -132,7 +132,7 @@
     "korean": "지정 범위에 {0} 피해를 주고, 2라운드 동안 적중을 감소시키며 적중 강화 효과를 해제합니다. 적중 대상은 해당 라운드 동안 스킬을 사용하지 못합니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002704387": {
-    "english": "At battle start, gives drinks to adjacent Bioroids, increasing their ATK / EVA / SPD but decreasing ACU. These effects are classified as normal effects.",
+    "english": "At battle start, gives drinks to adjacent bioroids, increasing their ATK / EVA / AP but decreasing ACU. These effects are classified as normal effects.",
     "korean": "전투 개시 시, 인접 바이오로이들에게 마실 것을 줘 대상들의 공격력 / 회피 / 행동력을 증가시키지만 적중이 감소합니다. 해당 효과들은 일반 효과로 분류됩니다."
   },
   "1002704388": {
@@ -208,7 +208,7 @@
     "korean": "라운드 개시 시, 주변 아군의 화기를 개조해 공격력 / 치명타를 증가시키지만 사거리를 감소시킵니다. 사거리 감소 효과는 일반 효과로 분류됩니다. 스킬 레벨 10에서 범위가 증가합니다."
   },
   "1002704406": {
-    "english": "At the start of the round, increases EVA. Provides Designated Protection to non-defender allies within range who are under May's <Bombing Squadron Command>, excluding defenders.",
+    "english": "At the start of the round, EVA increases. If the unit is under [Escort Ready] (Combat Continuation), this effect is doubled. Protects non-Protector allies within range.",
     "korean": "라운드 개시 시, 회피가 증가합니다. 범위 내 메이의 <폭격 편대 지휘>를 받는 보호기 제외 아군을 지정 보호합니다."
   },
   "1002704407": {
@@ -1452,11 +1452,11 @@
     "korean": "오만과 분노 (아군 행력 더미)"
   },
   "1002704719": {
-    "english": "Extreme Discomfort (Daika)",
+    "english": "Extreme Discomfort (Type-37 Daika)",
     "korean": "극도의 불편함 (다이카)"
   },
   "1002704720": {
-    "english": "Extreme Discomfort (Sylphid)",
+    "english": "Extreme Discomfort (P-18 Sylphid)",
     "korean": "극도의 불편함 (실피드)"
   },
   "1002704721": {
@@ -2876,7 +2876,7 @@
     "korean": "아군이 사망 시 파괴 본능에 빠져 해당 라운드에는 행동 불가 상태가 되고&n3라운드 동안 방어 관통력/공격력이 대폭 증가 합니다.&n파괴 본능이 적용된 상태에서 속성 공격에 피격 시 높은 확률로 해당 라운드에는 행동 불가 상태에 빠지게 됩니다."
   },
   "1002705081": {
-    "english": "When using the <Death Energy> skill, a massive amount of energy is consumed, causing the <Energy Depletion> status. When in the <Energy Depletion> status, energy is extracted from nearby Metal Parasites to replenish the lost energy. Once the lost energy is replenished, the <Energy Buffer> status is activated, minimizing damage and granting immunity to harmful effects.",
+    "english": "When using the <Death Energy> skill, a massive amount of energy is consumed, causing the <Energy Depletion> status. When in the <Energy Depletion> status, energy is extracted from nearby Iron Bugs to replenish the lost energy. Once the lost energy is replenished, the <Energy Buffer> status is activated, minimizing damage and granting immunity to harmful effects.",
     "korean": "<죽음의 에너지> 스킬을 사용 시 막대한 에너지를 소비하게 되어 <에너지 고갈> 상태에 빠지게 됩니다. <에너지 고갈> 상태에 빠지게 되면 주위 철충에게서 에너지를 추출하여 손실된 에너지를 보충합니다. 손실된 에너지가 보충이 되면 <에너지 완충> 상태가 되어 피해가 최소화 되고 해로운 효과에 면역이 됩니다."
   },
   "1002705082": {
@@ -3100,7 +3100,7 @@
     "korean": "목표 지점 {0} 피해. 보호 무시. 표식 / 이동 불가 대상 피해량 증가"
   },
   "1002705140": {
-    "english": "If May is in squad, ATK / CRIT / SPD increase",
+    "english": "If May of Doom is in squad, ATK / CRIT / AP increase",
     "korean": "스쿼드에 메이가 있으면 공격력 / 치명타 / 행동력 증가"
   },
   "1002705141": {
@@ -3580,7 +3580,7 @@
     "korean": "미사일 폭격으로 대상 지점에 {0} 피해를 줍니다. 보호 효과를 무시하며, 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다."
   },
   "1002705279": {
-    "english": "If May is in the squad, feels discomfort due to a certain fact, increasing ATK / CRIT / SPD.",
+    "english": "If May of Doom is in the squad, feels discomfort due to a certain fact, increasing ATK / CRIT / AP.",
     "korean": "스쿼드에 메이가 있으면 특정 사실 때문에 불편함을 느껴, 공격력 / 치명타 / 행동력이 증가합니다."
   },
   "1002705280": {
@@ -3868,7 +3868,7 @@
     "korean": "보병 지원 (AP 더미)"
   },
   "1002705353": {
-    "english": "Mobile Shooting (SPD: Tiles)",
+    "english": "Shooting while on the move (Action Points: Khan the Swift)",
     "korean": "기동간 사격 (행동력 : 칸)"
   },
   "1002705354": {
@@ -3952,7 +3952,7 @@
     "korean": "토모와 친구들 (드라코 공격 지원)"
   },
   "1002705374": {
-    "english": "Tomo and Friends (War Wolf Attack Support)",
+    "english": "Tomo and Friends (T-75 War Wolf Attack Support)",
     "korean": "토모와 친구들 (워울프 공격 지원)"
   },
   "1002705375": {

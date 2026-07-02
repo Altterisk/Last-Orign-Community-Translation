@@ -44,7 +44,7 @@
     "korean": "지정 범위 {0} 피해. 적중 / AP 감소. 적중 강화 해제"
   },
   "1002703363": {
-    "english": "If Spartan Captain is present, increase ATK / SPD / reduce damage received",
+    "english": "If S25 Spartan Captain is present, increase ATK / Action Power / reduce damage received",
     "korean": "스파르탄 캡틴이 있는 경우, 공격력 / 행동력 증가 / 받는 피해 감소"
   },
   "1002703364": {
@@ -148,7 +148,7 @@
     "korean": "공격 지원 / 지정 보호를 받는 상태면 공격력 / 적중 / 행동력 증가"
   },
   "1002703389": {
-    "english": "If Brownie is present, increase ATK / ACU / SPD. Support attacks on targets charging with Brownie",
+    "english": "If T-2 Brownie is present, increase ATK / ACU / Action Power. Support attacks on targets charging with T-2 Brownie",
     "korean": "브라우니가 있으면 공격력 / 적중 / 행동력 증가. 브라우니와 돌격 중인 대상 공격 지원"
   },
   "1002703390": {
@@ -184,7 +184,7 @@
     "korean": "공격 지원 받는 상태면 적중 / 치명타 증가. 포격 모드면 방어막 / 피해 감소 무시"
   },
   "1002703398": {
-    "english": "Deals {0} damage to a designated area. Increased damage to marked or immobilized targets.",
+    "english": "Deals {0} damage to the designated area. Damage is increased against marked / immobilized targets.",
     "korean": "지정 범위 {0} 피해. 표식 / 이동 불가 대상 피해량 증가"
   },
   "1002703399": {
@@ -224,7 +224,7 @@
     "korean": "지정 범위 {0} 보호 무시 냉기 피해. 뒤로 밀기 / 피해 증폭. 침수 시, 빙결 / 강화 해제"
   },
   "1002703408": {
-    "english": "Increase SPD / all resistances of self and adjacent Bioroids (greater effect in front row)",
+    "english": "Increase Action Power / all resistances of self and adjacent bioroids (greater effect in front row)",
     "korean": "자신과 인접 바이오로이드 행동력 / 모든 저항 증가 (전열에서 효과 증가)"
   },
   "1002703409": {
@@ -388,7 +388,7 @@
     "korean": "지정 범위 {0} 보호 무시 피해. AP 감소. 치명타 시, 추가 화염 피해 / 강화 해제"
   },
   "1002703450": {
-    "english": "When HP is above 50%, surrounding Bioroids' ATK / ACU / CRIT / DEF penetration increases",
+    "english": "When HP is above 50%, surrounding bioroids' ATK / ACU / CRIT / DEF penetration increases",
     "korean": "HP 50% 이상인 경우, 주변 바이오로이드 공격력 / 적중 / 치명타 / 방어 관통 증가"
   },
   "1002703451": {
@@ -1012,7 +1012,7 @@
     "korean": "아군 공격력 / 치명타 증가 / 사거리 감소"
   },
   "1002703606": {
-    "english": "Increases user's EVA. Protects targets affected by May's (Defender excluded)",
+    "english": "Increases own EVA. Protects non-Protector allies within range.",
     "korean": "자신 회피 증가. 메이의 <폭격 편대 지휘>를 받는 대상 보호 (보호기 제외)"
   },
   "1002703607": {
@@ -1292,7 +1292,7 @@
     "korean": "목표 적을 감전시켜 {0}의 전기 속성 피해를 주고 AP와 회피를 감소시킵니다."
   },
   "1002703677": {
-    "english": "Arrests the target, pulling them forward up to 2 tiles and inflicting Immobilize for 2 rounds. The target is also inflicted with Mark and Increased Damage Taken for 2 rounds. If Rampart is in the squad, triggers a coordinated attack.",
+    "english": "Arrests the target, pulling them forward up to 2 tiles and inflicting Immobilize for 2 rounds. The target is also inflicted with Mark and Increased Damage Taken for 2 rounds. If CT66 Rampart is in the squad, triggers a coordinated attack.",
     "korean": "목표 대상을 체포해 최대 2칸까지 앞으로 당기며, 2라운드 동안 이동 불가 상태로 만듭니다. 대상은 2라운드 동안 표식 / 받는 피해 증가 상태가 됩니다. 스쿼드 내 램파트가 있을 시, 대상에게 <목표 견제> 스킬 협동 공격을 합니다."
   },
   "1002703678": {
@@ -1388,7 +1388,7 @@
     "korean": "돌격 소총 조준 사격으로 {0} 피해를 줍니다. 목표가 회피 / 방어력 감소 상태인 경우, 피해량이 증가합니다."
   },
   "1002703701": {
-    "english": "Fire a revolver, dealing {0} damage to the target, taunting them for 2 rounds and lowering their ACU.&nIf Pupp Head is in the squad, trigger a cooperative attack with the <Taser Gun> skill on the target.",
+    "english": "Fire a revolver, dealing {0} damage to the target, taunting them for 2 rounds and lowering their ACU.&nIf SD3M Pupp Head is in the squad, trigger a cooperative attack with the <Taser Gun> skill on the target.",
     "korean": "리볼버를 발사해 {0} 피해를 주고, 대상을 2라운드 동안 도발하며 적중을 낮춥니다. 스쿼드 내 펍 헤드가 있을 시, 대상에게 <테이저 건> 스킬 협동 공격을 합니다."
   },
   "1002703702": {
@@ -1572,7 +1572,7 @@
     "korean": "기관총을 난사해 목표 적에게 {0} 피해를 줍니다."
   },
   "1002703747": {
-    "english": "Transforms into Super Fallen.",
+    "english": "Transforms into Super CT2199W Fallen.",
     "korean": "슈퍼 폴른으로 변형합니다."
   },
   "1002703748": {
@@ -1580,7 +1580,7 @@
     "korean": "기관총을 난사해 목표 범위에 {0} 피해를 줍니다. 적 HP가 낮을수록 피해량이 증가합니다."
   },
   "1002703749": {
-    "english": "Transform into a regular Fallen.",
+    "english": "Transform into a regular CT2199W Fallen.",
     "korean": "일반 폴른으로 변형합니다."
   },
   "1002703750": {
@@ -2172,7 +2172,7 @@
     "korean": "적 공격 시, 부스터 출력을 올려 2라운드 동안 공격력 / 행동력 / 회피가 증가합니다."
   },
   "1002703897": {
-    "english": "Deals {0} damage to the target with a beam shot.&nProvokes the target and inflicts confusion for 2 rounds, lowering their ACU, CRIT, and SPD.&nTriggers a Harpyia Full Burst coordinated attack.&nACU bonus is applied based on skill level.",
+    "english": "Deals {0} damage to the target with a beam shot.&nProvokes the target and inflicts confusion for 2 rounds, lowering their ACU, CRIT, and Action Power.&nTriggers a P-22 Harpyia Full Burst coordinated attack.&nACU bonus is applied based on skill level.",
     "korean": "빔 사격으로 대상에게 {0} 피해를 줍니다. 2라운드 동안 대상을 도발하며, 혼란 상태로 만들어 적중 / 치명타 / 행동력을 낮춥니다.&n하르페이아 풀 버스트 협동 공격을 유도합니다. &n스킬 레벨에 따른 적중 보정이 적용됩니다."
   },
   "1002703898": {
@@ -2192,7 +2192,7 @@
     "korean": "적 공격 시, 회피 / 행동력 감소 효과를 해제하며 2라운드 동안 회피가 최대 2회까지 증가합니다. 액티브 스킬을 발동할 때마다 해당 라운드에 회피가 추가로 증가합니다."
   },
   "1002703902": {
-    "english": "Fires a machine gun shot dealing {0} damage. Reduces the target's ACU for 2 rounds. Damage increases if the target is taunted. Harpyia Full Burst coordinated attack is induced. Skill level accuracy bonus applies.",
+    "english": "Fires a machine gun shot dealing {0} damage. Reduces the target's ACU for 2 rounds. Damage increases if the target is taunted. P-22 Harpyia Full Burst coordinated attack is induced. Skill level accuracy bonus applies.",
     "korean": "기총 사격으로 {0} 피해를 줍니다. 2라운드 동안 대상의 적중을 감소시키며, 대상이 도발 상태면 피해량이 증가합니다. &n하르페이아 풀 버스트 협동 공격을 유도합니다.&n스킬 레벨에 따른 적중 보정이 적용됩니다."
   },
   "1002703903": {
@@ -2208,11 +2208,11 @@
     "korean": "공격 시, 2라운드 동안 회피가 증가합니다. 최대 3회까지 중첩 가능합니다. 적의 공격을 회피하면 AP가 증가합니다."
   },
   "1002703906": {
-    "english": "Fires a revolver autocannon to deal {0} damage, Taunting the target and reducing their ACU for 2 rounds.",
+    "english": "Fires a revolver machine cannon, dealing {0} damage. Taunts the target for 2 rounds and reduces their accuracy. If the squad includes May of Doom, B-11 Night Angel, P-18 Sylphid, A-87 Banshee, B-7 Strato Angel, and AL Wraith, this skill triggers a 100% cooperative attack, activating one of the following skills: [To the Stone Age!], [High-altitude Bombardment], [Heat-Seeking Lock-On Missile], [Autocannon Burst], [High-altitude Bombardment], [Aimed Bombardment]. If multiple units capable of cooperative attacks are present, priority is given in the order listed above",
     "korean": "리볼버 기관포를 발사해 {0} 피해를 주고, 2라운드 동안 대상을 도발하며 적중을 낮춥니다."
   },
   "1002703907": {
-    "english": "Fires chaff missiles to increase EVA and reduce damage taken for allies in the designated area for 2 rounds.",
+    "english": "Launches a chaff missile, increasing allies’ EVA in the target area for 2 rounds and reducing damage taken.",
     "korean": "채프 미사일을 발사해 2라운드 동안 지정 범위에 있는 아군의 회피를 올리고, 받는 피해를 낮춥니다."
   },
   "1002703908": {
@@ -2344,15 +2344,15 @@
     "korean": "대상 지점에 소독 용액을 분사해 해로운 효과를 해제하고, 2라운드 동안 효과 저항을 높혀주며 침수 상태로 만듭니다. 침수 상태가 되면 화염 저항이 증가하며, 냉기 / 전기 저항이 감소합니다. 스킬 숙련도 5에서 범위가 증가합니다."
   },
   "1002703940": {
-    "english": "Fires an anti-radar missile at the target location, dealing {0} damage. When the attack hits, removes any ACU boost effects on the target and confuses them for 2 rounds. When confused, ACU / CRIT / SPD decrease.",
+    "english": "Fires an anti-radar missile at the target location, dealing {0} damage. On hit, removes any Accuracy Buffs on the target and inflicts Confusion for 2 rounds. While Confused, the target’s Accuracy, Critical Hit, and Action Speed are reduced.\nIf the squad includes May of Doom, B-11 Night Angel, P-18 Sylphid, A-87 Banshee, B-7 Strato Angel, and AL Wraith, this skill triggers a 100% cooperative attack, activating one of the following skills: [To the Stone Age!], [High-altitude Bombardment], [Heat-Seeking Lock-On Missile], [Autocannon Burst], [High-altitude Strike], [Precision Bombardment]. If multiple units capable of cooperative attacks are present, priority is given in the order listed above",
     "korean": "대상 지점에 대 레이더 미사일을 발사해 {0} 피해를 줍니다. 공격 적중 시, 대상에게 걸려있는 적중 강화 효과를 해제하고 2라운드 동안 혼란 상태로 만듭니다. 혼란 상태가 되면 적중 / 치명타 / 행동력이 감소합니다."
   },
   "1002703941": {
-    "english": "Transmits battle situation to adjacent allies, increasing their AP and increasing Range / CRIT / ACU for 2 rounds.",
+    "english": "Conveys battlefield intel to adjacent allies, increasing their AP. Increases Range, CRIT Hit, and ACU for 2 rounds.",
     "korean": "인접한 아군들에게 전황을 전달해 대상들의 AP를 증가시키며, 2라운드 동안 사거리 / 치명타 / 적중을 올려줍니다."
   },
   "1002703942": {
-    "english": "You can obtain information on the next enemy that will appear, and your EVA will increase the closer you are to the enemy camp.",
+    "english": "Reveals information about upcoming enemies. EVA increases based on proximity to the enemy formation. If Sterling is in the squad, the effect is doubled.",
     "korean": "다음에 출현할 적 정보를 얻을 수 있으며, 적 진영과 가까울수록 회피가 증가합니다."
   },
   "1002703943": {
@@ -2868,7 +2868,7 @@
     "korean": "<공격 차단> 효과를 받는 상태인 경우, 행동 불능이 되면 일정 HP를 회복하고 전투를 속행합니다."
   },
   "1002704071": {
-    "english": "Stitches a Metal Parasite to deal {0} damage, inflict Immobilize, and reduce the target's EVA. Applies an additional debuff depending on the current Aesthetic Pursuit mode.",
+    "english": "Stitches a Iron Bug to deal {0} damage, inflict Immobilize, and reduce the target's EVA. Applies an additional debuff depending on the current Aesthetic Pursuit mode.",
     "korean": "철충을 재봉해 {0} 피해를 주고, 이동 불가 상태로 만들며 회피를 낮춥니다. 현재 적용 중인 <심미 탐구> 상태에 따라 추가 방해 효과를 적용합니다."
   },
   "1002704072": {
@@ -2928,7 +2928,7 @@
     "korean": "자신과 공격당하는 적의 잔여 HP 비율이 낮을수록 적에게 주는 피해량이 증가합니다. 라운드 개시 시, 자신의 행동력을 증가시킵니다."
   },
   "1002704086": {
-    "english": "Fires an assault rifle to deal {0} damage, reducing the target's ATK and CRIT for 2 rounds and increasing damage taken. On a critical hit, gains additional effects based on Spartan Captain: Tactical Data Link stacks:&nData Link 1 stack: Reduces the target's DEF&nData Link 2 stacks: Removes the target's buffs",
+    "english": "Fires an assault rifle to deal {0} damage, reducing the target's ATK and CRIT for 2 rounds and increasing damage taken. On a critical hit, gains additional effects based on S25 Spartan Captain: Tactical Data Link stacks:&nData Link 1 stack: Reduces the target's DEF&nData Link 2 stacks: Removes the target's buffs",
     "korean": "돌격 소총으로 {0} 피해를 주고, 2라운드 동안 대상의 공격력과 치명타를 낮추며 받는 피해를 증가시킵니다. 치명타 시 스파르탄 캡틴:<전술 데이터 링크> 중첩에 따라 추가 효과를 얻습니다.&n<데이터 링크> 1중첩 : 적 방어력 감소&n<데이터 링크> 2중첩 : 적 강화 효과 해제"
   },
   "1002704087": {
@@ -2936,11 +2936,11 @@
     "korean": "섬광탄을 발사해 지정 범위에 {0} 피해를 주고, 대상의 적중과 AP를 낮추며 적중 강화 효과를 해제합니다."
   },
   "1002704088": {
-    "english": "If a Spartan Captain is in the squad, ATK and SPD increase, and damage taken decreases.",
+    "english": "If a S25 Spartan Captain is in the squad, ATK and AP increase, and damage taken decreases.",
     "korean": "스쿼드에 스파르탄 캡틴이 있는 경우, 공격력과 행동력이 증가하며 받는 피해가 감소합니다."
   },
   "1002704089": {
-    "english": "Fires an assault rifle to deal {0} damage. If the target is under EVA reduction, damage dealt is increased. On a CRIT, gains additional effects based on Spartan Captain: Tactical Data Link stacks:&nData Link 1 stack: Reduces the target's SPD&nData Link 2 stacks: Inflicts Cannot Act on the target",
+    "english": "Fires an assault rifle to deal {0} damage. If the target is under EVA reduction, damage dealt is increased. On a CRIT, gains additional effects based on S25 Spartan Captain: Tactical Data Link stacks:&nData Link 1 stack: Reduces the target's AP&nData Link 2 stacks: Inflicts Cannot Act on the target",
     "korean": "돌격 소총으로 {0} 피해를 줍니다. 대상이 회피 감소 상태인 경우, 피해량이 증가합니다. 치명타 시 스파르탄 캡틴:<전술 데이터 링크> 중첩에 따라 추가 효과를 얻습니다.&n<데이터 링크> 1중첩 : 적 행동력 감소&n<데이터 링크> 2중첩 : 적 행동 불가"
   },
   "1002704090": {
@@ -2964,7 +2964,7 @@
     "korean": "라운드 개시 시, HP가 50% 이하면 전투 프로그램을 갱신해 자신과 주변 아군에게 무작위 강화 효과를 부여합니다. 낮은 확률로 치명적 오류가 발생해 행동 불가가 되거나 받는 피해 증가 효과가 발생합니다."
   },
   "1002704095": {
-    "english": "At the start of the round, if Rampart is deployed in the enemy formation, ATK and SPD decrease.",
+    "english": "At the start of the round, if CT66 Rampart is deployed in the enemy formation, ATK and AP decrease.",
     "korean": "라운드 개시 시, 상대 진영에 램파트가 배치된 경우 공격력 / 행동력 감소"
   },
   "1002704096": {
@@ -2972,19 +2972,19 @@
     "korean": "지정 범위에 보호 효과를 무시하고 {0} 피해를 줍니다. 2라운드 동안 방어력 증가 / 회피와 행동력 감소 / 이동불가 / 사거리 감소 상태로 만듭니다. 스킬 레벨 당+30%의 추가 적중이 적용되며, 모든 회피 변경 효과를 해제하고 적용됩니다. 스킬 숙련도 10에서 범위가 크게 증가합니다."
   },
   "1002704097": {
-    "english": "At the start of combat, if Rampart is in the enemy formation, all allies' DEF and EVA are decreased.",
+    "english": "At the start of combat, if CT66 Rampart is in the enemy formation, all allies' DEF and EVA are decreased.",
     "korean": "전투 개시 시, 상대 진영에 램파트가 있을 경우 모든 아군의 방어력 / 회피가 감소합니다."
   },
   "1002704098": {
-    "english": "At the start of combat, if Rampart is in the enemy formation, all allies' ATK and ACU are decreased.",
+    "english": "At the start of combat, if CT66 Rampart is in the enemy formation, all allies' ATK and ACU are decreased.",
     "korean": "전투 개시 시, 상대 진영에 램파트가 있을 경우 모든 아군의 공격력 / 적중이 감소합니다."
   },
   "1002704099": {
-    "english": "At the start of combat, if Constantia S2 is in the enemy formation, all allies' DEF and SPD are decreased.",
+    "english": "At the start of combat, if Constantia S2 S2 is in the enemy formation, all allies' DEF and action points are decreased.",
     "korean": "전투 개시 시, 상대 진영에 콘스탄챠 S2가 있을 경우 모든 아군의 방어력 / 행동력이 감소합니다."
   },
   "1002704100": {
-    "english": "At the start of combat, if Constantia S2 is in the enemy formation, all allies' ATK and CRIT are decreased.",
+    "english": "At the start of combat, if Constantia S2 S2 is in the enemy formation, all allies' ATK and CRIT are decreased.",
     "korean": "전투 개시 시, 상대 진영에 콘스탄챠 S2가 있을 경우 모든 아군의 공격력 / 치명타가 감소합니다."
   },
   "1002704101": {
@@ -3112,7 +3112,7 @@
     "korean": "전투에서 일어난 일과 오간 대화를 퍼뜨릴 생각에 들떠, 첫 전투 이후 전투에서 공격력 / 치명타 / 행동력이 증가합니다."
   },
   "1002704132": {
-    "english": "At the start of the round, if this unit is under Attack Support or Designated Protection, its ATK, AC, and SPD increase. If the unit providing Attack Support is a Leprechaun, the effect is increased by 50%.",
+    "english": "At the start of the round, if this unit is under Attack Support or Designated Protection, its ATK, ACU, and AP increase. If the unit providing Attack Support is a T-3 Leprechaun, the effect is increased by 50%.",
     "korean": "라운드 개시 시, 자신이 공격 지원 또는 지정 대상 보호를 받는 상태면 공격력 / 적중 / 행동력이 증가합니다. 공격 지원을 해주는 대상이 레프리콘인 경우, 효과가 50% 증가합니다."
   },
   "1002704133": {
@@ -3932,7 +3932,7 @@
     "korean": "범위 내에 메이의 <폭격 편대 지휘> 효과를 받는 아군의 공격을 지원하고 대상의 적중 / 행동력을 증가시킵니다."
   },
   "1002704337": {
-    "english": "Increases the ACU / EVA of allies in the squad and reduces damage taken. When this effect is applied, it removes the ACU / EVA reduction effect on the target. If the target is mobile, the effect increases by 20%.",
+    "english": "At the start of each round, increases squad allies’ ACU/EVA, and reduces damage taken. Removes any ACU/EVA debuffs from affected targets. If the target is Mobile-type, the effect is increased by 50%.\n\nIf [May of Doom] is not in the squad, increases AP of allies within range.",
     "korean": "스쿼드 내 아군의 적중 / 회피를 증가시키고 받는 피해를 감소시킵니다. 해당 효과 적용 시, 대상에게 걸린 적중 / 회피 감소 효과를 해제합니다. 대상이 기동형인 경우, 효과가 20% 증가합니다."
   },
   "1002704338": {

@@ -24,7 +24,7 @@
     "korean": "HESH탄을 발사해 {0} 피해를 줍니다. 치명타 시, 피해량이 증가합니다.&n대상이 받는 피해 증가 / 방어력 감소 상태일 경우, 대상의 받는 피해 감소 효과를 해제합니다."
   },
   "SkillDesc_Skill_BR_Pani_N_2": {
-    "english": "Fires a high-velocity AP round to deal {0} defense-piercing damage. Damage is increased on a critical hit.&nIf <AT-100 Beast Hunter> is in the squad, triggers a [Cluster Bombardment] joint attack.",
+    "english": "Fires a high-velocity AP round to deal {0} defense-piercing damage. Damage is increased on a critical hit.&nIf <AT-100 AT-100 Beast Hunter> is in the squad, triggers a [Cluster Bombardment] joint attack.",
     "korean": "고속 철갑탄을 발사해 {0} 방어 관통 피해를 줍니다. 치명타인 경우, 피해량이 증가합니다.&n스쿼드 내에 <AT-100 비스트헌터>가 있을 경우 <유산탄 포격> 협동 공격을 유도합니다."
   },
   "SkillDesc_Skill_BR_Pani_N_3": {
@@ -60,7 +60,7 @@
     "korean": "자신의 기본 냉기 저항이 75%로 증가합니다.&n라운드 개시 시, 3라운드 동안 자신의 치명타가 증가합니다.&n피격 시, 2라운드 동안 적 전체의 스킬 위력이 감소합니다. 대상이 공격기인 경우, 효과가 두 배로 증폭됩니다."
   },
   "SkillDesc_Skill_BR_Pixie_N_5": {
-    "english": "At the start of the round, increases own Effect Resistance and gains Mark.&nIf <Iron-Blooded Leona>'s ATK Command is active, gains a skill power increase based on DEF at the start of the round.&nIf <Iron-Blooded Leona>'s DEF Command is active, activates Column Protection at the start of the round.",
+    "english": "At the start of the round, increases own Effect Resistance and gains Mark.&nIf <Leona of Blood and Iron>'s ATK Command is active, gains a skill power increase based on DEF at the start of the round.&nIf <Iron-Blooded Leona of Blood and Iron>'s DEF Command is active, activates Column Protection at the start of the round.",
     "korean": "라운드 개시 시, 자신의 효과 저항이 증가하고 표식을 획득합니다.&n<철혈의 레오나>의 공격 지휘가 활성화된 경우, 라운드 개시 시 자신은 방어력 비례 스킬 위력 증가 효과를 획득합니다.&n<철혈의 레오나>의 방어 지휘가 활성화된 경우, 라운드 개시 시 자신은 열 보호가 활성화됩니다."
   },
   "SkillDesc_Skill_BR_PoniesAnger_CH_2": {
@@ -204,11 +204,11 @@
     "korean": "전투 개시 시, 자신은 전투 속행 효과를 획득합니다.&n라운드 개시 시, 자신의 치명타가 증가하고 반격 효과를 획득합니다.&n피격 시, 2라운드 동안 자신의 공격력이 증가합니다. (최대 5중첩)"
   },
   "SkillDesc_Skill_BR_SandMan_N_5": {
-    "english": "At the start of the round, your buff dispel resistance increases.&nIf <Ironblood Leona>’s <Attack Command> is active, the damage boost from your active skills is doubled and activation conditions are ignored.&nIf <Ironblood Leona>’s <Defense Command> is active, you gain the combat continuation effect at the start of the round.",
+    "english": "At the start of the round, your buff dispel resistance increases.&nIf <Leona of Blood and Iron>’s <Attack Command> is active, the damage boost from your active skills is doubled and activation conditions are ignored.&nIf <Ironblood Leona of Blood and Iron>’s <Defense Command> is active, you gain the combat continuation effect at the start of the round.",
     "korean": "라운드 개시 시, 자신의 강화 해제 저항이 증가합니다.&n<철혈의 레오나>의 <공격 지휘>가 활성화된 경우, 액티브 스킬의 피해량 증가 효과가 두 배로 증폭되고 발동 조건을 무시합니다.&n<철혈의 레오나>의 <방어 지휘>가 활성화된 경우, 라운드 개시 시 전투 속행 효과를 획득합니다."
   },
   "SkillDesc_Skill_BR_Scarabya_N_1": {
-    "english": "Throws miscellaneous junk wildly at enemies within range, dealing {0} damage and inflicting Defense Reduction / Increased Damage taken for 2 rounds on hit targets.&nIf self is under <Caffeine Boost>, consumes 1 stack to additionally inflict Mark / Immobilize for 2 rounds on hit targets.&nIf <A-15 Salamander> / <T-40 Hyena> are present in the squad, performs a Coordinated Attack with the skills <Tactical Maneuver: Straight Flush> / <Killer Grenade> on the designated target.&nApplies an ACU bonus of 20% per skill level.",
+    "english": "Throws miscellaneous junk wildly at enemies within range, dealing {0} damage and inflicting Defense Reduction / Increased Damage taken for 2 rounds on hit targets.&nIf self is under <Caffeine Boost>, consumes 1 stack to additionally inflict Mark / Immobilize for 2 rounds on hit targets.&nIf <A-15 A-15 Salamander> / <T-40 Hyena> are present in the squad, performs a Coordinated Attack with the skills <Tactical Maneuver: Straight Flush> / <Killer Grenade> on the designated target.&nApplies an ACU bonus of 20% per skill level.",
     "korean": "범위 내 적에게 잡동사니를 마구잡이로 투척하여 {0} 피해를 주고, 적중 대상은 2라운드 동안 방어력 감소 / 받는 피해 증가 효과가 적용됩니다.&n자신이 <카페인 충전> 상태일 때, 해당 효과를 1회 차감하여 추가로 적중 대상에게 2라운드 동안 표식 / 이동 불가 효과를 적용합니다.&n스쿼드 내 <A-15 샐러맨더> / <T-40 하이에나> 가 있을 시, 지정 타겟 대상으로 <전술 기동 : 스트레이트 플러시> / <죽여주는 수류탄> 스킬 협동 공격을 합니다. &n스킬 레벨당 20%의 적중 보정이 적용됩니다."
   },
   "SkillDesc_Skill_BR_Scarabya_N_2": {
@@ -332,7 +332,7 @@
     "korean": "<루머 콜렉터>의 행동력 증가 효과가 라운드 개시 시 추가 발동하며, 인접한 아군이 2명 이상이면 재공격 효과가 추가됩니다. 라운드 개시 시, 공격력이 증가하며 해당 효과가 적용 중일 시, 각 액티브 스킬이 강화됩니다. <액티브 스킬 강화> : 치명타 시, 받는 피해 감소 효과 해제"
   },
   "SkillDesc_Skill_BR_Sterling_N_1": {
-    "english": "Deals {0} damage to enemies within a designated range and has a 33% chance to inflict the following harmful effects on hit: Attack Reduction, Evasion Reduction, Damage Taken Increase, and Effect Resistance Reduction, which last for 2 rounds. Each effect may or may not be applied, and there is no stacking limit. If Fafnir, May of Destruction, B-11 Night Angel, P-18 Sylphid, A-87 Banshee, B-7 Strato Angel, and AL Wraith are in the squad, a cooperative attack is triggered with 100% probability using the skills [Thunderbolt], [Carpet Bombing], [ATS Missile], [Type 60 LMG], [Machine Gun Slash], [Missile Barrage], and [Aerial Sniper]. If there are multiple combatants capable of cooperative attacks, priority is given in the order indicated above (Fafnir -> AL Wraith). If multiple enemies are targeted, the enemy within range is selected first; if a cooperative attack is impossible due to range, the next combatant in the sequence executes the cooperative attack.",
+    "english": "Deals {0} damage to enemies within a designated range and has a 33% chance to inflict the following harmful effects on hit: Attack Reduction, Evasion Reduction, Damage Taken Increase, and Effect Resistance Reduction, which last for 2 rounds. Each effect may or may not be applied, and there is no stacking limit. If Fafnir, May of Destruction, B-11 Night Angel, P-18 P-18 Sylphid, A-87 Banshee, B-7 Strato Angel, and AL Wraith are in the squad, a cooperative attack is triggered with 100% probability using the skills [Thunderbolt], [Carpet Bombing], [ATS Missile], [Type 60 LMG], [Machine Gun Slash], [Missile Barrage], and [Aerial Sniper]. If there are multiple combatants capable of cooperative attacks, priority is given in the order indicated above (Fafnir -> AL Wraith). If multiple enemies are targeted, the enemy within range is selected first; if a cooperative attack is impossible due to range, the next combatant in the sequence executes the cooperative attack.",
     "korean": "지정 범위의 적들에게 {0} 피해를 입히고 적중시 2라운드 동안 지속되는 공격력 감소/ 회피 감소/ 받는 피해 증가/ 효과 저항 감소 해로운 효과를 각각 33%확률로 부여합니다.&n각 효과는 모두 적용되거나 그렇지 않을 수 있으며 중첩 제한이 없습니다.&n스쿼드에 파프니르, 멸망의 메이, B-11 나이트 앤젤, P-18 실피드, A-87 밴시, B-7 스트라토 엔젤, AL 레이스가 있을 시, 100%로 [뇌정벽력], [융단 폭격], [ATS미사일], [60형 LMG], [기관포 소사], [미사일 난사], [공중 저격] 스킬로 협동 공격을 유도됩니다. &n협동 공격이 가능한 전투원이 여렷인 경우, 위 표기된 순으로 우선권을 가집니다. (파프니르->AL 레이스 순)&n다수의 적이 대상인 경우, 사거리가 닿는 적을 우선 선택하고 사거리로 인해 협동 공격이 불가능할 경우 다음 순서의 전투원이 협동 공격을 실행합니다."
   },
   "SkillDesc_Skill_BR_Sterling_N_2": {
@@ -340,7 +340,7 @@
     "korean": "지정 범위 아군에게 2라운드 동안 공격력/ 스킬 위력 증가 버프를 줍니다. (중첩 무제한)&n대상이 둠 브링어 구성원이라면 2배 수치로 적용됩니다. 파프니르라면 3배 수치로 적용되고 AP가 증가합니다."
   },
   "SkillDesc_Skill_BR_Sterling_N_3": {
-    "english": "At the start of a round, grants allies within range a buff that increases Hit, Critical, and SPD for 1 round. If the target is a Doom Bringer member, the buff is applied at double the value. If the target is a Fafnir, it is applied at triple the value, and they gain a shield and ignore incoming damage reduction buff for 1 round.",
+    "english": "At the start of a round, grants allies within range a buff that increases ACC, CRIT, and SPD for 1 round. If the target is a Doom Bringer member, the buff is applied at double the value. If the target is a Fafnir, it is applied at triple the value, and they gain a shield and ignore incoming damage reduction buff for 1 round.",
     "korean": "라운드 개시시 1라운드 동안 범위내 아군에게 적중/ 치명타/ 행동력 증가 버프를 줍니다.&n대상이 둠 브링어 구성원이라면 2배 수치로 적용됩니다. 파프니르라면 3배 수치로 적용되고 1라운드 동안 방어막 및 받는 피해 감소 무시 버프를 얻습니다."
   },
   "SkillDesc_Skill_BR_Sterling_N_4": {
@@ -448,7 +448,7 @@
     "korean": "라운드 개시 시, 자신의 회피가 증가하고 회피 감소 효과에 면역을 획득합니다.&n공격 받을 시, 자신이 받는 피해가 감소하며 반격합니다.&n대기 시, 표식 상태인 적을 해당 라운드 동안 도발하고 적중을 감소시킵니다.&n상기 효과를 통해 유발된 반격은 위력이 두 배로 증폭됩니다."
   },
   "SkillDesc_Skill_BR_Valkyrie_N_5": {
-    "english": "At the start of the round, supports attacks of allied Light Support units / <Sisters of Valhalla> members.&nAt the start of the round, increases own ATK and DEF Penetration.&nIf <Leona the Ironblood> is in the squad, landing a hit with <Suppressive Fire> triggers a Coordinated Attack with <Precision Shot>.",
+    "english": "At the start of the round, supports attacks of allied Light Support units / <Sisters of Valhalla> members.&nAt the start of the round, increases own ATK and DEF Penetration.&nIf <Leona of Blood and Iron> is in the squad, landing a hit with <Suppressive Fire> triggers a Coordinated Attack with <Precision Shot>.",
     "korean": "라운드 개시 시, 아군 경장 지원기 / <시스터즈 오브 발할라> 소속 전투원의 공격을 지원합니다.&n라운드 개시 시, 자신의 공격력 / 방어 관통이 증가합니다.&n스쿼드 내에 <철혈의 레오나>가 있을 경우 <교란 사격> 적중 시, <정밀 저격> 협동 공격을 실행합니다."
   },
   "SkillDesc_Skill_BR_Vargr_N_1": {
@@ -1828,7 +1828,7 @@
     "korean": "적중 / 행동력 증가. 현재 배치된 열에 따라 효과 추가"
   },
   "SkillDesc_Skill_MP_Fallen13_N_4": {
-    "english": "If Rampart_Enhanced is present, damage nullification twice",
+    "english": "If CT66 Rampart_Enhanced is present, damage nullification twice",
     "korean": "램파트_강화형이 있으면 피해 무효화 2회"
   },
   "SkillDesc_Skill_MP_FallenC_TR_Basic_3": {
@@ -2600,7 +2600,7 @@
     "korean": "전투 개시 시, 유독성 강화약을 주입해 신체를 강화하여 이하의 해제 불가 효과를 획득합니다.&n자신이 받는 피해가 감소하고, 방어력이 증가하며, 광역 피해 분산이 적용됩니다.&n또한 효과 저항이 증가하고 반격 효과를 획득합니다."
   },
   "SkillDesc_Skill_MP_MarionnetteHA_BOSS_TU_4": {
-    "english": "At the start of a round, reduces damage taken by allies within range. As long as allies other than yourself survive, you gain unlimited Combat Continuation. As long as you are under Designated Protection, the target <Audrey Subject> gains a certain number of Combat Continuations. This effect cannot be removed by Removal.",
+    "english": "At the start of a round, reduces damage taken by allies within range. As long as allies other than yourself survive, you gain unlimited Combat Continuation. As long as you are under Designated Protection, the target <Audrey Dreamweaver Subject> gains a certain number of Combat Continuations. This effect cannot be removed by Removal.",
     "korean": "라운드 개시 시, 범위 내 아군이 받는 피해를 감소시킵니다.&n자신 외의 아군이 생존한 이상, 자신은 무제한의 전투 속행을 획득합니다.&n자신이 지정 보호 중인 이상, 대상 <오드리 실험체>는 일정 횟수의 전투 속행을 획득합니다.&n해당 효과는 강화 해제로 해제할 수 없습니다."
   },
   "SkillDesc_Skill_MP_MarionnetteHA_BOSS_TU_5": {

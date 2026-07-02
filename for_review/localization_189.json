@@ -4,7 +4,7 @@
     "korean": "라운드 개시 시, 자신은 보호 무시가 활성화됩니다.&n라운드 개시 시, 범위 내 아군의 AP가 증가합니다.&n자신의 액티브 스킬의 피해량 증가 효과가 두 배로 증폭됩니다."
   },
   "SkillDesc_Skill_PECS_CoCoWhiteShell_N_1": {
-    "english": "Shatters armor with the Meteor-Break Drill, dealing {0} damage and reducing the target’s DEF for 3 rounds. The effect gradually diminishes each round.&nIf the target is a Heavy-type or Defender, removes their Damage Reduction effect.&nOn hit, if <Stinger> is in the squad, triggers a coordinated attack with [Shatter Charge].",
+    "english": "Shatters armor with the Meteor-Break Drill, dealing {0} damage and reducing the target’s DEF for 3 rounds. The effect gradually diminishes each round.&nIf the target is a Heavy-type or Defender, removes their Damage Reduction effect.&nOn hit, if <CM67 Stinger> is in the squad, triggers a coordinated attack with [Shatter Charge].",
     "korean": "운석 파쇄 드릴로 장갑을 부숴, {0} 피해를 주고 3라운드 동안 대상의 방어력을 감소시킵니다. 해당 효과는 라운드 경과에 따라 점감합니다.&n적중 대상이 중장형 또는 보호기인 경우, 받는 피해 감소 효과를 해제합니다.&n적중 시 스쿼드 내에 <스팅어>가 있을 경우, [파쇄 돌격] 협동 공격을 유도합니다."
   },
   "SkillDesc_Skill_PECS_CoCoWhiteShell_N_2": {
@@ -156,7 +156,7 @@
     "korean": "거대한 황금빛 무기를 휘둘러 단일 대상에게 {0} 피해를 입힙니다.&n적중 시, 2라운드 동안 대상의 방어력을 감소시킵니다.&n자신의 HP가 낮을 수록 피해량이 증가합니다."
   },
   "SkillDesc_Skill_PECS_Hathor_N_2": {
-    "english": "Announces the arrival of divine punishment and deals {0} protection-ignoring damage within the designated area.&nOn critical hit, removes all AoE damage dispersion effects from the target and increases damage taken by the target for 2 rounds.&nIf <Sekhmet of Death> is in the squad upon hit, reduces the target's range for that round and triggers the [Cycle of Life’s Bond] cooperative attack.",
+    "english": "Announces the arrival of divine punishment and deals {0} protection-ignoring damage within the designated area.&nOn critical hit, removes all AoE damage dispersion effects from the target and increases damage taken by the target for 2 rounds.&nIf <Sekhmet of Death of Death> is in the squad upon hit, reduces the target's range for that round and triggers the [Cycle of Life’s Bond] cooperative attack.",
     "korean": "신성한 징벌이 도래했음을 알리며 지정 범위에 {0} 보호 무시 피해를 입힙니다.&n치명타 시, 대상의 모든 광역 피해 분산 효과를 해제하고 2라운드 동안 대상이 받는 피해를 증가시킵니다.&n적중 시 스쿼드 내에 <사멸의 세크메트>가 있을 경우, 해당 라운드 동안 대상의 사거리를 감소시키고 [순환하는 생명의 굴레] 협동 공격을 유도합니다."
   },
   "SkillDesc_Skill_PECS_Hathor_N_3": {
@@ -220,7 +220,7 @@
     "korean": "지정 범위에 {0} 피해를 줍니다.&n스킬 적중 시 2라운드 동안 자신 포함 아군에게 효과 저항이 증가합니다.&n스킬 적중 시 2라운드 동안 자신 포함 아군에게 자신의 방어력 비례 보호막을 부여합니다."
   },
   "SkillDesc_Skill_PECS_Ireina_N_3": {
-    "english": "At the start of the round, auxiliary attack power increases in proportion to your defense. At the start of the round, if there are <Orbital Watcher> combatants in the squad excluding yourself, your defense increases based on the number of target combatants. At the start of the round, attack support is provided to <Orbital Watcher> combatants excluding yourself. ※ If attack support targets are duplicated within the squad, attack support is applied only once.",
+    "english": "At the start of the round, auxiliary attack power increases in proportion to your defense. At the start of the round, if there are <Orbital Watcher MQ-20> combatants in the squad excluding yourself, your defense increases based on the number of target combatants. At the start of the round, attack support is provided to <Orbital Watcher MQ-20> combatants excluding yourself. ※ If attack support targets are duplicated within the squad, attack support is applied only once.",
     "korean": "라운드 개시 시 자신의 방어력에 비례하여 보조 공격력이 증가합니다.&n라운드 개시 시 스쿼드에 자신을 제외한 <오비탈 와쳐> 전투원이 있는 경우 대상 전투원 수에 따라 자신의 방어력이 증가합니다.&n라운드 개시 시 자신을 제외한 <오비탈 와쳐> 전투원을 공격 지원합니다.&n※ 스쿼드 내에 공격 지원 대상이 중복된 경우 공격 지원은 1회만 적용됩니다."
   },
   "SkillDesc_Skill_PECS_Ireina_N_4": {
@@ -260,7 +260,7 @@
     "korean": "대상에게 {0} 보호 무시 피해를 줍니다. 치명타 시, 대상에게 강화 효과를 해제합니다."
   },
   "SkillDesc_Skill_PECS_LemonadeEpsilon_N_2": {
-    "english": "Deals {0} damage to the target point, reduces the AP of hit enemies, and if there are other <Orbital Watcher> members in the squad or <Leonade Gamma>, <Lemonade Beta>, <Lemonade Alpha>, increases the damage received proportionally to the number of such units.",
+    "english": "Deals {0} damage to the target point, reduces the AP of hit enemies, and if there are other <Orbital Watcher MQ-20> members in the squad or <Lemonade Gamma>, <Lemonade Beta>, <Lemonade Alpha>, increases the damage received proportionally to the number of such units.",
     "korean": "목표 지점에 {0} 피해를 줍니다., 적중한 적의 AP를 감소시키고 스쿼드 내 자신외의 <오비탈 와쳐>소속 전투원 혹은 <레모네이드 감마>, <레모네이드 베타>, <레모네이드 알파>가 있다면 전투원 수에 비례하여 받는 피해 증가를 줍니다."
   },
   "SkillDesc_Skill_PECS_LemonadeEpsilon_N_3": {
@@ -428,7 +428,7 @@
     "korean": "라운드 개시 시, 독성이 유출되어 범위 내 아군의 효과 저항이 감소합니다.&n라운드 개시 시, 독성을 흘려보내 모든 적의 효과 저항이 감소합니다.&n자신이 보유한 <유독 물질> 중첩 수에 따라 상기 효과가 증가합니다."
   },
   "SkillDesc_Skill_PECS_Nidhogg_N_4": {
-    "english": "At the start of the round, reduces the range of enemy attack skills.&nUpon enemy death, gains 1 stack of <Toxic Substance>.&nHarmful effects inflicted by the user are doubled in strength if the target is a Air-type unit.&nThe 'Cannot be buffed' effect of <Burst of Resentful Malice> is applied regardless of hit or miss if the target is Air-type.",
+    "english": "At the start of the round, reduces the range of enemy attack skills.&nUpon enemy death, gains 1 stack of <Toxic Substance>.&nHarmful effects inflicted by the user are doubled in strength if the target is a Air-type unit.&nThe 'Cannot be buffed' effect of <Burst of Resentful MSerapias Alice> is applied regardless of hit or miss if the target is Air-type.",
     "korean": "라운드 개시 시, 적 공격기의 사거리가 감소합니다.&n적 사망 시, <유독 물질>을 1중첩 획득합니다.&n자신이 적에게 부여하는 해로운 효과는, 대상이 기동형일 경우 효과가 두 배로 증폭됩니다.&n<사무친 악의의 분출>의 강화 불가 효과는, 대상이 기동형일 경우 적중 여부에 관계 없이 적용됩니다."
   },
   "SkillDesc_Skill_PECS_Nidhogg_N_5": {
@@ -576,11 +576,11 @@
     "korean": "라운드 개시 시, 범위 내 아군의 적중을 증가시키고, 보호기 / 지원기에게 행 보호를 부여합니다."
   },
   "SkillDesc_Skill_PECS_Shepherd_N_1": {
-    "english": "Deals {0} lightning damage ignoring protection to a single target.&nWhen a skill hit triggers a critical hit, it removes the target's buffs.&nWhen a skill hits, Sadius of Punishment assists with attacks using the Taser Cannon.",
+    "english": "Deals {0} lightning damage ignoring protection to a single target.&nWhen a skill hit triggers a critical hit, it removes the target's buffs.&nWhen a skill hits, Sadius of Retribution of Punishment assists with attacks using the Taser Cannon.",
     "korean": "단일 대상에게 {0} 보호 무시 전기 피해를 줍니다.&n스킬 적중에 따른 치명타 발생 시 대상의 강화 효과를 해제합니다.&n스킬 적중 시 징벌의 사디어스가 테이져 캐논으로 공격 지원합니다."
   },
   "SkillDesc_Skill_PECS_Shepherd_N_2": {
-    "english": "Deals {0} lightning damage that ignores protection in the designated area.  &nWhen a critical hit occurs from the skill, it removes the target's minimum lightning resistance and reversal effects.  &nWhen the skill hits, Erosion Sonia supports the attack with HEDP.",
+    "english": "Deals {0} lightning damage that ignores protection in the designated area.  &nWhen a critical hit occurs from the skill, it removes the target's minimum lightning resistance and reversal effects.  &nWhen the skill hits, Erosion Sonia of Devastation supports the attack with HEDP.",
     "korean": "지정 범위에 {0} 보호 무시 전기 피해를 줍니다.&n스킬 적중에 따른 치명타 발생 시 대상의 전기 속성 저항 하한 및 반전 효과를 해제합니다.&n스킬 적중 시 유린의 소니아가 HEDP로 공격 지원합니다."
   },
   "SkillDesc_Skill_PECS_Shepherd_N_3": {
@@ -1728,7 +1728,7 @@
     "korean": "팃포탯"
   },
   "SkillName_Skill_BR_Alvis_N_1": {
-    "english": "Alvis, Deploy!",
+    "english": "T-13 Alvis, Deploy!",
     "korean": "알비스 출동!"
   },
   "SkillName_Skill_BR_Alvis_N_2": {
@@ -1768,11 +1768,11 @@
     "korean": "특수 개조형 개머리판"
   },
   "SkillName_Skill_BR_Banshee_N_4": {
-    "english": "Slow, But Deadly",
+    "english": "Honed Edge",
     "korean": "Slow, But Deadly"
   },
   "SkillName_Skill_BR_Banshee_N_5": {
-    "english": "Doom Diver",
+    "english": "Fast and Deadly",
     "korean": "둠 다이버"
   },
   "SkillName_Skill_BR_BeastHunter_N_1": {
@@ -2772,23 +2772,23 @@
     "korean": "특종 발견?"
   },
   "SkillName_Skill_BR_Sterling_N_1": {
-    "english": "Trash inside the warehouse",
+    "english": "Junk in the Cargo Bay",
     "korean": "창고 안에 쓰레기가"
   },
   "SkillName_Skill_BR_Sterling_N_2": {
-    "english": "There is such a treasure inside the warehouse",
+    "english": "Treasure in the Cargo Bay",
     "korean": "창고 안에 이런 보물이"
   },
   "SkillName_Skill_BR_Sterling_N_3": {
-    "english": "I missed this.",
+    "english": "Left This Out",
     "korean": "이걸 빠뜨렸네요"
   },
   "SkillName_Skill_BR_Sterling_N_4": {
-    "english": "A plan? Or improvisation?",
+    "english": "Planned? Or Improvised?",
     "korean": "계획? 아니면 임기응변?"
   },
   "SkillName_Skill_BR_Sterling_N_5": {
-    "english": "Haka never die!",
+    "english": "The HACA never dies!",
     "korean": "하카 never die!"
   },
   "SkillName_Skill_BR_TalonFeather_N_1": {
@@ -3688,7 +3688,7 @@
     "korean": "마법신의 요술봉"
   },
   "SkillName_Skill_DS_MoMo_N_2": {
-    "english": "Momo-chan's Blade",
+    "english": "Momo Chanbara",
     "korean": "모모찬바라"
   },
   "SkillName_Skill_DS_MoMo_N_3": {
